@@ -1,0 +1,42 @@
+<div class="col-lg-4">
+    <!--
+    <h4>Search</h4>
+    <div class="hline"></div>
+    <p>
+        <br/>
+        <input type="text" class="form-control" placeholder="Search something">
+    </p>
+    
+    <div class="spacing"></div>
+    -->
+
+    <h4>Catégories</h4>
+    <div class="hline"></div>
+    {% for category in site.categories %}{% unless category.first == "blog" or category.first == "project" %}
+    <p>
+        <a href="{{ '/category/#'  | prepend: site.baseurl  }}{{ category | first }}">{{ category | first | capitalize }}</a>
+        <span class="badge badge-theme pull-right">{{ category | last | size }}</span>
+    </p>
+    {% endunless %}{% endfor %}
+
+    <div class="spacing"></div>
+
+    <h4>Billets récents</h4>
+    <div class="hline"></div>
+    <ul class="popular-posts">
+        {% for post in site.categories['blog'] limit:4 %} 
+        <li>
+            <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+            <em>{{ post.date | date: "%b %-d, %Y" }}</em>
+        </li>
+        {% endfor %} 
+    </ul>
+    
+    <div class="spacing"></div>
+    
+    <h4>Suivre {{ site.title }}</h4>
+    <div class="hline"></div>
+    <p>
+        <p class="rss-subscribe">Suivre ce blog <a href="{{ "/feed.xml" | prepend: site.baseurl }}">par RSS</a>.</p>
+    </p>
+</div>

@@ -6,27 +6,66 @@ layout: default
 
 <div class="container mt">
     <div class="row">
-
-        {% include carousel.html %}
-
-        <div class="col-lg-5 col-lg-offset-1">
-            <div class="spacing"></div>
-
-            {{ content }}
-
-        </div>
-        <div class="col-lg-4 col-lg-offset-1">
-            <div class="spacing"></div>
-            <h4>Project Details</h4>
+        <div class="col-lg-3">
+            <h4>Détails</h4>
             <div class="hline"></div>
-            <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Author:</b> {{ page.author }}</p>
-            <p><b>Categories:</b> {{ page.categories }}</p>
-            <p><b>Tagged:</b> {{ page.tagged }}</p>
-            <p><b>Client:</b> {{ page.client }}</p>
-            <p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p>
+            <p><b>Date d'ajout:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            <p><b>Nom:</b> {{ page.title }}</p>
+            <p><b>Nom francais:</b> {{ page.nom-francais }}</p>
+            <p><b>Authorités:</b> {{ page.authorites }}</p>
+            <p><b>Ordre:</b> {{ page.ordre }}</p>
+            <p><b>Famille:</b> {{ page.famille }}</p>
+            <p><b>Genre:</b> {{ page.genre }}</p>
+            <p><b>Espece:</b> {{ page.espece }}</p>
+
+            <div class="spacing"></div>
+
+            <img src="{{ page.img }}" />
+
+            <div class="spacing"></div>
+        </div>
+
+        <div class="col-lg-8 col-lg-offset-1">
+            <h4>Description</h4>
+            <div class="hline"></div>
+            <p><b>Chapeau:</b> {{ page.chapeau }}</p>
+            <p><b>Lame:</b> {{ page.lame }}</p>
+            <p><b>Pied:</b> {{ page.pied }}</p>
+            <p><b>Voile partiel:</b> {{ page.voile-partiel }}</p>
+            <p><b>Odeur:</b> {{ page.odeur }}</p>
+            <p><b>Saveur:</b> {{ page.saveur }}</p>
+            <p><b>Sporée:</b> {{ page.sporee }}</p>
+            <p><b>Basides:</b> {{ page.baseides }}</p>
+            <p><b>Spores:</b> {{ page.spores }}</p>
+            <p><b>Cheliocystides:</b> {{ page.cheliocystides }}</p>
+
+            <div class="spacing"></div>
+        </div>
+    </div><!--/row -->
+
+    <div class="row">
+        <div class="col-lg-12">
+            <h4>Photos</h4>
+            <div class="hline"></div>
+            <div class="spacing"></div>
+
+            <style>
+                .flickr_badge_wrapper td {
+                    float:left;
+                    min-height: 260px
+                }
+                .flickr_badge_wrapper td {
+                    padding: 0px 0px 0px 20px !important;
+                }
+            </style>
+
+            <table class="flickr_badge_wrapper">
+                <tr>
+                    <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=1000&display=latest&size=m&source=user_set&set={{ page.flickr-album }}"></script>
+                </tr>
+            </table>
+            
+            <div class="spacing"></div>
         </div>
     </div><!--/row -->
 </div><!--/container -->
-	 
-{% include portfolio.html title="Related Works." limit=5 %}

@@ -9,17 +9,17 @@ url: "http://www.fungiquebec.com"
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title
+permalink: /publications/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031" 
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
-  secondary: "#384452" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
+  primary: "#90805E" #"#00b3fe" #"#F70031" 
+  primary_rgb: "144,128,94" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#531E12" #"#384452" #"#33004D"
+  link: "#90805E"
+  link_hover: "#531E12"
   footer_heading: "#ffffff"
-  footer_content: "#bfc9d3"
+  footer_content: "#ffffff"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -52,6 +52,10 @@ members:
         url: mailto:kaufholtz@videotron.ca
       - title: flickr
         url: https://www.flickr.com/photos/kaufholtz/
+
+champs-description:
+  chapeau: Chapeau
+
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Ce site liste le travail mycologique de Claude Kaufholtz-Couture."

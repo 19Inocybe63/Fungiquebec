@@ -218,8 +218,8 @@ a:focus {
 #headerwrap {
 	background-color: {{ site.colors.primary }};
 	min-height: 0px;
-	padding-top: 100px;
-	padding-bottom: 50px;
+	padding-top: 85px;
+	padding-bottom: 5px;
 	text-align: center;
 }
 
@@ -270,7 +270,7 @@ a:focus {
 
 .portfolio-item .title:before {border-radius:0; display:none}
 .portfolio-item p {margin:0px 0 30px;}
-.portfolio-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
+.portfolio-item h3 {margin:-10px 0 10px; font-size:16px;}
 
 
 .tpl6 h3
@@ -279,7 +279,6 @@ a:focus {
 	margin:0;
 	padding:40px 5px 0;
 	font-size:16px;
-	text-transform:uppercase;
 }
 .tpl6 .dmbutton
 {
@@ -470,11 +469,14 @@ csmall {
 .popular-posts li {
 	list-style: none;
 }
-.popular-posts li a, 
-.popular-posts li a:hover {
-	color:#2f2f2f; 
+.popular-posts li a {
+	color: {{ site.colors.link }}; 
 	text-decoration: none;
-	}
+}
+.popular-posts li a:hover {
+	color: {{ site.colors.link_hover }}; 
+	text-decoration: none;
+}
 	
 .popular-posts li img {
 	float: left; 
@@ -502,4 +504,14 @@ a.anchor{
     position: relative; 
     top: -80px; 
     visibility: hidden;
+}
+
+/* Styles propres a Fungi Québec */
+
+blockquote {
+	border-left: none;
+}
+
+blockquote footer {
+	color: #CCC;
 }

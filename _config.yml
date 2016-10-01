@@ -15,6 +15,8 @@ email: kaufholtz@videotron.ca
 markdown: kramdown
 permalink: /publications/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+exclude:
+  - modele champignon.md
 
 # Default YAML values (more information on Jekyll's site)
 defaults:

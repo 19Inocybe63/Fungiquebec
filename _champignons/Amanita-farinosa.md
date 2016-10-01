@@ -1,11 +1,8 @@
 ---
-layout: champignon
 nom: Amanita farinosa
 date: 2014-04-25 16:54:46
-categories:
-- project
-img: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
-flickr-album: 72157672806318152
+image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
+album-flickr: 72157672806318152
 
 details:
   nom-francais: Amanite farineuse

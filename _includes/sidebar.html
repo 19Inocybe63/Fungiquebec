@@ -14,7 +14,7 @@
     <div class="hline"></div>
     {% for category in site.categories %}
     <p>
-        <a href="{{ '/category/#' | prepend: site.baseurl }}{{ category | first }}">{{ category | first | capitalize }}</a>
+        <a href="{{ '/categories/#' | prepend: site.baseurl }}{{ category | first }}">{{ category | first | capitalize }}</a>
         <span class="badge badge-theme pull-right">{{ category | last | size }}</span>
     </p>
     {% endfor %}
@@ -27,7 +27,7 @@
         {% for post in site.posts limit:4 %} 
         <li>
             <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-            <em>{{ post.date | date: "%b %-d, %Y" }}</em>
+            <em>{{ post.date | date_to_string }}</em>
         </li>
         {% endfor %} 
     </ul>

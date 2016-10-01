@@ -12,7 +12,7 @@ layout: default
             {% if page.img %}
             <p><img class="img-responsive" src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}"></p>
             {% endif %}
-            <a href="{{ page.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ page.title }}</h3></a>
+            <h3 class="ctitle">{{ page.title }}</h3>
             <p><csmall>{{ page.date | date: "%b %-d, %Y" }} | Par: {{ page.author }}</csmall></p>
               
             {{ content }}

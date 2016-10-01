@@ -12,19 +12,19 @@
 
     <h4>Catégories</h4>
     <div class="hline"></div>
-    {% for category in site.categories %}{% unless category.first == "blog" or category.first == "project" %}
+    {% for category in site.categories %}
     <p>
-        <a href="{{ '/category/#'  | prepend: site.baseurl  }}{{ category | first }}">{{ category | first | capitalize }}</a>
+        <a href="{{ '/category/#' | prepend: site.baseurl }}{{ category | first }}">{{ category | first | capitalize }}</a>
         <span class="badge badge-theme pull-right">{{ category | last | size }}</span>
     </p>
-    {% endunless %}{% endfor %}
+    {% endfor %}
 
     <div class="spacing"></div>
 
-    <h4>Billets récents</h4>
+    <h4>Publications récentes</h4>
     <div class="hline"></div>
     <ul class="popular-posts">
-        {% for post in site.categories['blog'] limit:4 %} 
+        {% for post in site.posts limit:4 %} 
         <li>
             <p><a href="{{ post.url }}">{{ post.title }}</a></p>
             <em>{{ post.date | date: "%b %-d, %Y" }}</em>

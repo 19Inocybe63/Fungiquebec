@@ -6,11 +6,30 @@ description: "Fungi Québec est le travail mycologique de Claude Kaufholtz-Coutu
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://www.fungiquebec.com"
+    
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "Ce site liste le travail mycologique de Claude Kaufholtz-Couture."
+email: kaufholtz@videotron.ca
 
 # Build settings
 markdown: kramdown
 permalink: /publications/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: Claude Kaufholtz-Couture
+  -
+    scope:
+      path: "_champignons"
+    values:
+      layout: "champignon"
 
 colors:  #in hex code if not noted else
   primary: "#90805E" #"#00b3fe" #"#F70031" 
@@ -20,16 +39,6 @@ colors:  #in hex code if not noted else
   link_hover: "#531E12"
   footer_heading: "#ffffff"
   footer_content: "#ffffff"
-
-# Default YAML values (more information on Jekyll's site)
-defaults:
-  -
-    scope:
-      path: "_posts/billets"
-      type: "posts"
-    values:
-      layout: "post"
-      author: Claude Kaufholtz-Couture
   
 ### CONTACT SETTINGS ###
 
@@ -38,9 +47,12 @@ social:
   - title: flickr
     url: https://www.flickr.com/photos/kaufholtz/
 
-
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
+
+collections:
+  champignons:
+    output: true
+
 # Author information. Shown on About page.
 members:
   - name: Claude Kaufholtz-Couture
@@ -526,7 +538,3 @@ champs-description:
     label: Volve
   - name: zone-perihymeniale
     label: Zone périhyméniale
-    
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Ce site liste le travail mycologique de Claude Kaufholtz-Couture."
-email: kaufholtz@videotron.ca

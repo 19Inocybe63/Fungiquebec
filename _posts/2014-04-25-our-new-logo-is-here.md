@@ -1,10 +1,9 @@
 ---
-title: "Time to change your apps"
-date: 2014-04-25 16:54:46
+title:  "Our new logo is here"
+date:   2014-04-25 16:54:46
 categories: 
-- blog 
-- Wordpress
-- Photoshop
+- Web-Design
+- Development
 ---
 
 <b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.

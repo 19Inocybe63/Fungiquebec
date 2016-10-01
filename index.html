@@ -4,14 +4,14 @@ title: Accueil
 permalink: /
 ---
 
-{% include portfolio.html title="Derniers champignons mis à jour" limit=10 %}
+{% include champignons.html title="Derniers champignons mis à jour" limit=10 %}
 
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-12">
             <h3>Dernieres publications</h3>
             <div class="hline"></div>
-            {% for post in site.categories['blog'] limit:5 %} 
+            {% for post in site.posts limit:5 %} 
                 <p>
                     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a>
                 </p>

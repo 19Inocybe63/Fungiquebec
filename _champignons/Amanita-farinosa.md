@@ -1,6 +1,6 @@
 ---
-layout: project
-title: Amanita farinosa
+layout: champignon
+nom: Amanita farinosa
 date: 2014-04-25 16:54:46
 categories:
 - project

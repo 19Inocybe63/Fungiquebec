@@ -9,7 +9,7 @@ layout: default
         <!-- BLOG POSTS LIST -->
         <div class="col-lg-8">
 
-            {% for post in site.categories['blog'] %}
+            {% for post in site.posts %}
                 <!-- Blog Post -->
                 {% if page.img %}
                 <a href="{{ post.url | prepend: site.baseurl }}">

@@ -2,15 +2,16 @@
 layout: default
 ---
 
-{% include wrap.html %}
+{% capture customTitle %}{{ page.nom }}{% if page.details.nom-francais %} ({{ page.details.nom-francais }}){% endif %}{% endcapture %}
+{% include wrap.html wrap_title=customTitle %}
 
 <div class="container mt">
     <div class="row">
         <div class="col-lg-3">
             <h4>Détails</h4>
             <div class="hline"></div>
-            <p><b>Date d'ajout:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Nom:</b> {{ page.title }}</p>
+            <p><b>Derniere mise a jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            <p><b>Nom :</b> {{ page.nom }}</p>
 
             {% for champ in site.champs-details %}
                 {% if page.details[champ.name] %}

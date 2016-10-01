@@ -14,7 +14,7 @@ details:
   espece: Farinosa
 
 description:
-  chapeau: Lorem Ipsum
+  chapeau: convexe
   lames: Lorem Ipsum
   pied: Lorem Ipsum
   voile-partiel: Lorem Ipsum

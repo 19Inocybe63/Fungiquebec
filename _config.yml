@@ -406,6 +406,8 @@ champs-description:
     label: Myxocarpe
   - name: note-taxonomique
     label: Note taxonomique
+  - name: odeur
+    label: Odeur
   - name: oeuf
     label: Oeuf
   - name: paracapillitium
@@ -486,6 +488,8 @@ champs-description:
     label: Rhizomorphes
   - name: sac-sporifere
     label: Sac sporifère
+  - name: saveur
+    label: Saveur
   - name: sclerocystides
     label: Sclérocystides
   - name: sclerote

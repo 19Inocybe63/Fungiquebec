@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous feuillus et conifères ; apparaissant parfois dans des zones herbeuses urbaines à proximité des arbres
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -125,7 +125,7 @@ description:
   feutrage-basal: 
   fongarium: cKc0130
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -178,7 +178,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: seul, dispersés ou grégaire
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -191,7 +191,7 @@ description:
   peridiole: 
   peridiopellis: 
   peridium: 
-  periode-d-observation: 
+  periode-d-observation: début du printemps à fin de l'automne
   peritheces: 
   phialoconidies: 
   pied: cylindrique plus ou moins égale, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité, 30-90 x 3-10 mm Ø

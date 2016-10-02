@@ -54,7 +54,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau:  hémisphérique, dont je suppose qu’il va devenir étalé à maturité, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -154,7 +154,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: subdécurrentes, large, serrées, avec lamellules irrégulières à distribution symétrique, jaunâtre, crème, semble concolore aux lames
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -175,6 +175,7 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
+  odeur: agréable et saveur raphanoïde et rapidement amarescente
   oeuf: 
   paracapillitium: 
   paraphyses: 

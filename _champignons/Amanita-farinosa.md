@@ -6,7 +6,7 @@ album-flickr: 72157672806318152
 
 details:
   nom-francais: Amanite farineuse
-  autorites: Blah Blah Blah et al.
+  autorites: Schweinitz
   classe: Basidiomycetes
   ordre: Agaricales
   famille: Amanitaceae
@@ -14,7 +14,7 @@ details:
   espece: Farinosa
 
 description:
-  chapeau: convexe
+  chapeau: Chapeau 25-65 mm Ø; hémisphérique au début, devenant convexe à presque étalé, sec, gris, couvert à la surface d’une couche poudreuse de restes vélaires brun grisâtre, glabre
   lames: Lorem Ipsum
   pied: Lorem Ipsum
   voile-partiel: Lorem Ipsum

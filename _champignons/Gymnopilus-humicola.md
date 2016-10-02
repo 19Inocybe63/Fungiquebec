@@ -155,7 +155,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, large, serrées, avec lamellules irrégulières à distribution symétrique, jaunâtre, crème, l'arête concolore aux lames
+  lames: adnées à subdécurrentes, large, serrées, avec lamellules irrégulières à distribution symétrique, jaunâtre, crème, à arête concolore aux lames
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

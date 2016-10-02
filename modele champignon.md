@@ -224,6 +224,7 @@ description:
   reactions-chimiques: 
   receptacle: 
   remarques: 
+  repartition: 
   rhizomorphes: 
   sac-sporifere: 
   saveur: 

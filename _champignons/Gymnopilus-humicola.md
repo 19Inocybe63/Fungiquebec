@@ -38,13 +38,13 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées dans le pileipellis et dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides-dermatocystides:  isolées, émergentes et parfois en faisceaux, ou en touffe, subcapitées à capitées 40 x 6 µm en moyenne, cylindriques 28-30 x 3-3,4 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -55,7 +55,7 @@ description:
   chair: ferme, immuable, 
   chancre: 
   chapeau:  hémisphérique, dont je suppose qu’il va devenir étalé à maturité, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
-  cheilocystides: 
+  cheilocystides: nombreuses en palissade, capitées à subcapitées (en forme de tibia) 23,7 [29,4; 32,6] 38,3 x 4,2 [5; 5,4] 6,2 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -128,7 +128,7 @@ description:
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: pigments pariétal et extrahyphique
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -190,11 +190,11 @@ description:
   pied: cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au chapeau, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis avec pigments pariétal et extrahyphique
   pileitrame: 
   pileocystides-dermatocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides-hymenocystides:  rares, de même forme que les cheilocystides, elles sont davantage situées près de l'arête lamellaire
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -213,7 +213,7 @@ description:
   pseudo-peridioles: 
   reactions-chimiques: KOH 10% cuticule du chapeau devient noire
   receptacle: 
-  remarques: 
+  remarques: D’après Maria Teresa Basso (Manuale di Microscopia dei Funghi, vol. 2), les hyménocystides deviennent légèrement verdâtre en Bleu coton; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre
   rhizomorphes: 
   sac-sporifere: 
   saveur: raphanoïde et rapidement amarescente à amère
@@ -222,7 +222,10 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: rouille
-  spores: 
+  spores:  largement elliptique à elliptique à amygdaliformes vue de profil, à ovoïdes vue frontale, finement verruqueuses, à paroi mince entre 0,22-0,28 µm, avec petit appendice apiculaire, à contenu variable mais souvent uniguttulé, cannelle à miel dans le NaCl, ferrugineuses dans le KOH 5 %; rapidement dextrinoïdes, non cyanophiles
+7,1 [8; 8,4] 9,3 x 4,6 [5; 5,1] 5,5 µm
+Q = 1,5 [1,6] 1,7; N = 30; C = 95%
+Me = 8,2 x 5,1 µm; Qe = 1,6
   sporocystes: 
   stipitipellis: 
   stipititrame: 
@@ -235,7 +238,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: subparallèle
   trame-tubulaire: 
   type: 
   typique: 

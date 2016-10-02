@@ -71,10 +71,12 @@ members:
 champs-details:
   - name: nom-francais
     label: Nom francais
-  - name: collection-cueillie
-    label: Collection cueillie
   - name: autorites
     label: Autorités
+  - name: collection-cueillie
+    label: Collection cueillie
+  - name: fongarium
+    label: Fongarium
   - name: domaine
     label: Domaine
   - name: regne

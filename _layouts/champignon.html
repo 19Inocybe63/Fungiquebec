@@ -40,6 +40,7 @@ layout: default
         </div>
     </div><!--/row -->
 
+    {% if page.album-flickr %}
     <div class="row">
         <div class="col-lg-12">
             <h4>Photos</h4>
@@ -48,11 +49,12 @@ layout: default
 
             <table class="flickr_badge_wrapper">
                 <tr>
-                    <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=1000&display=latest&size=m&source=user_set&set={{ page.album-flickr }}"></script>
+                    <script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=1000&display=latest&size=m&source=user_set&set={{ page.album-flickr }}"></script>
                 </tr>
             </table>
             
             <div class="spacing"></div>
         </div>
     </div><!--/row -->
+    {% endif %}
 </div><!--/container -->

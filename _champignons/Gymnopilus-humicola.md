@@ -32,6 +32,7 @@ description:
   asques: 
   asterohyphidies: 
   auteur-de-la-description: Claude Kaufholtz-Couture
+  avertissement: Les données mises à disposition reflètent l'état d'avancement des connaissances ou la disponibilité des inventaires. En aucun cas elles ne sauraient être considérées comme exhaustives.
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 

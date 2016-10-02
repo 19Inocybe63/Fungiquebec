@@ -66,6 +66,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection cueillie: 14 mai 2014
   columelle: 
   comestibilite: 
   commentaires: 
@@ -122,6 +123,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
+  fongarium: cKc0130
   fragments-sporaux: 
   frequence: 
   glebe: 

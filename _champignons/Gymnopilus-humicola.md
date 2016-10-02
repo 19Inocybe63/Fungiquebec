@@ -7,6 +7,7 @@ album-flickr: 72157673456836530
 details:
   nom-francais: Gymnopilus ?
   autorites: Harding ex Singer
+  classe: Basidiomycetes
   ordre: Agarical
   famille: Hymenogastraceae
   genre: Gymnopilus

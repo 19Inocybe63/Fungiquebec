@@ -77,16 +77,6 @@ champs-details:
     label: Collection cueillie
   - name: fongarium
     label: Fongarium
-  - name: domaine
-    label: Domaine
-  - name: regne
-    label: Règne
-  - name: phyllum
-    label: Phyllum
-  - name: classe
-    label: Classe
-  - name: ordre
-    label: Ordre
   - name: famille
     label: Famille
   - name: genre

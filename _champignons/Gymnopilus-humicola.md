@@ -222,7 +222,7 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: rouille
-  spores:
+  spores:largement elliptique à elliptique à amygdaliformes vue de profil, à ovoïdes vue frontale, finement verruqueuses, à paroi mince entre 0,2-0,3 µm, avec petit appendice apiculaire, à contenu variable mais souvent uniguttulé, cannelle à miel dans le NaCl, ferrugineuses dans le KOH 5 %, rapidement dextrinoïdes, non cyanophiles
   sporocystes: 
   stipitipellis: 
   stipititrame: 

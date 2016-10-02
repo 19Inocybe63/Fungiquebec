@@ -240,6 +240,7 @@ description:
   trame-tubulaire: 
   type: 
   typique: 
+  vials: 
   voile: 
   voile-general: 
   voile-partiel: absent

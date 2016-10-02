@@ -5,7 +5,6 @@ image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
 album-flickr: 72157673456836530
 
 details:
-  collection-cueillie: 16 juin 2013
   nom-francais: Gymnopilus humicole
   autorites: Harding ex Singer
   domaine: Biota
@@ -32,6 +31,7 @@ description:
   ascospores: 
   asques: 
   asterohyphidies: 
+  auteur-de-la-description: Claude Kaufholtz-Couture
   avertissement: Les données mises à disposition reflètent l'état d'avancement des connaissances ou la disponibilité des inventaires. En aucun cas elles ne sauraient être considérées comme exhaustives.
   base-du-pied: 
   base-sterile: 
@@ -56,15 +56,16 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ferme, immuable
+  chair: ferme, immuable, 
   chancre: 
-  chapeau: hémisphérique, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
+  chapeau:  hémisphérique, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
   cheilocystides: nombreuses en palissade, capitées à subcapitées (en forme de tibia) 23,7 [29,4; 32,6] 38,3 x 4,2 [5; 5,4] 6,2 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-cueillie: 16 juin 2013
   columelle: 
   comestibilite: non comestible, suspect
   commentaires: 
@@ -218,7 +219,7 @@ description:
   pseudo-peridioles: 
   reactions-chimiques: KOH 10% cuticule du chapeau devient noire
   receptacle: 
-  reference: Bon, Marcel et Roux, Pierre. Le Genre Gymnopilus, P. Karst. en Europe, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII ; Édizioni Candusso, 2002, 52 p.
+  reference: Bon, Marcel et Roux, Pierre. Le Genre Gymnopilus, P. Karst. en Europe, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII ; Édizioni Candusso, 2002, 52 p. Hesler, Lexemuel Ray. North American Species of Gymnopilus, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir N° 3, Hafner Publishing Company New York and London, 1969, 117 p. (voir aussi le duotang N° 36)
   remarques: D’après Maria Teresa Basso (Manuale di Microscopia dei Funghi, vol. 2), les hyménocystides deviennent légèrement verdâtre en Bleu coton; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. Cette collection fut confirmée par Rocky Houghtby, de Mushrooms Observer.
   rhizomorphes: 
   sac-sporifere: 

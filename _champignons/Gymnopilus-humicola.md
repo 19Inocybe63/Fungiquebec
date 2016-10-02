@@ -27,7 +27,7 @@ description:
   ascospores: 
   asques: 
   asterohyphidies: 
-  auteur-de-la-description: 
+  auteur-de-la-description: Claude Kaufholtz-Couture
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
@@ -119,7 +119,7 @@ description:
   feutrage-basal: 
   fongarium: cKc0048
   fragments-sporaux: 
-  frequence: 
+  frequence: rare à occasionelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

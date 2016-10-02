@@ -2,7 +2,7 @@
 # Enlever les # et ce qui suit
 
 nom: # Nom latin
-mise-a-jour: # Format: AAAA-MM-JJ hh:mm:ss
+date: # Format: AAAA-MM-JJ hh:mm:ss
 image: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
 album-flickr: # Exemple: 72157672806318152
 

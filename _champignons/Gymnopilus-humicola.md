@@ -53,7 +53,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, immuable, 
   chancre: 
-  chapeau:  hémisphérique, dont je suppose qu’il va devenir étalé à maturité, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
+  chapeau:  hémisphérique, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
   cheilocystides: nombreuses en palissade, capitées à subcapitées (en forme de tibia) 23,7 [29,4; 32,6] 38,3 x 4,2 [5; 5,4] 6,2 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 

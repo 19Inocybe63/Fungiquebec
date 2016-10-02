@@ -219,6 +219,8 @@ description:
   pseudo-peridioles: 
   reactions-chimiques: KOH 10% cuticule du chapeau devient noire
   receptacle: 
+  reference: Bon, Marcel et Roux, Pierre. Le Genre Gymnopilus, P. Karst. en Europe, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII ; Édizioni Candusso, 2002, 52 p.
+Hesler, Lexemuel Ray. North American Species of Gymnopilus, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir N° 3, Hafner Publishing Company New York and London, 1969, 117 p. (voir aussi le duotang N° 36)
   remarques: D’après Maria Teresa Basso (Manuale di Microscopia dei Funghi, vol. 2), les hyménocystides deviennent légèrement verdâtre en Bleu coton; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. Cette collection fut confirmée par Rocky Houghtby, de Mushrooms Observer.
   rhizomorphes: 
   sac-sporifere: 

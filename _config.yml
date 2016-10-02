@@ -72,6 +72,12 @@ champs-details:
     label: Nom francais
   - name: autorites
     label: Autorités
+  - name: domaine
+    label: Domaine
+  - name: regne
+    label: Règne
+  - name: phyllum
+    label: Phyllum
   - name: classe
     label: Classe
   - name: ordre
@@ -114,6 +120,8 @@ champs-description:
     label: Astérohyphidies
   - name: auteur-de-la-description
     label: Auteur de la description
+  - name: avertissement
+    label: Avertissement
   - name: base-du-pied
     label: Base du pied
   - name: base-sterile
@@ -178,6 +186,8 @@ champs-description:
     label: Circumcystides
   - name: clavules
     label: Clavules
+  - name: collection-cueillie
+    label: Collection cueillie
   - name: columelle
     label: Columelle
   - name: comestibilite
@@ -290,6 +300,8 @@ champs-description:
     label: Face poroïde
   - name: feutrage-basal
     label: Feutrage basal
+  - name: fongarium
+    label: Fongarium
   - name: fragments-sporaux
     label: Fragments sporaux
   - name: frequence
@@ -482,6 +494,8 @@ champs-description:
     label: Réactions chimiques
   - name: receptacle
     label: Réceptacle
+  - name: reference
+    label: Référence
   - name: remarques
     label: Remarques
   - name: rhizomorphes
@@ -536,6 +550,8 @@ champs-description:
     label: Type
   - name: typique
     label: Typique
+  - name: vial
+    label: Vial
   - name: voile
     label: Voile
   - name: voile-general

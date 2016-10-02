@@ -5,7 +5,7 @@ image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
 album-flickr: 72157673456836530
 
 details:
-  nom-francais: Gymnopilus ?
+  nom-francais: Gymnopilus humicole
   autorites: Harding ex Singer
   domaine: Biota
   regne: Fungi

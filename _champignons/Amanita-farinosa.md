@@ -37,7 +37,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes, tétrastérigmates, non bouclées à la base, 30-33 x 8-10 µm en moyenne
   basidiospores: 
   basidioles: 
   basidiome: 
@@ -49,7 +49,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides-dermatocystides: absentes, plutôt des hyphes terminaux
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +60,7 @@ description:
   chair: blanche, immuable
   chancre: 
   chapeau: hémisphérique au début, devenant convexe à presque étalé, sec, gris, couvert à la surface d’une couche poudreuse de restes vélaires brun grisâtre, glabre, 25-65 mm Ø
-  cheilocystides: 
+  cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -195,11 +195,11 @@ description:
   pied: cylindrique plus ou moins égale, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité, 30-90 x 3-10 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis et parfois en ixocutis, formé d’hyphes de 2-8 μm Ø
   pileitrame: 
   pileocystides-dermatocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides-hymenocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -227,7 +227,8 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
+  spores: subglobuleuses à elliptiques vue de profil, largement elliptiques vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines avec reflet verdâtre en NaCl isotonique 0,9 %, inactives en melzer, cyanophiles
+7,6 [8,2; 8,5] 9,1 x 5,9 [6,3; 6,5] 6,9 µm, Q = 1,2 [1,3] 1,4; N = 30; C = 95%, Me = 8,3 x 6,4 µm; Qe = 1,3
   sporocystes: 
   stipitipellis: 
   stipititrame: 
@@ -240,13 +241,13 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: bilatérale avec subhyménium à cellules renflées
   trame-tubulaire: 
   type: 
   typique: 
   voile: 
   voile-general: friable, gris-brun, laissant une couche poudreuse sur le chapeau
-  voile-partiel: absent
+  voile-partiel: constitué d’hyphes filamenteux et des cellules sphérocytes
   volve: 
   zone-perihymeniale: 
 ---

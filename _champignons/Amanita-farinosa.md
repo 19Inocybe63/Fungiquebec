@@ -122,7 +122,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium: cKc0130
   fragments-sporaux: 
   frequence: occasionnelle
   glebe: 

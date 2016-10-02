@@ -13,7 +13,7 @@ details:
   nom-francais: Amanite farineuse
   autorites: Schweinitz
   collection-cueillie: 14 mai 2014
-  fongarium: cKc0092 & cKc0130 & cKc0424
+  fongarium: cKc0092, cKc0130, cKc0424
   famille: Amanitaceae
   genre: Amanita
   espece: farinosa

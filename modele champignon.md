@@ -36,6 +36,7 @@ description:
   asques: 
   asterohyphidies: 
   auteur-de-la-description: 
+  avertissement: 
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 

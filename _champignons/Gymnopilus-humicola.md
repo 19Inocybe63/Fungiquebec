@@ -1,15 +1,14 @@
 ---
 nom: Gymnopilus humicola
-date: 2016-10-01 00:00:00
+date: 2016-10-02 00:00:00
 image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
 album-flickr: 72157673456836530
 
 details:
   nom-francais: Gymnopilus humide
   autorites: Harding ex Singer
-  classe: 
-  ordre: 
-  famille: Strophariaceae
+  ordre: Agarical
+  famille: Hymenogastraceae
   genre: Gymnopilus
   espece: humicola
 

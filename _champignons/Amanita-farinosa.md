@@ -10,11 +10,10 @@ planches:
     originale: 
 
 details:
-  collection-cueillie: 14 mai 2014
   nom-francais: Amanite farineuse
   autorites: Schweinitz
-  classe: Agaricomycetidae
-  ordre: Agaricales
+  collection-cueillie: 14 mai 2014
+  fongarium: cKc0092 & cKc0130 & cKc0424
   famille: Amanitaceae
   genre: Amanita
   espece: farinosa

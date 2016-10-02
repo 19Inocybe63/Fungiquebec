@@ -185,7 +185,7 @@ description:
   peridiole: 
   peridiopellis: 
   peridium: 
-  periode-d-observation: 
+  periode-d-observation: juin
   peritheces: 
   phialoconidies: 
   pied: cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au chapeau, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc

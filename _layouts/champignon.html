@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% capture customTitle %}{{ page.nom }}{% if page.details.nom-francais %} ({{ page.details.nom-francais }}){% endif %}{% endcapture %}
+{% capture customTitle %}{{ page.nom }}{% if page.details.nom-francais %} / {{ page.details.nom-francais }}{% endif %}{% endcapture %}
 {% include wrap.html wrap_title=customTitle %}
 
 <div class="container mt">

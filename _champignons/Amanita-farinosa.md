@@ -10,13 +10,13 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
-  autorites: 
-  classe: 
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
+  nom-francais: Amanite farineuse
+  autorites: Schweinitz
+  classe: Agaricomycetidae
+  ordre: Agaricales
+  famille: Amanitaceae
+  genre: Amanita
+  espece: farinosa
 
 description:
   acanthocytes: 
@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche, immuable
   chancre: 
-  chapeau: 
+  chapeau: hémisphérique au début, devenant convexe à presque étalé, sec, gris, couvert à la surface d’une couche poudreuse de restes vélaires brun grisâtre, glabre, 25-65 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -159,7 +159,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres à adnexées, avec lamellules tronquées, serrées, blanchâtres à grisâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -180,6 +180,7 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
+  odeur: indistincte
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -191,7 +192,7 @@ description:
   periode-d-observation: 
   peritheces: 
   phialoconidies: 
-  pied: 
+  pied: cylindrique plus ou moins égale, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité, 30-90 x 3-10 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -220,11 +221,12 @@ description:
   remarques: 
   rhizomorphes: 
   sac-sporifere: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   sporocystes: 
   stipitipellis: 
@@ -243,8 +245,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: friable, gris-brun, laissant une couche poudreuse sur le chapeau
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

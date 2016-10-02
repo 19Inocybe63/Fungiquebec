@@ -1,8 +1,8 @@
 ---
 nom: Amanita farinosa
 date: 2016.10.02
-image: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
-album-flickr: # Exemple: 72157672806318152
+image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
+album-flickr: 72157672806318152
 planches:
   - miniature: 
     originale: 

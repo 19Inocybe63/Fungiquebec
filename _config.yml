@@ -199,8 +199,6 @@ champs-description:
     label: Base stérile
   - name: base-stipitiforme
     label: Base stipitiforme
-  - name: basidiospores
-    label: Basidiospores
   - name: basidioles
     label: Basidioles
   - name: basidiome

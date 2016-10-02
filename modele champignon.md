@@ -68,6 +68,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection cueillie: 
   columelle: 
   comestibilite: 
   commentaires: 
@@ -124,6 +125,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
+  fongarium:
   fragments-sporaux: 
   frequence: 
   glebe: 
@@ -182,6 +184,7 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
+  odeur: 
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -222,6 +225,7 @@ description:
   remarques: 
   rhizomorphes: 
   sac-sporifere: 
+  saveur: 
   sclerocystides: 
   sclerote: 
   soies: 

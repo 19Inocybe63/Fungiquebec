@@ -161,8 +161,8 @@ champs-description:
     label: Réactions chimiques
   - name: remarques
     label: Remarques
-  - name: reference
-    label: Référence
+  - name: references
+    label: Références
   - name: acanthocytes 
     label: Acanthocytes
   - name: acanthophyses

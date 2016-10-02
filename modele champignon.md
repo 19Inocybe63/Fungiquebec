@@ -68,7 +68,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection cueillie: 
+  collection-cueillie: 
   columelle: 
   comestibilite: 
   commentaires: 

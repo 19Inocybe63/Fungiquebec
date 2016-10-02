@@ -217,7 +217,7 @@ description:
   pseudo-peridioles: 
   reactions-chimiques: 
   receptacle: 
-  références: Yves Lamoureux
+  references: Yves Lamoureux
   remarques: 
   rhizomorphes: 
   sac-sporifere: 

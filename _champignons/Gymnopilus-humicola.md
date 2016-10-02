@@ -32,7 +32,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: clavées à longuement claviformes, tétrastérigmates, bouclées à la base, 21 [25,3; 29,7] 34 x 6,3 [7,3; 8,2] 9,2 µm en moyenne 
   basidiospores: 
   basidioles: 
   basidiome: 
@@ -52,7 +52,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, immuable, 
   chancre: 
   chapeau:  hémisphérique, dont je suppose qu’il va devenir étalé à maturité, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
   cheilocystides: 
@@ -154,7 +154,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: subdécurrentes, large, serrées, avec lamellules irrégulières à distribution symétrique, jaunâtre, crème, semble concolore aux lames
+  lames: subdécurrentes, large, serrées, avec lamellules irrégulières à distribution symétrique, jaunâtre, crème, l'arête concolore aux lames
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -171,11 +171,11 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire, en petit groupe
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  odeur: agréable et saveur raphanoïde et rapidement amarescente
+  odeur: agréable
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -187,7 +187,7 @@ description:
   periode-d-observation: 
   peritheces: 
   phialoconidies: 
-  pied: 
+  pied: cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au chapeau, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -221,7 +221,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: rouille
   spores: 
   sporocystes: 
   stipitipellis: 
@@ -241,7 +241,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

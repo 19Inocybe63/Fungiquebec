@@ -7,6 +7,9 @@ album-flickr: 72157673456836530
 details:
   nom-francais: Gymnopilus ?
   autorites: Harding ex Singer
+  domaine: Biota
+  regne: Fungi
+  phyllum: Basidiomycota
   classe: Basidiomycetes
   ordre: Agarical
   famille: Hymenogastraceae

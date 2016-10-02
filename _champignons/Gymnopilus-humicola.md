@@ -60,7 +60,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection cueillie: 16 juin 2013
+  collection-cueillie: 16 juin 2013
   columelle: 
   comestibilite: 
   commentaires: 

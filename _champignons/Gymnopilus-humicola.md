@@ -36,7 +36,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur souche de feuillu, observé seulement deux fois au Québec
+  biotopes: pousse sur souche de feuillu; observé seulement deux fois au Québec
   boucles: observées dans le pileipellis et dans le stipitipellis
   brachybasidioles: 
   calicule: 

@@ -513,8 +513,8 @@ champs-description:
     label: Soies hyméniales
   - name: sporee
     label: Sporée
-  - name: spores
-    label: Spores
+  - name: basidiospores
+    label: Basidiospores
   - name: spherocytes
     label: Sphérocytes
   - name: sporocystes

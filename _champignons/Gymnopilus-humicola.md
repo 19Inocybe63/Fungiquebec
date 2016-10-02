@@ -211,7 +211,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  reactions-chimiques: KOH 10% : cuticule du chapeau devient noire
+  reactions-chimiques: KOH 10% cuticule du chapeau devient noire
   receptacle: 
   remarques: 
   rhizomorphes: 

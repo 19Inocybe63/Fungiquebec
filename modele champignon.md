@@ -234,6 +234,7 @@ description:
   soies-hymeniales: 
   sporee: 
   spores: 
+  spherocytes: 
   sporocystes: 
   stipitipellis: 
   stipititrame: 

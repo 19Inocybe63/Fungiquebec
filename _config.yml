@@ -502,6 +502,8 @@ champs-description:
     label: Sporée
   - name: spores
     label: Spores
+  - name: spherocytes
+    label: Sphérocytes
   - name: sporocystes
     label: Sporocystes
   - name: stipitipellis

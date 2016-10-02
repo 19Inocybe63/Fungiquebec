@@ -8,7 +8,7 @@ details:
   collection-cueillie: 16 juin 2013
   nom-francais: Gymnopilus humicole
   autorites: Harding ex Singer
-  fongarium: cKc0048 & cKc0312
+  fongarium: cKc0048; cKc0312
   domaine: Biota
   regne: Fungi
   phyllum: Basidiomycota

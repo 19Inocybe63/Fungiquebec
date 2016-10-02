@@ -214,7 +214,7 @@ description:
   pseudo-peridioles: 
   reactions-chimiques: KOH 10% cuticule du chapeau devient noire
   receptacle: 
-  remarques: D’après Maria Teresa Basso (Manuale di Microscopia dei Funghi, vol. 2), les hyménocystides deviennent légèrement verdâtre en Bleu coton; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre
+  remarques: D’après Maria Teresa Basso (Manuale di Microscopia dei Funghi, vol. 2), les hyménocystides deviennent légèrement verdâtre en Bleu coton; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. Cette collection fut confirmée par Rocky Houghtby, de Mushrooms Observer.
   rhizomorphes: 
   sac-sporifere: 
   saveur: raphanoïde et rapidement amarescente à amère

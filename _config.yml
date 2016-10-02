@@ -95,7 +95,75 @@ champs-details:
     label: Espece
 
 champs-description:
-  - name: acanthocytes
+  - name: chapeau
+    label: Chapeau
+  - name: lames
+    label: Lames
+  - name: pied
+    label: Pied
+  - name: voile-general
+    label: Voile général
+  - name: voile-partiel
+    label: Voile partiel
+  - name: cortine
+    label: Cortine
+  - name: chair
+    label: Chair
+  - name: odeur
+    label: Odeur
+  - name: saveur
+    label: Saveur
+  - name: sporee
+    label: Sporée
+  - name: basides
+    label: Basides
+  - name: basidiospores
+    label: Basidiospores
+  - name: cellules-marginales-paracystides
+    label: Cellules marginales (Paracystides)
+  - name: cheilocystides
+    label: Cheilocystides
+  - name: cheilomacrocystides
+    label: Cheilomacrocystides
+  - name: pleurocystides-hymenocystides
+    label: Pleurocystides (Hyménocystides)
+  - name: pleuromacrocystides-hymenocystides
+    label: Pleuromacrocystides (Hyménocystides)
+  - name: caulobasides
+    label: Caulobasides
+  - name: caulocystides-dermatocystides
+    label: Caulocystides (Dermatocystides)
+  - name: caulocystides-medianes
+    label: Caulocystides médianes
+  - name: caulocystides-sommitales
+    label: Caulocystides sommitales
+  - name: trame-lamellaire
+    label: Trame lamellaire
+  - name: pileitrame
+    label: Pileitrame
+  - name: pileipellis
+    label: Pileipellis
+  - name: boucles
+    label: Boucles
+  - name: hyphes
+    label: Hyphes
+  - name: mode-de-croissance
+    label: Mode de croissance
+  - name: biotopes
+    label: Biotopes
+  - name: periode-d-observation
+    label: Période d’observation
+  - name: frequence
+    label: Fréquence
+  - name: comestibilite
+    label: Comestibilité
+  - name: reactions-chimiques
+    label: Réactions chimiques
+  - name: remarques
+    label: Remarques
+  - name: reference
+    label: Référence
+  - name: acanthocytes 
     label: Acanthocytes
   - name: acanthophyses
     label: Acanthophyses
@@ -131,8 +199,6 @@ champs-description:
     label: Base stérile
   - name: base-stipitiforme
     label: Base stipitiforme
-  - name: basides
-    label: Basides
   - name: basidiospores
     label: Basidiospores
   - name: basidioles
@@ -141,10 +207,6 @@ champs-description:
     label: Basidiome
   - name: bibliographies
     label: Bibliographies
-  - name: biotopes
-    label: Biotopes
-  - name: boucles
-    label: Boucles
   - name: brachybasidioles
     label: Brachybasidioles
   - name: calicule
@@ -153,34 +215,16 @@ champs-description:
     label: Capillitium
   - name: capitule
     label: Capitule
-  - name: caulobasides
-    label: Caulobasides
-  - name: caulocystides-dermatocystides
-    label: Caulocystides (Dermatocystides)
-  - name: caulocystides-medianes
-    label: Caulocystides médianes
-  - name: caulocystides-sommitales
-    label: Caulocystides sommitales
   - name: cellules-hymeniales-diverticulees
     label: Cellules hyméniales diverticulées
   - name: cellules-hymeniales-en-brosses
     label: Cellules hyméniales en brosses
-  - name: cellules-marginales-paracystides
-    label: Cellules marginales (Paracystides)
   - name: cellules-peritheciales
     label: Cellules périthéciales
   - name: cellules-stromatiques
     label: Cellules stromatiques
-  - name: chair
-    label: Chair
   - name: chancre
     label: Chancre
-  - name: chapeau
-    label: Chapeau
-  - name: cheilocystides
-    label: Cheilocystides
-  - name: cheilomacrocystides
-    label: Cheilomacrocystides
   - name: chlamydospores
     label: Chlamydospores
   - name: chrysocystides
@@ -191,8 +235,6 @@ champs-description:
     label: Clavules
   - name: columelle
     label: Columelle
-  - name: comestibilite
-    label: Comestibilité
   - name: commentaires
     label: Commentaires
   - name: conidies
@@ -219,8 +261,6 @@ champs-description:
     label: Cortex péridial
   - name: cortex-sclerotial
     label: Cortex sclérotial
-  - name: cortine
-    label: Cortine
   - name: couches-de-tubes
     label: Couche(s) de tubes
   - name: coupe-sterile
@@ -297,16 +337,12 @@ champs-description:
     label: Exopéridium
   - name: face-externe
     label: Face externe
-  - name: face-poroide
-    label: Face poroïde
   - name: feutrage-basal
     label: Feutrage basal
   - name: fongarium
     label: Fongarium
   - name: fragments-sporaux
     label: Fragments sporaux
-  - name: frequence
-    label: Fréquence
   - name: glebe
     label: Glèbe
   - name: gleocystides
@@ -325,8 +361,6 @@ champs-description:
     label: Hyménocystides (Cheilocystides et Pleurocystides)
   - name: hymenophore
     label: Hyménophore
-  - name: hyphes
-    label: Hyphes
   - name: hyphes-de-la-chair
     label: Hyphes de la chair
   - name: hyphes-de-l-anneau
@@ -377,8 +411,6 @@ champs-description:
     label: Hypothèce
   - name: hysterothece
     label: Hystérothèce
-  - name: lames
-    label: Lames
   - name: lamprocystides
     label: Lamprocystides
   - name: lamprocheilocystides
@@ -411,16 +443,12 @@ champs-description:
     label: Medulla clavulaire
   - name: microconidies
     label: Microconidies
-  - name: mode-de-croissance
-    label: Mode de croissance
   - name: mycelium-basal
     label: Mycélium basal
   - name: myxocarpe
     label: Myxocarpe
   - name: note-taxonomique
     label: Note taxonomique
-  - name: odeur
-    label: Odeur
   - name: oeuf
     label: Oeuf
   - name: paracapillitium
@@ -437,28 +465,18 @@ champs-description:
     label: Péridiopellis
   - name: peridium
     label: Péridium
-  - name: periode-d-observation
-    label: Période d’observation
   - name: peritheces
     label: Périthèces
   - name: phialoconidies
     label: Phialoconidies
-  - name: pied
-    label: Pied
   - name: pieds-steriles
     label: Pieds stériles
   - name: pigments
     label: Pigments
-  - name: pileipellis
-    label: Pileipellis
-  - name: pileitrame
-    label: Pileitrame
   - name: pileocystides-dermatocystides
     label: Pileocystides (Dermatocystides)
   - name: plasmode
     label: Plasmode
-  - name: pleurocystides-hymenocystides
-    label: Pleurocystides (Hyménocystides)
   - name: poils
     label: Poils
   - name: poils-basaux
@@ -491,20 +509,12 @@ champs-description:
     label: Pseudocystides
   - name: pseudo-peridioles
     label: Pseudo péridioles
-  - name: reactions-chimiques
-    label: Réactions chimiques
   - name: receptacle
     label: Réceptacle
-  - name: reference
-    label: Référence
-  - name: remarques
-    label: Remarques
   - name: rhizomorphes
     label: Rhizomorphes
   - name: sac-sporifere
     label: Sac sporifère
-  - name: saveur
-    label: Saveur
   - name: sclerocystides
     label: Sclérocystides
   - name: sclerote
@@ -513,10 +523,6 @@ champs-description:
     label: Soies
   - name: soies-hymeniales
     label: Soies hyméniales
-  - name: sporee
-    label: Sporée
-  - name: basidiospores
-    label: Basidiospores
   - name: spherocytes
     label: Sphérocytes
   - name: sporocystes
@@ -543,8 +549,6 @@ champs-description:
     label: Tomentum piléique
   - name: trame-hymenophorale
     label: Trame hyménophorale
-  - name: trame-lamellaire
-    label: Trame lamellaire
   - name: trame-tubulaire
     label: Trame tubulaire
   - name: type
@@ -555,10 +559,6 @@ champs-description:
     label: Vial
   - name: voile
     label: Voile
-  - name: voile-general
-    label: Voile général
-  - name: voile-partiel
-    label: Voile partiel
   - name: volve
     label: Volve
   - name: zone-perihymeniale

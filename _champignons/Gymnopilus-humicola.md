@@ -116,7 +116,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium: ckc0048
+  fongarium: cKc0048
   fragments-sporaux: 
   frequence: 
   glebe: 

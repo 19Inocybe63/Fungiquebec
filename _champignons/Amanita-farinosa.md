@@ -10,6 +10,7 @@ planches:
     originale: 
 
 details:
+  collection-cueillie: 14 mai 2014
   nom-francais: Amanite farineuse
   autorites: Schweinitz
   classe: Agaricomycetidae
@@ -33,7 +34,6 @@ description:
   ascospores: 
   asques: 
   asterohyphidies: 
-  auteur-de-la-description: Claude Kaufholtz-Couture
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
@@ -66,7 +66,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection cueillie: 14 mai 2014
   columelle: 
   comestibilite: non comestible, éviter, dangereux
   commentaires: 

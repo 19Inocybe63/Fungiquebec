@@ -32,6 +32,7 @@ defaults:
       path: "_champignons"
     values:
       layout: "champignon"
+      author: Claude Kaufholtz-Couture
 
 colors:  #in hex code if not noted else
   primary: "#90805E" #"#00b3fe" #"#F70031" 
@@ -70,6 +71,8 @@ members:
 champs-details:
   - name: nom-francais
     label: Nom francais
+  - name: collection-cueillie
+    label: Collection cueillie
   - name: autorites
     label: Autorités
   - name: domaine
@@ -118,8 +121,6 @@ champs-description:
     label: Asques
   - name: asterohyphidies
     label: Astérohyphidies
-  - name: auteur-de-la-description
-    label: Auteur de la description
   - name: avertissement
     label: Avertissement
   - name: base-du-pied
@@ -186,8 +187,6 @@ champs-description:
     label: Circumcystides
   - name: clavules
     label: Clavules
-  - name: collection-cueillie
-    label: Collection cueillie
   - name: columelle
     label: Columelle
   - name: comestibilite

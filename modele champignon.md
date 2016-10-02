@@ -12,8 +12,12 @@ planches:
     originale: 
 
 details:
+  collection-cueillie: 
   nom-francais: 
   autorites: 
+  domaine: 
+  regne: 
+  phyllum: 
   classe: 
   ordre: 
   famille: 
@@ -35,7 +39,6 @@ description:
   ascospores: 
   asques: 
   asterohyphidies: 
-  auteur-de-la-description: 
   avertissement: 
   base-du-pied: 
   base-sterile: 
@@ -69,7 +72,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-cueillie: 
   columelle: 
   comestibilite: 
   commentaires: 

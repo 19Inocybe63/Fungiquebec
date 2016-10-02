@@ -211,11 +211,12 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  reactions-chimiques: 
+  reactions-chimiques: KOH 10% : cuticule du chapeau devient noire
   receptacle: 
   remarques: 
   rhizomorphes: 
   sac-sporifere: 
+  saveur: raphanoïde et rapidement amarescente à amère
   sclerocystides: 
   sclerote: 
   soies: 

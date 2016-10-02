@@ -217,7 +217,7 @@ description:
   pseudo-peridioles: 
   reactions-chimiques: 
   receptacle: 
-  référence: Yves Lamoureux. Champignons du Québec, Tome 2, Les Amanites, Cercle des Mycologues de Montréal, 2006, 109 p. + 52 planches photographiques
+  références: Yves Lamoureux. Champignons du Québec, Tome 2, Les Amanites, Cercle des Mycologues de Montréal, 2006, 109 p. + 52 planches photographiques
   remarques: 
   rhizomorphes: 
   sac-sporifere: 

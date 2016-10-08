@@ -179,7 +179,7 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  odeur: indistincte
+  exhalaison: indistincte
   oeuf: 
   paracapillitium: 
   paraphyses: 

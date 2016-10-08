@@ -240,7 +240,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: Stropharia riparia A.H. Sm., Michigan Bot. 18(3): 107 (1979)
+  synonymie: Stropharia riparia A.H. Sm., Michigan Bot. 18(3), 107 (1979)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

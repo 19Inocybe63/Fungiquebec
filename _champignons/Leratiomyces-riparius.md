@@ -12,7 +12,7 @@ planches:
 details:
   nom-francais: 
   autorites: (A.H. Sm.) Redhead
-  collection-cueillie: 
+  collection-cueillie: 18 août 2012; 24 juin 2013; 28 mai 2015; 3 juin 2016
   fongarium: cKc0037; cKc0049; cKc0305; cKc0493
   famille: Strophariaceae
   genre: Leratiomyces

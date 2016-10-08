@@ -12,14 +12,10 @@ planches:
     originale: 
 
 details:
-  collection-cueillie: 
   nom-francais: 
   autorites: 
-  domaine: 
-  regne: 
-  phyllum: 
-  classe: 
-  ordre: 
+  collection-cueillie:
+  fongarium: 
   famille: 
   genre: 
   espece: 

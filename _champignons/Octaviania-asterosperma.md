@@ -10,10 +10,10 @@ planches:
     originale: 
 
 details:
-  collection-cueillie: 
+  collection-cueillie: 23 août 2015
   nom-francais: 
   autorites: Vittad.
-  famille: 
+  famille: Boletaceae
   genre: Octaviania
   espece: asterosperma
 
@@ -41,7 +41,7 @@ description:
   basidioles: 
   basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans le sol, sous pruche
   boucles: 
   brachybasidioles: 
   calicule: 

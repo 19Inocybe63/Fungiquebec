@@ -8,12 +8,22 @@ layout: default
 <div class="container mt">
     <div class="row">
         <div class="col-lg-3">
+            <p><b>Nom :</b> {{ page.nom }}</p>
+            {% if page.details.nom-francais %}
+            <p><b>Nom Français:</b> {{ page.details.nom-francais }}</p>
+            {% endif %}
+            {% if page.details.autorites %}
+            <p><b>Autorités:</b> {{ page.details.autorites }}</p>
+            {% endif %}
+
+            <div class="spacing"></div>
+
+            <img src="{{ page.image }}" />
+
+            <div class="spacing"></div>
+
             <h4>Détails</h4>
             <div class="hline"></div>
-
-            <p><b>Auteur :</b> {{ page.author }}</p>
-            <p><b>Derniere mise a jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Nom :</b> {{ page.nom }}</p>
 
             {% for champ in site.champs-details %}
                 {% if page.details[champ.name] %}
@@ -21,9 +31,8 @@ layout: default
                 {% endif %}
             {% endfor %}
 
-            <div class="spacing"></div>
-
-            <img src="{{ page.image }}" />
+            <p><b>Auteur :</b> {{ page.author }}</p>
+            <p><b>Derniere mise à jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
 
             <div class="spacing"></div>
         </div>

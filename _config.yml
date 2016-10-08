@@ -69,10 +69,6 @@ members:
         url: https://www.flickr.com/photos/kaufholtz/
 
 champs-details:
-  - name: nom-francais
-    label: Nom francais
-  - name: autorites
-    label: Autorités
   - name: collection-cueillie
     label: Collection cueillie
   - name: fongarium

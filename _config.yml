@@ -85,6 +85,10 @@ champs-details:
     label: Espece
 
 champs-description:
+  - name: ascome
+    label: Ascome
+  - name: glebe
+    label: Glèbe
   - name: chapeau
     label: Chapeau
   - name: lames
@@ -173,8 +177,6 @@ champs-description:
     label: Arête lamellaire
   - name: arthroconidies
     label: Arthroconidies
-  - name: ascome
-    label: Ascome
   - name: ascospores
     label: Ascospores
   - name: asques
@@ -331,8 +333,6 @@ champs-description:
     label: Fongarium
   - name: fragments-sporaux
     label: Fragments sporaux
-  - name: glebe
-    label: Glèbe
   - name: gleocystides
     label: Gléocystides
   - name: gleocystides-hymeniales

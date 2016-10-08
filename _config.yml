@@ -173,6 +173,8 @@ champs-description:
     label: Synonymie
   - name: remarques
     label: Remarques
+  - name: commentaires
+    label: Commentaires
   - name: acanthocytes 
     label: Acanthocytes
   - name: acanthophyses
@@ -235,8 +237,6 @@ champs-description:
     label: Clavules
   - name: columelle
     label: Columelle
-  - name: commentaires
-    label: Commentaires
   - name: conidies
     label: Conidies
   - name: conidiome

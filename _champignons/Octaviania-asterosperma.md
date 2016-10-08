@@ -116,6 +116,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
+  exhalaison: légèrement acidulée
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -179,7 +180,6 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  exhalaison: un peu acidulée
   oeuf: 
   paracapillitium: 
   paraphyses: 

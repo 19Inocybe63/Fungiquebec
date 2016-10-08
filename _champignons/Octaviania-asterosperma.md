@@ -180,7 +180,7 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  odeur: un peu acidulée
+  exhalaison: un peu acidulée
   oeuf: 
   paracapillitium: 
   paraphyses: 

@@ -125,6 +125,8 @@ champs-description:
     label: Cellules marginales (Paracystides)
   - name: cheilocystides
     label: Cheilocystides
+  - name: cheiloleptocystides
+    label: Cheiloleptocystides
   - name: cheilomacrocystides
     label: Cheilomacrocystides
   - name: pleurocystides-hymenocystides

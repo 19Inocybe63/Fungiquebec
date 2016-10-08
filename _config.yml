@@ -141,8 +141,8 @@ champs-description:
     label: Mode de croissance
   - name: biotopes
     label: Biotopes
-  - name: periode-d-observation
-    label: Période d’observation
+  - name: phenologie
+    label: Phénologie
   - name: frequence
     label: Fréquence
   - name: comestibilite

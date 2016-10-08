@@ -118,7 +118,8 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison-de-la-chair: agréable à fongique
+  exhalaison-des-lames: agréable à fongique
   exoperidium: 
   face-externe: 
   face-poroide: 

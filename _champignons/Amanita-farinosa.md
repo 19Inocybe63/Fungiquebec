@@ -188,8 +188,8 @@ description:
   peridiole: 
   peridiopellis: 
   peridium: 
-  periode-d-observation: début du printemps à fin de l'automne
   peritheces: 
+  phenologie: début du printemps à fin de l'automne
   phialoconidies: 
   pied: cylindrique plus ou moins égale, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité, 30-90 x 3-10 mm Ø
   pieds-steriles: 

@@ -36,10 +36,10 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: Basides piriformes à largement clavées, à 3-4 pédicelles 4-9 µm de long, avec granulation, mais aussi vide optique (avec incrustations ?), 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
+  basidiospores: globuleuses à subglobuleuses, hautement et largement échinulées serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous, 11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm, Q =  [1; 1,1] 1,2; N = 30; C = 95%, Me = 12,5 x 11,9 µm; Qe = 1,1 (sans les ornements)
   basidioles: 
-  basidiome: 
+  basidiome: gastéroïdes hypogés à subhypogés, petits, de 10-30 (50) mm Ø, subglobuleux à allongés
   bibliographies: 
   biotopes: 
   boucles: 

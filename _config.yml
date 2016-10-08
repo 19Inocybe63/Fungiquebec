@@ -129,6 +129,8 @@ champs-description:
     label: Cheiloleptocystides
   - name: cheilomacrocystides
     label: Cheilomacrocystides
+  - name: chrysocystides
+    label: Chrysocystides
   - name: pleurochrysocystides
     label: Pleurochrysocystides
   - name: pleurocystides-hymenocystides
@@ -227,8 +229,6 @@ champs-description:
     label: Chancre
   - name: chlamydospores
     label: Chlamydospores
-  - name: chrysocystides
-    label: Chrysocystides
   - name: circumcystides
     label: Circumcystides
   - name: clavules

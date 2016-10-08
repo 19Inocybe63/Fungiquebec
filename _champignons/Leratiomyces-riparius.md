@@ -64,7 +64,7 @@ description:
   cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capité 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: 
+  chrysocystides: absentes
   circumcystides: 
   clavules: 
   columelle: 

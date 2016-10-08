@@ -145,6 +145,8 @@ champs-description:
     label: Caulocystides médianes
   - name: caulocystides-sommitales
     label: Caulocystides sommitales
+  - name: acanthocytes 
+    label: Acanthocytes
   - name: trame-lamellaire
     label: Trame lamellaire
   - name: pileitrame
@@ -175,8 +177,6 @@ champs-description:
     label: Remarques
   - name: commentaires
     label: Commentaires
-  - name: acanthocytes 
-    label: Acanthocytes
   - name: acanthophyses
     label: Acanthophyses
   - name: aiguillons

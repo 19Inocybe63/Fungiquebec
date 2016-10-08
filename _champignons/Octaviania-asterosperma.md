@@ -29,6 +29,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
+  articles: Lenne, Miereille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles-n°5 (2005) p. 55-64
   ascome: 
   ascospores: 
   asques: 

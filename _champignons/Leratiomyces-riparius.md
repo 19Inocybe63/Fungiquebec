@@ -10,17 +10,13 @@ planches:
     originale: 
 
 details:
-  collection-cueillie: 
   nom-francais: 
-  autorites: 
-  domaine: 
-  regne: 
-  phyllum: 
-  classe: 
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
+  autorites: (A.H. Sm.) Redhead
+  collection-cueillie: 
+  fongarium: cKc0037; cKc0049; cKc0305; cKc0493
+  famille: Strophariaceae
+  genre: Leratiomyces
+  espece: riparius
 
 description:
   acanthocytes: 

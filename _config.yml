@@ -87,6 +87,8 @@ champs-details:
 champs-description:
   - name: ascome
     label: Ascome
+  - name: basidiome
+    label: Basidiome
   - name: glebe
     label: Glèbe
   - name: chapeau
@@ -193,8 +195,6 @@ champs-description:
     label: Base stipitiforme
   - name: basidioles
     label: Basidioles
-  - name: basidiome
-    label: Basidiome
   - name: bibliographies
     label: Bibliographies
   - name: brachybasidioles

@@ -218,7 +218,7 @@ description:
   pseudo-peridioles: 
   reactions-chimiques: 
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite
+  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -189,8 +189,8 @@ description:
   peridiole: 
   peridiopellis: 
   peridium: 
-  periode-d-observation: 
   peritheces: 
+  phenologie: 
   phialoconidies: 
   pied: 
   pieds-steriles: 

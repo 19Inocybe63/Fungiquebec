@@ -127,7 +127,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare, car connu seulement dans une station au Québec ; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

@@ -119,6 +119,8 @@ champs-description:
     label: Basides
   - name: basidiospores
     label: Basidiospores
+  - name: arete-lamellaire
+    label: Arête lamellaire
   - name: cellules-marginales-paracystides
     label: Cellules marginales (Paracystides)
   - name: cheilocystides
@@ -181,8 +183,6 @@ champs-description:
     label: Anneau
   - name: apothecie
     label: Apothécie
-  - name: arete-lamellaire
-    label: Arête lamellaire
   - name: arthroconidies
     label: Arthroconidies
   - name: ascospores

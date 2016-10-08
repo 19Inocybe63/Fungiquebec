@@ -105,8 +105,8 @@ champs-description:
     label: Cortine
   - name: chair
     label: Chair
-  - name: odeur
-    label: Odeur
+  - name: exhalaison
+    label: Exhalaison
   - name: saveur
     label: Saveur
   - name: sporee

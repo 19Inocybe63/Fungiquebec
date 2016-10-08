@@ -169,6 +169,8 @@ champs-description:
     label: Comestibilité
   - name: reactions-chimiques
     label: Réactions chimiques
+  - name: articles
+    label: Articles
   - name: publications
     label: Publications
   - name: synonymie

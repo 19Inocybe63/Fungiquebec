@@ -213,6 +213,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
+  publications: Hesler, L. R. North American Species of Gymnopilus, The University of Tennessee, Knoxville, Tennessee
+Mycologia Memoir N° 3, Hafner Publishing Company New York and London, 1969, 117 p.
   reactions-chimiques: KOH 10% cuticule du chapeau devient noire
   receptacle: 
   references: Bon, Marcel et Roux, Pierre. Le Genre Gymnopilus, P. Karst. en Europe, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII ; Édizioni Candusso, 2002, 52 p. Hesler, Lexemuel Ray. North American Species of Gymnopilus, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir N° 3, Hafner Publishing Company New York and London, 1969, 117 p.

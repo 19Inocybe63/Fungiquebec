@@ -218,8 +218,7 @@ description:
   pseudo-peridioles: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Les Octavianiaceae contiennent trois genres, Octaviania Vittadini, Sclerogaster R. Hesse et Wakefieldia Corner & Hawker, qui se distinguent entre autres par les caractères suivants. Octaviania, grandes spores de 10-14 μm Ø, subglobuleuses, ornées de fortes verrues coniques à pyramidales 4 μm, à paroi sporale parfois dextrinoïde, avec un appendice hilaire court et pas très distinct.
-Wakefieldia, également avec de grandes spores, de 10-12 μm Ø, et 8-19 μm dans la clé de Jülich 1989, ornées de verrues et de crêtes courtes 1,5 μm, à paroi non dextrinoïde, avec un appendice hilaire conique, évident comme une papille. Il y a des boucles dans le peridiopellis, couche externe du peridium. Sclerogaster, spores de plus petite taille 5-7 μm Ø, ornées de verrues basses et tronquées, gléba jaune verdâtre. Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles, numéro 5, 2005, p. 55-64
+  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

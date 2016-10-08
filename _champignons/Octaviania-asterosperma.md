@@ -218,7 +218,7 @@ description:
   pseudo-peridioles: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Les Octavianiaceae contiennent trois genres: Octaviania Vittad., Sclerogaster R. Hesse et Wakefieldia Corner & Hawker, qui se distinguent entre autres par les caractères suivants.
+  remarques: Les Octavianiaceae contiennent trois genres, Octaviania Vittad., Sclerogaster R. Hesse et Wakefieldia Corner & Hawker, qui se distinguent entre autres par les caractères suivants.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

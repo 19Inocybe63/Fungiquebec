@@ -161,7 +161,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à légèrement décurrente par une dent, large, cunéiforme, marbrées, subespacées et bombées, présence de lamelles et de lamellules, pourpre jeune, puis pourpre foncé à maturité, dont l’arête lamellaire est fimbriées, blanche
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

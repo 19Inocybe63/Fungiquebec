@@ -1,6 +1,6 @@
 ---
 nom: Octaviania asterosperma
-date: 2016-10-04 00:00:00
+date: 2016-10-08 00:00:00
 image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
 album-flickr: 72157674612351426
 planches:

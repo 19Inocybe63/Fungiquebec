@@ -321,8 +321,6 @@ champs-description:
     label: Excipulum médullaire inférieur
   - name: excipulum-ectal
     label: Excipulum ectal
-  - name: exhalaison
-    label: Exhalaison
   - name: exoperidium
     label: Exopéridium
   - name: face-externe

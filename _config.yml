@@ -161,8 +161,6 @@ champs-description:
     label: Synonymie
   - name: remarques
     label: Remarques
-  - name: references
-    label: Références
   - name: acanthocytes 
     label: Acanthocytes
   - name: acanthophyses

@@ -118,6 +118,7 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
+  exhalaison: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
@@ -187,7 +188,6 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  odeur: 
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -196,8 +196,8 @@ description:
   peridiole: 
   peridiopellis: 
   peridium: 
-  periode-d-observation: 
   peritheces: 
+  phenologie: 
   phialoconidies: 
   pied: 
   pieds-steriles: 

@@ -129,6 +129,8 @@ champs-description:
     label: Cheiloleptocystides
   - name: cheilomacrocystides
     label: Cheilomacrocystides
+  - name: pleurochrysocystides
+    label: Pleurochrysocystides
   - name: pleurocystides-hymenocystides
     label: Pleurocystides (Hyménocystides)
   - name: pleuromacrocystides-hymenocystides

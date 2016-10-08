@@ -223,6 +223,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
+  publications: 
   reactions-chimiques: 
   receptacle: 
   remarques: 

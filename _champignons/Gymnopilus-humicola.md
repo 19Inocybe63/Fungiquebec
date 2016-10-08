@@ -177,7 +177,7 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  odeur: agréable
+  exhalaison: agréable
   oeuf: 
   paracapillitium: 
   paraphyses: 

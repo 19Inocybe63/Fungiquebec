@@ -215,6 +215,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
+  publications: Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles, n°5, 2005, p. 55-64
   reactions-chimiques: 
   receptacle: 
   remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.

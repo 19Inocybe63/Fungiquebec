@@ -28,7 +28,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  ascome: 
+  ascome: réniforme, glabre, blanc gris, 10-12 x 13-15 mm Ø
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -124,7 +124,7 @@ description:
   fongarium:
   fragments-sporaux: 
   frequence: 
-  glebe: 
+  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -180,7 +180,7 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  odeur: 
+  odeur: un peu acidulée
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -190,7 +190,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: août
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -218,11 +218,11 @@ description:
   pseudo-peridioles: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: c'est un basidiomycète. La glèbe ressemble à de la pulpe d'orange, mais plus petite ;
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur:  fraîche, acidulée
   sclerocystides: 
   sclerote: 
   soies: 

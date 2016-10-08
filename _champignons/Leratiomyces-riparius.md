@@ -60,7 +60,8 @@ description:
   chair: épaisse, ferme, immuable, blanche
   chancre: 
   chapeau: hémisphérique au début à conique-campanulé, puis campanulé convexe à plan à maturité, collant, terne et fibrilleux lorsqu'il est sec, non distinctement hygrophane, appendiculée de reste vélaire, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracée, jaune à orange ochracée, 17,5-49,3 mm Ø
-  cheilocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capité 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
+  cheilocystides: 
+  cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capité 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

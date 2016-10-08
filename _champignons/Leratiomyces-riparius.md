@@ -221,7 +221,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
-  reactions-chimiques: NH4OH 10% = le pied devient légèrement jaunâtre, chapeau négative; FeSO4 = négative; KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau négative; Gaïacol = négative sur les lames et le pied, rose lilacée sur le chapeau après > 5’;
+  reactions-chimiques: NH4OH 10% = le pied devient légèrement jaunâtre, chapeau réaction négative; FeSO4 = réaction négative; KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau réaction négative; Gaïacol = réaction négative sur les lames et le pied, rose lilacée sur le chapeau après > 5’
   receptacle: 
   remarques: L'épithète « riparius » signifie qui se tient sur les rives (en parlant d'oiseaux); il y a aussi « ripariolus » qui signifie qui se trouve sur la rive. Difficile ici de donner un nom français. (Dictionnaire Gaffiot latin-français, 1934.
   repartition: 

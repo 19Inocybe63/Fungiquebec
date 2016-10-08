@@ -155,6 +155,10 @@ champs-description:
     label: Comestibilité
   - name: reactions-chimiques
     label: Réactions chimiques
+  - name: publications
+    label: Publications
+  - name: synonymie
+    label: Synonymie
   - name: remarques
     label: Remarques
   - name: references
@@ -495,8 +499,6 @@ champs-description:
     label: Pseudocystides
   - name: pseudo-peridioles
     label: Pseudo péridioles
-  - name: publications
-    label: Publications
   - name: receptacle
     label: Réceptacle
   - name: rhizomorphes
@@ -527,8 +529,6 @@ champs-description:
     label: Subiculum
   - name: substrat
     label: Substrat
-  - name: synonymie
-    label: Synonymie
   - name: systeme-hyphal
     label: Système hyphal
   - name: textura

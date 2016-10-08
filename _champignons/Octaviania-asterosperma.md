@@ -10,9 +10,10 @@ planches:
     originale: 
 
 details:
-  collection-cueillie: 23 août 2015
   nom-francais: 
   autorites: Vittad.
+  collection cueillie: 23 août 2015
+  fongarium: cKc0430
   famille: Boletaceae
   genre: Octaviania
   espece: asterosperma

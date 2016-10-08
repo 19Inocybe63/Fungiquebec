@@ -218,7 +218,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
   reactions-chimiques: NH4OH 10% = le pied devient légèrement jaunâtre, chapeau négatives; FeSO4 = négatives; KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau négatives; Gaïacol = négatives sur les lames et le pied, rose lilacée sur le chapeau après > 5’;
   receptacle: 
   remarques: 

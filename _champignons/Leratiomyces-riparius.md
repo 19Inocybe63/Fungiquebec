@@ -194,7 +194,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre, 41-70 x 3-7,3 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 

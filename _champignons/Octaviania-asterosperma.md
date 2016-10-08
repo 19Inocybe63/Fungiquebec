@@ -41,7 +41,7 @@ description:
   basidioles: 
   basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
   bibliographies: 
-  biotopes: pousse dans le sol, sous pruche
+  biotopes: pousse dans le sol, sous conifères
   boucles: 
   brachybasidioles: 
   calicule: 

@@ -27,7 +27,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: stérile
   arthroconidies: 
   ascome: 
   ascospores: 

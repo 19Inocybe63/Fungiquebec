@@ -105,8 +105,10 @@ champs-description:
     label: Cortine
   - name: chair
     label: Chair
-  - name: exhalaison
-    label: Exhalaison
+  - name: exhalaison-de-la-chair
+    label: Exhalaison de la chair
+  - name: exhalaison-des-lames
+    label: Exhalaison des lames
   - name: saveur
     label: Saveur
   - name: sporee

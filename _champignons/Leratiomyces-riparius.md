@@ -19,7 +19,7 @@ details:
   espece: riparius
 
 description:
-  acanthocytes: 
+  acanthocytes: absents
   acanthophyses: 
   aiguillons: 
   aleurioconidies: 

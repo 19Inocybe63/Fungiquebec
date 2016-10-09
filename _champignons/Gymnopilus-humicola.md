@@ -49,7 +49,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides:  isolées, émergentes et parfois en faisceaux, ou en touffe, subcapitées à capitées 40 x 6 µm en moyenne, cylindriques 28-30 x 3-3,4 µm en moyenne
+  caulocystides:  isolées, émergentes et parfois en faisceaux, ou en touffe, subcapitées à capitées 40 x 6 µm en moyenne, cylindriques 28-30 x 3-3,4 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 

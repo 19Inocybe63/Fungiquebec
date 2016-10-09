@@ -17,6 +17,7 @@ details:
   famille: Boletaceae
   genre: Octaviania
   espece: asterosperma
+  litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88, 1831
 
 description:
   acanthocytes: 

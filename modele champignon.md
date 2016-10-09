@@ -51,7 +51,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -200,7 +200,7 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
   pleurocystides-hymenocystides: 
   poils: 

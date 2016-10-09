@@ -52,7 +52,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: absentes, plutôt des hyphes terminaux
+  caulocystides: absentes, plutôt des hyphes terminaux
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -200,7 +200,7 @@ description:
   pigments: 
   pileipellis: en cutis et parfois en ixocutis, formé d’hyphes de 2-8 μm Ø
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
   pleurocystides-hymenocystides: absentes
   poils: 

@@ -75,6 +75,8 @@ champs-details:
     label: Genre
   - name: espece
     label: Espece
+  - name: litterature
+    label: Littérature
   - name: collection-cueillie
     label: Collection cueillie
   - name: fongarium

@@ -4,10 +4,8 @@ date: 2016-10-09 00:00:00
 image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
 album-flickr: 72157674612351426
 planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
+  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
 
 details:
   nom-francais: 

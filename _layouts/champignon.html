@@ -10,10 +10,10 @@ layout: default
         <div class="col-lg-3">
             <p><b>Nom :</b> <i>{{ page.nom }}</i></p>
             {% if page.details.nom-francais %}
-            <p><b>Nom Français:</b> {{ page.details.nom-francais }}</p>
+            <p><b>Nom Français:</b> {{ page.details.nom-francais | newline_to_br }}</p>
             {% endif %}
             {% if page.details.autorites %}
-            <p><b>Autorités:</b> {{ page.details.autorites }}</p>
+            <p><b>Autorités:</b> {{ page.details.autorites | newline_to_br }}</p>
             {% endif %}
 
             <div class="spacing"></div>
@@ -27,7 +27,7 @@ layout: default
 
             {% for champ in site.champs-details %}
                 {% if page.details[champ.name] %}
-                    <p><b>{{ champ.label }}:</b> {{ page.details[champ.name] }}</p>
+                    <p><b>{{ champ.label }}:</b> {{ page.details[champ.name] | newline_to_br }}</p>
                 {% endif %}
             {% endfor %}
 
@@ -43,7 +43,7 @@ layout: default
 
             {% for champ in site.champs-description %}
                 {% if page.description[champ.name] %}
-                    <p><b>{{ champ.label }}:</b> {{ page.description[champ.name] }}</p>
+                    <p><b>{{ champ.label }}:</b> {{ page.description[champ.name] | newline_to_br }}</p>
                 {% endif %}
             {% endfor %}
 

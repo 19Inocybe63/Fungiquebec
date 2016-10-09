@@ -69,16 +69,16 @@ members:
         url: https://www.flickr.com/photos/kaufholtz/
 
 champs-details:
-  - name: collection-cueillie
-    label: Collection cueillie
-  - name: fongarium
-    label: Fongarium
   - name: famille
     label: Famille
   - name: genre
     label: Genre
   - name: espece
     label: Espece
+  - name: collection-cueillie
+    label: Collection cueillie
+  - name: fongarium
+    label: Fongarium
 
 champs-description:
   - name: ascome

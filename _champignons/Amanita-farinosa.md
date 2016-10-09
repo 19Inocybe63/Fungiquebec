@@ -239,6 +239,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  synonymie: |
+    Amanitopsis farinosa (Schwein.) G.F. Atk., Mushrooms: 76 (1900);
+    Amanitella farinosa (Schwein.) Earle, Bull. New York Bot. Gard. 5: 449 (1909)
+    Vaginata farinosa (Schwein.) Murrill, Mycologia 4(1): 3 (1912)
+    Amanita farinosa Schwein., Schr. naturf. Ges. Leipzig 1: 79 (1822) var. farinosa
+    Amanita farinosa var. mexicana Cifuentes, Villegas & G. Santiago, in Santiago, Cifuentes & Villegas, Boln. Soc. mex. Micol. 19: 98 (1984)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

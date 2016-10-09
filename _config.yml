@@ -135,8 +135,8 @@ champs-description:
     label: Pleuromacrocystides (Hyménocystides)
   - name: caulobasides
     label: Caulobasides
-  - name: caulocystides-dermatocystides
-    label: Caulocystides (Dermatocystides)
+  - name: caulocystides
+    label: Caulocystides
   - name: caulocystides-medianes
     label: Caulocystides médianes
   - name: caulocystides-sommitales
@@ -467,8 +467,8 @@ champs-description:
     label: Pieds stériles
   - name: pigments
     label: Pigments
-  - name: pileocystides-dermatocystides
-    label: Pileocystides (Dermatocystides)
+  - name: pileocystides
+    label: Pileocystides
   - name: plasmode
     label: Plasmode
   - name: poils

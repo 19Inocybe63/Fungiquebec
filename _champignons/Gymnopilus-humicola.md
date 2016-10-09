@@ -198,9 +198,9 @@ description:
   pigments: 
   pileipellis: en cutis avec pigments pariétal et extrahyphique
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides:  rares, de même forme que les cheilocystides, elles sont davantage situées près de l'arête lamellaire
+  pleurocystides:  rares, de même forme que les cheilocystides, elles sont davantage situées près de l'arête lamellaire
   poils: 
   poils-basaux: 
   poils-caulinaires: 

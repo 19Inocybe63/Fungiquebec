@@ -14,11 +14,12 @@ planches:
 details:
   nom-francais: 
   autorites: 
-  collection-cueillie:
-  fongarium: 
   famille: 
   genre: 
   espece: 
+  litterature: 
+  collection-cueillie: 
+  fongarium: 
 
 description:
   acanthocytes: 

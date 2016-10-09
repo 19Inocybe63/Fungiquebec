@@ -129,10 +129,10 @@ champs-description:
     label: Chrysocystides
   - name: pleurochrysocystides
     label: Pleurochrysocystides
-  - name: pleurocystides-hymenocystides
-    label: Pleurocystides (Hyménocystides)
-  - name: pleuromacrocystides-hymenocystides
-    label: Pleuromacrocystides (Hyménocystides)
+  - name: pleurocystides
+    label: Pleurocystides
+  - name: pleuromacrocystides
+    label: Pleuromacrocystides
   - name: caulobasides
     label: Caulobasides
   - name: caulocystides

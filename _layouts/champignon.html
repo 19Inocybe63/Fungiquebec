@@ -10,17 +10,17 @@ layout: default
         <div class="col-lg-3">
             <p><b>Nom :</b> <i>{{ page.nom }}</i></p>
             {% if page.details.nom-francais %}
-            <p><b>Nom Français:</b> {{ page.details.nom-francais | newline_to_br }}</p>
+                <p><b>Nom Français:</b> {{ page.details.nom-francais | newline_to_br }}</p>
             {% endif %}
             {% if page.details.autorites %}
-            <p><b>Autorités:</b> {{ page.details.autorites | newline_to_br }}</p>
+                <p><b>Autorités:</b> {{ page.details.autorites | newline_to_br }}</p>
             {% endif %}
-
             <div class="spacing"></div>
 
-            <img src="{{ page.image }}" />
-
-            <div class="spacing"></div>
+            {% if page.image %}
+                <img src="{{ page.image }}" />
+                <div class="spacing"></div>
+            {% endif %}
 
             <h4>Détails</h4>
             <div class="hline"></div>
@@ -33,8 +33,27 @@ layout: default
 
             <p><b>Auteur :</b> {{ page.author }}</p>
             <p><b>Derniere mise à jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-
             <div class="spacing"></div>
+
+            {% if page.planches %}
+                <h4>Planches</h4>
+                <div class="hline"></div>
+
+                {% for planche in page.planches %}
+                    {% if planche.miniature %}
+                        <p>
+                        {% if planche.originale %}
+                            <a href="{{ planche.originale }}">
+                        {% endif %}
+                            <img src="{{ planche.miniature }}" />
+                        {% if planche.originale %}
+                            </a>
+                        {% endif %}
+                        </p>
+                    {% endif %}
+                {% endfor %}
+                <div class="spacing"></div>
+            {% endif %}
         </div>
 
         <div class="col-lg-8 col-lg-offset-1">
@@ -63,7 +82,7 @@ layout: default
                     <script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=1000&display=latest&size=m&source=user_set&set={{ page.album-flickr }}"></script>
                 </tr>
             </table>
-            
+
             <div class="spacing"></div>
         </div>
     </div><!--/row -->

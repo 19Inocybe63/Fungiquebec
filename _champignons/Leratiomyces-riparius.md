@@ -53,7 +53,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: présentes, en faisceaux, semblables aux cheiloleptocystides
+  caulocystides: présentes, en faisceaux, semblables aux cheiloleptocystides
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 

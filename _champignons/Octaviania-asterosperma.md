@@ -243,7 +243,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893; Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935; Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873; Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885; Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
+  synonymie: |
+    Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893
+Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935
+Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873
+Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885
+Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,5 +1,5 @@
 nom: Baeospora myosura
-date: # Format: AAAA-MM-JJ hh:mm:ss
+date: 2016-10-10 00:00:00
 image: https://c1.staticflickr.com/9/8453/8042774343_50f59b2d29_n.jpg
 album-flickr: 72157673847377150
 planches:

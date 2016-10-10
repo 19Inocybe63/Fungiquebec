@@ -11,12 +11,12 @@ planches:
 
 details:
   nom-francais: Collybie queue-de-souris
-  autorites: (Fr. : Fr.) Singer
+  autorites: (Fr.) Singer
   famille: Marasmiaceae
   genre: Baeospora
   espece: myosura
   litterature: 
-  collection-cueillie: 30.09.2012
+  collection-cueillie: 30 septembre 2012
   fongarium: cKc0022
 
 description:

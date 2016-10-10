@@ -118,6 +118,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
+  exhalaison de la chair: 
+  exhalaison des lames: indistincte
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -160,7 +162,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: étroitement à assez largement adnées, large, subespacées, blanches au début puis noirâtres, non déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

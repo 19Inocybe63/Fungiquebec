@@ -153,6 +153,8 @@ champs-description:
     label: Pileitrame
   - name: pileipellis
     label: Pileipellis
+  - name: pileocystides
+    label: Pileocystides
   - name: boucles
     label: Boucles
   - name: hyphes
@@ -471,8 +473,6 @@ champs-description:
     label: Pieds stériles
   - name: pigments
     label: Pigments
-  - name: pileocystides
-    label: Pileocystides
   - name: plasmode
     label: Plasmode
   - name: poils

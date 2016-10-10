@@ -56,7 +56,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fragile, immuable, blanche grisâtre
   chancre: 
   chapeau: ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge dont elle porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement blanc à crème, jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après expansion
   cheilocystides: 
@@ -118,7 +118,7 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
+  exhalaison-de-la-chair: indistincte
   exhalaison-des-lames: indistincte
   exoperidium: 
   face-externe: 
@@ -194,7 +194,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: cylindrique, égal, fragile, creux, lisse à pubescent, blanc à blanc grisâtre, souvent légèrement vitreux, 15-40 (60) x 1-3 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -225,7 +225,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique à indistincte
   sclerocystides: 
   sclerote: 
   soies: 
@@ -250,8 +250,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: non
+  voile-partiel: non
   volve: 
   zone-perihymeniale: 
 ---

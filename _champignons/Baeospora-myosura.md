@@ -15,7 +15,7 @@ details:
   famille: Marasmiaceae
   genre: Baeospora
   espece: myosura
-  litterature: 
+  litterature: Singer, R. 1938. Notes sur quelques Basidiomycetes. Revue de Mycologie. 3,187-199
   collection-cueillie: 30 septembre 2012
   fongarium: cKc0022
 

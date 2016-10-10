@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur cônes tombés de conifères
   boucles: observées en surface et au centre du stipitipellis
   brachybasidioles: 
   calicule: 
@@ -130,7 +130,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -183,7 +183,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou grégaire
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -196,7 +196,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: août à octobre
   phialoconidies: 
   pied: égal, finement poudreux à pubescent, blanchâtre à brunâtre, avec rhizomorphes basaux distincts, 10-50 x 1-2 mm Ø
   pieds-steriles: 

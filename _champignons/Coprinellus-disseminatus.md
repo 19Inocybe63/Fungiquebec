@@ -36,13 +36,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes à largement clavées, tétrastérigmates 11,2 [14,4; 17,7] 20,9 × 6,8 [7,6; 8,3] 9 µm
+  basidiospores: |
+    elliptiques-ovoïdes vue de front à elliptiques vue de profil, tronquées, lisses, à paroi mince, avec appendice hilaire et pore germinatif distinct et centré jaunâtre 1,2-1,9 µm Ø, à contenu homogène, brun foncé à brun tabac en NaCl isotonique 0,9 %, gris lilas en KOH% 5 %, inactives dans le melzer, non cyanophiles
+    7 [7,5; 7,7] 8,2 × 4,2 [4,6; 4,7] 5,1 µm
+    Q = 1,5 [1,6; 1,7] 1,8; N = 30; C = 95
+    Me = 7,6 × 4,6 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -59,7 +63,7 @@ description:
   chair: mince, fragile, immuable, blanche grisâtre
   chancre: 
   chapeau: ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge dont elle porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement blanc à crème, jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après expansion
-  cheilocystides: 
+  cheilocystides: cylindriques à subcapitées 70 × 15 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -197,11 +201,11 @@ description:
   pied: cylindrique, égal, fragile, creux, lisse à pubescent, blanc à blanc grisâtre, souvent légèrement vitreux, 15-40 (60) x 1-3 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en épithélium
   pileitrame: 
-  pileocystides: 
+  pileocystides: lagéniformes, 180-200 × 10-13 µm
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides-hymenocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

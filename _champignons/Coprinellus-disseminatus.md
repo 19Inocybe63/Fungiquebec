@@ -179,7 +179,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: densément grégaire ou fasciculé, souvent en grand nombre (+ 200)
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -221,7 +221,7 @@ description:
   publications: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Étude ADN par R. A. Powers (MyCoPortal) et déposé sur le site http://mycoportal.org/portal/collections/individual/index.php?occid=2416327
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -230,7 +230,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: noire
   spores: 
   spherocytes: 
   sporocystes: 

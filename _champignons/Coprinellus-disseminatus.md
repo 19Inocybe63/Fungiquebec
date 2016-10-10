@@ -118,8 +118,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison de la chair: 
-  exhalaison des lames: indistincte
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: indistincte
   exoperidium: 
   face-externe: 
   face-poroide: 

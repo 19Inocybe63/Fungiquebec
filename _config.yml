@@ -69,6 +69,8 @@ members:
         url: https://www.flickr.com/photos/kaufholtz/
 
 champs-details:
+  - name: autorites
+    label: Autorités
   - name: famille
     label: Famille
   - name: genre

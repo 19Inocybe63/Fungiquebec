@@ -244,6 +244,15 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  synonymie: |
+    Baeospora myosura (Fr.) Singer, Revue de Mycologie 3: 193 (1938)
+    Agaricus myosurus Fr., Observationes mycologicae 2: 129 (1818)
+    Collybia myosura (Fr.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5: 95 (1872)
+    Collybia clavus var. myosura (Fries) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium: 30 (1886)
+    Marasmius myosuros (Fr.) P. Karst. (1889)
+    Marasmius myosurus (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 48: 102 (1889)
+    Mycena myosura (Fr.) Kühner, Encyclopédie Mycologique 10: 526 (1938)
+    Agaricus conigenus Pers. (1801)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

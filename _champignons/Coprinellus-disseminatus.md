@@ -45,7 +45,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois pourri de feuillus, surtout près de la base des souches
   boucles: absentes
   brachybasidioles: 
   calicule: 
@@ -70,7 +70,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -130,7 +130,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -196,7 +196,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: du printemps à l'automne
   phialoconidies: 
   pied: cylindrique, égal, fragile, creux, lisse à pubescent, blanc à blanc grisâtre, souvent légèrement vitreux, 15-40 (60) x 1-3 mm Ø
   pieds-steriles: 

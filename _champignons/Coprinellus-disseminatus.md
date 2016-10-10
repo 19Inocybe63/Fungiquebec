@@ -225,7 +225,7 @@ description:
   publications: 
   reactions-chimiques: 
   receptacle: 
-  remarques: L'ADN de la collection cKc0170 fut étudié par R. A. Powers (MyCoPortal) et les résultats déposés sur le site;
+  remarques: L'ADN de la collection cKc0170 fut étudié par R. A. Powers (MyCoPortal) et les résultats furent déposés sur le site;
     http://mycoportal.org/portal/collections/individual/index.php?occid=2416327
   repartition: 
   rhizomorphes: 

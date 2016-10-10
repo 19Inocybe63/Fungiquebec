@@ -13,7 +13,7 @@ details:
   famille: Psathyrellaceae
   genre: Coprinellus
   espece: disseminatus
-  litterature: 
+  litterature: Lange, J.E. 1938. Studies in the Agarics of Denmark. Part XII. Hebeloma, Naucoria, Tubaria, Galera, Bolbitius, Pluteolus, Crepidotus, Pseudopaxillus, Paxillus. Dansk botanisk Arkiv. 9(6), 1-104
   collection-cueillie: 20 juin 2014
   fongarium: cKc0170
 

@@ -63,7 +63,7 @@ description:
   chair: mince, fragile, immuable, blanche grisâtre
   chancre: 
   chapeau: ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge dont elle porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement blanc à crème, jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après expansion
-  cheilocystides: cylindriques à subcapitées 70 × 15 µm
+  cheilocystides: cylindriques à subcapitées 70 × 15 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

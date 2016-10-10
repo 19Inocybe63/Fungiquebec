@@ -38,19 +38,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: cylindriques à claviformes, à 2-4 stérigmates, bouclées à la base, 12-14 x 3-4 µm
+  basidiospores: |
+    ellipsoïdes à ovoïdes, lisses, à paroi légèrement épaissie, entre 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines, verdâtres dans le NH4OH 2,5 %, faiblement amyloïdes, faiblement cyanophiles
+    3,3 [3,7; 3,8] 4,1 x 2 [2,5; 2,7] 3,1 µm
+    Q = 1,2 [1,4; 1,5] 1,7; N = 30; C = 95%
+    Me = 3,7 x 2,6 µm; Qe = 1,5
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées en surface et au centre du stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: abondantes, en touffes ou isolées, cylindriques à claviformes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -58,10 +62,10 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: très mince, blanchâtre
   chancre: 
   chapeau: convexe puis étalé-mamelonné, sec à légèrement humide, glabre à très légèrement soyeux, lisse, hygrophane, brun ou beige, un peu plus foncé au centre, pâlissant remarquablement à chamois depuis le pourtour, à marge unie à très légèrement sillonnée à maturité,  5-20 (30) mm Ø
-  cheilocystides: 
+  cheilocystides: polymorphes, abondantes, cylindriques, lagéniformes, fusiformes à largement fusiformes, parfois piriformes, 19-30 x 5-9 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -119,7 +123,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -162,7 +166,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, étroites, très serrées, blanchâtres à beige pâle, tachant parfois de brunâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -194,14 +198,14 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: égal, finement poudreux à pubescent, blanchâtre à brunâtre, avec rhizomorphes basaux distincts, 10-50 x 1-2 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis mince, formé d'éléments cylindriques bouclés, 4-14 µm Ø, et d'un subpellis subcellulaire
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides-hymenocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -225,12 +229,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

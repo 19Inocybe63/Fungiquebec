@@ -4,10 +4,8 @@ date: 2016-10-10 00:00:00
 image: https://c1.staticflickr.com/9/8453/8042774343_50f59b2d29_n.jpg
 album-flickr: 72157673847377150
 planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
+  - miniature: https://c1.staticflickr.com/9/8542/8676927112_d96e74b518_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673847377150
 
 details:
   nom-francais: Collybie queue-de-souris

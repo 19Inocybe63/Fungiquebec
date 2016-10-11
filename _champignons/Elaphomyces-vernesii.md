@@ -29,7 +29,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 
+  ascome: subglobuleux à globuleux, mais jamais aplati, à cortex noir 13-21 x 14-22 mm Ø
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -222,7 +222,7 @@ description:
   publications: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

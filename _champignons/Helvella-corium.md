@@ -25,7 +25,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: (2) 5-12 mm de hauteur, (30) 10-40 (50) mm Ø, légèrement à profondément cupuliforme, stipitée, densément pubescent à villeux vers le pourtour, à marge enroulée au début puis étalée, souvent avec pubescence blanchâtre à blanc grisâtre, unie, crénelée à lobée ou rarement avec côtes s'étalant jusque sur le quart inférieur
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -57,7 +57,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, blanchâtre
   chancre: 
   chapeau: 
   cheilocystides: 
@@ -120,9 +120,9 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exoperidium: 
-  face-externe: 
+  face-externe: duveteuse à écailleuse, brun noirâtre à noire
   face-poroide: 
   feutrage-basal: 
   fongarium:
@@ -136,7 +136,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
-  hymenophore: 
+  hymenophore: lisse, noir au frais et au sec
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: (2) 5-30 (40) x 5-8 mm, court, égal ou élargi vers la base, rond, légèrement comprimé à légèrement côtelé surtout à la base à la coupe, rarement fortement côtelé, plein, brun très foncé à noir vers l'apex, souvent blanc à gris pâle à la base, couvert d'un duvet gris-brun
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,12 +226,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

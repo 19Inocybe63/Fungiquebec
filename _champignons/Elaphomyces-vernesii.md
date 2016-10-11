@@ -76,7 +76,7 @@ description:
   contexte: 
   cordons-myceliens: 
   cordons-rhizomorphiques: 
-  cortex: 
+  cortex: jusqu'à 250 µm d'épaisseur, souvent lisse ou avec verrues larges et aplaties et partie en saillie jusqu'à 100 µm de hauteur et 200 µm de largeur, formé d'un tissu pseudoparenchymateux brun foncé, avec hyphes subparallèles entre les verrues, à paroi jusqu'à 1-2 µm d'épaisseur, légèrement brun plus pâle, 4-5 µm Ø
   cortex-caulinaire: 
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 

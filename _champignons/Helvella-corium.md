@@ -241,7 +241,21 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Cyathipodia corium (O. Weberb.) Boud.
+    Peziza corium O. Weberb.
+    Macropodia corium (O. Weberb.) Cooke
+    Aleuria corium (O. Weberbauer) Gillet, Champignons de France. Les Discomycètes 2: 39 (1879)
+    Scypharia corium (Weberb.) Quél.: 83 (1886)
+    Lachnea corium (O. Weberb.) W. Phillips, A manual of the British Discomycetes: 204 (1887)
+    Fuckelina corium (O. Weberbauer) Kuntze, Revisio generum plantarum 2: 852 (1891)
+    Sarcoscypha corium (O. Weberb.) J. Schröt.: 59 (1893)
+    Helvella corium f. corium (O. Weberb.) Massee: 463 (1895)
+    Cyathipodia corium (O. Weberb.) Boud.: 2 (1904)
+    Leptopodia corium (O. Weberb.) Boudier, Histoire et Classification des Discomycètes d'Europe: 239bis (1910)
+    Cowlesia corium (O. Weberb.) Nieuwl., The American Midland Naturalist 4: 380 (1916)
+    Paxina corium (O. Weberb.) Seaver, The North American Cup-Fungi (Operculates) (3): 208 (1928)
+    http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=121669&Fields=All
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

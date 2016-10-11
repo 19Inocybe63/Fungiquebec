@@ -222,7 +222,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei N° 13, Edizioni Candusso, 2011.
+  publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
   reactions-chimiques: 
   receptacle: 
   remarques: Au printemps, il n'est pas rare de voir D. montana pousser au travers les bryophytes et les mousses.

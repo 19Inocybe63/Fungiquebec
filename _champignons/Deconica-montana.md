@@ -244,6 +244,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  synonymie: |
+    Agaricus montanus Pers., Observationes mycologicae 1: 9 (1796)
+    Psilocybe montana (Pers.) P. Kumm., Der Führer in die Pilzkunde: 71 (1871)
+    Agaricus atrorufus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4: 58, t. 234 (1774)
+    Astylospora lateritia Murrill, Mycologia 10 (1): 20 (1918)
+    Atylospora lateritia Murrill (1918)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

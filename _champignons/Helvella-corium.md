@@ -15,7 +15,7 @@ details:
   espece: corium
   litterature: Massee, G.E. 1895. British Fungus-Flora. 4:1-522
   collection-cueillie: 14 août 2015
-  fongarium: cKc0406
+  fongarium: cKc0406; cKc0419
 
 description:
   acanthocytes: 
@@ -194,7 +194,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: cylindriques avec apex claviformes, devient progressivement élargi à l'apex, hyalines dans l'eau glycérinée 10 %, ou brun, à contenu finement granuleux, 3,5-8,5 µm Ø
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -230,7 +230,7 @@ description:
   publications: Dissing, Henry. The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Ascospores finement rugueuses au microscope à balayage électronique, (Scanning electron microscope (SEM))
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

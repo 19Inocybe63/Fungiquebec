@@ -244,6 +244,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

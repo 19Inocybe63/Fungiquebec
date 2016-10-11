@@ -241,7 +241,16 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Agaricus velutipes Curtis, Flora londinensis: 212, t. 70 (1782)
+    Gymnopus velutipes (Curtis) Gray, A natural arrangement of British plants 1: 605 (1821)
+    Collybia velutipes (Curtis) P. Kumm., Der Führer in die Pilzkunde: 116 (1871)
+    Pleurotus velutipes (Curtis) Quél., Flore mycologique de la France et des pays limitrophes: 334 (1888)
+    Myxocollybia velutipes (Curtis) Singer, Schweizerische Zeitschrift für Pilzkunde 17: 72 (1939)
+    Myxocollybia velutipes (Curtis) Singer, Annales Mycologici 41: 116 (1943)
+    Agaricus nigripes Bull., Herbier de la France 8: t. 344 (1788)
+    Agaricus veluticeps Cooke & Massee, Grevillea 18 (85): 4 (1889)
+    Panaeolus veluticeps Sacc., Sylloge Fungorum 9: 147 (1891)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

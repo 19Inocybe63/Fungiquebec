@@ -28,7 +28,10 @@ description:
   apothecie: (2) 5-12 mm de hauteur, (30) 10-40 (50) mm Ø, légèrement à profondément cupuliforme, stipitée, densément pubescent à villeux vers le pourtour, à marge enroulée au début puis étalée, souvent avec pubescence blanchâtre à blanc grisâtre, unie, crénelée à lobée ou rarement avec côtes s'étalant jusque sur le quart inférieur
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Korf, R.P. (2008). Nomenclatural notes. 12. Untangling Hedwig's Octospora villosa: Helvella fibrosa comb. nov. Mycotaxon 103:307-312. BSM ref. 12: 7335
+    Abbott, Sean P. and Currah, R. S., The Helvellaceae: Systematic Revision and occurrence in Northern and Northwestern North America, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
+    Anderson, P. J. and Ickis, Marguerite G., Massachusetts Species of Helvella, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
   ascome: 
   ascospores: 
   asques: 
@@ -219,7 +222,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: Dissing, Henry. The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   reactions-chimiques: 
   receptacle: 
   remarques: 

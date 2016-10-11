@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à cylindriques, tétrastérigmates, bouclées à la base, peu émergentes à maturité, 27-29 x 4-5 µm
+  basidiospores: |
+    ellipsoïdes à cylindriques, lisses, à paroi légèrement épaissie, de 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines, verdâtres dans le NH4OH 2,5 %, inactives dans le melzer, cyanophiles
+    5,2 [6,2; 6,6] 7,7 x 3 [3,5; 3,6] 4,1 µm
+    Q = 1,4 [1,8; 1,9] 2,2; N = 45; C = 95%
+    Me = 6,4 x 3,5 µm; Qe = 1,8
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -49,7 +53,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: polymorphes, abondantes, cylindriques à claviformes, parfois flexueuses, ± 50-80 x 3-5 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +64,7 @@ description:
   chair: mince, blanchâtre, souvent aqueuse
   chancre: 
   chapeau: convexe puis étalé, collant à visqueux, lisse, orange brunâtre à brun jaunâtre, plus foncé vers le centre, à marge parfois translucide-striée, 20-60 mm Ø
-  cheilocystides: 
+  cheilocystides: polymorphes, abondantes, lagéniformes à fusiformes, 29-39 x 7-10 µm, lagéniformes à apex étroit, 33 x 9 µm, parfois largement fusiformes, 41-52 x 13-17 µm, rarement utriformes, 43 x 10-11 µm, rarement étroitement utriformes, 58 x 18-19 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -202,7 +206,7 @@ description:
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -257,7 +261,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée d’hyphes parallèle à subparallèle
   trame-tubulaire: 
   type: 
   typique: 

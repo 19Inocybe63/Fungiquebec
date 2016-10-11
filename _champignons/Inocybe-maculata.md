@@ -46,7 +46,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans un sol sablonneux, en milieux ouverts, sous divers conifères (épinettes de Norvège)
   boucles: observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
@@ -71,7 +71,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: toxique
   commentaires: 
   conidies: 
   conidiome: 
@@ -184,7 +184,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou grégaire
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -197,7 +197,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre (octobre)
   phialoconidies: 
   pied: cylindrique, plein, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe/racines, 66 x 7-10 mm Ø
   pieds-steriles: 
@@ -235,7 +235,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun à brun cannelle
   spores: 
   spherocytes: 
   sporocystes: 

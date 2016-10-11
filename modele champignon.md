@@ -116,6 +116,8 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 

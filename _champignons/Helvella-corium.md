@@ -45,7 +45,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous pins, dans la mousse
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -70,7 +70,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -130,7 +130,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: peu commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -183,7 +183,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé ou densément grégaire
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -196,7 +196,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin, à août (septembre)
   phialoconidies: 
   pied: (2) 5-30 (40) x 5-8 mm, court, égal ou élargi vers la base, rond, légèrement comprimé à légèrement côtelé surtout à la base à la coupe, rarement fortement côtelé, plein, brun très foncé à noir vers l'apex, souvent blanc à gris pâle à la base, couvert d'un duvet gris-brun
   pieds-steriles: 

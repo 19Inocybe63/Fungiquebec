@@ -119,7 +119,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exchalaison-des-lames: indistincte à fongique
+  exhalaison-des-lames: indistincte à fongique
   exoperidium: 
   face-externe: 
   face-poroide: 

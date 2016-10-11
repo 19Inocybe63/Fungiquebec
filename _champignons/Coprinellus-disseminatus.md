@@ -205,7 +205,7 @@ description:
   pileitrame: 
   pileocystides: lagéniformes, 180-200 × 10-13 µm
   plasmode: 
-  pleurocystides-hymenocystides: absentes
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

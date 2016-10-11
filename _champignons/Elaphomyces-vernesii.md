@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sous la surface du sol, sous chêne rouge
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -112,7 +112,7 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   excipulum: 
@@ -128,7 +128,7 @@ description:
   fongarium:
   fragments-sporaux: 
   frequence: 
-  glebe: 
+  glebe: pulvérulente et noire teintée d'olivacé à noire à maturité
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -191,7 +191,7 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: 
+  peridium: distinct du cortex, formé d'hyphes à paroi épaissie, hyalines à brun pâle et 3-4 µm Ø sur la partie externe, plus lâchement emmêlées et 6-7 µm Ø sur la partie interne
   peritheces: 
   phenologie: 
   phialoconidies: 
@@ -226,7 +226,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique à indistincte
   sclerocystides: 
   sclerote: 
   soies: 

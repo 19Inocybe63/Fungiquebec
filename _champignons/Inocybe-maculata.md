@@ -223,7 +223,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Stangl, Johann. Guida alla determinazione dei funghi Vol. 3° Inocybe, Saturnia, 1e Edizione italiana, 1991, 437 p.
+    Bresadola, Ab. Dr. J. & Alessio, C. L., Iconographia Mycologica, Vol. XXIX, Inocybe, Società Botanica Italiana, 1980, 367 p.
++ 105 p. de supplément
   reactions-chimiques: 
   receptacle: 
   remarques: 

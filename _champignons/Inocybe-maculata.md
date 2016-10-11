@@ -234,7 +234,7 @@ description:
     Stangl, Johann. Guida alla determinazione dei funghi Vol. 3° Inocybe, Saturnia, 1e Edizione italiana, 1991, 437 p.
   reactions-chimiques: 
   receptacle: 
-  remarques: Nous sommes à réaliser une publication sur le genre Inocybe s.l. du Québec, prévue pour 2026. C'est pourquoi nous ne présentons qu'une seule espèce sur le présent site.
+  remarques: En ce moment, nous réalisons une publication sur le genre Inocybe s.l. du Québec, prévue pour 2026. C'est pourquoi nous ne présentons qu'une seule espèce sur le présent site.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

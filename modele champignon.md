@@ -32,6 +32,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
+  articles: 
   ascome: 
   ascospores: 
   asques: 

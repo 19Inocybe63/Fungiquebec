@@ -37,12 +37,16 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    elliptiques à largement elliptiques vue de profil, subtriangulaires-lentiformes à ± hexagonales vue frontale, tronquées, lisses, à paroi mince entre 0,1-0,2 µm, avec appendice hilaire, et petit pore germinatif pas toujours bien visible 0,8-0,9 µm Ø, à contenu homogène dans le NaCl isotonique 0,9 %, mais uniguttulé dans le melzer, brun-gris pâle avec reflets violets dans le NaCl, dextrinoïdes, non cyanophiles
+    6 [6,6; 6,8] 7,3 x 4,4 [5; 5,3] 5,8 x 3,5 [4; 4,2] 4,6 µm
+    Q = 1,5 [1,6; 1,7] 1,8; N = 30; C = 95%
+    Me = 6,7 x 4,1 µm; Qe = 1,7
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -59,7 +63,7 @@ description:
   chair: mince, assez fragile
   chancre: 
   chapeau: hémisphérique, convexe à subcampanulé, parfois légèrement omboné, glabre, parfois fibrilleux vers la marge, lisse, hygrophane, luisant, brun rougeâtre à marron à l'humidité et ochracé terne à chamois au sec ou couleur isabelle au centre et couleur isabelle ombré vers le pourtour, à marge enroulée au début, puis droite, striée-sillonnée à l'humidité, 4-12 mm Ø
-  cheilocystides: 
+  cheilocystides: abondantes, lagéniformes à claviformes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -197,11 +201,11 @@ description:
   pied: élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau, brun marron à ochracé, 20-50 x 1-2 mm
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides-hymenocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -218,7 +222,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei N° 13, Edizioni Candusso, 2011.
   reactions-chimiques: 
   receptacle: 
   remarques: 

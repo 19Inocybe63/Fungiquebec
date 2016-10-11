@@ -26,7 +26,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: stérile
   arthroconidies: 
   articles: 
   ascome: 
@@ -37,19 +37,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, à 2-4 stérigmates, bouclées à la base, 32-40 x 9-11 µm
+  basidiospores: |
+    leiospore ovoïdales vue frontale, ellipsoïdes à phaséoliformes vue de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec petit appendice hilaire, à contenu granulaire et parfois uniguttulé (surtout au Bleu Crésyl), hyalines dans le NaCl iso, inactives dans le melzer, non cyanophiles
+    8,4 [9,4; 9,8] 10,8 x 5,1 [5,8; 6,2] 6,9 µm
+    Q = 1,5 [1,6] 1,8; N = 30; C = 95%
+    Me = 9,6 x 6 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: peu nombreuses et présentes seulement à l'apex du pied, ± similaires aux cheilocystides ou plus cylindriques et plus petites
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +64,7 @@ description:
   chair: épaisse, ferme, immuable, blanche
   chancre: 
   chapeau: campanulé, mamelonné, fibrilleux, brun tan, avec centre plus foncé, dont la marge est unie se fendillant avec l’âge, 45-51 mm Ø
-  cheilocystides: 
+  cheilocystides: abondantes, parfois en faisceaux, subutriformes au sens de Romagnesi, piriformes à clavées et largement clavées, cylindriques, 43-59 x 11-18 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -81,7 +85,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: absente
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -137,7 +141,7 @@ description:
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: gloéoplères observées dans le stipe
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -198,11 +202,11 @@ description:
   pied: cylindrique, plein, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe/racines, 66 x 7-10 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
-  pileitrame: 
+  pileipellis: en cutis
+  pileitrame: formé de sphérocystes
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -253,12 +257,12 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: subparallèle
   trame-tubulaire: 
   type: 
   typique: 
   voile: 
-  voile-general: 
+  voile-general: velipellis bien évident, laissant des fibrilles blanchâtres sur le chapeau
   voile-partiel: 
   volve: 
   zone-perihymeniale: 

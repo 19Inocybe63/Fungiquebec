@@ -33,8 +33,13 @@ description:
     Abbott, Sean P. and Currah, R. S., The Helvellaceae: Systematic Revision and occurrence in Northern and Northwestern North America, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
     Anderson, P. J. and Ickis, Marguerite G., Massachusetts Species of Helvella, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    Ascospores unisériées, largement ellipsoïdes à ellipsoïdes, lisses, à paroi mince à légèrement épaissie, à contenu uniguttulé, hyalines dans l’eau glycérinée 20 %, iodonégatives, non cyanophiles
+    (16,2) 16,6 - 18,1 (19,3) × (11,2) 11,3 - 12 (12,7) µm
+    Q = (1,4) 1,43 - 1,56 (1,6) ; N = 30
+    Me = 17,3 × 11,6 µm ; Qe = 1,5
+    (Piximètre: formule classique, ascospores mesurées dans l'eau glycérinée 20 %)
+  asques: cylindriques, operculés, octosporés, iodonégatifs, 225-250 x 12,2-17 µm Ø
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

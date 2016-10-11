@@ -87,6 +87,8 @@ champs-details:
 champs-description:
   - name: ascome
     label: Ascome
+  - name: peridium
+    label: Péridium
   - name: basidiome
     label: Basidiome
   - name: glebe
@@ -113,6 +115,8 @@ champs-description:
     label: Exhalaison des lames
   - name: saveur
     label: Saveur
+  - name: cortex
+    label: Cortex
   - name: sporee
     label: Sporée
   - name: basides
@@ -255,8 +259,6 @@ champs-description:
     label: Cordons mycéliens
   - name: cordons-rhizomorphiques
     label: Cordons rhizomorphiques
-  - name: cortex
-    label: Cortex
   - name: cortex-caulinaire
     label: Cortex caulinaire
   - name: cortex-du-pied-et-du-bulbe
@@ -463,8 +465,6 @@ champs-description:
     label: Péridiole
   - name: peridiopellis
     label: Péridiopellis
-  - name: peridium
-    label: Péridium
   - name: peritheces
     label: Périthèces
   - name: phialoconidies

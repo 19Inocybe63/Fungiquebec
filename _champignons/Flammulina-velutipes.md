@@ -226,7 +226,7 @@ description:
   publications: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Cette espèce est aussi désigné par son nom japonais « enoki ».
+  remarques: Cette espèce est aussi désignée par son nom japonais « enoki ».
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

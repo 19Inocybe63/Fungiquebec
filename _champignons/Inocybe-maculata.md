@@ -8,14 +8,14 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675069641775
 
 details:
-  nom-francais: 
-  autorites: 
-  famille: 
-  genre: 
-  espece: 
+  nom-francais: Inocybe maculé
+  autorites: Boud.
+  famille: Inocybaceae
+  genre: Inocybe
+  espece: maculata
   litterature: 
-  collection-cueillie: 
-  fongarium: 
+  collection-cueillie: 18 août 2013
+  fongarium: cKc0115
 
 description:
   acanthocytes: 

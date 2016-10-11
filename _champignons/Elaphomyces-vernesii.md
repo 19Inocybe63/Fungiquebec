@@ -120,7 +120,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exoperidium: 
   face-externe: 
   face-poroide: 

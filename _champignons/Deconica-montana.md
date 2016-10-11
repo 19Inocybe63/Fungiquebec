@@ -205,7 +205,7 @@ description:
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: absentes
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

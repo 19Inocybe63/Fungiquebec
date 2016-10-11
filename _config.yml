@@ -125,6 +125,12 @@ champs-description:
     label: Cortex
   - name: sporee
     label: Sporée
+  - name: asques
+    label: Asques
+  - name: paraphyses
+    label: Paraphyses
+  - name: ascospores
+    label: Ascospores
   - name: basides
     label: Basides
   - name: basidiospores
@@ -207,10 +213,6 @@ champs-description:
     label: Anneau
   - name: arthroconidies
     label: Arthroconidies
-  - name: ascospores
-    label: Ascospores
-  - name: asques
-    label: Asques
   - name: asterohyphidies
     label: Astérohyphidies
   - name: avertissement
@@ -457,8 +459,6 @@ champs-description:
     label: Oeuf
   - name: paracapillitium
     label: Paracapillitium
-  - name: paraphyses
-    label: Paraphyses
   - name: parasite
     label: Parasite
   - name: paroi-peritheciale

@@ -28,7 +28,9 @@ description:
   apothecie: 
   arete-lamellaire: stérile
   arthroconidies: 
-  articles: 
+  articles: |
+    Kropp, Bradley R. Matheny, P. Brandon, et al. Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
+    Matheny, Brandon P. & Moreau, Pierre-Arthur. A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
   ascome: 
   ascospores: 
   asques: 

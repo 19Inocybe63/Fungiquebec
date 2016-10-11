@@ -26,7 +26,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: fertile
   arthroconidies: 
   articles: 
   ascome: 
@@ -47,7 +47,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées dans la trame lamellaire
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -202,9 +202,9 @@ description:
   pied: égal, tenace, velouté, souvent strié, crème au début, puis brun rougeâtre foncé depuis la base, parfois noir à maturité, 30-70 x 3-8 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixotrichoderme
   pileitrame: 
-  pileocystides: 
+  pileocystides: polymorphes, abondantes, fusiformes, ± 100 µm x 4-5 µm, capitées, ± 70 x 8-9 µm, utriformes
   plasmode: 
   pleurocystides: absentes
   poils: 

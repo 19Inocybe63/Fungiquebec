@@ -56,9 +56,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, assez fragile
   chancre: 
-  chapeau: 
+  chapeau: hémisphérique, convexe à subcampanulé, parfois légèrement omboné, glabre, parfois fibrilleux vers la marge, lisse, hygrophane, luisant, brun rougeâtre à marron à l'humidité et ochracé terne à chamois au sec ou couleur isabelle au centre et couleur isabelle ombré vers le pourtour, à marge enroulée au début, puis droite, striée-sillonnée à l'humidité, 4-12 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -118,6 +118,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
+  exhalaison-de-la-chair: 
+  exchalaison-des-lames: indistincte à fongique
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -160,7 +162,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées décurrentes et légèrement arquées, larges, horizontales, espacées à subespacées, subconcolores au chapeau, brunes à brun pourpre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -192,7 +194,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau, brun marron à ochracé, 20-50 x 1-2 mm
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -223,12 +225,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte, légèrement fongiques
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun violacé foncé
   spores: 
   spherocytes: 
   sporocystes: 

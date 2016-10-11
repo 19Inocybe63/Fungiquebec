@@ -224,9 +224,11 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Stangl, Johann. Guida alla determinazione dei funghi Vol. 3° Inocybe, Saturnia, 1e Edizione italiana, 1991, 437 p.
     Bresadola, Ab. Dr. J. & Alessio, C. L., Iconographia Mycologica, Vol. XXIX, Inocybe, Società Botanica Italiana, 1980, 367 p. et supplément
     Ferrari, Erminio. Inocybe alpine e subalpine Il genere Inocybe (Fr.) Fr. nel Nord Italia e paesi limotrofi, Fungi non Delineati, pars 34-36, Edizioni Candusso, 2006, 464 p.
+    Murrill, William Alphonso, Kauffman, Calvin Henry Overholts, Lee Oras, Agaricaceae (Murrill) ; Inocybe (Kauffman) ; Pholiota (Overholts), North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
+    Kuyper, Thomas W. A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe, Rijksherbarium, Leiden 1986, 134 p.
+    Stangl, Johann. Guida alla determinazione dei funghi Vol. 3° Inocybe, Saturnia, 1e Edizione italiana, 1991, 437 p.
   reactions-chimiques: 
   receptacle: 
   remarques: 

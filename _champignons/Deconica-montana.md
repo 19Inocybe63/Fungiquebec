@@ -224,8 +224,7 @@ description:
   pseudo-peridioles: 
   publications: |
     Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
-    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV
-Mykoflora I  Alassio - (SV), 1998, 48 p.
+    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV, Mykoflora I, Alassio-(SV), 1998, 48 p.
   reactions-chimiques: 
   receptacle: 
   remarques: Au printemps, il n'est pas rare de voir D. montana pousser au travers les bryophytes et les mousses.

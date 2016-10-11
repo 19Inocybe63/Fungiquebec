@@ -85,6 +85,12 @@ champs-details:
     label: Fongarium
 
 champs-description:
+  - name: apothecie
+    label: Apothécie
+  - name: hymenophore
+    label: Hyménophore
+  - name: face-externe
+    label: Face externe
   - name: ascome
     label: Ascome
   - name: peridium
@@ -199,8 +205,6 @@ champs-description:
     label: Anamorphe conidien
   - name: anneau
     label: Anneau
-  - name: apothecie
-    label: Apothécie
   - name: arthroconidies
     label: Arthroconidies
   - name: ascospores
@@ -341,8 +345,6 @@ champs-description:
     label: Excipulum ectal
   - name: exoperidium
     label: Exopéridium
-  - name: face-externe
-    label: Face externe
   - name: feutrage-basal
     label: Feutrage basal
   - name: fongarium
@@ -363,8 +365,6 @@ champs-description:
     label: Hyménium
   - name: hymenocystides-cheilocystides-et-pleurocystides
     label: Hyménocystides (Cheilocystides et Pleurocystides)
-  - name: hymenophore
-    label: Hyménophore
   - name: hyphes-de-la-chair
     label: Hyphes de la chair
   - name: hyphes-de-l-anneau

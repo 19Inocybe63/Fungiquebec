@@ -70,7 +70,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -183,7 +183,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -196,7 +196,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: le printemps et l'été
   phialoconidies: 
   pied: élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau, brun marron à ochracé, 20-50 x 1-2 mm
   pieds-steriles: 
@@ -225,7 +225,7 @@ description:
   publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei N° 13, Edizioni Candusso, 2011.
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Au printemps, il n'est pas rare de voir D. montana pousser au travers les bryophytes et les mousses.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

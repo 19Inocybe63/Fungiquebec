@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, ferme, immuable, blanche
   chancre: 
-  chapeau: 
+  chapeau: campanulé, mamelonné, fibrilleux, brun tan, avec centre plus foncé, dont la marge est unie se fendillant avec l’âge, 45-51 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -113,8 +113,8 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: chloré à vieille patate (spermatique = pipéridine)
+  exhalaison-des-lames: de vieille patate
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: sinuées à échancrées, serrées,  présences de lamelles et de lamellules, crème pâle dont l’arête est légèrement + crème foncée
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: cylindrique, plein, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe/racines, 66 x 7-10 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,7 +226,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: légèrement raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 

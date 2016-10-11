@@ -153,6 +153,8 @@ champs-description:
     label: Acanthocytes
   - name: trame-lamellaire
     label: Trame lamellaire
+  - name: trame-tubulaire
+    label: Trame tubulaire
   - name: pileitrame
     label: Pileitrame
   - name: pileipellis
@@ -547,8 +549,6 @@ champs-description:
     label: Tomentum piléique
   - name: trame-hymenophorale
     label: Trame hyménophorale
-  - name: trame-tubulaire
-    label: Trame tubulaire
   - name: type
     label: Type
   - name: typique

@@ -28,6 +28,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
+  articles: Guzmán, Gastón et Ott, Jonathan. Description and Chemical Analysis of a New Species of Hallucinogenic Psilocybe from the Pacific Northwest, Mycologia, Vol. 68, No. 6 (Nov.-Dec., 1976), pp. 1261-1267, 8 p.
   ascome: 
   ascospores: 
   asques: 

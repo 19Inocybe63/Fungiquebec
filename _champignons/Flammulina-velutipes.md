@@ -251,6 +251,7 @@ description:
     Agaricus nigripes Bull., Herbier de la France 8: t. 344 (1788)
     Agaricus veluticeps Cooke & Massee, Grevillea 18 (85): 4 (1889)
     Panaeolus veluticeps Sacc., Sylloge Fungorum 9: 147 (1891)
+    Mycobank Database, http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=10374&Fields=All
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

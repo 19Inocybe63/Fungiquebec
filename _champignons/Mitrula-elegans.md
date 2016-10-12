@@ -8,12 +8,12 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157673827899631
 
 details:
-  nom-francais: 
+  nom-francais: Mitrule élégante
   autorites: Berk.
-  famille: 
+  famille: Sclerotiniaceae
   genre: Mitrula
   espece: elegans
-  litterature: 
+  litterature: Berkeley, M.J. 1875. Notices of North American fungi. Grevillea. 3(28):145-160
   collection-cueillie: 3 juin 2013
   fongarium: cKc0045
 

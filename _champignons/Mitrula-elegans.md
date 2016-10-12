@@ -14,7 +14,7 @@ details:
   genre: Mitrula
   espece: elegans
   litterature: 
-  collection-cueillie: 
+  collection-cueillie: 3 juin 2013
   fongarium: cKc0045
 
 description:
@@ -29,8 +29,12 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 
-  ascospores: 
+  ascome: charnu, formé d'une clavule et d'un pied distincts, 20-80 mm de hauteur
+  ascospores: |
+    Ascospores étroitement elliptiques, cylindriques à légèrement en forme de massue, lisses, sans septa, à contenu homogène, hyalines dans le NaCl iso, inactives dans le melzer, non cyanophiles
+    10,4 [12,4; 13,4] 15,4 x 1,3 [2; 2,3] 2,9 µm
+    Q = 3,9 [5,8; 6,7] 8,7; N = 30; C = 95%
+    Me = 12,9 x 2,1 µm; Qe = 6,3
   asques: 
   asterohyphidies: 
   avertissement: 
@@ -42,7 +46,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur feuilles, aiguilles, écailles, ramilles ou fruits, débris, billes, boues, tapis d'algues, etc., pourrissant dans les eaux peu profondes des forêts (1 décimètre concernant le sujet ci-dessus), mares, eaux en voie d'assèchement ou fossés
   boucles: 
   brachybasidioles: 
   calicule: 

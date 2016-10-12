@@ -35,7 +35,7 @@ description:
     10,4 [12,4; 13,4] 15,4 x 1,3 [2; 2,3] 2,9 µm
     Q = 3,9 [5,8; 6,7] 8,7; N = 30; C = 95%
     Me = 12,9 x 2,1 µm; Qe = 6,3
-  asques: 
+  asques: claviformes, longuement stipitées, à huit spores, 104-130 x 5,5-7,5 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -190,7 +190,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: filiformes, septées, souvent ramifiées, légèrement élargies à l'apex, 110-130 x 1,5-3 µm
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -239,8 +239,8 @@ description:
   spores: 
   spherocytes: 
   sporocystes: 
-  stipitipellis: 
-  stipititrame: 
+  stipitipellis: avec terminaisons hyphales, parfois isolées, en faisceaux ou emmêlées
+  stipititrame: constitué de trois grosseurs d’hyphes ; filiforme entre 15 x 6 µm en moyenne, fusiforme entre 35-46 x 18-20 µm en moyenne, et largement fusiforme entre 50-60 x 25-27 µm en moyenne
   stroma: 
   subhymenium: 
   subiculum: 

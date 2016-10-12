@@ -71,7 +71,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -131,7 +131,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -197,7 +197,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de mai à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

@@ -225,6 +225,8 @@ champs-description:
     label: Articles
   - name: publications
     label: Publications
+  - name: publications-microscopiques
+    label: Publications microscopiques
   - name: synonymie
     label: Synonymie
   - name: remarques

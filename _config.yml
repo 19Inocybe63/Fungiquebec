@@ -93,6 +93,8 @@ champs-description:
     label: Face externe
   - name: ascome
     label: Ascome
+  - name: capitule
+    label: Capitule
   - name: peridium
     label: Péridium
   - name: basidiome
@@ -303,8 +305,6 @@ champs-description:
     label: Calicule
   - name: capillitium
     label: Capillitium
-  - name: capitule
-    label: Capitule
   - name: cellules-hymeniales-diverticulees
     label: Cellules hyméniales diverticulées
   - name: cellules-hymeniales-en-brosses

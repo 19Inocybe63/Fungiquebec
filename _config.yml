@@ -213,6 +213,38 @@ champs-description:
     label: Boucles
   - name: hyphes
     label: Hyphes
+  - name: hyphes-de-la-chair
+    label: Hyphes de la chair
+  - name: hyphes-de-l-anneau
+    label: Hyphes de l’anneau
+  - name: hyphes-du-pied
+    label: Hyphes du pied
+  - name: hyphes-glebales
+    label: Hyphes glébales
+  - name: hyphes-gleopleres
+    label: Hyphes gléoplères
+  - name: hyphes-hymeniales
+    label: Hyphes hyméniales
+  - name: hyphes-ligatives
+    label: Hyphes ligatives
+  - name: hyphes-oleiferes
+    label: Hyphes oléifères
+  - name: hyphes-pectinees
+    label: Hyphes pectinées
+  - name: hyphes-primordiales
+    label: Hyphes primordiales
+  - name: hyphes-setales
+    label: Hyphes sétales
+  - name: hyphes-squelettiques
+    label: Hyphes squelettiques
+  - name: hyphes-skeletoligative
+    label: Hyphes skeletoligative
+  - name: hyphes-subiculaires
+    label: Hyphes subiculaires
+  - name: hyphes-tramales
+    label: Hyphes tramales
+  - name: hyphes-vesiculaires
+    label: Hyphes vésiculaires
   - name: mode-de-croissance
     label: Mode de croissance
   - name: biotopes
@@ -395,38 +427,6 @@ champs-description:
     label: Hyménium
   - name: hymenocystides-cheilocystides-et-pleurocystides
     label: Hyménocystides (Cheilocystides et Pleurocystides)
-  - name: hyphes-de-la-chair
-    label: Hyphes de la chair
-  - name: hyphes-de-l-anneau
-    label: Hyphes de l’anneau
-  - name: hyphes-du-pied
-    label: Hyphes du pied
-  - name: hyphes-glebales
-    label: Hyphes glébales
-  - name: hyphes-gleopleres
-    label: Hyphes gléoplères
-  - name: hyphes-hymeniales
-    label: Hyphes hyméniales
-  - name: hyphes-ligatives
-    label: Hyphes ligatives
-  - name: hyphes-oleiferes
-    label: Hyphes oléifères
-  - name: hyphes-pectinees
-    label: Hyphes pectinées
-  - name: hyphes-primordiales
-    label: Hyphes primordiales
-  - name: hyphes-setales
-    label: Hyphes sétales
-  - name: hyphes-squelettiques
-    label: Hyphes squelettiques
-  - name: hyphes-skeletoligative
-    label: Hyphes skeletoligative
-  - name: hyphes-subiculaires
-    label: Hyphes subiculaires
-  - name: hyphes-tramales
-    label: Hyphes tramales
-  - name: hyphes-vesiculaires
-    label: Hyphes vésiculaires
   - name: hyphidies
     label: Hyphidies
   - name: hyphique

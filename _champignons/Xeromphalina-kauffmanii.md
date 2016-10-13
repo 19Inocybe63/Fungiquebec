@@ -8,12 +8,12 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675062059436
 
 details:
-  nom-francais: 
+  nom-francais: Omphale de Kauffman
   autorites: A.H. Sm.
   famille: Mycenaceae
   genre: Xeromphalina
   espece: kauffmanii
-  litterature: 
+  litterature: Smith, A.H. 1953. New and rare agarics from the Douglas Lake region and Tahquamenon Falls State Park, Michigan, and an account of the North American species of Xeromphalina. Papers of the Michigan Academy of Sciences. 38:53-87
   collection-cueillie: 12 septembre 2015
   fongarium: cKc0460
 

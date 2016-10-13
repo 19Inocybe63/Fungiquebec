@@ -13,7 +13,7 @@ details:
   famille: Strophariaceae
   genre: Stropharia
   espece: caerulea
-  litterature: 
+  litterature: Kreisel, H. 1979. Zur Taxonomie von Stropharia aeruginosa sensu lato. Beihefte zur Sydowia. 8:228-232
   collection-cueillie: 25 octobre 2012
   fongarium: cKc0034
 
@@ -247,7 +247,9 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Psilocybe caerulea (Kreisel) Noordel., Persoonia 16 (1), 128 (1995)
+    Agaricus politus Bolton, An History of Fungusses, Growing about Halifax 1, t. 30 (1788)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

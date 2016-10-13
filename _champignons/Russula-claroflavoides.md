@@ -240,7 +240,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: Ochrosporées à Xanthosporées, IIIc-IVe, ocre foncé à jaune, ocre-orange, Romagnesi; F-H d’après le code de Kibby & Fatto
+  sporee: Ochrosporées à Xanthosporées, IIIc-IVe, ocre foncé à jaune, ocre-orange, d'après la charte de couleur de Romagnesi; F-H d’après le code de Kibby & Fatto
   spores: 
   spherocytes: 
   sporocystes: 

@@ -67,7 +67,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: comestible
   commentaires: 
   conidies: 
   conidiome: 

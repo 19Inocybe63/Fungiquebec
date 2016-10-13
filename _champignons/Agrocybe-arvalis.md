@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157673984623650
 
 details:
-  nom-francais: 
+  nom-francais: Agrocybe des champs
   autorites: (Fr.) Singer
   famille: Strophariaceae
   genre: Agrocybe
@@ -44,7 +44,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: grégaire, pousse sur sols retournés, au travers des copeaux de bois ; pousse parfois en groupe abondant de plus de 500 spécimens
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +69,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible du fait de sa grande amertume
   commentaires: 
   conidies: 
   conidiome: 

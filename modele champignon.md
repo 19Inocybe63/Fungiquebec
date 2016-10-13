@@ -224,6 +224,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
+  publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
   remarques: 

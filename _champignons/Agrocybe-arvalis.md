@@ -39,8 +39,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: cylindriques, 2-4 stérigmates, bouclées à la base, 25,6 [27,6; 30,9] 32,9 x 6,1 [7; 8,5] 9,4 µm
+  basidiospores: |
+    elliptiques-ovoïdes vue frontale à elliptiques à longuement elliptiques vue de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec appendice hilaire et pore germinatif 1-1,3 µm, à contenu variable, brun pâle avec de légers reflets rougeâtres dans le NaCl, inactives dans le melzer, non cyanophiles
+    (8,7) 9,1 [10,3; 10,8] 12 x 4,8 [5,5; 5,8] 6,5 µm
+    Q = 1,7 [1,8; 1,9] 2; N = 90; C = 95%
+    Me = 10,5 x 5,7 µm; Qe = 1,9
   basidioles: 
   basidiome: 
   bibliographies: 

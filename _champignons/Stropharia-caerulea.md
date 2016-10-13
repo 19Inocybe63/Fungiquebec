@@ -184,7 +184,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire en petit groupe
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 

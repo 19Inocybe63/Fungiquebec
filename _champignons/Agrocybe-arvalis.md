@@ -197,7 +197,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: égal ou un peu renflé à la base et légèrement radicant, tenace, creux, cotonneux blanc à l'apex, longuement strié, blanchâtre à l'apex et concolore au chapeau vers la base, ocre pâle, couvert d’un mycélium blanc à la base, couvert d’un mycélium blanc à la base, muni de petits trichoïdes de 1-4 mm de longueur; arrivant d'une sclérote de 20 à 40 mm, (40) 70-111 x (1) 3-8 mm Ø
+  pied: égal ou un peu renflé à la base et légèrement radicant, tenace, creux, cotonneux blanc à l'apex, longuement strié, blanchâtre à l'apex et concolore au chapeau vers la base, ocre pâle, couvert d’un mycélium blanc à la base, couvert d’un mycélium blanc à la base, muni de petits trichoïdes de 1-4 mm de longueur, le pied arrivant d'une pseudorhize courte, il produit de nombreux petits rhizoïdes lui procurant une grande stabilité au travers des copeaux de bois, arrivant d'une sclérote de 20 à 40 mm, (40) 70-111 x (1) 3-8 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -225,9 +225,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: KOH 10% = chapeau et lames grisonnant légèrement
   receptacle: 
-  remarques: |
-    Concernant la littérature, il faut préciser que les collections cKc0029 et cKc0114 se réfèrent surtout à Singer et non à celle de Heim, R.; Romagnesi, H. 1934. Notes systématiques sur quelques Agarics de la flore française. Première série. Bulletin de la Société Mycologique de France, 50:162-192. Je n'ai pas encore trouvé celle de Singer.
-    Le pied arrivant d'une pseudorhize courte, il produit de nombreux petits rhizoïdes lui procurant une grande stabilité au travers des copeaux de bois
+  remarques: Concernant la littérature, il faut préciser que les collections cKc0029 et cKc0114 se réfèrent surtout à Singer et non à celle de Heim, R.; Romagnesi, H. 1934. Notes systématiques sur quelques Agarics de la flore française. Première série. Bulletin de la Société Mycologique de France, 50:162-192. Je n'ai pas encore trouvé celle de Singer.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

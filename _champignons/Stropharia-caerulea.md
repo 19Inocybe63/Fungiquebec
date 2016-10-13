@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: Hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, 20-70 mm Ø, avec des taches jaunâtre décoloré, par endroit, muni de petites méchules blanches au pourtour, 20-70 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, par une dent décurrentes ou échancrées, modérément serrées à très serrées, ventrue, brun pâle ou gris-brun quand lorsque jeune, avec reflets violets gris puis violacées, violet-gris
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: égal à légèrement élargi vers la base, ferme, fragile, plein lorsque jeune puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous, glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc, 4-11 x 3-15 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 

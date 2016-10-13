@@ -193,7 +193,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: août
   phialoconidies: 
   pied: cylindique à subclaviforme, 52 x 12 mm Ø, farci, blanc, rougissant puis grisonnant au grattage
   pieds-steriles: 

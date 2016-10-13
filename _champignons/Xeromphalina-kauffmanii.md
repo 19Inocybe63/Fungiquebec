@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois mort de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -127,7 +127,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: densément grégaire, parfois densément cespiteux, in n'est pas rare de voir des centaines d'individus sur un même billot
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -193,7 +193,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

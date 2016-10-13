@@ -129,6 +129,8 @@ champs-description:
     label: Asques
   - name: paraphyses
     label: Paraphyses
+  - name: ascospores
+    label: Ascospores
   - name: excipulum
     label: Excipulum
   - name: excipulum-medullaire-superieur
@@ -139,8 +141,28 @@ champs-description:
     label: Excipulum médullaire inférieur
   - name: excipulum-ectal
     label: Excipulum ectal
-  - name: ascospores
-    label: Ascospores
+  - name: poils
+    label: Poils
+  - name: poils-basaux
+    label: Poils basaux
+  - name: poils-caulinaires
+    label: Poils caulinaires
+  - name: poils-du-cortex
+    label: Poils du cortex
+  - name: poils-externes
+    label: Poils externes
+  - name: poils-lateraux-et-caulinaires
+    label: Poils latéraux et caulinaires
+  - name: poils-marginaux
+    label: Poils marginaux
+  - name: poils-mycelien-basaux
+    label: Poils mycélien basaux
+  - name: poils-peridiaux
+    label: Poils péridiaux
+  - name: poils-peritheciaux
+    label: Poils périthéciaux
+  - name: poils-pileiques
+    label: Poils piléiques
   - name: basides
     label: Basides
   - name: basidiospores
@@ -477,28 +499,6 @@ champs-description:
     label: Pigments
   - name: plasmode
     label: Plasmode
-  - name: poils
-    label: Poils
-  - name: poils-basaux
-    label: Poils basaux
-  - name: poils-caulinaires
-    label: Poils caulinaires
-  - name: poils-du-cortex
-    label: Poils du cortex
-  - name: poils-externes
-    label: Poils externes
-  - name: poils-lateraux-et-caulinaires
-    label: Poils latéraux et caulinaires
-  - name: poils-marginaux
-    label: Poils marginaux
-  - name: poils-mycelien-basaux
-    label: Poils mycélien basaux
-  - name: poils-peridiaux
-    label: Poils péridiaux
-  - name: poils-peritheciaux
-    label: Poils périthéciaux
-  - name: poils-pileiques
-    label: Poils piléiques
   - name: pores
     label: Pores
   - name: pseudocapillitium

@@ -18,7 +18,7 @@ details:
   fongarium: cKc0034
 
 description:
-  acanthocytes: 
+  acanthocytes: présents dans le mycélium à la base du pied
   acanthophyses: 
   aiguillons: 
   aleurioconidies: 
@@ -47,13 +47,13 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse dans plate bande, sous lilas commun, sol tourné, copeaux de bois
-  boucles: 
+  boucles: abondantes dans toutes les parties
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: cylindriques courbées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -202,7 +202,7 @@ description:
   pied: égal à légèrement élargi vers la base, ferme, fragile, plein lorsque jeune puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous, glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc, 4-11 x 3-15 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -253,7 +253,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle à subparallèle
   trame-tubulaire: 
   type: 
   typique: 

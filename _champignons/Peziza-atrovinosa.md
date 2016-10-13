@@ -31,7 +31,7 @@ description:
   articles: 
   ascome: 
   ascospores: 
-  asques: octosporé, operculé, amyloïdes, 180-250 x 11-14 µm
+  asques: octosporé, operculé, IKI +b, 180-250 x 11-14 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

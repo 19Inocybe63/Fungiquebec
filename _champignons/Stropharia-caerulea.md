@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, bleuâtre au début, puis paille, bleu-vert vers la base du pied
   chancre: 
-  chapeau: Hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, 20-70 mm Ø, avec des taches jaunâtre décoloré, par endroit, muni de petites méchules blanches au pourtour, 20-70 mm Ø
+  chapeau: Hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtre décoloré par endroit, muni de petites méchules blanches au pourtour, 20-70 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -113,8 +113,8 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte à aigre-herbacée
+  exhalaison-des-lames: indistincte à aigre-herbacée
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
@@ -227,12 +227,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte, douce à fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun ambre à brun-pourpre
   spores: 
   spherocytes: 
   sporocystes: 
@@ -254,7 +254,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: membraneux, blanc, laissant un anneau fragmentaire à incomplet même lorsque jeune, fragile, fugace, presque réduit à une zone annuliforme à maturirté
   volve: 
   zone-perihymeniale: 
 ---

@@ -26,7 +26,7 @@ description:
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
-  anneau: 
+  anneau: non
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
@@ -59,9 +59,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, immuable, hyaline à blanchâtre
   chancre: 
-  chapeau: 
+  chapeau: convexe à campanulé, puis étalé, mamelonné, non visqueux, non hygrophane, glabre, zonés de couleurs différentes du disque vers la marge, ocre foncé au centre et crème pâle vers la marge au frais, uniformément ocre foncé au sec, à marge droite à relevée avec l'âge, dont la marge est unie, crème jeune, devenant plus foncée à maturité, légèrement récurvée avec l’âge, 11 x 53 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -115,8 +115,8 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: fongique
+  exhalaison-des-lames: indistincte à légèrement fongique
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
@@ -165,7 +165,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées à libres, larges, minces, cunéiformes, serrées, avec lamelles et lamellules, dont l’arête est sérulées, ocre à ocre foncé presque concolore au chapeau, à arêtes plus foncées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -182,7 +182,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire, dispersé
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -197,7 +197,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: égal ou un peu renflé à la base et légèrement radicant, tenace, creux, cotonneux blanc à l'apex, longuement strié, blanchâtre à l'apex et concolore au chapeau vers la base, ocre pâle, couvert d’un mycélium blanc à la base, couvert d’un mycélium blanc à la base, muni de petits trichoïdes de 1-4 mm de longueur; arrivant d'une sclérote de 20 à 40 mm, (40) 70-111 x (1) 3-8 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -223,18 +223,20 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: KOH 10% = chapeau et lames grisonnant légèrement
   receptacle: 
-  remarques: Concernant la littérature, il faut préciser que les collections cKc0029 et cKc0114 se réfèrent surtout à Singer et non à celle de Heim, R.; Romagnesi, H. 1934. Notes systématiques sur quelques Agarics de la flore française. Première série. Bulletin de la Société Mycologique de France, 50:162-192. Je n'ai pas encore trouvé celle de Singer.
+  remarques: |
+    Concernant la littérature, il faut préciser que les collections cKc0029 et cKc0114 se réfèrent surtout à Singer et non à celle de Heim, R.; Romagnesi, H. 1934. Notes systématiques sur quelques Agarics de la flore française. Première série. Bulletin de la Société Mycologique de France, 50:162-192. Je n'ai pas encore trouvé celle de Singer.
+    Le pied arrivant d'une pseudorhize courte, il produit de nombreux petits rhizoïdes lui procurant une grande stabilité au travers des copeaux de bois
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: très amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun à brun foncé
   spores: 
   spherocytes: 
   sporocystes: 
@@ -264,8 +266,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: non
+  voile-partiel: non
   volve: 
   zone-perihymeniale: 
 ---

@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes élancées, tétrastérigmates, non bouclées à la base, à contenu vacuolaires, 42 [44,4; 51] 53,4 x 12,1 [12,2; 12,6] 12,8 µm en moyenne
+  basidiospores: |
+    elliptiques vue frontale à subglobuleuses à largement elliptiques vue de profil, verruqueuses à échinulées et rarement réticulées, avec proéminences jusqu’à 0,9 µm de hauteur, à paroi mince, avec appendice hilaire et plage hilaire pas toujours bien visible jusqu’à 2,1 x 2,6 µm Ø en moyenne, à contenu uniguttulé dans le NaCl isotonique 0,9 %, hyalines dans le NaCl iso, amyloïdes
+    7,8 [8,7; 9] 9,9 x 6,7 [7,3; 7,6] 8,2 µm
+    Q = 1 [1,2] 1,3; N = 30; C = 95%
+    Me = 8,9 x 7,5 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -60,7 +64,7 @@ description:
   chair: friable, blanche
   chancre: 
   chapeau: convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon, non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge, 54 mm Ø
-  cheilocystides: 
+  cheilocystides: peu abondantes et non proéminentes, cylindriques, Sulfobenzaldéhyde négatif (SBA-)
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -147,7 +151,7 @@ description:
   hyphes-ligatives: 
   hyphes-oleiferes: 
   hyphes-pectinees: 
-  hyphes-primordiales: 
+  hyphes-primordiales: fortement incrustées
   hyphes-setales: 
   hyphes-squelettiques: 
   hyphes-skeletoligative: 
@@ -198,12 +202,12 @@ description:
   pied: cylindique à subclaviforme, 52 x 12 mm Ø, farci, blanc, rougissant puis grisonnant au grattage
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis
   pileitrame: 
-  pileocystides: 
+  pileocystides: rares, petits, Sulfobenzaldéhyde négatif (SBA-)
   plasmode: 
-  pleurocystides: 
-  poils: 
+  pleurocystides: abondantes, cylindriques avec apex rostrées, mucronées, fusiformes et plus rarement moniliformes, Sulfobenzaldéhyde négatif (SBA-), 42,9 [54,9; 78,8] 90,8 x 7,1 [9,3; 13,6] 15,7 µm en moyenne
+  poils: septées
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

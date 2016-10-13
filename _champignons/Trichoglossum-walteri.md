@@ -231,7 +231,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: L'utilisation d'un microscope est essentielle pour détecter la présence de poils ; une loupe 10x est insuffisante.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -29,9 +29,14 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 
-  ascospores: 
-  asques: 
+  ascome: jusqu'à 90 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts
+  ascospores: |
+    cylindriques étroites, fusiformes à claviformes, lisses, parfois entre 2 et 3 septa, plus souvent à 7 septa, fuligineuses à brun pâle dans l’eau glycérinée 20 %
+    (84,6) 87,9 - 97,8 (100,3) × (5) 5,3 - 6 (6,1) µm
+    Q = (14,5) 14,8 - 17,9 (18,3) ; N = 30
+    Me = 92,7 × 5,6 µm ; Qe = 16,5
+    (Piximètre: formule classique)
+  asques: fusiformes à clavés, atténués vers l'apex, à 8 spores parallèles, avec l'anneau apical amyloïde (bleu dans le melzer), jusqu'à (162,4) 162,43 - 195,8 × (17,2) 17,22 - 21 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -47,7 +52,7 @@ description:
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 
+  capitule: 10-20 mm de hauteur, 3-5 mm Ø, occupant 1/3-1/2 de l'ascome total, étroitement ellipsoïde à lancéolé, parfois comprimé avec un sillon vertical distinct descendant vers la base, noir brunâtre
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 
@@ -186,7 +191,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: cylindriques-filiformes, septées, brunes, légèrement clavées et courbes à spiralées à l'apex
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -195,7 +200,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: jusqu'à 2 mm Ø, cylindrique, aplati à comprimé, densément velouté, concolore au capitule à brunâtre, avec des poils noir de jais et émergentes
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -203,7 +208,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: 
+  poils: nombreux, droits, distinctifs, acuminés, non fourchus à la base, brun foncé, noirs, (214,8) 217 - 248,4 (254) × (5,8) 6 - 8,5 (9,4) µm
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

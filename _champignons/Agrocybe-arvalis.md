@@ -48,7 +48,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: grégaire, pousse sur sols retournés, au travers des copeaux de bois ; pousse parfois en groupe abondant de plus de 500 spécimens
+  biotopes: pousse sur sols retournés, au travers des copeaux de bois
   boucles: observées dans la trame lamellaire et le mycélium basal
   brachybasidioles: 
   calicule: 
@@ -187,7 +187,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: grégaire, dispersé
+  mode-de-croissance: grégaire, dispersé, pousse parfois en groupe abondant de plus de 500 spécimens
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 

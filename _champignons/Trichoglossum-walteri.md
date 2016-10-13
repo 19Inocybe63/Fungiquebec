@@ -72,7 +72,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -185,7 +185,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -198,7 +198,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: jusqu'à 2 mm Ø, cylindrique, aplati à comprimé, densément velouté, concolore au capitule à brunâtre, avec des poils noir de jais et émergentes
   pieds-steriles: 

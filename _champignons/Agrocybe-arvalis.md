@@ -205,7 +205,7 @@ description:
   pied: égal ou un peu renflé à la base et légèrement radicant, tenace, creux, cotonneux blanc à l'apex, longuement strié, blanchâtre à l'apex et concolore au chapeau vers la base, ocre pâle, couvert d’un mycélium blanc à la base, couvert d’un mycélium blanc à la base, muni de petits trichoïdes de 1-4 mm de longueur, le pied arrivant d'une pseudorhize courte, il produit de nombreux petits rhizoïdes lui procurant une grande stabilité au travers des copeaux de bois, arrivant d'une sclérote de 20 à 40 mm, (40) 70-111 x (1) 3-8 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: subcutis en épithélium avec un couche superficielle (épicutis) hyménidermique
+  pileipellis: subcutis en épithélium avec un couche superficielle (épicutis) hyménodermique
   pileitrame: 
   pileocystides: 
   plasmode: 

@@ -49,13 +49,13 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: grégaire, pousse sur sols retournés, au travers des copeaux de bois ; pousse parfois en groupe abondant de plus de 500 spécimens
-  boucles: 
+  boucles: observées dans la trame lamellaire et le mycélium basal
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: polymorphes, cylindriques-clavées, fusiformes, lagéniformes 68,3 [70,8; 82,6] 85,1 x 14,7 [15,7; 20,3] 21,2 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -144,7 +144,7 @@ description:
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: incrustées dans le mycélium basal
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -205,11 +205,11 @@ description:
   pied: égal ou un peu renflé à la base et légèrement radicant, tenace, creux, cotonneux blanc à l'apex, longuement strié, blanchâtre à l'apex et concolore au chapeau vers la base, ocre pâle, couvert d’un mycélium blanc à la base, couvert d’un mycélium blanc à la base, muni de petits trichoïdes de 1-4 mm de longueur, le pied arrivant d'une pseudorhize courte, il produit de nombreux petits rhizoïdes lui procurant une grande stabilité au travers des copeaux de bois, arrivant d'une sclérote de 20 à 40 mm, (40) 70-111 x (1) 3-8 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: subcutis en épithélium avec un couche superficielle (épicutis) hyménidermique
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: dispersées, largement clavées, lagéniformes, sublécythiformes 45,1 [49,7; 57,3] 61,9 x 15,7 [19,7; 26,2] 30,2 µm, avec 3 à 8 digitations apicales 10,4 [12,7; 15,9] 18,2 x 2,4 [3,2; 4,3] 5,1 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -226,7 +226,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Watling, R. Bolbitiaceae, Agrocybe, Bolbitius & Conocybe, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
+  publications: |
+    Alexander H. Smith, Helen V. Smith, Nancy S. Weber. How to know the gilled mushrooms, Publisher William C. Brown Pub; 2 edition (June 1979).
+    Watling, R. Bolbitiaceae, Agrocybe, Bolbitius & Conocybe, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -268,7 +270,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   type: 
   typique: 

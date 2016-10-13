@@ -224,6 +224,11 @@ description:
     Bon, Marcel et Roux, Pierre. Le Genre Gymnopilus P. Karst., en Europe, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
     Hesler, L. R. North American Species of Gymnopilus, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir, Hafner Publishing Company New York and London, 1969
     Murrill, William Alphonso. Agaricaceae, Murrill, Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: KOH 10% cuticule du chapeau devient noire
   receptacle: 
   remarques: D’après Maria Teresa Basso (Manuale di Microscopia dei Funghi, vol. 2), les hyménocystides deviennent légèrement verdâtre en Bleu coton; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. Cette collection fut confirmée par Rocky Houghtby, de Mushrooms Observer.

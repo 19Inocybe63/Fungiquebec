@@ -25,13 +25,13 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: 12-50 mm Ø, cupuliforme, assez profonde, devenant crispé à plissé avec l'âge ou par la pression et le chevauchement des autres pezizes
   arete-lamellaire: 
   arthroconidies: 
   articles: 
   ascome: 
   ascospores: 
-  asques: 
+  asques: octosporé, operculé, amyloïdes, 180-250 x 11-14 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -122,7 +122,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exoperidium: 
-  face-externe: 
+  face-externe: finement granuleuse, face externe cannelle surface brun fumé
   face-poroide: 
   feutrage-basal: 
   fongarium:
@@ -136,7 +136,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
-  hymenophore: 
+  hymenophore: lisse, brun surface intérieure devenant presque noir avec une teinte olivâtre d'un saupoudrage de spores
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: absent
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -222,7 +222,7 @@ description:
   publications: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Exhalaison spermatique et légèrement de chlore une fois réhydraté
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

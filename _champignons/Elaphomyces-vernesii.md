@@ -222,7 +222,7 @@ description:
   publications: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
+  remarques: Il s'agit d'une nouvelle espèce E. vernesii sp. nov. Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

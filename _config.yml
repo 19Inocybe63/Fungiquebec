@@ -111,6 +111,8 @@ champs-description:
     label: Voile général
   - name: voile-partiel
     label: Voile partiel
+  - name: anneau
+    label: Anneau
   - name: cortine
     label: Cortine
   - name: chair
@@ -281,8 +283,6 @@ champs-description:
     label: Anamorphe
   - name: anamorphe-conidien
     label: Anamorphe conidien
-  - name: anneau
-    label: Anneau
   - name: arthroconidies
     label: Arthroconidies
   - name: asterohyphidies

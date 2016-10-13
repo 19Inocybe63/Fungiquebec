@@ -28,7 +28,10 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Ohenoja, Esteri. Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
+    Kucera, Viktor, Lizon, Pavel et al., Geoglossoid fungi in Slovakia II. Trichoglossum octopartitum, a new species for the country, Czech Mycol. 62 (1), 13-18, 2010, 6 p.
+    Kaufholtz-Couture, C. Clé des espèces du genre Trichoglossum au Québec, Publication libre, avril 2016, 3 p.
   ascome: jusqu'à 90 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts
   ascospores: |
     cylindriques étroites, fusiformes à claviformes, lisses, parfois entre 2 et 3 septa, plus souvent à 7 septa, fuligineuses à brun pâle dans l’eau glycérinée 20 %

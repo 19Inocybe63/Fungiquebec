@@ -26,7 +26,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: fertile
   arthroconidies: 
   articles: 
   ascome: 
@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: clavées, tétrastérigmates, à paroi mince, 21-25 x 4-5 µm
+  basidiospores: |
+    elliptiques vue de front, elliptiques à oblongues vue de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu homogène, hyalines dans le NaCl iso, faiblement amyloïdes dans le melzer, fortement cyanophiles
+    (4,5) 4,9-6 (7) x (2,7) 2,9-3,4 (3,9) µm
+    Q = (1,5) 1,6-1,9 (2,1); N = 30
+    Me = 5,5 x 3,1 µm; Qe = 1,8
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -49,7 +53,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: souvent en faisceaux, clavées à fusiformes, à paroi mince, hyalines, 19-38 x 6-13 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -57,10 +61,10 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, ferme, crème à concolore à la surface du chapeau
   chancre: 
-  chapeau: 
-  cheilocystides: 
+  chapeau: convexe déprimé, étalé et ombiliqué, glabre, lisse, jaunâtre à orangé, orangé plus foncé au centre, marge parfois ondulée et blanchâtre, 8-17 mm Ø
+  cheilocystides: abondantes, polymorphes, lagéniformes, cylindriques à largement cylindriques, fusiformes à largement fusiformes, 22-50 x 9-10 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -113,8 +117,8 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
@@ -163,7 +167,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: décurrentes, interveinées, subespacées, crème à jaune pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,14 +199,14 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: cylindrique, égal, légèrement élargie à la base, finement velouté, jaune à l'apex, brun bourgogne jusqu'à la base, avec mycélium basale cannelle, 7-10 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: occasionnelles, similaires aux cheilocystides
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -227,12 +231,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce avec une finale amarescente
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans les sapinières à bouleau
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: friable, blanche
   chancre: 
-  chapeau: 
+  chapeau: convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon, non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge, 54 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -113,8 +113,8 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: légèrement fruitée
+  exhalaison-des-lames: légèrement fruitée
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: cylindique, 52 x 12 mm Ø, farci, blanc, rougissant puis grisonnant au grattage
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -221,18 +221,18 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: NH4OH 10% = non observée; FeSO4 = négatives; KOH 10% = négative sur le pied
   receptacle: 
-  remarques: 
+  remarques: Toutes les parties noircissent avec l’âge.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: Ochrosporées à Xanthosporées, IIIc-IVe, ocre foncé à jaune, ocre-orange, Romagnesi; F-H d’après le code de Kibby & Fatto
   spores: 
   spherocytes: 
   sporocystes: 
@@ -253,8 +253,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: non
+  voile-partiel: non
   volve: 
   zone-perihymeniale: 
 ---

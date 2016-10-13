@@ -193,6 +193,10 @@ champs-description:
     label: Caulocystides médianes
   - name: caulocystides-sommitales
     label: Caulocystides sommitales
+  - name: stipitipellis
+    label: Stipitipellis
+  - name: stipititrame
+    label: Stipititrame
   - name: acanthocytes 
     label: Acanthocytes
   - name: trame-lamellaire
@@ -529,10 +533,6 @@ champs-description:
     label: Sphérocytes
   - name: sporocystes
     label: Sporocystes
-  - name: stipitipellis
-    label: Stipitipellis
-  - name: stipititrame
-    label: Stipititrame
   - name: stroma
     label: Stroma
   - name: subhymenium

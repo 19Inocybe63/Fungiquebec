@@ -233,6 +233,11 @@ description:
     Murrill, William Alphonso, Kauffman, Calvin Henry Overholts, Lee Oras, Agaricaceae (Murrill) ; Inocybe (Kauffman) ; Pholiota (Overholts), North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
     Kuyper, Thomas W. A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe, Rijksherbarium, Leiden 1986, 134 p.
     Stangl, Johann. Guida alla determinazione dei funghi Vol. 3° Inocybe, Saturnia, 1e Edizione italiana, 1991, 437 p.
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
   remarques: En ce moment, nous réalisons une publication sur le genre Inocybe s.l. du Québec. C'est pourquoi nous ne présentons qu'une seule espèce dans le site.

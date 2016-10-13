@@ -71,7 +71,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: toxique, contenant de la psilocybine
   commentaires: 
   conidies: 
   conidiome: 
@@ -131,7 +131,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

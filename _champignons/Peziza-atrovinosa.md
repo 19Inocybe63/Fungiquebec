@@ -30,7 +30,12 @@ description:
   arthroconidies: 
   articles: 
   ascome: 
-  ascospores: 
+  ascospores: |
+    ellipsoïdales, réticulées, à paroi mince ornée d’un réseau cyanophile lâche, marqué de crêtes élevées, jusqu’à 1,3 µm, à contenu uniguttulé à biguttulé, hyalines dans l'eau glycérinée 20 %, cyanophiles
+    (10,9) 11,7 - 12,9 (13,2) × (6,8) 7 - 7,6 (7,9) µm
+    Q = (1,4) 1,6 - 1,79 (1,8) ; N = 30
+    Me = 12,2 × 7,3 µm ; Qe = 1,7
+    (Piximètre = formule classique ; mesures dans le bleu Coton lactique, sans les ornementations)
   asques: octosporé, operculé, IKI +b, 180-250 x 11-14 µm
   asterohyphidies: 
   avertissement: 
@@ -116,9 +121,9 @@ description:
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   excipulum: 
-  excipulum-medullaire-superieur: 
+  excipulum-medullaire-superieur: de textura globulosa-angularis
   excipulum-medullaire-moyen: 
-  excipulum-medullaire-inferieur: 
+  excipulum-medullaire-inferieur: de textura globulosa-angularis
   excipulum-ectal: 
   exhalaison: 
   exoperidium: 
@@ -186,7 +191,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: cylindriques à claviformes, parfois subcapitées, droites, septées, 100-140 x 4-5 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -203,7 +208,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: 
+  poils: en chaînes, amorphes, brun, de la région marginale
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -222,7 +227,7 @@ description:
   publications: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Exhalaison spermatique et légèrement de chlore une fois réhydraté
+  remarques: Exhalaison spermatique et légèrement de chlore une fois réhydraté. Étude microscopique réalisée sur matériel réhydraté, c'est pourquoi il est probable que sur le frais, l'excipulum médullaire supérieur et inférieur soit de textura globulosa. Autant de motifs pour rester prudent sur l'identification.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -241,7 +246,9 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Aleurina atrovinosa (Cooke & W.R. Gerard) Seaver, The North American Cup-Fungi (Operculates) (3): 101 (1928)
+    Galactinia atrovinosa (Cooke & W.R. Gerard) Le Gal, Bulletin de la Société Mycologique de France 78: 207 (1962)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

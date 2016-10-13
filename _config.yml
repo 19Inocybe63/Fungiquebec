@@ -129,6 +129,16 @@ champs-description:
     label: Asques
   - name: paraphyses
     label: Paraphyses
+  - name: excipulum
+    label: Excipulum
+  - name: excipulum-medullaire-superieur
+    label: Excipulum médullaire supérieur
+  - name: excipulum-medullaire-moyen
+    label: Excipulum médullaire moyen
+  - name: excipulum-medullaire-inferieur
+    label: Excipulum médullaire inférieur
+  - name: excipulum-ectal
+    label: Excipulum ectal
   - name: ascospores
     label: Ascospores
   - name: basides
@@ -335,16 +345,6 @@ champs-description:
     label: Espèces Identification
   - name: especes-semblables
     label: Espèces semblables
-  - name: excipulum
-    label: Excipulum
-  - name: excipulum-medullaire-superieur
-    label: Excipulum médullaire supérieur
-  - name: excipulum-medullaire-moyen
-    label: Excipulum médullaire moyen
-  - name: excipulum-medullaire-inferieur
-    label: Excipulum médullaire inférieur
-  - name: excipulum-ectal
-    label: Excipulum ectal
   - name: exoperidium
     label: Exopéridium
   - name: feutrage-basal

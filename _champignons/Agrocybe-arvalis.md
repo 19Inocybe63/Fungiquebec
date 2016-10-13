@@ -225,7 +225,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Concernant la littérature, il faut préciser que les collections cKc0029 et cKc0114 se réfèrent surtout à Singer et non à celle de Heim, R.; Romagnesi, H. 1934. Notes systématiques sur quelques Agarics de la flore française. Première série. Bulletin de la Société Mycologique de France, 50:162-192. Je n'ai pas encore trouvé celle de Singer.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

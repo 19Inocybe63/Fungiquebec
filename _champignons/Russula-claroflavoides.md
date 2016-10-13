@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: cylindique, 52 x 12 mm Ø, farci, blanc, rougissant puis grisonnant au grattage
+  pied: cylindique à subclaviforme, 52 x 12 mm Ø, farci, blanc, rougissant puis grisonnant au grattage
   pieds-steriles: 
   pigments: 
   pileipellis: 

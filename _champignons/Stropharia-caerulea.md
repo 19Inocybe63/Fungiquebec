@@ -8,7 +8,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157671660314714
 
 details:
-  nom-francais: 
+  nom-francais: Strophaire bleutée
   autorites: Kreisel
   famille: Strophariaceae
   genre: Stropharia

@@ -64,7 +64,8 @@ description:
   chair: mince, bleuâtre au début, puis paille, bleu-vert vers la base du pied
   chancre: 
   chapeau: Hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtre décoloré par endroit, muni de petites méchules blanches au pourtour, 20-70 mm Ø
-  cheilocystides: en chrysocystides abondantes, clavées à largement fusiformes, mucronées, de 40 µm x 14 µm en moyenne
+  cheilochrysocystides: abondantes, clavées à largement fusiformes, mucronées, de 40 µm x 14 µm en moyenne
+  cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

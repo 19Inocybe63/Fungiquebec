@@ -15,7 +15,7 @@ details:
   famille: Strophariaceae
   genre: Agrocybe
   espece: arvalis
-  litterature: 
+  litterature: Singer...
   collection-cueillie: 18 août 2012; 13 septembre 2013
   fongarium: cKc0029; cKc0114
 

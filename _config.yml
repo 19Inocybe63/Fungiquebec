@@ -269,8 +269,8 @@ champs-description:
     label: Publications microscopiques
   - name: synonymie
     label: Synonymie
-  - name: nouvelle-espèce
-    label: Nouvelle espèce
+  - name: première-mention
+    label: Première mention
   - name: remarques
     label: Remarques
   - name: commentaires

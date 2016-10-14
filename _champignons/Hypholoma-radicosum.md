@@ -236,7 +236,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Cette collection n'a pas sporulé. L'étude de la spore fut réalisée dans les lames, dans le Rouge Congo ammoniacal.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

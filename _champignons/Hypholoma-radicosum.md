@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur bois pourri enfoui de conifères
+  biotopes: pousse au sol, sur bois pourri et souvent enfoui de conifères
   boucles: 
   brachybasidioles: 
   calicule: 

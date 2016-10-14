@@ -223,7 +223,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Kibby, Geoffrey & Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

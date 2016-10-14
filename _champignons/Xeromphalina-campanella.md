@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: mince, flexible, jaunâtre orangée à brunâtre
   chancre: 
-  chapeau: convexe à largement convexe, déprimé au centre, ombiliqué, graisseux, lisse, subhygrophane, jaune-brun, brun orangé à rouille orangé vers le centre au début, puis brun orangé à brun cannelle, jaunâtre à jaune ocre vers le bord, à marge enroulée au début, translucide-striée jusqu'aux 3/4 du rayon à l'humidité, 3-25 mm Ø
+  chapeau: convexe à largement convexe, déprimé au centre, ombiliqué, graisseux, lisse, subhygrophane, jaune-brun, brun orangé à rouille orangé vers le centre au début, puis brun orangé à brun cannelle, jaunâtre à jaune ocre vers le bord, à marge enroulée au début, translucide-striée jusqu'aux ¾ du rayon à l'humidité, 3-25 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 

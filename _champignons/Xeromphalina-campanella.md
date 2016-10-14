@@ -28,7 +28,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: Voitk, Andrus. Xeromphalina enigmatica, Omphalina Vol. VII, No 2, Feb 24, 2016, pp. 15-19.
   ascome: 
   ascospores: 
   asques: 
@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bille de bois pourri de conifère
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -127,7 +127,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire et parfois densément cespiteux, rarement isolé
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -193,7 +193,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

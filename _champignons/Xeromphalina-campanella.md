@@ -28,7 +28,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Voitk, Andrus. Xeromphalina enigmatica, Omphalina Vol. VII, No 2, Feb 24, 2016, pp. 15-19.
+  articles: |
+    Miller, Orson K. Jr. A Revision of the Genus Xeromphalina, Mycological Society of America, Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188, 34 p.
+    Voitk, Andrus. Xeromphalina enigmatica, Omphalina Vol. VII, No 2, Feb 24, 2016, pp. 15-19.
   ascome: 
   ascospores: 
   asques: 
@@ -224,7 +226,11 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
   remarques: Miller indique la présence occasionnelle de piléocystides pour X. campanella ; je n'en ai pas observé dans cette collection (Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188)

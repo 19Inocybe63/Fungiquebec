@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois enfoui de conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre
   chancre: 
-  chapeau: 
+  chapeau: convexe puis étalé, lisse, crème à jaunâtre, fauve au disque, orné de fibrilles blanches vers la marge, 20-50 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -113,8 +113,8 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: désagréable
+  exhalaison-des-lames: désagréable
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, serrées, blanches puis grisâtres-brunâtres, à arêtes blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: cylindrique, égal, renflé et radicant à la base, parfois longuement, chiné ou squamuleux, blanc vers l'apex, brun rouille vers la base, 60-120 x 4-8 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -221,6 +221,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
+  pseudorhize: bien développée
   publications: 
   publications-microscopiques: 
   reactions-chimiques: 
@@ -229,12 +230,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun pourpre
   spores: 
   spherocytes: 
   sporocystes: 
@@ -262,7 +263,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: cortinoïde, blanc, fugace
   volve: 
   zone-perihymeniale: 
 ---

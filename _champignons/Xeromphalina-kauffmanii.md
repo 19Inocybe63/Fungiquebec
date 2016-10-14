@@ -28,7 +28,7 @@ description:
   apothecie: 
   arete-lamellaire: fertile
   arthroconidies: 
-  articles: 
+  articles: Aldrovandi, Matthew S. P., Johnson, James E. et al. Xeromphalina campanella-kauffmanii complex, The Mycological Society of America, 2015, 44 p.
   ascome: 
   ascospores: 
   asques: 

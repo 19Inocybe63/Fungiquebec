@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bille de bois pourri de conifère
+  biotopes: pousse sur bille de bois pourri de conifères
   boucles: 
   brachybasidioles: 
   calicule: 

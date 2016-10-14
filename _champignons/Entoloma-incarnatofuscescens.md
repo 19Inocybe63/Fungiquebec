@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans la sphaigne, non loin d'un chêne à gros fruits
+  biotopes: pousse dans la sphaigne, non loin d'un chêne à gros fruits, dans les chênaies-hêtraies.
   boucles: observées à la base des basides et sur les hyphes du stipitipellis
   brachybasidioles: 
   calicule: 

@@ -57,7 +57,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, jaune pâle, immuable
   chancre: 
   chapeau: convexe-campanulé, légèrement déprimé, mamelonné-ombonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche, comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé, 11-55 mm Ø
   cheilocystides: 

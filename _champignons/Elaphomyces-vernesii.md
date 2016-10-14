@@ -183,7 +183,7 @@ description:
   mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
-  nouvelle-espece: Elaphomyces vernesii sp. nov., d'après Michael Castellano, « E. vernesii sp. nov. known only from Canada »
+  nouvelle-espece: Elaphomyces vernesii sp. nov., d'après Michael Castellano, « E. vernesii sp. nov. known only from Canada ».
   note-taxonomique: 
   oeuf: 
   paracapillitium: 

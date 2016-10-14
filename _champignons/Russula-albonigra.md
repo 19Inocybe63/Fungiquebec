@@ -28,7 +28,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Kibby, Geoffrey. Key to blackening species of Russula of section Compactae, Field Mycology Volume 2(3), July 2001, pp. 95-97, 3 p.
   ascome: 
   ascospores: 
   asques: 

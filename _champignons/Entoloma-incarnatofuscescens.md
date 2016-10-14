@@ -37,19 +37,24 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes à largement clavées, 2-4 stérigmates, non bouclées à la base
+  basidiospores: |
+    isodiamétriques à 5-6 côtés, à contenu uniguttulé à pluriguttulé, hyalines
+    7,7 [8,3; 8,7] 9,4 x 6,2 [6,8; 7,2] 7,9 µm
+    Q = 1,1 [1,2; 1,3] 1,4; N = 21; C = 95%
+    Me = 8,5 x 7 µm; Qe = 1,2
+    Il faut tenir compte que j'ai mesuré des spores issues des lames
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
-  boucles: 
+  biotopes: pousse dans la sphaigne, non loin d'un chêne à gros fruits
+  boucles: observées à la base des basides et sur les hyphes du stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: cylindriques, subfusiformes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -59,8 +64,8 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
-  cheilocystides: 
+  chapeau: omphalinoïd, ombiliqué, sec, fibrilleux, violet, 7 mm Ø
+  cheilocystides: cylindriques, en éperons à mucronées
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -127,7 +132,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -163,7 +168,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: décurrentes, espacées, avec lamellules, blanches, à arêtes concolore
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -180,7 +185,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé ou en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -194,16 +199,16 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: août
   phialoconidies: 
-  pied: 
+  pied: cylindrique, égal, légèrement plus pâle à l'apex, concolore au chapeau, glabre, avec bulbe blanchâtre à la base, 30-32 x 1-2 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: avec hyphes ascendant en trichoderme
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: non observées
   poils: 
   poils-basaux: 
   poils-caulinaires: 

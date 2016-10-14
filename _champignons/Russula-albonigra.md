@@ -223,7 +223,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: Soluté de gaïac = endéans 5" S ++ (3 = moyenne) & après 5" L ++ (3 = moyenne)
+  reactions-chimiques: Soluté de gaïac = endéans 5" S ++ (3 = moyenne) et après 5" L ++ (3 = moyenne)
   receptacle: 
   remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement ; elle noircit.
   repartition: 

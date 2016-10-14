@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, cassante, blanche, grisonnant puis noircissant à la coupe ou au grattage
   chancre: 
-  chapeau: 
+  chapeau: convexe puis étalé-déprimé, infundibuliforme à maturité, ferme, glabre, mat, blanchâtre au début, puis brun grisâtre ou noirâtre, finalement entièrement noir, à marge unie 22 x 42 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -113,8 +113,8 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: légère, agréable
+  exhalaison-des-lames: légère, agréable
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, étroites, avec nombreuses lamellules, serrées, blanc crème à chamois, noircissant au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: subégal, dur, glabre, blanc, devenant grisâtre ou gris brunâtre au froissement, 19-29 x 7-11 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -223,13 +223,13 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: Soluté de gaïac = endéans 5" S ++ (3 = moyenne) & après 5" L ++ (3 = moyenne)
   receptacle: 
-  remarques: 
+  remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement ; elle noircit.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce ± mentholée
   sclerocystides: 
   sclerote: 
   soies: 

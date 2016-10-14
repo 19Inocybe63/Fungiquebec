@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: convexe-campanulé, légèrement déprimé, mamelonné-ombonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche, comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé, 11-55 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -112,15 +112,14 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
-  exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -163,7 +162,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, serrées, concolore au chapeau, dont l'arête lamellaire semble givrée, fimbriée, présence de lamelles et de lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -196,7 +195,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: cylindrique, plein, courbé, concolore au chapeau, 21-55 x 2-7 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -229,12 +228,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: pallidosporé en tas, crème pâle
   spores: 
   spherocytes: 
   sporocystes: 
@@ -263,7 +262,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: fugace, blanc, présent à la marge du chapeau, où il forme de petites pointes
   volve: 
   zone-perihymeniale: 
 ---

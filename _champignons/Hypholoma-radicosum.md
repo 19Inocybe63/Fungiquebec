@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: cylindrique, égal, renflé et radicant à la base, parfois longuement, chiné ou squamuleux, blanc vers l'apex, brun rouille vers la base, 60-120 x 4-8 mm Ø
+  pied: cylindrique, égal, renflé et radicant à la base, parfois longuement, chiné ou squamuleux, avec pseudorhize bien développée, blanc vers l'apex, brun rouille vers la base, 60-120 x 4-8 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -221,7 +221,6 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  pseudorhize: bien développée
   publications: 
   publications-microscopiques: 
   reactions-chimiques: 

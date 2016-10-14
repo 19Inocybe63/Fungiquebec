@@ -39,7 +39,7 @@ description:
   base-stipitiforme: 
   basides: capitées à utriformes, tétrastérigmates 12-22 x 5-7 µm en moyenne
   basidiospores: |
-  elliptiques-oblongues vue de profil à subamygdaliformes vue frontale, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire, et petit pore germinatif, à contenu variable, brun pâle dans le NaCl, inactive dans le Melzer, non cyanophiles
+    elliptiques-oblongues vue de profil à subamygdaliformes vue frontale, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire, et petit pore germinatif, à contenu variable, brun pâle dans le NaCl, inactive dans le Melzer, non cyanophiles
     5,8 [6,8; 7,2] 8,1 x 3,8 [4,4; 4,6] 5,1 µm
     Q = 1,5 [1,54; 1,6] 1,7; N = 30; C = 95%
     Me = 7 x 4,5 µm; Qe = 1,6

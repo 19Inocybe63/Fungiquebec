@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, flexible, jaunâtre orangée à brunâtre
   chancre: 
-  chapeau: 
+  chapeau: convexe à largement convexe, déprimé au centre, ombiliqué, graisseux, lisse, subhygrophane, jaune-brun, brun orangé à rouille orangé vers le centre au début, puis brun orangé à brun cannelle, jaunâtre à jaune ocre vers le bord, à marge enroulée au début, translucide-striée jusqu'aux 3/4 du rayon à l'humidité, 3-25 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -113,8 +113,8 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: arquées, décurrentes, parfois fourchues, interveinées, avec lamelles et lamellules, subespacées à serrées, crème jaunâtre, orangé à ocre brunâtre, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: cylindrique, légèrement élargi vers la base, parfois subbulbeux, souvent courbe, cartilagineux, creux, pruineux puis glabre, lisse, souvent luisant, jaunâtre vers l'apex, brun foncé à brun rougeâtre vers la base, tomenteux fauve brillant, orangé à rouille à la base, 10-50 x 1-3 mm
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -227,12 +227,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte, douce à fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: crème blanchâtre, crème, chamois pâle à jaune
   spores: 
   spherocytes: 
   sporocystes: 

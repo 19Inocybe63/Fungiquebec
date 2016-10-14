@@ -8,8 +8,8 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675189299225
 
 details:
-  nom-francais: 
-  autorites: 
+  nom-francais: Entolome bleu pourpre
+  autorites: (Britzelm.) Noordel.
   famille: Entolomataceae
   genre: Entoloma
   espece: cf. incarnatofuscescens
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: omphalinoïd, ombiliqué, sec, fibrilleux, violet, 7 mm Ø
+  chapeau: omphalinoïd, strié, ombiliqué, sec, fibrilleux, violet, 7 mm Ø
   cheilocystides: cylindriques, en éperons à mucronées
   cheilomacrocystides: 
   chlamydospores: 
@@ -201,7 +201,7 @@ description:
   peritheces: 
   phenologie: août
   phialoconidies: 
-  pied: cylindrique, égal, légèrement plus pâle à l'apex, concolore au chapeau, glabre, avec bulbe blanchâtre à la base, 30-32 x 1-2 mm Ø
+  pied: cylindrique, égal, légèrement plus pâle à l'apex, concolore au chapeau, glabre, avec bulbe blanchâtre à la base, 20-30 x 1-2 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: avec hyphes ascendant en trichoderme
@@ -221,7 +221,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: 
+  premiere-mention: Message de Machiel Noordeloos = This is a nice little Entoloma, which may come near E. incarnatofuscescens from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

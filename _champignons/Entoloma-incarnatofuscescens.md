@@ -231,7 +231,7 @@ description:
   reactions-chimiques: 
   receptacle: 
   remarques: |
-    Message de Machiel Noordeloos = This is a nice little Entoloma, which may come near E. incarnatofuscescens from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.
+    Message de Machiel Noordeloos en 2012 = This is a nice little Entoloma, which may come near E. incarnatofuscescens from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.
     Il s'agit de la collection Entoloma cf. incarnatofuscescens_2012M_240 (DAOM).
   repartition: 
   rhizomorphes: 

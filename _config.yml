@@ -175,6 +175,8 @@ champs-description:
     label: Arête lamellaire
   - name: cellules-marginales-paracystides
     label: Cellules marginales (Paracystides)
+  - name: cheilochrysocystides
+    label: Cheilochrysocystides
   - name: cheilocystides
     label: Cheilocystides
   - name: cheiloleptocystides

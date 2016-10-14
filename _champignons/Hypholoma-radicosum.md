@@ -37,13 +37,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: capitées à utriformes, tétrastérigmates 12-22 x 5-7 µm en moyenne
+  basidiospores: |
+  elliptiques-oblongues vue de profil à subamygdaliformes vue frontale, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire, et petit pore germinatif, à contenu variable, brun pâle dans le NaCl, inactive dans le Melzer, non cyanophiles
+    5,8 [6,8; 7,2] 8,1 x 3,8 [4,4; 4,6] 5,1 µm
+    Q = 1,5 [1,54; 1,6] 1,7; N = 30; C = 95%
+    Me = 7 x 4,5 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sur bois pourri et souvent enfoui de conifères
-  boucles: 
+  boucles: abondantes dans la trame lamellaire et dans le stipe
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -60,7 +64,9 @@ description:
   chair: blanchâtre
   chancre: 
   chapeau: convexe puis étalé, lisse, crème à jaunâtre, fauve au disque, orné de fibrilles blanches vers la marge, 20-50 mm Ø
+  cheilochrysocystides: absentes
   cheilocystides: 
+  cheiloleptocystides: abondantes, cylindriques à étroitement clavées, avec parfois un apex subcapité 29 x 6 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -199,10 +205,11 @@ description:
   pied: cylindrique, égal, renflé et radicant à la base, parfois longuement, chiné ou squamuleux, avec pseudorhize bien développée, blanc vers l'apex, brun rouille vers la base, 60-120 x 4-8 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis constitué d’un suprapellis entre 10-20 µm et un subpellis entre 40-50 µm
   pileitrame: 
   pileocystides: 
   plasmode: 
+  pleurochrysocystides: rares, 44 x 11 µm en moyenne
   pleurocystides: 
   poils: 
   poils-basaux: 
@@ -260,7 +267,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   type: 
   typique: 

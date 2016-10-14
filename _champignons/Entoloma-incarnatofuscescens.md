@@ -221,7 +221,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: Message de Machiel Noordeloos = This is a nice little Entoloma, which may come near E. incarnatofuscescens from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.
+  premiere-mention: Collection Yves Lamoureux, 1905, Cercle des mycologues de Montréal (CMM).
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
@@ -230,7 +230,9 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Il s'agit de la collection Entoloma cf. incarnatofuscescens_2012M_240 (DAOM).
+  remarques: |
+    Message de Machiel Noordeloos = This is a nice little Entoloma, which may come near E. incarnatofuscescens from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.
+    Il s'agit de la collection Entoloma cf. incarnatofuscescens_2012M_240 (DAOM).
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

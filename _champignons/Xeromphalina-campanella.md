@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: clavées, tétrastérigmates, à paroi mince, 17-28 X 3.5-5.5 µm
+  basidiospores: |
+    elliptiques vue de front, elliptiques à oblongues vue de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu homogène, hyalines dans le NaCl iso, faiblement amyloïdes dans le melzer, fortement cyanophiles
+    (5,6) 5,8-7 (7,2) x (3,3) 3,4-3,9 (4,1) µm
+    Q = (1,6) 1,65-1,9 (2); N = 30
+    Me = 6,5 x 3,7 µm; Qe = 1,8
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -49,7 +53,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: clavées, fusiformes rarement difformes, à paroi mince, 25-40 (75) x (8.5) 11-15 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +64,7 @@ description:
   chair: mince, flexible, jaunâtre orangée à brunâtre
   chancre: 
   chapeau: convexe à largement convexe, déprimé au centre, ombiliqué, graisseux, lisse, subhygrophane, jaune-brun, brun orangé à rouille orangé vers le centre au début, puis brun orangé à brun cannelle, jaunâtre à jaune ocre vers le bord, à marge enroulée au début, translucide-striée jusqu'aux ¾ du rayon à l'humidité, 3-25 mm Ø
-  cheilocystides: 
+  cheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, cylindriques à largement cylindriques, lagéniformes, à paroi mince, 2 9-55 X 6.0-13,5 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -198,11 +202,11 @@ description:
   pied: cylindrique, légèrement élargi vers la base, parfois subbulbeux, souvent courbe, cartilagineux, creux, pruineux puis glabre, lisse, souvent luisant, jaunâtre vers l'apex, brun foncé à brun rougeâtre vers la base, tomenteux fauve brillant, orangé à rouille à la base, 10-50 x 1-3 mm
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: occasionnelles à rares, présentes surtout près de l'arête lamellaire, semblable aux cheilocystides
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -223,7 +227,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Miller indique la présence occasionnelle de piléocystides pour X. campanella ; je n'en ai pas observé dans cette collection (Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

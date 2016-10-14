@@ -190,6 +190,7 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
+  nouvelle espèce: 
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -222,6 +223,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
+  première mention: découverte pour la première fois dans un parc urbain de Québec en août 2012
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

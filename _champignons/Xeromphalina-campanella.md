@@ -29,6 +29,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
+    Aldrovandi, Matthew S. P., Johnson, James E. et al. Xeromphalina campanella-kauffmanii complex, The Mycological Society of America, 2015, 44 p.
     Miller, Orson K. Jr. A Revision of the Genus Xeromphalina, Mycological Society of America, Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188, 34 p.
     Voitk, Andrus. Xeromphalina enigmatica, Omphalina Vol. VII, No 2, Feb 24, 2016, pp. 15-19.
   ascome: 

@@ -233,7 +233,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporé en tas, crème pâle
+  sporee: pallidosporé, crème pâle, en tas
   spores: 
   spherocytes: 
   sporocystes: 

@@ -187,6 +187,7 @@ description:
   mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
@@ -219,6 +220,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

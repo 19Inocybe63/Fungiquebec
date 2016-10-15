@@ -105,6 +105,12 @@ champs-description:
     label: Glèbe
   - name: chapeau
     label: Chapeau
+  - name: face-poroïde
+    label: Face poroïde
+  - name: couches-de-tubes
+    label: Couche(s) de tubes
+  - name: pores
+    label: Pores
   - name: lames
     label: Lames
   - name: pied
@@ -355,8 +361,6 @@ champs-description:
     label: Cortex péridial
   - name: cortex-sclerotial
     label: Cortex sclérotial
-  - name: couches-de-tubes
-    label: Couche(s) de tubes
   - name: coupe-sterile
     label: Coupe stérile
   - name: cristaux
@@ -511,8 +515,6 @@ champs-description:
     label: Pigments
   - name: plasmode
     label: Plasmode
-  - name: pores
-    label: Pores
   - name: pseudocapillitium
     label: Pseudocapillitium
   - name: pseudocolumelle

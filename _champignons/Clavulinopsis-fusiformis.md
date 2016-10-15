@@ -15,7 +15,7 @@ details:
   espece: fusiformis
   litterature: Corner, E.J.H. 1950. A monograph of Clavaria and allied genera. Annals of Botany Memoirs. 1:1-740
   collection(s)-cueillie(s): 21 juillet 2013; 17 août 2015; 16 septembre 2015
-  fongarium: cKc0086; cKc0416; cKc0464
+  fongarium: cKc0386; cKc0416; cKc0464
 
 description:
   acanthocytes: 

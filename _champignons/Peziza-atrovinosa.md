@@ -81,7 +81,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -141,7 +141,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occassionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -194,7 +194,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: pousse en groupes ou en grappes parfois denses sur le sol ou parmi la mousse dans les bois
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: absent
   pieds-steriles: 

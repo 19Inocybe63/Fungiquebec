@@ -8,7 +8,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157673932255201
 
 details:
-  nom-francais: 
+  nom-francais: Dédale du chêne
   autorites: (L.) Pers.
   famille: Fomitopsidaceae
   genre: Daedalea

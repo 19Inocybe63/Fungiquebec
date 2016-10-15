@@ -9,7 +9,7 @@ planches:
 
 details:
   collection(s)-cueillie(s): 16 juin 2013; 12 juin 2015
-  littérature: Singer, R. 1961. Diagnoses fungorum novorum Agaricalium II. Sydowia. 15(1-6):45-83
+  litterature: Singer, R. 1961. Diagnoses fungorum novorum Agaricalium II. Sydowia. 15(1-6):45-83
   nom-francais: Gymnopilus humicole
   autorites: Harding ex Singer
   fongarium: cKc0048; cKc0312

@@ -14,7 +14,7 @@ details:
   genre: Elaphomyces
   espece: vernesii sp. nov.
   litterature: nouvelle espèce
-  collection-cueillie: 22 août 2015; 28 août 2015; 12 septembre 2015; 14 juillet 2016
+  collection(s)-cueillie(s): 22 août 2015; 28 août 2015; 12 septembre 2015; 14 juillet 2016
   fongarium: cKc0429; cKc0442; cKc0462; cKc0517
 
 description:

@@ -18,7 +18,7 @@ details:
   genre: 
   espece: 
   litterature: 
-  collection-cueillie: 
+  collection(s)-cueillie(s): 
   fongarium: 
 
 description:

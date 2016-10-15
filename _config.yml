@@ -181,6 +181,8 @@ champs-description:
     label: Basides
   - name: basidiospores
     label: Basidiospores
+  - name: hymenocystides
+    label: Hyménocystides
   - name: arete-lamellaire
     label: Arête lamellaire
   - name: cellules-marginales-paracystides
@@ -439,8 +441,6 @@ champs-description:
     label: Groupe
   - name: hymenium
     label: Hyménium
-  - name: hymenocystides-cheilocystides-et-pleurocystides
-    label: Hyménocystides (Cheilocystides et Pleurocystides)
   - name: hyphidies
     label: Hyphidies
   - name: hyphique

@@ -1,6 +1,6 @@
 ---
 nom: Helvella corium
-date: 2016-10-11 00:00:00
+date: 2016-10-15 00:00:00
 image: https://c2.staticflickr.com/6/5624/20562876582_8477cf6fba_n.jpg
 album-flickr: 72157674971769076
 planches:
@@ -14,7 +14,7 @@ details:
   genre: Helvella
   espece: corium
   litterature: Massee, G.E. 1895. British Fungus-Flora. 4:1-522
-  collection-cueillie: 14 août 2015
+  collection-cueillie: 14 août 2015; 19 août 2015
   fongarium: cKc0406; cKc0419
 
 description:

@@ -10,12 +10,12 @@ planches:
 details:
   nom-francais: Amanite farineuse
   autorites: Schweinitz
-  collection-cueillie: 14 mai 2014
-  fongarium: cKc0092, cKc0130, cKc0424
   famille: Amanitaceae
   genre: Amanita
   espece: farinosa
   litterature: Schweinitz, L.D. von. 1822. Synopsis fungorum Carolinae superioris. Schriften der Naturforschenden Gesellschaft zu Leipzig. 1:20-131
+  collection-cueillie: 21 juillet 2013; 1 septembre 2013; 20 août 2015
+  fongarium: cKc0092; cKc0130; cKc0424
 
 description:
   acanthocytes: 

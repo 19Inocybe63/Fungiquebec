@@ -14,7 +14,7 @@ details:
   genre: Stropharia
   espece: caerulea
   litterature: Kreisel, H. 1979. Zur Taxonomie von Stropharia aeruginosa sensu lato. Beihefte zur Sydowia. 8:228-232
-  collection-cueillie: 25 octobre 2012
+  collection(s)-cueillie(s): 25 octobre 2012
   fongarium: cKc0034
 
 description:

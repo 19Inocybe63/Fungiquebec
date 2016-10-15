@@ -27,7 +27,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: discoïdes à légèrement cupuliformes entre 4-7 mm de profondeur, hygrophane, beige imbu, beige pâle opaque au sec, non épigé, 8-20 mm Ø
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -44,7 +44,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur sol sablonneux, dans la mousse
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -59,7 +59,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fragile, cassante
   chancre: 
   chapeau: 
   cheilocystides: 
@@ -119,11 +119,11 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
-  face-externe: 
+  face-externe: sublisse à finement granuleuse, brun beige pâle
   face-poroide: 
   feutrage-basal: 
   fongarium:
@@ -137,7 +137,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
-  hymenophore: 
+  hymenophore: lisse, brun pâle à brun foncé avec une légère teinte olivâtre
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -169,7 +169,7 @@ description:
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: jaune
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
@@ -197,7 +197,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: absent
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,16 +226,16 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Non épigé, car l’apothécie ne dépasse jamais la surface du sol, vraiment au ras du sol
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à légèrement fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanchâtre
   spores: 
   spherocytes: 
   sporocystes: 

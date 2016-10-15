@@ -107,10 +107,10 @@ champs-description:
     label: Chapeau
   - name: face-poroïde
     label: Face poroïde
-  - name: couches-de-tubes
-    label: Couche(s) de tubes
   - name: pores
     label: Pores
+  - name: couches-de-tubes
+    label: Couche(s) de tubes
   - name: lames
     label: Lames
   - name: pied

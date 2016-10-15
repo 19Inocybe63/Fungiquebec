@@ -139,7 +139,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides-cheilocystides-et-pleurocystides: Hyménocystides absentes
+  hymenocystides: absentes
   hymenophore: 
   hyphes: bouclées
   hyphes-de-la-chair: 

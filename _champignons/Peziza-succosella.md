@@ -32,8 +32,13 @@ description:
   arthroconidies: 
   articles: 
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    unisériées, ellipsoïdes, à verrues grossières et irrégulière jusqu'à 1 µm de hauteur, avec réticulum irrégulier de rides trapues, à contenu biguttulé jeune, par la suite uniguttulé (coloration en bleu verdâtre foncé des inclusions lipidiques (guttules) au Soudan III ou noir Soudan B)
+    (14,5) 14,7 - 17,3 (17,7) × (7,8) 8,3 - 9 (9,3) µm
+    Q = (1,6) 1,7 - 2 (2,1) ; N = 30
+    Me = 16 × 8,6 µm ; Qe = 1,9
+    (Piximètre: formule classique, issues d’une sporée et mesures dans le bleu Coton lactique, sans les ornements)
+  asques: claviformes dont l'apex est tronqué, octosporés, IKI +b, operculé, avec base de type acrorhynque, ± 250 - 270 × 12 - 13,5 µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -115,7 +120,7 @@ description:
   especes-identification: 
   especes-semblables: 
   excipulum: 
-  excipulum-medullaire-superieur: 
+  excipulum-medullaire-superieur: de textura globulosa-angularis
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
@@ -173,7 +178,7 @@ description:
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
-  marge: 
+  marge: ornée de poils sétiformes
   marge-et-face-externe: 
   mediostrate: 
   medulla: 
@@ -188,7 +193,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: simples, cylindriques-filiformes, hyalines dans l'eau, à contenu brun rouille sur toute la longueur dans le Lugol, dont parfois le contenu est discontinu et forme des plaques (gouttelettes) éparses, septées, à apex parfois égal à subégal, arrondis, rarement subcapité, + 180 - 245 × 4,5 - 6,3 (8,2) µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -205,7 +210,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: 
+  poils: hyphoïdes du réceptacle
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -223,10 +228,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
-  remarques: Non épigé, car l’apothécie ne dépasse jamais la surface du sol, vraiment au ras du sol
+  remarques: |
+    Non épigé, car l’apothécie ne dépasse jamais la surface du sol, vraiment au ras du sol.
+    Le Soudan III ou noir Soudan B permet de colorer les inclusions lipidiques (guttules) trouvées fréquemment dans les ascospores. Le soudan III est soluble dans des solvants de type white spirit, mais n’est pas facilement miscible à l’eau ; son utilisation en mycologie/lichénologie pose donc des problèmes, l’eau étant le principal constituant des êtres vivants. On peut utiliser le soudan III en solution alcoolique saturée mais l’éthanol provoque un rétrécissement important des structures cellulaires. » (Jean-Pierre Gaveriaux) (informations tirées des fiches de Marcel Lecomte) ; La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent P. succosella (dixit R. Dougoud).
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

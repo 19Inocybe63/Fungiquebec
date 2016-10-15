@@ -14,7 +14,7 @@ details:
   genre: Flammulina
   espece: velutipes
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
-  collection-cueillie: 22 mai 2013
+  collection(s)-cueillie(s): 22 mai 2013
   fongarium: cKc0002
 
 description:

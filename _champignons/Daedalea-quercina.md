@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois vivant de feuillus, Quercus surtout, souvent sur bois très dur
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -179,7 +179,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire à grégaire, en petits amas imbriqués et fusionnés latéralement
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -222,7 +222,9 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: |
+    KOH 5 % = devient rouge brun foncé à noir
+    Rouge Congo SDS = lors d'une coupe, le contexte devient noir
   receptacle: 
   remarques: 
   repartition: 
@@ -233,7 +235,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche à blanchâtre
   spores: 
   spherocytes: 
   sporocystes: 

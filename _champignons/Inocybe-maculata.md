@@ -14,7 +14,7 @@ details:
   genre: Inocybe
   espece: maculata
   litterature: Boudier, J.L.É. 1885. Description de quelques espèces nouvelles de champignons basidiosporés. Bulletin de la Société Botanique de France. 32:282-283
-  collection-cueillie: 18 août 2013
+  collection(s)-cueillie(s): 18 août 2013
   fongarium: cKc0115
 
 description:

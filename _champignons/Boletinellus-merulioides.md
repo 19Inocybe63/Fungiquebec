@@ -44,7 +44,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur pelouse, sous frêne
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -59,9 +59,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre à jaunâtre, immuable ou devenant lentement bleu-vert à la coupe, surtout au-dessus de la couche de tubes
   chancre: 
-  chapeau: 
+  chapeau: convexe quand il est jeune, puis étalé à concave à maturité, sec à viscidule, glabre ou presque, brun rougeâtre, brun jaunâtre ou brun olivâtre, à marge incurvée puis souvent ondulée ou gondolent, avec bande étroite de tissu stérile, 50-200 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -84,7 +84,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: décurrente, concolore à la face poroïde, 3-6 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -119,12 +119,12 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   face-externe: 
-  face-poroide: 
+  face-poroide: jaune à jaune olivacé, immuable ou devenant lentement bleu-vert au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -197,7 +197,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: souvent excentré à latéral, court, subégal, souvent courbe, plein, jaune vers l'apex, brun vers la base, arrivant de nombreux sclérotes, 20-45 x 5-25 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -216,26 +216,30 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: anguleux et interveinés, bolétinoïdes, parfois sublamellés, très larges, 1 mm ou plus de largeur
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
-  publications-microscopiques: 
-  reactions-chimiques: 
+  publications: Smith, Alexander H., and Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971.
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+  reactions-chimiques: KOH5% ou NA4OH = noirâtre puis rouge terne à orangé sur le chapeau
   receptacle: 
-  remarques: 
+  remarques: Cueilli sous les frênes ; probablement en symbiose avec le puceron (ou aphide) Melia Rhizophagus fraxinifolia; pousse dispersés ou grégaire; été et l'automne ; largement distribué dans l'est de l'Amérique du Nord (poussant peut-être aussi dans le sud-ouest)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun olivacé
   spores: 
   spherocytes: 
   sporocystes: 

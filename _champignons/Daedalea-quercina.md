@@ -40,7 +40,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: pérenne, sessile, tenace, subéreux à ligneux-dur, fortement adné
   bibliographies: 
   biotopes: pousse sur bois vivant de feuillus, Quercus surtout, souvent sur bois très dur
   boucles: 
@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: jusqu'à 200 mm de longueur, 150 mm de largeur, 80 mm d'épaisseur à la base, largement attaché à dimidié, semi-circulaire à ongulé, aplani à triquètre, légèrement convexe, souvent légèrement bombée vers la base, amincie vers la marge, finement velouté à glabre, parfois avec touffes d'hyphes dressées, nodules, verrues dispersées et excroissances aiguës nouvellement formées, zoné et sillonné concentriquement, chamois à brun pâle, brunâtre plus foncé à grisâtre vers la base avec l'âge, verdâtre chez les vieux spécimens, ochracé pâle, depuis la base, à marge épaisse, obtuse, souvent lisse, ochracée
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -122,7 +122,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   face-externe: 
-  face-poroide: 
+  face-poroïde: aplanie à oblique, surtout près du substrat, ochracé pâle à beige
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 

@@ -14,7 +14,7 @@ details:
   genre: Hypholoma
   espece: radicosum
   litterature: Lange, J.E. 1923. Studies in the Agarics of Denmark. V. Ecological notes. The Hygrophorei, Stropharia and Hypholoma. Supplementary notes to Parts I-III. Dansk botanisk Arkiv. 4(4):1-55
-  collection-cueillie: 3 juillet 2014
+  collection(s)-cueillie(s): 3 juillet 2014
   fongarium: cKc0175
 
 description:

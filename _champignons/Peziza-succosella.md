@@ -15,7 +15,7 @@ details:
   famille: Pezizaceae
   genre: Peziza
   espece: succosella
-  litterature: Moser, M. 1963. Kleine Kryptogamenflora von Mitteleuropa - Ascomyceten (Schlauchpilze). IIa:1-147
+  litterature: Avizohar-Hershenzon, Z.; Nemlich, H. 1974. Pezizales of Israel II. Pezizaceae. Israel Journal of Botany. 23:151-163
   collection-cueillie: 3 juillet 2016; 4 juillet 2016; 11 juillet 2016
   fongarium: cKc0505; cKc0512; cKc0516
 
@@ -69,7 +69,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -195,7 +195,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: absent
   pieds-steriles: 
@@ -246,8 +246,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Galactinia succosella Le Gal & Romagn., Revue Mycol.:113 (1940)
-    Peziza succosella (Le Gal & Romagn.) M.M. Moser ex Avizohar-Hershenzon & Nemlich, Israel Journal of Botany 23:156 (1974)
+    Galactinia succosella Le Gal & Romagn., Revue Mycol.: 113 (1940)
+    Peziza succosella (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich, Kleine Kryptogamenflora von Mitteleuropa - Ascomyceten (Schlauchpilze) IIa: 96 (1963)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -14,7 +14,7 @@ details:
   genre: Xeromphalina
   espece: campanella
   litterature: Konrad & Maublanc, Icones selectae Fungorum, 6 Texte general 6, 284 (1934)
-  collection-cueillie: 20 octobre 2012
+  collection(s)-cueillie(s): 20 octobre 2012
   fongarium: cKc0030
 
 description:

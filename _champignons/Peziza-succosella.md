@@ -16,7 +16,7 @@ details:
   genre: Peziza
   espece: succosella
   litterature: Avizohar-Hershenzon, Z.; Nemlich, H. 1974. Pezizales of Israel II. Pezizaceae. Israel Journal of Botany. 23:151-163
-  collection-cueillie: 3 juillet 2016; 4 juillet 2016; 11 juillet 2016
+  collection(s)-cueillie(s): 3 juillet 2016; 4 juillet 2016; 11 juillet 2016
   fongarium: cKc0505; cKc0512; cKc0516
 
 description:

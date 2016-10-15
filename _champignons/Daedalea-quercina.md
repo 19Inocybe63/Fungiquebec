@@ -73,7 +73,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: ochracé à brun tabac, jusqu'à 1 cm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -82,7 +82,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: indistinctement stratifiées, ochracé pâle, à trame distinctement plus foncée, jusqu'à 4 cm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -214,7 +214,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: irréguliers, sinueux, dédaloïdes, labyrinthiques, allongés à presque lamellés-furqués vers la marge, souvent 1-4 mm de largeur mesurés tangentiellement, à dissépiments larges, 1-3 mm, profondément lacérés sur les parties obliques
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

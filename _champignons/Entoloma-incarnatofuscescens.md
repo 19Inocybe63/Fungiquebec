@@ -14,7 +14,7 @@ details:
   genre: Entoloma
   espece: cf. incarnatofuscescens
   litterature: 
-  collection-cueillie: 18 août 2012
+  collection(s)-cueillie(s): 18 août 2012
   fongarium: 2012M_240, Canadian National Mycological Herbarium (DAOM)
 
 description:

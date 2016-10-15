@@ -69,7 +69,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: La consommation n'est pas recommandée
   commentaires: 
   conidies: 
   conidiome: 
@@ -128,7 +128,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -181,7 +181,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé à grégaire, souvent nombreux, en groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -195,7 +195,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: souvent excentré à latéral, court, subégal, souvent courbe, plein, jaune vers l'apex, brun vers la base, arrivant de nombreux sclérotes, 20-45 x 5-25 mm Ø
   pieds-steriles: 
@@ -267,7 +267,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

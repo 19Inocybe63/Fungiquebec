@@ -89,6 +89,8 @@ champs-description:
     label: Apothécie
   - name: hymenophore
     label: Hyménophore
+  - name: marge
+    label: Marge
   - name: face-externe
     label: Face externe
   - name: ascome
@@ -467,8 +469,6 @@ champs-description:
     label: Macrocystides
   - name: macropleurocystides
     label: Macropleurocystides
-  - name: marge
-    label: Marge
   - name: marge-et-face-externe
     label: Marge et face externe
   - name: mediostrate

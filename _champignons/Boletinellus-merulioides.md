@@ -124,7 +124,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   face-externe: 
-  face-poroide: jaune à jaune olivacé, immuable ou devenant lentement bleu-vert au froissement
+  face-poroïde: jaune à jaune olivacé, immuable ou devenant lentement bleu-vert au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 

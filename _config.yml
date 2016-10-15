@@ -127,6 +127,8 @@ champs-description:
     label: Saveur
   - name: cortex
     label: Cortex
+  - name: latex
+    label: Latex
   - name: sporee
     label: Sporée
   - name: asques
@@ -459,8 +461,6 @@ champs-description:
     label: Lampropleurocystides
   - name: lamprocaulocystides
     label: Lamprocaulocystides
-  - name: latex
-    label: Latex
   - name: leptocystides
     label: Leptocystides
   - name: macrocystides

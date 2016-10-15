@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: clavulé, cylindrique, rarement ramifié une ou deux fois vers l'apex, souvent ± aplati, avec axe luné ou en croissant, plein puis creux, aigu à étroitement arrondi à l'apex, rarement trapu à tronqué, jaune brillant, jaune citron à orangé vif, souvent plus foncé vers l'apex, brunâtre à rougeâtre, surtout avec l'âge, 60-120 (150) mm de hauteur, 2-10 mm de largeur
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol des forêts mixtes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -126,7 +126,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -179,7 +179,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire, souvent en groupes
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -193,7 +193,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: indistinct, fusionnant rapidement avec la clavule, glabre, finement sillonné, blanc à blanchâtre
   pieds-steriles: 

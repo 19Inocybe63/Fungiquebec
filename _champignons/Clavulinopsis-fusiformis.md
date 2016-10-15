@@ -40,7 +40,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: clavulé, cylindrique, rarement ramifié une ou deux fois vers l'apex, souvent ± aplati, avec axe luné ou en croissant, plein puis creux, aigu à étroitement arrondi à l'apex, rarement trapu à tronqué, jaune brillant, jaune citron à orangé vif, souvent plus foncé vers l'apex, brunâtre à rougeâtre, surtout avec l'âge, 60-120 (150) mm de hauteur, 2-10 mm de largeur
   bibliographies: 
   biotopes: 
   boucles: 
@@ -57,7 +57,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, cassante, jaune
   chancre: 
   chapeau: 
   cheilocystides: 
@@ -117,7 +117,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: indistinct, fusionnant rapidement avec la clavule, glabre, finement sillonné, blanc à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -222,18 +222,18 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: KOH 5 % = nul
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: amère, parfois douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche, crème à jaunâtre
   spores: 
   spherocytes: 
   sporocystes: 

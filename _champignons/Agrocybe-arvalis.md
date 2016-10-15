@@ -16,7 +16,7 @@ details:
   genre: Agrocybe
   espece: arvalis
   litterature: Singer...
-  collection-cueillie: 18 août 2012; 13 septembre 2013
+  collection(s)-cueillie(s): 18 août 2012; 13 septembre 2013
   fongarium: cKc0029; cKc0114
 
 description:

@@ -267,7 +267,7 @@ description:
   tomentum-pileique: 
   trame-hymenophorale: 
   trame-lamellaire: 
-  trame-tubulaire: 
+  trame-tubulaire: parallèle à subparallèle
   type: 
   typique: 
   voile: 

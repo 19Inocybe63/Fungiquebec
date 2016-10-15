@@ -241,7 +241,8 @@ description:
   receptacle: 
   remarques: |
     Non épigé, car l’apothécie ne dépasse jamais la surface du sol, vraiment au ras du sol.
-    Le Soudan III ou noir Soudan B permet de colorer les inclusions lipidiques (guttules) trouvées fréquemment dans les ascospores. Le soudan III est soluble dans des solvants de type white spirit, mais n’est pas facilement miscible à l’eau ; son utilisation en mycologie/lichénologie pose donc des problèmes, l’eau étant le principal constituant des êtres vivants. On peut utiliser le soudan III en solution alcoolique saturée mais l’éthanol provoque un rétrécissement important des structures cellulaires. » (Jean-Pierre Gaveriaux) (informations tirées des fiches de Marcel Lecomte) ; La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent P. succosella (dixit R. Dougoud).
+    Le Soudan III ou noir Soudan B permet de colorer les inclusions lipidiques (guttules) trouvées fréquemment dans les ascospores. Le soudan III est soluble dans des solvants de type white spirit, mais n’est pas facilement miscible à l’eau ; son utilisation en mycologie/lichénologie pose donc des problèmes, l’eau étant le principal constituant des êtres vivants. On peut utiliser le soudan III en solution alcoolique saturée mais l’éthanol provoque un rétrécissement important des structures cellulaires. » (Jean-Pierre Gaveriaux) (informations tirées des fiches de Marcel Lecomte).
+    La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent P. succosella (dixit R. Dougoud).
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

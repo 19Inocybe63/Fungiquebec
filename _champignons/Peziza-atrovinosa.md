@@ -14,7 +14,7 @@ details:
   genre: Peziza
   espece: atrovinosa
   litterature: 
-  collection-cueillie: 7 juillet 2015; 24 juillet 2016
+  collection(s)-cueillie(s): 7 juillet 2015; 24 juillet 2016
   fongarium: cKc0331; cKc0523
 
 description:

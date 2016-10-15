@@ -138,7 +138,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides-cheilocystides-et-pleurocystides: 
+  hymenocystides: 
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 

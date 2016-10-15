@@ -194,7 +194,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: pousse en groupes ou en grappes parfois denses sur le sol ou parmi la mousse dans les bois
+  mode-de-croissance: pousse en groupes ou en grappes parfois denses sur le sol ou parmi la mousse
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 

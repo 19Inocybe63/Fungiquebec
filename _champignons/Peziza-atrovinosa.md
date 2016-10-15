@@ -13,7 +13,7 @@ details:
   famille: Pezizaceae
   genre: Peziza
   espece: atrovinosa
-  litterature: 
+  litterature: Cooke, M.C. 1875. Synopsis of the discomycetous fungi of the United States. 1. Bulletin of the Buffalo Society of Natural Sciences. 2(36):285-288
   collection(s)-cueillie(s): 7 juillet 2015; 24 juillet 2016
   fongarium: cKc0331; cKc0523
 

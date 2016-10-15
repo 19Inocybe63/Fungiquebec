@@ -56,7 +56,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -67,7 +67,7 @@ description:
   chair: blanchâtre à jaunâtre, immuable ou devenant lentement bleu-vert à la coupe, surtout au-dessus de la couche de tubes
   chancre: 
   chapeau: convexe quand il est jeune, puis étalé à concave à maturité, sec à viscidule, glabre ou presque, brun rougeâtre, brun jaunâtre ou brun olivâtre, à marge incurvée puis souvent ondulée ou gondolent, avec bande étroite de tissu stérile, 50-200 mm Ø
-  cheilocystides: non observées
+  cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

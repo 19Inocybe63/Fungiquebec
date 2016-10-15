@@ -8,7 +8,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157674940658376
 
 details:
-  nom-francais: 
+  nom-francais: Coprin disséminé
   autorites: (Pers.) J.E. Lange
   famille: Psathyrellaceae
   genre: Coprinellus

@@ -14,7 +14,7 @@ details:
   genre: Russula
   espece: albonigra
   litterature: Fries, E.M. 1874. Hymenomycetes europaei., 1-755
-  collection-cueillie: 20 août 2016
+  collection(s)-cueillie(s): 20 août 2016
   fongarium: cKc0546
 
 description:

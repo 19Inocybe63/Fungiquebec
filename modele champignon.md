@@ -126,7 +126,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   face-externe: 
-  face-poroide: 
+  face-poroïde: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 

@@ -73,7 +73,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: ochracé à brun tabac, jusqu'à 1 cm d'épaisseur
+  contexte: ochracé à brun tabac, jusqu'à 10 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 

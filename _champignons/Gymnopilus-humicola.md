@@ -8,7 +8,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/16871277948/
 
 details:
-  collection-cueillie: 16 juin 2013; 12 juin 2015
+  collection(s)-cueillie(s): 16 juin 2013; 12 juin 2015
   nom-francais: Gymnopilus humicole
   autorites: Harding ex Singer
   fongarium: cKc0048; cKc0312

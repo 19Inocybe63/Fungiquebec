@@ -230,7 +230,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: KOH5% ou NA4OH = noirâtre puis rouge terne à orangé sur le chapeau
   receptacle: 
-  remarques: Cueilli sous les frênes ; probablement en symbiose avec le puceron (ou aphide) Melia Rhizophagus fraxinifolia; pousse dispersés ou grégaire; été et l'automne ; largement distribué dans l'est de l'Amérique du Nord (poussant peut-être aussi dans le sud-ouest)
+  remarques: Cueilli sous les frênes ; probablement en symbiose avec le puceron (ou aphide) Melia Rhizophagus fraxinifolia.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

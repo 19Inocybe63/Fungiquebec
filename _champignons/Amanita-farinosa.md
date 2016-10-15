@@ -227,7 +227,7 @@ description:
   reactions-chimiques: 
   receptacle: 
   references: 
-  remarques: 
+  remarques: Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
   rhizomorphes: 
   sac-sporifere: 
   saveur: indistincte

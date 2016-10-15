@@ -111,6 +111,8 @@ champs-description:
     label: Pores
   - name: couches-de-tubes
     label: Couche(s) de tubes
+  - name: contexte
+    label: Contexte
   - name: lames
     label: Lames
   - name: pied
@@ -349,8 +351,6 @@ champs-description:
     label: Conidiophores
   - name: consistance
     label: Consistance
-  - name: contexte
-    label: Contexte
   - name: cordons-myceliens
     label: Cordons mycéliens
   - name: cordons-rhizomorphiques

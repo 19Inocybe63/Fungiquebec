@@ -125,6 +125,7 @@ description:
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
+  extremites-hyphales: 
   face-externe: 
   face-poroïde: 
   feutrage-basal: 

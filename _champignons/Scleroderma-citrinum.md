@@ -40,7 +40,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: globuleux à subglobuleux, parfois ellipsoïde, déprimé à maturité, souvent plissé ou même lobé sur les côtés et au-dessous, sessile ou relié par une touffe de cordons mycéliens blanchâtres agglomérant des débris, à péridium simple, dur, épais, 1-3 mm, craquelé-aréolé et avec grosse verrue centrale aplatie ou pyramidale plate, formant un motif en relief, avec ornementations disposées en rosette vers l'apex, ocre, brun jaunâtre à jaune doré, devenant rosâtre au froissement ou à la coupe, s'ouvrant au sommet par des fentes irrégulières lobées, non stellées, 20-50 mm de hauteur, 20-100 (120) mm Ø
   bibliographies: 
   biotopes: 
   boucles: 
@@ -128,7 +128,7 @@ description:
   fongarium:
   fragments-sporaux: 
   frequence: 
-  glebe: 
+  glebe: blanche et longtemps ferme au début, puis gris violacé à noirâtre, souvent marbrée de blanchâtre, demeurant ferme, poudreuse à granuleuse à la fin, après l'ouverture du péridium, à odeur aigre ou agréable
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 

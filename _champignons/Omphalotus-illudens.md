@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 40-150 mm Ø, non détachable du pied, glabre au début, puis très finement fibrilleux, convexe, étalé-déprimé, légèrement en entonnoir, parfois à la marge enroulée, orange à roux, plus foncé au centre, se craquelant en vieillissant, et se pelant comme une écorce, laissant entrevoir les lames, cuticule séparable jusqu'à la moitié du chapeau lorsque jeune, et séparable jusqu'au ¼ lorsqu'il est à maturité, laissant voir une chair ferme, orangé pâle
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -117,7 +117,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: agréable, légèrement d'agrume, orange
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: étroites, orangées, serrées, décurrentes, fourchues près du pied, lamellules, arête légèrement plus foncée
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 30-70 x 10-20 mm Ø., blanchâtre à grisâtre, orangé à concolore, plus pâle que le chapeau, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement, finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du pied, ou presque, d'où l'on peut observer un léger suintement du pied, cespiteux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -223,18 +223,21 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: |
+    KOH 10 % = légèrement verdâtre sur le chapeau et le pied
+    FeS04 = brunes à brunâtres sur les lames après ± 5 minutes
+    NH4OH 10 % = légèrement verdâtre sur la chair du pied
   receptacle: 
-  remarques: 
+  remarques: De fines gouttelettes orangées [collantes, visqueuses], comme exsudées, se fixent sur le chapeau et sur les lames, et tache les doigts
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique au début, avec une finale finement raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: crème, jaune pâle à légèrement verdâtre
   spores: 
   spherocytes: 
   sporocystes: 

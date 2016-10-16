@@ -125,6 +125,7 @@ description:
   exhalaison-de-la-chair: indistincte
   exhalaison-des-lames: indistincte
   exoperidium: 
+  extremites-hyphales: verruqueuses et de petites diverticules entre 0,5-2,5 µm de longueur, du milieu à l'apex du cortex du stipe
   face-externe: 
   face-poroïde: 
   feutrage-basal: 

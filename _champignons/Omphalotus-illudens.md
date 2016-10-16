@@ -37,13 +37,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes à 2-4 stérigmates
+  basidiospores: |
+    subglobuleuses à largement ellipsoïdes, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines à verdâtre dans le NaOH 2,5 %, inactives dans le melzer, cyanophiles
+    4,9 [5,3; 5,5] 5,9 x 4,4 [4,7; 4,8] 5,1 µm
+    Q = 1 [1,1; 1,2] 1,3; N = 50; C = 95%
+    Me = 5,4 x 4,7 µm; Q moyen = 1,1
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées dans le pileipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -60,7 +64,7 @@ description:
   chair: 
   chancre: 
   chapeau: 40-150 mm Ø, non détachable du pied, glabre au début, puis très finement fibrilleux, convexe, étalé-déprimé, légèrement en entonnoir, parfois à la marge enroulée, orange à roux, plus foncé au centre, se craquelant en vieillissant, et se pelant comme une écorce, laissant entrevoir les lames, cuticule séparable jusqu'à la moitié du chapeau lorsque jeune, et séparable jusqu'au ¼ lorsqu'il est à maturité, laissant voir une chair ferme, orangé pâle
-  cheilocystides: 
+  cheilocystides: fusiformes courbées, cylindriques, ramifiées à l’apex, irrégulières, et parfois diverticulées
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -222,7 +226,11 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: |
     KOH 10 % = légèrement verdâtre sur le chapeau et le pied
     FeS04 = brunes à brunâtres sur les lames après ± 5 minutes
@@ -241,7 +249,7 @@ description:
   spores: 
   spherocytes: 
   sporocystes: 
-  stipitipellis: 
+  stipitipellis: avec extrémités hyphales dans le revêtement caulinaire
   stipititrame: 
   stroma: 
   subhymenium: 
@@ -262,7 +270,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle à subparallèle
   trame-tubulaire: 
   type: 
   typique: 

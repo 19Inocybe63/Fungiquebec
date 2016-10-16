@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: étroitement claviformes à longuement claviformes, 2-4 stérigmates, non bouclée à la base 27,1 [34,8; 41,9] 49,6 x 5,2 [6,4; 7,6] 8,8 µm
+  basidiospores: |
+    ovoïdales vue frontale, elliptiques à largement elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, pore germinatif non visible, à contenu uniguttulé, hyaline dans le NaCl iso, amyloïdes, cyanophiles
+    7,5 [9,3; 10,1] 11,9 x 5,6 [6,9; 7,5] 8,8 µm
+    Q = 1,2 [1,3; 1,4] 1,5; N = 30; C = 95%
+    Me = 9,7 x 7,2 µm; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -60,7 +64,7 @@ description:
   chair: épaisse au disque, uniformément atténuée jusqu'à la marge, très cartilagineuse, gris aqueux puis pâle
   chancre: 
   chapeau: conique-obtus puis largement campanulé-conique, viscidule, ± ruguleux radialement, d'apparence cartilagineuse, non hygrophane, gris foncé à brun grisâtre, légèrement brun chamois vers la marge, graduellement tan pâle à brun cannelle, à marge ± incurvée au début, légèrement translucide-striée, se fendant souvent radialement jusqu'au disque, 20-45 mm Ø
-  cheilocystides: 
+  cheilocystides: abondantes, courtement piriformes à longuement piriformes, claviformes, subutriformes, parfois avec des ramifications du milieu à la base de la cheilocystide, 28,8 [36,4; 40,3] 47,8 x 3,6 [11,3; 15,3] 23 µm, avec de nombreuses diverticules du centre vers l’apex entre 1,0-5,0 µm de longueur
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -198,11 +202,11 @@ description:
   pied: cylindrique, égal, souvent longuement radicant, cartilagineux, creux, glabre, lisse ou strié-tordu, blanc grisâtre vers l'apex, fuligineux pâle vers la base, légèrement brunâtre à la base avec l'âge, ne tachant pas de rougeâtre, 45-90 (120) x 1-4 (6) mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: formé d'hyphes ± parallèles, non bouclées, diverticulées entre 1-3 µm de longueur
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

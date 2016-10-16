@@ -223,7 +223,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    AntonÍn, Vladimir, Noordeloos, Machiel E. A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in Europe  with 65 figures and 57 colored plates, IHW Verlag, 2004, 279 p.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

@@ -46,7 +46,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois mort de hêtre (Fagus Grandifolia)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -71,7 +71,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -131,7 +131,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -184,7 +184,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé, grégaire ou subcespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -198,7 +198,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
   pied: cylindrique, égal, souvent longuement radicant, cartilagineux, creux, glabre, lisse ou strié-tordu, blanc grisâtre vers l'apex, fuligineux pâle vers la base, légèrement brunâtre à la base avec l'âge, ne tachant pas de rougeâtre, 45-90 (120) x 1-4 (6) mm Ø
   pieds-steriles: 

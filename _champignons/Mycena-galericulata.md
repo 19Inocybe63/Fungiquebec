@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse au disque, uniformément atténuée jusqu'à la marge, très cartilagineuse, gris aqueux puis pâle
   chancre: 
-  chapeau: 
+  chapeau: conique-obtus puis largement campanulé-conique, viscidule, ± ruguleux radialement, d'apparence cartilagineuse, non hygrophane, gris foncé à brun grisâtre, légèrement brun chamois vers la marge, graduellement tan pâle à brun cannelle, à marge ± incurvée au début, légèrement translucide-striée, se fendant souvent radialement jusqu'au disque, 20-45 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -118,8 +118,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   exoperidium: 
   face-externe: 
   face-poroïde: 
@@ -162,7 +162,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, adnexées-sinuées, ± larges, 5-7 mm, fortement interveinées, subespacées à serrées, blanches à blanc grisâtre, parfois rose pâle, non tachées de rougeâtre, à arêtes entières, pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: cylindrique, égal, souvent longuement radicant, cartilagineux, creux, glabre, lisse ou strié-tordu, blanc grisâtre vers l'apex, fuligineux pâle vers la base, légèrement brunâtre à la base avec l'âge, ne tachant pas de rougeâtre, 45-90 (120) x 1-4 (6) mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -220,7 +220,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis ; Tapinia ; Paxillus ; Crepidotus ; Tubaria ; Galerula ; Naucoria ;
+Pluteolus ; Mycena ; Phylloprus ; Gymnopilus ; Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    Smith, Alexander H. North American Species of Mycena, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
@@ -228,12 +231,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce, fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

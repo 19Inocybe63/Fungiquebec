@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: globuleux à subglobuleux, parfois ellipsoïde, déprimé à maturité, souvent plissé ou même lobé sur les côtés et au-dessous, sessile ou relié par une touffe de cordons mycéliens blanchâtres agglomérant des débris, à péridium simple, dur, épais, 1-3 mm, craquelé-aréolé et avec grosse verrue centrale aplatie ou pyramidale plate, formant un motif en relief, avec ornementations disposées en rosette vers l'apex, ocre, brun jaunâtre à jaune doré, devenant rosâtre au froissement ou à la coupe, s'ouvrant au sommet par des fentes irrégulières lobées, non stellées, 20-50 mm de hauteur, 20-100 (120) mm Ø
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol des forêts de feuillus et de conifères, parfois non loin de bois pourri
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non recommandée
   commentaires: 
   conidies: 
   conidiome: 
@@ -127,7 +127,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: blanche et longtemps ferme au début, puis gris violacé à noirâtre, souvent marbrée de blanchâtre, demeurant ferme, poudreuse à granuleuse à la fin, après l'ouverture du péridium, à odeur aigre ou agréable
   gleocystides: 
   gleocystides-hymeniales: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -194,7 +194,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

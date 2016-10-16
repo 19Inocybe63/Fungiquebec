@@ -228,7 +228,7 @@ description:
     FeS04 = brunes à brunâtres sur les lames après ± 5 minutes
     NH4OH 10 % = légèrement verdâtre sur la chair du pied
   receptacle: 
-  remarques: De fines gouttelettes orangées [collantes, visqueuses], comme exsudées, se fixent sur le chapeau et sur les lames, et tache les doigts
+  remarques: Parfois observée de fines gouttelettes orangées [collantes, visqueuses], comme exsudées, et qui se fixent sur le chapeau et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -217,6 +217,8 @@ champs-description:
     label: Stipitipellis
   - name: stipititrame
     label: Stipititrame
+  - name: extremites-hyphales
+    label: Extrémités hyphales
   - name: acanthocytes 
     label: Acanthocytes
   - name: trame-lamellaire

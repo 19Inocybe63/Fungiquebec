@@ -237,7 +237,7 @@ description:
     NH4OH 10 % = légèrement verdâtre sur la chair du pied
   receptacle: 
   remarques: |
-    Parfois observée de fines gouttelettes orangées [collantes, visqueuses], comme exsudées, et qui se fixent sur le chapeau et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux.
+    Parfois observée de fines gouttelettes orangées, collantes et visqueuses, comme exsudées, et qui se fixent sur le chapeau et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux.
     Certaines histoires racontent que O. illudens est tellement lumineux, que la nuit, on peut y lire un livre en toute quiétude (the jack-o'lantern mushroom) !
   repartition: 
   rhizomorphes: 

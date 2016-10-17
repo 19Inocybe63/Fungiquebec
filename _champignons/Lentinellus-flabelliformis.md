@@ -38,12 +38,15 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    subglobuleuses à largement ellipsoïdes, finement échinulées, à paroi mince, avec fin apicule, sans pore germinatif, à contenu uniguttulé à pluriguttulé, hyalines, fortement amyloïdes, cyanophiles
+    5,6 x 4,5 µm en moyenne; Q moyen = 1,2
+    (échantillonnage de 35 spores)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
-  boucles: 
+  biotopes: pousse sur écorces ou bois décortiqué de feuillus
+  boucles: présentes
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -57,17 +60,17 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, ± tenace, flexible, blanchâtre, concolore à la surface du chapeau ou parfois brun foncé
   chancre: 
-  chapeau: 
-  cheilocystides: 
+  chapeau: très polymorphe, pétaloïde-arrondi, flabelliforme, déprimé à infundibuliforme, convexe puis convexe-étalé, ± circulaire, largement cunéiforme, ± dimidié à largement réniforme, mince, lisse, subglabre, suédine, souvent finement strié radialement vers l'intérieur et parfois fendu, légèrement verni et alors parfois plissé concentriquement ou finement micacé (loupe) au sec, hygrophane, chamois rosâtre-vineux à cannelle brunâtre au frais, parfois avec plaques peu définies et stries radiales brun foncé à cannelle orangé, puis blanchâtre et gris jaunâtre à brun vers le pourtour, tan à brun foncé au sec, à marge enroulée à incurvée au début, puis droite, légèrement striée, souvent légèrement crénelée, 27 mm Ø
+  cheilocystides: dispersées à nombreuses, fusiformes, souvent atténuées vers l'apex, à paroi mince, hyalines, (25) 30-42 (55) x (4) 5-7 µm, émergentes sur 1/3-1/2 de leur longueur totale
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -117,7 +120,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte ou légèrement aromatique, fruitée à poivrée
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -145,7 +148,7 @@ description:
   hyphes-gleopleres: 
   hyphes-hymeniales: 
   hyphes-ligatives: 
-  hyphes-oleiferes: 
+  hyphes-oleiferes: présentes
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 
@@ -163,7 +166,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: subdécurrentes à décurrentes et s'étalant en rides sur le pied ou radiantes à partir d'un point central, larges, jusqu'à 5 mm, avec lamellules, subespacées à serrées, blanchâtres à brunâtre pâle au début, puis chamois rosâtre-vineux pâle, ocre chamois pâle à terne ou chamois crème au sec, à arêtes entières puis serrulées à profondément dentées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -180,7 +183,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: souvent cespiteux, grégaire ou en amas imbriqués
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -194,9 +197,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: absent ou lorsque présent très court, jusqu'à 11 mm de longueur, centré, excentré à latéral, égal à obclavé, comprimé, tenace, lisse à subglabre, côtelé par les lames décurrentes, chamois rosé, brun grisâtre, brun foncé, brun pourpré foncé à brun-noir, parfois avec fin mycélium basal cotonneux à laineux brun grisâtre à vineux et/ou délicats rhizomorphes aplatis, palmés aux ramifications, < 1 mm de largeur
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -222,19 +225,23 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: légèrement farineuse-poivrée, parfois ± amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

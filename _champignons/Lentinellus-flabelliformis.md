@@ -199,7 +199,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: absent ou lorsque présent très court, jusqu'à 11 mm de longueur, centré, excentré à latéral, égal à obclavé, comprimé, tenace, lisse à subglabre, côtelé par les lames décurrentes, chamois rosé, brun grisâtre, brun foncé, brun pourpré foncé à brun-noir, parfois avec fin mycélium basal cotonneux à laineux brun grisâtre à vineux et/ou délicats rhizomorphes aplatis, palmés aux ramifications, < 1 mm de largeur
+  pied: absent ou très court, centré, excentré à latéral, à obclavé, lisse à subglabre, côtelé par les lames décurrentes, chamois rosé, brun grisâtre, brun foncé, brun pourpré foncé à brun-noir, parfois avec fin mycélium basal cotonneux à laineux brun grisâtre à vineux et/ou délicats rhizomorphes aplatis, palmés aux ramifications, < 1 mm de largeur, 11 mm de longueur
   pieds-steriles: 
   pigments: 
   pileipellis: 

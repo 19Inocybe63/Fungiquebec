@@ -10,12 +10,12 @@ planches:
 details:
   nom-francais: 
   autorites: (J.E. Lange) Senn-Irlet
-  famille: 
-  genre: 
-  espece: 
-  litterature: 
-  collection(s)-cueillie(s): 
-  fongarium: 
+  famille: Inocybaceae
+  genre: Crepidotus
+  espece: cesatii var. subsphaerosporus
+  litterature: Senn-Irlet, B. 1995. The genus Crepidotus (Fr.) Staude in Europe. Persoonia. 16(1):1-80
+  collection(s)-cueillie(s): 13 octobre 2012
+  fongarium: cKc0035
 
 description:
   acanthocytes: 
@@ -244,7 +244,10 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Crepidotus variabilis var. subsphaerosporus J.E. Lange, Flora Agaricina Danica 5:IV (1940)
+    Crepidotus subsphaerosporus (J.E. Lange) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:76 (1953)
+    Crepidotus subsphaerosporus (J.E. Lange) Kühner & Romagn. ex Hesler & A.H. Sm., North American species of Crepidotus:121 (1965)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

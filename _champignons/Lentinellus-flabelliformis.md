@@ -166,7 +166,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: subdécurrentes à décurrentes, larges, jusqu'à 5 mm, avec lamelles et lamellules, subespacées à serrées, blanchâtres à brunâtre pâle au début, puis chamois rosâtre-vineux pâle, ocre chamois pâle à terne ou chamois crème au sec, à arêtes entières puis serrulées à profondément dentées
+  lames: décurrentes, larges, serrées à subespacées, crème pâle, fortement dentelées-érodées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

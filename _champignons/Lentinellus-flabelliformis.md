@@ -45,7 +45,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur écorces ou bois décortiqué de feuillus
+  biotopes: pousse en touffes sur branches ou bois morts de feuillus
   boucles: présentes
   brachybasidioles: 
   calicule: 
@@ -130,7 +130,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare à occassionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

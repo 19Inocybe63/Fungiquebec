@@ -37,13 +37,16 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates jusqu'à 6 µm de longueur, 22-32 µm x 6-8 µm
+  basidiospores: |
+    subglobuleuses à largement ellipsoïdes, ponctuées, échinulées, à paroi légèrement épaissie, avec apicule excentré, à contenu uniguttulé, brun jaunâtre dans le NaCl, inactives dans le melzer, partiellement cyanophiles
+    7,3 x 5,6 µm en moyenne; Q moyen = 1,3
+    échantillonnage, 30 spores
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse sur bois de feuillus
-  boucles: 
+  boucles: assez abondantes dans le pileipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -60,7 +63,7 @@ description:
   chair: plus épaisse au centre, amincie vers la marge, sans couche gélatinisée, blanche
   chancre: 
   chapeau: campanulé-convexe puis conchoïde, réniforme à étalé, velouté-feutré depuis une zone médiane au point d'attache, blanc, à marge longtemps enroulée, lobée, 18 mm Ø
-  cheilocystides: 
+  cheilocystides: subcylindriques, fourchues, contournées, en bois de cerf
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -203,7 +206,7 @@ description:
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -253,7 +256,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée d'hyphes subparallèles
   trame-tubulaire: 
   type: 
   typique: 

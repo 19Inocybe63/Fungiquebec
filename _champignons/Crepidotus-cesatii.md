@@ -226,9 +226,8 @@ description:
   pseudo-peridioles: 
   publications: |
     Bresadola, Ab. Dr. J. Iconographia Mycologica, Vol. XVI (tab. 751-800), Crepidotus, Flammula, Inocybe, Naucoria, Phylloporus, Società Botanica Italiana, 1930, 124 p.
-    Hesler, L. R.; Smith, Alexander H. North American species of Crepidotus, Hafner Publishing Company New York and London, 1965, 126 p.
-This reprint by Michael Wood & MykoWeb.com, June 2008
-    Murrill, William Alphonso. Agaricaceae (Murrill); Volvariopsis; Tapinia; Paxillus; Crepidotus; Tubaria; Galerula; Naucoria; Pluteolus; Mycena; Phylloprus; Gymnopilus; Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    Hesler, L. R.; Smith, Alexander H. North American species of Crepidotus, Hafner Publishing Company New York and London, 1965, 126 p. This reprint by Michael Wood & MykoWeb.com, June 2008
+    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

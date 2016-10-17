@@ -8,7 +8,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675222116356
 
 details:
-  nom-francais: Lentin flabelliforme
+  nom-francais: Lentin en éventail
   autorites: (Bolton) S. Ito 
   famille: Auriscalpiaceae
   genre: Lentinellus

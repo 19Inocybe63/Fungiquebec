@@ -62,7 +62,7 @@ description:
   cellules-stromatiques: 
   chair: mince, ± tenace, flexible, blanchâtre, concolore à la surface du chapeau ou parfois brun foncé
   chancre: 
-  chapeau: très polymorphe, pétaloïde-arrondi, flabelliforme, déprimé à infundibuliforme, convexe puis convexe-étalé, ± circulaire, largement cunéiforme, ± dimidié à largement réniforme, mince, lisse, subglabre, suédine, souvent finement strié radialement vers l'intérieur et parfois fendu, légèrement verni et alors parfois plissé concentriquement ou finement micacé (loupe) au sec, hygrophane, chamois rosâtre-vineux à cannelle brunâtre au frais, parfois avec plaques peu définies et stries radiales brun foncé à cannelle orangé, puis blanchâtre et gris jaunâtre à brun vers le pourtour, tan à brun foncé au sec, à marge enroulée à incurvée au début, puis droite, légèrement striée, souvent légèrement crénelée, 27 mm Ø
+  chapeau: polymorphe, pétaloïde-arrondi, flabelliforme, à infundibuliforme, convexe puis convexe-étalé, ± circulaire, mince, lisse, subglabre, finement strié radialement vers l'intérieur et parfois fendu, hygrophane, rosâtre-vineux à cannelle brunâtre au frais, parfois avec plaques peu définies et stries radiales brun foncé à cannelle orangé, puis blanchâtre et gris jaunâtre à brun vers le pourtour, tan à brun foncé au sec, à marge enroulée à incurvée au début, puis droite, légèrement striée, souvent légèrement crénelée, 27 mm Ø
   cheilocystides: dispersées à nombreuses, fusiformes, souvent atténuées vers l'apex, à paroi mince, hyalines, (25) 30-42 (55) x (4) 5-7 µm, émergentes sur 1/3-1/2 de leur longueur totale
   cheilomacrocystides: 
   chlamydospores: 

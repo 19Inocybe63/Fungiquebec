@@ -40,7 +40,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, sessile à substipité
   bibliographies: 
   biotopes: pousse sur bouleaux de l'Amérique du Nord
   boucles: 
@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: jusqu'à 150 x 250 x 60 mm, simple, souvent pendant, dimidié à réniforme ou suborbiculaire, aplani, convexe à la base, anormalement pulviné, blanchâtre, murin ou brunâtre, souvent à cuticule qui se brise pour donner un aspect troué ou écailleux, azoné, glabre, à marge souvent recourbée sur la face poroïde, concolore
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -73,7 +73,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: tenace au frais, mou-subéreux au sec, azoné, blanc, jusqu'à 50 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -82,7 +82,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: facilement détachable du contexte au frais, jusqu'à 10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -123,7 +123,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanche au début, brunâtre pâle avec l'âge
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: toute l'année
   phialoconidies: 
-  pied: 
+  pied: jusqu'à 60 x 50 mm, latéral, court, trapu, glabre, souvent résineux, blanchâtre à brun
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -215,7 +215,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: ronds à anguleux, 3-5 par mm, à dissépiments épais et entiers au début, fendus, agglutinés ensemble et devenant hydnoïdes avec l'âge
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -234,7 +234,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

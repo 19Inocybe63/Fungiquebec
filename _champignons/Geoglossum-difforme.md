@@ -28,7 +28,12 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Hakelier, Nils. Three new swedish species of geoglossum, Svensk Botanisk Tidskrift, Bd. 61, H. 3, 1967, 6 p.
+    Kučera, Viktor, Nitare, Johan, et al. Geoglossaceous fungi in Slovakia 5. Geoglossum uliginosum, taxonomy and nomenclature, Mycotaxon, Volume 124, pp. 111-115, April-June 2013, 5 p.
+    Kučera, Viktor, Lizoň, Pavel. Geoglossaceous fungi in Slovakia III. The genus Geoglossum, Biologia 67/4:654-658, 2012, Section Botany, 5 p.
+    Ohenoja, Esteri. Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
+    Priou, Jean-Paul. Contribution aux Geoglossum de France, Association Mycologique et botanique Ploemeur-Morbihan, 5 p.
   ascome: visqueux, 51-68 mm de longueur, noir
   ascospores: |
     cylindriques-filiformes, atténuées à chaque bout, lisses, avec 14-15 septa, brun-gris dans le NaCl isotonique

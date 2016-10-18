@@ -240,7 +240,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
-  remarques: En ce moment, nous réalisons une publication sur le genre Inocybe s.l. du Québec. C'est pourquoi nous ne présentons qu'une seule espèce dans le site.
+  remarques: En ce moment, nous réalisons une publication sur le genre Inocybe s.l. du Québec. C'est pourquoi nous ne présenterons qu'une seule espèce dans le site.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

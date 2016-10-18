@@ -46,7 +46,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol des forêts de feuillus ou de conifères, parfois sur débris ligneux pourri
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -71,7 +71,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -131,7 +131,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -198,7 +198,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

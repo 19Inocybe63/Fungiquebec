@@ -29,7 +29,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 
+  ascome: visqueux, 51-68 mm de longueur, noir
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -47,7 +47,7 @@ description:
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 
+  capitule: ± cylindriques à longuement fusiformes, 7-11 mm Ø à l'apex, noir
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 
@@ -57,7 +57,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: coriace
   chancre: 
   chapeau: 
   cheilocystides: 

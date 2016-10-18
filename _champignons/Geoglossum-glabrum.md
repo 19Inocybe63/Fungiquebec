@@ -29,7 +29,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 
+  ascome: 40-73 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, visqueux au début, puis lisse et brillant avec l'âge, noir
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -47,7 +47,7 @@ description:
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 
+  capitule: 20-35 x 3-12 mm large, cylindrique, spatulé ou linguiforme, souvent comprimé au centre
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 
@@ -234,7 +234,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: noirâtre
   spores: 
   spherocytes: 
   sporocystes: 

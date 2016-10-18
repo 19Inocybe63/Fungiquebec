@@ -28,7 +28,12 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Hakelier, Nils. Three new swedish species of geoglossum, Svensk Botanisk Tidskrift, Bd. 61, H. 3, 1967, 6 p.
+    Kučera, Viktor, Nitare, Johan, et al. Geoglossaceous fungi in Slovakia 5. Geoglossum uliginosum, taxonomy and nomenclature, Mycotaxon, Volume 124, pp. 111-115, April-June 2013, 5 p.
+    Kučera, Viktor, Lizoň, Pavel. Geoglossaceous fungi in Slovakia III. The genus Geoglossum, Biologia 67/4:654-658, 2012, Section Botany, 5 p.
+    Ohenoja, Esteri. Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
+    Priou, Jean-Paul. Contribution aux Geoglossum de France, Association Mycologique et botanique Ploemeur-Morbihan, 5 p. 
   ascome: 40-73 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, visqueux au début, puis lisse et brillant avec l'âge, noir
   ascospores: |
     cylindriques, légèrement incurvées, à 7 septa, lisses, noir foncé dans le NaCl
@@ -46,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse en milieux humides, souvent parmi les sphaignes ou sur débris ligneux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -71,7 +76,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -131,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -198,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -226,7 +231,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
   remarques: 

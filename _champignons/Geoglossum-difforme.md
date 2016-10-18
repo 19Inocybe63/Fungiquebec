@@ -30,8 +30,12 @@ description:
   arthroconidies: 
   articles: 
   ascome: visqueux, 51-68 mm de longueur, noir
-  ascospores: 
-  asques: 
+  ascospores: |
+    cylindriques-filiformes, atténuées à chaque bout, lisses, avec 14-15 septa, brun-gris dans le NaCl isotonique
+    103,5 [111,7; 115,3] 123,5 x 5,9 [6,5; 6,8] 7,3 µm
+    Q = 15,3 [16,8; 17,4] 19; N = 30; C = 95%
+    Me = 113,5 x 6,6 µm
+  asques: longuement claviformes, octosporées, 178-200 x 19-24 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -187,7 +191,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: grêles, septées, brunes, tordues-noueuses à l'apex (semblable à une tête de violon)
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -204,7 +208,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: 
+  poils: absent
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -232,7 +236,7 @@ description:
   saveur: 
   sclerocystides: 
   sclerote: 
-  soies: 
+  soies: absent
   soies-hymeniales: 
   sporee: 
   spores: 

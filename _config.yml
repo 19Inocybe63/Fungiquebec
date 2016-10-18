@@ -179,6 +179,8 @@ champs-description:
     label: Poils périthéciaux
   - name: poils-pileiques
     label: Poils piléiques
+  - name: soies
+    label: Soies
   - name: basides
     label: Basides
   - name: basidiospores
@@ -535,8 +537,6 @@ champs-description:
     label: Sclérocystides
   - name: sclerote
     label: Sclérote
-  - name: soies
-    label: Soies
   - name: soies-hymeniales
     label: Soies hyméniales
   - name: spherocytes

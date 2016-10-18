@@ -30,8 +30,12 @@ description:
   arthroconidies: 
   articles: 
   ascome: 40-73 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, visqueux au début, puis lisse et brillant avec l'âge, noir
-  ascospores: 
-  asques: 
+  ascospores: |
+    cylindriques, légèrement incurvées, à 7 septa, lisses, noir foncé dans le NaCl
+    90 [92,9; 98,7] 101,6 x 7,6 [7,7; 8] 8,2 µm
+    Q = 11 [11,6; 12,7] 13,3; N = 15; C = 95%
+    Me = 95,8 x 7,9 µm
+  asques: longuement claviformes, 8 ascospores par asque, 245 x 28 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -187,7 +191,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: ± droite, courbées, multi septées, moniliformes, clavées, arrondies à obovoïdes, jusqu'à 9 µm de large à l'apex
   parasite: 
   paroi-peritheciale: 
   peridiole: 

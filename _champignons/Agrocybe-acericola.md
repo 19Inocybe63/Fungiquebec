@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, blanche
   chancre: 
-  chapeau: 
+  chapeau: obtus à convexe puis largement convexe à étalé, souvent légèrement omboné, sec à humide, lisse à souvent plissé au centre, hygrophane, brun foncé, jaune ocre, cannelle jaunâtre à jaune-brun foncé au début, puis beige brunâtre, tan jaunâtre à tan avec l'âge, chamois pâle au sec, à marge unie, opaque, souvent appendiculée de restes vélaires, 30-70 (100) mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -117,7 +117,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: farineuse
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées et uncinées ou distantes du pied, serrées à très serrées, blanchâtres à chamois au début, puis brunes à brun-gris pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: subégal à légèrement élargi vers la base, fibreux, creux, strié-fibrilleux et pâle vers l'apex, blanchâtre à chamois pâle, puis grisâtre foncé, brun noirâtre pâle depuis la base, avec rhizomorphes basaux blancs, 50-100 (125) x 4-10 (20) mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -229,12 +229,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: farineuse à amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun à brun foncé, brun cannelle
   spores: 
   spherocytes: 
   sporocystes: 
@@ -258,7 +258,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: membraneux, laissant un anneau supère sur le pied, bien développé, large, pendant, typiquement persistant, strié au-dessus, blanchâtre à crème avant sporulation, puis coloré de brun par les spores
   volve: 
   zone-perihymeniale: 
 ---

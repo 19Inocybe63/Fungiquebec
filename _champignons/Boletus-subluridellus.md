@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur sol, dans les chênaies et forêts de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: large, convexe 50-100 mm Ø, à contour irrégulier, devenant globalement convexe, avec  une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuses, également vermillon rouge à baie, ou à des moments orange, violette instantanément sombre au touché, la surface souvent grêlé
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -67,13 +67,13 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: en mesure de causer des troubles digestifs importants
   commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: lumineux jaune citron, mais instantanément bleue à la coupe
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -117,7 +117,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -127,7 +127,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -194,9 +194,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: long, 15-23 x 4-9 mm Ø, solide, égale, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, la surface revêtue sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracée globale, pas du tout réticulaire
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -215,7 +215,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: 2-3 par mm, rond, carmin ou rouge foncé, instantanément bleu lorsque meurtris
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -223,13 +223,16 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: |
+    KOH 10% = sur la chair du chapeau devient saumon et la face poroïde devient brun rouille
+    NH4OH = sur la chair du chapeau devient jaune crème et la face poroïde devient brun
+    FeSO4 = sur la chair bleue, devient jaune à jaune or, légèrement orangé
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: légèrement acide métallique
   sclerocystides: 
   sclerote: 
   soies: 
@@ -252,11 +255,12 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: 6-9 mm de long, jaune virant au bleu instantanément lorsqu'il est coupé, déprimé autour du stipe à peu près libre
   type: 
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

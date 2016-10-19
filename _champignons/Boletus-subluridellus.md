@@ -37,8 +37,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à subutriformes, tétrastérigmates, non bouclées à la base, 33,4 - 36,5 × 9,7 - 11 µm
+  basidiospores: |
+    subfusiformes à fusiformes vue de front, cylindriques à légèrement inéquilatérales vue de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso, dextrinoïdes, non cyanophiles
+    (13,4) 13,8 - 15,8 (16,9) × (4,3) 4,4 - 5 (6) µm
+    Q = (2,8) 3 - 3,3 (3,5) ; N = 30
+    Me = 14,6 × 4,6 µm ; Qe = 3,1
+    (Piximètre: formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -48,8 +53,8 @@ description:
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: 
-  caulocystides: 
+  caulobasides: abondantes, claviformes, 2-4 stérigmates, non bouclées à la base, 27,5 - 36,2 × 8,8 - 12,5 µm
+  caulocystides: sur toute la longueur du stipe, cylindriques à fusiformes, flexueuses, dont l’apex de plusieurs est biseauté 16,7 [21,9; 32,1] 37,3 x 4,6 [5,4; 6,8] 7,6 µm, piriformes 22,8 x 9,1 µm en moyenne, rarement cylindriques mucronées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +65,7 @@ description:
   chair: 
   chancre: 
   chapeau: large, convexe 50-100 mm Ø, à contour irrégulier, devenant globalement convexe, avec  une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuses, également vermillon rouge à baie, ou à des moments orange, violette instantanément sombre au touché, la surface souvent grêlé
-  cheilocystides: 
+  cheilocystides: abondantes, polymorphes, parfois saillantes, cylindriques, fusiformes simples à fusiformes à long col, lagéniformes, flexueuses, dont l’apex de plusieurs est biseauté 21,6 [34; 51] 63,5 x 3,7 [5,8; 8,7] 10,7 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -199,11 +204,11 @@ description:
   pied: long, 15-23 x 4-9 mm Ø, solide, égale, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, la surface revêtue sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracée globale, pas du tout réticulaire
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droits, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: non observées
   poils: 
   poils-basaux: 
   poils-caulinaires: 

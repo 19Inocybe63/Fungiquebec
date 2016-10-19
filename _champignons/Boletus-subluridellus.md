@@ -82,7 +82,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: 6-9 mm de long, jaune virant au bleu instantanément lorsqu'il est coupé, déprimé autour du stipe à peu près libre
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -255,7 +255,6 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: 6-9 mm de long, jaune virant au bleu instantanément lorsqu'il est coupé, déprimé autour du stipe à peu près libre
   type: 
   typique: 
   voile: 

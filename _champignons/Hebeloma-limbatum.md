@@ -13,8 +13,7 @@ details:
   famille: Hymenogastraceae
   genre: Hebeloma
   espece: limbatum
-  litterature: Eberhardt, U.; Beker, H.J.; Vesterholt, J.; Schütz,N. 2016. The taxonomy of the European species of Hebeloma section
-Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. and five new species. Fungal Biology. 120(1):72-103
+  litterature: 
   collection(s)-cueillie(s): 24 septembre 2016
   fongarium: cKc0563
 

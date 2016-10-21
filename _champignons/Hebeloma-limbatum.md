@@ -37,7 +37,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement claviformes, largement cylindriques, tétrastérigmates, bouclées à la base, à contenu vacuolaire (et grannulations carminophiles ?),  23 [27,3 ; 32,5] 36,7 × 8,5 [9,5 ; 10,8] 11,8 µm en moyenne
+  basides: piriformes à largement claviformes, largement cylindriques, tétrastérigmates, bouclées à la base, à contenu vacuolaire (et granulations carminophiles ?),  23 [27,3 ; 32,5] 36,7 × 8,5 [9,5 ; 10,8] 11,8 µm en moyenne
   basidiospores: 
   basidioles: 
   basidiome: 

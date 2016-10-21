@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse au disque, abruptement amincie vers la marge, ferme, blanchâtre à crème
   chancre: 
-  chapeau: 
+  chapeau: 16-37 mm Ø, conique à campanulé puis convexe à étalé, parfois mamelonné-obtus, visqueux à l'humidité, lisse, beige à crème ochracé, à marge longtemps incurvée, puis droite ou relevée, unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -118,8 +118,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: raphanoïde à pomme de terre
+  exhalaison-des-lames: raphanoïde à pomme de terre
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à sinuées, larges, très serrées, blanchâtres puis brunes, exsudant des gouttelettes laiteuses opalescentes au frais et à l'humidité, tachetées de brun ou de brun-rouge au sec, à arêtes crénelées et floconneuses, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 24-30 x 4-13 mm Ø, égal, parfois élargi-clavé vers la base à subbulbeux, cassant, farci puis creux, entièrement furfuracé à finement fibrilleux blanc sur fond blanchâtre ou concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -229,12 +229,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun cannelle à brun ochracé
   spores: 
   spherocytes: 
   sporocystes: 

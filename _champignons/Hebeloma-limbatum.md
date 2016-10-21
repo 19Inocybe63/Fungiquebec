@@ -204,7 +204,7 @@ description:
   pied: 24-30 x 4-13 mm Ø, égal, parfois élargi-clavé vers la base à subbulbeux, cassant, farci puis creux, entièrement furfuracé à finement fibrilleux blanc sur fond blanchâtre ou concolore au chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: en 2 couches: suprapellis allant de l'ixocutis à l'ixotrichoderme de 180-218 µm d'épaisseur, formé d'hyphes gélatinisées, rarement ruguleuses, bouclées, hyalines, et le subpellis formé d'hyphes
+  pileipellis: en 2 couches, suprapellis allant de l'ixocutis à l'ixotrichoderme de 180-218 µm d'épaisseur, formé d'hyphes gélatinisées, rarement ruguleuses, bouclées, hyalines, et le subpellis formé d'hyphes
   pileitrame: 
   pileocystides: 
   plasmode: 

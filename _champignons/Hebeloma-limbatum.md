@@ -26,7 +26,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: fertile
   arthroconidies: 
   articles: 
   ascome: 
@@ -38,18 +38,23 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: piriformes à largement claviformes, largement cylindriques, tétrastérigmates, bouclées à la base, à contenu vacuolaire (et granulations carminophiles ?),  23 [27,3 ; 32,5] 36,7 × 8,5 [9,5 ; 10,8] 11,8 µm en moyenne
-  basidiospores: 
+  basidiospores: |
+    citriformes, fusiformes vue de front à ellipsoïdes, amigdaliformes vue de profil, parfois à sommet papillé, presque lisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à pluriguttulé (variable), hyalines dans l’eau glycérinée 20 %, moyennement dextrinoïdes (D2), non cyanophiles
+    (9,6) 10,2 - 11,9 (13,8) × (5,2) 5,4 - 6,1 (6,7) µm
+    Q = (1,7) 1,8 - 2,1 (2,2) ; N = 30
+    Me = 10,9 × 5,7 µm ; Qe = 1,9
+    (Piximètre, formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées dans le médiostrate
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: assez abondantes, semblables aux cheilocystides, présentes à l’apex du stipe
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +65,7 @@ description:
   chair: épaisse au disque, abruptement amincie vers la marge, ferme, blanchâtre à crème
   chancre: 
   chapeau: 16-37 mm Ø, conique à campanulé puis convexe à étalé, parfois mamelonné-obtus, visqueux à l'humidité, lisse, beige à crème ochracé, à marge longtemps incurvée, puis droite ou relevée, unie
-  cheilocystides: 
+  cheilocystides: abondantes formant une palissade, longuement claviformes, rarement flexueuses à tortueuses, à paroi mince, hyalines, bouclées, 51,6 [59,1 ; 69,5] 77 × 5,5 [5,9 ; 6,5] 7 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -199,11 +204,11 @@ description:
   pied: 24-30 x 4-13 mm Ø, égal, parfois élargi-clavé vers la base à subbulbeux, cassant, farci puis creux, entièrement furfuracé à finement fibrilleux blanc sur fond blanchâtre ou concolore au chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en 2 couches: suprapellis allant de l'ixocutis à l'ixotrichoderme de 180-218 µm d'épaisseur, formé d'hyphes gélatinisées, rarement ruguleuses, bouclées, hyalines, et le subpellis formé d'hyphes
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -221,8 +226,14 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
-  publications-microscopiques: 
+  publications: |
+    Smith, Alexander H., Evenson, Vera Stuck, Mitchel, Duane H. The Veiled Species of Hebeloma in the Western United States, Ann Arbor the University of Michigan Press, 1983, 228 p.
+    Vesterholt, Jan. The genus Hebeloma, Fungi of Northern Europe, vol. 3, Danish Mycological Society, 2005, p. 76 p.
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1 : les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2 : les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3 : les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4 : la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
   remarques: 

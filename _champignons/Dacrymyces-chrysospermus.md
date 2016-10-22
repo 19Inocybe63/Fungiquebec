@@ -37,7 +37,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: fourchues
+  basides: claviformes, fourchues, non bouclées à la base, 45-70 x 3-3,5 µm
   basidiospores: |
     cylindriques à suballantoïdes, lisses, à paroi légèrement épaissie, avec sept septa à maturité, dépression supra-apiculaire et hile, à contenu pluriguttulé, hyalines dans le NH4OH 2,5 %, inactives dans le melzer, non cyanophiles
     18,1 [19,6; 20,2] 21,6 x 6 [7,1; 7,5] 8,5 µm

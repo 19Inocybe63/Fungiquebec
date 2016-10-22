@@ -91,6 +91,10 @@ champs-description:
     label: Basidiome
   - name: hymenophore
     label: Hyménophore
+  - name: consistance
+    label: Consistance
+  - name: subiculum
+    label: Subiculum
   - name: marge
     label: Marge
   - name: face-externe
@@ -353,8 +357,6 @@ champs-description:
     label: Conidiome
   - name: conidiophores
     label: Conidiophores
-  - name: consistance
-    label: Consistance
   - name: cordons-myceliens
     label: Cordons mycéliens
   - name: cordons-rhizomorphiques
@@ -547,8 +549,6 @@ champs-description:
     label: Stroma
   - name: subhymenium
     label: Subhyménium
-  - name: subiculum
-    label: Subiculum
   - name: substrat
     label: Substrat
   - name: systeme-hyphal

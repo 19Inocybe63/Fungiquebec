@@ -3,7 +3,7 @@
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
             {% assign champignonsTries = (site.champignons | sort: 'date') | reverse %}
-            {% for champignon in champignonsTries %}
+            {% for champignon in champignonsTries limit:10 %}
                 <a href="{{ champignon.url | prepend: site.baseurl }}">
                     <div class="portfolio-item graphic-design">
                         <div class="he-wrap tpl6">

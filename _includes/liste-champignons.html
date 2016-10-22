@@ -5,14 +5,51 @@
         $(classe).show();
     }
 
-    function showAllChampignons(lettre) {
-        toggleLettreSelected(lettre);
+    function showAllChampignons() {
+        toggleLettreSelected($('.lettre-tous')[0]);
         $('.lettre').show();
+    }
+
+    function hideAllChampignons() {
+        $('.lettre').hide();
     }
 
     function toggleLettreSelected(lettre) {
         $('.lettre-selected').removeClass('lettre-selected');
         $(lettre).addClass('lettre-selected');
+    }
+
+    function onSearchBoxKeyUp(e) {
+        if (e.keyCode == 13) {
+            var searchbox = e.eventTarget;
+            search(searchbox);
+        }
+    }
+
+    function onSearchButtonClick() {
+        var searchbox = $('#searchbox');
+        if (searchbox) {
+            search(searchbox[0]);
+        }
+    }
+
+    function search(searchbox) {
+        if (searchbox) {
+            var terms = searchbox.value;
+            if (terms) {
+                hideAllChampignons();
+                toggleLettreSelected($('.lettre-tous')[0]);
+
+                var results = index.search(terms);
+                for (var i = 0; i < results.length; ++i) {
+                    var result = results[i];
+                    $('.index' + result.ref).show();
+                    $('.lettre-entete.lettre' + index.documentStore.getDoc(result.ref).nom[0].toLowerCase()).show();
+                }
+            } else {
+                showAllChampignons();
+            }
+        }
     }
 </script>
 
@@ -40,6 +77,15 @@
         font-weight: bold;
         color: black;
     }
+
+    #searchform {
+        margin: 10px 0;
+    }
+
+    #searchbutton {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
 </style>
 
 
@@ -47,12 +93,17 @@
     <div class="row">
         <div class="col-lg-12">
             <div>
-                <a class="lien-lettre lettre-selected" onclick="showAllChampignons(this)">TOUS</a>
+                <a class="lien-lettre lettre-selected lettre-tous" onclick="showAllChampignons()">TOUS</a>
                 {% assign alphabet = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" | split:',' %}
                 {% for lettre in alphabet %}
                     <a class="lien-lettre" onclick="filterChampignons(this, '.lettre{{ lettre }}')">{{ lettre | capitalize }}</a>
                 {% endfor %}
             </div>
+
+            <form id="searchform" onsubmit="return false">
+                <input id="searchbox" type="text" placeholder="Recherche..." onkeyup="onSearchBoxKeyUp(event)" />
+                <button id="searchbutton" value="Rechercher" onclick="onSearchButtonClick()">Rechercher</button>
+            </form>
 
             <table>
             {% assign champignonsTries = (site.champignons | sort: 'nom') %}
@@ -67,7 +118,7 @@
                         </td>
                     </tr>
                 {% endif %}
-                <tr class="lettre lettre{{ lettreChampignon }}">
+                <tr class="lettre lettre{{ lettreChampignon }} index{{ forloop.index }}">
                     <td>
                         <a href="{{ champignon.url | prepend: site.baseurl }}">
                             <i>{{ champignon.nom }}</i>

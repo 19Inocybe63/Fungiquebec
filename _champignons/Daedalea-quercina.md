@@ -1,21 +1,21 @@
 ---
-nom: Gymnopilus humicola
-date: 2016-10-02 00:00:00
-image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
-album-flickr: 72157673456836530
+nom: Daedalea quercina
+date: 2016-10-15 00:00:00
+image: https://c2.staticflickr.com/4/3930/15461315042_c12164c798_n.jpg
+album-flickr: 72157673932255201
 planches:
-  - miniature: https://c1.staticflickr.com/9/8745/16871277948_067ee28bb3_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16871277948/
+  - miniature: https://c2.staticflickr.com/4/3952/15582860415_52b76245e9_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673932255201
 
 details:
-  collection(s)-cueillie(s): 16 juin 2013; 12 juin 2015
-  litterature: Singer, R. 1961. Diagnoses fungorum novorum Agaricalium II. Sydowia. 15(1-6):45-83
-  nom-francais: Gymnopilus humicole
-  autorites: Harding ex Singer
-  fongarium: cKc0048; cKc0312
-  famille: Hymenogastraceae
-  genre: Gymnopilus
-  espece: humicola
+  nom-francais: Dédale du chêne
+  autorites: (L.) Pers.
+  famille: Fomitopsidaceae
+  genre: Daedalea
+  espece: quercina
+  litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
+  collection(s)-cueillie(s): 6 octobre 2014; 3 juin 2016
+  fongarium: cKc0294; cKc0494
 
 description:
   acanthocytes: 
@@ -28,32 +28,28 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
+  articles: 
   ascome: 
   ascospores: 
   asques: 
   asterohyphidies: 
-  auteur-de-la-description: Claude Kaufholtz-Couture
-  avertissement: Les données mises à disposition reflètent l'état d'avancement des connaissances ou la disponibilité des inventaires. En aucun cas elles ne sauraient être considérées comme exhaustives.
+  avertissement: 
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: clavées à longuement claviformes, tétrastérigmates, bouclées à la base, 21 [25,3; 29,7] 34 x 6,3 [7,3; 8,2] 9,2 µm en moyenne 
-  basidiospores: |
-    largement elliptique à elliptique, amygdaliformes vue de profil, à ovoïdes vue frontale, finement verruqueuses, à paroi mince entre 0,2-0,3 µm, avec petit appendice apiculaire, à contenu variable mais souvent uniguttulé, cannelle à miel dans le NaCl, ferrugineuses dans le KOH 5 %, rapidement dextrinoïdes, non cyanophiles
-    7,1 [8; 8,4] 9,3 x 4,6 [5; 5,1] 5,5 µm
-    Q = 1,5 [1,6] 1,7; N = 30; C = 95%
-    Me = 8,2 x 5,1 µm; Qe = 1,6
+  basides: 
+  basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: pérenne, sessile, tenace, subéreux à ligneux-dur, fortement adné
   bibliographies: 
-  biotopes: pousse sur souche de feuillu; observé seulement deux fois au Québec
-  boucles: observées dans le pileipellis et dans le stipitipellis
+  biotopes: pousse sur bois vivant de feuillus, Quercus surtout, souvent sur bois très dur
+  boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides:  isolées, émergentes et parfois en faisceaux, ou en touffe, subcapitées à capitées 40 x 6 µm en moyenne, cylindriques 28-30 x 3-3,4 µm en moyenne
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -61,24 +57,23 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ferme, immuable, 
+  chair: 
   chancre: 
-  chapeau:  hémisphérique, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
-  cheilocystides: nombreuses en palissade, capitées à subcapitées (en forme de tibia) 23,7 [29,4; 32,6] 38,3 x 4,2 [5; 5,4] 6,2 µm en moyenne
+  chapeau: jusqu'à 200 mm de longueur, 150 mm de largeur, 80 mm d'épaisseur à la base, largement attaché à dimidié, semi-circulaire à ongulé, aplani à triquètre, légèrement convexe, souvent légèrement bombée vers la base, amincie vers la marge, finement velouté à glabre, parfois avec touffes d'hyphes dressées, nodules, verrues dispersées et excroissances aiguës nouvellement formées, zoné et sillonné concentriquement, chamois à brun pâle, brunâtre plus foncé à grisâtre vers la base avec l'âge, verdâtre chez les vieux spécimens, ochracé pâle, depuis la base, à marge épaisse, obtuse, souvent lisse, ochracée
+  cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-cueillie: 16 juin 2013
   columelle: 
-  comestibilite: non comestible, suspect
+  comestibilite: 
   commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: ochracé à brun tabac, jusqu'à 10 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -87,7 +82,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: indistinctement stratifiées, ochracé pâle, à trame distinctement plus foncée, jusqu'à 4 cm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -123,12 +118,15 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   exoperidium: 
   face-externe: 
-  face-poroide: 
+  face-poroïde: aplanie à oblique, surtout près du substrat, ochracé pâle à beige
   feutrage-basal: 
+  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionelle
+  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -136,9 +134,9 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides-cheilocystides-et-pleurocystides: 
+  hymenocystides: 
   hymenophore: 
-  hyphes: pigments pariétal et extrahyphique
+  hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -164,7 +162,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, larges, serrées, avec lamellules irrégulières à distribution symétrique, jaunâtre, crème, à arête concolore aux lames
+  lames: 
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -181,11 +179,11 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: grégaire, en petit groupe
+  mode-de-croissance: solitaire à grégaire, en petits amas imbriqués et fusionnés latéralement
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
-  exhalaison: agréable
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -195,16 +193,16 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: juin
+  phenologie: 
   phialoconidies: 
-  pied: cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au chapeau, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc
+  pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis avec pigments pariétal et extrahyphique
+  pileipellis: 
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides:  rares, de même forme que les cheilocystides, elles sont davantage situées près de l'arête lamellaire
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -216,31 +214,34 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: irréguliers, sinueux, dédaloïdes, labyrinthiques, allongés à presque lamellés-furqués vers la marge, souvent 1-4 mm de largeur mesurés tangentiellement, à dissépiments larges, 1-3 mm, profondément lacérés sur les parties obliques
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    Bon, Marcel et Roux, Pierre. Le Genre Gymnopilus P. Karst., en Europe, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
-    Hesler, L. R. North American Species of Gymnopilus, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir, Hafner Publishing Company New York and London, 1969
-    Murrill, William Alphonso. Agaricaceae, Murrill, Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
+  publications: Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: KOH 10% cuticule du chapeau devient noire
+  reactions-chimiques: |
+    KOH 5 % = devient rouge brun foncé à noir
+    Rouge Congo SDS = lors d'une coupe, le contexte devient noir
   receptacle: 
-  remarques: D’après Maria Teresa Basso (Manuale di Microscopia dei Funghi, vol. 2), les hyménocystides deviennent légèrement verdâtre en Bleu coton; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. Cette collection fut confirmée par Rocky Houghtby, de Mushrooms Observer.
+  remarques: 
+  repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: raphanoïde et rapidement amarescente à amère
+  saveur: 
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: rouille
+  sporee: blanche à blanchâtre
+  spores: 
+  spherocytes: 
   sporocystes: 
   stipitipellis: 
   stipititrame: 
@@ -248,19 +249,33 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  synonymie: |
+    Agaricus quercinus L., Species Plantarum, 1176 (1753)
+    Agaricus labyrinthiformis Bull., Herbier de la France 8, t. 352 (1788)
+    Merulius quercinus (L.) J.F. Gmel., Systema Naturae 2, 1431 (1792)
+    Lenzites quercina (L.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:54 (1882)
+    Striglia quercina (L.) Kuntze, Revisio generum plantarum 2:871 (1891)
+    Daedaleites quercinus (L.) Mesch. (1892)
+    Trametes quercina (L.) Pilát, Atlas Champ. Eur., Polypor., B:329 (1939)
+    Agaricus dubius Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:56, t. 231 (1774)
+    Agaricus antiquus Willd., Florae Berolinensis Prodromus, 376 (1787)
+    Agaricus labyrinthiformis Hoffm., Nomencl. Fungi, 1789 (1789)
+    Agarico-suber daedaleum Paulet, Traité des champignons 2:75, pl. 1:1-2 (1793)
+    Daedalea nigricans Pers., Synopsis methodica fungorum, 499 (1801)
+    Daedalea inzengae Fr., Funghi siciliani, 8 (1869)
+    Hexagonia minor Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:514 (1916)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: subparallèle
+  trame-lamellaire: 
   trame-tubulaire: 
   type: 
   typique: 
-  vials: 
   voile: 
   voile-general: 
-  voile-partiel: absent
+  voile-partiel: 
   volve: 
   zone-perihymeniale: 
 ---

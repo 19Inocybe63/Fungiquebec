@@ -1,61 +1,63 @@
 ---
-nom: Leratiomyces riparius
-date: 2016-10-08 00:00:00
-image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
-album-flickr: 72157671467848974
+nom: Helvella corium
+date: 2016-10-15 00:00:00
+image: https://c2.staticflickr.com/6/5624/20562876582_8477cf6fba_n.jpg
+album-flickr: 72157674971769076
 planches:
-  - miniature: https://c1.staticflickr.com/9/8492/8273347718_58d8cdec4a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8273347718/
-  - miniature: https://c2.staticflickr.com/8/7721/16913172420_83e9a70342_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16913172420/
-  - miniature: https://c2.staticflickr.com/2/1598/26189239201_730d0fd85d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/26189239201/
+  - miniature: https://c2.staticflickr.com/8/7288/27309797164_6f96ed1b45_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674971769076
 
 details:
-  nom-francais: 
-  autorites: (A.H. Sm.) Redhead
-  collection(s)-cueillie(s): 18 août 2012; 24 juin 2013; 28 mai 2015; 3 juin 2016
-  fongarium: cKc0037; cKc0049; cKc0305; cKc0493
-  famille: Strophariaceae
-  genre: Leratiomyces
-  espece: riparius
+  nom-francais: Helvelle coriace
+  autorites: (O. Weberb.) Massee
+  famille: Helvellaceae
+  genre: Helvella
+  espece: corium
+  litterature: Massee, G.E. 1895. British Fungus-Flora. 4:1-522
+  collection(s)-cueillie(s): 14 août 2015; 19 août 2015
+  fongarium: cKc0406; cKc0419
 
 description:
-  acanthocytes: absents
+  acanthocytes: 
   acanthophyses: 
   aiguillons: 
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
-  arete-lamellaire: stérile
+  apothecie: (2) 5-12 mm de hauteur, (30) 10-40 (50) mm Ø, légèrement à profondément cupuliforme, stipitée, densément pubescent à villeux vers le pourtour, à marge enroulée au début puis étalée, souvent avec pubescence blanchâtre à blanc grisâtre, unie, crénelée à lobée ou rarement avec côtes s'étalant jusque sur le quart inférieur
+  arete-lamellaire: 
   arthroconidies: 
+  articles: |
+    Korf, R.P. (2008). Nomenclatural notes. 12. Untangling Hedwig's Octospora villosa: Helvella fibrosa comb. nov. Mycotaxon 103:307-312. BSM ref. 12: 7335
+    Abbott, Sean P. and Currah, R. S., The Helvellaceae: Systematic Revision and occurrence in Northern and Northwestern North America, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
+    Anderson, P. J. and Ickis, Marguerite G., Massachusetts Species of Helvella, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    unisériées, largement ellipsoïdes à ellipsoïdes, lisses (voir remarque), à paroi mince à légèrement épaissie, à contenu uniguttulé, hyalines dans l’eau glycérinée 20 %, iodonégatives, non cyanophiles
+    (16,2) 16,6 - 18,1 (19,3) × (11,2) 11,3 - 12 (12,7) µm
+    Q = (1,4) 1,43 - 1,56 (1,6) ; N = 30
+    Me = 17,3 × 11,6 µm ; Qe = 1,5
+    (Piximètre: formule classique, ascospores mesurées dans l'eau glycérinée 20 %)
+  asques: cylindriques, operculés, octosporés, iodonégatifs, 225-250 x 12,2-17 µm Ø
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement ovoïdales à claviformes, parfois légèrement atténuées à la base, tétrastérigmates, bouclées à la base, 20 [23,2; 25,4] 28,6 x 9,1 [10,5; 11,5] 13 µm
-  basidiospores: |
-    ovoïdales à subhexagonales vue frontale à globalement largement oblongues à oblongues allongées vue de profil, tronquées, lisses, à paroi légèrement épaissie 0,3 µm en moyenne, avec appendice hilaire bien visible et pore germinatif centré à excentré 1,3 [1,5; 1,7] 1,8 µm, à contenu variable, brunes dans le NaCl iso, inactives dans le melzer, non cyanophiles
-    (12,2) 12,5 - 13,6 (14,3) × (6,3) 6,6 - 7,5 (8,3) µm
-    Q = (1,5) 1,7 - 2 (2,1); N = 30
-    Me = 13,1 × 7 µm; Qe = 1,9
+  basides: 
+  basidiospores: 
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous pins, dans la mousse
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: présentes, en faisceaux, semblables aux cheiloleptocystides
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -63,14 +65,13 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, ferme, immuable, blanche
+  chair: mince, blanchâtre
   chancre: 
-  chapeau: hémisphérique au début à conique-campanulé, puis campanulé convexe à plan à maturité, collant, terne et fibrilleux lorsqu'il est sec, non distinctement hygrophane, appendiculée de reste vélaire, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracée, jaune à orange ochracée, 17,5-49,3 mm Ø
+  chapeau: 
   cheilocystides: 
-  cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capité 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: absentes
+  chrysocystides: 
   circumcystides: 
   clavules: 
   columelle: 
@@ -120,20 +121,21 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison-de-la-chair: agréable à fongique
-  exhalaison-des-lames: agréable à fongique
+  exhalaison: indistincte
   exoperidium: 
-  face-externe: 
+  face-externe: duveteuse à écailleuse, brun noirâtre à noire
   face-poroide: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: rare, car connu seulement dans une station au Québec ; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
+  frequence: peu commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -142,7 +144,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
-  hymenophore: 
+  hymenophore: lisse, noir au frais et au sec
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -169,7 +171,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à légèrement décurrente par une dent, large, cunéiforme, marbrées, subespacées et bombées, présence de lamelles et de lamellules, pourpre jeune, puis pourpre foncé à maturité, dont l’arête lamellaire est fimbriées, blanche
+  lames: 
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -186,31 +188,29 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolées, parfois en petits groupes, très souvent cespiteux
+  mode-de-croissance: solitaire, dispersé ou densément grégaire
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  nouvelle espèce: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: cylindriques avec apex claviformes, devient progressivement élargi à l'apex, hyalines dans l'eau glycérinée 10 %, ou brun, à contenu finement granuleux, 3,5-8,5 µm Ø
   parasite: 
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: mai à août
+  phenologie: de juin, à août (septembre)
   phialoconidies: 
-  pied: cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre, 41-70 x 3-7,3 mm Ø
+  pied: (2) 5-30 (40) x 5-8 mm, court, égal ou élargi vers la base, rond, légèrement comprimé à légèrement côtelé surtout à la base à la coupe, rarement fortement côtelé, plein, brun très foncé à noir vers l'apex, souvent blanc à gris pâle à la base, couvert d'un duvet gris-brun
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches = suprapellis entre ± 50-150 µm d’épaisseur en ixocutis disposé radialement, et un subpellis compact, composé de cellules globuleuses à subglobuleuses et d'hyphes allongées 20 [26,6; 32,7] 39,3 x 8,9 [13,5; 17,8] 22,4 µm
+  pileipellis: 
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
   pleurocystides: 
-  pleurochrysocystides: rares et à peine saillantes de l’hyménium, vues seulement sur de jeunes sujets (37) 42,6 [43,2; 46,3] 46,9 x 2 [5,3; 20,9] 24,1 µm en moyenne;
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -223,29 +223,28 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: trouvé pour la première fois dans un parc urbain de Québec en août 2012
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+  publications: Dissing, Henry. The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: NH4OH 10% = le pied devient légèrement jaunâtre, chapeau aucune coloration; FeSO4 = aucune coloration; KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau auncune coloration; Gaïacol = aucune coloration sur les lames et le pied, rose lilacée sur le chapeau après > 5’
+  reactions-chimiques: 
   receptacle: 
-  remarques: L'épithète « riparius » signifie qui se tient sur les rives (en parlant d'oiseaux); il y a aussi « ripariolus » qui signifie qui se trouve sur la rive. Difficile ici de donner un nom français. (Dictionnaire Gaffiot latin-français, 1934.
+  remarques: Ascospores finement rugueuses au microscope à balayage électronique, (Scanning electron microscope (SEM))
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: fongique avec une finale légèrement amère
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: gris pourpre, brun
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 
@@ -255,7 +254,21 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: Stropharia riparia A.H. Sm., Michigan Bot. 18(3), 107 (1979)
+  synonymie: |
+    Cyathipodia corium (O. Weberb.) Boud.
+    Peziza corium O. Weberb.
+    Macropodia corium (O. Weberb.) Cooke
+    Aleuria corium (O. Weberbauer) Gillet, Champignons de France. Les Discomycètes 2: 39 (1879)
+    Scypharia corium (Weberb.) Quél.: 83 (1886)
+    Lachnea corium (O. Weberb.) W. Phillips, A manual of the British Discomycetes: 204 (1887)
+    Fuckelina corium (O. Weberbauer) Kuntze, Revisio generum plantarum 2: 852 (1891)
+    Sarcoscypha corium (O. Weberb.) J. Schröt.: 59 (1893)
+    Helvella corium f. corium (O. Weberb.) Massee: 463 (1895)
+    Cyathipodia corium (O. Weberb.) Boud.: 2 (1904)
+    Leptopodia corium (O. Weberb.) Boudier, Histoire et Classification des Discomycètes d'Europe: 239bis (1910)
+    Cowlesia corium (O. Weberb.) Nieuwl., The American Midland Naturalist 4: 380 (1916)
+    Paxina corium (O. Weberb.) Seaver, The North American Cup-Fungi (Operculates) (3): 208 (1928)
+    http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=121669&Fields=All
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -266,8 +279,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: non
-  voile-partiel: blanc au début devenant pourpre foncé, habituellement situé à la marge du chapeau, se retrouve rarement sur le pied ou laissant une petite zone annuliforme
+  voile-general: 
+  voile-partiel: 
   volve: 
   zone-perihymeniale: 
 ---

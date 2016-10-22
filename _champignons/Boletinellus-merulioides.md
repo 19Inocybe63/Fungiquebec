@@ -1,27 +1,26 @@
 ---
-nom: Leratiomyces riparius
-date: 2016-10-08 00:00:00
-image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
-album-flickr: 72157671467848974
+nom: Boletinellus merulioides
+date: 2016-10-15 00:00:00
+image: https://c1.staticflickr.com/1/681/20710760485_9274b8e443_n.jpg
+album-flickr: 72157673927535311
 planches:
-  - miniature: https://c1.staticflickr.com/9/8492/8273347718_58d8cdec4a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8273347718/
-  - miniature: https://c2.staticflickr.com/8/7721/16913172420_83e9a70342_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16913172420/
-  - miniature: https://c2.staticflickr.com/2/1598/26189239201_730d0fd85d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/26189239201/
+  - miniature: https://c1.staticflickr.com/9/8091/8520997071_7a95de4f6f_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673927535311
+  - miniature: https://c2.staticflickr.com/2/1686/24988306952_f50ecc63f3_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673927535311
 
 details:
-  nom-francais: 
-  autorites: (A.H. Sm.) Redhead
-  collection(s)-cueillie(s): 18 août 2012; 24 juin 2013; 28 mai 2015; 3 juin 2016
-  fongarium: cKc0037; cKc0049; cKc0305; cKc0493
-  famille: Strophariaceae
-  genre: Leratiomyces
-  espece: riparius
+  nom-francais: Bolet veiné
+  autorites: (Schwein.) Murrill
+  famille: Boletinellaceae
+  genre: Boletinellus
+  espece: merulioides
+  litterature: Murrill, W.A. 1909. The Boletaceae of North America - 1. Mycologia. 1(1):4-18
+  collection(s)-cueillie(s): 10 juillet 2012; 19 août 2015
+  fongarium: cKc0004; cKc0420
 
 description:
-  acanthocytes: absents
+  acanthocytes: 
   acanthophyses: 
   aiguillons: 
   aleurioconidies: 
@@ -29,8 +28,9 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: stérile
+  arete-lamellaire: 
   arthroconidies: 
+  articles: 
   ascome: 
   ascospores: 
   asques: 
@@ -39,23 +39,24 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement ovoïdales à claviformes, parfois légèrement atténuées à la base, tétrastérigmates, bouclées à la base, 20 [23,2; 25,4] 28,6 x 9,1 [10,5; 11,5] 13 µm
+  basides: piriformes, claviformes à largement claviformes, tétrastérigmates, bouclées à la base, hyalines dans le NaCl, à contenu vacuolaires, (30,6) 30,7 - 36,7 (37,6) × (8,3) 9 - 12,8 (13,5) µm
   basidiospores: |
-    ovoïdales à subhexagonales vue frontale à globalement largement oblongues à oblongues allongées vue de profil, tronquées, lisses, à paroi légèrement épaissie 0,3 µm en moyenne, avec appendice hilaire bien visible et pore germinatif centré à excentré 1,3 [1,5; 1,7] 1,8 µm, à contenu variable, brunes dans le NaCl iso, inactives dans le melzer, non cyanophiles
-    (12,2) 12,5 - 13,6 (14,3) × (6,3) 6,6 - 7,5 (8,3) µm
-    Q = (1,5) 1,7 - 2 (2,1); N = 30
-    Me = 13,1 × 7 µm; Qe = 1,9
+    elliptiques vue de front, largement elliptiques à elliptiques vue de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, pore germinatif légèrement excentré à excentré et bien visible dans le melzer 1,7-2 µm, à contenu uniguttulé, hyalines dans le NaCl iso, dextrinoïdes, non cyanophiles
+    (7,5) 7,9 - 8,6 (9,5) × (5,4) 5,6 - 6,2 (6,9) µm
+    Q = (1,3) 1,32 - 1,4 (1,5) ; N = 30
+    Me = 8,2 × 6 µm ; Qe = 1,4
+    (Piximètre: formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
-  boucles: 
+  biotopes: pousse au sol, sur pelouse, sous frêne
+  boucles: observées dans le pileipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: présentes, en faisceaux, semblables aux cheiloleptocystides
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -63,18 +64,17 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, ferme, immuable, blanche
+  chair: blanchâtre à jaunâtre, immuable ou devenant lentement bleu-vert à la coupe, surtout au-dessus de la couche de tubes
   chancre: 
-  chapeau: hémisphérique au début à conique-campanulé, puis campanulé convexe à plan à maturité, collant, terne et fibrilleux lorsqu'il est sec, non distinctement hygrophane, appendiculée de reste vélaire, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracée, jaune à orange ochracée, 17,5-49,3 mm Ø
-  cheilocystides: 
-  cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capité 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
+  chapeau: convexe quand il est jeune, puis étalé à concave à maturité, sec à viscidule, glabre ou presque, brun rougeâtre, brun jaunâtre ou brun olivâtre, à marge incurvée puis souvent ondulée ou gondolent, avec bande étroite de tissu stérile, 50-200 mm Ø
+  cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: absentes
+  chrysocystides: 
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: non comestible
+  comestibilite: La consommation n'est pas recommandée
   commentaires: 
   conidies: 
   conidiome: 
@@ -89,7 +89,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: décurrente, concolore à la face poroïde, 3-6 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -119,21 +119,21 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
-  exhalaison: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison-de-la-chair: agréable à fongique
-  exhalaison-des-lames: agréable à fongique
+  exhalaison: indistincte
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   exoperidium: 
   face-externe: 
-  face-poroide: 
+  face-poroïde: jaune à jaune olivacé, immuable ou devenant lentement bleu-vert au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: rare, car connu seulement dans une station au Québec ; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -169,7 +169,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à légèrement décurrente par une dent, large, cunéiforme, marbrées, subespacées et bombées, présence de lamelles et de lamellules, pourpre jeune, puis pourpre foncé à maturité, dont l’arête lamellaire est fimbriées, blanche
+  lames: 
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -186,11 +186,11 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolées, parfois en petits groupes, très souvent cespiteux
+  mode-de-croissance: dispersé à grégaire, souvent nombreux, en groupe
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
-  nouvelle espèce: 
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -200,17 +200,16 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: mai à août
+  phenologie: de juin à septembre
   phialoconidies: 
-  pied: cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre, 41-70 x 3-7,3 mm Ø
+  pied: souvent excentré à latéral, court, subégal, souvent courbe, plein, jaune vers l'apex, brun vers la base, arrivant de nombreux sclérotes, 20-45 x 5-25 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches = suprapellis entre ± 50-150 µm d’épaisseur en ixocutis disposé radialement, et un subpellis compact, composé de cellules globuleuses à subglobuleuses et d'hyphes allongées 20 [26,6; 32,7] 39,3 x 8,9 [13,5; 17,8] 22,4 µm
+  pileipellis: en cutis avec des hyphes pigmentées, emmêlées et émergentes 3-10 µm de largeur
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides: 
-  pleurochrysocystides: rares et à peine saillantes de l’hyménium, vues seulement sur de jeunes sujets (37) 42,6 [43,2; 46,3] 46,9 x 2 [5,3; 20,9] 24,1 µm en moyenne;
+  pleurocystides: rare et non émergentes, cylindriques
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -222,30 +221,30 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
-  premiere-mention: trouvé pour la première fois dans un parc urbain de Québec en août 2012
+  pores: anguleux et interveinés, bolétinoïdes, parfois sublamellés, très larges, 1 mm ou plus de largeur
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+  publications: Smith, Alexander H., and Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: NH4OH 10% = le pied devient légèrement jaunâtre, chapeau aucune coloration; FeSO4 = aucune coloration; KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau auncune coloration; Gaïacol = aucune coloration sur les lames et le pied, rose lilacée sur le chapeau après > 5’
+  reactions-chimiques: KOH5% ou NA4OH = noirâtre puis rouge terne à orangé sur le chapeau
   receptacle: 
-  remarques: L'épithète « riparius » signifie qui se tient sur les rives (en parlant d'oiseaux); il y a aussi « ripariolus » qui signifie qui se trouve sur la rive. Difficile ici de donner un nom français. (Dictionnaire Gaffiot latin-français, 1934.
+  remarques: Cueilli sous les frênes ; probablement en symbiose avec le puceron (ou aphide) Melia Rhizophagus fraxinifolia.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: fongique avec une finale légèrement amère
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: gris pourpre, brun
+  sporee: brun olivacé
   spores: 
   spherocytes: 
   sporocystes: 
@@ -255,19 +254,25 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: Stropharia riparia A.H. Sm., Michigan Bot. 18(3), 107 (1979)
+  synonymie: |
+    Daedalea merulioides Schwein., Transactions of the American Philosophical Society 4 (2):160 (1832)
+    Gyrodon merulioides (Schwein.) Singer, Revue de Mycologie 3 (4-5):171 (1938)
+    Boletinus merulioides (Schwein.) Coker & Beers, The Boletaceae of North Carolina:82 (1943)
+    Boletus merulioides (Schwein.) Coker & Beers (1948)
+    Cantharellus olivaceus Schwein., Transactions of the American Philosophical Society 4 (2):153 (1832)
+    Paxillus porosus Berk., London Journal of Botany 6:314 (1847)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
   trame-lamellaire: 
-  trame-tubulaire: 
+  trame-tubulaire: parallèle à subparallèle
   type: 
   typique: 
   voile: 
-  voile-general: non
-  voile-partiel: blanc au début devenant pourpre foncé, habituellement situé à la marge du chapeau, se retrouve rarement sur le pied ou laissant une petite zone annuliforme
+  voile-general: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

@@ -1,21 +1,21 @@
 ---
-nom: Octaviania asterosperma
-date: 2016-10-09 00:00:00
-image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
-album-flickr: 72157674612351426
+nom: Fomitopsis betulina
+date: 2016-10-17 00:00:00
+image: https://c2.staticflickr.com/4/3905/15064383809_0d95a73134_n.jpg
+album-flickr: 72157673981498392
 planches:
-  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
+  - miniature: 
+    originale: 
 
 details:
-  nom-francais: 
-  autorites: Vittad.
-  famille: Boletaceae
-  genre: Octaviania
-  espece: asterosperma
-  litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  collection(s)-cueillie(s): 23 août 2015
-  fongarium: cKc0430
+  nom-francais: Polypore du bouleau
+  autorites: (Bull.) B.K. Cui, M.L. Han & Y.C. Dai
+  famille: Fomitopsidaceae
+  genre: Fomitopsis
+  espece: betulina
+  litterature: Fries, E.M. 1821. Systema Mycologicum. 1:1-520
+  collection(s)-cueillie(s): 15 septembre 2014
+  fongarium: cKc0250
 
 description:
   acanthocytes: 
@@ -28,7 +28,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles-n°5 (2005) p. 55-64
+  articles: 
   ascome: 
   ascospores: 
   asques: 
@@ -37,23 +37,19 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: Basides piriformes à largement clavées, à 3-4 pédicelles 4-9 µm de long, avec granulation, mais aussi vide optique (avec incrustations ?), 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
-  basidiospores: |
-    globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
-    11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
-    Q = [1; 1,1] 1,2; N = 30; C = 95%
-    Me = 12,5 x 11,9 µm; Qe = 1,1 (sans les ornements)
+  basides: 
+  basidiospores: 
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: annuel, sessile à substipité
   bibliographies: 
-  biotopes: pousse dans le sol, sous conifères
+  biotopes: pousse sur bouleaux de l'Amérique du Nord
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -63,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: jusqu'à 150 x 250 x 60 mm, simple, souvent pendant, dimidié à réniforme ou suborbiculaire, aplani, convexe à la base, anormalement pulviné, blanchâtre, murin ou brunâtre, souvent à cuticule qui se brise pour donner un aspect troué ou écailleux, azoné, glabre, à marge souvent recourbée sur la face poroïde, concolore
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -71,13 +67,13 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: non comestible
+  comestibilite: sous toute réserve ; consommé en Europe en décoction
   commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: tenace au frais, mou-subéreux au sec, azoné, blanc, jusqu'à 50 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -86,7 +82,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: facilement détachable du contexte au frais, jusqu'à 10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -121,22 +117,25 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement acidulée
+  exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   exoperidium: 
+  extremites-hyphales: 
   face-externe: 
-  face-poroide: 
+  face-poroïde: blanche au début, brunâtre pâle avec l'âge
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
-  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
+  frequence: commune
+  glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides-cheilocystides-et-pleurocystides: 
+  hymenocystides: 
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -184,6 +183,7 @@ description:
   mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
@@ -194,16 +194,16 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: août
+  phenologie: toute l'année
   phialoconidies: 
-  pied: 
+  pied: jusqu'à 60 x 50 mm, latéral, court, trapu, glabre, souvent résineux, blanchâtre à brun
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -215,29 +215,26 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: ronds à anguleux, 3-5 par mm, à dissépiments épais et entiers au début, fendus, agglutinés ensemble et devenant hydnoïdes avec l'âge
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Montecchi, Amer & Sarasini, Mario. Funghi ipogei d'Europa, Associazione Micologica Bresadola, 2000, 714 p.
-  publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+  publications: 
+  publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur:  fraîche, acidulée
+  saveur: 
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 
@@ -248,11 +245,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893;
-    Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935;
-    Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873;
-    Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885;
-    Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
+    Boletus betulinus Bull., Herbier de la France 7:t. 312 (1787)
+    Piptoporus betulinus (Bull.) P. Karst., Revue Mycologique Toulouse 3 (9):17 (1881)
+    Placodes betulinus (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:170 (1886)
+    Fomes betulinus (Bull.) Gillot & Lucand, Bull. Soc. Hist. nat. Autun:165 (1890)
+    Ungulina betulina (Bull.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:103 (1900)
+    Ungularia betulina (Bull.) Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:668 (1916)
+    Boletus suberosus Wulfen, Collectanea ad botanicam, chemiam, et historiam naturalem spectantia 1:344 (1786)
+    Agarico-pulpa pseudoagaricon Paulet, Traité des champignons 2: 105, pl. 18:1-4 (1793)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

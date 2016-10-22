@@ -1,27 +1,24 @@
 ---
-nom: Leratiomyces riparius
-date: 2016-10-08 00:00:00
-image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
-album-flickr: 72157671467848974
+nom: Russula claroflavoides
+date: 2016-10-13 00:00:00
+image: https://c2.staticflickr.com/4/3844/14981506665_cb3fc4848b_n.jpg
+album-flickr: 72157673817941932
 planches:
-  - miniature: https://c1.staticflickr.com/9/8492/8273347718_58d8cdec4a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8273347718/
-  - miniature: https://c2.staticflickr.com/8/7721/16913172420_83e9a70342_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16913172420/
-  - miniature: https://c2.staticflickr.com/2/1598/26189239201_730d0fd85d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/26189239201/
+  - miniature: https://c1.staticflickr.com/9/8600/15839531420_f5708512d3_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673817941932
 
 details:
-  nom-francais: 
-  autorites: (A.H. Sm.) Redhead
-  collection(s)-cueillie(s): 18 août 2012; 24 juin 2013; 28 mai 2015; 3 juin 2016
-  fongarium: cKc0037; cKc0049; cKc0305; cKc0493
-  famille: Strophariaceae
-  genre: Leratiomyces
-  espece: riparius
+  nom-francais: Russule fausse-claroflava
+  autorites: Y. Lamoureux nom. prov.
+  famille: Russulaceae
+  genre: Russula
+  espece: claroflavoides
+  litterature: Article non publié. Pour détails, lire sur la galerie de l'auteur; https://www.flickr.com/photos/27441280@N06/
+  collection(s)-cueillie(s): 20 août 2014
+  fongarium: cKc0212
 
 description:
-  acanthocytes: absents
+  acanthocytes: 
   acanthophyses: 
   aiguillons: 
   aleurioconidies: 
@@ -29,8 +26,9 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: stérile
+  arete-lamellaire: 
   arthroconidies: 
+  articles: 
   ascome: 
   ascospores: 
   asques: 
@@ -39,23 +37,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement ovoïdales à claviformes, parfois légèrement atténuées à la base, tétrastérigmates, bouclées à la base, 20 [23,2; 25,4] 28,6 x 9,1 [10,5; 11,5] 13 µm
+  basides: claviformes élancées, tétrastérigmates, non bouclées à la base, à contenu vacuolaires, 42 [44,4; 51] 53,4 x 12,1 [12,2; 12,6] 12,8 µm en moyenne
   basidiospores: |
-    ovoïdales à subhexagonales vue frontale à globalement largement oblongues à oblongues allongées vue de profil, tronquées, lisses, à paroi légèrement épaissie 0,3 µm en moyenne, avec appendice hilaire bien visible et pore germinatif centré à excentré 1,3 [1,5; 1,7] 1,8 µm, à contenu variable, brunes dans le NaCl iso, inactives dans le melzer, non cyanophiles
-    (12,2) 12,5 - 13,6 (14,3) × (6,3) 6,6 - 7,5 (8,3) µm
-    Q = (1,5) 1,7 - 2 (2,1); N = 30
-    Me = 13,1 × 7 µm; Qe = 1,9
+    elliptiques vue frontale à subglobuleuses à largement elliptiques vue de profil, verruqueuses à échinulées et rarement réticulées, avec proéminences jusqu’à 0,9 µm de hauteur, à paroi mince, avec appendice hilaire et plage hilaire pas toujours bien visible jusqu’à 2,1 x 2,6 µm Ø en moyenne, à contenu uniguttulé dans le NaCl isotonique 0,9 %, hyalines dans le NaCl iso, amyloïdes
+    7,8 [8,7; 9] 9,9 x 6,7 [7,3; 7,6] 8,2 µm
+    Q = 1 [1,2] 1,3; N = 30; C = 95%
+    Me = 8,9 x 7,5 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans les sapinières à bouleau
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: présentes, en faisceaux, semblables aux cheiloleptocystides
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -63,18 +61,17 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, ferme, immuable, blanche
+  chair: friable, blanche
   chancre: 
-  chapeau: hémisphérique au début à conique-campanulé, puis campanulé convexe à plan à maturité, collant, terne et fibrilleux lorsqu'il est sec, non distinctement hygrophane, appendiculée de reste vélaire, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracée, jaune à orange ochracée, 17,5-49,3 mm Ø
-  cheilocystides: 
-  cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capité 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
+  chapeau: convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon, non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge, 54 mm Ø
+  cheilocystides: peu abondantes et non proéminentes, cylindriques, Sulfobenzaldéhyde négatif (SBA-)
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: absentes
+  chrysocystides: 
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: non comestible
+  comestibilite: comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -120,20 +117,21 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
+  exhalaison-de-la-chair: légèrement fruitée
+  exhalaison-des-lames: légèrement fruitée
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison-de-la-chair: agréable à fongique
-  exhalaison-des-lames: agréable à fongique
+  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: rare, car connu seulement dans une station au Québec ; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
+  frequence: rare à occassionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -153,7 +151,7 @@ description:
   hyphes-ligatives: 
   hyphes-oleiferes: 
   hyphes-pectinees: 
-  hyphes-primordiales: 
+  hyphes-primordiales: fortement incrustées
   hyphes-setales: 
   hyphes-squelettiques: 
   hyphes-skeletoligative: 
@@ -169,7 +167,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à légèrement décurrente par une dent, large, cunéiforme, marbrées, subespacées et bombées, présence de lamelles et de lamellules, pourpre jeune, puis pourpre foncé à maturité, dont l’arête lamellaire est fimbriées, blanche
+  lames: adnées, serrées, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -186,11 +184,10 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolées, parfois en petits groupes, très souvent cespiteux
+  mode-de-croissance: isolé
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  nouvelle espèce: 
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -200,18 +197,17 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: mai à août
+  phenologie: août
   phialoconidies: 
-  pied: cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre, 41-70 x 3-7,3 mm Ø
+  pied: cylindique à subclaviforme, 52 x 12 mm Ø, farci, blanc, rougissant puis grisonnant au grattage
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches = suprapellis entre ± 50-150 µm d’épaisseur en ixocutis disposé radialement, et un subpellis compact, composé de cellules globuleuses à subglobuleuses et d'hyphes allongées 20 [26,6; 32,7] 39,3 x 8,9 [13,5; 17,8] 22,4 µm
+  pileipellis: en ixocutis
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: rares, petits, Sulfobenzaldéhyde négatif (SBA-)
   plasmode: 
-  pleurocystides: 
-  pleurochrysocystides: rares et à peine saillantes de l’hyménium, vues seulement sur de jeunes sujets (37) 42,6 [43,2; 46,3] 46,9 x 2 [5,3; 20,9] 24,1 µm en moyenne;
-  poils: 
+  pleurocystides: abondantes, cylindriques avec apex rostrées, mucronées, fusiformes et plus rarement moniliformes, Sulfobenzaldéhyde négatif (SBA-), 42,9 [54,9; 78,8] 90,8 x 7,1 [9,3; 13,6] 15,7 µm en moyenne
+  poils: septées
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -223,29 +219,31 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: trouvé pour la première fois dans un parc urbain de Québec en août 2012
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+  publications: |
+    Kibby, Geoffrey & Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: NH4OH 10% = le pied devient légèrement jaunâtre, chapeau aucune coloration; FeSO4 = aucune coloration; KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau auncune coloration; Gaïacol = aucune coloration sur les lames et le pied, rose lilacée sur le chapeau après > 5’
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russules, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+  reactions-chimiques: NH4OH 10% = non observée; FeSO4 = négatives; KOH 10% = négative sur le pied
   receptacle: 
-  remarques: L'épithète « riparius » signifie qui se tient sur les rives (en parlant d'oiseaux); il y a aussi « ripariolus » qui signifie qui se trouve sur la rive. Difficile ici de donner un nom français. (Dictionnaire Gaffiot latin-français, 1934.
+  remarques: Toutes les parties noircissent avec l’âge.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: fongique avec une finale légèrement amère
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: gris pourpre, brun
+  sporee: Ochrosporées à Xanthosporées, IIIc-IVe, ocre foncé à jaune, ocre-orange, d'après la charte de couleur de Sarnari et Romagnesi; F-H d’après la charte de couleur de Kibby & Fatto
   spores: 
   spherocytes: 
   sporocystes: 
@@ -255,7 +253,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: Stropharia riparia A.H. Sm., Michigan Bot. 18(3), 107 (1979)
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -267,7 +265,7 @@ description:
   typique: 
   voile: 
   voile-general: non
-  voile-partiel: blanc au début devenant pourpre foncé, habituellement situé à la marge du chapeau, se retrouve rarement sur le pied ou laissant une petite zone annuliforme
+  voile-partiel: non
   volve: 
   zone-perihymeniale: 
 ---

@@ -69,6 +69,8 @@ members:
         url: https://www.flickr.com/photos/kaufholtz/
 
 champs-details:
+  - name: autorites
+    label: Autorités
   - name: famille
     label: Famille
   - name: genre
@@ -77,20 +79,46 @@ champs-details:
     label: Espece
   - name: litterature
     label: Littérature
-  - name: collection-cueillie
-    label: Collection cueillie
+  - name: collection(s)-cueillie(s)
+    label: Collection(s) cueillie(s)
   - name: fongarium
     label: Fongarium
 
 champs-description:
-  - name: ascome
-    label: Ascome
+  - name: apothecie
+    label: Apothécie
   - name: basidiome
     label: Basidiome
+  - name: hymenophore
+    label: Hyménophore
+  - name: consistance
+    label: Consistance
+  - name: subiculum
+    label: Subiculum
+  - name: systeme-hyphal
+    label: Système hyphal
+  - name: marge
+    label: Marge
+  - name: face-externe
+    label: Face externe
+  - name: ascome
+    label: Ascome
+  - name: capitule
+    label: Capitule
+  - name: peridium
+    label: Péridium
   - name: glebe
     label: Glèbe
   - name: chapeau
     label: Chapeau
+  - name: face-poroïde
+    label: Face poroïde
+  - name: pores
+    label: Pores
+  - name: couches-de-tubes
+    label: Couche(s) de tubes
+  - name: contexte
+    label: Contexte
   - name: lames
     label: Lames
   - name: pied
@@ -99,6 +127,8 @@ champs-description:
     label: Voile général
   - name: voile-partiel
     label: Voile partiel
+  - name: anneau
+    label: Anneau
   - name: cortine
     label: Cortine
   - name: chair
@@ -111,16 +141,64 @@ champs-description:
     label: Exhalaison des lames
   - name: saveur
     label: Saveur
+  - name: cortex
+    label: Cortex
+  - name: latex
+    label: Latex
   - name: sporee
     label: Sporée
+  - name: asques
+    label: Asques
+  - name: paraphyses
+    label: Paraphyses
+  - name: ascospores
+    label: Ascospores
+  - name: excipulum
+    label: Excipulum
+  - name: excipulum-medullaire-superieur
+    label: Excipulum médullaire supérieur
+  - name: excipulum-medullaire-moyen
+    label: Excipulum médullaire moyen
+  - name: excipulum-medullaire-inferieur
+    label: Excipulum médullaire inférieur
+  - name: excipulum-ectal
+    label: Excipulum ectal
+  - name: poils
+    label: Poils
+  - name: poils-basaux
+    label: Poils basaux
+  - name: poils-caulinaires
+    label: Poils caulinaires
+  - name: poils-du-cortex
+    label: Poils du cortex
+  - name: poils-externes
+    label: Poils externes
+  - name: poils-lateraux-et-caulinaires
+    label: Poils latéraux et caulinaires
+  - name: poils-marginaux
+    label: Poils marginaux
+  - name: poils-mycelien-basaux
+    label: Poils mycélien basaux
+  - name: poils-peridiaux
+    label: Poils péridiaux
+  - name: poils-peritheciaux
+    label: Poils périthéciaux
+  - name: poils-pileiques
+    label: Poils piléiques
+  - name: soies
+    label: Soies
   - name: basides
     label: Basides
   - name: basidiospores
     label: Basidiospores
+  - name: hymenocystides
+    label: Hyménocystides
   - name: arete-lamellaire
     label: Arête lamellaire
   - name: cellules-marginales-paracystides
     label: Cellules marginales (Paracystides)
+  - name: cheilochrysocystides
+    label: Cheilochrysocystides
   - name: cheilocystides
     label: Cheilocystides
   - name: cheiloleptocystides
@@ -143,18 +221,60 @@ champs-description:
     label: Caulocystides médianes
   - name: caulocystides-sommitales
     label: Caulocystides sommitales
+  - name: stipitipellis
+    label: Stipitipellis
+  - name: stipititrame
+    label: Stipititrame
+  - name: extremites-hyphales
+    label: Extrémités hyphales
   - name: acanthocytes 
     label: Acanthocytes
   - name: trame-lamellaire
     label: Trame lamellaire
+  - name: trame-tubulaire
+    label: Trame tubulaire
   - name: pileitrame
     label: Pileitrame
   - name: pileipellis
     label: Pileipellis
+  - name: pileocystides
+    label: Pileocystides
   - name: boucles
     label: Boucles
   - name: hyphes
     label: Hyphes
+  - name: hyphes-de-la-chair
+    label: Hyphes de la chair
+  - name: hyphes-de-l-anneau
+    label: Hyphes de l’anneau
+  - name: hyphes-du-pied
+    label: Hyphes du pied
+  - name: hyphes-glebales
+    label: Hyphes glébales
+  - name: hyphes-gleopleres
+    label: Hyphes gléoplères
+  - name: hyphes-hymeniales
+    label: Hyphes hyméniales
+  - name: hyphes-ligatives
+    label: Hyphes ligatives
+  - name: hyphes-oleiferes
+    label: Hyphes oléifères
+  - name: hyphes-pectinees
+    label: Hyphes pectinées
+  - name: hyphes-primordiales
+    label: Hyphes primordiales
+  - name: hyphes-setales
+    label: Hyphes sétales
+  - name: hyphes-squelettiques
+    label: Hyphes squelettiques
+  - name: hyphes-skeletoligative
+    label: Hyphes skeletoligative
+  - name: hyphes-subiculaires
+    label: Hyphes subiculaires
+  - name: hyphes-tramales
+    label: Hyphes tramales
+  - name: hyphes-vesiculaires
+    label: Hyphes vésiculaires
   - name: mode-de-croissance
     label: Mode de croissance
   - name: biotopes
@@ -171,8 +291,14 @@ champs-description:
     label: Articles
   - name: publications
     label: Publications
+  - name: publications-microscopiques
+    label: Publications microscopiques
   - name: synonymie
     label: Synonymie
+  - name: premiere-mention
+    label: Première mention
+  - name: nouvelle-espece
+    label: Nouvelle espèce
   - name: remarques
     label: Remarques
   - name: commentaires
@@ -187,16 +313,8 @@ champs-description:
     label: Anamorphe
   - name: anamorphe-conidien
     label: Anamorphe conidien
-  - name: anneau
-    label: Anneau
-  - name: apothecie
-    label: Apothécie
   - name: arthroconidies
     label: Arthroconidies
-  - name: ascospores
-    label: Ascospores
-  - name: asques
-    label: Asques
   - name: asterohyphidies
     label: Astérohyphidies
   - name: avertissement
@@ -217,8 +335,6 @@ champs-description:
     label: Calicule
   - name: capillitium
     label: Capillitium
-  - name: capitule
-    label: Capitule
   - name: cellules-hymeniales-diverticulees
     label: Cellules hyméniales diverticulées
   - name: cellules-hymeniales-en-brosses
@@ -243,16 +359,10 @@ champs-description:
     label: Conidiome
   - name: conidiophores
     label: Conidiophores
-  - name: consistance
-    label: Consistance
-  - name: contexte
-    label: Contexte
   - name: cordons-myceliens
     label: Cordons mycéliens
   - name: cordons-rhizomorphiques
     label: Cordons rhizomorphiques
-  - name: cortex
-    label: Cortex
   - name: cortex-caulinaire
     label: Cortex caulinaire
   - name: cortex-du-pied-et-du-bulbe
@@ -261,8 +371,6 @@ champs-description:
     label: Cortex péridial
   - name: cortex-sclerotial
     label: Cortex sclérotial
-  - name: couches-de-tubes
-    label: Couche(s) de tubes
   - name: coupe-sterile
     label: Coupe stérile
   - name: cristaux
@@ -321,20 +429,8 @@ champs-description:
     label: Espèces Identification
   - name: especes-semblables
     label: Espèces semblables
-  - name: excipulum
-    label: Excipulum
-  - name: excipulum-medullaire-superieur
-    label: Excipulum médullaire supérieur
-  - name: excipulum-medullaire-moyen
-    label: Excipulum médullaire moyen
-  - name: excipulum-medullaire-inferieur
-    label: Excipulum médullaire inférieur
-  - name: excipulum-ectal
-    label: Excipulum ectal
   - name: exoperidium
     label: Exopéridium
-  - name: face-externe
-    label: Face externe
   - name: feutrage-basal
     label: Feutrage basal
   - name: fongarium
@@ -353,42 +449,6 @@ champs-description:
     label: Groupe
   - name: hymenium
     label: Hyménium
-  - name: hymenocystides-cheilocystides-et-pleurocystides
-    label: Hyménocystides (Cheilocystides et Pleurocystides)
-  - name: hymenophore
-    label: Hyménophore
-  - name: hyphes-de-la-chair
-    label: Hyphes de la chair
-  - name: hyphes-de-l-anneau
-    label: Hyphes de l’anneau
-  - name: hyphes-du-pied
-    label: Hyphes du pied
-  - name: hyphes-glebales
-    label: Hyphes glébales
-  - name: hyphes-gleopleres
-    label: Hyphes gléoplères
-  - name: hyphes-hymeniales
-    label: Hyphes hyméniales
-  - name: hyphes-ligatives
-    label: Hyphes ligatives
-  - name: hyphes-oleiferes
-    label: Hyphes oléifères
-  - name: hyphes-pectinees
-    label: Hyphes pectinées
-  - name: hyphes-primordiales
-    label: Hyphes primordiales
-  - name: hyphes-setales
-    label: Hyphes sétales
-  - name: hyphes-squelettiques
-    label: Hyphes squelettiques
-  - name: hyphes-skeletoligative
-    label: Hyphes skeletoligative
-  - name: hyphes-subiculaires
-    label: Hyphes subiculaires
-  - name: hyphes-tramales
-    label: Hyphes tramales
-  - name: hyphes-vesiculaires
-    label: Hyphes vésiculaires
   - name: hyphidies
     label: Hyphidies
   - name: hyphique
@@ -415,16 +475,12 @@ champs-description:
     label: Lampropleurocystides
   - name: lamprocaulocystides
     label: Lamprocaulocystides
-  - name: latex
-    label: Latex
   - name: leptocystides
     label: Leptocystides
   - name: macrocystides
     label: Macrocystides
   - name: macropleurocystides
     label: Macropleurocystides
-  - name: marge
-    label: Marge
   - name: marge-et-face-externe
     label: Marge et face externe
   - name: mediostrate
@@ -449,8 +505,6 @@ champs-description:
     label: Oeuf
   - name: paracapillitium
     label: Paracapillitium
-  - name: paraphyses
-    label: Paraphyses
   - name: parasite
     label: Parasite
   - name: paroi-peritheciale
@@ -459,8 +513,6 @@ champs-description:
     label: Péridiole
   - name: peridiopellis
     label: Péridiopellis
-  - name: peridium
-    label: Péridium
   - name: peritheces
     label: Périthèces
   - name: phialoconidies
@@ -469,34 +521,8 @@ champs-description:
     label: Pieds stériles
   - name: pigments
     label: Pigments
-  - name: pileocystides
-    label: Pileocystides
   - name: plasmode
     label: Plasmode
-  - name: poils
-    label: Poils
-  - name: poils-basaux
-    label: Poils basaux
-  - name: poils-caulinaires
-    label: Poils caulinaires
-  - name: poils-du-cortex
-    label: Poils du cortex
-  - name: poils-externes
-    label: Poils externes
-  - name: poils-lateraux-et-caulinaires
-    label: Poils latéraux et caulinaires
-  - name: poils-marginaux
-    label: Poils marginaux
-  - name: poils-mycelien-basaux
-    label: Poils mycélien basaux
-  - name: poils-peridiaux
-    label: Poils péridiaux
-  - name: poils-peritheciaux
-    label: Poils périthéciaux
-  - name: poils-pileiques
-    label: Poils piléiques
-  - name: pores
-    label: Pores
   - name: pseudocapillitium
     label: Pseudocapillitium
   - name: pseudocolumelle
@@ -515,28 +541,18 @@ champs-description:
     label: Sclérocystides
   - name: sclerote
     label: Sclérote
-  - name: soies
-    label: Soies
   - name: soies-hymeniales
     label: Soies hyméniales
   - name: spherocytes
     label: Sphérocytes
   - name: sporocystes
     label: Sporocystes
-  - name: stipitipellis
-    label: Stipitipellis
-  - name: stipititrame
-    label: Stipititrame
   - name: stroma
     label: Stroma
   - name: subhymenium
     label: Subhyménium
-  - name: subiculum
-    label: Subiculum
   - name: substrat
     label: Substrat
-  - name: systeme-hyphal
-    label: Système hyphal
   - name: textura
     label: Textura
   - name: tomentum-caulinaire
@@ -545,8 +561,6 @@ champs-description:
     label: Tomentum piléique
   - name: trame-hymenophorale
     label: Trame hyménophorale
-  - name: trame-tubulaire
-    label: Trame tubulaire
   - name: type
     label: Type
   - name: typique

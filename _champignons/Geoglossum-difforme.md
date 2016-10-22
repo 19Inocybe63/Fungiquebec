@@ -1,21 +1,21 @@
 ---
-nom: Gymnopilus humicola
-date: 2016-10-02 00:00:00
-image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
-album-flickr: 72157673456836530
+nom: Geoglossum difforme
+date: 2016-10-18 00:00:00
+image: https://c2.staticflickr.com/4/3697/19666230344_580e9cd6e7_n.jpg
+album-flickr: 72157675365108575
 planches:
-  - miniature: https://c1.staticflickr.com/9/8745/16871277948_067ee28bb3_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16871277948/
+  - miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675365108575
 
 details:
-  collection(s)-cueillie(s): 16 juin 2013; 12 juin 2015
-  litterature: Singer, R. 1961. Diagnoses fungorum novorum Agaricalium II. Sydowia. 15(1-6):45-83
-  nom-francais: Gymnopilus humicole
-  autorites: Harding ex Singer
-  fongarium: cKc0048; cKc0312
-  famille: Hymenogastraceae
-  genre: Gymnopilus
-  espece: humicola
+  nom-francais: Géoglosse difforme
+  autorites: Fr.
+  famille: Geoglossaceae
+  genre: Geoglossum
+  espece: difforme
+  litterature: Fries, E.M. 1815. Observationes mycologicae. 1:1-230
+  collection(s)-cueillie(s): 4 août 2015
+  fongarium: cKc0393
 
 description:
   acanthocytes: 
@@ -28,32 +28,37 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  ascome: 
-  ascospores: 
-  asques: 
+  articles: |
+    Hakelier, Nils. Three new swedish species of geoglossum, Svensk Botanisk Tidskrift, Bd. 61, H. 3, 1967, 6 p.
+    Kučera, Viktor, Nitare, Johan, et al. Geoglossaceous fungi in Slovakia 5. Geoglossum uliginosum, taxonomy and nomenclature, Mycotaxon, Volume 124, pp. 111-115, April-June 2013, 5 p.
+    Kučera, Viktor, Lizoň, Pavel. Geoglossaceous fungi in Slovakia III. The genus Geoglossum, Biologia 67/4:654-658, 2012, Section Botany, 5 p.
+    Ohenoja, Esteri. Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
+    Priou, Jean-Paul. Contribution aux Geoglossum de France, Association Mycologique et botanique Ploemeur-Morbihan, 5 p.
+  ascome: visqueux, 51-68 mm de longueur, noir
+  ascospores: |
+    cylindriques-filiformes, atténuées à chaque bout, lisses, avec 14-15 septa, brun-gris dans le NaCl isotonique
+    103,5 [111,7; 115,3] 123,5 x 5,9 [6,5; 6,8] 7,3 µm
+    Q = 15,3 [16,8; 17,4] 19; N = 30; C = 95%
+    Me = 113,5 x 6,6 µm
+  asques: longuement claviformes, octosporées, 178-200 x 19-24 µm
   asterohyphidies: 
-  auteur-de-la-description: Claude Kaufholtz-Couture
-  avertissement: Les données mises à disposition reflètent l'état d'avancement des connaissances ou la disponibilité des inventaires. En aucun cas elles ne sauraient être considérées comme exhaustives.
+  avertissement: 
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: clavées à longuement claviformes, tétrastérigmates, bouclées à la base, 21 [25,3; 29,7] 34 x 6,3 [7,3; 8,2] 9,2 µm en moyenne 
-  basidiospores: |
-    largement elliptique à elliptique, amygdaliformes vue de profil, à ovoïdes vue frontale, finement verruqueuses, à paroi mince entre 0,2-0,3 µm, avec petit appendice apiculaire, à contenu variable mais souvent uniguttulé, cannelle à miel dans le NaCl, ferrugineuses dans le KOH 5 %, rapidement dextrinoïdes, non cyanophiles
-    7,1 [8; 8,4] 9,3 x 4,6 [5; 5,1] 5,5 µm
-    Q = 1,5 [1,6] 1,7; N = 30; C = 95%
-    Me = 8,2 x 5,1 µm; Qe = 1,6
+  basides: 
+  basidiospores: 
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur souche de feuillu; observé seulement deux fois au Québec
-  boucles: observées dans le pileipellis et dans le stipitipellis
+  biotopes: pousse au sol des forêts de feuillus ou de conifères, parfois sur débris ligneux pourri
+  boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 
+  capitule: ± cylindriques à longuement fusiformes, 7-11 mm Ø à l'apex, noir
   caulobasides: 
-  caulocystides:  isolées, émergentes et parfois en faisceaux, ou en touffe, subcapitées à capitées 40 x 6 µm en moyenne, cylindriques 28-30 x 3-3,4 µm en moyenne
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -61,18 +66,17 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ferme, immuable, 
+  chair: coriace
   chancre: 
-  chapeau:  hémisphérique, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
-  cheilocystides: nombreuses en palissade, capitées à subcapitées (en forme de tibia) 23,7 [29,4; 32,6] 38,3 x 4,2 [5; 5,4] 6,2 µm en moyenne
+  chapeau: 
+  cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-cueillie: 16 juin 2013
   columelle: 
-  comestibilite: non comestible, suspect
+  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -123,12 +127,16 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   exoperidium: 
+  extremites-hyphales: 
   face-externe: 
-  face-poroide: 
+  face-poroïde: 
   feutrage-basal: 
+  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionelle
+  frequence: occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -136,9 +144,9 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides-cheilocystides-et-pleurocystides: 
+  hymenocystides: 
   hymenophore: 
-  hyphes: pigments pariétal et extrahyphique
+  hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -164,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, larges, serrées, avec lamellules irrégulières à distribution symétrique, jaunâtre, crème, à arête concolore aux lames
+  lames: 
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -181,31 +189,31 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: grégaire, en petit groupe
+  mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
-  exhalaison: agréable
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: grêles, septées, brunes, tordues-noueuses à l'apex (semblable à une tête de violon)
   parasite: 
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: juin
+  phenologie: de août à septembre
   phialoconidies: 
-  pied: cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au chapeau, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc
+  pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis avec pigments pariétal et extrahyphique
+  pileipellis: 
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides:  rares, de même forme que les cheilocystides, elles sont davantage situées près de l'arête lamellaire
-  poils: 
+  pleurocystides: 
+  poils: absent
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -217,30 +225,32 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    Bon, Marcel et Roux, Pierre. Le Genre Gymnopilus P. Karst., en Europe, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
-    Hesler, L. R. North American Species of Gymnopilus, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir, Hafner Publishing Company New York and London, 1969
-    Murrill, William Alphonso. Agaricaceae, Murrill, Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
+  publications: 
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: KOH 10% cuticule du chapeau devient noire
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+  reactions-chimiques: 
   receptacle: 
-  remarques: D’après Maria Teresa Basso (Manuale di Microscopia dei Funghi, vol. 2), les hyménocystides deviennent légèrement verdâtre en Bleu coton; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. Cette collection fut confirmée par Rocky Houghtby, de Mushrooms Observer.
+  remarques: 
+  repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: raphanoïde et rapidement amarescente à amère
+  saveur: 
   sclerocystides: 
   sclerote: 
-  soies: 
+  soies: absent
   soies-hymeniales: 
-  sporee: rouille
+  sporee: 
+  spores: 
+  spherocytes: 
   sporocystes: 
   stipitipellis: 
   stipititrame: 
@@ -248,19 +258,21 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  synonymie: |
+    Geoglossum glabrum f. difforme (Fr.) Massee:248 (1897)
+    Gloeoglossum difforme (Fr.) E.J. Durand, Annales Mycologici 6:421 (1908)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: subparallèle
+  trame-lamellaire: 
   trame-tubulaire: 
   type: 
   typique: 
-  vials: 
   voile: 
   voile-general: 
-  voile-partiel: absent
+  voile-partiel: 
   volve: 
   zone-perihymeniale: 
 ---

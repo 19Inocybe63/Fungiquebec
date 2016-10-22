@@ -18,7 +18,7 @@ details:
   genre: 
   espece: 
   litterature: 
-  collection-cueillie: 
+  collection(s)-cueillie(s): 
   fongarium: 
 
 description:
@@ -32,6 +32,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
+  articles: 
   ascome: 
   ascospores: 
   asques: 
@@ -115,16 +116,18 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
-  exhalaison: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   exoperidium: 
+  extremites-hyphales: 
   face-externe: 
-  face-poroide: 
+  face-poroïde: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -136,7 +139,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides-cheilocystides-et-pleurocystides: 
+  hymenocystides: 
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -184,6 +187,7 @@ description:
   mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
@@ -203,7 +207,7 @@ description:
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -216,11 +220,13 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
+  publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
   remarques: 
@@ -242,6 +248,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

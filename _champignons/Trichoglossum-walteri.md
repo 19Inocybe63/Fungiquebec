@@ -1,21 +1,21 @@
 ---
-nom: Octaviania asterosperma
-date: 2016-10-09 00:00:00
-image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
-album-flickr: 72157674612351426
+nom: Trichoglossum walteri
+date: 2016-10-13 00:00:00
+image: https://c2.staticflickr.com/6/5831/21330589130_0e890b0721_n.jpg
+album-flickr: 72157671662254364
 planches:
-  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
+  - miniature: https://c2.staticflickr.com/2/1692/26474496531_9722a15703_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157671662254364
 
 details:
-  nom-francais: 
-  autorites: Vittad.
-  famille: Boletaceae
-  genre: Octaviania
-  espece: asterosperma
-  litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  collection(s)-cueillie(s): 23 août 2015
-  fongarium: cKc0430
+  nom-francais: Trichoglosse de Walter
+  autorites: (Berk.) E.J. Durand
+  famille: Geoglossaceae
+  genre: Trichoglossum
+  espece: walteri
+  litterature: Durand, E.J. 1908. The Geoglossaceae of North America. Annales Mycologici. 6:387-477
+  collection(s)-cueillie(s): 9 eptembre 2015; 18 septembre 2015; 20 septembre 2015
+  fongarium: cKc0458; cKc0468; cKc0472
 
 description:
   acanthocytes: 
@@ -28,32 +28,36 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles-n°5 (2005) p. 55-64
-  ascome: 
-  ascospores: 
-  asques: 
+  articles: |
+    Ohenoja, Esteri. Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
+    Kucera, Viktor, Lizon, Pavel et al., Geoglossoid fungi in Slovakia II. Trichoglossum octopartitum, a new species for the country, Czech Mycol. 62 (1), 13-18, 2010, 6 p.
+    Kaufholtz-Couture, C. Clé des espèces du genre Trichoglossum au Québec, Publication libre, avril 2016, 3 p.
+  ascome: jusqu'à 90 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts
+  ascospores: |
+    cylindriques étroites, fusiformes à claviformes, lisses, parfois entre 2 et 3 septa, plus souvent à 7 septa, fuligineuses à brun pâle dans l’eau glycérinée 20 %
+    (84,6) 87,9 - 97,8 (100,3) × (5) 5,3 - 6 (6,1) µm
+    Q = (14,5) 14,8 - 17,9 (18,3) ; N = 30
+    Me = 92,7 × 5,6 µm ; Qe = 16,5
+    (Piximètre: formule classique)
+  asques: fusiformes à clavés, atténués vers l'apex, à 8 spores parallèles, avec l'anneau apical amyloïde (bleu dans le melzer), jusqu'à (162,4) 162,43 - 195,8 × (17,2) 17,22 - 21 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: Basides piriformes à largement clavées, à 3-4 pédicelles 4-9 µm de long, avec granulation, mais aussi vide optique (avec incrustations ?), 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
-  basidiospores: |
-    globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
-    11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
-    Q = [1; 1,1] 1,2; N = 30; C = 95%
-    Me = 12,5 x 11,9 µm; Qe = 1,1 (sans les ornements)
+  basides: 
+  basidiospores: 
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous conifères
+  biotopes: 
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 
+  capitule: 10-20 mm de hauteur, 3-5 mm Ø, occupant 1/3-1/2 de l'ascome total, étroitement ellipsoïde à lancéolé, parfois comprimé avec un sillon vertical distinct descendant vers la base, noir brunâtre
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -116,20 +120,23 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
+  exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement acidulée
+  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
-  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
+  frequence: 
+  glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -181,30 +188,30 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire, en groupe ± nombreux
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: cylindriques-filiformes, septées, brunes, légèrement clavées et courbes à spiralées à l'apex
   parasite: 
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: août
+  phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: jusqu'à 2 mm Ø, cylindrique, aplati à comprimé, densément velouté, concolore au capitule à brunâtre, avec des poils noir de jais et émergentes
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
-  poils: 
+  pleurocystides: 
+  poils: nombreux, droits, distinctifs, acuminés, non fourchus à la base, brun foncé, noirs, (214,8) 217 - 248,4 (254) × (5,8) 6 - 8,5 (9,4) µm
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -220,19 +227,15 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Montecchi, Amer & Sarasini, Mario. Funghi ipogei d'Europa, Associazione Micologica Bresadola, 2000, 714 p.
-  publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+  publications: 
+  publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
+  remarques: L'utilisation d'un microscope est essentielle pour détecter la présence de poils ; une loupe 10x est insuffisante.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur:  fraîche, acidulée
+  saveur: 
   sclerocystides: 
   sclerote: 
   soies: 
@@ -247,12 +250,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893;
-    Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935;
-    Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873;
-    Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885;
-    Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
+  synonymie: Geoglossum walteri Berk., Hedwigia, 39 (1875)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

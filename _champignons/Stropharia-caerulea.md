@@ -1,24 +1,24 @@
 ---
-nom: Octaviania asterosperma
-date: 2016-10-09 00:00:00
-image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
-album-flickr: 72157674612351426
+nom: Stropharia caerulea
+date: 2016-10-13 00:00:00
+image: https://c1.staticflickr.com/9/8191/8122273690_424d6d5230_n.jpg
+album-flickr: 72157671660314714
 planches:
-  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
+  - miniature: https://c1.staticflickr.com/9/8500/8300901148_60923bbb63_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157671660314714
 
 details:
-  nom-francais: 
-  autorites: Vittad.
-  famille: Boletaceae
-  genre: Octaviania
-  espece: asterosperma
-  litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  collection(s)-cueillie(s): 23 août 2015
-  fongarium: cKc0430
+  nom-francais: Strophaire bleutée
+  autorites: Kreisel
+  famille: Strophariaceae
+  genre: Stropharia
+  espece: caerulea
+  litterature: Kreisel, H. 1979. Zur Taxonomie von Stropharia aeruginosa sensu lato. Beihefte zur Sydowia. 8:228-232
+  collection(s)-cueillie(s): 25 octobre 2012
+  fongarium: cKc0034
 
 description:
-  acanthocytes: 
+  acanthocytes: présents dans le mycélium à la base du pied
   acanthophyses: 
   aiguillons: 
   aleurioconidies: 
@@ -28,7 +28,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles-n°5 (2005) p. 55-64
+  articles: 
   ascome: 
   ascospores: 
   asques: 
@@ -37,23 +37,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: Basides piriformes à largement clavées, à 3-4 pédicelles 4-9 µm de long, avec granulation, mais aussi vide optique (avec incrustations ?), 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
+  basides: capitées à largement capitées tétrastérigmates
   basidiospores: |
-    globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
-    11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
-    Q = [1; 1,1] 1,2; N = 30; C = 95%
-    Me = 12,5 x 11,9 µm; Qe = 1,1 (sans les ornements)
+    ellipsoïdes, lisses, à paroi légèrement épaissie, apiculés excentré, petit pore germinatif, à contenu uniguttulé à granuleux, brun à brun pâle, inactive dans le melzer, non cyanophiles
+    7,4 [8; 8,3] 8,8 x 4,6 [5; 5,1] 5,5 µm
+    Q = 1,5 [1,6] 1,7; N = 30; C = 95%
+    Me = 8,1 x 5 µm; Qe = 1,6
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous conifères
-  boucles: 
+  biotopes: pousse dans plate bande, sous lilas commun, sol tourné, copeaux de bois
+  boucles: abondantes dans toutes les parties
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides: cylindriques courbées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -61,17 +61,17 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, bleuâtre au début, puis paille, bleu-vert vers la base du pied
   chancre: 
-  chapeau: 
+  chapeau: Hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtre décoloré par endroit, muni de petites méchules blanches au pourtour, 20-70 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: 
+  chrysocystides: abondantes, clavées à largement fusiformes, mucronées, de 40 µm x 14 µm en moyenne
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: non comestible
+  comestibilite: toxique, contenant de la psilocybine
   commentaires: 
   conidies: 
   conidiome: 
@@ -116,20 +116,23 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
+  exhalaison: 
+  exhalaison-de-la-chair: indistincte à aigre-herbacée
+  exhalaison-des-lames: indistincte à aigre-herbacée
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement acidulée
+  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
-  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
+  frequence: occasionnelle
+  glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -164,7 +167,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, par une dent décurrentes ou échancrées, modérément serrées à très serrées, ventrue, brun pâle ou gris-brun quand lorsque jeune, avec reflets violets gris puis violacées, violet-gris
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -181,7 +184,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire, en petit groupe
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -194,16 +197,17 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: août
+  phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 
+  pied: égal à légèrement élargi vers la base, ferme, fragile, plein lorsque jeune puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous, glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc, 4-11 x 3-15 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides: 
+  pleurochrysocystides: assez abondantes, clavées à largement fusiformes, mucronées, de 39,8 x 12,8 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -220,24 +224,20 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Montecchi, Amer & Sarasini, Mario. Funghi ipogei d'Europa, Associazione Micologica Bresadola, 2000, 714 p.
-  publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+  publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+  publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur:  fraîche, acidulée
+  saveur: indistincte, douce à fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun ambre à brun-pourpre
   spores: 
   spherocytes: 
   sporocystes: 
@@ -248,23 +248,20 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893;
-    Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935;
-    Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873;
-    Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885;
-    Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
+    Psilocybe caerulea (Kreisel) Noordel., Persoonia 16 (1), 128 (1995)
+    Agaricus politus Bolton, An History of Fungusses, Growing about Halifax 1, t. 30 (1788)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle à subparallèle
   trame-tubulaire: 
   type: 
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: membraneux, blanc, laissant un anneau fragmentaire à incomplet même lorsque jeune, fragile, fugace, presque réduit à une zone annuliforme à maturirté
   volve: 
   zone-perihymeniale: 
 ---

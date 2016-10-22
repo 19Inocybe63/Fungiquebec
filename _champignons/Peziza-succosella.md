@@ -1,21 +1,23 @@
 ---
-nom: Octaviania asterosperma
-date: 2016-10-09 00:00:00
-image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
-album-flickr: 72157674612351426
+nom: Peziza succosella
+date: 2016-10-15 00:00:00
+image: https://c2.staticflickr.com/8/7432/28157125792_a55b2cc10f_n.jpg
+album-flickr: 72157674044898010
 planches:
-  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
+  - miniature: https://c2.staticflickr.com/8/7539/28130157805_8bbab0ab88_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674044898010
+  - miniature: https://c1.staticflickr.com/9/8820/28186682002_2974394338_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674044898010
 
 details:
-  nom-francais: 
-  autorites: Vittad.
-  famille: Boletaceae
-  genre: Octaviania
-  espece: asterosperma
-  litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  collection(s)-cueillie(s): 23 août 2015
-  fongarium: cKc0430
+  nom-francais: Pezize fausse-succosa
+  autorites: (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich
+  famille: Pezizaceae
+  genre: Peziza
+  espece: succosella
+  litterature: Avizohar-Hershenzon, Z.; Nemlich, H. 1974. Pezizales of Israel II. Pezizaceae. Israel Journal of Botany. 23:151-163
+  collection(s)-cueillie(s): 3 juillet 2016; 4 juillet 2016; 11 juillet 2016
+  fongarium: cKc0505; cKc0512; cKc0516
 
 description:
   acanthocytes: 
@@ -25,35 +27,36 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: discoïdes à légèrement cupuliformes entre 4-7 mm de profondeur, hygrophane, beige imbu, beige pâle opaque au sec, non épigé, 8-20 mm Ø
   arete-lamellaire: 
   arthroconidies: 
-  articles: Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles-n°5 (2005) p. 55-64
+  articles: 
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    unisériées, ellipsoïdes, à verrues grossières et irrégulière jusqu'à 1 µm de hauteur, avec réticulum irrégulier de rides trapues, à contenu biguttulé jeune, par la suite uniguttulé (coloration en bleu verdâtre foncé des inclusions lipidiques (guttules) au Soudan III ou noir Soudan B)
+    (14,5) 14,7 - 17,3 (17,7) × (7,8) 8,3 - 9 (9,3) µm
+    Q = (1,6) 1,7 - 2 (2,1) ; N = 30
+    Me = 16 × 8,6 µm ; Qe = 1,9
+    (Piximètre: formule classique, issues d’une sporée et mesures dans le bleu Coton lactique, sans les ornements)
+  asques: claviformes dont l'apex est tronqué, octosporés, IKI +b, operculé, avec base de type acrorhynque, ± 250 - 270 × 12 - 13,5 µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: Basides piriformes à largement clavées, à 3-4 pédicelles 4-9 µm de long, avec granulation, mais aussi vide optique (avec incrustations ?), 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
-  basidiospores: |
-    globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
-    11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
-    Q = [1; 1,1] 1,2; N = 30; C = 95%
-    Me = 12,5 x 11,9 µm; Qe = 1,1 (sans les ornements)
+  basides: 
+  basidiospores: 
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous conifères
+  biotopes: pousse sur sol sablonneux, dans la mousse
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -61,7 +64,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fragile, cassante
   chancre: 
   chapeau: 
   cheilocystides: 
@@ -117,19 +120,21 @@ description:
   especes-identification: 
   especes-semblables: 
   excipulum: 
-  excipulum-medullaire-superieur: 
+  excipulum-medullaire-superieur: de textura globulosa-angularis
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement acidulée
+  exhalaison: indistincte
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   exoperidium: 
-  face-externe: 
+  face-externe: sublisse à finement granuleuse, brun beige pâle
   face-poroide: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
-  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
+  frequence: 
+  glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -137,7 +142,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
-  hymenophore: 
+  hymenophore: lisse, brun pâle à brun foncé avec une légère teinte olivâtre
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -169,11 +174,11 @@ description:
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: jaune
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
-  marge: 
+  marge: ornée de poils sétiformes
   marge-et-face-externe: 
   mediostrate: 
   medulla: 
@@ -181,30 +186,31 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé ou grégaire, formant parfois de petits groupes
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: simples, cylindriques-filiformes, hyalines dans l'eau, à contenu brun rouille sur toute la longueur dans le Lugol, dont parfois le contenu est discontinu et forme des plaques (gouttelettes) éparses, septées, à apex parfois égal à subégal, arrondis, rarement subcapité, + 180 - 245 × 4,5 - 6,3 (8,2) µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: août
+  phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: absent
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
-  poils: 
+  pleurocystides: 
+  poils: hyphoïdes du réceptacle
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -216,28 +222,36 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Montecchi, Amer & Sarasini, Mario. Funghi ipogei d'Europa, Associazione Micologica Bresadola, 2000, 714 p.
+  publications: |
+    Dougoud, René. Contribution à l’étude des discomycètes Version 2013, Ascomycete.org, 5 (2), 63-89, Mars 2013, 29 p.
+    Hohmeyer, H. Une clé pour les espèces d'Europe du genre Peziza L., Zeitschrift für Mykologie, Band 52(1) pp. 1-248, April 1986. Traduction par P. A. Renaud en collaboration avec René Dougoud, 1988, 41 p.
+    Jabeen, Sana. Peziza succosella and its ectomycorrhiza associated with Cedrus deodara from Himalayan moist temperate forests of Pakistan, Mycotaxon, Volume 130, pp. 455-464, April-June 2015, 10 p.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
+  remarques: |
+    Non épigé, car l’apothécie ne dépasse jamais la surface du sol, vraiment au ras du sol.
+    Le Soudan III ou noir Soudan B permet de colorer les inclusions lipidiques (guttules) trouvées fréquemment dans les ascospores. Le soudan III est soluble dans des solvants de type white spirit, mais n’est pas facilement miscible à l’eau ; son utilisation en mycologie/lichénologie pose donc des problèmes, l’eau étant le principal constituant des êtres vivants. On peut utiliser le soudan III en solution alcoolique saturée mais l’éthanol provoque un rétrécissement important des structures cellulaires. » (Jean-Pierre Gaveriaux) (informations tirées des fiches de Marcel Lecomte).
+    La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent P. succosella (dixit R. Dougoud).
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur:  fraîche, acidulée
+  saveur: indistincte à légèrement fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanchâtre
   spores: 
   spherocytes: 
   sporocystes: 
@@ -248,11 +262,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893;
-    Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935;
-    Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873;
-    Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885;
-    Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
+    Galactinia succosella Le Gal & Romagn., Revue Mycol.: 113 (1940)
+    Peziza succosella (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich, Kleine Kryptogamenflora von Mitteleuropa - Ascomyceten (Schlauchpilze) IIa: 96 (1963)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,27 +1,24 @@
 ---
-nom: Leratiomyces riparius
-date: 2016-10-08 00:00:00
-image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
-album-flickr: 72157671467848974
+nom: Hypholoma radicosum
+date: 2016-10-14 00:00:00
+image: https://c2.staticflickr.com/4/3898/14579980651_218188fc9e_n.jpg
+album-flickr: 72157675098869386
 planches:
-  - miniature: https://c1.staticflickr.com/9/8492/8273347718_58d8cdec4a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8273347718/
-  - miniature: https://c2.staticflickr.com/8/7721/16913172420_83e9a70342_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16913172420/
-  - miniature: https://c2.staticflickr.com/2/1598/26189239201_730d0fd85d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/26189239201/
+  - miniature: https://c2.staticflickr.com/8/7595/16616933670_e13aed0080_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675098869386
 
 details:
-  nom-francais: 
-  autorites: (A.H. Sm.) Redhead
-  collection(s)-cueillie(s): 18 août 2012; 24 juin 2013; 28 mai 2015; 3 juin 2016
-  fongarium: cKc0037; cKc0049; cKc0305; cKc0493
+  nom-francais: Hypholome radicant
+  autorites: J.E. Lange
   famille: Strophariaceae
-  genre: Leratiomyces
-  espece: riparius
+  genre: Hypholoma
+  espece: radicosum
+  litterature: Lange, J.E. 1923. Studies in the Agarics of Denmark. V. Ecological notes. The Hygrophorei, Stropharia and Hypholoma. Supplementary notes to Parts I-III. Dansk botanisk Arkiv. 4(4):1-55
+  collection(s)-cueillie(s): 3 juillet 2014
+  fongarium: cKc0175
 
 description:
-  acanthocytes: absents
+  acanthocytes: 
   acanthophyses: 
   aiguillons: 
   aleurioconidies: 
@@ -29,8 +26,9 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: stérile
+  arete-lamellaire: 
   arthroconidies: 
+  articles: 
   ascome: 
   ascospores: 
   asques: 
@@ -39,23 +37,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement ovoïdales à claviformes, parfois légèrement atténuées à la base, tétrastérigmates, bouclées à la base, 20 [23,2; 25,4] 28,6 x 9,1 [10,5; 11,5] 13 µm
+  basides: capitées à utriformes, tétrastérigmates 12-22 x 5-7 µm en moyenne
   basidiospores: |
-    ovoïdales à subhexagonales vue frontale à globalement largement oblongues à oblongues allongées vue de profil, tronquées, lisses, à paroi légèrement épaissie 0,3 µm en moyenne, avec appendice hilaire bien visible et pore germinatif centré à excentré 1,3 [1,5; 1,7] 1,8 µm, à contenu variable, brunes dans le NaCl iso, inactives dans le melzer, non cyanophiles
-    (12,2) 12,5 - 13,6 (14,3) × (6,3) 6,6 - 7,5 (8,3) µm
-    Q = (1,5) 1,7 - 2 (2,1); N = 30
-    Me = 13,1 × 7 µm; Qe = 1,9
+    elliptiques-oblongues vue de profil à subamygdaliformes vue frontale, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire, et petit pore germinatif, à contenu variable, brun pâle dans le NaCl, inactive dans le Melzer, non cyanophiles
+    5,8 [6,8; 7,2] 8,1 x 3,8 [4,4; 4,6] 5,1 µm
+    Q = 1,5 [1,54; 1,6] 1,7; N = 30; C = 95%
+    Me = 7 x 4,5 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
-  boucles: 
+  biotopes: pousse au sol, sur bois pourri et souvent enfoui de conifères
+  boucles: abondantes dans la trame lamellaire et dans le stipe
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: présentes, en faisceaux, semblables aux cheiloleptocystides
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -63,14 +61,15 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, ferme, immuable, blanche
+  chair: blanchâtre
   chancre: 
-  chapeau: hémisphérique au début à conique-campanulé, puis campanulé convexe à plan à maturité, collant, terne et fibrilleux lorsqu'il est sec, non distinctement hygrophane, appendiculée de reste vélaire, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracée, jaune à orange ochracée, 17,5-49,3 mm Ø
+  chapeau: convexe puis étalé, lisse, crème à jaunâtre, fauve au disque, orné de fibrilles blanches vers la marge, 20-50 mm Ø
+  cheilochrysocystides: absentes
   cheilocystides: 
-  cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capité 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
+  cheiloleptocystides: abondantes, cylindriques à étroitement clavées, avec parfois un apex subcapité 29 x 6 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: absentes
+  chrysocystides: 
   circumcystides: 
   clavules: 
   columelle: 
@@ -120,20 +119,21 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
+  exhalaison-de-la-chair: désagréable
+  exhalaison-des-lames: désagréable
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison-de-la-chair: agréable à fongique
-  exhalaison-des-lames: agréable à fongique
+  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: rare, car connu seulement dans une station au Québec ; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
+  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -169,7 +169,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à légèrement décurrente par une dent, large, cunéiforme, marbrées, subespacées et bombées, présence de lamelles et de lamellules, pourpre jeune, puis pourpre foncé à maturité, dont l’arête lamellaire est fimbriées, blanche
+  lames: adnexées, serrées, blanches puis grisâtres-brunâtres, à arêtes blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -186,11 +186,11 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolées, parfois en petits groupes, très souvent cespiteux
+  mode-de-croissance: solitaire ou grégaire en petit groupe
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
-  nouvelle espèce: 
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -200,17 +200,17 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: mai à août
+  phenologie: de juillet à septembre
   phialoconidies: 
-  pied: cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre, 41-70 x 3-7,3 mm Ø
+  pied: cylindrique, égal, renflé et radicant à la base, parfois longuement, chiné ou squamuleux, avec pseudorhize bien développée, blanc vers l'apex, brun rouille vers la base, 60-120 x 4-8 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches = suprapellis entre ± 50-150 µm d’épaisseur en ixocutis disposé radialement, et un subpellis compact, composé de cellules globuleuses à subglobuleuses et d'hyphes allongées 20 [26,6; 32,7] 39,3 x 8,9 [13,5; 17,8] 22,4 µm
+  pileipellis: en ixocutis constitué d’un suprapellis entre 10-20 µm et un subpellis entre 40-50 µm
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
+  pleurochrysocystides: rares, 44 x 11 µm en moyenne
   pleurocystides: 
-  pleurochrysocystides: rares et à peine saillantes de l’hyménium, vues seulement sur de jeunes sujets (37) 42,6 [43,2; 46,3] 46,9 x 2 [5,3; 20,9] 24,1 µm en moyenne;
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -223,7 +223,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: trouvé pour la première fois dans un parc urbain de Québec en août 2012
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
@@ -234,18 +234,18 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: NH4OH 10% = le pied devient légèrement jaunâtre, chapeau aucune coloration; FeSO4 = aucune coloration; KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau auncune coloration; Gaïacol = aucune coloration sur les lames et le pied, rose lilacée sur le chapeau après > 5’
+  reactions-chimiques: 
   receptacle: 
-  remarques: L'épithète « riparius » signifie qui se tient sur les rives (en parlant d'oiseaux); il y a aussi « ripariolus » qui signifie qui se trouve sur la rive. Difficile ici de donner un nom français. (Dictionnaire Gaffiot latin-français, 1934.
+  remarques: Cette collection n'a pas sporulé. L'étude de la spore fut réalisée dans les lames, dans le Rouge Congo ammoniacal.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: fongique avec une finale légèrement amère
+  saveur: amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: gris pourpre, brun
+  sporee: brun pourpre
   spores: 
   spherocytes: 
   sporocystes: 
@@ -255,19 +255,25 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: Stropharia riparia A.H. Sm., Michigan Bot. 18(3), 107 (1979)
+  synonymie: |
+    Nematoloma radicosum (J.E. Lange) Konrad & Maubl. (1927)
+    Naematoloma radicosum (J.E. Lange) Konrad & Maubl., Icones Selectae Fungorum Fasc. 3, 104 (1928)
+    Psilocybe radicosum (J.E. Lange) Noordel. (1995)
+    Psilocybe radicosa (J.E. Lange) Noordel., Persoonia 16 (1), 129 (1995)
+    Hypholoma epixanthum var. radicosum (J.E. Lange) Bon & P. Roux, Documents Mycologiques 33 (129):19 (2003)
+    Agaricus epixanthus Fr., Epicrisis Systematis Mycologici:222 (1838)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   type: 
   typique: 
   voile: 
-  voile-general: non
-  voile-partiel: blanc au début devenant pourpre foncé, habituellement situé à la marge du chapeau, se retrouve rarement sur le pied ou laissant une petite zone annuliforme
+  voile-general: 
+  voile-partiel: cortinoïde, blanc, fugace
   volve: 
   zone-perihymeniale: 
 ---

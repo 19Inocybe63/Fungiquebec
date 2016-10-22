@@ -1,21 +1,21 @@
 ---
-nom: Octaviania asterosperma
-date: 2016-10-09 00:00:00
-image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
-album-flickr: 72157674612351426
+nom: Russula albonigra
+date: 2016-10-14 00:00:00
+image: https://c1.staticflickr.com/9/8242/28826395870_8327d25997_n.jpg
+album-flickr: 72157671696496014
 planches:
-  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
+  - miniature: 
+    originale: 
 
 details:
-  nom-francais: 
-  autorites: Vittad.
-  famille: Boletaceae
-  genre: Octaviania
-  espece: asterosperma
-  litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  collection(s)-cueillie(s): 23 août 2015
-  fongarium: cKc0430
+  nom-francais: Russule noire et blanche
+  autorites: (Krombh.) Fr.
+  famille: Russulaceae
+  genre: Russula
+  espece: albonigra
+  litterature: Fries, E.M. 1874. Hymenomycetes europaei., 1-755
+  collection(s)-cueillie(s): 20 août 2016
+  fongarium: cKc0546
 
 description:
   acanthocytes: 
@@ -28,7 +28,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles-n°5 (2005) p. 55-64
+  articles: |
+    Kibby, Geoffrey. Key to blackening species of Russula of section Compactae, Field Mycology Volume 2(3), July 2001, pp. 95-97, 3 p.
   ascome: 
   ascospores: 
   asques: 
@@ -37,23 +38,19 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: Basides piriformes à largement clavées, à 3-4 pédicelles 4-9 µm de long, avec granulation, mais aussi vide optique (avec incrustations ?), 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
-  basidiospores: |
-    globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
-    11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
-    Q = [1; 1,1] 1,2; N = 30; C = 95%
-    Me = 12,5 x 11,9 µm; Qe = 1,1 (sans les ornements)
+  basides: 
+  basidiospores: 
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous conifères
+  biotopes: pousse au sol des forêts de feuillus ou mixtes
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -61,9 +58,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, cassante, blanche, grisonnant puis noircissant à la coupe ou au grattage
   chancre: 
-  chapeau: 
+  chapeau: convexe puis étalé-déprimé, infundibuliforme à maturité, ferme, glabre, mat, blanchâtre au début, puis brun grisâtre ou noirâtre, finalement entièrement noir, à marge unie 22 x 42 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -116,20 +113,23 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
+  exhalaison: 
+  exhalaison-de-la-chair: légère, agréable
+  exhalaison-des-lames: légère, agréable
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement acidulée
+  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
-  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
+  frequence: occasionnelle
+  glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -164,7 +164,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, étroites, avec nombreuses lamellules, serrées, blanc crème à chamois, noircissant au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -181,9 +181,10 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou grégaire
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
@@ -194,16 +195,16 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: août
+  phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: subégal, dur, glabre, blanc, devenant grisâtre ou gris brunâtre au froissement, 19-29 x 7-11 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -216,23 +217,26 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Montecchi, Amer & Sarasini, Mario. Funghi ipogei d'Europa, Associazione Micologica Bresadola, 2000, 714 p.
-  publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  publications: |
+    Beenken, Ludwig. Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
+    Kibby, Geoffrey & Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    Kibby, Geoffrey. The Genus Russula in Great Britain, with Synoptic keys to species, Édition Geoffrey Kibby, 2011, 132 p.
+    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Primo, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Secondo, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
+  publications-microscopiques: 
+  reactions-chimiques: Soluté de gaïac = endéans 5" S ++ (3 = moyenne) et après 5" L ++ (3 = moyenne)
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
+  remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement ; elle noircit.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur:  fraîche, acidulée
+  saveur: douce ± mentholée
   sclerocystides: 
   sclerote: 
   soies: 
@@ -248,11 +252,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893;
-    Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935;
-    Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873;
-    Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885;
-    Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
+    Agaricus alboniger Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 9, 27, t. 70:16-17 (1845)
+    Russula nigricans var. albonigra (Krombh.) Cooke & Quél., Clavis synoptica Hymenomycetum Europaeorum, 143 (1878)
+    Russula adusta var. albonigra (Krombh.) Massee, British Fungus-Flora 3:52 (1893)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

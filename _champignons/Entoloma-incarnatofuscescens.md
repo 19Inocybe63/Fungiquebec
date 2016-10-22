@@ -1,21 +1,21 @@
 ---
-nom: Octaviania asterosperma
-date: 2016-10-09 00:00:00
-image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
-album-flickr: 72157674612351426
+nom: Entoloma cf. incarnatofuscescens
+date: 2016-10-14 00:00:00
+image: https://c2.staticflickr.com/8/7260/7808924042_8d013e0dc2_n.jpg
+album-flickr: 72157675189299225
 planches:
-  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
+  - miniature: https://c1.staticflickr.com/9/8216/8274763429_74d0d295f7_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675189299225
 
 details:
-  nom-francais: 
-  autorites: Vittad.
-  famille: Boletaceae
-  genre: Octaviania
-  espece: asterosperma
-  litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  collection(s)-cueillie(s): 23 août 2015
-  fongarium: cKc0430
+  nom-francais: Entolome bleu pourpre
+  autorites: (Britzelm.) Noordel.
+  famille: Entolomataceae
+  genre: Entoloma
+  espece: cf. incarnatofuscescens
+  litterature: 
+  collection(s)-cueillie(s): 18 août 2012
+  fongarium: 2012M_240, Canadian National Mycological Herbarium (DAOM)
 
 description:
   acanthocytes: 
@@ -28,7 +28,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles-n°5 (2005) p. 55-64
+  articles: 
   ascome: 
   ascospores: 
   asques: 
@@ -37,23 +37,24 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: Basides piriformes à largement clavées, à 3-4 pédicelles 4-9 µm de long, avec granulation, mais aussi vide optique (avec incrustations ?), 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
+  basides: piriformes à largement clavées, 2-4 stérigmates, non bouclées à la base
   basidiospores: |
-    globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
-    11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
-    Q = [1; 1,1] 1,2; N = 30; C = 95%
-    Me = 12,5 x 11,9 µm; Qe = 1,1 (sans les ornements)
+    isodiamétriques à 5-6 côtés, à contenu uniguttulé à pluriguttulé, hyalines
+    7,7 [8,3; 8,7] 9,4 x 6,2 [6,8; 7,2] 7,9 µm
+    Q = 1,1 [1,2; 1,3] 1,4; N = 21; C = 95%
+    Me = 8,5 x 7 µm; Qe = 1,2
+    Il faut tenir compte que j'ai mesuré des spores issues des lames
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous conifères
-  boucles: 
+  biotopes: pousse dans la sphaigne, non loin d'un chêne à gros fruits, dans les chênaies-hêtraies.
+  boucles: observées à la base des basides et sur les hyphes du stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides: cylindriques, subfusiformes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -63,8 +64,8 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
-  cheilocystides: 
+  chapeau: omphalinoïd, strié, ombiliqué, sec, fibrilleux, violet, 7 mm Ø
+  cheilocystides: cylindriques, en éperons à mucronées
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -116,20 +117,23 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
+  exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement acidulée
+  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
-  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
+  frequence: rare
+  glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -164,7 +168,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: décurrentes, espacées, avec lamellules, blanches, à arêtes concolore
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -181,9 +185,10 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé ou en petit groupe
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
@@ -196,14 +201,14 @@ description:
   peritheces: 
   phenologie: août
   phialoconidies: 
-  pied: 
+  pied: cylindrique, égal, légèrement plus pâle à l'apex, concolore au chapeau, glabre, avec bulbe blanchâtre à la base, 20-30 x 1-2 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: avec hyphes ascendant en trichoderme
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides: non observées
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -216,23 +221,22 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
+  premiere-mention: Collection Yves Lamoureux, 1905, Cercle des mycologues de Montréal (CMM).
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Montecchi, Amer & Sarasini, Mario. Funghi ipogei d'Europa, Associazione Micologica Bresadola, 2000, 714 p.
-  publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+  publications: 
+  publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
+  remarques: |
+    Message de Machiel Noordeloos en 2012 = This is a nice little Entoloma, which may come near E. incarnatofuscescens from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.
+    Il s'agit de la collection Entoloma cf. incarnatofuscescens_2012M_240, Canadian National Mycological Herbarium (DAOM).
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur:  fraîche, acidulée
+  saveur: 
   sclerocystides: 
   sclerote: 
   soies: 
@@ -247,12 +251,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893;
-    Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935;
-    Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873;
-    Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885;
-    Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

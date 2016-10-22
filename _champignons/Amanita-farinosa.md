@@ -10,12 +10,12 @@ planches:
 details:
   nom-francais: Amanite farineuse
   autorites: Schweinitz
-  collection-cueillie: 14 mai 2014
-  fongarium: cKc0092, cKc0130, cKc0424
   famille: Amanitaceae
   genre: Amanita
   espece: farinosa
   litterature: Schweinitz, L.D. von. 1822. Synopsis fungorum Carolinae superioris. Schriften der Naturforschenden Gesellschaft zu Leipzig. 1:20-131
+  collection(s)-cueillie(s): 21 juillet 2013; 1 septembre 2013; 20 août 2015
+  fongarium: cKc0092; cKc0130; cKc0424
 
 description:
   acanthocytes: 
@@ -219,10 +219,15 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
   references: 
-  remarques: 
+  remarques: Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
   rhizomorphes: 
   sac-sporifere: 
   saveur: indistincte

@@ -1,21 +1,21 @@
 ---
-nom: Octaviania asterosperma
-date: 2016-10-09 00:00:00
-image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
-album-flickr: 72157674612351426
+nom: Scleroderma citrinum
+date: 2016-10-16 00:00:00
+image: https://c2.staticflickr.com/4/3741/20394289172_5bc72dfbf6_n.jpg
+album-flickr: 72157671763216164
 planches:
-  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
+  - miniature: 
+    originale: 
 
 details:
-  nom-francais: 
-  autorites: Vittad.
-  famille: Boletaceae
-  genre: Octaviania
-  espece: asterosperma
-  litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  collection(s)-cueillie(s): 23 août 2015
-  fongarium: cKc0430
+  nom-francais: Scléroderme commun
+  autorites: Pers.
+  famille: Sclerodermataceae
+  genre: Scleroderma
+  espece: citrinum
+  litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
+  collection(s)-cueillie(s): 8 août 2015
+  fongarium: cKc0399
 
 description:
   acanthocytes: 
@@ -28,7 +28,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles-n°5 (2005) p. 55-64
+  articles: 
   ascome: 
   ascospores: 
   asques: 
@@ -37,23 +37,19 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: Basides piriformes à largement clavées, à 3-4 pédicelles 4-9 µm de long, avec granulation, mais aussi vide optique (avec incrustations ?), 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
-  basidiospores: |
-    globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
-    11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
-    Q = [1; 1,1] 1,2; N = 30; C = 95%
-    Me = 12,5 x 11,9 µm; Qe = 1,1 (sans les ornements)
+  basides: 
+  basidiospores: 
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: globuleux à subglobuleux, parfois ellipsoïde, déprimé à maturité, souvent plissé ou même lobé sur les côtés et au-dessous, sessile ou relié par une touffe de cordons mycéliens blanchâtres agglomérant des débris, à péridium simple, dur, épais, 1-3 mm, craquelé-aréolé et avec grosse verrue centrale aplatie ou pyramidale plate, formant un motif en relief, avec ornementations disposées en rosette vers l'apex, ocre, brun jaunâtre à jaune doré, devenant rosâtre au froissement ou à la coupe, s'ouvrant au sommet par des fentes irrégulières lobées, non stellées, 20-50 mm de hauteur, 20-100 (120) mm Ø
   bibliographies: 
-  biotopes: pousse dans le sol, sous conifères
+  biotopes: pousse au sol des forêts de feuillus et de conifères, parfois non loin de bois pourri
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -71,7 +67,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: non comestible
+  comestibilite: non recommandée
   commentaires: 
   conidies: 
   conidiome: 
@@ -121,22 +117,25 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement acidulée
+  exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   exoperidium: 
+  extremites-hyphales: 
   face-externe: 
-  face-poroide: 
+  face-poroïde: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
-  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
+  frequence: commune
+  glebe: blanche et longtemps ferme au début, puis gris violacé à noirâtre, souvent marbrée de blanchâtre, demeurant ferme, poudreuse à granuleuse à la fin, après l'ouverture du péridium, à odeur aigre ou agréable
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides-cheilocystides-et-pleurocystides: 
+  hymenocystides: 
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -181,9 +180,10 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
@@ -194,16 +194,16 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: août
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -216,23 +216,22 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Montecchi, Amer & Sarasini, Mario. Funghi ipogei d'Europa, Associazione Micologica Bresadola, 2000, 714 p.
-  publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+  publications: |
+    Pegler, D. N.; Laessøe, T.; Spooner, B. M. British Puffballs Earthstars and Stinkhorns, An account of the British Gasteroid Fungi, Royal Botanic Gardens, Kew, 1995, 145 p.
+    Smith, Alexander H. Puffballs and their allies in Michigan, Ann Arbor, The University of Michigan Press, 1951, 187 p.
+  publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur:  fraîche, acidulée
+  saveur: 
   sclerocystides: 
   sclerote: 
   soies: 
@@ -248,11 +247,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893;
-    Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935;
-    Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873;
-    Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885;
-    Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
+    Lycoperdon tessellatum Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:191 (1803)
+    Scleroderma vulgare Hornem., Flora Danica, tab. 1969, fig. 2 (1829)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

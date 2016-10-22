@@ -1,21 +1,21 @@
 ---
-nom: Octaviania asterosperma
-date: 2016-10-09 00:00:00
-image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
-album-flickr: 72157674612351426
+nom: Phlebia radiata
+date: 2016-10-22 00:00:00
+image: https://c2.staticflickr.com/8/7528/29925850280_fcac7d9e2f_n.jpg
+album-flickr: 72157675531962005
 planches:
-  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
+  - miniature: 
+    originale:  
 
 details:
-  nom-francais: 
-  autorites: Vittad.
-  famille: Boletaceae
-  genre: Octaviania
-  espece: asterosperma
-  litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  collection(s)-cueillie(s): 23 août 2015
-  fongarium: cKc0430
+  nom-francais: Phlébie radiante
+  autorites: Fr.
+  famille: Meruliaceae
+  genre: Phlebia
+  espece: radiata
+  litterature: Fries, E.M. 1821. Systema Mycologicum. 1:1-520
+  collection(s)-cueillie(s): 9 octobre 2016
+  fongarium: cKc0591
 
 description:
   acanthocytes: 
@@ -28,7 +28,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles-n°5 (2005) p. 55-64
+  articles: 
   ascome: 
   ascospores: 
   asques: 
@@ -37,23 +37,19 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: Basides piriformes à largement clavées, à 3-4 pédicelles 4-9 µm de long, avec granulation, mais aussi vide optique (avec incrustations ?), 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
-  basidiospores: |
-    globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
-    11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
-    Q = [1; 1,1] 1,2; N = 30; C = 95%
-    Me = 12,5 x 11,9 µm; Qe = 1,1 (sans les ornements)
+  basides: 
+  basidiospores: 
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: entièrement résupiné, effusé à légèrement effusé-réfléchi, orbiculaire 10-100 mm ou plus, avec contour irrégulier, allant jusqu'à environ 3 mm d'épaisseur, surface ridée, avec les rides et les plis rayonnant à partir d'un point plus ou moins centrale, orange au rose (plus rarement tan avec des bords orangées ou violacé), développer occasionnellement, un bord poilue légèrement repliée
   bibliographies: 
-  biotopes: pousse dans le sol, sous conifères
+  biotopes: pousse sur bois mort pourri de feuillus et de conifères; agent de carie blanche
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -76,7 +72,7 @@ description:
   conidies: 
   conidiome: 
   conidiophores: 
-  consistance: 
+  consistance: membraneux, gélatineux et tendre au frais, cireux, ± corné et coriace au sec
   contexte: 
   cordons-myceliens: 
   cordons-rhizomorphiques: 
@@ -121,23 +117,26 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement acidulée
+  exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   exoperidium: 
+  extremites-hyphales: 
   face-externe: 
-  face-poroide: 
+  face-poroïde: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
-  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
+  frequence: largement distribué en Amérique du Nord
+  glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides-cheilocystides-et-pleurocystides: 
-  hymenophore: 
+  hymenocystides: 
+  hymenophore: ondulé, sillonné radialement, irrégulièrement plissé et bosselé, surtout vers la marge, puis verruqueux à lobulé, parfois sinueux-plissé, de couleur variable, souvent brillamment coloré, orange pâle, orangé, rosâtre, rose, orange grisâtre, rouge orangé, rougeâtre, tan, violacé, pourpré à gris-violet, parfois avec pruine grise, souvent translucide
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -181,9 +180,10 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: du printemps à l'automne
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
@@ -194,16 +194,16 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: août
+  phenologie: 
   phialoconidies: 
   pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -216,28 +216,26 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
+  premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Montecchi, Amer & Sarasini, Mario. Funghi ipogei d'Europa, Associazione Micologica Bresadola, 2000, 714 p.
-  publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+  publications: |
+    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+  publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
+  remarques: P. radiata est un champignon de croûte orange, rose, qui se répand à travers le bois mort de feuillus et de conifères de l'Amérique du Nord. Il a une surface plissée dans laquelle les plis rayonnent vers l'extérieur à partir d'un emplacement central. Il ne développe pas de pores et il ne développe pas une structure de chapeau, en général, il a un bord replié.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur:  fraîche, acidulée
+  saveur: 
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 
@@ -245,14 +243,16 @@ description:
   stipititrame: 
   stroma: 
   subhymenium: 
-  subiculum: 
+  subiculum: cotonneux, jusqu'à 3 mm d'épaisseur, blanc à pâle
   substrat: 
   synonymie: |
-    Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893;
-    Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935;
-    Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873;
-    Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885;
-    Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
+    Phlebia aurantiaca var. radiata (Fr.) Bourdot & Galzin, Hyménomycètes de France:342 (1928)
+    Auricularia aurantiaca Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:398 (1803)
+    Merulius merismoides Fr., Observationes mycologicae 2:235 (1818)
+    Phlebia contorta Fr., Systema Mycologicum 1:427 (1821)
+    Merulius fulvus Lasch, Linnaea 4:552 (1829)
+    Phlebia kriegeriana Henn., Hedwigia 41:146 (1902)
+    Phlebia cystidiata H.S. Jacks., Mycologia 48 (3):395 (1956)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,21 +1,21 @@
 ---
-nom: Octaviania asterosperma
-date: 2016-10-09 00:00:00
-image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
-album-flickr: 72157674612351426
+nom: Elaphomyces vernesii
+date: 2016-10-13 09:22:00
+image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
+album-flickr: 72157673772975951
 planches:
-  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
+  - miniature: 
+    originale: 
 
 details:
   nom-francais: 
-  autorites: Vittad.
-  famille: Boletaceae
-  genre: Octaviania
-  espece: asterosperma
-  litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  collection(s)-cueillie(s): 23 août 2015
-  fongarium: cKc0430
+  autorites: Castellano
+  famille: Pezizomycotina, Eurotiomycetes
+  genre: Elaphomyces
+  espece: vernesii sp. nov.
+  litterature: nouvelle espèce
+  collection(s)-cueillie(s): 22 août 2015; 28 août 2015; 12 septembre 2015; 14 juillet 2016
+  fongarium: cKc0429; cKc0442; cKc0462; cKc0517
 
 description:
   acanthocytes: 
@@ -28,8 +28,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Lenne, Mireille. Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre, Revue du Cercle de Mycologie de Bruxelles-n°5 (2005) p. 55-64
-  ascome: 
+  articles: 
+  ascome: subglobuleux à globuleux, mais jamais aplati, à cortex noir 13-21 x 14-22 mm Ø
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -37,23 +37,19 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: Basides piriformes à largement clavées, à 3-4 pédicelles 4-9 µm de long, avec granulation, mais aussi vide optique (avec incrustations ?), 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
-  basidiospores: |
-    globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
-    11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
-    Q = [1; 1,1] 1,2; N = 30; C = 95%
-    Me = 12,5 x 11,9 µm; Qe = 1,1 (sans les ornements)
+  basides: 
+  basidiospores: 
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniforme, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous conifères
+  biotopes: pousse sous la surface du sol, sous chêne rouge
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides-dermatocystides: 
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -80,7 +76,7 @@ description:
   contexte: 
   cordons-myceliens: 
   cordons-rhizomorphiques: 
-  cortex: 
+  cortex: jusqu'à 250 µm d'épaisseur, souvent lisse ou avec verrues larges et aplaties et partie en saillie jusqu'à 100 µm de hauteur et 200 µm de largeur, formé d'un tissu pseudoparenchymateux brun foncé, avec hyphes subparallèles entre les verrues, à paroi jusqu'à 1-2 µm d'épaisseur, légèrement brun plus pâle, 4-5 µm Ø
   cortex-caulinaire: 
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
@@ -116,20 +112,23 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
+  exhalaison: indistincte
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement acidulée
+  exhalaison: indistincte
   exoperidium: 
   face-externe: 
   face-poroide: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
-  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
+  frequence: 
+  glebe: pulvérulente et noire teintée d'olivacé à noire à maturité
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -184,6 +183,7 @@ description:
   mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
+  nouvelle-espece: Elaphomyces vernesii sp. nov., d'après Michael Castellano, « E. vernesii sp. nov. known only from Canada ».
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
@@ -192,18 +192,18 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: 
+  peridium: distinct du cortex, formé d'hyphes à paroi épaissie, hyalines à brun pâle et 3-4 µm Ø sur la partie externe, plus lâchement emmêlées et 6-7 µm Ø sur la partie interne
   peritheces: 
-  phenologie: août
+  phenologie: 
   phialoconidies: 
   pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
-  pleurocystides-hymenocystides: 
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -220,19 +220,14 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Montecchi, Amer & Sarasini, Mario. Funghi ipogei d'Europa, Associazione Micologica Bresadola, 2000, 714 p.
-  publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+  publications: 
   reactions-chimiques: 
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
+  remarques: Il s'agit d'une nouvelle espèce; E. vernesii sp. nov. Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur:  fraîche, acidulée
+  saveur: fongique à indistincte
   sclerocystides: 
   sclerote: 
   soies: 
@@ -247,12 +242,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    Octavianina asterosperma Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893;
-    Arcangeliella asterosperma Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935;
-    Hydnangium asterospora Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873;
-    Octaviania mutabilis Roum., Revue Mycologique Toulouse 7, 24, 1885;
-    Octaviania brunnea R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

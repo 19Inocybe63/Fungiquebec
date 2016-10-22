@@ -1,27 +1,24 @@
 ---
-nom: Leratiomyces riparius
-date: 2016-10-08 00:00:00
-image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
-album-flickr: 72157671467848974
+nom: Mitrula elegans
+date: 2016-10-12 00:00:00
+image: https://c2.staticflickr.com/8/7309/8937592313_9fb6943bef_n.jpg
+album-flickr: 72157673827899631
 planches:
-  - miniature: https://c1.staticflickr.com/9/8492/8273347718_58d8cdec4a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8273347718/
-  - miniature: https://c2.staticflickr.com/8/7721/16913172420_83e9a70342_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16913172420/
-  - miniature: https://c2.staticflickr.com/2/1598/26189239201_730d0fd85d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/26189239201/
+  - miniature: https://c2.staticflickr.com/6/5466/17645661958_7e54d295cb_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673827899631
 
 details:
-  nom-francais: 
-  autorites: (A.H. Sm.) Redhead
-  collection(s)-cueillie(s): 18 août 2012; 24 juin 2013; 28 mai 2015; 3 juin 2016
-  fongarium: cKc0037; cKc0049; cKc0305; cKc0493
-  famille: Strophariaceae
-  genre: Leratiomyces
-  espece: riparius
+  nom-francais: Mitrule élégante
+  autorites: Berkeley
+  famille: Helotiaceae
+  genre: Mitrula
+  espece: elegans
+  litterature: Berkeley, M.J. 1875. Notices of North American fungi. Grevillea. 3(28):145-160
+  collection(s)-cueillie(s): 3 juin 2013
+  fongarium: cKc0045
 
 description:
-  acanthocytes: absents
+  acanthocytes: 
   acanthophyses: 
   aiguillons: 
   aleurioconidies: 
@@ -29,33 +26,34 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: stérile
+  arete-lamellaire: 
   arthroconidies: 
-  ascome: 
-  ascospores: 
-  asques: 
+  articles: 
+  ascome: charnu, formé d'une clavule et d'un pied distincts, 20-80 mm de hauteur
+  ascospores: |
+    étroitement elliptiques, cylindriques à légèrement en forme de massue, lisses, sans septa, à contenu homogène, hyalines dans le NaCl iso, inactives dans le melzer, non cyanophiles
+    10,4 [12,4; 13,4] 15,4 x 1,3 [2; 2,3] 2,9 µm
+    Q = 3,9 [5,8; 6,7] 8,7; N = 30; C = 95%
+    Me = 12,9 x 2,1 µm; Qe = 6,3
+  asques: claviformes, longuement stipitées, à huit spores, 104-130 x 5,5-7,5 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement ovoïdales à claviformes, parfois légèrement atténuées à la base, tétrastérigmates, bouclées à la base, 20 [23,2; 25,4] 28,6 x 9,1 [10,5; 11,5] 13 µm
-  basidiospores: |
-    ovoïdales à subhexagonales vue frontale à globalement largement oblongues à oblongues allongées vue de profil, tronquées, lisses, à paroi légèrement épaissie 0,3 µm en moyenne, avec appendice hilaire bien visible et pore germinatif centré à excentré 1,3 [1,5; 1,7] 1,8 µm, à contenu variable, brunes dans le NaCl iso, inactives dans le melzer, non cyanophiles
-    (12,2) 12,5 - 13,6 (14,3) × (6,3) 6,6 - 7,5 (8,3) µm
-    Q = (1,5) 1,7 - 2 (2,1); N = 30
-    Me = 13,1 × 7 µm; Qe = 1,9
+  basides: 
+  basidiospores: 
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur feuilles, aiguilles, écailles, ramilles ou fruits, débris, billes, boues, tapis d'algues, etc., pourrissant dans les eaux peu profondes des forêts (1 décimètre concernant le sujet ci-dessus), mares, eaux en voie d'assèchement ou fossés
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: présentes, en faisceaux, semblables aux cheiloleptocystides
+  caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -63,14 +61,13 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, ferme, immuable, blanche
+  chair: 
   chancre: 
-  chapeau: hémisphérique au début à conique-campanulé, puis campanulé convexe à plan à maturité, collant, terne et fibrilleux lorsqu'il est sec, non distinctement hygrophane, appendiculée de reste vélaire, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracée, jaune à orange ochracée, 17,5-49,3 mm Ø
+  chapeau: 
   cheilocystides: 
-  cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capité 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: absentes
+  chrysocystides: 
   circumcystides: 
   clavules: 
   columelle: 
@@ -120,20 +117,21 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison-de-la-chair: agréable à fongique
-  exhalaison-des-lames: agréable à fongique
+  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: rare, car connu seulement dans une station au Québec ; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
+  frequence: occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -169,7 +167,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à légèrement décurrente par une dent, large, cunéiforme, marbrées, subespacées et bombées, présence de lamelles et de lamellules, pourpre jeune, puis pourpre foncé à maturité, dont l’arête lamellaire est fimbriées, blanche
+  lames: 
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -186,31 +184,29 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolées, parfois en petits groupes, très souvent cespiteux
+  mode-de-croissance: solitaire à dispersé, grégaire, cespiteux, parfois en grand nombre
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  nouvelle espèce: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: filiformes, septées, souvent ramifiées, légèrement élargies à l'apex, 110-130 x 1,5-3 µm
   parasite: 
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: mai à août
+  phenologie: de mai à septembre
   phialoconidies: 
-  pied: cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre, 41-70 x 3-7,3 mm Ø
+  pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches = suprapellis entre ± 50-150 µm d’épaisseur en ixocutis disposé radialement, et un subpellis compact, composé de cellules globuleuses à subglobuleuses et d'hyphes allongées 20 [26,6; 32,7] 39,3 x 8,9 [13,5; 17,8] 22,4 µm
+  pileipellis: 
   pileitrame: 
-  pileocystides-dermatocystides: 
+  pileocystides: 
   plasmode: 
   pleurocystides: 
-  pleurochrysocystides: rares et à peine saillantes de l’hyménium, vues seulement sur de jeunes sujets (37) 42,6 [43,2; 46,3] 46,9 x 2 [5,3; 20,9] 24,1 µm en moyenne;
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -223,39 +219,38 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: trouvé pour la première fois dans un parc urbain de Québec en août 2012
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+  publications: 
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: NH4OH 10% = le pied devient légèrement jaunâtre, chapeau aucune coloration; FeSO4 = aucune coloration; KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau auncune coloration; Gaïacol = aucune coloration sur les lames et le pied, rose lilacée sur le chapeau après > 5’
+  reactions-chimiques: 
   receptacle: 
-  remarques: L'épithète « riparius » signifie qui se tient sur les rives (en parlant d'oiseaux); il y a aussi « ripariolus » qui signifie qui se trouve sur la rive. Difficile ici de donner un nom français. (Dictionnaire Gaffiot latin-français, 1934.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: fongique avec une finale légèrement amère
+  saveur: 
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: gris pourpre, brun
+  sporee: 
   spores: 
   spherocytes: 
   sporocystes: 
-  stipitipellis: 
-  stipititrame: 
+  stipitipellis: avec terminaisons hyphales, parfois isolées, en faisceaux ou emmêlées
+  stipititrame: constitué de trois grosseurs d’hyphes ; filiforme entre 15 x 6 µm en moyenne, fusiforme entre 35-46 x 18-20 µm en moyenne, et largement fusiforme entre 50-60 x 25-27 µm en moyenne
   stroma: 
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: Stropharia riparia A.H. Sm., Michigan Bot. 18(3), 107 (1979)
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -266,8 +261,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: non
-  voile-partiel: blanc au début devenant pourpre foncé, habituellement situé à la marge du chapeau, se retrouve rarement sur le pied ou laissant une petite zone annuliforme
+  voile-general: 
+  voile-partiel: 
   volve: 
   zone-perihymeniale: 
 ---

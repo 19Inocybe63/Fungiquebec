@@ -8,15 +8,6 @@ layout: default
 <div class="container mt">
     <div class="row">
         <div class="col-lg-3">
-            <p><b>Nom :</b> <i>{{ page.nom }}</i></p>
-            {% if page.details.nom-francais %}
-                <p><b>Nom Français:</b> {{ page.details.nom-francais | newline_to_br }}</p>
-            {% endif %}
-            {% if page.details.autorites %}
-                <p><b>Autorités:</b> {{ page.details.autorites | newline_to_br }}</p>
-            {% endif %}
-            <div class="spacing"></div>
-
             {% if page.image %}
                 <img src="{{ page.image }}" />
                 <div class="spacing"></div>
@@ -36,7 +27,7 @@ layout: default
             <div class="spacing"></div>
 
             {% if page.planches %}
-                <h4>Planches</h4>
+                <h4>Planches micrographiques</h4>
                 <div class="hline"></div>
 
                 {% for planche in page.planches %}

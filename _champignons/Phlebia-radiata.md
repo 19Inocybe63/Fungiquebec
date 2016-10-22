@@ -40,7 +40,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: entièrement résupiné, effusé à légèrement effusé-réfléchi, orbiculaire 10-100 mm ou plus, avec contour irrégulier, allant jusqu'à environ 3 mm d'épaisseur, surface ridée, avec les rides et les plis rayonnant à partir d'un point plus ou moins centrale, orange au rose (plus rarement tan avec des bords orangées ou violacé), développer occasionnellement, un bord poilue légèrement repliée
   bibliographies: 
   biotopes: 
   boucles: 
@@ -72,7 +72,7 @@ description:
   conidies: 
   conidiome: 
   conidiophores: 
-  consistance: 
+  consistance: membraneux, gélatineux et tendre au frais, cireux, ± corné et coriace au sec
   contexte: 
   cordons-myceliens: 
   cordons-rhizomorphiques: 
@@ -127,7 +127,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: largement distribué en Amérique du Nord
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -136,7 +136,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: ondulé, sillonné radialement, irrégulièrement plissé et bosselé, surtout vers la marge, puis verruqueux à lobulé, parfois sinueux-plissé, de couleur variable, souvent brillamment coloré, orange pâle, orangé, rosâtre, rose, orange grisâtre, rouge orangé, rougeâtre, tan, violacé, pourpré à gris-violet, parfois avec pruine grise, souvent translucide
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: du printemps à l'automne
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -225,7 +225,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: P. radiata est un champignon de croûte orange, rose, qui se répand à travers le bois mort de feuillus et de conifères de l'Amérique du Nord. Il a une surface plissée dans laquelle les plis rayonnent vers l'extérieur à partir d'un emplacement central. Il ne développe pas de pores et il ne développe pas une structure de chapeau, en général, il a un bord replié.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -234,7 +234,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 
@@ -242,7 +242,7 @@ description:
   stipititrame: 
   stroma: 
   subhymenium: 
-  subiculum: 
+  subiculum: cotonneux, jusqu'à 3 mm d'épaisseur, blanc à pâle
   substrat: 
   synonymie: |
     Phlebia aurantiaca var. radiata (Fr.) Bourdot & Galzin, Hyménomycètes de France:342 (1928)

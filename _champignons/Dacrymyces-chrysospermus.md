@@ -46,7 +46,7 @@ description:
   basidioles: 
   basidiome: 10-25 mm de hauteur, 10-60 mm Ø, de forme très variable, pulviné, en masse ± cérébriforme, multilobé, obconique, discoïde à étalé sur le substrat, lisse mais couvert de poils blanchâtres lâchement disposés au-dessus, jaune brillant à orangé au frais, rouge orangé à rougeâtre au sec, avec base réduite ± distincte ou radicante près du point d'attache, blanchâtre, à marge enroulée
   bibliographies: 
-  biotopes: pousse sur bois de conifère pourri
+  biotopes: pousse sur bois pourri de conifères
   boucles: 
   brachybasidioles: 
   calicule: 

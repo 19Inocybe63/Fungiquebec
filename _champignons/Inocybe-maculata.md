@@ -265,7 +265,6 @@ description:
     Inocybe maculata Boud., Bull. Soc. bot. Fr. 32: 283 (1885) f. maculata
     Inocybe maculata Boud., Bull. Soc. bot. Fr. 32: 283 (1885) subsp. maculata
     Inocybe maculata f. fulva Bon, Docums Mycol. 21(no. 81): 47 (1991)
-    Index Fungorum: http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=149320
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

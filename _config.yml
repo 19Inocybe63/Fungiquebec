@@ -95,6 +95,8 @@ champs-description:
     label: Consistance
   - name: subiculum
     label: Subiculum
+  - name: systeme-hyphal
+    label: Système hyphal
   - name: marge
     label: Marge
   - name: face-externe
@@ -551,8 +553,6 @@ champs-description:
     label: Subhyménium
   - name: substrat
     label: Substrat
-  - name: systeme-hyphal
-    label: Système hyphal
   - name: textura
     label: Textura
   - name: tomentum-caulinaire

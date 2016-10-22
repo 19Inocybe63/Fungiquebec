@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: fourchues
+  basidiospores: |
+    cylindriques à suballantoïdes, lisses, à paroi légèrement épaissie, avec sept septa à maturité, dépression supra-apiculaire et hile, à contenu pluriguttulé, hyalines dans le NH4OH 2,5 %, inactives dans le melzer, non cyanophiles
+    18,1 [19,6; 20,2] 21,6 x 6 [7,1; 7,5] 8,5 µm
+    Q = 2,3 [2,7; 2,8] 3,2; N = 33; C = 95%
+    Me = 19,9 x 7,3 µm; Q moyen = 2,7
   basidioles: 
   basidiome: 10-25 mm de hauteur, 10-60 mm Ø, de forme très variable, pulviné, en masse ± cérébriforme, multilobé, obconique, discoïde à étalé sur le substrat, lisse mais couvert de poils blanchâtres lâchement disposés au-dessus, jaune brillant à orangé au frais, rouge orangé à rougeâtre au sec, avec base réduite ± distincte ou radicante près du point d'attache, blanchâtre, à marge enroulée
   bibliographies: 
@@ -137,7 +141,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: gérératrices, non bouclées, septées, 2,4-5,4 µm de largeur
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -225,7 +229,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Le Rouge Congo SDS a été utilisé afin d’obtenir une meilleure observation des parois et des septa.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -245,7 +249,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: 
-  systeme-hyphal: 
+  systeme-hyphal: monomitique
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 

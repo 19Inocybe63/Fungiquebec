@@ -87,6 +87,8 @@ champs-details:
 champs-description:
   - name: apothecie
     label: Apothécie
+  - name: basidiome
+    label: Basidiome
   - name: hymenophore
     label: Hyménophore
   - name: marge
@@ -99,8 +101,6 @@ champs-description:
     label: Capitule
   - name: peridium
     label: Péridium
-  - name: basidiome
-    label: Basidiome
   - name: glebe
     label: Glèbe
   - name: chapeau

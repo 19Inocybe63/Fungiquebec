@@ -40,9 +40,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: 10-25 mm de hauteur, 10-60 mm Ø, de forme très variable, pulviné, en masse ± cérébriforme, multilobé, obconique, discoïde à étalé sur le substrat, lisse mais couvert de poils blanchâtres lâchement disposés au-dessus, jaune brillant à orangé au frais, rouge orangé à rougeâtre au sec, avec base réduite ± distincte ou radicante près du point d'attache, blanchâtre, à marge enroulée
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois de conifère pourri
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -57,7 +57,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: gélatineuse-tenace au début, gélatineuse-molle avec l'âge, corné au sec
   chancre: 
   chapeau: 
   cheilocystides: 
@@ -117,7 +117,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -229,12 +229,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: jaune à jaunâtre
   spores: 
   spherocytes: 
   sporocystes: 

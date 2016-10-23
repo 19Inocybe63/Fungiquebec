@@ -1,6 +1,6 @@
 ---
 nom: Xeromphalina campanella
-date: 2016-10-14 00:00:00
+date: 2016-10-23 00:00:00
 image: https://c1.staticflickr.com/9/8379/8613638912_3aa70ccb99_n.jpg
 album-flickr: 72157671696579223
 planches:
@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: mince, flexible, jaunâtre orangée à brunâtre
   chancre: 
-  chapeau: convexe à largement convexe, déprimé au centre, ombiliqué, graisseux, lisse, subhygrophane, jaune-brun, brun orangé à rouille orangé vers le centre au début, puis brun orangé à brun cannelle, jaunâtre à jaune ocre vers le bord, à marge enroulée au début, translucide-striée jusqu'aux ¾ du rayon à l'humidité, 3-25 mm Ø
+  chapeau: 3-25 mm Ø, convexe à largement convexe, déprimé au centre, ombiliqué, graisseux, lisse, subhygrophane, jaune-brun, brun orangé à rouille orangé vers le centre au début, puis brun orangé à brun cannelle, jaunâtre à jaune ocre vers le bord, à marge enroulée au début, translucide-striée jusqu'aux ¾ du rayon à l'humidité
   cheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, cylindriques à largement cylindriques, lagéniformes, à paroi mince, 2 9-55 X 6.0-13,5 µm
   cheilomacrocystides: 
   chlamydospores: 
@@ -202,7 +202,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: cylindrique, légèrement élargi vers la base, parfois subbulbeux, souvent courbe, cartilagineux, creux, pruineux puis glabre, lisse, souvent luisant, jaunâtre vers l'apex, brun foncé à brun rougeâtre vers la base, tomenteux fauve brillant, orangé à rouille à la base, 10-50 x 1-3 mm
+  pied: 10-50 x 1-3 mm, cylindrique, légèrement élargi vers la base, parfois subbulbeux, souvent courbe, cartilagineux, creux, pruineux puis glabre, lisse, souvent luisant, jaunâtre vers l'apex, brun foncé à brun rougeâtre vers la base, tomenteux fauve brillant, orangé à rouille à la base
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis

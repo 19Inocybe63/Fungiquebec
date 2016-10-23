@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: large, convexe 50-100 mm Ø, à contour irrégulier, devenant globalement convexe, avec  une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuses, également vermillon rouge à baie, ou à des moments orange, violette instantanément sombre au touché, la surface souvent grêlé
+  chapeau: 50-100 mm Ø, large, convexe à contour irrégulier, devenant globalement convexe, avec  une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuses, également vermillon rouge à baie, ou à des moments orange, violette instantanément sombre au touché, la surface souvent grêlé
   cheilocystides: abondantes, polymorphes, parfois saillantes, cylindriques, fusiformes simples à fusiformes à long col, lagéniformes, flexueuses, dont l’apex de plusieurs est biseauté 21,6 [34; 51] 63,5 x 3,7 [5,8; 8,7] 10,7 µm
   cheilomacrocystides: 
   chlamydospores: 
@@ -201,7 +201,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: long, 15-23 x 4-9 mm Ø, solide, égale, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, la surface revêtue sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracée globale, pas du tout réticulaire
+  pied: 15-23 x 4-9 mm Ø, long, solide, égale, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, la surface revêtue sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracée globale, pas du tout réticulaire
   pieds-steriles: 
   pigments: 
   pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droits, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures

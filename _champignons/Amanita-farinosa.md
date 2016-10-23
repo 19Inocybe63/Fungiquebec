@@ -61,7 +61,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: hémisphérique au début, devenant convexe à presque étalé, sec, gris, couvert à la surface d’une couche poudreuse de restes vélaires brun grisâtre, glabre, 25-65 mm Ø
+  chapeau: 25-65 mm Ø, hémisphérique au début, devenant convexe à presque étalé, sec, gris, couvert à la surface d’une couche poudreuse de restes vélaires brun grisâtre, glabre
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -194,7 +194,7 @@ description:
   peritheces: 
   phenologie: début du printemps à fin de l'automne
   phialoconidies: 
-  pied: cylindrique plus ou moins égale, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité, 30-90 x 3-10 mm Ø
+  pied: 30-90 x 3-10 mm Ø, cylindrique plus ou moins égale, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis et parfois en ixocutis, formé d’hyphes de 2-8 μm Ø

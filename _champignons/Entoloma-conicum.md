@@ -200,7 +200,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 50-65 x 1-3 mm, cylindrique, élancé, égal, creux, lisse, avec fibrilles argentées fugaces, vite glabre sauf l'apex, brun à gris, parfois avec mycélium basal
+  pied: 50-65 x 1-3 mm Ø, cylindrique, élancé, égal, creux, lisse, avec fibrilles argentées fugaces, vite glabre sauf l'apex, brun à gris, parfois avec mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: 

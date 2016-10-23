@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à utriformes, tétrastérigmates
+  basidiospores: |
+    globuleuses à subglobuleuses vue de front, subglobuleuses à largement elliptiques vue de profil, finement à moyennement verruqueuses, finement et partiellement réticulées, avec des proéminences entre 0,1-0,4 µm de hauteur, à paroi mince, pore germinatif parfois observable ± 1 µm Ø, plage hilaire lisse et amyloïde, avec appendice hilaire visible, à contenu uniguttulé, hyaline dans le NaCl iso, amyloïdes
+    (6,6) 7,4-8,5 (8,7) x (5,6) 5,9-7 (7,1) µm
+    Q = (1,1) 1,2 - 1,3 (1,5); N = 30
+    Me = 7,9 x 6,4 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -60,7 +64,7 @@ description:
   chair: ferme, même très dure, épaisse, cassante, blanche, rougeâtre-grisâtre et noircissant à la coupe
   chancre: 
   chapeau: convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement, 60-100 mm Ø
-  cheilocystides: 
+  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, Sulfoaldéhydes positifs (SA+), 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -199,11 +203,11 @@ description:
   pied: court, robuste, plein, blanc qui se tache de noir au froissement, 30-40 x 20-25 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis avec de nombreuses hyphes vacuolaires
   pileitrame: 
-  pileocystides: 
+  pileocystides: absentes
   plasmode: 
-  pleurocystides: 
+  pleurocystides: nombreuses, semblable au 1er types des cheilocystides, Sulfoaldéhydes positifs (SA+)
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -222,7 +226,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1 : les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2 : les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3 : les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les 
+acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4 : la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5 : les Russula, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: FeSO4 = L rosé; S nul
   receptacle: 
   remarques: Lors de la coupe, la chair est blanche, devient rougeâtre-grisâtre sale, puis noircit.

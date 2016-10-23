@@ -60,7 +60,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, cassante, blanche, grisonnant puis noircissant à la coupe ou au grattage
   chancre: 
-  chapeau: convexe puis étalé-déprimé, infundibuliforme à maturité, ferme, glabre, mat, blanchâtre au début, puis brun grisâtre ou noirâtre, finalement entièrement noir, à marge unie 22 x 42 mm Ø
+  chapeau: 22 x 42 mm Ø, convexe puis étalé-déprimé, infundibuliforme à maturité, ferme, glabre, mat, blanchâtre au début, puis brun grisâtre ou noirâtre, finalement entièrement noir, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -197,7 +197,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: subégal, dur, glabre, blanc, devenant grisâtre ou gris brunâtre au froissement, 19-29 x 7-11 mm Ø
+  pied: 19-29 x 7-11 mm Ø, subégal, dur, glabre, blanc, devenant grisâtre ou gris brunâtre au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 

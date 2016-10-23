@@ -28,7 +28,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Gilliam, Martina S. The genus Marasmius in the Northeastern United States and adjacent Canada, Mycotaxon, vol. IV, No. 1, pp. 1-144, July-Sep., 1976, 73 p.
   ascome: 
   ascospores: 
   asques: 
@@ -221,7 +222,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Noordeloos, Machiel E. Marasmius: Key to the sections in Europe.
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 

@@ -39,7 +39,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrastérigmates jusqu'à 10 µm de longueur, non bouclées à la base 55-60 x 14-15 µm en moyenne
   basidiospores: |
-    globuleuses à subglobuleuses, échinulées-subréticulées à crêtées-subréticulées, avec des proéminences jusqu’à 1,76 µm de hauteur, à paroi mince, avec appendice hilaire, hyalines dans le NaCl iso, amyloïdes
+    globuleuses à subglobuleuses, échinulées-subréticulées à crêtées-subréticulées, avec des proéminences jusqu’à 1,7 µm de hauteur, à paroi mince, avec appendice hilaire, hyalines dans le NaCl iso, amyloïdes
     8,4 [9; 9,3] 9,8 x 8 [8,7; 9] 9,7 µm
     Q = 1 [1,0] 1,1; N = 30; C = 95%
     Me = 9,1 x 8,8 µm; Qe = 1

@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur débris ligneux de feuillus et de conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -194,7 +194,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 16-63 x 2-6 mm Ø, cylindrique, centré, égal à légèrement élargi vers l'apex, comprimé, droit ou courbe, souvent flexueux, rigide, creux, sec, glabre, brillant, opaque, entièrement rose modéré ou foncé, rouge grisâtre, rose jaunâtre-grisâtre ou brun jaunâtre pâle au début et plus tard à l'apex seulement, devenant jaune grisâtre, jaune orangé foncé, brun jaunâtre pâle, brun rougeâtre modéré ou foncé ou brun noirâtre vers la base, progressivement pus foncé depuis la base, avec mycélium basal feutré, blanc ou parfois blanc grisâtre, s'étendant rarement autour du substrat, sans rhizomorphes
   pieds-steriles: 
@@ -225,7 +225,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Le pied pourpré dans le haut est représentatif de l'espèce.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

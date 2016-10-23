@@ -62,7 +62,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, immuable, blanche grisâtre
   chancre: 
-  chapeau: ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge dont elle porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement blanc à crème, jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après expansion
+  chapeau: jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après expansion, ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge dont elle porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement blanc à crème
   cheilocystides: cylindriques à subcapitées 70 × 15 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -198,7 +198,7 @@ description:
   peritheces: 
   phenologie: du printemps à l'automne
   phialoconidies: 
-  pied: cylindrique, égal, fragile, creux, lisse à pubescent, blanc à blanc grisâtre, souvent légèrement vitreux, 15-40 (60) x 1-3 mm Ø
+  pied: 15-40 (60) x 1-3 mm Ø, cylindrique, égal, fragile, creux, lisse à pubescent, blanc à blanc grisâtre, souvent légèrement vitreux
   pieds-steriles: 
   pigments: 
   pileipellis: en épithélium

@@ -1,6 +1,6 @@
 ---
 nom: Helvella corium
-date: 2016-10-15 00:00:00
+date: 2016-10-23 00:00:00
 image: https://c2.staticflickr.com/6/5624/20562876582_8477cf6fba_n.jpg
 album-flickr: 72157674971769076
 planches:
@@ -233,6 +233,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
   remarques: Ascospores finement rugueuses au microscope à balayage électronique, (Scanning electron microscope (SEM))

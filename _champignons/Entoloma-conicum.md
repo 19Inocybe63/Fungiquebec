@@ -37,8 +37,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, non bouclées à la base,
+26,2 [32,1; 39,3] 45,2 x 8,1 [8,6; 9,2] 9,7 µm
+  basidiospores: |
+    hétérodiamétriques à prédominance de 5 angles rarement 6 angles, à très rarement cubique à subcubiques, lisses, à paroi mince, avec appendice hilaire, à contenu dominant uniguttulé à occasionnellement biguttulé, hyalines à verdâtres dans le NaCl iso, inactives dans le melzer, non cyanophiles
+    7,7 [8,7; 9,1] 10,1 x 5,6 [6,5; 6,9] 7,7 µm
+    Q = 1,1 [1,3; 1,4] 1,5; N = 30; C = 95%
+    Me = 8,9 x 6,7 µm; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -60,7 +65,7 @@ description:
   chair: mince, brunâtre
   chancre: 
   chapeau: 19 mm Ø, conique-campanulé puis étalé, papillé, subfibrilleux puis glabre, zoné et canescent, gris-brun foncé à brun, crème grisâtre pâle et luisant au sec, à cuticule dépassant les lames au pourtour
-  cheilocystides: 
+  cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -201,9 +206,9 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: 
+  pileocystides: rares
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

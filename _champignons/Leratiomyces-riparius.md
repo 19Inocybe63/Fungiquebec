@@ -223,7 +223,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: Espèce cueilie et étudiée pour la première fois dans un parc urbain de Québec en août 2012
+  premiere-mention: Espèce cueillie et étudiée pour la première fois au Québec
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

@@ -62,7 +62,7 @@ description:
   cellules-stromatiques: 
   chair: plus épaisse au centre, amincie vers la marge, sans couche gélatinisée, blanche
   chancre: 
-  chapeau: campanulé-convexe puis conchoïde, réniforme à étalé, velouté-feutré depuis une zone médiane au point d'attache, blanc, à marge longtemps enroulée, lobée, 18 mm Ø
+  chapeau: 18 mm Ø, campanulé-convexe puis conchoïde, réniforme à étalé, velouté-feutré depuis une zone médiane au point d'attache, blanc, à marge longtemps enroulée, lobée
   cheilocystides: subcylindriques, fourchues, contournées, en bois de cerf
   cheilomacrocystides: 
   chlamydospores: 

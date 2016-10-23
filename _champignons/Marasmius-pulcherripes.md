@@ -227,7 +227,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Le pied pourpré dans le haut est une caratéristique de l'espèce.
+  remarques: Le pied pourpré à l'apex est une caratéristique de l'espèce.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

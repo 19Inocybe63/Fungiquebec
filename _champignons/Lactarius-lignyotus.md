@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères, en milieux humides
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: Ce champignon est un excellent comestible même à l'état cru. Cependant, avec les champignons sauvages, la prudence est toujours de mise !
   commentaires: 
   conidies: 
   conidiome: 
@@ -127,7 +127,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -168,7 +168,7 @@ description:
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: blanc, tachant la chair de rose orangé
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -194,7 +194,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: fin juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

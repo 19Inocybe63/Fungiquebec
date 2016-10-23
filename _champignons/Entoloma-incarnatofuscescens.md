@@ -222,8 +222,8 @@ description:
   poils-pileiques: 
   pores: 
   premiere-mention: |
-    Espèce cueillie et étudiée pour la première fois au Québec
     Collection Yves Lamoureux, 1905, Cercle des mycologues de Montréal (CMM).
+    Espèce cueillie et étudiée pour la deuxième fois au Québec (Entoloma cf. incarnatofuscescens_2012M_240)
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

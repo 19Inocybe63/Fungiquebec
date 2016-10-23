@@ -1,6 +1,6 @@
 ---
 nom: Xeromphalina kauffmanii
-date: 2016-10-13 00:00:00
+date: 2016-10-23 00:00:00
 image: https://c1.staticflickr.com/1/758/21351416242_15fbc668f7_n.jpg
 album-flickr: 72157675062059436
 planches:

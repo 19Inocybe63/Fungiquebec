@@ -1,6 +1,6 @@
 ---
 nom: Entoloma cf. incarnatofuscescens
-date: 2016-10-14 00:00:00
+date: 2016-10-23 00:00:00
 image: https://c2.staticflickr.com/8/7260/7808924042_8d013e0dc2_n.jpg
 album-flickr: 72157675189299225
 planches:

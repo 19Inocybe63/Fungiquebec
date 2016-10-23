@@ -57,9 +57,10 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, même très dure, épaisse, cassante, blanche, rougeâtre-grisâtre et noircissant à la coupe
   chancre: 
-  chapeau: 
+  chapeau: convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement, 60-100 mm Ø;
+Lames blanchâtres, très serrées, avec lamelles et lamellules abondantes, se tachent de noir au froissement
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -118,8 +119,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: florale
+  exhalaison-des-lames: raphanoïde
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -196,7 +197,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: court, robuste, plein, blanc qui se tache de noir au froissement, 30-40 x 20-25 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -223,18 +224,18 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: FeSO4 = L rosé; S nul
   receptacle: 
-  remarques: 
+  remarques: Lors de la coupe, la chair est blanche, devient rougeâtre-grisâtre sale, puis noircit.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: raphanoïde et devenant lentement acre
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: Leucosporée Ib d'après la charte de couleur de Sarnari/Romagnesi; B d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

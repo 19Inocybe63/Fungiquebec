@@ -45,7 +45,7 @@ description:
     Me = 6,1 × 5,6 µm ; Qe = 1,1
     (formule classique)
   basidioles: 
-  basidiome: clavulé, cylindrique, rarement ramifié une ou deux fois vers l'apex, souvent ± aplati, avec axe luné ou en croissant, plein puis creux, aigu à étroitement arrondi à l'apex, rarement trapu à tronqué, jaune brillant, jaune citron à orangé vif, souvent plus foncé vers l'apex, brunâtre à rougeâtre, surtout avec l'âge, 60-120 (150) mm de hauteur, 2-10 mm de largeur
+  basidiome: 60-120 (150) mm de hauteur, 2-10 mm de largeur, clavulé, cylindrique, rarement ramifié une ou deux fois vers l'apex, souvent ± aplati, avec axe luné ou en croissant, plein puis creux, aigu à étroitement arrondi à l'apex, rarement trapu à tronqué, jaune brillant, jaune citron à orangé vif, souvent plus foncé vers l'apex, brunâtre à rougeâtre, surtout avec l'âge
   bibliographies: 
   biotopes: pousse au sol des forêts mixtes
   boucles: 

@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: assez élastique, cassante, blanche
   chancre: 
-  chapeau: 
+  chapeau: 20-80 mm Ø, convexe, souvent papillé, puis étalé-déprimé, sec, velouté, brun noirâtre à brun jaunâtre
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées puis subdécurrentes, subespacées, blanches puis ochracées, à arêtes blanchâtres à brun-noir
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: fin juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 40-120 x 5-10 mm Ø, subégal à élargi vers la base ou parfois au milieu, légèrement comprimé au centre avec l'âge, plein puis farci, sec, velouté, souvent fortement plissé vers l'apex et avec fins sillons longitudinaux, concolore au chapeau ou plus pâle, blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -229,12 +229,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: ocrée
   spores: 
   spherocytes: 
   sporocystes: 

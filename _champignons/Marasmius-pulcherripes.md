@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: très mince, fragile, blanche
   chancre: 
-  chapeau: 
+  chapeau: 3-20 mm Ø, conique-obtus à campanulé à conique-convexe à campanulé jeune, papillé à omboné, largement convexe-omboné, étalé-omboné à convexe-étalée, membraneux, délicat, sec, finement granuleux-rugueux, vite strié, finement velouté, rose jaunâtre modéré ou foncé, orange rougeâtre-grisâtre, orange brunâtre, souvent plus foncé au disque, à marge droite ou non, entière à crénelée
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -117,7 +117,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées ou libres, rarement avec un collarium, espacées, blanche ou rosâtres, mince, non fourchues ni interveinées  souvent rose jaunâtre pâle ou gris rosâtre au début, vite blanches ou presque, à arêtes entières ou parfois serrulées à dentées, parfois finement tachées de brun
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 16-63 x 2-6 mm Ø, cylindrique, centré, égal à légèrement élargi vers l'apex, comprimé, droit ou courbe, souvent flexueux, rigide, creux, sec, glabre, brillant, opaque, entièrement rose modéré ou foncé, rouge grisâtre, rose jaunâtre-grisâtre ou brun jaunâtre pâle au début et plus tard à l'apex seulement, devenant jaune grisâtre, jaune orangé foncé, brun jaunâtre pâle, brun rougeâtre modéré ou foncé ou brun noirâtre vers la base, progressivement pus foncé depuis la base, avec mycélium basal feutré, blanc ou parfois blanc grisâtre, s'étendant rarement autour du substrat, sans rhizomorphes
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -229,12 +229,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte, rarement raphanoïde à amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

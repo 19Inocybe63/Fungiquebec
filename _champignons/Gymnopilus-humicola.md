@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, immuable, 
   chancre: 
-  chapeau:  hémisphérique, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
+  chapeau: 14-49 mm Ø, hémisphérique, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
   cheilocystides: nombreuses en palissade, capitées à subcapitées (en forme de tibia) 23,7 [29,4; 32,6] 38,3 x 4,2 [5; 5,4] 6,2 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -197,7 +197,7 @@ description:
   peritheces: 
   phenologie: juin
   phialoconidies: 
-  pied: cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au chapeau, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc
+  pied: 27-50 × 4-9 mm Ø, cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au chapeau, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis avec pigments pariétal et extrahyphique

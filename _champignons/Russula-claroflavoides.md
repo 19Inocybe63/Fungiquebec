@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: friable, blanche
   chancre: 
-  chapeau: convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon, non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge, 54 mm Ø
+  chapeau: 54 mm Ø, convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon, non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge
   cheilocystides: peu abondantes et non proéminentes, cylindriques, Sulfobenzaldéhyde négatif (SBA-)
   cheilomacrocystides: 
   chlamydospores: 
@@ -199,7 +199,7 @@ description:
   peritheces: 
   phenologie: août
   phialoconidies: 
-  pied: cylindique à subclaviforme, 52 x 12 mm Ø, farci, blanc, rougissant puis grisonnant au grattage
+  pied: 52 x 12 mm Ø, cylindique à subclaviforme, farci, blanc, rougissant puis grisonnant au grattage
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis

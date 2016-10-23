@@ -221,7 +221,9 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: Collection Yves Lamoureux, 1905, Cercle des mycologues de Montréal (CMM).
+  premiere-mention: |
+    Espèce cueillie et étudiée pour la première fois au Québec
+    Collection Yves Lamoureux, 1905, Cercle des mycologues de Montréal (CMM).
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

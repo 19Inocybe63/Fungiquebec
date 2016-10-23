@@ -59,8 +59,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, même très dure, épaisse, cassante, blanche, rougeâtre-grisâtre et noircissant à la coupe
   chancre: 
-  chapeau: convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement, 60-100 mm Ø;
-Lames blanchâtres, très serrées, avec lamelles et lamellules abondantes, se tachent de noir au froissement
+  chapeau: convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement, 60-100 mm Ø
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -164,7 +163,7 @@ Lames blanchâtres, très serrées, avec lamelles et lamellules abondantes, se t
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: blanchâtres, très serrées, avec lamelles et lamellules abondantes, se tachent de noir au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

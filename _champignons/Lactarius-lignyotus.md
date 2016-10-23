@@ -234,7 +234,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrée
+  sporee: blanc crème au jaune orangé
   spores: 
   spherocytes: 
   sporocystes: 

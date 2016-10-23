@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur bois pourri ou débris ligneux des forêts, en milieux souvent humides
+  biotopes: pousse sur bois pourri et moussu de feuillu (Betula)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, brunâtre
   chancre: 
-  chapeau: 
+  chapeau: 19 mm Ø, conique-campanulé puis étalé, papillé, subfibrilleux puis glabre, zoné et canescent, gris-brun foncé à brun, crème grisâtre pâle et luisant au sec, à cuticule dépassant les lames au pourtour
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -117,7 +117,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, serrées, grisâtre-brunâtre pâle, blanchâtres puis rosées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 50-65 x 1-3 mm, cylindrique, élancé, égal, creux, lisse, avec fibrilles argentées fugaces, vite glabre sauf l'apex, brun à gris, parfois avec mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -229,12 +229,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: rose brunâtre
   spores: 
   spherocytes: 
   sporocystes: 

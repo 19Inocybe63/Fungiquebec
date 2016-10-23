@@ -37,8 +37,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base,
-26,2 [32,1; 39,3] 45,2 x 8,1 [8,6; 9,2] 9,7 µm
+  basides: claviformes, tétrastérigmates, non bouclées à la base, 26,2 [32,1; 39,3] 45,2 x 8,1 [8,6; 9,2] 9,7 µm
   basidiospores: |
     hétérodiamétriques à prédominance de 5 angles rarement 6 angles, à très rarement cubique à subcubiques, lisses, à paroi mince, avec appendice hilaire, à contenu dominant uniguttulé à occasionnellement biguttulé, hyalines à verdâtres dans le NaCl iso, inactives dans le melzer, non cyanophiles
     7,7 [8,7; 9,1] 10,1 x 5,6 [6,5; 6,9] 7,7 µm

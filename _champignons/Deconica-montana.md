@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: mince, assez fragile
   chancre: 
-  chapeau: hémisphérique, convexe à subcampanulé, parfois légèrement omboné, glabre, parfois fibrilleux vers la marge, lisse, hygrophane, luisant, brun rougeâtre à marron à l'humidité et ochracé terne à chamois au sec ou couleur isabelle au centre et couleur isabelle ombré vers le pourtour, à marge enroulée au début, puis droite, striée-sillonnée à l'humidité, 4-12 mm Ø
+  chapeau: 4-12 mm Ø, hémisphérique, convexe à subcampanulé, parfois légèrement omboné, glabre, parfois fibrilleux vers la marge, lisse, hygrophane, luisant, brun rougeâtre à marron à l'humidité et ochracé terne à chamois au sec ou couleur isabelle au centre et couleur isabelle ombré vers le pourtour, à marge enroulée au début, puis droite, striée-sillonnée à l'humidité
   cheilocystides: abondantes, lagéniformes à claviformes
   cheilomacrocystides: 
   chlamydospores: 
@@ -199,7 +199,7 @@ description:
   peritheces: 
   phenologie: le printemps et l'été
   phialoconidies: 
-  pied: élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau, brun marron à ochracé, 20-50 x 1-2 mm
+  pied: 20-50 x 1-2 mm, élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau, brun marron à ochracé
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis

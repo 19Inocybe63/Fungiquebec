@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à jaunâtre, immuable ou devenant lentement bleu-vert à la coupe, surtout au-dessus de la couche de tubes
   chancre: 
-  chapeau: convexe quand il est jeune, puis étalé à concave à maturité, sec à viscidule, glabre ou presque, brun rougeâtre, brun jaunâtre ou brun olivâtre, à marge incurvée puis souvent ondulée ou gondolent, avec bande étroite de tissu stérile, 50-200 mm Ø
+  chapeau: 50-200 mm Ø, convexe quand il est jeune, puis étalé à concave à maturité, sec à viscidule, glabre ou presque, brun rougeâtre, brun jaunâtre ou brun olivâtre, à marge incurvée puis souvent ondulée ou gondolent, avec bande étroite de tissu stérile
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -202,7 +202,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: souvent excentré à latéral, court, subégal, souvent courbe, plein, jaune vers l'apex, brun vers la base, arrivant de nombreux sclérotes, 20-45 x 5-25 mm Ø
+  pied: 20-45 x 5-25 mm Ø, souvent excentré à latéral, court, subégal, souvent courbe, plein, jaune vers l'apex, brun vers la base, arrivant de nombreux sclérotes
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis avec des hyphes pigmentées, emmêlées et émergentes 3-10 µm de largeur

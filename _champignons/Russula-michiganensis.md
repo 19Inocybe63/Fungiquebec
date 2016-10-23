@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, même très dure, épaisse, cassante, blanche, rougeâtre-grisâtre et noircissant à la coupe
   chancre: 
-  chapeau: convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement, 60-100 mm Ø
+  chapeau: 60-100 mm Ø, convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement
   cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, Sulfoaldéhydes positifs (SA+), 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
   cheilomacrocystides: 
   chlamydospores: 
@@ -200,7 +200,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: court, robuste, plein, blanc qui se tache de noir au froissement, 30-40 x 20-25 mm Ø
+  pied: 30-40 x 20-25 mm Ø, court, robuste, plein, blanc qui se tache de noir au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis avec de nombreuses hyphes vacuolaires

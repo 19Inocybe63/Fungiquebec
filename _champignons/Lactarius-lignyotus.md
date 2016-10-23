@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates jusqu'à 10 µm de longueur, non bouclées à la base 55-60 x 14-15 µm en moyenne
+  basidiospores: |
+    globuleuses à subglobuleuses, échinulées-subréticulées à crêtées-subréticulées, avec des proéminences jusqu’à 1,76 µm de hauteur, à paroi mince, avec appendice hilaire, hyalines dans le NaCl iso, amyloïdes
+    8,4 [9; 9,3] 9,8 x 8 [8,7; 9] 9,7 µm
+    Q = 1 [1,0] 1,1; N = 30; C = 95%
+    Me = 9,1 x 8,8 µm; Qe = 1
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -49,7 +53,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: abondantes cylindriques à flexueuses, 50-70 x 3-5 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +64,7 @@ description:
   chair: assez élastique, cassante, blanche
   chancre: 
   chapeau: 20-80 mm Ø, convexe, souvent papillé, puis étalé-déprimé, sec, velouté, brun noirâtre à brun jaunâtre
-  cheilocystides: 
+  cheilocystides: abondantes, cylindriques à flexueuses
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -199,11 +203,11 @@ description:
   pied: 40-120 x 5-10 mm Ø, subégal à élargi vers la base ou parfois au milieu, légèrement comprimé au centre avec l'âge, plein puis farci, sec, velouté, souvent fortement plissé vers l'apex et avec fins sillons longitudinaux, concolore au chapeau ou plus pâle, blanc à la base
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: de type virescens
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: moins abondantes, semblables aux cheilocystides
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -225,7 +229,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Habituellement, la description du pileipellis indique que ce dernier est en épithélium avec hyphes terminales cylindriques ; mais après observation, ce n’est pas vraiment le cas.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

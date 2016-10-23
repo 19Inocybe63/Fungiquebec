@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: mince, blanche
   chancre: 
-  chapeau: obtus à convexe puis largement convexe à étalé, souvent légèrement omboné, sec à humide, lisse à souvent plissé au centre, hygrophane, brun foncé, jaune ocre, cannelle jaunâtre à jaune-brun foncé au début, puis beige brunâtre, tan jaunâtre à tan avec l'âge, chamois pâle au sec, à marge unie, opaque, souvent appendiculée de restes vélaires, 30-70 (100) mm Ø
+  chapeau: 30-70 (100) mm Ø, obtus à convexe puis largement convexe à étalé, souvent légèrement omboné, sec à humide, lisse à souvent plissé au centre, hygrophane, brun foncé, jaune ocre, cannelle jaunâtre à jaune-brun foncé au début, puis beige brunâtre, tan jaunâtre à tan avec l'âge, chamois pâle au sec, à marge unie, opaque, souvent appendiculée de restes vélaires
   cheilocystides: semblable aux pleurocystides, mais plus petites 43,3 [46; 53,4] 56,1 x 17,6 [18,8; 22] 23,2 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -200,7 +200,7 @@ description:
   peritheces: 
   phenologie: fin mai à septembre
   phialoconidies: 
-  pied: subégal à légèrement élargi vers la base, fibreux, creux, strié-fibrilleux et pâle vers l'apex, blanchâtre à chamois pâle, puis grisâtre foncé, brun noirâtre pâle depuis la base, avec rhizomorphes basaux blancs, 50-100 (125) x 4-10 (20) mm Ø
+  pied: 50-100 (125) x 4-10 (20) mm Ø, subégal à légèrement élargi vers la base, fibreux, creux, strié-fibrilleux et pâle vers l'apex, blanchâtre à chamois pâle, puis grisâtre foncé, brun noirâtre pâle depuis la base, avec rhizomorphes basaux blancs
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme

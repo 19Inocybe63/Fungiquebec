@@ -238,7 +238,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4 : la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
-  remarques: Des études d'ADN seront réalisées prochainement par Henry Beker sur mes trois collections ; résultats en attente.
+  remarques: Des études d'ADN seront réalisées prochainement par Henry Beker sur mes trois collections ; résultats en attente. Détermination provisoire par Henry J. Beker.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

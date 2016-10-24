@@ -228,6 +228,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
+    Beker, H. J., Eberhardt, U., Vesterholt, J. Hebeloma (Fr.) P. Kumm. Fungi Europaei vol. 14, Ed. Candusso Edizioni, 2016.
     Smith, Alexander H., Evenson, Vera Stuck, Mitchel, Duane H. The Veiled Species of Hebeloma in the Western United States, Ann Arbor the University of Michigan Press, 1983, 228 p.
     Vesterholt, Jan. The genus Hebeloma, Fungi of Northern Europe, vol. 3, Danish Mycological Society, 2005, p. 76 p.
   publications-microscopiques: |

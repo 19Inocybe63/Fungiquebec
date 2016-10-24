@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: mince, blanchâtre, souvent aqueuse
   chancre: 
-  chapeau: convexe puis étalé, collant à visqueux, lisse, orange brunâtre à brun jaunâtre, plus foncé vers le centre, à marge parfois translucide-striée, 20-60 mm Ø
+  chapeau: 20-60 mm Ø, convexe puis étalé, collant à visqueux, lisse, orange brunâtre à brun jaunâtre, plus foncé vers le centre, à marge parfois translucide-striée
   cheilocystides: polymorphes, abondantes, lagéniformes à fusiformes, 29-39 x 7-10 µm, lagéniformes à apex étroit, 33 x 9 µm, parfois largement fusiformes, 41-52 x 13-17 µm, rarement utriformes, 43 x 10-11 µm, rarement étroitement utriformes, 58 x 18-19 µm
   cheilomacrocystides: 
   chlamydospores: 
@@ -199,7 +199,7 @@ description:
   peritheces: 
   phenologie: du printemps à l'automne
   phialoconidies: 
-  pied: égal, tenace, velouté, souvent strié, crème au début, puis brun rougeâtre foncé depuis la base, parfois noir à maturité, 30-70 x 3-8 mm Ø
+  pied: 30-70 x 3-8 mm Ø, égal, tenace, velouté, souvent strié, crème au début, puis brun rougeâtre foncé depuis la base, parfois noir à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: en ixotrichoderme

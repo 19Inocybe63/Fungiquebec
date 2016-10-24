@@ -69,7 +69,6 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: non comestible, éviter, dangereux
   commentaires: 
   conidies: 
   conidiome: 

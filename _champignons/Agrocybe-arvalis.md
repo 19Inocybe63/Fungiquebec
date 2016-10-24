@@ -74,7 +74,6 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: non comestible du fait de sa grande amertume
   commentaires: 
   conidies: 
   conidiome: 

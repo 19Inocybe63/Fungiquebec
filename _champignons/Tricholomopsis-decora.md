@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse au disque, mince vers la marge, ferme puis flaccide, jaune
   chancre: 
-  chapeau: 
+  chapeau: 30-80 mm Ø, conique-convexe puis convexe à étalé, subomboné, déprimé au centre, avec fines écailles fibrilleuses brun foncé, brun noirâtre à brun olive, disposées concentriquement et surtout au centre, sur fond jaune à jaune doré foncé, à marge incurvée au début
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -117,7 +117,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -163,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, adnexées, larges, avec lammeles et lamellules, serrées à très serrées, jaunes à jaune doré, à arêtes entières ou devenant légèrement crénelées, parfois brunes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -196,7 +196,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 20-70 x 3-10 mm Ø, cylindrique, parfois excentré, parfois flexueux, plein puis creux, fibrilleux à squamuleux, jaune pâle, jaune à jaune soufre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -229,12 +229,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce à amarescente
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

@@ -28,7 +28,8 @@ description:
   apothecie: 
   arete-lamellaire: fertile
   arthroconidies: 
-  articles: 
+  articles: |
+    Eberhardt, Ursula., Beker, Henry J., Vesterholt, Jan., Schütz, Nicole. The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. And five new species, Fungal Biology 120 (2016) 72-103, 32 p.
   ascome: 
   ascospores: 
   asques: 

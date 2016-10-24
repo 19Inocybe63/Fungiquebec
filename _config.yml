@@ -1,14 +1,14 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Fungi Québec
-description: "Fungi Québec est le travail mycologique de Claude Kaufholtz-Couture."
+title: Fungiquebec
+description: "Fungiquebec est le travail mycologique et micrographique de Claude Kaufholtz-Couture."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://www.fungiquebec.ca"
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Ce site liste le travail mycologique de Claude Kaufholtz-Couture."
+about: "Ce site liste les études mycologiques de Claude Kaufholtz-Couture."
 email: kaufholtzcoutureclaude@gmail.com
 
 # Build settings

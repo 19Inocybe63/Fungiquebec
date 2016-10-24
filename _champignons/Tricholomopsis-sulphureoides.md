@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune pâle, immuable
   chancre: 
-  chapeau: convexe-campanulé, légèrement déprimé, mamelonné-ombonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche, comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé, 11-55 mm Ø
+  chapeau: 11-55 mm Ø, convexe-campanulé, légèrement déprimé, mamelonné-ombonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche, comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: cylindrique, plein, courbé, concolore au chapeau, 21-55 x 2-7 mm Ø
+  pied: 21-55 x 2-7 mm Ø, cylindrique, plein, courbé, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 

@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre
   chancre: 
-  chapeau: convexe puis étalé, lisse, crème à jaunâtre, fauve au disque, orné de fibrilles blanches vers la marge, 20-50 mm Ø
+  chapeau: 20-50 mm Ø, convexe puis étalé, lisse, crème à jaunâtre, fauve au disque, orné de fibrilles blanches vers la marge
   cheilochrysocystides: absentes
   cheilocystides: 
   cheiloleptocystides: abondantes, cylindriques à étroitement clavées, avec parfois un apex subcapité 29 x 6 µm en moyenne
@@ -202,7 +202,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: cylindrique, égal, renflé et radicant à la base, parfois longuement, chiné ou squamuleux, avec pseudorhize bien développée, blanc vers l'apex, brun rouille vers la base, 60-120 x 4-8 mm Ø
+  pied: 60-120 x 4-8 mm Ø, cylindrique, égal, renflé et radicant à la base, parfois longuement, chiné ou squamuleux, avec pseudorhize bien développée, blanc vers l'apex, brun rouille vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis constitué d’un suprapellis entre 10-20 µm et un subpellis entre 40-50 µm

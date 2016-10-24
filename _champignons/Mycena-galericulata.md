@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, uniformément atténuée jusqu'à la marge, très cartilagineuse, gris aqueux puis pâle
   chancre: 
-  chapeau: conique-obtus puis largement campanulé-conique, viscidule, ± ruguleux radialement, d'apparence cartilagineuse, non hygrophane, gris foncé à brun grisâtre, légèrement brun chamois vers la marge, graduellement tan pâle à brun cannelle, à marge ± incurvée au début, légèrement translucide-striée, se fendant souvent radialement jusqu'au disque, 20-45 mm Ø
+  chapeau: 20-45 mm Ø, conique-obtus puis largement campanulé-conique, viscidule, ± ruguleux radialement, d'apparence cartilagineuse, non hygrophane, gris foncé à brun grisâtre, légèrement brun chamois vers la marge, graduellement tan pâle à brun cannelle, à marge ± incurvée au début, légèrement translucide-striée, se fendant souvent radialement jusqu'au disque
   cheilocystides: abondantes, courtement piriformes à longuement piriformes, claviformes, subutriformes, parfois avec des ramifications du milieu à la base de la cheilocystide, 28,8 [36,4; 40,3] 47,8 x 3,6 [11,3; 15,3] 23 µm, avec de nombreuses diverticules du centre vers l’apex entre 1,0-5,0 µm de longueur
   cheilomacrocystides: 
   chlamydospores: 
@@ -200,7 +200,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: cylindrique, égal, souvent longuement radicant, cartilagineux, creux, glabre, lisse ou strié-tordu, blanc grisâtre vers l'apex, fuligineux pâle vers la base, légèrement brunâtre à la base avec l'âge, ne tachant pas de rougeâtre, 45-90 (120) x 1-4 (6) mm Ø
+  pied: 45-90 (120) x 1-4 (6) mm Ø, cylindrique, égal, souvent longuement radicant, cartilagineux, creux, glabre, lisse ou strié-tordu, blanc grisâtre vers l'apex, fuligineux pâle vers la base, légèrement brunâtre à la base avec l'âge, ne tachant pas de rougeâtre
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'hyphes ± parallèles, non bouclées, diverticulées entre 1-3 µm de longueur

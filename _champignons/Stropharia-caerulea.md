@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: mince, bleuâtre au début, puis paille, bleu-vert vers la base du pied
   chancre: 
-  chapeau: Hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtre décoloré par endroit, muni de petites méchules blanches au pourtour, 20-70 mm Ø
+  chapeau: 20-70 mm Ø, hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtre décoloré par endroit, muni de petites méchules blanches au pourtour
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -199,7 +199,7 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: égal à légèrement élargi vers la base, ferme, fragile, plein lorsque jeune puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous, glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc, 4-11 x 3-15 mm Ø
+  pied: 4-11 x 3-15 mm Ø, égal à légèrement élargi vers la base, ferme, fragile, plein lorsque jeune puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous, glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis

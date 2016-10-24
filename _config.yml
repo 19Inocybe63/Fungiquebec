@@ -285,8 +285,6 @@ champs-description:
     label: Phénologie
   - name: frequence
     label: Fréquence
-  - name: comestibilite
-    label: Comestibilité
   - name: reactions-chimiques
     label: Réactions chimiques
   - name: articles

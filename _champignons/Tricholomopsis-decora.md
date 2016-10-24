@@ -8,7 +8,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157672076237783
 
 details:
-  nom-francais: 
+  nom-francais: Tricholome décoré
   autorites: (Fr.) Singer
   famille: Tricholomataceae
   genre: Tricholomopsis
@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur bois mort de conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: comestible, mais sans intérêt
   commentaires: 
   conidies: 
   conidiome: 
@@ -127,7 +127,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé, grégaire en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -194,7 +194,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

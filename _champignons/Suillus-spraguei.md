@@ -38,7 +38,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    cylindriques à elliptiques vue de profil à cylindriques à fusiformes à longuement elliptiques vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl iso, inactives dans le melzer, non cyanophiles
+    8,9 [9,6; 10] 10,7 x 3,6 [3,9; 4] 4,2 µm
+    Q = 2,3 [2,5] 2,7; N = 30; C = 95%
+    Me = 9,8 x 3,9 µm; Qe = 2,5
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -48,7 +52,7 @@ description:
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: 
+  caulobasides: cylindriques, à 2 stérigmates, non bouclées à la base, de 30,7 x 6,9 µm en moyenne
   caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
@@ -137,7 +141,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: du voile partiel, en saucisson, 42-100 x 2-6 µm
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -203,7 +207,7 @@ description:
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: abondantes, proéminentes, lagéniformes, assez souvent avec des incrustations, rarement capitées, 33,6 [41,7; 51,5] 59,7 x 7 [8,3; 9,9] 11,3 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

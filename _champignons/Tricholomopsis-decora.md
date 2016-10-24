@@ -26,7 +26,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: stérile
   arthroconidies: 
   articles: 
   ascome: 
@@ -37,19 +37,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: étroitement clavées à claviformes, parfois à contenu guttuleux, granulaires, à 1, 2, 3 ou 4 stérigmates, bouclées à la base, 22-39 x 6-7,5 µm
+  basidiospores: |
+    largement ellipsoïdes à ellipsoïdes, lisses, à paroi légèrement épaissie, de 05-06 µm, avec petit appendice hilaire, à contenu uniguttulé et à granulations, hyalines, verdâtres dans le NH4OH 2,5 %, inactives dans le Melzer, partiellement cyanophiles
+    5,5 [6,4; 7] 7,8 x 4,2 [4,9; 5,4] 6,2 µm
+    Q = 1,1 [1,2; 1,3] 1,5; N = 16; C = 95%
+    Me = 6,7 x 5,2 µm; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sur bois mort de conifères
-  boucles: 
+  boucles: présentes
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +64,7 @@ description:
   chair: épaisse au disque, mince vers la marge, ferme puis flaccide, jaune
   chancre: 
   chapeau: 30-80 mm Ø, conique-convexe puis convexe à étalé, subomboné, déprimé au centre, avec fines écailles fibrilleuses brun foncé, brun noirâtre à brun olive, disposées concentriquement et surtout au centre, sur fond jaune à jaune doré foncé, à marge incurvée au début
-  cheilocystides: 
+  cheilocystides: polymorphes abondantes en touffes, cylindriques à largement cylindriques, piriformes à largement clavées, sphéropédonculées, parfois subrostrées dont la base est plutôt cylindriques, parfois subfusiformes, parfois subcapitées, arête lamellaire stérile
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -199,11 +203,11 @@ description:
   pied: 20-70 x 3-10 mm Ø, cylindrique, parfois excentré, parfois flexueux, plein puis creux, fibrilleux à squamuleux, jaune pâle, jaune à jaune soufre
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, formé d'hyphes apprimées à légèrement emmêlées
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -258,7 +262,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle à subparallèle
   trame-tubulaire: 
   type: 
   typique: 

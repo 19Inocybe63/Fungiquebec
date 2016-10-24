@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous pin blanc, parfois parmi les sphaignes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: jaunâtre, brunâtre dans le pied, rougissant puis brunissant légèrement à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 30-100 mm Ø, convexe puis largement convexe à subétalé, parfois déprimé, sec, méchuleux, rouge vin, parfois noirâtre au pourtour, à marge souvent appendiculée de restes vélaires blanchâtres
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -67,7 +67,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -82,7 +82,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: souvent subdécurrente, non facilement détachable de la chair du chapeau, jaune ocré pâle, brunissant avec l'âge, 4-8 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -117,17 +117,17 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: jaune ocré pâle, brunissant avec l'âge et un peu au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -194,9 +194,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 40-100 x 8-20 mm Ø, égal à élargi vers la base, plein, chiné-fibrilleux, rouge vineux sur fond jaunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -215,13 +215,16 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: anguleux et un peu disposés radialement, larges, 3-5 mm de largeur
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
+    Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
@@ -229,12 +232,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brune
   spores: 
   spherocytes: 
   sporocystes: 
@@ -256,7 +259,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: blanchâtre ou rosé, fibrilleux-membraneux, laissant un petit anneau fibrilleux ou une zone annuliforme sur le pied
   volve: 
   zone-perihymeniale: 
 ---

@@ -72,7 +72,6 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: en mesure de causer des troubles digestifs importants
   commentaires: 
   conidies: 
   conidiome: 

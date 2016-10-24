@@ -65,7 +65,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, immuable, blanche
   chancre: 
-  chapeau: hémisphérique au début à conique-campanulé, puis campanulé convexe à plan à maturité, collant, terne et fibrilleux lorsqu'il est sec, non distinctement hygrophane, appendiculée de reste vélaire, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracée, jaune à orange ochracée, 17,5-49,3 mm Ø
+  chapeau: 17,5-49,3 mm Ø, hémisphérique au début à conique-campanulé, puis campanulé convexe à plan à maturité, collant, terne et fibrilleux lorsqu'il est sec, non distinctement hygrophane, appendiculée de reste vélaire, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracée, jaune à orange ochracée
   cheilocystides: 
   cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capité 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
   cheilomacrocystides: 
@@ -202,7 +202,7 @@ description:
   peritheces: 
   phenologie: mai à août
   phialoconidies: 
-  pied: cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre, 41-70 x 3-7,3 mm Ø
+  pied: 41-70 x 3-7,3 mm Ø, cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en deux couches = suprapellis entre ± 50-150 µm d’épaisseur en ixocutis disposé radialement, et un subpellis compact, composé de cellules globuleuses à subglobuleuses et d'hyphes allongées 20 [26,6; 32,7] 39,3 x 8,9 [13,5; 17,8] 22,4 µm

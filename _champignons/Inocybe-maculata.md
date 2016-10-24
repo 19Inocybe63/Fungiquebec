@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, immuable, blanche
   chancre: 
-  chapeau: campanulé, mamelonné, fibrilleux, brun tan, avec centre plus foncé, dont la marge est unie se fendillant avec l’âge, 45-51 mm Ø
+  chapeau: 45-51 mm Ø, campanulé, mamelonné, fibrilleux, brun tan, avec centre plus foncé, dont la marge est unie se fendillant avec l’âge
   cheilocystides: abondantes, parfois en faisceaux, subutriformes au sens de Romagnesi, piriformes à clavées et largement clavées, cylindriques, 43-59 x 11-18 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -202,7 +202,7 @@ description:
   peritheces: 
   phenologie: de août à septembre (octobre)
   phialoconidies: 
-  pied: cylindrique, plein, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe/racines, 66 x 7-10 mm Ø
+  pied: 66 x 7-10 mm Ø, cylindrique, plein, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe/racines
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis

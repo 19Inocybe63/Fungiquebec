@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur pelouse, sous feuillus (Quercus)
   boucles: observées dans le médiostrate
   brachybasidioles: 
   calicule: 

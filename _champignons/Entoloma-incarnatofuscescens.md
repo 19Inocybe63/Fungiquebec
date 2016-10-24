@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: omphalinoïd, strié, ombiliqué, sec, fibrilleux, violet, 7 mm Ø
+  chapeau: 7 mm Ø, omphalinoïd, strié, ombiliqué, sec, fibrilleux, violet
   cheilocystides: cylindriques, en éperons à mucronées
   cheilomacrocystides: 
   chlamydospores: 
@@ -201,7 +201,7 @@ description:
   peritheces: 
   phenologie: août
   phialoconidies: 
-  pied: cylindrique, égal, légèrement plus pâle à l'apex, concolore au chapeau, glabre, avec bulbe blanchâtre à la base, 20-30 x 1-2 mm Ø
+  pied: 20-30 x 1-2 mm Ø, cylindrique, égal, légèrement plus pâle à l'apex, concolore au chapeau, glabre, avec bulbe blanchâtre à la base
   pieds-steriles: 
   pigments: 
   pileipellis: avec hyphes ascendant en trichoderme

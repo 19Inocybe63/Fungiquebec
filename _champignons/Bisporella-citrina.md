@@ -25,13 +25,17 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: jusqu'à 1 mm de hauteur, 1-3 mm de diam., globuleuse et fermée au début, puis cupuliforme, allantoïde ou étalée et convexe au disque, souvent sessile
   arete-lamellaire: 
   arthroconidies: 
   articles: 
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    cylindriques, fusiformes à subbacilliformes, lisses, à paroi mince, n’ayant aucun septa, l’appendice hilaire non visible, à contenu variable, verdâtres dans le NaCl isotonique 0,9 %, inactives dans le melzer, cyanophiles
+    7,4 [8,8; 9,4] 10,7 x 2,7 [3,1; 3,2] 3,5 µm
+    Q = 2,3 [2,8; 3] 3,5; N = 30; C = 95%
+    Me = 9,1 x 3,1 µm; Qe = 2,9
+  asques: cylindriques-clavés, à 8 spores irrégulièrement bisériées, à pore apical indistinctement amyloïde, 100-135 x 7-8(10) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -121,7 +125,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: lisse, concolore à l'hyménophore ou plus pâle
   face-poroïde: 
   feutrage-basal: 
   fongarium:
@@ -135,7 +139,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: lisse, jaune citron brillant, jaune d'oeuf à jaune d'or, plissé et jaune orangé terne avec l'âge ou au sec, à marge souvent légèrement plus foncée
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -186,7 +190,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: filiformes, avec grosses guttules jaunes, arrondies à légèrement clavées à l'apex, jusqu'à 1,5 µm Ø
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -195,7 +199,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: presque absent ou rudimentaire, très court et large, rarement > 1 mm, jaune pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,7 +237,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

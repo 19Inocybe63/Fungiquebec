@@ -2,7 +2,14 @@
 
 # Site settings
 title: Fungiquebec
-description: "Fungiquebec, recherches mycologiques par Claude Kaufholtz-Couture."
+description: |
+  Puisque tout projet naît d’un besoin, Fungiquebec n’échappe pas à cette règle et s’inscrit dans la démarche de l’entraide mycologique. Cette attitude est simple, mais primordiale pour le développement de la mycologie québécoise et favorise le partage des connaissances et le travail d’équipe dans la conception de travaux communs.
+  Fungiquebec est donc un projet de compilation de données sur la mycologie du Québec, dans le but de centraliser, dans une base de données, des descriptions, des photos, ainsi que des planches micrographiques qui démontrent les éléments caractéristiques des champignons. Toute cette base de données sera disponible pour effectuer des recherches simples ou approfondies sur l’ensemble du site, afin de rendre accessible le corpus mycologique de Fungiquebec.
+  Le volet Publications sera tout aussi important puisque nos études, nos travaux, ainsi que le résultat de certaines de nos recherches se retrouveront dans cette section. Aussi, pour la réalisation des planches micrographiques, je travaille essentiellement avec un microscope optique Primo star LED (Full-Köhler) de Zeiss. Les photos sont prises avec une caméra 9MP via ScopeImage 9, et les planches sont dressées avec PhotoShop (CC2015.5).
+  Les descriptions macroscopiques sont habituellement réalisées à partir de nos observations, ou bien de publication. Les descriptions microscopiques sont essentiellement issues de mes observations avec supplément issu des publications. Toutes ces publications sont mentionnées dans la rubrique « Publications » ou même dans « Articles ».
+  ATTENTION: Il est très important de noter que le site Fungiquebec ne contient pas d’informations sur la comestibilité, ou la toxicité des champignons. Il est donc inutile de nous poser des questions en ce sens. Cet aspect de la mycologie requiert des compétences qui dépassent largement notre champ d’action. Si vous avez des doutes ou des questions sur les intoxications causées par les champignons, nous vous suggérons d'appeler le Centre antipoison du Québec au 1-800-463-5060.
+  En conclusion, les données mycologiques mises à disposition sur le site Fungiquebec reflètent l'état d'avancement des connaissances dans le domaine et de nos travaux. En aucun cas elles ne sauraient être considérées comme exhaustives.
+  La science, qui n’est qu’une suite d’erreurs rectifiées, se résume à savoir ce qu’on sait même si demain il faudra le savoir autrement. (Georges Becker, mycologue français, 1905-1994).
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://www.fungiquebec.ca"

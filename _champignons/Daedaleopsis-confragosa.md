@@ -40,7 +40,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, effusé-réfléchi à sessile, tenace-subéreux
   bibliographies: 
   biotopes: pousse sur bois pourri, Betula
   boucles: 
@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: jusqu'à 200 mm de longueur, 100 mm de largeur, 20-50 mm d'épaisseur, globalement convexe à plus ou moins plat, en forme d'éventail à presque ronde, sec, lisse ou finement hirsute, pâle à brun grisâtre ou brun rougeâtre, généralement avec des zones de couleur
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -72,7 +72,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: ferme-subéreux, azoné, chamois pâle à brun, jusqu'à 20 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -81,7 +81,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: continue et concolore au contexte, jusqu'à 10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -122,7 +122,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: chamois pâle au début, devenant rose à rouge au froissement, brun plus foncé avec l'âge
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -214,7 +214,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: variables, ronds ou allongés radialement et jusqu'à 1 mm Ø, dédaloïdes ou à dissépiments lacérés formant une face hyméniale lamellée et fourchue radialement
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

@@ -202,7 +202,7 @@ description:
   pied: 14-68 x 3-12 mm Ø, légèrement aplatit, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strillé longitudinalement, crème à brun, brun pâle à la base, bulbe plein et plutôt blanchâtre, à crème, mycélium basal
   pieds-steriles: 
   pigments: 
-  pileipellis: en hyméniderme à ixohyméniderme
+  pileipellis: en hyménoderme à ixohyménoderme
   pileitrame: 
   pileocystides: 
   plasmode: 

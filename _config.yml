@@ -2,7 +2,7 @@
 
 # Site settings
 title: Fungiquebec
-description: "Fungiquebec est le travail mycologique et micrographique de Claude Kaufholtz-Couture."
+description: "Fungiquebec, recherches mycologiques par Claude Kaufholtz-Couture."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://www.fungiquebec.ca"

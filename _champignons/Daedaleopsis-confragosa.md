@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois pourri, Betula
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -179,7 +179,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou en amas imbriqués
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -233,7 +233,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche, crème à jaune pâle
   spores: 
   spherocytes: 
   sporocystes: 

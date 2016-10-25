@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur ou près de bois pourri, autour des souches, sur débris ligneux, racines et bois enfoui
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -126,7 +126,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: très commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -193,7 +193,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de mai à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

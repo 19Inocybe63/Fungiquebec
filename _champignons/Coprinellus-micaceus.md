@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur ou près de bois pourri, autour des souches, sur débris ligneux, racines et bois enfoui
+  biotopes: pousse au sol, près ou sur bois pourri, autour des souches, sur débris ligneux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: très mince, molle, blanchâtre
   chancre: 
-  chapeau: 
+  chapeau: jusqu'à 40 mm de hauteur x 30 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique, campanulé à convexe, beige à brun miel ou ocre foncé à rouille au centre et plus pâle vers la marge, couvert de fins flocons vélaires granuleux blanchâtres, vite fugaces, lisse avec l'âge, à marge longuement sillonnée
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -116,7 +116,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: douce
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -162,7 +162,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres ou presque, 3-8 mm de largeur, serrées, blanches puis gris-brun, noires à la fin, déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 
+  pied: 25-100 x 2-6 mm Ø, égal, élargi vers la base ou bulbeux, fragile, lisse à entièrement pubescent, blanc, souvent avec col en forme de volve
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -228,12 +228,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun foncé à noire
   spores: 
   spherocytes: 
   sporocystes: 
@@ -257,7 +257,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: présent
   volve: 
   zone-perihymeniale: 
 ---

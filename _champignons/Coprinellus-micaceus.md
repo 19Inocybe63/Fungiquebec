@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: utriformes, tétrastérigmates
+  basidiospores: |
+    elliptiques à subelliptiques, parfois subamygdaliformes vue de profil, mitriformes vue frontale, tronquées, lisses, à paroi mince, avec appendice hilaire et pore germinatif jaunâtre centré 1,3-2,0 µm Ø, à contenu uniguttulé à pluriguttulé, brun médium à légèrement rougeâtre dans le NaCl iso, inactives dans le Melzer, non cyanophiles
+    6,4 [7,4; 8] 9 x 4,3 [4,9; 5,2] 5,8 µm
+    Q = 1,3 [1,5; 1,6] 1,8; N = 17; C = 95%
+    Me = 7,7 x 5,1 µm; Qe = 1,5
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -49,7 +53,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: lagéniformes à longuement cylindrique
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +64,7 @@ description:
   chair: très mince, molle, blanchâtre
   chancre: 
   chapeau: jusqu'à 40 mm de hauteur x 30 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique, campanulé à convexe, beige à brun miel ou ocre foncé à rouille au centre et plus pâle vers la marge, couvert de fins flocons vélaires granuleux blanchâtres, vite fugaces, lisse avec l'âge, à marge longuement sillonnée
-  cheilocystides: 
+  cheilocystides: elliptiques à ovoïdes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -136,7 +140,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: vacuolaires
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -198,7 +202,7 @@ description:
   pied: 25-100 x 2-6 mm Ø, égal, élargi vers la base ou bulbeux, fragile, lisse à entièrement pubescent, blanc, souvent avec col en forme de volve
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en épithélium
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -257,7 +261,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: présent
+  voile-partiel: celluleux avec hyphes en chaîne
   volve: 
   zone-perihymeniale: 
 ---

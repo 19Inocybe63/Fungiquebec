@@ -24,7 +24,7 @@ description:
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
-  anneau: 
+  anneau: partiel, cotonneux, blanchâtre à crème
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur sol tourné, débris ligneux, plate-bande, copeaux de bois enfouis, sous Syringa vulgaris
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: moyennement épaisse à épaisse en son centre, blanchâtre à crème
   chancre: 
-  chapeau: 
+  chapeau: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plisser finement dans un petit rayon concentrique à la marge
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -116,7 +116,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique à concombre
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -126,7 +126,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -162,7 +162,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: sinuées à échancrées, sublarges à larges, serrées, lamellules, beige à crème, arête rouille et très finement érodées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -179,7 +179,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire ou souvent cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -193,9 +193,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de mai à juillet
   phialoconidies: 
-  pied: 
+  pied: 14-68 x 3-12 mm Ø, légèrement aplatit, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strillé longitudinalement, crème à brun, brun pâle à la base, bulbe plein et plutôt blanchâtre, à crème, mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -222,18 +222,18 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: NH4OH 10% = absences
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: de concombre avec une finale amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille à brun tabac
   spores: 
   spherocytes: 
   sporocystes: 

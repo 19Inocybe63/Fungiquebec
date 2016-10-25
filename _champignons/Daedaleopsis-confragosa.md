@@ -222,7 +222,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: KOH 10 % = Toutes les parties deviennent gris foncé, noir
   receptacle: 
   remarques: 
   repartition: 

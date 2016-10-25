@@ -38,11 +38,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: globuleuses, inactives dans le melzer
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, forêt mixte; pour la présente collection, pousse sous Tsuga Canadensis (Eastern hemlock)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -198,7 +198,7 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -224,7 +224,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Collection dont l'ADN fut étudié par Rod Tulloss; nom provisoire.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -254,8 +254,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: membraneux, blanc, taché de brun rouille par endroits, laissant une volve à la base du pied
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

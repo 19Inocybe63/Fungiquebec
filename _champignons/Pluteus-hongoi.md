@@ -28,7 +28,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Justo, Alfredo et al. Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species, Phytotaxa 180 (1):001-085, (2014) 85 p.
   ascome: 
   ascospores: 
   asques: 
@@ -59,7 +60,8 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 84 mm Ø, étalé, omboné, légèrement déprimé, viscidule, brun-gris à olivâtre foncé à noirâtre vers le centre
+Lames libres, gris-beige devenant légèrement rosâtres à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -116,7 +118,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique à légèrement raphanoïde
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -162,7 +164,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, gris-beige devenant légèrement rosâtres à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +197,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 58 x 7 mm Ø, cylindrique arqué, fibrilles longitudinales brunes à brun-gris pâle, squamuleux vers la base, bulbeux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -228,7 +230,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique avec une finale amère
   sclerocystides: 
   sclerote: 
   soies: 

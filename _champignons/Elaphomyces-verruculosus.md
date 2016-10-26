@@ -157,7 +157,7 @@ description:
   hyphidies: 
   hyphique: 
   hypobasides: 
-  hypoderme: hypoderme jusqu'à 2000 μm de large, blanc gris à gris pâle, parfois zoné blanc gris au-dessus et gris pâle ou gris pâle-tan au-dessous, plus évident sur des spécimens matures, souvent, une couche brune distincte à ± 100 μm d'épaisseur à l'interface avec la glèbe. Cette couche est contiguë et concolores avec les cloisons qui est repliée sur elle-même dans la glèbe. Glèbe blanc gris et cotonneux lorsque immature
+  hypoderme: jusqu'à 2000 μm de large, blanc gris à gris pâle, parfois zoné blanc gris au-dessus et gris pâle ou gris pâle-tan au-dessous, plus évident sur des spécimens matures, souvent, une couche brune distincte à ± 100 μm d'épaisseur à l'interface avec la glèbe. Cette couche est contiguë et concolores avec les cloisons qui est repliée sur elle-même dans la glèbe. Glèbe blanc gris et cotonneux lorsque immature
   hypoge: 
   hypophylle: 
   hypothalle: 

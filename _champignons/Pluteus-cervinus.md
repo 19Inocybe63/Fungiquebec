@@ -38,8 +38,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: longuement claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, 2-4 stérigmates, non bouclées à la base, à contenu vacuolaire ou bien carminophile, émergentes sur la moitié de leur longueur lorsque mature (27,7) 32,4 - 38 (38,9) × (7,3) 7,4 - 8,8 (9,1) µm en moyenne
+  basidiospores: |
+    ovoïdes à subtriangulaires vue frontale, elliptiques à largement elliptiques vue de profil, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu parfois uniguttulé à granulations, hyalines dans l’eau glycérinée 20 %, inactives dans le melzer, non cyanophiles
+    (6,1) 6,3 - 7,8 (8) × (4,5) 4,7 - 5,2 (6,1) µm
+    Q = (1,2) 1,3 - 1,5 (1,6) ; N = 30
+    Me = 6,8 × 4,9 µm ; Qe = 1,4
+    (Piximètre: formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -61,7 +66,7 @@ description:
   chair: 
   chancre: 
   chapeau: 40-70 mm Ø, brun à brun foncé vers le centre à la marge nettement plus pâle dans les teintes de crème
-  cheilocystides: 
+  cheilocystides: abondantes, polymorphes, formant une bande bien développée, piriformes à largement piriformes (22,6) 26,5 - 47,8 (56,6) × (11,9) 12,4 - 18,5 (20,3) µm en moyenne, ellipsoïdes-ovoïdes à largement ellipsoïdes-ovoïdes, sphéropédonculées, 43,6 - 61,8 × 19,6 - 28,2 µm en moyenne, hyalines à paroi mince
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -225,7 +230,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Collection confirmée comme vraisemblable par Alfredo Justo.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

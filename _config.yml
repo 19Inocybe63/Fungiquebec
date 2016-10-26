@@ -225,6 +225,8 @@ champs-description:
     label: Pleurocystides
   - name: pleuromacrocystides
     label: Pleuromacrocystides
+  - name: lampropleurocystides
+    label: Lampropleurocystides
   - name: caulobasides
     label: Caulobasides
   - name: caulocystides
@@ -481,8 +483,6 @@ champs-description:
     label: Lamprocystides
   - name: lamprocheilocystides
     label: Lamprocheilocystides
-  - name: lampropleurocystides
-    label: Lampropleurocystides
   - name: lamprocaulocystides
     label: Lamprocaulocystides
   - name: leptocystides

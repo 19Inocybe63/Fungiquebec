@@ -55,7 +55,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes, plutôt des hyphes terminales éparses
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -67,6 +67,7 @@ description:
   chancre: 
   chapeau: 40-70 mm Ø, brun à brun foncé vers le centre à la marge nettement plus pâle dans les teintes de crème
   cheilocystides: abondantes, polymorphes, formant une bande bien développée, piriformes à largement piriformes (22,6) 26,5 - 47,8 (56,6) × (11,9) 12,4 - 18,5 (20,3) µm en moyenne, ellipsoïdes-ovoïdes à largement ellipsoïdes-ovoïdes, sphéropédonculées, 43,6 - 61,8 × 19,6 - 28,2 µm en moyenne, hyalines à paroi mince
+  cheilocystides-intermediaires: rares, fusiformes dont l'apex est sans crochets et dont la paroi est sensiblement épaissie 41,8 - 44,3 × 11,2 - 12,2 µm en moyenne, à fusiformes ventrues dont l'apex est rostré 50-55 × 17-20 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -171,7 +172,7 @@ description:
   lames: libres, rosées
   lamprocystides: 
   lamprocheilocystides: 
-  lampropleurocystides: 
+  lampropleurocystides: nombreuses, métuloïdes, fusiformes (76,9) 77,5 - 85,9 (95,7) × (11,4) 13,5 - 17,6 (20,3) µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la plupart sont entiers, quelques bifides, à paroi jusqu'à 2,5 µm d’épaisseur
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -204,7 +205,7 @@ description:
   pied: 50-80 x 7-11 mm Ø, méchuleux
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis (ixocutis) formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou remplis de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41 - 70,1 (80) × (6) 8,5 - 13,5 (16,7) µm en moyenne, avec matrice gélatinée présente chez certaines collections
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -230,7 +231,9 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Collection confirmée comme vraisemblable par Alfredo Justo.
+  remarques: |
+    Collection confirmée comme vraisemblable par Alfredo Justo.
+    Les crochets apicaux sont proéminents et mesures en moyenne entre 4-5 (8) µm de longueur.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -243,7 +246,7 @@ description:
   spores: 
   spherocytes: 
   sporocystes: 
-  stipitipellis: 
+  stipitipellis: en cutis
   stipititrame: 
   stroma: 
   subhymenium: 

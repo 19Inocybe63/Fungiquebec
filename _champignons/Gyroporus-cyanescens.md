@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: cassante, blanchâtre à jaune pâle, devenant rapidement bleu foncé à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 125 mm Ø, convexe à largement convexe, subétalé, sec, fibrilleux-méchuleux, grossièrement rugueux, crème, jaune paille à jaune brunâtre pâle, bleuissant fortement au froissement, à marge incurvée au début, unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -81,7 +81,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: concolore à la face poroïde, 5-10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -116,13 +116,13 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanchâtre, jaunissant à maturité, bleuissant immédiatement au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 85 x 32 mm Ø, subégal à renflé au milieu ou vers la base, cassant, sec, farci au début, devenant creux à maturité, subtomenteux-fibrilleux, concolore au chapeau, bleuissant au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -214,7 +214,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: circulaires et petits, 1-2 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -228,12 +228,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: jaune pâle
   spores: 
   spherocytes: 
   sporocystes: 

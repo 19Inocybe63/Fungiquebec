@@ -127,7 +127,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: largement répartis sur la côte Est
+  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -225,7 +225,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Espèce largement répartis sur la côte Est.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

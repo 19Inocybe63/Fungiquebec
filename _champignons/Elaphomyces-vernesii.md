@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces vernesii
-date: 2016-10-13 09:22:00
+date: 2016-10-26 09:22:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 album-flickr: 72157673772975951
 planches:
@@ -10,7 +10,7 @@ planches:
 details:
   nom-francais: 
   autorites: Castellano
-  famille: Pezizomycotina, Eurotiomycetes
+  famille: Elaphomycetaceae
   genre: Elaphomyces
   espece: vernesii sp. nov.
   litterature: nouvelle espèce

@@ -61,7 +61,6 @@ description:
   chair: 
   chancre: 
   chapeau: 84 mm Ø, étalé, omboné, légèrement déprimé, viscidule, brun-gris à olivâtre foncé à noirâtre vers le centre
-Lames libres, gris-beige devenant légèrement rosâtres à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 

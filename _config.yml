@@ -251,6 +251,8 @@ champs-description:
     label: Pileitrame
   - name: pileipellis
     label: Pileipellis
+  - name: hypoderme
+    label: Hypoderme
   - name: pileocystides
     label: Pileocystides
   - name: boucles
@@ -467,8 +469,6 @@ champs-description:
     label: Hyphique
   - name: hypobasides
     label: Hypobasides
-  - name: hypoderme
-    label: Hypoderme
   - name: hypoge
     label: Hypogé
   - name: hypophylle

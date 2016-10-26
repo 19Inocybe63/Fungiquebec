@@ -211,6 +211,8 @@ champs-description:
     label: Cheilochrysocystides
   - name: cheilocystides
     label: Cheilocystides
+  - name: cheilocystides-intermediaires
+    lable: Cheilocystides intermédiaires
   - name: cheiloleptocystides
     label: Cheiloleptocystides
   - name: cheilomacrocystides

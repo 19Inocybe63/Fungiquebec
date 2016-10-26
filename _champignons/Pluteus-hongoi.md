@@ -8,7 +8,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157672153165794
 
 details:
-  nom-francais: 
+  nom-francais: Plutée de Hongō
   autorites: Singer
   famille: Pluteaceae
   genre: Pluteus

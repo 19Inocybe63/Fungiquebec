@@ -48,7 +48,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois décomposé de feuillus (Acer, Betula, Fagus, Quercus)
   boucles: absentes du pileipellis et non observées dans aucune autre partie du basidiome
   brachybasidioles: 
   calicule: 
@@ -186,7 +186,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -200,7 +200,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
   pied: 58 x 7 mm Ø, cylindrique arqué, fibrilles longitudinales brunes à brun-gris pâle, squamuleux vers la base, bulbeux
   pieds-steriles: 

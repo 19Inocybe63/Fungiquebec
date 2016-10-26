@@ -28,7 +28,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Michael A. Castellano. Elaphomyces appalachiensis and E. verruculosus sp. nov. (Ascomycota Eurotiales, Elaphomycetaceae) from eastern North America, Revista Mexicana de Micologia 35:17-22, 2012, 6 p.
   ascome: 
   ascospores: 
   asques: 
@@ -220,8 +221,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    Michael A. Castellano. Elaphomyces appalachiensis and E. verruculosus sp. nov. (Ascomycota Eurotiales, Elaphomycetaceae) from eastern North America, Revista Mexicana de Micologia 35:17-22, 2012, 6 p.
+  publications: 
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 

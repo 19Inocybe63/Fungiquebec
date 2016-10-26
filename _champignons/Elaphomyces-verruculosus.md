@@ -126,7 +126,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: largement répartis sur la côte Est
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

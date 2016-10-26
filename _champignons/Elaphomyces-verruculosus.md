@@ -215,7 +215,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: 
+  premiere-mention: Cette espèce fut confirmée par Michael Castellano.
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

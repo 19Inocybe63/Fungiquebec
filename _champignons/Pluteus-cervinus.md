@@ -28,7 +28,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Justo, Alfredo et al. Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species, Phytotaxa 180 (1):001-085, (2014) 85 p.
   ascome: 
   ascospores: 
   asques: 
@@ -59,7 +60,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 40-70 mm Ø, brun à brun foncé vers le centre à la marge nettement plus pâle dans les teintes de crème
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -162,7 +163,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, rosées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +196,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 50-80 x 7-11 mm Ø, méchuleux
   pieds-steriles: 
   pigments: 
   pileipellis: 

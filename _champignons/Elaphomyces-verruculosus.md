@@ -30,7 +30,7 @@ description:
   arthroconidies: 
   articles: |
     Michael A. Castellano. Elaphomyces appalachiensis and E. verruculosus sp. nov. (Ascomycota Eurotiales, Elaphomycetaceae) from eastern North America, Revista Mexicana de Micologia 35:17-22, 2012, 6 p.
-  ascome: 
+  ascome: irrégulièrement subglobuleux à réniformes, jusqu'à 22 x 27 mm
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -192,7 +192,7 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: 
+  peridium: semi-arrondi à verrues angulaires ou allongées, jusqu'à 500 μm de large et de 300 μm de haut, arrondi à aigu ou même aplati à l'apex, contigu à l'autre à la base, jaune-brun pâle quand il est jeune, puis brun marbré, jaune-brun lorsque mature, avec brun pâle dominant, verrues souvent masqués par des structures d'hyphes mêlés pour rendre l'aspect de la surface presque lisse ou papilleux, avec couche ± 140 μm d'épaisseur, rouge-brun à cellules rouge-brun foncé superposée à jaune-brun pâle, au tissu blanc gris, 300-350 μm d'épaisseur, À la base des verrues, il y a une couche de blanc gris, parfois teinté de gris-bleu pâle; hypoderme jusqu'à 2000 μm de large, blanc gris à gris pâle, parfois zoné blanc gris au-dessus et gris pâle ou gris pâle-tan au-dessous, plus évident sur des spécimens matures, souvent, une couche brune distincte à ± 100 μm d'épaisseur à l'interface avec la glèbe. Cette couche est contiguë et concolores avec les cloisons qui est repliée sur elle-même dans la glèbe. Glèbe blanc gris et cotonneux lorsque immature.
   peritheces: 
   phenologie: 
   phialoconidies: 

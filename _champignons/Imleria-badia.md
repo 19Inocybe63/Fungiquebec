@@ -29,7 +29,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-  Zhu, Xue-Tai., Li, Yan-Chun. et al. The genus Imleria (Boletaceae) in East Asia, Phytotaxa 191 (1):081-098 ; (2014), 18 p.
+    Zhu, Xue-Tai., Li, Yan-Chun. et al. The genus Imleria (Boletaceae) in East Asia, Phytotaxa 191 (1):081-098 ; (2014), 18 p.
   ascome: 
   ascospores: 
   asques: 

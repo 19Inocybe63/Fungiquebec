@@ -8,7 +8,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Ustuline brûlée
   autorites: (Hoffm.) P.M.D. Martin
   famille: Xylariaceae
   genre: Kretzschmaria
@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur souches, troncs pourrissants des bois de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: de 20 à 100 mm et +, d'abord résupiné et bosselé irrégulierement par des boursouflures en forme de coussinets, de couleur grise à marge blanche à blanchâtre, devenant noirâtre puis noir à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -116,7 +116,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: absente ou très faiblement humique, terreuse
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -193,7 +193,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de mai à fin septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -233,7 +233,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: noire
   spores: 
   spherocytes: 
   sporocystes: 

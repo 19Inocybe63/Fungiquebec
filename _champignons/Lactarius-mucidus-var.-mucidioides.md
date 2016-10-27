@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre
   chancre: 
-  chapeau: 
+  chapeau: convexe puis étalé-déprimé, visqueux, lisse, brun rougeâtre foncé au centre, rosâtre vers la marge
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -116,7 +116,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: faible, fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -162,12 +162,12 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, étroites, serrées, blanchâtres à crème rosé
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: blanc, immuable au goût brûlant
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: égal, creux, viscidule, blanchâtre au sommet, beige rosé plus bas, souvent orné de fossettes brun rougeâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -224,11 +224,11 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Collection confirmé par Walt Sturgeon (Mushroom Observer)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: âcre
   sclerocystides: 
   sclerote: 
   soies: 

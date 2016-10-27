@@ -28,7 +28,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Holec, Jan., Kolarik, Miroslav. Notes on the identity of Hygrophoropsis rufa (Basidiomycota, Boletales), Czech Mycology 65(1):15–24, June 10, 2013
   ascome: 
   ascospores: 
   asques: 

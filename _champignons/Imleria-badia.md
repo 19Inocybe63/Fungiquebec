@@ -37,8 +37,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à cylindriques atténuées en bas, tétrastérigmates, non bouclées à la base,
+23,6 [27,9; 30,7] 35 x 8,6 [9,4; 9,9] 10,6 µm
+  basidiospores: |
+    cylindriques vue de profil à fusiformes vue frontale, lisses, à paroi mince jusqu’à 0,26 μm, avec appendice hilaire et dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl isotonique, dextrinoïdes, non cyanophiles
+    13,3 [14,8; 15,5] 16,9 x 4,5 [5,2; 5,5] 6,3 µm
+    Q = 2,5 [2,8; 2,9] 3,1; N = 30; C = 95%
+    Me = 15,1 x 5,4 µm; Qe = 2,8
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -49,7 +54,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: fusiformes ventrues, 41,5 [44,9; 61,7] 65,2 x 10,5 [12,4; 21,7] 23,7 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -134,7 +139,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: 
+  hymenocystides: nombreuses, fusiformes simples à fusiformes avec long col, parfois vacuolaires brunâtre rouille, dont l’apex de plusieurs est biseauté et portent une fine couche de granulations blanchâtres, 45,5 [56,6; 65,1] 76,2 x 10 [12,1; 13,8] 15,9 µm
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -224,7 +229,8 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Pour cette étude micrographique, l'utilisation du NH4OH (2 % et 10 %) et du KOH (5 %) doit être limitée, car les éléments observables se dissolvent très facilement. Ici, l'utilisation du NaCl prend toute sa pertinence, par exemple, dans les incrustations des hyphes du pileipellis, mais surtout dans les hyménocystides vacuolaires.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

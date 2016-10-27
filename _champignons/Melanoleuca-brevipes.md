@@ -224,7 +224,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Collection déterminée par Claude Kaufholtz-Couture
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

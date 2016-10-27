@@ -201,6 +201,10 @@ champs-description:
     label: Basides
   - name: basidiospores
     label: Basidiospores
+  - name: conidiophores
+    label: Conidiophores
+  - name: conidies
+    label: Conidies
   - name: hymenocystides
     label: Hyménocystides
   - name: arete-lamellaire
@@ -367,12 +371,8 @@ champs-description:
     label: Clavules
   - name: columelle
     label: Columelle
-  - name: conidies
-    label: Conidies
   - name: conidiome
     label: Conidiome
-  - name: conidiophores
-    label: Conidiophores
   - name: cordons-myceliens
     label: Cordons mycéliens
   - name: cordons-rhizomorphiques

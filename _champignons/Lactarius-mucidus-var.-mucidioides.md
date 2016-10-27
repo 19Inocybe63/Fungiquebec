@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: fusiformes, tétrastérigmates 40-68 x 9-11 µm en moyenne
+  basidiospores: |
+    subglobuleuses à largement ellipsoïdes, ornementations assez hautes et plutôt crêtées-réticulées, avec proéminences entre 0,6-1,3 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, hyalines dans le NaCl, amyloïdes
+    5,6 [6,1; 6,4] 6,9 x 5,2 [5,7; 5,9] 6,4 µm
+    Q = 1 [1,1] 1,2; N = 20; C = 95%
+    Me = 6,3 x 5,8 µm; Qe = 1,1
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -49,7 +53,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: semblables aux cheilocystides, parfois sublécythiformes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +64,7 @@ description:
   chair: blanchâtre
   chancre: 
   chapeau: convexe puis étalé-déprimé, visqueux, lisse, brun rougeâtre foncé au centre, rosâtre vers la marge
-  cheilocystides: 
+  cheilocystides: polymorphes abondantes en ogives, moniliformes, fusiformes, subcylindriques, parfois largement cylindriques se terminant en éperon
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -170,7 +174,7 @@ description:
   latex: blanc, immuable au goût brûlant
   leptocystides: 
   macrocystides: 
-  macropleurocystides: 
+  macropleurocystides: peu abondantes clavées se terminant par un petit éperon, Sulfovanilline positives (SV+), 40-50 x 10-12 µm
   marge: 
   marge-et-face-externe: 
   mediostrate: 
@@ -198,11 +202,11 @@ description:
   pied: égal, creux, viscidule, blanchâtre au sommet, beige rosé plus bas, souvent orné de fossettes brun rougeâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixotricoderme
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: semblable aux cheilocystides
   poils: 
   poils-basaux: 
   poils-caulinaires: 

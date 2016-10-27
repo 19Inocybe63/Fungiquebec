@@ -117,7 +117,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: acidulée
+  exhalaison: aigre à aigrelet
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: souvent subfasciculé
+  mode-de-croissance: pousse en faisceaux, subfasciculé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

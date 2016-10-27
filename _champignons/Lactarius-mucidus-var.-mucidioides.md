@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol de pessières et sapinières
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -126,7 +126,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -193,7 +193,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: égal, creux, viscidule, blanchâtre au sommet, beige rosé plus bas, souvent orné de fossettes brun rougeâtre
   pieds-steriles: 
@@ -233,7 +233,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: Pallidosporée, crème
   spores: 
   spherocytes: 
   sporocystes: 

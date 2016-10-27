@@ -43,7 +43,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur litière, débris ligneux, des forêts mixtes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -180,7 +180,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: souvent subfasciculé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

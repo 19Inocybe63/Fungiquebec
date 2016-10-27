@@ -224,7 +224,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Collection confirmé par Walt Sturgeon (Mushroom Observer)
+  remarques: Collection confirmée par Walt Sturgeon (Mushroom Observer)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

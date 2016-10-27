@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche, jaunâtre au-dessus de la couche de tubes, rougissant ou bleuissant un peu à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 40-100 mm Ø, pulviné puis largement convexe à subétalé, sec à viscidule avec l'âge ou l'humidité, très finement tomenteux-fibrilleux au début, vite glabre, brun foncé ou brun rougeâtre, à marge unie ou avec bande étroite de tissu stérile
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -81,7 +81,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: déprimée près du pied, concolore à la face poroïde, 0,8-1,5 cm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -116,13 +116,13 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: jaunâtre puis jaune olivacé avec l'âge, bleuissant au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 50-100 x 10-20 mm Ø, égal, plein, sec, glabre, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -214,7 +214,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: circulaires à anguleux, petits, 1-2 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -228,12 +228,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun olive
   spores: 
   spherocytes: 
   sporocystes: 
@@ -265,7 +265,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

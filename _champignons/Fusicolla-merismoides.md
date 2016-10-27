@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur les parties blessées d'arbres ou de souches
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,9 +68,12 @@ description:
   clavules: 
   columelle: 
   commentaires: 
-  conidies: 
+  conidies: |
+    de deux types ;
+    a) macroconidies falciformes, de type Fusarium, septées, formées sur les phialides
+    b) microconidies ellipsoïdes à allantoïdes, formées directement sur les hyphes
   conidiome: 
-  conidiophores: 
+  conidiophores: phialides cylindriques à subulées, formant des macroconidies aux extrémités
   consistance: 
   contexte: 
   cordons-myceliens: 
@@ -126,7 +129,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -193,7 +196,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de mai à juillet
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -224,7 +227,9 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Pas de collection de ce spécimen, seulement une étude, cKcÉtude0029
+  remarques: |
+    Pas de collection de ce spécimen, seulement une étude, cKcÉtude0029.
+    Le champignon produit une gaine visqueuse blanche puis rose à orangée sur le substrat dans laquelle les périthèces peuvent être entièrement ou partiellement immergés. F. merismoides, de la famille des Nectriaceae, est souvent considéré comme le champignon visqueux orange des arbres. Il fait partie d'un complexe de nombreuses espèces phylogénétiques.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

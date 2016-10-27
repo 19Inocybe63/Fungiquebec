@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre
   chancre: 
-  chapeau: convexe puis étalé-déprimé, visqueux, lisse, brun rougeâtre foncé au centre, rosâtre vers la marge
+  chapeau: 30-90 mm Ø, convexe puis étalé-déprimé, visqueux, lisse, brun rougeâtre foncé au centre, rosâtre vers la marge
   cheilocystides: polymorphes abondantes en ogives, moniliformes, fusiformes, subcylindriques, parfois largement cylindriques se terminant en éperon
   cheilomacrocystides: 
   chlamydospores: 
@@ -199,7 +199,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: égal, creux, viscidule, blanchâtre au sommet, beige rosé plus bas, souvent orné de fossettes brun rougeâtre
+  pied: 50-90 x 10-17 mm Ø, égal, creux, viscidule, blanchâtre au sommet, beige rosé plus bas, souvent orné de fossettes brun rougeâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en ixotricoderme

@@ -53,7 +53,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: ressemblant aux piléocystides du pileipellis, 7-10 µm
+  caulocystides: ressemblant aux piléocystides du pileipellis, 7-10 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 

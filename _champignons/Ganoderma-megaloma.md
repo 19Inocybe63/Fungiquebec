@@ -40,7 +40,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: pérenne, forme un groupe de 2 3 chapeaux imbriqués, de formes bistournées et fortement relié au support
+  basidiome: pérenne, sessile, forme un groupe de 2 à 3 chapeaux imbriqués, de formes bistournées et fortement relié au support
   bibliographies: 
   biotopes: pousse au pied d'un bouleau, sur tronc des arbres ou chicots et au sol sur débris ligneux
   boucles: 
@@ -234,7 +234,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spores: 
   spherocytes: 
   sporocystes: 

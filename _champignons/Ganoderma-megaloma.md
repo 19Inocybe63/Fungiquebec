@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au pied d'un bouleau
   boucles: 
   brachybasidioles: 
   calicule: 

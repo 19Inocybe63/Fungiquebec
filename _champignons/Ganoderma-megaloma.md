@@ -116,7 +116,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: délicate et agréable pendant la période de sporulation
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -229,7 +229,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce (chair)
   sclerocystides: 
   sclerote: 
   soies: 

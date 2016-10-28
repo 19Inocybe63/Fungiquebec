@@ -30,8 +30,9 @@ description:
   arthroconidies: 
   articles: 
   ascome: 20-70 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, clavé à lancéolé, noir brunâtre à noir
-  ascospores: 
-  asques: 
+  ascospores: |
+    bacilliformes, légèrement atténuées aux bouts, entre trois et six septa, mais souvent à trois septa, grisâtres à brunâtres dans le NaCl, 45-85 x 6-7 µm
+  asques: claviformes, et légèrement atténués vers l'apex, à huit spores parallèles, 160-200 x 14-19 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -186,7 +187,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: filiformes, septées, élargies et courbées à l'apex
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -203,7 +204,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: 
+  poils: > 150 µm de longueur, brunes, se projetant à environ 1/3-1/2 de leur longueur au-delà de l'hyménium
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

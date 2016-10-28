@@ -1,6 +1,6 @@
 ---
 nom: Trichoglossum walteri
-date: 2016-10-13 00:00:00
+date: 2016-10-28 00:00:00
 image: https://c2.staticflickr.com/6/5831/21330589130_0e890b0721_n.jpg
 album-flickr: 72157671662254364
 planches:
@@ -55,7 +55,7 @@ description:
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 10-20 mm de hauteur, 3-5 mm Ø, occupant 1/3-1/2 de l'ascome total, étroitement ellipsoïde à lancéolé, parfois comprimé avec un sillon vertical distinct descendant vers la base, noir brunâtre
+  capitule: 10-20 mm de hauteur, 3-5 mm Ø, occupant ⅓-½ de l'ascome total, étroitement ellipsoïde à lancéolé, parfois comprimé avec un sillon vertical distinct descendant vers la base, noir brunâtre
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 

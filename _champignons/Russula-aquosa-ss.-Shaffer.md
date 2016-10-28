@@ -46,7 +46,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, ou parfois sur supprt ligneux en décompsition, forêt mixte
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, légèrement rosé sous la cuticule
   chancre: 
-  chapeau: 29-30 mm Ø, cuticule collante, se pèle jusqu'au ½-¾ du rayon
+  chapeau: 29-52 mm Ø, cuticule collante, se pèle jusqu'au ½-¾ du rayon
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -199,7 +199,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 28 x 6 mm Ø, cylindrique, plein
+  pied: 28-67 x 6-14 mm Ø, cylindrique, plein puis farci
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -232,7 +232,7 @@ description:
     réaction bleu < 5" S +++ = réaction forte endéans 5 secondes (5 = forte)
     réaction bleu < 5" L +++ = réaction forte endéans 5 secondes (5 = forte)
   receptacle: 
-  remarques: 
+  remarques: Cette collection avait comme support un chicot pourri
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

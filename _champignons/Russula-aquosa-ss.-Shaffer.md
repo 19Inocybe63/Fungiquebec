@@ -1,5 +1,5 @@
 ---
-nom: Russula aquosa
+nom: Russula aquosa ss. Shaffer
 date: 2016-10-28 00:00:00
 image: https://c2.staticflickr.com/4/3840/15156170348_692c211acb_n.jpg
 album-flickr: 72157675704726796

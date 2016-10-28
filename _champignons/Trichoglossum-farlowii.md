@@ -48,7 +48,7 @@ description:
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 10-30 mm de longueur, 30-50 mm Ø, occupant 1/3 de l'ascome total, spatulé, lancéolé, liguliforme à cylindrique, comprimé au centre ou irrégulièrement sillonné, apparaissant finement épineux (loupe), noir
+  capitule: 10-30 mm de longueur, 30-50 mm Ø, occupant ⅓ de l'ascome total, spatulé, lancéolé, liguliforme à cylindrique, comprimé au centre ou irrégulièrement sillonné, apparaissant finement épineux (loupe), noir
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 

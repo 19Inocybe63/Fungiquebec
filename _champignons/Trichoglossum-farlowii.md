@@ -29,7 +29,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 
+  ascome: 20-70 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, clavé à lancéolé, noir brunâtre à noir
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -42,12 +42,12 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol et sur bois pourri, dans l'humus, la litière et les sphaignes
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 
+  capitule: 10-30 mm de longueur, 30-50 mm Ø, occupant 1/3 de l'ascome total, spatulé, lancéolé, liguliforme à cylindrique, comprimé au centre ou irrégulièrement sillonné, apparaissant finement épineux (loupe), noir
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 20-60 x 4-6 mm Ø, égal à élargi aux deux bouts, droit ou flexueux, aplati, rarement un peu comprimé, lisse puis sillonné longitudinalement, densément velouté, apparaissant finement épineux (soies à la loupe), noir
   pieds-steriles: 
   pigments: 
   pileipellis: 

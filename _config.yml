@@ -121,6 +121,8 @@ champs-description:
     label: Glèbe
   - name: chapeau
     label: Chapeau
+  - name: cuticule
+    label: Cuticule
   - name: face-poroïde
     label: Face poroïde
   - name: pores
@@ -393,8 +395,6 @@ champs-description:
     label: Cristaux
   - name: cristaux-d-oxalate
     label: Cristaux d’oxalate
-  - name: cuticule
-    label: Cuticule
   - name: cutis
     label: Cutis
   - name: cycle

@@ -220,7 +220,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Pegler, D. N., Laessøe, T., Spooner, B. M. British Puffballs Earthstars and Stinkhorns, An account of the British Gasteroid Fungi, Royal Botanic Gardens, Kew, 1995, 145 p.
+    Smith, Alexander H. Puffballs and their allies in Michigan, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 

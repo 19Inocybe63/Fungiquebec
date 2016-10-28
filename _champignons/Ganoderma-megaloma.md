@@ -224,7 +224,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: « G. applanatum est un nom européen, tandis que G. megaloma est un nom de la partie nord-est des États-Unis ». (Dixit Alan Rockefeller, Mushroom Observer). Collection confirmée par Herbert Baker, Mushroom Observer.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

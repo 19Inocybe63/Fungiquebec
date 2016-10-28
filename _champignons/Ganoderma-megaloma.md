@@ -81,7 +81,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: distinctement stratifiés en couches de 5 à 15 mm d'épaisseur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 

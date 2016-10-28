@@ -40,9 +40,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: pérenne, forme un groupe de 2 3 chapeaux imbriqués, de formes bistournées et fortement relié au support
   bibliographies: 
-  biotopes: pousse au pied d'un bouleau
+  biotopes: pousse au pied d'un bouleau, sur tronc des arbres ou chicots et au sol sur débris ligneux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 30-300 mm en surplomb x 60-500 mm de largeur, plat et semi-circulaire, convexe à unguiforme, à la bordure droite à légèrement arrondie et lisse au-dessous
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -85,7 +85,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cuticule: 
+  cuticule: moins 1 mm d'épaiseur
   cutis: 
   cycle: 
   cystides: 
@@ -214,7 +214,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: ronds entre 4-6 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

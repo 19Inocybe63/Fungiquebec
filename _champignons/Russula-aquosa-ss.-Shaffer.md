@@ -8,7 +8,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675704726796
 
 details:
-  nom-francais: russule aqueuse
+  nom-francais: Russule aqueuse
   autorites: Shaffer
   famille: Russulaceae
   genre: Russula
@@ -37,8 +37,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, pourvues de longues stérigmates entre 8-10 μm, non bouclées à la base, 45 [45,7; 47,1] 47,8 x 11 [12,4; 15,3] 16,7 µm
+  basidiospores: |
+    largement ellipsoïdales vue de profil, à subglobuleuses vue frontale, verruqueuses-subcrêtées à rarement échinulées, partiellement réticulées, avec proéminences jusqu’à 1,2 μm de hauteur, à paroi mince, appendice hilaire bien visible dans le NaCl, à contenu uniguttulé, hyalines dans le NaCl, amyloïdes
+    7,9 [8,8; 9,2] 10,1 x 6,8 [7,5; 7,8] 8,4 µm
+    Q = 1,1 [1,2] 1,3; N = 30; C = 95%
+    Me = 9 x 7,6 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -49,7 +53,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: ressemblant aux piléocystides du pileipellis, 7-10 µm de large
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -134,7 +138,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: 
+  hymenocystides: nombreuses, fusiformes, cylindriques mucronées à apiculées-acuminées, rarement avec apex subrostrées ou moniliformes, Sulfopipéronal positif (sp+) 46,6 [63,3; 80] 96,6 x 9,7 [12,4; 15,1] 17,8 µm
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -198,12 +202,12 @@ description:
   pied: 28 x 6 mm Ø, cylindrique, plein
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis
   pileitrame: 
-  pileocystides: 
+  pileocystides: très nombreuses, de deux types, claviformes septées entre 6-8 µm de large, et l’autres plus étroites, le plus souvent capitulées à l’apex entre 3,8-6 µm de large, à contenu granuleux, Sulfopipéronal positif (sp+)
   plasmode: 
   pleurocystides: 
-  poils: 
+  poils: septés
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

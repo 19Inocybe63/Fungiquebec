@@ -126,7 +126,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnelle
   glebe: longtemps blanche et très ferme au début, devenant rose rougeâtre à vineuse à la coupe, noir pourpré à noire, marbrée de blanchâtre, et poudreuse à maturité
   gleocystides: 
   gleocystides-hymeniales: 
@@ -193,7 +193,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

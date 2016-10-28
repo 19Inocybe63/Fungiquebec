@@ -8,8 +8,8 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675704726796
 
 details:
-  nom-francais: 
-  autorites: ss. Shaffer
+  nom-francais: russule aqueuse
+  autorites: Shaffer
   famille: Russulaceae
   genre: Russula
   espece: aquosa ss. Shaffer
@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche, légèrement rosé sous la cuticule
   chancre: 
-  chapeau: 
+  chapeau: 29-30 mm Ø, cuticule collante, se pèle jusqu'au ½-¾ du rayon
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -117,8 +117,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 28 x 6 mm Ø, cylindrique, plein
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -222,18 +222,23 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: |
+    FeSO4 = L légèrement saumoné; S ± saumoné
+    Soluté de Gaïac =
+    réaction bleu < 5" S +++ = réaction forte endéans 5 secondes (5 = forte)
+    réaction bleu < 5" L +++ = réaction forte endéans 5 secondes (5 = forte)
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: âcre
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: Leucosporée à pallidosporée Ib-IIa, sporée blanchâtre-crème, d'après la charte de couleur de Sarnari/Romagnesi ;
+A-B d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

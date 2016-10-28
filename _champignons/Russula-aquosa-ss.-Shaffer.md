@@ -46,7 +46,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, ou parfois sur supprt ligneux en décompsition, forêt mixte
+  biotopes: pousse au sol, sphaignes et bas de pentes humides, ou parfois sur supprt ligneux en décompsition, feuillus (Fagus)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, légèrement rosé sous la cuticule
   chancre: 
-  chapeau: 29-52 mm Ø, cuticule collante, se pèle jusqu'au ½-¾ du rayon
+  chapeau: 29-52 mm Ø, cuticule grasse-collante, se pèle jusqu'au ½-¾ du rayon
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -242,7 +242,11 @@ description:
     réaction bleu < 5" S +++ = réaction forte endéans 5 secondes (5 = forte)
     réaction bleu < 5" L +++ = réaction forte endéans 5 secondes (5 = forte)
   receptacle: 
-  remarques: Cette collection poussait sur un chicot pourri
+  remarques: |
+    Cette collection poussait sur un chicot pourri.
+    La cuticule de cette espèce est grasse, c'est d'ailleurs un caractère important.
+    « En Europe, R. grisescens est le taxon le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce ». (dixit Y. Lamoureux)
+    Collection confirmée par Yves Lamoureux.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

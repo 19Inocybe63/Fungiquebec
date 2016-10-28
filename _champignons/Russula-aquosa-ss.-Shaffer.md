@@ -242,7 +242,7 @@ description:
     réaction bleu < 5" S +++ = réaction forte endéans 5 secondes (5 = forte)
     réaction bleu < 5" L +++ = réaction forte endéans 5 secondes (5 = forte)
   receptacle: 
-  remarques: Cette collection avait comme support un chicot pourri
+  remarques: Cette collection poussait sur un chicot pourri
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

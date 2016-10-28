@@ -9,7 +9,7 @@ planches:
 
 details:
   nom-francais: Russule aqueuse
-  autorites: Shaffer
+  autorites: ss. Shaffer
   famille: Russulaceae
   genre: Russula
   espece: aquosa ss. Shaffer

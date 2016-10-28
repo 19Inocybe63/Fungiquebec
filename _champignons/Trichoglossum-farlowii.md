@@ -204,7 +204,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: plus grand que 150 µm de longueur, brunes, se projetant à environ 1/3-1/2 de leur longueur au-delà de l'hyménium
+  poils: plus grand que 150 µm de longueur, brunes, se projetant à environ ⅓-½ de leur longueur au-delà de l'hyménium
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

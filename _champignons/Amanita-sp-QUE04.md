@@ -66,6 +66,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-determination-provisoire-par: Rod Tulloss
   columelle: 
   commentaires: 
   conidies: 

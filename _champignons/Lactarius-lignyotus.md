@@ -72,7 +72,6 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: Ce champignon est un excellent comestible même à l'état cru. Cependant, avec les champignons sauvages, la prudence est toujours de mise !
   commentaires: 
   conidies: 
   conidiome: 

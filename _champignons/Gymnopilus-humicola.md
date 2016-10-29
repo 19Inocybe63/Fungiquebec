@@ -72,7 +72,6 @@ description:
   clavules: 
   collection-cueillie: 16 juin 2013
   columelle: 
-  comestibilite: non comestible, suspect
   commentaires: 
   conidies: 
   conidiome: 

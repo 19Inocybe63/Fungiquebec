@@ -74,7 +74,6 @@ description:
   clavules: 
   collection-determination-provisoire-par: Henry J. Beker
   columelle: 
-  comestibilite: 
   commentaires: 
   conidies: 
   conidiome: 

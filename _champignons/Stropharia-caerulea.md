@@ -71,7 +71,6 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: toxique, contenant de la psilocybine
   commentaires: 
   conidies: 
   conidiome: 

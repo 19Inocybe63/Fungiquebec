@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, jusqu'à 3 mm au disque, jaunâtre, jaune chamois à concolore à la surface
   chancre: 
-  chapeau: 
+  chapeau: 10-40 mm Ø, conique-convexe à largement convexe, tronqué puis convexe à étalé, légèrement déprimé au centre, ombiliqué à rarement papillé, sec, subhygrophane, entièrement tomenteux au début, puis avec squamules brunes dressées au centre et fibrilleux-subsquamuleux radialement vers la marge, sur fond jaune, orangé, fauve à jaune rougeâtre, souvent plus foncé au centre, plus pâle vers le pourtour, pâlissant à orangé pâle, orange grisâtre à orange brunâtre au sec
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -162,7 +162,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, adnexées à uncinées, souvent légèrement émarginées, étroites à larges, 2-6 mm, segmentiformes à rarement ventrues, serrées à subespacées, blanchâtres à jaunâtre pâle puis rosées, à arêtes entières puis érodées à ± fimbriées, concolores aux faces ou parfois brunâtres avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 40-70 x 2-4 mm Ø, cylindrique, égal, souvent légèrement élargi vers la base, souvent arrondi à la coupe, sillonné longitudinalement, creux, lisse à substrié par des fibrilles argentées dispersées, concolore au chapeau ou plus jaune à plus pâle au début, orange rougeâtre à orange brunâtre avec l'âge et au sec
   pieds-steriles: 
   pigments: 
   pileipellis: 

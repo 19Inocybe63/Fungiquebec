@@ -57,9 +57,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: membraneuse, molle, blanche
   chancre: 
-  chapeau: 
+  chapeau: 3-12 mm Ø, campanulé puis convexe-étalé et ombiliqué, lisse, blanc, à marge crénelée à sinueuse et légèrement récurvée avec l’âge, translucide-striée à l'humidité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -116,7 +116,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -162,7 +162,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: réduites à des veines ou des plis émarginés à subdécurrents, en partie fourchus, anastomosés, espacés, blancs, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 5-15 (25) x 5-7 mm Ø, cylindrique filiforme, égal, bulbilleux, cassant, lisse à finement velouté, transparent, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -228,13 +228,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

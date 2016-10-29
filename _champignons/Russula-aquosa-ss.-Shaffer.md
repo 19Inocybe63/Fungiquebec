@@ -199,7 +199,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 28-67 x 6-14 mm Ø, cylindrique, plein puis farci
+  pied: 28-67 x 6-14 mm Ø, cylindrique à subclaviforme, plein puis farci, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis

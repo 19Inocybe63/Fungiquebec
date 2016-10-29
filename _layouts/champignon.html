@@ -7,9 +7,15 @@ layout: default
 
 <div class="container mt">
     <div class="row">
-        <div class="col-lg-3">
+        <div class="col-lg-4 col-md-5 col-sm-6">
             {% if page.image %}
+                {% if page.image-originale %}
+                    <a href="{{ page.image-originale }}">
+                {% endif %}
                 <img src="{{ page.image }}" />
+                {% if page.image-originale %}
+                    </a>
+                {% endif %}
                 <div class="spacing"></div>
             {% endif %}
 
@@ -47,7 +53,7 @@ layout: default
             {% endif %}
         </div>
 
-        <div class="col-lg-8 col-lg-offset-1">
+        <div class="col-lg-8 col-md-7 col-sm-6">
             <h4>Description</h4>
             <div class="hline"></div>
 

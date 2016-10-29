@@ -4,6 +4,7 @@
 nom: # Nom latin
 date: # Format: AAAA-MM-JJ hh:mm:ss
 image: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
+image-originale: # Exemple: https://www.flickr.com/photos/kaufholtz/16853497745/in/album-72157675406683365/
 album-flickr:
   - # Exemple: 72157672806318152
   - # Exemple: 72157672806318152

@@ -1,6 +1,6 @@
 ---
 nom: Bisporella citrina
-date: 2016-10-25 00:00:00
+date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
 album-flickr: 72157675579407806
 planches:
@@ -70,6 +70,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Hans-Otto Baral (AscoFrance)
+  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

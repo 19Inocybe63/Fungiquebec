@@ -235,7 +235,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 9, les Entoloma, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
-  remarques: 
+  remarques: Collection confirmée par Yves Lamoureux.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

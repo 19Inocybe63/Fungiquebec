@@ -248,7 +248,6 @@ description:
     Cette collection poussait sur un chicot pourri.
     La cuticule de cette espèce est grasse, c'est d'ailleurs un caractère important.
     « En Europe, R. grisescens est le taxon le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce ». (dixit Y. Lamoureux)
-    Collection confirmée par Yves Lamoureux.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

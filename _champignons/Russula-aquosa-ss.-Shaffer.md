@@ -197,7 +197,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 28-67 x 6-14 mm Ø, cylindrique à subclaviforme, plein puis farci, blanc
   pieds-steriles: 
@@ -219,7 +219,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: 
+  premiere-mention: Il s'agit d'une première étude de l'espèce au Québec.
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

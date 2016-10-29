@@ -37,8 +37,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à subutriformes, tétrastérigmates, non bouclées à la base, 17,6 [22,8; 29,2] 34,5 x 5,1 [6,9; 9,1] 11 µm
+  basidiospores: |
+    cylindriques à subfusiformes vue de profil, à fusiformes et parfois légèrement subventrues vue frontale, lisses, à paroi mince jusqu’à 0,2 μm, avec appendice hilaire et dépression supra apiculaire, à contenu variable, brun pâle dans le NaCl isotonique 0,9 %, dextrinoïdes, non cyanophiles
+    13,9 [15,1; 15,6] 16,8 x 5,1 [5,5; 5,6] 6 µm
+    Q = 2,5 [2,7; 2,8] 3; N = 30; C = 95%
+    Me = 15,4 x 5,5 µm; Qe = 2,8
+    (Piximètre: formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -48,8 +53,8 @@ description:
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: 
-  caulocystides: 
+  caulobasides: présentes
+  caulocystides: cylindriques à fusiformes, flexueuses, 16,7 [21,9; 32,1] 37,3 x 4,6 [5,4; 6,8] 7,6 µm, piriformes 22,8 x 9,1 µm en moyenne, rarement cylindriques mucronées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -134,7 +139,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: 
+  hymenocystides: abondantes, polymorphes, parfois saillantes, cylindriques, fusiformes simples à fusiformes à long col, lagéniformes, flexueuses, 21,6 [34; 51,1] 63,5 x 3,7 [5,8; 8,7] 10,7 µm
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -198,7 +203,7 @@ description:
   pied: 85 x 20 mm Ø, égal à subégal, plein, sec, finement velouté, orange rougeâtre sur fond jaune, devenant plus rouge avec l’âge, bleuissant au froissement
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droits, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
   pileitrame: 
   pileocystides: 
   plasmode: 

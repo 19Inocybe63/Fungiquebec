@@ -228,7 +228,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Alexander H. Smith, Helen V. Smith, Nancy S. Weber. How to know the gilled mushrooms, Publisher William C. Brown Pub; 2 edition (June 1979).
+    Smith, Alexander H., Smith, Helen V., Weber, Nancy S. How to know the gilled mushrooms, Publisher William C. Brown Pub; 2 edition (June 1979).
     Watling, R. Bolbitiaceae, Agrocybe, Bolbitius & Conocybe, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

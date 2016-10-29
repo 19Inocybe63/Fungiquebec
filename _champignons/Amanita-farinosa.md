@@ -228,8 +228,7 @@ description:
   receptacle: 
   references: 
   remarques: |
-    C'est la première fois que je vois un groupe aussi nombreux de cette espèce. Habituellement, on la voit en petit groupe de trois à huit spécimens, mais pas en groupe de vingt et plus. J'ai aussi constaté que certaines collections étaient nettement plus grandes que de normale.
-    Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
+    C'est la première fois que je vois un groupe aussi nombreux de cette espèce. Habituellement, on la voit en petit groupe de trois à huit spécimens, mais pas en groupe de vingt et plus. Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
   rhizomorphes: 
   sac-sporifere: 
   saveur: indistincte

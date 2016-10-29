@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 77 mm Ø, convexe à largement convexe, sec, finement velouté, glabre à maturité, orange brunâtre à brun rougeâtre, devenant bleu foncé puis noir au froissement, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -81,7 +81,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: jaune, 8-26 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -122,7 +122,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: rouge orangé à rouge vineux, bleuissant intensément au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 85 x 20 mm Ø, égal à subégal, plein, sec, finement velouté, orange rougeâtre sur fond jaune, devenant plus rouge avec l’âge, bleuissant au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -214,7 +214,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: circulaires et petits, 2 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

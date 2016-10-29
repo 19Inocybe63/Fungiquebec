@@ -7,9 +7,9 @@ album-flickr:
   - 72157673984623650
 planches:
   - miniature: https://c1.staticflickr.com/9/8224/8321625865_468f083b61_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673984623650
+    originale: https://www.flickr.com/photos/kaufholtz/8321625865/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
   - miniature: https://c2.staticflickr.com/8/7651/16306622493_d40ddbee11_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673984623650
+    originale: https://www.flickr.com/photos/kaufholtz/16306622493/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
 
 details:
   nom-francais: Agrocybe des champs

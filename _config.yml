@@ -259,6 +259,8 @@ champs-description:
     label: Pileitrame
   - name: pileipellis
     label: Pileipellis
+  - name: pigments
+    label: Pigments
   - name: hypoderme
     label: Hypoderme
   - name: pileocystides
@@ -529,8 +531,6 @@ champs-description:
     label: Phialoconidies
   - name: pieds-steriles
     label: Pieds stériles
-  - name: pigments
-    label: Pigments
   - name: plasmode
     label: Plasmode
   - name: pseudocapillitium

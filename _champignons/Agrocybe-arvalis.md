@@ -2,7 +2,8 @@
 nom: Agrocybe arvalis
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/8/7310/9737943460_d0c3fe0e07_n.jpg
-album-flickr: 72157673984623650
+album-flickr:
+  - 72157673984623650
 planches:
   - miniature: https://c1.staticflickr.com/9/8224/8321625865_468f083b61_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157673984623650

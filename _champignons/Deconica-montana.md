@@ -2,7 +2,8 @@
 nom: Deconica montana
 date: 2016-10-11 00:00:00
 image: https://c2.staticflickr.com/4/3918/14248225929_dbab7946e2_n.jpg
-album-flickr: 72157671577563914
+album-flickr:
+  - 72157671577563914
 planches:
   - miniature: https://c1.staticflickr.com/9/8640/16508644648_9e1a9b4e1b_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157671577563914

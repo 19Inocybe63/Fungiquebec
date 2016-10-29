@@ -2,7 +2,8 @@
 nom: Boletus subluridellus
 date: 2016-10-29 00:00:00
 image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
-album-flickr: 72157674035673532
+album-flickr:
+  - 72157674035673532
 planches:
   - miniature: https://c2.staticflickr.com/2/1530/26008609925_b7a2ce2d14_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157674035673532

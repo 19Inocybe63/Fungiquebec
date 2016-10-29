@@ -2,7 +2,8 @@
 nom: Dacrymyces chrysospermus
 date: 2016-10-22 00:00:00
 image: https://c1.staticflickr.com/9/8493/8330888434_22bb5d7a01_n.jpg
-album-flickr: 72157674177774881
+album-flickr:
+  - 72157674177774881
 planches:
   - miniature: https://c1.staticflickr.com/9/8363/8330690630_e8af73e9a4_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157674177774881

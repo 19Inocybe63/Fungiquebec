@@ -2,7 +2,8 @@
 nom: Elaphomyces verruculosus
 date: 2016-10-26 00:00:00
 image: https://c2.staticflickr.com/6/5659/21247990934_8e04b18b66_n.jpg
-album-flickr: 72157675718500205
+album-flickr:
+  - 72157675718500205
 planches:
   - miniature: 
     originale:  

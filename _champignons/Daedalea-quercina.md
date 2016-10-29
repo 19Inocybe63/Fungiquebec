@@ -2,7 +2,8 @@
 nom: Daedalea quercina
 date: 2016-10-15 00:00:00
 image: https://c2.staticflickr.com/4/3930/15461315042_c12164c798_n.jpg
-album-flickr: 72157673932255201
+album-flickr:
+  - 72157673932255201
 planches:
   - miniature: https://c2.staticflickr.com/4/3952/15582860415_52b76245e9_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157673932255201

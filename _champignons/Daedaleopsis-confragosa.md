@@ -2,7 +2,8 @@
 nom: Daedaleopsis confragosa
 date: 2016-10-25 00:00:00
 image: https://c1.staticflickr.com/1/729/21681354819_68688b6f57_n.jpg
-album-flickr: 72157674314547241
+album-flickr:
+  - 72157674314547241
 planches:
   - miniature: 
     originale: 

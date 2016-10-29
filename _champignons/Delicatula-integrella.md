@@ -2,7 +2,8 @@
 nom: Delicatula integrella
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/6/5584/14981972960_cd66ec9e93_n.jpg
-album-flickr: 72157675846416715
+album-flickr:
+  - 72157675846416715
 planches:
   - miniature: 
     originale: 

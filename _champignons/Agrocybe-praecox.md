@@ -2,7 +2,8 @@
 nom: Agrocybe praecox
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/4/3821/8780672969_b12aa3654b_n.jpg
-album-flickr: 72157672106373984
+album-flickr:
+  - 72157672106373984
 planches:
   - miniature: https://c2.staticflickr.com/8/7284/16873429661_a18b1021d7_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157672106373984

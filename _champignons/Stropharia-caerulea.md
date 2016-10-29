@@ -2,7 +2,8 @@
 nom: Stropharia caerulea
 date: 2016-10-13 00:00:00
 image: https://c1.staticflickr.com/9/8191/8122273690_424d6d5230_n.jpg
-album-flickr: 72157671660314714
+album-flickr:
+  - 72157671660314714
 planches:
   - miniature: https://c1.staticflickr.com/9/8500/8300901148_60923bbb63_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157671660314714

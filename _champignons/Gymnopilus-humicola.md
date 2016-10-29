@@ -2,7 +2,8 @@
 nom: Gymnopilus humicola
 date: 2016-10-23 00:00:00
 image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
-album-flickr: 72157673456836530
+album-flickr:
+  - 72157673456836530
 planches:
   - miniature: https://c1.staticflickr.com/9/8745/16871277948_067ee28bb3_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/16871277948/

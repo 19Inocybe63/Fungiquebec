@@ -2,7 +2,8 @@
 nom: Agrocybe acericola
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/8/7418/9186177091_c21d995901_n.jpg
-album-flickr: 72157675406683365
+album-flickr:
+  - 72157675406683365
 planches:
   - miniature: https://c2.staticflickr.com/8/7655/16853497745_8912b1c21f_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675406683365 

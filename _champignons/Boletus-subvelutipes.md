@@ -2,7 +2,8 @@
 nom: Boletus subvelutipes
 date: 2016-10-29 00:00:00
 image: https://c1.staticflickr.com/9/8111/28596715912_ffdf32245e_n.jpg
-album-flickr: 72157675843042745
+album-flickr:
+  - 72157675843042745
 planches:
   - miniature: https://c2.staticflickr.com/8/7473/15651872123_54099e4445_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675843042745

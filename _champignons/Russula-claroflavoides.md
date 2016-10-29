@@ -2,7 +2,8 @@
 nom: Russula claroflavoides
 date: 2016-10-13 00:00:00
 image: https://c2.staticflickr.com/4/3844/14981506665_cb3fc4848b_n.jpg
-album-flickr: 72157673817941932
+album-flickr:
+  - 72157673817941932
 planches:
   - miniature: https://c1.staticflickr.com/9/8600/15839531420_f5708512d3_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157673817941932

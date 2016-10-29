@@ -2,7 +2,8 @@
 nom: Russula albonigra
 date: 2016-10-14 00:00:00
 image: https://c1.staticflickr.com/9/8242/28826395870_8327d25997_n.jpg
-album-flickr: 72157671696496014
+album-flickr:
+  - 72157671696496014
 planches:
   - miniature: 
     originale: 

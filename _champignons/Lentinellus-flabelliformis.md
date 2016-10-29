@@ -2,7 +2,8 @@
 nom: Lentinellus flabelliformis
 date: 2016-10-17 00:00:00
 image: https://c1.staticflickr.com/9/8192/8084204057_9ff65926da_n.jpg
-album-flickr: 72157675222116356
+album-flickr:
+  - 72157675222116356
 planches:
   - miniature: https://c1.staticflickr.com/9/8058/8223633205_b17927e549_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675222116356

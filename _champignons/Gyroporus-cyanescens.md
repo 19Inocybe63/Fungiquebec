@@ -2,7 +2,8 @@
 nom: Gyroporus cyanescens
 date: 2016-10-26 00:00:00
 image: https://c1.staticflickr.com/9/8441/28995578361_e4c677dbe9_n.jpg
-album-flickr: 72157675737892515
+album-flickr:
+  - 72157675737892515
 planches:
   - miniature: 
     originale: 

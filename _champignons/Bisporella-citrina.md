@@ -2,7 +2,8 @@
 nom: Bisporella citrina
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
-album-flickr: 72157675579407806
+album-flickr:
+  - 72157675579407806
 planches:
   - miniature: 
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675579407806

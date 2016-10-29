@@ -2,7 +2,8 @@
 nom: Mitrula elegans
 date: 2016-10-12 00:00:00
 image: https://c2.staticflickr.com/8/7309/8937592313_9fb6943bef_n.jpg
-album-flickr: 72157673827899631
+album-flickr:
+  - 72157673827899631
 planches:
   - miniature: https://c2.staticflickr.com/6/5466/17645661958_7e54d295cb_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157673827899631

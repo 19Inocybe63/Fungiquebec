@@ -2,7 +2,8 @@
 nom: Xeromphalina campanella
 date: 2016-10-23 00:00:00
 image: https://c1.staticflickr.com/9/8379/8613638912_3aa70ccb99_n.jpg
-album-flickr: 72157671696579223
+album-flickr:
+  - 72157671696579223
 planches:
   - miniature: https://c2.staticflickr.com/2/1717/24131617093_209d92450f_n.jpg
     originale:  https://www.flickr.com/photos/kaufholtz/albums/72157671696579223

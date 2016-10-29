@@ -2,7 +2,8 @@
 nom: Omphalotus illudens
 date: 2016-10-16 00:00:00
 image: https://c1.staticflickr.com/9/8431/7710718004_d5e8a9582b_n.jpg
-album-flickr: 72157671763938194
+album-flickr:
+  - 72157671763938194
 planches:
   - miniature: https://c1.staticflickr.com/9/8358/8303542541_4758fa8d5b_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157671763938194

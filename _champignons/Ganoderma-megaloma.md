@@ -2,7 +2,8 @@
 nom: Ganoderma megaloma
 date: 2016-10-28 00:00:00
 image: https://c1.staticflickr.com/9/8283/29076192640_686dda6d42_n.jpg
-album-flickr: 72157672219854874
+album-flickr:
+  - 72157672219854874
 planches:
   - miniature: 
     originale: 

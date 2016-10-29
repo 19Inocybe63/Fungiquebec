@@ -70,6 +70,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: 
+  collection-determinee-par: 
   columelle: 
   commentaires: 
   conidies: 

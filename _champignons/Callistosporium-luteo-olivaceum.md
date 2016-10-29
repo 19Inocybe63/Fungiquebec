@@ -59,7 +59,7 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau ou plus pâle
   chancre: 
-  chapeau: 
+  chapeau: 10-40 mm Ø, parfois plus grand, convexe puis étalé, parfois déprimé, légèrement humide au frais, finement poudreux au début, vite glabre, lisse ou presque, hygrophane, jaune olive à olive foncé, plus jaune avec l'âge, remarquablement jaunâtre, cannelle à brun rougeâtre au sec
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -162,7 +162,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, larges, serrées, jaune citrin à jaune doré au frais, brun rougeâtre au sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +195,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 20-50 x 2-6 mm Ø, égal ou élargi vers la base, creux avec l'âge, entièrement finement poudreux au début, puis glabre sur la moitié supérieure, lisse, concolore au chapeau, avec mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -223,7 +223,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques: |
-    KOH 5 % = chapeau et lames deviennent rouge vif presque instantannément
+    KOH 5 % = chapeau et lames deviennent rouge vif presque instantanément
   receptacle: 
   remarques: 
   repartition: 

@@ -70,6 +70,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Yves Lamoureux
+  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, ou sur débris ligneux forêts mixtes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -126,7 +126,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare à très occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -179,7 +179,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire, cespiteux ou fasciculé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -193,7 +193,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 5-15 (25) x 5-7 mm Ø, cylindrique filiforme, égal, bulbilleux, cassant, lisse à finement velouté, transparent, blanc
   pieds-steriles: 

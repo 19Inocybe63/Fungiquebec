@@ -70,7 +70,7 @@ description:
   clavules: 
   collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: De Rod Tulloss. « Also, I’d like to point out the thin, spike-like volval remnants around the top of the bulb. This is only the second time that I have seen this character in more than 35 years. An interesting phenomenon. If you have dried material, I’d like to take a look at it. »
   conidies: 
   conidiome: 
   conidiophores: 

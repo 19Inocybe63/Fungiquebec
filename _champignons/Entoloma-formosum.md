@@ -70,6 +70,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Yves Lamoureux
+  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -235,7 +237,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 9, les Entoloma, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
-  remarques: Collection confirmée par Yves Lamoureux.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

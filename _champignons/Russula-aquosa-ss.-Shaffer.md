@@ -63,7 +63,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, légèrement rosé sous la cuticule
   chancre: 
-  chapeau: 29-52 mm Ø, convexe à étalé, déprimé, dont la cuticule grasse-collante se pèle jusqu'au ½-¾ du rayon
+  chapeau: 29-52 mm Ø, convexe à étalé, déprimé, dont la cuticule est grasse et collante, se pèle jusqu'au ½-¾ du rayon, rouge à rosé, parfois taché de jaune en son centre
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 

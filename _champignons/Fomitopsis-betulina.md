@@ -67,7 +67,6 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: sous toute réserve ; consommé en Europe en décoction
   commentaires: 
   conidies: 
   conidiome: 

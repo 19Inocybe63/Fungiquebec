@@ -4,16 +4,22 @@
 title: Fungiquebec
 description: |
   Puisque tout projet naît d’un besoin, Fungiquebec n’échappe pas à cette règle et s’inscrit dans la démarche de l’entraide mycologique. Cette attitude est simple, mais primordiale pour le développement de la mycologie québécoise et favorise le partage des connaissances et le travail d’équipe dans la conception de travaux communs.
+
   Fungiquebec est donc un projet de compilation de données sur la mycologie du Québec, dans le but de centraliser, dans une base de données, des descriptions, des photos, ainsi que des planches micrographiques qui démontrent les éléments caractéristiques des champignons. Toute cette base de données sera disponible pour effectuer des recherches simples ou approfondies sur l’ensemble du site, afin de rendre accessible le corpus mycologique de Fungiquebec.
+
   Le volet Publications sera tout aussi important puisque nos études, nos travaux, ainsi que le résultat de certaines de nos recherches se retrouveront dans cette section. Aussi, pour la réalisation des planches micrographiques, je travaille essentiellement avec un microscope optique Primo star LED (Full-Köhler) de Zeiss. Les photos sont prises avec une caméra 9MP via ScopeImage 9, et les planches sont dressées avec PhotoShop (CC2015.5).
+
   Les descriptions macroscopiques sont habituellement réalisées à partir de nos observations, ou bien de publication. Les descriptions microscopiques sont essentiellement issues de mes observations avec supplément issu des publications. Toutes ces publications sont mentionnées dans la rubrique « Publications » ou même dans « Articles ».
+
   ATTENTION: Il est très important de noter que le site Fungiquebec ne contient pas d’informations sur la comestibilité, ou la toxicité des champignons. Il est donc inutile de nous poser des questions en ce sens. Cet aspect de la mycologie requiert des compétences qui dépassent largement notre champ d’action. Si vous avez des doutes ou des questions sur les intoxications causées par les champignons, nous vous suggérons d'appeler le Centre antipoison du Québec au 1-800-463-5060.
+
   En conclusion, les données mycologiques mises à disposition sur le site Fungiquebec reflètent l'état d'avancement des connaissances dans le domaine et de nos travaux. En aucun cas elles ne sauraient être considérées comme exhaustives.
+
   « La science, qui n’est qu’une suite d’erreurs rectifiées, se résume à savoir ce qu’on sait même si demain il faudra le savoir autrement. » (Georges Becker, mycologue français, 1905-1994).
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://www.fungiquebec.ca"
-    
+
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Ce site liste les études mycologiques de Claude Kaufholtz-Couture."
 email: kaufholtzcoutureclaude@gmail.com
@@ -42,14 +48,14 @@ defaults:
       author: Claude Kaufholtz-Couture
 
 colors:  #in hex code if not noted else
-  primary: "#90805E" #"#00b3fe" #"#F70031" 
-  primary_rgb: "144,128,94" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  primary: "#90805E" #"#00b3fe" #"#F70031"
+  primary_rgb: "144,128,94" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#531E12" #"#384452" #"#33004D"
   link: "#90805E"
   link_hover: "#531E12"
   footer_heading: "#ffffff"
   footer_content: "#ffffff"
-  
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -69,7 +75,9 @@ members:
     position: Mycologue amateur et microscopiste des champignons
     text: |
       Je m’appelle Claude Kaufholtz-Couture, je suis originaire de Québec où j’ai fait mes études au Conservatoire de musique de Québec et à l’Université Laval en classe de composition (M. Mus). Parallèlement à la musique, j’ai toujours eu une passion pour la recherche ; je me définis donc comme un chercheur. En 1998, j'entreprends des recherches sur l’histoire et la généalogie de la culture allemande et scandinave au Québec. Avec mon collègue Claude Crégheur, nous avons eu la chance de publier le résultat de nos recherches chez Septentrion en 2013: Dictionnaire des souches allemandes et scandinaves au Québec. En réalisant ce projet, je me suis pleinement découvert comme chercheur.
+
       En 2012, une rencontre circonstancielle m’oriente vers la mycologie ; domaine que j’avais dû abandonner dans ma jeunesse. Ce rêve à demi enfoui a refait surface avec toutes ses possibilités. Alors, puisque la pomme ne tombe jamais bien loin de l’arbre, j’ai sauté sur cette nouvelle occasion de m’instruire, car je savais que cette expérience me permettrait de développer mes compétences de chercheur. Bien qu’autodidacte, je me suis entouré de quelques personnes compétentes pour m’instruire. Avec mon professeur Marcel Lecomte, mycologue et microscopiste belge, j’ai aussi développé tout le volet de la microscopie des champignons. Puisque c’est en forgeant que l’on devient forgeron, j’ai donc appliqué ce proverbe dans mon approche ; je demeure un mycologue amateur et un microscopiste des champignons émerveillé et passionné. J’espère que par ce site, je vous transmettrai un peu cette passion des champignons du Québec.
+
       Membre de la North American Mycological association (NAMA).
     img: https://c3.staticflickr.com/3/2936/buddyicons/123795580@N04_r.jpg%3F1398249315%23123795580@N04
     social:
@@ -249,7 +257,7 @@ champs-description:
     label: Stipititrame
   - name: extremites-hyphales
     label: Extrémités hyphales
-  - name: acanthocytes 
+  - name: acanthocytes
     label: Acanthocytes
   - name: trame-lamellaire
     label: Trame lamellaire

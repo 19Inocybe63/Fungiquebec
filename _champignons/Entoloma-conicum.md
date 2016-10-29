@@ -73,7 +73,6 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-confirmee-par: Yves Lamoureux
   columelle: 
-  comestibilite: non comestible
   commentaires: 
   conidies: 
   conidiome: 

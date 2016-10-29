@@ -1,9 +1,11 @@
 <div class="container mtb">
     <div class="row centered">
         <h3 class="mb">AUTEUR</h3>
-        
-        {% for member in site.members %}
-        <div class="col-lg-3 col-md-3 col-sm-3">
+    </div><!--/row -->
+
+    {% for member in site.members %}
+    <div class="row">
+        <div class="col-lg-3">
             <div class="he-wrap tpl6">
                 <img src="{{ member.img }}" alt="">
                 <div class="he-view">
@@ -13,13 +15,14 @@
                             <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
                     </div><!-- he bg -->
-                </div><!-- he view -->		
+                </div><!-- he view -->
             </div><!-- he wrap -->
+        </div><!--/col-lg-3 -->
+        <div class="col-lg-9">
             <h4>{{ member.name }}</h4>
             <h5 class="ctitle">{{ member.position }}</h5>
-            <p>{{ member.text }}</p>
-        </div><!--/col-lg-3 -->	 	
-        {% endfor %}
-        
+            <p>{{ member.text | newline_to_br }}</p>
+        </div><!--/col-lg-3 -->
     </div><!--/row -->
+    {% endfor %}
 </div><!--/container -->

@@ -6,7 +6,7 @@ album-flickr:
   - 72157675406683365
 planches:
   - miniature: https://c2.staticflickr.com/8/7655/16853497745_8912b1c21f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675406683365 
+    originale: https://www.flickr.com/photos/kaufholtz/16853497745/in/photolist-nZyrDb-of4xZb-rFhzHk-eZZW13-eZKypD 
 
 details:
   nom-francais: Agrocybe de l’érable

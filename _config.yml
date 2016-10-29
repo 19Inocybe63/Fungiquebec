@@ -19,7 +19,7 @@ description: |
 analytics: UA-86495088-1 #Google analytics code in the format XX-nnnnnnnn-n
 disqus: fungiquebec # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 baseurl: "" #important: start with /
-url: "http://www.fungiquebec.ca"
+url: "https://www.fungiquebec.ca"
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Ce site liste les études mycologiques de Claude Kaufholtz-Couture."

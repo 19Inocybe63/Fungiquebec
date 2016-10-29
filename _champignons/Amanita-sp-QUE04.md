@@ -1,6 +1,6 @@
 ---
 nom: Amanita sp-QUE04
-date: 2016-10-25 00:00:00
+date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/6/5582/14981967220_f12992b12a_n.jpg
 album-flickr: 72157674266084922
 planches:

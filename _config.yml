@@ -325,6 +325,10 @@ champs-description:
     label: Nouvelle espèce
   - name: remarques
     label: Remarques
+  - name: collection-confirmee-par
+    label: Collection confirmée par
+  - name: collection-determinee-par
+    label: Collection déterminée par
   - name: commentaires
     label: Commentaires
   - name: acanthophyses

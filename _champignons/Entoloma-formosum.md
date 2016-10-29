@@ -37,19 +37,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, 2 stérigmates, bouclées à la bass
+  basidiospores: |
+    hétérodiamétriques 5-7 angles, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines à verdâtres dans le NaCl isotonique 0,9 %, inactives dans le melzer, non cyanophiles
+    10 [11; 11,4] 12,3 x 7,1 [7,8; 8,1] 8,7 µm
+    Q = 1,2 [1,4; 1,5] 1,6; N = 30; C = 95%
+    Me = 11,2 x 7,9 µm; Qe = 1,4
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sur humus en milieux humides, souvent sur des débris ligneux, ou bois pourri, sur le bord des sentiers forestiers, sphaignes
-  boucles: 
+  boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: parfois en forme d'hyphes terminales, mais aussi lagéniformes avec contenu de type négropigment
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -60,7 +64,7 @@ description:
   chair: mince, jusqu'à 3 mm au disque, jaunâtre, jaune chamois à concolore à la surface
   chancre: 
   chapeau: 10-40 mm Ø, conique-convexe à largement convexe, tronqué puis convexe à étalé, légèrement déprimé au centre, ombiliqué à rarement papillé, sec, subhygrophane, entièrement tomenteux au début, puis avec squamules brunes dressées au centre et fibrilleux-subsquamuleux radialement vers la marge, sur fond jaune, orangé, fauve à jaune rougeâtre, souvent plus foncé au centre, plus pâle vers le pourtour, pâlissant à orangé pâle, orange grisâtre à orange brunâtre au sec
-  cheilocystides: 
+  cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -197,10 +201,10 @@ description:
   phialoconidies: 
   pied: 40-70 x 2-4 mm Ø, cylindrique, égal, souvent légèrement élargi vers la base, souvent arrondi à la coupe, sillonné longitudinalement, creux, lisse à substrié par des fibrilles argentées dispersées, concolore au chapeau ou plus jaune à plus pâle au début, orange rougeâtre à orange brunâtre avec l'âge et au sec
   pieds-steriles: 
-  pigments: 
-  pileipellis: 
+  pigments: vacuolaires et observés dans le stipe
+  pileipellis: en cutis avec éléments trichodermiques
   pileitrame: 
-  pileocystides: 
+  pileocystides: absentes
   plasmode: 
   pleurocystides: absentes
   poils: 

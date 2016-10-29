@@ -72,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-determination-provisoire-par: Henry J. Beker
   columelle: 
   comestibilite: 
   commentaires: 
@@ -238,7 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4 : la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
-  remarques: Des études d'ADN seront réalisées prochainement par Henry Beker sur trois collections ; résultats en attente. Détermination provisoire par Henry J. Beker.
+  remarques: Des études d'ADN seront réalisées prochainement par Henry J. Beker sur trois collections.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

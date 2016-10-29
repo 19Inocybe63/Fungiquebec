@@ -228,7 +228,7 @@ description:
   receptacle: 
   references: 
   remarques: |
-    C'est la première fois que je vois un groupe d'Amanita farinosa. Habituellement, on la voit en très petit groupe entre trois à cinq spécimens, mais pas en groupe de vingt et plus.
+    C'est la première fois que je vois un groupe aussi nombreux de cette espèce. Habituellement, on la voit en petit groupe de trois à huit spécimens, mais pas en groupe de vingt et plus.
     Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
   rhizomorphes: 
   sac-sporifere: 

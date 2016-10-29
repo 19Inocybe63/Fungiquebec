@@ -2,7 +2,8 @@
 nom: Melanoleuca brevipes
 date: 2016-10-27 00:00:00
 image: https://c2.staticflickr.com/8/7783/29832926531_677fe9d14b_n.jpg
-album-flickr: 72157675684849236
+album-flickr:
+  - 72157675684849236
 planches:
   - miniature: 
     originale: 

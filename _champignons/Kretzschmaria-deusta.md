@@ -2,7 +2,8 @@
 nom: Kretzschmaria deusta
 date: 2016-10-27 00:00:00
 image: https://c1.staticflickr.com/1/439/18809605881_84a527218e_n.jpg
-album-flickr: 72157675766389235
+album-flickr:
+  - 72157675766389235
 planches:
   - miniature: 
     originale: 

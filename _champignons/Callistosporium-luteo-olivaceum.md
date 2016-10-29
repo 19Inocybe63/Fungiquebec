@@ -2,7 +2,8 @@
 nom: Callistosporium luteo-olivaceum
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/4/3808/9366140251_6a8ff08cf5_n.jpg
-album-flickr: 72157672250271384
+album-flickr:
+  - 72157672250271384
 planches:
   - miniature: 
     originale: 

@@ -2,7 +2,8 @@
 nom: Mycena galericulata
 date: 2016-10-16 00:00:00
 image: https://c2.staticflickr.com/4/3827/19116582812_309bc0247f_n.jpg
-album-flickr: 72157675173497026
+album-flickr:
+  - 72157675173497026
 planches:
   - miniature: https://c1.staticflickr.com/1/496/19112546040_a326d36a7f_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675173497026

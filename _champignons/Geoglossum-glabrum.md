@@ -2,7 +2,8 @@
 nom: Geoglossum glabrum
 date: 2016-10-18 00:00:00
 image: https://c2.staticflickr.com/6/5643/20515863236_f2374fa141_n.jpg
-album-flickr: 72157674182903280
+album-flickr:
+  - 72157674182903280
 planches:
   - miniature: https://c2.staticflickr.com/6/5727/20415956699_f1a5bd7c13_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157674182903280

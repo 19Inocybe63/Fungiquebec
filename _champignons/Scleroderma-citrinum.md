@@ -2,7 +2,8 @@
 nom: Scleroderma citrinum
 date: 2016-10-16 00:00:00
 image: https://c2.staticflickr.com/4/3741/20394289172_5bc72dfbf6_n.jpg
-album-flickr: 72157671763216164
+album-flickr:
+  - 72157671763216164
 planches:
   - miniature: 
     originale: 

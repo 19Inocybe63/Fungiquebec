@@ -2,7 +2,8 @@
 nom: Fomitopsis betulina
 date: 2016-10-17 00:00:00
 image: https://c2.staticflickr.com/4/3905/15064383809_0d95a73134_n.jpg
-album-flickr: 72157673981498392
+album-flickr:
+  - 72157673981498392
 planches:
   - miniature: 
     originale: 

@@ -2,7 +2,8 @@
 nom: Hygrophoropsis rufa
 date: 2016-10-27 00:00:00
 image: https://c2.staticflickr.com/6/5312/29609987530_ac7ec97005_n.jpg
-album-flickr: 72157675763230615
+album-flickr:
+  - 72157675763230615
 planches:
   - miniature: 
     originale: 

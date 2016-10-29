@@ -2,7 +2,8 @@
 nom: Tricholomopsis sulphureoides
 date: 2016-10-14 00:00:00
 image: https://c1.staticflickr.com/9/8164/29608929000_0859bae19b_n.jpg
-album-flickr: 72157675206317355
+album-flickr:
+  - 72157675206317355
 planches:
   - miniature: 
     originale: 

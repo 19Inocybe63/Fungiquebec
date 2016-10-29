@@ -2,7 +2,8 @@
 nom: Amanita farinosa
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
-album-flickr: 72157672806318152
+album-flickr:
+  - 72157672806318152
 planches:
   - miniature: https://c2.staticflickr.com/8/7376/14182055182_1200988e37_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/14182055182/

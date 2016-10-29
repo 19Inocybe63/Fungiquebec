@@ -2,7 +2,8 @@
 nom: Lactarius lignyotus
 date: 2016-10-23 00:00:00
 image: https://c2.staticflickr.com/4/3839/15186557979_f17d2d4e4a_n.jpg
-album-flickr: 72157675585799045
+album-flickr:
+  - 72157675585799045
 planches:
   - miniature: https://c2.staticflickr.com/8/7571/15941932100_61d3bc471c_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675585799045

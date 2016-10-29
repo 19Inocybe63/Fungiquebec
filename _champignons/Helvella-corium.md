@@ -2,7 +2,8 @@
 nom: Helvella corium
 date: 2016-10-23 00:00:00
 image: https://c2.staticflickr.com/6/5624/20562876582_8477cf6fba_n.jpg
-album-flickr: 72157674971769076
+album-flickr:
+  - 72157674971769076
 planches:
   - miniature: https://c2.staticflickr.com/8/7288/27309797164_6f96ed1b45_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157674971769076

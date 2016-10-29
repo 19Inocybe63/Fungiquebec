@@ -2,7 +2,8 @@
 nom: Pluteus cervinus
 date: 2016-10-26 00:00:00
 image: https://c2.staticflickr.com/8/7699/27530665341_5619c52b91_n.jpg
-album-flickr: 72157672151962934
+album-flickr:
+  - 72157672151962934
 planches:
   - miniature: https://c2.staticflickr.com/8/7439/27627034362_e4e66faf7c_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157672151962934

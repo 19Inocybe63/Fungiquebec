@@ -2,7 +2,8 @@
 nom: Russula aquosa ss. Shaffer
 date: 2016-10-28 00:00:00
 image: https://c2.staticflickr.com/4/3840/15156170348_692c211acb_n.jpg
-album-flickr: 72157675704726796
+album-flickr:
+  - 72157675704726796
 planches:
   - miniature: https://c1.staticflickr.com/9/8591/16249172970_6f72387b2d_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675704726796

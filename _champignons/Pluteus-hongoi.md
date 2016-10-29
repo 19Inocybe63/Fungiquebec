@@ -2,7 +2,8 @@
 nom: Pluteus hongoi
 date: 2016-10-26 00:00:00
 image: https://c2.staticflickr.com/8/7308/27250982564_dd1c4e21c2_n.jpg
-album-flickr: 72157672153165794
+album-flickr:
+  - 72157672153165794
 planches:
   - miniature: https://c2.staticflickr.com/8/7457/27879218982_0eb08ae404_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157672153165794

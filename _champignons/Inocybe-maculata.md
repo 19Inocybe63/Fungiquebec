@@ -2,7 +2,8 @@
 nom: Inocybe maculata
 date: 2016-10-25 00:00:00
 image: https://c2.staticflickr.com/4/3736/9537628135_495f242585_n.jpg
-album-flickr: 72157675124608175
+album-flickr:
+  - 72157675124608175
 planches:
   - miniature: https://c1.staticflickr.com/1/592/22914526952_12722fa6c6_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675124608175

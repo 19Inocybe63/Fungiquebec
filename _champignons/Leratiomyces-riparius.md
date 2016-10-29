@@ -2,7 +2,8 @@
 nom: Leratiomyces riparius
 date: 2016-10-23 00:00:00
 image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
-album-flickr: 72157671467848974
+album-flickr:
+  - 72157671467848974
 planches:
   - miniature: https://c1.staticflickr.com/9/8492/8273347718_58d8cdec4a_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/8273347718/

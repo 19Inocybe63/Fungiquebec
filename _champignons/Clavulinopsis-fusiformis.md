@@ -2,7 +2,8 @@
 nom: Clavulinopsis fusiformis
 date: 2016-10-15 00:00:00
 image: https://c1.staticflickr.com/1/685/20665078175_836e5968f7_n.jpg
-album-flickr: 72157674065319940
+album-flickr:
+  - 72157674065319940
 planches:
   - miniature: https://c2.staticflickr.com/8/7482/27074039690_b05cfc1997_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157674065319940

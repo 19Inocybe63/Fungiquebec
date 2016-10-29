@@ -70,7 +70,9 @@ layout: default
 
             <table class="flickr_badge_wrapper">
                 <tr>
-                    <script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=1000&display=latest&size=m&source=user_set&set={{ page.album-flickr }}"></script>
+                    {% for album in page.album-flickr %}
+                    <script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=1000&display=latest&size=m&source=user_set&set={{ album }}"></script>
+                    {% endfor %}
                 </tr>
             </table>
 

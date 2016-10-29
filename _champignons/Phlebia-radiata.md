@@ -2,7 +2,8 @@
 nom: Phlebia radiata
 date: 2016-10-22 00:00:00
 image: https://c2.staticflickr.com/8/7528/29925850280_fcac7d9e2f_n.jpg
-album-flickr: 72157675531962005
+album-flickr:
+  - 72157675531962005
 planches:
   - miniature: 
     originale:  

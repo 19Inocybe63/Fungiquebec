@@ -2,7 +2,8 @@
 nom: Fusicolla merismoides
 date: 2016-10-27 00:00:00
 image: https://c1.staticflickr.com/9/8535/8870357399_d0722d4a0f_n.jpg
-album-flickr: 72157672191005783
+album-flickr:
+  - 72157672191005783
 planches:
   - miniature: https://c2.staticflickr.com/6/5458/9085967458_0a71f89d94_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157672191005783

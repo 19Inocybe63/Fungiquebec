@@ -2,7 +2,8 @@
 nom: Peziza succosella
 date: 2016-10-15 00:00:00
 image: https://c2.staticflickr.com/8/7432/28157125792_a55b2cc10f_n.jpg
-album-flickr: 72157674044898010
+album-flickr:
+  - 72157674044898010
 planches:
   - miniature: https://c2.staticflickr.com/8/7539/28130157805_8bbab0ab88_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157674044898010

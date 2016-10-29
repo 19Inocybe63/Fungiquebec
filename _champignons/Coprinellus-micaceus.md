@@ -2,7 +2,8 @@
 nom: Coprinellus micaceus
 date: 2016-10-25 00:00:00
 image: https://c2.staticflickr.com/4/3902/14496677944_a47634fdd8_n.jpg
-album-flickr: 72157675676637055
+album-flickr:
+  - 72157675676637055
 planches:
   - miniature: https://c2.staticflickr.com/4/3838/14325215908_5abefd5379_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675676637055

@@ -2,7 +2,8 @@
 nom: Peziza atrovinosa
 date: 2016-10-13 00:00:00
 image: https://c2.staticflickr.com/2/1606/24672563904_69f71fc804_n.jpg
-album-flickr: 72157673970680130
+album-flickr:
+  - 72157673970680130
 planches:
   - miniature: https://c2.staticflickr.com/2/1617/26612029266_5e2bebfa84_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157673970680130

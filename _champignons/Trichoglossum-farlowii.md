@@ -2,7 +2,8 @@
 nom: Trichoglossum farlowii
 date: 2016-10-28 00:00:00
 image: https://c2.staticflickr.com/8/7383/9968689104_70a0b0ffc2_n.jpg
-album-flickr: 72157675807039605
+album-flickr:
+  - 72157675807039605
 planches:
   - miniature: https://c1.staticflickr.com/9/8763/17119348384_24bfb24a1d_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/albums/72157675807039605

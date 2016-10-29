@@ -2,7 +2,8 @@
 nom: Scleroderma cepa
 date: 2016-10-28 00:00:00
 image: https://c1.staticflickr.com/1/394/20272518041_035dfb297c_n.jpg
-album-flickr: 72157674632221620
+album-flickr:
+  - 72157674632221620
 planches:
   - miniature: 
     originale: 

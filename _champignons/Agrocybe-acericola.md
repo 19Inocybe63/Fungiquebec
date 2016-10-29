@@ -2,11 +2,12 @@
 nom: Agrocybe acericola
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/8/7418/9186177091_c21d995901_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/9186177091/in/photolist-rFhzHk-nZyrDb-of4xZb-eZZW13-eZKypD
 album-flickr:
-  - 72157675406683365
+  - 72157673026475782
 planches:
   - miniature: https://c2.staticflickr.com/8/7655/16853497745_8912b1c21f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675406683365 
+    originale: https://www.flickr.com/photos/kaufholtz/16853497745/in/photolist-nZyrDb-of4xZb-rFhzHk-eZZW13-eZKypD 
 
 details:
   nom-francais: Agrocybe de l’érable

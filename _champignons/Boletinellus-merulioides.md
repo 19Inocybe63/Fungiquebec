@@ -1,6 +1,6 @@
 ---
 nom: Boletinellus merulioides
-date: 2016-10-15 00:00:00
+date: 2016-10-29 00:00:00
 image: https://c1.staticflickr.com/1/681/20710760485_9274b8e443_n.jpg
 album-flickr: 72157673927535311
 planches:

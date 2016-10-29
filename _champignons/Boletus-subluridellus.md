@@ -1,6 +1,6 @@
 ---
 nom: Boletus subluridellus
-date: 2016-10-19 00:00:00
+date: 2016-10-29 00:00:00
 image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
 album-flickr: 72157674035673532
 planches:
@@ -71,6 +71,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Yves Lamoureux
+  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

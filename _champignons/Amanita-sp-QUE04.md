@@ -225,7 +225,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: Collection dont l'ADN fut étudié par Rod Tulloss ; nom provisoire.
+  remarques: Collection dont l'ADN fut étudié par Rod Tulloss.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

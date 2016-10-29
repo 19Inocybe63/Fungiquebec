@@ -42,7 +42,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois pourri de conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -57,7 +57,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, concolore au chapeau ou plus pâle
   chancre: 
   chapeau: 
   cheilocystides: 
@@ -116,7 +116,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique à indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -126,7 +126,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare à très peu commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -193,7 +193,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -222,18 +222,19 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: |
+    KOH 5 % = chapeau et lames deviennent rouge vif presque instantannément
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce, avec une finale amarescente
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

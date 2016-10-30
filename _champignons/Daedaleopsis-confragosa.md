@@ -2,6 +2,7 @@
 nom: Daedaleopsis confragosa
 date: 2016-10-25 00:00:00
 image: https://c1.staticflickr.com/1/729/21681354819_68688b6f57_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/21681354819/in/photolist-z2UBqp-zkgMqH-zh7uJN
 album-flickr:
   - 72157674314547241
 planches:
@@ -67,6 +68,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

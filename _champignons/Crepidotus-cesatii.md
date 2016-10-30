@@ -2,11 +2,12 @@
 nom: Crepidotus cesatii var. subsphaerosporus
 date: 2016-10-17 00:00:00
 image: https://c1.staticflickr.com/9/8467/8084202795_cc78c9e611_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/8084202795/in/photolist-dxUEnx-djnDQP-dxXe3x
 album-flickr:
   - 72157675223253036
 planches:
   - miniature: https://c1.staticflickr.com/9/8490/8237367497_fec07817ff_n.jpg
-    originale:  https://www.flickr.com/photos/kaufholtz/albums/72157675223253036
+    originale:  https://www.flickr.com/photos/kaufholtz/8237367497/in/photolist-dxUEnx-djnDQP-dxXe3x
 
 details:
   nom-francais: 
@@ -70,6 +71,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

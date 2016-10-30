@@ -1,12 +1,13 @@
 ---
 nom: Lactarius lignyotus
-date: 2016-10-23 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c2.staticflickr.com/4/3839/15186557979_f17d2d4e4a_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/15186557979/in/photolist-pqu9V6-qhJz1h-p8Z5Ax
 album-flickr:
   - 72157675585799045
 planches:
   - miniature: https://c2.staticflickr.com/8/7571/15941932100_61d3bc471c_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675585799045
+    originale: https://www.flickr.com/photos/kaufholtz/15941932100/in/photolist-pqu9V6-qhJz1h-p8Z5Ax
 
 details:
   nom-francais: Lactaire couleur de suie
@@ -72,6 +73,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

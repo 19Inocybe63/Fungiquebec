@@ -1,12 +1,13 @@
 ---
 nom: Hebeloma limbatum
-date: 2016-10-25 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c1.staticflickr.com/9/8742/29622268270_22ca218709_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/29622268270/in/photolist-NdgqNj-MwxnQN-M8BSkh
 album-flickr:
   - 72157674148893871
 planches:
   - miniature: https://c2.staticflickr.com/6/5620/30331219382_dcca2f4de6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674148893871
+    originale: https://www.flickr.com/photos/kaufholtz/30331219382/in/photolist-NdgqNj-MwxnQN-M8BSkh
 
 details:
   nom-francais: 

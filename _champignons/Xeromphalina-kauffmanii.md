@@ -1,12 +1,13 @@
 ---
 nom: Xeromphalina kauffmanii
-date: 2016-10-23 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c1.staticflickr.com/1/758/21351416242_15fbc668f7_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/21351416242/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
 album-flickr:
   - 72157675062059436
 planches:
   - miniature: https://c2.staticflickr.com/2/1614/24702242666_282e8ab4c6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675062059436
+    originale: https://www.flickr.com/photos/kaufholtz/24702242666/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
 
 details:
   nom-francais: Omphale de Kauffman
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

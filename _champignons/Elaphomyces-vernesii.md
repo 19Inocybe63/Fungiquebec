@@ -70,7 +70,7 @@ description:
   clavules: 
   collection-confirmee-par: Michael Castellano
   columelle: 
-  commentaires: 
+  commentaires: De Michael Castellano. All E. vernesii sp. nov. known only from Canada.
   conidies: 
   conidiome: 
   conidiophores: 
@@ -185,7 +185,7 @@ description:
   mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
-  nouvelle-espece: Elaphomyces vernesii sp. nov., d'après Michael Castellano, « E. vernesii sp. nov. known only from Canada ».
+  nouvelle-espece: Elaphomyces vernesii sp. nov., d'après Michael Castellano.
   note-taxonomique: 
   oeuf: 
   paracapillitium: 

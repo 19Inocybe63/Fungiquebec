@@ -2,11 +2,12 @@
 nom: Entoloma cf. incarnatofuscescens
 date: 2016-10-23 00:00:00
 image: https://c2.staticflickr.com/8/7260/7808924042_8d013e0dc2_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/7808924042/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
 album-flickr:
   - 72157675189299225
 planches:
   - miniature: https://c1.staticflickr.com/9/8216/8274763429_74d0d295f7_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675189299225
+    originale: https://www.flickr.com/photos/kaufholtz/8274763429/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
 
 details:
   nom-francais: Entolome bleu pourpre
@@ -72,8 +73,9 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-determination-provisoire-par: Machiel Noordeloos
   columelle: 
-  commentaires: 
+  commentaires: De Machiel Noordeloos. This is a nice little Entoloma, which may come near E. incarnatofuscescens from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately...
   conidies: 
   conidiome: 
   conidiophores: 

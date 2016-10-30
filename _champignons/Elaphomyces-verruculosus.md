@@ -195,7 +195,7 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: semi-arrondi à verrues angulaires ou allongées, jusqu'à 500 μm de large et de 300 μm de haut, arrondi à aigu ou même aplati à l'apex, contigu à l'autre à la base, jaune-brun pâle quand il est jeune, puis brun marbré, jaune-brun lorsque mature, avec brun pâle dominant, verrues souvent masqués par des structures d'hyphes mêlés pour rendre l'aspect de la surface presque lisse ou papilleux, avec couche ± 140 μm d'épaisseur, rouge-brun à cellules rouge-brun foncé superposée à jaune-brun pâle, au tissu blanc gris, 300-350 μm d'épaisseur, À la base des verrues, il y a une couche de blanc gris, parfois teinté de gris-bleu pâle
+  peridium: semi-arrondi à verrues angulaires ou allongées, jusqu'à 500 μm de large et de 300 μm de haut, arrondi à aigu ou même aplati à l'apex, contigu à l'autre à la base, jaune-brun pâle quand il est jeune, puis brun marbré, jaune-brun lorsque mature, avec brun pâle dominant, verrues souvent masqués par des structures d'hyphes mêlés pour rendre l'aspect de la surface presque lisse ou papilleux, avec couche ± 140 μm d'épaisseur, rouge-brun à cellules rouge-brun foncé superposée à jaune-brun pâle, au tissu blanc gris, 300-350 μm d'épaisseur, à la base des verrues, il y a une couche de blanc gris, parfois teinté de gris-bleu pâle
   peritheces: 
   phenologie: 
   phialoconidies: 

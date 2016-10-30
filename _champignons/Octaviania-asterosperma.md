@@ -1,12 +1,13 @@
 ---
 nom: Octaviania asterosperma
-date: 2016-10-09 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/20814861412/in/photolist-xtpr2s-xJ3sDc-xHkB7U
 album-flickr:
   - 72157674612351426
 planches:
   - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/
+    originale: https://www.flickr.com/photos/kaufholtz/20657176960/in/photolist-xtpr2s-xJ3sDc-xHkB7U
 
 details:
   nom-francais: 
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Paco Sáinz et Pedro M. Pasaban
   columelle: 
   commentaires: 
   conidies: 

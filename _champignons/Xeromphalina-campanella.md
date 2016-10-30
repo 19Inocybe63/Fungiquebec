@@ -1,12 +1,13 @@
 ---
 nom: Xeromphalina campanella
-date: 2016-10-23 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c1.staticflickr.com/9/8379/8613638912_3aa70ccb99_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/8613638912/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
 album-flickr:
   - 72157671696579223
 planches:
   - miniature: https://c2.staticflickr.com/2/1717/24131617093_209d92450f_n.jpg
-    originale:  https://www.flickr.com/photos/kaufholtz/albums/72157671696579223
+    originale: https://www.flickr.com/photos/kaufholtz/24131617093/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
 
 details:
   nom-francais: Omphale en clochette
@@ -74,6 +75,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

@@ -2,11 +2,12 @@
 nom: Bisporella citrina
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/15397943256/in/photolist-oTnnJF-psEu5h
 album-flickr:
   - 72157675579407806
 planches:
-  - miniature: 
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675579407806
+  - miniature: https://c2.staticflickr.com/4/3947/15021160663_3d254619a7_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15021160663/in/photolist-oTnnJF-psEu5h
 
 details:
   nom-francais: Pézize citrine

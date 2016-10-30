@@ -2,11 +2,12 @@
 nom: Flammulina velutipes
 date: 2016-10-11 00:00:00
 image: https://c2.staticflickr.com/8/7303/8787825572_72e4f87309_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/8787825572/in/photolist-enYcQc-euNGm8-eoxUo1
 album-flickr:
   - 72157673778467321
 planches:
   - miniature: https://c2.staticflickr.com/4/3685/8858610751_b051e6e37f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673778467321
+    originale: https://www.flickr.com/photos/kaufholtz/8858610751/in/photolist-enYcQc-euNGm8-eoxUo1
 
 details:
   nom-francais: Collybie à pied velouté
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

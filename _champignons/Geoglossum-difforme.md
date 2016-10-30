@@ -1,12 +1,13 @@
 ---
 nom: Geoglossum difforme
-date: 2016-10-18 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c2.staticflickr.com/4/3697/19666230344_580e9cd6e7_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/19666230344/in/photolist-wkyGVo-vXQz7Y
 album-flickr:
   - 72157675365108575
 planches:
   - miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675365108575
+    originale: https://www.flickr.com/photos/kaufholtz/19912097704/in/photolist-wkyGVo-vXQz7Y
 
 details:
   nom-francais: Géoglosse difforme
@@ -76,6 +77,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

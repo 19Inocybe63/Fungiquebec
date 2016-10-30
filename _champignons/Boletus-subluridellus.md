@@ -76,7 +76,7 @@ description:
   collection-confirmee-par: Yves Lamoureux
   collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. Le pied jaune vif qui contraste avec le chapeau d'un beau rouge profond ne ment pas. Chez B. subvelutipes, il n'y a pas un tel contraste entre le pied et le chapeau. S'il a plu sur les basidiomes et qu'ils ne sont pas jeunes et frais, ou bien qu'ils ont roulé dans un panier, ont été tripotés, etc., les choses peuvent se compliquer ! Caractère distinctif ici, B. subvelutipes n'a jamais le pied jaune vif. Il sera jaune roussâtre, roux, voire presque entièrement rouge vineux dans la vétusté, mais jamais d'un beau jaune clair. Par ailleurs, les jeunes B. subluridellus ont le chapeau nettement plus velouté. Cela s'évalue bien quand on a les deux espèces en même temps, côte à côte. En général, quand B. subluridellus est sorti dans les chênaies, il y aura des B. subvelutipes dans les prucheraies avoisinantes.
   conidies: 
   conidiome: 
   conidiophores: 

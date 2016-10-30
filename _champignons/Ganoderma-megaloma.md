@@ -1,7 +1,8 @@
 ---
 nom: Ganoderma megaloma
-date: 2016-10-28 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c1.staticflickr.com/9/8283/29076192640_686dda6d42_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/29076192640/in/photolist-Lin65d-LFMgRj
 album-flickr:
   - 72157672219854874
 planches:
@@ -67,8 +68,9 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Herbert Baker (Mushroom Observer)
   columelle: 
-  commentaires: 
+  commentaires: De Alan Rockefeller (Mushroom Observer). « G. applanatum est un nom européen, tandis que G. megaloma est un nom de la partie nord-est des États-Unis. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -226,7 +228,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
-  remarques: « G. applanatum est un nom européen, tandis que G. megaloma est un nom de la partie nord-est des États-Unis ». (Dixit Alan Rockefeller, Mushroom Observer). Collection confirmée par Herbert Baker, Mushroom Observer.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -45,7 +45,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, piléé, stipité
   bibliographies: 
   biotopes: 
   boucles: 
@@ -124,7 +124,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: de cucurbitacée
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -222,7 +222,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: irréguliers, anguleux, alvéolés, 1-2 par mm, à dissépiments entiers, devenant lacérés
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -236,12 +236,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: de cucurbitacée
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche à jaune pâle
   spores: 
   spherocytes: 
   sporocystes: 

@@ -2,11 +2,12 @@
 nom: Geoglossum glabrum
 date: 2016-10-18 00:00:00
 image: https://c2.staticflickr.com/6/5643/20515863236_f2374fa141_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/20515863236/in/photolist-x767Dr-xfVanW
 album-flickr:
   - 72157674182903280
 planches:
   - miniature: https://c2.staticflickr.com/6/5727/20415956699_f1a5bd7c13_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674182903280
+    originale: https://www.flickr.com/photos/kaufholtz/20415956699/in/photolist-x767Dr-xfVanW
 
 details:
   nom-francais: Géoglosse glabre
@@ -76,6 +77,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

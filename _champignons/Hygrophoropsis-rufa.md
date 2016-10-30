@@ -1,7 +1,8 @@
 ---
 nom: Hygrophoropsis rufa
-date: 2016-10-27 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c2.staticflickr.com/6/5312/29609987530_ac7ec97005_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/29609987530/in/photolist-M7wVGo
 album-flickr:
   - 72157675763230615
 planches:
@@ -68,6 +69,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

@@ -1,12 +1,13 @@
 ---
 nom: Hypholoma radicosum
-date: 2016-10-14 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c2.staticflickr.com/4/3898/14579980651_218188fc9e_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/14579980651/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
 album-flickr:
   - 72157675098869386
 planches:
   - miniature: https://c2.staticflickr.com/8/7595/16616933670_e13aed0080_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675098869386
+    originale: https://www.flickr.com/photos/kaufholtz/16616933670/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
 
 details:
   nom-francais: Hypholome radicant
@@ -73,6 +74,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

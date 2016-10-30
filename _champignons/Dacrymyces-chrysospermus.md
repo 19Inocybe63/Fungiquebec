@@ -2,11 +2,12 @@
 nom: Dacrymyces chrysospermus
 date: 2016-10-22 00:00:00
 image: https://c1.staticflickr.com/9/8493/8330888434_22bb5d7a01_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/8330888434/in/photolist-dG9Y65-dGaYTu
 album-flickr:
   - 72157674177774881
 planches:
   - miniature: https://c1.staticflickr.com/9/8363/8330690630_e8af73e9a4_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674177774881
+    originale: https://www.flickr.com/photos/kaufholtz/8330690630/in/photolist-dG9Y65-dGaYTu
 
 details:
   nom-francais: Trémelle à spores jaunes
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

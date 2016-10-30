@@ -1,5 +1,5 @@
 ---
-nom: Polyporus squamosus
+nom: Cerioporus squamosus
 date: 2016-10-30 00:00:00
 image: https://c2.staticflickr.com/6/5232/7228311120_e6dc452112_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7228311120/in/photolist-sZ547m-tgpfUu-c1JZ4N

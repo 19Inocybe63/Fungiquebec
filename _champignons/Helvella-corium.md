@@ -4,7 +4,7 @@ date: 2016-10-30 00:00:00
 image: https://c1.staticflickr.com/1/723/20522852470_aca2a0fe2c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20522852470/in/album-72157675892972545/
 album-flickr:
-  - 72157674971769076
+  - 72157675892972545
 planches:
   - miniature: https://c2.staticflickr.com/8/7288/27309797164_6f96ed1b45_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/27309797164/in/album-72157675892972545/

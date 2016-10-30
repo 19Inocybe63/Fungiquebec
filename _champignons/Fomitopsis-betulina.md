@@ -70,7 +70,7 @@ description:
   clavules: 
   collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: L'homme des glaces (Ötzi = <a href="http://www.hominides.com/html/ancetres/otzi2.php" rel="nofollow">www.hominides.com/html/ancetres/otzi2.php</a>) avait sur lui le même type de champignon. En effet, dans sa bourse en cuir, il y avait des Fomitopsis betulina. Le polypore du bouleau est un champignon parasite typiquement et exclusivement lié aux bouleaux. Il a des propriétés antibiotiques et contient des huiles toxiques pour les vers intestinaux.
   conidies: 
   conidiome: 
   conidiophores: 

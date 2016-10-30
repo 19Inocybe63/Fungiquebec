@@ -1,12 +1,13 @@
 ---
 nom: Lactarius mucidus var. mucidioides
-date: 2016-10-27 00:00:00
+date: 2016-10-39 00:00:00
 image: https://c1.staticflickr.com/9/8178/7996919806_53f97e1310_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/7996919806/in/photolist-e9JUKB-dbEiDG
 album-flickr:
-  - 72157675767877855
+  - 
 planches:
   - miniature: https://c1.staticflickr.com/9/8104/8631542113_1917e45b33_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675767877855
+    originale: https://www.flickr.com/photos/kaufholtz/8631542113/in/photolist-e9JUKB-dbEiDG
 
 details:
   nom-francais: Lactaire muqueux

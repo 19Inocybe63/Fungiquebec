@@ -71,7 +71,7 @@ description:
   clavules: 
   collection-confirmee-par: Michael Castellano
   columelle: 
-  commentaires: 
+  commentaires: De Michael Castellano. E. verruculosus Castellano wide spread across the east coast.
   conidies: 
   conidiome: 
   conidiophores: 

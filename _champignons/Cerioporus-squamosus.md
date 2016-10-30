@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur souche pourrie de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 

@@ -1,12 +1,13 @@
 ---
 nom: Lentinellus flabelliformis
-date: 2016-10-17 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c1.staticflickr.com/9/8192/8084204057_9ff65926da_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/8084204057/in/photolist-dwGgDp-djnDe7-djnEdz
 album-flickr:
   - 72157675222116356
 planches:
   - miniature: https://c1.staticflickr.com/9/8058/8223633205_b17927e549_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675222116356
+    originale: https://www.flickr.com/photos/kaufholtz/8223633205/in/photolist-dwGgDp-djnDe7-djnEdz
 
 details:
   nom-francais: Lentin en éventail
@@ -70,6 +71,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

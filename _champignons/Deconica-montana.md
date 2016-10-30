@@ -2,11 +2,12 @@
 nom: Deconica montana
 date: 2016-10-11 00:00:00
 image: https://c2.staticflickr.com/4/3918/14248225929_dbab7946e2_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/14248225929/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
 album-flickr:
   - 72157671577563914
 planches:
   - miniature: https://c1.staticflickr.com/9/8640/16508644648_9e1a9b4e1b_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157671577563914
+    originale: https://www.flickr.com/photos/kaufholtz/16508644648/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
 
 details:
   nom-francais: Psilocybe des montagnes
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

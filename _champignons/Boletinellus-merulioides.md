@@ -2,13 +2,14 @@
 nom: Boletinellus merulioides
 date: 2016-10-29 00:00:00
 image: https://c1.staticflickr.com/1/681/20710760485_9274b8e443_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/20710760485/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
 album-flickr:
   - 72157673927535311
 planches:
   - miniature: https://c1.staticflickr.com/9/8091/8520997071_7a95de4f6f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673927535311
+    originale: https://www.flickr.com/photos/kaufholtz/8520997071/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
   - miniature: https://c2.staticflickr.com/2/1686/24988306952_f50ecc63f3_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673927535311
+    originale: https://www.flickr.com/photos/kaufholtz/24988306952/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
 
 details:
   nom-francais: Bolet veiné

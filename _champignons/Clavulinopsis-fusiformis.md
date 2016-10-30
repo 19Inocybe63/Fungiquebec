@@ -2,11 +2,12 @@
 nom: Clavulinopsis fusiformis
 date: 2016-10-15 00:00:00
 image: https://c1.staticflickr.com/1/685/20665078175_836e5968f7_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/20665078175/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
 album-flickr:
   - 72157674065319940
 planches:
   - miniature: https://c2.staticflickr.com/8/7482/27074039690_b05cfc1997_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674065319940
+    originale: https://www.flickr.com/photos/kaufholtz/27074039690/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
 
 details:
   nom-francais: Clavaire fusiforme
@@ -72,6 +73,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

@@ -1,6 +1,6 @@
 ---
 nom: Lactarius mucidus var. mucidioides
-date: 2016-10-39 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c1.staticflickr.com/9/8178/7996919806_53f97e1310_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996919806/in/photolist-e9JUKB-dbEiDG
 album-flickr:

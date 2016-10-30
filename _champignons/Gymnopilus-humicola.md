@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol ou tout près de souche de feuillu (Betula, Fagus)
+  biotopes: pousse au sol ou tout près de souche pourrie de feuillu (Betula, Fagus)
   boucles: observées dans le pileipellis et dans le stipitipellis
   brachybasidioles: 
   calicule: 

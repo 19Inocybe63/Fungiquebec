@@ -1,12 +1,13 @@
 ---
 nom: Omphalotus illudens
-date: 2016-10-16 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c1.staticflickr.com/9/8431/7710718004_d5e8a9582b_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/7710718004/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
 album-flickr:
   - 72157671763938194
 planches:
   - miniature: https://c1.staticflickr.com/9/8358/8303542541_4758fa8d5b_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157671763938194
+    originale: https://www.flickr.com/photos/kaufholtz/8303542541/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
 
 details:
   nom-francais: Clitocybe lumineux
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

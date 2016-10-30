@@ -2,6 +2,7 @@
 nom: Callistosporium luteo-olivaceum
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/4/3808/9366140251_6a8ff08cf5_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/9366140251/in/photolist-fgDW6g-fgDVbK
 album-flickr:
   - 72157672250271384
 planches:
@@ -67,6 +68,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 

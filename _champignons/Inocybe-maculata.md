@@ -28,7 +28,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: stérile, distinctement plus pâles lorsque jeune
+  arete-lamellaire: stérile, distinctement plus pâles
   arthroconidies: 
   articles: |
     Kuo, Michael, & Brandon Matheny, P. Contemporary documentation of the rare eastern North American species Inocybe insignis (Inocybaceae, Agaricales), MycoKeys 11:23-31 (2015), 9 p.

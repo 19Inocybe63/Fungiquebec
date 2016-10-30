@@ -124,7 +124,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: de cucurbitacée
+  exhalaison: de pastèque
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -236,7 +236,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: de cucurbitacée
+  saveur: de pastèque
   sclerocystides: 
   sclerote: 
   soies: 

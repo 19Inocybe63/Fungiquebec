@@ -1,12 +1,13 @@
 ---
 nom: Mitrula elegans
-date: 2016-10-12 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c2.staticflickr.com/8/7309/8937592313_9fb6943bef_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/8937592313/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
 album-flickr:
   - 72157673827899631
 planches:
   - miniature: https://c2.staticflickr.com/6/5466/17645661958_7e54d295cb_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673827899631
+    originale: https://www.flickr.com/photos/kaufholtz/17645661958/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
 
 details:
   nom-francais: Mitrule élégante
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

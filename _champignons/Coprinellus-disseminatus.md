@@ -2,11 +2,12 @@
 nom: Coprinellus disseminatus
 date: 2016-10-10 00:00:00
 image: https://c2.staticflickr.com/4/3900/14280968558_e1ee06d97a_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/14280968558/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
 album-flickr:
   - 72157674940658376
 planches:
   - miniature: https://c2.staticflickr.com/6/5508/14472358361_7ec92a30e2_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674940658376
+    originale: https://www.flickr.com/photos/kaufholtz/14472358361/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
 
 details:
   nom-francais: Coprin disséminé
@@ -70,6 +71,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  Collection-determinee-par: Claude Kaufholtz-Couture
+  Collection-confirmee-par: R. A. Powers (MyCoPortal)
   columelle: 
   commentaires: 
   conidies: 

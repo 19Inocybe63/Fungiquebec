@@ -2,11 +2,12 @@
 nom: Entoloma formosum
 date: 2016-10-29 00:00:00
 image: https://c2.staticflickr.com/6/5553/14864698956_e8a7930466_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/14864698956/in/photolist-qepDS2-oDxt83-oDxrA5
 album-flickr:
   - 72157674673516460
 planches:
   - miniature: https://c2.staticflickr.com/8/7543/15904291825_9ab832e1c5_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674673516460
+    originale: https://www.flickr.com/photos/kaufholtz/15904291825/in/photolist-qepDS2-oDxt83-oDxrA5
 
 details:
   nom-francais: Entolome superbe

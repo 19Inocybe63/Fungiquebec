@@ -1,12 +1,13 @@
 ---
 nom: Imleria badia
-date: 2016-10-27 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c2.staticflickr.com/4/3920/14887778419_60f361d921_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/14887778419/in/photolist-qryYtU-oFAfzb-oFzKQP
 album-flickr:
   - 72157675764074685
 planches:
   - miniature: https://c2.staticflickr.com/8/7541/16041908418_7b000d8690_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675764074685
+    originale: https://www.flickr.com/photos/kaufholtz/16041908418/in/photolist-qryYtU-oFAfzb-oFzKQP
 
 details:
   nom-francais: Bolet bai
@@ -72,6 +73,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-determinee-par: Claude Kaufholtz-Couture
+  collection-confirmmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 

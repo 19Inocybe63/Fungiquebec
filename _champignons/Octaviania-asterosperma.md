@@ -73,6 +73,7 @@ description:
   circumcystides: 
   clavules: 
   collection-confirmee-par: Paco Sáinz et Pedro M. Pasaban
+  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

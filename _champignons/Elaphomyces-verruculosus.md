@@ -2,6 +2,7 @@
 nom: Elaphomyces verruculosus
 date: 2016-10-26 00:00:00
 image: https://c2.staticflickr.com/6/5659/21247990934_8e04b18b66_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/21247990934/in/photolist-ynBvrh-z38wYn
 album-flickr:
   - 72157675718500205
 planches:
@@ -68,6 +69,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Michael Castellano
   columelle: 
   commentaires: 
   conidies: 

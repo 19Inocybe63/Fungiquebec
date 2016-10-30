@@ -1,7 +1,8 @@
 ---
 nom: Marasmius pulcherripes
-date: 2016-10-23 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c2.staticflickr.com/4/3898/14937584416_30a6aeecf8_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/14937584416/in/photolist-ovww45-fdnUT4-fdC9HL-oKZ2qU
 album-flickr:
   - 72157675493594446
 planches:
@@ -68,6 +69,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 

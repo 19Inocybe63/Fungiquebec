@@ -2,11 +2,12 @@
 nom: Entoloma conicum
 date: 2016-10-23 00:00:00
 image: https://c2.staticflickr.com/6/5575/14701084889_7123cd3564_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/14701084889/in/photolist-op5SWB-op5UmR-qfrG8V
 album-flickr:
   - 72157675481738046
 planches:
   - miniature: https://c1.staticflickr.com/9/8616/15916006195_f3137a12bd_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675481738046
+    originale: https://www.flickr.com/photos/kaufholtz/15916006195/in/photolist-op5SWB-op5UmR-qfrG8V
 
 details:
   nom-francais: Entolome conique

@@ -1,12 +1,13 @@
 ---
 nom: Gymnopilus humicola
-date: 2016-10-23 00:00:00
+date: 2016-10-30 00:00:00
 image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/9060850940/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
 album-flickr:
   - 72157673456836530
 planches:
   - miniature: https://c1.staticflickr.com/9/8745/16871277948_067ee28bb3_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16871277948/
+    originale: https://www.flickr.com/photos/kaufholtz/16871277948/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
 
 details:
   collection(s)-cueillie(s): 16 juin 2013; 12 juin 2015
@@ -71,7 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-cueillie: 16 juin 2013
+  collection-confirmee-par: Rocky Houghtby (Mushroom Observer)
   columelle: 
   commentaires: 
   conidies: 

@@ -2,11 +2,12 @@
 nom: Coprinellus micaceus
 date: 2016-10-25 00:00:00
 image: https://c2.staticflickr.com/4/3902/14496677944_a47634fdd8_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/14311334720/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
 album-flickr:
   - 72157675676637055
 planches:
   - miniature: https://c2.staticflickr.com/4/3838/14325215908_5abefd5379_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675676637055
+    originale: https://www.flickr.com/photos/kaufholtz/14325215908/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
 
 details:
   nom-francais: Coprin micacé
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

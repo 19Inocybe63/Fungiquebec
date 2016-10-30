@@ -2,11 +2,12 @@
 nom: Boletus subvelutipes
 date: 2016-10-29 00:00:00
 image: https://c1.staticflickr.com/9/8111/28596715912_ffdf32245e_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/28596715912/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
 album-flickr:
   - 72157675843042745
 planches:
   - miniature: https://c2.staticflickr.com/8/7473/15651872123_54099e4445_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675843042745
+    originale: https://www.flickr.com/photos/kaufholtz/15651872123/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
 
 details:
   nom-francais: Bolet à pied velu
@@ -72,6 +73,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-determinee-par: Claude Kaufholtz-Couture
+  collection-confirmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 

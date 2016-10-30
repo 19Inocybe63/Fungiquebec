@@ -2,6 +2,7 @@
 nom: Elaphomyces vernesii
 date: 2016-10-26 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
 album-flickr:
   - 72157673772975951
 planches:
@@ -67,6 +68,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Michael Castellano
   columelle: 
   commentaires: 
   conidies: 

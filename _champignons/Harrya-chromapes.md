@@ -13,14 +13,14 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Bolet à pied jaune vif
   autorites: (Frost) Halling, Nuhn, Osmundson & Manfr. Binder
-  famille: 
+  famille: Boletaceae
   genre: Harrya
   espece: chromapes
-  litterature: 
-  collection(s)-cueillie(s): 
-  fongarium: 
+  litterature: Halling, R.E.; Nuhn, M.; Osmundson, T.; Fechner, N.; Trappe, J.m.; Soytong, K.; Arora, D.; Hibbett, D.; Binder, M. 2012. Affinities of the Boletus chromapes group to Royoungia and the description of two new genera, Harrya and Australopilus. Australian Systematic Botany. 25(6):418-431
+  collection(s)-cueillie(s): 28 août 2015
+  fongarium: cKc0440
 
 description:
   acanthocytes: 
@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères (Picea, Tsuga)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -134,7 +134,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -187,7 +187,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou dispersé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -201,7 +201,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -241,7 +241,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rougeâtre
   spores: 
   spherocytes: 
   sporocystes: 

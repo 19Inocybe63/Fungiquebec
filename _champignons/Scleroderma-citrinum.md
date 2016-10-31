@@ -1,7 +1,8 @@
 ---
 nom: Scleroderma citrinum
-date: 2016-10-16 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c2.staticflickr.com/4/3741/20394289172_5bc72dfbf6_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/20394289172/in/photolist-xLgTP2-yqyEJN-yqDjTB-x5b4Do-w3ZoVs-wHp8uq-p5raj5-p3rd51-feLjNp
 album-flickr:
   - 72157671763216164
 planches:
@@ -41,7 +42,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: globuleux à subglobuleux, parfois ellipsoïde, déprimé à maturité, souvent plissé ou même lobé sur les côtés et au-dessous, sessile ou relié par une touffe de cordons mycéliens blanchâtres agglomérant des débris, à péridium simple, dur, épais, 1-3 mm, craquelé-aréolé et avec grosse verrue centrale aplatie ou pyramidale plate, formant un motif en relief, avec ornementations disposées en rosette vers l'apex, ocre, brun jaunâtre à jaune doré, devenant rosâtre au froissement ou à la coupe, s'ouvrant au sommet par des fentes irrégulières lobées, non stellées, 20-50 mm de hauteur, 20-100 (120) mm Ø
+  basidiome: 20-100 (120) mm Ø, globuleux à subglobuleux, parfois ellipsoïde, déprimé à maturité, souvent plissé ou même lobé sur les côtés et au-dessous, sessile ou relié par une touffe de cordons mycéliens blanchâtres agglomérant des débris, à péridium simple, dur, épais, 1-3 mm, craquelé-aréolé et avec grosse verrue centrale aplatie ou pyramidale plate, formant un motif en relief, avec ornementations disposées en rosette vers l'apex, ocre, brun jaunâtre à jaune doré, devenant rosâtre au froissement ou à la coupe, s'ouvrant au sommet par des fentes irrégulières lobées, non stellées, 20-50 mm de hauteur
   bibliographies: 
   biotopes: pousse au sol des forêts de feuillus et de conifères, parfois non loin de bois pourri
   boucles: 
@@ -67,6 +68,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

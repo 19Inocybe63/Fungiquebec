@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: mince, plus colore au chapeau ou plus pâle
   chancre: 
-  chapeau: 5-35 mm Ø, convexe à étalé puis déprimé, la marge égale ou légèrement enroulée, non plissée ou légèrement à maturité, finement squameuse à presque glabre, pourpre grisâtre, changeant de couleur en séchant
+  chapeau: 21 mm Ø, convexe à étalé puis déprimé, la marge égale ou légèrement enroulée, non plissée ou légèrement à maturité, finement squameuse à presque glabre, pourpre grisâtre, changeant de couleur en séchant
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -203,7 +203,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 10-70 x 1-7 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à grossièrement strié à écailleuse, colore au chapeau, avec mycélium basal lilas à blanchâtre
+  pied: 66 x 2 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à grossièrement strié à écailleuse, colore au chapeau, avec mycélium basal lilas à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

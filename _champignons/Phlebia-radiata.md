@@ -1,9 +1,10 @@
 ---
 nom: Phlebia radiata
-date: 2016-10-22 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c2.staticflickr.com/8/7528/29925850280_fcac7d9e2f_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/29925850280/in/photolist-MArNFS-MApE2w
 album-flickr:
-  - 72157675531962005
+  - 72157672333801174
 planches:
   - miniature: 
     originale:  
@@ -67,6 +68,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

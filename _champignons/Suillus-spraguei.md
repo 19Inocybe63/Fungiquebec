@@ -1,12 +1,13 @@
 ---
 nom: Suillus spraguei
-date: 2016-10-24 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c2.staticflickr.com/4/3868/14774195389_5de782aa3c_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/14774195389/in/photolist-ovxzgY-ovxByH-prxbdT
 album-flickr:
   - 72157675629317475
 planches:
   - miniature: https://c2.staticflickr.com/8/7526/15385200923_da10196b1b_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675629317475
+    originale: https://www.flickr.com/photos/kaufholtz/15385200923/in/photolist-ovxzgY-ovxByH-prxbdT
 
 details:
   nom-francais: 
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

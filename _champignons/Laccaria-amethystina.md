@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: mince, plus colore au chapeau ou plus pâle
   chancre: 
-  chapeau: 21 mm Ø, convexe à étalé puis déprimé, la marge égale ou légèrement enroulée, non plissée ou légèrement à maturité, finement squameuse à presque glabre, pourpre grisâtre, changeant de couleur en séchant
+  chapeau: 21 mm Ø, convexe à étalé puis déprimé, à marge égale ou légèrement enroulée, non plissée ou légèrement à maturité, finement squameuse à presque glabre, pourpre grisâtre, changeant de couleur en séchant
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 

@@ -64,14 +64,14 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 5-35 mm Ø, convexe à étalé puis déprimé, la marge égale ou légèrement enroulée, non plissée ou légèrement à maturité, finement squameuse à presque glabre, pourpre grisâtre, changeant de couleur en séchant
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 

@@ -203,7 +203,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 66 x 2 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à grossièrement strié à écailleuse, colore au chapeau, avec mycélium basal lilas à blanchâtre
+  pied: 66 x 2 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à grossièrement strié à écailleux, concolore au chapeau, avec mycélium basal lilas à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

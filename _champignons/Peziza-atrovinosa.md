@@ -1,12 +1,13 @@
 ---
 nom: Peziza atrovinosa
-date: 2016-10-13 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c2.staticflickr.com/2/1606/24672563904_69f71fc804_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/24672563904/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
 album-flickr:
   - 72157673970680130
 planches:
   - miniature: https://c2.staticflickr.com/2/1617/26612029266_5e2bebfa84_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157673970680130
+    originale: https://www.flickr.com/photos/kaufholtz/26612029266/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
 
 details:
   nom-francais: 
@@ -81,6 +82,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

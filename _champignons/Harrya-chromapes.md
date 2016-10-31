@@ -230,7 +230,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: |
+    FeS04 = la chair devient olivâtre
+    KOH 10 % = la chair devient brun olivâtre
+    NH4OH 10 % = le chapeau devient jaune
   receptacle: 
   remarques: 
   repartition: 

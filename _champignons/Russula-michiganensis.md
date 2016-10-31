@@ -1,12 +1,13 @@
 ---
 nom: Russula michiganensis
-date: 2016-10-23 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c1.staticflickr.com/1/457/19437139763_3d6cc665ec_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/19437139763/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
 album-flickr:
   - 72157675601005415
 planches:
   - miniature: https://c2.staticflickr.com/2/1602/24171767671_6474f1f7ac_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675601005415
+    originale: https://www.flickr.com/photos/kaufholtz/24171767671/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
 
 details:
   nom-francais: Russule du Michigan
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

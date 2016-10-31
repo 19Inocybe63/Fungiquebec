@@ -29,7 +29,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: discoïdes à légèrement cupuliformes entre 4-7 mm de profondeur, hygrophane, beige imbu, beige pâle opaque au sec, non épigé, 8-20 mm Ø
+  apothecie: 8-20 mm Ø, discoïdes à légèrement cupuliformes entre 4-7 mm de profondeur, hygrophane, beige imbu, beige pâle opaque au sec, non épigé
   arete-lamellaire: 
   arthroconidies: 
   articles: 

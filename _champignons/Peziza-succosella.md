@@ -1,14 +1,15 @@
 ---
 nom: Peziza succosella
 date: 2016-10-15 00:00:00
-image: https://c2.staticflickr.com/8/7432/28157125792_a55b2cc10f_n.jpg
+image: https://c2.staticflickr.com/8/7549/28260902725_d9f5ba7e38_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/28260902725/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
 album-flickr:
   - 72157674044898010
 planches:
   - miniature: https://c2.staticflickr.com/8/7539/28130157805_8bbab0ab88_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674044898010
+    originale: https://www.flickr.com/photos/kaufholtz/28130157805/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
   - miniature: https://c1.staticflickr.com/9/8820/28186682002_2974394338_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157674044898010
+    originale: https://www.flickr.com/photos/kaufholtz/28186682002/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
 
 details:
   nom-francais: Pezize fausse-succosa
@@ -74,6 +75,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

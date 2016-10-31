@@ -78,7 +78,7 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-confirmee-par: René Dougoud
   columelle: 
-  commentaires: De René Dougoud. La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent P. succosella.
+  commentaires: De René Dougoud. « La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent P. succosella. »
   conidies: 
   conidiome: 
   conidiophores: 

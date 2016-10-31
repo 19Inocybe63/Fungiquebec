@@ -1,12 +1,13 @@
 ---
 nom: Tricholomopsis decora
-date: 2016-10-24 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c1.staticflickr.com/9/8520/8635746662_876994de16_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/8635746662/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
 album-flickr:
   - 72157672076237783
 planches:
   - miniature: https://c1.staticflickr.com/9/8545/8644268445_ecaccb931c_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157672076237783
+    originale: https://www.flickr.com/photos/kaufholtz/8644268445/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
 
 details:
   nom-francais: Tricholome décoré
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

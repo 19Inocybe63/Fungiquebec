@@ -1,7 +1,8 @@
 ---
 nom: Scleroderma cepa
-date: 2016-10-28 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c1.staticflickr.com/1/394/20272518041_035dfb297c_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/20272518041/in/photolist-wApzri-wTpXk8
 album-flickr:
   - 72157674632221620
 planches:
@@ -67,6 +68,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

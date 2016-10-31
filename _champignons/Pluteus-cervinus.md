@@ -1,12 +1,13 @@
 ---
 nom: Pluteus cervinus
-date: 2016-10-26 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c2.staticflickr.com/8/7699/27530665341_5619c52b91_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/27530665341/in/photolist-HWMRDP-J6iLNE-H8pRei-dZJen1-e1s9mU
 album-flickr:
   - 72157672151962934
 planches:
   - miniature: https://c2.staticflickr.com/8/7439/27627034362_e4e66faf7c_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157672151962934
+    originale: https://www.flickr.com/photos/kaufholtz/27627034362/in/photolist-J6iLNE-HWMRDP-H8pRei-dZJen1-e1s9mU
 
 details:
   nom-francais: Plutée couleur de cerf
@@ -74,6 +75,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-determinee-par: Claude Kaufholtz-Couture
+  collection-determination-provisoire-par: Alfredo Justo
   columelle: 
   commentaires: 
   conidies: 

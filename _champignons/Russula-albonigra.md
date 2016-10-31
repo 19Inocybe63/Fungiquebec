@@ -1,7 +1,8 @@
 ---
 nom: Russula albonigra
-date: 2016-10-14 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c1.staticflickr.com/9/8242/28826395870_8327d25997_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/28826395870/in/photolist-LcknHf-LeNzMD-KVhPcm
 album-flickr:
   - 72157671696496014
 planches:
@@ -68,6 +69,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

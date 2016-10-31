@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre à légèrement rosé, souvent rosâtre sous la cuticule, immuable, envahi rapidement par les larves, souvent brun et caverneuse dans la partie inférieure à maturité
   chancre: 
-  chapeau: 
+  chapeau: 30-110 mm Ø, convexe à presque plane, sec ou un peu collante, finement veloutée à presque glabre, rose à rose brunâtre, rouge pâle lorsque jeune, se décolorant à rosâtre tan, à jaunâtre terne
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -124,7 +124,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -203,7 +203,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 40-170 x 10-25 mm Ø, cylindrique subégal, se rétrécissant vers le sommet, avec base radicante, blanchâtre à rosâtre, finement orné d’écailles rose-rouges, jaune vif à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -222,7 +222,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: blanc crème, devenant rose, puis brunâtre à brun rougeâtre, déprimé à la tige, 1-3 pores par mm, tubes de 13-14 mm de profondeur
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -239,12 +239,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun rougeâtre
+  sporee: brun rosâtre à brun cannelle ou brun violacé
   spores: 
   spherocytes: 
   sporocystes: 

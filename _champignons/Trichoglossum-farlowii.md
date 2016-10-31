@@ -1,12 +1,13 @@
 ---
 nom: Trichoglossum farlowii
-date: 2016-10-28 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c2.staticflickr.com/8/7383/9968689104_70a0b0ffc2_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/9968689104/in/photolist-wwWoqh-s5M8R3-gbU2wZ-gbU8Y5
 album-flickr:
   - 72157675807039605
 planches:
   - miniature: https://c1.staticflickr.com/9/8763/17119348384_24bfb24a1d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157675807039605
+    originale: https://www.flickr.com/photos/kaufholtz/17119348384/in/photolist-wwWoqh-s5M8R3-gbU2wZ-gbU8Y5
 
 details:
   nom-francais: Trichoglosse de Farlow
@@ -71,6 +72,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

@@ -170,7 +170,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, larges, violet foncé
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,7 +203,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 10-70 x 1-7 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à grossièrement strié à écailleuse, colore au chapeau, avec mycélium basal lilas à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

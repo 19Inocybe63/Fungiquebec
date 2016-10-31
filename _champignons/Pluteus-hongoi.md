@@ -2,11 +2,12 @@
 nom: Pluteus hongoi
 date: 2016-10-26 00:00:00
 image: https://c2.staticflickr.com/8/7308/27250982564_dd1c4e21c2_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/27250982564/in/photolist-JtAhvm-Hw61aV-Hw5pGY
 album-flickr:
   - 72157672153165794
 planches:
   - miniature: https://c2.staticflickr.com/8/7457/27879218982_0eb08ae404_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157672153165794
+    originale: https://www.flickr.com/photos/kaufholtz/27879218982/in/photolist-JtAhvm-Hw61aV-Hw5pGY
 
 details:
   nom-francais: Plutée de Hongō
@@ -74,6 +75,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-determinee-par: Claude Kaufholtz-Couture
+  collection-determination-provisoire-par: Alfredo Justo
   columelle: 
   commentaires: 
   conidies: 

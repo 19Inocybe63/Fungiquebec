@@ -1,12 +1,13 @@
 ---
 nom: Stropharia caerulea
-date: 2016-10-13 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c1.staticflickr.com/9/8191/8122273690_424d6d5230_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/8122273690/in/photolist-dnJMnf-dnJFjn-dDwhHj-dnJLZy
 album-flickr:
   - 72157671660314714
 planches:
   - miniature: https://c1.staticflickr.com/9/8500/8300901148_60923bbb63_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157671660314714
+    originale: https://www.flickr.com/photos/kaufholtz/8300901148/in/photolist-dnJMnf-dnJFjn-dDwhHj-dnJLZy
 
 details:
   nom-francais: Strophaire bleutée
@@ -71,6 +72,7 @@ description:
   chrysocystides: abondantes, clavées à largement fusiformes, mucronées, de 40 µm x 14 µm en moyenne
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

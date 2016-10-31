@@ -62,7 +62,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, plus colore au chapeau ou plus pâle
   chancre: 
   chapeau: 5-35 mm Ø, convexe à étalé puis déprimé, la marge égale ou légèrement enroulée, non plissée ou légèrement à maturité, finement squameuse à presque glabre, pourpre grisâtre, changeant de couleur en séchant
   cheilocystides: 
@@ -124,7 +124,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -230,18 +230,19 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: |
+    KOH 10 % = surface du chapeau devenant brunâtre
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

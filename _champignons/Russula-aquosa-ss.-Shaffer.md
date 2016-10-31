@@ -75,7 +75,7 @@ description:
   collection-confirmee-par: Yves Lamoureux
   collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux ; « En Europe, R. grisescens est le taxon le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce ».
   conidies: 
   conidiome: 
   conidiophores: 
@@ -249,7 +249,6 @@ description:
   remarques: |
     Cette collection poussait sur un chicot pourri.
     La cuticule de cette espèce est grasse, c'est d'ailleurs un caractère important.
-    « En Europe, R. grisescens est le taxon le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce ». (dixit Y. Lamoureux)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

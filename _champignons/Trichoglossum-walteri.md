@@ -1,12 +1,13 @@
 ---
 nom: Trichoglossum walteri
-date: 2016-10-28 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c2.staticflickr.com/6/5831/21330589130_0e890b0721_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/21330589130/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
 album-flickr:
   - 72157671662254364
 planches:
   - miniature: https://c2.staticflickr.com/2/1692/26474496531_9722a15703_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/albums/72157671662254364
+    originale: https://www.flickr.com/photos/kaufholtz/26474496531/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
 
 details:
   nom-francais: Trichoglosse de Walter
@@ -75,6 +76,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

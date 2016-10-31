@@ -1,6 +1,6 @@
 ---
 nom: Peziza succosella
-date: 2016-10-15 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c2.staticflickr.com/8/7549/28260902725_d9f5ba7e38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28260902725/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
 album-flickr:
@@ -75,7 +75,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
+  collection-determinee-par: Claude Kaufholtz-Couture
+  collection-confirmee-par: René Dougoud
   columelle: 
   commentaires: 
   conidies: 

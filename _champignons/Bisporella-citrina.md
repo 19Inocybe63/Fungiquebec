@@ -27,7 +27,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: jusqu'à 1 mm de hauteur, 1-3 mm de diam., globuleuse et fermée au début, puis cupuliforme, allantoïde ou étalée et convexe au disque, souvent sessile
+  apothecie: jusqu'à 1 x 3 mm Ø, globuleuse et fermée au début, puis cupuliforme, allantoïde ou étalée et convexe au disque, souvent sessile
   arete-lamellaire: 
   arthroconidies: 
   articles: 

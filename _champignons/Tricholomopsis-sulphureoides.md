@@ -1,7 +1,8 @@
 ---
 nom: Tricholomopsis sulphureoides
-date: 2016-10-14 00:00:00
+date: 2016-10-31 00:00:00
 image: https://c1.staticflickr.com/9/8164/29608929000_0859bae19b_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/29608929000/in/photolist-M7rv2S-Monoq9
 album-flickr:
   - 72157675206317355
 planches:
@@ -67,6 +68,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 

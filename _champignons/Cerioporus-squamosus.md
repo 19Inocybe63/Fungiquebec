@@ -203,7 +203,7 @@ description:
   peritheces: 
   phenologie: par période ; de la mi-mai et à l'automne
   phialoconidies: 
-  pied: 
+  pied: 20-80 mm de long x 10-40 mm d'épaisseur, ferme, plein, habituellement excentré, latéral, crème blanchâtre, se couvrant d’un fini velouté brun foncé à noir
   pieds-steriles: 
   pigments: 
   pileipellis: 

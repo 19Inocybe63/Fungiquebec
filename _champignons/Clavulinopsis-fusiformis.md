@@ -41,7 +41,7 @@ description:
   base-stipitiforme: 
   basides: cylindriques à claviformes élancées, rarement utriformes, sinueuses, dont le sommet est tronqué, longuement et étroitement pédicellées, tétrastérigmates jusqu'à 6-8 µm de longueur, bouclées à la base, avec contenu vacuolaire, (40,9) 48 - 60,6 (63,1) × (6,7) 7 - 8,9 (9,3) µm en moyenne
   basidiospores: |
-    globuleuses à subglobuleuses vue de front à subglobuleuses à largement ovoïdes vue de profil, lisses, à paroi légèrement épaissie, avec appendice hilaire proéminent jusqu'à 1,0-1,5 µm de longueur, à contenu uniguttulé, hyalines dans l’Eau glycérinée 20 %, inactives dans le melzer, cyanophiles
+    globuleuses à subglobuleuses vue de front à subglobuleuses à largement ovoïdes vue de profil, lisses, à paroi légèrement épaissie, avec appendice hilaire proéminent jusqu'à 1,0-1,5 µm de longueur, à contenu uniguttulé, hyalines dans l’Eau glycérinée 20%, inactives dans le melzer, cyanophiles
     (5,3) 5,34 - 6,6 (6,9) × (4,2) 5,1 - 6,1 (6,2) µm
     Q = 1 - 1,2 (1,3) ; N = 25
     Me = 6,1 × 5,6 µm ; Qe = 1,1
@@ -229,7 +229,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: KOH 5 % = nul
+  reactions-chimiques: KOH 5% = nul
   receptacle: 
   remarques: 
   repartition: 

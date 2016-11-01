@@ -121,14 +121,13 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: forte, aromatique ou nauséabonde
-  exhalaison-de-la-chair: forte, aromatique ou nauséabonde
-  exhalaison-des-lames: forte, aromatique ou nauséabonde
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 

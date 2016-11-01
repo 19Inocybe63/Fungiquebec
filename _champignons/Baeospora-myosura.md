@@ -1,6 +1,6 @@
 ---
 nom: Baeospora myosura
-date: 2016-10-29 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c1.staticflickr.com/9/8453/8042774343_50f59b2d29_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8042774343/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
 album-flickr:
@@ -34,19 +34,17 @@ description:
   ascospores: 
   asques: 
   asterohyphidies: 
-  avertissement: 
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
   basides: cylindriques à claviformes, à 2-4 stérigmates, bouclées à la base, 12-14 x 3-4 µm
   basidiospores: |
-    ellipsoïdes à ovoïdes, lisses, à paroi légèrement épaissie, entre 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines, verdâtres dans le NH4OH 2,5 %, faiblement amyloïdes, faiblement cyanophiles
+    ellipsoïdes à ovoïdes, lisses, à paroi légèrement épaissie, entre 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines, verdâtres dans le NH4OH 2%, faiblement amyloïdes, faiblement cyanophiles
     3,3 [3,7; 3,8] 4,1 x 2 [2,5; 2,7] 3,1 µm
     Q = 1,2 [1,4; 1,5] 1,7; N = 30; C = 95%
     Me = 3,7 x 2,6 µm; Qe = 1,5
   basidioles: 
   basidiome: 
-  bibliographies: 
   biotopes: pousse sur cônes tombés de conifères
   boucles: observées en surface et au centre du stipitipellis
   brachybasidioles: 

@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans la sphaigne, milieu humide
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 6 mm Ø, conique campanulé, rouge orangé
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -170,7 +170,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexée, avec de nombreuses lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,7 +203,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 27-28 x 1 mm Ø, translucide, orangé
   pieds-steriles: 
   pigments: 
   pileipellis: 

@@ -120,9 +120,9 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
-  exhalaison: forte, aromatique ou nauséabonde
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison: 
+  exhalaison-de-la-chair: forte, aromatique ou nauséabonde
+  exhalaison-des-lames: forte, aromatique ou nauséabonde
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 

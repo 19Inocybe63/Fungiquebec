@@ -1,6 +1,6 @@
 ---
 nom: Inocybe maculata
-date: 2016-10-25 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c2.staticflickr.com/4/3736/9537628135_495f242585_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9537628135/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
 album-flickr:
@@ -78,7 +78,7 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-confirmee-par: Yves Lamoureux
   columelle: 
-  commentaires: 
+  commentaires: En ce moment, nous réalisons une publication sur le genre Inocybe s.l. du Québec. C'est pourquoi nous ne présenterons qu'une seule espèce dans le site.
   conidies: 
   conidiome: 
   conidiophores: 
@@ -245,7 +245,6 @@ description:
   receptacle: 
   remarques: |
     Les fibrilles blanches sur le disque sont des restes du velipellis, voile général des inocybes. Il est très peu développé chez certaines espèces, donc apparemment absent.
-    En ce moment, nous réalisons une publication sur le genre Inocybe s.l. du Québec. C'est pourquoi nous ne présenterons qu'une seule espèce dans le site.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

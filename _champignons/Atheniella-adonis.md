@@ -43,7 +43,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    elliptiques à subcitriformes vue frontale, elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl iso, inactives dans le melzer
+    5,5 [6,5; 7,2] 8,1 x 3,5 [3,9; 4,1] 4,4 µm
+    Q = 1,4 [1,6; 1,8] 2,1; N = 15; C = 95%
+    Me = 6,8 x 4 µm; Qe = 1,7
   basidioles: 
   basidiome: 
   bibliographies: 

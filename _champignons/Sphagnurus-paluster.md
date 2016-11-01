@@ -42,8 +42,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, non bouclées à la base, à granulations sidérophiles, 20 [22,7; 25,2] 27,9 x 6,5 [7,2; 7,8] 8,6 µm
+  basidiospores: |
+    elliptiques vue de profil à ovoïdes vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique, inactives dans le Melzer, faiblement cyanophiles
+    6,2 [7; 7,4] 8,2 x 3,9 [4,4; 4,6] 5,1 µm
+    Q = 1,4 [1,6] 1,8; N = 30; C = 95%
+    Me = 7,2 x 4,5 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -65,7 +69,7 @@ description:
   chair: 
   chancre: 
   chapeau: 
-  cheilocystides: 
+  cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -206,11 +210,11 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -230,9 +234,9 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-chimiques: Lorsque l’on dépose un petit morceau déshydraté de lames dans le Rouge Congo SDS, ce dernier devient noir, et ensuite le noir s’atténue pour disparaître complètement.
   receptacle: 
-  remarques: 
+  remarques: Sphagnurus paluster peut être tenue facilement pour une Mycène. Cependant, cette espèce pousse habituellement dans la mousse, tourbière.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

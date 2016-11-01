@@ -1,6 +1,6 @@
 ---
 nom: Imleria badia
-date: 2016-10-30 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c2.staticflickr.com/4/3920/14887778419_60f361d921_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14887778419/in/photolist-qryYtU-oFAfzb-oFzKQP
 album-flickr:
@@ -90,7 +90,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: déprimée près du pied, concolore à la face poroïde, 0,8-1,5 cm de longueur
+  couches-de-tubes: déprimée près du pied, concolore à la face poroïde, 8-15 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -240,7 +240,7 @@ description:
   reactions-chimiques: 
   receptacle: 
   remarques: |
-    Pour cette étude micrographique, l'utilisation du NH4OH (2 % et 10 %) et du KOH (5 %) doit être limitée, car les éléments observables se dissolvent très facilement. Ici, l'utilisation du NaCl prend toute sa pertinence, par exemple, dans les incrustations des hyphes du pileipellis, mais surtout dans les hyménocystides vacuolaires.
+    Pour cette étude micrographique, l'utilisation du NH<SUB>4</SUB>OH 2% et du KOH 5% doit être limitée, car les éléments observables se dissolvent très facilement. Ici, l'utilisation du NaCl prend toute sa pertinence, par exemple, dans les incrustations des hyphes du pileipellis, mais surtout dans les hyménocystides vacuolaires.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

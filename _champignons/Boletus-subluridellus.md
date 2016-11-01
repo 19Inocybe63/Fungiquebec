@@ -239,8 +239,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: |
     KOH 10% = sur la chair du chapeau devient saumon et la face poroïde devient brun rouille
-    NH4OH = sur la chair du chapeau devient jaune crème et la face poroïde devient brun
-    FeSO4 = sur la chair bleue, devient jaune à jaune or, légèrement orangé
+    NH<SUB>4</SUB>OH 10% = sur la chair du chapeau devient jaune crème et la face poroïde devient brun
+    FeSO<SUB>4 = sur la chair bleue, devient jaune à jaune or, légèrement orangé
   receptacle: 
   remarques: 
   repartition: 

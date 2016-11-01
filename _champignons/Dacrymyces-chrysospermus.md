@@ -1,6 +1,6 @@
 ---
 nom: Dacrymyces chrysospermus
-date: 2016-10-22 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c1.staticflickr.com/9/8493/8330888434_22bb5d7a01_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8330888434/in/photolist-dG9Y65-dGaYTu
 album-flickr:
@@ -35,19 +35,17 @@ description:
   ascospores: 
   asques: 
   asterohyphidies: 
-  avertissement: 
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
   basides: claviformes, fourchues, non bouclées à la base, 45-70 x 3-3,5 µm
   basidiospores: |
-    cylindriques à suballantoïdes, lisses, à paroi légèrement épaissie, avec sept septa à maturité, dépression supra-apiculaire et hile, à contenu pluriguttulé, hyalines dans le NH4OH 2,5 %, inactives dans le melzer, non cyanophiles
+    cylindriques à suballantoïdes, lisses, à paroi légèrement épaissie, avec sept septa à maturité, dépression supra-apiculaire et hile, à contenu pluriguttulé, hyalines dans le NH<SUB>4</SUB>OH 2%, inactives dans le melzer, non cyanophiles
     18,1 [19,6; 20,2] 21,6 x 6 [7,1; 7,5] 8,5 µm
     Q = 2,3 [2,7; 2,8] 3,2; N = 33; C = 95%
     Me = 19,9 x 7,3 µm; Q moyen = 2,7
   basidioles: 
   basidiome: 10-25 mm de hauteur, 10-60 mm Ø, de forme très variable, pulviné, en masse ± cérébriforme, multilobé, obconique, discoïde à étalé sur le substrat, lisse mais couvert de poils blanchâtres lâchement disposés au-dessus, jaune brillant à orangé au frais, rouge orangé à rougeâtre au sec, avec base réduite ± distincte ou radicante près du point d'attache, blanchâtre, à marge enroulée
-  bibliographies: 
   biotopes: pousse sur bois pourri de conifères
   boucles: 
   brachybasidioles: 

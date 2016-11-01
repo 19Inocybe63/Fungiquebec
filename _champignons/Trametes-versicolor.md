@@ -45,7 +45,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: annuel, 
+  basidiome: annuel
   bibliographies: 
   biotopes: pousse sur chicots, arbres renversés, souches, branches, débris ligneux, sur feuillus, parfois sur conifères (Abies, Pices)
   boucles: 
@@ -124,7 +124,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: légèrement acidulée, mais fugace
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -134,7 +134,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -237,7 +237,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 

@@ -210,11 +210,11 @@ description:
   pied: 27-28 x 1 mm Ø, translucide, orangé
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: formé d'hyphes parallèles et superficielles, avec excroissances diverticulées
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: fusiformes à long col
   poils: 
   poils-basaux: 
   poils-caulinaires: 

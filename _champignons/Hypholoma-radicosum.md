@@ -1,6 +1,6 @@
 ---
 nom: Hypholoma radicosum
-date: 2016-10-30 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c2.staticflickr.com/4/3898/14579980651_218188fc9e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14579980651/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
 album-flickr:
@@ -120,9 +120,9 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
-  exhalaison: 
-  exhalaison-de-la-chair: désagréable
-  exhalaison-des-lames: désagréable
+  exhalaison: forte, aromatique ou nauséabonde
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 

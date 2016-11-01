@@ -1,6 +1,6 @@
 ---
 nom: Xeromphalina campanella
-date: 2016-10-30 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c1.staticflickr.com/9/8379/8613638912_3aa70ccb99_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8613638912/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
 album-flickr:
@@ -204,7 +204,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 10-50 x 1-3 mm, cylindrique, légèrement élargi vers la base, parfois subbulbeux, souvent courbe, cartilagineux, creux, pruineux puis glabre, lisse, souvent luisant, jaunâtre vers l'apex, brun foncé à brun rougeâtre vers la base, tomenteux fauve brillant, orangé à rouille à la base
+  pied: 10-50 x 1-3 mm Ø, cylindrique, légèrement élargi vers la base, parfois subbulbeux, souvent courbe, cartilagineux, creux, pruineux puis glabre, lisse, souvent luisant, jaunâtre vers l'apex, brun foncé à brun rougeâtre vers la base, tomenteux fauve brillant, orangé à rouille à la base
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis

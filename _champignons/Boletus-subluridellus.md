@@ -240,7 +240,7 @@ description:
   reactions-chimiques: |
     KOH 10% = sur la chair du chapeau devient saumon et la face poroïde devient brun rouille
     NH<SUB>4</SUB>OH 10% = sur la chair du chapeau devient jaune crème et la face poroïde devient brun
-    FeSO<SUB>4 = sur la chair bleue, devient jaune à jaune or, légèrement orangé
+    FeSO<SUB>4</SUB> = sur la chair bleue, devient jaune à jaune or, légèrement orangé
   receptacle: 
   remarques: 
   repartition: 

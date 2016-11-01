@@ -1,6 +1,6 @@
 ---
 nom: Entoloma formosum
-date: 2016-10-29 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c2.staticflickr.com/6/5553/14864698956_e8a7930466_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14864698956/in/photolist-qepDS2-oDxt83-oDxrA5
 album-flickr:
@@ -41,7 +41,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, 2 stérigmates, bouclées à la bass
   basidiospores: |
-    hétérodiamétriques 5-7 angles, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines à verdâtres dans le NaCl isotonique 0,9 %, inactives dans le melzer, non cyanophiles
+    hétérodiamétriques 5-7 angles, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines à verdâtres dans le NaCl isotonique 0,9%, inactives dans le melzer, non cyanophiles
     10 [11; 11,4] 12,3 x 7,1 [7,8; 8,1] 8,7 µm
     Q = 1,2 [1,4; 1,5] 1,6; N = 30; C = 95%
     Me = 11,2 x 7,9 µm; Qe = 1,4

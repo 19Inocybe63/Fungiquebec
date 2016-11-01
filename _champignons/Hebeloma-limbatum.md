@@ -1,6 +1,6 @@
 ---
 nom: Hebeloma limbatum
-date: 2016-10-30 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c1.staticflickr.com/9/8742/29622268270_22ca218709_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29622268270/in/photolist-NdgqNj-MwxnQN-M8BSkh
 album-flickr:
@@ -42,7 +42,7 @@ description:
   base-stipitiforme: 
   basides: piriformes à largement claviformes, largement cylindriques, tétrastérigmates, bouclées à la base, à contenu vacuolaire (et granulations carminophiles ?),  23 [27,3 ; 32,5] 36,7 × 8,5 [9,5 ; 10,8] 11,8 µm en moyenne
   basidiospores: |
-    citriformes, fusiformes vue de front à ellipsoïdes, amigdaliformes vue de profil, parfois à sommet papillé, presque lisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à pluriguttulé (variable), hyalines dans l’eau glycérinée 20 %, moyennement dextrinoïdes (D2), non cyanophiles
+    citriformes, fusiformes vue de front à ellipsoïdes, amigdaliformes vue de profil, parfois à sommet papillé, presque lisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à pluriguttulé (variable), hyalines dans l’eau glycérinée 20%, moyennement dextrinoïdes (D2), non cyanophiles
     (9,6) 10,2 - 11,9 (13,8) × (5,2) 5,4 - 6,1 (6,7) µm
     Q = (1,7) 1,8 - 2,1 (2,2) ; N = 30
     Me = 10,9 × 5,7 µm ; Qe = 1,9

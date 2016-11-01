@@ -1,6 +1,6 @@
 ---
 nom: Deconica montana
-date: 2016-10-11 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c2.staticflickr.com/4/3918/14248225929_dbab7946e2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14248225929/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
 album-flickr:
@@ -41,7 +41,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    elliptiques à largement elliptiques vue de profil, subtriangulaires-lentiformes à ± hexagonales vue frontale, tronquées, lisses, à paroi mince entre 0,1-0,2 µm, avec appendice hilaire, et petit pore germinatif pas toujours bien visible 0,8-0,9 µm Ø, à contenu homogène dans le NaCl isotonique 0,9 %, mais uniguttulé dans le melzer, brun-gris pâle avec reflets violets dans le NaCl, dextrinoïdes, non cyanophiles
+    elliptiques à largement elliptiques vue de profil, subtriangulaires-lentiformes à ± hexagonales vue frontale, tronquées, lisses, à paroi mince entre 0,1-0,2 µm, avec appendice hilaire, et petit pore germinatif pas toujours bien visible 0,8-0,9 µm Ø, à contenu homogène dans le NaCl isotonique 0,9%, mais uniguttulé dans le melzer, brun-gris pâle avec reflets violets dans le NaCl, dextrinoïdes, non cyanophiles
     6 [6,6; 6,8] 7,3 x 4,4 [5; 5,3] 5,8 x 3,5 [4; 4,2] 4,6 µm
     Q = 1,5 [1,6; 1,7] 1,8; N = 30; C = 95%
     Me = 6,7 x 4,1 µm; Qe = 1,7

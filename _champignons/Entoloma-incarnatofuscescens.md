@@ -1,6 +1,6 @@
 ---
 nom: Entoloma cf. incarnatofuscescens
-date: 2016-10-23 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c2.staticflickr.com/8/7260/7808924042_8d013e0dc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7808924042/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
 album-flickr:
@@ -239,9 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 9, les Entoloma, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-chimiques: 
   receptacle: 
-  remarques: |
-    Message de Machiel Noordeloos en 2012 = This is a nice little Entoloma, which may come near E. incarnatofuscescens from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.
-    Il s'agit de la collection Entoloma cf. incarnatofuscescens_2012M_240, Canadian National Mycological Herbarium (DAOM).
+  remarques: Il s'agit de la collection Entoloma cf. incarnatofuscescens_2012M_240, Canadian National Mycological Herbarium (DAOM).
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

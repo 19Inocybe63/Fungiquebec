@@ -1,6 +1,6 @@
 ---
 nom: Daedalea quercina
-date: 2016-10-15 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c2.staticflickr.com/4/3930/15461315042_c12164c798_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461315042/in/photolist-pK1eva-pyghih-pwfJKU
 album-flickr:
@@ -40,7 +40,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    cylindriques à amygdaliformes vue de profil, elliptiques vue frontal, lisses, à paroi mince, avec appendice hilaire très petit, à contenu de petites granulations à homogènes, hyalines dans le NaCl isotonique 0,9%, inactive dans le melzer, cyanophiles, orthochromatiques
+    4,4 [5,2; 5,5] 6,4 x 2,4 [2,9; 3,2] 3,7 µm
+    Q = 1,5 [1,7; 1,8] 2; N = 30; C = 95%
+    Me = 5,4 x 3 µm; Qe = 1,8
   basidioles: 
   basidiome: pérenne, sessile, tenace, subéreux à ligneux-dur, fortement adné
   bibliographies: 
@@ -84,7 +88,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: indistinctement stratifiées, ochracé pâle, à trame distinctement plus foncée, jusqu'à 4 cm de longueur
+  couches-de-tubes: indistinctement stratifiées, ochracé pâle, à trame distinctement plus foncée, jusqu'à 40 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -229,7 +233,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: |
-    KOH 5 % = devient rouge brun foncé à noir
+    KOH 5% = devient rouge brun foncé à noir
     Rouge Congo SDS = lors d'une coupe, le contexte devient noir
   receptacle: 
   remarques: 

@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères, feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanc, immuable, parfois avec de légère coloration rosâtre lorsque coupé, devenant jaune dans la tige à maturité, jaune gris dans la base, très souvent parsemé de tunnels de larves
   chancre: 
-  chapeau: 
+  chapeau: 20-90 mm Ø, convexe, à largement convexe, à presque plat, sec, finement velouté lorsque jeune, devenant glabre à maturité, brun grisâtre foncé lorsque jeune, devient terne brun grisâtre à gris à maturité, striées de fibrilles apprimées plus foncées, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -73,7 +73,7 @@ description:
   clavules: 
   collection-confirmee-par: 
   collection-determinee-par: 
-  collection-determination-provisoire-par: 
+  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -124,17 +124,17 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: légèrement sucrée à non distinctive
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanchâtre lorsque jeune, devenant brunâtre à grisâtre, Pas de contusions ou de contusions légèrement brunes, 3-4 pores circulaires par mm, formé de tubes ayant ± 10 mm de profondeur
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare à occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -187,7 +187,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire à dispersé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -201,9 +201,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 30-90 mm x 10-30 mm Ø, cylindrique ± égale, blanchâtre, devenant jaune gris à jaune orangé de la base vers le haut, réticulé en évidence sur toute la tige, avec un gros réticulum blanc qui devient jaunâtre, puis brunâtre ou noirâtre à maturité ou lorsqu'il est manipulé, ferme, à la base parfois radicante
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,12 +236,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun olive à brun jaune
   spores: 
   spherocytes: 
   sporocystes: 

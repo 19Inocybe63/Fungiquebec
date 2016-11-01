@@ -142,22 +142,22 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: extrémité hyphale cystidioïde
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
   hyphes-glebales: 
   hyphes-gleopleres: 
   hyphes-hymeniales: 
-  hyphes-ligatives: 
+  hyphes-ligatives: présentes
   hyphes-oleiferes: 
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 
-  hyphes-squelettiques: 
+  hyphes-squelettiques: présentes
   hyphes-skeletoligative: 
   hyphes-subiculaires: 
-  hyphes-tramales: 
+  hyphes-tramales: présentes
   hyphes-vesiculaires: 
   hyphidies: 
   hyphique: 

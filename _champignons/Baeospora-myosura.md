@@ -39,7 +39,7 @@ description:
   base-stipitiforme: 
   basides: cylindriques à claviformes, à 2-4 stérigmates, bouclées à la base, 12-14 x 3-4 µm
   basidiospores: |
-    ellipsoïdes à ovoïdes, lisses, à paroi légèrement épaissie, entre 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines, verdâtres dans le NH4OH 2%, faiblement amyloïdes, faiblement cyanophiles
+    ellipsoïdes à ovoïdes, lisses, à paroi légèrement épaissie, entre 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines, verdâtres dans le NH<SUB>(4)OH 2%, faiblement amyloïdes, faiblement cyanophiles
     3,3 [3,7; 3,8] 4,1 x 2 [2,5; 2,7] 3,1 µm
     Q = 1,2 [1,4; 1,5] 1,7; N = 30; C = 95%
     Me = 3,7 x 2,6 µm; Qe = 1,5

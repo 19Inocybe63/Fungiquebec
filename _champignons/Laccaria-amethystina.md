@@ -1,6 +1,6 @@
 ---
 nom: Laccaria amethystina
-date: 2016-10-31 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c2.staticflickr.com/4/3677/19729624453_57b5fb126c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19729624453/in/photolist-w4rtYR-wHGdyw
 album-flickr:
@@ -231,7 +231,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques: |
-    KOH 10 % = surface du chapeau devenant brunâtre
+    KOH 10% = surface du chapeau devenant brunâtre
   receptacle: 
   remarques: 
   repartition: 

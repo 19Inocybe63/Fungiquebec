@@ -255,7 +255,7 @@ description:
     Boletus griseus Frost, Annual Report on the New York State Museum of Natural History 29:45 (1878)
     Ceriomyces griseus (Frost) Murrill, Mycologia 1 (4):145 (1909)
     Xerocomus griseus (Frost) Singer, Annales Mycologici 40:44 (1942)
-    Tubiporus griseus (Frost) S. Imai:113 (1968)
+    Tubiporus griseus (Frost) S. Imai, 113 (1968)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

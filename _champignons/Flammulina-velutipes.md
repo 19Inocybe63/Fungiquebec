@@ -1,6 +1,6 @@
 ---
 nom: Flammulina velutipes
-date: 2016-10-30 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c2.staticflickr.com/8/7303/8787825572_72e4f87309_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8787825572/in/photolist-enYcQc-euNGm8-eoxUo1
 album-flickr:
@@ -41,7 +41,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à cylindriques, tétrastérigmates, bouclées à la base, peu émergentes à maturité, 27-29 x 4-5 µm
   basidiospores: |
-    ellipsoïdes à cylindriques, lisses, à paroi légèrement épaissie, de 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines, verdâtres dans le NH4OH 2,5 %, inactives dans le melzer, cyanophiles
+    ellipsoïdes à cylindriques, lisses, à paroi légèrement épaissie, de 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines dans le NH<SUB>4</SUB>OH 2%, inactives dans le melzer, cyanophiles
     5,2 [6,2; 6,6] 7,7 x 3 [3,5; 3,6] 4,1 µm
     Q = 1,4 [1,8; 1,9] 2,2; N = 45; C = 95%
     Me = 6,4 x 3,5 µm; Qe = 1,8

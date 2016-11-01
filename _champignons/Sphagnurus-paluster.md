@@ -44,7 +44,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrastérigmates, non bouclées à la base, à granulations sidérophiles, 20 [22,7; 25,2] 27,9 x 6,5 [7,2; 7,8] 8,6 µm
   basidiospores: |
-    elliptiques vue de profil à ovoïdes vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique, inactives dans le Melzer, faiblement cyanophiles
+    ovoïdes vue de front, à elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique 0,9 %, inactives dans le melzer, faiblement cyanophiles
     6,2 [7; 7,4] 8,2 x 3,9 [4,4; 4,6] 5,1 µm
     Q = 1,4 [1,6] 1,8; N = 30; C = 95%
     Me = 7,2 x 4,5 µm; Qe = 1,6

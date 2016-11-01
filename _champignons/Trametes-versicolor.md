@@ -45,9 +45,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur chicots, arbres renversés, souches, branches, débris ligneux, sur feuillus, parfois sur conifères (Abies, Pices)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 10-50 mm en surplomb, dont la largeur varie de 10-60 mm, l'épaisseur varie généralement de 2-5 mm à la base du chapeau, convexe, ou plat, généralement dimidié, semi-circulaire, réniforme ou parfois presque orbiculaire, à marge poreuse, mince, légèrement onduleuse, lobée et partiellement effritée à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -187,7 +187,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: se développe rarement seul, sauf sur conifères ; sur les feuillus, il forme d'innombrables chapeaux imbriqués latéralement soudés, ou disposés en rosette
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -201,7 +201,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -242,7 +242,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

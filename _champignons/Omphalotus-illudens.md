@@ -1,6 +1,6 @@
 ---
 nom: Omphalotus illudens
-date: 2016-10-30 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c1.staticflickr.com/9/8431/7710718004_d5e8a9582b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7710718004/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
 album-flickr:
@@ -41,7 +41,7 @@ description:
   base-stipitiforme: 
   basides: piriformes à 2-4 stérigmates
   basidiospores: |
-    subglobuleuses à largement ellipsoïdes, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines à verdâtre dans le NaOH 2,5 %, inactives dans le melzer, cyanophiles
+    subglobuleuses à largement ellipsoïdes, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines à verdâtre dans le NH<SUB>4</SUB>OH 2%, inactives dans le melzer, cyanophiles
     4,9 [5,3; 5,5] 5,9 x 4,4 [4,7; 4,8] 5,1 µm
     Q = 1 [1,1; 1,2] 1,3; N = 50; C = 95%
     Me = 5,4 x 4,7 µm; Q moyen = 1,1
@@ -202,7 +202,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 30-70 x 10-20 mm Ø., blanchâtre à grisâtre, orangé à concolore, plus pâle que le chapeau, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement, finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du pied, ou presque, d'où l'on peut observer un léger suintement du pied, cespiteux
+  pied: 30-70 x 10-20 mm Ø, blanchâtre à grisâtre, orangé à concolore, plus pâle que le chapeau, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement, finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du pied, ou presque, d'où l'on peut observer un léger suintement du pied, cespiteux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,9 +234,9 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: |
-    KOH 10 % = légèrement verdâtre sur le chapeau et le pied
-    FeS04 = brunes à brunâtres sur les lames après ± 5 minutes
-    NH4OH 10 % = légèrement verdâtre sur la chair du pied
+    FeSO<SUB>4</SUB> = brunes à brunâtres sur les lames après ± 5 minutes
+    KOH 10% = légèrement verdâtre sur le chapeau et le pied
+    NH<SUB>4</SUB>OH 10% = légèrement verdâtre sur la chair du pied
   receptacle: 
   remarques: |
     Parfois observée de fines gouttelettes orangées, collantes et visqueuses, comme exsudées, et qui se fixent sur le chapeau et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux.

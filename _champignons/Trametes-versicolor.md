@@ -89,7 +89,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: parfois décurrents sur le support et mesurent 4 mm ou moins de profondeur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -222,7 +222,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: réguliers, ronds, 4-6 pores par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

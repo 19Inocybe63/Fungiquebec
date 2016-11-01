@@ -31,7 +31,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: blanche
   arthroconidies: 
   articles: 
   ascome: 
@@ -42,7 +42,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes élancées, à tétrastérigmates, 20-22 x 6-7 µm
   basidiospores: |
     elliptiques à subcitriformes vue frontale, elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl iso, inactives dans le melzer
     5,5 [6,5; 7,2] 8,1 x 3,5 [3,9; 4,1] 4,4 µm
@@ -51,8 +51,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans la sphaigne, milieu humide
-  boucles: 
+  biotopes: pousse dans la sphaigne, la litière de conifères, milieu humide
+  boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -66,10 +66,10 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fragile, rosâtre puis blanchâtre
   chancre: 
   chapeau: 6 mm Ø, conique campanulé, rouge orangé
-  cheilocystides: 
+  cheilocystides: abondantes, fusiformes à lagéniformes, souvent avec un long col, lisses, 34-60 x 8-14 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistinctes
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -138,7 +138,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnelle
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexée, avec de nombreuses lamellules
+  lames: adnées à adnexée, avec de nombreuses lamellules, étroites, espacées à subespacées, blanches, roses à rougeâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -191,7 +191,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -205,16 +205,16 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
-  pied: 27-28 x 1 mm Ø, translucide, orangé
+  pied: 27-28 x 1 mm Ø, cylindrique, égal, fragile, pruineux au début puis glabre et lisse, translucide, rougeâtre orangé
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'hyphes parallèles et superficielles, avec excroissances diverticulées
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: fusiformes à long col
+  pleurocystides: semblables aux cheilocystides
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -240,12 +240,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistinctes
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

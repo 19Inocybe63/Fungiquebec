@@ -240,7 +240,7 @@ description:
   reactions-chimiques: 
   receptacle: 
   remarques: |
-    Pour cette étude micrographique, l'utilisation du NH<SUB>4</SUB>OH 2% et du KOH 5% doit être limitée, car les éléments observables se dissolvent très facilement. Ici, l'utilisation du NaCl prend toute sa pertinence, par exemple, dans les incrustations des hyphes du pileipellis, mais surtout dans les hyménocystides vacuolaires.
+    Pour cette étude micrographique, l'utilisation du NH<SUB>4</SUB>OH 2% et du KOH 5% doit être limitée, car les éléments observables se dissolvent très facilement. Ici, l'utilisation du NaCl isotonique 0,9% ou l'eau glycérinée 10% prend toute sa pertinence, par exemple, dans les incrustations des hyphes du pileipellis, mais surtout dans les hyménocystides vacuolaires.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

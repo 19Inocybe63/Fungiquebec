@@ -1,6 +1,6 @@
 ---
 nom: Leratiomyces riparius
-date: 2016-10-30 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18014840069/in/photolist-HDHSvu-HNrU6e-FUfGoV-tG2gVW-trUAiD-trLvyU-trULjR-dB653b-rLyqV3-f4auVu-eUs8vP-eUsn5z-eUDu43-cU6gkJ-cU6fJE-cU6fxJ-cU6fXb
 album-flickr:
@@ -237,10 +237,10 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: |
-    NH4OH 10% = le pied devient légèrement jaunâtre, chapeau aucune coloration
-    FeSO4 = aucune coloration
-    KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau auncune coloration
+    FeSO<SUB>4</SUB> = aucune coloration
     Gaïacol = aucune coloration sur les lames et le pied, rose lilacée sur le chapeau après > 5’
+    KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau auncune coloration
+    NH<SUB>4</SUB>OH 10% = le pied devient légèrement jaunâtre, chapeau aucune coloration
   receptacle: 
   remarques: L'épithète « riparius » signifie qui se tient sur les rives (en parlant d'oiseaux); il y a aussi « ripariolus » qui signifie qui se trouve sur la rive. Difficile ici de donner un nom français. (Dictionnaire Gaffiot latin-français, 1934.
   repartition: 

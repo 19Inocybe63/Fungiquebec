@@ -39,7 +39,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrastérigmates, non bouclées à la base, 30-33 x 8-10 µm en moyenne
   basidiospores: |
-    subglobuleuses à elliptiques vue de profil, largement elliptiques vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines avec reflet verdâtre en NaCl isotonique 0,9%, inactives en melzer, cyanophiles
+    subglobuleuses à elliptiques vue de profil, largement elliptiques vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines avec reflet verdâtre en NaCl isotonique 0,9%, inactives dans le melzer, cyanophiles
     7,6 [8,2; 8,5] 9,1 x 5,9 [6,3; 6,5] 6,9 µm
     Q = 1,2 [1,3] 1,4; N = 30; C = 95%
     Me = 8,3 x 6,4 µm; Qe = 1,3

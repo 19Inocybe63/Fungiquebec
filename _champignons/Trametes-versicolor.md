@@ -124,7 +124,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement acidulée, mais fugace
+  exhalaison: légèrement anisée
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

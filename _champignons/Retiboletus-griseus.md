@@ -228,7 +228,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
+    Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 

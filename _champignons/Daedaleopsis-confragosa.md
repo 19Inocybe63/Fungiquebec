@@ -1,6 +1,6 @@
 ---
 nom: Daedaleopsis confragosa
-date: 2016-10-25 00:00:00
+date: 2016-11-01 00:00:00
 image: https://c1.staticflickr.com/1/729/21681354819_68688b6f57_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21681354819/in/photolist-z2UBqp-zkgMqH-zh7uJN
 album-flickr:
@@ -226,7 +226,7 @@ description:
   publications: |
     Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
-  reactions-chimiques: KOH 10 % = Toutes les parties deviennent gris foncé, noir
+  reactions-chimiques: KOH 10% = Toutes les parties deviennent gris foncé, noir
   receptacle: 
   remarques: 
   repartition: 

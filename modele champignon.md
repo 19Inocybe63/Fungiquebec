@@ -17,12 +17,14 @@ planches:
 details:
   nom-francais: 
   autorites: 
+  ordre: 
   famille: 
   genre: 
   espece: 
   litterature: 
   collection(s)-cueillie(s): 
   fongarium: 
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 

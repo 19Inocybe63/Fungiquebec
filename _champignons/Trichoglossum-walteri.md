@@ -1,6 +1,6 @@
 ---
 nom: Trichoglossum walteri
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/6/5831/21330589130_0e890b0721_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21330589130/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Trichoglosse de Walter
   autorites: (Berk.) E.J. Durand
+  ordre: Geoglossales
   famille: Geoglossaceae
   genre: Trichoglossum
   espece: walteri
   litterature: Durand, E.J. 1908. The Geoglossaceae of North America. Annales Mycologici. 6:387-477
   collection(s)-cueillie(s): 9 eptembre 2015; 18 septembre 2015; 20 septembre 2015
   fongarium: cKc0458; cKc0468; cKc0472
+  numero-de-planche-micrographique: cKc0468-0122
 
 description:
   acanthocytes: 
@@ -36,7 +38,7 @@ description:
     Kaufholtz-Couture, C. Clé des espèces du genre Trichoglossum au Québec, Publication libre, avril 2016, 3 p.
   ascome: jusqu'à 90 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts
   ascospores: |
-    cylindriques étroites, fusiformes à claviformes, lisses, parfois entre 2 et 3 septa, plus souvent à 7 septa, fuligineuses à brun pâle dans l’eau glycérinée 20 %
+    cylindriques étroites, fusiformes à claviformes, lisses, parfois entre 2 et 3 septa, plus souvent à 7 septa, fuligineuses à brun pâle dans l’eau glycérinée 20%
     (84,6) 87,9 - 97,8 (100,3) × (5) 5,3 - 6 (6,1) µm
     Q = (14,5) 14,8 - 17,9 (18,3) ; N = 30
     Me = 92,7 × 5,6 µm ; Qe = 16,5

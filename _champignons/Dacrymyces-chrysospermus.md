@@ -1,6 +1,6 @@
 ---
 nom: Dacrymyces chrysospermus
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8493/8330888434_22bb5d7a01_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8330888434/in/photolist-dG9Y65-dGaYTu
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Trémelle à spores jaunes
   autorites: Berk. & M.A. Curtis
+  ordre: Dacrymycetales
   famille: Dacrymycetaceae
   genre: Dacrymyces
   espece: chrysospermus
   litterature: Berkeley, M.J. 1873. Notices of North American fungi (cont.). Grevillea. 2(14):17-20
   collection(s)-cueillie(s): 13 octobre 2012
   fongarium: cKc0019
+  numero-de-planche-micrographique: cKc0019-0009
 
 description:
   acanthocytes: 
@@ -228,7 +230,7 @@ description:
   publications: |
     Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Le Rouge Congo SDS a été utilisé afin d’obtenir une meilleure observation des parois et des septa.
   repartition: 

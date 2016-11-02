@@ -1,6 +1,6 @@
 ---
 nom: Deconica montana
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3918/14248225929_dbab7946e2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14248225929/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Psilocybe des montagnes
   autorites: (Pers.) P.D. Orton
+  ordre: Agaricales
   famille: Strophariaceae
   genre: Deconica
   espece: montana
   litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
   collection(s)-cueillie(s): 11 juin 2014; 15 juin 2014
   fongarium: cKc0164; cKc0169
+  numero-de-planche-micrographique: cKc0164-0072
 
 description:
   acanthocytes: 
@@ -233,7 +235,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Au printemps, il n'est pas rare de voir D. montana pousser au travers les bryophytes et les mousses.
   repartition: 

@@ -1,6 +1,6 @@
 ---
 nom: Sphagnurus paluster
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3881/14345415626_ee4db60ceb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14345415626/in/photolist-qad15s-nRE1hb
 album-flickr:
@@ -15,12 +15,14 @@ planches:
 details:
   nom-francais: Téphrocybe des marais
   autorites: (Peck) Redhead & V. Hofstetter
+  ordre: Agaricales
   famille: Tricholomataceae
   genre: Sphagnurus
   espece: paluster
   litterature: Index Fungorum. 202
   collection(s)-cueillie(s): 7 juin 2014
   fongarium: cKc0161
+  numero-de-planche-micrographique: cKc0161-0059
 
 description:
   acanthocytes: 
@@ -44,7 +46,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrastérigmates, non bouclées à la base, à granulations sidérophiles, 20 [22,7; 25,2] 27,9 x 6,5 [7,2; 7,8] 8,6 µm
   basidiospores: |
-    ovoïdes vue de front à elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique 0,9 %, inactives dans le melzer, faiblement cyanophiles
+    ovoïdes vue de front à elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique 0,9%, inactives dans le melzer, faiblement cyanophiles
     6,2 [7; 7,4] 8,2 x 3,9 [4,4; 4,6] 5,1 µm
     Q = 1,4 [1,6] 1,8; N = 30; C = 95%
     Me = 7,2 x 4,5 µm; Qe = 1,6

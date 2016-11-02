@@ -1,6 +1,6 @@
 ---
 nom: Helvella corium
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/723/20522852470_aca2a0fe2c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20522852470/in/album-72157675892972545/
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Helvelle coriace
   autorites: (O. Weberb.) Massee
+  ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
   espece: corium
   litterature: Massee, G.E. 1895. British Fungus-Flora. 4:1-522
   collection(s)-cueillie(s): 14 août 2015; 19 août 2015
   fongarium: cKc0406; cKc0419
+  numero-de-planche-micrographique: cKc0406-0132
 
 description:
   acanthocytes: 
@@ -236,7 +238,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Ascospores finement rugueuses au microscope à balayage électronique, (Scanning electron microscope (SEM))
   repartition: 

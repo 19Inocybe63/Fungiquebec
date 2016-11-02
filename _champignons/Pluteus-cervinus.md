@@ -1,6 +1,6 @@
 ---
 nom: Pluteus cervinus
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/8/7699/27530665341_5619c52b91_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27530665341/in/photolist-HWMRDP-J6iLNE-H8pRei-dZJen1-e1s9mU
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Plutée couleur de cerf
   autorites: (Schaeff.) P. Kumm.
+  ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
   espece: cervinus
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
   collection(s)-cueillie(s): 11 juin 2016
   fongarium: cKc0001
+  numero-de-planche-micrographique: cKc0001-0129
 
 description:
   acanthocytes: 
@@ -42,7 +44,7 @@ description:
   base-stipitiforme: 
   basides: longuement claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, 2-4 stérigmates, non bouclées à la base, à contenu vacuolaire ou bien carminophile, émergentes sur la moitié de leur longueur lorsque mature (27,7) 32,4 - 38 (38,9) × (7,3) 7,4 - 8,8 (9,1) µm en moyenne
   basidiospores: |
-    ovoïdes à subtriangulaires vue frontale, elliptiques à largement elliptiques vue de profil, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu parfois uniguttulé à granulations, hyalines dans l’eau glycérinée 20 %, inactives dans le melzer, non cyanophiles
+    ovoïdes à subtriangulaires vue frontale, elliptiques à largement elliptiques vue de profil, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu parfois uniguttulé à granulations, hyalines dans l’eau glycérinée 20%, inactives dans le melzer, non cyanophiles
     (6,1) 6,3 - 7,8 (8) × (4,5) 4,7 - 5,2 (6,1) µm
     Q = (1,2) 1,3 - 1,5 (1,6) ; N = 30
     Me = 6,8 × 4,9 µm ; Qe = 1,4

@@ -1,6 +1,6 @@
 ---
 nom: Bisporella citrina
-date: 2016-10-29 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15397943256/in/photolist-oTnnJF-psEu5h
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Pézize citrine
   autorites: (Batsch) Korf & S.E. Carp.
+  ordre: Helotiales
   famille: Helotiaceae
   genre: Bisporella
   espece: citrina
   litterature: Korf, R.P.; Carpenter, S.E. 1974. Bisporella, a generic name for Helotium citrinum and its allies, and the generic names Calycella and Calycina. Mycotaxon. 1(1):51-62
   collection(s)-cueillie(s): 2 octobre 2014
   fongarium: cKc0279
+  numero-de-planche-micrographique: cKc0279-0043
 
 description:
   acanthocytes: 
@@ -37,7 +39,7 @@ description:
     7,4 [8,8; 9,4] 10,7 x 2,7 [3,1; 3,2] 3,5 µm
     Q = 2,3 [2,8; 3] 3,5; N = 30; C = 95%
     Me = 9,1 x 3,1 µm; Qe = 2,9
-  asques: cylindriques-clavés, à 8 spores irrégulièrement bisériées, à pore apical indistinctement amyloïde, 100-135 x 7-8(10) µm
+  asques: cylindriques-clavés, à 8 spores irrégulièrement bisériées, à pore apical indistinctement amyloïde, 100-135 x 7-8 (10) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -230,7 +232,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

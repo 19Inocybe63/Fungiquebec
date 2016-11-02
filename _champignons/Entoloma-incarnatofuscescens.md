@@ -1,6 +1,6 @@
 ---
 nom: Entoloma cf. incarnatofuscescens
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/8/7260/7808924042_8d013e0dc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7808924042/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Entolome bleu pourpre
   autorites: (Britzelm.) Noordel.
+  ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
   espece: cf. incarnatofuscescens
   litterature: 
   collection(s)-cueillie(s): 18 août 2012
   fongarium: 2012M_240, Canadian National Mycological Herbarium (DAOM)
+  numero-de-planche-micrographique: cKc-ÉTUDE0005
 
 description:
   acanthocytes: 
@@ -237,7 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 9, les Entoloma, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Il s'agit de la collection Entoloma cf. incarnatofuscescens_2012M_240, Canadian National Mycological Herbarium (DAOM).
   repartition: 

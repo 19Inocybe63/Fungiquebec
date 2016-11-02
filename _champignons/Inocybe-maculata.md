@@ -1,6 +1,6 @@
 ---
 nom: Inocybe maculata
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3736/9537628135_495f242585_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9537628135/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Inocybe maculé
   autorites: Boud.
+  ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
   espece: maculata
   litterature: Boudier, J.L.É. 1885. Description de quelques espèces nouvelles de champignons basidiosporés. Bulletin de la Société Botanique de France. 32:282-283
   collection(s)-cueillie(s): 18 août 2013
   fongarium: cKc0115
+  numero-de-planche-micrographique: cKc0115-0101
 
 description:
   acanthocytes: 
@@ -241,7 +243,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: |
     Les fibrilles blanches sur le disque sont des restes du velipellis, voile général des inocybes. Il est très peu développé chez certaines espèces, donc apparemment absent.

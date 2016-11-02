@@ -1,6 +1,6 @@
 ---
 nom: Entoloma conicum
-date: 2016-10-23 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/6/5575/14701084889_7123cd3564_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14701084889/in/photolist-op5SWB-op5UmR-qfrG8V
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Entolome conique
   autorites: (Sacc.) Hesler
+  ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
   espece: conicum
   litterature: Hesler, L.R. 1967. Entoloma (Rhodophyllus) in Southeastern North America. Beihefte zur Nova Hedwigia. 23:1-220
   collection(s)-cueillie(s): 11 août 2014
   fongarium: cKc0203
+  numero-de-planche-micrographique: cKc0203-0052
 
 description:
   acanthocytes: 
@@ -237,7 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 9, les Entoloma, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

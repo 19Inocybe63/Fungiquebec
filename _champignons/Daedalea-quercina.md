@@ -1,6 +1,6 @@
 ---
 nom: Daedalea quercina
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3930/15461315042_c12164c798_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461315042/in/photolist-pK1eva-pyghih-pwfJKU
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Dédale du chêne
   autorites: (L.) Pers.
+  ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Daedalea
   espece: quercina
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
   collection(s)-cueillie(s): 6 octobre 2014; 3 juin 2016
   fongarium: cKc0294; cKc0494
+  numero-de-planche-micrographique: cKc0294-0042
 
 description:
   acanthocytes: 
@@ -74,7 +76,7 @@ description:
   clavules: 
   collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: Un mycologue européen m'indique. « Je ne vois pas dans la littérature mention d'hyphes génératrices tramales, à mon sens tu devrais trouver ces hyphes à côté de celles à extrémités cystoïdes, et indistinctes de celles-ci, car personnellement je pense que ce sont ces hyphes qui évoluent au fil du temps et finissent par se différencier à leur extrémité soit en probasides, puis basides, soit en cystides. » Il faudra voir si la définition de Daedalea quercina en Amérique est identique à celle de l'Europe.
   conidies: 
   conidiome: 
   conidiophores: 
@@ -232,7 +234,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: |
+  reactions-macrochimiques: |
     KOH 5% = devient rouge brun foncé à noir
     Rouge Congo SDS = lors d'une coupe, le contexte devient noir
   receptacle: 

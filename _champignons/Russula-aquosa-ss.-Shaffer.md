@@ -19,7 +19,7 @@ details:
   litterature: 
   collection(s)-cueillie(s): 27 août 2014; 10 septembre 2014; 24 septembre 2014
   fongarium: cKc0224; cKc0244; cKc0268
-  numero-de-planche-micrographique: 
+  numero-de-planche-micrographique: cKc0268-0068
 
 description:
   acanthocytes: 

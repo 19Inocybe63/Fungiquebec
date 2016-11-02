@@ -1,6 +1,6 @@
 ---
 nom: Laccaria amethystina
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3677/19729624453_57b5fb126c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19729624453/in/photolist-w4rtYR-wHGdyw
 album-flickr:
@@ -15,12 +15,14 @@ planches:
 details:
   nom-francais: 
   autorites: Cooke
+  ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
   espece: amethystina
   litterature: Cooke, M.C. 1884. New British fungi. Grevillea. 12(63):65-70
   collection(s)-cueillie(s): 6 août 2015
   fongarium: cKc0397
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -230,7 +232,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: |
+  reactions-macrochimiques: |
     KOH 10% = surface du chapeau devenant brunâtre
   receptacle: 
   remarques: 

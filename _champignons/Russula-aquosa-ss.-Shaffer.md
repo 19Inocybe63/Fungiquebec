@@ -1,6 +1,6 @@
 ---
 nom: Russula aquosa ss. Shaffer
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3840/15156170348_692c211acb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15156170348/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Russule aqueuse
   autorites: ss. Shaffer
+  ordre: Russulales
   famille: Russulaceae
   genre: Russula
   espece: aquosa ss. Shaffer
   litterature: 
   collection(s)-cueillie(s): 27 août 2014; 10 septembre 2014; 24 septembre 2014
   fongarium: cKc0224; cKc0244; cKc0268
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -241,7 +243,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-chimiques: |
-    FeSO4 = L légèrement saumoné; S ± saumoné
+    FeSO<SUB>4</SUB> = L légèrement saumoné; S ± saumoné
     Soluté de Gaïac =
     réaction bleu < 5" S +++ = réaction forte endéans 5 secondes (5 = forte)
     réaction bleu < 5" L +++ = réaction forte endéans 5 secondes (5 = forte)

@@ -1,6 +1,6 @@
 ---
 nom: Russula claroflavoides
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3844/14981506665_cb3fc4848b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981506665/in/photolist-q8FJRj-oPS8Z4-oxn6NB-oPPpW7
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Russule fausse-claroflava
   autorites: Y. Lamoureux nom. prov.
+  ordre: Russulales
   famille: Russulaceae
   genre: Russula
   espece: claroflavoides
   litterature: Article non publié. Pour détails, lire sur la galerie de l'auteur; https://www.flickr.com/photos/27441280@N06/
   collection(s)-cueillie(s): 20 août 2014
   fongarium: cKc0212
+  numero-de-planche-micrographique: cKc0212-0058
 
 description:
   acanthocytes: 
@@ -41,7 +43,7 @@ description:
   base-stipitiforme: 
   basides: claviformes élancées, tétrastérigmates, non bouclées à la base, à contenu vacuolaires, 42 [44,4; 51] 53,4 x 12,1 [12,2; 12,6] 12,8 µm en moyenne
   basidiospores: |
-    elliptiques vue frontale à subglobuleuses à largement elliptiques vue de profil, verruqueuses à échinulées et rarement réticulées, avec proéminences jusqu’à 0,9 µm de hauteur, à paroi mince, avec appendice hilaire et plage hilaire pas toujours bien visible jusqu’à 2,1 x 2,6 µm Ø en moyenne, à contenu uniguttulé dans le NaCl isotonique 0,9 %, hyalines dans le NaCl iso, amyloïdes
+    elliptiques vue frontale à subglobuleuses à largement elliptiques vue de profil, verruqueuses à échinulées et rarement réticulées, avec proéminences jusqu’à 0,9 µm de hauteur, à paroi mince, avec appendice hilaire et plage hilaire pas toujours bien visible jusqu’à 2,1 x 2,6 µm Ø en moyenne, à contenu uniguttulé dans le NaCl isotonique 0,9%, hyalines dans le NaCl iso, amyloïdes
     7,8 [8,7; 9] 9,9 x 6,7 [7,3; 7,6] 8,2 µm
     Q = 1 [1,2] 1,3; N = 30; C = 95%
     Me = 8,9 x 7,5 µm; Qe = 1,2
@@ -234,7 +236,10 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russules, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-chimiques: NH4OH 10% = non observée; FeSO4 = négatives; KOH 10% = négative sur le pied
+  reactions-chimiques: |
+    FeSO<SUB>4</SUB> = négatives
+    NH<SUB>4</SUB>OH 10% = non observée
+    KOH 10% = négative sur le pied
   receptacle: 
   remarques: Toutes les parties noircissent avec l’âge.
   repartition: 

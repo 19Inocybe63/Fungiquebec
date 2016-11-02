@@ -1,6 +1,6 @@
 ---
 nom: Imleria badia
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3920/14887778419_60f361d921_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14887778419/in/photolist-qryYtU-oFAfzb-oFzKQP
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Bolet bai
   autorites: (Fr.) Vizzini
+  ordre: Boletales
   famille: Boletaceae
   genre: Imleria
   espece: badia
   litterature: (Fr.) Vizzini, Index Fungorum, 147, 1, 2014
   collection(s)-cueillie(s): 29 août 2014
   fongarium: cKc0220
+  numero-de-planche-micrographique: cKc0220-0064
 
 description:
   acanthocytes: 
@@ -237,7 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: |
     Pour cette étude micrographique, l'utilisation du NH<SUB>4</SUB>OH 2% et du KOH 5% doit être limitée, car les éléments observables se dissolvent très facilement. Ici, l'utilisation du NaCl isotonique 0,9% ou l'eau glycérinée 10% prend toute sa pertinence, par exemple, dans les incrustations des hyphes du pileipellis, mais surtout dans les hyménocystides vacuolaires.

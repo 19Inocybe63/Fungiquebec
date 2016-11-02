@@ -1,6 +1,6 @@
 ---
 nom: Crepidotus cesatii var. subsphaerosporus
-date: 2016-10-17 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8467/8084202795_cc78c9e611_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084202795/in/photolist-dxUEnx-djnDQP-dxXe3x
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: 
   autorites: (J.E. Lange) Senn-Irlet
+  ordre: Agaricales
   famille: Inocybaceae
   genre: Crepidotus
   espece: cesatii var. subsphaerosporus
   litterature: Senn-Irlet, B. 1995. The genus Crepidotus (Fr.) Staude in Europe. Persoonia. 16(1):1-80
   collection(s)-cueillie(s): 13 octobre 2012
   fongarium: cKc0035
+  numero-de-planche-micrographique: cKc0035-0003
 
 description:
   acanthocytes: 
@@ -235,7 +237,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Sous-genre Dochmiopus
   repartition: 

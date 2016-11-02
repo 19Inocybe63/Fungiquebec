@@ -1,6 +1,6 @@
 ---
 nom: Boletus subvelutipes
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8111/28596715912_ffdf32245e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28596715912/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Bolet à pied velu
   autorites: Peck
+  ordre: Boletales
   famille: Boletaceae
   genre: Boletus
   espece: subvelutipes
   litterature: Peck 1889, Bull. N.Y. State Mus. 8:142-143
   collection(s)-cueillie(s): 27 août 2014; 4 septembre 2014; 1 août 2016
   fongarium: cKc0221; cKc0235; cKc0528
+  numero-de-planche-micrographique: cKc0235-0065
 
 description:
   acanthocytes: 
@@ -237,7 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

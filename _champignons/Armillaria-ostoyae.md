@@ -43,7 +43,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    elliptiques à largement elliptiques vue de profil à pruniformes vue frontale, lisses, à paroi mince, avec un gros appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique 0,9%, inactives dans le melzer, cyanophiles
+    7,7 [8,8; 9,3] 10,4 x 5,1 [5,7; 5,9] 6,5 µm
+    Q = 1,3 [1,5; 1,6] 1,8; N = 30; C = 95%
+    Me = 9,1 x 5,8 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -62,10 +66,10 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre, parfois brun rosâtre avec l'âge
   chancre: 
-  chapeau: 
-  cheilocystides: 
+  chapeau: 40-150 mm Ø, convexe puis étalé, orné d'écailles brunes sur fond crème brunâtre à brun rougeâtre
+  cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -124,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -170,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, serrées, blanchâtres à crème rosé, souvent teintées de rosâtre ou se décolorant ou se tachant de brun rougeâtre avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,14 +207,14 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 50-150 mm x 8-30 mm Ø, subégal à atténué vers la base, fibrilleux-strié, blanchâtre vers l'apex, devenant brunâtre à presque noir vers la base, souvent avec mycélium basal jaunâtre à jaune olive et longs rhizomorphes noirs qui parcourent le bois
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis avec faisceaux trichodermiques
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -236,12 +240,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce à amarescente
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanchâtre
   spores: 
   spherocytes: 
   sporocystes: 
@@ -267,7 +271,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: laissant un anneau bien formé, blanchâtre, souvent brun au revers ou sur la marge
   volve: 
   zone-perihymeniale: 
 ---

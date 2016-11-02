@@ -1,6 +1,6 @@
 ---
 nom: Xeromphalina kauffmanii
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/758/21351416242_15fbc668f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21351416242/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Omphale de Kauffman
   autorites: A.H. Sm.
+  ordre: Agaricales
   famille: Mycenaceae
   genre: Xeromphalina
   espece: kauffmanii
   litterature: Smith, A.H. 1953. New and rare agarics from the Douglas Lake region and Tahquamenon Falls State Park, Michigan, and an account of the North American species of Xeromphalina. Papers of the Michigan Academy of Sciences. 38:53-87
   collection(s)-cueillie(s): 12 septembre 2015
   fongarium: cKc0460
+  numero-de-planche-microghraphique: cKc0460-0111
 
 description:
   acanthocytes: 

@@ -1,6 +1,6 @@
 ---
 nom: Fusicolla merismoides
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8535/8870357399_d0722d4a0f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8870357399/in/photolist-eQTXzm-evQUdx-evUfJY
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: 
   autorites: (Corda) Gräfenhan, Seifert & Schroers
+  ordre: Hypocreales
   famille: Nectriaceae
   genre: Fusicolla
   espece: merismoides
   litterature: Gräfenhan, T.; Schroers, H.-J.; Nirenberg, H.I.; Seifert, K.A. 2011. An overview of the taxonomy, phylogeny and typification of some nectriaceous fungi classifed in Cosmospora, Acremonium, Fusarium, Stilbella and Volutella. Studies in Mycology. 68:79-113
   collection(s)-cueillie(s): 28 mai 2013
-  fongarium: 
+  fongarium: pas de numéro
+  numero-de-planche-micrographique: cKcÉTUDE0029
 
 description:
   acanthocytes: 
@@ -228,7 +230,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: |
     Pas de collection de ce spécimen, seulement une étude, cKcÉtude0029.

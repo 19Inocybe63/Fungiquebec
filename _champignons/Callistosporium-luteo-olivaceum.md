@@ -1,6 +1,6 @@
 ---
 nom: Callistosporium luteo-olivaceum
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3808/9366140251_6a8ff08cf5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9366140251/in/photolist-fgDW6g-fgDVbK
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Collybie jaune olivacé
   autorites: (Berk. & M. A. Curtis) Singer
+  ordre: Agaricales
   famille: Tricholomataceae
   genre: Callistosporium
   espece: luteo-olivaceum
   litterature: 
   collection(s)-cueillie(s): 25 juillet 2013
   fongarium: cKc0093
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -225,7 +227,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: |
+  reactions-macrochimiques: |
     KOH 5% = chapeau et lames deviennent rouge vif presque instantanément
   receptacle: 
   remarques: 

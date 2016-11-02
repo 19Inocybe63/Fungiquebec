@@ -1,6 +1,6 @@
 ---
 nom: Amanita farinosa
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9648424458/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Amanite farineuse
   autorites: Schweinitz
+  ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
   espece: farinosa
   litterature: Schweinitz, L.D. von. 1822. Synopsis fungorum Carolinae superioris. Schriften der Naturforschenden Gesellschaft zu Leipzig. 1:20-131
   collection(s)-cueillie(s): 21 juillet 2013; 1 septembre 2013; 20 août 2015
   fongarium: cKc0092; cKc0130; cKc0424
+  numero-de-planche-micrographique: cKc0130-0034
 
 description:
   acanthocytes: 
@@ -199,7 +201,7 @@ description:
   pied: 30-90 x 3-10 mm Ø, cylindrique plus ou moins égale, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis et parfois en ixocutis, formé d’hyphes de 2-8 μm Ø
+  pileipellis: en cutis et parfois en ixocutis, formé d’hyphes de 2-8 µm Ø
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -226,7 +228,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   references: 
   remarques: |

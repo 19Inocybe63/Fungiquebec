@@ -1,6 +1,6 @@
 ---
 nom: Clavulinopsis fusiformis
-date: 2016-10-15 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/685/20665078175_836e5968f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665078175/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Clavaire fusiforme
   autorites: (Sowerby) Corner
+  ordre: Agaricales
   famille: Clavariaceae
   genre: Clavulinopsis
   espece: fusiformis
   litterature: Corner, E.J.H. 1950. A monograph of Clavaria and allied genera. Annals of Botany Memoirs. 1:1-740
   collection(s)-cueillie(s): 21 juillet 2013; 17 août 2015; 16 septembre 2015
   fongarium: cKc0386; cKc0416; cKc0464
+  numero-de-planche-micrographique: cKc0464-0128
 
 description:
   acanthocytes: 
@@ -229,7 +231,8 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: KOH 5% = nul
+  reactions-macrochimiques: |
+    KOH 5% = absence
   receptacle: 
   remarques: 
   repartition: 

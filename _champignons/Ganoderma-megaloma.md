@@ -1,6 +1,6 @@
 ---
 nom: Ganoderma megaloma
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8283/29076192640_686dda6d42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29076192640/in/photolist-Lin65d-LFMgRj
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: 
   autorites: (Lév.) Bres.
+  ordre: Polyporales
   famille: Ganodermataceae
   genre: Ganoderma
   espece: megaloma
   litterature: Bresadola, G. 1913. Basidiomycetes philippinenses. Series II. Hedwigia. 53:44-80
   collection(s)-cueillie(s): 31 août 2016
   fongarium: cKc0554
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -226,7 +228,7 @@ description:
   publications: |
     Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

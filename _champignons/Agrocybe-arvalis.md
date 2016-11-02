@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe arvalis
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/8/7310/9737943460_d0c3fe0e07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9737943460/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
 album-flickr:
@@ -14,12 +14,14 @@ planches:
 details:
   nom-francais: Agrocybe des champs
   autorites: (Fr.) Singer
+  ordre: Agaricales
   famille: Strophariaceae
   genre: Agrocybe
   espece: arvalis
   litterature: Singer...
   collection(s)-cueillie(s): 18 août 2012; 13 septembre 2013
   fongarium: cKc0029; cKc0114
+  numero-de-planche-micrographique: cKc0029-0008 ; cKc0114-0077
 
 description:
   acanthocytes: 

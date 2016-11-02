@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Tricholome décoré
   autorites: (Fr.) Singer
+  ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholomopsis
   espece: decora
   litterature: Singer, R. 1939. Phylogenie und Taxonomie der Agaricales. Schweizerische Zeitschrift für Pilzkunde. 17:52-57
   collection(s)-cueillie(s): 14 octobre 2012
   fongarium: cKc0020
+  numero-de-planche-micrographique: cKc0020-0024
 
 description:
   acanthocytes: 
@@ -41,7 +43,7 @@ description:
   base-stipitiforme: 
   basides: étroitement clavées à claviformes, parfois à contenu guttuleux, granulaires, à 1, 2, 3 ou 4 stérigmates, bouclées à la base, 22-39 x 6-7,5 µm
   basidiospores: |
-    largement ellipsoïdes à ellipsoïdes, lisses, à paroi légèrement épaissie, de 05-06 µm, avec petit appendice hilaire, à contenu uniguttulé et à granulations, hyalines, verdâtres dans le NH4OH 2,5 %, inactives dans le melzer, partiellement cyanophiles
+    largement ellipsoïdes à ellipsoïdes, lisses, à paroi légèrement épaissie, de 05-06 µm, avec petit appendice hilaire, à contenu uniguttulé et à granulations, hyalines, verdâtres dans le NH<SUB>4</SUB>OH 2%, inactives dans le melzer, partiellement cyanophiles
     5,5 [6,4; 7] 7,8 x 4,2 [4,9; 5,4] 6,2 µm
     Q = 1,1 [1,2; 1,3] 1,5; N = 16; C = 95%
     Me = 6,7 x 5,2 µm; Qe = 1,3

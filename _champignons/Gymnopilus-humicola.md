@@ -1,6 +1,6 @@
 ---
 nom: Gymnopilus humicola
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9060850940/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
 album-flickr:
@@ -15,9 +15,11 @@ details:
   nom-francais: Gymnopilus humicole
   autorites: Harding ex Singer
   fongarium: cKc0048; cKc0312
+  ordre: Agaricales
   famille: Hymenogastraceae
   genre: Gymnopilus
   espece: humicola
+  numero-de-planche-micrographique: cKc0048-0079
 
 description:
   acanthocytes: 
@@ -231,7 +233,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: KOH 10% = cuticule du chapeau devient noire
+  reactions-macrochimiques: |
+    KOH 10% = cuticule du chapeau devient noire
   receptacle: 
   remarques: D’après Maria Teresa Basso (Manuale di Microscopia dei Funghi, vol. 2), les hyménocystides deviennent légèrement verdâtre en Bleu coton; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre.
   rhizomorphes: 

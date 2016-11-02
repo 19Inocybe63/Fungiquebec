@@ -1,6 +1,6 @@
 ---
 nom: Boletus subluridellus
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19726150815/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Bolet brun rougeâtre
   autorites: A. H. Sm. & Thiers
+  ordre: Boletales
   famille: Boletaceae
   genre: Boletus
   espece: subluridellus
   litterature: Smith, A.H.; Thiers, H.D. 1971. The Boletes of Michigan. :1-428
   collection(s)-cueillie(s): 15 juillet 2015; 23 août 2015
   fongarium: cKc0339; cKc0431
+  numero-de-planche-micrographique: cKc0339-0118
 
 description:
   acanthocytes: 
@@ -237,7 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: |
+  reactions-macrochimiques: |
     FeSO<SUB>4</SUB> = sur la chair bleue, devient jaune à jaune or, légèrement orangé
     KOH 10% = sur la chair du chapeau devient saumon et la face poroïde devient brun rouille
     NH<SUB>4</SUB>OH 10% = sur la chair du chapeau devient jaune crème et la face poroïde devient brun

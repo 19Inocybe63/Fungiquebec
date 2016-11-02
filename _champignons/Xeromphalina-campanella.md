@@ -1,6 +1,6 @@
 ---
 nom: Xeromphalina campanella
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8379/8613638912_3aa70ccb99_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8613638912/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Omphale en clochette
   autorites: (Batsch) Kühner & Maire
+  ordre: Agaricales
   famille: Mycenaceae
   genre: Xeromphalina
   espece: campanella
   litterature: Konrad & Maublanc, Icones selectae Fungorum, 6 Texte general 6, 284 (1934)
   collection(s)-cueillie(s): 20 octobre 2012
   fongarium: cKc0030
+  numero-de-planche-micrographique: cKc0030-0112
 
 description:
   acanthocytes: 

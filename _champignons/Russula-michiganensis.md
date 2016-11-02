@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Russule du Michigan
   autorites: Shaffer
+  ordre: Russulales
   famille: Russulaceae
   genre: Russula
   espece: michiganensis
   litterature: Shaffer, R.L. 1962. The subsection Compactae of Russula. Brittonia. 14(3):254-284
   collection(s)-cueillie(s): 27 juillet 2015; 1 août 2015; 3 août 2015
   fongarium: cKc0385; cKc0387; cKc0389
+  numero-de-planche-micrographique: cKc0385-0107
 
 description:
   acanthocytes: 
@@ -234,7 +236,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-chimiques: FeSO4 = Lames rosé; Stipe nul
+  reactions-chimiques: |
+    FeSO<SUB>4</SUB> = Lames rosé; Stipe nul
   receptacle: 
   remarques: Lors de la coupe, la chair est blanche, devient rougeâtre-grisâtre sale, puis noircit.
   repartition: 

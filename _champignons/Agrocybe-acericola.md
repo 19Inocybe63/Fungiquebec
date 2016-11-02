@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe acericola
-date: 2016-10-29 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/8/7418/9186177091_c21d995901_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9186177091/in/photolist-rFhzHk-nZyrDb-of4xZb-eZZW13-eZKypD
 album-flickr:
@@ -12,6 +12,7 @@ planches:
 details:
   nom-francais: Agrocybe de l’érable
   autorites: (Peck) Singer
+  ordre: Agaricales
   famille: Strophariaceae
   genre: Agrocybe
   espece: acericola

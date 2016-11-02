@@ -6,8 +6,8 @@ image-originale: https://www.flickr.com/photos/kaufholtz/8122273690/in/photolist
 album-flickr:
   - 72157671660314714
 planches:
-  - miniature: https://c1.staticflickr.com/9/8500/8300901148_60923bbb63_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8300901148/in/photolist-dnJMnf-dnJFjn-dDwhHj-dnJLZy
+  - miniature: https://c1.staticflickr.com/9/8500/8300901148_838da0606d_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8300901148/in/photolist-dDwhHj-dnJMnf-dnJFjn-dnJLZy
 
 details:
   nom-francais: Strophaire bleutée

@@ -1,6 +1,6 @@
 ---
 nom: Pluteus hongoi
-date: 2016-10-26 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/8/7308/27250982564_dd1c4e21c2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27250982564/in/photolist-JtAhvm-Hw61aV-Hw5pGY
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Plutée de Hongō
   autorites: Singer
+  ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
   espece: hongoi
   litterature: Singer, R. 1989. New taxa and new combinations of Agaricales (Diagnoses fungorum novorum Agaricalium 4). Fieldiana Botany. 21:1-133
   collection(s)-cueillie(s): 23 juin 2016
   fongarium: cKc0500
+  numero-de-planche-micrographique: cKc0500-0133
 
 description:
   acanthocytes: 
@@ -42,11 +44,11 @@ description:
   base-stipitiforme: 
   basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, 2-4 stérigmates, non bouclées à la base, à contenu vacuolaire ou bien carminophile, (25,1 - 35,2 × 7,1 - 8,5 µm en moyenne
   basidiospores: |
-    ovoïdes à subtriangulaires vue frontale, elliptiques à largement elliptiques vue de profil, ou légèrement resserré au milieu, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu uniguttulé à granulations, hyalines dans l’eau glycérinée 20 %, inactives dans le melzer, non cyanophiles
+    ovoïdes à subtriangulaires vue frontale, elliptiques à largement elliptiques vue de profil, ou légèrement resserré au milieu, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu uniguttulé à granulations, hyalines dans l’eau glycérinée 20%, inactives dans le melzer, non cyanophiles
     (6,4) 6,7 - 7,7 (7,9) × (4,5) 4,7 - 5,4 (5,5) µm
     Q = (1,3) 1,34 - 1,6 (1,7) ; N = 30
     Me = 7,2 × 5 µm ; Qe = 1,5
-    (Piximètre: formule classique ; basidiospores mesurées dans l’eau glycérinée 20 %)
+    (Piximètre: formule classique ; basidiospores mesurées dans l’eau glycérinée 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

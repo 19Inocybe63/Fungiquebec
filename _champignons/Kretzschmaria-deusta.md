@@ -1,6 +1,6 @@
 ---
 nom: Kretzschmaria deusta
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/439/18809605881_84a527218e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18809605881/in/photolist-unstDz-unjxuY-cfNfNb-uE99vF
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Ustuline brûlée
   autorites: (Hoffm.) P.M.D. Martin
+  ordre: Xylariales
   famille: Xylariaceae
   genre: Kretzschmaria
   espece: deusta
   litterature: Martin, P. 1970. Studies in the Xylariaceae:VIII. Xylaria and its allies. South African Journal of Botany. 36(2):73-138
   collection(s)-cueillie(s): 14 juin 2015
   fongarium: cKc0314
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -225,7 +227,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

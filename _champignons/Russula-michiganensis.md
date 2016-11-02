@@ -1,6 +1,6 @@
 ---
 nom: Russula michiganensis
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/457/19437139763_3d6cc665ec_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19437139763/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
 album-flickr:

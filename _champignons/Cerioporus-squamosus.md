@@ -1,6 +1,6 @@
 ---
 nom: Cerioporus squamosus
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/6/5232/7228311120_e6dc452112_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7228311120/in/photolist-sZ547m-tgpfUu-c1JZ4N
 album-flickr:
@@ -15,12 +15,14 @@ planches:
 details:
   nom-francais: Polypore écailleux
   autorites: (Huds.) Quél.
+  ordre: Polyporales
   famille: Polyporaceae
   genre: Cerioporus
   espece: squamosus
   litterature: 
   collection(s)-cueillie(s): 19 mai 2012; 20 mai 2015
   fongarium: sans numéro; cKc0303
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -230,7 +232,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

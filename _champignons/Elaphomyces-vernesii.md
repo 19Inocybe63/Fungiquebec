@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces vernesii
-date: 2016-10-26 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: 
   autorites: Castellano
+  ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
   espece: vernesii sp. nov.
   litterature: nouvelle espèce
   collection(s)-cueillie(s): 22 août 2015; 28 août 2015; 12 septembre 2015; 14 juillet 2016
   fongarium: cKc0429; cKc0442; cKc0462; cKc0517
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -223,7 +225,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Il s'agit d'une nouvelle espèce; E. vernesii sp. nov. Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
   repartition: 

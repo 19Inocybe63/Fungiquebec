@@ -1,6 +1,6 @@
 ---
 nom: Geoglossum glabrum
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/6/5643/20515863236_f2374fa141_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20515863236/in/photolist-x767Dr-xfVanW
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Géoglosse glabre
   autorites: Pers.
+  ordre: Geoglossales
   famille: Geoglossaceae
   genre: Geoglossum
   espece: glabrum
   litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung der Schwämme. Neues Magazin für die Botanik. 1:63-80
   collection(s)-cueillie(s): 13 août 2015
   fongarium: cKc0402
+  numero-de-planche-micrographique: cKc0402-0097
 
 description:
   acanthocytes: 
@@ -239,7 +241,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

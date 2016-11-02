@@ -15,12 +15,14 @@ planches:
 details:
   nom-francais: Armillaire commun
   autorites: (Romagn.) Herink
+  ordre: Agaricales
   famille: Physalacriaceae
   genre: Armillaria
   espece: ostoyae
   litterature: Hásek 1973, Sympozium o Václavce Obecné Armillaria mellea (Vahl ex Fr.) Kumm.:42
   collection(s)-cueillie(s): 11 octobre 2014
   fongarium: cKc0300
+  numero-de-planche-micrographique: cKc0300-0046
 
 description:
   acanthocytes: 

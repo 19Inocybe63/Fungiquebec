@@ -43,7 +43,7 @@ description:
   base-stipitiforme: 
   basides: utriformes, tétrastérigmates
   basidiospores: |
-    elliptiques à subelliptiques, parfois subamygdaliformes vue de profil, mitriformes vue frontale, tronquées, lisses, à paroi mince, avec appendice hilaire et pore germinatif jaunâtre centré 1,3-2,0 µm Ø, à contenu uniguttulé à pluriguttulé, brun médium à légèrement rougeâtre dans le NaCl iso 0,9%, inactives dans le Melzer, non cyanophiles
+    elliptiques à subelliptiques, parfois subamygdaliformes vue de profil, mitriformes vue frontale, tronquées, lisses, à paroi mince, avec appendice hilaire et pore germinatif jaunâtre centré 1,3-2,0 µm Ø, à contenu uniguttulé à pluriguttulé, brun médium à légèrement rougeâtre dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
     6,4 [7,4; 8] 9 x 4,3 [4,9; 5,2] 5,8 µm
     Q = 1,3 [1,5; 1,6] 1,8; N = 17; C = 95%
     Me = 7,7 x 5,1 µm; Qe = 1,5

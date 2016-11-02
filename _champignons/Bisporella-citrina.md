@@ -77,7 +77,7 @@ description:
   collection-confirmee-par: Hans-Otto Baral (AscoFrance)
   collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: De Hans-Otto Baral. « Maybe you expected to see septate spores? The septum is formed in Bisporella citrina only on overmature spores, so don't worry. If the excipulum is gelatinized I am quite sure it is this species. You can also look at the ascus apex in IKI, but you need dead asci for that. The apical ring is a bit like a T, while for instance in Bisporella subpallida it is only reactive in the lower part of the wall thickeningl like two short thin lines, Also the contents of the paraphyses are worth to look at. The difference in apicla ring and genetic data led me to say Calycina citrina for the present fungus, so I restrict Bisporella to B. subpallida and B. pallescens. »
+  commentaires: De Hans-Otto Baral. « Maybe you expected to see septate spores? The septum is formed in Bisporella citrina only on overmature spores, so don't worry. If the excipulum is gelatinized I am quite sure it is this species. You can also look at the ascus apex in IKI, but you need dead asci for that. The apical ring is a bit like a T, while for instance in Bisporella subpallida it is only reactive in the lower part of the wall thickeningl like two short thin lines. Also the contents of the paraphyses are worth to look at. The difference in apicla ring and genetic data led me to say Calycina citrina for the present fungus, so I restrict Bisporella to B. subpallida and B. pallescens. »
   conidies: 
   conidiome: 
   conidiophores: 

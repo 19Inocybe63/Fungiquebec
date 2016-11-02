@@ -1,6 +1,6 @@
 ---
 nom: Geoglossum difforme
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3697/19666230344_580e9cd6e7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19666230344/in/photolist-wkyGVo-vXQz7Y
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Géoglosse difforme
   autorites: Fr.
+  ordre: Geoglossales
   famille: Geoglossaceae
   genre: Geoglossum
   espece: difforme
   litterature: Fries, E.M. 1815. Observationes mycologicae. 1:1-230
   collection(s)-cueillie(s): 4 août 2015
   fongarium: cKc0393
+  numero-de-planche-micrographique: cKc0393-0095
 
 description:
   acanthocytes: 
@@ -239,7 +241,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

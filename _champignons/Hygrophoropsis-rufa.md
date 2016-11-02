@@ -1,6 +1,6 @@
 ---
 nom: Hygrophoropsis rufa
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/6/5312/29609987530_ac7ec97005_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29609987530/in/photolist-M7wVGo
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Clitocybe roux
   autorites: (D.A. Reid) Knudsen
+  ordre: Boletales
   famille: Hygrophoropsidaceae
   genre: Hygrophoropsis
   espece: rufa
   litterature: Knudsen H.; Vesterhold, J. 2008. Funga Nordica. :1-965
   collection(s)-cueillie(s): 24 septembre 2016
   fongarium: cKc0561
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -226,7 +228,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

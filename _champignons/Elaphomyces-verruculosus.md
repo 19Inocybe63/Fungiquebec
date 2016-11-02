@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces verruculosus
-date: 2016-10-26 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/6/5659/21247990934_8e04b18b66_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21247990934/in/photolist-ynBvrh-z38wYn
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: 
   autorites: Castellano
+  ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
   espece: verruculosus
   litterature: Castellano, M.A.; Guerrero, G.G.; Jimenez, J.G.; Trappe, J.M. 2012. Elaphomyces appalachiensis Linder and E. verruculosus sp. nov. (Ascomycota, Eurotiales, Elaphomycetaceae) from eastern North America. 35:17-22
   collection(s)-cueillie(s): 1 octobre 2015
   fongarium: cKc0480
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -226,7 +228,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Espèce largement répartis sur la côte Est.
   repartition: 

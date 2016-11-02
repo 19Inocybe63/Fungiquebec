@@ -42,7 +42,7 @@ description:
   base-stipitiforme: 
   basides: piriformes à largement clavées, tétrastérigmates 11,2 [14,4; 17,7] 20,9 × 6,8 [7,6; 8,3] 9 µm
   basidiospores: |
-    elliptiques-ovoïdes vue de front à elliptiques vue de profil, tronquées, lisses, à paroi mince, avec appendice hilaire et pore germinatif distinct et centré jaunâtre 1,2-1,9 µm Ø, à contenu homogène, brun foncé à brun tabac en NaCl isotonique 0,9%, gris lilas en KOH 5%, inactives dans le melzer, non cyanophiles
+    elliptiques-ovoïdes vue de front à elliptiques vue de profil, tronquées, lisses, à paroi mince, avec appendice hilaire et pore germinatif distinct et centré jaunâtre 1,2-1,9 µm Ø, à contenu homogène, brun foncé à brun tabac dans le NaCl isotonique 0,9%, gris lilas dans le KOH 5%, inactives dans le melzer, non cyanophiles
     7 [7,5; 7,7] 8,2 × 4,2 [4,6; 4,7] 5,1 µm
     Q = 1,5 [1,6; 1,7] 1,8; N = 30; C = 95
     Me = 7,6 × 4,6 µm; Qe = 1,6

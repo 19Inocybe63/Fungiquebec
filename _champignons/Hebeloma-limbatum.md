@@ -1,6 +1,6 @@
 ---
 nom: Hebeloma limbatum
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8742/29622268270_22ca218709_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29622268270/in/photolist-NdgqNj-MwxnQN-M8BSkh
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: 
   autorites: Beker, Vesterh. & U. Eberh.
+  ordre: Agaricales
   famille: Hymenogastraceae
   genre: Hebeloma
   espece: limbatum
   litterature: Eberhardt, U.; Beker, H.J.; Vesterholt, J.; Schütz,N. 2016. The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. and five new species. Fungal Biology. 120(1):72-103
   collection(s)-cueillie(s): 24 septembre 2016
   fongarium: cKc0563
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -238,7 +240,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2 : les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3 : les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4 : la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Des études d'ADN seront réalisées prochainement par Henry J. Beker sur trois collections.
   repartition: 

@@ -1,6 +1,6 @@
 ---
 nom: Phlebia radiata
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/8/7528/29925850280_fcac7d9e2f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29925850280/in/photolist-MArNFS-MApE2w
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Phlébie radiante
   autorites: Fr.
+  ordre: Polyporales
   famille: Meruliaceae
   genre: Phlebia
   espece: radiata
   litterature: Fries, E.M. 1821. Systema Mycologicum. 1:1-520
   collection(s)-cueillie(s): 9 octobre 2016
   fongarium: cKc0591
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 

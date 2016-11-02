@@ -1,6 +1,6 @@
 ---
 nom: Suillus spraguei
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3868/14774195389_5de782aa3c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14774195389/in/photolist-ovxzgY-ovxByH-prxbdT
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: 
   autorites: (Berk. & M.A. Curtis) Kuntze
+  ordre: Boletales
   famille: Suillaceae
   genre: Suillus
   espece: spraguei
   litterature: (Berk. & M.A. Curtis) Kuntze, Revis. gen. pl., 3(2), 536, 1898
   collection(s)-cueillie(s): 18 août 2014
   fongarium: cKc0209
+  numero-de-planche-micrographique: cKc0209-0057
 
 description:
   acanthocytes: 

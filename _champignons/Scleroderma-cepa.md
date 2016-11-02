@@ -1,6 +1,6 @@
 ---
 nom: Scleroderma cepa
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/394/20272518041_035dfb297c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20272518041/in/photolist-wApzri-wTpXk8
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Scléroderme oignon
   autorites: Pers.
+  ordre: Boletales
   famille: Sclerodermataceae
   genre: Scleroderma
   espece: cepa
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
   collection(s)-cueillie(s): 3 août 2015
   fongarium: cKc0390
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 

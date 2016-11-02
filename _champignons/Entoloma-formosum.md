@@ -1,6 +1,6 @@
 ---
 nom: Entoloma formosum
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/6/5553/14864698956_e8a7930466_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14864698956/in/photolist-qepDS2-oDxt83-oDxrA5
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Entolome superbe
   autorites: (Fr.) Noordel.
+  ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
   espece: formosum
   litterature: Noordeloos, M.E. 1985. Notulae ad floram Agaricinam Neerlandicam X-XI. Entoloma. Persoonia. 12(4):457-462
   collection(s)-cueillie(s): 11 août 2014
   fongarium: cKc0202
+  numero-de-planche-micrographique: cKc0202-0051
 
 description:
   acanthocytes: 
@@ -237,7 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 9, les Entoloma, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

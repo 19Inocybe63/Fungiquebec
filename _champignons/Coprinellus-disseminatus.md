@@ -1,6 +1,6 @@
 ---
 nom: Coprinellus disseminatus
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3900/14280968558_e1ee06d97a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14280968558/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Coprin disséminé
   autorites: (Pers.) J.E. Lange
+  ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinellus
   espece: disseminatus
   litterature: Lange, J.E. 1938. Studies in the Agarics of Denmark. Part XII. Hebeloma, Naucoria, Tubaria, Galera, Bolbitius, Pluteolus, Crepidotus, Pseudopaxillus, Paxillus. Dansk botanisk Arkiv. 9(6), 1-104
   collection(s)-cueillie(s): 20 juin 2014
   fongarium: cKc0170
+  numero-de-planche-micrographique: cKc0170-0037
 
 description:
   acanthocytes: 
@@ -231,7 +233,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: L'ADN de la collection cKc0170 fut étudié par R. A. Powers (MyCoPortal) et les résultats furent déposés sur le site;
     http://mycoportal.org/portal/collections/individual/index.php?occid=2416327

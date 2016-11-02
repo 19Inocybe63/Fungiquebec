@@ -1,6 +1,6 @@
 ---
 nom: Fomitopsis betulina
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3905/15064383809_0d95a73134_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064383809/in/photolist-oXcgnL-oXbUtk
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Polypore du bouleau
   autorites: (Bull.) B.K. Cui, M.L. Han & Y.C. Dai
+  ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Fomitopsis
   espece: betulina
   litterature: Fries, E.M. 1821. Systema Mycologicum. 1:1-520
   collection(s)-cueillie(s): 15 septembre 2014
   fongarium: cKc0250
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -226,7 +228,7 @@ description:
   publications: |
     Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

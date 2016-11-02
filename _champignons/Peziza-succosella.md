@@ -1,6 +1,6 @@
 ---
 nom: Peziza succosella
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/8/7549/28260902725_d9f5ba7e38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28260902725/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
 album-flickr:
@@ -14,12 +14,14 @@ planches:
 details:
   nom-francais: Pezize fausse-succosa
   autorites: (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich
+  ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
   espece: succosella
   litterature: Avizohar-Hershenzon, Z.; Nemlich, H. 1974. Pezizales of Israel II. Pezizaceae. Israel Journal of Botany. 23:151-163
   collection(s)-cueillie(s): 3 juillet 2016; 4 juillet 2016; 11 juillet 2016
   fongarium: cKc0505; cKc0512; cKc0516
+  numero-de-planche-micrographique: cKc0512-0134 ; cKc0516-0137
 
 description:
   acanthocytes: 
@@ -39,7 +41,7 @@ description:
     (14,5) 14,7 - 17,3 (17,7) × (7,8) 8,3 - 9 (9,3) µm
     Q = (1,6) 1,7 - 2 (2,1) ; N = 30
     Me = 16 × 8,6 µm ; Qe = 1,9
-    (Piximètre: formule classique, issues d’une sporée et mesures dans le bleu Coton lactique, sans les ornements)
+    (Piximètre: formule classique, issues d’une sporée et mesures dans le bleu coton lactique, sans les ornements)
   asques: claviformes dont l'apex est tronqué, octosporés, IKI +b, operculé, avec base de type acrorhynque, ± 250 - 270 × 12 - 13,5 µm en moyenne
   asterohyphidies: 
   avertissement: 

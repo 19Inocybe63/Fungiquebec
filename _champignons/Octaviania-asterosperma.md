@@ -1,6 +1,6 @@
 ---
 nom: Octaviania asterosperma
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20814861412/in/photolist-xtpr2s-xJ3sDc-xHkB7U
 album-flickr:
@@ -219,6 +219,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
+  premiere-mention: Espèce cueillie et étudiée pour la première fois au Québec
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

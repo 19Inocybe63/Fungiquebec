@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Trichoglosse de Farlow
   autorites: (Cooke) E.J. Durand
+  ordre: Geoglossales
   famille: Geoglossaceae
   genre: Trichoglossum
   espece: farlowii
   litterature: 
   collection(s)-cueillie(s): 27 septembre 2013; 17 août 2015
   fongarium: cKc0136; cKc0418
+  numero-de-planche-micrographique: cKc0136-0086
 
 description:
   acanthocytes: 

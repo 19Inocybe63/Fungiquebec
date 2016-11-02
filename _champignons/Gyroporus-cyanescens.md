@@ -1,6 +1,6 @@
 ---
 nom: Gyroporus cyanescens
-date: 2016-10-30 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8441/28995578361_e4c677dbe9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28995578361/in/photolist-L8FwLE-LbeVfR-z8SLYU-ySoPCV-ycT6no
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Bolet bleuissant
   autorites: (Bull.) Quél.
+  ordre: Boletales
   famille: Gyroporaceae
   genre: Gyroporus
   espece: cyanescens
   litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
   collection(s)-cueillie(s): 27 septembre 2015; 18 août 2016
   fongarium: cKc0478; cKc0540
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -227,7 +229,7 @@ description:
     Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
     Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

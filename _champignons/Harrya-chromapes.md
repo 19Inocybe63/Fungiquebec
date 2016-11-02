@@ -15,12 +15,14 @@ planches:
 details:
   nom-francais: Bolet à pied jaune vif
   autorites: (Frost) Halling, Nuhn, Osmundson & Manfr. Binder
+  ordre: Boletales
   famille: Boletaceae
   genre: Harrya
   espece: chromapes
   litterature: Halling, R.E.; Nuhn, M.; Osmundson, T.; Fechner, N.; Trappe, J.m.; Soytong, K.; Arora, D.; Hibbett, D.; Binder, M. 2012. Affinities of the Boletus chromapes group to Royoungia and the description of two new genera, Harrya and Australopilus. Australian Systematic Botany. 25(6):418-431
   collection(s)-cueillie(s): 28 août 2015
   fongarium: cKc0440
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 

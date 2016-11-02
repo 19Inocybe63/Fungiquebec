@@ -1,6 +1,6 @@
 ---
 nom: Flammulina velutipes
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/8/7303/8787825572_72e4f87309_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8787825572/in/photolist-enYcQc-euNGm8-eoxUo1
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Collybie à pied velouté
   autorites: (Curtis) Singer
+  ordre: Agaricales
   famille: Physalacriaceae
   genre: Flammulina
   espece: velutipes
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
   collection(s)-cueillie(s): 22 mai 2013
   fongarium: cKc0002
+  numero-de-planche-micrographique: cKc0002-0028
 
 description:
   acanthocytes: 
@@ -231,7 +233,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Cette espèce est aussi désignée par son nom japonais « enoki ».
   repartition: 

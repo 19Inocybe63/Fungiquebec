@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Clitocybe lumineux
   autorites: (Schwein.) Bresinsky & Besl
+  ordre: Agaricales
   famille: Omphalotaceae
   genre: Omphalotus
   espece: illudens
   litterature: Bresinsky, A.; Besl, H. 1979. Zum verwandtschaftlichen Anschluss von Omphalotus. Beihefte zur Sydowia. 8:98-109
   collection(s)-cueillie(s): 4 août 2012
   fongarium: cKc0007
+  numero-de-planche-micrographique: cKc0007-0007
 
 description:
   acanthocytes: 
@@ -233,7 +235,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: |
+  reactions-macrochimiques: |
     FeSO<SUB>4</SUB> = brunes à brunâtres sur les lames après ± 5 minutes
     KOH 10% = légèrement verdâtre sur le chapeau et le pied
     NH<SUB>4</SUB>OH 10% = légèrement verdâtre sur la chair du pied

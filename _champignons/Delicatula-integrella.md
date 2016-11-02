@@ -1,6 +1,6 @@
 ---
 nom: Delicatula integrella
-date: 2016-10-29 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/6/5584/14981972960_cd66ec9e93_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981972960/in/photolist-oPUwAC
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Mycène blanc pur
   autorites: (Pers.) Fayod
+  ordre: Agaricales
   famille: Tricholomataceae
   genre: Delicatula
   espece: integrella
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
   collection(s)-cueillie(s): 7 septembre 2014
   fongarium: cKc0241
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -225,7 +227,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

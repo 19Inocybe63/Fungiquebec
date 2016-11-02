@@ -1,6 +1,6 @@
 ---
 nom: Baeospora myosura
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8453/8042774343_50f59b2d29_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8042774343/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Collybie queue-de-souris
   autorites: (Fr.) Singer
+  ordre: Agaricales
   famille: Marasmiaceae
   genre: Baeospora
   espece: myosura
   litterature: Singer, R. 1938. Notes sur quelques Basidiomycetes. Revue de Mycologie. 3,187-199
   collection(s)-cueillie(s): 30 septembre 2012
   fongarium: cKc0022
+  numero-de-planche-micrographique: cKc0022-0026
 
 description:
   acanthocytes: 
@@ -226,7 +228,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

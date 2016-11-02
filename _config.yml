@@ -92,18 +92,22 @@ members:
 champs-details:
   - name: autorites
     label: Autorités
+  - name: ordre
+    label: Ordre
   - name: famille
     label: Famille
   - name: genre
     label: Genre
   - name: espece
-    label: Espece
+    label: Espèce
   - name: litterature
     label: Littérature
   - name: collection(s)-cueillie(s)
     label: Collection(s) cueillie(s)
   - name: fongarium
     label: Fongarium
+  - name: numero-de-planche-micrographique
+    label: Numéro de planche micrographique
 
 champs-description:
   - name: apothecie

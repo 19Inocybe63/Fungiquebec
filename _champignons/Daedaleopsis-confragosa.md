@@ -1,6 +1,6 @@
 ---
 nom: Daedaleopsis confragosa
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/729/21681354819_68688b6f57_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21681354819/in/photolist-z2UBqp-zkgMqH-zh7uJN
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Tramète rougissante
   autorites: (Bolton) J. Schröt.
+  ordre: Polyporales
   famille: Polyporaceae
   genre: Daedaleopsis
   espece: confragosa
   litterature: Schröter, J. 1888. Kryptogamen-Flora von Schlesien. 3-1(4):385-512
   collection(s)-cueillie(s): 1 octobre 2015
   fongarium: cKc0482
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -226,7 +228,8 @@ description:
   publications: |
     Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
-  reactions-chimiques: KOH 10% = Toutes les parties deviennent gris foncé, noir
+  reactions-macrochimiques: |
+    KOH 10% = Toutes les parties deviennent gris foncé, noir
   receptacle: 
   remarques: 
   repartition: 

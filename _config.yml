@@ -324,8 +324,8 @@ champs-description:
     label: Phénologie
   - name: frequence
     label: Fréquence
-  - name: reactions-chimiques
-    label: Réactions chimiques
+  - name: reactions-macrochimiques
+    label: Réactions macrochimiques
   - name: articles
     label: Articles
   - name: publications
@@ -362,8 +362,6 @@ champs-description:
     label: Arthroconidies
   - name: asterohyphidies
     label: Astérohyphidies
-  - name: avertissement
-    label: Avertissement
   - name: base-du-pied
     label: Base du pied
   - name: base-sterile
@@ -372,8 +370,6 @@ champs-description:
     label: Base stipitiforme
   - name: basidioles
     label: Basidioles
-  - name: bibliographies
-    label: Bibliographies
   - name: brachybasidioles
     label: Brachybasidioles
   - name: calicule

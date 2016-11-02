@@ -1,6 +1,6 @@
 ---
 nom: Tricholomopsis sulphureoides
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8164/29608929000_0859bae19b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29608929000/in/photolist-M7rv2S-Monoq9
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Tricholome faux-sulphureum
   autorites: (Peck) Singer
+  ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholomopsis
   espece: sulphureoides
   litterature: Singer, R. 1943. Das System der Agaricales. III. Annales Mycologici. 41:1-189
   collection(s)-cueillie(s): 24 septembre 2016
   fongarium: cKc0559
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 

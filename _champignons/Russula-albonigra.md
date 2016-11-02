@@ -1,6 +1,6 @@
 ---
 nom: Russula albonigra
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8242/28826395870_8327d25997_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28826395870/in/photolist-LcknHf-LeNzMD-KVhPcm
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Russule noire et blanche
   autorites: (Krombh.) Fr.
+  ordre: Russulales
   famille: Russulaceae
   genre: Russula
   espece: albonigra
   litterature: Fries, E.M. 1874. Hymenomycetes europaei., 1-755
   collection(s)-cueillie(s): 20 août 2016
   fongarium: cKc0546
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -232,7 +234,8 @@ description:
     Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Secondo, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
     Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
   publications-microscopiques: 
-  reactions-chimiques: Soluté de gaïac = endéans 5" S ++ (3 = moyenne) et après 5" L ++ (3 = moyenne)
+  reactions-chimiques: |
+    Soluté de gaïac = endéans 5" S ++ (3 = moyenne) = après 5" L ++ (3 = moyenne)
   receptacle: 
   remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement ; elle noircit.
   repartition: 

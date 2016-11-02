@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe praecox
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3821/8780672969_b12aa3654b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8780672969/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Agrocybe précoce
   autorites: (Pers.) Fayod
+  ordre: 
   famille: Strophariaceae
   genre: Agrocybe
   espece: praecox
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
   collection(s)-cueillie(s): 22 mai 2013
   fongarium: cKc0062
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -236,7 +238,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: NH4OH 10% = absences
+  reactions-macrochimiques: |
+    NH4OH 10% = absences
   receptacle: 
   remarques: 
   repartition: 

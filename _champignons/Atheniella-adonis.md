@@ -15,12 +15,14 @@ planches:
 details:
   nom-francais: 
   autorites: (Bull.) Redhead, Moncalvo, Vilgalys, Desjardin & B.A. Perry
+  ordre: Agaricales
   famille: Marasmiaceae
   genre: Atheniella
   espece: adonis
   litterature: Index Fungorum, 14, 1, 2012
   collection(s)-cueillie(s): 4 octobre 2014
   fongarium: cKc0289
+  numero-de-planche-micrographique: cKc0289-0048
 
 description:
   acanthocytes: 
@@ -234,7 +236,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

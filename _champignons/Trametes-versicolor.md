@@ -1,6 +1,6 @@
 ---
 nom: Trametes versicolor
-date: 2016-11-01 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3857/14880591843_754fdb0487_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14880591843/in/photolist-oDagSs-oEWVwk/
 album-flickr:
@@ -15,12 +15,14 @@ planches:
 details:
   nom-francais: Tramète versicolore
   autorites: (L.) Lloyd
+  ordre: Polyporales
   famille: Polyporaceae
   genre: Trametes
   espece: versicolor
   litterature: Lloyd, C.G. 1921. Mycological Notes 65. Mycological Writings. 6(65):1029-1101
   collection(s)-cueillie(s): 8 août 2014; 12 octobre 2015
   fongarium: cKc0201; cKc0489
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 

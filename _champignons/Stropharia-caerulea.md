@@ -1,6 +1,6 @@
 ---
 nom: Stropharia caerulea
-date: 2016-10-31 00:00:00
+date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/9/8191/8122273690_424d6d5230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8122273690/in/photolist-dnJMnf-dnJFjn-dDwhHj-dnJLZy
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Strophaire bleutée
   autorites: Kreisel
+  ordre: Agaricales
   famille: Strophariaceae
   genre: Stropharia
   espece: caerulea
   litterature: Kreisel, H. 1979. Zur Taxonomie von Stropharia aeruginosa sensu lato. Beihefte zur Sydowia. 8:228-232
   collection(s)-cueillie(s): 25 octobre 2012
   fongarium: cKc0034
+  numero-de-planche-micrographique: cKc034-0006
 
 description:
   acanthocytes: présents dans le mycélium à la base du pied

@@ -1,6 +1,6 @@
 ---
 nom: Tricholomopsis sulphureoides
-date: 2016-11-02 00:00:00
+date: 2016-11-03 00:00:00
 image: https://c1.staticflickr.com/9/8164/29608929000_0859bae19b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29608929000/in/photolist-M7rv2S-Monoq9
 album-flickr:
@@ -226,7 +226,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

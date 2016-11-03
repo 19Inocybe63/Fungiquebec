@@ -1,6 +1,6 @@
 ---
 nom: Mitrula elegans
-date: 2016-10-30 00:00:00
+date: 2016-11-03 00:00:00
 image: https://c2.staticflickr.com/8/7309/8937592313_9fb6943bef_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8937592313/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Mitrule élégante
   autorites: Berkeley
+  ordre: Helotiales
   famille: Helotiaceae
   genre: Mitrula
   espece: elegans
   litterature: Berkeley, M.J. 1875. Notices of North American fungi. Grevillea. 3(28):145-160
   collection(s)-cueillie(s): 3 juin 2013
   fongarium: cKc0045
+  numero-de-planche-micrographique: cKc0045-0087
 
 description:
   acanthocytes: 
@@ -231,7 +233,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

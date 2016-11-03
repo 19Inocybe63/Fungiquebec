@@ -1,6 +1,6 @@
 ---
 nom: Lentinellus flabelliformis
-date: 2016-10-30 00:00:00
+date: 2016-11-03 00:00:00
 image: https://c1.staticflickr.com/9/8192/8084204057_9ff65926da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084204057/in/photolist-dwGgDp-djnDe7-djnEdz
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Lentin en éventail
   autorites: (Bolton) S. Ito 
+  ordre: Russulales
   famille: Auriscalpiaceae
   genre: Lentinellus
   espece: flabelliformis
   litterature: Ito, S. 1955. Mycological Flora of Japan. Basidiomycetes. 2(4):1-450
   collection(s)-cueillie(s): 13 octobre 2012
   fongarium: cKc0021
+  numero-de-planche-micrographique: cKc0021-0002
 
 description:
   acanthocytes: 
@@ -232,7 +234,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

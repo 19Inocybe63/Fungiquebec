@@ -44,8 +44,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: polymorphes, utriformes selon Romagnesi, tétrastérigmates, 30-35 x 6 µm en moyenne
+  basidiospores: |
+    elliptiques à largement elliptiques vue de profil, elliptiques à ovoïdes vue frontale, à l’apex légèrement tronquées, lisses, à paroi mince, avec appendice hilaire, et pore germinatif distinct et centré 1,7 [1,8; 2] 2,1 x 1,2 [1,4; 1,9] 2,1 µm, à contenu homogène, brun foncé à brun rougeâtre dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    7,1 [7,9; 8,3] 9,1 x 4,8 [5,1; 5,3] 5,6 µm
+    Q = 1,4 [1,5; 1,6] 1,7; N = 30; C = 95%
+    Me = 8,1 x 5,2 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -56,7 +60,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -67,7 +71,7 @@ description:
   chair: mince
   chancre: 
   chapeau: jusqu'à 35 mm de hauteur x 3 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique à convexe, ocre au début, vite ocre pâle vers la marge et ocre au centre, couvert de fins flocons granuleux vélaires blanchâtres mais légèrement concolores au fond au centre, vite fugaces, à marge incurvée au début, puis puis droite, striée
-  cheilocystides: 
+  cheilocystides: abondantes, cylindriques à largement cylindriques, 77-120 x 43-53 μm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -208,11 +212,11 @@ description:
   pied: clavé vers la base, lisse ou très finement fibrilleux, blanc, avec un col en forme de volve, 40-140 x 2-7 mm Ø
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en hyméniderme épithéloïde
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: occasionnelles, elliptiques large à elliptiques allongées 74-125 x 45-62 μm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

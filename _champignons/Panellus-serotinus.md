@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois pourri de feuillus (Fagus)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,9 +64,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse près du pied, amincie vers la marge, ferme, spongieuse, blanchâtre, légèrement verdâtre sous la cuticule
   chancre: 
-  chapeau: 
+  chapeau: 25-100 (135) mm Ø, semi-circulaire, flabelliforme, conchoïde à réniforme, pulviné au début, puis arrondi, convexe à étalé ou ondulé, viscidule à visqueux au début et à l'humidité, puis sec, lisse, glabre puis typiquement velouté ou duveteux avec l'âge ou au sec, fibrilleux-écailleux-apprimé, plus squamuleux vers la marge, brun ou jaune olive, brun olive, vert olive, jaune orangé, ochracé, olive rougeâtre, brun terne, gris bleuâtre, parfois orangé ou teinté de violacé, à marge enroulée à incurvée au début, puis aiguë, lobée à crénelée, striatulée
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commune
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, larges vers la marge piléique, étroites vers le pied, fourchues, avec lamelles et lamellules, serrées à très serrées, crème, ochracées, orangées à fauvâtres, à arêtes entières, légèrement floconneuses, jaune ocre ou parfois légèrement violacées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, grégaire ou en amas imbriqués
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 
+  pied: 5-25 x 5-20 mm Ø, rudimentaire, excentré, courbe, ferme, plein, velouté, ponctué de flocons foncés sur fond jaune safran, ochracé, orange brunâtre à brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -238,12 +238,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: crème jaunâtre
   spores: 
   spherocytes: 
   sporocystes: 

@@ -236,7 +236,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: Lorsque l’on dépose un petit morceau déshydraté de lames dans le Rouge Congo SDS, ce dernier devient noir, et ensuite le noir s’atténue pour disparaître complètement.
+  reactions-macrochimiques: Lorsque l’on dépose un petit morceau déshydraté de lames dans le Rouge Congo SDS, ce dernier devient noir, et ensuite le noir s’atténue pour disparaître complètement.
   receptacle: 
   remarques: Sphagnurus paluster peut être tenue facilement pour une Mycène. Cependant, cette espèce pousse habituellement dans la mousse, tourbière.
   repartition: 

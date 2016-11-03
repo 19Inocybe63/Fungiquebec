@@ -15,13 +15,13 @@ planches:
 details:
   nom-francais: 
   autorites: (E. A. Dick & Snell) Both, Bessette & A.R. Bessette
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
-  litterature: 
-  collection(s)-cueillie(s): 
-  fongarium: 
+  ordre: Boletales
+  famille: Boletaceae
+  genre: Boletus
+  espece: subcaerulescens
+  litterature: Bessette, A.E.; Roody, W.C.; Bessette, A.R. 2000. North American Boletes: A Color Guide to the Fleshy Pored Mushrooms. :1-399
+  collection(s)-cueillie(s): 10 septembre 2015
+  fongarium: cKc0457
   numero-de-planche-micrographique: 
 
 description:
@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères, dans une chênaie
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,9 +64,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: crème jaunâtre, immuable
   chancre: 
-  chapeau: 
+  chapeau: 5-13 mm Ø, convexe, glabre, cuticule collante
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -126,17 +126,17 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: jaune beige, tubes immuables au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: cylindrique, dont l'apex est jaune et mauve du milieu vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -232,18 +232,21 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<SUB>4</SUB> = stipe verdâtre ; chair du chapeau et cuticule = verdâtre
+    KOH 10% = sur les tubes = rose ; cuticule = verdâtre ; chair = rosé ; stipe = mauve ; chair du Stipe = mauve puis rougeâtre
+    NH<SUB>4</SUB>OH 10% = chair du stipe et du chapeau = rosé ; stipe et cuticule = verdâtre
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce, de noisette
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun olive
   spores: 
   spherocytes: 
   sporocystes: 
@@ -253,7 +256,10 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Boletus edulis subsp. subcaerulescens E.A. Dick & Snell (1965)
+    Boletus edulis f. subcaerulescens (E.A. Dick & Snell) Vassilkov (1966)
+    Boletus separans var. subcaerulescens (E.A. Dick & Snell) A.H. Sm. & Thiers, The Boletes of Michigan:365 (1971)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

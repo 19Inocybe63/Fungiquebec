@@ -1,6 +1,6 @@
 ---
 nom: Mycena galericulata
-date: 2016-10-30 00:00:00
+date: 2016-11-03 00:00:00
 image: https://c2.staticflickr.com/4/3827/19116582812_309bc0247f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19116582812/in/photolist-v8gu4o-uRbuMb-v7UN4S
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Mycène en casque
   autorites: (Scop.) Gray
+  ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
   espece: galericulata
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
   collection(s)-cueillie(s): 24 juin 2015
   fongarium: cKc0323
+  numero-de-planche-micrographique: cKc0323-0091
 
 description:
   acanthocytes: 
@@ -235,7 +237,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

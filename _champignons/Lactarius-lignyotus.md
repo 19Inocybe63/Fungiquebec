@@ -1,6 +1,6 @@
 ---
 nom: Lactarius lignyotus
-date: 2016-10-30 00:00:00
+date: 2016-11-03 00:00:00
 image: https://c2.staticflickr.com/4/3839/15186557979_f17d2d4e4a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15186557979/in/photolist-pqu9V6-qhJz1h-p8Z5Ax
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Lactaire couleur de suie
   autorites: Fr.
+  ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
   espece: lignyotus
   litterature: Fries 1855, Monogr. Lact. Suec.:25
   collection(s)-cueillie(s): 27 septembre 2014
   fongarium: cKc0277
+  numero-de-planche-micrographique: cKc0277-0061
 
 description:
   acanthocytes: 
@@ -237,7 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Habituellement, la description du pileipellis indique que ce dernier est en épithélium avec hyphes terminales cylindriques ; mais après observation, ce n’est pas vraiment le cas.
   repartition: 

@@ -230,7 +230,7 @@ description:
   pseudo-peridioles: 
   publications: Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

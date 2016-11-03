@@ -1,6 +1,6 @@
 ---
 nom: Marasmius pulcherripes
-date: 2016-10-30 00:00:00
+date: 2016-11-03 00:00:00
 image: https://c2.staticflickr.com/4/3898/14937584416_30a6aeecf8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14937584416/in/photolist-ovww45-fdnUT4-fdC9HL-oKZ2qU
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Marasme à beau pied
   autorites: Peck
+  ordre: Agaricales
   famille: Marasmiaceae
   genre: Marasmius
   espece: pulcherripes
   litterature: Peck, C.H. 1872. Report of the Botanist (1870). Annual Report on the New York State Museum of Natural History. 24:41-108
   collection(s)-cueillie(s): 20 juillet 2013; 18 août 2014
   fongarium: cKc0089; cKc0204
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -227,7 +229,7 @@ description:
   publications: |
     Noordeloos, Machiel E. Marasmius: Key to the sections in Europe.
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: Le pied pourpré à l'apex est une caratéristique de l'espèce.
   repartition: 

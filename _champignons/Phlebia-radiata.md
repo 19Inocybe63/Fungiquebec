@@ -228,7 +228,7 @@ description:
   publications: |
     Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: P. radiata est un champignon de croûte orange, rose, qui se répand à travers le bois mort de feuillus et de conifères de l'Amérique du Nord. Il a une surface plissée dans laquelle les plis rayonnent vers l'extérieur à partir d'un emplacement central. Il ne développe pas de pores et il ne développe pas une structure de chapeau, en général, il a un bord replié.
   repartition: 

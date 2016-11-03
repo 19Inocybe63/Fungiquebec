@@ -1,6 +1,6 @@
 ---
 nom: Leratiomyces riparius
-date: 2016-11-01 00:00:00
+date: 2016-11-03 00:00:00
 image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18014840069/in/photolist-HDHSvu-HNrU6e-FUfGoV-tG2gVW-trUAiD-trLvyU-trULjR-dB653b-rLyqV3-f4auVu-eUs8vP-eUsn5z-eUDu43-cU6gkJ-cU6fJE-cU6fxJ-cU6fXb
 album-flickr:
@@ -16,11 +16,13 @@ planches:
 details:
   nom-francais: 
   autorites: (A.H. Sm.) Redhead
-  collection(s)-cueillie(s): 18 août 2012; 24 juin 2013; 28 mai 2015; 3 juin 2016
-  fongarium: cKc0037; cKc0049; cKc0305; cKc0493
+  ordre: Agaricales
   famille: Strophariaceae
   genre: Leratiomyces
   espece: riparius
+  collection(s)-cueillie(s): 18 août 2012; 24 juin 2013; 28 mai 2015; 3 juin 2016
+  fongarium: cKc0037; cKc0049; cKc0305; cKc0493
+  numero-de-planche-micrographique: cKc0037-0004 ; cKc0049-0080 ; cKc0305-0120
 
 description:
   acanthocytes: absents
@@ -77,7 +79,7 @@ description:
   clavules: 
   collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: La collection cKc0305 fut étudiée sur matériel déshydraté
   conidies: 
   conidiome: 
   conidiophores: 

@@ -45,18 +45,23 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    cylindriques à étroitement subfusiformes vue de front, cylindriques à inéquilatérales vue de profil, lisses, à paroi légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, ± à très faiblement cyanophiles
+    (11,7) 12,5 - 14,8 (15,1) × (4,3) 4,4 - 4,8 (5,1) µm
+    Q = (2,6) 2,8 - 3,2 (3,4) ; N = 30
+    Me = 13,7 × 4,6 µm ; Qe = 3
+    (Piximètre: formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
-  boucles: 
+  biotopes: pousse au sol mal drainé, sous chênes et hêtres
+  boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: 
-  caulocystides: 
+  caulobasides: présentes sur toute la longueur du stipe
+  caulocystides: abondantes sur toute la longueur du stipe, digitées à pluridigitées, rostrées, fusiformes à largement fusiformes, 40 - 90 × (5,2) 5,25 - 24,88 (24,9) µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -208,7 +213,7 @@ description:
   pied: 100-240 x 6-20 mm Ø, cylindrique, élargie vers le bas, finement réticuler, ± concolore avec ou plus pâle que le chapeau, glabre, blanchâtre, chair blanche
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en épithélium formant une palissade de cellules terminales emmêlées fusiformes à ventrues, (17) 18,7 - 24 (28,8) × (6,7) 7,9 - 12,7 (17,7) µm en moyenne, d'où émerge de longues hyphes 43-47,7 × 4-4,7 µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 

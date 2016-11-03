@@ -22,7 +22,7 @@ details:
   litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
   collection(s)-cueillie(s): 21 mai 2014 ; 15 mai 2015
   fongarium: cKc0154 ; cKc0302
-  numero-de-planche-micrographique: 
+  numero-de-planche-micrographique: cKc0154-0036
 
 description:
   acanthocytes: 
@@ -64,9 +64,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince
   chancre: 
-  chapeau: 
+  chapeau: jusqu'à 35 mm de hauteur x 3 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique à convexe, ocre au début, vite ocre pâle vers la marge et ocre au centre, couvert de fins flocons granuleux vélaires blanchâtres mais légèrement concolores au fond au centre, vite fugaces, à marge incurvée au début, puis puis droite, striée
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -127,8 +127,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, 3-8 mm de largeur, serrées, blanches au début, puis gris-brun à noires, déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: clavé vers la base, lisse ou très finement fibrilleux, blanc, avec un col en forme de volve, 40-140 x 2-7 mm Ø
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -238,12 +238,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: noire
   spores: 
   spherocytes: 
   sporocystes: 
@@ -268,7 +268,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

@@ -64,9 +64,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: crème pâle, immuable, rougeâtre près de la cuticule
   chancre: 
-  chapeau: 
+  chapeau: 60-150 (180) mm Ø, convexe, convexe à étalé à maturité, cuticule un peu collante lorsque imbue, glabre avec l'âge rouge foncé mat vivre brun, ou baie-brun, avec une voile ochracé près de la marge
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -91,7 +91,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: adnés devenant déprimés, blanchâtre, jaunâtre lentement terne à ochracé terne (non olivacé), immuable, pores blanc quand il est jeune, devenant jaune pâle, mais pas de coloration bleue, 1-2 mm, rond ou presque
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: agréable et douce à l'état frais
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 100-240 x 6-20 mm Ø, cylindrique, élargie vers le bas, finement réticuler, ± concolore avec ou plus pâle que le chapeau, glabre, blanchâtre, chair blanche
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -238,7 +238,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 

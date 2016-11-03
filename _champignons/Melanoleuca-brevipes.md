@@ -1,6 +1,6 @@
 ---
 nom: Melanoleuca brevipes
-date: 2016-10-30 00:00:00
+date: 2016-11-03 00:00:00
 image: https://c2.staticflickr.com/8/7783/29832926531_677fe9d14b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832926531/in/photolist-MwuSm1-MwuPD7-MsexGg
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: Mélanoleuque à pied court
   autorites: (Bull.) Pat.
+  ordre: Agaricales
   famille: Tricholomataceae
   genre: Melanoleuca
   espece: brevipes
   litterature: Patouillard, N. 1900. Essai taxonomique sur les familles et les genres des Hyménomycètes. :1-184
   collection(s)-cueillie(s): 24 septembre 2016
   fongarium: cKc0560
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -225,7 +227,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

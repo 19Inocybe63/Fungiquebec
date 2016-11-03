@@ -73,7 +73,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Yves Lamoureux
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 

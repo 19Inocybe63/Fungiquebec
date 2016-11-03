@@ -1,6 +1,6 @@
 ---
 nom: Tricholomopsis decora
-date: 2016-10-31 00:00:00
+date: 2016-11-03 00:00:00
 image: https://c1.staticflickr.com/9/8520/8635746662_876994de16_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8635746662/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
 album-flickr:
@@ -231,7 +231,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

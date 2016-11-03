@@ -1,6 +1,6 @@
 ---
 nom: Octaviania asterosperma
-date: 2016-11-02 00:00:00
+date: 2016-11-03 00:00:00
 image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20814861412/in/photolist-xtpr2s-xJ3sDc-xHkB7U
 album-flickr:
@@ -12,12 +12,14 @@ planches:
 details:
   nom-francais: 
   autorites: Vittad.
+  ordre: Boletales
   famille: Boletaceae
   genre: Octaviania
   espece: asterosperma
   litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
   collection(s)-cueillie(s): 23 août 2015
   fongarium: cKc0430
+  numero-de-planche-micrographique: cKc0430-0098
 
 description:
   acanthocytes: 
@@ -230,7 +232,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: 
+  reactions-macrochimiques: 
   receptacle: 
   remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
   repartition: 

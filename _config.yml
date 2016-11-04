@@ -116,6 +116,8 @@ champs-description:
     label: Hyménium
   - name: basidiome
     label: Basidiome
+  - name: aiguillons
+    label: Aiguillons
   - name: hymenophore
     label: Hyménophore
   - name: consistance
@@ -354,8 +356,6 @@ champs-description:
     label: Collection confirmée par
   - name: acanthophyses
     label: Acanthophyses
-  - name: aiguillons
-    label: Aiguillons
   - name: aleurioconidies
     label: Aleurioconidies
   - name: anamorphe

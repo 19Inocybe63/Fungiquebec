@@ -31,7 +31,7 @@ description:
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
-  anneau: 
+  anneau: hyphales constitué d’hyphes parallèles à emmêlées, abondamment bouclées à contenu fortement huileux
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
@@ -44,19 +44,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: largement cylindriques avec léger resserrement au centre, tétrastérigmates, bouclées à la base, 24,1 x 8,2 µm en moyenne
+  basidiospores: |
+    ellipsoïdes à ovoïdes, rugueuses à verruqueuses, à paroi mince, avec appendice hilaire, sans pore germinatif, avec légère dépression apiculaire, au contenu souvent uniguttulé, brun à brun orangé dans le NH<SUB>4</SUB>OH 2%, dextrinoïdes
+    7,6 [8,1; 8,3] 8,8 x 4,9 [5,3; 5,4] 5,8 µm
+    Q = 1,4 [1,5] 1,6; N = 60; C = 95%
+    Me = 8,2 x 5,4 µm; Qe = 1,5
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse sur bois pourri de feuillus, et probablement de conifères
-  boucles: 
+  boucles: observées dans la trame lamellaire, abondantes dans le pileipellis et dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -67,7 +71,7 @@ description:
   chair: épaisse, ferme, jaunâtre, se tachant de brunâtre orangé ou parfois de vert bleuâtre avec l'âge ou aux meurtrissures
   chancre: 
   chapeau: 45-140 mm Ø, convexe à presque plan avec marge incurvée, apprimée sur les lames, sec, lisse, soyeux ou finement fibrilleux-méchuleux, parfois floconneux-squamuleux vers le centre, jaune chamois à jaune vif, puis brunâtre orangé à rouille, souvent légèrement plus foncé vers le centre
-  cheilocystides: 
+  cheilocystides: polymorphes, légèrement émergentes, tibiformes, légèrement capitées à largement capitées, parfois cylindrique à fusiformes, rarement lécythiformes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -146,7 +150,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: du pileipellis à pigments intracellulaires brun rouille
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -212,7 +216,7 @@ description:
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -261,7 +265,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   type: 
   typique: 

@@ -230,7 +230,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Abbott, Sean P., Currah, R. S. The Helvellaceae; Systematic Revision and occurrence in Northern and Northwestern North America, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

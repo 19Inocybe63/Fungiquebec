@@ -64,9 +64,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fragile
   chancre: 
-  chapeau: 
+  chapeau: 10-30 mm Ø, conique à convexe puis étalé à maturité, et faiblement ombiliqué au centre, finement squamuleux, subhygrophane, brun foncé à brun-rouge, gris-noir au centre, pâlissant avec l'âge et au sec
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -74,7 +74,7 @@ description:
   circumcystides: 
   clavules: 
   collection-confirmee-par: 
-  collection-determinee-par: 
+  collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à émarginées, larges, subespacées, blanchâtres à gris-rosées, à arêtes érodées, concolores aux faces
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 30-80 x 10-40 mm Ø, longuement cylindrique, égal, creux, pruineux vers l'apex, glabre vers la base, gris bleuté, brun, tomenteux blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 

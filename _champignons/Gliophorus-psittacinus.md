@@ -64,9 +64,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, fragile, cireuse, concolore au chapeau
+  chair: mince, fragile, cireuse, blanchâtre
   chancre: 
-  chapeau: 7-28 mm Ø, hémisphérique à campanulé, conique à largement convexe puis subétalé lorsque mature, mamelonné, visqueux à subglutineux, lisse, souvent luisant au sec, hygrophane, de couleur variable, vert foncé au début, devenant rapidement jaune orangé du centre vers l'extérieur, parfois orange avec une marge verdâtre, devenant orange, et finalement, jaune orangé terne
+  chapeau: 7-28 mm Ø, hémisphérique à campanulé, conique à largement convexe puis subétalé lorsque mature, mamelonné, visqueux à subglutineux, lisse, souvent luisant au sec, hygrophane, de couleurs variables, vert foncé au début, devenant rapidement jaune orangé du centre vers l'extérieur, parfois orange avec une marge verdâtre, devenant orange, et finalement, jaune orangé terne
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, serrées à subespacées, souvent vert pâle lorsque jeune, devenant jaunâtre à orange-jaune à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: 8-38 x 2-3 mm Ø, d'épaisseur, cylindrique, égal, lisse, visqueux, vert pâle au-dessus et jaune orangé au-dessous lorsque jeune, décoloration à jaunâtre pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 

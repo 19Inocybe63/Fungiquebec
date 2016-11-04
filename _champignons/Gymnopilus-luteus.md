@@ -64,9 +64,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, ferme, jaunâtre, se tachant de brunâtre orangé ou parfois de vert bleuâtre avec l'âge ou aux meurtrissures
   chancre: 
-  chapeau: 
+  chapeau: 45-140 mm Ø, convexe à presque plan avec marge incurvée, apprimée sur les lames, sec, lisse, soyeux ou finement fibrilleux-méchuleux, parfois floconneux-squamuleux vers le centre, jaune chamois à jaune vif, puis brunâtre orangé à rouille, souvent légèrement plus foncé vers le centre
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à anisé
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, adnexées à légèrement décurrentes, assez étroites, minces, serrées, jaune pâle puis brun rouille
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire ou cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: 35-120 x 5-20 mm Ø, ± égal, légèrement élargi à clavé vers la base ou fusiforme, élancé, ferme, plein, finement fibrilleux-strié, concolore au chapeau, se tachant de brunâtre orangé à rouille jaunâtre ou parfois de vert bleuâtre avec l'âge ou aux meurtrissures à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -232,18 +232,19 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = chapeau devenant rouge foncé
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: légèrement amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun orangé à brun rouille
   spores: 
   spherocytes: 
   sporocystes: 
@@ -266,7 +267,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: laissant souvent un anneau submembraneux ou une zone annuliforme supère, fragile, jaune pâle
   volve: 
   zone-perihymeniale: 
 ---

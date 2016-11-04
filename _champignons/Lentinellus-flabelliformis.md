@@ -134,7 +134,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: rare à occassionnelle
+  frequence: rare à occassionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

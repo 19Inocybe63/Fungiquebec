@@ -143,9 +143,9 @@ description:
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
-  hymenium: brun foncé, au sec, lisse, dont la surface de l'excipulum est brun pâle à gris brun
+  hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: brun foncé, au sec, lisse, dont la surface de l'excipulum est brun pâle à gris brun
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 

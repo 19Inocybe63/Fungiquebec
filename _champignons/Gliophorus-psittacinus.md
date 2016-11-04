@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans les milieux humides des forêts (surtout de feuillus)
+  biotopes: pousse au sol, dans les milieux humides des forêts (surtout de feuillus, Fagus, Quercus)
   boucles: 
   brachybasidioles: 
   calicule: 

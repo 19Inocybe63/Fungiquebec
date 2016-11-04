@@ -45,7 +45,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    cuboïdes à 4 angles vue de profil, lenticulaires vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, verdâtres dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    11,5 [12,6; 13,2] 14,3 x 11 [11,9; 12,5] 13,4 µm
+    Q =  [1; 1,08] 1,1; N = 20; C = 95%
+    Me = 12,9 x 12,2 µm; Qe = 1,1
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -67,7 +71,7 @@ description:
   chair: mince, fragile, concolore au chapeau à blanchâtre
   chancre: 
   chapeau: 8-40 mm Ø, conique à campanulé, papillé, lisse à finement squamuleux, hygrophane, saumon à orange saumon à marge serrulée, translucide-striée à l'humidité
-  cheilocystides: 
+  cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -146,7 +150,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: terminales dans le stipitipellis
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -208,11 +212,11 @@ description:
   pied: 40-130 x 2-6 mm Ø, longuement cylindrique, égal à légèrement élargi vers la base, tordu, creux, lisse, pruineux vers l'apex, strié longitudinalement, concolore au chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

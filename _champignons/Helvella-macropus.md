@@ -232,6 +232,7 @@ description:
   pseudo-peridioles: 
   publications: |
     Abbott, Sean P., Currah, R. S. The Helvellaceae; Systematic Revision and occurrence in Northern and Northwestern North America, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
+    Dissing, Henry. The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

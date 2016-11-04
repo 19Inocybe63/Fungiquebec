@@ -131,7 +131,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: inconnu
   glebe: pulvérulente et noire teintée d'olivacé à noire à maturité
   gleocystides: 
   gleocystides-hymeniales: 

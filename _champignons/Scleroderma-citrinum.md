@@ -129,7 +129,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: commune
+  frequence: commun
   glebe: blanche et longtemps ferme au début, puis gris violacé à noirâtre, souvent marbrée de blanchâtre, demeurant ferme, poudreuse à granuleuse à la fin, après l'ouverture du péridium, à odeur aigre ou agréable
   gleocystides: 
   gleocystides-hymeniales: 

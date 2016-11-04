@@ -64,7 +64,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, cassante
   chancre: 
   chapeau: 
   cheilocystides: 

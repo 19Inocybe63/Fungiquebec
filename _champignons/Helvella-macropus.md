@@ -32,7 +32,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: 5-55 mm Ø, 4-12 mm de haut, profondément cupulée, cupuliforme à discoïde avec l'âge, souvent latéralement comprimé
   arete-lamellaire: 
   arthroconidies: 
   articles: 

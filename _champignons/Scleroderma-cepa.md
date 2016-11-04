@@ -131,7 +131,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: occasionnelle
+  frequence: occasionnel
   glebe: longtemps blanche et très ferme au début, devenant rose rougeâtre à vineuse à la coupe, noir pourpré à noire, marbrée de blanchâtre, et poudreuse à maturité
   gleocystides: 
   gleocystides-hymeniales: 

@@ -131,7 +131,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: glabre, granuleuse-veloutée, surtout vers la marge, plus pâle que l'hyménophore, brun grisâtre pâle à moyen
   face-poroïde: 
   feutrage-basal: 
   fongarium:

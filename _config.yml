@@ -150,6 +150,8 @@ champs-description:
     label: Contexte
   - name: lames
     label: Lames
+  - name: rameaux
+    label: Rameaux
   - name: pied
     label: Pied
   - name: voile-general

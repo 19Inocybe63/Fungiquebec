@@ -131,7 +131,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: largement distribué en Amérique du Nord
+  frequence: commun, largement distribué en Amérique du Nord
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

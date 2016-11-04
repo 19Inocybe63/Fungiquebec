@@ -233,6 +233,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: 
+  rameaux: pubescents sur la face supérieure
   receptacle: 
   remarques: 
   repartition: 

@@ -27,7 +27,7 @@ details:
 description:
   acanthocytes: 
   acanthophyses: 
-  aiguillons: 
+  aiguillons: 5-10 mm de longueur, courts, nombreux, en rangées, distribués assez également sur les côtés des rameaux, blancs à crème au début, se décolorant de jaunâtre à brunâtre
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
@@ -47,7 +47,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: 90-200 mm de hauteur, 100-250 mm de largeur, formé d'une structure de longs et multiples rameaux arrivant d'une base commune ± centrée, portant plusieurs petits aiguillons pendants, blanchâtre, parfois rosâtre à saumon
   bibliographies: 
   biotopes: pousse sur bois mort ou vivant de feuillus
   boucles: 

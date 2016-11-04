@@ -112,6 +112,8 @@ champs-details:
 champs-description:
   - name: apothecie
     label: Apothécie
+  - name: hymenium
+    label: Hyménium
   - name: basidiome
     label: Basidiome
   - name: hymenophore
@@ -482,8 +484,6 @@ champs-description:
     label: Granules calcaires
   - name: groupe
     label: Groupe
-  - name: hymenium
-    label: Hyménium
   - name: hyphidies
     label: Hyphidies
   - name: hyphique

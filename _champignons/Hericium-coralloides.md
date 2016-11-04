@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois mort ou vivant de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 

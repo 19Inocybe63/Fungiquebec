@@ -20,9 +20,9 @@ details:
   genre: Entoloma
   espece: quadratum
   litterature: Horak, E. 1976. On cuboid-spored species of Entoloma (Agaricales). Sydowia. 28(1-6):171-237
-  collection(s)-cueillie(s): 
-  fongarium: 
-  numero-de-planche-micrographique: 
+  collection(s)-cueillie(s): 18 août 2014
+  fongarium: cKc0206
+  numero-de-planche-micrographique: cKc0206-0054
 
 description:
   acanthocytes: 
@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, parmi les débris ligneux des forêts mixtes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé, en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

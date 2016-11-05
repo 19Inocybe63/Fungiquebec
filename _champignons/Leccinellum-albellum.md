@@ -97,7 +97,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: concolore à la face poroïde, jusqu'à 10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -138,7 +138,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanchâtre, brunissant avec l'âge, immuable au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 40-115 x 5-12 mm Ø, claviformes, subégal à légèrement élargi vers la base et conique vers le sommet, plein, sec, blanchâtre, orné de fines rugosités devenant brun-noir avec l'âge, une tache jaune dans la chair est localisée juste à la base, mycélium basal blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'éléments celluleux en chaîne, subglobuleux à clavées ressemblant à un trichoderme, entre 19,5 [29,2; 44,8] 54,4 x 6,4 [11,3; 19,2] 24,2 µm; ressemble parfois à un pileipellis de type virescens
@@ -230,7 +230,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: circulaires et petits
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -285,7 +285,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

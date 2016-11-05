@@ -10,7 +10,7 @@ planches:
     originale:  
 
 details:
-  nom-francais: Phlébie radiante
+  nom-francais: Phlébie ?
   autorites: Fr.
   ordre: Polyporales
   famille: Meruliaceae
@@ -234,7 +234,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: P. radiata est un champignon de croûte orange, rose, qui se répand à travers le bois mort de feuillus et de conifères de l'Amérique du Nord. Il a une surface plissée dans laquelle les plis rayonnent vers l'extérieur à partir d'un emplacement central. Il ne développe pas de pores et il ne développe pas une structure de chapeau, en général, il a un bord replié.
+  remarques: Si l'on se fit sur la mesure des basidiospores, il ne s'agit pas de P. radiata.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

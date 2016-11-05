@@ -236,7 +236,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<SUB>4</SUB> = le chapeau devient gris bleuâtre ; la chair devient grise
+    KOH 10% = le chapeau devient olive ; la chair devient jaune pâle
+    NH<SUB>4</SUB>OH 10% = le chapeau devient olive ; la chair devient jaune pâle
   receptacle: 
   remarques: 
   repartition: 

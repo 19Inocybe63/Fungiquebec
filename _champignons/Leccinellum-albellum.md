@@ -254,10 +254,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus albellus Peck, Annual Report on the New York State Museum of Natural History 41:77 (1888)
-    Ceriomyces albellus (Peck) Murrill, Mycologia 1 (4):145 (1909)
-    Leccinum albellum (Peck) Singer, Mycologia 37:799 (1945)
-    Krombholziella albella (Peck) utara, Ceska Mykologie 36 (2):81 (1982)
+    Boletus albellus Peck, Annual Report on the New York State Museum of Natural History 41, 77 (1888)
+    Ceriomyces albellus (Peck) Murrill, Mycologia 1 (4), 145 (1909)
+    Leccinum albellum (Peck) Singer, Mycologia 37, 799 (1945)
+    Krombholziella albella (Peck) utara, Ceská Mykologie 36 (2), 81 (1982)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

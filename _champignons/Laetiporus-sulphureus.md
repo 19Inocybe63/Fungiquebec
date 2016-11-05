@@ -48,7 +48,7 @@ description:
   basidiospores: |
     elliptiques, ovoïdes à largement ovoïdes, lisses, à paroi mince, à contenu variable, hyalines dans le NaCl, inactives dans le melzer     5,5-7 x 3,5-5 μm
   basidioles: 
-  basidiome: 
+  basidiome: annuel, sessile, stipité, charnu-mou au début, fibreux-tenace à maturité, imbue au frais, friable et cassant au sec
   bibliographies: 
   biotopes: pousse sur bois pourri et moussu de feuillus (Quercus)
   boucles: absentes
@@ -67,7 +67,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 50-300 mm de largeur et jusqu'à 200 mm de profondeur, jusqu'à 30 mm d'épaisseur, en forme d'éventail à semi-circulaire ou irrégulière, ± plano à convexe, lisse à finement ridée, feutré, jaune vif à orange quand jeune, suivant une décoloration à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 

@@ -50,7 +50,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois pourri et moussu de feuillus (Quercus)
   boucles: absentes
   brachybasidioles: 
   calicule: 

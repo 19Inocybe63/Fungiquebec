@@ -13,7 +13,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Hydne corail
   autorites: (Scop.) Pers.
   ordre: Russulales
   famille: Hericiaceae

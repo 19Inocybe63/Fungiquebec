@@ -81,7 +81,9 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    Question de cKc = L'espèce a-t-elle un sosie ?
+    Réponse de Yves Lamoureux = L. subgranulosum, très rare, demeure brun foncé même à maturité. Pour l'instant, ce dernier est inconnu à l'est de Trois-Rivières... par incompétence ? Lui aussi se craquèle avec l'âge. Leur cuticule piléique n'a toutefois pas la même composition. Les deux peuvent pousser côte à côte.
   conidies: 
   conidiome: 
   conidiophores: 

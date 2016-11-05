@@ -46,8 +46,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    elliptiques, ovoïdes à largement ovoïdes, lisses, à paroi mince, à contenu variable, hyalines dans le NaCl, inactives dans le melzer
-5,5-7 x 3,5-5 μm
+    elliptiques, ovoïdes à largement ovoïdes, lisses, à paroi mince, à contenu variable, hyalines dans le NaCl, inactives dans le melzer     5,5-7 x 3,5-5 μm
   basidioles: 
   basidiome: 
   bibliographies: 

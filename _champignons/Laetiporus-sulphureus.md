@@ -65,7 +65,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, aqueux quand jeune, devenant dur à maturité et finit par s'effriter, blanc à jaune pâle
   chancre: 
   chapeau: 50-300 mm de largeur et jusqu'à 200 mm de profondeur, jusqu'à 30 mm d'épaisseur, en forme d'éventail à semi-circulaire ou irrégulière, ± plano à convexe, lisse à finement ridée, feutré, jaune vif à orange quand jeune, suivant une décoloration à maturité
   cheilocystides: 
@@ -92,7 +92,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: jusqu'à 5 mm de profondeur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -127,7 +127,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à agréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -206,7 +206,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: latéral, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -225,7 +225,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: jaune, avec 2-4 pores circulaires à angulaires par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -245,12 +245,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à agréable
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: crème blanchâtre
   spores: 
   spherocytes: 
   sporocystes: 

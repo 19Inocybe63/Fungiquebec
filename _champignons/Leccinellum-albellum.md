@@ -19,7 +19,7 @@ details:
   famille: Boletaceae
   genre: Leccinellum
   espece: albellum
-  litterature: Bresinsky, A.; Besl, H. 2003. Beiträge zu einer Mykoflora Deutschlands - Schlüssel zur Gattungsbestimmung der Blätter-, Leisten- und Röhrenpilze mit Literaturhinweisen zur Artbestimmung. Regensburger Mykologische Schriften. 11:1-236
+  litterature: Bresinsky, A.; Besl, H. 2003. Beiträge zu einer Mykoflora Deutschlands, Schlüssel zur Gattungsbestimmung der Blätter, Leisten, und Röhrenpilze mit Literaturhinweisen zur Artbestimmung. Regensburger Mykologische Schriften. 11:1-236
   collection(s)-cueillie(s): 27 août 2014
   fongarium: cKc0222
   numero-de-planche-micrographique: cKc0222-0062

@@ -45,12 +45,14 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    elliptiques, ovoïdes à largement ovoïdes, lisses, à paroi mince, à contenu variable, hyalines dans le NaCl, inactives dans le melzer
+5,5-7 x 3,5-5 μm
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -98,7 +100,7 @@ description:
   cuticule: 
   cutis: 
   cycle: 
-  cystides: 
+  cystides: absentes
   cystides-hymeniales: 
   cystides-intermediaires: 
   cystidioles: 
@@ -234,7 +236,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: La chair devient noire dans le rouge Congo SDS
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -284,7 +286,7 @@ description:
     Polyporus candicinus (Scop.) J. Schröt. (1888)
     Polyporus rostafinskii Blonski, Hedwigia 28:280 (1889)
     Laetiporus speciosus Battarra ex Murrill, Bulletin of the Torrey Botanical Club 31 (11):607 (1904)
-  systeme-hyphal: 
+  systeme-hyphal: dimitique avec hyphes générative sans boucles
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 

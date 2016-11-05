@@ -1,7 +1,7 @@
 ---
 nom: Hericium coralloides
 date: 2016-11-04 00:00:00
-image: https://c2.staticflickr.com/4/3858/15199843732_9582ae9c92_n.jpg
+image: https://c2.staticflickr.com/4/3858/15199843732_698468a2be_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15199843732/in/photolist-paaaZf
 album-flickr:
   - 

@@ -286,6 +286,8 @@ champs-description:
     label: Hypoderme
   - name: pileocystides
     label: Pileocystides
+  - name: cystides
+    label: Cystides
   - name: boucles
     label: Boucles
   - name: hyphes
@@ -422,8 +424,6 @@ champs-description:
     label: Cutis
   - name: cycle
     label: Cycle
-  - name: cystides
-    label: Cystides
   - name: cystides-hymeniales
     label: Cystides hyméniales
   - name: cystides-intermediaires

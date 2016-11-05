@@ -234,7 +234,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Si l'on se fit sur la mesure des basidiospores, il ne s'agit pas de P. radiata.
+  remarques: Si l'on se fit sur la mesure des basidiospores, il ne s'agit pas de P. radiata. La recherche se poursuit.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

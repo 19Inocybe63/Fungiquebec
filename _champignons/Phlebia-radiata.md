@@ -42,7 +42,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    elliptiques vue de front, cylindriques à suballantoïdes vue de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu variable, hyalines dans l’eau glycérinée 20%, inactives dans le melzer, fortement cyanophiles
+    5,2 [6,5 ; 7,1] 8,4 × 2,8 [3,2 ; 3,3] 3,7 µm
+    Q = 1,7 [2 ; 2,2] 2,5 ; N = 30 ; C = 95%
+    Me = 6,8 × 3,2 µm ; Qe = 2,1
   basidioles: 
   basidiome: entièrement résupiné, effusé à légèrement effusé-réfléchi, orbiculaire 10-100 mm ou plus, avec contour irrégulier, allant jusqu'à environ 3 mm d'épaisseur, surface ridée, avec les rides et les plis rayonnant à partir d'un point plus ou moins centrale, orange au rose (plus rarement tan avec des bords orangées ou violacé), développer occasionnellement, un bord poilue légèrement repliée
   bibliographies: 
@@ -257,7 +261,7 @@ description:
     Merulius fulvus Lasch, Linnaea 4:552 (1829)
     Phlebia kriegeriana Henn., Hedwigia 41:146 (1902)
     Phlebia cystidiata H.S. Jacks., Mycologia 48 (3):395 (1956)
-  systeme-hyphal: 
+  systeme-hyphal: monomitique
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 

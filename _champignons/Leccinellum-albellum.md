@@ -257,7 +257,7 @@ description:
     Boletus albellus Peck, Annual Report on the New York State Museum of Natural History 41:77 (1888)
     Ceriomyces albellus (Peck) Murrill, Mycologia 1 (4):145 (1909)
     Leccinum albellum (Peck) Singer, Mycologia 37:799 (1945)
-    Krombholziella albella
+    Krombholziella albella (Peck) utara,
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

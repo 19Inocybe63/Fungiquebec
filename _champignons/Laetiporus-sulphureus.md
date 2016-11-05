@@ -250,7 +250,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: crème blanchâtre
+  sporee: blanche à blanchâtre
   spores: 
   spherocytes: 
   sporocystes: 

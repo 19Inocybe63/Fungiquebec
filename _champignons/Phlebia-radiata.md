@@ -10,13 +10,13 @@ planches:
     originale:  
 
 details:
-  nom-francais: Phlébie ?
+  nom-francais: Phlébie
   autorites: Fr.
   ordre: Polyporales
   famille: Meruliaceae
   genre: Phlebia
-  espece: radiata
-  litterature: Fries, E.M. 1821. Systema Mycologicum. 1:1-520
+  espece: sp.
+  litterature: 
   collection(s)-cueillie(s): 9 octobre 2016
   fongarium: cKc0591
   numero-de-planche-micrographique: 
@@ -253,14 +253,7 @@ description:
   subhymenium: 
   subiculum: cotonneux, jusqu'à 3 mm d'épaisseur, blanc à pâle
   substrat: 
-  synonymie: |
-    Phlebia aurantiaca var. radiata (Fr.) Bourdot & Galzin, Hyménomycètes de France:342 (1928)
-    Auricularia aurantiaca Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:398 (1803)
-    Merulius merismoides Fr., Observationes mycologicae 2:235 (1818)
-    Phlebia contorta Fr., Systema Mycologicum 1:427 (1821)
-    Merulius fulvus Lasch, Linnaea 4:552 (1829)
-    Phlebia kriegeriana Henn., Hedwigia 41:146 (1902)
-    Phlebia cystidiata H.S. Jacks., Mycologia 48 (3):395 (1956)
+  synonymie: 
   systeme-hyphal: monomitique
   textura: 
   tomentum-caulinaire: 

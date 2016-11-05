@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 
+  chapeau: 20-75 mm Ø, convexe à largement convexe, subplane, sec, finement tomenteux à glabre, finement craquelé-aréolé à maturité, blanchâtre à gris pâle, rosâtre, jaunâtre, bronzé ou olive, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 

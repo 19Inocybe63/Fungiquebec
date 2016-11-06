@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, sinuées, larges puis ventrues, avec de nombreuses lamelles et lamellules, serrées à espacées, saumon ochracé pâle à orangées, se tachant facilement de jaune orangé au froissement, à arêtes entières, orange rougeâtre brillant
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

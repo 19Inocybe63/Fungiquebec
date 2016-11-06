@@ -76,7 +76,7 @@ description:
   clavules: 
   collection-confirmée-par: 
   collection-determination-provisoire-par: 
-  collection-determinee-par: Claude Kaufholtz-Couture
+  collection-determinee-par: 
   columelle: 
   commentaires: 
   conidies: 

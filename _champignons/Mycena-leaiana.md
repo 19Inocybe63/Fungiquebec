@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: assez épaisse, molle, flexible, blanchâtre à orangée
   chancre: 
-  chapeau: 10-40 mm Ø, campanulé au début, devenant campanulé-convexe, cuticule collante, visqueux lorsqu'imbue, glabre, orange vif, à orange plus foncé, pâlissant parfois avec l'âge, développant occasionnellement des taches vert olive à maturité
+  chapeau: 10-40 mm Ø, campanulé au début, devenant campanulé-convexe, cuticule collante, visqueux lorsqu'imbu, glabre, orange vif, à orange plus foncé, pâlissant parfois avec l'âge, développant occasionnellement des taches vert olive à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: 30-70 x 2-4 mm Ø, cylindrique, égal, creux, lisse, assez dur et cartilagineux, collant lorsqu'il est imbu, pruineux à la base, orange ou jaune orangé, mais plus pâle près de l'apex, parfois exsudant un liquide orange lorsque pressé
   pieds-steriles: 
   pigments: 
   pileipellis: 

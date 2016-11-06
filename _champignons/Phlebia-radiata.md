@@ -10,7 +10,7 @@ planches:
     originale:  
 
 details:
-  nom-francais: Phlébie
+  nom-francais: 
   autorites: Fr.
   ordre: Polyporales
   famille: Meruliaceae
@@ -74,7 +74,9 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
+  collection-confirmée-par: 
+  collection-determination-provisoire-par: 
+  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -135,7 +137,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: commun, largement distribué en Amérique du Nord
+  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -229,12 +231,11 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+  publications: 
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Si l'on se fit sur la mesure des basidiospores, il ne s'agit pas de P. radiata. La recherche se poursuit.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

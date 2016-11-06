@@ -19,7 +19,7 @@ details:
   litterature: 
   collection(s)-cueillie(s): 9 octobre 2016
   fongarium: cKc0591
-  numero-de-planche-micrographique: 
+  numero-de-planche-micrographique: cKc0591-0141
 
 description:
   acanthocytes: 

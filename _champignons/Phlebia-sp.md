@@ -146,7 +146,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: ondulé, sillonné radialement, irrégulièrement plissé et bosselé, surtout vers la marge, puis verruqueux à lobulé, parfois sinueux-plissé, de couleur variable, souvent brillamment coloré, orange pâle, orangé, rosâtre, rose, orange grisâtre, rouge orangé, rougeâtre, tan, violacé, pourpré à gris-violet, parfois avec pruine grise, souvent translucide
+  hymenophore: ondulé, sillonné radialement, irrégulièrement plissé et bosselé, surtout vers la marge, puis verruqueux à lobulé, parfois sinueux-plissé, formant comme de petite fleurs, brun pâle, beige, souvent translucide
   hyphes: génératrices, longuement cylindriques, bouclées, septées, emmêlées, 2,5-3 µm Ø
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 

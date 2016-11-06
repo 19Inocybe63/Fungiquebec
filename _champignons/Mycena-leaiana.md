@@ -230,7 +230,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis ; Tapinia ; Paxillus ; Crepidotus ; Tubaria ; Galerula ; Naucoria ; Pluteolus ; Mycena ; Phylloprus ; Gymnopilus ; Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    Smith, Alexander H. North American Species of Mycena, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

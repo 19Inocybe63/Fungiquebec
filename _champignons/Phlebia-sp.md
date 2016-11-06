@@ -1,13 +1,13 @@
 ---
 nom: Phlebia sp.
-date: 2016-11-05 00:00:00
+date: 2016-11-06 00:00:00
 image: https://c2.staticflickr.com/8/7528/29925850280_fcac7d9e2f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29925850280/in/photolist-MArNFS-MApE2w
 album-flickr:
   - 72157672333801174
 planches:
-  - miniature: 
-    originale:  
+  - miniature: https://c2.staticflickr.com/6/5647/30780779796_13887468b6_n.jpg
+    originale:  https://www.flickr.com/photos/kaufholtz/30780779796/in/photostream/
 
 details:
   nom-francais: 

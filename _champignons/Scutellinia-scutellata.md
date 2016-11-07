@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois ou branche pourris de feuillu
+  biotopes: pousse sur bois ou branche pourris de feuillu, parfois au travers des copeaux de bois
   boucles: 
   brachybasidioles: 
   calicule: 

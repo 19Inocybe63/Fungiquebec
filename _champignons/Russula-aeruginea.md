@@ -44,8 +44,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, 40-49 x 8-9 μm, tétrastérigmates, non bouclées, uniguttulées à pluriguttulées
+  basidiospores: |
+    elliptiques à largement elliptiques vue de profil, globuleuses à subglobuleuses vue frontale, verrues isolées avec de rares connexifs, à paroi mince, avec appendice hilaire, proéminences entre 0,1 x 0,8 µm de hauteur, hyalines dans le NaCl isotonique 0,9%, amyloïdes
+    6,1 [7; 7,4] 8,3 x 4,9 [5,5; 5,8] 6,3 µm
+    Q = 1,1 [1,2; 1,3] 1,5; N = 30; C = 95%
+    Me = 7,2 x 5,6 µm; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -56,7 +60,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: nombreuses, similaires aux pleurocystides, 41-60 x 6,5-7 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -67,7 +71,7 @@ description:
   chair: 
   chancre: 
   chapeau: 
-  cheilocystides: 
+  cheilocystides: nombreuses, 54-55 x 10-13 µm, sulfobenzaldéhyde positif (SBA+)
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -146,7 +150,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: septées, pas de boucles
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -210,9 +214,9 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: 
+  pileocystides: abondantes 61-105 x 4-7 µm, sulfobenzaldéhyde positif (SBA+ faiblement)
   plasmode: 
-  pleurocystides: 
+  pleurocystides: abondantes, 60-78 x 10-16 µm, sulfobenzaldéhyde positif (SBA+)
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -261,7 +265,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée d'éléments sphérocystes
   trame-tubulaire: 
   type: 
   typique: 

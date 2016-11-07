@@ -240,7 +240,7 @@ description:
     FeSO<SUB>4</SUB> = la chair du pied devient lentement et faiblement saumonée
     KOH 10% = le chapeau devient orangée
   receptacle: 
-  remarques: Code de Kibby : B I K N / Q T _ W
+  remarques: Code de Kibby = B I K N / Q T _ W
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -36,7 +36,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Neves, M.A., Halling, R.E. Mycologia 102(4): 935, 2010.
+    Neves, Maria Alice., Halling, Roy E. Study on species of Phylloporus I: Neotropics and North America, Mycologia, 102(4), 2010, pp. 923–943
   ascome: 
   ascospores: 
   asques: 

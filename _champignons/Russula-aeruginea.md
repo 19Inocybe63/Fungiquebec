@@ -68,9 +68,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, immuable, blanche
   chancre: 
-  chapeau: 
+  chapeau: 47-80 mm Ø, blanc, crème, viscidule à glutineux lorsque mouillé, puis collant au sec, cuticule se pèle jusqu'au ½-⅔ du rayon ;
   cheilocystides: nombreuses, 54-55 x 10-13 µm, sulfobenzaldéhyde positif (SBA+)
   cheilomacrocystides: 
   chlamydospores: 
@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, souvent fourchues près du pied, cassantes, serrées, crème à chamois pâle, pas de lamellules, tachées de brunâtre par endroits avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 40-80 x 13-17 mm Ø, égal, plein, dont la base est atténuée, se tache légèrement de brun jaunâtre avec l'âge ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -237,19 +237,19 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = la chair du pied devient lentement saumonée
+    FeSO<SUB>4</SUB> = la chair du pied devient lentement et faiblement saumonée
     KOH 10% = le chapeau devient orangée
   receptacle: 
-  remarques: 
+  remarques: Code de Kibby : B I K N / Q T _ W
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce avec une finale légèrement âcre
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: Ocrosporée IIIa, crème pâle, d'après la charte de couleur de Sarnari/Romagnesi
   spores: 
   spherocytes: 
   sporocystes: 

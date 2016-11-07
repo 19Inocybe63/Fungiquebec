@@ -220,7 +220,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: atténués à l'apex, à la base bifide, à paroi épaissie, avec plusieurs septa fins, brun très foncé 434,6 x 849,8 µm en moyenne
+  poils: 
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -247,7 +247,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: non réactif au Soudan III
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

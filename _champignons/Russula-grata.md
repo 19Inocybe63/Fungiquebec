@@ -44,8 +44,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: largement fusiformes à elliptiques-ovoïdes, plus rarement subutriformes, tétrastérigmates, non bouclées à la base, 26,7 [36,5; 63,6] 73,5 x 9 [11,4; 18] 20,4 µm en moyenne
+  basidiospores: |
+    globuleuses à subglobuleuses, majoritairement verruqueuses, munies de hautes crêtes ailées et partiellement réticulées, avec proéminences allant de 1,6-2,4 µm de hauteur, à paroi mince, avec appendice hilaire, plage hilaire subamyloïde pas toujours bien visible, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl, amyloïdes
+    8 [8,7; 9] 9,7 x 7,5 [8,3; 8,7] 9,5 µm
+    Q =  [1; 1,05] 1,1; N = 25; C = 95%
+    Me = 8,8 x 8,5 µm; Qe = 1
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -208,12 +212,12 @@ description:
   pied: 30-100 x 10-30 mm Ø, cylindrique, égal, ferme, lisse, blanchâtre à blanc jaunâtre, se tachant parfois de brun jaunâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en deux strates ; un cutis surmonté d'une partie gélatineuse en ixocutis
   pileitrame: 
-  pileocystides: 
+  pileocystides: peu nombreuses, cylindriques, Sulfopipéronal positif (SP+)
   plasmode: 
-  pleurocystides: 
-  poils: 
+  pleurocystides: nombreuses, fragiles, cylindriques avec apex moniliformes, à cylindriques avec étranglement et se terminant souvent mucronées
+  poils: septés
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

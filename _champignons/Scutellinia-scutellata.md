@@ -20,9 +20,9 @@ details:
   genre: Scutellinia
   espece: scutellata
   litterature: Lambotte 1887, Mém. Soc. roy. Sci. Liège, Série 2 14:299
-  collection(s)-cueillie(s): 7 juin 2015 ; 28 août 2015
-  fongarium: cKc0309 ; cKc0441
-  numero-de-planche-micrographique: cKc0309-0088
+  collection(s)-cueillie(s): 7 juin 2015 ; 28 août 2015 ; 9 juillet 2016
+  fongarium: cKc0309 ; cKc0441 ; cKc0515
+  numero-de-planche-micrographique: cKc0309-0088 ; cKc0515-0136
 
 description:
   acanthocytes: 

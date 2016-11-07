@@ -9,8 +9,8 @@ album-flickr:
 planches:
   - miniature: https://c1.staticflickr.com/1/421/18027955894_2ed046cb52_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/18027955894/in/photolist-tt4ZcL-tkzuXN-u172L9
-  - miniature: 
-    originale: 
+  - miniature: https://c1.staticflickr.com/9/8695/27655385133_e8b0bfd61b_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/27655385133/in/photolist-J8P5v4-tt4ZcL-wZ5tPm-tkzuXN-u172L9-f15aCR-JUpWWq
 
 details:
   nom-francais: 

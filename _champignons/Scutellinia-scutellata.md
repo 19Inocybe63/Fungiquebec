@@ -220,7 +220,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: 
+  poils: atténués à l'apex, à la base bifide, à paroi épaissie, avec plusieurs septa fins, brun très foncé 434,6 x 849,8 µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

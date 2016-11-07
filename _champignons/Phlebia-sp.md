@@ -235,7 +235,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Pour le moment, il n'est pas possible de savoir le nom de l'espèce. Je cherche des publications récentes avec clés !
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

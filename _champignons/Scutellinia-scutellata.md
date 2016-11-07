@@ -35,10 +35,17 @@ description:
   apothecie: 1-9 mm Ø, sphérique à arrondie puis cupuliforme, discoïdes, sessile, stipitée
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Dougoud, René. Contribution à l’étude des discomycètes Version 2013, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
+    Schumacher, Trond. Le genre Scutellinia (Pyronemataceae), Publication libre, 1990, 7 p.
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    unisériées, ellipsoïdes, formées des verrues interconnectées et de courtes crêtes, à contenu pluriguttulé, non coloration des inclusions lipidiques (guttules) au Soudan III
+    (15,7) 17,7 - 19,3 (21,1) × (10,2) 10,4 - 11,5 (12,1) µm
+    Q = (1,4) 1,6 - 1,8 (1,9) ; N = 30
+    Me = 18,6 × 10,9 µm ; Qe = 1,7
+    (Piximètre; formule classique, issues d’une sporée et mesures dans le bleu Coton lactique)
+  asques: cylindriques octosporées, à apex arrondi, IKI -, non operculé, dont la base est acrorhynque
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -196,7 +203,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: nombreuses, simples, septées, dichotomiquement ramifiées, de deux types; 1) cylindriques, dont l'apex est claviforme jusqu'à 7 µm de largeur, avec contenu pailleté jaune or dans l'eau devenant rosâtre dans le Soudan, 200 - 207 × 6,3 - 7,1) µm en moyenne ; 2) cylindriques, dont l'apex forme une truelle (utriformes) jusqu'à 30-38 × 8-8,8 (9) µm de largeur
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -213,7 +220,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: 
+  poils: atténués à l'apex, à la base bifide, à paroi épaissie, avec plusieurs septa fins, brun très foncé 434,6 x 849,8 µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -230,7 +237,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Hohmeyer, H. Une clé pour les espèces d'Europe du genre Peziza L., extraite de Zeitschrift für Mykologie, Band. 52 (1), 1-248, April 1986, traduction par P. A. Renaud en collaboration avec R. Dougoud, Fribourg, 1988.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -239,7 +247,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: non réactif au Soudan III
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

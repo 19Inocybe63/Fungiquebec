@@ -19,7 +19,7 @@ details:
   famille: Boletaceae
   genre: Phylloporus
   espece: leucomycelinus
-  litterature: 
+  litterature: Singer, R. 1978. Die Kernteilung in den Basidien und die Phylogenie der Basidiomyceten. Persoonia. 9(4):421-438
   collection(s)-cueillie(s): 22 août 2015
   fongarium: cKc0427
   numero-de-planche-micrographique: cKc0427-0105
@@ -65,9 +65,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre à jaune pâle, se tachant de bleue
   chancre: 
-  chapeau: 
+  chapeau: 20-65 mm Ø, pulviné puis convexe à étalé, sec, subvelouté, devenant rivuleux-craquelé, rouge vin, brun-rouge à brun olivâtre
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -173,7 +173,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, décurrentes, interveinées, espacées, jaunes à jaune brunâtre au début, olivâtres à brun jaunâtre avec l'âge, immuables au froissement, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +206,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 20-70 x 3-10 mm Ø, cylindrique, subégal, atténué vers la base, droit à courbe, plein, sec, pruineux sur la partie supérieure au début, ponctué de brun vineux, brun-rouge puis de brun pâle, pâle à la base, immuable, avec mycélium basal blanc à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

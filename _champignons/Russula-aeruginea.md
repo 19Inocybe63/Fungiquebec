@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, immuable, blanche
   chancre: 
-  chapeau: 47-80 mm Ø, blanc, crème, viscidule à glutineux lorsque mouillé, puis collant au sec, cuticule se pèle jusqu'au ½-⅔ du rayon ;
+  chapeau: 47-86 mm Ø, blanc, crème, viscidule à glutineux lorsque mouillé, puis collant au sec, cuticule se pèle jusqu'au ½-⅔ du rayon ;
   cheilocystides: nombreuses, 54-55 x 10-13 µm, sulfobenzaldéhyde positif (SBA+)
   cheilomacrocystides: 
   chlamydospores: 

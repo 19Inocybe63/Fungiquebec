@@ -32,7 +32,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: 1-9 mm Ø, sphérique à arrondie puis cupuliforme, discoïdes, sessile, stipitée
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur copeaux de bois
+  biotopes: pousse sur bois ou branche pourri de feuillu
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +64,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fragile
   chancre: 
   chapeau: 
   cheilocystides: 
@@ -131,7 +131,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: couverte modérément à généreusement de poils bruns noirs, bordant la marge comme des cils, 1-2 mm de longueur, formant une palissade autour de la marge comme des cils
   face-poroïde: 
   feutrage-basal: 
   fongarium:
@@ -145,7 +145,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: lisse, rouge à rouge vif, orangé, pâlissant avec l'âge
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 

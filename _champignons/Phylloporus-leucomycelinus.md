@@ -45,8 +45,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, non bouclée à la base 29,74-30,49 x 6,7 µm en moyenne
+  basidiospores: |
+    elliptiques à subcylindriques, lisses, à paroi mince, avec petit appendice hilaire et une petite dépression supra hilaire, à contenu uniguttulé à variable, hyalines verdâtres dans le NaCl isotonique, inactives dans le melzer, non cyanophiles
+    (9,4) 9,6 - 10,9 (11,6) x (3,3) 3,5 - 3,9 (4,4) µm
+    Q = (2,2) 2,5 - 3 (3,3); N = 30
+    Me = 10,2 x 3,8 µm; Qe = 2,7
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -57,7 +61,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: isolé et en faisceaux ± en amas, clavées, hyalines, 45-54 x 8-12 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -68,13 +72,13 @@ description:
   chair: blanchâtre à jaune pâle, se tachant de bleue
   chancre: 
   chapeau: 20-65 mm Ø, pulviné puis convexe à étalé, sec, subvelouté, devenant rivuleux-craquelé, rouge vin, brun-rouge à brun olivâtre
-  cheilocystides: 
+  cheilocystides: assez nombreuses, cylindriques à cylindriques-fusiformes, subclaviformes à subfusiformes, hyalines, à paroi mince, vide optique, 45-80 x 7-13 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
@@ -209,11 +213,11 @@ description:
   pied: 20-70 x 3-10 mm Ø, cylindrique, subégal, atténué vers la base, droit à courbe, plein, sec, pruineux sur la partie supérieure au début, ponctué de brun vineux, brun-rouge puis de brun pâle, pâle à la base, immuable, avec mycélium basal blanc à blanchâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en trichoderme formé d'hyphes cylindriques, en chaîne, lisses, à paroi mince
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: occasionnelles, similaires aux cheilocystides 50-80 x 9-13 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -261,7 +265,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: bilatérale formée d'hyphes cylindriques
   trame-tubulaire: 
   type: 
   typique: 

@@ -53,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous bouleaux, épinettes, pins
+  biotopes: pousse au sol, sous bouleaux
   boucles: 
   brachybasidioles: 
   calicule: 

@@ -13,7 +13,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/27655385133/in/photolist-J8P5v4-tt4ZcL-wZ5tPm-tkzuXN-u172L9-f15aCR-JUpWWq
 
 details:
-  nom-francais: 
+  nom-francais: Pézize en bouclier
   autorites: (L.) Lambotte
   ordre: Pezizales
   famille: Pyronemataceae

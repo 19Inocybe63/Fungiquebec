@@ -22,7 +22,7 @@ details:
   litterature: Lundell, S.; Nannfeldt, J.A. 1934. Fungi Exsiccati Suecici. Fasc. 1-2:1-100
   collection(s)-cueillie(s): 29 septembre 2013 ; 3 octobre 2014 ; 6 octobre 2014 ; 6 octobre 2014
   fongarium: cKc0148 ; cKc0283 ; cKc0295 ; cKc0297
-  numero-de-planche-micrographique: 
+  numero-de-planche-micrographique: cKc0297-0081
 
 description:
   acanthocytes: 

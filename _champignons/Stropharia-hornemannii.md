@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: étroitement adnées, subespacées, fimbriées, gris pâle, puis noir verdâtre, à arêtes blanches au début, puis ± concolores aux faces
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

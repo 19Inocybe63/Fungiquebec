@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 
+  chapeau: 65-70 mm Ø, convexe puis largement convexe à subétalé, sec, finement velouté, parfois craquelé-aréolé, brun foncé, brun-jaune ou brun orangé pâle, souvent avec de petites taches jaunes à blanchâtres, à marge unie
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -93,7 +93,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: déprimée ou non près du pied, concolore à la face poroïde, 8-20 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -134,7 +134,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanche crème puis jaune brunâtre avec l'âge, brunissant un peu au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 40-100 x 10-20 mm Ø, subégal, atténué ou élargi à l'un ou l'autre bout, plein, sec, lisse ou strié, rarement légèrement réticulé à l'apex, blanchâtre, jaunâtre ou brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -227,7 +227,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: circulaires, 1-2 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -272,7 +272,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

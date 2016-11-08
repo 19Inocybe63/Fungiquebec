@@ -216,7 +216,7 @@ description:
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: 
+  pleurocystides: polymorphes, lagéniformes, utriformes à utriformes allongées 44,6 [53,8; 72,1] 81,3 x 15,8 [16,3; 17,5] 18,1 µm en moyenne, fusiformes à largement fusiformes 52 [55,3; 71,4] 74,8 x 17,6 [18,8; 24,7] 25,9 µm en moyenne, plus rarement ovoïdales 33,9 x 18,4 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

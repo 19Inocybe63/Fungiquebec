@@ -54,7 +54,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: abondantes dans toutes les parties
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -214,7 +214,7 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en deux couches ; suprapellis en ixocutis étroit avec un subpellis constitué d'hyphes cylindriques incorporées dans une couche épaisse gélatineuse et hyaline
   pileitrame: 
   pileocystides: 
   plasmode: 

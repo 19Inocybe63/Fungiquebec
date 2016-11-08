@@ -216,6 +216,7 @@ description:
   pileitrame: 
   pileocystides: 
   plasmode: 
+  pleurochrysocystides: 
   pleurocystides: 
   poils: 
   poils-basaux: 

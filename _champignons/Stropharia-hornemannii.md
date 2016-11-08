@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 30-70 mm, convexe à plan-convexe, parfois omboné, à marge droite, non distinctement hygrophane, blanc humide à brun gris pâle, souvent avec légère teinte jaune au centre, blanc quand sec, lisse, glabre, voile pratiquement absent
+  chapeau: 30-70 mm Ø, convexe à plan-convexe, parfois omboné, à marge droite, non distinctement hygrophane, blanc humide à brun gris pâle, souvent avec légère teinte jaune au centre, blanc quand sec, lisse, glabre, voile pratiquement absent
   cheilochrysocystides: absentes
   cheilocystides: 
   cheiloleptocystides: polymorphes, utriformes à subutriformes 39,2 [45,4; 57,9] 64,1 x 14,8 [16,4; 19,7] 21,4 µm en moyenne, lagéniformes 53,2 x 17,8 µm en moyenne, fusiformes à fusiformes ventrues 35,8 [39,3; 55,7] 59,1 x 15,9 [16,5; 19,7] 20,4 µm
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 
+  pied: 40-100 x 5-13 mm Ø, cylindrique à progressivement élargi vers la base, blanc à jaune pâle, avec anneau, finement pruinose au-dessus de l'anneau, strié en partie inférieure
   pieds-steriles: 
   pigments: 
   pileipellis: en deux couches ; suprapellis en ixocutis étroit avec un subpellis constitué d'hyphes cylindriques incorporées dans une couche épaisse gélatineuse et hyaline

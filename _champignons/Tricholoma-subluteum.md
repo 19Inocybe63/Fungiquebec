@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, jaunâtre sous la cuticule
   chancre: 
-  chapeau: 
+  chapeau: 40-100 mm Ø, conique-arrondi puis convexe-étalé, parfois avec mamelon proéminent, viscidule, vite sec, orné de fibrilles innées, jaune verdâtre à jaune doré, se tachant lentement d'orange roux au froissement
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: sinuées, serrées, blanches, teintées de jaune vers le pourtour du chapeau
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 50-100 x 10-20 mm Ø, égal à légèrement élargi vers la base, un peu fibrilleux, blanc, jaune par endroits
   pieds-steriles: 
   pigments: 
   pileipellis: 

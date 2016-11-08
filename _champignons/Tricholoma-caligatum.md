@@ -64,9 +64,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche, immuable
   chancre: 
-  chapeau: 
+  chapeau: 50-150 mm Ø, convexe puis étalé, mamelonné à déprimé, sec, brun rougeâtre ou brun foncé, se rompant en écailles ou en mèches apprimées sur fond blanchâtre, à marge parfois appendiculée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, larges, serrées, blanches, se tachant de brun avec l'âge, surtout à l'arête
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 50-120 x 20-30 mm Ø, subégal ou atténué à la base, plein, sec, lisse et blanchâtre vers l'apex, guêtré plus bas d'une armille se réduisant avec l'âge en écailles brunes sur fond blanc, et s'ouvrant au sommet en un anneau membraneux, blanc sur le dessus, brun en dessous, parfois très petit
   pieds-steriles: 
   pigments: 
   pileipellis: 

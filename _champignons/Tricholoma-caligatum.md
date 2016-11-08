@@ -233,7 +233,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Bessette, Alan E., Bessette, Arleen R., Roody, William, C., Trudell, Steven A. Tricholomas of North America; A Mushroom field Guide, University of Texas Press, 2013, 208 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

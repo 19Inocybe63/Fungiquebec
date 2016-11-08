@@ -13,16 +13,16 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Strophaire de Hornemann
   autorites: (Fr.) S. Lundell & Nannf.
-  ordre: 
-  famille: 
+  ordre: Agaricales
+  famille: Strophariaceae
   genre: Stropharia
   espece: hornemannii
-  litterature: 
-  collection(s)-cueillie(s): 
-  fongarium: 
-  numero-de-planche-micrographique: cKc0297-0
+  litterature: Lundell, S.; Nannfeldt, J.A. 1934. Fungi Exsiccati Suecici. Fasc. 1-2:1-100
+  collection(s)-cueillie(s): 29 septembre 2013 ; 3 octobre 2014 ; 6 octobre 2014 ; 6 octobre 2014
+  fongarium: cKc0148 ; cKc0283 ; cKc0295 ; cKc0297
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: légèrement fongique, acidulée
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de septembre à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -238,12 +238,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: désagréable
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun-pourpre à noir pourpré
   spores: 
   spherocytes: 
   sporocystes: 
@@ -253,7 +253,14 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Agaricus hornemannii Fr., Observationes mycologicae 2:13 (1818)
+    Agaricus hornemanni Fr. (1818)
+    Nematoloma hornemannii (Fr.) Singer (1951)
+    Naematoloma hornemannii (Fr.) Singer, Lilloa 22:503 (1951)
+    Psilocybe hornemannii (Fr.) Noordel., Persoonia 16 (1):128 (1995)
+    Psilocybe hornemanii (Fr.) Noordel., Persoonia 16 (1):128 (1995)
+    Agaricus squarrosus Vahl, Fl. dan. 7, t. 1191 (1797)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

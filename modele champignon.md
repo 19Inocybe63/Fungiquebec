@@ -69,7 +69,9 @@ description:
   chair: 
   chancre: 
   chapeau: 
+  cheilochrysocystides:
   cheilocystides: 
+  cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

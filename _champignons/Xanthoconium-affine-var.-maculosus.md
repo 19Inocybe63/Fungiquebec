@@ -21,7 +21,7 @@ details:
   espece: affine var. maculosus
   litterature: Singer, R. 1947. The Boletoideae of Florida. The Boletineae of Florida with notes on extralimital species III. The American Midland Naturalist. 37:1-135
   collection(s)-cueillie(s): 30 juillet 2016
-  fongarium: cKc0527
+  fongarium: cKc0526 ; cKc0527
   numero-de-planche-micrographique: 
 
 description:

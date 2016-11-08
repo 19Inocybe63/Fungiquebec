@@ -72,6 +72,7 @@ description:
   chancre: 
   chapeau: 
   cheilocystides: 
+  cheiloleptocystides: polymorphes, utriformes à subutriformes 39,2 [45,4; 57,9] 64,1 x 14,8 [16,4; 19,7] 21,4 µm en moyenne, lagéniformes 53,2 x 17,8 µm en moyenne, fusiformes à fusiformes ventrues 35,8 [39,3; 55,7] 59,1 x 15,9 [16,5; 19,7] 20,4 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

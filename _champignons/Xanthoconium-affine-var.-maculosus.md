@@ -21,7 +21,7 @@ details:
   espece: affine var. maculosus
   litterature: Singer, R. 1947. The Boletoideae of Florida. The Boletineae of Florida with notes on extralimital species III. The American Midland Naturalist. 37:1-135
   collection(s)-cueillie(s): 30 juillet 2016
-  fongarium: cKc0526 ; cKc0527
+  fongarium: cKc0527
   numero-de-planche-micrographique: 
 
 description:
@@ -75,8 +75,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
+  collection-confirmee-par: Herbert Baker (Mushroom Observer)
+  collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
@@ -235,7 +235,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = le chapeau devient orangé à rougeâtre
+    NH<SUB>4</SUB>OH 10% = le chapeau devient orangé
+    TL4 = le chapeau devient rose foncé puis brun
   receptacle: 
   remarques: 
   repartition: 

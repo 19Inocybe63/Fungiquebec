@@ -53,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, au travers des débris ligneux, dans la mousse près ou sur bois pourri, sous conifères
+  biotopes: pousse au sol, au travers des débris ligneux, dans la mousse près ou sur bois pourri, sous conifères et feuillus
   boucles: abondantes dans toutes les parties
   brachybasidioles: 
   calicule: 

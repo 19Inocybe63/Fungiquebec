@@ -31,7 +31,7 @@ description:
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
-  anneau: 
+  anneau: proéminent, membraneux, avec une surface supérieure distinctement rainurée
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
@@ -68,7 +68,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanc à blanc crème à jaune pâle
   chancre: 
   chapeau: 30-70 mm Ø, convexe à plan-convexe, parfois omboné, à marge droite, non distinctement hygrophane, blanc humide à brun gris pâle, souvent avec légère teinte jaune au centre, blanc quand sec, lisse, glabre, voile pratiquement absent
   cheilochrysocystides: absentes
@@ -132,7 +132,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: légèrement fongique, acidulée
+  exhalaison: légèrement désagréable lorsqu'il est coupé ou meurtri
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -250,13 +250,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: désagréable
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun-pourpre à noir pourpré
-  spores: 
+  sporee: noir violacé
   spherocytes: 
   sporocystes: 
   stipitipellis: 

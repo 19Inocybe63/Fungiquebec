@@ -1,14 +1,14 @@
 ---
 nom: Xanthoconium affine var. maculosus
-date: # Format: AAAA-MM-JJ hh:mm:ss
-image: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
-image-originale: # Exemple: https://www.flickr.com/photos/kaufholtz/16853497745/in/album-72157675406683365/
+date: 2016-11-08 00:00:00
+image: https://c1.staticflickr.com/9/8769/28037429074_2cd09ed90b_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/28037429074/in/photolist-JHz9Ry
 album-flickr:
-  - # Exemple: 72157672806318152
-  - # Exemple: 72157672806318152
+  - 
+  - 
 planches:
-  - miniature: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
-    originale: # Exemple: https://www.flickr.com/photos/kaufholtz/16853497745/in/album-72157675406683365/
+  - miniature: 
+    originale: 
   - miniature: 
     originale: 
 

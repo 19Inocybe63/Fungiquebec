@@ -13,13 +13,13 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Bolet affine var. maculosus
   autorites: (Peck) Singer
   ordre: Boletales
   famille: Boletaceae
   genre: Xanthoconium
   espece: affine var. maculosus
-  litterature: 
+  litterature: Singer, R. 1947. The Boletoideae of Florida. The Boletineae of Florida with notes on extralimital species III. The American Midland Naturalist. 37:1-135
   collection(s)-cueillie(s): 30 juillet 2016
   fongarium: cKc0526 ; cKc0527
   numero-de-planche-micrographique: 
@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous chênes, hêtres, pruches
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +64,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche, immuable
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -138,7 +138,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -191,7 +191,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -241,12 +241,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: jaune brunâtre à ocre brunâtre
   spores: 
   spherocytes: 
   sporocystes: 
@@ -256,7 +256,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Boletus affinis var. maculosus Peck, Annual Report on the New York State Museum of Natural History 32:57 (1880)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

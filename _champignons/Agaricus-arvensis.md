@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche, immuable, jusqu'à 25 mm d'épaisseur
   chancre: 
-  chapeau: 
+  chapeau: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, avec marge appendiculée de restes vélaires
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, large, serrées à très serrées, blanches à grisâtres à brun grisâtre, à arêtes entières, pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 
+  pied: 54-56 x 13-17 mm Ø, égal, cylindrique à claviforme dont la la base est subbulbeuse, plein, farci puis creux, lisse au-dessus de l'anneau, fibrilleux-squamuleux-cotonneux au-dessous, blanc beige
   pieds-steriles: 
   pigments: 
   pileipellis: 

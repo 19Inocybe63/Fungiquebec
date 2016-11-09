@@ -132,7 +132,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: ± prononcée de pélargonium (Géranium)
+  exhalaison: ± prononcée à fortement prononcée de pélargonium (Géranium)
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

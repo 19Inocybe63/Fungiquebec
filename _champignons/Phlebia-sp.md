@@ -235,7 +235,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Pour le moment, il n'est pas possible de savoir le nom de l'espèce. Je cherche des publications récentes avec clés !
+  remarques: L'étude de la spore fut réalisée à l'aide d'une sporée, donc des spores matures et mesurées dans l'eau glycérinée 20%. Pour le moment, il n'est pas possible de savoir le nom de l'espèce. Je cherche des publications récentes avec clés.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

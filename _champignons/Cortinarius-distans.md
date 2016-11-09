@@ -66,14 +66,14 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: nombreuses, polymorphes, bouclées, piriformes, claviformes, cylindriques, étroitement utriformes, ± 16,5 - 34,5 × ± 4,3 - 9,8 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
   chapeau: 8-22 mm Ø, convexe, conique-campanulé, omboné, hygrophane, fibrilleux-squamuleux, brun cannelle imbue, brun beige à orangé sec
   cheilochrysocystides:
-  cheilocystides: absentes, mais présence nombreuses de cellules marginales polymorphes, bouclées, piriformes, claviformes, cylindriques, étroitement utriformes, ± 16,5 - 34,5 × ± 4,3 - 9,8 µm en moyenne
+  cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

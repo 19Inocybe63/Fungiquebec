@@ -240,7 +240,7 @@ description:
     KOH 5% = le chapeau devient jaune
     Schaeffer = + ; voir la photo démontrant la réaction en croix de Schaeffer
     Soluté de gaïac = pas de réaction sur la chair
-TL4 = chapeau rosé pâle ;
+    TL4 = le chapeau devient rose pâle
   receptacle: 
   remarques: 
   repartition: 

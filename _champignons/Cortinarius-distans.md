@@ -35,7 +35,10 @@ description:
   apothecie: 
   arete-lamellaire: recouverte de gélatine sur presque toute sa longueur
   arthroconidies: 
-  articles: 
+  articles: |
+    Cripps, Cathy L., Liimatainen, Kare, et al. Intercontinental distributions of species of Cortinarius, subgenus Phlegmacium, associated with Populus in western North America, Botany 93: 711-721 (2015), 11 p.
+    Liimatainen, K., Niskanen, T. The largest type study of Agaricales species to date: bringing identification and nomenclature of Phlegmacium (Cortinarius) into the DNA era, Persoonia 33, 2014:98-140, 43 p.
+    Niskanen, Tuula, et al. New Cortinarius species from conifer-dominated forests of North America and Europe, Botany 90:743-754 (2012), 12 p.
   ascome: 
   ascospores: 
   asques: 

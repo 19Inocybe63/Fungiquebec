@@ -64,7 +64,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanche, immuable, jusqu'à 25 mm d'épaisseur
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -130,7 +130,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-des-lames: agréable, d'amandes ou d'anis lorsque jeune, de moisi ou d'urine à maturité
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -246,12 +246,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: agréable, d'amande
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun foncé, brun pourpré à brun noirâtre
   spores: 
   spherocytes: 
   sporocystes: 

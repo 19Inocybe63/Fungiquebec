@@ -279,7 +279,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: membraneux, laissant un anneau supère ou subapical sur le pied, pendant, ample, épais, fragile, persistant, double, en roue dentée, lisse au-dessus, typiquement avec plaques cotonneuses blanches, puis teintées de jaunâtre, d'orangé ou de chamois, qui se brisent en étoile ou en roue de bateau au-dessous
   volve: 
   zone-perihymeniale: 
 ---

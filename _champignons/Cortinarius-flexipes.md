@@ -44,13 +44,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: cylindriques à utriformes, parfois élancées, tétrastérigmates, bouclées à la base, 27-39 x 8 µm en moyenne
+  basidiospores: |
+    largement elliptiques à elliptiques, parfois subamygdaliformes vue de profil, courtement elliptiques à subovales vue frontale, pointillées à faiblement verruqueuses, à paroi mince jusqu’à 0,1-0,2 µm d’épaisseur, avec appendice hilaire, à contenu uniguttulé, brun pâle à brun rougeâtre dans le NaCl isotonique 0,9%, dextrinoïdes, non cyanophiles
+    7,4 [8,3; 8,7] 9,5 x 5 [5,4; 5,6] 6,1 µm
+    Q = 1,4 [1,5; 1,6] 1,7; N = 30; C = 95%
+    Me = 8,5 x 5,5 µm; Qe = 1,5
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, terrain pauvre et humide, sous conifères, épinettes et sapins, souvent parmi les mousses profondes ou les tapis de feuilles
-  boucles: 
+  boucles: observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -68,7 +72,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,12 +214,12 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -265,7 +269,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   type: 
   typique: 

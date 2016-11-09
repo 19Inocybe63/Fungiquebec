@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: brun violet foncé à jaune-brun, violet très foncé à l'apex du pied, même au sec
   chancre: 
-  chapeau: 
+  chapeau: 10-40 mm Ø, conique, puis largement campanulé, à mamelon plus ou moins marqué, parfois pointu, entièrement couvert de squamules, mat, hygrophane, violet puis brun foncé à brun-violet (brun·gris au sec)
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: serrées, violet très foncé au début, à arêtes plus pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: septembre
   phialoconidies: 
-  pied: 
+  pied: 40-100 x 3-7 mm Ø, égal, souvent courbé ou flexueux à la base, acuminé, raide, souvent creux, revêtu de fibrilles claires, brun, habituellement violet au sommet, brun foncé avec une nuance orangée à la base. Coton mycélien parfois violet. Voile blanc ou un peu ochracé, copieux, laissant des flocons manifestes surmontés d'un anneau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis

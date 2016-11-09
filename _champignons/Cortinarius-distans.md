@@ -33,7 +33,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: recouverte de gélatine sur presque toute sa longueur
   arthroconidies: 
   articles: 
   ascome: 
@@ -44,13 +44,18 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, rarement ventrues, tétrastérigmates, bouclées à la base, hyalines, avec contenu vacuolaire, 32,5 - 40,8 × 9 - 10,2 µm en moyenne
+  basidiospores: |
+    ellipsoïdes à courtement ellipsoïdes, parfois subcitriformes vue de front, ellipsoïdes à largement ellipsoïdes, avec parfois un angle adaxial supra-hilaire « ou avec une extrémité subfusoïdes » (M. Kuo), finement à moyennement verruqueuses, à paroi mince, appendice hilaire visible, à contenu uniguttulé, brun cannelle à brun foncé dans l’eau glycérinée 20%, dextrinoïdes, non cyanophiles
+    (7,4) 7,8 - 8,6 (9) × (5,3) 5,4 - 6 (6,2) µm
+    Q = (1,3) 1,4 - 1,5 (1,6) ; N = 30
+    Me = 8,3 × 5,8 µm ; Qe = 1,4
+    (Piximètre; formule classique, issues d’une sporée et mesures dans l'eau glycérinée 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse sur sol sablonneux, dans la mousse, sous feuillus (chêne)
-  boucles: 
+  boucles: observées dans le pileipellis, dans la trame lamellaire et dans le stipe
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -68,7 +73,7 @@ description:
   chancre: 
   chapeau: 8-22 mm Ø, convexe, conique-campanulé, omboné, hygrophane, fibrilleux-squamuleux, brun cannelle imbue, brun beige à orangé sec
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes, mais présence nombreuses de cellules marginales polymorphes, bouclées, piriformes, claviformes, cylindriques, étroitement utriformes, ± 16,5 - 34,5 × ± 4,3 - 9,8 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,12 +215,12 @@ description:
   pied: 20-35 x 5-6 mm Ø, cylindrique avec cortine formant une zone annuliforme, creux, chiné, parfois avec bandes annulaires, fibrilleux, légèrement concolore à plus foncé
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: formé de deux couches, 1) suprapellis en cutis, constitué d'hyphes cylindriques, avec hyphes terminales obtus, souvent en biseau, 24,1 - 59,7 × 4,7 - 8,4 µm en moyenne, 2) médiopellis formé de cellules plus grandes, ellipsoïdes à largement ellipsoïdes, ovoïdales, 23 - 52,9 × 10,5 - 19,7 µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -233,12 +238,17 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
-  publications-microscopiques: 
+  publications: |
+    Overholts, Lee Oras Kauffman, Calvin Henry (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
     TL4 = le chapeau ne se colore pas
   receptacle: 
-  remarques: 
+  remarques: La gélatine présente sur l'arête lamellaire en couvrait une bonne partie, englobant ainsi les cellules marginales
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

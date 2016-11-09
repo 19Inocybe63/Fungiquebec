@@ -235,7 +235,8 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    TL4 = négative sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

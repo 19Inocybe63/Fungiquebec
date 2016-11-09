@@ -44,9 +44,10 @@ description:
   basides: en palissade dense, claviformes à étroitement claviformes, tétrastérigmates, bouclées à la base 17,9 [24,2 ; 33] 39,3 × 2,6 [3,8 ; 5,5] 6,7 µm
   basidiospores: |
     elliptiques vue de front, cylindriques à suballantoïdes vue de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu variable, hyalines dans l’eau glycérinée 20%, inactives dans le melzer, fortement cyanophiles
-    5,2 [6,5 ; 7,1] 8,4 × 2,8 [3,2 ; 3,3] 3,7 µm
-    Q = 1,7 [2 ; 2,2] 2,5 ; N = 30 ; C = 95%
+    (5,6) 6 - 7,7 (9) × (2,7) 2,9 - 3,5 (3,8) µm
+    Q = (1,8) 1,9 - 2,3 (2,7) ; N = 30
     Me = 6,8 × 3,2 µm ; Qe = 2,1
+    (Piximètre ; formule classique, mesure dans l'Eau glycérinée 20%)
   basidioles: 
   basidiome: entièrement résupiné, effusé à légèrement effusé-réfléchi, orbiculaire 10-100 mm ou plus, avec contour irrégulier, allant jusqu'à environ 3 mm d'épaisseur, surface ridée, avec les rides et les plis rayonnant à partir d'un point plus ou moins centrale, orange au rose (plus rarement tan avec des bords orangées ou violacé), développer occasionnellement, un bord poilue légèrement repliée
   bibliographies: 

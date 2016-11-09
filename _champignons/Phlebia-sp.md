@@ -47,7 +47,7 @@ description:
     (5,6) 6 - 7,7 (9) × (2,7) 2,9 - 3,5 (3,8) µm
     Q = (1,8) 1,9 - 2,3 (2,7) ; N = 30
     Me = 6,8 × 3,2 µm ; Qe = 2,1
-    (Piximètre ; formule classique, mesure dans l'Eau glycérinée 20%)
+    (Piximètre ; formule classique, mesure dans l'eau glycérinée 20%)
   basidioles: 
   basidiome: entièrement résupiné, effusé à légèrement effusé-réfléchi, orbiculaire 10-100 mm ou plus, avec contour irrégulier, allant jusqu'à environ 3 mm d'épaisseur, surface ridée, avec les rides et les plis rayonnant à partir d'un point plus ou moins centrale, orange au rose (plus rarement tan avec des bords orangées ou violacé), développer occasionnellement, un bord poilue légèrement repliée
   bibliographies: 

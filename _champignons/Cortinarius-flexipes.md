@@ -64,7 +64,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: brun violet foncé à jaune-brun, violet très foncé à l'apex du pied, même au sec
   chancre: 
   chapeau: 
   cheilochrysocystides:

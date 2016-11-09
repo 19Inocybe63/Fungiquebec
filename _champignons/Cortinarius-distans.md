@@ -236,7 +236,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    TL4 = négative sur le chapeau
+    TL4 = le chapeau ne se colore pas
   receptacle: 
   remarques: 
   repartition: 

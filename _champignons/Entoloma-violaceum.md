@@ -45,7 +45,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    hétérodiamétriques entre 5-7 angles, mais à prédominance de 6 angles, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, verdâtres dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    7,7 [8,8; 9,3] 10,4 x 5,8 [6,4; 6,7] 7,3 µm
+    Q = 1,2 [1,3; 1,4] 1,5; N = 30; C = 95%
+    Me = 9 x 6,5 µm; Qe = 1,4
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -68,7 +72,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: piriformes à largement clavées et dont l'apex est souvent mucronés, sphéropédonculées, en éperons
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,12 +214,12 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, épaisse, blanche, devenant lentement rouge vineux à la coupe ou au froissement et dans les meurtrissures d'insectes
   chancre: 
-  chapeau: 
+  chapeau: 40-150 mm Ø, globuleux, conique-arrondi, campanulé à convexe puis étalé, parfois mamelonné, orné de flocons vélaires blancs, rosés à gris sur fond beige doré, cuivré à brun rougeâtre, à marge incurvée au début, unie
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

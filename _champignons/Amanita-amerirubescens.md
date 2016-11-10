@@ -195,7 +195,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, ou en très petit nombre
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -247,7 +247,9 @@ description:
   reactions-macrochimiques: |
     KOH 5% = aucune réaction le chapeau
   receptacle: 
-  remarques: Cette collection a été étudiée par R. Tulloss, qui la classe pour le moment dans Amanita amerirubescens groupe.
+  remarques: |
+    Cette collection a été étudiée par R. Tulloss, qui la classe pour le moment dans Amanita amerirubescens groupe.
+    Cette collection était entourée de conifères (Picea) âgés. Il y avait aussi un majestueux chêne rouge non loin.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

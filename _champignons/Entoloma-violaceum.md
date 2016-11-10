@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à grisâtre, mince
   chancre: 
-  chapeau: 
+  chapeau: 20-50 mm Ø, conique-convexe puis étalé, souvent mamelonné, velouté à fibrilleux-méchuleux, violet foncé à pourpre foncé, brunissant avec l'âge, parfois brun à légèrement pourpré au sec
   cheilochrysocystides:
   cheilocystides: piriformes à largement clavées et dont l'apex est souvent mucronés, sphéropédonculées, en éperons
   cheiloleptocystides: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: émarginées à sinuées, légèrement lilas au début, devenant rose à maturité, arête souvent dentelés et blanchâtres, fimbriées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

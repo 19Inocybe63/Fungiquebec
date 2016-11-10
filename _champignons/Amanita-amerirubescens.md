@@ -247,7 +247,7 @@ description:
   reactions-macrochimiques: |
     KOH 5% = aucune réaction le chapeau
   receptacle: 
-  remarques: Cette collection a été étudiée par R. Tulloss, qui la classe pour le moment dans: Amanita amerirubescens groupe.
+  remarques: Cette collection a été étudiée par R. Tulloss, qui la classe pour le moment dans Amanita amerirubescens groupe.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

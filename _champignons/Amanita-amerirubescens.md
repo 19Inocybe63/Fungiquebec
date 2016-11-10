@@ -44,12 +44,16 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes élancées, tétrastérigmates, non bouclées à la base, à contenu vacuolaire, 31-45 x 8-10 μm
+  basidiospores: |
+    subglobuleuses à largement elliptiques vue de profil, et subelliptiques vue frontale, lisses, à paroi mince 0,1-0,2 μm, avec appendice hilaire, à contenu uniguttulé à granulations, hyalines dans le NaCl isotonique 0,9%, amyloïdes, cyanophiles
+    8,3 [9; 9,4] 10,2 x 6 [6,8; 7,1] 7,9 µm
+    Q = 1,2 [1,3; 1,4] 1,5; N = 28; C = 95%
+    Me = 9,2 x 7 µm; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol des forêts de conifères et de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +68,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, épaisse, blanche, devenant lentement rouge vineux à la coupe ou au froissement et dans les meurtrissures d'insectes
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -128,7 +132,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique à agréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -138,7 +142,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -205,12 +209,12 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -235,18 +239,19 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 5% = aucune réaction le chapeau
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique à agréable
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 
@@ -267,8 +272,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: friable, blanc ou gris, rougissant avec l'âge, laissant des flocons sur le chapeau
+  voile-partiel: membraneux, blanchâtre, se tachant de rouge vin avec l'âge, laissant un anneau dans le haut du pied, ample, pendant, persistant, fragile, strié au-dessus ; microscopie = formé d'hyhes et de sphérocystes
   volve: 
   zone-perihymeniale: 
 ---

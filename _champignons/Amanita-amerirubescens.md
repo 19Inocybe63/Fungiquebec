@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à libre, blanche, parfois avec légère décoloration rougeâtre, lamellules nombreuses
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

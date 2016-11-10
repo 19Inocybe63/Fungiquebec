@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 30-80 mm x 3-5 mm Ø, cylindrique, égal, sec, glabre à finement soyeux ou parsemé de petites écailles, pourpre près de l'apex lorsque frais et jeune, blanchâtre à brunâtre, mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis

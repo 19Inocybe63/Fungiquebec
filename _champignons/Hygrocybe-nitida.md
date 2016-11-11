@@ -1,27 +1,27 @@
 ---
 nom: Hygrocybe nitida
-date: # Format: AAAA-MM-JJ hh:mm:ss
-image: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
-image-originale: # Exemple: https://www.flickr.com/photos/kaufholtz/16853497745/in/album-72157675406683365/
+date: 2016-11-11 00:00:00
+image: https://c2.staticflickr.com/8/7343/9268009925_e956b6717f_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/9268009925/in/photolist-f8egtd-f7YYsz-f7Z1Yi/
 album-flickr:
-  - # Exemple: 72157672806318152
-  - # Exemple: 72157672806318152
+  - 72157672736344694
+  - 
 planches:
-  - miniature: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
-    originale: # Exemple: https://www.flickr.com/photos/kaufholtz/16853497745/in/album-72157675406683365/
+  - miniature: 
+    originale: 
   - miniature: 
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Hygrophore luisant
   autorites: (Berk. & M.A. Curtis) Murrill
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
-  litterature: 
-  collection(s)-cueillie(s): 
-  fongarium: 
+  ordre: Agaricales
+  famille: Hygrophoraceae
+  genre: Hygrocybe
+  espece: nitida
+  litterature: Malloch, D. 2010. Fleshy fungi (Basidiomycota) of the Atlantic Maritime Ecozone. :107-151
+  collection(s)-cueillie(s): 12 juillet 2013
+  fongarium: cKc0075
   numero-de-planche-micrographique: 
 
 description:
@@ -75,8 +75,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
+  collection-confirmee-par: Yves Lamoureux
+  collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
@@ -256,7 +256,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Hygrophorus nitidus Berk. & M.A. Curtis, Annals and Magazine of Natural History 12:424 (1853)
+    Hydrocybe nitida (Berk. & M.A. Curtis) Murrill (1916)
+    Hygrocybe nitida (Berk. & M.A. Curtis) Murrill, North American Flora 9 (6):378 (1916)
+    Gliophorus nitidus (Berk. & M.A. Curtis) Kovalenko, Mikologiya i Fitopatologiya 22 (3):209 (1988)
+    Gloioxanthomyces nitidus (Berkeley & M.A. Curtis) Lodge, Vizzini, Ercole & Boertm., Fungal Diversity 64:49 (2013)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

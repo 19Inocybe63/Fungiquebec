@@ -48,8 +48,7 @@ description:
   basidiospores: 
   basidioles: 
   basidiome: 
-  bibliographies: 
-  biotopes: 
+  biotopes: pousse souvent sur bois pourri, en milieux humides des forêts de conifères ou mixtes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +63,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: fragile, très mince, jaunâtre puis blanchâtre
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -128,7 +127,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à légèrement fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -138,7 +137,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -205,7 +204,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -241,7 +240,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 

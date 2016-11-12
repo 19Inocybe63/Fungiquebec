@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: décurrentes, serrées, blanches crème, devenant brunes avec ± reflets verdâtres
+  lames: adnées à ± décurrentes, étroites à sublarges, serrées, plutôt bondées, un peu bifurqué, blanchâtre, puis crème pâle à crème grisâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

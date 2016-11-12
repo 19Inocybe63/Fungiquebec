@@ -250,7 +250,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: blanche
+  sporee: crème pâle
   spores: 
   spherocytes: 
   sporocystes: 

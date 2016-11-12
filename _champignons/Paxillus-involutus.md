@@ -254,7 +254,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun rouille
+  sporee: brun rouille à brun jaunâtre
   spores: 
   spherocytes: 
   sporocystes: 

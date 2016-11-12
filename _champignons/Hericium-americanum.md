@@ -47,7 +47,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: 120-300 mm de hauteur, 100-200 (300) mm de largeur, formé d'une structure de rameaux denses, fourchus, arrivant d'une base commune et radicante, portant plusieurs grappes d'aiguillons pendants, en amas ou en rangées, blanchâtre
   bibliographies: 
   biotopes: pousse sur bois mort de feuillus, billes et souches
   boucles: 

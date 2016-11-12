@@ -235,6 +235,8 @@ description:
   pseudo-peridioles: 
   publications: |
     Bessette, Alan E., Bessette, Arleen R., Harris, David B. Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius), Syracuse University Press, 2009, 307 p.
+    Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    Heilmann-Clausen, J., Verbeken, A., Vesterholt, J. The genus Lactarius, Fungi of Northern Europe vol. 2, 1998, 146 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
     KOH 10% = le chapeau et le stipe se colorent améthyste/violet

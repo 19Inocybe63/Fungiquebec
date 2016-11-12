@@ -44,13 +44,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, bouclées à la base, 30-48 x 8,5-10,5 µm
+  basidiospores: |
+    subovoïdes à ovoïdes-elliptiques vue de front, elliptiques vue de profil, dont l’apex est obtus, lisses, à paroi mince à légèrement épaissie, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    (6,6) 6,8-8,3 (8,9) x (4,5) 4,6-5,4 (5,5) µm
+    Q = (1,4) 1,44-1,6 (1,7); N = 30
+    Me = 7,6 x 5 µm; Qe = 1,5
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sous feuillus ou conifères, parfois sur gazons, près des arbres, souvent sous Betula, Tilia
-  boucles: 
+  boucles: observées dans la trame lamellaire et dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -68,7 +72,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, subfusiformes, dont l'apex est souvent acuminé ou ± long, rarement rostrées, 40-90 µm de long
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,12 +214,12 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis (ixocutis) avec des éléments en trichoderme (ixotrichoderme) formé d'hyphes au contenu brunâtre
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: similaires aux cheilocystides
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -234,7 +238,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1 : les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2 : les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3 : les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les 
+acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4 : la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -266,7 +275,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: bilatérale
   trame-tubulaire: 
   type: 
   typique: 

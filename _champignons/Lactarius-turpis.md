@@ -1,10 +1,10 @@
 ---
 nom: Lactarius turpis
 date: 2016-11-12 00:00:00
-image: 
-image-originale: 
+image: https://c1.staticflickr.com/9/8364/28809911693_d4176fcf69_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/28809911693/in/photolist-KTQk2p-LphUVN
 album-flickr:
-  - 
+  - 72157660672410068
   - 
 planches:
   - miniature: 

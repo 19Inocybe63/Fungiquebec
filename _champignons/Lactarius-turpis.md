@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous bouleau, hêtre, épinette, pin
+  biotopes: pousse au sol, sous bouleau, épinette
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 50 à 120 mm, d'abord convexe puis étalé-déprimé à maturité, à marge enroulée au début, de couleur brun ou olive sale à gris terreux, allant jusqu'au gris plombé
+  chapeau: 50 à 120 mm, d'abord convexe puis étalé-déprimé à maturité, à marge enroulée au début, dans les tons de vert à brun sale, gris terreux, allant jusqu'au gris plombé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -174,12 +174,12 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: décurrentes, serrées, crème, devenant brunes avec ± reflets verdâtres
+  lames: décurrentes, serrées, blanches crème, devenant brunes avec ± reflets verdâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: blanc
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
@@ -243,7 +243,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: très acre
   sclerocystides: 
   sclerote: 
   soies: 

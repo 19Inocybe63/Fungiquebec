@@ -22,7 +22,7 @@ details:
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
   collection(s)-cueillie(s): 24 septembre 2015 ; 9 octobre 2016
   fongarium: cKc0475 ; cKc0592
-  numero-de-planche-micrographique: 
+  numero-de-planche-micrographique: cKc0475-0113
 
 description:
   acanthocytes: 
@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous feuillus ou conifères, parfois sur gazons, près des arbres, souvent sous Betula, Tilia
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -138,7 +138,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -191,7 +191,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé ou densément grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

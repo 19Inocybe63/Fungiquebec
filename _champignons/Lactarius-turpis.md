@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous bouleau, hêtre, épinette, pin
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 50 à 120 mm, d'abord convexe puis déprimé à maturité, à marge enroulée, de couleur brun ou olive sale à gris terreux, allant jusqu'au gris plombé
+  chapeau: 50 à 120 mm, d'abord convexe puis étalé-déprimé à maturité, à marge enroulée au début, de couleur brun ou olive sale à gris terreux, allant jusqu'au gris plombé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

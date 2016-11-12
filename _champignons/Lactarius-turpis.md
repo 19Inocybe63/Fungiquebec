@@ -241,7 +241,7 @@ description:
   reactions-macrochimiques: |
     KOH 10% = le chapeau et le stipe se colorent améthyste/violet
   receptacle: 
-  remarques: 
+  remarques: Littéralement, son nom signifie le Lactaire laid !
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

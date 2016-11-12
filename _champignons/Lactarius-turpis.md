@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 50 à 120 mm, d'abord convexe puis étalé-déprimé à maturité, à marge enroulée au début, dans les tons de vert à brun sale, gris terreux, allant jusqu'au gris plombé
+  chapeau: 40-130 mm Ø, d'abord convexe avec marge enroulée se déroulant à maturité, devenant légèrement à nettement déprimé, la marge parfois crènelée lorsque jeune, surface finement veloutée à veinée, légèrement visqueuse autour du centre, sec et plus nettement velouté, squamuleuse près de la marge chez les jeunes spécimens, à surface devenant ± brillante lorsque mature, avec centre brun olivâtre à noirâtre, gris-olivâtre vers la marge et olivâtre à gris olivâtre pâle, chrome pâle ou jaune paille chez les jeunes spécimens
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

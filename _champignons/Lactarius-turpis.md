@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 50 à 120 mm, d'abord convexe puis déprimé à maturité, à marge enroulée, de couleur brun ou olive sale à gris terreux, allant jusqu'au gris plombé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique, faible
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: décurrentes, serrées, crème, devenant brunes avec ± reflets verdâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 30-60 x 20-30 mm Ø, cylindrique, épais-trapu et court, s'affinant vers la base, scrobiculé, de couleur plus claire que le chapeau, blanc sale devenant brun-olivâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,9 +233,11 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Bessette, Alan E., Bessette, Arleen R., Harris, David B. Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius), Syracuse University Press, 2009, 307 p.
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = le chapeau et le stipe se colorent améthyste/violet
   receptacle: 
   remarques: 
   repartition: 
@@ -246,7 +248,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

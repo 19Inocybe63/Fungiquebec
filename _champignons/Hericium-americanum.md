@@ -27,7 +27,7 @@ details:
 description:
   acanthocytes: 
   acanthophyses: 
-  aiguillons: 
+  aiguillons: 5-20 (40) mm de longueur, blanchâtres au début, se décolorant de jaunâtre, rosâtre à brunâtre avec l'âge
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 

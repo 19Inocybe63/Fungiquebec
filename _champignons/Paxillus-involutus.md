@@ -68,9 +68,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, ferme, jaunâtre, chamois pâle à ochracée, se tachant souvent de brun à rougeâtre à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 60-88 mm Ø, convexe à largement convexe, étalé et mamelonné, déprimé, en entonnoir, visqueux, à cuticule collante à l'humidité, puis sec, marge veloutée et enroulée, brun, brun olive
   cheilochrysocystides:
   cheilocystides: abondantes, subfusiformes, dont l'apex est souvent acuminé ou ± long, rarement rostrées, 40-90 µm de long
   cheiloleptocystides: 
@@ -132,7 +132,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: agréable, fongique, aromatique, légèrement fruitée-acidulé
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: décurrentes, très serrées, avec de nombreuses fourches, olive, jaune-brun à brunâtres, se tachant de brun foncé à brun rougeâtre avec l'âge ou au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 30-42 x 9-11 mm Ø, cylindrique, égal, plein, ferme, glabre à légèrement fibrilleux, lisse, sec, crème ou beige, souvent taché de rougeâtre ou de brun foncé, brunissant avec l'âge ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (ixocutis) avec des éléments en trichoderme (ixotrichoderme) formé d'hyphes au contenu brunâtre
@@ -249,12 +249,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: acidulée, aigre, fongique, parfois douce ou astringente
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spores: 
   spherocytes: 
   sporocystes: 

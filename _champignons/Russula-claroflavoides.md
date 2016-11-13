@@ -1,5 +1,5 @@
 ---
-nom: Russula claroflavoides
+nom: Russula claroflavoides Y. Lamoureux nom. prov.
 date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/4/3844/14981506665_cb3fc4848b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981506665/in/photolist-q8FJRj-oPS8Z4-oxn6NB-oPPpW7

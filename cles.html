@@ -131,7 +131,7 @@ permalink: /cles/
                 <tr class="lettre lettre{{ lettreCle }} index{{ forloop.index }}">
                     <td>
                         <a href="{{ cle.url | prepend: site.baseurl }}">
-                            <i>{{ cle.nom }}</i>
+                            {{ cle.nom }}
                         </a>
                     <td>
                 </tr>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% capture customTitle %}<i>{{ page.nom }}</i>{% if page.details.nom-francais %} / {{ page.details.nom-francais }}{% endif %}{% endcapture %}
+{% capture customTitle %}{{ page.nom }}{% endcapture %}
 {% include wrap.html wrap_title=customTitle %}
 
 <style>
@@ -14,8 +14,21 @@ layout: default
         border: 2px solid white;
     }
 
-    .etape > div.dotted {
+    .etape > .dotted {
         border-bottom: 2px dotted grey;
+    }
+
+    .numero {
+        float: left;
+        font-weight: bold;
+    }
+
+    .question {
+    }
+
+    .reference {
+        float: right;
+        font-weight: bold;
     }
 </style>
 
@@ -41,9 +54,9 @@ layout: default
                 {% for question in etape.questions %}
                     {% assign champignonTrouve = nil %}
                     <div class="etape">
-                        <div style="float:left; font-weight:bold;">{{ etape.numero }}.&nbsp;</div>
-                        <div style="float:left;">{{ question.question | newline_to_br }}</div>
-                        <div style="float:right;">
+                        <div class="numero">{{ etape.numero }}.&nbsp;</div>
+                        <span class="question">{{ question.question | newline_to_br }}</span>
+                        <div class="reference">
                             {% assign referenceArray = question.reference | split: " " %}
                             {% if referenceArray.size == 1 %}
                                 <a href="#{{ question.reference }}">
@@ -57,13 +70,18 @@ layout: default
                                 {% if champignonTrouve %}
                                     <a href="{{ champignonTrouve.url }}">
                                 {% endif %}
+                                <i>
                             {% endif %}
                                 {{ question.reference }}
-                            {% if referenceArray.size == 1 or champignonTrouve %}
+                            {% if referenceArray.size == 1 %}
                                 </a>
+                            {% else %}
+                                </i>
+                                {% if champignonTrouve %}
+                                    </a>
+                                {% endif %}
                             {% endif %}
                         </div>
-                        <div class="dotted">&nbsp;</div>
                         <div style="clear:both"></div>
                     </div>
                 {% endfor %}

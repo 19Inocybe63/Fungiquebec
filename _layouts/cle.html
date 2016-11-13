@@ -1,0 +1,103 @@
+---
+layout: default
+---
+
+{% capture customTitle %}<i>{{ page.nom }}</i>{% if page.details.nom-francais %} / {{ page.details.nom-francais }}{% endif %}{% endcapture %}
+{% include wrap.html wrap_title=customTitle %}
+
+<style>
+    .etape {
+        background-color: white;
+    }
+
+    .etape > div {
+        border: 2px solid white;
+    }
+
+    .etape > div.dotted {
+        border-bottom: 2px dotted grey;
+    }
+</style>
+
+<div class="container mt">
+    <div class="row">
+        <div class="col-lg-4 col-md-5 col-sm-6">
+            <h4>Détails</h4>
+            <div class="hline"></div>
+
+            <p><b>Auteur :</b> {{ page.author }}</p>
+            <p><b>Source :</b> {{ page.source }}</p>
+            <p><b>Derniere mise à jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            <div class="spacing"></div>
+        </div>
+
+        <div class="col-lg-8 col-md-7 col-sm-6">
+            <h4>Clé</h4>
+            <div class="hline"></div>
+
+            {% for etape in page.etapes %}
+                <a name="{{ etape.numero }}"></a>
+                <p>
+                {% for question in etape.questions %}
+                    {% assign champignonTrouve = nil %}
+                    <div class="etape">
+                        <div style="float:left; font-weight:bold;">{{ etape.numero }}.&nbsp;</div>
+                        <div style="float:left;">{{ question.question | newline_to_br }}</div>
+                        <div style="float:right;">
+                            {% assign referenceArray = question.reference | split: " " %}
+                            {% if referenceArray.size == 1 %}
+                                <a href="#{{ question.reference }}">
+                            {% else %}
+                                {% for champignon in site.champignons %}
+                                    {% if champignon.nom == question.reference %}
+                                        {% assign champignonTrouve = champignon %}
+                                        {% break %}
+                                    {% endif %}
+                                {% endfor %}
+                                {% if champignonTrouve %}
+                                    <a href="{{ champignonTrouve.url }}">
+                                {% endif %}
+                            {% endif %}
+                                {{ question.reference }}
+                            {% if referenceArray.size == 1 or champignonTrouve %}
+                                </a>
+                            {% endif %}
+                        </div>
+                        <div class="dotted">&nbsp;</div>
+                        <div style="clear:both"></div>
+                    </div>
+                {% endfor %}
+                </p>
+            {% endfor %}
+
+            <div class="spacing"></div>
+        </div>
+    </div><!--/row -->
+
+    {% if site.disqus and page.comments %}
+    <div class="row">
+        <div class="col-lg-12">
+            <h4>Commentaires</h4>
+            <div class="hline"></div>
+            <div class="spacing"></div>
+
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_config = function () {
+                    this.page.url = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
+                    this.page.identifier = "{{ page.title }}";
+                };
+                (function() {
+                    var d = document, s = d.createElement('script');
+                    s.src = '//{{ site.disqus }}.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+            <div class="spacing"></div>
+        </div>
+    </div><!--/row -->
+    {% endif %}
+</div><!--/container -->

@@ -100,6 +100,7 @@ a:focus {
 	min-height: 70px;
 	padding-top: 10px;
 	margin-bottom: 0px;
+	border-radius: 0px;
 }
 
 .navbar-brand {
@@ -119,6 +120,11 @@ a:focus {
 
 .navbar-default .navbar-nav > li > a:hover {
 	color: {{ site.colors.primary }};
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: {{ site.colors.primary }};
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -218,7 +224,7 @@ a:focus {
 #headerwrap {
 	background-color: {{ site.colors.primary }};
 	min-height: 0px;
-	padding-top: 85px;
+	padding-top: 20px;
 	padding-bottom: 5px;
 	text-align: center;
 }
@@ -269,7 +275,6 @@ a:focus {
 
 #blue {
 	background: {{ site.colors.primary }};
-	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
 	padding-bottom: 25px;

@@ -49,11 +49,18 @@ defaults:
       layout: "champignon"
       author: Claude Kaufholtz-Couture
       comments: true
+  -
+    scope:
+      path: "_cles"
+    values:
+      layout: "cle"
+      author: Claude Kaufholtz-Couture
+      comments: true
 
 colors:  #in hex code if not noted else
-  primary: "#90805E" #"#00b3fe" #"#F70031"
-  primary_rgb: "144,128,94" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#531E12" #"#384452" #"#33004D"
+  primary: "#90805E"
+  primary_rgb: "144,128,94" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#531E12"
   link: "#90805E"
   link_hover: "#531E12"
   footer_heading: "#ffffff"
@@ -70,6 +77,8 @@ social:
 
 collections:
   champignons:
+    output: true
+  cles:
     output: true
 
 # Author information. Shown on About page.

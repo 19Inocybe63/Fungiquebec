@@ -102,19 +102,3 @@
 	});
 })(jQuery);
 </script>
-
-<script src="{{ "/assets/js/elasticlunr.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/assets/js/lunr.stemmer.support.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/assets/js/lunr.fr.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/assets/js/champignons.js" | prepend: site.baseurl }}"></script>
-<script type="text/javascript">
-		var index = elasticlunr(function () {
-				this.use(elasticlunr.fr);
-				this.addField('nom');
-				this.setRef('id');
-		});
-
-		for (var i = 0; i < champignons.length; ++i) {
-			index.addDoc(champignons[i]);
-		}
-</script>

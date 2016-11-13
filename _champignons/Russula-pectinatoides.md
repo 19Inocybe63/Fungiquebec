@@ -20,7 +20,7 @@ details:
   genre: Russula
   espece: pectinatoides
   litterature: Peck, C.H. 1907. Report of the State Botanist, 1906. Bulletin of the New York State Museum. 116:1-117
-  collection(s)-cueillie(s): 
+  collection(s)-cueillie(s): 12 août 2013 ; 9 juillet 2014 ; 14 juillet 2014
   fongarium: cKc0101 ; cKc0180 ; cKc0187
   numero-de-planche-micrographique: cKc0101-0070
 

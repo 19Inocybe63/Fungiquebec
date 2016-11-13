@@ -24,7 +24,7 @@ layout: default
 
             {% for champ in site.champs-details %}
                 {% if page.details[champ.name] %}
-                    <p><b>{{ champ.label }}:</b> {{ page.details[champ.name] | newline_to_br }}</p>
+                    <p><b>{{ champ.label }} :</b> {{ page.details[champ.name] | newline_to_br }}</p>
                 {% endif %}
             {% endfor %}
 
@@ -59,7 +59,7 @@ layout: default
 
             {% for champ in site.champs-description %}
                 {% if page.description[champ.name] %}
-                    <p><b>{{ champ.label }}:</b> {{ page.description[champ.name] | newline_to_br }}</p>
+                    <p><b>{{ champ.label }} :</b> {{ page.description[champ.name] | newline_to_br }}</p>
                 {% endif %}
             {% endfor %}
 

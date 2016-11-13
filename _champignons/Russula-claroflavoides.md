@@ -16,7 +16,7 @@ details:
   famille: Russulaceae
   genre: Russula
   espece: claroflavoides
-  litterature: Article non publié. Pour détails, lire sur la galerie de l'auteur; https://www.flickr.com/photos/27441280@N06/
+  litterature: 
   collection(s)-cueillie(s): 20 août 2014
   fongarium: cKc0212
   numero-de-planche-micrographique: cKc0212-0058

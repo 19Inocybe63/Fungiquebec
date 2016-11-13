@@ -142,7 +142,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -209,7 +209,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 60-70 mm x 16-17 mm Ø, claviforme, légèrement radicant, farci, mais un peu moins vers la base, une bande mince de couleur rouille surplombe l’apex du pied, strié longitudinalement, blanc, sauf vers la base, dont la base est clavée, présentant des veinures rouges
   pieds-steriles: 
@@ -251,8 +251,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: Pallidosporée à ochrosporée, IId-IIIa crème foncé à ocre pâle d’après la charte de couleur de Sarnari/Romagnesi ;
-D-E d'après la charte de couleur de Kibby
+  sporee: Pallidosporée à ochrosporée, IId-IIIa crème foncé à ocre pâle d’après la charte de couleur de Sarnari/Romagnesi ; D-E d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

@@ -65,7 +65,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: friable, blanche
+  chair: friable, blanche, rougissant puis grisonnant au grattage
   chancre: 
   chapeau: 54 mm Ø, convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon, non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge
   cheilocystides: peu abondantes et non proéminentes, cylindriques, Sulfobenzaldéhyde négatif (SBA-)

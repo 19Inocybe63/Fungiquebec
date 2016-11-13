@@ -44,8 +44,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, non bouclées à la base, 31,8 [37,2; 42,6] 48 x 8,5 [9,5; 10,5] 11,5 µm
+  basidiospores: |
+    largement elliptiques vue de profil à obovales vue frontale, verruqueuses, avec verrues petites et obtuses, non réticulées, avec des proéminences entre 0,2-0,5 μm de hauteur en moyenne, à paroi mince, avec appendice hilaire, plage hilaire rarement visible, à contenu uniguttulé dans le NaCl iso, hyalines dans le NaCl iso 0,9%, amyloïdes
+    7,4 [8,1; 8,3] 9 x 6 [6,4; 6,6] 6,9 µm
+    Q = 1,2 [1,25; 1,3] 1,4; N = 31; C = 95%
+    Me = 8,2 x 6,5 µm; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -68,7 +72,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: nombreuses, cylindriques mucronées, fusiformes-ventrues, parfois lagéniformes, plus rarement moniliformes, Sulfovanilline positive (SV+), 53-69 x 8,5-11 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -182,7 +186,7 @@ description:
   latex: 
   leptocystides: 
   macrocystides: 
-  macropleurocystides: 
+  macropleurocystides: peu nombreuses, fusiformes à fusiformes légèrement mucronées, Sulfovanilline positive (SV+), 70-74 x 8-9 µm
   marge: 
   marge-et-face-externe: 
   mediostrate: 
@@ -210,13 +214,13 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis (ixocutis)
   pileitrame: 
-  pileocystides: 
+  pileocystides: absentes
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
-  poils: 
+  pleurocystides: nombreuses, semblables aux cheilocystides, Sulfovanilline positive (SV+), 45-56 x 6-10,5 µm
+  poils: septés
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

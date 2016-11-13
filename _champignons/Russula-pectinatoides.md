@@ -68,9 +68,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, immuable, blanche
   chancre: 
-  chapeau: 
+  chapeau: 35-67 (75) mm Ø, convexe, étalé à déprimé, non visqueux, légèrement feutré, crème avec parfois un centre brun bourgogne foncé, à marge cannelées, dont la cuticile se pèle au ¼ à ½ du rayon
   cheilochrysocystides:
   cheilocystides: nombreuses, cylindriques mucronées, fusiformes-ventrues, parfois lagéniformes, plus rarement moniliformes, Sulfovanilline positive (SV+), 53-69 x 8,5-11 µm
   cheiloleptocystides: 
@@ -133,8 +133,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: légèrement spermatique, se rapprochant ± du noyau de cerise
+  exhalaison-des-lames: légèrement fongique
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexée, large, serrées, avec de rares lamelles et pas de lamellules, à arête entière, blanchâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -195,7 +195,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 60-70 mm x 16-17 mm Ø, claviforme, légèrement radicant, farci, mais un peu moins vers la base, une bande mince de couleur rouille surplombe l’apex du pied, strié longitudinalement, blanc, sauf vers la base, dont la base est clavée, présentant des veinures rouges
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (ixocutis)
@@ -239,18 +239,20 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<SUB>4</SUB> = pas de coloration
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: légèrement âcre
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: Pallidosporée à ochrosporée, IId-IIIa crème foncé à ocre pâle d’après la charte de couleur de Sarnari/Romagnesi ;
+D-E d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

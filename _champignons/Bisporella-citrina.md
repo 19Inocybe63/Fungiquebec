@@ -17,8 +17,9 @@ details:
   genre: Bisporella
   espece: citrina
   litterature: Korf, R.P.; Carpenter, S.E. 1974. Bisporella, a generic name for Helotium citrinum and its allies, and the generic names Calycella and Calycina. Mycotaxon. 1(1):51-62
-  collection(s)-cueillie(s): 2 octobre 2014
-  fongarium: cKc0279
+  fongariums:
+    - fongarium: cKc0279
+      date: 2 octobre 2014
   numero-de-planche-micrographique: cKc0279-0043
 
 description:

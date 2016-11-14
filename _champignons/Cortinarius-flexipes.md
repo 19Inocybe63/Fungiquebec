@@ -20,8 +20,9 @@ details:
   genre: Cortinarius
   espece: flexipes
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-  collection(s)-cueillie(s): 20 septembre 2014
-  fongarium: cKc0265
+  fongariums:
+    - fongarium: cKc0265
+      date: 20 septembre 2014
   numero-de-planche-micrographique: cKc0265-0060
 
 description:

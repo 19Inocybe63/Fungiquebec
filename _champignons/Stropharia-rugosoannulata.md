@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées ou adnées-émarginées,  minces, jusqu'à 20 mm de large, gris pâle d'abord, puis tacheté de violet, grisâtre, finement noir violacé, avec arête blanche, fimbriée
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

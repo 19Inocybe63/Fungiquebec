@@ -17,8 +17,9 @@ details:
   genre: Delicatula
   espece: integrella
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
-  collection(s)-cueillie(s): 7 septembre 2014
-  fongarium: cKc0241
+  fongariums:
+    - fongarium: cKc0241
+      date: 7 septembre 2014
   numero-de-planche-micrographique: 
 
 description:

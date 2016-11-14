@@ -26,7 +26,7 @@ details:
       date: 14 août 2015
     - fongarium: cKc0422
       date: 19 août 2015
-  numero-de-planche-micrographique: 
+  numero-de-planche-micrographique: cKc0392-0093
 
 description:
   acanthocytes: 

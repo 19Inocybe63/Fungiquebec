@@ -17,8 +17,9 @@ details:
   genre: Amanita
   espece: sp. nov.
   litterature: 
-  collection(s)-cueillie(s): 7 septembre 2014
-  fongarium: cKc0243
+  fongariums:
+    - fongarium: cKc0243
+      date: 7 septembre 2014
 
 description:
   acanthocytes: 

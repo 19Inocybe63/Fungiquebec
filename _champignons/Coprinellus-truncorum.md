@@ -124,7 +124,7 @@ description:
   elements-setoides: 
   elements-steriles: 
   elements-sur-les-cotes: 
-  elements-velaires: 
+  elements-velaires: formés de cellules subglobuleuses, à paroi mince, 15-40 µm Ø, reliées à des hyphes étroitement légèrement diverticulées
   endoperidium: 
   especes-identification: 
   especes-semblables: 
@@ -196,7 +196,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire, fasciculé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

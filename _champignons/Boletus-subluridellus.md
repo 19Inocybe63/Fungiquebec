@@ -17,8 +17,11 @@ details:
   genre: Boletus
   espece: subluridellus
   litterature: Smith, A.H.; Thiers, H.D. 1971. The Boletes of Michigan. :1-428
-  collection(s)-cueillie(s): 15 juillet 2015; 23 août 2015
-  fongarium: cKc0339; cKc0431
+  fongariums:
+    - fongarium: cKc0339
+      date: 15 juillet 2015
+    - fongarium: cKc0431
+      date: 23 août 2015
   numero-de-planche-micrographique: cKc0339-0118
 
 description:

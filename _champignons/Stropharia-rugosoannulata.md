@@ -240,7 +240,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: S. rugosoannulata est la plus grande espèce du genre. Il existe une grande variété de couleur de son chapeau. Habituellement, on le retrouve dans les teintes violacées, mais des formes plus pâles peuvent provoquer une confusion avec d'autres espèces.
+  remarques: Stropharia rugosoannulata est la plus grande espèce du genre. Il existe une grande variété de couleur de son chapeau. Habituellement, on le retrouve dans les teintes violacées, mais des formes plus pâles existent aussi.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

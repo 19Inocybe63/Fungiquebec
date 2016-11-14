@@ -115,6 +115,13 @@ champs-details:
     label: Collection(s) cueillie(s)
   - name: fongarium
     label: Fongarium
+  - name: fongariums
+    format: table
+    table:
+      - name: fongarium
+        label: Fongarium
+      - name: date
+        label: Date de cueillette
   - name: numero-de-planche-micrographique
     label: Numéro de planche micrographique
 
@@ -343,14 +350,19 @@ champs-description:
     label: Fréquence
   - name: reactions-macrochimiques
     label: Réactions macrochimiques
+    format: liste
   - name: articles
     label: Articles
+    format: liste
   - name: publications
     label: Publications
+    format: liste
   - name: publications-microscopiques
     label: Publications microscopiques
+    format: liste
   - name: synonymie
     label: Synonymie
+    format: liste
   - name: premiere-mention
     label: Première mention
   - name: nouvelle-espece

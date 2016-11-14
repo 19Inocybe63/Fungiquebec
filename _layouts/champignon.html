@@ -24,7 +24,28 @@ layout: default
 
             {% for champ in site.champs-details %}
                 {% if page.details[champ.name] %}
-                    <p><b>{{ champ.label }} :</b> {{ page.details[champ.name] | newline_to_br }}</p>
+                    <p>
+                        {% if champ.format == "table" %}
+                            <table class="tableElements">
+                                <tr>
+                                {% for colonne in champ.table %}
+                                    <th>{{ colonne.label }}</th>
+                                {% endfor %}
+                                </tr>
+
+                                {% for element in page.details[champ.name] %}
+                                    <tr>
+                                    {% for colonne in champ.table %}
+                                        <td>{{ element[colonne.name] }}</td>
+                                    {% endfor %}
+                                    </tr>
+                                {% endfor %}
+                            </table>
+                        {% else %}
+                            <b>{{ champ.label }} :</b>
+                            {{ page.details[champ.name] | newline_to_br }}
+                        {% endif %}
+                    </p>
                 {% endif %}
             {% endfor %}
 
@@ -32,7 +53,8 @@ layout: default
             <p><b>Derniere mise à jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
             <div class="spacing"></div>
 
-            {% if page.planches %}
+            {% assign planchesPresentes = page.planches | map: "miniature" | join: "" | strip %}
+            {% if planchesPresentes.size > 0 %}
                 <h4>Planches micrographiques</h4>
                 <div class="hline"></div>
 
@@ -59,7 +81,19 @@ layout: default
 
             {% for champ in site.champs-description %}
                 {% if page.description[champ.name] %}
-                    <p><b>{{ champ.label }} :</b> {{ page.description[champ.name] | newline_to_br }}</p>
+                    <p>
+                        <b>{{ champ.label }} :</b>
+                        {% if champ.format == "liste" %}
+                            {% assign elements = page.description[champ.name] | strip | newline_to_br | split: "<br />" %}
+                            <ul class="listeElements">
+                            {% for element in elements %}
+                                <li>{{ element }}</li>
+                            {% endfor %}
+                            </ul>
+                        {% else %}
+                            {{ page.description[champ.name] | newline_to_br }}
+                        {% endif %}
+                    </p>
                 {% endif %}
             {% endfor %}
 

@@ -375,3 +375,81 @@ blockquote footer {
 	margin-bottom: -15px;
 	margin-right: 10px;
 }
+
+
+.lettre {
+		font-size: 18px;
+}
+
+.lien-lettre {
+		font-weight: bold;
+		cursor: pointer;
+		border: 1px solid black;
+		padding: 3px 7px;
+		min-width: 25px;
+		display: inline-block;
+		text-align: center;
+		margin-bottom: 7px;
+}
+
+.lien-lettre + .lien-lettre {
+		margin-left: 5px;
+}
+
+.lettre-selected {
+		color: black;
+}
+
+.lettre-entete {
+		font-weight: bold;
+		color: black;
+}
+
+#searchform {
+		margin: 10px 0;
+}
+
+#searchbutton {
+		padding-left: 5px;
+		padding-right: 5px;
+}
+
+.listeElements > li {
+		margin-bottom: 5px;
+}
+
+.tableElements {
+		width: 100%;
+}
+
+.tableElements td,
+.tableElements th {
+		padding: 5px 0;
+}
+
+/* Cles */
+
+.etape {
+		background-color: white;
+}
+
+.etape > div {
+		border: 2px solid white;
+}
+
+.etape > .dotted {
+		border-bottom: 2px dotted grey;
+}
+
+.numero {
+		float: left;
+		font-weight: bold;
+}
+
+.question {
+}
+
+.reference {
+		float: right;
+		font-weight: bold;
+}

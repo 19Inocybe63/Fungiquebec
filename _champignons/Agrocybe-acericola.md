@@ -17,8 +17,13 @@ details:
   genre: Agrocybe
   espece: acericola
   litterature: Singer 1950, Trudy Bot. Inst. Akad. Nauk SSSR 6:88
-  collection(s)-cueillie(s): 1 juillet 2013; 10 juillet 2014
-  fongarium: cKc0065; cKc0181; cKc0182
+  fongariums:
+    - fongarium: cKc0065
+      date: 1 juillet 2013
+    - fongarium: cKc0181
+      date: 10 juillet 2014
+    - fongarium: cKc0182
+      date: 10 juillet 2014
   numero-de-planche-micrographique: cKc0181-0075
 
 description:

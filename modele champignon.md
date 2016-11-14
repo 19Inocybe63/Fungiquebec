@@ -7,12 +7,9 @@ image: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c
 image-originale: # Exemple: https://www.flickr.com/photos/kaufholtz/16853497745/in/album-72157675406683365/
 album-flickr:
   - # Exemple: 72157672806318152
-  - # Exemple: 72157672806318152
 planches:
   - miniature: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
     originale: # Exemple: https://www.flickr.com/photos/kaufholtz/16853497745/in/album-72157675406683365/
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: 
@@ -22,8 +19,9 @@ details:
   genre: 
   espece: 
   litterature: 
-  collection(s)-cueillie(s): 
-  fongarium: 
+  fongariums:
+    - fongarium: 
+      date: 
   numero-de-planche-micrographique: 
 
 description:

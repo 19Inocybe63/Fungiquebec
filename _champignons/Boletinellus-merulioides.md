@@ -19,8 +19,11 @@ details:
   genre: Boletinellus
   espece: merulioides
   litterature: Murrill, W.A. 1909. The Boletaceae of North America - 1. Mycologia. 1(1):4-18
-  collection(s)-cueillie(s): 10 juillet 2012; 19 août 2015
-  fongarium: cKc0004; cKc0420
+  fongariums:
+    - fongarium: cKc0004
+      date: 10 juillet 2012
+    - fongarium: cKc0420
+      date: 19 août 2015
   numero-de-planche-micrographique: cKc0004-0018 ; cKc0420-0114
 
 description:

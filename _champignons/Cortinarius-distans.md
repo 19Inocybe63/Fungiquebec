@@ -20,8 +20,9 @@ details:
   genre: Cortinarius
   espece: distans
   litterature: Peck, C.H. 1873. Report of the Botanist (1869). Annual Report on the New York State Museum of Natural History. 23:27-135
-  collection(s)-cueillie(s): 1 juillet 2016
-  fongarium: cKc0504
+  fongariums:
+    - fongarium: cKc0504
+      date: 1 juillet 2016
   numero-de-planche-micrographique: cKc0504-0135
 
 description:

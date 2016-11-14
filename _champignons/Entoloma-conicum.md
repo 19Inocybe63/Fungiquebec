@@ -17,8 +17,9 @@ details:
   genre: Entoloma
   espece: conicum
   litterature: Hesler, L.R. 1967. Entoloma (Rhodophyllus) in Southeastern North America. Beihefte zur Nova Hedwigia. 23:1-220
-  collection(s)-cueillie(s): 11 août 2014
-  fongarium: cKc0203
+  fongariums:
+    - fongarium: cKc0203
+      date: 11 août 2014
   numero-de-planche-micrographique: cKc0203-0052
 
 description:

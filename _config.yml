@@ -124,11 +124,6 @@ champs-details:
         label: Date de cueillette
   - name: numero-de-planche-micrographique
     label: Numéro de planche micrographique
-  - name: micrographie
-    format: table
-    table:
-      - name: numero-micro
-        label: Numéro de planche micrographique
 
 champs-description:
   - name: apothecie

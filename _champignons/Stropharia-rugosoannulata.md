@@ -249,7 +249,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: gris pourpre foncé
+  sporee: gris pourpre foncé à violet-noir
   spores: 
   spherocytes: 
   sporocystes: 

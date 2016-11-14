@@ -128,7 +128,7 @@ champs-details:
     format: table
     table:
       - name: numero-micro
-       label: Numéro de planche micrographique
+        label: Numéro de planche micrographique
 
 champs-description:
   - name: apothecie

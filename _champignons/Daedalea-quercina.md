@@ -17,8 +17,11 @@ details:
   genre: Daedalea
   espece: quercina
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
-  collection(s)-cueillie(s): 6 octobre 2014; 3 juin 2016
-  fongarium: cKc0294; cKc0494
+  fongariums:
+    - fongarium: cKc0294
+      date: 6 octobre 2014
+    - fongarium: cKc0494
+      date: 3 juin 2016
   numero-de-planche-micrographique: cKc0294-0042
 
 description:

@@ -20,8 +20,9 @@ details:
   genre: Entoloma
   espece: quadratum
   litterature: Horak, E. 1976. On cuboid-spored species of Entoloma (Agaricales). Sydowia. 28(1-6):171-237
-  collection(s)-cueillie(s): 18 août 2014
-  fongarium: cKc0206
+  fongariums:
+    - fongarium: cKc0206
+      date: 18 août 2014
   numero-de-planche-micrographique: cKc0206-0054
 
 description:

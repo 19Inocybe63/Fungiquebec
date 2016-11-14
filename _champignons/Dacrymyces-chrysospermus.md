@@ -17,8 +17,9 @@ details:
   genre: Dacrymyces
   espece: chrysospermus
   litterature: Berkeley, M.J. 1873. Notices of North American fungi (cont.). Grevillea. 2(14):17-20
-  collection(s)-cueillie(s): 13 octobre 2012
-  fongarium: cKc0019
+  fongariums:
+    - fongarium: cKc0019
+      date: 13 octobre 2012
   numero-de-planche-micrographique: cKc0019-0009
 
 description:

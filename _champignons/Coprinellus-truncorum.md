@@ -20,8 +20,11 @@ details:
   genre: Coprinellus
   espece: truncorum
   litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-  collection(s)-cueillie(s): 21 mai 2014 ; 15 mai 2015
-  fongarium: cKc0154 ; cKc0302
+  fongariums:
+    - fongarium: cKc0154
+      date: 21 mai 2014
+    - fongarium: cKc0302
+      date: 15 mai 2015
   numero-de-planche-micrographique: cKc0154-0036
 
 description:
@@ -207,7 +210,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de mai à août
   phialoconidies: 
   pied: clavé vers la base, lisse ou très finement fibrilleux, blanc, avec un col en forme de volve, 40-140 x 2-7 mm Ø
   pieds-steriles: 

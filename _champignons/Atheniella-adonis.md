@@ -20,8 +20,9 @@ details:
   genre: Atheniella
   espece: adonis
   litterature: Index Fungorum, 14, 1, 2012
-  collection(s)-cueillie(s): 4 octobre 2014
-  fongarium: cKc0289
+  fongariums:
+    - fongarium: cKc0289
+      date: 4 octobre 2014
   numero-de-planche-micrographique: cKc0289-0048
 
 description:

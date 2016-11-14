@@ -20,8 +20,9 @@ details:
   genre: Boletus
   espece: subcaerulescens
   litterature: Bessette, A.E.; Roody, W.C.; Bessette, A.R. 2000. North American Boletes, A Color Guide to the Fleshy Pored Mushrooms. :1-399
-  collection(s)-cueillie(s): 10 septembre 2015
-  fongarium: cKc0457
+  fongariums:
+    - fongarium: cKc0457
+      date: 10 septembre 2015
   numero-de-planche-micrographique: 
 
 description:

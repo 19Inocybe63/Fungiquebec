@@ -20,8 +20,9 @@ details:
   genre: Armillaria
   espece: ostoyae
   litterature: Hásek 1973, Sympozium o Václavce Obecné Armillaria mellea (Vahl ex Fr.) Kumm.:42
-  collection(s)-cueillie(s): 11 octobre 2014
-  fongarium: cKc0300
+  fongariums:
+    - fongarium: cKc0300
+      date: 11 octobre 2014
   numero-de-planche-micrographique: cKc0300-0046
 
 description:

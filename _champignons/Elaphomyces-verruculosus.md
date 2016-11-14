@@ -17,8 +17,9 @@ details:
   genre: Elaphomyces
   espece: verruculosus
   litterature: Castellano, M.A.; Guerrero, G.G.; Jimenez, J.G.; Trappe, J.M. 2012. Elaphomyces appalachiensis Linder and E. verruculosus sp. nov. (Ascomycota, Eurotiales, Elaphomycetaceae) from eastern North America. 35:17-22
-  collection(s)-cueillie(s): 1 octobre 2015
-  fongarium: cKc0480
+  fongariums:
+    - fongarium: cKc0480
+      date: 1 octobre 2015
   numero-de-planche-micrographique: 
 
 description:

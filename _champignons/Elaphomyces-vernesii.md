@@ -24,6 +24,8 @@ details:
       date: 22 août 2015
     - fongarium: cKc0462
       date: 12 septembre 2015
+    - fongarium: cKc0517
+      date: 14 juillet 2016
   numero-de-planche-micrographique: 
 
 description:

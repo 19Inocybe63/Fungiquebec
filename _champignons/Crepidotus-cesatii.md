@@ -17,8 +17,9 @@ details:
   genre: Crepidotus
   espece: cesatii var. subsphaerosporus
   litterature: Senn-Irlet, B. 1995. The genus Crepidotus (Fr.) Staude in Europe. Persoonia. 16(1):1-80
-  collection(s)-cueillie(s): 13 octobre 2012
-  fongarium: cKc0035
+  fongariums:
+    - fongarium: cKc0035
+      date: 13 octobre 2012
   numero-de-planche-micrographique: cKc0035-0003
 
 description:

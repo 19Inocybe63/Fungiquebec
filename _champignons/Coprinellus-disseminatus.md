@@ -17,8 +17,9 @@ details:
   genre: Coprinellus
   espece: disseminatus
   litterature: Lange, J.E. 1938. Studies in the Agarics of Denmark. Part XII. Hebeloma, Naucoria, Tubaria, Galera, Bolbitius, Pluteolus, Crepidotus, Pseudopaxillus, Paxillus. Dansk botanisk Arkiv. 9(6), 1-104
-  collection(s)-cueillie(s): 20 juin 2014
-  fongarium: cKc0170
+  fongariums:
+    - fongarium: cKc0170
+      date: 20 juin 2014
   numero-de-planche-micrographique: cKc0170-0037
 
 description:

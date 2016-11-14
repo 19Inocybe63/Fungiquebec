@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, assez ferme, blanche, teinté de gris brun dans la couche corticale
   chancre: 
-  chapeau: 60-175 mm Ø, conique à convexe, devenant plan-convexe à subétalé, largement omboné, à marge fortement involutée puis étalée, non hygrophane, non translucide, brun pâle à brun assez foncé, gris brun ou jaune, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbues et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
+  chapeau: 60-175 mm Ø, conique à convexe, devenant plan-convexe à subétalé, largement omboné, à marge fortement involutée puis étalée, non hygrophane, non translucide, brun pâle à brun assez foncé, gris brun ou jaune, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

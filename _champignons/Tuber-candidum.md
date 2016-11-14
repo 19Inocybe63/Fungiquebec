@@ -136,7 +136,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à agréable, faiblement fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -147,7 +147,7 @@ description:
   fongarium:
   fragments-sporaux: 
   frequence: 
-  glebe: 
+  glebe: brun foncé, marbrée de veines blanches
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -211,7 +211,7 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: 
+  peridium: 8-27 x 18-28 mm Ø environ, subglobuleux, tubercule, légèrement aplati, hypogé, sessile, brun pâle
   peritheces: 
   phenologie: 
   phialoconidies: 
@@ -250,7 +250,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à fongique
   sclerocystides: 
   sclerote: 
   soies: 

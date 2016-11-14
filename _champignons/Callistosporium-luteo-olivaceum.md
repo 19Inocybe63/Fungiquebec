@@ -16,9 +16,10 @@ details:
   famille: Tricholomataceae
   genre: Callistosporium
   espece: luteo-olivaceum
-  litterature: 
-  collection(s)-cueillie(s): 25 juillet 2013
-  fongarium: cKc0093
+  litterature: Lloydia, 89, 117, 1946
+  fongariums:
+    - fongarium: cKc0093
+      date: 25 juillet 2013
   numero-de-planche-micrographique: 
 
 description:

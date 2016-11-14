@@ -17,8 +17,9 @@ details:
   genre: Agrocybe
   espece: praecox
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
-  collection(s)-cueillie(s): 22 mai 2013
-  fongarium: cKc0062
+  fongariums:
+    - fongarium: cKc0062
+      date: 22 mai 2013
   numero-de-planche-micrographique: cKc0062-0076
 
 description:

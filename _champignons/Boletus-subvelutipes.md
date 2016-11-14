@@ -17,8 +17,13 @@ details:
   genre: Boletus
   espece: subvelutipes
   litterature: Peck 1889, Bull. N.Y. State Mus. 8:142-143
-  collection(s)-cueillie(s): 27 août 2014; 4 septembre 2014; 1 août 2016
-  fongarium: cKc0221; cKc0235; cKc0528
+  fongariums:
+    - fongarium: cKc0221
+      date: 27 août 2014
+    - fongarium: cKc0235
+      date: 4 septembre 2014
+    - fongarium: cKc0528
+      date: 1 août 2016
   numero-de-planche-micrographique: cKc0235-0065
 
 description:

@@ -1,5 +1,5 @@
 ---
-nom: Elaphomyces vernesii
+nom: Elaphomyces vernesii sp. nov.
 date: 2016-11-02 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e

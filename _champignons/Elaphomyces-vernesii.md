@@ -40,7 +40,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: subglobuleux à globuleux, mais jamais aplati, à cortex noir 13-21 x 14-22 mm Ø
+  ascome: 13-21 x 14-22 mm Ø, subglobuleux à globuleux, mais jamais aplati, à cortex noir
   ascospores: 
   asques: 
   asterohyphidies: 

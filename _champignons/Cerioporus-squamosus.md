@@ -19,9 +19,12 @@ details:
   famille: Polyporaceae
   genre: Cerioporus
   espece: squamosus
-  litterature: 
-  collection(s)-cueillie(s): 19 mai 2012; 20 mai 2015
-  fongarium: sans numéro; cKc0303
+  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
+  fongariums:
+    - fongarium: sans numéro
+      date: 19 mai 2012
+    - fongarium: cKc0303
+      date: 20 mai 2015
   numero-de-planche-micrographique: 
 
 description:

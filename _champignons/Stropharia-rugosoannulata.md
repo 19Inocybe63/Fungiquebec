@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: de juin  à septembre
   phialoconidies: 
-  pied: 
+  pied: 50-130 x 7-40 (65) mm Ø, généralement progressivement élargi vers la base, parfois avec base subbulbeuse, ferme, avec anneau, jaune ocre dans la partie médiane, blanche et fibrilleuse à l'apex et base
   pieds-steriles: 
   pigments: 
   pileipellis: 

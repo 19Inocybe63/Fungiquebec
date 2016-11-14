@@ -17,8 +17,13 @@ details:
   genre: Clavulinopsis
   espece: fusiformis
   litterature: Corner, E.J.H. 1950. A monograph of Clavaria and allied genera. Annals of Botany Memoirs. 1:1-740
-  collection(s)-cueillie(s): 21 juillet 2013; 17 août 2015; 16 septembre 2015
-  fongarium: cKc0386; cKc0416; cKc0464
+  fongariums:
+    - fongarium: cKc0386
+      date: 21 juillet 2013
+    - fongarium: cKc0416
+      date: 17 août 2015
+    - fongarium: cKc0464
+      date: 16 septembre 2015
   numero-de-planche-micrographique: cKc0464-0128
 
 description:

@@ -20,8 +20,9 @@ details:
   genre: Entoloma
   espece: violaceum
   litterature: Murrill, W.A. 1917. Agaricaceae subtribe Pluteanae. North American Flora. 10(2):77-144
-  collection(s)-cueillie(s): 19 août 2014
-  fongarium: cKc0208
+  fongariums:
+    - fongarium: cKc0208
+      date: 19 août 2014
   numero-de-planche-micrographique: cKc0208-0053
 
 description:

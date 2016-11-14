@@ -17,8 +17,9 @@ details:
   genre: Entoloma
   espece: formosum
   litterature: Noordeloos, M.E. 1985. Notulae ad floram Agaricinam Neerlandicam X-XI. Entoloma. Persoonia. 12(4):457-462
-  collection(s)-cueillie(s): 11 août 2014
-  fongarium: cKc0202
+  fongariums:
+    - fongarium: cKc0202
+      date: 11 août 2014
   numero-de-planche-micrographique: cKc0202-0051
 
 description:

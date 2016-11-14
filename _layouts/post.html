@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: wrap
 ---
-
-{% include wrap.html %}
 
 <div class="container mtb">
     <div class="row">
@@ -21,7 +19,7 @@ layout: default
                 {% endfor %}
             </p>
             <p><csmall>{{ page.date | date_to_string }} | Par: {{ page.author }}</csmall></p>
-              
+
             {{ content }}
 
             <div class="spacing"></div>
@@ -30,10 +28,10 @@ layout: default
                 <a href="#"><i class="fa fa-twitter"></i></a>
                 <a href="#"><i class="fa fa-facebook"></i></a>
                 <a href="#"><i class="fa fa-tumblr"></i></a>
-                <a href="#"><i class="fa fa-google-plus"></i></a>		 		
+                <a href="#"><i class="fa fa-google-plus"></i></a>
             </p> -->
         </div><!--/col-lg-8 -->
-        
+
         {% include sidebar.html %}
 
     </div><!--/row -->

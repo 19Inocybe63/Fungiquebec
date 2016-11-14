@@ -212,7 +212,7 @@ description:
   peritheces: 
   phenologie: de mai à août
   phialoconidies: 
-  pied: clavé vers la base, lisse ou très finement fibrilleux, blanc, avec un col en forme de volve, 40-140 x 2-7 mm Ø
+  pied: 40-140 x 2-7 mm Ø, clavé vers la base, lisse ou très finement fibrilleux, blanc, avec un col en forme de volve
   pieds-steriles: 
   pigments: 
   pileipellis: en hyméniderme épithéloïde

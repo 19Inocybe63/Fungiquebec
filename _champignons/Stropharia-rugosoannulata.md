@@ -244,12 +244,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce à légèrement amère, raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: gris pourpre foncé
   spores: 
   spherocytes: 
   sporocystes: 

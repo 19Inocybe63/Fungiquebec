@@ -20,8 +20,9 @@ details:
   genre: Amanita
   espece: amerirubescens
   litterature: Tulloss
-  collection(s)-cueillie(s): 17 août 2013
-  fongarium: cKc0112
+  fongariums:
+    - fongarium: cKc0112
+      date: 17 août 2013
   numero-de-planche-micrographique: cKc0112-0031
 
 description:

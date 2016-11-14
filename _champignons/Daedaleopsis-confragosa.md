@@ -17,8 +17,9 @@ details:
   genre: Daedaleopsis
   espece: confragosa
   litterature: Schröter, J. 1888. Kryptogamen-Flora von Schlesien. 3-1(4):385-512
-  collection(s)-cueillie(s): 1 octobre 2015
-  fongarium: cKc0482
+  fongariums:
+    - fongarium: cKc0482
+      date: 1 octobre 2015
   numero-de-planche-micrographique: 
 
 description:

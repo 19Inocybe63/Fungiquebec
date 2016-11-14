@@ -20,8 +20,13 @@ details:
   genre: Boletus
   espece: separans
   litterature: Peck, C.H. 1873. Descriptions of new species of fungi. Bulletin of the Buffalo Society of Natural Sciences. 1:41-72
-  collection(s)-cueillie(s): 18 août 2014 ; 25 août 2014 ; 6 août 2015
-  fongarium: cKc0210 ; cKc0215 ; cKc0395
+  fongariums:
+    - fongarium: cKc0210
+      date: 18 août 2014
+    - fongarium: cKc0215
+      date: 25 août 2014
+    - fongarium: cKc0395
+      date: 6 août 2015
   numero-de-planche-micrographique: cKc0395-0119
 
 description:

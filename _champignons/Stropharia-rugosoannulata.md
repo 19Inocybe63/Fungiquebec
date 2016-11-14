@@ -33,7 +33,7 @@ description:
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
-  anneau: 
+  anneau: membraneuse, pendante, distinctement striée sur le côté supérieur, avec un bord un peu floconneux, se désintégrant avec l'âge
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 

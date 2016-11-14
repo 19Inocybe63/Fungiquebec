@@ -20,8 +20,13 @@ details:
   genre: Entoloma
   espece: asprellum
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
-  collection(s)-cueillie(s): 26 juillet 2015 ; 27 juillet 2015 ; 18 août 2016
-  fongarium: cKc0379 ; cKc0380 ; cKc0543
+  fongariums:
+    - fongarium: cKc04379
+      date: 26 juillet 2015
+    - fongarium: cKc0380
+      date: 27 juillet 2015
+    - fongarium: cKc0543
+      date: 18 août 2016
   numero-de-planche-micrographique: 
 
 description:

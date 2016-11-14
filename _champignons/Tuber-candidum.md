@@ -41,8 +41,12 @@ description:
   arthroconidies: 
   articles: 
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    elliptiques, appendices épineux (spinules-échinulées) assez longs et serrés entre 3,8-5,4 µm de longueur, à paroi mince, à contenu variable, brunâtre clair dans le NaCl iso 0,9%
+    19,8 [25,2; 27,5] 32,8 x 15,2 [18,3; 19,6] 22,7 µm
+    Q = 1,2 [1,3; 1,4] 1,6; N = 33; C = 95%
+    Me = 26,3 x 19 µm; Qe = 1,4
+  asques: globuleux, largement piriformes à largement fusiformes, à paroi épaisse, contenant 2 à 5 spores (3 spores par asques, fréquent, 4 spores par asque, la norme, 5 spores par asque, plus rare) 66,5 [80,8; 98,2] 112,5 x 46,8 [51,4; 57] 61,7 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -53,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans le sol, sous Quercus Rubra, Betula Papyrifera, Pinus Resinosa, Pinus Strobus, Acer Saccharum
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -237,7 +241,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Trappe, Matt, Evans, Frank, and Trappe, James. Field Guide to North American Truffles; Hunting, Identifying, and Enjoying the World’s most Prized Fungi.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

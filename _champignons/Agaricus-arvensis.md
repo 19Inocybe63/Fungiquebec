@@ -20,8 +20,9 @@ details:
   genre: Agaricus
   espece: arvensis
   litterature: Schaeffer, J.C. 1774. Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones. 4:1-136
-  collection(s)-cueillie(s): 11 octobre 2016
-  fongarium: cKc597
+  fongariums:
+    - fongarium: cKc0597
+      date: 11 octobre 2016
   numero-de-planche-micrographique: 
 
 description:

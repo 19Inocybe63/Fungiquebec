@@ -17,8 +17,11 @@ details:
   genre: Deconica
   espece: montana
   litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
-  collection(s)-cueillie(s): 11 juin 2014; 15 juin 2014
-  fongarium: cKc0164; cKc0169
+  fongariums:
+    - fongarium: cKc0164
+      date: 11 juin 2014
+    - fongarium: cKc0169
+      date: 15 juin 2014
   numero-de-planche-micrographique: cKc0164-0072
 
 description:

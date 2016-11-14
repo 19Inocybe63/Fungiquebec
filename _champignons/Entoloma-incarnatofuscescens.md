@@ -18,7 +18,7 @@ details:
   espece: cf. incarnatofuscescens
   litterature: 
   fongariums:
-    - fongarium: 2012M_240 Canadian National Mycological Herbarium (DAOM)
+    - fongarium: 2012M_240 (DAOM)
       date: 18 août 2012
   numero-de-planche-micrographique: cKc-ÉTUDE0005
 

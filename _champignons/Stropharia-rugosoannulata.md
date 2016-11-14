@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: assez distinct, difficile à décrire, plus ou moins métallique, ou rappelant vaguement les croustilles de maïs
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

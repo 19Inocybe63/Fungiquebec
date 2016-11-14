@@ -17,8 +17,9 @@ details:
   genre: Baeospora
   espece: myosura
   litterature: Singer, R. 1938. Notes sur quelques Basidiomycetes. Revue de Mycologie. 3,187-199
-  collection(s)-cueillie(s): 30 septembre 2012
-  fongarium: cKc0022
+  fongariums:
+    - fongarium: cKc0022
+      date: 30 septembre 2012
   numero-de-planche-micrographique: cKc0022-0026
 
 description:

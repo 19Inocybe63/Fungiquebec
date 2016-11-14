@@ -242,7 +242,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Trappe, Matt, Evans, Frank, and Trappe, James. Field Guide to North American Truffles; Hunting, Identifying, and Enjoying the World’s most Prized Fungi.
+    Trappe, Matt, Evans, Frank, and Trappe, James. Field Guide to North American Truffles; Hunting, Identifying, and Enjoying the World’s most Prized Fungi, 2007, 230 pp.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

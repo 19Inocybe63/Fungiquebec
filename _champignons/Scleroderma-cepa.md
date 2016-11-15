@@ -17,8 +17,9 @@ details:
   genre: Scleroderma
   espece: cepa
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
-  collection(s)-cueillie(s): 3 août 2015
-  fongarium: cKc0390
+  fongariums:
+    - fongarium: cKc0390
+      date: 3 août 2015
   numero-de-planche-micrographique: 
 
 description:

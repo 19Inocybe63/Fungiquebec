@@ -17,8 +17,9 @@ details:
   genre: Omphalotus
   espece: illudens
   litterature: Bresinsky, A.; Besl, H. 1979. Zum verwandtschaftlichen Anschluss von Omphalotus. Beihefte zur Sydowia. 8:98-109
-  collection(s)-cueillie(s): 4 août 2012
-  fongarium: cKc0007
+  fongariums:
+    - fongarium: cKc0007
+      date: 4 août 2012
   numero-de-planche-micrographique: cKc0007-0007
 
 description:

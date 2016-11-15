@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans le sol, sous Quercus Rubra, Betula Papyrifera, Pinus Resinosa, Pinus Strobus, Acer Saccharum
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: forte, agréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -137,7 +137,7 @@ description:
   fongarium:
   fragments-sporaux: 
   frequence: 
-  glebe: 
+  glebe: brun très foncé, rouge brique à brun rougeâtre à maturité, marbrée de veines blanches
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -201,7 +201,7 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: 
+  peridium: 12-13 mm Ø environ, globuleux, hypogé, sessile, irrégulièrement sillonné
   peritheces: 
   phenologie: 
   phialoconidies: 
@@ -239,7 +239,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique avec une finale proche de la noisette
   sclerocystides: 
   sclerote: 
   soies: 

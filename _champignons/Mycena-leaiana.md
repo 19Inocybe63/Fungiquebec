@@ -20,8 +20,11 @@ details:
   genre: Mycena
   espece: leaiana
   litterature: Saccardo, P.A. 1891. Supplementum Universale, Pars I. Agaricaceae-Laboulbeniaceae. Sylloge Fungorum. 9:1-1141
-  collection(s)-cueillie(s): 26 juin 2013 ; 23 juin 2016
-  fongarium: cKc0054 ; cKc0501
+  fongariums:
+    - fongarium: cKc0054
+      date: 26 juin 2013
+    - fongarium: cKc0501
+      date: 23 juin 2016
   numero-de-planche-micrographique: 
 
 description:

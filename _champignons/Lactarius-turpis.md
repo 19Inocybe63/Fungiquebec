@@ -20,8 +20,9 @@ details:
   genre: Lactarius
   espece: turpis
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-  collection(s)-cueillie(s): 3 septembre 2016
-  fongarium: cKc0557
+  fongariums:
+    - fongarium: cKc0557
+      date: 3 septembre 2016
   numero-de-planche-micrographique: 
 
 description:

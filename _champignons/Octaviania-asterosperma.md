@@ -17,8 +17,9 @@ details:
   genre: Octaviania
   espece: asterosperma
   litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  collection(s)-cueillie(s): 23 août 2015
-  fongarium: cKc0430
+  fongariums:
+    - fongarium: cKc0430
+      date: 23 août 2015
   numero-de-planche-micrographique: cKc0430-0098
 
 description:

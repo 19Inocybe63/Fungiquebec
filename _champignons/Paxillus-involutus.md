@@ -20,8 +20,11 @@ details:
   genre: Paxillus
   espece: involutus
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-  collection(s)-cueillie(s): 24 septembre 2015 ; 9 octobre 2016
-  fongarium: cKc0475 ; cKc0592
+  fongariums:
+    - fongarium: cKc0475
+      date: 24 septembre 2015
+    - fongarium: cKc0592
+      date: 9 octobre 2016
   numero-de-planche-micrographique: cKc0475-0113
 
 description:

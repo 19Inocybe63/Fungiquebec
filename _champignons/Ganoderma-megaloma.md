@@ -17,8 +17,9 @@ details:
   genre: Ganoderma
   espece: megaloma
   litterature: Bresadola, G. 1913. Basidiomycetes philippinenses. Series II. Hedwigia. 53:44-80
-  collection(s)-cueillie(s): 31 août 2016
-  fongarium: cKc0554
+  fongariums:
+    - fongarium: cKc0554
+      date: 31 août 2016
   numero-de-planche-micrographique: 
 
 description:

@@ -27,7 +27,7 @@ etapes:
     numero: 3
     questions:
       -
-        question: Pied rougissant fortement au grattage chez les jeunes basidiomes (au bout d’environ 5-7 minutes); spores 9,5-11 x 7-9 µm, épineuses, à ornementations de 0,7-1,5 µm de hauteur
+        question: Pied rougissant fortement au grattage chez les jeunes basidiomes (au bout d’environ 5-7 minutes); spores 8,5-11 x 7-9 µm, épineuses, à ornementations de 0,7-1,5 µm de hauteur
         reference: Russula claroflavoides Y. Lamoureux nom. prov.
       -
         question: Pied ne rougissant pas distinctement au grattage; spores 8-9,5 x 6,5-7,5 µm, verruqueuses-connexées, à ornementations de 0,5-0,7 µm de hauteur

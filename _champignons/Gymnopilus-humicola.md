@@ -10,15 +10,18 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/16871277948/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
 
 details:
-  collection(s)-cueillie(s): 16 juin 2013; 12 juin 2015
-  litterature: Singer, R. 1961. Diagnoses fungorum novorum Agaricalium II. Sydowia. 15(1-6):45-83
   nom-francais: Gymnopilus humicole
   autorites: Harding ex Singer
-  fongarium: cKc0048; cKc0312
   ordre: Agaricales
   famille: Gymnopileae
   genre: Gymnopilus
   espece: humicola
+  litterature: Singer, R. 1961. Diagnoses fungorum novorum Agaricalium II. Sydowia. 15(1-6):45-83
+  fongariums:
+    - fongarium: cKc0048
+      date: 16 juin 2013
+    - fongarium: cKc0312
+      date: 12 juin 2015
   numero-de-planche-micrographique: cKc0048-0079
 
 description:

@@ -20,8 +20,9 @@ details:
   genre: Laetiporus
   espece: sulphureus
   litterature: Murrill, W.A. 1920. Corrections and additions to the polypores of temperate North America. Mycologia. 12(1):6-24
-  collection(s)-cueillie(s): 24 juillet 2014
-  fongarium: cKc0188
+  fongariums:
+    - fongarium: cKc0188
+      date: 24 juillet 2014
   numero-de-planche-micrographique: cKc0188-0040
 
 description:

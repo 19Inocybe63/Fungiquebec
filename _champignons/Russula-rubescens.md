@@ -144,7 +144,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, crème blanchâtre, fragiles
+  lames: adnées, plutôt larges, cassantes, non fourchues, serrées, blanchâtres, jaunissant avec l'âge, avec lamellules très rares ou absentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -197,7 +197,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -211,7 +211,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à août
   phialoconidies: 
   pied: 34-56 x 7-18 mm Ø, claviforme, farci, blanc, rougit puis grisonne au grattage
   pieds-steriles: 

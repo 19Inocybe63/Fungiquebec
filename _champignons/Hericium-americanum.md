@@ -20,8 +20,9 @@ details:
   genre: Hericium
   espece: americanum
   litterature: Ginns, J. 1984. Hericium coralloides N. Amer. auct. (= H. americanum sp. nov.) and the European H. alpestre and H. coralloides. Mycotaxon. 20(1):39-43
-  collection(s)-cueillie(s): 3 septembre 2014
-  fongarium: cKc0233
+  fongariums:
+    - fongarium: cKc0233
+      date: 3 septembre 2014
   numero-de-planche-micrographique: 
 
 description:

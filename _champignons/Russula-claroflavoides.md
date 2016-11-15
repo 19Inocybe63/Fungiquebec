@@ -17,8 +17,9 @@ details:
   genre: Russula
   espece: claroflavoides
   litterature: 
-  collection(s)-cueillie(s): 20 août 2014
-  fongarium: cKc0212
+  fongariums:
+    - fongarium: cKc0212
+      date: 20 août 2014
   numero-de-planche-micrographique: cKc0212-0058
 
 description:

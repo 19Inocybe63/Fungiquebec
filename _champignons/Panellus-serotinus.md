@@ -20,8 +20,9 @@ details:
   genre: Panellus
   espece: serotinus
   litterature: Kühner 1950, Compte rendu hebdomadaire des Sciences de l'Academie des sciences, Paris 230:1889
-  collection(s)-cueillie(s): 4 octobre 2013
-  fongarium: pas de collection
+  fongariums:
+    - fongarium: sans numéro
+      date: 4 octobre 2013
   numero-de-planche-micrographique: 
 
 description:

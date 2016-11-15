@@ -17,8 +17,9 @@ details:
   genre: Fusicolla
   espece: merismoides
   litterature: Gräfenhan, T.; Schroers, H.-J.; Nirenberg, H.I.; Seifert, K.A. 2011. An overview of the taxonomy, phylogeny and typification of some nectriaceous fungi classifed in Cosmospora, Acremonium, Fusarium, Stilbella and Volutella. Studies in Mycology. 68:79-113
-  collection(s)-cueillie(s): 28 mai 2013
-  fongarium: pas de collection
+  fongariums:
+    - fongarium: sans numéro
+      date: 28 mai 2013
   numero-de-planche-micrographique: cKcÉTUDE0029
 
 description:

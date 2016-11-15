@@ -20,8 +20,9 @@ details:
   genre: Retiboletus
   espece: griseus
   litterature: Binder, M.; Bresinsky, A. 2002. Retiboletus, a new genus for a species-complex in the Boletaceae producing retipolides. Feddes Repertorium Specierum Novarum Regni Vegetabilis. 113(1-2):30-40
-  collection(s)-cueillie(s): 28 août 2015
-  fongarium: cKc0439
+  fongariums:
+    - fongarium: cKc0439
+      date: 28 août 2015
   numero-de-planche-micrographique: 
 
 description:

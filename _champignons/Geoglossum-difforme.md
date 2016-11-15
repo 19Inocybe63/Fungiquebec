@@ -17,8 +17,9 @@ details:
   genre: Geoglossum
   espece: difforme
   litterature: Fries, E.M. 1815. Observationes mycologicae. 1:1-230
-  collection(s)-cueillie(s): 4 août 2015
-  fongarium: cKc0393
+  fongariums:
+    - fongarium: cKc0393
+      date: 4 août 2015
   numero-de-planche-micrographique: cKc0393-0095
 
 description:

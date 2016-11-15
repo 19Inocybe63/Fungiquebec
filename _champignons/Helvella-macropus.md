@@ -20,8 +20,9 @@ details:
   genre: Helvella
   espece: macropus
   litterature: Karsten, P.A. 1871. Mycologia fennica. Pars prima. Discomycetes. Bidrag till Kännedom av Finlands Natur och Folk. 19:1-264
-  collection(s)-cueillie(s): 13 octobre 2014
-  fongarium: cKc0291
+  fongariums:
+    - fongarium: cKc0291
+      date: 13 octobre 2014
   numero-de-planche-micrographique: 
 
 description:

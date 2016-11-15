@@ -17,8 +17,9 @@ details:
   genre: Tricholomopsis
   espece: decora
   litterature: Singer, R. 1939. Phylogenie und Taxonomie der Agaricales. Schweizerische Zeitschrift für Pilzkunde. 17:52-57
-  collection(s)-cueillie(s): 14 octobre 2012
-  fongarium: cKc0020
+  fongariums:
+    - fongarium: cKc0020
+      date: 14 octobre 2012
   numero-de-planche-micrographique: cKc0020-0024
 
 description:

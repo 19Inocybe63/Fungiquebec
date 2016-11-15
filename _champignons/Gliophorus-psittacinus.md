@@ -19,9 +19,12 @@ details:
   famille: Hygrophoraceae
   genre: Gliophorus
   espece: psittacinus
-  litterature: 
-  collection(s)-cueillie(s): 19 juin 2015 ; 22 juillet 2015
-  fongarium: cKc0321 ; cKc0366
+  litterature: Herink, J. 1958. Stavnatkovité houby parhorku "Velká Horka" u Mnichova Hradiste. Sborník Severoceského Musea. 1:53-86
+  fongariums:
+    - fongarium: cKc0321
+      date: 19 juin 2015
+    - fongarium: cKc0366
+      date: 22 juillet 2015
   numero-de-planche-micrographique: 
 
 description:
@@ -253,7 +256,13 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Agaricus dentatus L., Species Plantarum; 1172 (1753)
+    Agaricus psittacinus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:70, t. 301 (1774)
+    Agaricus cameleon Bull. & Vent., Herbier de la France 12:t. 545:1 (1792)
+    Hygrophorus psittacinus (Schaeff.) Fr., Epicrisis Systematis Mycologici:332 (1838)
+    Hygrocybe psittacina (Schaeff.) P. Kumm., Der Führer in die Pilzkunde:112 (1871)
+    Bolbitius dentatus (L.) Kuntze, Revisio generum plantarum 3:478 (1898)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -17,8 +17,9 @@ details:
   genre: Suillus
   espece: spraguei
   litterature: (Berk. & M.A. Curtis) Kuntze, Revis. gen. pl., 3(2), 536, 1898
-  collection(s)-cueillie(s): 18 août 2014
-  fongarium: cKc0209
+  fongariums:
+    - fongarium: cKc0209
+      date: 18 août 2014
   numero-de-planche-micrographique: cKc0209-0057
 
 description:

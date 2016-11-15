@@ -17,8 +17,9 @@ details:
   genre: Mycena
   espece: galericulata
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
-  collection(s)-cueillie(s): 24 juin 2015
-  fongarium: cKc0323
+  fongariums:
+    - fongarium: cKc0323
+      date: 24 juin 2015
   numero-de-planche-micrographique: cKc0323-0091
 
 description:

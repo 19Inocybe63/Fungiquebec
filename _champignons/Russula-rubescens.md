@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 22-57 mm Ø, convexe à étalé, cuticule se pèle au 2/3 du rayon ½-¾
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -131,8 +131,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 37-46 x 7-11 mm Ø, claviforme, farci, blanc, rougit puis grisonne au grattage
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -237,18 +237,19 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<SUB>4</SUB> = stipe légèrement rosé; lames légèrement rosé
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: ocrosporée IIIa-IIIb d'après la charte de couleur Sarnari-Romagnesi & E d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

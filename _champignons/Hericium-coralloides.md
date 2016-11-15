@@ -20,8 +20,9 @@ details:
   genre: Hericium
   espece: coralloides
   litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung der Schwämme. Neues Magazin für die Botanik. 1:63-80
-  collection(s)-cueillie(s): 10 septembre 2014
-  fongarium: cKc0246
+  fongariums:
+    - fongarium: cKc0246
+      date: 10 septembre 2014
   numero-de-planche-micrographique: 
 
 description:

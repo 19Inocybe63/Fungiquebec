@@ -20,8 +20,9 @@ details:
   genre: Tricholoma
   espece: caligatum
   litterature: Ricken, A. 1915. Die Blätterpilze. 1:1-480
-  collection(s)-cueillie(s): 27 septembre 2013
-  fongarium: cKc0123
+  fongariums:
+    - fongarium: cKc0123
+      date: 27 septembre 2013
   numero-de-planche-micrographique: 
 
 description:

@@ -17,8 +17,9 @@ details:
   genre: Lentinellus
   espece: flabelliformis
   litterature: Ito, S. 1955. Mycological Flora of Japan. Basidiomycetes. 2(4):1-450
-  collection(s)-cueillie(s): 13 octobre 2012
-  fongarium: cKc0021
+  fongariums:
+    - fongarium: cKc0021
+      date: 13 octobre 2012
   numero-de-planche-micrographique: cKc0021-0002
 
 description:

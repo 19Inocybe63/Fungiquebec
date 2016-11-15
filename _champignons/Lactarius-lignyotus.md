@@ -17,8 +17,9 @@ details:
   genre: Lactarius
   espece: lignyotus
   litterature: Fries 1855, Monogr. Lact. Suec.:25
-  collection(s)-cueillie(s): 27 septembre 2014
-  fongarium: cKc0277
+  fongariums:
+    - fongarium: cKc0277
+      date: 27 septembre 2014
   numero-de-planche-micrographique: cKc0277-0061
 
 description:

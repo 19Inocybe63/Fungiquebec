@@ -12,6 +12,7 @@ planches:
 details:
   nom-francais: Scléroderme commun
   autorites: Pers.
+  ordre: Boletales
   famille: Sclerodermataceae
   genre: Scleroderma
   espece: citrinum

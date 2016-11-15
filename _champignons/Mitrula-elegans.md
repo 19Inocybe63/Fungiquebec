@@ -17,8 +17,9 @@ details:
   genre: Mitrula
   espece: elegans
   litterature: Berkeley, M.J. 1875. Notices of North American fungi. Grevillea. 3(28):145-160
-  collection(s)-cueillie(s): 3 juin 2013
-  fongarium: cKc0045
+  fongariums:
+    - fongarium: cKc0045
+      date: 3 juin 2013
   numero-de-planche-micrographique: cKc0045-0087
 
 description:

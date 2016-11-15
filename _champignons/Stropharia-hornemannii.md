@@ -20,8 +20,15 @@ details:
   genre: Stropharia
   espece: hornemannii
   litterature: Lundell, S.; Nannfeldt, J.A. 1934. Fungi Exsiccati Suecici. Fasc. 1-2:1-100
-  collection(s)-cueillie(s): 29 septembre 2013 ; 3 octobre 2014 ; 6 octobre 2014 ; 6 octobre 2014
-  fongarium: cKc0148 ; cKc0283 ; cKc0295 ; cKc0297
+  fongariums:
+    - fongarium: cKc0148
+      date: 29 septembre 2013
+    - fongarium: cKc0283
+      date: 3 octobre 2014
+    - fongarium: cKc0295
+      date: 6 octobre 2014
+    - fongarium: cKc0297
+      date: 6 octobre 2014
   numero-de-planche-micrographique: cKc0297-0081
 
 description:

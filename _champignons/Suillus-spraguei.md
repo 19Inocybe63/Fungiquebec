@@ -261,7 +261,13 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Boletus spraguei Berk. & M.A. Curtis, Grevillea 1(no. 3):35 (1872)
+    Boletus murrayi Berk. & M.A. Curtis [as 'murraii'], Grevillea 1(no. 3):36 (1872)
+    Suillus murrayi (Berk. & M.A. Curtis) Kuntze, Revis. gen. pl. (Leipzig) 3(2):536 (1898)
+    Boletus pictus Peck, Ann. Rep. Reg. N.Y. St. Mus. 23:128 (1872)
+    Boletinus pictus Peck, Bull. N.Y. St. Mus. nat. Hist. 2(no. 8):77 (1889)
+    Suillus pictus (Peck) Kuntze, Revis. gen. pl. (Leipzig) 3(2):536 (1898)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -20,8 +20,11 @@ details:
   genre: Trametes
   espece: versicolor
   litterature: Lloyd, C.G. 1921. Mycological Notes 65. Mycological Writings. 6(65):1029-1101
-  collection(s)-cueillie(s): 8 août 2014; 12 octobre 2015
-  fongarium: cKc0201; cKc0489
+  fongariums:
+    - fongarium: cKc0201
+      date: 8 août 2014
+    - fongarium: cKc0489
+      date: 12 octobre 2015
   numero-de-planche-micrographique: 
 
 description:

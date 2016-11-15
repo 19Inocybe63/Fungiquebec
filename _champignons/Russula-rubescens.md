@@ -85,7 +85,7 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « L'espèce est très variable en couleurs ».
   conidies: 
   conidiome: 
   conidiophores: 

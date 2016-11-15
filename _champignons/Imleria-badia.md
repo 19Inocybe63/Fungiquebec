@@ -17,8 +17,9 @@ details:
   genre: Imleria
   espece: badia
   litterature: (Fr.) Vizzini, Index Fungorum, 147, 1, 2014
-  collection(s)-cueillie(s): 29 août 2014
-  fongarium: cKc0220
+  fongariums:
+    - fongarium: cKc0220
+      date: 29 août 2014
   numero-de-planche-micrographique: cKc0220-0064
 
 description:

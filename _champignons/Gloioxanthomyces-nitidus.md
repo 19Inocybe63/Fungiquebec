@@ -20,8 +20,9 @@ details:
   genre: Gloioxanthomyces
   espece: nitidus
   litterature: Lodge, D.J.; Padamsee, M.; Matheny, P.B., Aime, M.C.; Cantrell, S.A.; Boertmann, D.; Kovalenko, A.; Moncalvo, J.-M.; Vilgalys, R.; Vizzini, A.; Larsson, E.; Lücking, R.; Griffith, G.; Smith, M.; Norvell, L.; Desjardin, D.E.; Redhead, S.; Ovrebo, C.L.; Lickey, E.B.; Ercole, E.; Hughes, K.W.; Courtecuisse, Young, A.; Binder, M.; Minnis, A.; Lindner, D.L.; Ortiz-Santana, B.; Haight, J.;Læssøe, T.; Baroni, T.J., Geml, J., Hattori, T.R. 2013. Molecular phylogeny, morphology, pigment chemistry and ecology in Hygrophoraceae (Agaricales). Fungal Diversity. 64:1-99
-  collection(s)-cueillie(s): 12 juillet 2013
-  fongarium: cKc0075
+  fongariums:
+    - fongarium: cKc0075
+      date: 12 juillet 2013
   numero-de-planche-micrographique: 
 
 description:

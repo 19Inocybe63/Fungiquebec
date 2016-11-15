@@ -17,8 +17,9 @@ details:
   genre: Lactarius
   espece: mucidus var. mucidioides
   litterature: Hesler, L.R.; Smith, A.H. 1979. North American species of Lactarius. :1-841
-  collection(s)-cueillie(s): 16 septembre 2012
-  fongarium: cKc0015
+  fongariums:
+    - fongarium: cKc0015
+      date: 16 septembre 2012
   numero-de-planche-micrographique: cKc0015-0023
 
 description:

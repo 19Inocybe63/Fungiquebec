@@ -20,8 +20,9 @@ details:
   genre: Russula
   espece: grata
   litterature: Britzelmayr, M. 1893. Materialien zur Beschreibung der Hymenomyceten 3. Botanisches Centralblatt. 54(4):97-105
-  collection(s)-cueillie(s): 24 août 2013
-  fongarium: cKc0108
+  fongariums:
+    - fongarium: cKc0108
+      date: 24 août 2013
   numero-de-planche-micrographique: cKc0108-0069
 
 description:

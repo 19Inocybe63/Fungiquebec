@@ -17,8 +17,9 @@ details:
   genre: Phlebia
   espece: sp.
   litterature: 
-  collection(s)-cueillie(s): 9 octobre 2016
-  fongarium: cKc0591
+  fongariums:
+    - fongarium: cKc0591
+      date: 9 octobre 2016
   numero-de-planche-micrographique: cKc0591-0141
 
 description:

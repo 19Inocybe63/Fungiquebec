@@ -17,8 +17,11 @@ details:
   genre: Gyroporus
   espece: cyanescens
   litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
-  collection(s)-cueillie(s): 27 septembre 2015; 18 août 2016
-  fongarium: cKc0478; cKc0540
+  fongariums:
+    - fongarium: cKc0478
+      date: 27 septembre 2015
+    - fongarium: cKc0540
+      date: 18 août 2016
   numero-de-planche-micrographique: 
 
 description:

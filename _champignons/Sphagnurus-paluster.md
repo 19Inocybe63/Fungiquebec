@@ -20,8 +20,9 @@ details:
   genre: Sphagnurus
   espece: paluster
   litterature: Index Fungorum. 202
-  collection(s)-cueillie(s): 7 juin 2014
-  fongarium: cKc0161
+  fongariums:
+    - fongarium: cKc0161
+      date: 7 juin 2014
   numero-de-planche-micrographique: cKc0161-0059
 
 description:

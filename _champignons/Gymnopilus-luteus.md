@@ -20,8 +20,9 @@ details:
   genre: Gymnopilus
   espece: luteus
   litterature: Hesler, L.R. 1969. North American species of Gymnopilus. Mycologia Memoirs. 3:1-117
-  collection(s)-cueillie(s): 9 septembre 2012
-  fongarium: cKc0023
+  fongariums:
+    - fongarium: cKc0023
+      date: 9 septembre 2012
   numero-de-planche-micrographique: cKc0023-0013
 
 description:

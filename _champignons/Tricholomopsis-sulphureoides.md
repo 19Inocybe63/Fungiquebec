@@ -17,8 +17,9 @@ details:
   genre: Tricholomopsis
   espece: sulphureoides
   litterature: Singer, R. 1943. Das System der Agaricales. III. Annales Mycologici. 41:1-189
-  collection(s)-cueillie(s): 24 septembre 2016
-  fongarium: cKc0559
+  fongariums:
+    - fongarium: cKc0559
+      date: 24 septembre 2016
   numero-de-planche-micrographique: 
 
 description:

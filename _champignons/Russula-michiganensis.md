@@ -17,8 +17,13 @@ details:
   genre: Russula
   espece: michiganensis
   litterature: Shaffer, R.L. 1962. The subsection Compactae of Russula. Brittonia. 14(3):254-284
-  collection(s)-cueillie(s): 27 juillet 2015; 1 août 2015; 3 août 2015
-  fongarium: cKc0385; cKc0387; cKc0389
+  fongariums:
+    - fongarium: cKc0385
+      date: 27 juillet 2015
+    - fongarium: cKc0387
+      date: 1 août 2015
+    - fongarium: cKc0389
+      date: 3 août 2015
   numero-de-planche-micrographique: cKc0385-0107
 
 description:

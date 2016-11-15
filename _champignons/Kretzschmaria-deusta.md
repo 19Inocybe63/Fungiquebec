@@ -17,8 +17,9 @@ details:
   genre: Kretzschmaria
   espece: deusta
   litterature: Martin, P. 1970. Studies in the Xylariaceae:VIII. Xylaria and its allies. South African Journal of Botany. 36(2):73-138
-  collection(s)-cueillie(s): 14 juin 2015
-  fongarium: cKc0314
+  fongariums:
+    - fongarium: cKc0314
+      date: 14 juin 2015
   numero-de-planche-micrographique: 
 
 description:

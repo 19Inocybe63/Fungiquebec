@@ -20,8 +20,9 @@ details:
   genre: Laccaria
   espece: amethystina
   litterature: Cooke, M.C. 1884. New British fungi. Grevillea. 12(63):65-70
-  collection(s)-cueillie(s): 6 août 2015
-  fongarium: cKc0397
+  fongariums:
+    - fongarium: cKc0397
+      date: 6 août 2015
   numero-de-planche-micrographique: 
 
 description:

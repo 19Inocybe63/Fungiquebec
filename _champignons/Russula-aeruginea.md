@@ -20,8 +20,11 @@ details:
   genre: Russula
   espece: aeruginea
   litterature: Fries, E.M. 1863. Monographia Hymenomycetum Sueciae. 2:1-355
-  collection(s)-cueillie(s): 6 octobre 2014 ; 20 septembre 2015
-  fongarium: cKc0292 ; cKc0470
+  fongariums:
+    - fongarium: cKc0292
+      date: 6 octobre 2014
+    - fongarium: cKc0470
+      date: 20 septembre 2015
   numero-de-planche-micrographique: cKc0292-0044
 
 description:

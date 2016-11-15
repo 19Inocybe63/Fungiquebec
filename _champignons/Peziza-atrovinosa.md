@@ -17,8 +17,11 @@ details:
   genre: Peziza
   espece: atrovinosa
   litterature: Cooke, M.C. 1875. Synopsis of the discomycetous fungi of the United States. 1. Bulletin of the Buffalo Society of Natural Sciences. 2(36):285-288
-  collection(s)-cueillie(s): 7 juillet 2015; 24 juillet 2016
-  fongarium: cKc0331; cKc0523
+  fongariums:
+    - fongarium: cKc0331
+      date: 7 juillet 2015
+    - fongarium: cKc0523
+      date: 24 juillet 2016
   numero-de-planche-micrographique: cKc0331-0123
 
 description:

@@ -17,8 +17,9 @@ details:
   genre: Pluteus
   espece: hongoi
   litterature: Singer, R. 1989. New taxa and new combinations of Agaricales (Diagnoses fungorum novorum Agaricalium 4). Fieldiana Botany. 21:1-133
-  collection(s)-cueillie(s): 23 juin 2016
-  fongarium: cKc0500
+  fongariums:
+    - fongarium: cKc0500
+      date: 23 juin 2016
   numero-de-planche-micrographique: cKc0500-0133
 
 description:

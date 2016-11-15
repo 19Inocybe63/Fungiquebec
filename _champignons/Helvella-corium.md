@@ -17,8 +17,11 @@ details:
   genre: Helvella
   espece: corium
   litterature: Massee, G.E. 1895. British Fungus-Flora. 4:1-522
-  collection(s)-cueillie(s): 14 août 2015; 19 août 2015
-  fongarium: cKc0406; cKc0419
+  fongariums:
+    - fongarium: cKc0406
+      date: 14 août 2015
+    - fongarium: cKc0419
+      date: 19 août 2015
   numero-de-planche-micrographique: cKc0406-0132
 
 description:

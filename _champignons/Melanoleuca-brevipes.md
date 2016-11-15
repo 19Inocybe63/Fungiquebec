@@ -17,8 +17,9 @@ details:
   genre: Melanoleuca
   espece: brevipes
   litterature: Patouillard, N. 1900. Essai taxonomique sur les familles et les genres des Hyménomycètes. :1-184
-  collection(s)-cueillie(s): 24 septembre 2016
-  fongarium: cKc0560
+  fongariums:
+    - fongarium: cKc0560
+      date: 24 septembre 2016
   numero-de-planche-micrographique: 
 
 description:

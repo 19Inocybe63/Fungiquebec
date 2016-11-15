@@ -20,8 +20,9 @@ details:
   genre: Tricholoma
   espece: subluteum
   litterature: Peck, C.H. 1904. Report of the State Botanist 1903. Bulletin of the New York State Museum. 75:1-68
-  collection(s)-cueillie(s): 25 septembre 2014
-  fongarium: cKc0272
+  fongariums:
+    - fongarium: cKc0272
+      date: 25 septembre 2014
   numero-de-planche-micrographique: 
 
 description:

@@ -17,8 +17,13 @@ details:
   genre: Trichoglossum
   espece: walteri
   litterature: Durand, E.J. 1908. The Geoglossaceae of North America. Annales Mycologici. 6:387-477
-  collection(s)-cueillie(s): 9 eptembre 2015; 18 septembre 2015; 20 septembre 2015
-  fongarium: cKc0458; cKc0468; cKc0472
+  fongariums:
+    - fongarium: cKc0458
+      date: 9 septembre 2015
+    - fongarium: cKc0468
+      date: 18 septembre 2015
+    - fongarium: cKc0472
+      date: 20 septembre 2015
   numero-de-planche-micrographique: cKc0468-0122
 
 description:

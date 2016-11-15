@@ -17,8 +17,9 @@ details:
   genre: Xeromphalina
   espece: kauffmanii
   litterature: Smith, A.H. 1953. New and rare agarics from the Douglas Lake region and Tahquamenon Falls State Park, Michigan, and an account of the North American species of Xeromphalina. Papers of the Michigan Academy of Sciences. 38:53-87
-  collection(s)-cueillie(s): 12 septembre 2015
-  fongarium: cKc0460
+  fongariums:
+    - fongarium: cKc0460
+      date: 12 septembre 2015
   numero-de-planche-micrographique: cKc0460-0111
 
 description:

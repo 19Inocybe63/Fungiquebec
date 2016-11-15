@@ -72,7 +72,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 22-57 mm Ø, convexe à étalé, cuticule se pèle au 2/3 du rayon ½-¾
+  chapeau: 22-64 mm Ø, convexe à étalé, cuticule se pèle au 2/3 du rayon ½-¾
   cheilochrysocystides:
   cheilocystides: peu abondantes et peu émergentes, semblables aux pleurocystides
   cheiloleptocystides: 
@@ -213,7 +213,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 37-46 x 7-11 mm Ø, claviforme, farci, blanc, rougit puis grisonne au grattage
+  pied: 34-56 x 7-14 mm Ø, claviforme, farci, blanc, rougit puis grisonne au grattage
   pieds-steriles: 
   pigments: 
   pileipellis: 

@@ -16,8 +16,10 @@ details:
   genre: Scleroderma
   espece: citrinum
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
-  collection(s)-cueillie(s): 8 août 2015
-  fongarium: cKc0399
+  fongariums:
+    - fongarium: cKc0399
+      date: 8 août 2015
+  numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 

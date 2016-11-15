@@ -20,8 +20,9 @@ details:
   genre: Phylloporus
   espece: leucomycelinus
   litterature: Singer, R. 1978. Die Kernteilung in den Basidien und die Phylogenie der Basidiomyceten. Persoonia. 9(4):421-438
-  collection(s)-cueillie(s): 22 août 2015
-  fongarium: cKc0427
+  fongariums:
+    - fongarium: cKc0427
+      date: 22 août 2015
   numero-de-planche-micrographique: cKc0427-0105
 
 description:

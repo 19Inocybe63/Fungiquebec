@@ -211,7 +211,7 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: 8-27 x 18-28 mm Ø environ, subglobuleux, tubercule, légèrement aplati, hypogé, sessile, brun pâle
+  peridium: 8-27 x 18-28 mm Ø en moyenne, subglobuleux, tubercule, légèrement aplati, hypogé, sessile, brun pâle
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 

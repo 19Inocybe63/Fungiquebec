@@ -17,8 +17,9 @@ details:
   genre: Hygrophoropsis
   espece: rufa
   litterature: Knudsen H.; Vesterhold, J. 2008. Funga Nordica. :1-965
-  collection(s)-cueillie(s): 24 septembre 2016
-  fongarium: cKc0561
+  fongariums:
+    - fongarium: cKc0561
+      date: 24 septembre 2016
   numero-de-planche-micrographique: 
 
 description:

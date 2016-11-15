@@ -46,8 +46,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, non bouclées à la base, 34,5 [37; 42,1] 44,6 x 9,3 [10,2; 12,2] 13,2 µm en moyenne
+  basidiospores: |
+    subglobuleuses à largement elliptiques, verruqueuses-échinulées, avec quelques rares connexifs, avec proéminence entre 0,70-0,95 µm, aussi > 1,0 (1,3) µm de haut, à paroi mince, appendice hilaire pas toujours bien visible, ainsi que la plage hilaire 2,41-3,16 en moyenne, à contenu uniguttulé, subhyalines dans le NaCl iso 0,9%, amyloïdes
+    7 [7,9; 8,3] 9,2 x 6,1 [6,8; 7,1] 7,7 µm
+    Q = 1 [1,1; 1,2] 1,3; N = 30; C = 95%
+    Me = 8,1 x 6,9 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -58,7 +62,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: subfusiformes à flexueuses, 22,2 [25,2; 33,4] 36,4 x 3,5 [3,9; 4,9] 5,3 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -70,7 +74,7 @@ description:
   chancre: 
   chapeau: 22-57 mm Ø, convexe à étalé, cuticule se pèle au 2/3 du rayon ½-¾
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: peu abondantes et peu émergentes, semblables aux pleurocystides
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -150,7 +154,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: laticifères dans la chair du chapeau
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -214,10 +218,10 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: 
+  pileocystides: gorgées de pigments
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: abondantes, polymorphes, cylindriques mucronées 52,9 [59,7; 78,2] 84,9 x 6,1 [7; 9,5] 10,3 µm en moyenne, lagéniformes à sublagéniformes 50,2 [51,8; 54,8] 56,3 x 6,1 [6,9; 8,3] 9 µm en moyenne, claviformes dont l’apex est acéré, rostré à submoniliforme 52,3 [53,3; 57,9] 58,8 x 12,1 [12,2; 12,5] 12,6 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -238,7 +242,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = stipe légèrement rosé; lames légèrement rosé
+    FeSO<SUB>4</SUB> = stipe légèrement rosé ; lames légèrement rosé
   receptacle: 
   remarques: 
   repartition: 

@@ -17,8 +17,11 @@ details:
   genre: Marasmius
   espece: pulcherripes
   litterature: Peck, C.H. 1872. Report of the Botanist (1870). Annual Report on the New York State Museum of Natural History. 24:41-108
-  collection(s)-cueillie(s): 20 juillet 2013; 18 août 2014
-  fongarium: cKc0089; cKc0204
+  fongariums:
+    - fongarium: cKc0089
+      date: 20 juillet 2013
+    - fongarium: cKc0204
+      date: 18 août 2014
   numero-de-planche-micrographique: 
 
 description:

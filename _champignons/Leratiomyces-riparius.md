@@ -20,8 +20,15 @@ details:
   famille: Strophariaceae
   genre: Leratiomyces
   espece: riparius
-  collection(s)-cueillie(s): 18 août 2012; 24 juin 2013; 28 mai 2015; 3 juin 2016
-  fongarium: cKc0037; cKc0049; cKc0305; cKc0493
+  fongariums:
+    - fongarium: cKc0037
+      date: 18 août 2012
+    - fongarium: cKc0049
+      date: 24 juin 2013
+    - fongarium: cKc0305
+      date: 28 mai 2015
+    - fongarium: cKc0493
+      date: 3 juin 2016
   numero-de-planche-micrographique: cKc0037-0004 ; cKc0049-0080 ; cKc0305-0120
 
 description:

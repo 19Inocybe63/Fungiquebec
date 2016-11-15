@@ -17,8 +17,9 @@ details:
   genre: Pluteus
   espece: cervinus
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-  collection(s)-cueillie(s): 11 juin 2016
-  fongarium: cKc0001
+  fongariums:
+    - fongarium: cKc0001
+      date: 11 juin 2016
   numero-de-planche-micrographique: cKc0001-0129
 
 description:

@@ -17,8 +17,9 @@ details:
   genre: Geoglossum
   espece: glabrum
   litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung der Schwämme. Neues Magazin für die Botanik. 1:63-80
-  collection(s)-cueillie(s): 13 août 2015
-  fongarium: cKc0402
+  fongariums:
+    - fongarium: cKc0402
+      date: 13 août 2015
   numero-de-planche-micrographique: cKc0402-0097
 
 description:

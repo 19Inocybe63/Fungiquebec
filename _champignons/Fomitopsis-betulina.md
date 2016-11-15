@@ -17,8 +17,9 @@ details:
   genre: Fomitopsis
   espece: betulina
   litterature: Fries, E.M. 1821. Systema Mycologicum. 1:1-520
-  collection(s)-cueillie(s): 15 septembre 2014
-  fongarium: cKc0250
+  fongariums:
+    - fongarium: cKc0250
+      date: 15 septembre 2014
   numero-de-planche-micrographique: 
 
 description:

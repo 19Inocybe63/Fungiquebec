@@ -205,7 +205,7 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: 12-13 mm Ø environ, globuleux, hypogé, sessile, irrégulièrement sillonné
+  peridium: 12-13 mm Ø en moyenne, globuleux, hypogé, sessile, irrégulièrement sillonné
   peritheces: 
   phenologie: 
   phialoconidies: 

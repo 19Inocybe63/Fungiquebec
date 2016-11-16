@@ -259,7 +259,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ib d'après la charte de couleur de Sarnari-Romagnesi & B d'après la charte de couleur de Kibby
+  sporee: leucosporée Ib, blanchêtre, d'après la charte de couleur de Romagnesi ; B d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

@@ -36,7 +36,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: Article de Jan Kolar, Ph.D., Faculté de l'Université UK ; http://www.enviweb.cz/clanek/priroda/106781/jake-latky-zpusobuji-zelene-zbarveni-hub
   ascome: 
   ascospores: 
   asques: 

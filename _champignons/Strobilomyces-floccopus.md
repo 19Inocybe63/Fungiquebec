@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre, rougissant puis noircissant à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 30-155 mm Ø, large, convexe, devenant largement convexe à presque plane à maturité, marge appendiculée de reste du voile partiel cotonneux et grisâtre, sec, blanchâtre à grisâtre, recouverte de laine grossière ou cotonneuse, aplatie ou dressée, de gris à gris violacé ou noirâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

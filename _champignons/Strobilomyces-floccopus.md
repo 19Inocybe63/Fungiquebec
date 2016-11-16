@@ -16,7 +16,7 @@ details:
   famille: Boletaceae
   genre: Strobilomyces
   espece: floccopus
-  litterature: Karsten, P.A. 1882. Rysslands, Finlans och den Skandinaviska halföns Hattsvampar. Sednare Delen: Pip-, Tagg-, Hud-, Klubb- och Gelésvampar. Bidrag till Kännedom av Finlands Natur och Folk. 37:1-257
+  litterature: Karsten, P.A. 1882. Rysslands, Finlans och den Skandinaviska halföns Hattsvampar. Sednare Delen, Pip-, Tagg-, Hud-, Klubb- och Gelésvampar. Bidrag till Kännedom av Finlands Natur och Folk. 37:1-257
   fongariums:
     - fongarium: cKc0095
       date: 31 juillet 2013

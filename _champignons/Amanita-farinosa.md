@@ -227,7 +227,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications: |
+    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

@@ -237,7 +237,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: |
     KOH 10% = le chapeau devient rapidement jaune

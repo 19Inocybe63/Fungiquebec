@@ -62,7 +62,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanchâtre, rougissant puis noircissant à la coupe
+  chair: blanchâtre, rougissant puis noircissant rapidement lorsque coupé ou meurtri
   chancre: 
   chapeau: 30-155 mm Ø, large, convexe, devenant largement convexe à presque plane à maturité, marge appendiculée de reste du voile partiel cotonneux et grisâtre, sec, blanchâtre à grisâtre, recouverte de laine grossière ou cotonneuse, aplatie ou dressée, de gris à gris violacé ou noirâtre
   cheilochrysocystides:
@@ -91,7 +91,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: blanc lorsque jeune, puis gris, enfin noir, se tachant de rougeâtre, puis noire lorsque brisé, tubes de 10-15 mm de profondeur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -225,7 +225,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: angulaires 1-2 mm de large
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

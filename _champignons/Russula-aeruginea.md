@@ -263,7 +263,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: Ocrosporée IIIa, crème pâle, d'après la charte de couleur de Sarnari/Romagnesi
+  sporee: ochrosporée IIIa, crème pâle, d'après la charte de couleur de Sarnari-Romagnesi
   spores: 
   spherocytes: 
   sporocystes: 

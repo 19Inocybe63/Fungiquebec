@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 50-150 mm, conique arrondi, convexe ou campanulé, puis étalé, parfois largement mamelonné, blanc, dépourvu de restes vélaires, à marge non sillonnée et parfois appendiculée
+  chapeau: 50-150 mm Ø, conique arrondi, convexe ou campanulé, puis étalé, parfois largement mamelonné, blanc, dépourvu de restes vélaires, à marge non sillonnée et parfois appendiculée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 80-200 x 8-20 mm, blanc, terminé par un gros bulbe habituellement plat et marginé, finement fibrilleux à pelucheux, muni d'un anneau parfois fugace, émergeant d'une volve blanche
+  pied: 80-200 x 8-20 mm Ø, blanc, terminé par un gros bulbe habituellement plat et marginé, finement fibrilleux à pelucheux, muni d'un anneau parfois fugace, émergeant d'une volve blanche
   pieds-steriles: 
   pigments: 
   pileipellis: 

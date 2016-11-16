@@ -53,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol des forêts de bouleaux et dans les sapinières
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,9 +68,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanche
   chancre: 
-  chapeau: 
+  chapeau: 50-150 mm, conique arrondi, convexe ou campanulé, puis étalé, parfois largement mamelonné, blanc, dépourvu de restes vélaires, à marge non sillonnée et parfois appendiculée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -132,7 +132,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: désagréable et bien que distinctif, difficile à définir
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -142,7 +142,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, avec lamellules tronquées, très serrées, blanches, à arêtes floconneuses
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -209,9 +209,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: 80-200 x 8-20 mm, blanc, terminé par un gros bulbe habituellement plat et marginé, finement fibrilleux à pelucheux, muni d'un anneau parfois fugace, émergeant d'une volve blanche
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,7 +239,8 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = le chapeau devient rapidement jaune
   receptacle: 
   remarques: 
   repartition: 
@@ -250,7 +251,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 
@@ -274,8 +275,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
-  volve: 
+  voile-general: membraneux, blanc, laissant une volve à la base du pied
+  voile-partiel: membraneux, blanc, laissant un anneau parfois fugace dans le haut du pied et parfois des lambeaux au pourtour du chapeau
+  volve: blanche à la base du pied
   zone-perihymeniale: 
 ---

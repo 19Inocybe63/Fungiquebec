@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 40-120 mm Ø, épais, ferme, presque égal, parfois agrandi à la base, grisâtre, réticulé au sommet au-dessus de l'anneau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -275,7 +275,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: cotonneux à laineux, grisâtre, laissant une zone annulaire sur le stipe
   volve: 
   zone-perihymeniale: 
 ---

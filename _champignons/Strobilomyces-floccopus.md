@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol sous hêtres
   boucles: 
   brachybasidioles: 
   calicule: 

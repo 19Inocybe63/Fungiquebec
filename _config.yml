@@ -176,6 +176,8 @@ champs-description:
     label: Voile général
   - name: voile-partiel
     label: Voile partiel
+  - name: volve
+    label: Volve
   - name: anneau
     label: Anneau
   - name: cortine
@@ -619,7 +621,5 @@ champs-description:
     label: Vial
   - name: voile
     label: Voile
-  - name: volve
-    label: Volve
   - name: zone-perihymeniale
     label: Zone périhyméniale

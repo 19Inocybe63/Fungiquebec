@@ -238,7 +238,7 @@ description:
   reactions-chimiques: |
     Soluté de gaïac = endéans 5" S ++ (3 = moyenne) = après 5" L ++ (3 = moyenne)
   receptacle: 
-  remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement ; elle noircit.
+  remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement, elle noircit.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -247,7 +247,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ia-Ib d'après la charte de couleur de Sarnari-Romagnesi & A-B d'après la charte de couleur de Kibby
+  sporee: leucosporée Ia-Ib, blanche à blanchâtre, d'après la charte de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

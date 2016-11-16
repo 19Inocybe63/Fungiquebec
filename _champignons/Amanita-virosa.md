@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 80-200 x 8-20 mm Ø, blanc, terminé par un gros bulbe habituellement plat et marginé, finement fibrilleux à pelucheux, muni d'un anneau parfois fugace, émergeant d'une volve blanche
+  pied: 80-280 x 8-24 mm Ø, blanc, terminé par un gros bulbe habituellement plat et marginé, finement fibrilleux à pelucheux, muni d'un anneau parfois fugace, émergeant d'une volve blanche
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -277,7 +277,7 @@ description:
   typique: 
   voile: 
   voile-general: membraneux, blanc, laissant une volve à la base du pied
-  voile-partiel: membraneux, blanc, laissant un anneau parfois fugace dans le haut du pied et parfois des lambeaux au pourtour du chapeau
+  voile-partiel: 44 mm de hauteur, membraneux, blanc, laissant un anneau parfois fugace dans le haut du pied et parfois des lambeaux au pourtour du chapeau
   volve: blanche
   zone-perihymeniale: 
 ---

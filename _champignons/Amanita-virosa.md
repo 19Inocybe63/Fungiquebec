@@ -278,6 +278,6 @@ description:
   voile: 
   voile-general: membraneux, blanc, laissant une volve à la base du pied
   voile-partiel: membraneux, blanc, laissant un anneau parfois fugace dans le haut du pied et parfois des lambeaux au pourtour du chapeau
-  volve: blanche à la base du pied
+  volve: blanche
   zone-perihymeniale: 
 ---

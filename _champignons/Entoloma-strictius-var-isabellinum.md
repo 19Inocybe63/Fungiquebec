@@ -72,7 +72,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, blanchâtre à beige, immuable
   chancre: 
-  chapeau: 16-37 mm Ø, port mycenoïd, conique campanulé et mamelonné, non visqueux, soyeux à glabre, hygrophane, beige brun lorsque imbu, beige brun devenant isabelline au sec, à marge unie
+  chapeau: 16-57 mm Ø, port mycenoïd, conique campanulé et mamelonné, non visqueux, soyeux à glabre, hygrophane, beige brun lorsque imbu, beige brun devenant isabelline au sec, à marge unie
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -136,7 +136,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: douce, rappelant la chair de la pastèque
+  exhalaison-des-lames: douce, rappelant la chair de la pastèque, à légèrement raphanoïde
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -213,7 +213,7 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 64-83 x 4-16 mm Ø, cylindrique, égal, atténué à l’apex, torsadé, farci à creux, strié à fibrilleux longitudinalement, crème à brunâtre, dont la base est élargie, parfois avec du mycélium basale blanc à la base
+  pied: 64-92 x 4-16 mm Ø, cylindrique, égal, atténué à l’apex, torsadé, farci à creux, strié à fibrilleux longitudinalement, crème à brunâtre, dont la base est élargie, parfois avec du mycélium basale blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -260,7 +260,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: douce, rappelant la chair de la pastèque
+  saveur: douce, rappelant la chair de la pastèque, à légèrement raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 

@@ -241,7 +241,8 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = aucune coloration ou décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

@@ -30,7 +30,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 1-8 mm Ø, cupuliforme, spatulée à allantoïde puis étalée et infundibuliforme à la fin, d'asymétrie souvent très prononcée, stipitée, à marge ondulée
+  apothecie: 1-7 mm Ø, cupuliforme, spatulée puis étalée et infundibuliforme à la fin, d'asymétrie souvent très prononcée, stipitée, à marge ondulée
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: minuscule, excentré, peu souvent centré, égal, concolore à la face externe, plusieurs ascomes arrivant souvent d'une base commune ou d'une masse stromatique irrégulièrement formée et pigmenté de foncé
+  pied: 1 à 2 mm de long, minuscule, central ou excentré, égal, concolore à la face externe
   pieds-steriles: 
   pigments: 
   pileipellis: 

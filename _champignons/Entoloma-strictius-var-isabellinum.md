@@ -46,9 +46,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base, 43-44 x 13-15 μm en moyenne
+  basides: claviformes, tétrastérigmates, non bouclées à la base, 43-44 x 13-15 µm en moyenne
   basidiospores: |
-    hétérodiamétrique à 5 angles (anguleuses), aussi parfois entre 4-6 côtés, lisses, à paroi mince 0,20-0,25 μm, avec appendice hilaire, à contenu uniguttulé à plus rarement biguttulé, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    hétérodiamétrique à 5 angles (anguleuses), aussi parfois entre 4-6 côtés, lisses, à paroi mince 0,20-0,25 µm, avec appendice hilaire, à contenu uniguttulé à plus rarement biguttulé, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
     10,4 [11,7; 12,3] 13,7 x 7,4 [8,3; 8,7] 9,7 µm
     Q = 1,2 [1,4] 1,6; N = 30; C = 95%
     Me = 12 x 8,5 µm; Qe = 1,4

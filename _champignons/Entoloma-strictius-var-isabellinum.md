@@ -72,7 +72,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, blanchâtre à beige, immuable
   chancre: 
-  chapeau: 
+  chapeau: 16-37 mm Ø, port mycenoïd, conique campanulé et mamelonné, non visqueux, soyeux à glabre, hygrophane, beige brun lorsque imbu, beige brun devenant isabelline au sec, à marge unie
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

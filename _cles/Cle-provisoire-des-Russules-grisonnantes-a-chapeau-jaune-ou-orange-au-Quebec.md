@@ -2,7 +2,7 @@
 nom: Clé provisoire des Russules grisonnantes à chapeau jaune ou orange au Québec
 date: 2016-11-13 00:00:00
 author: Yves Lamoureux
-source: Publication privée
+source: Édition à compte d'auteur
 
 etapes:
   -

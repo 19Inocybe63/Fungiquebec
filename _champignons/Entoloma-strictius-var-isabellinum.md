@@ -62,7 +62,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, blanchâtre à beige
   chancre: 
   chapeau: 
   cheilochrysocystides:

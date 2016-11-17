@@ -18,8 +18,12 @@ details:
   espece: strictius var. isabellinum
   litterature: Peck, Bull. N.Y. St. Mus. nat. Hist., 1(no. 2), 27, 1887
   fongariums:
-    - fongarium: 
-      date: 
+    - fongarium: cKc0047
+      date: 18 mai 2014
+    - fongarium: cKc0195
+      date: 6 août 2014
+    - fongarium: cKc0466
+      date: 22 mai 2016
   numero-de-planche-micrographique: cKc0047-0035
 
 description:
@@ -203,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de juin à septembre
+  phenologie: de mai à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

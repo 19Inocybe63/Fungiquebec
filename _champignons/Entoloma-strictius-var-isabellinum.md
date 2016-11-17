@@ -134,9 +134,9 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: douce, rappelant la chair de la pastèque
+  exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-des-lames: douce, rappelant la chair de la pastèque
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libre, obtuses en avant, ascendantes lorsque jeune, larges, cunéiformes, élastique et très légèrement friable, serrées à très serrées, avec lamelles et lamellules, légèrement atténuées sur le rebord proximal, blanchâtres avec reflet rosé à maturité, dont l’arête est légèrement érodées, largement arrondies
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

@@ -253,7 +253,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: rose saumon
+  sporee: rose à rose saumon
   spores: 
   spherocytes: 
   sporocystes: 

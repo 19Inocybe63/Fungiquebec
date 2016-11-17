@@ -23,9 +23,6 @@ etapes:
       -
         question: Voile partiel absent
         reference: 3
-      -
-        question: 
-        reference: 
   -
     numero: 3
     questions:

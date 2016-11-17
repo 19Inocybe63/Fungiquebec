@@ -46,7 +46,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes, tétrastérigmates, non bouclées à la base, 43-44 x 13-15 μm en moyenne
   basidiospores: |
     hétérodiamétrique à 5 angles (anguleuses), aussi parfois entre 4-6 côtés, lisses, à paroi mince 0,20-0,25 μm, avec appendice hilaire, à contenu uniguttulé à plus rarement biguttulé, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
     10,4 [11,7; 12,3] 13,7 x 7,4 [8,3; 8,7] 9,7 µm
@@ -56,7 +56,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, en milieux humides, parmi les sphaignes
-  boucles: 
+  boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -74,7 +74,7 @@ description:
   chancre: 
   chapeau: 16-37 mm Ø, port mycenoïd, conique campanulé et mamelonné, non visqueux, soyeux à glabre, hygrophane, beige brun lorsque imbu, beige brun devenant isabelline au sec, à marge unie
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -154,7 +154,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: intracellulaires, avec pigments granulaires et hyphes vacuolaires à contenu dilué
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -216,12 +216,12 @@ description:
   pied: 64-83 x 4-16 mm Ø, cylindrique, égal, atténué à l’apex, torsadé, farci à creux, strié à fibrilleux longitudinalement, crème à brunâtre, dont la base est élargie, parfois avec du mycélium basale blanc à la base
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

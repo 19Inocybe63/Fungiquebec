@@ -39,7 +39,9 @@ description:
   apothecie: cupuliformes au début, puis discoïde à pulvinée, à marge ondulée à maturité, sessile
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Dougoud, René. Contribution à l’étude des discomycètes Version 2013, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
+    Dougoud, René. Clé des Discomycètes carbonicoles, 14 p.
   ascome: 
   ascospores: |
     sphériques, lisses, à paroi mince, à contenu pluriguttulé à granuleux, hyalines dans le NaCl iso 0,9%, iodonégatifs
@@ -243,7 +245,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 

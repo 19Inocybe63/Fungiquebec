@@ -4,10 +4,12 @@ date: 2016-11-18 00:00:00
 image: https://c2.staticflickr.com/6/5783/20542097725_4860e5477f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20542097725/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
 album-flickr:
-  - 
+  - 72157675162860642
 planches:
-  - miniature: 
-    originale: 
+  - miniature: https://c1.staticflickr.com/1/764/20590422485_709c7b6954_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/20590422485/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
+  - miniature: https://c2.staticflickr.com/8/7314/27292419723_2f3d096a04_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/27292419723/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
 
 details:
   nom-francais: 
@@ -16,10 +18,14 @@ details:
   famille: Pyronemataceae
   genre: Pulvinula
   espece: carbonaria
-  litterature: 
+  litterature: Boudier, J.L.É. 1885. Nouvelle classification naturelle des Discomycètes charnus. Bulletin de la Société Mycologique de France. 1:97-120
   fongariums:
-    - fongarium: 
-      date: 
+    - fongarium: cKc0401
+      date: 13 août 2015
+    - fongarium: cKc0412
+      date: 18 août 2015
+    - fongarium: cKc0496
+      date: 23 juin 2016
   numero-de-planche-micrographique: 
 
 description:
@@ -30,7 +36,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: cupuliformes au début, puis discoïde à pulvinée, à marge ondulée à maturité, sessile
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -47,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois carbonisé
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,7 +68,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: cassante, orangée, orangé-rouge
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -73,11 +79,11 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De cKc. Remerciement à Nicolas Van Vooren pour la terminologie des paraphyses.
   conidies: 
   conidiome: 
   conidiophores: 
@@ -131,7 +137,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: glabre, légèrement plus pâle que l'hyménophore
   face-poroïde: 
   feutrage-basal: 
   fongarium:
@@ -145,7 +151,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: 1-3 mm Ø, rouge-orangé
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -203,7 +209,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -254,7 +260,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Crouania carbonaria Fuckel, Jahrbücher des Nassauischen Vereins für Naturkunde 27-28:64, Fung. Rhen. no 2482 (1874)
+    Barlaea carbonaria (Fuckel) Sacc., Sylloge Fungorum 8:112 (1889)
+    Barlaeina carbonaria (Fuckel) Sacc. & Traverso, Sylloge Fungorum 19:138 (1910)
+    Lamprospora carbonaria (Fuckel) Seaver:16 (1914)
+    Octospora carbonaria (Fuckel) Caillet & Moyne, Bulletin de la Société Mycologique de France 96 (2):194 (1980)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

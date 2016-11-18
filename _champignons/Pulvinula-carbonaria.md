@@ -92,7 +92,7 @@ description:
   columelle: 
   commentaires: |
     De cKc. Remerciement à Nicolas Van Vooren pour la terminologie des paraphyses.
-    Dans la 2e études sporales ; globuleuses, lisses, à paroi mince, muni d’un pore germinatif (cratère) 1,5-2,5 µm de Ø, à contenu guttulé à granulations, hyalines dans l’eau glycérinée 20%, iodonégatifs, non cyanophiles
+    Dans la 2e études sporales ; ascospores globuleuses, lisses, à paroi mince, muni d’un pore germinatif (cratère) 1,5-2,5 µm de Ø, à contenu guttulé à granulations, hyalines dans l’eau glycérinée 20%, iodonégatifs, non cyanophiles
     (12,5) 13,3 - 14,2 (15,1) × (12,4) 13,1 - 14,1 (14,8) µm
     Q = 1 ; N = 26
     Me = 13,7 × 13,6 µm ; Qe = 1

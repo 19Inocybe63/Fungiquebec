@@ -37,8 +37,13 @@ description:
     Dougoud, René. Contribution à l’étude des discomycètes Version 2013, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
     Dougoud, René. Clé des Discomycètes carbonicoles, 14 p.
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    unisériées, elliptiques, verruqueuses, à contenu biguttulé jeune, par la suite granulaire
+    (15,8) 16,3 - 17,9 (18,9) × (7) 7,5 - 8,3 (8,4) µm
+    Q = (2) 2,1 - 2,4 (2,5) ; N = 30
+    Me = 17,2 × 7,8 µm ; Qe = 2,2
+    (Piximètre, formule classique, mesures dans le bleu Coton lactique)
+  asques: claviformes, octosporés, à apex IKI +, operculé, (220,5) 238,1 - 246,8 (256,6) × (10,4) 10,6 - 11,9 (12,4) µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -79,7 +84,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: De cKc ; Collection étudiée sur matériel frais
   conidies: 
   conidiome: 
   conidiophores: 
@@ -124,7 +129,7 @@ description:
   especes-identification: 
   especes-semblables: 
   excipulum: 
-  excipulum-medullaire-superieur: 
+  excipulum-medullaire-superieur: de textura globulosa-angularis
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
@@ -198,7 +203,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: cylindriques-filiformes avec parfois de petites excroissances, septées, à apex égal à subégal, + 150-200 × 3,5 - 4,5 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -242,7 +247,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Sur 100-150 ascospores observées, quatre seulement étaient uniguttulées, les autres semblent avoir un contenu granulaire.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

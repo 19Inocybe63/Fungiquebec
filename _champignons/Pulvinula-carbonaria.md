@@ -44,7 +44,7 @@ description:
     Dougoud, René. Clé des Discomycètes carbonicoles, 14 p.
   ascome: 
   ascospores: |
-    sphériques, lisses, à paroi mince, à contenu pluriguttulé à granuleux, hyalines dans le NaCl iso 0,9%, iodonégatifs
+    globuleuses, lisses, à paroi mince, à contenu pluriguttulé à granuleux, hyalines dans le NaCl iso 0,9%, iodonégatifs
     13,6 [14,5; 15,1] 16 x 13,3 [14,3; 15] 15,9 µm
     Q = 1 [1,0] 1; N = 17; C = 95%
     Me = 14,8 x 14,6 µm; Qe = 1
@@ -90,7 +90,13 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: De cKc. Remerciement à Nicolas Van Vooren pour la terminologie des paraphyses.
+  commentaires: |
+    De cKc. Remerciement à Nicolas Van Vooren pour la terminologie des paraphyses.
+    Dans le 2e études sporales ; globuleuses, lisses, à paroi mince, muni d’un pore germinatif (cratère) 1,5-2,5 µm de Ø, à contenu guttulé à granulations, hyalines dans l’eau glycérinée 20%, iodonégatifs, non cyanophiles
+    (12,5) 13,3 - 14,2 (15,1) × (12,4) 13,1 - 14,1 (14,8) µm
+    Q = 1 ; N = 26
+    Me = 13,7 × 13,6 µm ; Qe = 1
+    (Piximètre, formule classique mesures sur des spores issues de sporée dans l'eau glycérinée 20%)
   conidies: 
   conidiome: 
   conidiophores: 

@@ -84,7 +84,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: De cKc ; Collection étudiée sur matériel frais
+  commentaires: De cKc. Collection étudiée sur matériel frais. Les spécimens étaient très matures, mais j'ai obtenu une belle sporée. Les photos macro ne sont pas représentatives, mais l'étude microscopique en valait vraiment le coup.
   conidies: 
   conidiome: 
   conidiophores: 
@@ -247,7 +247,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Sur 100-150 ascospores observées, quatre seulement étaient uniguttulées, les autres semblent avoir un contenu granulaire.
+  remarques: |
+    Sur 100-150 ascospores observées, quatre seulement étaient uniguttulées, les autres semblent avoir un contenu granulaire.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

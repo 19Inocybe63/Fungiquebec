@@ -30,10 +30,12 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: 31-120(130) mm Ø, cupuliforme, entre 60-100 mm de profondeur, à marge légèrement crénelée
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Dougoud, René. Contribution à l’étude des discomycètes Version 2013, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
+    Dougoud, René. Clé des Discomycètes carbonicoles, 14 p.
   ascome: 
   ascospores: 
   asques: 
@@ -62,7 +64,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: violette
+  chair: mince, fragile, cassante, violette
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -131,7 +133,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: sublisse à finement granuleuse, parfois avec des veinures, brun rougeâtre
   face-poroïde: 
   feutrage-basal: 
   fongarium:
@@ -145,7 +147,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: lisse, brun rougeâtre
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -205,7 +207,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: absent
   pieds-steriles: 
   pigments: 
   pileipellis: 

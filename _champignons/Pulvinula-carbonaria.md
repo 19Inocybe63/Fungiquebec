@@ -41,8 +41,13 @@ description:
   arthroconidies: 
   articles: 
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    sphériques, lisses, à paroi mince, à contenu pluriguttulé à granuleux, hyalines dans le NaCl iso 0,9%, iodonégatifs
+    13,6 [14,5; 15,1] 16 x 13,3 [14,3; 15] 15,9 µm
+    Q = 1 [1,0] 1; N = 17; C = 95%
+    Me = 14,8 x 14,6 µm; Qe = 1
+    (Piximètre; mesures effectuées sur des spores immatures)
+  asques: longuement claviformes, octosporés, unisériés, iodonégatifs, 195-235 x 17-21 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -202,7 +207,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: filiformes dont l'apex est incurvé, avec pigments caroténoïdes devenant bleu-vert foncé dans le lugol
   parasite: 
   paroi-peritheciale: 
   peridiole: 

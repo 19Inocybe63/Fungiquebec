@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à uncinées, larges, subespacées à serrées, brunâtre pâle à brun ochracé, à arêtes entières à finement crénelées, blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 60-200 x 1-4 mm, cylindrique, égal, souvent ondulé ou tordu, aqueux très fragile, ± chiné, subglabrescent, parfois pubescent à mycélioïde sur les parties cachées dans la mousse, jaune-brun pâle, ochracé aqueux à noisette, avec anneau membraneux, souvent supère, blanc, fugace, ou une fine zone fibrilleuse adhérant irrégulièrement ou formant des zones sous l'anneau
   pieds-steriles: 
   pigments: 
   pileipellis: 

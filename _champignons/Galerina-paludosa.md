@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte
+  exhalaison: indistincte à farineuse
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -239,7 +239,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: indistincte
+  saveur: indistincte à farineuse
   sclerocystides: 
   sclerote: 
   soies: 

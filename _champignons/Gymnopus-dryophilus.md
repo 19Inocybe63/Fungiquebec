@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées à sublibre, serrées, blanchâtre à rosâtre, devenant chamois, large, à arêtes entières, souvent érodées avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

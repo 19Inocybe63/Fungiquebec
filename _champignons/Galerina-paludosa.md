@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse en milieux marécageux, parmi les sphaignes, sous Abies, Betula et Picea
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,7 +62,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fragile, ± concolore au chapeau
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -239,12 +239,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille à brun cannelle
   spores: 
   spherocytes: 
   sporocystes: 
@@ -273,7 +273,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: laissant un anneau ou une fine zone fibrilleuse sur le pied
   volve: 
   zone-perihymeniale: 
 ---

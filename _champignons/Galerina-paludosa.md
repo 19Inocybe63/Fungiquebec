@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 60-200 x 1-4 mm, cylindrique, égal, souvent ondulé ou tordu, aqueux très fragile, ± chiné, subglabrescent, parfois pubescent à mycélioïde sur les parties cachées dans la mousse, jaune-brun pâle, ochracé aqueux à noisette, avec anneau membraneux, souvent supère, blanc, fugace, ou une fine zone fibrilleuse adhérant irrégulièrement ou formant des zones sous l'anneau
+  pied: 60-200 x 1-4 mm, cylindrique, égal, parfois ondulé à flexueux, aqueux très fragile, ± chiné, jaune-brun pâle, ochracé à noisette, avec anneau membraneux, souvent supère, blanc, fugace, guirlandé de débris de voile blanc formant une zone annulaire au sommet
   pieds-steriles: 
   pigments: 
   pileipellis: 

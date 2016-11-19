@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Galère des marais
   autorites: (Fr.) Kühner
   ordre: Agaricales
   famille: Hymenogastraceae
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, ± concolore au chapeau
   chancre: 
-  chapeau: 8-30 mm Ø, conique-obtus à convexe, rarement conique-aigu, puis campanulé, largement convexe à subétalé et conique-omboné, humide, hygrophane, avec fines fibrilles vélaires blanches se séparant rapidement en faisceaux apprimés ou récurvés fugaces, fauve ochracé à fauve, devenant chamois ochracé à jaune terne, crème brunâtre au sec, à marge apprimée contre les lames au début, translucide-triée à l'humidité, parfois appendiculée
+  chapeau: 8-30 mm Ø, conique-obtus à convexe, puis campanulé, largement convexe à subétalé, mat à soyeux brillant, hygrophane, avec de fines fibrilles vélaires blanches se séparant rapidement en faisceaux apprimés ou récurvés, fugaces, brun rougeâtre strié par temps humide, brun ochracé non strié à l’état sec
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

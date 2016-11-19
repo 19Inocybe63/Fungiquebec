@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, ± concolore au chapeau
   chancre: 
-  chapeau: 
+  chapeau: 8-30 mm Ø, conique-obtus à convexe, rarement conique-aigu, puis campanulé, largement convexe à subétalé et conique-omboné, humide, hygrophane, avec fines fibrilles vélaires blanches se séparant rapidement en faisceaux apprimés ou récurvés fugaces, fauve ochracé à fauve, devenant chamois ochracé à jaune terne, crème brunâtre au sec, à marge apprimée contre les lames au début, translucide-triée à l'humidité, parfois appendiculée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de mai à octobre
   phialoconidies: 
-  pied: 
+  pied: 10-100 x 2-7 mm Ø, cylindrique, égale, parfois légèrement évasé à la base, sec, flexibles et fibreux, glabre, blanchâtre au-dessus, grisâtre pâle en dessous, devenant plus foncé, creux à maturité, généralement avec de fins rhizomorphes blanchâtres attachés à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,7 +239,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 

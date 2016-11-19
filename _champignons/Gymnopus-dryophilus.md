@@ -233,7 +233,8 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = absence à faiblement jaunâtre-olive sur la surface du chapeau
   receptacle: 
   remarques: 
   repartition: 
@@ -244,7 +245,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanc à crème ou blanc jaunâtre pâle
   spores: 
   spherocytes: 
   sporocystes: 

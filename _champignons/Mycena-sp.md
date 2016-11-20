@@ -31,7 +31,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: fertile
   arthroconidies: 
   articles: 
   ascome: 
@@ -42,8 +42,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes dont l'apex est parfois subcapité, 2-4 stérigmates, non bouclées à la base (22,3) 23,7 - 29 (29,9) × (4,5) 5,6 - 6,6 (6,7) µm
+  basidiospores: |
+    elliptiques à étroitement elliptiques vue frontal à elliptiques-larmiformes vue de profil, lisses, à paroi mince, avec appendice hilaire bien visible, à contenu granulé à variable, hyalines dans l’eau glycérinée 20%, inactives dans le melzer, fortement cyanophiles
+    (7,2) 7,6 - 9 (9,5) × (3,6) 3,7 - 4,1 (4,6) µm
+    Q = (1,9) 2 - 2,2 (2,3) ; N = 30
+    Me = 8,4 × 4 µm ; Qe = 2,1
+    (Piximètre: formule classique ; basidiospores mesurées dans E.G.20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -54,7 +59,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: nombreuses, sous la forme de diverticules, 2,1 - 5,27 (5,3) × 0,8 - 1,39 (1,4) µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +71,7 @@ description:
   chancre: 
   chapeau: 14 mm Ø, campanulé, brun noirâtre lorsque imbu, hygrophane, brun beige terne
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: de 3 types ; 1re type occasionnelles, cylindriques à étroitement claviformes parfois subcapitées (13,4) 14,5 - 26 (26,4) × (2,5) 2,6 - 5,1 (6) µm en moyenne, 2e type, rares, cylindriques dont l'apex est subcapité, ornées de nombreuses excroissances flexueuses 23 - 25,4 × (6,1) 6,14 - 6,5 µm en moyenne, 3e type, coralliformes, dont l'apex est orné de multiple excroissances 14 - 17,2 × 4,8 - 6,4 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,12 +213,12 @@ description:
   pied: 28 x 1 mm Ø, cylindrique, pruineux, dont le pied est radicant, crème avec reflet verdâtre, dont la base est plus foncé, reflets jaunâtre, non bulbeux
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, dont le suprapellis est formé d'hyphes ornées d'excroissances plus ou moins courts (diverticules), et d'un subpellis formé d'hyphes cylindriques
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: semblables au cheilocystides du 1er type, occasionnelles, cylindriques à étroitement claviformes dont l'apex est parfois subcapitées, rarement bifides, (17,1) 20,4 - 23,9 (26,1) × (2,4) 2,9 - 4,4 (6,6) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

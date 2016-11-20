@@ -234,7 +234,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = la chair devient bleu-vert foncé
+    KOH 10% = la chair devient vert foncé presque noir
     NH<SUB>4</SUB>OH 10% = la chair devient bleu-vert
   receptacle: 
   remarques: 

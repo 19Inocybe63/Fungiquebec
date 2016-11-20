@@ -254,7 +254,9 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Hygrophorus coccineocrenatus P.D. Orton, Transactions of the British Mycological Society 43 (2):262 (1960)
+    Pseudohygrocybe coccineocrenata (P.D. Orton) Kovalenko, Mikologiya i Fitopatologiya 22 (3):209 (1988)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

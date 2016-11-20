@@ -242,7 +242,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Consultation du site de Arne Aronsen. The Mycenas of Northern Europe ; A key to the Mycenas of Norway, http://www.mycena.no/
+  remarques: Consultation du site de Arne Aronsen. The Mycenas of Northern Europe ; A key to the Mycenas of Norway ; Key to the European members of section Fuliginellae ; http://www.mycena.no/
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

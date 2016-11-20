@@ -1,5 +1,5 @@
 ---
-nom: Mycena sp.
+nom: Mycena mackinawensis
 date: 2016-11-20 00:00:00
 image: https://c1.staticflickr.com/9/8269/30187682516_dd519e3805_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30187682516/in/photostream/
@@ -79,8 +79,8 @@ description:
   circumcystides: 
   clavules: 
   collection-confirmee-par: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
+  collection-determinee-par: 
+  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: |
     De Arne Aronsen. « I suspect it could be a member of sect. Fuliginellae. The cap is probably covered with a separable, gelatinous pellicle, and the gill edge should be covered by a gelatinous, elastic thread. »

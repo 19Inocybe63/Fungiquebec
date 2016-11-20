@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 5-25 mm Ø, convexe puis déprimé au centre, rouge à rouge orangé
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistinctes, douces
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: décurrentes, jaune pâle à crème
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 30-50 x 1-4 mm Ø, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, occasionnellement formé d'hyphes apprimées ± dressées, sans subpellis différencié
@@ -243,7 +243,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistinctes, douces
   sclerocystides: 
   sclerote: 
   soies: 

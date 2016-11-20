@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: cKc0589
       date: 9 octobre 2016
-  numero-de-planche-micrographique: 
+  numero-de-planche-micrographique: cKc0589-0143
 
 description:
   acanthocytes: 

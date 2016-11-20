@@ -82,7 +82,8 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Arne Aronsen. I suspect it could be a member of sect. Fuliginellae. The cap is probably covered with a separable, gelatinous pellicle, and the gill edge should be covered by a gelatinous, elastic thread.
   conidies: 
   conidiome: 
   conidiophores: 

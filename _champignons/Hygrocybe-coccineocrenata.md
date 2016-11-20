@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur sol des forêts et milieux humides
   boucles: observées dans le pileipellis et dans la trame lamellaire
   brachybasidioles: 
   calicule: 

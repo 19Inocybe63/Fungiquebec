@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/15693046389/in/photolist-pUJXXk-oXbQgR-oXbNkB
 
 details:
-  nom-francais: 
+  nom-francais: Hydne concrescent
   autorites: (Pers.) Banker
   ordre: Thelephorales
   famille: Bankeraceae

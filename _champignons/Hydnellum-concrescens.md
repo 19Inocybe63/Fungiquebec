@@ -84,7 +84,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: épais, rosâtre à brunâtre, souvent zoné d'orange brunâtre à brun rougeâtre foncé, coriace-fibreux, mais souple
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 20-40 mm x 5-20 mm Ø à l'apex, souvent gonflé et velouté ou spongieux, surtout vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 

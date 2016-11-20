@@ -266,7 +266,7 @@ description:
     Hydnellum parvum Banker, Mycologia 5 (4):200 (1913)
     Hydnum spathulatum Lloyd, Mycological Writings 6 (61):878 (1919)
     Hydnellum subsuccosum K.A. Harrison, Canadian Journal of Botany 42 (9):1228 (1964)
-  systeme-hyphal: 
+  systeme-hyphal: monomitique, hyphes génératrices du contexte piléique emmêlées sous la surface, parallèles plus en profondeur, non renflées, septées-simples, jusqu'à 5 µm Ø, avec hyphes gléoplères jusqu'à 6,3 µm Ø, hyphes du contexte caulinaire emmêlées sous la surface, parallèles au centre, septées-simples, jusqu'à 6,3 µm Ø, avec hyphes gléoplères jusqu'à 6,3 µm Ø, hyphes de la trame des aiguillons non renflées, septées-simples, jusqu'à 5 µm Ø
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 

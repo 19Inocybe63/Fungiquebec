@@ -43,7 +43,9 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    globuleuses à irrégulièrement subglobuleuses, gibbeuses en étoiles (noduleuses), à paroi mince, avec appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%
+    4-7 x 4-4,5 µm
   basidioles: 
   basidiome: 
   bibliographies: 

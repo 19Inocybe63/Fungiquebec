@@ -213,7 +213,7 @@ description:
   pied: 28 x 1 mm Ø, cylindrique, pruineux, dont le pied est radicant, crème avec reflet verdâtre, dont la base est plus foncé, reflets jaunâtre, non bulbeux
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, dont le suprapellis est formé d'hyphes ornées d'excroissances plus ou moins courts (diverticules), et d'un subpellis formé d'hyphes cylindriques
+  pileipellis: en cutis, dont le suprapellis est formé d'hyphes ornées d'excroissances plus ou moins courtes (diverticules), et d'un subpellis formé d'hyphes cylindriques
   pileitrame: 
   pileocystides: 
   plasmode: 

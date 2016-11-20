@@ -238,8 +238,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Smith, Alexander H. North American Species of Mycena, Ann Arbor; University of Michigan Press, London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
-  publications-microscopiques: 
+    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    Smith, Alexander H. North American Species of Mycena, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: Consultation du site de Arne Aronsen. The Mycenas of Northern Europe ; A key to the Mycenas of Norway ; Key to the European members of section Fuliginellae ; http://www.mycena.no/

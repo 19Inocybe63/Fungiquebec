@@ -9,9 +9,9 @@ etapes:
     numero: 1
     questions:
       -
-        question: Chapeau typiquement sillonné à maturité ; spores inamyloïdes
+        question: Chapeau typiquement sillonné à maturité, spores inactives dans le melzer
         reference: Sous-genre Amanita
       -
-        question: Chapeau typiquement non sillonné ; spores amyloïdes
+        question: Chapeau typiquement non sillonné, spores amyloïdes
         reference: Sous-genre Lepidella
 ---

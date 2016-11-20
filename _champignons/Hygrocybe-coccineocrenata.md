@@ -42,19 +42,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: subpiriformes à claviformes élancées, munies de longues stérigmates entre 6-10 µm de longueur, tétrastérigmates, bouclée à la base, 39,7 [49,9; 64] 74,2 x 12,3 [13,4; 14,9] 15,9 µm
+  basidiospores: |
+    elliptiques-ovoïdales vue frontale, largement elliptiques à elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, sans pore germinatif, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, cyanophiles
+    9,1 [10,1; 10,5] 11,4 x 6 [6,7; 6,9] 7,6 µm
+    Q = 1,4 [1,5] 1,7; N = 30; C = 95%
+    Me = 10,3 x 6,8 µm; Qe = 1,5
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées dans le pileipellis et dans la trame lamellaire
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,12 +212,12 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, occasionnellement formé d'hyphes apprimées ± dressées, sans subpellis différencié
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -248,15 +252,15 @@ description:
   spores: 
   spherocytes: 
   sporocystes: 
-  stipitipellis: 
+  stipitipellis: en cutis
   stipititrame: 
   stroma: 
   subhymenium: 
   subiculum: 
   substrat: 
   synonymie: |
-    Hygrophorus coccineocrenatus P.D. Orton, Transactions of the British Mycological Society 43 (2):262 (1960)
-    Pseudohygrocybe coccineocrenata (P.D. Orton) Kovalenko, Mikologiya i Fitopatologiya 22 (3):209 (1988)
+    Hygrophorus coccineocrenatus P. D. Orton, Transactions of the British Mycological Society 43 (2):262 (1960)
+    Pseudohygrocybe coccineocrenata (P. D. Orton) Kovalenko, Mikologiya i Fitopatologiya 22 (3):209 (1988)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

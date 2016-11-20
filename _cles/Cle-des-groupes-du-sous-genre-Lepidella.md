@@ -18,10 +18,10 @@ etapes:
     numero: 2
     questions:
       -
-        question: Pied sans anneau ; marge du chapeau entière ou sillonnée
+        question: Pied sans anneau, marge du chapeau entière ou sillonnée
         reference: Groupe Pseudovolvata
       -
-        question: Pied annelé ; marge du chapeau jamais sillonnée
+        question: Pied annelé, marge du chapeau jamais sillonnée
         reference: 3
   -
     numero: 3
@@ -36,10 +36,10 @@ etapes:
     numero: 4
     questions:
       -
-        question: Odeur désagréable d'eau croupie, d'eau de Javel ou de chlore citronné (évidente peu après la maturité) ; chapeau blanc à gris-brun pâle, toujours orné de nombreux granules ou de petites verrues coniques, à marge souvent appendiculée ; pied annelé ou non, parfois radicant, sans volve ; chair immuable
+        question: Odeur désagréable d'eau croupie, d'eau de Javel ou de chlore citronné (évidente peu après la maturité), chapeau blanc à gris-brun pâle, toujours orné de nombreux granules ou de petites verrues coniques, à marge souvent appendiculée, pied annelé ou non, parfois radicant, sans volve, chair immuable
         reference: Groupe Onusta
       -
-        question: Odeur nulle ou de pomme de terre crue ; chapeau blanc, jaune, orange vif ou brun-gris, nu ou orné de flocons ; pied annelé ; chair immuable, rougissante ou brunissante
+        question: Odeur nulle ou de pomme de terre crue, chapeau blanc, jaune, orange vif ou brun-gris, nu ou orné de flocons, pied annelé, chair immuable, rougissante ou brunissante
         reference: 5
   -
     numero: 5

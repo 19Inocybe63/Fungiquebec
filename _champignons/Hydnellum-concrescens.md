@@ -42,7 +42,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes, tétrastérigmates 3-5,5 µm de longueur, non bouclées à la base, 15-40 x 6-7 µm en moyenne
   basidiospores: |
     globuleuses à irrégulièrement subglobuleuses, gibbeuses en étoiles (noduleuses), à paroi mince, avec appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%
     4-7 x 4-4,5 µm

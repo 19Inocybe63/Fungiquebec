@@ -50,7 +50,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, dans le généralité des cas de forêts de conifères
-  boucles: 
+  boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 

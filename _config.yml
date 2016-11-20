@@ -132,8 +132,6 @@ champs-description:
     label: Hyménium
   - name: basidiome
     label: Basidiome
-  - name: aiguillons
-    label: Aiguillons
   - name: hymenophore
     label: Hyménophore
   - name: consistance
@@ -156,6 +154,8 @@ champs-description:
     label: Glèbe
   - name: chapeau
     label: Chapeau
+  - name: aiguillons
+    label: Aiguillons
   - name: cuticule
     label: Cuticule
   - name: face-poroïde

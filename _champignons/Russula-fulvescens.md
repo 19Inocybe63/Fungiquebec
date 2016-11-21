@@ -137,7 +137,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -190,7 +190,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, isolé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -204,7 +204,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 84 x 18 mm Ø, cylindrique, farci, blanc, l'intérieur se tâche légèrement de brun rougeâtre très pâle à la coupe
   pieds-steriles: 
@@ -236,8 +236,8 @@ description:
     Kibby, Geoffrey, Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> =  Stipe rosé (3 = moyenne)
-    Soluté de gaïac = >5" Stipe + (1 = faible) ; < 5" Lames ++ (3 = moyenne)
+    FeSO<SUB>4</SUB> =  stipe rosé (3 = moyenne)
+    Soluté de gaïac = >5" stipe + (1 = faible) ; < 5" lames ++ (3 = moyenne)
   receptacle: 
   remarques: 
   repartition: 

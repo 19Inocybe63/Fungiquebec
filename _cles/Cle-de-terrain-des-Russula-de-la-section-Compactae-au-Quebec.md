@@ -48,6 +48,6 @@ etapes:
         question: Lames beige rosé pâle chez les jeunes, odeur nette de moisi (lie de vin, cave humide, etc.), rougissement lent et peu marqué avant le noircissement, seulement avec conifères
         reference: Russula adusta
       -
-        question: Lames crème chez les jeunes, odeur faible, rougissement plus net que chez l'espèce précédente, avec feuillus ou conifères, (ce taxon est multispécifique en Amérique du Nord)
+        question: Lames crème chez les jeunes, odeur faible, rougissement plus net que chez l'espèce précédente, avec feuillus ou conifères (ce taxon est multispécifique en Amérique du Nord)
         reference: Russula densifolia s. l.
 ---

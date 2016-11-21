@@ -150,6 +150,8 @@ champs-description:
     label: Péridium
   - name: glebe
     label: Glèbe
+  - name: pseudocolumelle
+    label: Pseudocolumelle
   - name: chapeau
     label: Chapeau
   - name: aiguillons
@@ -577,8 +579,6 @@ champs-description:
     label: Plasmode
   - name: pseudocapillitium
     label: Pseudocapillitium
-  - name: pseudocolumelle
-    label: Pseudocolumelle
   - name: pseudocystides
     label: Pseudocystides
   - name: pseudo-peridioles

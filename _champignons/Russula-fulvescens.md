@@ -237,7 +237,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: |
     FeSO<SUB>4</SUB> =  stipe rosé (3 = moyenne)
-    Soluté de gaïac = >5" stipe + (1 = faible) ; < 5" lames ++ (3 = moyenne)
+    Soluté de gaïac = > 5" stipe + (1 = faible) ; < 5" lames ++ (3 = moyenne)
   receptacle: 
   remarques: 
   repartition: 

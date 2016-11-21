@@ -132,6 +132,8 @@ champs-description:
     label: Hyménium
   - name: basidiome
     label: Basidiome
+  - name: sac-sporifere
+    label: Sac sporifère
   - name: hymenophore
     label: Hyménophore
   - name: consistance
@@ -587,8 +589,6 @@ champs-description:
     label: Réceptacle
   - name: rhizomorphes
     label: Rhizomorphes
-  - name: sac-sporifere
-    label: Sac sporifère
   - name: sclerocystides
     label: Sclérocystides
   - name: sclerote

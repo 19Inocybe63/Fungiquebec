@@ -1,8 +1,8 @@
 ---
 nom: Lycoperdon perlatum
 date: 2016-11-21 00:00:00
-image: https://c2.staticflickr.com/4/3879/15351925242_5ef1034bce_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/15351925242/in/photolist-MytMMk-p786Ec-poACwf
+image: https://c1.staticflickr.com/3/2946/15165489459_e68be80594_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/15165489459/in/photolist-p786Ec-poACwf/
 album-flickr:
   - 72157675570525760
 planches:

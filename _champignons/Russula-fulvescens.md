@@ -248,7 +248,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ochrosporée IIIa-IIIb, d'après la charte de cuoleur de Romagnesi et D-E d'après la charte de couleur de Kibby
+  sporee: ochrosporée IIIa-IIIb, d'après la charte de couleur de Romagnesi et D-E d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

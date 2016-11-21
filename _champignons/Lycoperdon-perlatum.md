@@ -10,16 +10,18 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Vesse-de-loup perlée
   autorites: Pers.
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lycoperdon
   espece: perlatum
-  litterature: 1. Kim, C.S ; Jo, J. W. ; Kwag, Y.M. ; Sung, G.H. ; Han, J.G. ; Shrestha, B. ; Oh, S.O. ; Kim, S.Y. ; Shin, C.H. ; Han, S.K. 2016. Two new Lycoperdon species collected from Korea; L. albiperidium and L. subperlatum spp. nov. Phytotaxa. 260(2):101-115 ; 2. Persoon, C.H. 1796. Observationes mycologicae. 1:1-116
+  litterature: Persoon, C.H. 1796. Observationes mycologicae. 1:1-116
   fongariums:
-    - fongarium: 
-      date: 
+    - fongarium: cKc0270
+      date: 25 septembre 2014
+    - fongarium: cKc0566
+      date: 24 septembre 2016
   numero-de-planche-micrographique: 
 
 description:
@@ -47,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, humus et litière des forêts de feuillus ou conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -136,7 +138,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -189,7 +191,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé, grégaire ou cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

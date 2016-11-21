@@ -154,6 +154,8 @@ champs-description:
     label: Glèbe
   - name: pseudocolumelle
     label: Pseudocolumelle
+  - name: capillitium
+    label: Capillitium
   - name: chapeau
     label: Chapeau
   - name: aiguillons
@@ -407,8 +409,6 @@ champs-description:
     label: Brachybasidioles
   - name: calicule
     label: Calicule
-  - name: capillitium
-    label: Capillitium
   - name: cellules-hymeniales-diverticulees
     label: Cellules hyméniales diverticulées
   - name: cellules-hymeniales-en-brosses

@@ -53,7 +53,7 @@ description:
   boucles: 
   brachybasidioles: 
   calicule: 
-  capillitium: de type Lycoperdon, élastique, lisse ou peu bosselé, souvent avec pores abondants en périphérie de la glèbe, 25-70 µm Ø
+  capillitium: 
   capitule: 
   caulobasides: 
   caulocystides: 

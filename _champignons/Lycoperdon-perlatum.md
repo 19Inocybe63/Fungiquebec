@@ -16,8 +16,7 @@ details:
   famille: Agaricaceae
   genre: Lycoperdon
   espece: perlatum
-  litterature: 1. Kim, C.S ; Jo, J. W. ; Kwag, Y.M. ; Sung, G.H. ; Han, J.G. ; Shrestha, B. ; Oh, S.O. ; Kim, S.Y. ; Shin, C.H. ; Han, S.K. 2016. Two new Lycoperdon species collected from Korea; L. albiperidium and L. subperlatum spp. nov. Phytotaxa. 260(2):101-115
-2. Persoon, C.H. 1796. Observationes mycologicae. 1:1-116
+  litterature: 1. Kim, C.S ; Jo, J. W. ; Kwag, Y.M. ; Sung, G.H. ; Han, J.G. ; Shrestha, B. ; Oh, S.O. ; Kim, S.Y. ; Shin, C.H. ; Han, S.K. 2016. Two new Lycoperdon species collected from Korea; L. albiperidium and L. subperlatum spp. nov. Phytotaxa. 260(2):101-115 ; 2. Persoon, C.H. 1796. Observationes mycologicae. 1:1-116
   fongariums:
     - fongarium: 
       date: 

@@ -48,7 +48,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol sous conifères
+  biotopes: pousse au sol sous sapins et épinettes mélangés de bouleaux et de trembles, en milieux plutôt sablonneux
   boucles: 
   brachybasidioles: 
   calicule: 

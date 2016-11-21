@@ -47,13 +47,13 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: 20-100 mm Ø, 15-90 mm Ø, subglobuleux, piriforme à turbiné, ± mamelonné au sommet, avec base stipitiforme bien développée, abruptement atténuée, occupant la demi ou plus du basidiome, souvent persistant, souvent plissé à sillonné sous la tête, à exopéridium avec épines de deux types, coniques-obtuses, 1-2 mm de hauteur, solitaires, plus grosses et nombreuses vers l'apex, molles, labiles et laissant des cicatrices rondes et pâles à la disparition, espacées de nombreuses épines, verrues ou granules plus petits, peu visibles, persistantes, la base étant ornée de plus petits aiguillons encore, blancs puis crème, jaune-brun ou brun foncé
   bibliographies: 
   biotopes: pousse au sol, humus et litière des forêts de feuillus ou conifères
   boucles: 
   brachybasidioles: 
   calicule: 
-  capillitium: 
+  capillitium: de type Lycoperdon, élastique, lisse ou peu bosselé, souvent avec pores abondants en périphérie de la glèbe, 25-70 µm Ø
   capitule: 
   caulobasides: 
   caulocystides: 
@@ -75,7 +75,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
@@ -139,7 +139,7 @@ description:
   fongarium:
   fragments-sporaux: 
   frequence: commun
-  glebe: 
+  glebe: ferme et blanche au début, poudreuse et jaune-brun à brun olive à maturité
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -230,7 +230,7 @@ description:
   pores: 
   premiere-mention: 
   pseudocapillitium: 
-  pseudocolumelle: 
+  pseudocolumelle: distincte
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
@@ -240,7 +240,7 @@ description:
   remarques: 
   repartition: 
   rhizomorphes: 
-  sac-sporifere: 
+  sac-sporifere: à endopéridium irrégulièrement aréolé-réticulé après la perte des aiguillons, puis sublisse, membraneux, tenace, surtout vers l'apex, crème puis brunâtre, s'ouvrant par un grand pore apical irrégulier et étoilé, avec sous-glèbe brun olive ou brun chocolat à maturité, avec logettes assez grandes, jusqu'à 1 mm de largeur
   saveur: 
   sclerocystides: 
   sclerote: 

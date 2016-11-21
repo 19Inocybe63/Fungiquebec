@@ -45,9 +45,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: 20-50 mm de hauteur, 15-45 mm Ø, piriforme, subglobuleux, ovoïde, ogival à submamelonné au-dessus, parfois plissé à la jonction de la partie élargie et la base stipitiforme atténuée qui est petite à proéminente selon la forme du basidiome, avec nombreux rhizomorphes distincts, tenaces et blancs, souvent radiants d'une base à l'autre, à exopéridium pâle puis brun fauvâtre, typiquement brun rouille plus foncé avec l'âge, parfois jaunâtre, lisse ou avec quelques petites épines dispersées au-dessus au début, puis se brisant par plaques aréolées plus foncées qui se divisent en plus petites unités qui deviennent de fins granules ou écailles polygonales au sec, relativement rugueux et persistants
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois pourri, débris ligneux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -73,7 +73,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
@@ -137,7 +137,7 @@ description:
   fongarium:
   fragments-sporaux: 
   frequence: 
-  glebe: 
+  glebe: blanche et ferme au début, puis jaune verdâtre et spongieuse, brun olive et poudreuse à maturité
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -228,17 +228,19 @@ description:
   pores: 
   premiere-mention: 
   pseudocapillitium: 
-  pseudocolumelle: 
+  pseudocolumelle: bien formée
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Pegler, D. N., Laessøe, T., Spooner, B. M. British Puffballs Earthstars and Stinkhorns; An account of the British Gasteroid Fungi, Royal Botanic Gardens, Kew, 1995, 145 p.
+    Smith, Alexander H. Puffballs and their allies in Michigan, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
-  sac-sporifere: 
+  sac-sporifere: à endopéridium papyracé, ferme, lisse, blanchâtre puis brun-jaune, s'ouvrant par un grand pore apical souvent irrégulier et tardif, avec sous-glèbe spongieuse, constamment blanche à maturité, à chambres très petites
   saveur: 
   sclerocystides: 
   sclerote: 

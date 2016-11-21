@@ -15,7 +15,7 @@ details:
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
-  espece: sp.
+  espece: mackinawensis
   litterature: 
   fongariums:
     - fongarium: cKc0589

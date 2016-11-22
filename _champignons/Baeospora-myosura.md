@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/8676927112/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
 
 details:
-  nom-francais: Collybie queue-de-souris
+  nom-francais: Collybie queue de souris
   autorites: (Fr.) Singer
   ordre: Agaricales
   famille: Marasmiaceae

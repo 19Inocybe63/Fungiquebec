@@ -52,7 +52,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sur débris ligneux de feuillus, en milieux humides des forêts ou des parcs
-  boucles: très petites observées dans le pileipellis, dans le voile partiel et dans la trame lamellaire
+  boucles: très petites, et observées dans le pileipellis, dans le voile partiel et dans la trame lamellaire
   brachybasidioles: 
   calicule: 
   capillitium: 

@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Mycene delicate
+  nom-francais: Mycene délicate
   autorites: (Pers.) Fayod
   ordre: Agaricales
   famille: Tricholomataceae

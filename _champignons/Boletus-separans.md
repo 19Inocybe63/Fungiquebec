@@ -76,7 +76,7 @@ description:
   cellules-stromatiques: 
   chair: crème pâle, immuable, rougeâtre près de la cuticule
   chancre: 
-  chapeau: 60-150 (180) mm Ø, convexe, convexe à étalé à maturité, cuticule un peu collante lorsque imbue, glabre avec l'âge rouge foncé mat vivre brun, ou baie-brun, avec une voile ochracé près de la marge
+  chapeau: 60-180 mm Ø, convexe, convexe à étalé à maturité, cuticule un peu collante lorsque imbue, glabre avec l'âge rouge foncé mat vivre brun, ou baie-brun, avec une voile ochracé près de la marge
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 

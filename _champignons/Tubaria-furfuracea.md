@@ -18,6 +18,8 @@ details:
   espece: furfuracea
   litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. :177-560
   fongariums:
+    - fongarium: sans numéro
+      date: 7 octobre 2012
     - fongarium: cKc0039
       date: 18 mai 2013
   numero-de-planche-micrographique: 

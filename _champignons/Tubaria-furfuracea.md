@@ -44,7 +44,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à cylindriques-claviformes, tétrastérigmates, bouclées à la base, 22-27 x 6-8 µm
   basidiospores: |
-    ellipsoïdes à ellipsoïdes-subcylindriques, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, parfois biguttulé, avec granulations, hyalines dans le NaCl iso 0.9%, inactives dans le melzer
+    ellipsoïdes à ellipsoïdes-subcylindriques, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, parfois biguttulé, avec granulations, hyalines dans le NaCl iso 0,9%, inactives dans le melzer
     6,9 [7,6; 7,9] 8,6 x 4,1 [4,6; 4,9] 5,5 µm
     Q = 1,4 [1,6; 1,7] 1,9; N = 33; C = 95%
     Me = 7,7 x 4,8 µm; Qe = 1,6

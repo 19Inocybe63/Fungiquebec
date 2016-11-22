@@ -13,7 +13,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Tricholome guêtré
+  nom-francais: Tricholome guêtré ou Tricholome chaussé
   autorites: (Viviani) Ricken
   ordre: Agaricales
   famille: Tricholomataceae

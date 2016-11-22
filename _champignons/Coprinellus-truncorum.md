@@ -13,7 +13,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Coprin des troncs
+  nom-francais: Coprin des troncs ou Coprin micacé à pied lisse
   autorites: (Scop.) Redhead, Vilgalys & Moncalvo
   ordre: Agaricales
   famille: Psathyrellaceae

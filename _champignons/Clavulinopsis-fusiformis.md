@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/27074039690/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
 
 details:
-  nom-francais: Clavaire fusiforme
+  nom-francais: Clavaire en fuseau
   autorites: (Sowerby) Corner
   ordre: Agaricales
   famille: Clavariaceae

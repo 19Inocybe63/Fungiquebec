@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 
+  chapeau: 40-140 mm Ø, globuleux à convexe puis étalé, blanc, orné de nombreuses petites verrues coniques, à marge incurvée, unie, souvent appendiculée de restes vélaires fibrilleux blancs au début, s'étendant comme une bande étroite au au-delà des lames
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, 5-8,5 mm de largeur, plus larges vers la marge piléique, avec lamellules atténuées, serrées, blanches à crème rosé, à arêtes finement fimbriées, jaunissant légèrement avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 60-160 x 7-20 mm Ø, largement bulbeux-marginé, ± fibrilleux-squamuleux, blanc, souvent orné de bandelettes écailleuses, annelé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -269,8 +269,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: friable, blanc, laissant des verrues coniques sur le chapeau et parfois des squamules à la base du pied, facilement laissées dans le substrat lors de la récolte, et/ou de minces crêtes et cercles sur le bord supérieur du bulbe
+  voile-partiel: membraneux, blanc, laissant un anneau subapical à supère sur le pied, ample, pendant, assez épais, à marge épaissie, striée au-dessus, feutré et souvent relié à la surface inférieure du pied par de nombreuses fibrilles blanches au-dessous, et parfois des lambeaux à la marge du chapeau
   volve: 
   zone-perihymeniale: 
 ---

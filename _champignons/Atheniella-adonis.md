@@ -13,7 +13,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Mycene adonis ou Mycene jolie
   autorites: (Bull.) Redhead, Moncalvo, Vilgalys, Desjardin & B.A. Perry
   ordre: Agaricales
   famille: Marasmiaceae

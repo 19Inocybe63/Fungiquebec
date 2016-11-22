@@ -16,7 +16,7 @@ details:
   famille: Mycenaceae
   genre: Mycena
   espece: mackinawensis
-  litterature: 
+  litterature: Smith, A.H. 1953. New and rare agarics from the Douglas Lake region and Tahquamenon Falls State Park, Michigan, and an account of the North American species of Xeromphalina. Papers of the Michigan Academy of Sciences. 38:53-87
   fongariums:
     - fongarium: cKc0589
       date: 9 octobre 2016
@@ -78,9 +78,9 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
+  collection-determination-provisoire-par: 
   columelle: 
   commentaires: |
     De Arne Aronsen. « I suspect it could be a member of sect. Fuliginellae. The cap is probably covered with a separable, gelatinous pellicle, and the gill edge should be covered by a gelatinous, elastic thread. »

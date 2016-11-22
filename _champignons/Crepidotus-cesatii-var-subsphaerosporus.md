@@ -10,7 +10,7 @@ planches:
     originale:  https://www.flickr.com/photos/kaufholtz/8237367497/in/photolist-dxUEnx-djnDQP-dxXe3x
 
 details:
-  nom-francais: 
+  nom-francais: Crepidote à spores sphériques
   autorites: (J.E. Lange) Senn-Irlet
   ordre: Agaricales
   famille: Inocybaceae

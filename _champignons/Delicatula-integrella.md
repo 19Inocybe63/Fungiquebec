@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Mycène blanc pur
+  nom-francais: Mycene delicate
   autorites: (Pers.) Fayod
   ordre: Agaricales
   famille: Tricholomataceae

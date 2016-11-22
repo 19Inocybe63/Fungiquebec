@@ -13,7 +13,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Armillaire commun
+  nom-francais: Armillaire obscure ou Armillaire d'Ostoya
   autorites: (Romagn.) Herink
   ordre: Agaricales
   famille: Physalacriaceae

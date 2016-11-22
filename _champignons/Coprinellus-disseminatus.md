@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/14472358361/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
 
 details:
-  nom-francais: Coprin disséminé
+  nom-francais: Coprin disséminé ou Coprin grégaire
   autorites: (Pers.) J.E. Lange
   ordre: Agaricales
   famille: Psathyrellaceae

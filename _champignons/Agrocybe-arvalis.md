@@ -12,7 +12,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/16306622493/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
 
 details:
-  nom-francais: Agrocybe des champs
+  nom-francais: Agrocybe tubereux
   autorites: (Fr.) Singer
   ordre: Agaricales
   famille: Strophariaceae

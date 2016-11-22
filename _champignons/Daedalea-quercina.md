@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/15582860415/in/photolist-pK1eva-pyghih-pwfJKU
 
 details:
-  nom-francais: Dédalée du chêne
+  nom-francais: Dédalée du chêne ou Lenzite du chêne
   autorites: (L.) Pers.
   ordre: Polyporales
   famille: Fomitopsidaceae

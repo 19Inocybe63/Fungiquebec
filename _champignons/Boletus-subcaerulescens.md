@@ -13,7 +13,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Cèpe à pores bleuissants
   autorites: (E. A. Dick & Snell) Both, Bessette & A.R. Bessette
   ordre: Boletales
   famille: Boletaceae

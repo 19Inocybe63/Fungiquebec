@@ -235,7 +235,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Bresadola, Ab. Dr. J. Iconographia Mycologica, Vol. XVII (tab. 801-850), Naucoria, Pluteolus, Galera, Tubaria, Bolbitius, Psalliota, Clarkeinda, Stropharia, Hypholoma ; Società Botanica Italiana, 1931
+    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis ; Tapinia ; Paxillus ; Crepidotus ; Tubaria ; Galerula ; Naucoria ; Pluteolus ; Mycena ; Phylloprus ; Gymnopilus ; Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

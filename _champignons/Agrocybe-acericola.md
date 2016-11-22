@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/16853497745/in/photolist-nZyrDb-of4xZb-rFhzHk-eZZW13-eZKypD 
 
 details:
-  nom-francais: Agrocybe de l’érable
+  nom-francais: Agrocybe des érables
   autorites: (Peck) Singer
   ordre: Agaricales
   famille: Strophariaceae

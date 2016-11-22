@@ -83,7 +83,7 @@ description:
   collection-determination-provisoire-par: 
   columelle: 
   commentaires: |
-    De Arne Aronsen. « I suspect it could be a member of sect. Fuliginellae. The cap is probably covered with a separable, gelatinous pellicle, and the gill edge should be covered by a gelatinous, elastic thread. »
+    De Arne Aronsen. « I suspect it could be a member of sect. Fuliginellae. The cap is probably covered with a separable, gelatinous pellicle, and the gill edge should be covered by a gelatinous, elastic thread. » Voir aussi correspondance du 22 novembre 2016.
   conidies: 
   conidiome: 
   conidiophores: 
@@ -232,7 +232,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: 
+  premiere-mention: et première étude de cette espèce au Québec.
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

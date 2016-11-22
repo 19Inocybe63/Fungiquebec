@@ -13,7 +13,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Bolet à tubes détachés
   autorites: Peck
   ordre: Boletales
   famille: Boletaceae

@@ -11,7 +11,7 @@ planches:
 
 details:
   nom-francais: Tubaire furfuracé
-  autorites: (Fr.) Harmaja
+  autorites: (Pers.) Gillet
   ordre: Agaricales
   famille: Tubariaceae
   genre: Tubaria

@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/14182055182/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
 
 details:
-  nom-francais: Amanite farineuse
+  nom-francais: Amanite farineuse ou Amanite poudree de gris
   autorites: Schweinitz
   ordre: Agaricales
   famille: Amanitaceae

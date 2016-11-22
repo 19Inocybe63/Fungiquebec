@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Tubaire furfuracé
+  nom-francais: Tubaire commune
   autorites: (Pers.) Gillet
   ordre: Agaricales
   famille: Tubariaceae

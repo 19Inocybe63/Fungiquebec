@@ -45,7 +45,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, sessile ou avec une base atténuée, effusé-réfléchi, rarement résupiné, tenace et flexible au frais, subcoriace au sec
   bibliographies: 
   biotopes: 
   boucles: 
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: jusqu'à 100 mm de longueur, 20-50 mm de largeur, 5-10 mm d'épaisseur, dimidié, conchoïde à flabelliforme, hirsute à subglabre, zoné et sillonné concentriquement, blanchâtre, gris à brunâtre pâle, souvent verdâtre à brun verdâtre par les algues, à marge aiguë à obtuse, parfois ondulée à brisée, souvent pâle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -82,7 +82,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: duplexe ; 1) zone foncée séparant le tomentum piléique, mince, molle et spongieuse ; 2) partie inférieure subéreuse, brunâtre pâle jusqu'à 3 mm d'épaisseur au total
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -91,7 +91,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: continue et concolore au contexte inférieur, jusqu'à 10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -132,7 +132,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: ivoire à chamois pâle au début, plus foncée, grisâtre avec l'âge
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -225,7 +225,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: variables, ronds à la marge, allongés, sinueux, vite dédaloïdes et irpicoïdes vers la base, 3-4 par mm, plus grands par endroits, à dissépiments épais et fimbriés au début, minces et lacérés avec l'âge
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

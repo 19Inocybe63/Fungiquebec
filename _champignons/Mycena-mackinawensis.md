@@ -11,7 +11,7 @@ planches:
 
 details:
   nom-francais: 
-  autorites: 
+  autorites: A.H. Sm.
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena

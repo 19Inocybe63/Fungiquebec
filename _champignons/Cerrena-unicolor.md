@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: en amas imbriqués et confluents
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -245,7 +245,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: crème à blanchâtre
   spores: 
   spherocytes: 
   sporocystes: 

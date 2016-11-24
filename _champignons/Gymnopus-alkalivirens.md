@@ -236,7 +236,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = devient vert sur toutes le surfaces
+    KOH 10% = devient vert sur toutes les surfaces
   receptacle: 
   remarques: 
   repartition: 

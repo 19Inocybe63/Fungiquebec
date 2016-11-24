@@ -48,7 +48,7 @@ description:
     (7,2) 7,6 - 9 (9,5) × (3,6) 3,7 - 4,1 (4,6) µm
     Q = (1,9) 2 - 2,2 (2,3) ; N = 30
     Me = 8,4 × 4 µm ; Qe = 2,1
-    (Piximètre: formule classique ; basidiospores mesurées dans E.G.20%)
+    (Piximètre: formule classique ; basidiospores mesurées dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

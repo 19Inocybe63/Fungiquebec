@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur une souche pourrit de feuillu
+  biotopes: pousse sur souche pourrie de feuillu
   boucles: 
   brachybasidioles: 
   calicule: 

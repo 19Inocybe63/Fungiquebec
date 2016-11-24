@@ -82,7 +82,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De cKc. Il faut éviter d'inhaler les poussières laissées par les basidiospores. En trop grande quantité, une pneumonie inflammatoire peut se développer ; c'est la Lycoperdonosis. (Diaz, James H. Atlas of Human Poisoning and Envenoming, 2e Edition, 2015)
   conidies: 
   conidiome: 
   conidiophores: 

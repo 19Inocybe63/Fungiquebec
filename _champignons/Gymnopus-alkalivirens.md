@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur une souche pourrit de feuillu
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 10-14 mm Ø, brun foncé imbue, hygrophane, devenant rouille cannelle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -75,7 +75,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: échancrées, présence de lamelles et de lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -191,7 +191,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé, grégaire ou cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -205,9 +205,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: 25-28 x 1 mm Ø, brun foncé rougeâtre, radicant à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -235,18 +235,19 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = chapeau, pied et lames deviennent verts
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

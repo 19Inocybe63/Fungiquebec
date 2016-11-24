@@ -6,8 +6,8 @@ image-originale: https://www.flickr.com/photos/kaufholtz/29319616244/in/photolis
 album-flickr:
   - 72157676894618835
 planches:
-  - miniature: 
-    originale: 
+  - miniature: https://c2.staticflickr.com/6/5684/31218707835_7d444d5f9a_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31218707835/in/dateposted/
 
 details:
   nom-francais: Vesse-de-loup piriforme

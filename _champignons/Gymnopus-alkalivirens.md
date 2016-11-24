@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Collybie pourpée ; Collybie obscure
+  nom-francais: Collybie pourprée ; Collybie obscure
   autorites: (Singer) Halling
   ordre: Agaricales
   famille: Omphalotaceae

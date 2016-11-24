@@ -51,7 +51,7 @@ description:
   boucles: 
   brachybasidioles: 
   calicule: 
-  capillitium: 
+  capillitium: réseau d'hyphes stériles non septé, à paroi épaisse, parfois bosselé, ramifié, hyalines dans E.G. 10%, se colore dans la Phloxine B, 3-5 µm Ø
   capitule: 
   caulobasides: 
   caulocystides: 
@@ -126,10 +126,10 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
-  exoperidium: 
+  exoperidium: formé de sphérocystes (sphérocytes) irrégulièrement arrondis, bosselés, fusiformes à polygonales épineux
   extremites-hyphales: 
   face-externe: 
   face-poroïde: 
@@ -195,7 +195,7 @@ description:
   nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
-  paracapillitium: 
+  paracapillitium: souvent abondant, non bouclé, septé, à paroi mince, hyalines dans l’eau glycérinée 10%, ne se colore pas dans la Phloxine B, 2-5 μm Ø
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
@@ -241,7 +241,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: à endopéridium papyracé, ferme, lisse, blanchâtre puis brun-jaune, s'ouvrant par un grand pore apical souvent irrégulier et tardif, avec sous-glèbe spongieuse, constamment blanche à maturité, à chambres très petites
-  saveur: 
+  saveur: indistincte à fongique
   sclerocystides: 
   sclerote: 
   soies: 

@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: mince, très mince à la marge piléique, blanchâtre lavée de roux
   chancre: 
-  chapeau: 10-14 mm Ø, brun foncé imbue, hygrophane, devenant rouille cannelle
+  chapeau: 10-45 mm, convexe, devenant largement convexe à presque plat, avec une bosse centrale, parfois légèrement largement omboné, hygrophane, graisseux, glabre, parfois quelque peu ridée, brun foncé à brun foncé violacé, développant une marge pâle et finissant par se faner
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: fongique
+  exhalaison: indistincte à fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées, présence de lamelles et de lamellules
+  lames: échancrées à sublibres, présence de lamelles et de lamellules, brun moyen à brun pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 25-28 x 1 mm Ø, brun foncé rougeâtre, radicant à la base
+  pied: 30-80 mm x 4-5 mm Ø, cylindriques, plus ou moins égales, avec parfois une base légèrement gonflée et parfois subradicant, sec, glabre, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,7 +236,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = chapeau, pied et lames deviennent verts
+    KOH 10% = devient vert sur toutes le surfaces
   receptacle: 
   remarques: 
   repartition: 

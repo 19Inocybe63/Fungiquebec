@@ -1,8 +1,8 @@
 ---
 nom: Gymnopus alkalivirens
 date: 2016-11-24 00:00:00
-image: https://www.flickr.com/photos/kaufholtz/19122325155/sizes/l
-image-originale: https://www.flickr.com/photos/kaufholtz/19122325155/in/photolist-v8LV4i-uRjJmt-f17CQX-f17Acn
+image: https://c1.staticflickr.com/1/483/19122325155_2232868ca2_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/19122325155/in/photolist-v8LV4i-uRjJmt
 album-flickr:
   - 72157673024168473
 planches:

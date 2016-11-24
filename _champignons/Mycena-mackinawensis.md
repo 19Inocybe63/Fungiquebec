@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur débris ligneux de forêts mixtes
   boucles: 
   brachybasidioles: 
   calicule: 

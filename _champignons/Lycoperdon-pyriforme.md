@@ -42,8 +42,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: non observées
+  basidiospores: |
+    globuleuses, lisses à sublisses, à paroi mince à légèrement épaissie, sans pédicelle, à contenu uniguttulé à variable, hyalines à grisâtre pâle dans l’Eau glycérinée 20%, non cyanophiles
+    (3,4) 3,5 - 4 (4,1) × (3,3) 3,5 - 3,9 (4) µm
+    Q = 1 (1,1) ; N = 30
+    Me = 3,8 × 3,7 µm ; Qe = 1
+    (Piximètre; mesures dans E.G. 20%, avec collection déshydratée)
   basidioles: 
   basidiome: 20-50 mm de hauteur, 15-45 mm Ø, piriforme, subglobuleux, ovoïde, ogival à submamelonné au-dessus, parfois plissé à la jonction de la partie élargie et la base stipitiforme atténuée qui est petite à proéminente selon la forme du basidiome, avec nombreux rhizomorphes distincts, tenaces et blancs, souvent radiants d'une base à l'autre, à exopéridium pâle puis brun fauvâtre, typiquement brun rouille plus foncé avec l'âge, parfois jaunâtre, lisse ou avec quelques petites épines dispersées au-dessus au début, puis se brisant par plaques aréolées plus foncées qui se divisent en plus petites unités qui deviennent de fins granules ou écailles polygonales au sec, relativement rugueux et persistants
   bibliographies: 

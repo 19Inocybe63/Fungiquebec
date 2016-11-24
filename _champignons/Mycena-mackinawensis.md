@@ -142,7 +142,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: donnée inconnue pour le moment
+  frequence: donnée inconnue
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

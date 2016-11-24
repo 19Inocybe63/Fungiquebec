@@ -21,7 +21,7 @@ details:
     - fongarium: cKc0059
       date: 1 juillet 2013
     - fongarium: cKc0324
-      date:24 juin 2015
+      date: 24 juin 2015
   numero-de-planche-micrographique: 
 
 description:

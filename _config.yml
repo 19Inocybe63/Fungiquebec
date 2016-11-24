@@ -248,6 +248,10 @@ champs-description:
     label: Basides
   - name: basidiospores
     label: Basidiospores
+  - name: paracapillitium
+    label: Paracapillitium
+  - name: exoperidium
+    label: Exopéridium
   - name: conidiophores
     label: Conidiophores
   - name: conidies
@@ -495,8 +499,6 @@ champs-description:
     label: Espèces Identification
   - name: especes-semblables
     label: Espèces semblables
-  - name: exoperidium
-    label: Exopéridium
   - name: feutrage-basal
     label: Feutrage basal
   - name: fongarium
@@ -561,8 +563,6 @@ champs-description:
     label: Note taxonomique
   - name: oeuf
     label: Oeuf
-  - name: paracapillitium
-    label: Paracapillitium
   - name: parasite
     label: Parasite
   - name: paroi-peritheciale

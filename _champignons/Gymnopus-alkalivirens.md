@@ -64,7 +64,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, très mince à la marge piléique, blanchâtre lavée de roux
   chancre: 
   chapeau: 10-14 mm Ø, brun foncé imbue, hygrophane, devenant rouille cannelle
   cheilochrysocystides:

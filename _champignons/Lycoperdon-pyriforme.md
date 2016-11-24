@@ -251,7 +251,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun olivâtre
   spores: 
   spherocytes: 
   sporocystes: 

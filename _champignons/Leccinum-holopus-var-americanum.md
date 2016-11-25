@@ -44,8 +44,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes à largement clavées, tétrastérigmates, non bouclées à la base, 18,1 [24,8; 30,5] 37,2 x 8,1 [10; 11,7] 13,6 µm en moyenne
+  basidiospores: |
+    cylindriques à bacilliformes vue de profil, fusiformes vue frontale, lisses, à paroi mince jusqu’à 0,27 μm, avec appendice hilaire et une dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    14,9 [16,9; 17,8] 19,8 x 5,1 [5,5; 5,7] 6,2 µm
+    Q = 2,7 [3; 3,1] 3,5; N = 30; C = 95%
+    Me = 17,3 x 5,6 µm; Qe = 3,1
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -55,8 +59,8 @@ description:
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: 
-  caulocystides: 
+  caulobasides: présentes
+  caulocystides: fusiformes, clavées à cylindriques, avec parfois un apex flexueux, 23,3 [23,6; 24,4] 24,7 x 6 [6,7; 8,8] 9,6 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -146,9 +150,9 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: 
+  hymenocystides: abondantes, lagéniformes à fusiformes, 33,6 [39; 49,7] 55,1 x 6 [6,7; 7,9] 8,5 µm, en moyenne
   hymenophore: 
-  hyphes: 
+  hyphes: du pileipellis à pigmentation brunâtre
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -210,7 +214,7 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, parfois même en ixocutis, formée d’éléments cylindriques, 14,5 [26; 81,9] 93,4 (100+) x 3 [3,3; 4,6] 4,9 µm, parfois avec des hyphes pigmentées brunâtre, 5-7 µm de largeur en moyenne, de longueur variable 69,1 μm et +
   pileitrame: 
   pileocystides: 
   plasmode: 

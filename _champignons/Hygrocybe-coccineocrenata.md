@@ -235,7 +235,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Boertmann, David. The genus Hygrocybe, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

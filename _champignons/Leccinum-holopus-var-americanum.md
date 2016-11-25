@@ -46,7 +46,7 @@ description:
   base-stipitiforme: 
   basides: piriformes à largement clavées, tétrastérigmates, non bouclées à la base, 18,1 [24,8; 30,5] 37,2 x 8,1 [10; 11,7] 13,6 µm en moyenne
   basidiospores: |
-    cylindriques à bacilliformes vue de profil, fusiformes vue frontale, lisses, à paroi mince jusqu’à 0,27 μm, avec appendice hilaire et une dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    cylindriques à bacilliformes vue de profil, fusiformes vue frontale, lisses, à paroi mince jusqu’à 0,27 µm, avec appendice hilaire et une dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     14,9 [16,9; 17,8] 19,8 x 5,1 [5,5; 5,7] 6,2 µm
     Q = 2,7 [3; 3,1] 3,5; N = 30; C = 95%
     Me = 17,3 x 5,6 µm; Qe = 3,1

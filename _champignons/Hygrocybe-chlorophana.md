@@ -42,13 +42,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes à claviformes, tétrastérigmates de longueurs 3,3-5,8 µm en moyenne, bouclées à la base 33,1 [38,3; 41,9] 47,1 x 6,6 [8,2; 9,3] 10,9 µm
+  basidiospores: |
+    elliptiques-ovoïdales vue frontale, largement elliptiques à elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, sans pore germinatif, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, cyanophiles
+    7,6 [8,1; 8,3] 8,8 x 4,5 [5; 5,3] 5,8 µm
+    Q = 1,4 [1,6] 1,8; N = 30; C = 95%
+    Me = 8,2 x 5,2 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol de forêts de feuillus et mixte
-  boucles: 
+  boucles: observées dans le pileipellis et dans le stipe
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 20-60 mm Ø, convexe puis étalé, viscidule, lisse, jaune citron foncé à orange vif, parfois plus jaune orangé au centre, demeurant jaune foncé avec l'âge et au sec, à marge parfois translucide-striée
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,12 +212,12 @@ description:
   pied: 20-70 x 3-10 nm Ø, égal, parmi comprimé, creux, lisse, viscidule, vite sec, concolore au chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en trichoderme avec subpellis non différencié
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -248,8 +252,8 @@ description:
   spores: 
   spherocytes: 
   sporocystes: 
-  stipitipellis: 
-  stipititrame: 
+  stipitipellis: constitué de terminaisons hyphales légèrement émergentes, cylindriques
+  stipititrame: formé d'hyphes parallèles
   stroma: 
   subhymenium: 
   subiculum: 

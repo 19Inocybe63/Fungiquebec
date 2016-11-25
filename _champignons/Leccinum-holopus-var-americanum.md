@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, rougissant lentement à la coupe, surtout à l'apex du pied, parfois aussi grisonnante
   chancre: 
-  chapeau: 
+  chapeau: 40-100 mm Ø, convexe puis largement convexe à subétalé, souvent visqueux avec l'âge ou à l'humidité, glabre ou presque, blanchâtre ou brunâtre, devenant souvent verdâtre avec l'âge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -138,7 +138,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanchâtre, brunissant à maturité, parfois ornée de minuscules taches bleu-vert, brunissant au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 

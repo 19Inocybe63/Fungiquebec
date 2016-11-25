@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol de forêts de feuillus et mixte
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fragile, jaunâtre
   chancre: 
-  chapeau: 
+  chapeau: 20-60 mm Ø, convexe puis étalé, viscidule, lisse, jaune citron foncé à orange vif, parfois plus jaune orangé au centre, demeurant jaune foncé avec l'âge et au sec, à marge parfois translucide-striée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: douce
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées puis émarginées, étroites vers la marge piléique, subespacées, blanchâtres à jaunâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: 20-70 x 3-10 nm Ø, égal, parmi comprimé, creux, lisse, viscidule, vite sec, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,12 +239,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spores: 
   spherocytes: 
   sporocystes: 

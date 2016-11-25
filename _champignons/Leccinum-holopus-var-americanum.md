@@ -256,7 +256,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Krombholziella americana (A.H. Sm. & Thiers) utara, Ceská Mykologie 36 (2):81 (1982)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

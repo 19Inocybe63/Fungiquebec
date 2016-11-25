@@ -1,8 +1,8 @@
 ---
 nom: Leccinum holopus var. americanum
 date: 2016-11-25 00:00:00
-image: https://c2.staticflickr.com/4/3840/15372936872_5d4053be52_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/15372936872/in/photolist-qoBpfU-p8YGN4-pqsjxJ
+image: https://c2.staticflickr.com/4/3894/15353097812_268277f7f5_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/15353097812/in/photolist-pmGdss-poGD5Y
 album-flickr:
   - 72157675717994590
 planches:

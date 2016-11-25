@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 60-140 mm x 10-23 mm Ø, cylindrique, égal à subclaviforme, blanchâtre, scabreux avec de fines rugosités blanchâtres qui deviennent brun grisâtre à noirâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, parfois même en ixocutis, formée d’éléments cylindriques, 14,5 [26; 81,9] 93,4 (100+) x 3 [3,3; 4,6] 4,9 µm, parfois avec des hyphes pigmentées brunâtre, 5-7 µm de largeur en moyenne, de longueur variable 69,1 μm et +

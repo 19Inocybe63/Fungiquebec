@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: étroitement adnées à emarginées, étroite, 2-6 mm de large, beige-jaune à jaune lorsque jeune, puis jaune-cannelle à brun, avec bord ondulé irrégulier, finement blanchâtre, pruinose
+  lames: étroitement adnées à émarginées, étroite, 2-6 mm de large, beige jaune à jaune lorsque jeune, puis jaune cannelle à brun, avec bord ondulé irrégulier, finement pruineuse, blanchâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

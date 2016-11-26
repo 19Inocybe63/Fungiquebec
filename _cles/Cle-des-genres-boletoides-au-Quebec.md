@@ -2,7 +2,7 @@
 nom: Clé des genres bolétoïdes au Québec
 date: 2016-11-26 00:00:00
 author: Yves Lamoureux
-source: Édition à compte d'auteur, 2000
+source: Édition à compte d'auteur
 
 etapes:
   -

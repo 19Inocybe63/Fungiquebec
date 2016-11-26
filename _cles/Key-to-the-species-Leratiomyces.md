@@ -37,7 +37,7 @@ etapes:
     questions:
       -
         question: Large species, pileus 25-80 mm broad, pale brown, yellow-brown, or orange-ochraceous, growing on woodchips etc., spores (12.5-) 13.0-16.0 (-16.6) x 7.0-9.0 μm, oval in profile view, with distinctly eccentric germ-pore
-        reference: Leratiomyces riparius
+        reference: Leratiomyces riparius (L. percevalii in the original edition)
       -
         question: Small species, pileus 10-30 mm broad, bright yellow, growing on grass remnants in grasslands and open, ruderal places, spores 10.0-14.0 x 7.0-9.0 x 6.0-8.0 μm, flattened, sometimes hexagonal in profile view with central germ-pore
         reference: Leratiomyces laetissimus

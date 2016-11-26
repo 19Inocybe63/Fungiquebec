@@ -10,13 +10,13 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/8448598190/in/photolist-dSzgU3-dSdVfD-dSetnA-dS8T3P-dS8T16
 
 details:
-  nom-francais: 
+  nom-francais: Pholiote adipo-squarreuse
   autorites: (Peck) Sacc.
-  ordre: 
-  famille: 
+  ordre: Agaricales
+  famille: Strophariaceae
   genre: Pholiota
   espece: limonella
-  litterature: 
+  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
   fongariums:
     - fongarium: cKc0026
       date: 20 septembre 2012
@@ -73,7 +73,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
@@ -254,7 +254,13 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Agaricus limonellus Peck, Annual Report on the New York State Museum of Natural History 31:33 (1878)
+    Pholiota subsquarrosa var. limonella (Peck) Rick, Lilloa 3:405 (1938)
+    Pholiota abietis A.H. Sm. & Hesler, The North American species of Pholiota:218 (1968)
+    Pholiota connata A.H. Sm. & Hesler, The North American species of Pholiota:213 (1968)
+    Pholiota subvelutipes A.H. Sm. & Hesler, The North American species of Pholiota:217 (1968)
+    Pholiota ceriferoides P.D. Orton, Transactions of the British Mycological Society 91 (4):565 (1988)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

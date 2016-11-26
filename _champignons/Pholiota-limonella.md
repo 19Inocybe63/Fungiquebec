@@ -68,7 +68,8 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: convexe, visqueux, avec méchules dispersées à subdressées brunes à rougeâtres sur fond jaunâtre ;
+Lames adnées-sinuées, étroites, serrées, blanchâtres à jaunâtres
   cheilochrysocystides:
   cheilocystides: polymorphes, piriformes à largement clavées, lagéniformes, parfois cylindriques dont l’apex est courbé et légèrement diverticulées à déformées, rarement cylindriques à l’apex capitées
   cheiloleptocystides: 
@@ -209,7 +210,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: 40-70 x 7-10 mm Ø, égal, lisse et crème jaunâtre au-dessus de la zone annuliforme, avec écailles dispersées récurvées pâles ou jaunâtres sur fond jaune-brun au-dessous
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -248,7 +249,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spores: 
   spherocytes: 
   sporocystes: 
@@ -276,7 +277,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: fibrilleux, jaune, laissant une zone annuliforme distincte, évanescent
   volve: 
   zone-perihymeniale: 
 ---

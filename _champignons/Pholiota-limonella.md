@@ -42,19 +42,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: cylindriques à l’apex légèrement piriforme, à tétrastérigmates, bouclées à la base, 23,2 x 7,4 µm en moyenne
+  basidiospores: |
+    obovoïdes, ellipsoïdes à oblongues, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, très finement apiculé, pore germinatif indistinct, à contenu uniguttulé à variable, jaunâtre dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    6,7 [7,4; 7,6] 8,3 x 4,3 [4,6; 4,7] 5 µm
+    Q = 1,4 [1,6; 1,7] 1,8; N = 38; C = 95%
+    Me = 7,5 x 4,6 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
-  boucles: 
+  biotopes: pousse sur bois vivant ou pourri de feuillus, parfois dans les blessures
+  boucles: observées dans la chair du pileipellis, la trame lamellaire et dans la chair du stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: polymorphes, piriformes à largement clavées, lagéniformes, parfois cylindriques dont l’apex est courbé et légèrement diverticulées à déformées, rarement cylindriques à l’apex capitées
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -136,7 +140,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -146,7 +150,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: du pileipellis à pigmentations intramembranaires brun rouille
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -189,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,17 +207,17 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis
   pileitrame: 
-  pileocystides: 
+  pileocystides: absentes
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: polymorphes, largement fusoïdes, mucronées, souvent comme chrysocystides ou partiellement à entièrement remplies de pigment et déformées, piriformes à clavées, 31,6 x 8,9 µm en moyenne, souvent légèrement émergentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -266,7 +270,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   type: 
   typique: 

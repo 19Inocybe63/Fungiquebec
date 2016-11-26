@@ -2,7 +2,7 @@
 nom: Key to the species Leratiomyces
 date: 2016-11-26 00:00:00
 author: Machiel E. Noordeloos
-source: Strophariaceae s.l. Fungi Europaei, Edizioni Candusso, 2011
+source: Strophariaceae s.l. Fungi Europaei, N° 13, Edizioni Candusso, 2011
 
 etapes:
   -

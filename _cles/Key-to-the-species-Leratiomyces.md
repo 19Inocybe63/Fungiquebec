@@ -45,9 +45,9 @@ etapes:
     numero: 5
     questions:
       -
-        question: 
-        reference: 
+        question: Lamellae with olivaceous tinge when mature, spores relatively small, 11.0-13.5 (-14.5) x (6.0-) 6.5-8.5 (-9.0) μm
+        reference: L. squamosus var. squamosus
       -
-        question: 
-        reference: 
+        question: Lamellae without olivaceous tinge when mature, spores larger, 12.0-16.5 x 7.0-10.0 μm
+        reference: L. magnivelaris
 ---

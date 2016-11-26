@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 10-85 mm Ø, campanulé-convexe à subétalé, parfois légèrement omboné, avec marge incurvée, visqueux quand humide et à peine visqueux lorsque sec, lisse ou avec de fines méchules dispersées à subdressées, jaunâtre-gris au centre, vert jaunâtre vers la marge, avec des flocons orange-brun concentriquement alignées, squamules plus ou moins triangulaires, qui contrastent avec le fond jaunâtre, avec la marge appendiculée de fines taches du voile, blanchâtre à jaune-brun
+  chapeau: 10-85 mm Ø, campanulé convexe à subétalé, parfois légèrement omboné, avec marge incurvée, visqueux quand humide et à peine visqueux lorsque sec, lisse ou avec de fines méchules dispersées à subdressées, jaunâtre-gris au centre, vert jaunâtre vers la marge, avec des flocons orange-brun concentriquement alignés, squamules plus ou moins triangulaires, qui contrastent avec le fond jaunâtre, avec la marge appendiculée de fines taches du voile, blanchâtre à jaune brun
   cheilochrysocystides:
   cheilocystides: polymorphes, piriformes à largement clavées, lagéniformes, parfois cylindriques dont l’apex est courbé et légèrement diverticulées à déformées, rarement cylindriques à l’apex capitées
   cheiloleptocystides: 

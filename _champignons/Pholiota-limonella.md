@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte ou ressemblant à celle des pommes de terre crues
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -248,7 +248,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: légère ou légèrement amère chez les jeunes exemplaires
   sclerocystides: 
   sclerote: 
   soies: 

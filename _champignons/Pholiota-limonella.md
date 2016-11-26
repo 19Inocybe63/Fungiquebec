@@ -68,8 +68,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: convexe, visqueux, avec méchules dispersées à subdressées brunes à rougeâtres sur fond jaunâtre ;
-Lames adnées-sinuées, étroites, serrées, blanchâtres à jaunâtres
+  chapeau: convexe, visqueux, avec méchules dispersées à subdressées brunes à rougeâtres sur fond jaunâtre
   cheilochrysocystides:
   cheilocystides: polymorphes, piriformes à largement clavées, lagéniformes, parfois cylindriques dont l’apex est courbé et légèrement diverticulées à déformées, rarement cylindriques à l’apex capitées
   cheiloleptocystides: 
@@ -177,7 +176,7 @@ Lames adnées-sinuées, étroites, serrées, blanchâtres à jaunâtres
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées-sinuées, étroites, serrées, blanchâtres à jaunâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

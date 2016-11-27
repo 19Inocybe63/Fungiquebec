@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanchâtre
   chancre: 
-  chapeau: 
+  chapeau: 50-150 mm de hauteur, 30-120 mm Ø, en entonnoir, à face interne ornée de grosses mèches ou d'écailles orange à orange rougeâtre sur fond pâle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -145,7 +145,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: formé de plis et de rides fourchus, décurrent, interveiné, crème ou beige
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 10-50 x 10-30 mm Ø, peu distinct, atténué vers la base, plein puis creux avec l'âge, sublisse, blanchâtre ou crème
   pieds-steriles: 
   pigments: 
   pileipellis: 

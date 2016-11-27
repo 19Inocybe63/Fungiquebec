@@ -134,8 +134,6 @@ champs-description:
     label: Basidiome
   - name: sac-sporifere
     label: Sac sporifère
-  - name: hymenophore
-    label: Hyménophore
   - name: consistance
     label: Consistance
   - name: subiculum
@@ -156,6 +154,8 @@ champs-description:
     label: Pseudocolumelle
   - name: chapeau
     label: Chapeau
+  - name: hymenophore
+    label: Hyménophore
   - name: aiguillons
     label: Aiguillons
   - name: cuticule

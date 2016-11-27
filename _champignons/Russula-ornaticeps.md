@@ -42,8 +42,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: cylindriques à claviformes, tétrastérigmates, non bouclée à la base, à contenu vacuolaire, 37,0-40,0 x 7,0-9,0 µm en moyenne
+  basidiospores: |
+    subglobuleuses à elliptiques vue de front, subglobuleuses à largement elliptiques vue de profil, verruqueuses, partiellement réticulé, ornements entre 0,1-0,5 µm de hauteur, à paroi mince, appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    (5,3) 5,8-6,4 (7,7) x (4,2) 4,6-5,7 (6,5) µm
+    Q = (1) 1,1-1,26 (1,3); N = 30
+    Me = 6,2 x 5,2 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 40-100 mm Ø, convexe ensuite déprimé, cuticule finement rompue et collante se pèle jusqu'au ¾ du rayon
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: présentes, sensiblement de la même forme que les pleurocystides, Sulfovanilline positives (SV+)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,11 +214,11 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: 
+  pileocystides: abondantes, cylindriques à claviformes, plus ou moins renflés, souvent munis d'une tétine, à contenu pailleté réfringent, Sulfopipéronal positif (SP+) , 45-70 ± x 8-11 µm
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
-  poils: 
+  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, avec contenu pailleté hyalin verdâtre et réfringent dans le R.C.Sds, Sulfovanilline positives (SV+), 65-78 x 10-12,5 µm en moyenne
+  poils: septés, en chaîne dont les cellules font de 12-21,5 x 3-8 µm en moyenne, avec la cellule finale qui se termine atténué 70-80 ± de long
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

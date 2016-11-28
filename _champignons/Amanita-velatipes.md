@@ -44,19 +44,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes à claviformes, 2-4 stérigmates, non bouclées à la base, à contenu vacuolaire, 32-44 x 9-15 µm
+  basidiospores: |
+    elliptiques à largement elliptiques vue de profil, elliptiques allongées vue frontale, lisses, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, cyanophiles
+    9,1 [10,2; 10,7] 11,7 x 6,5 [7; 7,2] 7,7 µm
+    Q = 1,3 [1,4; 1,5] 1,6; N = 30; C = 95%
+    Me = 10,4 x 7,1 µm; Qe = 1,5
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol de forêts de feuillus nobles, chênes, hêtres, tilleuls
-  boucles: 
+  boucles: observées dans le voile partiel
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -68,7 +72,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,12 +214,12 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -270,13 +274,13 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée d’hyphes bilatérale (bilatéraux)
   trame-tubulaire: 
   type: 
   typique: 
   voile: 
   voile-general: friable, blanchâtre, laissant des flocons sur le chapeau et une ou quelques bandelettes à la base du pied
-  voile-partiel: blanc, laissant sur le pied un anneau denté et ample
+  voile-partiel: blanc, laissant sur le pied un anneau denté et ample, en chaînette dont les hyphes terminaux sont polymorphes (75% filamenteux et 25% elliptiques allongées à ovoïdes), filamenteux, cylindriques, claviformes, utriformes, elliptiques allongées, ovoïdes, 22-54 x 5,5 x 9 µm
   volve: 
   zone-perihymeniale: 
 ---

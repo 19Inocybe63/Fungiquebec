@@ -58,7 +58,7 @@ description:
   boucles: 
   brachybasidioles: 
   calicule: 
-  capillitium: non septé, à paroi épaisse, lisse à bosselé, 2-7 μm Ø
+  capillitium: non septé, à paroi épaisse, lisse à bosselé, 2-7 µm Ø
   capitule: 
   caulobasides: 
   caulocystides: 

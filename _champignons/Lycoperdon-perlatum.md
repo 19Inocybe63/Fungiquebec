@@ -248,7 +248,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Le carmin acétique de Sémichon a fait ressortir davantage les petites plaques verruqueuses des basidiospores.
   repartition: 
   rhizomorphes: 
   sac-sporifere: à endopéridium irrégulièrement aréolé-réticulé après la perte des aiguillons, puis sublisse, membraneux, tenace, surtout vers l'apex, crème puis brunâtre, s'ouvrant par un grand pore apical irrégulier et étoilé, avec sous-glèbe brun olive ou brun chocolat à maturité, avec logettes assez grandes, jusqu'à 1 mm de largeur

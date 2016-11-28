@@ -6,8 +6,8 @@ image-originale: https://www.flickr.com/photos/kaufholtz/15165489459/in/photolis
 album-flickr:
   - 72157675570525760
 planches:
-  - miniature: 
-    originale: 
+  - miniature: https://c2.staticflickr.com/6/5692/31184857081_a0f987d95d_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31184857081/in/photostream/
 
 details:
   nom-francais: Vesse-de-loup perlée

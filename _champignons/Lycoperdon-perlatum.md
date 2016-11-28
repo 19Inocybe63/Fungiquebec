@@ -46,7 +46,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    globuleuses, finement verruqueuses, formant parfois des petites plaques verruqueuses allant entre 0,3-0,6 μm Ø, à paroi mince à légèrement épaissie, avec pédicelle, à contenu uniguttulé à variable, hyalines à grisâtre pâle dans l’Eau glycérinée 20%, dextrinoïdes, cyanophiles
+    globuleuses, finement verruqueuses, formant parfois des petites plaques verruqueuses allant entre 0,3-0,6 μm Ø, à paroi mince à légèrement épaissie, avec pédicelle, à contenu uniguttulé à variable, hyalines à grisâtre pâle dans E.G. 20%, dextrinoïdes, cyanophiles
     (3,5) 3,6 - 4,1 (4,2) × (3,4) 3,5 - 4 (4,1) µm
     Q = 1 (1,1) ; N = 30
     Me = 3,9 × 3,8 µm ; Qe = 1

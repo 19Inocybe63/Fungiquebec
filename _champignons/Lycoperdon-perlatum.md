@@ -58,7 +58,7 @@ description:
   boucles: 
   brachybasidioles: 
   calicule: 
-  capillitium: non septé, à paroi épaisse, lisse à bosselé, 2-7 µm Ø
+  capillitium: réseau d'hyphes stériles non septé, à paroi épaisse, parfois bosselé, ramifié, hyalines dans E.G. 10%, se colore dans la Phloxine B, 2-7 µm Ø
   capitule: 
   caulobasides: 
   caulocystides: 

@@ -202,7 +202,7 @@ description:
   nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
-  paracapillitium: 
+  paracapillitium: abondant, non bouclé, septé, à paroi mince, hyalines dans E.G. 10%, ne se colore pas dans la Phloxine B, 2-5 µm Ø
   paraphyses: 
   parasite: 
   paroi-peritheciale: 

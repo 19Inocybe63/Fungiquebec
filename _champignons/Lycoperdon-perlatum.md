@@ -44,7 +44,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, 2-4 stérigmates, non bouclées, vide optique, 7-10 x 4-5 μm
+  basides: claviformes, 2-4 stérigmates, non bouclées, vide optique, 7-10 x 4-5 µm
   basidiospores: |
     globuleuses, finement verruqueuses, formant parfois des petites plaques verruqueuses allant entre 0,3-0,6 μm Ø, à paroi mince à légèrement épaissie, avec pédicelle, à contenu uniguttulé à variable, hyalines à grisâtre pâle dans E.G. 20%, dextrinoïdes, cyanophiles
     (3,5) 3,6 - 4,1 (4,2) × (3,4) 3,5 - 4 (4,1) µm

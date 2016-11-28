@@ -44,7 +44,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes, 2-4 stérigmates, non bouclées, vide optique, 7-10 x 4-5 μm
   basidiospores: |
     globuleuses, finement verruqueuses, formant parfois des petites plaques verruqueuses allant entre 0,3-0,6 μm Ø, à paroi mince à légèrement épaissie, avec pédicelle, à contenu uniguttulé à variable, hyalines à grisâtre pâle dans E.G. 20%, dextrinoïdes, cyanophiles
     (3,5) 3,6 - 4,1 (4,2) × (3,4) 3,5 - 4 (4,1) µm
@@ -58,7 +58,7 @@ description:
   boucles: 
   brachybasidioles: 
   calicule: 
-  capillitium: 
+  capillitium: non septé, à paroi épaisse, lisse à bosselé, 2-7 μm Ø
   capitule: 
   caulobasides: 
   caulocystides: 
@@ -136,7 +136,7 @@ description:
   exhalaison: 
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
-  exoperidium: 
+  exoperidium: formé de sphérocytes irrégulièrement arrondies à anguleuses, (9,3) 12,2 - 18,6 (21,9) × (9,3) 11,7 - 15,9 (16,4) µm en moyenne
   extremites-hyphales: 
   face-externe: 
   face-poroïde: 

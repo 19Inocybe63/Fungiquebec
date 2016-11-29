@@ -1,6 +1,6 @@
 ---
 nom: Coprinopsis atramentaria
-date: 2016-11-30 00:00:00
+date: 2016-11-29 00:00:00
 image: https://c2.staticflickr.com/8/7323/10088573684_37c385249e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088573684/in/photolist-sTRAxX-gnuBKj-gnuztA
 album-flickr:

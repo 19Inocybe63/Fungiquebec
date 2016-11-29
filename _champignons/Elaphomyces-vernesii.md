@@ -239,7 +239,7 @@ description:
   receptacle: 
   remarques: |
     Il s'agit d'une nouvelle espèce; E. vernesii sp. nov. Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
-    Les hyphes sont parfaitement visibles dans le Bleu crésyl.
+    Les hyphes sont parfaitement visibles dans le Bleu de crésyl alcoolique selon Clémençon.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

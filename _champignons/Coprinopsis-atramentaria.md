@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince et membraneuse dans le chapeau, blanc grisâtre
   chancre: 
-  chapeau: 
+  chapeau: 40-80 x 30-60 mm Ø, lorsque fermé, 30-80 (100) mm Ø, après expansion, subglobuleux, ellipsoïde à ovoïde puis campanulé, largement conique à convexe, squamuleux au centre à sublisse, gris-brun au début, puis gris, à marge striée à irrégulièrement plissée, se fendant et se déchirant souvent avec l'âge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, larges, très serrées, blanches puis grises à brun grisâtre, noires à la fin, rapidement déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 70-150 x 8-20 mm Ø, égal ou élargi vers la base, soyeux-fibrilleux, blanchâtre, souvent avec une petite zone annuliforme marginée sur la partie inférieure
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,12 +239,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistinctes
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: noire
   spores: 
   spherocytes: 
   sporocystes: 
@@ -269,7 +269,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: fibrilleux, évanescent ou laissant un anneau ou zone annuliforme déchirée médian ou basal sur le pied
   volve: 
   zone-perihymeniale: 
 ---

@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous Quercus Rubra, Betula Papyrifera, Pinus Resinosa, Pinus Strobus, Acer Saccharum
+  biotopes: pousse dans le sol, sous Quercus rubra, Betula papyrifera, Pinus resinosa, Pinus strobus, Acer saccharum
   boucles: 
   brachybasidioles: 
   calicule: 

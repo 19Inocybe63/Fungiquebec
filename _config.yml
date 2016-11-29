@@ -308,6 +308,8 @@ champs-description:
     label: Pileitrame
   - name: pileipellis
     label: Pileipellis
+  - name: elements-velaires
+    label: Éléments vélaires
   - name: pigments
     label: Pigments
   - name: hypoderme
@@ -491,8 +493,6 @@ champs-description:
     label: Éléments stériles
   - name: elements-sur-les-cotes
     label: Éléments sur les côtés
-  - name: elements-velaires
-    label: Éléments vélaires
   - name: endoperidium
     label: Endopéridium
   - name: especes-identification

@@ -79,7 +79,9 @@ description:
   clavules: 
   collection-confirmee-par: Michael Castellano
   columelle: 
-  commentaires: De Michael Castellano. All E. vernesii sp. nov. known only from Canada.
+  commentaires: |
+    De Michael Castellano. All E. vernesii sp. nov. known only from Canada.
+    De Kaufholtz-Couture. Faire attention, car dans les nombreuses récoltes, une autre espèce la côtoie.
   conidies: 
   conidiome: 
   conidiophores: 
@@ -148,7 +150,7 @@ description:
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: de la glèbe, à paroi mince, bosselées, ramifiès, incrustées, septées et non bouclées, parfois formant comme des bois de cerf aux extrémités, à contenu
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -235,7 +237,9 @@ description:
   publications: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Il s'agit d'une nouvelle espèce; E. vernesii sp. nov. Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
+  remarques: |
+    Il s'agit d'une nouvelle espèce; E. vernesii sp. nov. Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
+    Les hyphes sont parfaitement visibles dans le Bleu crésyl.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

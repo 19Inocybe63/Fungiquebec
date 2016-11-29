@@ -81,7 +81,7 @@ description:
   columelle: 
   commentaires: |
     De Michael Castellano. All E. vernesii sp. nov. known only from Canada.
-    De Kaufholtz-Couture. Faire attention, car dans les nombreuses récoltes, une autre espèce la côtoie.
+    De Kaufholtz-Couture. Faire attention, car dans les nombreuses récoltes de E. vernesii, une autre espèce la côtoie et vit à proximité.
   conidies: 
   conidiome: 
   conidiophores: 

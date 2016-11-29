@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: mince et membraneuse dans le chapeau, blanc grisâtre
   chancre: 
-  chapeau: 40-80 x 30-60 mm Ø, lorsque fermé, 30-80 (100) mm Ø, après expansion, subglobuleux, ellipsoïde à ovoïde puis campanulé, largement conique à convexe, squamuleux au centre à sublisse, gris-brun au début, puis gris, à marge striée à irrégulièrement plissée, se fendant et se déchirant souvent avec l'âge
+  chapeau: 40-80 x 30-60 mm Ø, lorsque fermé, 30-100 mm Ø, après expansion, subglobuleux, ellipsoïde à ovoïde puis campanulé, largement conique à convexe, squamuleux au centre à sublisse, gris-brun au début, puis gris, à marge striée à irrégulièrement plissée, se fendant et se déchirant souvent avec l'âge
   cheilochrysocystides:
   cheilocystides: fusiformes à subcylindriques, 57-200 x 35-50 µm
   cheiloleptocystides: 

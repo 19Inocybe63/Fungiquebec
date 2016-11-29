@@ -16,7 +16,7 @@ details:
   famille: Psathyrellaceae
   genre: Coprinopsis
   espece: atramentaria
-  litterature: Redhead, S.A., Vilgalys, R., Moncalvo, J.-M., Johnson, J., Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
+  litterature: Redhead, S. A., Vilgalys, R., Moncalvo, J. M., Johnson, J., Hopple, J. S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
   fongariums:
     - fongarium: cKc0143
       date: 4 octobre 2013

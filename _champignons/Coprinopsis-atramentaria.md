@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse prés ou sur bois pourri des forêts ou des milieux herbeux, pelouses, jardins, etc., parfois apparaissant terrestre
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -121,7 +121,7 @@ description:
   elements-setoides: 
   elements-steriles: 
   elements-sur-les-cotes: 
-  elements-velaires: 
+  elements-velaires: formés de cellules hyphoïdes, ramifiées et légèrement partiellement diverticulées, 50-100 x 2-10 µm, ceux de la base du pied avec hyphes à septa isolément bouclées, incrustées de brunâtre, 3-8 µm Ø
   endoperidium: 
   especes-identification: 
   especes-semblables: 
@@ -140,7 +140,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: fasciculé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à octobre
   phialoconidies: 
   pied: 70-150 x 8-20 mm Ø, égal ou élargi vers la base, soyeux-fibrilleux, blanchâtre, souvent avec une petite zone annuliforme marginée sur la partie inférieure
   pieds-steriles: 

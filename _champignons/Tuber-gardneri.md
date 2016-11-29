@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 12-13 mm Ø en moyenne, globuleux, hypogé, sessile, irrégulièrement sillonné
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

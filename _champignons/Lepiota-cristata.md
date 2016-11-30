@@ -18,6 +18,8 @@ details:
   espece: cristata
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
   fongariums:
+    - fongarium: sans numéro
+      date: 30 septembre 2012
     - fongarium: cKc0050
       date: 24 juin 2013
     - fongarium: cKc0388
@@ -138,7 +140,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -191,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -205,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
   pied: 20-70 x 2-5 mm Ø, élancé, égal ou élargi vers la base, droit ou légèrement flexueux, fragile, lâchement farci à creux, lisse et brillant ou finement fibrilleux-soyeux, blanchâtre vers l'apex, tan rosâtre pâle, lavande sombre à brun rougeâtre vers la base, avec mycélium basal blanc
   pieds-steriles: 

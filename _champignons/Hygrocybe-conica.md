@@ -79,7 +79,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: De David Boertmann. « ... Here in Europe collections which previously was identified as H. nigrescens, will be named H. pseudoconica. However, your photos shows a fruitbody markedly deviating from European H. pseudoconica (nigrescens). And it resembles much more some tropical forms, such H. atrosquamosa or H. astatogala... »
   conidies: 
   conidiome: 
   conidiophores: 

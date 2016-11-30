@@ -46,13 +46,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à trapus ovoïdes, tétrastérigmates, bouclées à la base, hyalines dans le NaCl iso, 13-18 x 5-7 µm en moyenne
+  basidiospores: |
+    elliptiques vue de front, subtriangulaires à en éperons ou en forme d’obus vue de profil, tronquées, lisses, à paroi mince, avec appendice hilaire latéral proéminent, sans pore germinatif distinct, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, partiellement cyanophiles à cyanophiles
+    (5,3) 5,9-7,3 (8,2) x (2,8) 2,8-3,3 (3,8) µm
+    Q = (1,7) 1,9 - 2,3 (2,6); N = 30
+    Me = 6,6 x 3,1 µm; Qe = 2,1
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sous chêne, pin
-  boucles: 
+  boucles: observées dans le voile partiel
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -70,7 +74,7 @@ description:
   chancre: 
   chapeau: 15-50 mm Ø, ovoïde, conique-convexe à campanulé puis étalé, légèrement omboné, sec, lisse au début, à cuticule vite rompue en petites écailles ± concentriques ochracées, roussâtres, brun foncé, brun rougeâtre ou rouge vin, plus pâles vers la marge et à disque brun orangé à brun, sur fond blanchâtre à crème pâle, à marge longtemps incurvée, aiguë, parfois frangée de restes vélaires, légèrement ondulée avec l'âge, souvent sans cuticule
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, polymorphes, claviformes, piriformes à turbinées, à paroi mince, lisses, hyalines dans le NaCl iso, 14,5-37 x 7-13 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -217,7 +221,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -278,7 +282,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: membraneux, blanc, laissant un petit anneau supère, fragile, déchiré, blanchâtre, parfois fugace
+  voile-partiel: membraneux, blanc, laissant un petit anneau supère, fragile, déchiré, blanchâtre, parfois fugace, formé d'hyphes bouclées, avec présence parfois de cheilocystides (je crois...)
   volve: 
   zone-perihymeniale: 
 ---

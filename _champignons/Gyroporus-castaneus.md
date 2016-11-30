@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol mal drainé des forêts de feuillus (Betula, Quercus)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: cassante, blanchâtre, immuable à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 69-72 mm Ø, convexe à largement convexe puis subétalé à étalé, parfois légèrement déprimé, sec, finement tomenteux-velouté, brun rougeâtre, brun orangé à brun-jaune pâle, à marge droite, mais souvent fendue par endroits avec l'âge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -73,9 +73,9 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
+  collection-confirmee-par: 
   collection-determinee-par: 
-  collection-determination-provisoire-par: 
+  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -91,7 +91,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: concolore à la face poroïde, 5-8 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -126,17 +126,17 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanche à crème blanchâtre au début, jaunissant à maturité, immuable au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 48-50 x 14-15 mm Ø, subégal à souvent renflé au milieu ou vers la base ou étranglé à l'apex et à la base, inégal, cassant, farci au début, devenant creux à maturité, finement velouté, concolore au chapeau ou plus pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -225,7 +225,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: circulaires à subanguleux et petits, 1-3 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -239,12 +239,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: jaune pâle à chamois
   spores: 
   spherocytes: 
   sporocystes: 
@@ -272,7 +272,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

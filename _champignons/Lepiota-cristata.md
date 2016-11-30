@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous chêne, pin
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,9 +64,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fragile, blanche, immuable, rosâtre dans le pied
   chancre: 
-  chapeau: 
+  chapeau: 15-50 mm Ø, ovoïde, conique-convexe à campanulé puis étalé, légèrement omboné, sec, lisse au début, à cuticule vite rompue en petites écailles ± concentriques ochracées, roussâtres, brun foncé, brun rougeâtre ou rouge vin, plus pâles vers la marge et à disque brun orangé à brun, sur fond blanchâtre à crème pâle, à marge longtemps incurvée, aiguë, parfois frangée de restes vélaires, légèrement ondulée avec l'âge, souvent sans cuticule
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: forte, désagréable, ± d'oignon pourri ou de caoutchouc, parfois agréable et fragrante
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, étroites à subventrues, 3-4 mm de largeur, avec lamellules, serrées, blanches ou chamois, à arêtes finement crénelées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 20-70 x 2-5 mm Ø, élancé, égal ou élargi vers la base, droit ou légèrement flexueux, fragile, lâchement farci à creux, lisse et brillant ou finement fibrilleux-soyeux, blanchâtre vers l'apex, tan rosâtre pâle, lavande sombre à brun rougeâtre vers la base, avec mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -241,12 +241,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: subfarineuse à désagréable
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche à crème
   spores: 
   spherocytes: 
   sporocystes: 
@@ -276,7 +276,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: membraneux, blanc, laissant un petit anneau supère, fragile, déchiré, blanchâtre, parfois fugace
   volve: 
   zone-perihymeniale: 
 ---

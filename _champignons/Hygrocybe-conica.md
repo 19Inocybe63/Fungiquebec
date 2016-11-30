@@ -68,9 +68,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, très fragile, cireuse, jaunâtre ou concolore au chapeau, noircissant avec l'âge
   chancre: 
-  chapeau: 
+  chapeau: 2-10 mm Ø, conique-aigu à obtus puis parfois convexe et omboné-conique, non étalé, viscidule à sec, lisse, légèrement vergeté, fibrilleux-subécailleux à squamuleux-inné, souvent rougeâtre à orange écarlate au disque et orangé vers la marge, parfois entièrement teinté d'olive, de jaune citron, d'orange ochracé, de roux orange ou de rouge, noircissant avec l'âge et au froissement, à marge irrégulière, parfois relevée avec l'âge, plus longue d'un côté, festonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées à sublibres, larges, ventrues, épaisses, molles, cireuses, serrées, blanchâtres à jaunâtres, puis orange chamois, ocre olive à grisâtre olivacé, noircissant avec l'âge et au froissement, à arêtes ondulées, serrulées à érodées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 
+  pied: 3-20 x 3-15 mm Ø, égal, cylindrique droit à souvent légèrement tordu, fragile, se fendant facilement, creux avec l'âge, lisse, strié-fibrilleux, humide à sec, jaune, orangé, jaune olive sordide à orange rougeâtre, blanchâtre à gris à la base, noircissant avec l'âge ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -242,7 +242,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    Dès qu'on touche ce champignon, il devient verdâtre-noirâtre. Au microscope, les basides apparaissent parfois ocre ferreux dans une solution de glycérine 8%.
+    Dès qu'on le touche, il devient verdâtre-noirâtre. Au microscope, les basides apparaissent parfois ocre ferreux dans une solution de glycérine 8%.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

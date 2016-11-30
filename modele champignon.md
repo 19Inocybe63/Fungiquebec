@@ -2,14 +2,14 @@
 # Enlever les # et ce qui suit
 
 nom: # Nom latin
-date: # Format: AAAA-MM-JJ hh:mm:ss
-image: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
-image-originale: # Exemple: https://www.flickr.com/photos/kaufholtz/16853497745/in/album-72157675406683365/
+date: # Format: AAAA-MM-JJ 00:00:00
+image: # Largeur 320px. Exemple: https:
+image-originale: # Exemple: https:
 album-flickr:
   - # Exemple: 72157672806318152
 planches:
-  - miniature: # Largeur 320px. Exemple: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
-    originale: # Exemple: https://www.flickr.com/photos/kaufholtz/16853497745/in/album-72157675406683365/
+  - miniature: # Largeur 320px. ici
+    originale: # Exemple: ici
 
 details:
   nom-francais: 

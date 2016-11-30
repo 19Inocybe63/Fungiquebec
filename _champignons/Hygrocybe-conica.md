@@ -44,12 +44,16 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, 2 stérigmates 7,5-9,2 µm, non bouclées à la base, 34,4 [37,2; 41,8] 44,7 x 9,2 [9,7; 10,5] 11 µm
+  basidiospores: |
+    largement elliptiques à elliptiques vue de profil, elliptiques vue frontale, lisse, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%
+9,2 [10,5; 11,7] 13 x 6,7 [7,3; 7,9] 8,5 µm
+Q = 1,2 [1,4; 1,5] 1,7; N = 9; C = 95%
+Me = 11,1 x 7,6 µm; Qe = 1,5
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans la mousse, sous feuillus (Quercus, Fagus)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -138,7 +142,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -146,7 +150,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: 
+  hymenocystides: absentes
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -191,7 +195,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -205,7 +209,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -231,13 +235,14 @@ description:
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
-  pseudocystides: 
+  pseudocystides: de formes variées provenant de la trame lamellaire, émergentes dans l'hyménium, + 112 x 2-10 µm
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Dès qu'on touche ce champignon, il devient verdâtre-noirâtre. Au microscope, les basides apparaissent parfois ocre ferreux dans une solution de glycérine 8%.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -265,11 +265,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
+    Agaricus perpendicularis Bull., Herbier de la France 9, t. 422:2 (1789)
     Agaricus arvalis Fr., Systema Mycologicum 1, 263 (1821)
     Naucoria arvalis (Fr.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France, 548 (1876)
     Simocybe arvalis (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32, 428 (1879)
     Hylophila arvalis (Fries) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium, 102 (1886)
-    Agaricus perpendicularis Bull., Herbier de la France 9, t. 422:2 (1789)
     Galera arvalis var. tuberigena Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 18 (2), 510, t. 15:10 (1890)
     Naucoria tuberosa Henn., Hedwigia 42, 310 (1903)
     Naucoria scleroticola Lloyd, Mycological Writings 5 (51), 722 (1917)

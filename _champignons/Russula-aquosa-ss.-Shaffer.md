@@ -250,7 +250,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     FeSO<SUB>4</SUB> = Lames légèrement saumoné ; Stipe ± saumoné
-    Soluté de Gaïac = réaction bleue < 5" S +++ = réaction forte endéans 5 secondes (5 = forte) ; réaction bleue < 5" L +++ = réaction forte endéans 5 secondes (5 = forte)
+    Soluté de Gaïac = réaction bleue < 5" Stipe +++ = réaction forte endéans 5 secondes (5 = forte) ; réaction bleue < 5" Lames +++ = réaction forte endéans 5 secondes (5 = forte)
   receptacle: 
   remarques: |
     Cette collection poussait sur un chicot pourri.

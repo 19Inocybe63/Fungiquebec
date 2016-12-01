@@ -78,7 +78,7 @@ description:
   cellules-stromatiques: 
   chair: mince, ochracé-aqueux, immuable à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 10-35 mm Ø, convexe puis largement convexe,  sec, densément couvert de fines squamules fibrilleuses dressées au disque, ± granuleuses et plus apprimées vers la marge, jaune-brun riche brillant, brun ambre ou brun soudan sur fond jaunâtre entre les squamules, à marge longtemps incurvée, appendiculée de délicats restes véliques jaunes au début
   cheilochrysocystides:
   cheilocystides: abondantes en touffes, piriformes à largement clavées, subcylindriques, rarement subbecquées
   cheiloleptocystides: 
@@ -91,7 +91,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De A. H. Smith. « La distribution de cette espèce en Amérique du Nord est demeurée incertaine à cause de sa grande confusion avec Flammulaster erinaceellus, P. limulata et P. muricata. Naucoria muricata a déjà été différenciée seulement par ses cheilocystides, mais se définit mieux actuellement comme une P. erinaceella à lames jaunes. Flammula limulata, très proche de P. granulosa, a un pileipellis trichodermique formé d’hyphes plus lourdement ornementées et une trame lamellaire plus fortement colorée. Les deux poussent sur conifères et ne sont pas considérées comme synonymes. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -186,7 +186,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées trapues, plutôt étroites (3-4 mm chez les grands basidiomes), plus larges près du pied, atténuées vers la marge, serrées à très serrées, demeurant jaune pâle, chamois ou jaune antimoine, ne devenant pas tachées, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -219,7 +219,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: 30-50 x 2-3 (4) mm Ø, égal, vite tubuleux ou creux, jaune pâle vers l’apex, finement fibrileux-furfuracé jaune ou concolore aux squamules du chapeau sous la zone annuliforme, devenant brun rouille foncé depuis la base, avec feutrage de mycélium pâle à la base
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, formé d’hyphes superficiels agrégées en faisceaux, bouclées, à paroi mince, presque lisses, aspérulées ou finement rugueuses, 8-18 µm de long, à cellule terminale un peu cystidioïde, ou légèrement ellipsoïde, avec subcutis formés d’hyphes apprimées, lisses, parfois incrustées, rouille cannelle, plus étroites que celles des faisceaux
@@ -247,6 +247,7 @@ description:
   pseudo-peridioles: 
   publications: |
     Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

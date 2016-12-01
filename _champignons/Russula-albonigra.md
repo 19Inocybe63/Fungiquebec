@@ -34,6 +34,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
+    Kaufholtz-Couture, Claude. Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac), 1er édition, Édition Fungiquebec, Québec 2014, 4 p.
     Kibby, Geoffrey. Key to blackening species of Russula of section Compactae, Field Mycology Volume 2(3), July 2001, pp. 95-97, 3 p.
   ascome: 
   ascospores: 
@@ -235,8 +236,8 @@ description:
     Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Secondo, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
     Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
   publications-microscopiques: 
-  reactions-chimiques: |
-    Soluté de gaïac = endéans 5" S ++ (3 = moyenne) = après 5" L ++ (3 = moyenne)
+  reactions-macrochimiques: |
+    Soluté de gaïac = endéans 5" Stipe ++ (3 = moyenne) = après 5" Lames ++ (3 = moyenne)
   receptacle: 
   remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement, elle noircit.
   repartition: 

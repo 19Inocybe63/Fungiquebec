@@ -33,7 +33,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Kaufholtz-Couture, Claude. Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac), 1er édition, Édition Fungiquebec, Québec 2014, 4 p.
   ascome: 
   ascospores: 
   asques: 
@@ -241,10 +242,10 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russules, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-chimiques: |
-    FeSO<SUB>4</SUB> = négatives
-    NH<SUB>4</SUB>OH 10% = non observée
+  reactions-macrochimiques: |
+    FeSO<SUB>4</SUB> = pas de coloration
     KOH 10% = négative sur le pied
+    NH<SUB>4</SUB>OH 10% = non observée
   receptacle: 
   remarques: Toutes les parties noircissent avec l’âge.
   repartition: 

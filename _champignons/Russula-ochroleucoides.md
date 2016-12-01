@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous feuillus (Fagus), chênaies-hêtraies
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme et immuable au grattage ou à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 102 mm Ø, pruineux, sec, jaune à jaune orangé, cuticule inséparable de la chair
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, cunéiformes, dont les sinus sont interveinés (voir remarque), blanches à crèmes, sans lamelles ni lamellules, avec quelques furcations à la base du pied
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 60 x 21 mm Ø, égal, très ferme, plein, blanc avec des teintes jaune
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,17 +234,21 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: 
+    FeSO<SUB>4</SUB> = chair rosé très pâle
+    KOH 10% = pas de coloration ou de décoloration sur le chapeau
+    Soluté de gaïac = réaction bleu > 5" Stipe + (1 = faible) ; réaction bleu > 5" Lames + (1 = faible)
   receptacle: 
-  remarques: 
+  remarques: |
+    Veine ou bourrelets formés au niveau des sinus, au fond des vallécules interlamellaires et reliant les lames au niveau de leur base.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce avec une finale légèrement amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: leucosporée Ib à pallidosporée IIa, (en tas), blanche à blanchâtre, d'après la charte de couleurs de Romagnesi ; A-B d'après la charte de couleurs de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

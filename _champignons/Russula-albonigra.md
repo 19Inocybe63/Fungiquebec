@@ -237,7 +237,7 @@ description:
     Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Soluté de gaïac = endéans 5" stipe ++ (3 = moyenne) = après 5" lames ++ (3 = moyenne)
+    Soluté de gaïac = < 5" stipe ++ (3 = moyenne) ; > 5" lames ++ (3 = moyenne)
   receptacle: 
   remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement, elle noircit.
   repartition: 

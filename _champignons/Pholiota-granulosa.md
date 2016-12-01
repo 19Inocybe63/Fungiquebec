@@ -72,7 +72,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: laissant un petit anneau fibrilleux, jaune pâle, évanescent
+  chair: mince, ochracé-aqueux, immuable à la coupe
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -243,7 +243,9 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<SUB>4</SUB> = chair devenant rapidement noir olive
+    KOH 10% = chair devenant instantanément brun foncé
   receptacle: 
   remarques: 
   repartition: 
@@ -278,7 +280,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: laissant un petit anneau fibrilleux, jaune pâle, évanescent
   volve: 
   zone-perihymeniale: 
 ---

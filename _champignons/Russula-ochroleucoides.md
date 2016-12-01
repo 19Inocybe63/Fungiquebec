@@ -239,7 +239,7 @@ description:
     Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Secondo, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
     Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
     FeSO<SUB>4</SUB> = chair rosé très pâle
     KOH 10% = pas de coloration ou de décoloration sur le chapeau
     Soluté de gaïac = réaction bleu > 5" Stipe + (1 = faible) ; réaction bleu > 5" Lames + (1 = faible)

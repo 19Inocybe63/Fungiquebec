@@ -243,7 +243,7 @@ description:
   reactions-macrochimiques: |
     FeSO<SUB>4</SUB> = chair rosé très pâle
     KOH 10% = pas de coloration ou de décoloration sur le chapeau
-    Soluté de gaïac = réaction bleu > 5" Stipe + (1 = faible) ; réaction bleu > 5" Lames + (1 = faible)
+    Soluté de gaïac = réaction bleu > 5" stipe + (1 = faible) ; réaction bleu > 5" lames + (1 = faible)
   receptacle: 
   remarques: |
     Veine ou bourrelets formés au niveau des sinus, au fond des vallécules interlamellaires et reliant les lames au niveau de leur base.

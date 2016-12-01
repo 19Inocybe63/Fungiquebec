@@ -37,7 +37,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Kaufholtz-Couture, Claude. Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac), 1er édition, Édition Fungiquebec, Québec 2014, 4 p.
   ascome: 
   ascospores: 
   asques: 
@@ -249,9 +250,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-chimiques: |
     FeSO<SUB>4</SUB> = L légèrement saumoné; S ± saumoné
-    Soluté de Gaïac =
-    réaction bleu < 5" S +++ = réaction forte endéans 5 secondes (5 = forte)
-    réaction bleu < 5" L +++ = réaction forte endéans 5 secondes (5 = forte)
+    Soluté de Gaïac = réaction bleu < 5" S +++ = réaction forte endéans 5 secondes (5 = forte) ; réaction bleu < 5" L +++ = réaction forte endéans 5 secondes (5 = forte)
   receptacle: 
   remarques: |
     Cette collection poussait sur un chicot pourri.

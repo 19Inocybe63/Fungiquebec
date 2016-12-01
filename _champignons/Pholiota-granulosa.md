@@ -52,19 +52,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: cylindriques à largement cylindriques, claviformes, parfois lagéniformes, 2-4 stérigmates, bouclées à la base, 24-33 x 6-8 µm
+  basidiospores: |
+    elliptiques à subovoïdes vue frontale, elliptiques à subphaséoliformes (en haricot) vue de profil, avec parfois une ligne ventrale plus droite que la ligne dorsale, lisses, à paroi mince, avec appendice hilaire et pore germinatif petit entre 0,5-0,6 µm, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    7,8 [8,4; 8,7] 11,3 x 4 [4,4; 4,5] 6,7 µm
+    Q = 1,7 [1,9; 2] 2,2; N = 30; C = 95%
+    Me = 8,6 x 4,5 µm; Qe = 1,9
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées dans le pileipellis et dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: rares, présentes surtout à l’apex, subclavées, ressemble plus à des hyphes terminales
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -76,7 +80,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes en touffes, piriformes à largement clavées, subcylindriques, rarement subbecquées
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -218,12 +222,12 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, formé d’hyphes superficiels agrégées en faisceaux, bouclées, à paroi mince, presque lisses, aspérulées ou finement rugueuses, 8-18 µm de long, à cellule terminale un peu cystidioïde, ou légèrement ellipsoïde, avec subcutis formés d’hyphes apprimées, lisses, parfois incrustées, rouille cannelle, plus étroites que celles des faisceaux
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absente
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -274,7 +278,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: subparallèle
   trame-tubulaire: 
   type: 
   typique: 

@@ -1,7 +1,7 @@
 ---
 nom: Russula ochroleucoides
 date: 2016-12-01 00:00:00
-image: https://c1.staticflickr.com/9/8651/28276840444_f4e8b595c5_n.jpg
+image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
   - 72157675938639090

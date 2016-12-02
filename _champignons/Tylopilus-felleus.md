@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable ou brunissant un peu à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 40-250 mm, convexe devenant largement convexe à presque plane à maturité, sec, glabre, parfois visqueuse lorsqu'humide, rosâtre à pourpre rougeâtre au début, développant une certaine nuance de brun avec ou sans teintes violacées et finalement brun foncé à maturité  
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

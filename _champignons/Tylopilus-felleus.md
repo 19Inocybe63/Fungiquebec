@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 40-170 mm x 10-35 mm Ø, claviforme, épais, ferme, agrandissant vers le bas, bulbeux, entièrement brun ou blanc vers l'apex et brun vers le bas, développant souvent des taches olive ou brun olive lorsque meurtri, fortement réticulé avec un réticulum brun, à mailles larges, au moins sur le tiers supérieur, mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 

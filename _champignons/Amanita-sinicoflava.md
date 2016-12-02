@@ -18,6 +18,8 @@ details:
   espece: sinicoflava
   litterature: Tulloss, R.E. 1988. Amanita sinicoflava; a new species from eastern North America. Mycotaxon. 32:421-431
   fongariums:
+    - fongarium: sans numéro
+      date: 16 juin 2013
     - fongarium: cKc0256
       date: 17 septembre 2014
   numero-de-planche-micrographique: cKc0256-0055
@@ -44,7 +46,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    globuleuses à subglobuleuses vue de profil et vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, verdâtres à subhyalines dans le NaCl iso 0,9%, inactive dans le melzer, cyanophiles
+    globuleuses à subglobuleuses vue de profil et vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, inactive dans le melzer, cyanophiles
     9,3 [11; 11,7] 13,4 x 8,7 [10,3; 11] 12,6 µm
     Q =  [1; 1,1] 1,2; N = 30; C = 95%
     Me = 11,3 x 10,7 µm; Qe = 1,1

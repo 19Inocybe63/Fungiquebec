@@ -16,7 +16,7 @@ details:
   famille: Amanitaceae
   genre: Amanita
   espece: sinicoflava
-  litterature: Tulloss, R.E. 1988. Amanita sinicoflava, a new species from eastern North America. Mycotaxon. 32:421-431
+  litterature: Tulloss, R.E. 1988. Amanita sinicoflava; a new species from eastern North America. Mycotaxon. 32:421-431
   fongariums:
     - fongarium: cKc0256
       date: 17 septembre 2014

@@ -279,6 +279,6 @@ description:
   voile: 
   voile-general: membraneux, blanc à gris, laissant une volve à la base du pied
   voile-partiel: absent
-  volve: 
+  volve: volve grise par endroits
   zone-perihymeniale: 
 ---

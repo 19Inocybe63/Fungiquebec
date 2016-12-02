@@ -91,7 +91,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: concolore à la face poroïde, 1-2 cm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -132,7 +132,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanchâtre puis rosée ou rose-brun à maturité, brunissant au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -225,7 +225,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: circulaires et petits, 1-2 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

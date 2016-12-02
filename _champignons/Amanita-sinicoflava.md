@@ -43,7 +43,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    globuleuses à subglobuleuses vue de profil et vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, verdâtres à subhyalines dans le NaCl iso 0,9%, inactive dans le melzer, cyanophiles
+    9,3 [11; 11,7] 13,4 x 8,7 [10,3; 11] 12,6 µm
+    Q =  [1; 1,1] 1,2; N = 30; C = 95%
+    Me = 11,3 x 10,7 µm; Qe = 1,1
   basidioles: 
   basidiome: 
   bibliographies: 

@@ -18,9 +18,9 @@ details:
   espece: caperatus
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
   fongariums:
-    - fongarium: 
-      date: 
-  numero-de-planche-micrographique: 
+    - fongarium: cKc0017
+      date: 29 septembre 2012
+  numero-de-planche-micrographique: cKc0017-0027
 
 description:
   acanthocytes: 
@@ -42,19 +42,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à clavées, tétrastérigmates, bouclées à la base, 36-45 x 11-12 µm
+  basidiospores: |
+    amygdaliformes vue de profil à citriformes vue frontale, modérément verruqueuses, à paroi légèrement épaissie 05-06 µm, avec appendice hilaire, plus rarement avec un pore germinatif tronqué, à contenu uniguttulé, brunâtres à rougeâtres dans le NH<SUB>4</SUB>OH 10% = 2%, dextrinoïdes, non cyanophiles
+    9,9 [11,1; 11,6] 12,7 x 6,7 [7,4; 7,8] 8,5 µm
+    Q = 1,3 [1,5] 1,7; N = 31; C = 95%
+    Me = 11,3 x 7,6 µm; Qe = 1,5
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
-  boucles: 
+  biotopes: pousse au sol surtout des sapinières à bouleaux
+  boucles: observées dans la trame lamellaire, et dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -62,11 +66,11 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, blanchâtre à jaunâtre-brunâtre pâle
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes, avec des hyphes claviformes émergentes, rarement subfusiformes, jusqu’à 64-68 µm de long
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -126,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: douce à fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +140,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -146,7 +150,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: du stipe émergentes et bouclées
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -189,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou souvent grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,17 +207,17 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, avec un subpellis celluleux
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -235,16 +239,16 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Une fois déshydraté, il a une odeur florale.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce à fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spores: 
   spherocytes: 
   sporocystes: 
@@ -265,13 +269,13 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   type: 
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: membraneux, blanc, laissant un anneau médian, saillant et blanchâtre, facilement fugace
   volve: 
   zone-perihymeniale: 
 ---

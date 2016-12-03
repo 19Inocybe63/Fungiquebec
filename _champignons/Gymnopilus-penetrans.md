@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois pourri de feuillus et de conifères, parfois sur bran de scie
   boucles: 
   brachybasidioles: 
   calicule: 

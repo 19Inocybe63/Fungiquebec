@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: ferme
   chancre: 
-  chapeau: 14 mm Ø, campanulé, brun noirâtre lorsque imbu, hygrophane, brun beige terne
+  chapeau: 14 mm Ø, campanulé, brun noirâtre lorsque imbu, hygrophane, brun beige terne, marge ± translucide
   cheilochrysocystides:
   cheilocystides: de 3 types ; 1re type occasionnelles, cylindriques à étroitement claviformes parfois subcapitées (13,4) 14,5 - 26 (26,4) × (2,5) 2,6 - 5,1 (6) µm en moyenne, 2e type, rares, cylindriques dont l'apex est subcapité, ornées de nombreuses excroissances flexueuses 23 - 25,4 × (6,1) 6,14 - 6,5 µm en moyenne, 3e type, coralliformes, dont l'apex est orné de multiple excroissances 14 - 17,2 × 4,8 - 6,4 µm en moyenne
   cheiloleptocystides: 

@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: blanc à blanchâtre
   chancre: 
-  chapeau: 30-50 mm Ø, large, campanulé convexe, puis subplan, non visqueux, glabre, jaune à doré
+  chapeau: 20-50 mm Ø, large, campanulé convexe à convexe, puis subétalé, glabre, non visqueux, jaune orangé à doré, orange brunâtre à rouille puis jaunâtre, à marge souvent ondulée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

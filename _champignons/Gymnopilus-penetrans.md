@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Gymnopile penetrant
+  nom-francais: Gymnopile pénétrant
   autorites: (Fr.) Murrill
   ordre: Agaricales
   famille: Gymnopileae

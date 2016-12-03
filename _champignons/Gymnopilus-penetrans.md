@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à sinuées, de largeur moyenne, étroites, d'abord jaune pâle à ± blanc jaunâtre, devenant rouille à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

@@ -231,7 +231,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Bon, Marcel et Roux, Pierre. Le Genre Gymnopilus P. Karst., en Europe, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
+    Hesler, L. R. North American Species of Gymnopilus, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir, Hafner Publishing Company New York and London, 1969
+    Murrill, William Alphonso. Agaricaceae, Murrill, Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

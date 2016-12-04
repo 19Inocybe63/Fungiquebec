@@ -30,7 +30,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 5-50 mm Ø, 5-50 mm de haut (jusqu'à 70 x 55 mm frais), irrégulièrement lobulaire, occasionnellement bilobé, à marge enroulée au début, puis étalée avec l'âge, entière à légèrement lacérée, hyménium blanc à crème lorsque jeune, souvent brun jaunâtre lorsque sec, rugueux, excipulum crème à beige, légèrement plus foncée que l'hyménium, finement pubescent à pubescent, parfois avec peu de petites nervures s'étendant sur le tiers basal de la surface de l’excipulum à partir du stipe
+  apothecie: 5-50 mm Ø, 5-50 mm de haut (jusqu'à 70 x 55 mm frais), irrégulièrement lobulaire, occasionnellement bilobé, à marge enroulée au début, puis étalée à maturité, entière à légèrement lacérée, hyménium blanc à crème lorsque jeune, souvent brun jaunâtre lorsque sec, rugueux, excipulum crème à beige, légèrement plus foncée que l'hyménium, finement pubescent à pubescent, parfois avec peu de petites nervures s'étendant sur le tiers basal de la surface de l’excipulum à partir du stipe
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 4-130 x 2-35 mm Ø, égale à agrandie, typiquement élargi au milieu, creux, fortement nervuré et profondément alvéolé, finement pubescent, à la base blanche à crème à brun pâle grisâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

@@ -62,7 +62,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanche
   chancre: 
   chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, souvent dépoussiéré d'une floraison blanchâtre, finement velouté, sec, dont la marge est légèrement incurvée lorsque jeune, souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
   cheilochrysocystides:

@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol des forêts de feuillus, chênaie
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, souvent dépoussiéré d'une floraison blanchâtre, finement velouté, sec, dont la marge est légèrement incurvée lorsque jeune, souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: faible ou faiblement de fruits de mer
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -233,18 +233,19 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = olive pâle sur le chapeau
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche à crème
   spores: 
   spherocytes: 
   sporocystes: 

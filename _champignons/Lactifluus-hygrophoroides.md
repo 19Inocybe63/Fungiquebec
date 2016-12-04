@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Lactaire hygrophore
   autorites: (Berk. & M.A. Curtis) Kuntze
   ordre: Agaricales
   famille: Russulaceae

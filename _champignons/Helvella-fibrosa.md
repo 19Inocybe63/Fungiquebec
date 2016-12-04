@@ -138,7 +138,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -191,7 +191,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 10-40 x 1-5 mm Ø, subégal, arrondi à la coupe, plein, densément pubescent, gris brun
   pieds-steriles: 

@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, espacées à très espacées lorsque mature, larges, épaisses, non fourchues, interveinées, avec lamellules, blanchâtre devenant crème ou jaunâtre pâle, immuable au froissement, parfois avec un stade lavande
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

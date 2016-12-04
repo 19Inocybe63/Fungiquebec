@@ -16,7 +16,7 @@ details:
   famille: Helvellaceae
   genre: Helvella
   espece: crispa
-  litterature: Bulliard, J.B.F. 1790. Herbier de la France. 10:433-480
+  litterature: Bulliard, J. B. F. 1790. Herbier de la France. 10:433-480
   fongariums:
     - fongarium: cKc0423
       date: 19 août 2015

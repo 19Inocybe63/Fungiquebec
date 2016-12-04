@@ -131,7 +131,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: lisse à légèrement plissée, ± pubescente, crème pâle à chamois
   face-poroïde: 
   feutrage-basal: 
   fongarium:
@@ -145,7 +145,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: blanchâtre
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 

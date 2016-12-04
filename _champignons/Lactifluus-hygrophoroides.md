@@ -177,7 +177,7 @@ description:
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: abondant, blanc, immuable ou devenant lentement jaunâtre, tachant parfois les tissus de brun violacé
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 30-50 x 5-15 mm Ø, cylindrique, subégal, plein ou farci, sec, lisse à pruineux, concolore au chapeau ou plus pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 

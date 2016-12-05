@@ -237,8 +237,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Dougoud, René. Contribution à la connaissance de quelques Discomycètes operculés rares ou méconnus, Fungi non Delineati, Pars XVIII
-Edizioni Candusso, 2002, 37 p.
+    Dougoud, René. Contribution à la connaissance de quelques Discomycètes operculés rares ou méconnus, Fungi non Delineati, Pars XVIII Edizioni Candusso, 2002, 37 p.
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

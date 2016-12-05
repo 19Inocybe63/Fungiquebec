@@ -240,9 +240,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    Dougoud, René. Contribution à l’étude des discomycètes Version 2013, Ascomycete.org, 5 (2), 63-89, Mars 2013, 29 p.
-    Hohmeyer, H. Une clé pour les espèces d'Europe du genre Peziza L., Zeitschrift für Mykologie, Band 52(1) pp. 1-248, April 1986. Traduction par P. A. Renaud en collaboration avec René Dougoud, 1988, 41 p.
+  publications: 
   publications-microscopiques: |
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

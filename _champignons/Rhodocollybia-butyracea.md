@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur débris ligneux, forêt mixte
+  biotopes: pousse au sol, décomposeur de la litière de conifères, surtout les pins
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: 5-14 mm d'épaisseur, blanche à gris aqueux pâle, blanche dans le pied
   chancre: 
-  chapeau: 
+  chapeau: 20-100 mm Ø, convexe, devenant largement convexe à subétalé, humide et graisseux au toucher lorsque frais, glabre, brun rougeâtre, à cannelle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées à sublibres, minces, serrées à très serrées, blanches, puis teintées légèrement de rosâtre avec l'âge, à arêtes droites à inégales ou ondulées au début, rarement pubescentes, érodées ou laciniées avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire ou subcespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 30-100 x 4-10 mm Ø, claviformes, radicant  et parfois comprimé vers la base, fibreux, sec, glabre, farci puis creux et spongieux, distinctement strié à sillonné, blanchâtre à la base, chamois à chamois rosâtre ou pâle vers l'apex et concolore au chapeau vers la base au début, brun cannelle avec l'âge, blanchâtre à la base sous le niveau de substrat
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,13 +239,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à légèrement fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: crème à rosâtre ± pâle
   spherocytes: 
   sporocystes: 
   stipitipellis: 

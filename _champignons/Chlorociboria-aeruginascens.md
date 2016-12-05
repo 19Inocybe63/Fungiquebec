@@ -35,7 +35,12 @@ description:
   arthroconidies: 
   articles: 
   ascome: 
-  ascospores: 
+  ascospores: |
+    cylindriques à irrégulièrement fusiformes, lisses, à paroi mince, non septées, à contenu biguttulé à variable, hyalines dans E.G. 20%, inactives dans le melzer, partiellement cyanophiles à cyanophiles
+    (9,5) 10,3 - 13,4 (15) × (2,1) 2,3 - 3,2 (3,3) µm
+    Q = (3,5) 3,6 - 4,7 (4,9) ; N = 30
+    Me = 11,7 × 2,8 µm ; Qe = 4,2
+    (Piximètre formule classique ; mesures des sacospores matures dans E.G. 20%)
   asques: 
   asterohyphidies: 
   avertissement: 

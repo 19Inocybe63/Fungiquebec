@@ -41,7 +41,7 @@ description:
     Q = (3,5) 3,6 - 4,7 (4,9) ; N = 30
     Me = 11,7 × 2,8 µm ; Qe = 4,2
     (Piximètre formule classique ; mesures des ascospores matures dans E.G. 20%)
-  asques: cylindriques fusiformes à 8 ascospores ± bisériées, dont l'apex est IKI + bleu, (63,7) 64,5 - 66,4 (84,5) × (5,8) 5,9 - 6,4 (6,5) µm
+  asques: cylindriques fusiformes, octosporé et ± bisériées, IKI +b, (63,7) 64,5 - 66,4 (84,5) × (5,8) 5,9 - 6,4 (6,5) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

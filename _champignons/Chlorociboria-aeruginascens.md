@@ -201,7 +201,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques à claviformes, à contenu granuleux, hyalines dans E.G. 10%, 55 - 78,6 × (1,7) 1,74 - 2 µm en moyenne
+  paraphyses: cylindriques à claviformes, à contenu granuleux, hyalines dans E.G. 10%, 55 - 78,6 × 1,4 - 2 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 

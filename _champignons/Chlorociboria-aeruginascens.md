@@ -201,7 +201,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: cylindriques, rarement avec apex spatulés, parfois avec une petite goute exsudant à l'apex, 55 - 78,6 × (1,7) 1,74 - 2 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 

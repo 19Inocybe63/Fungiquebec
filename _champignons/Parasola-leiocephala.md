@@ -11,7 +11,7 @@ planches:
 
 details:
   nom-francais: Coprin glabre
-  autorites: (P.D. Orton) Redhead, Vilgalys & Hopple
+  autorites: (P. D. Orton) Redhead, Vilgalys & Hopple
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Parasola

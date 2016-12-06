@@ -6,8 +6,8 @@ image-originale: https://www.flickr.com/photos/kaufholtz/29832790142/in/photolis
 album-flickr:
   - 72157676600802536
 planches:
-  - miniature: 
-    originale: 
+  - miniature: https://c2.staticflickr.com/6/5599/31426576536_5a776bf5e8_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31426576536/in/photostream/
 
 details:
   nom-francais: Pézize verdissante

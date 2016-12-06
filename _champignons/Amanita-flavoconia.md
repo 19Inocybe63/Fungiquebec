@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans les forêts de conifères ou de feuillus, mais particulièrement abondante dans les sapinières à bouleaux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche, à odeur non distinctive
   chancre: 
-  chapeau: 
+  chapeau: 30-90 mm Ø, globuleux, convexe puis étalé, jaune vif, jaune orangé à orange rougeâtre, orné de petits flocons vélaires jaunes, à marge non sillonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libre à adnées, blanches, parfois jaunes à l'arête
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: 50-150 x 5-15 mm Ø, glabre ou finement fibrilleux, blanc, jaune ;a jaune orange, annelé, terminé par un bulbe arrondi
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -268,8 +268,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: friable, jaune, laissant des flocons sur le chapeau
+  voile-partiel: membraneux, jaune, laissant un anneau dans le haut du pied
   volve: 
   zone-perihymeniale: 
 ---

@@ -15,7 +15,7 @@ details:
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: fulva
+  espece: amerifulva nom. prov.
   litterature: Persoon, C.H. 1818. Traité sur les Champignons Comestibles. :1-276
   fongariums:
     - fongarium: cKc0183

@@ -42,8 +42,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, bouclées à la base, à contenu granuleux, 27 [30; 34] 36 x 11 [12; 13,5] 14 µm
+  basidiospores: |
+    elliptiques vue de front, elliptiques à oblongues allongées vue de profil, tronquées, lisses, à paroi mince à légèrement épaissie, avec petit appendice hilaire, pore germinatif central distinct entre 2,0-2,5 µm Ø, à contenu homogène [majoritairement uniguttulé à biguttulé, à variable avec technique à chaud dans le NH4OH 2 %], brun à brun foncé dans le NaCl iso 0,9%, brun rougeâtre dans le melzer, gris pourpre dans l’acide sulfurique 80%, gris noirâtre dans le KOH 5%, non cyanophiles
+    12,5 [13,5; 13,9] 14,9 x 6,3 [7; 7,3] 7,9 µm
+    Q = 1,7 [1,9; 2] 2,1; N = 30; C = 95%
+    Me = 13,7 x 7,1 µm; Qe = 1,9
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -54,7 +58,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: peu abondantes, surtout en amas, souvent difformes à sublagéniformes 35,4 x 10,4 µm en  moyenne, subfusiformes 26,3 [26,4; 27] 27,1 x 8,2 [8,5; 10,3] 10,7 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 6-40 mm Ø, conique-campanulé, mamelonné, glabre, crème, grisâtre avec des teintes rosâtres, hygrophane
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, versiformes, difformes, sublagéniformes à lagéniformes avec parfois un col légèrement flexueux, rarement fusiformes, 26,4 [42,2; 58] 60,8 x 10 [13,9; 17,8] 21,7 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,12 +212,12 @@ description:
   pied: 10-81 x 1-5 mm Ø, cylindrique et parfois légèrement flexueux vers la base, beige pâle, cotonneux blanchâtre par endroit, semble avoir un petit bulbe à la base, dont le mycélium basale est attaché fermement au substrat
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: formé de 2 à 3 couches de cellules vésiculeuses
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: occasionnelles, lagéniformes, 45,6 [51,6; 63,5] 69,4 x 14,6 [16,1; 19,1] 20,6 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

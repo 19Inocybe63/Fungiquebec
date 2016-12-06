@@ -1,0 +1,275 @@
+---
+nom: Psathyrella fragilissima
+date: 2016-12-06 00:00:00
+image: https://c2.staticflickr.com/6/5680/20383173670_09a3b14d86_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/20383173670/in/photolist-xiuhow-x4c6Mm-x4c6oN/
+album-flickr:
+  - 72157677417297456
+planches:
+  - miniature: https://c1.staticflickr.com/1/621/22412667285_e1a52acfe4_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/22412667285/in/photolist-A9wM92-xiuhow-x4c6Mm-x4c6oN
+
+details:
+  nom-francais: 
+  autorites: (Kauffman) A.H. Sm.
+  ordre: Agaricales
+  famille: Psathyrellaceae
+  genre: Psathyrella
+  espece: fragilissima
+  litterature: Smith, A.H. 1972. The North American species of Psathyrella. Memoirs of the New York Botanical Garden. 24:1-633
+  fongariums:
+    - fongarium: cKc0404
+      date: 14 août 2015
+  numero-de-planche-micrographique: cKc0404-0099
+
+description:
+  acanthocytes: 
+  acanthophyses: 
+  aiguillons: 
+  aleurioconidies: 
+  anamorphe: 
+  anamorphe-conidien: 
+  anneau: 
+  apothecie: 
+  arete-lamellaire: 
+  arthroconidies: 
+  articles: 
+  ascome: 
+  ascospores: 
+  asques: 
+  asterohyphidies: 
+  avertissement: 
+  base-du-pied: 
+  base-sterile: 
+  base-stipitiforme: 
+  basides: 
+  basidiospores: 
+  basidioles: 
+  basidiome: 
+  bibliographies: 
+  biotopes: 
+  boucles: 
+  brachybasidioles: 
+  calicule: 
+  capillitium: 
+  capitule: 
+  caulobasides: 
+  caulocystides: 
+  caulocystides-medianes: 
+  caulocystides-sommitales: 
+  cellules-hymeniales-diverticulees: 
+  cellules-hymeniales-en-brosses: 
+  cellules-marginales-paracystides: 
+  cellules-peritheciales: 
+  cellules-stromatiques: 
+  chair: 
+  chancre: 
+  chapeau: 
+  cheilochrysocystides:
+  cheilocystides: 
+  cheiloleptocystides: 
+  cheilomacrocystides: 
+  chlamydospores: 
+  chrysocystides: 
+  circumcystides: 
+  clavules: 
+  collection-confirmee-par: 
+  collection-determinee-par: 
+  collection-determination-provisoire-par: Claude Kaufholtz-Couture
+  columelle: 
+  commentaires: 
+  conidies: 
+  conidiome: 
+  conidiophores: 
+  consistance: 
+  contexte: 
+  cordons-myceliens: 
+  cordons-rhizomorphiques: 
+  cortex: 
+  cortex-caulinaire: 
+  cortex-du-pied-et-du-bulbe: 
+  cortex-peridial: 
+  cortex-sclerotial: 
+  cortine: 
+  couches-de-tubes: 
+  coupe-sterile: 
+  cristaux: 
+  cristaux-d-oxalate: 
+  cuticule: 
+  cutis: 
+  cycle: 
+  cystides: 
+  cystides-hymeniales: 
+  cystides-intermediaires: 
+  cystidioles: 
+  dendrohyphydies: 
+  depots-de-pigment-interhyphal: 
+  dermatocystides-caulocystides-et-pileipellis: 
+  derniere-correction: 
+  dicaryophyses: 
+  dichophyses: 
+  disque-basal: 
+  distribution-et-abondance: 
+  elateres: 
+  elements-acanthophyses: 
+  elements-cystidioides: 
+  elements-hyphoides: 
+  elements-setoides: 
+  elements-steriles: 
+  elements-sur-les-cotes: 
+  elements-velaires: 
+  endoperidium: 
+  especes-identification: 
+  especes-semblables: 
+  excipulum: 
+  excipulum-medullaire-superieur: 
+  excipulum-medullaire-moyen: 
+  excipulum-medullaire-inferieur: 
+  excipulum-ectal: 
+  exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
+  exoperidium: 
+  extremites-hyphales: 
+  face-externe: 
+  face-poroïde: 
+  feutrage-basal: 
+  fongarium:
+  fragments-sporaux: 
+  frequence: 
+  glebe: 
+  gleocystides: 
+  gleocystides-hymeniales: 
+  gleocystides-subhymeniales: 
+  granules-calcaires: 
+  groupe: 
+  hymenium: 
+  hymenocystides: 
+  hymenophore: 
+  hyphes: 
+  hyphes-de-la-chair: 
+  hyphes-de-l-anneau: 
+  hyphes-du-pied: 
+  hyphes-glebales: 
+  hyphes-gleopleres: 
+  hyphes-hymeniales: 
+  hyphes-ligatives: 
+  hyphes-oleiferes: 
+  hyphes-pectinees: 
+  hyphes-primordiales: 
+  hyphes-setales: 
+  hyphes-squelettiques: 
+  hyphes-skeletoligative: 
+  hyphes-subiculaires: 
+  hyphes-tramales: 
+  hyphes-vesiculaires: 
+  hyphidies: 
+  hyphique: 
+  hypobasides: 
+  hypoderme: 
+  hypoge: 
+  hypophylle: 
+  hypothalle: 
+  hypothece: 
+  hysterothece: 
+  lames: 
+  lamprocystides: 
+  lamprocheilocystides: 
+  lampropleurocystides: 
+  lamprocaulocystides: 
+  latex: 
+  leptocystides: 
+  macrocystides: 
+  macropleurocystides: 
+  marge: 
+  marge-et-face-externe: 
+  mediostrate: 
+  medulla: 
+  medulla-caulinaire: 
+  medulla-clavariale: 
+  medulla-clavulaire: 
+  microconidies: 
+  mode-de-croissance: 
+  mycelium-basal: 
+  myxocarpe: 
+  nouvelle-espece: 
+  note-taxonomique: 
+  oeuf: 
+  paracapillitium: 
+  paraphyses: 
+  parasite: 
+  paroi-peritheciale: 
+  peridiole: 
+  peridiopellis: 
+  peridium: 
+  peritheces: 
+  phenologie: 
+  phialoconidies: 
+  pied: 
+  pieds-steriles: 
+  pigments: 
+  pileipellis: 
+  pileitrame: 
+  pileocystides: 
+  plasmode: 
+  pleurochrysocystides: 
+  pleurocystides: 
+  poils: 
+  poils-basaux: 
+  poils-caulinaires: 
+  poils-du-cortex: 
+  poils-externes: 
+  poils-lateraux-et-caulinaires: 
+  poils-marginaux: 
+  poils-mycelien-basaux: 
+  poils-peridiaux: 
+  poils-peritheciaux: 
+  poils-pileiques: 
+  pores: 
+  premiere-mention: 
+  pseudocapillitium: 
+  pseudocolumelle: 
+  pseudocystides: 
+  pseudo-peridioles: 
+  publications: 
+  publications-microscopiques: 
+  reactions-macrochimiques: 
+  receptacle: 
+  remarques: 
+  repartition: 
+  rhizomorphes: 
+  sac-sporifere: 
+  saveur: 
+  sclerocystides: 
+  sclerote: 
+  soies: 
+  soies-hymeniales: 
+  sporee: 
+  spores: 
+  spherocytes: 
+  sporocystes: 
+  stipitipellis: 
+  stipititrame: 
+  stroma: 
+  subhymenium: 
+  subiculum: 
+  substrat: 
+  synonymie: |
+    Agaricus marcescibilis Britzelm., Botanisches Centralblatt 54 (3):69 (1893)
+    Psathyra lactea J.E. Lange, Flora Agaricina Danica 4:7 (1940)
+    Drosophila involuta Romagn., Bulletin Mensuel de la Société Linnéenne de Lyon 21:156 (1952)
+  systeme-hyphal: 
+  textura: 
+  tomentum-caulinaire: 
+  tomentum-pileique: 
+  trame-hymenophorale: 
+  trame-lamellaire: 
+  trame-tubulaire: 
+  type: 
+  typique: 
+  voile: 
+  voile-general: 
+  voile-partiel: 
+  volve: 
+  zone-perihymeniale: 
+---

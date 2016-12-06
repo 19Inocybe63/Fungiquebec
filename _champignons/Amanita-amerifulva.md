@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé à dispersé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

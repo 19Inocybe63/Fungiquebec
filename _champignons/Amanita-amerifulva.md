@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Amanite fauve
+  nom-francais: Amanite fauve d'Amérique
   autorites: Tulloss
   ordre: Agaricales
   famille: Amanitaceae
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: blanche
   chancre: 
-  chapeau: 
+  chapeau: 40-90 mm Ø, ovoïde, conique-arrondi puis étalé mamelonné, fauve ou brun orangé, dépourvu de restes vélaires, à marge longuement sillonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,8 +126,8 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte
-  exhalaison-de-la-chair: 
+  exhalaison: 
+  exhalaison-de-la-chair: indistincte
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, serrées, blanches à crème
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 60-150 x 5-12 mm Ø, non bulbeux, lisse ou finement fibrilleux, blanc ou teinté de brun orangé, sans anneau, émergeant d'une volve blanche tachée de brun rouille
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,7 +234,8 @@ description:
   publications: |
     Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Phénol = la chair devient rouge brun terne
   receptacle: 
   remarques: 
   repartition: 

@@ -18,6 +18,10 @@ details:
   espece: amerifulva nom. prov.
   litterature: Persoon, C.H. 1818. Traité sur les Champignons Comestibles. :1-276
   fongariums:
+    - fongarium: sans numéro
+      date: 14 juillet 2012
+    - fongarium: sans numéro
+      date: 4 août 2013
     - fongarium: cKc0183
       date: 10 juillet 2014
   numero-de-planche-micrographique: 
@@ -47,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous conifères, plus rarement sous bouleaux
+  biotopes: pousse au sol, sous conifères, dans les hêtraies, plus rarement sous bouleaux
   boucles: 
   brachybasidioles: 
   calicule: 

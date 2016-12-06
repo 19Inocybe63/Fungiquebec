@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, au travers des copeaux de bois
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 6-40 mm Ø, conique-campanulé, mamelonné, glabre, crème, grisâtre avec des teintes rosâtres, hygrophane
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: veinées, beige, jaunes à noirâtres à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 10-81 x 1-5 mm Ø, cylindrique et parfois légèrement flexueux vers la base, beige pâle, cotonneux blanchâtre par endroit, semble avoir un petit bulbe à la base, dont le mycélium basale est attaché fermement au substrat
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -231,20 +231,22 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Fouchier, Francis. Le Genre Psathyrella (Fries) Quélet, Fédération des Associations Mycologiques Méditerranéennes, 1995.
+    Smith, Alexander H. The North American Species of Psathyrella, Memoirs of The New York Botanical Garden, vol. 24, 1972.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Genre Psathyrella
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce à fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: noir à brun-pourpré foncé
   spores: 
   spherocytes: 
   sporocystes: 
@@ -269,7 +271,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

@@ -42,19 +42,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à subsphéropédonculées, tétrastérigmates 31,3 x 11,8 µm en moyenne
+  basidiospores: |
+    elliptiques à largement elliptiques vue de profil, à elliptiques vue frontale, tronquées, lisses, à paroi légèrement épaissie, avec appendice hilaire, et pore germinatif centré 1,7 µm en moyenne, à contenu homogène, brun foncé dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    10,7 [12,1; 12,5] 13,8 x 5,8 [6,4; 6,5] 7,2 µm
+    Q = 1,7 [1,9] 2,1; N = 61; C = 95%
+    Me = 12,3 x 6,5 µm; Q moyen = 1,9
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sur débris ligneux, copeaux de bois, plate-bande
-  boucles: 
+  boucles: observées dans le stipitipellis, abondantes en surface
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: en touffes abondantes, polymorphes, lagéniformes, fusiformes, parfois flexueuses ou courbes, rarement en éperons et légèrement déformées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 20-27 mm Ø, subconique à campanulé, glabre, brun pâle à brun foncé, bistre, à la marge plus pâle et finement striée
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: en touffes abondantes, polymorphes, fusiformes à largement fusiformes, lagéniformes à lagéniformes et subcapitées à l’apex, parfois clavées, rarement subventrues
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,12 +212,12 @@ description:
   pied: 40-44 x 1-3 mm Ø, cylindrique, plein, floconneux à l'apex, ocre pâle, plus pâle à l'apex, légèrement radicant, s'effiloche comme du céleri
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en épithélium, avec une couche superficielle hyménodermique
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: rares, lagéniformes avec apex légèrement en crochet, fusiformes à largement fusiformes, 53,8 x 14,5 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

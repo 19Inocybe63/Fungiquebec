@@ -42,7 +42,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à subclaviformes, parfois avec un rétrécissement à la base, tétrastérigmates, non bouclées à la base, (22,7) 23 - 25,7 (26,6) × (7) 8,6 - 9,1 µm en moyenne
+  basides: cylindriques à largement cylindriques à subclaviformes, parfois avec un rétrécissement à la base, tétrastérigmates, non bouclées à la base, (22,7) 23 - 25,7 (26,6) × (7) 8,6 - 9,1 µm en moyenne
   basidiospores: |
     ovoïdes à subovoïdes vue de front à elliptiques à largement elliptiques à amygdaloïdes, sablées à finement verruqueuses, à paroi mince à légèrement épaissie 0,2-0,3 µm, non calyptrées, pore germinatif non observé, appendice hilaire bien visible, avec parfois une dépression supra hilaire, à contenu uniguttulé à pluriguttulé, brun pâle dans E.G. 20%, fortement dextrinoïdes, non cyalophiles
     (8,4) 8,9 - 9,8 (11,8) × (5) 5,2 - 6 (6,9) µm

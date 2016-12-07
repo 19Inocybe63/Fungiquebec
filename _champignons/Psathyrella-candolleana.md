@@ -140,7 +140,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire ou cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de mai à septembre
   phialoconidies: 
   pied: 40-130 x 3-10 mm Ø, subégal à atténué vers la base, très fragile, creux, fibrilleux-soyeux et légèrement furfuracé vers l'apex, parfois strié, ± fibrilleux-écailleux à fibrilleux-apprimé vers la base, avec restes vélaires fibrilleux à submembraneux blancs et mous, souvent vite évanescents, formant parfois un anneau membraneux persistent, blanc à blanchâtre
   pieds-steriles: 
@@ -243,7 +243,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Melzer = pas de coloration ou de décoloration sur toutes les parties des tissus
   receptacle: 
   remarques: 
   repartition: 
@@ -254,7 +255,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun foncé
+  sporee: brun pourpre foncé
   spores: 
   spherocytes: 
   sporocystes: 

@@ -59,7 +59,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -218,7 +218,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

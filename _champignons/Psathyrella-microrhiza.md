@@ -44,7 +44,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à subsphéropédonculées, tétrastérigmates 31,3 x 11,8 µm en moyenne
   basidiospores: |
-    elliptiques à largement elliptiques vue de profil, à elliptiques vue frontale, tronquées, lisses, à paroi légèrement épaissie, avec appendice hilaire, et pore germinatif centré 1,7 µm en moyenne, à contenu homogène, brun foncé dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    elliptiques à largement elliptiques vue de profil, à elliptiques vue frontale, tronquées, lisses, à paroi légèrement épaissie, avec appendice hilaire, et pore germinatif centré 1,4-1,7 µm en moyenne, à contenu homogène, brun foncé dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
     10,7 [12,1; 12,5] 13,8 x 5,8 [6,4; 6,5] 7,2 µm
     Q = 1,7 [1,9] 2,1; N = 61; C = 95%
     Me = 12,3 x 6,5 µm; Q moyen = 1,9

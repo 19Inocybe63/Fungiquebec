@@ -78,7 +78,7 @@ description:
   circumcystides: 
   clavules: 
   collection-confirmee-par: 
-  collection-determinee-par: Claude Kaufholtz-Couture
+  collection-determinee-par: 
   collection-determination-provisoire-par: Francis Fouchier
   columelle: 
   commentaires: 

@@ -66,9 +66,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: très mince, modérément fragile, brun cannelle à l'humidité puis tan sordide
   chancre: 
-  chapeau: 20-27 mm Ø, subconique à campanulé, glabre, brun pâle à brun foncé, bistre, à la marge plus pâle et finement striée
+  chapeau: 20-27 mm Ø, subconique à campanulé, glabre, hygrophane, brun pâle à brun foncé, bistre, à la marge plus pâle et finement striée
   cheilochrysocystides:
   cheilocystides: en touffes abondantes, polymorphes, fusiformes à largement fusiformes, lagéniformes à lagéniformes et subcapitées à l’apex, parfois clavées, rarement subventrues
   cheiloleptocystides: 
@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: fongique
+  exhalaison: douce à fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -243,18 +243,19 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Melzer = pas de coloration ou de décoloration sur toutes les parties des tissus
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: fongique
+  saveur: douce à fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun foncé à noirâtre
+  sporee: pourpre à noirâtre
   spores: 
   spherocytes: 
   sporocystes: 

@@ -44,7 +44,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes, tétrastérigmates, hyalines dans le NaCl iso 0,9%, 14-20 x 5,5-7 µm
   basidiospores: |
     largement elliptiques vue de profil, largement elliptiques à subreniformes (en haricot) vue frontale, lisses, à paroi mince 0,1-0,2 µm, avec petit pore germinatif peu visible 0,7-1,2 µm, avec petit appendice hilaire, à contenu homogène à uniguttulé, brunes à brun pâle dans le NaCl iso 0,9%, légèrement rougeâtre dans le melzer (dextrinoïdes ?), gris pâle à violacées dans le KOH 5%, non cyanophiles
     5,5 [5,8; 6] 6,3 x 3,2 [3,4] 3,6 µm

@@ -1,6 +1,6 @@
 ---
 nom: Galerina dicranorum
-date: 2016-11-19 00:00:00
+date: 2016-12-07 00:00:00
 image: https://c2.staticflickr.com/4/3923/14368514495_c15fa5712c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14368514495/in/photolist-nTGoLx-nTBP7q
 album-flickr:

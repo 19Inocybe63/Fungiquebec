@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur bois pourri
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,9 +64,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, assez ferme et rigide puis fragile, blanchâtre à brun aqueux puis brunâtre à tan pâle
   chancre: 
-  chapeau: 
+  chapeau: 15-70 mm Ø, conique-obtus à convexe puis largement convexe à subétalé, parfois obscurément omboné, glabre ou avec fibrilles blanchâtres vers la marge, humide, hygrophane, brun rougeâtre foncé, brun rouille à brun orangé ou parfois presque brun noirâtre avec l'âge à l'humidité, tan pâle, cannelle pâle, beige brunâtre ou parfois grisâtre au sec, souvent brun foncé vers le pourtour, à marge parfois translucide-striée à l'humidité et finement plissée, souvent frangée de restes vélaires au début
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -138,7 +138,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, étroites à modérément larges, sans lamellules, serrées à très serrées, crème, chamois à brunâtre pâle puis brun chocolaté à brun foncé, à arêtes entières à légèrement fimbriées, blanchâtres puis brun rougeâtre foncé
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -191,7 +191,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: densément grégaire ou cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -205,9 +205,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 30-130 x 3-10 mm Ø, égal, fragile avec l'âge, creux, lisse, pruineux vers l'apex, lisse ou avec fines fibrilles vélaires vers la base, glabrescent, blanc à grisâtre pâle puis brunâtre sordide, au moins vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,20 +233,27 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
-  publications-microscopiques: 
-  reactions-macrochimiques: 
+  publications: |
+    Fouchier, Francis. Le Genre Psathyrella (Fries) Quélet, Fédération des Associations Mycologiques Méditerranéennes, 1995.
+    Smith, Alexander H. The North American Species of Psathyrella, Memoirs of The New York Botanical Garden, vol. 24, 1972.
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+  reactions-macrochimiques: |
+    Melzer = pas de coloration ou de décoloration sur toutes les parties des tissus
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à fongique, avec parfois une petite finale amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun pourpré à brun noir
   spores: 
   spherocytes: 
   sporocystes: 
@@ -279,7 +286,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: fibrilleux à submembraneux, blanc, fugace, laissant parfois une zone fibrilleuse obscure sur le pied
   volve: 
   zone-perihymeniale: 
 ---

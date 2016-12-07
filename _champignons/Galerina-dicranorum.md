@@ -71,7 +71,7 @@ description:
   chancre: 
   chapeau: 7-15 mm Ø, conique à convexe, humide, glabre, strié, hygrophane, presque fauve ochracé à l'humidité, devenant jaune brun brillant depuis le disque, à marge droite au début
   cheilochrysocystides:
-  cheilocystides: abondantes, formant une palissade, polymorphes, ± émergentes, capitulées, cylindriques claviformes à cylindriques flexueuses, parfois ovoïdes, parfois subtibiformes, rarement rostrées, rarement l’apex est moniliforme, à paroi mince, hyalines dans E.G. 10%
+  cheilocystides: abondantes, formant une palissade, polymorphes, ± émergentes, capitulées, cylindriques claviformes à cylindriques flexueuses, parfois ovoïdes, parfois subtibiformes, rarement rostrées, raremetn utriformes, rarement l’apex est moniliforme, à paroi mince, hyalines dans E.G. 10%, (26,8) 27,2 - 46,4 (49,7) × (3,6) 5,5 - 8,2 (9,5) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

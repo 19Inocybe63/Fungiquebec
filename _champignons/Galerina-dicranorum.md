@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Galère des dicranes
+  nom-francais: 
   autorites: A.H. Sm. & Singer
   ordre: Agaricales
   famille: Hymenogastraceae

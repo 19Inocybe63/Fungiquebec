@@ -256,7 +256,18 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Agaricus piluliformis Bull., Herbier de la France 3:t. 112 (1783)
+    Hypholoma piluliforme (Bull.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:571 (1878)
+    Hypholoma pilulaeforme (Bull.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:571 (1878)
+    Drosophila hydrophila var. piluliformis (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:116 (1886)
+    Drosophila hydrophila var. pilulaeformis (Bull.) Quél. (1886)
+    Drosophila piluliformis (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:116 (1886)
+    Drosophila appendiculata var. pilulaeformis (Bull.) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:365 (1953)
+    Drosophila appendiculata var. piluliformis (Bull.) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:365 (1953)
+    Psathyrella appendiculata var. piluliformis (Bull.) Svrcek & Kubicka, Ceská Mykologie 18 (3):173 (1964)
+    Agaricus appendiculatus Bull., Herbier de la France 9:t. 392 (1789)
+    Agaricus geminus J. Otto, Versuch einer auf die Ordnung und den Stand der Lamellen gegründeten Anordnung und Beschreibung der Agaricorum: 71 (1816)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

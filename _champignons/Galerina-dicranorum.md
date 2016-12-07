@@ -15,12 +15,12 @@ details:
   ordre: Agaricales
   famille: Hymenogastraceae
   genre: Galerina
-  espece: paludosa
-  litterature: Kühner, R. 1935. Le genre Galera (Fries) Quélet. Encyclopédie Mycologique. 7:1-240
+  espece: dicranorum
+  litterature: Smith, A.H.; Singer, R. 1958. New species of Galerina. Mycologia. 50(4):469-489
   fongariums:
     - fongarium: cKc0162
       date: 7 juin 2014
-  numero-de-planche-micrographique: 
+  numero-de-planche-micrographique: cKc0162-0147
 
 description:
   acanthocytes: 
@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse en milieux marécageux, parmi les sphaignes, sous Abies, Betula et Picea
+  biotopes: pousse en milieux marécageux, sur espèces de Dicranum
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, ± concolore au chapeau
   chancre: 
-  chapeau: 8-30 mm Ø, conique-obtus à convexe, puis campanulé, largement convexe à subétalé, mat à soyeux brillant, hygrophane, avec de fines fibrilles vélaires blanches se séparant rapidement en faisceaux apprimés ou récurvés, fugaces, brun rougeâtre strié par temps humide, brun ochracé non strié à l’état sec
+  chapeau: 7-15 mm Ø, conique à convexe, humide, glabre, strié, hygrophane, presque fauve ochracé à l'humidité, devenant jaune brun brillant depuis le disque, à marge droite au début
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à uncinées, larges, subespacées à serrées, brunâtre pâle à brun ochracé, à arêtes entières à finement crénelées, blanchâtres
+  lames: sinuées, 2-3 mm de largeur, espacées à maturité, subconcolores au chapeau sec, à arêtes entières ou presque
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 60-200 x 1-4 mm, cylindrique, égal, parfois ondulé à flexueux, aqueux très fragile, ± chiné, jaune-brun pâle, ochracé à noisette, avec anneau membraneux, souvent supère, blanc, fugace, guirlandé de débris de voile blanc formant une zone annulaire au sommet
+  pied: 40-50 x 15-20 mm Ø, cartilagineux, creux, pruineux à l'apex, finement tomenteux à la base, sans restes vélaires, miel sombre, légèrement plus foncé vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -254,14 +254,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    Agaricus paludosus Fr., Epicrisis Systematis Mycologici:209 (1838)
-    Galera paludosa (Fr.) P. Kumm., Der Führer in die Pilzkunde:75 (1871)
-    Tubaria paludosa (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:445 (1879)
-    Pholiota paludosa (Fr.) Pat., Les Hyménomycètes d'Europe:116 (1887)
-    Galerula paludosa (Fr.) A.H. Sm., Papers of the Michigan Academy of Sciences 20:175 (1935)
-    Hydrocybe paludosa (Fr.) M.M. Moser, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Bauchpilze (Agaricales und Gastromycetes) II:181 (1953)
-    Roumeguerites elatellus P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 9:43 (1882)
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

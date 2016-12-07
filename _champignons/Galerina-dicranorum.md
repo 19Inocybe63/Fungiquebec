@@ -53,7 +53,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse en milieux marécageux, sur espèces de Dicranum
-  boucles: 
+  boucles: observées dans le pileipellis et dans le stipititrame
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -213,7 +213,7 @@ description:
   pied: 40-50 x 15-20 mm Ø, cartilagineux, creux, pruineux à l'apex, finement tomenteux à la base, sans restes vélaires, miel sombre, légèrement plus foncé vers la base
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: formé d'un suprapellis en cutis et d'un subpellis indéfférencié, (39,1) 40,1 - 50,5 (64,7) × (14,1) 14,12 - 25,1 (31,3) µm
   pileitrame: 
   pileocystides: 
   plasmode: 

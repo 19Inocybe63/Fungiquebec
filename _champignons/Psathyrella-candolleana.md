@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur pelouse, débris ligneux, souches enfouies
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fragile, humide, blanchâtre à jaune pâle, pâle au sec
   chancre: 
-  chapeau: 
+  chapeau: 20-110 mm Ø, conique-obtus, ovoïde à convexe puis largement convexe, étalé à omboné-obtus, demeurant parfois largement conique, humide, lisse à ruguleux, souvent avec plaques de fibrilles ou de squamules vers la marge au début, hygrophane, beige, chamois à miel foncé au début, graduellement brun date à brun pourpré sombre, au moins vers le pourtour, blanchâtre ou demeurant chamois fauve au disque au sec, à marge droite avec l'âge, translucide-striée, frangée de restes vélaires blancs au début
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées puis étroitement adnexées, étroites, 2-5 mm de largeur, avec lamellules, serrées à très serrées, blanches à pâles puis brun grisâtre ± teintées de violet ou de gris beige, à arêtes crénelées, blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 40-130 x 3-10 mm Ø, subégal à atténué vers la base, très fragile, creux, fibrilleux-soyeux et légèrement furfuracé vers l'apex, parfois strié, ± fibrilleux-écailleux à fibrilleux-apprimé vers la base, avec restes vélaires fibrilleux à submembraneux blancs et mous, souvent vite évanescents, formant parfois un anneau membraneux persistent, blanc à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -231,20 +231,26 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
-  publications-microscopiques: 
+  publications: |
+    Fouchier, Francis. Le Genre Psathyrella (Fries) Quélet, Fédération des Associations Mycologiques Méditerranéennes, 1995.
+    Smith, Alexander H. The North American Species of Psathyrella, Memoirs of The New York Botanical Garden, vol. 24, 1972.
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun foncé
   spores: 
   spherocytes: 
   sporocystes: 
@@ -274,7 +280,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: presque membraneux, blanc, fugace
   volve: 
   zone-perihymeniale: 
 ---

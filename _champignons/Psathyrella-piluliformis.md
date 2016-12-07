@@ -45,18 +45,22 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    largement elliptiques vue de profil, largement elliptiques à subreniformes (en haricot) vue frontale, lisses, à paroi mince 0,1-0,2 µm, avec petit pore germinatif peu visible 0,7-1,2 µm, avec petit appendice hilaire, à contenu homogène à uniguttulé, brunes à brun pâle dans le NaCl iso 0,9%, légèrement rougeâtre dans le melzer (dextrinoïdes ?), gris pâle à violacées dans le KOH 5%, non cyanophiles
+    5,5 [5,8; 6] 6,3 x 3,2 [3,4] 3,6 µm
+    Q = 1,6 [1,7; 1,8] 1,9; N = 30; C = 95%
+    Me = 5,9 x 3,4 µm; Qe = 1,7
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sur bois pourri
-  boucles: 
+  boucles: observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: occasionnelles, lagéniformes 29-30 x 9-10 µm, claviformes 40 x 10 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -68,15 +72,15 @@ description:
   chancre: 
   chapeau: 15-70 mm Ø, conique-obtus à convexe puis largement convexe à subétalé, parfois obscurément omboné, glabre ou avec fibrilles blanchâtres vers la marge, humide, hygrophane, brun rougeâtre foncé, brun rouille à brun orangé ou parfois presque brun noirâtre avec l'âge à l'humidité, tan pâle, cannelle pâle, beige brunâtre ou parfois grisâtre au sec, souvent brun foncé vers le pourtour, à marge parfois translucide-striée à l'humidité et finement plissée, souvent frangée de restes vélaires au début
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes lagéniformes 30-31 x 11-13 µm, largement claviformes 33 x 16 µm en moyenne, subfusiformes 34 x 11 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
+  collection-confirmee-par: Yves Lamoureux
+  collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
@@ -210,12 +214,12 @@ description:
   pied: 30-130 x 3-10 mm Ø, égal, fragile avec l'âge, creux, lisse, pruineux vers l'apex, lisse ou avec fines fibrilles vélaires vers la base, glabrescent, blanc à grisâtre pâle puis brunâtre sordide, au moins vers la base
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: suprapellis en épithélium régulier, dont les sphérocystes mesure jusqu’à 11-19 x 10-17 µm
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: occasionnelles à abondantes, lagéniformes 22-24 x 5-9 µm, claviformes à fusiformes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -258,7 +262,7 @@ description:
   spherocytes: 
   sporocystes: 
   stipitipellis: 
-  stipititrame: 
+  stipititrame: constitué d’hyphes larges parallèles mesurant jusqu’à 5-6 µm de large
   stroma: 
   subhymenium: 
   subiculum: 
@@ -280,7 +284,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: subparallèle à parallèle
   trame-tubulaire: 
   type: 
   typique: 

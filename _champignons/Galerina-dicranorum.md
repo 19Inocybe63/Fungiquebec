@@ -266,7 +266,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: laissant un anneau ou une fine zone fibrilleuse sur le pied
+  voile-partiel: laissant une fine zone fibrilleuse sur le pied
   volve: 
   zone-perihymeniale: 
 ---

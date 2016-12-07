@@ -42,8 +42,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes à subclavées, à 4 stérigmates, non bouclées à la base, 20-24 x 8-10 µm
+  basidiospores: |
+    ellipsoïdes à ovoïdes, lisses, avec petit pore germinatif et tronquées à l'apex, à paroi mince, avec petit appendice hilaire, à contenu homogènes, inactives dans le melzer, non cyanophiles
+    6,4 [7,4; 7,8] 8,8 x 3,8 [4,3; 4,5] 5 µm
+    Q = 1,6 [1,7; 1,8] 1,9; N = 40; C = 95%
+    Me = 7,6 x 4,4 µm; Qe = 1,7
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -54,7 +58,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: polymorphes, abondantes, cylindriques 50-94 x 9-11 µm, cylindriques à légèrement capitées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 20-110 mm Ø, conique-obtus, ovoïde à convexe puis largement convexe, étalé à omboné-obtus, demeurant parfois largement conique, humide, lisse à ruguleux, souvent avec plaques de fibrilles ou de squamules vers la marge au début, hygrophane, beige, chamois à miel foncé au début, graduellement brun date à brun pourpré sombre, au moins vers le pourtour, blanchâtre ou demeurant chamois fauve au disque au sec, à marge droite avec l'âge, translucide-striée, frangée de restes vélaires blancs au début
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: en faisceaux, abondantes, utriformes, cylindriques à subcylindriques, largement lagéniformes, parfois cylindriques à l’apex capités
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,12 +212,12 @@ description:
   pied: 40-130 x 3-10 mm Ø, subégal à atténué vers la base, très fragile, creux, fibrilleux-soyeux et légèrement furfuracé vers l'apex, parfois strié, ± fibrilleux-écailleux à fibrilleux-apprimé vers la base, avec restes vélaires fibrilleux à submembraneux blancs et mous, souvent vite évanescents, formant parfois un anneau membraneux persistent, blanc à blanchâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: celluleux, formé de 1-3 couches de cellules vésiculeuses
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -274,7 +278,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée d’hyphes parallèles gonflées
   trame-tubulaire: 
   type: 
   typique: 

@@ -131,7 +131,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte à farineuse
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -236,7 +236,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Smith, Alexander H., Singer, Rolf. A monograph on the Genus Galerina Earle, Hafner Publishing Company, New York and London, 1964, 385 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -244,7 +245,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: indistincte à farineuse
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 

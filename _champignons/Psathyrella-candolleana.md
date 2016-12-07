@@ -16,7 +16,7 @@ details:
   famille: Psathyrellaceae
   genre: Psathyrella
   espece: candolleana
-  litterature: Maire 1913, Bull. Soc. Mycol. France 29: 185
+  litterature: Maire 1913, Bull. Soc. Mycol. France 29:185
   fongariums:
     - fongarium: cKc0046
       date: 9 juin 2013

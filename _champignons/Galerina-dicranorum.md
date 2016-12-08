@@ -6,8 +6,8 @@ image-originale: https://www.flickr.com/photos/kaufholtz/14368514495/in/photolis
 album-flickr:
   - 72157675243699821
 planches:
-  - miniature: 
-    originale: 
+  - miniature: https://c1.staticflickr.com/1/183/31472402466_9554bac5a7_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31472402466/in/photostream/
 
 details:
   nom-francais: 

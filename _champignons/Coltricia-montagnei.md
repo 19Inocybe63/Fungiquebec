@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Polypore de Montagne
   autorites: (Fr.) Murrill
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
@@ -236,7 +236,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Ce polypore fut nommé à la mémoire du mycologue français Pierre François Camille Montagne (1784-1866)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

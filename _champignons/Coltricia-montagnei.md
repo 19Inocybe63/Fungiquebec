@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du chapeau, circulaire à convexe, plat ou en entonnoir dont la bordure est mince et aigüe, droite ou légèrement onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou fibreux-écailleux à maturité, surtout vers le centre, souvent azoné, rarement légèrement azoné, cannelle à brun rouille foncé
+  chapeau: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du chapeau, circulaire à convexe, plat ou en entonnoir dont la bordure est mince et aiguë, droite ou légèrement onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou fibreux-écailleux à maturité, surtout vers le centre, souvent azoné, rarement légèrement azoné, cannelle à brun rouille foncé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -91,7 +91,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: décurrents, 4-5 mm de profondeur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -225,7 +225,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: anguleux au début, irréguliers et légèrement étirés près du pied, ensuite ils deviennent dédaléens par endroits, lacérés, 5-1,5 mm Ø
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

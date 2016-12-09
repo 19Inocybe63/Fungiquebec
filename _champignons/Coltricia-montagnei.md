@@ -82,8 +82,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: indistinctement duplexe, a) partie inférieure nettement plus dense ; b) partie supérieure molle à subéreuse, concolore à la face poroïde
-jusqu'à 2 cm d'épaisseur au centre
+  contexte: indistinctement duplexe, a) partie inférieure nettement plus dense ; b) partie supérieure molle à subéreuse, concolore à la face poroïde jusqu'à 2 cm d'épaisseur au centre
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 

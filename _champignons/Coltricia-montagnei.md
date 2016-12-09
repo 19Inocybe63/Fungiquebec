@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 10-40 x 3-20 mm Ø, centré à peine excentré, massif, souvent élargi vers la base, homogène, tomenteux à verruqueux, glabre par endroits avec l'âge, cannelle à brun rouille foncé
+  pied: 10-40 x 3-20 mm Ø, centré ou à peine excentré, massif, souvent élargi vers la base, homogène, tomenteux à verruqueux, glabre par endroits avec l'âge, cannelle à brun rouille foncé
   pieds-steriles: 
   pigments: 
   pileipellis: 

@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur souche enfouie de conifères ou de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 

@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Cortinaire à pied flexueux variété en éventail
   autorites: (Fr.) H. Lindstr. & Melot
   ordre: Agaricales
   famille: Cortinariaceae

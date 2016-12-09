@@ -82,7 +82,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: indistinctement duplexe, a) partie inférieure nettement plus dense ; b) partie supérieure molle à subéreuse, concolore à la face poroïde jusqu'à 2 cm d'épaisseur au centre
+  contexte: indistinctement duplexe, 1) partie inférieure nettement plus dense ; 2) partie supérieure molle à subéreuse, concolore à la face poroïde jusqu'à 20 mm d'épaisseur au centre
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
+  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

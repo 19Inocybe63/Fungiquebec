@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse à la base d'une souche de feuillus, milieu humide
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: subconcolore aux surfaces
   chancre: 
-  chapeau: 
+  chapeau: 21-34 mm Ø, convexe, étalé, mamelonné, fibrilleux, hygrophane, brun à brun-jaune teinté d'olivâtre, plus foncé et brun-jaune olivacé au sec
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -77,7 +77,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De cKc. « D'après ce qui est écrit dans les descriptions de cette espèce, son odeur est caractérisée par le pélargonium (géranium). Pour ma part, je connais très peu l'odeur du géranium, mais je connais très bien celle des betteraves, et l'odeur qui exhale de cette collection est celle de la betterave. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: de betteraves cuites (odeur de pélargonium)
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: échancrées, sinuées à subdécurrentes, serrées, présence parfois de furcation, lamelles et lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé, souvent cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 29-39 x 2-5 mm Ø, cylindrique, égal, courbe vers la base, creux, couvert de fibrilles pâles sur fond brun, brun foncé teinté d'orangé vers la base, avec mycélium basal cotonneux, orné d'une zone annuliforme blanchâtre distincte
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -247,12 +247,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: betteraves, légèrement raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille à brun cannelle
   spores: 
   spherocytes: 
   sporocystes: 

@@ -20,6 +20,8 @@ details:
   fongariums:
     - fongarium: cKc0562
       date: 24 septembre 2016
+    - fongarium: cKc0598
+      date: 12 octobre 2016
   numero-de-planche-micrographique: 
 
 description:
@@ -203,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: de septembre à octobre
   phialoconidies: 
   pied: 29-39 x 2-5 mm Ø, cylindrique, égal, courbe vers la base, creux, couvert de fibrilles pâles sur fond brun, brun foncé teinté d'orangé vers la base, avec mycélium basal cotonneux, orné d'une zone annuliforme blanchâtre distincte
   pieds-steriles: 

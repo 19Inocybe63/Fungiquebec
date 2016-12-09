@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: de betteraves cuites (odeur de pélargonium)
+  exhalaison: de betteraves cuites
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

@@ -45,7 +45,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, piléé, stipité, mou au frais, plus cassant au sec, souvent il se soude à un autre par la marge
   bibliographies: 
   biotopes: pousse sur souche enfouie de conifères ou de feuillus
   boucles: 
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du chapeau, circulaire à convexe, plat ou en entonnoir dont la bordure est mince et aigüe, droite ou légèrement onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou fibreux-écailleux à maturité, surtout vers le centre, souvent azoné, rarement légèrement azoné, cannelle à brun rouille foncé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -132,11 +132,11 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: cannelle, ochracée à brun rouille
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -245,7 +245,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun pâle
   spores: 
   spherocytes: 
   sporocystes: 

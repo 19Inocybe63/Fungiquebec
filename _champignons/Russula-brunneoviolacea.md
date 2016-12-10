@@ -46,14 +46,14 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    largement elliptiques vue de profil à ovoïdes vue frontale, avec verrues bornées à subéchinulées, avec proéminences entre 0,7-1,2 µm de hauteur, à paroi mince, avec appendice hilaire, verdâtres en NaCl iso 0.9%, amyloïdes
+    largement elliptiques vue de profil à ovoïdes vue frontale, avec verrues bornées à subéchinulées, avec proéminences entre 0,7-1,2 µm de hauteur, à paroi mince, avec appendice hilaire, verdâtres en NaCl iso 0,9%, amyloïdes
     8,2 [8,8; 9,2] 9,8 x 6,9 [7,4; 7,7] 8,2 µm
     Q = 1,1 [1,2] 1,3; N = 20; C = 95%
     Me = 9 x 7,6 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans la mousse, sphaigne, sous hêtres et chênes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,9 +68,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: cassante, blanche
   chancre: 
-  chapeau: 46 mm Ø, convexe à étalé déprimé, cuticule se pèle jusqu'au ½ du rayon, cuticule collante
+  chapeau: 46-80 mm Ø, convexe à étalé déprimé, charnu, cuticule se pèle jusqu'au ½ du rayon, cuticule collante, violet, gris pourpre, brun violet à brun rougeâtre, à pigment toujours granuleux
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -133,8 +133,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -142,7 +142,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, parfois fourchues près du pied, subespacées, crème à jaune crème
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -209,9 +209,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 47-70 x 1-11 mm Ø, cylindriqus à subclaviformes, égal, plein à légèrement farci, blanc, souvent taché de brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -255,12 +255,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce, légèrement subsucré
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; B-C d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

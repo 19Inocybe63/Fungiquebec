@@ -242,6 +242,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
+    Boyer, Roger. Les champignons de Sept-Îles, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
     Overholts, Lee Oras., Kauffman, Calvin Henry. (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     Liimatainen, Kare. Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
     Niskanen, Tuula. Cortinarius subgenus Telamonia p.p. in North Europe, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.

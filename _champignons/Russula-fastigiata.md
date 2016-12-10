@@ -260,7 +260,7 @@ description:
     FeSO<SUB>4</SUB> = absence de réaction sur le chapeau ; > 4' très légèrement de rose-rouge, orangé sur le stipe
     Soluté alcoolique officinal de résine de gaïac = réaction bleu > 5" stipe ++ (3, moyenne) ; réaction bleu > 5" lames + (1, moyenne)
   receptacle: 
-  remarques: 
+  remarques: Code de Kibby, A H K N - R S _ _
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

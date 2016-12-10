@@ -13,7 +13,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Cortinaire à pied flexueux
+  nom-francais: Cortinaire à pied tortueux
   autorites: (Pers.) Fr.
   ordre: Agaricales
   famille: Cortinariaceae

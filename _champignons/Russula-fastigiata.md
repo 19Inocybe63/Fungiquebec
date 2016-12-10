@@ -21,11 +21,11 @@ details:
     - fongarium: cKc0334
       date: 10 juillet 2015
     - fongarium: cKc0338
-      date:13 juillet 2015
+      date: 13 juillet 2015
     - fongarium: cKc0354
       date: 19 juillet 2015
     - fongarium: cKc0384
-      date:27 juillet 2015
+      date: 27 juillet 2015
   numero-de-planche-micrographique: cKc0334-0109
 
 description:

@@ -217,7 +217,7 @@ description:
   peritheces: 
   phenologie: juillet à août
   phialoconidies: 
-  pied: 31-34 x 11-14 mm Ø, blanc, plein lorsque jeune, farci à maturité, immuable à la coupe
+  pied: 31-34 x 7-17 mm Ø, blanc, plein lorsque jeune, farci à maturité, immuable à la coupe
   pieds-steriles: 
   pigments: 
   pileipellis: 

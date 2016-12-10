@@ -243,7 +243,7 @@ description:
   receptacle: 
   remarques: |
     Parfois observée de fines gouttelettes orangées, collantes et visqueuses, comme exsudées, et qui se fixent sur le chapeau et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux.
-    Certaines histoires racontent que O. illudens est tellement lumineux, que la nuit, on peut y lire un livre en toute quiétude (the jack-o'lantern mushroom) !
+    Des histoires les plus rocambolesques les unes que les autres nourrissent le fait que ce champignon est luminescent, où il se trouve. Il aide le voyageur égaré en forêt, il permet de lire un livre avec assez de luminosité, bref, un champignon dont l'exagération de l'imaginaire n'a pas fini de faire sourire.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

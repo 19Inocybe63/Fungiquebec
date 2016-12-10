@@ -46,7 +46,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    ellipsoïdes à légèrement subovoïdales vue de front, ellipsoïdes à largement ellipsoïdes vue de profil, verruqueuses,  à paroi mince, avec appendice hilaire visible, pore germinatif non observé, à contenu uniguttulé à variable, brun pâle dans E.G. 20%, failblement ferrugineuses dans le KOH 5%, dextrinoïdes, non cyanophyles
+    elliptiques à légèrement subovoïdales vue de front, elliptiques à largement elliptiques vue de profil, verruqueuses,  à paroi mince, avec appendice hilaire visible, pore germinatif non observé, à contenu uniguttulé à variable, brun pâle dans E.G. 20%, failblement ferrugineuses dans le KOH 5%, dextrinoïdes, non cyanophyles
     (7,5) 8,3 - 9,3 (9,5) × (4,9) 5,1 - 5,6 (5,8) µm
     Q = (1,5) 1,6 - 1,7 (1,8) ; N = 30
     Me = 8,7 × 5,4 µm ; Qe = 1,6

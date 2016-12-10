@@ -45,7 +45,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    largement elliptiques vue de profil à ovoïdes vue frontale, avec verrues bornées à subéchinulées, avec proéminences entre 0,7-1,2 µm de hauteur, à paroi mince, avec appendice hilaire, verdâtres en NaCl iso 0.9%, amyloïdes
+    8,2 [8,8; 9,2] 9,8 x 6,9 [7,4; 7,7] 8,2 µm
+    Q = 1,1 [1,2] 1,3; N = 20; C = 95%
+    Me = 9 x 7,6 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 

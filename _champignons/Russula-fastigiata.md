@@ -53,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous chêne rouge et hêtre à grandes feuillues
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,9 +68,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche, rose à rouge sous la cuticule
   chancre: 
-  chapeau: 
+  chapeau: 31-80 mm Ø, rouge, sec et pruineux, cuticule se pèle du ⅓ jusqu'au ½ du rayon
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -133,8 +133,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: agréable à légèrement fruité
+  exhalaison-des-lames: agréable à légèrement fruité
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, blanche crème puis jaunâtres, lamelles et lamellules, rares (1-3), furcations près du pied
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 31-34 x 11-14 mm Ø, blanc, plein lorsque jeune, farci à maturité, immuable à la coupe
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -250,19 +250,20 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<SUB>4</SUB> = Chapeau = nul; Stipe = > 4" très légèrement de rose-rouge, orangé
+    Soluté alcoolique officinal de résine de gaïac = réaction bleu > 5" stipe ++ (3, moyenne) ; réaction bleu > 5" lames + (1, moyenne)
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: âcre
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: xanthosporée, IVa-IVc, jaune clair à jaune moyen, d'après la charte de couleur de Romagnesi ; F-G d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

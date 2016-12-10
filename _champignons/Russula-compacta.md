@@ -53,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, forêt de feuillus et de conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,9 +68,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, compacte, cassante, blanche, brunissant avec l'âge ou à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 50-150 mm Ø, convexe puis étalé-déprimé, viscidule, vite mat et un peu granuleux, blanc, crème à ivoire, brunissant avec l'âge ou au froissement, entièrement brun rouille à la fin, à marge unie et cuticule pelant jusqu'à 1/2 du rayon
   cheilochrysocystides:
   cheilocystides: claviformes dont l'apex est largement mucronés à moniliformes, sulfopipéronal négatif (PE-)
   cheiloleptocystides: 
@@ -132,7 +132,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: de crustacés, plus marquée avec l'âge
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, avec lamellules peu nombreuses, serrées à subespacées, blanches à crème pâle, devenant brun rouille au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 20-100 x 12-30 mm Ø, égal, ferme, concolore au chapeau, brun rougeâtre au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -251,16 +251,16 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Code de Kibby, E/F I K M / P T V _
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce ± un peu âcre
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; B-C d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

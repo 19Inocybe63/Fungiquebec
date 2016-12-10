@@ -23,11 +23,12 @@ details:
   fongariums:
     - fongarium: cKc0309
       date: 7 juin 2015
+      numero-de-planche-micrographique: cKc0309-0088
     - fongarium: cKc0441
       date: 28 août 2015
     - fongarium: cKc0515
       date: 9 juillet 2016
-  numero-de-planche-micrographique: cKc0309-0088 ; cKc0515-0136
+      numero-de-planche-micrographique: cKc0515-0136
 
 description:
   acanthocytes: 
@@ -146,7 +147,6 @@ description:
   face-externe: couverte modérément à généreusement de poils bruns noirs, bordant la marge comme des cils, 1-2 mm de longueur, formant une palissade autour de la marge comme des cils
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: 
   glebe: 

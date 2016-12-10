@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: cKc0480
       date: 1 octobre 2015
-  numero-de-planche-micrographique: 
+      numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -131,7 +131,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: inconnu
   glebe: blanc gris et cotonneux lorsque immature

@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: cKc0482
       date: 1 octobre 2015
-  numero-de-planche-micrographique: 
+      numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -130,7 +130,6 @@ description:
   face-externe: 
   face-poroïde: chamois pâle au début, devenant rose à rouge au froissement, brun plus foncé avec l'âge
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: commun
   glebe: 

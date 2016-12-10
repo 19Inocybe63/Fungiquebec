@@ -23,7 +23,7 @@ details:
   fongariums:
     - fongarium: cKc0457
       date: 10 septembre 2015
-  numero-de-planche-micrographique: 
+      numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -135,7 +135,6 @@ description:
   face-externe: 
   face-poroïde: jaune beige, tubes immuables au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: occasionnel
   glebe: 

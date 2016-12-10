@@ -24,9 +24,10 @@ details:
       date: 3 juillet 2016
     - fongarium: cKc0512
       date: 4 juillet 2016
+      numero-de-planche-micrographique: cKc0512-0134
     - fongarium: cKc0516
       date: 11 juillet 2016
-  numero-de-planche-micrographique: cKc0512-0134 ; cKc0516-0137
+      numero-de-planche-micrographique: cKc0516-0137
 
 description:
   acanthocytes: 
@@ -141,7 +142,6 @@ description:
   face-externe: sublisse à finement granuleuse, brun beige pâle
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: rare à occasionnel
   glebe: 

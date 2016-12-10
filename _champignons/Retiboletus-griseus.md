@@ -23,7 +23,7 @@ details:
   fongariums:
     - fongarium: cKc0439
       date: 28 août 2015
-  numero-de-planche-micrographique: 
+      numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -135,7 +135,6 @@ description:
   face-externe: 
   face-poroïde: blanchâtre lorsque jeune, devenant brunâtre à grisâtre, Pas de contusions ou de contusions légèrement brunes, 3-4 pores circulaires par mm, formé de tubes ayant ± 10 mm de profondeur
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: rare à occasionnel
   glebe: 

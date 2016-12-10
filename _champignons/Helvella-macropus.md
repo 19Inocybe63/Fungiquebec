@@ -23,7 +23,7 @@ details:
   fongariums:
     - fongarium: cKc0291
       date: 13 octobre 2014
-  numero-de-planche-micrographique: 
+      numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -135,7 +135,6 @@ description:
   face-externe: glabre, granuleuse-veloutée, surtout vers la marge, plus pâle que l'hyménophore, brun grisâtre pâle à moyen
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: occasionnel
   glebe: 

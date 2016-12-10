@@ -22,11 +22,12 @@ details:
   fongariums:
     - fongarium: cKc0401
       date: 13 août 2015
+      numero-de-planche-micrographique: cKc0401-0096
     - fongarium: cKc0412
       date: 18 août 2015
     - fongarium: cKc0496
       date: 23 juin 2016
-  numero-de-planche-micrographique: cKc0401-0096 ; cKc0496-0131
+      numero-de-planche-micrographique: cKc0496-0131
 
 description:
   acanthocytes: 
@@ -153,7 +154,6 @@ description:
   face-externe: glabre, légèrement plus pâle que l'hyménophore
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: 
   glebe: 

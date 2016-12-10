@@ -23,13 +23,15 @@ details:
   fongariums:
     - fongarium: cKc0037
       date: 18 août 2012
+      numero-de-planche-micrographique: cKc0037-0004
     - fongarium: cKc0049
       date: 24 juin 2013
+      numero-de-planche-micrographique: cKc0049-0080
     - fongarium: cKc0305
       date: 28 mai 2015
+      numero-de-planche-micrographique: cKc0305-0120
     - fongarium: cKc0493
       date: 3 juin 2016
-  numero-de-planche-micrographique: cKc0037-0004 ; cKc0049-0080 ; cKc0305-0120
 
 description:
   acanthocytes: absents
@@ -142,7 +144,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: rare, car connu seulement dans une station au Québec ; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
   glebe: 

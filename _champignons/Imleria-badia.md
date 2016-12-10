@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: cKc0220
       date: 29 août 2014
-  numero-de-planche-micrographique: cKc0220-0064
+      numero-de-planche-micrographique: cKc0220-0064
 
 description:
   acanthocytes: 
@@ -136,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: jaunâtre puis jaune olivacé avec l'âge, bleuissant au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: commun
   glebe: 

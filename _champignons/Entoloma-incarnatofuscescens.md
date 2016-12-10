@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: 2012M_240 (DAOM)
       date: 18 août 2012
-  numero-de-planche-micrographique: cKc-ÉTUDE0005
+      numero-de-planche-micrographique: cKc-ÉTUDE0005
 
 description:
   acanthocytes: 
@@ -135,7 +135,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: rare
   glebe: 

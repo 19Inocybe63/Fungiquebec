@@ -23,7 +23,7 @@ details:
   fongariums:
     - fongarium: cKc0504
       date: 1 juillet 2016
-  numero-de-planche-micrographique: cKc0504-0135
+      numero-de-planche-micrographique: cKc0504-0135
 
 description:
   acanthocytes: 
@@ -145,7 +145,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: rare
   glebe: 

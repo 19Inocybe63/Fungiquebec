@@ -22,7 +22,7 @@ details:
       date: 11 juin 2014
     - fongarium: cKc0169
       date: 15 juin 2014
-  numero-de-planche-micrographique: cKc0164-0072
+      numero-de-planche-micrographique: cKc0164-0072
 
 description:
   acanthocytes: 
@@ -136,7 +136,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: occasionnel
   glebe: 

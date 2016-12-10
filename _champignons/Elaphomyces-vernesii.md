@@ -26,7 +26,7 @@ details:
       date: 12 septembre 2015
     - fongarium: cKc0517
       date: 14 juillet 2016
-  numero-de-planche-micrographique: 
+      numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -136,7 +136,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: inconnu
   glebe: pulvérulente et noire teintée d'olivacé à noire à maturité

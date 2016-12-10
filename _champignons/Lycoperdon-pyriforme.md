@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: cKc0581
       date: 26 septembre 2016
-  numero-de-planche-micrographique: cKc0581-0144
+      numero-de-planche-micrographique: cKc0581-0144
 
 description:
   acanthocytes: 
@@ -141,7 +141,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: commun
   glebe: blanche et ferme au début, puis jaune verdâtre et spongieuse, brun olive et poudreuse à maturité

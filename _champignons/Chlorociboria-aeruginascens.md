@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: cKc0571
       date: 26 septembre 2016
-  numero-de-planche-micrographique: 
+      numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -134,7 +134,6 @@ description:
   face-externe: glabre à finement tomenteuse, sillonnée et finement rugueuse sur la partie inférieure, surtout au sec, blanchâtre puis concolore à l'hyménophore
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: commun
   glebe: 

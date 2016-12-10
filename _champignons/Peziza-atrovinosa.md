@@ -22,7 +22,7 @@ details:
       date: 7 juillet 2015
     - fongarium: cKc0523
       date: 24 juillet 2016
-  numero-de-planche-micrographique: cKc0331-0123
+      numero-de-planche-micrographique: cKc0331-0123
 
 description:
   acanthocytes: 
@@ -146,7 +146,6 @@ description:
   face-externe: finement granuleuse, face externe cannelle surface brun fumé
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: rare à occassionnel
   glebe: 

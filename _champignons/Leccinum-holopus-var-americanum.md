@@ -22,7 +22,7 @@ details:
       date: 25 septembre 2014
     - fongarium: cKc0275
       date: 27 septembre 2014
-  numero-de-planche-micrographique: cKc0275-0063
+      numero-de-planche-micrographique: cKc0275-0063
 
 description:
   acanthocytes: 
@@ -140,7 +140,6 @@ description:
   face-externe: 
   face-poroïde: blanchâtre, brunissant à maturité, parfois ornée de minuscules taches bleu-vert, brunissant au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: commun
   glebe: 

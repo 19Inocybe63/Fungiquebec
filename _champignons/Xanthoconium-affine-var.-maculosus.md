@@ -25,7 +25,7 @@ details:
       date: 30 juillet 2016
     - fongarium: cKc0527
       date: 30 juillet 2016
-  numero-de-planche-micrographique: 
+      numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -139,7 +139,6 @@ description:
   face-externe: 
   face-poroïde: blanche crème puis jaune brunâtre avec l'âge, brunissant un peu au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: occasionnel
   glebe: 

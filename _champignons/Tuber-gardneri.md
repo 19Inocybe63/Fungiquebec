@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: cKc0348
       date: 14 juillet 2015
-  numero-de-planche-micrographique: cKc0348-0092
+      numero-de-planche-micrographique: cKc0348-0092
 
 description:
   acanthocytes: 
@@ -138,7 +138,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: rare
   glebe: brun très foncé, rouge brique à brun rougeâtre à maturité, marbrée de veines blanches

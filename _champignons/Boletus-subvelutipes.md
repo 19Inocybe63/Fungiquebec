@@ -24,7 +24,7 @@ details:
       date: 4 septembre 2014
     - fongarium: cKc0528
       date: 1 août 2016
-  numero-de-planche-micrographique: cKc0235-0065
+      numero-de-planche-micrographique: cKc0235-0065
 
 description:
   acanthocytes: 
@@ -140,7 +140,6 @@ description:
   face-externe: 
   face-poroïde: rouge orangé à rouge vineux, bleuissant intensément au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: commun
   glebe: 

@@ -17,7 +17,16 @@ permalink: /champignons/
     }
 
     function hideAllChampignons() {
+        toggleLettreSelected($('.lettre-tous')[0]);
         $('.lettre').hide();
+    }
+
+    function showResults(results) {
+        for (var i = 0; i < results.length; ++i) {
+            var result = results[i];
+            $('.index' + result.ref).show();
+            $('.lettre-entete.lettre' + indexChampignons.documentStore.getDoc(result.ref).nom[0].toLowerCase()).show();
+        }
     }
 
     function toggleLettreSelected(lettre) {
@@ -41,21 +50,32 @@ permalink: /champignons/
 
     function search(searchbox) {
         if (searchbox) {
-            var terms = searchbox.value;
-            if (terms) {
-                hideAllChampignons();
-                toggleLettreSelected($('.lettre-tous')[0]);
-
-                var results = index.search(terms);
-                for (var i = 0; i < results.length; ++i) {
-                    var result = results[i];
-                    $('.index' + result.ref).show();
-                    $('.lettre-entete.lettre' + index.documentStore.getDoc(result.ref).nom[0].toLowerCase()).show();
-                }
-            } else {
-                showAllChampignons();
-            }
+            searchHandler.query = searchbox.value;
+            searchHandler.search();
         }
+    }
+
+    function onFacetSelection(element, facetField) {
+        var selectedValue = element.innerText;
+        var facetElement = $(element.parentElement.parentElement);
+        var facetValuesElement = facetElement.find('.facetValues');
+        facetValuesElement.hide();
+        var facetSelectedValueElement = facetElement.find('.facetSelectedValue');
+        facetSelectedValueElement.text(selectedValue);
+
+        searchHandler.addFacetSelection(facetField, selectedValue);
+        searchHandler.search();
+    }
+
+    function onClearFacetSelection(element, facetField) {
+        var facetElement = $(element.parentElement);
+        var facetSelectedValueElement = facetElement.find('.facetSelectedValue');
+        facetSelectedValueElement.text("");
+        var facetValuesElement = facetElement.find('.facetValues');
+        facetValuesElement.show();
+
+        searchHandler.clearFacetSelection(facetField);
+        searchHandler.search();
     }
 </script>
 
@@ -74,6 +94,26 @@ permalink: /champignons/
                 <input id="searchbox" type="text" placeholder="Recherche..." onkeyup="onSearchBoxKeyUp(event)" />
                 <button id="searchbutton" value="Rechercher" onclick="onSearchButtonClick()">Rechercher</button>
             </form>
+
+            <div id="facets" class="facets" style="float:left; width:200px;">
+<!--
+                    {% for champ in site.champs-details %}
+                    {% if champ.search == "facet" %}
+                        <div class="facet">
+                            <div class="facetName">{{ champ.label }}</div>
+                            <a class="facetSelectedValue" href="#" onclick="onClearFacetSelection(this, '{{ champ.name | replace: "-", "_" }}')"></a>
+                            <div class="facetValues">
+                                {% capture allFacetValues %}{% for champignon in site.champignons %}{{ champignon.details[champ.name] }}|{% endfor %}{% endcapture %}
+                                {% assign facetValues = allFacetValues | split: "|" | uniq | sort %}
+                                {% for facetValue in facetValues %}
+                                    <a class="facetValue" href="#" onclick="onFacetSelection(this, '{{ champ.name | replace: "-", "_" }}')">{{ facetValue }}</a>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+-->
+            </div>
 
             <table>
             {% assign champignonsTries = (site.champignons | sort: 'nom') %}
@@ -104,22 +144,17 @@ permalink: /champignons/
 <script src="{{ "/assets/js/elasticlunr.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/lunr.stemmer.support.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/lunr.fr.js" | prepend: site.baseurl }}"></script>
-<script type="text/javascript">
-    var index = elasticlunr(function () {
-            this.use(elasticlunr.fr);
-            this.addField('nom');
-            this.setRef('id');
-    });
-
-    var champignons = [
-    {% for champignon in champignonsTries %}  {
-        id: {{ forloop.index }},
-        nom: "{{ champignon.nom }}"
-    },
-    {% endfor %}
-    ];
-
-    for (var i = 0; i < champignons.length; ++i) {
-        index.addDoc(champignons[i]);
+<script src="{{ "/assets/js/searchHandler.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/champignons.js" | prepend: site.baseurl }}"></script>
+<script>
+    function onDomReady() {
+        searchHandler.index = indexChampignons;
+        searchHandler.allResults = champignons;
+        searchHandler.showResults = showResults;
+        searchHandler.hideAllResults = hideAllChampignons;
+        searchHandler.showAllResults = showAllChampignons;
+        searchHandler.facetsContainer = $($('#facets')[0]);
+        searchHandler.facets = facetsChampignons;
+        searchHandler.initialize();
     }
 </script>

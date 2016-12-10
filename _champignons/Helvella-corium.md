@@ -22,7 +22,7 @@ details:
       date: 14 août 2015
     - fongarium: cKc0419
       date: 19 août 2015
-  numero-de-planche-micrographique: cKc0406-0132
+      numero-de-planche-micrographique: cKc0406-0132
 
 description:
   acanthocytes: 
@@ -140,7 +140,6 @@ description:
   face-externe: duveteuse à écailleuse, brun noirâtre à noire
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: occasionnel
   glebe: 

@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: cKc0497
       date: 15 juin 2016
-  numero-de-planche-micrographique: cKc0497-0130
+      numero-de-planche-micrographique: cKc0497-0130
 
 description:
   acanthocytes: 
@@ -141,7 +141,6 @@ description:
   face-externe: sublisse à finement granuleuse, parfois avec des veinures, brun rougeâtre
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: occasionnel
   glebe: 

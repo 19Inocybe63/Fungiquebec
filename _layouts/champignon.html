@@ -36,7 +36,8 @@ layout: default
                                 {% for element in page.details[champ.name] %}
                                     <tr>
                                     {% for colonne in champ.table %}
-                                        <td>{{ element[colonne.name] }}</td>
+                                        {% capture valeurCellule %}{% if element[colonne.name] %}{{ element[colonne.name] }}{% else %}-{% endif %}{% endcapture %}
+                                        <td>{{ valeurCellule }}</td>
                                     {% endfor %}
                                     </tr>
                                 {% endfor %}

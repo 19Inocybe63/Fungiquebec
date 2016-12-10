@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: cKc0034
       date: 25 octobre 2012
-  numero-de-planche-micrographique: cKc0034-0006
+      numero-de-planche-micrographique: cKc0034-0006
 
 description:
   acanthocytes: présents dans le mycélium à la base du pied
@@ -134,7 +134,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: occasionnel
   glebe: 

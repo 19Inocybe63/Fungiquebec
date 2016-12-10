@@ -22,7 +22,7 @@ details:
       date: 25 septembre 2014
     - fongarium: cKc0566
       date: 24 septembre 2016
-  numero-de-planche-micrographique: 
+      numero-de-planche-micrographique: 
 
 description:
   acanthocytes: 
@@ -136,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: commun
   glebe: ferme et blanche au début, poudreuse et jaune-brun à brun olive à maturité

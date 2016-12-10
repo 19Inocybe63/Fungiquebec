@@ -20,7 +20,7 @@ details:
   fongariums:
     - fongarium: cKc0113
       date: 17 août 2013
-  numero-de-planche-micrographique: cKc0113-0083
+      numero-de-planche-micrographique: cKc0113-0083
 
 description:
   acanthocytes: 
@@ -138,7 +138,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: 
   glebe: 

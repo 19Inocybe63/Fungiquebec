@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: Cortinaire à pied flexueux variété en éventail
+  nom-francais: Cortinaire à pied tortueux
   autorites: (Fr.) H. Lindstr. & Melot
   ordre: Agaricales
   famille: Cortinariaceae

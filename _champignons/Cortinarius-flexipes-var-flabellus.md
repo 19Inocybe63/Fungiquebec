@@ -80,9 +80,9 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
+  collection-confirmee-par: 
   collection-determinee-par: 
-  collection-determination-provisoire-par: 
+  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: De cKc. « D'après ce qui est écrit dans les descriptions de cette espèce, son odeur est caractérisée par le pélargonium (géranium). Pour ma part, je connais très peu l'odeur du géranium, mais je connais très bien celle des betteraves, et l'odeur qui exhale de cette collection est celle de la betterave. »
   conidies: 

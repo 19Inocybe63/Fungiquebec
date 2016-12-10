@@ -75,7 +75,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, rose à rouge sous la cuticule
   chancre: 
-  chapeau: 31-80 mm Ø, convexe puis étalé déprimé, viscidule à l’humidité, rouge, sec et pruineux, cuticule se pèle du ⅓ jusqu'au ½ du rayon
+  chapeau: 31-100 mm Ø, convexe puis étalé déprimé, viscidule à l’humidité, rouge, sec et pruineux, cuticule se pèle du ⅓ jusqu'au ½ du rayon
   cheilochrysocystides:
   cheilocystides: nombreuses, semblables aux pleurocystides
   cheiloleptocystides: 

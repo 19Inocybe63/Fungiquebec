@@ -249,7 +249,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<SUB>4</SUB> = lames deviennent rosé à saumon ; stipe devient légèrement rosé
   receptacle: 
   remarques: 
   repartition: 

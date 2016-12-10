@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, rose à rouge sous la cuticule
   chancre: 
-  chapeau: 31-80 mm Ø, rouge, sec et pruineux, cuticule se pèle du ⅓ jusqu'au ½ du rayon
+  chapeau: 31-80 mm Ø, convexe puis étalé déprimé, viscidule à l’humidité, rouge, sec et pruineux, cuticule se pèle du ⅓ jusqu'au ½ du rayon
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -251,7 +251,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = absence de réaction sur le chapeau ; > 4" très légèrement de rose-rouge, orangé sur le stipe
+    FeSO<SUB>4</SUB> = absence de réaction sur le chapeau ; > 4' très légèrement de rose-rouge, orangé sur le stipe
     Soluté alcoolique officinal de résine de gaïac = réaction bleu > 5" stipe ++ (3, moyenne) ; réaction bleu > 5" lames + (1, moyenne)
   receptacle: 
   remarques: 

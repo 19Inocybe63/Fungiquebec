@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 46 mm Ø, convexe à étalé déprimé, cuticule se pèle jusqu'au ½ du rayon, cuticule collante
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

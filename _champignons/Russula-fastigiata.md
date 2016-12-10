@@ -48,8 +48,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à largement claviformes, tétrastérigmates, non bouclée à la base, à paroi mince à légèrement épaissie, à contenu vacuolaire, à apex tronquée, 39-44 x 12,5-14 µm en moyenne
+  basidiospores: |
+    elliptiques vue de front, subglobuleuses à largement elliptiques vue de profil, moyennement verruqueuses-échinulées, munies de rares caténulations, avec des proéminences entre 0,5-1,5 µm de hauteur, à paroi mince à légèrement épaissie, appendice hilaire proéminent, plage hilaire amyloïde, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    (8,1) 8,2-9 (9,3) x (6,7) 7-8 (8,3) µm
+    Q = (1,1) 1,11-1,2 (1,3); N = 30
+    Me = 8,6 x 7,5 µm; Qe = 1,1
+    (Piximètre, formule classique, mesures issues de sporées, dans NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -72,7 +77,7 @@ description:
   chancre: 
   chapeau: 31-80 mm Ø, convexe puis étalé déprimé, viscidule à l’humidité, rouge, sec et pruineux, cuticule se pèle du ⅓ jusqu'au ½ du rayon
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: nombreuses, semblables aux pleurocystides
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -216,11 +221,11 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: 
+  pileocystides: nombreuses à occasionnelles, cylindriques-clavées, à 1-2 septa, Sulfovanilline positive (SV +), (46) 50-92 (95) x (6) 6,5-10,5 (11) µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
-  poils: 
+  pleurocystides: abondantes, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, avec contenu pailleté hyalin verdâtre et réfringent dans le R.C.Sds, Sulfovanilline positive (SV +) 70-80 x 8,5-11 µm en moyenne
+  poils: abondants, septés, en chaîne, 11-31 x 2,5-6,5 µm en moyenne, avec la cellule finale qui se termine atténué 20-45 ± de long
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

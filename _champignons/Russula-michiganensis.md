@@ -254,7 +254,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: raphanoïde et devenant lentement acre
+  saveur: raphanoïde et devenant lentement âcre
   sclerocystides: 
   sclerote: 
   soies: 

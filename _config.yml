@@ -294,6 +294,8 @@ champs-description:
     label: Caulocystides médianes
   - name: caulocystides-sommitales
     label: Caulocystides sommitales
+  - name: dermatocystides-caulocystides-et-pileipellis
+    label: Dermatocystides (Caulocystides et Pileipellis)
   - name: stipitipellis
     label: Stipitipellis
   - name: stipititrame
@@ -469,8 +471,6 @@ champs-description:
     label: Dendrohyphydies
   - name: depots-de-pigment-interhyphal
     label: Dépôts de pigment interhyphal
-  - name: dermatocystides-caulocystides-et-pileipellis
-    label: Dermatocystides (Caulocystides et Pileipellis)
   - name: derniere-correction
     label: Dernière correction
   - name: dicaryophyses

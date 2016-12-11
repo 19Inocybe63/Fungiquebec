@@ -230,7 +230,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: 
+  premiere-mention: Cette espèce est déterminée provisoirement. Il en faudra davantage pour mieux la connaitre, la décrire et la mesurer.
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

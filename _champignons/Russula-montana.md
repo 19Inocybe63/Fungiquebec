@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 35-70 mm Ø, convexe-étalé, marge rarement striée, rouge foncé à rouge grisâtre ou brun rougeâtre, parfois avec des zones décolorées, lisse, cuticule se pelant jusqu'au ⅔ du rayon
   cheilochrysocystides:
   cheilocystides: mucronées, sulfobenzaldéhyde + (SBA+)
   cheiloleptocystides: 

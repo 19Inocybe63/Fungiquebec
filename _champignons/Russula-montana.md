@@ -81,7 +81,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « R. silvicola vient surtout avec le chêne et le hêtre (pruche ?) ; pour être honnête, je n'ai jamais surveillé montana ; elle m'est peut-être passée sous le nez... plus d'une fois ! Il est possible que tous ici aient confondu R. montana et R. aquosa ss. Shaffer sans distinction. La difficulté est que ces espèces sont variables, et qu'on se tanne de les récolter encore et encore, et d'arriver toujours au même nom. C'est là que devient l'utilité du spécialiste. Après tout, il n'y a pas de raison que l'on ne trouve pas ici ces deux espèces de Shaffer... Certaines de nos grisescens sont probablement des montana. Cette semaine j'ai vu R. aquosa ss. Shaffer, son aspect graisseux ne trompe pas. »
   conidies: 
   conidiome: 
   conidiophores: 

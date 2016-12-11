@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, fragile, blanche
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -253,7 +253,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: âcre
   sclerocystides: 
   sclerote: 
   soies: 

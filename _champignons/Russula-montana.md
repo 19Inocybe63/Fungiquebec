@@ -66,7 +66,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: fragile, blanche
   chancre: 
   chapeau: 35-70 mm Ø, convexe-étalé, marge rarement striée, rouge foncé à rouge grisâtre ou brun rougeâtre, parfois avec des zones décolorées, lisse, cuticule se pelant jusqu'au ⅔ du rayon
   cheilochrysocystides:
@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à légèrement fruitée
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 
+  pied: 25-50 x 10-35 mm Ø, cylindrique, égal à claviforme, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 

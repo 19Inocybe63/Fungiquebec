@@ -42,8 +42,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes à largement claviformes, à 4 stérigmates, apparemment non bouclées à la base, 36,2 x 11,2 µm en moyenne
+  basidiospores: |
+    globuleuses à subglobuleuses, verruqueuses, avec verrues isolées, quelques crêtes et connexifs, avec proéminences jusqu’à 0,6-1,1 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, amyloïdes en périphérie, hyalines, amyloïdes
+    6,5 [7,3; 7,6] 8,4 x 5,8 [6,2; 6,3] 6,7 µm
+    Q = 1 [1,2] 1,3; N = 35; C = 95%
+    Me = 7,4 x 6,3 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 67 mm Ø, hémisphérique, convexe à étalé, finement velouté, pruineux à la marge, unie à légèrement sillonnée
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: cylindriques, mucronées, 51,6 x 9,9 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -180,7 +184,7 @@ description:
   latex: 
   leptocystides: 
   macrocystides: 
-  macropleurocystides: 
+  macropleurocystides: fusiformes à cylindriques, Sulfovanilline positive (SV+)
   marge: 
   marge-et-face-externe: 
   mediostrate: 
@@ -208,12 +212,12 @@ description:
   pied: 35 x 17 mm Ø, cylindrique à claviforme, plein, blanc
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en trichoderme, formé d'hyphes dressées, avec terminaisons hyphales en forme de poils, sans hyphes incrustées
   pileitrame: 
-  pileocystides: 
+  pileocystides: cylindriques-clavées à fusiformes, parfois ± capitées, fortement Sulfovanilline positive (SV +), 65 x 7,2 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: semblables aux macropleurocystides
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -260,7 +264,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée majoritairement de sphérocystes
   trame-tubulaire: 
   type: 
   typique: 

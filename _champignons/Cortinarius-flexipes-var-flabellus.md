@@ -217,7 +217,7 @@ description:
   pied: 29-39 x 2-5 mm Ø, cylindrique, égal, courbe vers la base, creux, couvert de fibrilles pâles sur fond brun, brun foncé teinté d'orangé vers la base, avec mycélium basal cotonneux, orné d'une zone annuliforme blanchâtre distincte
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches distinctes ; 1) un suprapellis en cutis formé d’hyphes avec pigmentation brun pâle à brun, à paroi mince, avec inclusion brun rouille, 3,2- 9,5 µm de largeur ; 2) un subpellis formé d’hyphes en chaînes, à paroi mince, hyalines, 31,7 - 52,4 × (10,7) 15,2 - 21,6 (27,4) µm
+  pileipellis: en deux couches distinctes ; 1) un suprapellis en cutis formé d’hyphes avec pigmentation brun pâle à brun, à paroi mince, avec inclusion brun rouille, 3,2- 9,5 µm de largeur en moyenne ; 2) un subpellis formé d’hyphes en chaînes, à paroi mince, hyalines, 31,7 - 52,4 × (10,7) 15,2 - 21,6 (27,4) µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 

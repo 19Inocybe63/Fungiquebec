@@ -6,8 +6,8 @@ image-originale: https://www.flickr.com/photos/kaufholtz/30168238602/in/photolis
 album-flickr:
   - 72157677623325925
 planches:
-  - miniature: 
-    originale: 
+  - miniature: https://c1.staticflickr.com/1/394/31607899955_db9303aa24_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31607899955/in/photostream/
 
 details:
   nom-francais: Cortinaire à pied tortueux

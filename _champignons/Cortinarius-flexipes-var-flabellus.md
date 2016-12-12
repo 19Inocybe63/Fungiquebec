@@ -33,7 +33,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: fertile
   arthroconidies: 
   articles: 
   ascome: 
@@ -55,13 +55,13 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse à la base d'une souche de feuillus, milieu humide
-  boucles: 
+  boucles: observées dans le pileipellis et le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -73,7 +73,7 @@ description:
   chancre: 
   chapeau: 21-34 mm Ø, convexe, étalé, mamelonné, fibrilleux, hygrophane, brun à brun-jaune teinté d'olivâtre, plus foncé et brun-jaune olivacé au sec
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -217,12 +217,12 @@ description:
   pied: 29-39 x 2-5 mm Ø, cylindrique, égal, courbe vers la base, creux, couvert de fibrilles pâles sur fond brun, brun foncé teinté d'orangé vers la base, avec mycélium basal cotonneux, orné d'une zone annuliforme blanchâtre distincte
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en deux couches distinctes ; 1) un suprapellis en cutis formé d’hyphes avec pigmentation brun pâle à brun, à paroi mince, avec inclusion brun rouille ; 2) un subpellis formé d’hyphes en chaînes, à paroi mince, hyalines
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

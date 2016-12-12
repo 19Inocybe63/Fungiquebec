@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous feuillus (Fagus grandifolia)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanche et qui ne brunit pas
   chancre: 
-  chapeau: 
+  chapeau: 67 mm Ø, hémisphérique, convexe à étalé, finement velouté, pruineux à la marge, unie à légèrement sillonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, subespacées, sans lamellules, blanchâtres à crème
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé à grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à août
   phialoconidies: 
-  pied: 
+  pied: 35 x 17 mm Ø, cylindrique à claviforme, plein, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -244,7 +244,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi ; B d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

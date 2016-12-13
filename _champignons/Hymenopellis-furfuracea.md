@@ -44,19 +44,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, bouclées à la base, 55-60 x 13-14 µm
+  basidiospores: |
+    ellipsoïdes à largement ovoïdes, apparaissant lisses, à paroi légèrement épaissie, avec appendice proéminent, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    13,7 [15,3; 16] 17,6 x 10,5 [11,7; 12,1] 13,3 µm
+    Q = 1,2 [1,3] 1,4; N = 34; C = 95%
+    Me = 15,7 x 11,9 µm en moyenne; Q moyen = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, pelouse, sur bois de feuillus enfouis, près des souches ou sur racines vivantes enfuies
-  boucles: 
+  boucles: abondantes, observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: abondantes sur toute la surface du pied, fasciculées, cylindriques, étroitement fusoïdes à ventrues, à paroi mince, lisses, hyalines ou à contenu bistre, 50-155 x 13-19 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -68,7 +72,7 @@ description:
   chancre: 
   chapeau: 20-100 mm Ø, campanulé à convexe puis étalé-mamelonné, sec et très finement velouté au début, puis lubrique et glabre avec l'âge, ridé-plissé, brun foncé puis brun pâle à brun jaunâtre
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes et formant une arête lamellaire stérile, subgélatinisée et renflée, étroitement fusoïdes à ventrues, ± pédicellées, à paroi mince, hyalines ou à contenu bistré, collapsant facilement au sec, reposant sur une matrice gélatinisée formée d'hyphes de 2-4(5) µm Ø
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,12 +214,12 @@ description:
   pied: 80-400 x 3-10 mm Ø, légèrement élargi vers la base, avec pseudorhize enfouie dans le substrat, rigide, subcartilagineux, sec, souvent strié, furfuracé de brun sur fond blanchâtre, avec pseudorhize blanche, devenant teinté de cannelle à rouille au froissement
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis, formé d'une couche subhyménodermique de cellules clavées, piriformes à ± pédicellées, gélatinisées, bouclées, à paroi légèrement épaissie, lisses, hyalines, souvent à contenu bistre, 36-55 x 15-22 µm, mélangées à des cellules géantes, profondément radicantes, à paroi légèrement épaissie à la base, 85-35 µm, avec piléocystides dispersées, souvent concentrée au disque et dans les régions marginales, cylindriques à maturité, ventrues à la base, à paroi épaissie jusqu'à 1,5 µm de largeur, hyalines, 120-150 x 10-13 µm, avec subpellis formé d'hyphes emmêlées, subgélatinisées, 3-5 µm Ø
   pileitrame: 
-  pileocystides: 
+  pileocystides: subsétiformes, longuement fusiformes et parfois courbées, à paroi épaissie, concentrées au disque, 98,7 x 11,4 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: abondantes, dispersées, largement cylindriques, atténuées vers la base et tronquées-arrondies vers l'apex, à paroi légèrement et uniformément épaissie, hyalines, exsudant une substance huileuse qui peut devenir jaunâtre à brun jaunâtre chez les vieux spécimens, mais non orangée, 110-132 x 24-34 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -271,7 +275,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: sarcodimitique, formée de cellules fusoïdes descendantes, jusqu'à 30-100 µm, reliées par des hyphes 4-5 µm Ø
   trame-tubulaire: 
   type: 
   typique: 

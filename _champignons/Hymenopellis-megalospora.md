@@ -16,11 +16,11 @@ details:
   famille: Physalacriaceae
   genre: Hymenopellis
   espece: megalospora
-  litterature: 
+  litterature: (Clem.) R.H. Petersen, Nova Hedwigia, 137, 181, 2010
   fongariums:
-    - fongarium: 
-      date: 
-  numero-de-planche-micrographique: 
+    - fongarium: cKc0038
+      date: 26 août 2012
+  numero-de-planche-micrographique: cKc0038-0011
 
 description:
   acanthocytes: 
@@ -42,19 +42,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: cylindriques à légèrement piriformes, bouclées à la base, tétrastérigmates, 55-60(61,5) x 13-14(15,2) µm en moyenne
+  basidiospores: |
+    ellipsoïdes à amygdaliformes, ridulées, à paroi légèrement épaissie, avec appendice hilaire proéminent, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    16,6 [18,5; 19,2] 21 x 10,7 [11,6; 12] 12,9 µm
+    Q = 1,5 [1,6] 1,7; N = 39; C = 95%
+    Me = 18,8 x 11,8 µm en moyenne; Q moyen = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, pelouse, sur bois de feuillus enfouis, près des souches ou sur racines vivantes enfuies
-  boucles: 
+  boucles: abondantes, observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: cylindriques à largement cylindriques, parfois lécythiformes, rarement mucronées, 69,2 x 54,3 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -64,9 +68,9 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 83 mm Ø, conique, convexe, visqueux, ridé plissé, brunâtre
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: polymorphes et abondantes, lécythiformes à largement clavées et 93,1 x 30,1 µm en moyenne, fusiformes et 52,3 x 8,1 µm en moyenne, à largement fusiformes, parfois cylindriques et parfois cylindriques et élargies vers l'apex, rarement rostrées
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -172,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, larges, espacées, avec lamellules irrégulières à distribution symétrique, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,15 +209,15 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 103 x 13 mm Ø, élargi un peu vers la base, longuement radicant, avec pseudorhize de 31 mm de long, lisse ou finement strié, blanc
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en hyménoderme
   pileitrame: 
-  pileocystides: 
+  pileocystides: longuement fusiformes et courbées, 73,7 x 8,8 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: claviformes à largement claviformes 91,8 x 26,5 µm, à fusiformes-ventrues
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -231,7 +235,11 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -244,8 +252,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanchâtre, crème
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -260,7 +267,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   type: 
   typique: 

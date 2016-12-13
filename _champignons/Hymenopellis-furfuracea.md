@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, blanche, immuable
   chancre: 
-  chapeau: 
+  chapeau: 20-100 mm Ø, campanulé à convexe puis étalé-mamelonné, sec et très finement velouté au début, puis lubrique et glabre avec l'âge, ridé-plissé, brun foncé puis brun pâle à brun jaunâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -73,7 +73,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: largement adnées à uncinées, vite sécédentes, largement ventrues à maturité, subespacées, avec lamellules  irrégulières à distribution symétrique, blanches, à arêtes parfois brunes vers le pourtour du chapeau
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: 80-400 x 3-10 mm Ø, légèrement élargi vers la base, avec pseudorhize enfouie dans le substrat, rigide, subcartilagineux, sec, souvent strié, furfuracé de brun sur fond blanchâtre, avec pseudorhize blanche, devenant teinté de cannelle à rouille au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,12 +243,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanchâtre, crème
   spores: 
   spherocytes: 
   sporocystes: 

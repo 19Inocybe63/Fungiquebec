@@ -18,8 +18,10 @@ details:
   espece: furfuracea
   litterature: Petersen, R.H.; Hughes, K.W. 2010. The Xerula/Oudemansiella complex (Agaricales). Beihefte zur Nova Hedwigia. 137:1-625
   fongariums:
-    - fongarium: cKc0006
+    - fongarium: sans mnuméro
       date: 11 juillet 2012
+    - fongarium: cKc0006
+      date: 22 juillet 2012
   numero-de-planche-micrographique: cKc0006-0012
 
 description:
@@ -126,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte
+  exhalaison: indistincte à raphanoïde
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

@@ -181,7 +181,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: Très peu de lamelles (3-5) et sans lamellules
+  lames: adnées, peu de lamelles (3-5) et sans lamellules, blanchâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

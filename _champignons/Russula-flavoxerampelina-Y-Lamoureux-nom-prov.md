@@ -24,7 +24,7 @@ details:
       date: 26 juin 2015
     - fongarium: cKc0355
       date: 19 juillet 2015
-  numero-de-planche-micrographique: 
+  numero-de-planche-micrographique: cKc0327-0116 ; cKc0355-0115
 
 description:
   acanthocytes: 
@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous chêne rouge, hêtre, pin
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 63 mm Ø, convexe, étalé déprimé, glabre à légèrement pruineux, dont la cuticule se pèle sur ¼-¾ du rayon
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -131,8 +131,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: légèrement de poisson
+  exhalaison-des-lames: légèrement de poisson
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: Très peu de lamelles (3-5) et sans lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 55 x 15 mm Ø, cylindrique claviforme, se tache de brun au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -248,18 +248,19 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
+    FeSO<SUB>4</SUB> = absence de coloration sur le chapeau ; verdâtre sur le pied
   receptacle: 
-  remarques: 
+  remarques: |
+    Exhalaison prononcée de sardines une fois le spécimen déshydraté
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: ochrosporées à xanthosporées, IIIc-IVa, ocre foncé à jaune, ocre-orange, d'après la charte de couleur de Romagnesi ; F-H d’après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

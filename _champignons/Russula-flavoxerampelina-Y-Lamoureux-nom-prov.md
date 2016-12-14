@@ -4,10 +4,12 @@ date: 2016-12-J4 00:00:00
 image: https://c1.staticflickr.com/1/312/19210870652_2bb2944cd4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19210870652/in/photolist-ENZRuc-vgAJxN-uZxrV7
 album-flickr:
-  - 
+  - 72157676444128910
 planches:
-  - miniature: 
-    originale: 
+  - miniature: https://c2.staticflickr.com/2/1665/25473403855_1c9559c8e3_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/25473403855/in/photolist-ENZRuc-vgAJxN-uZxrV7
+  - miniature: https://c2.staticflickr.com/2/1534/25052648230_44297c9d70_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/25052648230/in/photolist-EaPnuS-vWnGUh-vWuP4r-vWuYnX
 
 details:
   nom-francais: 

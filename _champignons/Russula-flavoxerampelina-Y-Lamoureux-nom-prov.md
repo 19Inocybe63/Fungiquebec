@@ -1,6 +1,6 @@
 ---
 nom: Russula flavoxerampelina Y. Lamoureux nom. prov.
-date: 2016-12-J4 00:00:00
+date: 2016-12-14 00:00:00
 image: https://c1.staticflickr.com/1/312/19210870652_2bb2944cd4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19210870652/in/photolist-ENZRuc-vgAJxN-uZxrV7
 album-flickr:

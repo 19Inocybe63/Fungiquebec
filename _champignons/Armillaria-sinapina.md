@@ -62,7 +62,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanche
+  chair: mince à épaisse, ferme, blanche à crème
   chancre: 
   chapeau: 20-80 mm Ø, convexe ou campanulé puis étalé, parfois un peu mamelonné, orné de méchules jaune olive fugaces sur fond brun rougeâtre au début, brun rosé avec l'âge
   cheilochrysocystides:
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 40-100 x 5-15 mm Ø, clavé, blanchâtre vers l'apex, strié-fibrilleux et brunâtre vers la base, muni d'un anneau délicat, blanchâtre à jaune olivâtre
   pieds-steriles: 
@@ -264,8 +264,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: jaune doré à jaune moutarde, laissant de petites touffes de fibrilles sur le chapeau, parfois verruciformes, moins souvent au centre du chapeau
+  voile-partiel: laissant un anneau cortinoïde, parfois membraneux, très mince et délicat, collapsant souvent contre le pied, blanc à crème sur la partie supérieure, jaune doré à jaune moutarde sur la partie inférieure, parfois entièrement de ces couleurs
   volve: 
   zone-perihymeniale: 
 ---

@@ -44,7 +44,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrastérigmates, bouclées à la base, peu émergentes, 25-35 x 4,5-8 µm
   basidiospores: |
-    ellipsoïdes à légèrement ovoïdes, lisses, à paroi légèrement épaissie, de 0,4-0,6 µm, avec appendice hilaire, à contenu uniguttulé parfois biguttulé, hyalines, verdâtres dans le NH4OH 2%, inactives dans le melzer
+    ellipsoïdes à légèrement ovoïdes, lisses, à paroi légèrement épaissie, de 0,4-0,6 µm, avec appendice hilaire, à contenu uniguttulé parfois biguttulé, hyalines, verdâtres dans le NH<SUB>4</SUB>OH 2%, inactives dans le melzer
     7,2 [8,1; 8,6] 9,5 x 4,2 [4,9; 5,3] 6 µm
     Q = 1,3 [1,6; 1,7] 2; N = 22; C = 95%
     Me = 8,4 x 5,1 µm; Qe = 1,7

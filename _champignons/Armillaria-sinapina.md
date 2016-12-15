@@ -31,7 +31,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: fertile
   arthroconidies: 
   articles: 
   ascome: 
@@ -42,19 +42,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, bouclées à la base, peu émergentes, 25-35 x 4,5-8 µm
+  basidiospores: |
+    ellipsoïdes à légèrement ovoïdes, lisses, à paroi légèrement épaissie, de 0,4-0,6 µm, avec appendice hilaire, à contenu uniguttulé parfois biguttulé, hyalines, verdâtres dans le NH4OH 2%, inactives dans le melzer
+    7,2 [8,1; 8,6] 9,5 x 4,2 [4,9; 5,3] 6 µm
+    Q = 1,3 [1,6; 1,7] 2; N = 22; C = 95%
+    Me = 8,4 x 5,1 µm; Qe = 1,7
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse sur bois de feuillus, surtout à la base de souches mortes, racines vivantes
-  boucles: 
+  boucles: observées à la base des basides
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 20-80 mm Ø, convexe ou campanulé puis étalé, parfois un peu mamelonné, orné de méchules jaune olive fugaces sur fond brun rougeâtre au début, brun rosé avec l'âge
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: polymorphes abondantes, septées et souvent terminées par des cellules utriformes, cylindriques, piriformes à largement clavées, parfois largement fusiformes, claviformes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,12 +212,12 @@ description:
   pied: 40-100 x 5-15 mm Ø, clavé, blanchâtre vers l'apex, strié-fibrilleux et brunâtre vers la base, muni d'un anneau délicat, blanchâtre à jaune olivâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, avec hyphes réunies en faisceaux, plus ou moins émergentes
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -235,7 +239,8 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Les cheilocystides sont composées par segments (septées) ressemblant aux feuilles d’opuntia avec terminal régulier, subglobuleuse à subclaviforme, ou atténué vers le sommet, ou arrondi, diverticules.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -259,7 +264,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle à subparallèle
   trame-tubulaire: 
   type: 
   typique: 

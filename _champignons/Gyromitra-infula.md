@@ -30,7 +30,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: 20-100 x 25-100 mm Ø, souvent en forme de selle ou de mitre, parfois à 2-4 lobes pointus irréguliers ou en forme de corne, creuse ou chambrée, stipitée, à marge incurvée, ± soudée au pied
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, souvent près et même sur des débris ligneux, ou sur bois pourri de conifères
+  biotopes: pousse au sol, souvent près et même sur des débris ligneux (sur vieux Fomes), ou sur bois pourri de conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -131,7 +131,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: irrégulièrement plissée, ou un peu convolutée, pubescente, parfois sublisse
   face-poroïde: 
   feutrage-basal: 
   fongarium:
@@ -145,7 +145,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: typiquement ondulé-rugueux, parfois convoluté-plissé à sublisse, brun jaunâtre, brun orangé à tan au frais, souvent taché de brun noirâtre, brun rougeâtre à brun foncé teinté de pourpré avec l'âge
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: 20-80 x 20-30 mm Ø, égal ou élargi vers la base, comprimé ou souvent cannelé vers la base, creux ou farci, lisse ou légèrement irrégulier, pubescent, finement granuleux, blanchâtre, crème rosé à brun rougeâtre terne
   pieds-steriles: 
   pigments: 
   pileipellis: 

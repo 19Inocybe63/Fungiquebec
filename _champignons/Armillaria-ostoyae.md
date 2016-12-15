@@ -54,7 +54,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur bois ou racines de conifères, moins souvent de feuillus agent de carie de racines
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -194,7 +194,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: typiquement densément cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,7 +208,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 50-150 mm x 8-30 mm Ø, subégal à atténué vers la base, fibrilleux-strié, blanchâtre vers l'apex, devenant brunâtre à presque noir vers la base, souvent avec mycélium basal jaunâtre à jaune olive et longs rhizomorphes noirs qui parcourent le bois
   pieds-steriles: 
@@ -242,6 +242,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
+    KOH 10% = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 
@@ -253,7 +254,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanchâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

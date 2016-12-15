@@ -45,7 +45,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, bouclées à la base, 30-35 x 6-7 μm en moyenne
+  basides: claviformes, bouclées à la base, 30-35 x 6-7 µm en moyenne
   basidiospores: |
     elliptiques à largement elliptiques vue de profil à pruniformes vue frontale, lisses, à paroi mince, avec un gros appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique 0,9%, inactives dans le melzer, cyanophiles
     7,7 [8,8; 9,3] 10,4 x 5,1 [5,7; 5,9] 6,5 µm

@@ -81,7 +81,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De cKc. « Voir aussi Association des Mycologues Francophones de Belgique asbl : <a href="http://www.amfb.eu/Myco/ChampQuebec/champquebec.html" rel="nofollow">www.amfb.eu/Myco/ChampQuebec/champquebec.html</a>  »
   conidies: 
   conidiome: 
   conidiophores: 

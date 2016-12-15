@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: ± concolore au chapeau
   chancre: 
-  chapeau: 
+  chapeau: 30-130 mm Ø, convexe avec une marge enroulée au début, devenant largement convexe, plane à légèrement déprimée, avec une marge égale, sec, lisse à finement veloutée au début, devenant rugueux à subécailleux, brun pâle à ± variable
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

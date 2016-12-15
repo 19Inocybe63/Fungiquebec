@@ -70,7 +70,7 @@ description:
   chancre: 
   chapeau: 20-80 mm Ø, convexe ou campanulé puis étalé, parfois un peu mamelonné, orné de méchules jaune olive fugaces sur fond brun rougeâtre au début, brun rosé avec l'âge
   cheilochrysocystides:
-  cheilocystides: polymorphes abondantes, septées et souvent terminées par des cellules utriformes, cylindriques, piriformes à largement clavées, parfois largement fusiformes, claviformes
+  cheilocystides: polymorphes abondantes, septées et souvent terminées par des cellules utriformes, composées par des segments septées ressemblant aux feuilles d’opuntia avec terminal régulier, subglobuleuse à subclaviforme, ou atténué vers le sommet, ou arrondi, diverticules, cylindriques, piriformes à largement clavées, parfois largement fusiformes, claviformes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -243,8 +243,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Les cheilocystides sont composées par segments (septées) ressemblant aux feuilles d’opuntia avec terminal régulier, subglobuleuse à subclaviforme, ou atténué vers le sommet, ou arrondi, diverticules.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

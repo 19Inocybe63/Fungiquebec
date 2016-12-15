@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: de sirop d'érable
+  exhalaison: de sirop d'érable ou de curry (cari)
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

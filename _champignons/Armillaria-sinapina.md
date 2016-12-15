@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois de feuillus, surtout à la base de souches mortes, racines vivantes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche
   chancre: 
-  chapeau: 
+  chapeau: 20-80 mm Ø, convexe ou campanulé puis étalé, parfois un peu mamelonné, orné de méchules jaune olive fugaces sur fond brun rougeâtre au début, brun rosé avec l'âge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées ou subdécurrentes, larges, serrées, blanchâtres, un peu tachées de brun avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 40-100 x 5-15 mm Ø, clavé, blanchâtre vers l'apex, strié-fibrilleux et brunâtre vers la base, muni d'un anneau délicat, blanchâtre à jaune olivâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,13 +239,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanchâtre
   spherocytes: 
   sporocystes: 
   stipitipellis: 

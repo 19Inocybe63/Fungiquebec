@@ -175,7 +175,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, large, serrées à très serrées, blanches à grisâtres à brun grisâtre, à arêtes entières, pâles
+  lames: libres, large, serrées à très serrées, blanches à grisâtres à brun grisâtre à brun rosâtre, à arêtes entières, pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -253,7 +253,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun foncé, brun pourpré à brun noirâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

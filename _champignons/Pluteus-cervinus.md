@@ -81,7 +81,7 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: Alfredo Justo
   columelle: 
-  commentaires: De Alfredo Justo ; « l'épaisseur de la paroi des pleurocystides ne revêt pas une si grande importance. »
+  commentaires: De Alfredo Justo. « L'épaisseur de la paroi des pleurocystides ne revêt pas une si grande importance. »
   conidies: 
   conidiome: 
   conidiophores: 

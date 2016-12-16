@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, surtout des pinèdes et des sapinières
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: entièrement blanchâtre
   chancre: 
-  chapeau: 
+  chapeau: 40-100 mm Ø, conique arrondi, campanulé ou convexe, puis étalé, brun foncé, parfois subtilement teinté de violet, habituellement orné de quelques flocons vélaires gris, à marge non sillonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: de pomme de terre crue
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres à adnexées, avec nombreuses lamellules atténuées, serrées, blanchâtres à grisâtres, se tachant de gris au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 50-150 x 7-15 mm Ø, largement bulbeux-marginé, à bulbe parfois napiforme avec l'âge, rarement fendu, souvent chiné de fibrilles gris-brun sur fond blanchâtre, avec anneau gris, émergeant d'une volve membraneuse soudée au pied
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -240,13 +240,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: pomme de terre crue
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -272,8 +271,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: membraneux ou friable, gris, laissant quelques flocons sur le chapeau et une volve (en grande partie soudée) à la base du pied
+  voile-partiel: membraneux, gris, laissant un anneau dans le haut du pied
   volve: 
   zone-perihymeniale: 
 ---

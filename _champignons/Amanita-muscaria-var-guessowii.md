@@ -10,16 +10,16 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Amanite tue-mouches, variété de Güssow
   autorites: Veselý
-  ordre: 
-  famille: 
+  ordre: Agaricales
+  famille: Amanitaceae
   genre: Amanita
   espece: muscaria var. guessowii
-  litterature: 
+  litterature: Veselý, R. 1933. Revisio critica Amanitarum euopaearum. Annales Mycologici. 31(4):209-298
   fongariums:
-    - fongarium: 
-      date: 
+    - fongarium: cKc0096
+      date: 27 juillet 2013
   numero-de-planche-micrographique: 
 
 description:
@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères, surtout dans les plantations d'épinettes et les bosquets de bouleaux et de peupliers
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche ou jaunâtre, immuable
   chancre: 
-  chapeau: 
+  chapeau: 70-250 mm Ø, globuleux à convexe puis étalé, orné de flocons vélaires blancs à jaunâtres sur fond jaune vif, jaune orangé à orange rougeâtre, parfois rouge au centre, à marge sillonnée à maturité
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, avec nombreuses lamellules tronquées, blanchâtres, parfois jaunâtres à l'arête
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: 120-250 x 10-25 mm Ø, cylindrique, égal ou atténué vers apex, bulbeux-arrondi, poudreux, fibrilleux à squamuleux, orné de petites écailles ± disposées en cercles au dessus du bulbe, blanc à jaune pâle, annelé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,19 +234,19 @@ description:
   publications: |
     Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 5% = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -255,7 +255,10 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Amanita muscaria var. güssowii Veselý (1933)
+    Amanita muscaria f. gussowii (Veselý) Neville & Poumarat (2002)
+    Amanita muscaria f. guessowii (Veselý) Neville & Poumarat, Bulletin de la Société Mycologique de France 117 (4):305 (2002)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -266,8 +269,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: friable, blanc ou jaune pâle, laissant des flocons sur le chapeau et des bourrelets écailleux concentriques au-dessus du bulbe du pied
+  voile-partiel: membraneux, blanc à jaune pâle, laissant un anneau dans le haut du pied, ample, pendant, flasque
   volve: 
   zone-perihymeniale: 
 ---

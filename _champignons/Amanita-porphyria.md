@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Amanite porphyre
   autorites: Alb. & Schwein.
   ordre: Agaricales
   famille: Amanitaceae
@@ -236,7 +236,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: De Yves Lamoureux. « On reconnaît facilement cette amanite aux traits suivants: chapeau foncé, anneau gris et pied très bulbeux. A. lignophila en diffère par sa petite taille, son pied blanc et son anneau blanc ou jaune. L’épithète « porphyria » désigne une couleur teintée de pourpre. Toutefois, cette coloration est rarement présente chez l’espèce, du moins au Québec. Il ne faut donc pas accorder d’importance à la signification de ce nom. »
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

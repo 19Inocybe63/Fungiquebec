@@ -16,10 +16,10 @@ details:
   famille: Amanitaceae
   genre: Amanita
   espece: porphyria
-  litterature: 
+  litterature: Albertini, J.B.; Schweinitz, L.D. von. 1805. Conspectus Fungorum in Lusatiae superioris. :1-376
   fongariums:
-    - fongarium: 
-      date: 
+    - fongarium: cKc0284
+      date: 3 octobre 2014
   numero-de-planche-micrographique: 
 
 description:
@@ -255,7 +255,13 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Agaricus porphyreus (Alb. & Schwein.) Fr. (1821)
+    Agaricus porphyrius (Alb. & Schwein.) Fr., Systema Mycologicum 1:14 (1821)
+    Amanitina porphyria (Alb. & Schwein.) E.-J. Gilbert, Iconographia Mycologica 27:78 (1940)
+    Agaricus porphyreus (Alb. & Schwein.) Fr. (1821)
+    Amanita tomentella Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 4:23, 29:6-9 (1836)
+    Agaricus recutitus Fr., Epicrisis Systematis Mycologici:6 (1838)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

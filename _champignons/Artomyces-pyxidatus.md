@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Clavaire couronnée
   autorites: (Pers.) Jülich
   ordre: Russulales
   famille: Auriscalpiaceae
@@ -45,9 +45,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: 50-100 mm de hauteur, 20-80 mm Ø, coralloïde, aux extrémités en forme de petites couronnes, blanchâtre à crème jaunâtre, se tachant de brunâtre avec l'âge
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois pourri de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,7 +62,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: flexible, blanchâtre
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: peu distinct
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,7 +236,7 @@ description:
   reactions-macrochimiques: |
     KOH 10% = jaune brunâtre pâle sur chair et rameaux
   receptacle: 
-  remarques: 
+  remarques: Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -245,8 +245,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

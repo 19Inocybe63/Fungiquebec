@@ -14,8 +14,8 @@ details:
   autorites: Y. Lamoureux
   ordre: Agaricales
   famille: Amanitaceae
-  genre: fuscozonata
-  espece: 
+  genre: Amanita
+  espece: fuscozonata
   litterature: 
   fongariums:
     - fongarium: cKc0085

@@ -45,7 +45,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, aux extrémités en forme de petites couronnes, ramifié à plusieurs reprises, blanchâtre à crème jaunâtre, se tachant de brunâtre avec l'âge
+  basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, ramifié à plusieurs reprises, aux extrémités en forme de petites couronnes, branche 1-5 mm Ø, lisse, blanchâtre à jaune pâle au début, parfois foncé à pâle aux teintes rosâtres en développement, pointes couronnées d'une dépression peu profonde et de 3-6 pointes, dont les extrémités sont concolores aux branches ou deviennent brunâtres
   bibliographies: 
   biotopes: pousse sur bois pourri de feuillus
   boucles: 

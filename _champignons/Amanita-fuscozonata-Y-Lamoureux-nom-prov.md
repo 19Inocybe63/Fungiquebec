@@ -11,15 +11,15 @@ planches:
 
 details:
   nom-francais: 
-  autorites: 
-  ordre: 
-  famille: 
-  genre: 
+  autorites: Y. Lamoureux
+  ordre: Agaricales
+  famille: Amanitaceae
+  genre: fuscozonata
   espece: 
   litterature: 
   fongariums:
-    - fongarium: 
-      date: 
+    - fongarium: cKc0085
+      date: 20 juillet 2013
   numero-de-planche-micrographique: 
 
 description:
@@ -231,7 +231,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

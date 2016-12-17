@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: base de 10-30 mm de long, < 10 mm Ø, blanchâtre, rosâtre ou brunâtre, finememt duveteux
+  pied: base de 10-30 mm de long, < 10 mm Ø, blanchâtre, rosâtre ou brunâtre, finement duveteux
   pieds-steriles: 
   pigments: 
   pileipellis: 

@@ -53,7 +53,7 @@ description:
   basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, ramifié à plusieurs reprises, aux extrémités en forme de petites couronnes, branche 1-5 mm Ø, lisse, blanchâtre à jaune pâle au début, parfois foncé à pâle aux teintes rosâtres en développement, apex couronnées d'une dépression peu profonde et de 3-6 pointes, dont les extrémités sont concolores aux branches ou deviennent brunâtres
   bibliographies: 
   biotopes: pousse sur bois pourri de feuillus
-  boucles: 
+  boucles: facilement observables
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -156,7 +156,7 @@ description:
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
   hyphes-glebales: 
-  hyphes-gleopleres: 
+  hyphes-gleopleres: de 5 à 8 µm de large, dispersés dans le sous-hémenium
   hyphes-hymeniales: 
   hyphes-ligatives: 
   hyphes-oleiferes: 

@@ -62,7 +62,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: flexible, blanchâtre
+  chair: assez dure, flexible, blanchâtre
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: peu distinct
+  pied: base de 10-30 mm de long, < 10 mm Ø, blanchâtre, rosâtre ou brunâtre, finememt duveteux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -235,12 +235,13 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: |
     KOH 10% = jaune brunâtre pâle sur chair et rameaux
+    FeSO<SUB>4</SUB> = pas de coloration à légèrement grisâtre ou brunâtre sur les branches et la base
   receptacle: 
   remarques: Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: doux à légèrement âcre
   sclerocystides: 
   sclerote: 
   soies: 

@@ -234,8 +234,8 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = jaune brunâtre pâle sur chair et rameaux
     FeSO<SUB>4</SUB> = pas de coloration à légèrement grisâtre ou brunâtre sur les branches et la base
+    KOH 10% = jaune brunâtre pâle sur chair et rameaux
   receptacle: 
   remarques: Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes.
   repartition: 

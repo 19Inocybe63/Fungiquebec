@@ -43,7 +43,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    courtement elliptiques à subovoïdales vue de front, à elliptiques-ovoïdales vue de profil, finement verruqueuses (criblé), à paroi mince, appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes, partiellement cyanophiles à cyanophiles
+    (3,7) 4 - 4,6 (5) × (2,5) 2,55 - 2,9 (3) µm
+    Q = (1,4) 1,5 - 1,7 (1,9) ; N = 30
+    Me = 4,3 × 2,7 µm ; Qe = 1,6
+    (Piximètre, formula classique, mesures issues de sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, ramifié à plusieurs reprises, aux extrémités en forme de petites couronnes, branche 1-5 mm Ø, lisse, blanchâtre à jaune pâle au début, parfois foncé à pâle aux teintes rosâtres en développement, apex couronnées d'une dépression peu profonde et de 3-6 pointes, dont les extrémités sont concolores aux branches ou deviennent brunâtres
   bibliographies: 

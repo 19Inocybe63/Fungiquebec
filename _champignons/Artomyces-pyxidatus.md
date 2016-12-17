@@ -218,7 +218,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles, polymorphes, fusiformes à longuement fusiformes, lagéniformes à rostrées, avec contenu réfringeants dans le NH<SUB>4</SUB>OH 2%, (24,2) 26,7 - 28,2 (32,7) × (3,3) 3,31 - 4,2 µm en moyenne
+  pleurocystides: occasionnelles, polymorphes, fusiformes à longuement fusiformes, lagéniformes à rostrées, avec contenu réfringeant dans le NH<SUB>4</SUB>OH 2%, souvent peu émergentes ou émergentes de moitié (24,2) 26,7 - 28,2 (32,7) × (3,3) 3,31 - 4,2 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

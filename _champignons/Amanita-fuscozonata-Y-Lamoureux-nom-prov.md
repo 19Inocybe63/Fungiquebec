@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Amanite zonée
   autorites: Y. Lamoureux
   ordre: Agaricales
   famille: Amanitaceae
@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous bouleaux, chênes et hêtres
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche
   chancre: 
-  chapeau: 
+  chapeau: 40-90 mm Ø, ovoïde, conique-arrondi puis étalé-mamelonné, souvent sans restes vélaires, gris moyen à gris-brun, plus foncé au centre et dans la zone antémarginale, à marge longuement sillonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: blanchâtres ou grisâtre pâle, grisâtres au sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 70-170 x 5-12 mm Ø, cylindrique à claviforme, finement floconneux puis glabre, non bulbeux, blanc à grisâtre pâle, non annelé, émergeant d'une volve bien développée
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -240,13 +240,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -266,8 +265,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
-  voile-partiel: 
+  voile-general: membraneux, blanc, parfois grisâtre par endroits, laissant une volve à la base du pied
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

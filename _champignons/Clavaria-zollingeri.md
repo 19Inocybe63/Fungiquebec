@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Clavaire violette
   autorites: Lév.
   ordre: Agaricales
   famille: Clavariaceae
@@ -45,7 +45,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: 15-100 mm de hauteur, jusqu'à 20-70 mm Ø, dressé, coralloïde, formé de ramifications arrivant d'une même base, lisse, pourpre, améthyste foncé, violet, pourpre rougeâtre à pourpre rosâtre, plus foncé vers les bouts, pâlissant légèrement
   bibliographies: 
   biotopes: pousse au sol, milieu herbeux, humus des forêts de feuillus
   boucles: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: jusqu'à 30 mm de longueur, 2-4 mm de largeur, variable, plus pâle, tan violacé terne, brun violacé grisâtre à grisâtre, jaunâtre avec l'âge, avec feutrage subiculaire blanc et parfois mycélien blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,7 +234,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = pas de coloration sur la surface
+    FeSO<sub>4</sub> = pas de coloration sur toutes les surfaces
   receptacle: 
   remarques: 
   repartition: 

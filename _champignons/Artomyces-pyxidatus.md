@@ -6,8 +6,8 @@ image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist
 album-flickr:
   - 
 planches:
-  - miniature: 
-    originale: 
+  - miniature: https://c1.staticflickr.com/1/489/30879637394_68dab00a8b_b.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/30879637394/in/photostream/
 
 details:
   nom-francais: Clavaire couronnée

@@ -248,7 +248,7 @@ description:
   receptacle: 
   remarques: |
     Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes.
-    Puisque les spores sont petites, hyalines et mal définies dans l'eau glycérinée 20% ou dans le NaCl iso 0,9%, elles se prêtent parfaitement à une préparation dans le Permanganate de potassium (KMnO<sub>4), qui en détermine mieux les contours.
+    Puisque les spores sont petites, hyalines et mal définies dans l'eau glycérinée 20% ou dans le NaCl iso 0,9%, elles se prêtent parfaitement à une préparation dans le Permanganate de potassium (KMnO<sub>4</sub>), qui en détermine mieux les contours.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

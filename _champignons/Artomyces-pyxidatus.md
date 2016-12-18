@@ -246,7 +246,9 @@ description:
     FeSO<SUB>4</SUB> = pas de coloration à légèrement grisâtre ou brunâtre sur les branches et la base
     KOH 10% = jaune brunâtre pâle sur chair et rameaux
   receptacle: 
-  remarques: Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes.
+  remarques: |
+    Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes.
+    Puisque les spores sont petites, hyalines et mal définies dans l'eau glycérinée 20% ou dans le NaCl iso 0,9%, elles se prêtent parfaitement à une préparation dans le Permanganate de potassium (KMnO<sub>4), qui en détermine mieux les contours.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

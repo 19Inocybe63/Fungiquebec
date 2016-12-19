@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur sol humide, moussu ou herbeux, sur litière de feuilles tombées, de débris ligneux, en forêts et milieux ouverts
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,7 +62,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, très fragile, cassante, blanche
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: densément cespiteux, grégaire, souvent groupe de 20-50 individus
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -239,13 +239,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

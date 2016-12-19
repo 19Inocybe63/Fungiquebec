@@ -45,7 +45,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: 60-150 x, 3-5 mm Ø, dressé, cylindrique-élancé puis fusiforme-allongé, légèrement aplati, souvent courbe ou flexueux, simple, parfois fourchu vers l'apex, aigu puis trapu et souvent tordu vers l'apex, plein puis souvent creux, lisse ou parfois sillonné, blanc à crème, presque translucide à l'humidité, souvent jaunâtre vers l'apex, entièrement jaune pâle depuis l'apex avec l'âge
   bibliographies: 
   biotopes: pousse sur sol humide, moussu ou herbeux, sur litière de feuilles tombées, de débris ligneux, en forêts et milieux ouverts
   boucles: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: indistinct, court, légèrement atténué vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,7 +233,9 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<sub>4</sub> = pas de coloration sur toutes les surfaces
+    KOH 10% = pas de coloration ou de décoloration sur toutes les surfaces
   receptacle: 
   remarques: 
   repartition: 

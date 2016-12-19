@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: densément cespiteux, grégaire, souvent groupe de 20-50 individus
+  mode-de-croissance: densément cespiteux, grégaire, souvent en groupe de 20-50 individus
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

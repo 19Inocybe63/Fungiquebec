@@ -1,0 +1,285 @@
+---
+nom: Clavaria fragilis
+date: 2016-12-19 00:00:00
+image: https://c1.staticflickr.com/9/8843/28240406722_244345c4a1_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/28240406722/in/photolist-K2vt3b
+album-flickr:
+  - 
+planches:
+  - miniature: 
+    originale: 
+
+details:
+  nom-francais: Clavaire fragile
+  autorites: Holmsk.
+  ordre: Agaricales
+  famille: Clavariaceae
+  genre: Clavaria
+  espece: fragilis
+  litterature: Holmskjold, T. 1790. Beata ruris otia fungis danicis. 1:1-118
+  fongariums:
+    - fongarium: cKc0518
+      date: 16 juillet 2016
+  numero-de-planche-micrographique: 
+
+description:
+  acanthocytes: 
+  acanthophyses: 
+  aiguillons: 
+  aleurioconidies: 
+  anamorphe: 
+  anamorphe-conidien: 
+  anneau: 
+  apothecie: 
+  arete-lamellaire: 
+  arthroconidies: 
+  articles: 
+  ascome: 
+  ascospores: 
+  asques: 
+  asterohyphidies: 
+  avertissement: 
+  base-du-pied: 
+  base-sterile: 
+  base-stipitiforme: 
+  basides: 
+  basidiospores: 
+  basidioles: 
+  basidiome: 
+  bibliographies: 
+  biotopes: 
+  boucles: 
+  brachybasidioles: 
+  calicule: 
+  capillitium: 
+  capitule: 
+  caulobasides: 
+  caulocystides: 
+  caulocystides-medianes: 
+  caulocystides-sommitales: 
+  cellules-hymeniales-diverticulees: 
+  cellules-hymeniales-en-brosses: 
+  cellules-marginales-paracystides: 
+  cellules-peritheciales: 
+  cellules-stromatiques: 
+  chair: 
+  chancre: 
+  chapeau: 
+  cheilochrysocystides:
+  cheilocystides: 
+  cheiloleptocystides: 
+  cheilomacrocystides: 
+  chlamydospores: 
+  chrysocystides: 
+  circumcystides: 
+  clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
+  collection-determinee-par: 
+  collection-determination-provisoire-par: 
+  columelle: 
+  commentaires: 
+  conidies: 
+  conidiome: 
+  conidiophores: 
+  consistance: 
+  contexte: 
+  cordons-myceliens: 
+  cordons-rhizomorphiques: 
+  cortex: 
+  cortex-caulinaire: 
+  cortex-du-pied-et-du-bulbe: 
+  cortex-peridial: 
+  cortex-sclerotial: 
+  cortine: 
+  couches-de-tubes: 
+  coupe-sterile: 
+  cristaux: 
+  cristaux-d-oxalate: 
+  cuticule: 
+  cutis: 
+  cycle: 
+  cystides: 
+  cystides-hymeniales: 
+  cystides-intermediaires: 
+  cystidioles: 
+  dendrohyphydies: 
+  depots-de-pigment-interhyphal: 
+  dermatocystides-caulocystides-et-pileipellis: 
+  derniere-correction: 
+  dicaryophyses: 
+  dichophyses: 
+  disque-basal: 
+  distribution-et-abondance: 
+  elateres: 
+  elements-acanthophyses: 
+  elements-cystidioides: 
+  elements-hyphoides: 
+  elements-setoides: 
+  elements-steriles: 
+  elements-sur-les-cotes: 
+  elements-velaires: 
+  endoperidium: 
+  especes-identification: 
+  especes-semblables: 
+  excipulum: 
+  excipulum-medullaire-superieur: 
+  excipulum-medullaire-moyen: 
+  excipulum-medullaire-inferieur: 
+  excipulum-ectal: 
+  exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
+  exoperidium: 
+  extremites-hyphales: 
+  face-externe: 
+  face-poroïde: 
+  feutrage-basal: 
+  fongarium:
+  fragments-sporaux: 
+  frequence: 
+  glebe: 
+  gleocystides: 
+  gleocystides-hymeniales: 
+  gleocystides-subhymeniales: 
+  granules-calcaires: 
+  groupe: 
+  hymenium: 
+  hymenocystides: 
+  hymenophore: 
+  hyphes: 
+  hyphes-de-la-chair: 
+  hyphes-de-l-anneau: 
+  hyphes-du-pied: 
+  hyphes-glebales: 
+  hyphes-gleopleres: 
+  hyphes-hymeniales: 
+  hyphes-ligatives: 
+  hyphes-oleiferes: 
+  hyphes-pectinees: 
+  hyphes-primordiales: 
+  hyphes-setales: 
+  hyphes-squelettiques: 
+  hyphes-skeletoligative: 
+  hyphes-subiculaires: 
+  hyphes-tramales: 
+  hyphes-vesiculaires: 
+  hyphidies: 
+  hyphique: 
+  hypobasides: 
+  hypoderme: 
+  hypoge: 
+  hypophylle: 
+  hypothalle: 
+  hypothece: 
+  hysterothece: 
+  lames: 
+  lamprocystides: 
+  lamprocheilocystides: 
+  lampropleurocystides: 
+  lamprocaulocystides: 
+  latex: 
+  leptocystides: 
+  macrocystides: 
+  macropleurocystides: 
+  marge: 
+  marge-et-face-externe: 
+  mediostrate: 
+  medulla: 
+  medulla-caulinaire: 
+  medulla-clavariale: 
+  medulla-clavulaire: 
+  microconidies: 
+  mode-de-croissance: 
+  mycelium-basal: 
+  myxocarpe: 
+  nouvelle-espece: 
+  note-taxonomique: 
+  oeuf: 
+  paracapillitium: 
+  paraphyses: 
+  parasite: 
+  paroi-peritheciale: 
+  peridiole: 
+  peridiopellis: 
+  peridium: 
+  peritheces: 
+  phenologie: 
+  phialoconidies: 
+  pied: 
+  pieds-steriles: 
+  pigments: 
+  pileipellis: 
+  pileitrame: 
+  pileocystides: 
+  plasmode: 
+  pleurochrysocystides: 
+  pleurocystides: 
+  poils: 
+  poils-basaux: 
+  poils-caulinaires: 
+  poils-du-cortex: 
+  poils-externes: 
+  poils-lateraux-et-caulinaires: 
+  poils-marginaux: 
+  poils-mycelien-basaux: 
+  poils-peridiaux: 
+  poils-peritheciaux: 
+  poils-pileiques: 
+  pores: 
+  premiere-mention: 
+  pseudocapillitium: 
+  pseudocolumelle: 
+  pseudocystides: 
+  pseudo-peridioles: 
+  publications: 
+  publications-microscopiques: 
+  reactions-macrochimiques: 
+  receptacle: 
+  remarques: 
+  repartition: 
+  rhizomorphes: 
+  sac-sporifere: 
+  saveur: 
+  sclerocystides: 
+  sclerote: 
+  soies: 
+  soies-hymeniales: 
+  sporee: 
+  spores: 
+  spherocytes: 
+  sporocystes: 
+  stipitipellis: 
+  stipititrame: 
+  stroma: 
+  subhymenium: 
+  subiculum: 
+  substrat: 
+  synonymie: |
+    Clavaria eburnea Pers., Synopsis methodica fungorum:603 (1801)
+    Clavaria eburnea var. fragilis (Holmsk.) Pers., Synopsis methodica fungorum:603 (1801)
+    Clavaria cylindrica Bull., Herbier de la France 10:t. 463:1 (1790)
+    Clavaria vermicularis Sw., Kungl. Svenska Vetenskapsakad. Handl.:159, t. 6:2 (1811)
+    Clavaria alba Pers., Traité sur les Champignons Comestibles:255 (1818)
+    Clavaria solida Gray, A natural arrangement of British plants 1:656 (1821)
+    Clavaria pistilliforma Pers. (1822)
+    Clavaria corynoides Peck, Annual Report on the New York State Museum of Natural History 31:39 (1879)
+    Clavaria simplex P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:172 (1882)
+    Clavaria gracilior Britzelm., Hymenomyceten aus Südbayern 9:14 (1891)
+    Clavaria muelleri Berk. ex Cooke, Grevillea 20:10 (1891)
+    Clavaria ninea Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 30 (2):96 (1901)
+    Clavaria nivea Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 30 (2):496 (1901)
+  systeme-hyphal: 
+  textura: 
+  tomentum-caulinaire: 
+  tomentum-pileique: 
+  trame-hymenophorale: 
+  trame-lamellaire: 
+  trame-tubulaire: 
+  type: 
+  typique: 
+  voile: 
+  voile-general: 
+  voile-partiel: 
+  volve: 
+  zone-perihymeniale: 
+---

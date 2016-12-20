@@ -42,8 +42,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à claviformes élancées, tétrastérigmates, non bouclées à la base, 37,7 [45,2; 51] 58,5 x 10,3 [11,6; 12,6] 13,9 µm en moyenne
+  basidiospores: |
+    subglobuleuses à largement elliptiques vue de profil à globuleuses vue frontale, verruqueuses-échinulées, avec quelques rares connexifs, avec proéminences jusqu’à 0,9 µm, aussi < 1,0 µm de hauteur, à paroi mince, appendice hilaire pas toujours bien visible, ainsi que la plage hilaire 2,2-3,5 µm, à contenu uniguttulé, subhyalines dans le NaCl iso 0,9%, amyloïdes
+    7,6 [8,7; 9,2] 10,4 x 6,5 [7,2; 7,5] 8,3 µm
+    Q = 1,1 [1,2] 1,3; N = 30; C = 95%
+    Me = 9 x 7,4 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: peu nombreuses et non projetées, semblables aux pleurocystides
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,10 +214,10 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: 
+  pileocystides: abondantes, gorgées de pigments, 45-100 x 5-6 µm; Sulfobenzaldéhyde positif (SBA+)
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: abondantes, polymorphes, claviformes, cylindriques à apex pointue, cylindriques-claviformes, cylindriques mucronées, cylindriques avec apex subrostrées, lagéniformes à lagéniformes dont l’apex est souvent moniliformes, pourprées dans le Sulfobenzaldéhyde (SBA+) 43,5 [55,8; 67,2] 79,5 x 6,6 [9,7; 12,6] 15,7 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -235,7 +239,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Il semble y avoir des hyphes partiellement incrustées par endroits.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

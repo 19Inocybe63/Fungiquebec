@@ -34,6 +34,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
+    Buyck, B., Adamčík, S., (2013) Type Studies in Russula Subsection Lactarioideae from North America and a Tentative Key to North American Species. Cryptogamie Mycol 34:259-279.
     Shaffer, Robert L. The Subsection Lactarioideae of Russula, Mycologia, vol. 56, No. 2 (Mar.-Apr., 1964), pp. 202-231.
   ascome: 
   ascospores: 

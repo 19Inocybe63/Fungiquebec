@@ -16,7 +16,7 @@ details:
   famille: Russulaceae
   genre: Russula
   espece: seperina
-  litterature: Dupain 1913, Bull. Soc. Mycol. France 28: 181, t. 7:1-6
+  litterature: Dupain 1913, Bull. Soc. Mycol. France 28:181, t. 7:1-6
   fongariums:
     - fongarium: cKc0216
       date: 25 août 2014

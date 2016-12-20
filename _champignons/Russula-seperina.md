@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous feuillus, chêne, hêtre à grande feuilles, bouleaux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -66,9 +66,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche, rougit puis grisonne à la coupe, ou au grattage
   chancre: 
-  chapeau: 
+  chapeau: convexe pus étalé, 47 mm Ø, pruineux, cuticule se pèle du ¼-¾ du rayon, rouge à rouge vin
   cheilochrysocystides:
   cheilocystides: peu nombreuses et non projetées, semblables aux pleurocystides
   cheiloleptocystides: 
@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 45 x 11 mm Ø, cylindrique claviforme, farci, rougit puis grisonne au grattage, la chair est gris cendre après dessiccation
   pieds-steriles: 
   pigments: 
   pileipellis: 

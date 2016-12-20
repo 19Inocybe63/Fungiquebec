@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur pelouse, sous chênes, hêtres et pins
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, cassante, blanche, immuable
   chancre: 
-  chapeau: 
+  chapeau: 90-100 mm Ø, convexe à déprimé, graduellement infundibuliforme, glabre, blanchâtre avec une teinte jaune terne à rouille au centre et légèrement sur le pourtour
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: faible, mais prononcé de crustacé une fois déshydraté
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, étroites, avec nombreuses lamellules, serrées, crème à chamois, aucune furcations
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 40-50 x 20-30 mm Ø, cylindrique, égal, souvent court et trapu, ferme, lisse à subvelouté, blanc, immuable
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -231,21 +231,30 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
-  publications-microscopiques: 
+  publications: |
+    Beenken, Ludwig. Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
+    Kibby, Geoffrey. The Genus Russula in Great Britain, with Synoptic keys to species, Édition Geoffrey Kibby, 2011, 132 p.
+    Kibby, Geoffrey., Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    Sarnari, Mauro. Monografia Illustrata del Genere Russula in Europa (Tomo Primo), A.M.B. Fondazione Centro Studi Micologici, 1998, 799 p.
+    Sarnari, Mauro. Monografia Illustrata del Genere Russula in Europa (Tomo Secondo), A.M.B. Fondazione Centro Studi Micologici, 2005, 761 p. (page 807 à 1568)
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Subsection Lactarioïdeae Sarnari / Compactae-Plorantinae chez Romagnesi 1967
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: faiblement acre
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: leucosporée à pallidosporée, blanche à crème pâle, d'après la charte de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

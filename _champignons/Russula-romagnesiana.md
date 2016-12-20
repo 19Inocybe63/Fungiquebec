@@ -84,7 +84,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: De C. Kaufholtz-Couture. « Il ne peut s'agir de R. brevipes var. acrior, car la spore de la collection cKc0347 est beaucoup trop petite ; mais aussi parce que la saveur de la collection cKc0347 n'est pas très âcre, légèrement tout au plus. »
   conidies: 
   conidiome: 
   conidiophores: 

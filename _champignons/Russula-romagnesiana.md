@@ -84,7 +84,11 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: De C. Kaufholtz-Couture. « Il ne peut s'agir de R. brevipes var. acrior, car la spore de la collection cKc0347 est beaucoup trop petite ; mais aussi parce que la saveur de la collection cKc0347 n'est pas très âcre, légèrement tout au plus. »
+  commentaires: |
+    De C. Kaufholtz-Couture. « Romagnesi indique que R. chloroïdes forme type chloroïdes possède « avec quelquefois dans sa forme typique un beau cerne vert sous l'insertion des lames, qui manque d'ailleurs très souvent, à surface d'abord pruineuse, puis satinée-luisante, finement ruguleuse ».
+    De C. Kaufholtz-Couture. « Il ne peut s'agir de R. brevipes var. acrior, car la spore de la collection cKc0347 est beaucoup trop petite ; mais aussi parce que la saveur de la collection cKc0347 n'est pas très âcre, légèrement tout au plus. »
+Toujours d'après Romagnesi, il indique en « observation » à la page 230, que R. L. Schaffer a trouvé en Amérique une Plorantinae à petites spores (R. chloroides var. parvispora) qu'il rattache à la variété parvispora, mais préfère l'élever au rang d'espèce sous le nom de R. romagnesiana. (...) Je trouve de grandes ressemblances avec ma collection (cKc0347).
+ »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -143,7 +147,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -196,7 +200,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé, dispersé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -210,7 +214,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à août
   phialoconidies: 
   pied: 40-50 x 20-30 mm Ø, cylindrique, égal, souvent court et trapu, ferme, lisse à subvelouté, blanc, avec zone vert cyan à l'apex, immuable
   pieds-steriles: 

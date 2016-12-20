@@ -33,7 +33,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Shaffer, Robert L. The Subsection Lactarioideae of Russula, Mycologia, vol. 56, No. 2 (Mar.-Apr., 1964), pp. 202-231.
   ascome: 
   ascospores: 
   asques: 
@@ -205,7 +206,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 40-50 x 20-30 mm Ø, cylindrique, égal, souvent court et trapu, ferme, lisse à subvelouté, blanc, immuable
+  pied: 40-50 x 20-30 mm Ø, cylindrique, égal, souvent court et trapu, ferme, lisse à subvelouté, blanc, avec zone vert cyan à l'apex, immuable
   pieds-steriles: 
   pigments: 
   pileipellis: 

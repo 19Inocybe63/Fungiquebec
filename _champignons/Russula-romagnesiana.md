@@ -44,8 +44,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: longuement claviformes, tétrastérigmates, non bouclées à la base, 47,2 - 61,0(61,2) × 10,6 - 12,6 µm
+  basidiospores: |
+    globuleuses à subglobuleuses, verruqueuses-échinulées moyennes et isolées, ne formant pas de zones proprement réticulées, peu aculéolées avec proéminences entre 0,5-1,5 µm de hauteur, à paroi mince, appendice hilaire petit, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    (6,8) 7 - 7,8 (7,9) × (6,2) 6,4 - 7,1 (7,3) µm
+    Q = 1 - 1,1 (1,2) ; N = 30
+    Me = 7,4 × 6,8 µm ; Qe = 1,1
+    (Piximètre, formule classique ; mesures issues de sporée dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -68,7 +73,7 @@ description:
   chancre: 
   chapeau: 90-100 mm Ø, convexe à déprimé, graduellement infundibuliforme, glabre, blanchâtre avec une teinte jaune terne à rouille au centre et légèrement sur le pourtour
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, claviformes, au contenu pailleté hyalin, (36) 47,4 - 61,5 (68,2) × (6,5) 6,9 - 8,6 (8,7) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -156,7 +161,7 @@ description:
   hyphes-gleopleres: 
   hyphes-hymeniales: 
   hyphes-ligatives: 
-  hyphes-oleiferes: 
+  hyphes-oleiferes: nombreuses et bien visibles dans la Sulfovanilline
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 
@@ -212,10 +217,10 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: 
+  pileocystides: atypiques, cylindriques à clavées, septées, Sulfoaldéhyde négatif
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: semblables aux cheilocystides
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -247,7 +252,9 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Subsection Lactarioïdeae Sarnari / Compactae-Plorantinae chez Romagnesi 1967
+  remarques: |
+    Subsection Lactarioïdeae Sarnari / Compactae-Plorantinae chez Romagnesi 1967.
+    Avec cette collection, je me dirige vers R. romagnesiana, mais une seule collection ne représente pas une espèce. J'espère donc en retrouver pour parfaire cette étude.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet août
   phialoconidies: 
   pied: 45 x 11 mm Ø, cylindrique claviforme, farci, rougit puis grisonne au grattage, la chair est gris cendre après dessiccation
   pieds-steriles: 

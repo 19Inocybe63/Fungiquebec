@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/16195227057/in/photolist-qF7LLH-oSxhN7-oC5sZm
 
 details:
-  nom-francais: 
+  nom-francais: Russule noircie ou Russule de la Sevre
   autorites: Dupain
   ordre: Russulales
   famille: Russulaceae
@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, rougit puis grisonne à la coupe, ou au grattage
   chancre: 
-  chapeau: convexe pus étalé, 47 mm Ø, pruineux, cuticule se pèle du ¼-¾ du rayon, rouge à rouge vin
+  chapeau: 47 mm Ø, convexe puis étalé, pruineux, cuticule se pèle du ¼-¾ du rayon, rouge à rouge vin
   cheilochrysocystides:
   cheilocystides: peu nombreuses et non projetées, semblables aux pleurocystides
   cheiloleptocystides: 

@@ -131,8 +131,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -239,17 +239,18 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Il semble y avoir des hyphes partiellement incrustées par endroits.
+  remarques: |
+    Il semble y avoir des hyphes partiellement incrustées par endroits.
+    Code de Kibby: A I K N / R T V _
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: ocrosporée à xantosporée, IIIc-IVa, ocre foncé à jaune pâle, d'après la charte de couleur de Romagnesi ; E-F- d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

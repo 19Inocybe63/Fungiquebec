@@ -66,7 +66,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanche
+  chair: blanche, immuable
   chancre: 
   chapeau: 40-100 mm Ø, globuleux, convexe puis étalé, visqueux au début, lisse, jaune ocré pâle, jaune-brun, jaune grisâtre à brun soutenu, à marge striée-tuberculée et cuticule pelant jusqu'aux 3/4 du rayon
   cheilochrysocystides:
@@ -140,7 +140,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 30-100 x 10-30 mm Ø, souvent long, égal, ferme, lisse, blanchâtre, blanc jaunâtre à jaune orangé terne, se tachant de brun jaunâtre sur la moitié inférieure
   pieds-steriles: 
@@ -247,7 +247,9 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<sub>4</sub> = pas de coloration à rosâtre sur le pied
+    KOH 10% = pas de coloration ni de décoloration à rosâtre sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

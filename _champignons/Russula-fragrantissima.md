@@ -249,7 +249,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: crème blanchâtre à crème moyen IIb au plus; Source : Romagnesi
+  sporee: crème blanchâtre à crème moyen IIb au plus; Romagnesi
   spherocytes: 
   sporocystes: 
   stipitipellis: 

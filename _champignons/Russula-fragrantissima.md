@@ -42,8 +42,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes à largement clavées, bouclées à la base, à 4 stérigmates, 46-58 x 7-13 µm
+  basidiospores: |
+    globuleuses à subglobuleuses, zébrées ou plurizébrées, ailées, avec quelques verrues isolées, souvent petites, à crêtes très épaisses ou épaisses, avec proéminences jusqu’à 0,7-1,0 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, amyloïde en périphérie, hyalines dans le NaCl iso 0,9%, amyloïdes
+    8 [8,5; 8,9] 9,5 x 7,5 [7,9; 8,2] 8,7 µm
+    Q = 1 [1,1] 1,2; N = 12; C = 95%
+    Me = 8,7 x 8,1 µm; Qe = 1,1
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -54,7 +58,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: semblables aux pleurocystides, mais plus petites
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 40-100 mm Ø, globuleux, convexe puis étalé, visqueux au début, lisse, jaune ocré pâle, jaune-brun, jaune grisâtre à brun soutenu, à marge striée-tuberculée et cuticule pelant jusqu'aux 3/4 du rayon
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: comme les pleurocystides, moins émergentes et plus souvent tordues, ou couchées, Sulfovanilline positives (SV+)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,10 +214,10 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: 
+  pileocystides: cylindriques, capitées, diverticulées rares, 87 x 5 µm, d'aspect mucronées rare, Sulfovanilline positives (SV+)
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: abondantes en ogives à apex moniliformes, avec à l’intérieur des guttules jaunâtres, ou des masses huileuse éparses de la même couleur, 63-63,5 (80) x 7-10 µm, Sulfovanilline positives (SV+)
   poils: 
   poils-basaux: 
   poils-caulinaires: 

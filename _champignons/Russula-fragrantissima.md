@@ -1,26 +1,26 @@
 ---
 nom: Russula fragrantissima
 date: 2016-12-21 00:00:00
-image: 
-image-originale: 
+image: https://c1.staticflickr.com/9/8514/8593889828_e811faf521_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/8593889828/in/photolist-e6rQx2-e6pW3h-e7hgUS
 album-flickr:
-  - 
+  - 72157676714106640
 planches:
-  - miniature: 
-    originale: 
+  - miniature: https://c1.staticflickr.com/9/8111/8594261535_f29626cebb_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8594261535/in/photolist-e6rQx2-e7hgUS-e6pW3h
 
 details:
-  nom-francais: 
+  nom-francais: Russule fragrante
   autorites: Romagn.
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
-  litterature: 
+  ordre: Russusales
+  famille: Russulaceae
+  genre: Russula
+  espece: fragrantissima
+  litterature: Romagnesi, H. 1967. Les Russules d'Europe et d'Afrique du Nord. :1-998
   fongariums:
-    - fongarium: 
-      date: 
-  numero-de-planche-micrographique: 
+    - fongarium: cKc0012
+      date: 29 septembre 2012
+  numero-de-planche-micrographique: cKc0012-0021
 
 description:
   acanthocytes: 
@@ -237,7 +237,12 @@ description:
     Kibby, Geoffrey., Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     Sarnari, Mauro. Monografia Illustrata del Genere Russula in Europa (Tomo Primo), A.M.B. Fondazione Centro Studi Micologici, 1998, 799 p.
     Sarnari, Mauro. Monografia Illustrata del Genere Russula in Europa (Tomo Secondo), A.M.B. Fondazione Centro Studi Micologici, 2005, 761 p. (page 807 à 1568)
-  publications-microscopiques: 
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -249,7 +254,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: crème blanchâtre à crème moyen IIb au plus; Romagnesi
+  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi ; B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -258,7 +263,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Russula laurocerasi var. fragrantissima (Romagn.) Bon, Documents Mycologiques 17 (65):56 (1986)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

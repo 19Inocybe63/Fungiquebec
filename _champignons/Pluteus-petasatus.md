@@ -43,8 +43,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, 2-4 stérigmates, non bouclées à la base, à contenu vacuolaire ou bien carminophile, (26,1) 26,5 - 28,4 (29,1) × (6,8) 7,4 - 8 (9) µm, en moyenne
+  basidiospores: |
+    ovoïdes à subtriangulaires vue frontale, elliptiques à largement elliptiques vue de profil, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu parfois uniguttulé à granulations, hyalines dans l’eau glycérinée 20%, inactives dans le melzer, non cyanophiles
+    (6,2) 6,5 - 7,4 (8) × (4,4) 4,6 - 5,2 (5,4) µm
+    Q = (1,3) 1,31 - 1,5 (1,7) ; N = 30
+    Me = 6,9 × 4,9 µm ; Qe = 1,4
+    (Piximètre, formule classique, mesures issues de sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -60,14 +65,14 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: abondantes, polymorphes, courtement claviformes à claviformes, elliptiques à ovoïdes, piriformes, 21,4 - 40,6 × 12 - 18,8 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: blanche
   chancre: 
   chapeau: 30-200 mm Ø, hémisphérique à campanulé lorsque jeune, convexe à étalé à maturité, avec ou sans ombon, surface lisse, squamuleux-fibrilleux seulement autour du centre, ou avec des squamules bruns distincts partout, avec ou sans fibrilles radiales, blanc pur, gris pâle brun à brun pâle, plus rarement avec des couleurs plus foncées, secs ou nettement visqueux quand humide, marge lisse ou translucide-strié
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: nombreuses, polymorphes, obclaviformes, 34,8 - 57,8 × 11,8 - 13,3 µm en moyenne, plusieurs cylindriques dont l’apex est acuminé
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -175,8 +180,8 @@ description:
   hysterothece: 
   lames: libres, ventrues, jusqu'à 15 (20) mm de large, blanches lorsqu'elles sont jeunes, roses à maturité, avec arêtes lamellaire blanches, ou floconneuses
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: 
+  lamprocheilocystides: présentes, cylindriques métuloïdes, dont l’apex couronné comporte entre un et trois crochets souvent difformes, parfois avec apex en biseaux, 20,9 - 54,4 × 12,4 - 15,6 µm, en moyenne, dont l’épaisseur de la paroi est fine 0,5-1,5 μm
+  lampropleurocystides: abondantes, dont l’apex est en couronne, 58,4 - 81,7 × 17,2 - 23,4 µm en moyenne, dont l’épaisseur de la paroi est fine à moyenne 1,4-2,1 μm
   lamprocaulocystides: 
   latex: 
   leptocystides: 

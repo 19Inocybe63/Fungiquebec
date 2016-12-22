@@ -54,7 +54,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse sur bois décomposé de feuillus (Acer, Betula, Fagus, Populus, Quercus)
-  boucles: 
+  boucles: absentes sur les hyphes du pileipellis et non observées ailleurs
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -214,7 +214,7 @@ description:
   pied: 30-200 × 5-20 mm Ø, cylindrique, légèrement élargi à la base, surface blanche, lisse ou avec fibrilles longitudinales, marron à gris brun, en particulier près de la base
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis formé d’éléments cylindriques, certains fortement atténués vers l’apex, à paroi mince, lisses, hyalines ou remplis de pigment intracellulaire brun, avec éléments terminaux de 80-135 x 6-15 μm, avec matrice gélatinisée présente chez la plupart des collections, au moins sur la partie la plus externe, intégrant des hyphes de 2-5 μm de diam., certaines de contour irrégulier
   pileitrame: 
   pileocystides: 
   plasmode: 

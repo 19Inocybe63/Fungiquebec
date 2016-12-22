@@ -31,7 +31,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: stérile
   arthroconidies: 
   articles: |
     Justo, Alfredo et al. Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species, Phytotaxa 180 (1):001-085, (2014) 85 p.
@@ -173,7 +173,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, ventrues, jusqu'à 15 (20) mm de large, blanches lorsqu'elles sont jeunes, roses à maturité, avec arêtes lamellaire blanches, ou floconneuses
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

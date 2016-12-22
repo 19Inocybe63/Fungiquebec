@@ -65,7 +65,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 30-200 mm Ø, hémisphérique à campanulé lorsque jeune, convexe à étalé à maturité, avec ou sans ombon, surface lisse, squamose-fibrillose seulement autour du centre ou ensemble avec des squamules bruns distincts partout, avec ou sans fibrilles radiales
+  chapeau: 30-200 mm Ø, hémisphérique à campanulé lorsque jeune, convexe à étalé à maturité, avec ou sans ombon, surface lisse, squamuleux-fibrilleux seulement autour du centre ou ensemble avec des squamules bruns distincts partout, avec ou sans fibrilles radiales, blanc pur, gris pâle brun ou brun, plus rarement avec des couleurs plus foncées, secs ou nettement visqueux quand humide, marge lisse ou translucide-strié
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

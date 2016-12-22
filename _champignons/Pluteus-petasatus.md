@@ -6,8 +6,8 @@ image-originale: https://www.flickr.com/photos/kaufholtz/28131978620/in/photolis
 album-flickr:
   - 
 planches:
-  - miniature: 
-    originale: 
+  - miniature: https://c1.staticflickr.com/1/702/31773219746_111b97d030_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31773219746/in/photostream/
 
 details:
   nom-francais: Plutée en Parasol

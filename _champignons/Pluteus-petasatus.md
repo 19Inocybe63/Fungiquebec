@@ -48,7 +48,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois décomposé de feuillus (Acer, Betula, Fagus, Populus, Quercus)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
+  exhalaison-de-la-chair: indistincte à très douce, désagréable, sucrée, raphanoïde
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
@@ -137,7 +137,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -190,7 +190,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire, plus rarement solitaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -204,7 +204,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: juillet
   phialoconidies: 
   pied: 30-200 × 5-20 mm Ø, cylindrique, légèrement élargi à la base, surface blanche, lisse ou avec fibrilles longitudinales, marron à gris brun, en particulier près de la base
   pieds-steriles: 
@@ -244,13 +244,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à très douce, désagréable, sucrée, raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: rose à brun rosâtre
   spherocytes: 
   sporocystes: 
   stipitipellis: 

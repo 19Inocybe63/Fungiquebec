@@ -53,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois décomposé de feuillus (Acer, Betula, Fagus, Populus, Quercus)
+  biotopes: pousse sur bois décomposé de feuillus (Fagus)
   boucles: absentes sur les hyphes du pileipellis et non observées ailleurs
   brachybasidioles: 
   calicule: 

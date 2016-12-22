@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, rosées
+  lames: libres, ventrues, très serrées, blanches au début, puis rose, à arêtes entières ou floconneuses et blanches rosées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: nombreuses, métuloïdes, fusiformes (76,9) 77,5 - 85,9 (95,7) × (11,4) 13,5 - 17,6 (20,3) µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la plupart sont entiers, quelques bifides, à paroi jusqu'à 2,5 µm d’épaisseur
@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 50-80 x 7-11 mm Ø, méchuleux
+  pied: 50-80 x 7-11 mm Ø, cylindrique, subégal, élargie à la base, plein, méchuleux, bulbeux
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (ixocutis) formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou remplis de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41 - 70,1 (80) × (6) 8,5 - 13,5 (16,7) µm en moyenne, avec matrice gélatinée présente chez certaines collections

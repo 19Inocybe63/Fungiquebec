@@ -131,7 +131,7 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
+  exhalaison-de-la-chair: patate crue à raphanoïde
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
@@ -248,13 +248,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: brun rosâtre
   spherocytes: 
   sporocystes: 
   stipitipellis: en cutis

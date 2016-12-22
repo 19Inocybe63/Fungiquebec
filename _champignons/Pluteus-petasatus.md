@@ -206,7 +206,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 30-200 × 5-20 mm Ø, cylindrique, légèrement élargi à la base, surface blanche, lisse ou avec fibrilles longitudinales, marron à gris brun, en particulier près de la base
   pieds-steriles: 
   pigments: 
   pileipellis: 

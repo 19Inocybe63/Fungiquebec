@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 40-70 mm Ø, brun à brun foncé vers le centre à la marge nettement plus pâle dans les teintes de crème
+  chapeau: 40-80 mm Ø, hémisphérique ou campanulé au début, puis convexe à convexe-étalé, avec ou sans ombon large et bas, légèrement déprimé ou non au centre, sec ou viscidule à l’humidité, lisse, fibrilleux-inné radialement ou avec fibrilles très distinctes, avec ou sans squamules définies au centre, souvent dans les tons de brun, plus rarement teinté principalement de gris-brun ou de brun orange, parfois à variants blanc pur, à marge unie ou légèrement translucide-striée
   cheilocystides: abondantes, polymorphes, formant une bande bien développée, piriformes à largement piriformes (22,6) 26,5 - 47,8 (56,6) × (11,9) 12,4 - 18,5 (20,3) µm en moyenne, ellipsoïdes-ovoïdes à largement ellipsoïdes-ovoïdes, sphéropédonculées, 43,6 - 61,8 × 19,6 - 28,2 µm en moyenne, hyalines à paroi mince
   cheilocystides-intermediaires: rares, fusiformes dont l'apex est sans crochets et dont la paroi est sensiblement épaissie 41,8 - 44,3 × 11,2 - 12,2 µm en moyenne, à fusiformes ventrues dont l'apex est rostré 50-55 × 17-20 µm en moyenne
   cheilomacrocystides: 

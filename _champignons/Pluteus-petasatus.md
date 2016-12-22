@@ -181,7 +181,7 @@ description:
   lames: libres, ventrues, jusqu'à 15 (20) mm de large, blanches lorsqu'elles sont jeunes, roses à maturité, avec arêtes lamellaire blanches, ou floconneuses
   lamprocystides: 
   lamprocheilocystides: présentes, cylindriques métuloïdes, dont l’apex couronné comporte entre un et trois crochets souvent difformes, parfois avec apex en biseaux, 20,9 - 54,4 × 12,4 - 15,6 µm, en moyenne, dont l’épaisseur de la paroi est fine 0,5-1,5 μm
-  lampropleurocystides: abondantes, dont l’apex est en couronne, 58,4 - 81,7 × 17,2 - 23,4 µm en moyenne, dont l’épaisseur de la paroi est fine à moyenne 1,4-2,1 μm
+  lampropleurocystides: abondantes, dont l’apex est en couronne, avec (2) 3–4 crochets apicaux majoritairement entiers, parfois peu développés, 58,4 - 81,7 × 17,2 - 23,4 µm en moyenne, dont l’épaisseur de la paroi est fine à moyenne 1,4-2,1 μm
   lamprocaulocystides: 
   latex: 
   leptocystides: 

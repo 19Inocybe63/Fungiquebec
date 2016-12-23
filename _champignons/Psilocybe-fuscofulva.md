@@ -22,6 +22,8 @@ details:
       date: 29 septembre 2013
     - fongarium: cKc0266
       date: 25 septembre 2014
+    - fongarium: cKc0490
+      date: 12 octobre 2015
   numero-de-planche-micrographique: cKc0266-0073
 
 description:

@@ -35,7 +35,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: blanchâtre
   arthroconidies: 
   articles: 
   ascome: 

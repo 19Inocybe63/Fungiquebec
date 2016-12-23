@@ -282,7 +282,7 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: non
+  voile-general: absent
   voile-partiel: blanc au début devenant pourpre foncé, habituellement situé à la marge du chapeau, se retrouve rarement sur le pied ou laissant une petite zone annuliforme
   volve: 
   zone-perihymeniale: 

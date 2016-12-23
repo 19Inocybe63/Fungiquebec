@@ -18,6 +18,8 @@ details:
   espece: fuscofulva
   litterature: Peck, C.H. 1887. Descriptions of new species of New York fungi. Bulletin of the New York State Museum. 1(2):5-24
   fongariums:
+    - fongarium: sans numéro
+      date: 27 septembre 2013
     - fongarium: cKc0144
       date: 29 septembre 2013
     - fongarium: cKc0266

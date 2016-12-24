@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/15423190950/in/photolist-puTTkm-peHoGp-peHqyF
 
 details:
-  nom-francais: 
+  nom-francais: Russule charbonnière var. cutefracta
   autorites: (Cooke) Sarnari
   ordre: Russulales
   famille: Russulaceae
@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous prédominance de conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -66,9 +66,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanche, immuable
   chancre: 
-  chapeau: 
+  chapeau: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon, avec couche supérieur de la cuticule finement rompue à la marge
   cheilochrysocystides:
   cheilocystides: peu abondantes, cylindriques, parfois submucronées, avec nécropigments, 38-65 x 7-9 µm, sulfovanilline négative (SV-)
   cheiloleptocystides: 
@@ -131,8 +131,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: légèrement élastiques, mais pas aussi lardacées que R. cyanoxantha et R. variata, lamellules nombreuses 14+, bifurcations concentrées près du pied
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 58 x 22 mm Ø, cylindrique, caverneux, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -237,19 +237,19 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<sub>4</sub> = lames aucune coloration ; stipe très légèrement verdâtre
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce avec une finale légèrement âcre
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: pallidosporée, IIa-IId, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

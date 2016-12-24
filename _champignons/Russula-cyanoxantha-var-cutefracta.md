@@ -81,7 +81,8 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
-  commentaires: 
+  commentaires: |
+    De C. Kaufholtz-Couture. « Si je me fis aux critères de la sporée qui indique que R. cyanoxantha et R. variata ont une sporée blanche, je peux affirmer aujourd'hui que, pour le moment, je n'ai jamais vu ces espèces au Québec. Pour ma part, la sporée de mes collections est toujours pallidosporée IIa-IIb, crème pâle à crème moyen d'après la charte de Romagnesi et B-C d'après la charte de couleur de Kibby. De plus, la réaction aux sulfates de fer (FeSO<sub>4</sub>) sur le stipe de R. cyanoxantha est très légèrement verdâtre, alors que pour R. variata, l’orange est de mise. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -241,7 +242,7 @@ description:
     FeSO<sub>4</sub> = lames aucune coloration ; stipe très légèrement verdâtre
   receptacle: 
   remarques: |
-    Code de Kibby: D I K M(N) / P T _ _
+    Code de Kibby: D I K M(N) / P T
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

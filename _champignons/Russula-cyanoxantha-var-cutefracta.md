@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche, immuable
   chancre: 
-  chapeau: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon, avec couche supérieur de la cuticule finement rompue à la marge
+  chapeau: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon, avec couche supérieur de la cuticule finement rompue à la marge, mauve violet
   cheilochrysocystides:
   cheilocystides: peu abondantes, cylindriques, parfois submucronées, avec nécropigments, 38-65 x 7-9 µm, sulfovanilline négative (SV-)
   cheiloleptocystides: 

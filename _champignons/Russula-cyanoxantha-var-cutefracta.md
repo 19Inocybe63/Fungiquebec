@@ -240,7 +240,8 @@ description:
   reactions-macrochimiques: |
     FeSO<sub>4</sub> = lames aucune coloration ; stipe très légèrement verdâtre
   receptacle: 
-  remarques: 
+  remarques: |
+    Code de Kibby: D I K M(N) / P T _ _
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

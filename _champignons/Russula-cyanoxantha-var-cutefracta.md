@@ -239,7 +239,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = lames aucune coloration ; stipe très légèrement verdâtre
+    FeSO<sub>4</sub> = aucune coloration sur les lames ; légèrement verdâtre sur le stipe
   receptacle: 
   remarques: |
     Code de Kibby: D I K M(N) / P T

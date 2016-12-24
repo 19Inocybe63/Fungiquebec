@@ -16,7 +16,7 @@ details:
   famille: Russulaceae
   genre: Russula
   espece: cyanoxantha var. cutefracta
-  litterature: 
+  litterature: Sarnari, M. 1992. Russula nuove o interessanti dell'Italia centrale e mediterranea - XX contributo. Sulle Amoeninae ed Indolentinae dell'Italia centrale. Bollettino dell'Associazione Micologica ed Ecologica Romana. 27:38-43
   fongariums:
     - fongarium: cKc0254
       date: 15 septembre 2014
@@ -75,7 +75,7 @@ description:
   clavules: 
   collection-confirmee-par: 
   collection-determinee-par: 
-  collection-determination-provisoire-par: 
+  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -254,7 +254,16 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Russula cutifracta Cooke (1881)
+    Russula cutefracta Cooke, Grevillea 10 (54):46 (1881)
+    Russula cyanoxantha f. cutefracta (Cooke) Sarnari, Bollettino dell'Associazione Micologica ed Ecologica Romana 28:35 (1993)
+    Agaricus cyanoxanthus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:40, t. 93:1-6 (1774)
+    Agaricus lividus var. angustatus Pers., Synopsis methodica fungorum:446 (1801)
+    Agaricus cynoxanthus Pers., Synopsis methodica fungorum:445 (1801)
+    Agaricus linnaei var. vagus Fr., Observationes mycologicae 1:69 (1815)
+    Agaricus virescens Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 9:15, t. 67:12-15 (1845)
+    Russula aeruginascens Peck, Annual Report on the New York State Museum of Natural History 53:843 (1900)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

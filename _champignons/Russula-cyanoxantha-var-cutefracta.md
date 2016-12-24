@@ -42,8 +42,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes élancées, avec granulations mais souvent avec contenu vacuolaire situé à la base puis gravitant au sommet avec l’âge devenant guttulées à pluriguttulées verdâtre dans le Rouge Congo ammoniacal, tétrastérigmates entre 6-9 µm de longueur, non bouclées à la base, 43-50 x 9-10 µm
+  basidiospores: |
+    largement elliptiques à elliptiques, parfois subréniformes vue de profil, globuleuses à subglobuleuses vue frontale, verruqueuses avec verrues isolées et de rares connexifs, à paroi mince, proéminences entre 0,1-0,6 µm de hauteur, avec appendice hilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
+    7,2 [8,3; 8,9] 10 x 5,9 [6,3; 6,6] 7,1 µm
+    Q = 1,2 [1,3; 1,4] 1,5; N = 22; C = 95%
+    Me = 8,6 x 6,5 µm; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -54,7 +58,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: occasionnelles, souvent en faisceaux, longuement aciculaires, souvent peu ou largement pédicellées, 21,1-53,7 x 1,6-2,2 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: peu abondantes, cylindriques, parfois submucronées, avec nécropigments, 38-65 x 7-9 µm, sulfovanilline négative (SV-)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -213,7 +217,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: abondantes, cylindriques mucronées à largement mucronées, parfois avec apex moniliformes, avec nécropigments, 58-70 x 8-11 µm, sulfovanilline négative (SV-), sulfobenzaldéhyde ± (SBA ±, très faible)
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -269,7 +273,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formé de sphérocystes à subcellulaires, non bouclées
   trame-tubulaire: 
   type: 
   typique: 

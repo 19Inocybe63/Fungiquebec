@@ -237,7 +237,10 @@ description:
     Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
     Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<sub>4</sub> = pas de coloration sur le chapeau ; orangés sur la chair
+    KOH 10% = orange sur le chapeau et sur la chair
+    NH<sub>4</sub>OH 10% = brunâtre sur le chapeau ; pas de coloration ou de décoloration sur la chair
   receptacle: 
   remarques: 
   repartition: 

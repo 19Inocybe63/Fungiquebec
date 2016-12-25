@@ -134,7 +134,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: jaune puis jaune olivacé à maturité, bleuissant au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 4-15 x 10-50 mm Ø, cylindrique, égale à conique à la base, jaune à blanchâtre, parfois avec un anneau fragile, mycélium basal blanchâtre ou jaunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

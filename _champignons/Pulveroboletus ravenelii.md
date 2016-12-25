@@ -238,7 +238,7 @@ description:
     Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = pas de coloration sur le chapeau ; orangés sur la chair
+    FeSO<sub>4</sub> = pas de coloration sur le chapeau ; orangé sur la chair
     KOH 10% = orange sur le chapeau et sur la chair
     NH<sub>4</sub>OH 10% = brunâtre sur le chapeau ; pas de coloration ou de décoloration sur la chair
   receptacle: 

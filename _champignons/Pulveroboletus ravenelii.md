@@ -251,7 +251,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun olive
+  sporee: brun olive à olive
   spherocytes: 
   sporocystes: 
   stipitipellis: 

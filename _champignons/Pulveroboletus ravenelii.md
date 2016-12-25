@@ -66,7 +66,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre ou jaune, bleuissant légèrement à la coupe, surtout au-dessus des tubes
   chancre: 
-  chapeau: 
+  chapeau: 20-120 mm Ø, convexe à largement convexe ou presque plat, d'abord couvert d'un voile partiel jaune vif, devenant assez vite rouge brique à orangée, rougeâtre à brun rougeâtre au centre et jaune sur le bord, sec ou un peu collant après que le voile jaune a disparu, lisse, souvent avec marge appendiculée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

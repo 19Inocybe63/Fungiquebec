@@ -16,7 +16,7 @@ details:
   famille: Russulaceae
   genre: Russula
   espece: sp.
-  litterature: Sarnari, M. 1992. Russula nuove o interessanti dell'Italia centrale e mediterranea - XX contributo. Sulle Amoeninae ed Indolentinae dell'Italia centrale. Bollettino dell'Associazione Micologica ed Ecologica Romana. 27:38-43
+  litterature: 
   fongariums:
     - fongarium: cKc0254
       date: 15 septembre 2014

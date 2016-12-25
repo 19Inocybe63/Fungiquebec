@@ -1,5 +1,5 @@
 ---
-nom: Russula cyanoxantha var. cutefracta
+nom: Russula sp.
 date: 2016-12-24 00:00:00
 image: https://c2.staticflickr.com/4/3864/15251402335_29cb990693_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15251402335
@@ -10,12 +10,12 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/15423190950/in/photolist-puTTkm-peHoGp-peHqyF
 
 details:
-  nom-francais: Russule charbonnière var. cutefracta
-  autorites: (Cooke) Sarnari
+  nom-francais: 
+  autorites: 
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: cyanoxantha var. cutefracta
+  espece: sp.
   litterature: Sarnari, M. 1992. Russula nuove o interessanti dell'Italia centrale e mediterranea - XX contributo. Sulle Amoeninae ed Indolentinae dell'Italia centrale. Bollettino dell'Associazione Micologica ed Ecologica Romana. 27:38-43
   fongariums:
     - fongarium: cKc0254

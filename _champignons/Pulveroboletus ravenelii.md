@@ -64,7 +64,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre ou jaune, bleuissant légèrement à la coupe, surtout au-dessus des tubes
   chancre: 
   chapeau: 
   cheilochrysocystides:

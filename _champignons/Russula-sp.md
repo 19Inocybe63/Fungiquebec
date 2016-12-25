@@ -83,6 +83,7 @@ description:
   columelle: 
   commentaires: |
     De C. Kaufholtz-Couture. « Si je me fie aux critères de la sporée qui indique que R. cyanoxantha et R. variata ont une sporée blanche (A, Kibby), je peux affirmer aujourd'hui que, pour le moment, je n'ai jamais vu ces espèces au Québec. Pour ma part, la sporée de mes collections est toujours pallidosporée IIa-IIb, crème pâle à crème moyen d'après la charte de couleur de Romagnesi et B-C d'après la charte de couleur de Kibby. »
+    « De plus, l'utilisation du sulfate de fer (FeSO<sub>4</sub>) devient très importante, car pour deux espèces semblables, la chair du stipe devient très légèrement verdâtre, alors que pour l'autre, l’orange est de mise. »
   conidies: 
   conidiome: 
   conidiophores: 

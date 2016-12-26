@@ -14,7 +14,7 @@ details:
   autorites: S. H. He & Jiao Yang
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
-  genre: Pseudochaete
+  genre: Hymenochaetopsis
   espece: tabacina
   litterature: Wagner, T.; Fischer, M. 2002. Classification and phylogenetic relationships of Hymenochaete and allied genera of the Hymenochaetales, inferred from rDNA sequence data and nuclear behaviour of vegetative mycelium. Mycological Progress. 1(1):93-104
   fongariums:

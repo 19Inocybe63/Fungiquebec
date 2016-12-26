@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Stérée tabac
   autorites: (Sowerby) T. Wagner & M. Fisch.
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
@@ -63,9 +63,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: consistance coriace, mais le carpophore se dechire assez facilement
   chancre: 
-  chapeau: 
+  chapeau: jusqu'à 10 mm de projection de quelques mm de largeur, parfois fusionnés latéralement, étalé, arrondi, puis confluent et ordinairement réflechi, coriace, mince, flasque, satiné, tomenteux, rouille clair à marron, zoné de fauve et bordé de jaune doré, surface pileique feutrée, orange-brun, puis gris-brun
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

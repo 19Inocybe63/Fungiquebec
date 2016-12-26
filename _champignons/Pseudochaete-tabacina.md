@@ -34,7 +34,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-  Yang, Jiao ; Dai, Li-Dan ; He, Shuang-Hui. Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China, Mycological Progress, February 2016, 15:13
+  Yang, Jiao ; Dai, Li-Dan ; He, Shuang-Hui. Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China, Mycological Progress, February 2016
   ascome: 
   ascospores: 
   asques: 

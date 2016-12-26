@@ -1,5 +1,5 @@
 ---
-nom: Pseudochaete tabacina
+nom: Hymenochaetopsis tabacina
 date: 2016-12-26 00:00:00
 image: https://c1.staticflickr.com/1/713/20474978959_f2ee0c486a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20474978959/in/photolist-xciBUB-xsZTzN
@@ -11,7 +11,7 @@ planches:
 
 details:
   nom-francais: Stérée tabac
-  autorites: (Sowerby) T. Wagner & M. Fisch.
+  autorites: S. H. He & Jiao Yang
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Pseudochaete

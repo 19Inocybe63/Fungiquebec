@@ -4,7 +4,7 @@ date: 2016-12-26 00:00:00
 image: https://c1.staticflickr.com/1/713/20474978959_f2ee0c486a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20474978959/in/photolist-xciBUB-xsZTzN
 album-flickr:
-  - 
+  - 72157674431474104
 planches:
   - miniature: 
     originale: 
@@ -12,14 +12,14 @@ planches:
 details:
   nom-francais: 
   autorites: (Sowerby) T. Wagner & M. Fisch.
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
-  litterature: 
+  ordre: Hymenochaetales
+  famille: Hymenochaetaceae
+  genre: Pseudochaete
+  espece: tabacina
+  litterature: Wagner, T.; Fischer, M. 2002. Classification and phylogenetic relationships of Hymenochaete and allied genera of the Hymenochaetales, inferred from rDNA sequence data and nuclear behaviour of vegetative mycelium. Mycological Progress. 1(1):93-104
   fongariums:
-    - fongarium: 
-      date: 
+    - fongarium: cKc0413
+      date: 17 août 2015
   numero-de-planche-micrographique: 
 
 description:
@@ -73,7 +73,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
@@ -254,7 +254,27 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Auricularia tabacina Sowerby, Coloured Figures of English Fungi 1:14, t. 25 (1797)
+    Thelephora tabacina (Sowerby) Fr., Systema Mycologicum 1:437 (1821)
+    Stereum tabacinum (Sowerby) Fr., Epicrisis Systematis Mycologici:550 (1838)
+    Hymenochaete tabacina (Sowerby) Lév., Annales des Sciences Naturelles Botanique 5:152 (1846)
+    Hymenochaetopsis tabacina (Sowerby) S.H. He & Jiao Yang, Mycological Progress 15 (2/13):7 (2016)
+    Thaelaephora variegata Schrad. ex J.F. Gmel. (1792)
+    Thelephora variegata Schrad. ex J.F. Gmel., Systema Naturae 2:1441 (1792)
+    Helvella nicotiana Bolton, An History of Fungusses, Growing about Halifax App.:174 (1792)
+    Thelephora avellana Fr., Systema Mycologicum 1:442 (1821)
+    Thelephora cerasi Pers., Mycologia Europaea 1:125 (1822)
+    Thelephora juratensis Pers., Mycologia Europaea 1:125 (1822)
+    Thelephora crocata Fr., Elenchus Fungorum 1:173 (1828)
+    Daedalea lirellosa Pers., Mycologia Europaea 3:2, t. 27:2-2 (1828)
+    Thelephora imbricatulum Schwein. (1832)
+    Thelephora imbricatula Schwein., Transactions of the American Philosophical Society 4 (2):166 (1832)
+    Thelephora imbricata Schwein. (1832)
+    Stereum badioferrugineum Mont., Annales des Sciences Naturelles Botanique 20:367 (1843)
+    Hymenochaete imbricata (Schwein.) Lév. (1846)
+    Hymenochaete nigrescens Cooke ex Massee, Botanical Journal of the Linnean Society 27:104 (1890)
+    Hymenochaete obesa G. Cunn., Transactions and Proceedings of the Royal Society of New Zealand 85 (1):15 (1957)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

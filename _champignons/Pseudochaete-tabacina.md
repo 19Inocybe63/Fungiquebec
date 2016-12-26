@@ -33,7 +33,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+  Yang, Jiao ; Dai, Li-Dan ; He, Shuang-Hui. Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China, Mycological Progress, February 2016, 15:13
   ascome: 
   ascospores: 
   asques: 
@@ -47,7 +48,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois mort de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -136,7 +137,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -233,7 +234,8 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = noir sur toutes les parties
   receptacle: 
   remarques: 
   repartition: 

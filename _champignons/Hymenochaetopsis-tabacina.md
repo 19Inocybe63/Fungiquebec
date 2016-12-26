@@ -46,7 +46,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, résupiné lorsque croissant sous un substrat horizontal, formant alors des croûtes minces, coriaces d'un à plusieurs mm Ø, au début constitué d'une tache arrondie qui se fusionne ensuite aux voisines pour former de grandes plaques ± discontinues, semipiléé ou piléé sur support vertical
   bibliographies: 
   biotopes: pousse sur bois mort de feuillus
   boucles: 
@@ -146,7 +146,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: lisse, irrégulièrement tuberculée, verruqueuse à finement craquelée mat, finement feutré, couvert de soies émergentes visibles (loupe), ± zoné circulairement par rapport au point d'attache, brun tabac à brun rouille, brun café en séchant, blanchâtre à jaune pâle à la marge
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 

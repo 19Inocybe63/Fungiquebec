@@ -263,7 +263,6 @@ description:
     Scytinotus crispus (Pers.) Spirin & Zmitr., Folia Cryptogamica Petropolitana 1:108 (2004)
     Merulius fagineus Schrad., Spicilegium Florae Germanicae:137 (1794)
     Lentinus unduletellus Britzelm., Botanisches Centralblatt 54 (4):101, pl. 19 (1893)
-    Lentinus undulatellus Britzelm., Botanisches Centralblatt 54 (4):101, pl. 19 (1893)
   systeme-hyphal: monomitique, minces à paroi épaisse, 3-7 µm de large, certaines avec septa, brunes se terminant parfois densément, agglomérés au sommet, surtout chez les sujets âgés
   textura: 
   tomentum-caulinaire: 

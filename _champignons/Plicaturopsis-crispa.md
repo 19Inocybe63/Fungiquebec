@@ -42,12 +42,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: formant une palissade dense, cylindriques à subcylindriques, claviformes à subclaviformes, tétrastérigmates, bouclées à la base, 19,5-28 x 4-5 µm en moyenne
+  basidiospores: |
+    cylindriques, allantoïdes, lisses, à paroi mince, à contenu biguttulé, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes, 3-5 x 1-1,5 µm
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur feuillus, (Fagus), écorces et bois mort et vivant, branches et troncs tombés ou debout
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,7 +63,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, membranaire, molle, élastique et flexible au frais et au début, dure et cassante au sec
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -73,7 +74,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
@@ -126,7 +127,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +137,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -144,7 +145,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: 
+  hymenocystides: absentes
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -189,7 +190,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire ou souvent en amas serrés et imbriqués
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,7 +204,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -239,13 +240,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce, agréable
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -264,7 +264,7 @@ description:
     Merulius fagineus Schrad., Spicilegium Florae Germanicae:137 (1794)
     Lentinus unduletellus Britzelm., Botanisches Centralblatt 54 (4):101, pl. 19 (1893)
     Lentinus undulatellus Britzelm., Botanisches Centralblatt 54 (4):101, pl. 19 (1893)
-  systeme-hyphal: 
+  systeme-hyphal: monomitique, minces à paroi épaisse, 3-7 µm de large, certaines avec septa, brunes se terminant parfois densément, agglomérés au sommet, surtout chez les sujets âgés
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 

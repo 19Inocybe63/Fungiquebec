@@ -206,7 +206,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: absent ou comme pseudopied atténué vers la base ou ± centré au sommet selon la situation du substrat
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

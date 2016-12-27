@@ -18,6 +18,8 @@ details:
   espece: crispa
   litterature: Reid, D.A. 1964. Notes on some fungi of Michigan-I. Cyphellaceae. Persoonia. 3:97-154
   fongariums:
+    - fongarium: sans numéro
+      date: 20 octobre 2012
     - fongarium: cKc0487
       date: 10 octobre 2015
   numero-de-planche-micrographique: cKc0487-0110

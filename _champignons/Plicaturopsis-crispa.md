@@ -48,7 +48,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur feuillus, (Fagus), écorces et bois mort et vivant, branches et troncs tombés ou debout
+  biotopes: pousse sur bois de feuillus (Fagus) écorces et bois mort et vivant, branches et troncs tombés ou debout
   boucles: 
   brachybasidioles: 
   calicule: 

@@ -146,7 +146,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: absentes
-  hymenophore: 
+  hymenophore: lamellé-veiné, plissé radialement, à rides ou côtes fortement sinueuses, fourchues et anastomosées, ramifiées dichotomiquement, blanc glauque, blanc sombre, grisâtres à gris ocré, à marge inégale-crispée
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -206,7 +206,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: absent ou comme pseudopied atténué vers la base ou ± centré au sommet selon la situation du substrat
   pieds-steriles: 
   pigments: 
   pileipellis: 

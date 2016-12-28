@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe de Renny
   autorites: (Berk. & Broome) Sacc.
   ordre: Agaricales
   famille: Inocybaceae

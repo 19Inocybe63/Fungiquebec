@@ -278,7 +278,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle, formée d'hyphes 5-14 µm Ø
   trame-tubulaire: 
   type: 
   typique: 

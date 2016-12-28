@@ -141,7 +141,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -194,7 +194,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé à grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

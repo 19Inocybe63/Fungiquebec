@@ -210,7 +210,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 13-19 x 1-2 mm Ø, cylindrique, plein, avec petites fibrilles blanchâtres à l'apex, brun rougeâtre, courbant légèrement à la base, subbulbeux
+  pied: 13-19 x 1-2 mm Ø, cylindrique, plein, avec petites fibrilles blanchâtres à l'apex, brun rougeâtre, courbant légèrement à la base, subbulbeuse
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'un suprapellis en cutis, avec des éléments trichodermiques, avec hyphes septées et bouclées agglomérés au sommet, hyphes terminales cylindriques formant une chaîne, avec pigmentation brun rouille à brun rougeâtre, 9,8 - 55,1 × 2,0 - 10,3 µm en moyenne

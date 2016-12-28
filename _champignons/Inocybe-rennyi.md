@@ -42,8 +42,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à cylindriques, tétrastérigmates, non bouclées à la base, 31,0 - 35,0 × 9,5 - 11,0 µm en moyenne
+  basidiospores: |
+    subrectangulaires à rectangulaires, parfois avec apex subconiques vue de front, à noduleuses-anguleuses vue de profil, majoritairement pentagone rarement hexagone, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, inactives dans le melzer, non cyanophiles
+    (9,5) 10,4 - 13 (15,5) × (5,8) 6 - 6,9 (7,1) µm
+    Q = (1,6) 1,7 - 2 (2,6) ; N = 30
+    Me = 11,9 × 6,4 µm ; Qe = 1,9
+    (Piximètre, formule classique, mesures issues de sporée dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -54,19 +59,19 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: occasionnelles à subabondantes, sommitales, de deux types; 1° type métuloïdes, fusiformes à fusiformes ventrues, avec peu ou sans cristaux d’oxalates de calcium, 38,5 - 45,6 × 12 - 16,9 µm en moyenne, 2° type cylindriques claviformes, dont l’apex est parfois subcapité, parfois en faisceaux, ressemblent davantage à des hyphes, (32,6) 39,1 - 52 (58,7) × (6,2) 6,4 - 8,4 (9,2) µm en moyenne, caulocystides médianes, ressemblent davantage à des hyphes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: elliptiques à ovoïdes, courtement piriformes à piriformes, subcylindriques, (14) 15,7 - 20,1 (25) × (6,1) 6,7 - 10,6 (11,4) µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: brun rougeâtre
   chancre: 
   chapeau: 8-15 mm Ø, convexe à étalé, légèrement déprimé, submamelonné, densément couvert d'écailles, méchuleux vers le centre
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: nombreuses, métuloïdes, largement fusiformes, à paroi fine à épaisse 1,0-4,0 μm, dont les cristaux d’oxalates de calcium sont très peu nombreux à l’apex, parfois absent, (35,6) 37,8 - 46 (53,6) × (15,6) 15,8 - 18,7 (21,3) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -175,7 +180,7 @@ description:
   lames: échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, large à subventrue, crème jaunâtre
   lamprocystides: 
   lamprocheilocystides: 
-  lampropleurocystides: 
+  lampropleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 μm, Ammoniaco -, dont les cristaux d’oxalates de calcium sont plus présent à l’apex, (55,6) 55,8 - 59,2 (59,6) × (16,1) 16,3 - 19,4 (22) µm en moyenne
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -208,7 +213,7 @@ description:
   pied: 13-19 x 1-2 mm Ø, cylindrique, plein, avec petites fibrilles blanchâtres à l'apex, brun rougeâtre, courbant légèrement à la base, subbulbeux
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: formé d'un suprapellis en cutis, avec des éléments trichodermiques, avec hyphes septées et bouclées agglomérés au sommet, hyphes terminales cylindriques formant une chaîne, avec pigmentation brun rouille à brun rougeâtre, 9,8 - 55,1 × 2,0 - 10,3 µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 

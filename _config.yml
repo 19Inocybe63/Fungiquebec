@@ -194,6 +194,8 @@ champs-description:
     label: Exhalaison des lames
   - name: saveur
     label: Saveur
+  - name: sclerote
+    label: Sclérote
   - name: cortex
     label: Cortex
   - name: latex
@@ -591,8 +593,6 @@ champs-description:
     label: Rhizomorphes
   - name: sclerocystides
     label: Sclérocystides
-  - name: sclerote
-    label: Sclérote
   - name: soies-hymeniales
     label: Soies hyméniales
   - name: spherocytes

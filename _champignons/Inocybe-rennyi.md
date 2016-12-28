@@ -33,7 +33,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Lecomte, Marcel. Vous avez dit P.D.A.B. ?, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
+    Matheny, Brandon P., et al. A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
   ascome: 
   ascospores: 
   asques: 

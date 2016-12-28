@@ -16,7 +16,7 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: rennyi
-  litterature: 
+  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
   fongariums:
     - fongarium: cKc0556
       date: 9 septembre 2016
@@ -275,7 +275,9 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Agaricus rennyi Berk. & Broome, Annals and Magazine of Natural History 3:205 (1879)
+    Astrosporina rennyi (Berk. & Broome) Rea, British Basidiomycetae: A handbook to the larger British fungi:212 (1922)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

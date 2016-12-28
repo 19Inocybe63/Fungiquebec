@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, pauvre, sablonneux, perturbé, sentier forestier, sous feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: brun rougeâtre
   chancre: 
-  chapeau: 
+  chapeau: 8-15 mm Ø, convexe à étalé, légèrement déprimé, submamelonné, densément couvert d'écailles, méchuleux vers le centre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: spermatique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, large à subventrue, crème jaunâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 13-19 x 1-2 mm Ø, cylindrique, plein, avec petites fibrilles blanchâtres à l'apex, brun rougeâtre, courbant légèrement à la base, subbulbeux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,19 +233,19 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Réactif Ehrlich (P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: spermatique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: brune
   spherocytes: 
   sporocystes: 
   stipitipellis: 

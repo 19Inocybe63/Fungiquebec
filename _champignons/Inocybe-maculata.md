@@ -34,9 +34,11 @@ description:
   arete-lamellaire: stérile, distinctement plus pâles
   arthroconidies: 
   articles: |
+    Lecomte, Marcel. Vous avez dit P.D.A.B. ?, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
     Kuo, Michael, & Brandon Matheny, P. Contemporary documentation of the rare eastern North American species Inocybe insignis (Inocybaceae, Agaricales), MycoKeys 11:23-31 (2015), 9 p.
     Kropp, Bradley R. Matheny, P. Brandon, et al. Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
     Matheny, Brandon P. & Moreau, Pierre-Arthur. A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
+    Matheny, Brandon P., et al. A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
   ascome: 
   ascospores: 
   asques: 
@@ -245,7 +247,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 12, les Inocybe, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 
   remarques: |
     Les fibrilles blanches sur le disque sont des restes du velipellis, voile général des inocybes. Il est très peu développé chez certaines espèces, donc apparemment absent.

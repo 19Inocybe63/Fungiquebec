@@ -86,7 +86,7 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De c. Kaufholtz-Couture. « Une fois déshydraté, cet Inocybe sent un mélange de sueur et d'urine. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -253,7 +253,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 12, les Inocybe, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 
   remarques: Sous genre Rimosae ; Clé de Fatto, A D F I K L N Q -
   repartition: 

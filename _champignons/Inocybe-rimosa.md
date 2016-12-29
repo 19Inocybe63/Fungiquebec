@@ -303,6 +303,7 @@ description:
   trame-tubulaire: 
   type: 
   typique: 
+  velipellis: blanchâtre au centre du chapeau
   voile: 
   voile-general: 
   voile-partiel: 

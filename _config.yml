@@ -178,6 +178,8 @@ champs-description:
     label: Voile général
   - name: voile-partiel
     label: Voile partiel
+  - name: velipellis
+    label: Velipellis
   - name: volve
     label: Volve
   - name: anneau
@@ -617,8 +619,6 @@ champs-description:
     label: Type
   - name: typique
     label: Typique
-  - name: velipellis
-    label: Velipellis
   - name: vial
     label: Vial
   - name: voile

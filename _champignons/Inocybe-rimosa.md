@@ -42,8 +42,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: de deux types, claviformes à largement claviformes et capitées, tétrastérigmates, bouclées à la base, 25,6 [30,6; 34,5] 39,6 x 7,6 [9,6; 11,2] 13,2 µm
+  basidiospores: |
+    ovoïdes vue de front, ovoïdes à phaséolées ou réniformes vue de profil, lisse, à paroi mince, avec un petit appendice hilaire, à contenu uniguttulé, brun pâle à rougeâtre dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    8,9 [9,8; 10,2] 11 x 4,8 [5,3; 5,5] 6 µm
+    Q = 1,7 [1,8; 1,9] 2,1; N = 30; C = 95%
+    Me = 10 x 5,4 µm; Qe = 1,9
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -54,7 +58,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: sommital seulement, cylindriques à claviformes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 33 mm Ø, subconique à campanulé, rimeux, jaune paille, à jaune brun-rougeâtre, blanchâtre au centre (velipellis)
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, piriformes à largement clavées 25,6 [30,6; 34,5] 39,6 x 7,6 [9,6; 11,2] 13,2 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,12 +212,12 @@ description:
   pied: 39 x 5 mm Ø, cylindrique, subbulbeux à napiforme
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -235,7 +239,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Sous genre Rimosae
+  remarques: Sous genre Rimosae ; Clé de Fatto, A D F I K L N Q -
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

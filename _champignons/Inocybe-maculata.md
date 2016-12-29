@@ -128,7 +128,7 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
-  exhalaison-de-la-chair: chloré à vieille patate, pipéridine
+  exhalaison-de-la-chair: chloré à vieille patate, pipéridine, spermatique
   exhalaison-des-lames: de vieille patate
   excipulum: 
   excipulum-medullaire-superieur: 

@@ -214,7 +214,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 39 x 5 mm Ø, cylindrique, subbulbeux à napiforme
+  pied: 39 x 5 mm Ø, cylindrique, subbulbeux à napiforme, lisse, blanchâtre ou se tachant légèrement
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -264,7 +264,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brune
   spherocytes: 
   sporocystes: 
   stipitipellis: 

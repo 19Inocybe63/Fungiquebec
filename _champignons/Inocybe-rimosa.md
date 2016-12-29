@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: 39 x 5 mm Ø, cylindrique, subbulbeux à napiforme
   pieds-steriles: 
   pigments: 
   pileipellis: 

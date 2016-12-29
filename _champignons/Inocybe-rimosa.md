@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 33 mm Ø, subconique à campanulé, rimeux, jaune paille, à jaune brun-rougeâtre, blanchâtre au centre (velipellis)
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

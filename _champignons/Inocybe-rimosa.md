@@ -86,7 +86,7 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: De c. Kaufholtz-Couture. « Une fois déshydraté, cet Inocybe sent un mélange de sueur et d'urine. »
+  commentaires: De Claude Kaufholtz-Couture. « Une fois déshydraté, cet Inocybe sent un mélange de sueur et d'urine. »
   conidies: 
   conidiome: 
   conidiophores: 

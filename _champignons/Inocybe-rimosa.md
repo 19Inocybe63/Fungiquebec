@@ -127,8 +127,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: pipéridine (spermatique)
+  exhalaison-des-lames: pipéridine (spermatique)
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -239,13 +239,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: pipéridine (spermatique)
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -39,6 +39,7 @@ description:
     Kropp, Bradley R. Matheny, P. Brandon, et al. Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
     Matheny, Brandon P. & Moreau, Pierre-Arthur. A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
     Matheny, Brandon P., et al. A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
+    Matheny, P. Brandon. Key to Species of Inocybe from eastern North America – v02 (20-Dec-2016), University of Tennessee
   ascome: 
   ascospores: 
   asques: 

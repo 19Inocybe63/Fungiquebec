@@ -181,7 +181,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à souvent sublibre, jusqu’à 7-8 mm de large, gris pâle à gris beige, ocre lorsque jeune, brunâtre sal à brunâtre pâle lorsque mature, parfois avec une teinte olive ou jaunâtre, sur le bord supérieur, un peu ondulé, blanchâtre, ciliées lorsque mature
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

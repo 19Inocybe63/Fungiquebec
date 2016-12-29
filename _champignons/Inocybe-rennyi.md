@@ -136,9 +136,9 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: pipéridine (spermatique)
+  exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-des-lames: pipéridine (spermatique)
   exoperidium: 
   extremites-hyphales: 
   face-externe: 

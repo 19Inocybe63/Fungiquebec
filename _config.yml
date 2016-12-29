@@ -617,6 +617,8 @@ champs-description:
     label: Type
   - name: typique
     label: Typique
+  - name: velipellis
+    label: Velipellis
   - name: vial
     label: Vial
   - name: voile

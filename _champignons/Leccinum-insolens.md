@@ -42,19 +42,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes, tétrastérigmates, non bouclées à la base, de 23-26 x 9-10 µm en moyenne
+  basidiospores: |
+    subellipsoïdes à subfusiformes, lisses, à paroi mince de 0,24-0,32 µm, à contenu souvent uniguttulé parfois granuleux, avec appendice hilaire, et dépression suprahilaire, verdâtres en NH<sub>4</sub>OH 2%, inactives dans le melzer
+    11,6 [13,9; 14,8] 17,1 x 3,5 [4,1; 4,4] 5,1 µm
+    Q = 2,8 [3,3; 3,5] 4; N = 35; C = 95%
+    Me = 14,3 x 4,3 µm; Qe = 3,4
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sous peupliers
-  boucles: 
+  boucles: rares et observées seulement dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: 
-  caulocystides: 
+  caulobasides: légèrement piriformes, bistérigmates, non bouclées à la base, de 20,9 x 9,3 µm en moyenne
+  caulocystides: clavées-mucronées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -66,7 +70,7 @@ description:
   chancre: 
   chapeau: 118 mm Ø, convexe puis largement convexe à subétalé, sec, brun tanne pâle, puis orné de fibrilles et de méchules brunes sur fond pâle, cuticule dépassant la couche de tubes à la marge
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondamment rostrées, 52,7 x 12,6 µm en moyenne, rarement capitées
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,12 +212,12 @@ description:
   pied: 84 x 19 mm Ø, élargi vers la base, plein, sec, orné de rugosités brun noirâtre sur fond blanchâtre. Il brunit lentement à la coupe. La chaire dans l'apex est lilas pâle à gris pâle
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis terminé par des extrémités hyphale
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: semblables aux cheilocystides, dont l’apex se collapse facilement, parfois largement ventrues 40,9 x 14,8 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -268,7 +272,7 @@ description:
   tomentum-pileique: 
   trame-hymenophorale: 
   trame-lamellaire: 
-  trame-tubulaire: 
+  trame-tubulaire: formée d'hyphes parallèles à subparallèles de 3-9 µm de largeur
   type: 
   typique: 
   voile: 

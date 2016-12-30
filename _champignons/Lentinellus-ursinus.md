@@ -42,8 +42,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: cylindriques à légèrement clavées, parfois sphéropédonculées, tétrastérigmates, bouclées à la base, hyalines et parfois avec gouttelettes, de 17-23 x 4-5 µm
+  basidiospores: |
+    subglobuleuses à largement ellipsoïdes, finement échinulées ou ponctuées, à paroi mince à légèrement épaissie 0,1 x 0,3 µm, apparaissant lisses, avec petit appendice hilaire, à contenu uniguttulé, hyalines à verdâtre pâle dans le NH<sub>4</sub>OH 2%, fortement amyloïdes dans le melzer, non cyanophiles
+    3,6 [4,1; 4,2] 4,7 x 3,1 [3,5; 3,6] 4 µm
+    Q = 1,1 [1,15; 1,2] 1,3; N = 34; C = 95%
+    Me = 4,2 x 3,6 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 

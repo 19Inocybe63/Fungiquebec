@@ -70,7 +70,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: nombreuses cylindriques à fusiformes, parfois flexueuses, dépassant les 30 µm de longueur
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -150,7 +150,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: de longueurs variables, sur 5-6 µm de largeur avec contenu huileux forment des gouttelettes rondes et oblongues
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -158,7 +158,7 @@ description:
   hyphes-gleopleres: 
   hyphes-hymeniales: 
   hyphes-ligatives: 
-  hyphes-oleiferes: 
+  hyphes-oleiferes: Présentes et sulfovanilline positifs (SV+)
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 
@@ -217,7 +217,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: peu abondantes et peu émergentes, lécythiformes, parfois fusiformes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -274,7 +274,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: subparallèle à irrégulière
   trame-tubulaire: 
   type: 
   typique: 

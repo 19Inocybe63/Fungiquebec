@@ -77,7 +77,7 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: Geoffrey Kibby
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « La couleur du chapeau dans les teintes de brun et la marge débordante sont des caractéristiques fiables. La face poroïde blanchâtre brunissant à maturité et au froissement est un autre caractère important. »
   conidies: 
   conidiome: 
   conidiophores: 

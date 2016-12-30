@@ -44,7 +44,7 @@ description:
   base-stipitiforme: 
   basides: piriformes, tétrastérigmates, non bouclées à la base, de 23-26 x 9-10 µm en moyenne
   basidiospores: |
-    subellipsoïdes à subfusiformes, lisses, à paroi mince de 0,24-0,32 µm, à contenu souvent uniguttulé parfois granuleux, avec appendice hilaire, et dépression suprahilaire, verdâtres en NH<sub>4</sub>OH 2%, inactives dans le melzer
+    subellipsoïdes à subfusiformes, lisses, à paroi mince de 0,2-0,3 µm, à contenu souvent uniguttulé parfois granuleux, avec appendice hilaire, et dépression suprahilaire, verdâtres en NH<sub>4</sub>OH 2%, inactives dans le melzer
     11,6 [13,9; 14,8] 17,1 x 3,5 [4,1; 4,4] 5,1 µm
     Q = 2,8 [3,3; 3,5] 4; N = 35; C = 95%
     Me = 14,3 x 4,3 µm; Qe = 3,4

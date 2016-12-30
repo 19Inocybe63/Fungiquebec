@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/8619550942/in/photolist-e8Fsch-e6GY2R/
 
 details:
-  nom-francais: 
+  nom-francais: Lentin couleur d'ours
   autorites: (Fr.) Kühner
   ordre: Russulales
   famille: Auriscalpiaceae
@@ -66,9 +66,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, sauf au point d'attache, ferme, 1-3 mm, blanchâtre, chamois rosâtre à brunâtre, souvent à effet duplexe, avec ligne noire délimitant le pileipellis densément laineux
   chancre: 
-  chapeau: 
+  chapeau: 30-120 mm Ø, 20-60 mm de projection, irrégulièrement conchoïde, flabelliforme à réniforme, convexe à subétalé, souvent déprimé au centre ou vers le point d'attache, sec, souvent hygrophane, sublisse, laineux à suède et devenant ridé ou finement ruguleux radialement vers la marge, couvert d'un tomentum velouté ou densément hispide souvent plus pâle puis ± concolore et brun noirâtre au point d'attache avec l'âge, lisse sur les chapeaux du dessous des amas imbriqués, sur fond beige, brun olive, brun roux à ambre, plus pâle vers la marge, finement taché ou plaqué de brun foncé à cannelle, entièrement chamois fauve au sec, à marge enroulée à incurvée et souvent appendiculée au début, puis subétalée, entière à lobée
   cheilochrysocystides:
   cheilocystides: nombreuses cylindriques à fusiformes, parfois flexueuses, dépassant les 30 µm de longueur
   cheiloleptocystides: 
@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte ou assez forte, légèrement à modérément aromatique ou acide-poivrée, souvent fruitée, parfois fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -140,7 +140,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: radiantes à partir d'un point d'attache, souvent décurrentes lorsque la base est large, adnées à adnexées, larges, jusqu'à 5 mm, subespacées à serrées, blanchâtres, crème à brunâtres, parfois avec petites taches brun orangé, brun pâle à brun rougeâtre au sec, à arêtes entièrement légèrement à grossièrement serrulées, parfois lacérées avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire, cespiteux, en amas imbriqués, rarement solitaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -207,9 +207,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: absent ou rudimentaire, 8-20 mm de largeur, latéral, tomenteux, gris brun
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,13 +243,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: ± poivrée à amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

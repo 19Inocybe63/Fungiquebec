@@ -16,10 +16,10 @@ details:
   famille: Auriscalpiaceae
   genre: Lentinellus
   espece: ursinus
-  litterature: 
+  litterature: Kühner, R. 1926. Contribution à l'Étude des Hyménomycètes et spécialement des agaricacées. Le Botaniste. 17:1-224
   fongariums:
-    - fongarium: 
-      date: 
+    - fongarium: cKc0018
+      date: 20 octobre 2012
   numero-de-planche-micrographique: cKc0018-0022
 
 description:

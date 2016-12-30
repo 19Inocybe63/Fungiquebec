@@ -70,7 +70,7 @@ description:
   chancre: 
   chapeau: 118 mm Ø, convexe puis largement convexe à subétalé, sec, brun tanne pâle, puis orné de fibrilles et de méchules brunes sur fond pâle, cuticule dépassant la couche de tubes à la marge
   cheilochrysocystides:
-  cheilocystides: abondamment rostrées, 52,7 x 12,6 µm en moyenne, rarement capitées
+  cheilocystides: abondamment rostrées, rarement capitées 52,7 x 12,6 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

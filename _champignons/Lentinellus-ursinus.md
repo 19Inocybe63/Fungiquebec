@@ -254,17 +254,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    Agaricus ursinus Fr., Systema Mycologicum 1:185 (1821)
-    Lentinus ursinus (Fr.) Fr., Systema Orbis Vegetabilis 1:78 (1825)
-    Hemicybe ursina (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:248 (1879)
-    Pocillaria ursina (Fr.) Kuntze, Revisio generum plantarum 2:866 (1891)
-    Panellus ursinus (Fr.) Murrill, North American Flora 9 (4):246 (1915)
-    Resupinatus ursinus (Fr.) Murrill, North American Flora 9 (4):246 (1915)
-    Lentinus vulpinus f. ursinus (Fr.) Pilát, Atlas des Champignons de l'Europe V, Monographie des espèces européennes du genre Lentinus Fr.:36 (1946)
-    Agaricus pelliculosus Schwein., Schriften der Naturforschenden Gesellschaft zu Leipzig 1:90 (1822)
-    Lentinellus castoreus var. hispidus P.A. Moreau & P. Roux, Bulletin de la Société Mycologique de France 115:348 (1999)
-    Lentinellus ursinus f. luxurians P.A. Moreau, Bulletin de la Société Mycologique de France 115:334 (1999)
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

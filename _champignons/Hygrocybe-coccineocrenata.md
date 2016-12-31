@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistinctes, douces
+  exhalaison: indistincte, douce
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

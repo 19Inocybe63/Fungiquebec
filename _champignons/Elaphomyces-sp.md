@@ -79,7 +79,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « J'ai trouvé plus de vingt spécimens en une cueillette. Le spécialiste Michael Castellano m'indique qu'il n'a jamais vu cette espèce, c'est une première pour lui. Il possède un échantillon de la collection pour étude d'ADN. Voir aussi la collection cKc0463 »
   conidies: 
   conidiome: 
   conidiophores: 

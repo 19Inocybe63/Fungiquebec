@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-50 x 1-4 mm Ø, cylindrique, égal, concolore au chapeau
+  pied: 30-50 x 1-4 mm Ø, cylindrique, égal, légèrement radicant, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, occasionnellement formé d'hyphes apprimées ± dressées, sans subpellis différencié

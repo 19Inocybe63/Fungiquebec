@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans l'humus et sur les sols riches, bois pourri et moussu des forêts, parfois parmi les sphaignes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, jaune, blanchâtre, orangée à orange rougeâtre
   chancre: 
-  chapeau: 
+  chapeau: 6-30 mm Ø, largement convexe, avec une marge incrustée et finement festonnée, sec ou légèrement collant, mais non gluant, glabre ou très finement fibrillose au début, écarlate à orange rougeâtre lorsque jeune, avec une marge jaunâtre, décoloration à orange ou orange pâle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -126,7 +126,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -136,7 +136,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: longuement arquées-décurrentes, larges, souvent triangulaires, subespacées à très espacées, jaune orangé à jaune pâle, souvent plus pâles que la surface du chapeau, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -189,7 +189,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire ou en troupes dispersées
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 3-11 x 1-5 mm Ø, longuement élancé, cylindrique à égal ou légèrement atténué vers la base, parfois comprimé, fragile, farci à creux, lisse, sec, concolore au chapeau, jaunâtre pâle à blanchâtre à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,13 +239,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte, douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

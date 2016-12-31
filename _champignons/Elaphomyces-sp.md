@@ -146,7 +146,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: semble commun dans l'Est du Québec
   glebe: intérieur blanc à la coupe, qui devient rougeâtre avec le temps avec en son centre une masse noirâtre
   gleocystides: 
   gleocystides-hymeniales: 
@@ -199,7 +199,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, très nombreux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -213,7 +213,7 @@ description:
   peridiopellis: 
   peridium: 9-30 x 10-34 mm Ø, surface granuleuse, jaunâtre
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

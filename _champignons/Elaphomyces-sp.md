@@ -81,7 +81,9 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « J'ai trouvé plus de vingt spécimens en une cueillette. Le spécialiste Michael Castellano m'indique qu'il n'a jamais vu cette espèce, c'est une première pour lui. Il possède un échantillon de la collection pour étude d'ADN. Voir aussi la collection cKc0463 »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « J'ai trouvé plus de vingt spécimens en une cueillette. Le spécialiste Michael Castellano m'indique qu'il n'a jamais vu cette espèce, c'est une première pour lui. Il possède un échantillon de la collection pour étude d'ADN. Voir aussi la collection cKc0463 »
+    De Michael Castellano.  « Courriel du 13.VII.2016 ; Pour les collections: cKc0396, cKc0428 (pas de photo), cKc0463 = Elaphomyces sp. nov. not seen before. »
   conidies: 
   conidiome: 
   conidiophores: 

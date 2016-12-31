@@ -68,7 +68,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 5-25 mm Ø, convexe puis déprimé au centre, rouge à rouge orangé
+  chapeau: 3-25 mm Ø, convexe puis déprimé au centre, sec, orné de fines squamules brunâtres sur fond rouge à rouge orangé
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: décurrentes, jaune pâle à crème
+  lames: adnées puis décurrentes, espacées, jaune pâle à crème
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

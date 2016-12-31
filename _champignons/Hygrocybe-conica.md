@@ -237,7 +237,8 @@ description:
   pseudocolumelle: 
   pseudocystides: de formes variées provenant de la trame lamellaire, émergentes dans l'hyménium, + 112 x 2-10 µm
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Boertmann, David. The genus Hygrocybe, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

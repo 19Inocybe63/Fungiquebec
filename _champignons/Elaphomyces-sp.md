@@ -1,5 +1,5 @@
 ---
-nom: Elaphomyces sp.
+nom: Elaphomyces sp. nov. not 
 date: 2016-12-31 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
@@ -10,12 +10,12 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/20440587051/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 
 details:
-  nom-francais: 
-  autorites: 
+  nom-francais: Elaphomyces nouvelle espèce
+  autorites: Castellano
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: sp.
+  espece: sp. nov. not
   litterature: 
   fongariums:
     - fongarium: cKc0396

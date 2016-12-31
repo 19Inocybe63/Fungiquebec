@@ -39,8 +39,12 @@ description:
   arthroconidies: 
   articles: 
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    sphériques, comme finement échinulées, très finement granuleuses
+    18,1 [21,6; 24,9] 28,4 x 17,7 [21,3; 24,7] 28,3 µm
+    Q = 1 [1,0] 1; N = 10; C = 95%
+    Me = 23,2 x 23 µm; Qe = 1
+  asques: globuleuses, contenant en moyenne (5) 6 à 7 spores globuleuses, 51,6 [61,6; 71] 81,1 x 40,5 [46,7; 52,5] 58,8 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -152,7 +156,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: incrustées dans la glèbe
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 

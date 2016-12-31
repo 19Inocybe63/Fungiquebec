@@ -139,7 +139,7 @@ description:
   fongarium:
   fragments-sporaux: 
   frequence: 
-  glebe: intérieur blanc à la coupe, mais devient rougeâtre avec le temps avec en son centre une masse noirâtre
+  glebe: intérieur blanc à la coupe, qui devient rougeâtre avec le temps avec en son centre une masse noirâtre
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 

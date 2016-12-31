@@ -49,7 +49,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans le sol, sous Picea, Pinus, Quercus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -76,7 +76,7 @@ description:
   circumcystides: 
   clavules: 
   collection-confirmee-par: 
-  collection-determinee-par: 
+  collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
   commentaires: De Claude Kaufholtz-Couture. « J'ai trouvé plus de vingt spécimens en une cueillette. Le spécialiste Michael Castellano m'indique qu'il n'a jamais vu cette espèce, c'est une première pour lui. Il possède un échantillon de la collection pour étude d'ADN. Voir aussi la collection cKc0463 »
@@ -139,7 +139,7 @@ description:
   fongarium:
   fragments-sporaux: 
   frequence: 
-  glebe: 
+  glebe: intérieur blanc à la coupe, mais devient rougeâtre avec le temps avec en son centre une masse noirâtre
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -203,7 +203,7 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: 
+  peridium: 9-30 x 10-34 mm Ø, surface granuleuse, jaunâtre
   peritheces: 
   phenologie: 
   phialoconidies: 

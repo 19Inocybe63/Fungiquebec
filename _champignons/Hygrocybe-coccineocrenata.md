@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol des forêts et milieux humides
+  biotopes: pousse sur sol des forêts et milieux humides, sur sol mal drainé des forêts
   boucles: observées dans le pileipellis et dans la trame lamellaire
   brachybasidioles: 
   calicule: 
@@ -140,7 +140,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 30-50 x 1-4 mm Ø, concolore au chapeau
   pieds-steriles: 
@@ -249,8 +249,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: en cutis

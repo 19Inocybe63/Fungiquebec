@@ -244,7 +244,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: indistinctes, douces
+  saveur: indistincte, douce
   sclerocystides: 
   sclerote: 
   soies: 

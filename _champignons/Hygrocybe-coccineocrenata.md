@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/17143860659/in/photolist-s7WLut-fw7w6p-fwmP4b
 
 details:
-  nom-francais: 
+  nom-francais: Hygrophore crête-de-coq
   autorites: (P.D. Orton) M.M. Moser
   ordre: Agaricales
   famille: Hygrophoraceae

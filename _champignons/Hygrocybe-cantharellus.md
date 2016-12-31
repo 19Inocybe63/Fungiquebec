@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Hygrophore chanterelle
   autorites: (Fr.) Murrill
   ordre: Agaricales
   famille: Hygrophoraceae

@@ -12,15 +12,17 @@ planches:
 details:
   nom-francais: 
   autorites: 
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
+  ordre: Eurotiales
+  famille: Elaphomycetaceae
+  genre: Elaphomyces
+  espece: sp.
   litterature: 
   fongariums:
-    - fongarium: 
-      date: 
-  numero-de-planche-micrographique: 
+    - fongarium: cKc0396
+      date: 6 août 2015
+    - fongarium: cKc0463
+      date: 16 septembre 2015
+  numero-de-planche-micrographique: cKc0396-0094
 
 description:
   acanthocytes: 

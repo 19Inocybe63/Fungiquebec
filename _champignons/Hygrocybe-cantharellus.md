@@ -235,7 +235,7 @@ description:
     Boertmann, David. The genus Hygrocybe, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = négative sur le chapeau
+    KOH 10% = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

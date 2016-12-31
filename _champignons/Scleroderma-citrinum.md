@@ -122,7 +122,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: aigre, désagréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -230,19 +230,19 @@ description:
     Pegler, D. N.; Laessøe, T.; Spooner, B. M. British Puffballs Earthstars and Stinkhorns, An account of the British Gasteroid Fungi, Royal Botanic Gardens, Kew, 1995, 145 p.
     Smith, Alexander H. Puffballs and their allies in Michigan, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = la surface devient rougeâtre foncé
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: aigre, désagréable
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

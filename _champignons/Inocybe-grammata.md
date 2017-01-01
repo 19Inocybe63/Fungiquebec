@@ -55,7 +55,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur pelouse, sol sablonneux, entre un érable argenté et une épinette, milieu ouvert
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -72,7 +72,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 10-35 mm Ø, conique-convexe à campanulé, fibrilleux-rimeux, brun pâle avec reflets rougeâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -98,7 +98,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: absente
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -135,8 +135,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: pipéridine (spermatique)
+  exhalaison-des-lames: pipéridine (spermatique)
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, arquées lorsque jeune, ventrues, serrées, crème rougeâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -213,7 +213,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 34 x 9 mm Ø, cylindrique, cystidié sur toute sa longueur, bulbeux marginé à la base, fibrilleux blanchâtre et rougeâtre à l'apex
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -258,7 +258,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: pipéridine (spermatique)
   sclerocystides: 
   sclerote: 
   soies: 

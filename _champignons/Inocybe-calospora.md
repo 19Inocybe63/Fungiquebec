@@ -21,13 +21,13 @@ details:
     - fongarium: cKc0330
       date: 7 juillet 2015
     - fongarium: cKc0335
-      date:13 juillet 2015
+      date: 13 juillet 2015
     - fongarium: cKc0343
-      date:19 juillet 2015
+      date: 19 juillet 2015
     - fongarium: cKc0345
-      date:15 juillet 2015
+      date: 15 juillet 2015
     - fongarium: cKc0375
-      date:25 juillet 2015
+      date: 25 juillet 2015
   numero-de-planche-micrographique: cKc0375-0100
 
 description:

@@ -50,8 +50,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes, claviformes à largement claviformes, 2-4 stérigmates, bouclées à la base, 25,5 [29,6; 33,4] 37,5 x 11,3 [12,5; 13,6] 14,7 µm
+  basidiospores: |
+    subamigdaliformes, gibbeuses (noduleuses)-anguleuses (goniosporées), à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    7,8 [8,8; 9,3] 10,3 x 6,1 [7,1; 7,5] 8,4 µm
+    Q = 1,1 [1,2; 1,3] 1,4; N = 30; C = 95%
+    Me = 9,1 x 7,3 µm; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -62,7 +66,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: semblables au hyménocystides, métuloïdes, dans l'apex, et plus souvent comme des hyphes terminales de terminaison piriforme ± sinueuses
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -74,7 +78,7 @@ description:
   chancre: 
   chapeau: 10-35 mm Ø, conique-convexe à campanulé, fibrilleux-rimeux, brun pâle avec reflets rougeâtre
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: métuloïdes, 60,3 [61,6; 67,7] 68,9 x 17,2 [17,8; 20,2] 20,8 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -144,7 +148,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -183,7 +187,7 @@ description:
   lames: adnées à adnexées, arquées lorsque jeune, ventrues, serrées, crème rougeâtre
   lamprocystides: 
   lamprocheilocystides: 
-  lampropleurocystides: 
+  lampropleurocystides: métuloïdes à paroi légèrement épaissie à épaissie entre 0,83-2,43 µm en moyenne, 52,2 [59,1; 68,5] 75,4 x 15 [17,4; 20,7] 23,1 µm en moyenne
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -197,7 +201,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé, grégaire en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -211,12 +215,12 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: en juin
   phialoconidies: 
   pied: 34 x 9 mm Ø, cylindrique, cystidié sur toute sa longueur, bulbeux marginé à la base, fibrilleux blanchâtre et rougeâtre à l'apex
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -234,7 +238,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: 
+  premiere-mention: Il s'agit de la première étude de ce champignon au Québec.
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
@@ -254,7 +258,9 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 12, les Inocybe, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Sous-genre Clypeus Britz., (Espèces gibbosporées) ; Section Marginatae Kühner (Espèces gibbosporées à stipe entièrement poudré et bulbeux-marginé) ; Sous-section Oblectabiles M. Bon (Marginatae à stipe ± rosé ou subconcolore)
+    Code d'après la clé de Fatto: B C F H K M N Q + mix
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -279,7 +285,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle à subparallèle
   trame-tubulaire: 
   type: 
   typique: 

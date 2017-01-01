@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/18867028808/in/photolist-uKdsm9-uvp2YK-tR1ag8
 
 details:
-  nom-francais: Inocybe rayé
+  nom-francais: Inocybe rayé ou Inocybe sillonné
   autorites: Quél.
   ordre: Agaricales
   famille: Inocybaceae

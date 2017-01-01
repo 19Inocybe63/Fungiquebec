@@ -59,7 +59,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse, sol sablonneux, entre un érable argenté et une épinette, milieu ouvert
+  biotopes: pousse au sol, sur pelouse, sol sablonneux, sous Picea, milieu ouvert
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -74,9 +74,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre dans le chapeau, carnée dans le pied, blanche dans le bulbe; odeur spermatique ou acidulée
   chancre: 
-  chapeau: 10-35 mm Ø, conique-convexe à campanulé, fibrilleux-rimeux, brun pâle avec reflets rougeâtre
+  chapeau: 10-35 (40) mm Ø, conique-convexe à campanulé, d'abord lisse puis fibrilleux-rimeux, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre
   cheilochrysocystides:
   cheilocystides: métuloïdes, 60,3 [61,6; 67,7] 68,9 x 17,2 [17,8; 20,2] 20,8 µm en moyenne
   cheiloleptocystides: 
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, arquées lorsque jeune, ventrues, serrées, crème rougeâtre
+  lames: adnées à adnexées, arquées lorsque jeune, ventrues, serrées, gris-beige clair, puis brun ocracé à brun olivâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, 52,2 [59,1; 68,5] 75,4 x 15 [17,4; 20,7] 23,1 µm en moyenne
@@ -217,7 +217,7 @@ description:
   peritheces: 
   phenologie: en juin
   phialoconidies: 
-  pied: 34 x 9 mm Ø, cylindrique, cystidié sur toute sa longueur, bulbeux marginé à la base, fibrilleux blanchâtre et rougeâtre à l'apex
+  pied: 30-60 x 6-9 mm Ø, ± cylindrique, cystidié sur toute sa longueur, bulbeux marginé à submarginé à la base, fibrilleux blanchâtre et rougeâtre à l'apex
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis

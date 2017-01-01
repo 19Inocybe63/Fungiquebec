@@ -270,7 +270,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun foncé à brun tabac
   spherocytes: 
   sporocystes: 
   stipitipellis: 

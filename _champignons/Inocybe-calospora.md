@@ -81,7 +81,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanche
+  chair: légèrement jaunâtre à brunâtre, mais plus blanche dans le stipe
   chancre: 
   chapeau: 11 x 18 mm Ø, campanulé, conique à étalé, légèrement mamelonné, tomenteux, méchuleux-écailleux, brun foncé à brun rougeâtre
   cheilochrysocystides:

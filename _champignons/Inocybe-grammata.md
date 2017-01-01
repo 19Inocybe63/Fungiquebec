@@ -187,7 +187,7 @@ description:
   lames: adnées à adnexées, arquées lorsque jeune, ventrues, serrées, crème rougeâtre
   lamprocystides: 
   lamprocheilocystides: 
-  lampropleurocystides: métuloïdes à paroi légèrement épaissie à épaissie entre 0,83-2,43 µm en moyenne, 52,2 [59,1; 68,5] 75,4 x 15 [17,4; 20,7] 23,1 µm en moyenne
+  lampropleurocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, 52,2 [59,1; 68,5] 75,4 x 15 [17,4; 20,7] 23,1 µm en moyenne
   lamprocaulocystides: 
   latex: 
   leptocystides: 

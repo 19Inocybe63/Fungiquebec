@@ -19,7 +19,7 @@ details:
   litterature: Bresadola, G. 1882. Fungi tridentini. Fungi Tridentini. 1(2):15-26
   fongariums:
     - fongarium: cKc0330
-      date:7 juillet 2015
+      date: 7 juillet 2015
     - fongarium: cKc0335
       date:13 juillet 2015
     - fongarium: cKc0343

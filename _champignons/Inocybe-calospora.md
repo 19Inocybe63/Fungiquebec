@@ -61,7 +61,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans la mousse, sol sablonneux, sous feuillus et conifères (Quercus) (Pinus)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -76,9 +76,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche
   chancre: 
-  chapeau: 
+  chapeau: 11 x 18 mm Ø, campanulé, conique à étalé, légèrement mamelonné, tomenteux, méchuleux-écailleux, brun foncé à brun rougeâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -186,7 +186,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, cunéiformes, légèrement veinées, brun pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -219,7 +219,7 @@ description:
   peritheces: 
   phenologie: en juillet
   phialoconidies: 
-  pied: 
+  pied: 20-42 x 1-2 mm Ø, cylindrique, égal, trié longitudinalement, pruineux à l'apex blanchâtre, légèrement radicant à la base, avec de petites taches blanchâtres, qui s'effiloche à la coupe, brun foncé aux reflets rougeâtre, bulbillé
   pieds-steriles: 
   pigments: 
   pileipellis: 

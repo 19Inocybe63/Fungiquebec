@@ -56,8 +56,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, rarement utriformes, tétrastérigmates, 24,9 [30,6; 39,7] 45,4 x 9,9 [10,4; 11,3] 11,9 µm
+  basidiospores: |
+    globuleuses (58,3%) à subglobuleuses (41,7%), aculéolées (digitéolées) dont l’apex est obtus mesurant entre 1,3 [1,9; 2,5] 3,1 x 0,8 [1,3; 1,8] 2,3 µm, à paroi mince à légèrement épaissie, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, légèrement rougeâtre dans le melzer, non cyanophiles
+    8,2 [9,4; 9,9] 11,2 x 7,6 [8,8; 9,4] 10,6 µm
+    Q = 0,9 [1; 1,1] 1,2; N = 30; C = 95%
+    Me = 9,7 x 9,1 µm; Qe = 1,1
+    (mesures issues de sporée dans NaCl iso 0,9%, excluant les digitations)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -68,7 +73,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: présentes du centre vers l’apex, nombreuses, diversiformes, claviformes cylindriques à subcylindriques 10,6 [26; 56,8] 72,2 x 7,3 [9,4; 13,6] 15,7 µm, subglobuleux 14,6 [15; 16,9] 17,3 x 12,8 [12,9; 13,4] 13,5 µm, lagéniformes 57,3 x 11,6 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -91,7 +96,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Dans les mesures des spores, Kauffman (North American Flora, vol. 10, Part 4, Inocybe, 1924, p. 233) inclut les digitations dans la mesure. Pour ma part, je ne les inclus pas, elles sont mesurées à part. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -188,8 +193,8 @@ description:
   hysterothece: 
   lames: adnées, cunéiformes, légèrement veinées, brun pâle
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: 
+  lamprocheilocystides: abondantes, diversiformes, métuloïdes, rarement avec un long col, lagéniformes, fusiformes légèrement ventrues à subcylindriques, avec paroi jusqu'à 3-4 µm, hyalines, 27 [32,8; 38,3] 42,1 x 9,5 [14,1; 16,6] 17,9 µm
+  lampropleurocystides: peu nombreuses, dispersées, lagéniformes à subfusiformes, à paroi jusqu'à 3-4 µm, hyalines, 29,5-51,2 x 10-15 µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -222,7 +227,7 @@ description:
   pied: 20-42 x 1-2 mm Ø, cylindrique, égal, trié longitudinalement, pruineux à l'apex blanchâtre, légèrement radicant à la base, avec de petites taches blanchâtres, qui s'effiloche à la coupe, brun foncé aux reflets rougeâtre, bulbillé
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis formé d'hyphes articulées parfois en faisceaux, avec pigment incrustant
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -288,7 +293,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle à subparallèle
   trame-tubulaire: 
   type: 
   typique: 

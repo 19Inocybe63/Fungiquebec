@@ -110,6 +110,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
+  crochets apicaux: Les cristaux apicaux de la collection cKc0367 ; Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des Lamprocystides (Lamprocheilocystides et Lampropleurocystides) possède entre 1 et 2(3) très petits subcrochets ; plutôt une masse de cristaux
   cuticule: 
   cutis: 
   cycle: 

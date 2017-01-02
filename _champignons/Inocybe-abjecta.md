@@ -52,24 +52,29 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à étroitement claviformes, tétrastérigmates, bouclées à la base, 25,0-38,0 × 6,5-10,0 µm
+  basidiospores: |
+    léiosporées, elliptiques citriformes à sommet subtronqué vue frontale, amygdaliformes à citriformes avec apex coniques à ± ogives, parfois subtronquées vue de profil, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire, parfois avec pore germinatif 0,6-0,8 µm Ø, à contenu uniguttulé, brun pâle à rougeâtre dans E.G. 20%, inactives dans le melzer, non cyanophiles
+    (7,5) 8 - 9,3 (10,7) × (4,5) 4,8 - 5,5 (5,7) µm
+    Q = (1,5) 1,6 - 1,8 (2) ; N = 30
+    Me = 8,8 × 5,2 µm ; Qe = 1,7
+    (Piximètre, formule classique, mesures issues de sporée dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse dans un sol sablonneux, sous Quercus, Pinus, dans un habitat ouvert, au potentiel hydrogène (pH) 4-6
-  boucles: 
+  boucles: observées dans le stipe
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: absentes
+  caulocystides-sommitales: surtout cylindriques, éparses, ou en faisceaux 40-70 x 6-8 µm
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: abondantes, piriformes à clavées (18,3) 18,33 - 23,3 × 7,1 - 9,47 (9,5) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
@@ -184,8 +189,8 @@ description:
   hysterothece: 
   lames: adnées à adnexées
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: 
+  lamprocheilocystides: nombreuses, métuloïdes, fusiformes à lagéniformes à paroi fine à moyenne entre 1,0-2,4 µm, (55,6) 59,6 - 71,9 (72,2) × (11) 11,8 - 15,5 µm
+  lampropleurocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, lagéniformes à cylindriques à paroi fine à moyenne 1,0-2,4 µm, (50,1) 60,3 - 64,7 (70,0) × (11) 16 - 17,5 (18,5) µm, parfois avec col tortueux, largement ovoïdes à piriformes, à paroi fine 1,0-1,5 µm, (42,1) 42,8 - 50,8 (51,4) × (17,5) 18,4 - 20,3 (24) µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -218,7 +223,7 @@ description:
   pied: 31-32 x 3 mm Ø, légèrement bulbeux
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis dont les hyphes terminales sont un peu emmêlées, subtrichodermiques, avec pigments
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -256,7 +261,9 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 12, les Inocybe, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    D'après l'article de Grund et Stuntz (Nova Scotian Inocybe, vol. II, pp. 925-927), I. abjecta a des caulocystides (rares), mais elles ne sont pas métuloïdes. Elles se présentent comme des hyphes terminales et ne sont présentes qu'à l'apex du stipe.
+    D'après la Clé des Inocybes de Ray Fatto: Code = A C E H K L N Q - (Inocybe abjecta)  &  A C F H K L N Q - (Inocybe fuscidula)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -285,7 +292,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   type: 
   typique: 

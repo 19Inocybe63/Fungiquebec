@@ -75,7 +75,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Herbert Baker (Mushroom Observer)
+  collection-confirmee-par: Herbert Baker
   columelle: 
   commentaires: De Alan Rockefeller (Mushroom Observer). « G. applanatum est un nom européen, tandis que G. megaloma est un nom de la partie nord-est des États-Unis. »
   conidies: 

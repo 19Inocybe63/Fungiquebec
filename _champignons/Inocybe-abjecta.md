@@ -79,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 20-21 mm Ø, campanulé, brun avec centre plus foncé
+  chapeau: 13-21 mm Ø, convexe à étalé, campanulé, mamelonné, fibrilleux, brun avec centre brun foncé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -143,8 +143,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: fongique, pipéridine (spermatique)
-  exhalaison-des-lames: fongique, pipéridine (spermatique)
+  exhalaison-de-la-chair: fongique, pipéridine (spermatique) à ± caoutchouc
+  exhalaison-des-lames: fongique, pipéridine (spermatique) à ± caoutchouc
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -152,7 +152,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -188,7 +188,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées
+  lames: adnées à adnexées, crème à brun très pâle
   lamprocystides: 
   lamprocheilocystides: nombreuses, métuloïdes, fusiformes à lagéniformes à paroi fine à moyenne entre 1,0-2,4 µm, (55,6) 59,6 - 71,9 (72,2) × (11) 11,8 - 15,5 µm
   lampropleurocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, lagéniformes à cylindriques à paroi fine à moyenne 1,0-2,4 µm, (50,1) 60,3 - 64,7 (70,0) × (11) 16 - 17,5 (18,5) µm, parfois avec col tortueux, largement ovoïdes à piriformes, à paroi fine 1,0-1,5 µm, (42,1) 42,8 - 50,8 (51,4) × (17,5) 18,4 - 20,3 (24) µm
@@ -205,7 +205,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé à grégaire en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -219,9 +219,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: en juillet
   phialoconidies: 
-  pied: 31-32 x 3 mm Ø, légèrement bulbeux
+  pied: 20-32 x 2-3 mm Ø, cylindrique, égal, avec teinte brun rougeâtre, légèrement bulbeux
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis dont les hyphes terminales sont un peu emmêlées, subtrichodermiques, avec pigments

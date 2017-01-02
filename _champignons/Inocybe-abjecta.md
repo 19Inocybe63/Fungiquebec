@@ -55,7 +55,7 @@ description:
   basides: claviformes à étroitement claviformes, tétrastérigmates, bouclées à la base, 25,0-38,0 × 6,5-10,0 µm
   basidiospores: |
     léiosporées, elliptiques citriformes à sommet subtronqué vue frontale, amygdaliformes à citriformes avec apex coniques à ± ogives, parfois subtronquées vue de profil, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire, parfois avec pore germinatif 0,6-0,8 µm Ø, à contenu uniguttulé, brun pâle à rougeâtre dans E.G. 20%, inactives dans le melzer, non cyanophiles
-    (7,5) 8 - 9,3 (10,7) × (4,5) 4,8 - 5,5 (5,7) µm
+    (7,5) 8 - 9,3 (10,7) × (4,5) 4,8 - 5,5 (6,7) µm
     Q = (1,5) 1,6 - 1,8 (2) ; N = 30
     Me = 8,8 × 5,2 µm ; Qe = 1,7
     (Piximètre, formule classique, mesures issues de sporée dans E.G. 20%)

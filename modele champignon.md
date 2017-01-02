@@ -97,7 +97,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  crochets apicaux: 
+  cristaux apicaux: 
   cuticule: 
   cutis: 
   cycle: 

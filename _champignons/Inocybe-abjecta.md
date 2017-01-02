@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans un sol sablonneux, sous Quercus, Pinus, dans un habitat ouvert, au potentiel hydrogène (pH) 4-6
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -74,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 20-21 mm Ø, campanulé, brun avec centre plus foncé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -137,8 +137,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: fongique, pipéridine (spermatique)
+  exhalaison-des-lames: fongique, pipéridine (spermatique)
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -182,7 +182,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -215,7 +215,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 31-32 x 3 mm Ø, légèrement bulbeux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -260,13 +260,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique, persil à légèrement spermatique (pipéridine)
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

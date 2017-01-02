@@ -12,7 +12,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/25685634394/in/photolist-F8KAeq-wsNBUQ-wraQZS
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe négligé
   autorites: P. Karst.
   ordre: Agaricales
   famille: Inocybaceae

@@ -78,7 +78,7 @@ description:
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-confirmee-par: Herbert Baker
   columelle: 
-  commentaires: De Alan Rockefeller (Mushroom Observer). « G. applanatum est un nom européen, tandis que G. megaloma est un nom de la partie nord-est des États-Unis. »
+  commentaires: De Alan Rockefeller. « G. applanatum est un nom européen, tandis que G. megaloma est un nom de la partie nord-est des États-Unis. »
   conidies: 
   conidiome: 
   conidiophores: 

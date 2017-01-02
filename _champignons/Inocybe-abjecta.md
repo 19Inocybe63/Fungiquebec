@@ -71,7 +71,7 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes
-  caulocystides-sommitales: surtout cylindriques, éparses, ou en faisceaux 40-70 x 6-8 µm
+  caulocystides-sommitales: rares à occasionnelles, surtout cylindriques, éparses, ou en faisceaux, ressemblent à des hyphes terminales, cylindriques et bouclées, 40-70 x 6-8 µm
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: abondantes, piriformes à clavées (18,3) 18,33 - 23,3 × 7,1 - 9,47 (9,5) µm
@@ -190,8 +190,8 @@ description:
   hysterothece: 
   lames: adnées à adnexées, crème à brun très pâle
   lamprocystides: 
-  lamprocheilocystides: nombreuses, métuloïdes, fusiformes à lagéniformes à paroi fine à moyenne entre 1,0-2,4 µm, (55,6) 59,6 - 71,9 (72,2) × (11) 11,8 - 15,5 µm
-  lampropleurocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, lagéniformes à cylindriques à paroi fine à moyenne 1,0-2,4 µm, (50,1) 60,3 - 64,7 (70,0) × (11) 16 - 17,5 (18,5) µm, parfois avec col tortueux, largement ovoïdes à piriformes, à paroi fine 1,0-1,5 µm, (42,1) 42,8 - 50,8 (51,4) × (17,5) 18,4 - 20,3 (24) µm
+  lamprocheilocystides: nombreuses, polymorphes, métuloïdes, fusiformes à subfusiformes, lagéniformes, cylindriques, (50,0) 59,6 - 72 × (10) 11,8 - 15,5 (18,2) µm, à paroi fine à moyenne 1,0-2,4 µm
+  lampropleurocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, atténué au sommet-obclavée, lagéniformes à cylindriques à paroi fine à moyenne 1,0-2,4 µm, (50,1) 60,3 - 64,7 (70,0) × (11) 16 - 17,5 (18,5) µm, parfois avec col tortueux, largement ovoïdes à piriformes, (20,5) 42,8 - 50,8 (51,4) × (17,5) 18,4 - 20,3 (24) µm, à paroi fine à moyenne (1,0) 1,4-2,5 (2,7) µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 

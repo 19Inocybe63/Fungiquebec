@@ -79,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 13-21 mm Ø, convexe à étalé, campanulé, mamelonné, fibrilleux, brun avec centre brun foncé
+  chapeau: 13-21 mm Ø, convexe à étalé, campanulé, mamelonné, fibrilleux, brun avec centre brun foncé, à la marge blanchâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

@@ -255,7 +255,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ib à pallidosporée IIa, (en tas), blanche à crème pâle, d'après la charte de couleurs de Romagnesi ; A-B (C) d'après la charte de couleurs de Kibby
+  sporee: leucosporée Ib à pallidosporée IIa, (en tas), blanchâtre à crème pâle, d'après la charte de couleurs de Romagnesi ; A-B (C) d'après la charte de couleurs de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

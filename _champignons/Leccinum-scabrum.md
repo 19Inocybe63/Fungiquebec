@@ -249,6 +249,7 @@ description:
     FeSO<sub>4</sub> = ardoise bleuâtre sur le chapeau et sur la chair ; légèrement bleutée à verdâtre sur la face poroïde
     KOH 10% = brun rougeâtre sur le chapeau et sur la chair ; rouge grenat, puis rouge noir sur la face poroïde
     NH<sub>4</sub>OH 10% = pas de coloration ni de décoloration sur le chapeau et sur la chair
+    Réactions chimiques naturelles = la chair devient rougeâtre à la coupe après plusieurs minutes, et la base du stipe a des reflets verts, parfois jusqu'au milieu
   receptacle: 
   remarques: 
   repartition: 

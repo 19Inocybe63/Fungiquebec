@@ -261,7 +261,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; B-C d'après la charte de couleur de Kibby
+  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; C-D d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

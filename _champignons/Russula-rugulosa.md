@@ -67,7 +67,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche, mais fragile lorsque le spécimen est mature, immuable au grattage ou à la coupe, rouge sous la cuticule
   chancre: 
-  chapeau: 23-99 mm Ø, convexe à étalé puis légèrement déprimé, à cuticule collante qui se pèle jusqu'au ¾ du rayon, rouge à rouge pâle avec centre parfois jaunâtre, ou ± plus foncé au centre, s'atténuant vers la marge
+  chapeau: 23-99 mm Ø, convexe à étalé puis légèrement déprimé, à cuticule collante qui se pèle jusqu'au ¾ du rayon, rouge à rouge pâle avec centre parfois jaunâtre, ou ± plus foncé, s'atténuant vers la marge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, rarement fourchues, étroite, serrées à subserrées, une lamellule par spécimen environ, très peu de lamelles (entre 4 et 7), sans vraiment de furcations, blanches devenant légèrement ocres
+  lames: adnées à adnexées, rarement fourchues, étroites, serrées à subserrées, une lamellule par spécimen environ, très peu de lamelles (entre 4 et 7), sans vraiment de furcations, blanches devenant légèrement ocres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -244,7 +244,7 @@ description:
     Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
     FeSO<sub>4</sub> = rosé pâle sur le stipe
     Soluté de gaïac = < 5" S +++ b (5 forte) ; < 5" L +++ b (5 forte)
   receptacle: 

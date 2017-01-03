@@ -66,9 +66,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: chamois, très pâle lorsque exposé, immuable
   chancre: 
-  chapeau: 
+  chapeau: 40-100 mm Ø, obtus à largement convexe, sec à humide, subfibrilleux vers la marge, parfois entièrement craquelé à l'humidité, dans divers tons de brun, brun foncé à brun jaunâtre, jamais gris-brun, parfois teinté d'olivâtre à maturité, à marge unie
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -95,7 +95,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: concolore à la face poroïde, 7-16 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -137,7 +137,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanchâtre, brunissant avec l'âge et au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -210,7 +210,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: 60-120 x 10-15 mm, élargi vers la base, plein, sec, parfois légèrement vert à la base, orné de rugosités brun-gris sur fond blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,7 +230,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: circulaires et petits, 2-3 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -246,9 +246,9 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = ardoise bleuâtre sur le chapeau et sur la chair
-    KOH 10% = brun rougeâtre sur le chapeau et sur la chair
-    NH<sub>4</sub>OH 10% = négative au sur le chapeau et sur la chair
+    FeSO<sub>4</sub> = ardoise bleuâtre sur le chapeau et sur la chair ; légèrement bleutée à verdâtre sur la face poroïde
+    KOH 10% = brun rougeâtre sur le chapeau et sur la chair ; rouge grenat, puis rouge noir sur la face poroïde
+    NH<sub>4</sub>OH 10% = pas de coloration ni de décoloration sur le chapeau et sur la chair
   receptacle: 
   remarques: 
   repartition: 

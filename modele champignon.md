@@ -236,6 +236,7 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
+  reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
   remarques: 

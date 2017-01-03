@@ -251,7 +251,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Code de Kibby, E/F I K M / P T V _
+  remarques: Code de Kibby, E/F I K M / P T V 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -260,7 +260,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; B-C d'après la charte de couleur de Kibby
+  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; C-D d'après la charte de couleur de Kibby
   spores: 
   spherocytes: 
   sporocystes: 

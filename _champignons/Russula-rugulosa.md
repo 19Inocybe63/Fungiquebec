@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères, Abies, Larix, et tout près Fagus grandifolia
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanche, rouge sous la cuticule
   chancre: 
-  chapeau: 
+  chapeau: 40 mm Ø, convexe à étalé puis légèrement déprimé, à cuticule collante qui se pèle jusqu'au ¾ du rayon, rouge à rouge pâle avec centre parfois jaunâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
+  exhalaison-de-la-chair: légèrement fruitée
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
@@ -206,7 +206,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 45-58 x 7 mm Ø, cylindrique à claviformes, élargie vers la base, farci, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,17 +243,16 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Code de Kibby: A I K N / Q S - ?
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: âcre, brûlante
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi ; B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

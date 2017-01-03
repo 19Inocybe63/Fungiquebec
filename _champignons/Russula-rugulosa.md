@@ -20,6 +20,8 @@ details:
   fongariums:
     - fongarium: cKc0140
       date: 27 septembre 2013
+    - fongarium: cKc0525
+      date: 30 juillet 2016
   numero-de-planche-micrographique: 
 
 description:
@@ -33,7 +35,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Kaufholtz-Couture, Claude. Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac), Édition libre, Québec 2014, 3 p.
   ascome: 
   ascospores: 
   asques: 
@@ -62,9 +65,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ferme, blanche, rouge sous la cuticule, immuable
+  chair: ferme, blanche, mais fragile lorsque le spécimen est mature, immuable au grattage ou à la coupe, rouge sous la cuticule
   chancre: 
-  chapeau: 40 mm Ø, convexe à étalé puis légèrement déprimé, à cuticule collante qui se pèle jusqu'au ¾ du rayon, rouge à rouge pâle avec centre parfois jaunâtre
+  chapeau: 23-99 mm Ø, convexe à étalé puis légèrement déprimé, à cuticule collante qui se pèle jusqu'au ¾ du rayon, rouge à rouge pâle avec centre parfois jaunâtre, ou ± plus foncé au centre, s'atténuant vers la marge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -173,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, rarement fourchues, étroite, serrées à subserrées, blanches puis crème
+  lames: adnées à adnexées, rarement fourchues, étroite, serrées à subserrées, une lamellule par spécimen environ, très peu de lamelles (entre 4 et 7), sans vraiment de furcations, blanches devenant légèrement ocres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +209,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 45-58 x 7 mm Ø, cylindrique à claviformes, élargie vers la base, farci, blanc
+  pied: 38-70 x 7-20 mm Ø, cylindrique à claviformes, élargie vers la base, plein puis farci, blanc, immuable au grattage
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -242,12 +245,14 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
+    FeSO<sub>4</sub> = rosé pâle sur le stipe
+    Soluté de gaïac = < 5" S +++ b (5 forte) ; < 5" L +++ b (5 forte)
   receptacle: 
   remarques: Code de Kibby; A I K N / Q S - ?
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: âcre, brûlante
+  saveur: lentement âcre
   sclerocystides: 
   sclerote: 
   soies: 

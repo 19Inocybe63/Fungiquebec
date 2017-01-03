@@ -243,7 +243,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Code de Kibby: A I K N / Q S - ?
+  remarques: Code de Kibby; A I K N / Q S - ?
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

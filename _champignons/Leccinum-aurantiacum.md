@@ -62,9 +62,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanche devenant rosé gris puis noirâtre à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 86 mm Ø, convexe, dans les teintes d'orangé terne, pâle, avec une bande étroite à large de tissu débordant de la marge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -133,7 +133,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: beige, brunissant au froissement
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
@@ -206,7 +206,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: 138 x 23 mm Ø, cylindrique à claviforme, ferme, plein, sec, orné de rugosités brun rougeâtre à noirâtres, avec des reflets bleu vert à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 

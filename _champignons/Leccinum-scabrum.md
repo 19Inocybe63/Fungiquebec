@@ -246,7 +246,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-chimiques-naturelles: |
-    À la coupe = la chair devient rougeâtre après plusieurs minutes, et la base du stipe a des reflets verts, parfois jusqu'au milieu
+    Froissement ou à la coupe = la chair devient rougeâtre après plusieurs minutes, et la base du stipe a des reflets verts, parfois jusqu'au milieu
   reactions-macrochimiques: |
     FeSO<sub>4</sub> = ardoise bleuâtre sur le chapeau et sur la chair ; légèrement bleutée à verdâtre sur la face poroïde
     KOH 10% = brun rougeâtre sur le chapeau et sur la chair ; rouge grenat, puis rouge noir sur la face poroïde

@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Russule rugueuse
   autorites: Peck
   ordre: Russulales
   famille: Russulaceae
@@ -127,8 +127,8 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
-  exhalaison-de-la-chair: légèrement fruitée
+  exhalaison: indistincte à légèrement fruitée
+  exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 

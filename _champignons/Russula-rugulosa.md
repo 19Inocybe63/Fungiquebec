@@ -246,7 +246,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
     FeSO<sub>4</sub> = rosé pâle sur le stipe
-    Soluté de gaïac = < 5" S +++ b (5 forte) ; < 5" L +++ b (5 forte)
+    Soluté de gaïac = < 5" stipe +++ b (5 forte) ; < 5" lames +++ b (5 forte)
   receptacle: 
   remarques: Code de Kibby; A I K N / Q S - ?
   repartition: 

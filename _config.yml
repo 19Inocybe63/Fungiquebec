@@ -374,10 +374,10 @@ champs-description:
     label: Phénologie
   - name: frequence
     label: Fréquence
-  - name: reactions-macrochimiques
-    label: Réactions macrochimiques
   - name: reactions-chimiques-naturelles
     label: Réactions chimiques naturelles
+  - name: reactions-macrochimiques
+    label: Réactions macrochimiques
     format: liste
   - name: articles
     label: Articles

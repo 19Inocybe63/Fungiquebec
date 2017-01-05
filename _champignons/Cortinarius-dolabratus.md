@@ -152,7 +152,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: thromboplères présentes dans le pileipellis
+  hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -167,6 +167,7 @@ description:
   hyphes-squelettiques: 
   hyphes-skeletoligative: 
   hyphes-subiculaires: 
+  hyphes-thromboplères: présentes dans le pileipellis
   hyphes-tramales: 
   hyphes-vesiculaires: 
   hyphidies: 

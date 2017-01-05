@@ -10,7 +10,7 @@ planches:
     originale: https://www.flickr.com/photos/kaufholtz/31972781442/in/photolist-QHjS1s-picBG9-p3JGhy/
 
 details:
-  nom-francais: 
+  nom-francais: Cortinaire en forme de dolabre
   autorites: Fr.
   ordre: Agaricales
   famille: Cortinariaceae

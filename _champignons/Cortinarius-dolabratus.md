@@ -95,7 +95,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: blanche à la marge du chapeau
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 

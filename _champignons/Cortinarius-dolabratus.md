@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, large, concolores au chapeau
+  lames: adnées à adnexées, large, subserrées, concolores au chapeau
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

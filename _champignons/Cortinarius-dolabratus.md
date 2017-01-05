@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse, milieux ouverts, en présence de Populus tremuloïdes, Quercus rubra, Larix
+  biotopes: pousse au sol, sur pelouse, milieux ouverts, en présence de Larix, Populus tremuloïdes, Quercus rubra
   boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 

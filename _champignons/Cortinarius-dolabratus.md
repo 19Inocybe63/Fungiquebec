@@ -215,7 +215,7 @@ description:
   pied: 40-60 x 7-13 mm Ø, cylindrique, égal à claviforme, blanc avec des restes de cortines brun rougeâtre à l'apex, et des reflets violacés, base claviforme avec du mycélium basal blanc
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis (ixocutis), formé d'hyphes cylindriques à fusiformes 3 - 11 µm de largeur en moyenne
+  pileipellis: en cutis (ixocutis), formé d'hyphes cylindriques à fusiformes 3-11 µm de largeur en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 

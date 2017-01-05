@@ -254,7 +254,7 @@ description:
   receptacle: 
   remarques: |
     Sous-genre Telemonia, section Duracini
-    Une fois déshydratée, la collection sent le maïs
+    Une fois déshydratée, la collection sent légèrement le maïs
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

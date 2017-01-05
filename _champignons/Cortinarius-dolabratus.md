@@ -256,6 +256,7 @@ description:
   remarques: |
     Sous-genre Telemonia, section Duracini
     Une fois déshydratée, la collection sent légèrement le maïs
+    Le nom français de ce champignon est une traduction libre de ma part
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

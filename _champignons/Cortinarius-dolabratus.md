@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur pelouse, milieux ouverts, en présence de Populus tremuloïdes, Quercus rubra, Larix
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 30-60 mm Ø, convexe, à étalé, campanulé à étalé, hygrophane, brun
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -127,7 +127,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: légèrement raphanoïde
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -137,7 +137,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: inconnu
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -173,7 +173,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: concolores au chapeau
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -204,9 +204,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: septembre
   phialoconidies: 
-  pied: 
+  pied: 40-60 x 7-13 mm Ø, cylindrique, égal à claviforme, blanc avec des restes de cortines brun rougeâtre à l'apex, et des reflets violacés, base claviforme avec du mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -244,19 +244,21 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = devient noir sur le chapeau
   receptacle: 
-  remarques: 
+  remarques: |
+    Sous-genre Telemonia, section Duracini
+    Remarques: une fois déshydratée, la collection sent le maïs
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique avec une finale sucrée à vaguement de maïs
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
-  spores: 
+  sporee: brun à brun-tabac
   spherocytes: 
   sporocystes: 
   stipitipellis: 

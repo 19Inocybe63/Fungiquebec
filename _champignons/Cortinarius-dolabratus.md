@@ -160,14 +160,14 @@ description:
   hyphes-gleopleres: 
   hyphes-hymeniales: 
   hyphes-ligatives: 
-  hyphes-oleiferes: présentes dans le pileipellis
+  hyphes-oleiferes: observées dans le pileipellis
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 
   hyphes-squelettiques: 
   hyphes-skeletoligative: 
   hyphes-subiculaires: 
-  hyphes-thromboplères: présentes dans le pileipellis
+  hyphes-thromboplères: observées dans le pileipellis
   hyphes-tramales: 
   hyphes-vesiculaires: 
   hyphidies: 

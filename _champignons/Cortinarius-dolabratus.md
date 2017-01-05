@@ -167,7 +167,7 @@ description:
   hyphes-squelettiques: 
   hyphes-skeletoligative: 
   hyphes-subiculaires: 
-  hyphes-thromboplères: observées dans le pileipellis
+  hyphes-thrombopleres: observées dans le pileipellis
   hyphes-tramales: 
   hyphes-vesiculaires: 
   hyphidies: 

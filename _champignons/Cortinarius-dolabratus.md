@@ -42,19 +42,24 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: utriformes à claviformes, bouclées à la base, tétrastérigmates 3,0 - 4,8 µm de longueur en moyenne, à contenu granuleux, 26,1 - 30,2 × 6,4 - 7 µm en moyenne
+  basidiospores: |
+    largement elliptiques à elliptiques vue de front, elliptiques à amygdaliformes vue de profil, faiblement à moyennement verruqueuses, à paroi mince entre 0,2-0,3 μm, appendice hilaire bien formé, à contenu uniguttulé, brun pâle dans E.G. 20%, faiblement dextrinoïdes, non cyanophiles
+    (6,7) 6,9 - 8,5 (9,4) × (4,1) 4,2 - 4,8 (5,2) µm
+    Q = (1,6) 1,64 - 1,8 (1,9) ; N = 30
+    Me = 7,6 × 4,5 µm ; Qe = 1,7
+    (Piximètre, formule classique, mesures issues de sporée dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sur pelouse, milieux ouverts, en présence de Populus tremuloïdes, Quercus rubra, Larix
-  boucles: 
+  boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -64,9 +69,9 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 30-60 mm Ø, convexe, à étalé, campanulé à étalé, hygrophane, brun
+  chapeau: 30-60 mm Ø, convexe, à étalé, campanulé à étalé, hygrophane, cortine blanche à la marge, brun à brun foncé
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -147,7 +152,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: thromboplères présentes dans le pileipellis
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -155,7 +160,7 @@ description:
   hyphes-gleopleres: 
   hyphes-hymeniales: 
   hyphes-ligatives: 
-  hyphes-oleiferes: 
+  hyphes-oleiferes: présentes dans le pileipellis
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 
@@ -209,12 +214,12 @@ description:
   pied: 40-60 x 7-13 mm Ø, cylindrique, égal à claviforme, blanc avec des restes de cortines brun rougeâtre à l'apex, et des reflets violacés, base claviforme avec du mycélium basal blanc
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis (ixocutis), formé d'hyphes cylindriques à fusiformes 3,0 - 11 µm de largeur en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -273,7 +278,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   type: 
   typique: 

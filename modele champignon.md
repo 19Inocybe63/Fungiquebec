@@ -164,7 +164,7 @@ description:
   hyphes-squelettiques: 
   hyphes-skeletoligative: 
   hyphes-subiculaires: 
-  hyphes-thromboplères: 
+  hyphes-thrombopleres: 
   hyphes-tramales: 
   hyphes-vesiculaires: 
   hyphidies: 

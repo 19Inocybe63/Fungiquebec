@@ -362,6 +362,8 @@ champs-description:
     label: Hyphes skeletoligative
   - name: hyphes-subiculaires
     label: Hyphes subiculaires
+  - name: hyphes-thromboplères
+    label: Hyphes thromboplères
   - name: hyphes-tramales
     label: Hyphes tramales
   - name: hyphes-vesiculaires

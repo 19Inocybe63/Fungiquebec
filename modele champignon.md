@@ -24,6 +24,8 @@ details:
       date: 
   numero-de-planche-micrographique: 
   geolocalisation: 
+  elevation: 
+  altitude: 
 
 description:
   acanthocytes: 

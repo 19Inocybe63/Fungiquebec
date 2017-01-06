@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: nombreuses, septées, piriformes à largement claviformes, hyalines, à paroi mince, (13,1) 13,7 - 17,1 (20,6) × (5,9) 7,1 - 8 (10,2) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanc crème à violet par endroits
   chancre: 
   chapeau: 30-45 mm Ø, subcampanulé à campanulé, dont le centre une légèrement déprimé, glabre à ± méchuleux, marge blanchâtre et fibrilleuse (à cause des restes vélaires ?), brun
   cheilochrysocystides:
@@ -142,7 +142,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -196,7 +196,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: cespiteux, en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -210,7 +210,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de mi-septembre à mi-octobre
   phialoconidies: 
   pied: 40-75 x 20-35 mm Ø, cylindrique à claviforme, plein, ferme, base bulbeuse, blanc violacé jeune, devenant blanc crème à brunâtre dont l'apex est violacé à maturité
   pieds-steriles: 

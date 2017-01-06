@@ -284,7 +284,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: formée d'hyphes cylindrique, bouclées
+  voile-partiel: formé d'hyphes cylindriques, bouclées
   volve: 
   zone-perihymeniale: 
 ---

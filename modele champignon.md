@@ -23,6 +23,7 @@ details:
     - fongarium: 
       date: 
   numero-de-planche-micrographique: 
+  geolocalisation: 
 
 description:
   acanthocytes: 

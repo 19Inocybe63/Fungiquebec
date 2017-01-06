@@ -47,7 +47,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères (Picea) et feuillus (Betula, Fagus), en bordure de sentier
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -64,7 +64,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 30-45 mm Ø, subcampanulé à campanulé, dont le centre une légèrement déprimé, glabre à ± méchuleux, marge blanchâtre et fibrilleuse (à cause des restes vélaires ?), brun
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -90,7 +90,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: blanche, devenant brun rouille à cause de la sporée
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -127,7 +127,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: échancrées, subespacées, avec lamellules, violacées jeune, arête lamellaire plus pâle et crénelé, brun ocre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 40-75 x 20-35 mm Ø, cylindrique à claviforme, plein, ferme, base bulbeuse, blanc violacé jeune, devenant blanc crème à brunâtre dont l'apex est violacé à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -250,12 +250,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 

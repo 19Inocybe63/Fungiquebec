@@ -45,7 +45,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: 30-90 x 10-50 mm Ø, tubulaire initialement, devenant profondément infundibuliforme, à face interne ruguleuse, avec fibrilles foncées, et dont la marge supérieure est enroulée puis arquée lorsque jeune et souvent partiellement roulé en maturité, ondulée
   bibliographies: 
   biotopes: pousse au sol, sous feuillus, dans les vieilles hêtraies
   boucles: 
@@ -62,7 +62,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince et fragile, grise à noirâtre
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: indistinct, comme courte extension de l'hyménophore, souvent creux, brun foncé à noirâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

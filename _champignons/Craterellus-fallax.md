@@ -146,7 +146,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: lisse à plissé-ridé, décurrent, gris bleuté à gris-brun puis saumoné à ocre orangé avec l'âge, devenant noirâtre au froissement
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 

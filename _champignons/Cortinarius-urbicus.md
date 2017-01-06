@@ -31,7 +31,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: fertile
   arthroconidies: 
   articles: 
   ascome: 
@@ -42,31 +42,36 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, bouclées à la base, (24,5) 24,52 - 26,9 × (7,7) 7,71 - 8,69 (8,7) µm
+  basidiospores: |
+    largement elliptiques à elliptiques allongées vue de front, elliptiques à amygdaliformes vue de profils, parfois légèrement subtronquées, faiblement verruqueuses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire bien développé, pore germinatif non visible, à contenu uniguttulé, hyalines dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
+    (6,1) 7,2 - 9,1 (10) × (4,7) 4,8 - 5,4 (5,7) µm
+    Q = (1,3) 1,4 - 1,7 (1,9) ; N = 30
+    Me = 8,1 × 5,1 µm ; Qe = 1,6
+    (Piximètre, formule classique, mesures issues de sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sous conifères (Picea) et feuillus (Betula, Fagus), en bordure de sentier
-  boucles: 
+  boucles: observées dans le médiostrate et le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: nombreuses, septées, piriformes à largement claviformes, hyalines, à paroi mince, (13,1) 13,7 - 17,1 (20,6) × (5,9) 7,1 - 8 (10,2) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
   chapeau: 30-45 mm Ø, subcampanulé à campanulé, dont le centre une légèrement déprimé, glabre à ± méchuleux, marge blanchâtre et fibrilleuse (à cause des restes vélaires ?), brun
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,12 +215,12 @@ description:
   pied: 40-75 x 20-35 mm Ø, cylindrique à claviforme, plein, ferme, base bulbeuse, blanc violacé jeune, devenant blanc crème à brunâtre dont l'apex est violacé à maturité
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en deux couches distinctes ; suprapellis en cutis et médiopellis constitué d'hyphes cylindriques entremêlées
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -279,7 +284,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: formée d'hyphes cylindrique, bouclées
   volve: 
   zone-perihymeniale: 
 ---

@@ -21,6 +21,9 @@ details:
     - fongarium: cKc0252
       date: 20 septembre 2014
   numero-de-planche-micrographique: cKc0252-0152
+  geolocalisation: 45°57'26.53"N  70°56'01.21"O
+  elevation: 329 m
+  altitude: 748 m
 
 description:
   acanthocytes: 

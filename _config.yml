@@ -126,6 +126,10 @@ champs-details:
     label: Numéro de planche micrographique
   - name: geolocalisation
     label: Géolocalisation
+  - name: elevation
+    label: Élévation
+  - name: altitude
+    label: Altitude
 
 champs-description:
   - name: apothecie

@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: indistinct, comme courte extension de l'hyménophore, souvent creux, brun foncé à noirâtre
+  pied: indistinct, comme une courte extension de l'hyménophore, souvent creux, brun foncé à noirâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

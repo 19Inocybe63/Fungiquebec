@@ -124,6 +124,8 @@ champs-details:
         label: Date de cueillette
   - name: numero-de-planche-micrographique
     label: Numéro de planche micrographique
+  - name: geolocalisation
+    label: Géolocalisation
 
 champs-description:
   - name: apothecie

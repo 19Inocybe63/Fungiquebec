@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées, subespacées, avec lamellules, violacées jeune, brun ocre, arête lamellaire plus pâle et crénelé
+  lames: échancrées, subespacées, avec lamellules, violacées jeune, brun ocre, arête lamellaire plus pâle et crénelée
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

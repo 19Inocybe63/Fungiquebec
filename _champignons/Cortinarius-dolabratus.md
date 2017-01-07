@@ -42,7 +42,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: utriformes à claviformes, bouclées à la base, tétrastérigmates 3,0 - 4,8 µm de longueur en moyenne, à contenu granuleux, 26,1 - 30,2 × 6,4 - 7 µm en moyenne
+  basides: utriformes à claviformes, bouclées à la base, tétrastérigmates 3,0-4,8 µm de longueur en moyenne, à contenu granuleux, 26,1- 30,2 × 6,4-7 µm en moyenne
   basidiospores: |
     largement elliptiques à elliptiques vue de front, elliptiques à amygdaliformes vue de profil, faiblement à moyennement verruqueuses, à paroi mince entre 0,2-0,3 μm, appendice hilaire bien formé, à contenu uniguttulé, brun pâle dans E.G. 20%, faiblement dextrinoïdes, non cyanophiles
     (6,7) 6,9 - 8,5 (9,4) × (4,1) 4,2 - 4,8 (5,2) µm

@@ -13,7 +13,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Phyllopore à base blanche
   autorites: Singer
   ordre: Boletales
   famille: Boletaceae

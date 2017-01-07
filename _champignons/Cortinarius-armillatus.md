@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous bouleaux, en milieux humides
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à brun pâle
   chancre: 
-  chapeau: 
+  chapeau: 40-150 mm Ø, hémisphérique campanulé à convexe puis étalé, devenant souvent largement convexe, mamelonné, sec, glabre, finement fbrilleux à squamuleux, ou très finement écailleuse sur le centre à maturité, brun-jaune à brun rougeâtre, souvent avec un centre plus foncé, rouge brique, parfois plus pâle à la marge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -142,7 +142,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -196,7 +196,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, isolé, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -210,7 +210,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 70-150 x 7-20 mm, bulbeux à la base, sec, glabre ou finement soyeuse, blanchâtre à brun pâle, entouré de 2 à 4 bandelettes concentriques orange-rouge, avec une zone annulaire rouille au-dessus des bandes, mycélium basal blanchâtre
   pieds-steriles: 

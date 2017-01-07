@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre à brun pâle
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -132,7 +132,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à légèrement raphanoïde
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, larges, serrées à subserrées, jaune pâle à cannelle pâle lorsque jeune, devenant brun rouille à maturité, couvert d'une cortine blanchâtre dès sa jeunesse, à arête plus pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -212,7 +212,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 70-150 x 7-20 mm, bulbeux à la base, sec, glabre ou finement soyeuse, blanchâtre à brun pâle, entouré de 2 à 4 bandelettes concentriques orange-rouge, avec une zone annulaire rouille au-dessus des bandes, mycélium basal blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -242,17 +242,18 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
+    KOH 10% = devient noir sur la surface du chapeau et violet sur les zones orange du stipe
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à légèrement raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 

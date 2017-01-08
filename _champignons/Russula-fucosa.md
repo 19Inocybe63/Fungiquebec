@@ -257,7 +257,6 @@ description:
   remarques: |
     Section Polychromae, Sous-section Xerampelinae
     Code de Kibby & Fatto, A, I, L(K), N, / Q, T, V
-    Dégage une odeur de poisson, surtout lorsque déshydraté
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

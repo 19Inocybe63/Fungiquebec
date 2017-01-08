@@ -252,7 +252,7 @@ description:
   reactions-macrochimiques: |
     FeSO<sub>4</sub> = verdâtre à vert ± intense après 5 minutes sur le stipe
     NH<sub>4</sub>OH 10% = reflet jaunâtre très léger sur le stipe
-    Soluté de gaïac: < 5" stipe +++ b (5 forte) / < 5" lames +++ b (5 forte)
+    Soluté de gaïac: < 5" stipe +++ b (5 forte) ; < 5" lames +++ b (5 forte)
   receptacle: 
   remarques: |
     Section Polychromae, Sous-section Xerampelinae

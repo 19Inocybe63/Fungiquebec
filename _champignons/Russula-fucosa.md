@@ -54,7 +54,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, chênaies (Fagus, Quercus)
+  biotopes: pousse au sol, chênaies, Fagus, Fraxinus, Quercus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,9 +69,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche et rougeâtre sous la cuticule
   chancre: 
-  chapeau: 40-60 mm Ø, cuticule se pelant à la marge ou presque
+  chapeau: 40-65 mm Ø, convexe à étalé, déprimé, rosâtre à rouge plus foncé en son centre, légèrement feutré en son centre, cuticule pelant au ¼-¾ du rayon
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -181,7 +181,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, serrées, larges, cunéiformes, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -214,7 +214,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 37-48 x 14 mm Ø, se tache de brun au froissement
+  pied: 37-71 x 13-14 mm Ø, claviforme, farcie, blanc avec des zones rougeâtre, l'intérieur se colore de rougeâtre-brunâtre à la coupe, et dégage une odeur de poisson, mais surtout lorsque déshydraté
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -252,9 +252,10 @@ description:
   reactions-macrochimiques: |
     FeSO<sub>4</sub> = verdâtre à vert ± intense après 5 minutes sur le stipe
     NH<sub>4</sub>OH 10% = reflet très léger jaunâtre, or sur le stipe
+    Soluté de gaïac: < 5" stipe +++ b (5 forte) / < 5" lames +++ b (5 forte)
   receptacle: 
   remarques: |
-    Du sous-groupe des Xerampelinae
+    Section Polychromae, Sous-section Xerampelinae
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

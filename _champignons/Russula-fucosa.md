@@ -260,7 +260,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: ocrosporée IIIa-IIIc, ocre clair, jaune clair, d'après la charte de couleur de Sarnari ; 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

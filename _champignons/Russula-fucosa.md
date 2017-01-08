@@ -214,7 +214,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 37-71 x 13-14 mm Ø, claviforme, farcie, blanc avec des zones rougeâtre, l'intérieur se colore de rougeâtre-brunâtre à la coupe, et dégage une odeur de poisson, mais surtout lorsque déshydraté
+  pied: 37-71 x 13-14 mm Ø, claviforme, farcie, blanc avec des zones rougeâtres, l'intérieur se colore de rougeâtre-brunâtre à la coupe, et dégage une odeur de poisson, mais surtout lorsque déshydraté
   pieds-steriles: 
   pigments: 
   pileipellis: 

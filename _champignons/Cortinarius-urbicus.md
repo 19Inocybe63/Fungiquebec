@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: blanc crème à violet par endroits
   chancre: 
-  chapeau: 30-45 mm Ø, subcampanulé à campanulé, dont le centre une légèrement déprimé, glabre à ± méchuleux, marge blanchâtre et fibrilleuse (à cause des restes vélaires ?), brun
+  chapeau: 30-45 mm Ø, subcampanulé à campanulé, dont le centre une légèrement déprimé, glabre à ± méchuleux, marge blanchâtre et fibrilleuse (à cause des restes vélaires ?), brun à brun rougeâtre, beige grisâtre au sec
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 

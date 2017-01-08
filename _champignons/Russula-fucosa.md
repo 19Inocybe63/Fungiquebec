@@ -256,6 +256,7 @@ description:
   receptacle: 
   remarques: |
     Section Polychromae, Sous-section Xerampelinae
+    Code de Kibby & Fatto, A, I, L(K), N, / Q, T, V  
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

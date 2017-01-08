@@ -71,7 +71,7 @@ description:
   cellules-stromatiques: 
   chair: blanche et rougeâtre sous la cuticule
   chancre: 
-  chapeau: 40-65 mm Ø, convexe à étalé, déprimé, rosâtre à rouge plus foncé en son centre, légèrement feutré en son centre, cuticule pelant au ¼-¾ du rayon
+  chapeau: 40-65 mm Ø, convexe à étalé, déprimé, pruineux, rosâtre à rouge plus foncé en son centre, légèrement feutré en son centre, cuticule pelant au ¼-¾ du rayon
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -181,7 +181,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, serrées, larges, cunéiformes, blanches
+  lames: adnées à adnexées, serrées, larges, cunéiformes, blanches, pas de lamelles ni de lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -214,7 +214,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 37-71 x 13-14 mm Ø, claviforme, farcie, blanc avec des zones rougeâtres, l'intérieur se colore de rougeâtre-brunâtre à la coupe, et dégage une odeur de poisson, mais surtout lorsque déshydraté
+  pied: 37-71 x 12-14 mm Ø, claviforme à subcylindrique, farcie, blanc avec des zones rougeâtres, l'intérieur se tachant de rougeâtre-brunâtre à la coupe ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -256,7 +256,8 @@ description:
   receptacle: 
   remarques: |
     Section Polychromae, Sous-section Xerampelinae
-    Code de Kibby & Fatto, A, I, L(K), N, / Q, T, V  
+    Code de Kibby & Fatto, A, I, L(K), N, / Q, T, V
+    Dégage une odeur de poisson, surtout lorsque déshydraté
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

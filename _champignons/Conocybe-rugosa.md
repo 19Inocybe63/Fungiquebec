@@ -145,7 +145,7 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
+  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -213,7 +213,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: 25-43 mm x 1-2 mm, égal ou parfois légèrement élargi vers la base, pruineux et crème vers l'apex, fibrilleux-floconneux, teinté de jaune pâle, paille à brunâtre vers la base, fonçant depuis la base
   pieds-steriles: 

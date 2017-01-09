@@ -16,7 +16,7 @@ details:
   famille: Bolbitiaceae
   genre: Pholiotina
   espece: rugosa
-  litterature: 
+  litterature: Watling, R.; Gregory, N.M. 1981. Census catalogue of world members of the Bolbitiaceae. Bibliotheca Mycologica. 82:1-224
   fongariums:
     - fongarium: cKc0036
       date: 28 septembre 2012
@@ -40,7 +40,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Watling, R.; Gregory, N.M. 1981. Census catalogue of world members of the Bolbitiaceae. Bibliotheca Mycologica. 82:1-224
   ascome: 
   ascospores: 
   asques: 
@@ -54,7 +55,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, débris ligneux, sous feuillus, bords de chemin
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,9 +70,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: chamois à brunâtre, plus foncée vers la base du pied
   chancre: 
-  chapeau: 
+  chapeau: 9-16 mm Ø, hémisphérique au début, puis conique, ombonné obtus à conique-campanulé puis convexe, légèrement à fortement ridé-veiné, hygrophane, brun-jaune à fauve rouille avec ou sans teinte de marron, beige, fauve à sienne au sec, à marge translucide-striée au frais
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -134,7 +135,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: agréable à fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -181,7 +182,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, ventrues, serrées, crème à ochracées puis brun ocre à brun rouille, à arêtes denticulées, blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -214,7 +215,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 25-43 mm x 1-2 mm, égal ou parfois légèrement élargi vers la base, pruineux et crème vers l'apex, fibrilleux-floconneux, teinté de jaune pâle, paille à brunâtre vers la base, fonçant depuis la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -249,12 +250,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: agréable à fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -263,7 +264,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Pholiota rugosa Peck, Annual Report on the New York State Museum of Natural History 50:102 (1898)
+    Pholiotina rugosa (Peck) Singer, Papers of the Michigan Academy of Sciences 32:148 (1946)
+    Agaricus togularis var. filaris Fr.:2 (1884)
+    Agaricus togularius var. filaris Fr. (1884)
+    Galera vestita var. pusilla Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium 0:81 (1886)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -275,7 +281,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: distinct, laissant un anneau ample, blanchâtre à brun pâle, feutré et grossièrement strié-plissé au-dessus, persistant
   volve: 
   zone-perihymeniale: 
 ---

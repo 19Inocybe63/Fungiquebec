@@ -65,14 +65,14 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: nombreuses, polymorphes, claviformes, piriformes à subpiriformes 37,7 - 59,3 × 15,7 - 18,9 µm en moyenne, subglobuleuses 20,7 - 27 × 20,2 - 20,3 µm en moyenne, sphéropédonculées 39,5 - 56,5 × 15,4 - 20,8 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
   chapeau: 84 mm Ø, étalé, omboné, légèrement déprimé, viscidule, brun-gris à olivâtre foncé à noirâtre vers le centre
-  cheilocystides: nombreuses, polymorphes, claviformes, piriformes à subpiriformes 37,7 - 59,3 × 15,7 - 18,9 µm en moyenne, subglobuleuses 20,7 - 27 × 20,2 - 20,3 µm en moyenne, sphéropédonculées 39,5 - 56,5 × 15,4 - 20,8 µm en moyenne
-  cheilocystides-intermediaires: occasionnelles (plus nombreuses à l'arête lamellaire) plus petites et moins bien développées que les lampropleurocystides, fusiformes à cylindriques, souvent avec crochets difformes ou avec un seul crochet, 52,7 - 59,6 × 10,7 - 15,9 µm en moyenne
+  cheilocystides: occasionnelles (plus nombreuses à l'arête lamellaire) plus petites et moins bien développées que les lampropleurocystides, fusiformes à cylindriques, souvent avec crochets difformes ou avec un seul crochet, 52,7 - 59,6 × 10,7 - 15,9 µm en moyenne
+  cheilocystides-intermediaires: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

@@ -65,7 +65,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, tenace, élastique, jaunâtre à orange pâle
+  chair: mince, coriace, juteuse, élastique, jaunâtre à orange pâle
   chancre: 
   chapeau: 20-80 mm Ø, 20-50 mm de projection, ± flabelliforme, conchoïde, semi-circulaire, réniforme à linguiforme, souvent attaché latéralement ou par l'apex, largement convexe à étalé, couvert d'un tomentum feutré blanc à chamois au début, sec, jaune orangé à chamois orangé à l'humidité, orangé brunâtre à jaune ocre au sec, à marge longtemps enroulée, irrégulièrement ondulée, tomenteuse-villeuse
   cheilochrysocystides:
@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: forte et désagréable de chou, parfois douce
+  exhalaison: forte et désagréable de chou pourri, parfois douce
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: radialement excentrées à partir d'un point d'attache, étroites à larges, avec lamellules, serrées, chamois orangé, jaune orangé à jaune rouille
+  lames: arquées, étroites à larges, avec lamellules, subserrées, chamois orangé, jaune orangé à jaune rouille, arête concolore
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

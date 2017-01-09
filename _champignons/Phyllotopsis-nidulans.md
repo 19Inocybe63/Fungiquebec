@@ -4,7 +4,7 @@ date: 2017-01-09 00:00:00
 image: https://c2.staticflickr.com/4/3891/14674164427_314106bc38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14674164427/in/photolist-omGujh-omGVQX/
 album-flickr:
-  - 
+  - 72157675237900963
 planches:
   - miniature: 
     originale: 
@@ -67,7 +67,7 @@ description:
   cellules-stromatiques: 
   chair: mince, tenace, élastique, jaunâtre à orange pâle
   chancre: 
-  chapeau: 
+  chapeau: 20-80 mm Ø, 20-50 mm de projection, ± flabelliforme, conchoïde, semi-circulaire, réniforme à linguiforme, souvent attaché latéralement ou par l'apex, largement convexe à étalé, couvert d'un tomentum feutré blanc à chamois au début, sec, jaune orangé à chamois orangé à l'humidité, orangé brunâtre à jaune ocre au sec, à marge longtemps enroulée, irrégulièrement ondulée, tomenteuse-villeuse
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: radialement excentrées à partir d'un point d'attache, étroites à larges, avec lamellules, serrées, chamois orangé, jaune orangé à jaune rouille
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

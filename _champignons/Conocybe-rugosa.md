@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Conocybe rugueux
   autorites: (Peck) Watling
   ordre: Agaricales
   famille: Bolbitiaceae

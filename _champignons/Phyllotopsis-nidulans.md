@@ -67,7 +67,7 @@ description:
   cellules-stromatiques: 
   chair: mince, coriace, juteuse, élastique, jaunâtre à orange pâle
   chancre: 
-  chapeau: 20-80 mm Ø, 20-50 mm de projection, ± flabelliforme, conchoïde, semi-circulaire, réniforme à linguiforme, souvent attaché latéralement ou par l'apex, largement convexe à étalé, couvert d'un tomentum feutré blanc à chamois au début, sec, jaune orangé à chamois orangé à l'humidité, orangé brunâtre à jaune ocre au sec, à marge longtemps enroulée, irrégulièrement ondulée, tomenteuse-villeuse
+  chapeau: 20-80 mm Ø, pleurotoïde, ± flabelliforme, conchoïde, circulaire à réniforme, souvent attaché latéralement, largement convexe à étalé, hygrophane, recouvert d'un tomentum feutré blanchâtre à chamois au début, sec, jaune orangé à chamois orangé à l'humidité, orangé brunâtre à jaune ocre au sec, feutré, tomenteux, hirsute vers la marge qui et nettement enroulée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -210,7 +210,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: absent ou rudimentaire, latéral, tomenteux-strigueux blanc vers la base
+  pied: absent ou rudimentaire, parfois fixé latéralement sur le support, tomenteux-strigueux blanc vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 

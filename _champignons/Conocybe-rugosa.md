@@ -55,7 +55,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, débris ligneux, sous feuillus, bords de chemin
+  biotopes: pousse au sol, débris ligneux, sous feuillus, plate-bande, copeaux de bois, sol retourné, bords de chemin
   boucles: 
   brachybasidioles: 
   calicule: 

@@ -499,8 +499,6 @@ champs-description:
     label: Dichophyses
   - name: disque-basal
     label: Disque basal
-  - name: distribution-et-abondance
-    label: Distribution et abondance
   - name: elateres
     label: Élatères
   - name: elements-acanthophyses

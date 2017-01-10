@@ -16,7 +16,7 @@ details:
   famille: Russulaceae
   genre: Lactifluus
   espece: subvellereus
-  litterature: 
+  litterature: Verbeken, A.; Buyck, B.; Nuytinck, J. 2011. New combinations in Lactifluus. 1. L. subgenera Edules, Lactariopsis, and Russulopsis. Mycotaxon. 118:447-453
   fongariums:
     - fongarium: cKc0550
       date: 27 août 2016
@@ -264,7 +264,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Lactarius subvellereus Peck, Bulletin of the Torrey Botanical Club 25:369 (1898)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

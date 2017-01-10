@@ -177,12 +177,12 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, étroites, avec lamellules, serrées à subserrées, crème jaunâtre, souvent avec gouttelettes crèmes jaunâtre
+  lames: adnées, serrées à subserrées, étroites, avec lamellules, crème jaunâtre, souvent avec gouttelettes crèmes jaunâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: abondant, blanc à la coupe, devenant crème jaunâtre, immuable, et tache les lames de brunâtre-rouille, à saveur très âcre
+  latex: abondant, blanc à la coupe, devenant crème jaunâtre, immuable, tachant les lames de brunâtre rouille, à saveur très âcre
   leptocystides: 
   macrocystides: 
   macropleurocystides: 

@@ -380,6 +380,8 @@ champs-description:
     label: Biotopes
   - name: phenologie
     label: Phénologie
+  - name: distribution
+    label: Distribution
   - name: frequence
     label: Fréquence
   - name: reactions-chimiques-naturelles

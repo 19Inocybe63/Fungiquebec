@@ -65,9 +65,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ferme, blanchâtre
+  chair: ferme, blanchâtre-crème à jaunâtre
   chancre: 
-  chapeau: 
+  chapeau: 83 mm Ø, convexe puis étalé-déprimé, sec, finement velouté, blanchâtre, jaunâtre ou brunâtre par endroits
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte
+  exhalaison: agréable à indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -177,12 +177,12 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, étroites, avec lamellules, subespacées à espacées, crème jaunâtre, souvent avec gouttelettes crèmes jaunâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: abondant, jaune crème pâle, immuable, tachant les tissus de fauve, à saveur âcre
+  latex: abondant, blanc à la coupe, devenant crème jaunâtre, immuable, et tache les lames de brunâtre-rouille, à saveur très âcre
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
@@ -210,7 +210,7 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 
+  pied: 30 x 22 mm Ø, égal à atténué vers la base, courtement claviforme trapu, plein, sec, finement velouté, ferme, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -242,9 +242,11 @@ description:
     Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = la chair du chapeau devient orangé
   receptacle: 
-  remarques: 
+  remarques: |
+    Latex très âcre (une gouttelette suffit pour brûler)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

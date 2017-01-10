@@ -67,7 +67,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanchâtre-crème à jaunâtre
   chancre: 
-  chapeau: 83 mm Ø, convexe puis étalé-déprimé, sec, finement velouté, blanchâtre, jaunâtre ou brunâtre par endroits
+  chapeau: 83 mm Ø, convexe puis déprimé à subinfundibuliforme, ferme, sec, finement tomenteux, velouté, blanchâtre, jaunâtre brunâtre par endroits, à marge fortement enroulée au début
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -210,7 +210,7 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 30 x 22 mm Ø, égal à atténué vers la base, courtement cylindrique, trapu, plein, sec, finement velouté, ferme, concolore au chapeau
+  pied: 30 x 22 mm Ø, égal, atténué vers la base à courtement cylindrique, trapu, ferme, plein, sec, finement velouté, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 

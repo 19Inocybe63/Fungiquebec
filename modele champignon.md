@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: 
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

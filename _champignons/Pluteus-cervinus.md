@@ -8,6 +8,8 @@ album-flickr:
 planches:
   - miniature: https://c2.staticflickr.com/8/7439/27627034362_e4e66faf7c_n.jpg
     originale: https://www.flickr.com/photos/kaufholtz/27627034362/in/photolist-J6iLNE-HWMRDP-H8pRei-dZJen1-e1s9mU
+  - miniature: https://c1.staticflickr.com/1/754/31422946873_78a30f47d4_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31422946873/in/photostream/
 
 details:
   nom-francais: Plutée couleur de cerf
@@ -20,7 +22,7 @@ details:
   fongariums:
     - fongarium: cKc0001
       date: 11 juin 2016
-  numero-de-planche-micrographique: cKc0001-0129
+  numero-de-planche-micrographique: cKc0001-0129 ; cKc0590-0153
 
 description:
   acanthocytes: 

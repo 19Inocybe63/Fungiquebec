@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées à subserrées, étroites, avec lamellules, crème jaunâtre, souvent avec gouttelettes crèmes jaunâtre
+  lames: adnées à subdécurrentes, serrées à subserrées, étroites, avec lamellules, parfois fourchues, crème jaunâtre, souvent avec gouttelettes crèmes jaunâtre, devenant fauve brunâtre au froissement et cannelle au sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

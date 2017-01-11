@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Lactaire à lait verdissant
   autorites: (Crossl.) Verbeken
   ordre: Russulales
   famille: Russulaceae
@@ -210,7 +210,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 36 x 11 mm Ø, cylindrique, subégal, plein, ferme, glabre, atténué à la base
+  pied: 36 x 11 mm Ø, cylindrique, subégal, plein, ferme, glabre, atténué à la base, blanc à blanchâtre, se tachant de brun rouille à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: 

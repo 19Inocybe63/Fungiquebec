@@ -50,7 +50,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous Fagus, Quercus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -65,9 +65,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, ferme, blanche
   chancre: 
-  chapeau: 
+  chapeau: 41 mm Ø, convexe déprimé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -76,7 +76,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
@@ -131,8 +131,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte
+  exhalaison-des-lames: indistincte
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -177,12 +177,12 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, très serrées, avec de nombreuses bifurcations à tous les niveaux, blanc crème
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: blanc, devenant verdâtre pâle en séchant
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
@@ -210,7 +210,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 36 x 11 mm Ø, subégal, atténué à la base, ferme, plein
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -242,13 +242,14 @@ description:
     Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = devient jaune or sur le latex
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: âcre
   sclerocystides: 
   sclerote: 
   soies: 

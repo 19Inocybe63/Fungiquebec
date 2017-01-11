@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, très serrées, avec de nombreuses bifurcations à tous les niveaux, blanc crème
+  lames: adnées à subdécurrentes, très serrées, avec de nombreuses furcations à tous les niveaux, blanc crème
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -194,7 +194,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,7 +208,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 36 x 11 mm Ø, subégal, atténué à la base, ferme, plein
   pieds-steriles: 
@@ -254,7 +254,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: crème
   spherocytes: 
   sporocystes: 
   stipitipellis: 

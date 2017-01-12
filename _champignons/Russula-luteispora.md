@@ -16,10 +16,10 @@ details:
   famille: Russulaceae
   genre: Russula
   espece: luteispora
-  litterature: 
+  litterature: Murrill, W.A. 1944. More fungi from Florida. Lloydia. 7(4):303-327
   fongariums:
-    - fongarium: 
-      date: 
+    - fongarium: cKc0372
+      date: 25 juillet 2015
   numero-de-planche-micrographique: 
   geolocalisation: 
   elevation: 
@@ -50,7 +50,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans la mousse, sous Quercus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -65,9 +65,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, immuable, blanche
   chancre: 
-  chapeau: 
+  chapeau: 20 mm Ø, convexe, rougeâtre à plus pâle vers la marge, plus foncé au centre, cuticule collante se pèle facilement jusqu'au ¾ du rayon, rouge, avec centre rouge noirâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -131,8 +131,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: florale
+  exhalaison-des-lames: florale
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, serrées, blanchâtres à ocre pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -194,7 +194,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé, dispersé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -210,7 +210,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 33 x 5 mm Ø, cylindrique à subégal, subclaviforme, blanc, sans teinte rosée
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -245,18 +245,19 @@ description:
     Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<sub>4</sub> = lames légèrement rosé, orangé ; stipe légèrement rosé, orangé
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce, ± sucré
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: xanthosporée, IVa-IVc, jaune pâle à jaune moyen, d'après la charte de couleur de Romagnesi ; F-G d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

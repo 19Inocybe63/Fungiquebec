@@ -46,7 +46,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, forêt mixte; pour la présente collection, pousse sous Tsuga Canadensis (Eastern hemlock)
+  biotopes: pousse au sol, forêt mixte ; pour la présente collection, pousse sous Tsuga Canadensis
   boucles: 
   brachybasidioles: 
   calicule: 

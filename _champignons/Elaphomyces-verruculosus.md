@@ -106,7 +106,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: inconnue
+  distribution: largement répartie sur la côte Est
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -230,7 +230,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Espèce largement répartis sur la côte Est.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

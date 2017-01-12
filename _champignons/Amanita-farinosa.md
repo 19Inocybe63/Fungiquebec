@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,7 +134,7 @@ description:
   face-poroide: 
   feutrage-basal: 
   fragments-sporaux: 
-  frequence: occasionnel
+  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

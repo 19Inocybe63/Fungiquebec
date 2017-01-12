@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Tramète unicolore
   autorites: (Bull.) Murrill
   ordre: Polyporales
   famille: Polyporaceae

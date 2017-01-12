@@ -228,7 +228,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 5% = chapeau et lames deviennent rouge vif presque instantanément
+    KOH 10% = chapeau et lames deviennent rouge vif presque instantanément
   receptacle: 
   remarques: 
   repartition: 

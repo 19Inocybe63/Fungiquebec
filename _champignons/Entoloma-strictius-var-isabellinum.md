@@ -248,12 +248,12 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 9, les Entoloma, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    KOH 10% = chapeau et pied, aucune coloration ou décoloration ; lames légèrement verdâtre
     FeSO<SUB>4</SUB> = chapeau, lames et pied, aucune coloration ou décoloration
-    NH<SUB>4</SUB>OH 10% = chapeau, lames et pied, aucune coloration ou décoloration
     Gaïacol = chapeau, lames et pied, aucune coloration ou décoloration
-    TL4 = -TL4
+    KOH 10% = chapeau et pied, aucune coloration ou décoloration ; lames légèrement verdâtre
+    NH<SUB>4</SUB>OH 10% = chapeau, lames et pied, aucune coloration ou décoloration
     Réaction de Schaeffer = Schaeffer 0
+    TL4 = -TL4
   receptacle: 
   remarques: 
   repartition: 

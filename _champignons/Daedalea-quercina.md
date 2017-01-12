@@ -239,7 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 6, les polyporales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    KOH 5% = devient rouge brun foncé à noir
+    KOH 10% = devient rouge brun foncé à noir
     Rouge Congo SDS = lors d'une coupe, le contexte devient noir
   receptacle: 
   remarques: 

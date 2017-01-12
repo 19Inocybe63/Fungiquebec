@@ -106,7 +106,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: inconnue
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -133,7 +133,6 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: inconnu
   glebe: blanc gris et cotonneux lorsque immature
   gleocystides: 
   gleocystides-hymeniales: 

@@ -78,7 +78,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Debbie Viess (Mushroom Observer)
+  collection-confirmee-par: Debbie Viess
   collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 

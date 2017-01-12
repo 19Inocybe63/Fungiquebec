@@ -246,7 +246,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = lames et stipe légèrement rosés, orangé
+    FeSO<sub>4</sub> = lames légèrement rosé, orangé ; stipe légèrement rosé, orangé
   receptacle: 
   remarques: 
   repartition: 

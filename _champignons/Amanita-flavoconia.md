@@ -10,7 +10,7 @@ planches:
     originale: 
 
 details:
-  nom-francais: 
+  nom-francais: Amanite à voile jaune
   autorites: G.F. Atk.
   ordre: Agaricales
   famille: Amanitaceae

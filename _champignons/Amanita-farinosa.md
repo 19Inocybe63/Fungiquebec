@@ -134,7 +134,6 @@ description:
   face-poroide: 
   feutrage-basal: 
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

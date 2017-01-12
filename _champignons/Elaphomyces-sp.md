@@ -119,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: semble commune dans l'Est du Québec
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -146,7 +146,6 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: semble commun dans l'Est du Québec
   glebe: intérieur blanc à la coupe, qui devient rougeâtre avec le temps avec en son centre une masse noirâtre
   gleocystides: 
   gleocystides-hymeniales: 

@@ -236,7 +236,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 5% = pas de coloration ou de décoloration
+    KOH 10% = pas de coloration ou de décoloration
   receptacle: 
   remarques: 
   repartition: 

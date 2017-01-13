@@ -18,8 +18,14 @@ details:
   espece: marginella
   litterature: Peck, C.H. 1898. Report of the State Botanist (1897). Annual Report on the New York State Museum of Natural History. 51:265-321
   fongariums:
-    - fongarium: 
-      date: 
+    - fongarium: cKc0137
+      date: 23 mai 2014
+    - fongarium: cKc0156
+      date: 29 mai 2014
+    - fongarium: cKc0157
+      date: 1 juin 2014
+    - fongarium: cKc0158
+      date: 1 juin 2014
   numero-de-planche-micrographique: 
   geolocalisation: 
   elevation: 

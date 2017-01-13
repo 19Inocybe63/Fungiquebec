@@ -26,7 +26,7 @@ details:
       date: 1 juin 2014
     - fongarium: cKc0158
       date: 1 juin 2014
-  numero-de-planche-micrographique: 
+  numero-de-planche-micrographique: cKc0137-0082
   geolocalisation: 
   elevation: 
   altitude: 
@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse en bordure de sentier, sous feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -71,9 +71,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, concolore au chapeau
   chancre: 
-  chapeau: 
+  chapeau: 10-25 mm Ø, convexe puis étalé, visqueux lorsque humide, glabre, hygrophane du centre vers la marge, fauve à brun orangé frais, beige pâle au sec, à marge parfois un peu translucide-striée, ornée de fibrilles blanchâtres au début
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -82,8 +82,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
+  collection-confirmee-par: Yves Lamoureux
+  collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
@@ -136,8 +136,8 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
-  exhalaison-de-la-chair: 
+  exhalaison: indistincte
+  exhalaison-de-la-chair: indistincte
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
@@ -183,7 +183,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à sinuées, subserrées, avec lamelles et de lamellules, brunâtres au début, puis brun rouille à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -200,7 +200,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: cespiteux, grégaire, ou en groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -216,7 +216,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 38 x 4 mm Ø, cylindrique, égal, farci puis creux, fibrilleux, crème ou brunâtre, parfois avec un mycélium basale blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -245,18 +245,20 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<sub>4</sub> = le stipe devient un peu plus rougeâtre
+    NH<sub>4</sub>OH 10% = pas de coloration ou de décoloration sur toutes les parties
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique à indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -280,7 +282,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: blanchâtre
   volve: 
   zone-perihymeniale: 
 ---

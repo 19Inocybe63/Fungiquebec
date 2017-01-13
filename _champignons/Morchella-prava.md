@@ -67,7 +67,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 30-60 mm de haut et 20-50 mm de large, de forme irrégulière mais souvent plus ou moins en forme d'œuf avec un sommet légèrement rétréci ou largement conique, les fosses disposées et orientées aléatoirement et de forme irrégulière lorsqu'ils sont jeunes, avec une crête chauve ou finement veloutée, aplatie ou largement arrondie, pâle, jaunâtre à blanchâtre, et des fosses grises moyennes à foncées ou noires lorsqu'elles sont matures, avec des arêtes arrondies à des arêtes tranchées ou érodées, brunâtres jaunes à brun jaunâtre et des fosses de même couleur (mais restant souvent dans le « stade gris » pendant une période prolongée et apparemment ne vieillissent jamais), attaché à la tige directement, sans rainure, creux
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -76,8 +76,8 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
+  collection-confirmee-par: Philippe Clowez
+  collection-determinee-par: Claude Kaufholtz-Couture
   collection-determination-provisoire-par: 
   columelle: 
   commentaires: 

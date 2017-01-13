@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: douce
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -140,7 +140,6 @@ description:
   feutrage-basal: 
   fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -194,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,9 +207,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de mi-mai à début juin
   phialoconidies: 
-  pied: 
+  pied: 25-40 x 10-30 mm Ø, égal au-dessus d'une base légèrement gonflée, blanchâtre à juanâtre crèmre, souvent avec décoloration brun rougeâtre, glabre à subglabre, creux
   pieds-steriles: 
   pigments: 
   pileipellis: 

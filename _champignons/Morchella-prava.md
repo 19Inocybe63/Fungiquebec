@@ -11,7 +11,7 @@ planches:
 
 details:
   nom-francais: 
-  autorites: MDewsbury, Moncalvo, J.D. Moore & M. Kuo
+  autorites: Dewsbury, Moncalvo, J.D. Moore & M. Kuo
   ordre: Pezizales
   famille: Morchellaceae
   genre: Morchella

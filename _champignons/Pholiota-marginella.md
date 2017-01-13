@@ -51,19 +51,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: piriformes à claviformes, 2-4 stérigmates, non bouclées à la base 16,7 [18,9; 21,7] 24 x 6,9 [7,2; 7,6] 7,9 µm
+  basidiospores: |
+    elliptiques à ovoïdales vue frontale à largement elliptique à elliptiques vue de profil, quelque peu tronquées, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilare et pore germinatif pas toujours bien visible 0,9-1,2 µm Ø, à contenu homogène, brun pâle dans le NaCl iso 0,9%, brun rougeâtre dans le melzer, non cyanophiles
+    6,4 [7,1; 7,5] 8,2 x 3,8 [4,2; 4,4] 4,7 µm
+    Q = 1,5 [1,7] 1,9; N = 30; C = 95%
+    Me = 7,3 x 4,3 µm; Qe = 1,7
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse en bordure de sentier, sous feuillus
-  boucles: 
+  boucles: observées dans le voile partiel et dans le stipe
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: présentes surtout à l’apex, en faisceaux ou isolées, en générales  semblables aux cheilocystides, mais parfois cylindriques septées, subfusiformes, sublagéniformes à subtibiformes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -75,11 +79,11 @@ description:
   chancre: 
   chapeau: 10-25 mm Ø, convexe puis étalé, visqueux lorsque humide, glabre, hygrophane du centre vers la marge, fauve à brun orangé frais, beige pâle au sec, à marge parfois un peu translucide-striée, ornée de fibrilles blanchâtres au début
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, subulati avec long col, à base ampullacée, lagéniformes avec apex cylindriques à subcapitées et parfois avec des granulations 32,9 [40; 43,9] 51 x 6,2 [7,7; 8,5] 10 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: 
+  chrysocystides: absentes
   circumcystides: 
   clavules: 
   collection-confirmee-par: Yves Lamoureux
@@ -219,12 +223,12 @@ description:
   pied: 38 x 4 mm Ø, cylindrique, égal, farci puis creux, fibrilleux, crème ou brunâtre, parfois avec un mycélium basale blanc
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -282,7 +286,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: blanchâtre
+  voile-partiel: blanchâtre, formé d'hyphes cylindriques
   volve: 
   zone-perihymeniale: 
 ---

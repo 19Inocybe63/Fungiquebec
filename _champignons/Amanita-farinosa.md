@@ -18,6 +18,14 @@ details:
 collections:
   - fongarium: cKc0092
     date: 21 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0130
     date: 1 septembre 2013
     planche:
@@ -26,8 +34,18 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/14182055182/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
     geolocalisation: 46°45'23.55"N 71°19'19.47"O
     altitude: 1.08 Km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0424
     date: 20 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,7 +98,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: De Rod Tulloss. « Also, I’d like to point out the thin, spike-like volval remnants around the top of the bulb. This is only the second time that I have seen this character in more than 35 years. An interesting phenomenon. »
   conidies: 

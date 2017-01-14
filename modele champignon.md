@@ -26,6 +26,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 
     altitude: 
+    determinee: 
+    confirmee: 
 
 description:
   acanthocytes: 

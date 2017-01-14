@@ -88,7 +88,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Ces champignons sont à un stade avancé. On peut apercevoir des piqures d'insectes sur les chapeaux. L'époque de l'année où il fut cueilli joue aussi sur son aspect avancé, mais encore acceptable pour en faire un spécimen de fongarium. Habituellement, ce champignon est plutôt d'un beau jaune à jaune ferreux (voir la collection cKc0298). »
+  commentaires: De Claude Kaufholtz-Couture. « Ces champignons, ceux de la collection cKc0286, sont à un stade avancé. On peut apercevoir des piqures d'insectes sur les chapeaux. L'époque de l'année où il fut cueilli joue aussi sur son aspect avancé, mais encore acceptable pour en faire un spécimen de fongarium. Habituellement, ce champignon est plutôt d'un beau jaune à jaune ferreux (voir la collection cKc0298). »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -54,7 +54,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur souche de feuillu pourri, Betula
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,9 +69,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse au disque, ferme, jaunâtre
   chancre: 
-  chapeau: 
+  chapeau: 30-70 mm Ø, convexe puis étalé, parfois omboné, subvisqueux, viscidule à légèrement humide, glabre, subhygrophane, jaune au début, puis jaune plus foncé à ferrugineux avec l'âge ou à l'humidité, parfois lavé de vert olive vers le pourtour et jaune rougeâtre au disque, jaune pâle au sec, à marge incurvée, unie, fibrilleuse-subécailleuse à appendiculée, glabrescente
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -134,7 +134,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: douce, parfois de persil
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -181,7 +181,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, larges, serrées, blanchâtres à jaune pâle puis ferrugineuses ou fauve ochracé
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -214,7 +214,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 40-120 x 4-15 mm Ø, égal à atténué vers la base, flexueux, farci puis fistuleux, fibrilleux-strié, crème vers l'apex, jaunâtre puis devenant graduellement brunâtre depuis la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -246,18 +246,19 @@ description:
     Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = rougissement du chapeau
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -289,7 +290,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: presque membraneux, blanchâtre à jaune pâle, laissant souvent une zone annuliforme sur le pied
   volve: 
   zone-perihymeniale: 
 ---

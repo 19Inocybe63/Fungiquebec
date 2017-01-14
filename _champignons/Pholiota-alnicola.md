@@ -58,7 +58,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur souche de feuillu pourri, Betula
+  biotopes: pousse sur souche de feuillu pourri, Betula, Fagus, Quercus
   boucles: observées dans la trame lamellaire et dans le stipe
   brachybasidioles: 
   calicule: 
@@ -75,7 +75,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, ferme, jaunâtre
   chancre: 
-  chapeau: 30-70 mm Ø, convexe puis étalé, parfois omboné, subvisqueux, viscidule à légèrement humide, glabre, subhygrophane, jaune au début, puis jaune plus foncé à ferrugineux avec l'âge ou à l'humidité, parfois lavé de vert olive vers le pourtour et jaune rougeâtre au disque, jaune pâle au sec, à marge incurvée, unie, fibrilleuse-subécailleuse à appendiculée, glabrescente
+  chapeau: 20-70 mm Ø, convexe puis étalé, parfois omboné, subvisqueux, viscidule à légèrement humide, glabre, subhygrophane, jaune au début, puis jaune plus foncé à ferrugineux avec l'âge ou à l'humidité, parfois lavé de vert olive vers le pourtour et jaune rougeâtre au disque, jaune pâle au sec, à marge incurvée, unie, fibrilleuse-subécailleuse à appendiculée, glabrescente
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: abondantes polymorphes, cylindriques, subclavées, sublageniformes, subflexueuses, parfois avec apex déformé, à paroi mince, vide optique, 32 [34,2; 38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
@@ -88,7 +88,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Ces champignons sont à un stade avancé. On peut apercevoir des piqures d'insectes sur les chapeaux. L'époque de l'année où il fut cueilli joue aussi sur son aspect avancé, mais encore acceptable pour en faire un spécimen de fongarium. Habituellement, ce champignon est plutôt d'un beau jaune à jaune ferreux (voir la collection cKc0298). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -252,7 +252,8 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = rougissement du chapeau
+    KOH 10% = rougissement à orangé sur le chapeau
+    NH<sub>4</sub>OH 10% = rouge vin sur le stipe et orangé sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

@@ -7,9 +7,6 @@ image: # Largeur 320px. Exemple: https:
 image-originale: # Exemple: https:
 album-flickr:
   - # Exemple: 72157672806318152
-planches:
-  - miniature: # Largeur 320px. ici
-    originale: # Exemple: ici
 
 details:
   nom-francais: 
@@ -19,13 +16,16 @@ details:
   genre: 
   espece: 
   litterature: 
-  fongariums:
-    - fongarium: 
-      date: 
-  numero-de-planche-micrographique: 
-  geolocalisation: 
-  elevation: 
-  altitude: 
+
+collections:
+  - fongarium: 
+    date: 
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 
+    altitude: 
 
 description:
   acanthocytes: 
@@ -140,7 +140,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: 
   glebe: 

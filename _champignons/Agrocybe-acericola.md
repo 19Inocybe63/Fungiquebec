@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7418/9186177091_c21d995901_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9186177091/in/photolist-rFhzHk-nZyrDb-of4xZb-eZZW13-eZKypD
 album-flickr:
   - 72157673026475782
-planches:
-  - miniature: https://c2.staticflickr.com/8/7655/16853497745_8912b1c21f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16853497745/in/photolist-nZyrDb-of4xZb-rFhzHk-eZZW13-eZKypD 
 
 details:
   nom-francais: Agrocybe des érables
@@ -17,14 +14,32 @@ details:
   genre: Agrocybe
   espece: acericola
   litterature: Singer 1950, Trudy Bot. Inst. Akad. Nauk SSSR 6:88
-  fongariums:
-    - fongarium: cKc0065
-      date: 1 juillet 2013
-    - fongarium: cKc0181
-      date: 10 juillet 2014
-    - fongarium: cKc0182
-      date: 10 juillet 2014
-  numero-de-planche-micrographique: cKc0181-0075
+
+collections:
+  - fongarium: cKc0065
+    date: 1 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 
+    altitude: 
+  - fongarium: cKc0181
+    date: 10 juillet 2014
+    planche:
+      numero: cKc0181-0075
+      miniature: https://c2.staticflickr.com/8/7655/16853497745_8912b1c21f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16853497745/in/photolist-nZyrDb-of4xZb-rFhzHk-eZZW13-eZKypD
+    geolocalisation: 
+    altitude: 
+  - fongarium: cKc0182
+    date: 10 juillet 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 
+    altitude: 
 
 description:
   acanthocytes: 

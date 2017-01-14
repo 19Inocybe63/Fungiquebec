@@ -58,13 +58,13 @@ defaults:
       comments: true
 
 colors:  #in hex code if not noted else
-  primary: "#90805E"
+  primary: "#90805E" # brun pâle 2e entête
   primary_rgb: "144,128,94" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#531E12"
-  link: "#90805E"
-  link_hover: "#531E12"
-  footer_heading: "#ffffff"
-  footer_content: "#ffffff"
+  secondary: "#531E12" # rouge vin
+  link: "#90805E" # brun pâle 2e entête
+  link_hover: "#531E12" # rouge vin
+  footer_heading: "#ffffff" # blanc
+  footer_content: "#ffffff" # blanc
 
 ### CONTACT SETTINGS ###
 
@@ -98,6 +98,11 @@ members:
       - title: flickr
         url: https://www.flickr.com/photos/kaufholtz/
 
+#*****************************************************************************
+# IMPORTANT: Aucun accent, espace, caractère spéciaux ni majuscule dans les
+#            valeurs des attributs "name" des sections champs-details et
+#            champs-description.
+#*****************************************************************************
 champs-details:
   - name: autorites
     label: Autorités
@@ -111,10 +116,6 @@ champs-details:
     label: Espèce
   - name: litterature
     label: Littérature
-  - name: collection(s)-cueillie(s)
-    label: Collection(s) cueillie(s)
-  - name: fongarium
-    label: Fongarium
   - name: fongariums
     format: table
     table:
@@ -126,8 +127,19 @@ champs-details:
     label: Numéro de planche micrographique
   - name: geolocalisation
     label: Géolocalisation
-  - name: elevation
-    label: Élévation
+  - name: altitude
+    label: Altitude
+
+champs-collections:
+  - name: fongarium
+    label: Fongarium
+  - name: date
+    label: Date de cueillette
+  - name: planche
+    label: Planche micrographique
+    format: planche
+  - name: geolocalisation
+    label: Géolocalisation
   - name: altitude
     label: Altitude
 

@@ -427,6 +427,11 @@ blockquote footer {
 		padding: 5px 0;
 }
 
+.tableCollections th,
+.tableCollections td {
+    white-space: nowrap;
+}
+
 /* Cles */
 
 .etape {

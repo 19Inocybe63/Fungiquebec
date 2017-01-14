@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9648424458/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
 album-flickr:
   - 72157672806318152
-planches:
-  - miniature: https://c2.staticflickr.com/8/7376/14182055182_1200988e37_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/14182055182/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
 
 details:
   nom-francais: Amanite farineuse ou Amanite poudrée de gris
@@ -17,14 +14,20 @@ details:
   genre: Amanita
   espece: farinosa
   litterature: Schweinitz, L.D. von. 1822. Synopsis fungorum Carolinae superioris. Schriften der Naturforschenden Gesellschaft zu Leipzig. 1:20-131
-  fongariums:
-    - fongarium: cKc0092
-      date: 21 juillet 2013
-    - fongarium: cKc0130
-      date: 1 septembre 2013
-    - fongarium: cKc0424
-      date: 20 août 2015
-  numero-de-planche-micrographique: cKc0130-0034
+
+collections:
+  - fongarium: cKc0092
+    date: 21 juillet 2013
+  - fongarium: cKc0130
+    date: 1 septembre 2013
+    planche:
+      numero: cKc0130-0034
+      miniature: https://c2.staticflickr.com/8/7376/14182055182_1200988e37_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/14182055182/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
+    geolocalisation: 46°45'23.55"N 71°19'19.47"O
+    altitude: 1.08 Km
+  - fongarium: cKc0424
+    date: 20 août 2015
 
 description:
   acanthocytes: 

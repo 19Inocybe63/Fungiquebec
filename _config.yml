@@ -140,6 +140,7 @@ champs-collections:
     format: planche
   - name: geolocalisation
     label: Géolocalisation
+    format: geo
   - name: altitude
     label: Altitude
   - name: determinee

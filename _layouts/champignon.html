@@ -133,7 +133,11 @@ layout: default
                                     </div>
                                 {% endif %}
                             {% elsif element[champ.name] %}
-                                {{ element[champ.name] }}
+                                {% if champ.format == "geo" %}
+                                    <a href="https://www.google.com/maps/place/{{ element[champ.name] | replace: '"','%22' | replace: " ","+" | replace: "O","W" }}">{{ element[champ.name] }}</a>
+                                {% else %}
+                                    {{ element[champ.name] }}
+                                {% endif %}
                             {% endif %}
                             </td>
                         {% endfor %}

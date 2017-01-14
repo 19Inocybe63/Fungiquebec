@@ -49,13 +49,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes et parfois utriformes, tétrastérigmates, bouclées à la base, 26,8 [30,4; 34,8] 38,4 x 6,6 [7,2; 8,1] 8,8 µm en moyenne
+  basidiospores: |
+    elliptiques-oblongues à subamygdaliformes vue de profil à ovoïdes vue frontale, lisses, à paroi mince entre 0,1-0,2 μm, avec appendice hilaire bien apparent, pore germinatif très petit, mais visible, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    8,4 [9,3; 9,7] 10,6 x 4,5 [4,9; 5,1] 5,5 µm
+    Q = 1,7 [1,9] 2,1; N = 30; C = 95%
+    Me = 9,5 x 5 µm; Qe = 1,9
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse sur souche de feuillu pourri, Betula
-  boucles: 
+  boucles: observées dans la trame lamellaire et dans le stipe
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -74,10 +78,10 @@ description:
   chapeau: 30-70 mm Ø, convexe puis étalé, parfois omboné, subvisqueux, viscidule à légèrement humide, glabre, subhygrophane, jaune au début, puis jaune plus foncé à ferrugineux avec l'âge ou à l'humidité, parfois lavé de vert olive vers le pourtour et jaune rougeâtre au disque, jaune pâle au sec, à marge incurvée, unie, fibrilleuse-subécailleuse à appendiculée, glabrescente
   cheilochrysocystides:
   cheilocystides: 
-  cheiloleptocystides: 
+  cheiloleptocystides: abondantes polymorphes, cylindriques, subclavées, sublageniformes, subflexueuses, parfois avec apex déformé, à paroi mince, vide optique, 32 [34,2; 38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: 
+  chrysocystides: absentes
   circumcystides: 
   clavules: 
   collection-confirmee-par: Claude Kaufholtz-Couture
@@ -217,7 +221,7 @@ description:
   pied: 40-120 x 4-15 mm Ø, égal à atténué vers la base, flexueux, farci puis fistuleux, fibrilleux-strié, crème vers l'apex, jaunâtre puis devenant graduellement brunâtre depuis la base
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis (avec mince ixocutis)
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -284,7 +288,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: subparallèle
   trame-tubulaire: 
   type: 
   typique: 

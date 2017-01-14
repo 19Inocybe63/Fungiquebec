@@ -1,0 +1,295 @@
+---
+nom: Pholiota alnicola
+date: 2017-01-14 00:00:00
+image: https://c2.staticflickr.com/6/5598/15461831105_2fb25e98da_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/15461831105/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
+album-flickr:
+  - 72157679034984716
+planches:
+  - miniature: https://c2.staticflickr.com/8/7367/16534533606_985a2663a6_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16534533606/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
+
+details:
+  nom-francais: Flammule des aulnes
+  autorites: (Fr.) Singer
+  ordre: Agaricales
+  famille: Strophariaceae
+  genre: Pholiota
+  espece: alnicola
+  litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
+  fongariums:
+    - fongarium: cKc0142
+      date: 27 septembre 2013
+    - fongarium: cKc0286
+      date: 3 octobre 2014
+    - fongarium: cKc0298
+      date: 6 octobre 2014
+  numero-de-planche-micrographique: cKc0298-0071
+  geolocalisation: 
+  elevation: 
+  altitude: 
+
+description:
+  acanthocytes: 
+  acanthophyses: 
+  aiguillons: 
+  aleurioconidies: 
+  anamorphe: 
+  anamorphe-conidien: 
+  anneau: 
+  apothecie: 
+  arete-lamellaire: 
+  arthroconidies: 
+  articles: 
+  ascome: 
+  ascospores: 
+  asques: 
+  asterohyphidies: 
+  avertissement: 
+  base-du-pied: 
+  base-sterile: 
+  base-stipitiforme: 
+  basides: 
+  basidiospores: 
+  basidioles: 
+  basidiome: 
+  bibliographies: 
+  biotopes: 
+  boucles: 
+  brachybasidioles: 
+  calicule: 
+  capillitium: 
+  capitule: 
+  caulobasides: 
+  caulocystides: 
+  caulocystides-medianes: 
+  caulocystides-sommitales: 
+  cellules-hymeniales-diverticulees: 
+  cellules-hymeniales-en-brosses: 
+  cellules-marginales-paracystides: 
+  cellules-peritheciales: 
+  cellules-stromatiques: 
+  chair: 
+  chancre: 
+  chapeau: 
+  cheilochrysocystides:
+  cheilocystides: 
+  cheiloleptocystides: 
+  cheilomacrocystides: 
+  chlamydospores: 
+  chrysocystides: 
+  circumcystides: 
+  clavules: 
+  collection-confirmee-par: Claude Kaufholtz-Couture
+  collection-determinee-par: 
+  collection-determination-provisoire-par: 
+  columelle: 
+  commentaires: 
+  conidies: 
+  conidiome: 
+  conidiophores: 
+  consistance: 
+  contexte: 
+  cordons-myceliens: 
+  cordons-rhizomorphiques: 
+  cortex: 
+  cortex-caulinaire: 
+  cortex-du-pied-et-du-bulbe: 
+  cortex-peridial: 
+  cortex-sclerotial: 
+  cortine: 
+  couches-de-tubes: 
+  coupe-sterile: 
+  cristaux: 
+  cristaux-d-oxalate: 
+  cristaux apicaux: 
+  cuticule: 
+  cutis: 
+  cycle: 
+  cystides: 
+  cystides-hymeniales: 
+  cystides-intermediaires: 
+  cystidioles: 
+  dendrohyphydies: 
+  depots-de-pigment-interhyphal: 
+  dermatocystides-caulocystides-et-pileipellis: 
+  derniere-correction: 
+  dicaryophyses: 
+  dichophyses: 
+  disque-basal: 
+  distribution: 
+  elateres: 
+  elements-acanthophyses: 
+  elements-cystidioides: 
+  elements-hyphoides: 
+  elements-setoides: 
+  elements-steriles: 
+  elements-sur-les-cotes: 
+  elements-velaires: 
+  endoperidium: 
+  especes-identification: 
+  especes-semblables: 
+  excipulum: 
+  excipulum-medullaire-superieur: 
+  excipulum-medullaire-moyen: 
+  excipulum-medullaire-inferieur: 
+  excipulum-ectal: 
+  exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
+  exoperidium: 
+  extremites-hyphales: 
+  face-externe: 
+  face-poroïde: 
+  feutrage-basal: 
+  fongarium:
+  fragments-sporaux: 
+  frequence: 
+  glebe: 
+  gleocystides: 
+  gleocystides-hymeniales: 
+  gleocystides-subhymeniales: 
+  granules-calcaires: 
+  groupe: 
+  hymenium: 
+  hymenocystides: 
+  hymenophore: 
+  hyphes: 
+  hyphes-de-la-chair: 
+  hyphes-de-l-anneau: 
+  hyphes-du-pied: 
+  hyphes-glebales: 
+  hyphes-gleopleres: 
+  hyphes-hymeniales: 
+  hyphes-ligatives: 
+  hyphes-oleiferes: 
+  hyphes-pectinees: 
+  hyphes-primordiales: 
+  hyphes-setales: 
+  hyphes-squelettiques: 
+  hyphes-skeletoligative: 
+  hyphes-subiculaires: 
+  hyphes-thrombopleres: 
+  hyphes-tramales: 
+  hyphes-vesiculaires: 
+  hyphidies: 
+  hyphique: 
+  hypobasides: 
+  hypoderme: 
+  hypoge: 
+  hypophylle: 
+  hypothalle: 
+  hypothece: 
+  hysterothece: 
+  lames: 
+  lamprocystides: 
+  lamprocheilocystides: 
+  lampropleurocystides: 
+  lamprocaulocystides: 
+  latex: 
+  leptocystides: 
+  macrocystides: 
+  macropleurocystides: 
+  marge: 
+  marge-et-face-externe: 
+  mediostrate: 
+  medulla: 
+  medulla-caulinaire: 
+  medulla-clavariale: 
+  medulla-clavulaire: 
+  microconidies: 
+  mode-de-croissance: 
+  mycelium-basal: 
+  myxocarpe: 
+  nouvelle-espece: 
+  note-taxonomique: 
+  oeuf: 
+  paracapillitium: 
+  paraphyses: 
+  parasite: 
+  paroi-peritheciale: 
+  peridiole: 
+  peridiopellis: 
+  peridium: 
+  peritheces: 
+  phenologie: 
+  phialoconidies: 
+  pied: 
+  pieds-steriles: 
+  pigments: 
+  pileipellis: 
+  pileitrame: 
+  pileocystides: 
+  plasmode: 
+  pleurochrysocystides: 
+  pleurocystides: 
+  poils: 
+  poils-basaux: 
+  poils-caulinaires: 
+  poils-du-cortex: 
+  poils-externes: 
+  poils-lateraux-et-caulinaires: 
+  poils-marginaux: 
+  poils-mycelien-basaux: 
+  poils-peridiaux: 
+  poils-peritheciaux: 
+  poils-pileiques: 
+  pores: 
+  premiere-mention: 
+  pseudocapillitium: 
+  pseudocolumelle: 
+  pseudocystides: 
+  pseudo-peridioles: 
+  publications: |
+    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
+    Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
+  publications-microscopiques: 
+  reactions-chimiques-naturelles: 
+  reactions-macrochimiques: 
+  receptacle: 
+  remarques: 
+  repartition: 
+  rhizomorphes: 
+  sac-sporifere: 
+  saveur: 
+  sclerocystides: 
+  sclerote: 
+  soies: 
+  soies-hymeniales: 
+  sporee: 
+  spherocytes: 
+  sporocystes: 
+  stipitipellis: 
+  stipititrame: 
+  stroma: 
+  subhymenium: 
+  subiculum: 
+  substrat: 
+  synonymie: |
+    Agaricus alnicola Fr., Systema Mycologicum 1:250 (1821)
+    Flammula alnicola (Fr.) P. Kumm., Der Führer in die Pilzkunde:82 (1871)
+    Dryophila alnicola (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:68 (1886)
+    Gymnopilus alnicola (Fr.) Murrill, North American Flora 10 (3):202 (1917)
+    Pholiota alnicola var. alnicola , Lilloa 22:516 (1951)
+    Pholiotina alnicola (Fr.) Singer, Lilloa 22:516 (1951)
+    Agaricus flavidus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:17, t. 35 (1774)
+    Agaricus apicreus Fr., Epicrisis Systematis Mycologici:188 (1838)
+    Pholiota pseudohypholoma Velen., Ceske Houby 3: 502 (1921)
+    Flammula malicola Kauffman, American Journal of Botany 13 (1):24 (1926)
+    Pholiota aromatica P.D. Orton, Transactions of the British Mycological Society 43 (2):338 (1960)
+  systeme-hyphal: 
+  textura: 
+  tomentum-caulinaire: 
+  tomentum-pileique: 
+  trame-hymenophorale: 
+  trame-lamellaire: 
+  trame-tubulaire: 
+  type: 
+  typique: 
+  voile: 
+  voile-general: 
+  voile-partiel: 
+  volve: 
+  zone-perihymeniale: 
+---

@@ -142,6 +142,10 @@ champs-collections:
     label: Géolocalisation
   - name: altitude
     label: Altitude
+  - name: determinee
+    label: Déterminée par
+  - name: confirmee
+    label: Confirmée par
 
 champs-description:
   - name: apothecie

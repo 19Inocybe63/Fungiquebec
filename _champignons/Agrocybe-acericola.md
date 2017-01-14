@@ -24,6 +24,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 
     altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
   - fongarium: cKc0181
     date: 10 juillet 2014
     planche:
@@ -32,6 +34,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/16853497745/in/photolist-nZyrDb-of4xZb-rFhzHk-eZZW13-eZKypD
     geolocalisation: 
     altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0182
     date: 10 juillet 2014
     planche:
@@ -40,6 +44,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 
     altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -94,8 +100,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-confirmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 

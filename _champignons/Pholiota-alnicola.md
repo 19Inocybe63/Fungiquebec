@@ -192,6 +192,7 @@ description:
   lamprocaulocystides: 
   latex: 
   leptocystides: 
+  leptopleurocystides: absentes
   macrocystides: 
   macropleurocystides: 
   marge: 

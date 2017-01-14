@@ -22,7 +22,7 @@ collections:
       numero: cKc0029-0008
       miniature: https://c1.staticflickr.com/9/8224/8321625865_468f083b61_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8321625865/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
     altitude: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
@@ -32,7 +32,7 @@ collections:
       numero: cKc0114-0077
       miniature: https://c2.staticflickr.com/8/7651/16306622493_d40ddbee11_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16306622493/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
     altitude: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture

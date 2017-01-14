@@ -5,11 +5,6 @@ image: https://c2.staticflickr.com/8/7310/9737943460_d0c3fe0e07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9737943460/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
 album-flickr:
   - 72157673984623650
-planches:
-  - miniature: https://c1.staticflickr.com/9/8224/8321625865_468f083b61_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8321625865/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
-  - miniature: https://c2.staticflickr.com/8/7651/16306622493_d40ddbee11_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16306622493/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
 
 details:
   nom-francais: Agrocybe tubereux
@@ -19,12 +14,28 @@ details:
   genre: Agrocybe
   espece: arvalis
   litterature: Singer...
-  fongariums:
-    - fongarium: cKc0029
-      date: 18 août 2012
-    - fongarium: cKc0114
-      date: 13 septembre 2013
-  numero-de-planche-micrographique: cKc0029-0008 ; cKc0114-0077
+  
+  collections:
+  - fongarium: cKc0029
+    date: 18 août 2012
+    planche:
+      numero: cKc0029-0008
+      miniature: https://c1.staticflickr.com/9/8224/8321625865_468f083b61_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8321625865/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0114
+    date: 13 septembre 2013
+    planche:
+      numero: cKc0114-0077
+      miniature: https://c2.staticflickr.com/8/7651/16306622493_d40ddbee11_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16306622493/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,7 +91,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -139,7 +149,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -254,7 +263,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun à brun foncé
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

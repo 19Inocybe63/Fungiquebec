@@ -237,7 +237,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: |
     Gaïacol = la chair du chapeau devient rose-rouge après plusieurs minutes
-    KOH 5% = le chapeau devient jaune
+    KOH 10% = le chapeau devient jaune
     Schaeffer = + ; voir la photo démontrant la réaction en croix de Schaeffer
     Soluté de gaïac = pas de coloration ou de décoloration sur la chair
     TL4 = le chapeau devient rose pâle

@@ -252,7 +252,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = rougissement à orangé sur le chapeau
+    KOH 10% = brun rougeâtre à orangé sur le chapeau
     NH<sub>4</sub>OH 10% = rouge vin sur le stipe et orangé sur le chapeau
   receptacle: 
   remarques: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7323/10088573684_37c385249e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088573684/in/photolist-sTRAxX-gnuBKj-gnuztA
 album-flickr:
   - 72157677114154496
-planches:
-  - miniature: https://c2.staticflickr.com/8/7666/17652093981_fee5f4fca3_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/17652093981/in/dateposted-public/
 
 details:
   nom-francais: Coprin noir d'encre
@@ -17,10 +14,18 @@ details:
   genre: Coprinopsis
   espece: atramentaria
   litterature: Redhead, S. A., Vilgalys, R., Moncalvo, J. M., Johnson, J., Hopple, J. S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-  fongariums:
-    - fongarium: cKc0143
-      date: 4 octobre 2013
-  numero-de-planche-micrographique: cKc0143-0085
+
+collections:
+  - fongarium: cKc0143
+    date: 4 octobre 2013
+    planche:
+      numero: cKc0143-0085
+      miniature: https://c2.staticflickr.com/8/7666/17652093981_fee5f4fca3_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/17652093981/in/dateposted-public/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -138,7 +140,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -248,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: noire
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8111/28596715912_ffdf32245e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28596715912/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
 album-flickr:
   - 72157675843042745
-planches:
-  - miniature: https://c2.staticflickr.com/8/7473/15651872123_54099e4445_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15651872123/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
 
 details:
   nom-francais: Bolet à pied velu
@@ -17,14 +14,38 @@ details:
   genre: Boletus
   espece: subvelutipes
   litterature: Peck 1889, Bull. N.Y. State Mus. 8:142-143
-  fongariums:
-    - fongarium: cKc0221
-      date: 27 août 2014
-    - fongarium: cKc0235
-      date: 4 septembre 2014
-    - fongarium: cKc0528
-      date: 1 août 2016
-  numero-de-planche-micrographique: cKc0235-0065
+
+collections:
+  - fongarium: cKc0221
+    date: 27 août 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0235
+    date: 4 septembre 2014
+    planche:
+      numero: cKc0235-0065
+      miniature: https://c2.staticflickr.com/8/7473/15651872123_54099e4445_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15651872123/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0528
+    date: 1 août 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,8 +101,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-confirmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 
@@ -140,7 +159,6 @@ description:
   face-externe: 
   face-poroïde: rouge orangé à rouge vineux, bleuissant intensément au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -256,7 +274,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun olive
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

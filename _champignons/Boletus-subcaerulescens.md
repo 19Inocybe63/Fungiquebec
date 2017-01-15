@@ -77,7 +77,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Avec cette couleur de sporée, et la macroréaction verte aux bases, il n'y a qu'une seule espèce! »
   conidies: 
   conidiome: 
   conidiophores: 

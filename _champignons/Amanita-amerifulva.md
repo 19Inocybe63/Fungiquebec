@@ -24,8 +24,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 45°33'36.2"N 75°29'23.7"O
     altitude: 6.30 km
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Roland Labbé
   - fongarium: sans numéro
     date: 4 août 2013
     planche:

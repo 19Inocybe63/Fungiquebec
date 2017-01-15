@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8453/8042774343_50f59b2d29_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8042774343/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
 album-flickr:
   - 72157673847377150
-planches:
-  - miniature: https://c1.staticflickr.com/9/8542/8676927112_d96e74b518_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8676927112/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
 
 details:
   nom-francais: Collybie queue de souris
@@ -16,11 +13,19 @@ details:
   famille: Marasmiaceae
   genre: Baeospora
   espece: myosura
-  litterature: Singer, R. 1938. Notes sur quelques Basidiomycetes. Revue de Mycologie. 3,187-199
-  fongariums:
-    - fongarium: cKc0022
-      date: 30 septembre 2012
-  numero-de-planche-micrographique: cKc0022-0026
+  litterature: Singer, R. 1938. Notes sur quelques Basidiomycetes. Revue de Mycologie. 3, 187-199
+
+collections:
+  - fongarium: cKc0022
+    date: 30 septembre 2012
+    planche:
+      numero: cKc0022-0026
+      miniature: https://c1.staticflickr.com/9/8542/8676927112_d96e74b518_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8676927112/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
+    geolocalisation: 46°54'03.96"N 71°10'40.83"O
+    altitude: 476 m
+    determinee: 
+    confirmee: Roland Labbé
 
 description:
   acanthocytes: 
@@ -72,7 +77,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -129,7 +133,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -240,7 +243,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

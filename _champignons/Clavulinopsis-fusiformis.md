@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/685/20665078175_836e5968f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665078175/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
 album-flickr:
   - 72157674065319940
-planches:
-  - miniature: https://c2.staticflickr.com/8/7482/27074039690_b05cfc1997_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/27074039690/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
 
 details:
   nom-francais: Clavaire en fuseau
@@ -43,8 +40,8 @@ collections:
     date: 16 septembre 2015
     planche:
       numero: cKc0464-0128
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c2.staticflickr.com/8/7482/27074039690_b05cfc1997_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/27074039690/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     altitude: 1.08 km
     determinee: 

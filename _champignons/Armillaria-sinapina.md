@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8169/8064698711_27a2a80ff8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8064698711/in/photolist-eceEmc-dhDFXv
 album-flickr:
   - 
-planches:
-  - miniature: https://c1.staticflickr.com/9/8110/8659784899_5a71e487dc_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8659784899/in/photostream/
 
 details:
   nom-francais: Armillaire moutarde
@@ -17,10 +14,18 @@ details:
   genre: Armillaria
   espece: sinapina
   litterature: Bérubé, J.A.; Dessureault, M. 1988. Morphological characterization of Armillaria ostoyae and Armillaria sinapina sp. nov. Canadian Journal of Botany. 66(10):2027-2034
-  fongariums:
-    - fongarium: cKc0025
-      date: 17 octobre 2012
-  numero-de-planche-micrographique: cKc0025-0025
+
+collections:
+  - fongarium: cKc0025
+    date: 17 octobre 2012
+    planche:
+      numero: cKc0025-0025
+      miniature: https://c1.staticflickr.com/9/8110/8659784899_5a71e487dc_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8659784899/in/photostream/
+    geolocalisation: 46°45'43.6"N 71°41'39.1"O
+    altitude: 527 m
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Roland Labbé
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -138,7 +140,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

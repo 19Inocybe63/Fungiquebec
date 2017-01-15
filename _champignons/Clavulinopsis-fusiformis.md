@@ -266,7 +266,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: blanche, crème à jaunâtre
+  sporee: blanchâtre, crème à jaunâtre
   spherocytes: 
   sporocystes: 
   stipitipellis: 

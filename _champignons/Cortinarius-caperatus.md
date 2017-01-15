@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8461/8038502020_3d777ea34d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8038502020/in/photolist-edZ8GF-dfkqAq
 album-flickr:
   - 
-planches:
-  - miniature: https://c1.staticflickr.com/9/8382/8679583227_2f5e0c516f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8679583227/in/photolist-edZ8GF-dfkqAq
 
 details:
   nom-francais: Cortinaire ridé
@@ -17,10 +14,18 @@ details:
   genre: Cortinarius
   espece: caperatus
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-  fongariums:
-    - fongarium: cKc0017
-      date: 29 septembre 2012
-  numero-de-planche-micrographique: cKc0017-0027
+  
+collections:
+  - fongarium: cKc0017
+    date: 29 septembre 2012
+    planche:
+      numero: cKc0017-0027
+      miniature: https://c1.staticflickr.com/9/8382/8679583227_2f5e0c516f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8679583227/in/photolist-edZ8GF-dfkqAq
+    geolocalisation: 46°54'03.96"N 71°10'40.83"O
+    altitude: 476 m
+    determinee: 
+    confirmee: Roland Labbé
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -138,7 +140,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -253,7 +254,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rouille
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

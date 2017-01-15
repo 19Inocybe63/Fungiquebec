@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5657/20677827014_5ccdd426a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20677827014/in/photolist-yaCLKE-xvegyS
 album-flickr:
   - 72157674653889111
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Cèpe à pores bleuissants
@@ -20,10 +14,18 @@ details:
   genre: Boletus
   espece: subcaerulescens
   litterature: Bessette, A.E.; Roody, W.C.; Bessette, A.R. 2000. North American Boletes, A Color Guide to the Fleshy Pored Mushrooms. :1-399
-  fongariums:
-    - fongarium: cKc0457
-      date: 10 septembre 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0457
+    date: 10 septembre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -74,9 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -135,7 +134,6 @@ description:
   face-externe: 
   face-poroïde: jaune beige, tubes immuables au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -254,7 +252,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun olive
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

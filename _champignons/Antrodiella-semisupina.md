@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Polypore retroussé
   autorites: (Berk. & M.A. Curtis) Ryvarden
   ordre: Polyporales
   famille: Phanerochaetaceae
@@ -50,7 +50,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, réfléchi à sessile, rarement résupiné, chair tenace au frais, dense, cartilagineux à résineux, souvent subtranslucide et en partie défait à la marge au sec
   bibliographies: 
   biotopes: pousse sur bois pourri de feuillu
   boucles: 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 4-6 mm de projection, 1-5 mm d'épaisseur à la base, avez zone résupinée 10 x 20 mm environ, étroit, plus développé sur le bord supérieur du basidiome, en forme d'ongle, largement attaché, incurvé, azoné et velouté-apprimé au début, plus foncé, blanc, dans les tons d'ochracé à paille pâle, légèrement zoné et parfois avec lignes radiales et glabre avec l'âge, à marge aiguë, incurvée et dure chez les basidiomes piléés au sec, blanche à crème et souvent légèrement fimbriée sur les parties résupinées
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -84,7 +84,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: dense, azoné, blanc, 1-2 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -93,7 +93,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: fusionnée, se fendant, et devenant plus grande dans les parties les plus vieilles (centrales), dense, semi-translucide, concolore à la face poroïde, jusqu'à 3 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,10 +135,9 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: crème au début, brun rougeâtre pâle et luisante à maturité
   feutrage-basal: 
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -193,7 +192,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: en amas imbriqués et fusionnés latéralement
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -229,7 +228,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: ronds à anguleux, (5) 6-8 (9) par mm, à dissépiments entiers ou finement denticulés
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -244,7 +243,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 

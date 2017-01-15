@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3820/9342634870_f7bdf1a814_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9342634870/in/photolist-fezrRy
 album-flickr:
   - 
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Clavaire violette
@@ -17,10 +14,18 @@ details:
   genre: Clavaria
   espece: zollingeri
   litterature: Léveillé, J.H. 1846. Descriptions des champignons de l'herbier du Muséum de Paris. Annales des Sciences Naturelles Botanique. 5:111-167
-  fongariums:
-    - fongarium: cKc0086
-      date: 21 juillet 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0086
+    date: 21 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°51'19.0"N 71°06'38.2"O
+    altitude: 6.13 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

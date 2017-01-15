@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5582/14981967220_f12992b12a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981967220/in/photolist-p5H4RU-oPUuTE-p5o6dE
 album-flickr:
   - 72157674266084922
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: 
@@ -17,9 +14,18 @@ details:
   genre: Amanita
   espece: sp. nov.
   litterature: 
-  fongariums:
-    - fongarium: cKc0243
-      date: 7 septembre 2014
+
+collections:
+  - fongarium: cKc0243
+    date: 7 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: Rod Tulloss (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -70,7 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determination-provisoire-par: Rod Tulloss
   columelle: 
   commentaires: 
   conidies: 
@@ -129,7 +134,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -238,7 +242,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

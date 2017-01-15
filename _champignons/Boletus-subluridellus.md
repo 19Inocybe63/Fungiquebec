@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19726150815/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
 album-flickr:
   - 72157674035673532
-planches:
-  - miniature: https://c2.staticflickr.com/2/1530/26008609925_b7a2ce2d14_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/26008609925/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
 
 details:
   nom-francais: Bolet brun rougeâtre
@@ -17,12 +14,28 @@ details:
   genre: Boletus
   espece: subluridellus
   litterature: Smith, A.H.; Thiers, H.D. 1971. The Boletes of Michigan. :1-428
-  fongariums:
-    - fongarium: cKc0339
-      date: 15 juillet 2015
-    - fongarium: cKc0431
-      date: 23 août 2015
-  numero-de-planche-micrographique: cKc0339-0118
+
+collections:
+  - fongarium: cKc0339
+    date: 15 juillet 2015
+    planche:
+      numero: cKc0339-0118
+      miniature: https://c2.staticflickr.com/2/1530/26008609925_b7a2ce2d14_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/26008609925/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0431
+    date: 23 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -78,8 +91,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: De Yves Lamoureux. « Le pied jaune vif qui contraste avec le chapeau d'un beau rouge profond ne ment pas. Chez B. subvelutipes, il n'y a pas un tel contraste entre le pied et le chapeau. S'il a plu sur les basidiomes et qu'ils ne sont pas jeunes et frais, ou bien qu'ils ont roulé dans un panier, ont été tripotés, etc., les choses peuvent se compliquer ! Caractère distinctif ici, B. subvelutipes n'a jamais le pied jaune vif. Il sera jaune roussâtre, roux, voire presque entièrement rouge vineux dans la vétusté, mais jamais d'un beau jaune clair. Par ailleurs, les jeunes B. subluridellus ont le chapeau nettement plus velouté. Cela s'évalue bien quand on a les deux espèces en même temps, côte à côte. En général, quand B. subluridellus est sorti dans les chênaies, il y aura des B. subvelutipes dans les prucheraies avoisinantes. »
   conidies: 
@@ -138,7 +149,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -257,7 +267,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

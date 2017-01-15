@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/3/2828/9378730585_17f076277c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9378730585/in/photolist-fhLrRt
 album-flickr:
   - 
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Amanite à voile jaune
@@ -17,10 +14,18 @@ details:
   genre: Amanita
   espece: flavoconia
   litterature: Atkinson, G.F. 1902. Preliminary notes on some new species of fungi. Journal of Mycology. 8:110-119
-  fongariums:
-    - fongarium: cKc0094
-      date: 27 juillet 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0094
+    date: 27 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°37'45.9"N 70°28'03.0"O
+    altitude: 1.45 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -246,7 +247,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

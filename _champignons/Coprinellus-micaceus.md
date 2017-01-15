@@ -20,7 +20,7 @@ collections:
     date: 24 juin 2014
     planche:
       numero: cKc0172-0038
-      miniature: https://c2.staticflickr.com/4/3902/14496677944_a47634fdd8_n.jpg
+      miniature: https://c2.staticflickr.com/4/3838/14325215908_5abefd5379_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/14325215908/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
     geolocalisation: 46°45'28.7"N 71°19'37.0"O
     altitude: 1.08 km

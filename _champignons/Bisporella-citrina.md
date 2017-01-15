@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15397943256/in/photolist-oTnnJF-psEu5h
 album-flickr:
   - 72157675579407806
-planches:
-  - miniature: https://c2.staticflickr.com/4/3947/15021160663_3d254619a7_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15021160663/in/photolist-oTnnJF-psEu5h
 
 details:
   nom-francais: Pézize citrine
@@ -17,10 +14,18 @@ details:
   genre: Bisporella
   espece: citrina
   litterature: Korf, R.P.; Carpenter, S.E. 1974. Bisporella, a generic name for Helotium citrinum and its allies, and the generic names Calycella and Calycina. Mycotaxon. 1(1):51-62
-  fongariums:
-    - fongarium: cKc0279
-      date: 2 octobre 2014
-  numero-de-planche-micrographique: cKc0279-0043
+
+collections:
+  - fongarium: cKc0279
+    date: 2 octobre 2014
+    planche:
+      numero: cKc0279-0043
+      miniature: https://c2.staticflickr.com/4/3947/15021160663_3d254619a7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15021160663/in/photolist-oTnnJF-psEu5h
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Hans-Otto Baral
 
 description:
   acanthocytes: 
@@ -75,8 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Hans-Otto Baral (AscoFrance)
-  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: De Hans-Otto Baral. « Maybe you expected to see septate spores? The septum is formed in Bisporella citrina only on overmature spores, so don't worry. If the excipulum is gelatinized I am quite sure it is this species. You can also look at the ascus apex in IKI, but you need dead asci for that. The apical ring is a bit like a T, while for instance in Bisporella subpallida it is only reactive in the lower part of the wall thickeningl like two short thin lines. Also the contents of the paraphyses are worth to look at. The difference in apicla ring and genetic data led me to say Calycina citrina for the present fungus, so I restrict Bisporella to B. subpallida and B. pallescens. »
   conidies: 
@@ -135,7 +138,6 @@ description:
   face-externe: lisse, concolore à l'hyménophore ou plus pâle
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -244,7 +246,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

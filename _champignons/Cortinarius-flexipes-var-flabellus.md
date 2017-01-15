@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8549/30168238602_c1ee598a97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30168238602/in/photolist-MXS7hS-MboHve-MboCkz-LCbgH9-MsfcAn-MwvDPL
 album-flickr:
   - 72157677623325925
-planches:
-  - miniature: https://c1.staticflickr.com/1/394/31607899955_db9303aa24_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/31607899955/in/photostream/
 
 details:
   nom-francais: Cortinaire à pied tortueux
@@ -17,12 +14,28 @@ details:
   genre: Cortinarius
   espece: flexipes var. flabellus
   litterature: Brandrud, T.E.; Lindström, H.; Marklund, H.; Melot, J.; Muskos, S. 1998. Cortinarius. Flora photographica. 4:1-31
-  fongariums:
-    - fongarium: cKc0562
-      date: 24 septembre 2016
-    - fongarium: cKc0598
-      date: 12 octobre 2016
-  numero-de-planche-micrographique: cKc0598-0148
+
+collections:
+  - fongarium: cKc0562
+    date: 24 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0598
+    date: 12 octobre 2016
+    planche:
+      numero: cKc0598-0148
+      miniature: https://c1.staticflickr.com/1/394/31607899955_db9303aa24_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31607899955/in/photostream/
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,9 +93,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: |
     De cKc. « D'après ce qui est écrit dans les descriptions de cette espèce, son odeur est caractérisée par le pélargonium (géranium). Pour ma part, je connais très peu l'odeur du géranium, mais je connais très bien celle des betteraves, et l'odeur qui exhale de cette collection est celle de la betterave. »
@@ -143,7 +153,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -262,7 +271,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rouille à brun cannelle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

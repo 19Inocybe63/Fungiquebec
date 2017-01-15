@@ -25,7 +25,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: sans numéro
     date: 4 août 2013
     planche:
@@ -35,7 +35,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0183
     date: 10 juillet 2014
     planche:
@@ -45,7 +45,7 @@ collections:
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     altitude: 1.08 km
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -98,9 +98,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -159,7 +156,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

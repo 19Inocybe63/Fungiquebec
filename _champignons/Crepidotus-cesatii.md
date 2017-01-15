@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8467/8084202795_cc78c9e611_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084202795/in/photolist-dxUEnx-djnDQP-dxXe3x
 album-flickr:
   - 72157675223253036
-planches:
-  - miniature: https://c1.staticflickr.com/9/8490/8237367497_fec07817ff_n.jpg
-    originale:  https://www.flickr.com/photos/kaufholtz/8237367497/in/photolist-dxUEnx-djnDQP-dxXe3x
 
 details:
   nom-francais: Crepidote à spores sphériques
@@ -17,10 +14,18 @@ details:
   genre: Crepidotus
   espece: cesatii var. subsphaerosporus
   litterature: Senn-Irlet, B. 1995. The genus Crepidotus (Fr.) Staude in Europe. Persoonia. 16(1):1-80
-  fongariums:
-    - fongarium: cKc0035
-      date: 13 octobre 2012
-  numero-de-planche-micrographique: cKc0035-0003
+
+collections:
+  - fongarium: cKc0035
+    date: 13 octobre 2012
+    planche:
+      numero: cKc0035-0003
+      miniature: https://c1.staticflickr.com/9/8490/8237367497_fec07817ff_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8237367497/in/photolist-dxUEnx-djnDQP-dxXe3x
+    geolocalisation: 46°54'03.96"N 71°10'40.83"O
+    altitude: 476 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -74,7 +79,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -133,7 +137,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -249,7 +252,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rosâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

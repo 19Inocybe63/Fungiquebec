@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/713/21329672180_4f938a431f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21329672180/in/photolist-yuQ9qC-yuQdej
 album-flickr:
   - 72157675311790892
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Amanite à bulbe abrupt
@@ -17,10 +14,18 @@ details:
   genre: Amanita
   espece: abrupta
   litterature: Peck, C.H. 1897. New species of fungi. Bulletin of the Torrey Botanical Club. 24:137-147
-  fongariums:
-    - fongarium: cKc0465
-      date: 18 septembre 2015
-  numero-de-planche-micrographique: 
+  
+collections:
+  - fongarium: cKc0465
+    date: 18 septembre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45'23.55"N 71°19'19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -246,7 +247,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

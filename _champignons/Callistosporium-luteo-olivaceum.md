@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3808/9366140251_6a8ff08cf5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9366140251/in/photolist-fgDW6g-fgDVbK
 album-flickr:
   - 72157672287368324
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Collybie jaune olivacé
@@ -17,10 +14,18 @@ details:
   genre: Callistosporium
   espece: luteo-olivaceum
   litterature: Lloydia, 89, 117, 1946
-  fongariums:
-    - fongarium: cKc0093
-      date: 25 juillet 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0093
+    date: 25 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°18'05.3"N 73°05'41.8"O
+    altitude: 341 m
+    determinee: 
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -71,7 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 
@@ -130,7 +134,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -240,7 +243,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

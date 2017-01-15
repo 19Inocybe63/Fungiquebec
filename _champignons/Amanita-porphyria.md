@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3928/15243769398_3a8366c102_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15243769398/in/photolist-pvuPJA-pe3iyj-pvwDBR-pe3vM6
 album-flickr:
   - 72157676298649241
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Amanite porphyre
@@ -17,10 +14,18 @@ details:
   genre: Amanita
   espece: porphyria
   litterature: Albertini, J.B.; Schweinitz, L.D. von. 1805. Conspectus Fungorum in Lusatiae superioris. :1-376
-  fongariums:
-    - fongarium: cKc0284
-      date: 3 octobre 2014
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0284
+    date: 3 octobre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: |
     De Yves Lamoureux. « On reconnaît facilement cette amanite aux traits suivants ; chapeau foncé, anneau gris et pied très bulbeux. A. lignophila en diffère par sa petite taille, son pied blanc et son anneau blanc ou jaune. L’épithète « porphyria » désigne une couleur teintée de pourpre. Toutefois, cette coloration est rarement présente chez l’espèce, du moins au Québec. Il ne faut donc pas accorder d’importance à la signification de ce nom. »
@@ -135,7 +137,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

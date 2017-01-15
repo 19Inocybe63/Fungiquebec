@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8231/29832790142_9e39b52477_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832790142/in/photolist-MsdR9J-MzfAsC
 album-flickr:
   - 72157676600802536
-planches:
-  - miniature: https://c2.staticflickr.com/6/5599/31426576536_5a776bf5e8_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/31426576536/in/photostream/
 
 details:
   nom-francais: Pézize verdissante
@@ -17,10 +14,18 @@ details:
   genre: Chlorociboria
   espece: aeruginascens
   litterature: Ramamurthi, C.S.; Korf, R.P.; Batra, L.R. 1957. A revision of the North American species of Chlorociboria (Sclerotiniaceae). Mycologia. 49:854-863
-  fongariums:
-    - fongarium: cKc0571
-      date: 26 septembre 2016
-  numero-de-planche-micrographique: cKc0571-0146
+
+collections:
+  - fongarium: cKc0571
+    date: 26 septembre 2016
+    planche:
+      numero: cKc0571-0146
+      miniature: https://c2.staticflickr.com/6/5599/31426576536_5a776bf5e8_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31426576536/in/photostream/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -139,7 +144,6 @@ description:
   face-externe: glabre à finement tomenteuse, sillonnée et finement rugueuse sur la partie inférieure, surtout au sec, blanchâtre puis concolore à l'hyménophore
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -255,7 +259,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

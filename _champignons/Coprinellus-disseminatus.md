@@ -25,7 +25,7 @@ collections:
     geolocalisation: 46°47'01.8"N 71°16'04.1"O
     altitude: 1.09 km
     determinee: Claude Kaufholtz-Couture
-    confirmee: R. A. Powers (MyCoPortal)
+    confirmee: R. A. Powers
 
 description:
   acanthocytes: 

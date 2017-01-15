@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrastérigmates jusqu'à 6 µm de longueur, 22-32 µm x 6-8 µm
   basidiospores: |
-    subglobuleuses à largement ellipsoïdes, ponctuées, échinulées, à paroi légèrement épaissie, avec apicule excentré, à contenu uniguttulé, brun jaunâtre dans le NaCl, inactives dans le melzer, partiellement cyanophiles
+    subglobuleuses à largement ellipsoïdes, ponctuées, échinulées, à paroi légèrement épaissie, avec apicule excentré, à contenu uniguttulé, brun jaunâtre dans le NaCl iso 0,9%, inactives dans le melzer, partiellement cyanophiles
     7,3 x 5,6 µm en moyenne; Q moyen = 1,3
     échantillonnage, 30 spores
   basidioles: 

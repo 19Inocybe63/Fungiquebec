@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8843/28240406722_244345c4a1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28240406722/in/photolist-K2vt3b
 album-flickr:
   - 
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Clavaire fragile
@@ -17,10 +14,18 @@ details:
   genre: Clavaria
   espece: fragilis
   litterature: Holmskjold, T. 1790. Beata ruris otia fungis danicis. 1:1-118
-  fongariums:
-    - fongarium: cKc0518
-      date: 16 juillet 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0518
+    date: 16 juillet 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

@@ -234,7 +234,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

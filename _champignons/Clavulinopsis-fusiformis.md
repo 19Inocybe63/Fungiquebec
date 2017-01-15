@@ -17,14 +17,38 @@ details:
   genre: Clavulinopsis
   espece: fusiformis
   litterature: Corner, E.J.H. 1950. A monograph of Clavaria and allied genera. Annals of Botany Memoirs. 1:1-740
-  fongariums:
-    - fongarium: cKc0386
-      date: 21 juillet 2013
-    - fongarium: cKc0416
-      date: 17 août 2015
-    - fongarium: cKc0464
-      date: 16 septembre 2015
-  numero-de-planche-micrographique: cKc0464-0128
+
+collections:
+  - fongarium: cKc0386
+    date: 21 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0416
+    date: 17 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0464
+    date: 16 septembre 2015
+    planche:
+      numero: cKc0464-0128
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,7 +104,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -138,7 +161,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -248,7 +270,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche, crème à jaunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

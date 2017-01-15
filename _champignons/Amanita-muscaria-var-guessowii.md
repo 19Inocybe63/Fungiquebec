@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3804/9383558688_c77720140f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9383558688/in/photolist-ficc5C
 album-flickr:
   - 
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Amanite tue-mouches, variété de Güssow
@@ -17,10 +14,18 @@ details:
   genre: Amanita
   espece: muscaria var. guessowii
   litterature: Veselý, R. 1933. Revisio critica Amanitarum euopaearum. Annales Mycologici. 31(4):209-298
-  fongariums:
-    - fongarium: cKc0096
-      date: 27 juillet 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0096
+    date: 27 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°37'45.9"N 70°28'03.0"O
+    altitude: 1.45 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

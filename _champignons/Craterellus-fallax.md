@@ -237,7 +237,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = négatives sur toutes les parties
+    KOH 10% = pas de coloration ou de décoloration sur toutes les parties
   receptacle: 
   remarques: 
   repartition: 

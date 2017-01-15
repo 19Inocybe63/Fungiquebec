@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/678/20665354231_ac839dd947_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665354231/in/photolist-xu8kQT-xtwWYn
 album-flickr:
   - 72157675454825250
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Amanite vireuse
@@ -17,16 +14,48 @@ details:
   genre: Amanita
   espece: virosa
   litterature: 1866. Dictionnaire encyclopédique des sciences médicales. 1(3):491-511
-  fongariums:
-    - fongarium: cKc0121
-      date: 25 août 2013
-    - fongarium: cKc0400
-      date: 13 août 2015
-    - fongarium: cKc0407
-      date: 17 août 2015
-    - fongarium: cKc0542
-      date: 18 août 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0121
+    date: 25 août 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45'28.7"N 71°19'37.0"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0400
+    date: 13 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0407
+    date: 17 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0542
+    date: 18 août 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

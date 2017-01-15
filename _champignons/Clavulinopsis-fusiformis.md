@@ -102,7 +102,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Belle planche ! Mais (avec Yves, rarement pas de "mais..."), les basidiomes sont trop jeunes pour une planche parfaite ; cela prendrait une autre grappe à côté illustrant des basidiomes une fois rendus fusiformes, donc à maturité. À la limite, tu aurais pu cueillir juste une langue et laisser les autres pousser une semaine (ou rarement deux ?) de plus et revenir les photographier et les cueillir pour les joindre à ton premier champignon étudié (le seul que tu aurais cueilli. Et ne pas oublier que lorsque les pointes sont brunes, c'est parce qu'elles sont collapsées, généralement par le soleil et le vent. Cela donne parfois même une touche de beauté à l'espèce, mais il ne faut jamais étudier les cellules brunies pour quoi que ce soit. »
   conidies: 
   conidiome: 
   conidiophores: 

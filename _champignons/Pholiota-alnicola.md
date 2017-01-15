@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5598/15461831105_2fb25e98da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461831105/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
 album-flickr:
   - 72157679034984716
-planches:
-  - miniature: https://c2.staticflickr.com/8/7367/16534533606_985a2663a6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16534533606/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
 
 details:
   nom-francais: Flammule des aulnes
@@ -17,17 +14,38 @@ details:
   genre: Pholiota
   espece: alnicola
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
-  fongariums:
-    - fongarium: cKc0142
-      date: 27 septembre 2013
-    - fongarium: cKc0286
-      date: 3 octobre 2014
-    - fongarium: cKc0298
-      date: 6 octobre 2014
-  numero-de-planche-micrographique: cKc0298-0071
-  geolocalisation: 
-  elevation: 
-  altitude: 
+
+collections:
+  - fongarium: cKc0142
+    date: 27 septembre 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0286
+    date: 3 octobre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0298
+    date: 6 octobre 2014
+    planche:
+      numero: cKc0298-0071
+      miniature: https://c2.staticflickr.com/8/7367/16534533606_985a2663a6_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16534533606/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -84,9 +102,6 @@ description:
   chrysocystides: absentes
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: De Claude Kaufholtz-Couture. « Ces champignons, ceux de la collection cKc0286, sont à un stade avancé. On peut apercevoir des piqures d'insectes sur les chapeaux. L'époque de l'année où il fut cueilli joue aussi sur son aspect avancé, mais encore acceptable pour en faire un spécimen de fongarium. Habituellement, ce champignon est plutôt d'un beau jaune à jaune ferreux (voir la collection cKc0298). »
   conidies: 
@@ -146,7 +161,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: 
   glebe: 

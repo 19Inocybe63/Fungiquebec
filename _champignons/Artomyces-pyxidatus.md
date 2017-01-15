@@ -83,9 +83,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: De C. Kaufholtz-Couture. « La sporée fut mise en tas pour une meilleure concentration de la couleur. À ma grande surprise, la couleur de cette sporée n'est pas blanche comme indiqué partout dans les monographies, mais bien ocrosporée, ocre pâle à ocre moyen. »
   conidies: 
@@ -144,7 +141,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

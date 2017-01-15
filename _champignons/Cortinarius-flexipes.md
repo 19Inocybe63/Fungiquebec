@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5556/15313456612_cc49d74b37_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15313456612/in/photolist-qxLoFM-pkct91
 album-flickr:
   - 
-  - 
-planches:
-  - miniature: https://c1.staticflickr.com/9/8614/16112035051_e875992960_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16112035051/in/photolist-pkct91-qxLoFM/
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Cortinaire à pied tortueux
@@ -20,10 +14,18 @@ details:
   genre: Cortinarius
   espece: flexipes
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-  fongariums:
-    - fongarium: cKc0265
-      date: 20 septembre 2014
-  numero-de-planche-micrographique: cKc0265-0060
+
+collections:
+  - fongarium: cKc0265
+    date: 20 septembre 2014
+    planche:
+      numero: cKc0265-0060
+      miniature: https://c1.staticflickr.com/9/8614/16112035051_e875992960_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16112035051/in/photolist-pkct91-qxLoFM/
+    geolocalisation: 45°58’40.33"N 70°57’40.76"O
+    altitude: 1.36 km
+    determinee: 
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -83,9 +85,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -144,7 +143,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -263,7 +261,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rouille à brun cannelle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

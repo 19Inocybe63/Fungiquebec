@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/8/7072/27942307491_0d2d8e1b9c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27942307491/in/photolist-JLhYc9-JzaCwg
 album-flickr:
   - 
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/8/7782/28068220902_36dc4f123c_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/28068220902/in/dateposted/
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Cortinaire à lames espacées
@@ -20,10 +14,18 @@ details:
   genre: Cortinarius
   espece: distans
   litterature: Peck, C.H. 1873. Report of the Botanist (1869). Annual Report on the New York State Museum of Natural History. 23:27-135
-  fongariums:
-    - fongarium: cKc0504
-      date: 1 juillet 2016
-  numero-de-planche-micrographique: cKc0504-0135
+
+collections:
+  - fongarium: cKc0504
+    date: 1 juillet 2016
+    planche:
+      numero: cKc0504-0135
+      miniature: https://c2.staticflickr.com/8/7782/28068220902_36dc4f123c_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/28068220902/in/dateposted/
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -84,9 +86,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -145,7 +144,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -265,7 +263,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rouille
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

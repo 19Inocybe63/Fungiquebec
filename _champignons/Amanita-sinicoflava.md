@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3859/15083082127_e0523fc7f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15083082127/in/photolist-pntRkJ-oYQJQ8-pgjSSr
 album-flickr:
   - 72157675735274651
-planches:
-  - miniature: https://c2.staticflickr.com/8/7491/15339286084_f072e79895_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15339286084/in/photostream
 
 details:
   nom-francais: Amanite jaune paille
@@ -17,12 +14,28 @@ details:
   genre: Amanita
   espece: sinicoflava
   litterature: Tulloss, R.E. 1988. Amanita sinicoflava; a new species from eastern North America. Mycotaxon. 32:421-431
-  fongariums:
-    - fongarium: sans numéro
-      date: 16 juin 2013
-    - fongarium: cKc0256
-      date: 17 septembre 2014
-  numero-de-planche-micrographique: cKc0256-0055
+
+collections:
+  - fongarium: sans numéro
+    date: 16 juin 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°56'53.7"N 71°16'59.4"O
+    altitude: 1.27 km
+    determinee: 
+    confirmee: Roland Labbé
+  - fongarium: cKc0256
+    date: 17 septembre 2014
+    planche:
+      numero: cKc0256-0055
+      miniature: https://c2.staticflickr.com/8/7491/15339286084_f072e79895_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15339286084/in/photostream
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Rod E. Tulloss
 
 description:
   acanthocytes: 
@@ -79,9 +92,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Rod E. Tulloss
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -140,7 +150,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -256,7 +265,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

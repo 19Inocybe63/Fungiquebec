@@ -22,8 +22,8 @@ collections:
       numero: cKc0017-0027
       miniature: https://c1.staticflickr.com/9/8382/8679583227_2f5e0c516f_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8679583227/in/photolist-edZ8GF-dfkqAq
-    geolocalisation: 46°54'03.96"N 71°10'40.83"O
-    altitude: 476 m
+    geolocalisation: 46°56'39.7"N 71°18'14.0"O
+    altitude: 1.21 km
     determinee: 
     confirmee: Roland Labbé
 

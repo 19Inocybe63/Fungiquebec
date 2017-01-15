@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/374/19870908390_0f8aa788a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19870908390/in/photolist-vBwq3S-wwdsTb-wgVALN-nensEd-fbph4T-f5orUR-f5oWAF
 album-flickr:
   - 72157673203579943
-planches:
-  - miniature: https://c1.staticflickr.com/3/2914/13934793608_c2e411d432_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/13934793608/in/photolist-vBwq3S-wwdsTb-wgVALN-nensEd-fbph4T-f5orUR-f5oWAF/
 
 details:
   nom-francais: Amanite à pied voilé
@@ -17,12 +14,28 @@ details:
   genre: Amanita
   espece: velatipes
   litterature: Atkinson, G.F. 1900. Studies of American fungi. Mushrooms, edible, poisonous, etc. :1-275
-  fongariums:
-    - fongarium: cKc0072
-      date: 8 juillet 2013
-    - fongarium: cKc0383
-      date: 27 juillet 2015
-  numero-de-planche-micrographique: cKc0072-0033
+
+collections:
+  - fongarium: cKc0072
+    date: 8 juillet 2013
+    planche:
+      numero: cKc0072-0033
+      miniature: https://c1.staticflickr.com/3/2914/13934793608_c2e411d432_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/13934793608/in/photolist-vBwq3S-wwdsTb-wgVALN-nensEd-fbph4T-f5orUR-f5oWAF/
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0383
+    date: 27 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -79,9 +92,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -140,7 +150,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -255,7 +264,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

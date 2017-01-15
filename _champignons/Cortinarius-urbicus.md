@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8133/29510867143_38fbd3d847_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29510867143/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc
 album-flickr:
   - 72157678828769065
-planches:
-  - miniature: https://c2.staticflickr.com/6/5495/30616014810_1d98b904a7_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/30616014810/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc/
 
 details:
   nom-francais: Cortinaire citadin
@@ -17,10 +14,18 @@ details:
   genre: Cortinarius
   espece: urbicus
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-  fongariums:
-    - fongarium: cKc0586
-      date: 5 octobre 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0586
+    date: 5 octobre 2016
+    planche:
+      numero: cKc0586-0142
+      miniature: https://c2.staticflickr.com/6/5495/30616014810_1d98b904a7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/30616014810/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc/
+    geolocalisation: 
+    altitude: 
+    determinee: Karl Soop (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -78,9 +83,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Karl Soop
   columelle: 
   commentaires: 
   conidies: 
@@ -140,7 +142,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

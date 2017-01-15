@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3900/14280968558_e1ee06d97a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14280968558/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
 album-flickr:
   - 72157674940658376
-planches:
-  - miniature: https://c2.staticflickr.com/6/5508/14472358361_7ec92a30e2_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/14472358361/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
 
 details:
   nom-francais: Coprin disséminé ou Coprin grégaire
@@ -17,10 +14,18 @@ details:
   genre: Coprinellus
   espece: disseminatus
   litterature: Lange, J.E. 1938. Studies in the Agarics of Denmark. Part XII. Hebeloma, Naucoria, Tubaria, Galera, Bolbitius, Pluteolus, Crepidotus, Pseudopaxillus, Paxillus. Dansk botanisk Arkiv. 9(6), 1-104
-  fongariums:
-    - fongarium: cKc0170
-      date: 20 juin 2014
-  numero-de-planche-micrographique: cKc0170-0037
+
+collections:
+  - fongarium: cKc0170
+    date: 20 juin 2014
+    planche:
+      numero: cKc0170-0037
+      miniature: https://c2.staticflickr.com/6/5508/14472358361_7ec92a30e2_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/14472358361/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
+    geolocalisation: 46°47'01.8"N 71°16'04.1"O
+    altitude: 1.09 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: R. A. Powers (MyCoPortal)
 
 description:
   acanthocytes: 
@@ -74,8 +79,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: R. A. Powers (MyCoPortal)
-  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +137,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -246,7 +248,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: noire
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

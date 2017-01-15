@@ -5,12 +5,6 @@ image: https://c1.staticflickr.com/1/420/20356478421_2ed6c3bb97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20356478421/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA
 album-flickr:
   - 72157674646281881
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/2/1684/25452062963_74b7a5b3be_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/25452062963/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet à tubes détachés
@@ -20,14 +14,38 @@ details:
   genre: Boletus
   espece: separans
   litterature: Peck, C.H. 1873. Descriptions of new species of fungi. Bulletin of the Buffalo Society of Natural Sciences. 1:41-72
-  fongariums:
-    - fongarium: cKc0210
-      date: 18 août 2014
-    - fongarium: cKc0215
-      date: 25 août 2014
-    - fongarium: cKc0395
-      date: 6 août 2015
-  numero-de-planche-micrographique: cKc0395-0119
+  
+collections:
+  - fongarium: cKc0210
+    date: 18 août 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0215
+    date: 25 août 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0395
+    date: 6 août 2015
+    planche:
+      numero: cKc0395-0119
+      miniature: https://c2.staticflickr.com/2/1684/25452062963_74b7a5b3be_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/25452062963/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -83,9 +101,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -144,7 +159,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -260,7 +274,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: jaune brunâtre à ocre brunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

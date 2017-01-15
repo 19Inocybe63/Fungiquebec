@@ -32,10 +32,10 @@ collections:
       numero: cKc0137-0082
       miniature: https://c2.staticflickr.com/8/7626/17047112517_7b379b404d_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/17047112517/in/photolist-rYoUD4-nHeZ4S-nFoSe7
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    geolocalisation: 46°45'28.7"N 71°19'37.0"O
     altitude: 1.08 km
     determinee: 
-    confirmee: Yves Lamoureux
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0156
     date: 29 mai 2014
     planche:

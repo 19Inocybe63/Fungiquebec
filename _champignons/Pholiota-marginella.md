@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/3/2936/14229296896_c8eebbe971_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14229296896/in/photolist-rYoUD4-nHeZ4S-nFoSe7
 album-flickr:
   - 72157677390708211
-planches:
-  - miniature: https://c2.staticflickr.com/8/7626/17047112517_7b379b404d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/17047112517/in/photolist-rYoUD4-nHeZ4S-nFoSe7
 
 details:
   nom-francais: Pholiote marginée
@@ -17,23 +14,68 @@ details:
   genre: Pholiota
   espece: marginella
   litterature: Peck, C.H. 1898. Report of the State Botanist (1897). Annual Report on the New York State Museum of Natural History. 51:265-321
-  fongariums:
-    - fongarium: sans numéro
-      date: 3 juin 2013
-    - fongarium: cKc0137
-      date: 23 mai 2014
-    - fongarium: cKc0156
-      date: 29 mai 2014
-    - fongarium: cKc0157
-      date: 1 juin 2014
-    - fongarium: cKc0158
-      date: 1 juin 2014
-    - fongarium: sans numéro
-      date: 28 mai 2015
-  numero-de-planche-micrographique: cKc0137-0082
-  geolocalisation: 
-  elevation: 
-  altitude: 
+
+collections:
+  - fongarium: sans numéro
+    date: 3 juin 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0137
+    date: 23 mai 2014
+    planche:
+      numero: cKc0137-0082
+      miniature: https://c2.staticflickr.com/8/7626/17047112517_7b379b404d_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/17047112517/in/photolist-rYoUD4-nHeZ4S-nFoSe7
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0156
+    date: 29 mai 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0157
+    date: 1 juin 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0158
+    date: 1 juin 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: sans numéro
+    date: 28 mai 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -90,9 +132,6 @@ description:
   chrysocystides: absentes
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -152,7 +191,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: 
   glebe: 

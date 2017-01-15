@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5803/30152698222_912045cf23_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30152698222/in/photolist-MWupCd-MWusFh-MZ9gSK-M9YoGN
 album-flickr:
   - 72157672684509594
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Agaric des jachères
@@ -20,10 +14,18 @@ details:
   genre: Agaricus
   espece: arvensis
   litterature: Schaeffer, J. C. 1774. Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones. 4:1-136
-  fongariums:
-    - fongarium: cKc0597
-      date: 11 octobre 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0597
+    date: 11 octobre 2016
+    planche:
+      numero: cKc0597-0154
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'56.1"N 71°14'33.3"O
+    altitude: 
+    determinee: 
+    confirmee: 
 
 description:
   acanthocytes: 

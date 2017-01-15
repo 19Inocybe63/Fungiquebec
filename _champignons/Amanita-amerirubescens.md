@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/8/7340/9529571835_f6574d6e2d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9529571835/in/photolist-naiDb4-fwkQjJ-fw6xGF
 album-flickr:
   - 72157676378104895
-  - 
-planches:
-  - miniature: https://c1.staticflickr.com/3/2936/13888782547_145c007be9_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/13888782547/in/photostream
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Amanite rougissante
@@ -20,10 +14,18 @@ details:
   genre: Amanita
   espece: amerirubescens
   litterature: Tulloss
-  fongariums:
-    - fongarium: cKc0112
-      date: 17 août 2013
-  numero-de-planche-micrographique: cKc0112-0031
+
+collections:
+  - fongarium: cKc0112
+    date: 17 août 2013
+    planche:
+      numero: cKc0112-0031
+      miniature: https://c1.staticflickr.com/3/2936/13888782547_145c007be9_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/13888782547/in/photostream
+    geolocalisation: 46°45'28.7"N 71°19'37.0"O
+    altitude: 1.08 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -80,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -141,7 +140,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -259,7 +257,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

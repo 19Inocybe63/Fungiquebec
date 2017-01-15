@@ -5,12 +5,6 @@ image: https://c1.staticflickr.com/3/2922/14221760856_2a6067ffc5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14221760856/in/photolist-sXpQiS-s1P2ep-nGNyqX-nEJf2o
 album-flickr:
   - 72157672468519353
-  - 
-planches:
-  - miniature: https://c1.staticflickr.com/3/2902/14245236215_f0bc68e2b4_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/14245236215/in/photolist-sXpQiS-s1P2ep-nGNyqX-nEJf2o
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Coprin micacé à pied lisse
@@ -20,12 +14,28 @@ details:
   genre: Coprinellus
   espece: truncorum
   litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-  fongariums:
-    - fongarium: cKc0154
-      date: 21 mai 2014
-    - fongarium: cKc0302
-      date: 15 mai 2015
-  numero-de-planche-micrographique: cKc0154-0036
+
+collections:
+  - fongarium: cKc0154
+    date: 21 mai 2014
+    planche:
+      numero: cKc0154-0036
+      miniature: https://c1.staticflickr.com/3/2902/14245236215_f0bc68e2b4_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/14245236215/in/photolist-sXpQiS-s1P2ep-nGNyqX-nEJf2o
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0302
+    date: 15 mai 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,9 +90,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -141,7 +148,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -250,7 +256,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: noire
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

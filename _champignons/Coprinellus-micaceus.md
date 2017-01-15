@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3902/14496677944_a47634fdd8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14311334720/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
 album-flickr:
   - 72157675676637055
-planches:
-  - miniature: https://c2.staticflickr.com/4/3838/14325215908_5abefd5379_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/14325215908/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
 
 details:
   nom-francais: Coprin micacé
@@ -17,10 +14,18 @@ details:
   genre: Coprinellus
   espece: micaceus
   litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-  fongariums:
-    - fongarium: cKc0172
-      date: 24 juin 2014
-  numero-de-planche-micrographique: cKc0172-0038
+
+collections:
+  - fongarium: cKc0172
+    date: 24 juin 2014
+    planche:
+      numero: cKc0172-0038
+      miniature: https://c2.staticflickr.com/4/3902/14496677944_a47634fdd8_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/14325215908/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
+    geolocalisation: 46°45'28.7"N 71°19'37.0"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,7 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +138,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -249,7 +252,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun foncé à noire
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

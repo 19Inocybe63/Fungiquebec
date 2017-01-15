@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3876/14783725081_686bf42dfe_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14783725081/in/photolist-ofb36w-ofb1ZJ-owCLCw-owospK
 album-flickr:
   - 72157676876968056
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Tramète unicolore
@@ -17,10 +14,18 @@ details:
   genre: Cerrena
   espece: unicolor
   litterature: Murrill, W.A. 1903. A historical review of the genera of the Polyporaceae. Journal of Mycology. 9(2):87-102
-  fongariums:
-    - fongarium: cKc0189
-      date: 30 juillet 2014
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0189
+    date: 30 juillet 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45'28.7"N 71°19'37.0"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -72,10 +77,7 @@ description:
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
-  clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
+  clavules:  
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: ivoire à chamois pâle au début, plus foncée, grisâtre avec l'âge
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -245,7 +246,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: crème à blanchâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5559/15290852396_0d53a784d8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15290852396/in/photolist-QHjS1s-picBG9-p3JGhy
 album-flickr:
   - 72157674959267104
-planches:
-  - miniature: https://c1.staticflickr.com/1/765/31972781442_f4d6b51e59_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/31972781442/in/photolist-QHjS1s-picBG9-p3JGhy/
 
 details:
   nom-francais: Cortinaire en forme de dolabre
@@ -17,10 +14,18 @@ details:
   genre: Cortinarius
   espece: dolabratus
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-  fongariums:
-    - fongarium: cKc0252
-      date: 20 septembre 2014
-  numero-de-planche-micrographique: cKc0252-0152
+
+collections:
+  - fongarium: cKc0252
+    date: 20 septembre 2014
+    planche:
+      numero: cKc0252-0152
+      miniature: https://c1.staticflickr.com/1/765/31972781442_f4d6b51e59_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31972781442/in/photolist-QHjS1s-picBG9-p3JGhy/
+    geolocalisation: 45°57'27.0"N 70°56'00.8"O
+    altitude: 828 m
+    determinee: Karl Soop (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -78,9 +83,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Karl Soop
   columelle: 
   commentaires: 
   conidies: 
@@ -140,7 +142,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

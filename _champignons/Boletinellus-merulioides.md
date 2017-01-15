@@ -5,11 +5,6 @@ image: https://c1.staticflickr.com/1/681/20710760485_9274b8e443_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20710760485/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
 album-flickr:
   - 72157673927535311
-planches:
-  - miniature: https://c1.staticflickr.com/9/8091/8520997071_7a95de4f6f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8520997071/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
-  - miniature: https://c2.staticflickr.com/2/1686/24988306952_f50ecc63f3_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/24988306952/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
 
 details:
   nom-francais: Bolet veiné
@@ -18,13 +13,29 @@ details:
   famille: Boletinellaceae
   genre: Boletinellus
   espece: merulioides
-  litterature: Murrill, W.A. 1909. The Boletaceae of North America - 1. Mycologia. 1(1):4-18
-  fongariums:
-    - fongarium: cKc0004
-      date: 10 juillet 2012
-    - fongarium: cKc0420
-      date: 19 août 2015
-  numero-de-planche-micrographique: cKc0004-0018 ; cKc0420-0114
+  litterature: Murrill, W.A. 1909. The Boletaceae of North America, 1. Mycologia. 1(1):4-18
+
+collections:
+  - fongarium: cKc0004
+    date: 10 juillet 2012
+    planche:
+      numero: cKc0004-0018
+      miniature: https://c1.staticflickr.com/9/8091/8520997071_7a95de4f6f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8520997071/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0420
+    date: 19 août 2015
+    planche:
+      numero: cKc0420-0114
+      miniature: https://c2.staticflickr.com/2/1686/24988306952_f50ecc63f3_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/24988306952/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
+    geolocalisation: 46°47'34.1"N 71°14'43.3"O
+    altitude: 1.07 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,7 +91,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -138,7 +148,6 @@ description:
   face-externe: 
   face-poroïde: jaune à jaune olivacé, immuable ou devenant lentement bleu-vert au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -254,7 +263,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun olivacé
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

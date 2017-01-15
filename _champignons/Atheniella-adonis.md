@@ -5,12 +5,6 @@ image: https://c1.staticflickr.com/3/2950/15438576082_0bcaf7f0bb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15438576082/in/photolist-q6dPYf-peNjeP-pwfJNf
 album-flickr:
   - 72157672380570044
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/8/7511/15811647626_cc8cc39170_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15811647626/in/photolist-q6dPYf-peNjeP-pwfJNf
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Mycene adonis ou Mycene jolie
@@ -20,10 +14,18 @@ details:
   genre: Atheniella
   espece: adonis
   litterature: Index Fungorum, 14, 1, 2012
-  fongariums:
-    - fongarium: cKc0289
-      date: 4 octobre 2014
-  numero-de-planche-micrographique: cKc0289-0048
+  
+collections:
+  - fongarium: cKc0289
+    date: 4 octobre 2014
+    planche:
+      numero: cKc0289-0048
+      miniature: https://c2.staticflickr.com/8/7511/15811647626_cc8cc39170_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15811647626/in/photolist-q6dPYf-peNjeP-pwfJNf
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Debbie Viess
 
 description:
   acanthocytes: 
@@ -78,9 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Debbie Viess
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -139,7 +138,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -248,7 +246,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

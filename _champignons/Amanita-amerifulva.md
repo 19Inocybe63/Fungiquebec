@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3842/14598644206_0d2a0c205a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14598644206/in/photolist-of2Sjb-ogTp9m/
 album-flickr:
   - 72157673576461843
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Amanite fauve d'Amérique
@@ -17,14 +14,38 @@ details:
   genre: Amanita
   espece: amerifulva nom. prov.
   litterature: Persoon, C.H. 1818. Traité sur les Champignons Comestibles. :1-276
-  fongariums:
-    - fongarium: sans numéro
-      date: 14 juillet 2012
-    - fongarium: sans numéro
-      date: 4 août 2013
-    - fongarium: cKc0183
-      date: 10 juillet 2014
-  numero-de-planche-micrographique: 
+  
+collections:
+  - fongarium: sans numéro
+    date: 14 juillet 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: 
+  - fongarium: sans numéro
+    date: 4 août 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: 
+  - fongarium: cKc0183
+    date: 10 juillet 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: 
 
 description:
   acanthocytes: 

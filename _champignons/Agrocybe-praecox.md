@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3821/8780672969_b12aa3654b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8780672969/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY
 album-flickr:
   - 72157672106373984
-planches:
-  - miniature: https://c2.staticflickr.com/8/7284/16873429661_a18b1021d7_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16873429661/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY
 
 details:
   nom-francais: Agrocybe précoce
@@ -17,10 +14,48 @@ details:
   genre: Agrocybe
   espece: praecox
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
-  fongariums:
-    - fongarium: cKc0062
-      date: 22 mai 2013
-  numero-de-planche-micrographique: cKc0062-0076
+
+collections:
+  - fongarium: cKc0062
+    date: 22 mai 2013
+    planche:
+      numero: cKc0062-0076
+      miniature: https://c2.staticflickr.com/8/7284/16873429661_a18b1021d7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16873429661/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0306
+    date: 31 mai 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0307
+    date: 4 juin 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0308
+    date: 4 juin 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,8 +110,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -135,7 +168,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -251,7 +283,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rouille à brun tabac
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

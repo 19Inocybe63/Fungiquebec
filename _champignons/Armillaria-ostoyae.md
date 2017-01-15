@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5598/15505206645_8151e39b28_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15505206645/in/photolist-pLEhxV-pBRYht-pkCiBH-pC9eK4-pkDsTA
 album-flickr:
   - 72157672412541764
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/8/7468/15601601419_36a198295a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15601601419/in/photolist-pLEhxV-pBRYht-pkCiBH-pC9eK4-pkDsTA
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Armillaire obscure ou Armillaire d'Ostoya
@@ -20,10 +14,18 @@ details:
   genre: Armillaria
   espece: ostoyae
   litterature: Hásek 1973, Sympozium o Václavce Obecné Armillaria mellea (Vahl ex Fr.) Kumm.:42
-  fongariums:
-    - fongarium: cKc0300
-      date: 11 octobre 2014
-  numero-de-planche-micrographique: cKc0300-0046
+
+collections:
+  - fongarium: cKc0300
+    date: 11 octobre 2014
+    planche:
+      numero: cKc0300-0046
+      miniature: https://c2.staticflickr.com/8/7468/15601601419_36a198295a_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15601601419/in/photolist-pLEhxV-pBRYht-pkCiBH-pC9eK4-pkDsTA
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -78,9 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -139,7 +138,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

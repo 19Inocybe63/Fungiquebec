@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3897/14842437391_8660812a9e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14842437391/in/photolist-oBznwX
 album-flickr:
   - 
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Polypore de Montagne
@@ -17,10 +14,18 @@ details:
   genre: Coltricia
   espece: montagnei
   litterature: Murrill, W.A. 1920. Corrections and additions to the polypores of temperate North America. Mycologia. 12(1):6-24
-  fongariums:
-    - fongarium: cKc0197
-      date: 6 août 2014
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0197
+    date: 6 août 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: cannelle, ochracée à brun rouille
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -245,7 +246,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun pâle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/3/2825/9331711293_e30710d682_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9331711293/in/photolist-fdBtyn-fdBsE2
 album-flickr:
   - 72157674099755753
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Amanite zonée
@@ -17,10 +14,18 @@ details:
   genre: Amanita
   espece: fuscozonata
   litterature: 
-  fongariums:
-    - fongarium: cKc0085
-      date: 20 juillet 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0085
+    date: 20 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

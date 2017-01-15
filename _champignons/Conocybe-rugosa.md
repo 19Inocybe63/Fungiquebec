@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8662/29878980946_7e40363052_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29878980946
 album-flickr:
   - 72157675151844994
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Conocybe rugueux
@@ -17,17 +14,38 @@ details:
   genre: Pholiotina
   espece: rugosa
   litterature: Watling, R.; Gregory, N.M. 1981. Census catalogue of world members of the Bolbitiaceae. Bibliotheca Mycologica. 82:1-224
-  fongariums:
-    - fongarium: cKc0036
-      date: 28 septembre 2012
-    - fongarium: cKc0333
-      date: 10 juillet 2015
-    - fongarium: cKc0568
-      date: 24 septembre 2016
-  numero-de-planche-micrographique: 
-  geolocalisation: 
-  elevation: 
-  altitude: 
+
+collections:
+  - fongarium: cKc0036
+    date: 28 septembre 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Roland Labbé
+  - fongarium: cKc0333
+    date: 10 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0568
+    date: 24 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -81,9 +99,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -143,7 +158,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

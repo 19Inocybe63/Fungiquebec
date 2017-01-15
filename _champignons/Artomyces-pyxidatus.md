@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
   - 
-planches:
-  - miniature: https://c1.staticflickr.com/1/489/30879637394_68dab00a8b_b.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/30879637394/in/photostream/
 
 details:
   nom-francais: Clavaire couronnée
@@ -17,10 +14,18 @@ details:
   genre: Artomyces
   espece: pyxidatus
   litterature: Jülich, W. 1981. Higher taxa of Basidiomycetes. Bibliotheca Mycologica. 85:1-485
-  fongariums:
-    - fongarium: cKc0053
-      date: 26 juin 2013
-  numero-de-planche-micrographique: cKc0053-0149
+
+collections:
+  - fongarium: cKc0053
+    date: 26 juin 2013
+    planche:
+      numero: cKc0053-0149
+      miniature: https://c1.staticflickr.com/1/489/30879637394_68dab00a8b_b.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/30879637394/in/photostream/
+    geolocalisation: 46°45'28.7"N 71°19'37.0"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

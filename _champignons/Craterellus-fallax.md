@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5689/20978286609_8c2f1879e9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20978286609/in/photolist-xXMcJH
 album-flickr:
   - 
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Craterelle trompeuse
@@ -16,11 +13,19 @@ details:
   famille: Cantharellaceae
   genre: Craterellus
   espece: fallax
-  litterature: Smith, A.H. 1968. The Cantharellaceae of Michigan. The Michigan Botanist. 7:143-183
-  fongariums:
-    - fongarium: cKc0448
-      date: 5 septembre 2015
-  numero-de-planche-micrographique: 
+  litterature: Smith, A.H. 1968. The Cantharellaceae of Michigan. The Michigan Botanist. 7:143-183 
+
+collections:
+  - fongarium: cKc0448
+    date: 5 septembre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -135,7 +137,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/729/21681354819_68688b6f57_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21681354819/in/photolist-z2UBqp-zkgMqH-zh7uJN
 album-flickr:
   - 72157674314547241
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Tramète rougissante
@@ -17,10 +14,18 @@ details:
   genre: Daedaleopsis
   espece: confragosa
   litterature: Schröter, J. 1888. Kryptogamen-Flora von Schlesien. 3-1(4):385-512
-  fongariums:
-    - fongarium: cKc0482
-      date: 1 octobre 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0482
+    date: 1 octobre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -71,7 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -130,7 +134,6 @@ description:
   face-externe: 
   face-poroïde: chamois pâle au début, devenant rose à rouge au froissement, brun plus foncé avec l'âge
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -241,7 +244,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche, crème à jaune pâle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

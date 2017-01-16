@@ -5,12 +5,6 @@ image: https://c1.staticflickr.com/9/8501/8373342022_f22fe5dbc4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8373342022/in/photolist-fB12Xs-fAKLcD-dQsHnj-dKQ5MD-dKVyRU
 album-flickr:
   - 72157674649662902
-  - 
-planches:
-  - miniature: https://c1.staticflickr.com/9/8328/8424685096_33cb9315f1_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8424685096/in/photolist-fB12Xs-fAKLcD-dQsHnj-dKQ5MD-dKVyRU
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Gymnopile jaune
@@ -20,10 +14,28 @@ details:
   genre: Gymnopilus
   espece: luteus
   litterature: Hesler, L.R. 1969. North American species of Gymnopilus. Mycologia Memoirs. 3:1-117
-  fongariums:
-    - fongarium: cKc0023
-      date: 9 septembre 2012
-  numero-de-planche-micrographique: cKc0023-0013
+
+collections:
+  - fongarium: cKc0023
+    date: 9 septembre 2012
+    planche:
+      numero: cKc0023-0013
+      miniature: https://c1.staticflickr.com/9/8328/8424685096_33cb9315f1_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8424685096/in/photolist-fB12Xs-fAKLcD-dQsHnj-dKQ5MD-dKVyRU
+    geolocalisation: 46°46'21.6"N 71°10'29.3"O
+    altitude: 1.07 km
+    determinee: 
+    confirmee: Roland Labbé
+  - fongarium: cKc0118
+    date: 24 août 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -78,9 +90,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -114,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -139,9 +148,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -250,7 +257,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun orangé à brun rouille
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

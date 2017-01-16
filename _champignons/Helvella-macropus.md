@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/4/3930/15340706368_d0b67296f3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15340706368/in/photolist-pnAFAq-pnB8xo-pnC8tT
 album-flickr:
   - 72157674658595462
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Helvelle à long pied
@@ -20,10 +14,18 @@ details:
   genre: Helvella
   espece: macropus
   litterature: Karsten, P.A. 1871. Mycologia fennica. Pars prima. Discomycetes. Bidrag till Kännedom av Finlands Natur och Folk. 19:1-264
-  fongariums:
-    - fongarium: cKc0291
-      date: 13 octobre 2014
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0291
+    date: 13 octobre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -74,9 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -110,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +134,7 @@ description:
   face-externe: glabre, granuleuse-veloutée, surtout vers la marge, plus pâle que l'hyménophore, brun grisâtre pâle à moyen
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -252,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

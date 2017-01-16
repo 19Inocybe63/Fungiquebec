@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5809/29291388773_577f7734f6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29291388773/in/photolist-LCo2on-MzKYGP
 album-flickr:
   - 72157675902731870
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet chatain
@@ -17,10 +14,18 @@ details:
   genre: Gyroporus
   espece: castaneus
   litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
-  fongariums:
-    - fongarium: cKc564
-      date: 24 septembre 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc564
+    date: 24 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: blanche à crème blanchâtre au début, jaunissant à maturité, immuable au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -247,7 +247,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: jaune pâle à chamois
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

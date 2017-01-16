@@ -93,7 +93,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De David Boertmann. « ... Here in Europe collections which previously was identified as H. nigrescens, will be named H. pseudoconica. However, your photos shows a fruitbody markedly deviating from European H. pseudoconica (nigrescens). And it resembles much more some tropical forms, such H. atrosquamosa or H. astatogala... »
+  commentaires: De David Boertmann. « ... Here in Europe collections which previously was identified as H. nigrescens, will be named H. pseudoconica. However, your photos shows a fruitbody markedly deviating from European H. pseudoconica (nigrescens). And it resembles much more some tropical forms, such H. atrosquamosa or H. astatogala... » Ce commentaire est relié à la collection cKc0356.
   conidies: 
   conidiome: 
   conidiophores: 

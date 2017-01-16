@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5569/14774140147_24ec6dfe42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14774140147/in/photolist-q1NzQF-oKZuMC-ovxk9g
 album-flickr:
   - 72157674940068240
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/8/7583/15761651419_03508decf5_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15761651419/in/photolist-q1NzQF-oKZuMC-ovxk9g
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Entolome saumon
@@ -20,10 +14,18 @@ details:
   genre: Entoloma
   espece: quadratum
   litterature: Horak, E. 1976. On cuboid-spored species of Entoloma (Agaricales). Sydowia. 28(1-6):171-237
-  fongariums:
-    - fongarium: cKc0206
-      date: 18 août 2014
-  numero-de-planche-micrographique: cKc0206-0054
+
+collections:
+  - fongarium: cKc0206
+    date: 18 août 2014
+    planche:
+      numero: cKc0206-0054
+      miniature: https://c2.staticflickr.com/8/7583/15761651419_03508decf5_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15761651419/in/photolist-q1NzQF-oKZuMC-ovxk9g
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -78,9 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -139,7 +138,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -248,7 +246,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: rose brunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

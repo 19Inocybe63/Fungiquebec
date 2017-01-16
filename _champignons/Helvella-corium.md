@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/723/20522852470_aca2a0fe2c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20522852470/in/album-72157675892972545/
 album-flickr:
   - 72157675892972545
-planches:
-  - miniature: https://c2.staticflickr.com/8/7288/27309797164_6f96ed1b45_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/27309797164/in/album-72157675892972545/
 
 details:
   nom-francais: Helvelle coriace
@@ -17,12 +14,28 @@ details:
   genre: Helvella
   espece: corium
   litterature: Massee, G.E. 1895. British Fungus-Flora. 4:1-522
-  fongariums:
-    - fongarium: cKc0406
-      date: 14 août 2015
-    - fongarium: cKc0419
-      date: 19 août 2015
-  numero-de-planche-micrographique: cKc0406-0132
+
+collections:
+  - fongarium: cKc0406
+    date: 14 août 2015
+    planche:
+      numero: cKc0406-0132
+      miniature: https://c2.staticflickr.com/8/7288/27309797164_6f96ed1b45_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/27309797164/in/album-72157675892972545/
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0419
+    date: 19 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -81,7 +94,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -115,7 +127,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +152,7 @@ description:
   face-externe: duveteuse à écailleuse, brun noirâtre à noire
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -255,7 +265,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

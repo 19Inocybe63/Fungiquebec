@@ -5,12 +5,6 @@ image: https://c1.staticflickr.com/1/490/20065281211_140025cb40_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20065281211/in/photolist-KnAmT8-LjcCoe-wxW9Bh-wz6P3k
 album-flickr:
   - 72157672484253594
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Entolome à pied bleuté
@@ -20,14 +14,38 @@ details:
   genre: Entoloma
   espece: asprellum
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
-  fongariums:
-    - fongarium: cKc04379
-      date: 26 juillet 2015
-    - fongarium: cKc0380
-      date: 27 juillet 2015
-    - fongarium: cKc0543
-      date: 18 août 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0379
+    date: 26 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0380
+    date: 27 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0543
+    date: 18 août 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -78,9 +96,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -139,7 +154,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -248,7 +262,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: rose brunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

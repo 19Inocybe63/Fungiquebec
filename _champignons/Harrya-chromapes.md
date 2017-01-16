@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5671/20335858794_361bbf8904_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20335858794/in/photolist-wZ1Ak5
 album-flickr:
   - 
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet à pied jaune vif
@@ -20,10 +14,18 @@ details:
   genre: Harrya
   espece: chromapes
   litterature: Halling, R.E.; Nuhn, M.; Osmundson, T.; Fechner, N.; Trappe, J.m.; Soytong, K.; Arora, D.; Hibbett, D.; Binder, M. 2012. Affinities of the Boletus chromapes group to Royoungia and the description of two new genera, Harrya and Australopilus. Australian Systematic Botany. 25(6):418-431
-  fongariums:
-    - fongarium: cKc0440
-      date: 28 août 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0440
+    date: 28 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -74,9 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -110,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +134,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -255,7 +252,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rosâtre à brun cannelle ou brun violacé
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

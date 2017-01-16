@@ -81,7 +81,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Il est le seul petit entolome à avoir cet aspect étrange, subhygrophane, fribrilleux-argenté sous la loupe, allure typique ici, mais difficile parfois sous la pluie. Dans ma galerie, E. speciosissimum (de mémoire, pas sûr du nom) et E. pseudocelatum sont parfois nommés E. conicum, par des lumpers (lumpers = ceux qui regroupent les espèces semblables sous un même taxon ; il y a aussi les splitters = ceux qui séparent les espèces d'après des caractères variables, selon le climat, p. ex.). E. conicum en est un facile dans le dédale des petits entolomes. Il a de belles petites spores à 5 côtés, fascinant ! »
   conidies: 
   conidiome: 
   conidiophores: 

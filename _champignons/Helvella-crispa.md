@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/613/20718058281_8d69dbff88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20718058281/in/photolist-xgFeBn-xyMsVp
 album-flickr:
   - 72157673462347923
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Helvelle crépue
@@ -17,10 +14,18 @@ details:
   genre: Helvella
   espece: crispa
   litterature: Bulliard, J. B. F. 1790. Herbier de la France. 10:433-480
-  fongariums:
-    - fongarium: cKc0423
-      date: 19 août 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0423
+    date: 19 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: lisse à légèrement plissée, ± pubescente, crème pâle à chamois
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -247,7 +247,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: crème
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5312/29609987530_ac7ec97005_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29609987530/in/photolist-M7wVGo
 album-flickr:
   - 72157675763230615
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Clitocybe roux
@@ -17,10 +14,18 @@ details:
   genre: Hygrophoropsis
   espece: rufa
   litterature: Knudsen H.; Vesterhold, J. 2008. Funga Nordica. :1-965
-  fongariums:
-    - fongarium: cKc0561
-      date: 24 septembre 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0561
+    date: 24 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -72,7 +77,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -106,7 +110,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -131,9 +135,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -241,7 +243,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

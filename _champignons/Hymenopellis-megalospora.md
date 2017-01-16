@@ -24,8 +24,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/8366320055/in/photolist-dKiztv-dJeNnK-dJeUGZ
     geolocalisation: 
     altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Roland Labbé
 
 description:
   acanthocytes: 
@@ -83,7 +83,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De cKc. « L'espèce H. megalospora diffère de H. limonispora par la présence de piléocystides. »
+  commentaires: De Claude Kaufholtz-Couture. « L'espèce H. megalospora diffère de H. limonispora par la présence de piléocystides. »
   conidies: 
   conidiome: 
   conidiophores: 

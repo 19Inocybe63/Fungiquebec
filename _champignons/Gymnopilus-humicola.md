@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9060850940/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
 album-flickr:
   - 72157673456836530
-planches:
-  - miniature: https://c1.staticflickr.com/9/8745/16871277948_067ee28bb3_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16871277948/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
 
 details:
   nom-francais: Gymnopilus humicole
@@ -17,12 +14,28 @@ details:
   genre: Gymnopilus
   espece: humicola
   litterature: Singer, R. 1961. Diagnoses fungorum novorum Agaricalium II. Sydowia. 15(1-6):45-83
-  fongariums:
-    - fongarium: cKc0048
-      date: 16 juin 2013
-    - fongarium: cKc0312
-      date: 12 juin 2015
-  numero-de-planche-micrographique: cKc0048-0079
+
+collections:
+  - fongarium: cKc0048
+    date: 16 juin 2013
+    planche:
+      numero: cKc0048-0079
+      miniature: https://c1.staticflickr.com/9/8745/16871277948_067ee28bb3_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16871277948/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Rocky Houghtby
+  - fongarium: cKc0312
+    date: 12 juin 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Rocky Houghtby
 
 description:
   acanthocytes: 
@@ -76,7 +89,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Rocky Houghtby (Mushroom Observer)
   columelle: 
   commentaires: Collections observées dans une station au Québec
   conidies: 
@@ -110,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -133,7 +145,6 @@ description:
   face-poroide: 
   feutrage-basal: 
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

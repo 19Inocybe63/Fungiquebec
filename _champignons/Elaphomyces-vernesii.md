@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
 album-flickr:
   - 72157673772975951
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: 
@@ -17,16 +14,48 @@ details:
   genre: Elaphomyces
   espece: vernesii sp. nov.
   litterature: nouvelle espèce
-  fongariums:
-    - fongarium: cKc0429
-      date: 22 août 2015
-    - fongarium: cKc0442
-      date: 22 août 2015
-    - fongarium: cKc0462
-      date: 12 septembre 2015
-    - fongarium: cKc0517
-      date: 14 juillet 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0429
+    date: 22 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Michael Castellano
+  - fongarium: cKc0442
+    date: 22 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Michael Castellano
+  - fongarium: cKc0462
+    date: 12 septembre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Michael Castellano
+  - fongarium: cKc0517
+    date: 14 juillet 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Michael Castellano
 
 description:
   acanthocytes: 
@@ -77,7 +106,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Michael Castellano
   columelle: 
   commentaires: |
     De Michael Castellano. All E. vernesii sp. nov. known only from Canada.
@@ -138,7 +166,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: pulvérulente et noire teintée d'olivacé à noire à maturité
   gleocystides: 
@@ -248,7 +275,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

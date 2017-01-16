@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7303/8787825572_72e4f87309_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8787825572/in/photolist-enYcQc-euNGm8-eoxUo1
 album-flickr:
   - 72157673778467321
-planches:
-  - miniature: https://c2.staticflickr.com/4/3685/8858610751_b051e6e37f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8858610751/in/photolist-enYcQc-euNGm8-eoxUo1
 
 details:
   nom-francais: Collybie à pied velouté
@@ -17,10 +14,18 @@ details:
   genre: Flammulina
   espece: velutipes
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
-  fongariums:
-    - fongarium: cKc0002
-      date: 22 mai 2013
-  numero-de-planche-micrographique: cKc0002-0028
+
+collections:
+  - fongarium: cKc0002
+    date: 22 mai 2013
+    planche:
+      numero: cKc0002-0028
+      miniature: https://c2.staticflickr.com/4/3685/8858610751_b051e6e37f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8858610751/in/photolist-enYcQc-euNGm8-eoxUo1
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,7 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +138,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -245,7 +248,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanchâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -90,7 +90,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: Collections observées dans une station au Québec
+  commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 

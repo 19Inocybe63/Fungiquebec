@@ -22,8 +22,8 @@ collections:
       numero: cKc-ÉTUDE0005
       miniature: https://c1.staticflickr.com/9/8216/8274763429_74d0d295f7_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8274763429/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
-    geolocalisation: 
-    altitude: 
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
     determinee: Machiel Noordeloos (provisoire)
     confirmee: 
 
@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans la sphaigne, non loin d'un chêne à gros fruits, dans les chênaies-hêtraies.
+  biotopes: pousse dans la sphaigne, non loin d'un chêne à gros fruits, dans les chênaies-hêtraies
   boucles: observées à la base des basides et sur les hyphes du stipitipellis
   brachybasidioles: 
   calicule: 

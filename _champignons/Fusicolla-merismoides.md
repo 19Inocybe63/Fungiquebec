@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8535/8870357399_d0722d4a0f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8870357399/in/photolist-eQTXzm-evQUdx-evUfJY
 album-flickr:
   - 72157672191005783
-planches:
-  - miniature: https://c2.staticflickr.com/6/5458/9085967458_0a71f89d94_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/9085967458/in/photolist-eQTXzm-evQUdx-evUfJY
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Fusicolla
   espece: merismoides
   litterature: Gräfenhan, T.; Schroers, H.-J.; Nirenberg, H.I.; Seifert, K.A. 2011. An overview of the taxonomy, phylogeny and typification of some nectriaceous fungi classifed in Cosmospora, Acremonium, Fusarium, Stilbella and Volutella. Studies in Mycology. 68:79-113
-  fongariums:
-    - fongarium: sans numéro
-      date: 28 mai 2013
-  numero-de-planche-micrographique: cKcÉTUDE0029
+
+collections:
+  - fongarium: sans numéro
+    date: 28 mai 2013
+    planche:
+      numero: cKcÉTUDE0029
+      miniature: https://c2.staticflickr.com/6/5458/9085967458_0a71f89d94_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/9085967458/in/photolist-eQTXzm-evQUdx-evUfJY
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -71,7 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: |
@@ -133,7 +137,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -244,7 +247,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -81,7 +81,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Auparavant, quand cette espèce venait sous conifères, on la nommait zonatum et sous feuillius, scrobiculatum. Là, j'ai vu que IF les mettent synonymes, mais jusqu'à quand ? Les Hydnaceae semblent stricts quant à leurs partenaires symbiotiques. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5467/9331277074_be19b687dd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9331277074/in/photolist-suxWc1-fdzezu-fdzh7E-fdjVZX/
 album-flickr:
   - 72157675476872411
-planches:
-  - miniature: https://c2.staticflickr.com/8/7729/17388368622_ed9d956b7a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/17388368622/in/photolist-suxWc1-fdzh7E-fdjVZX-fdzezu
 
 details:
   nom-francais: Hygrophore jaune soufre
@@ -17,10 +14,18 @@ details:
   genre: Hygrocybe
   espece: chlorophana
   litterature: Wünsche, O. 1877. Die Pilze. Eine Anleitung zur Kenntniss derselben. :1-324
-  fongariums:
-    - fongarium: cKc0078
-      date: 20 juillet 2013
-  numero-de-planche-micrographique: cKc0078-0084
+
+collections:
+  - fongarium: cKc0078
+    date: 20 juillet 2013
+    planche:
+      numero: cKc0078-0084
+      miniature: https://c2.staticflickr.com/8/7729/17388368622_ed9d956b7a_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/17388368622/in/photolist-suxWc1-fdzh7E-fdjVZX-fdzezu
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -254,7 +254,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: constitué de terminaisons hyphales légèrement émergentes, cylindriques

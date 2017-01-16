@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3918/14248225929_dbab7946e2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14248225929/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
 album-flickr:
   - 72157671577563914
-planches:
-  - miniature: https://c1.staticflickr.com/9/8640/16508644648_9e1a9b4e1b_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16508644648/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
 
 details:
   nom-francais: Psilocybe des montagnes
@@ -17,12 +14,28 @@ details:
   genre: Deconica
   espece: montana
   litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
-  fongariums:
-    - fongarium: cKc0164
-      date: 11 juin 2014
-    - fongarium: cKc0169
-      date: 15 juin 2014
-  numero-de-planche-micrographique: cKc0164-0072
+
+collections:
+  - fongarium: cKc0164
+    date: 11 juin 2014
+    planche:
+      numero: cKc0164-0072
+      miniature: https://c1.staticflickr.com/9/8640/16508644648_9e1a9b4e1b_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16508644648/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: 
+  - fongarium: cKc0169
+    date: 15 juin 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 45°58’40.33"N 70°57’40.76"O
+    altitude: 1.36 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,7 +90,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -136,7 +148,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -249,7 +260,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun violacé foncé
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

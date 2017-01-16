@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/3/2933/14435276209_1066824e4c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14435276209/in/photolist-nZAyGz-of43KE-nS6rBm-o9hkft/
 album-flickr:
   - 72157672789138363
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Collybie du chêne
@@ -17,10 +14,18 @@ details:
   genre: Gymnopus
   espece: dryophilus
   litterature: Murrill, W.A. 1916. Agaricaceae Tribe Agariceae. North American Flora. 9(5):297-374
-  fongariums:
-    - fongarium: cKc0184
-      date: 10 juillet 2014
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0184
+    date: 10 juillet 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -246,7 +246,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanc à crème ou blanc jaunâtre pâle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

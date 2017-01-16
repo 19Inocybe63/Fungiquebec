@@ -22,8 +22,8 @@ collections:
       numero: cKc0164-0072
       miniature: https://c1.staticflickr.com/9/8640/16508644648_9e1a9b4e1b_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16508644648/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 45°58’40.33"N 70°57’40.76"O
+    altitude: 1.36 km
     determinee: 
     confirmee: 
   - fongarium: cKc0169
@@ -32,8 +32,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: 45°58’40.33"N 70°57’40.76"O
-    altitude: 1.36 km
+    geolocalisation: 
+    altitude: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

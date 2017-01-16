@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3697/19666230344_580e9cd6e7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19666230344/in/photolist-wkyGVo-vXQz7Y
 album-flickr:
   - 72157675365108575
-planches:
-  - miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/19912097704/in/photolist-wkyGVo-vXQz7Y
 
 details:
   nom-francais: Géoglosse difforme
@@ -17,10 +14,18 @@ details:
   genre: Geoglossum
   espece: difforme
   litterature: Fries, E.M. 1815. Observationes mycologicae. 1:1-230
-  fongariums:
-    - fongarium: cKc0393
-      date: 4 août 2015
-  numero-de-planche-micrographique: cKc0393-0095
+
+collections:
+  - fongarium: cKc0393
+    date: 4 août 2015
+    planche:
+      numero: cKc0393-0095
+      miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/19912097704/in/photolist-wkyGVo-vXQz7Y
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,7 +85,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -114,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -139,9 +143,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -254,7 +256,6 @@ description:
   soies: absent
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

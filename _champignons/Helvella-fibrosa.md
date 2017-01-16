@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8825/28444177671_0372fd8c51_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28444177671/in/photolist-KkvR3p
 album-flickr:
   - 
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Helvella
   espece: fibrosa
   litterature: Korf, R.P. 2008. Nomenclatural notes. 12. Untangling Hedwig's Octospora villosa; Helvella fibrosa comb. nov. Mycotaxon. 103:307-311
-  fongariums:
-    - fongarium: cKc0522
-      date: 24 juillet 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0522
+    date: 24 juillet 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,9 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -136,9 +138,7 @@ description:
   face-externe: et marge villeuses à densément pubescentes, plus pâles
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -249,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

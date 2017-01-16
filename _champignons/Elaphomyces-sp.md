@@ -1,13 +1,10 @@
 ---
-nom: Elaphomyces sp. nov. not 
+nom: Elaphomyces sp. nov. not
 date: 2016-12-31 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 album-flickr:
   - 72157676875072761
-planches:
-  - miniature: https://c1.staticflickr.com/1/340/20440587051_defdc4b556_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20440587051/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 
 details:
   nom-francais: Elaphomyces nouvelle espèce
@@ -23,8 +20,8 @@ collections:
     date: 6 août 2015
     planche:
       numero: cKc0396-0094
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c1.staticflickr.com/1/340/20440587051_defdc4b556_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/20440587051/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: Michael Castellano (provisoire)

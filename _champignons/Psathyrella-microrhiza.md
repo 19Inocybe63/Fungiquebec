@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8035/8056863941_c1af63bc37_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8056863941/in/photolist-dHFWbh-dgXwXg-dgXx4z/
 album-flickr:
   - 72157675812783512
-planches:
-  - miniature: https://c1.staticflickr.com/9/8230/8348049172_0abd75b9e5_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8348049172/in/photolist-dHFWbh-dgXx4z-dgXwXg
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Psathyrella
   espece: microrhiza
   litterature: Konrad, P.; Maublanc, A. 1948. Les Agaricales. Encyclopédie Mycologique. 14:1-464
-  fongariums:
-    - fongarium: cKc0027
-      date: 5 octobre 2012
-  numero-de-planche-micrographique: cKc0027-0010
+
+collections:
+  - fongarium: cKc0027
+    date: 5 octobre 2012
+    planche:
+      numero: cKc0027-0010
+      miniature: https://c1.staticflickr.com/9/8230/8348049172_0abd75b9e5_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8348049172/in/photolist-dHFWbh-dgXx4z-dgXwXg
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: Francis Fouchier (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Francis Fouchier
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -256,7 +256,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: pourpre à noirâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

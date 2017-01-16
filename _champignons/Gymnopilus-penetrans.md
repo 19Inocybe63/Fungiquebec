@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5535/9240759913_21ee91ef3b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9240759913/in/photolist-f5ziYM-f5zmMt
 album-flickr:
   - 72157677358029345
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Gymnopile pénétrant
@@ -17,10 +14,18 @@ details:
   genre: Gymnopilus
   espece: penetrans
   litterature: Murrill, W.A. 1912. The Agaricaceae of the Pacific Coast - II. White and ochre-spored genera. Mycologia. 4(5):231-262
-  fongariums:
-    - fongarium: cKc0073
-      date: 7 juillet 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0073
+    date: 7 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°49'45.3"N 71°27'20.9"O
+    altitude: 1.22 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -248,7 +248,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun orangé à brun rouille
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

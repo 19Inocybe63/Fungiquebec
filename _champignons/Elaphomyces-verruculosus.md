@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5659/21247990934_8e04b18b66_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21247990934/in/photolist-ynBvrh-z38wYn
 album-flickr:
   - 72157675718500205
-planches:
-  - miniature: 
-    originale:  
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Elaphomyces
   espece: verruculosus
   litterature: Castellano, M.A.; Guerrero, G.G.; Jimenez, J.G.; Trappe, J.M. 2012. Elaphomyces appalachiensis Linder and E. verruculosus sp. nov. (Ascomycota, Eurotiales, Elaphomycetaceae) from eastern North America. 35:17-22
-  fongariums:
-    - fongarium: cKc0480
-      date: 1 octobre 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0480
+    date: 1 octobre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Michael Castellano
 
 description:
   acanthocytes: 
@@ -72,7 +77,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Michael Castellano
   columelle: 
   commentaires: De Michael Castellano. E. verruculosus Castellano wide spread across the east coast.
   conidies: 
@@ -131,7 +135,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: blanc gris et cotonneux lorsque immature
   gleocystides: 
@@ -240,7 +243,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

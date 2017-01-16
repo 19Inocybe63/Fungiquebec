@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5573/15127426101_04bd07380a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15127426101/in/photolist-p3L1Kp
 album-flickr:
   - 
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Hydne d'Amérique
@@ -20,10 +14,18 @@ details:
   genre: Hericium
   espece: americanum
   litterature: Ginns, J. 1984. Hericium coralloides N. Amer. auct. (= H. americanum sp. nov.) and the European H. alpestre and H. coralloides. Mycotaxon. 20(1):39-43
-  fongariums:
-    - fongarium: cKc0233
-      date: 3 septembre 2014
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0233
+    date: 3 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -76,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -112,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -137,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -248,7 +245,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

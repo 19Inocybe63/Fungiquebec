@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5553/14864698956_e8a7930466_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14864698956/in/photolist-qepDS2-oDxt83-oDxrA5
 album-flickr:
   - 72157674673516460
-planches:
-  - miniature: https://c2.staticflickr.com/8/7543/15904291825_9ab832e1c5_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15904291825/in/photolist-qepDS2-oDxt83-oDxrA5
 
 details:
   nom-francais: Entolome superbe
@@ -17,10 +14,18 @@ details:
   genre: Entoloma
   espece: formosum
   litterature: Noordeloos, M.E. 1985. Notulae ad floram Agaricinam Neerlandicam X-XI. Entoloma. Persoonia. 12(4):457-462
-  fongariums:
-    - fongarium: cKc0202
-      date: 11 août 2014
-  numero-de-planche-micrographique: cKc0202-0051
+
+collections:
+  - fongarium: cKc0202
+    date: 11 août 2014
+    planche:
+      numero: cKc0202-0051
+      miniature: https://c2.staticflickr.com/8/7543/15904291825_9ab832e1c5_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15904291825/in/photolist-qepDS2-oDxt83-oDxrA5
+    geolocalisation: 
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -75,8 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -135,7 +138,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -251,7 +253,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: rose brunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

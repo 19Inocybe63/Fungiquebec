@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/4/3877/14967804121_d118d38839_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14967804121/in/photolist-qhmCJe-owGghB-oNDUGi
 album-flickr:
   - 72157674905397211
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/8/7467/15937652161_3835d1f584_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15937652161/in/photolist-qhmCJe-owGghB-oNDUGi
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Entolome violet
@@ -20,10 +14,18 @@ details:
   genre: Entoloma
   espece: violaceum
   litterature: Murrill, W.A. 1917. Agaricaceae subtribe Pluteanae. North American Flora. 10(2):77-144
-  fongariums:
-    - fongarium: cKc0208
-      date: 19 août 2014
-  numero-de-planche-micrographique: cKc0208-0053
+
+collections:
+  - fongarium: cKc0208
+    date: 19 août 2014
+    planche:
+      numero: cKc0208-0053
+      miniature: https://c2.staticflickr.com/8/7467/15937652161_3835d1f584_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15937652161/in/photolist-qhmCJe-owGghB-oNDUGi
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -80,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -141,7 +140,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -251,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: rose brunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5575/14701084889_7123cd3564_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14701084889/in/photolist-op5SWB-op5UmR-qfrG8V
 album-flickr:
   - 72157675481738046
-planches:
-  - miniature: https://c1.staticflickr.com/9/8616/15916006195_f3137a12bd_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15916006195/in/photolist-op5SWB-op5UmR-qfrG8V
 
 details:
   nom-francais: Entolome conique
@@ -17,10 +14,18 @@ details:
   genre: Entoloma
   espece: conicum
   litterature: Hesler, L.R. 1967. Entoloma (Rhodophyllus) in Southeastern North America. Beihefte zur Nova Hedwigia. 23:1-220
-  fongariums:
-    - fongarium: cKc0203
-      date: 11 août 2014
-  numero-de-planche-micrographique: cKc0203-0052
+
+collections:
+  - fongarium: cKc0203
+    date: 11 août 2014
+    planche:
+      numero: cKc0203-0052
+      miniature: https://c1.staticflickr.com/9/8616/15916006195_f3137a12bd_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15916006195/in/photolist-op5SWB-op5UmR-qfrG8V
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -75,8 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-confirmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 
@@ -135,7 +138,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -251,7 +253,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: rose brunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

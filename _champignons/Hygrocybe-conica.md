@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/406/19678525428_f777d68d59_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19678525428/in/photolist-vjyS1S-wfUQUN-vYVA2b-wgxmv2-vZ47s7-vZbfhH
 album-flickr:
   - 72157673262758814
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Hygrophore conique
@@ -17,12 +14,6 @@ details:
   genre: Hygrocybe
   espece: conica
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-  fongariums:
-    - fongarium: cKc0356
-      date: 20 juillet 2015
-    - fongarium: cKc0357
-      date: 20 juillet 2015
-  numero-de-planche-micrographique: 
 
 collections:
   - fongarium: cKc0356

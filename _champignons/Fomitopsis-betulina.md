@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3905/15064383809_0d95a73134_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064383809/in/photolist-oXcgnL-oXbUtk
 album-flickr:
   - 72157673981498392
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Polypore du bouleau
@@ -17,10 +14,18 @@ details:
   genre: Fomitopsis
   espece: betulina
   litterature: Fries, E.M. 1821. Systema Mycologicum. 1:1-520
-  fongariums:
-    - fongarium: cKc0250
-      date: 15 septembre 2014
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0250
+    date: 15 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -71,7 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: L'homme des glaces (Ötzi = <a href="http://www.hominides.com/html/ancetres/otzi2.php" rel="nofollow">www.hominides.com/html/ancetres/otzi2.php</a>) avait sur lui le même type de champignon. En effet, dans sa bourse en cuir, il y avait des Fomitopsis betulina. Le polypore du bouleau est un champignon parasite typiquement et exclusivement lié aux bouleaux. Il a des propriétés antibiotiques et contient des huiles toxiques pour les vers intestinaux.
   conidies: 
@@ -130,7 +134,6 @@ description:
   face-externe: 
   face-poroïde: blanche au début, brunâtre pâle avec l'âge
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -240,7 +243,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

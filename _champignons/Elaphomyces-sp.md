@@ -17,14 +17,38 @@ details:
   genre: Elaphomyces
   espece: sp. nov. not
   litterature: 
-  fongariums:
-    - fongarium: cKc0396
-      date: 6 août 2015
-    - fongarium: cKc0428
-      date: 22 août 2015
-    - fongarium: cKc0463
-      date: 16 septembre 2015
-  numero-de-planche-micrographique: cKc0396-0094
+
+collections:
+  - fongarium: cKc0396
+    date: 6 août 2015
+    planche:
+      numero: cKc0396-0094
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Michael Castellano (provisoire)
+    confirmee: 
+  - fongarium: cKc0428
+    date: 22 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Michael Castellano (provisoire)
+    confirmee: 
+  - fongarium: cKc0463
+    date: 16 septembre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Michael Castellano (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -81,9 +105,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: |
     De Claude Kaufholtz-Couture. « J'ai trouvé plus de vingt spécimens en une cueillette. Le spécialiste Michael Castellano m'indique qu'il n'a jamais vu cette espèce, c'est une première pour lui. Il possède un échantillon de la collection pour étude d'ADN. Voir aussi la collection cKc0463 »
@@ -144,7 +165,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: intérieur blanc à la coupe, qui devient rougeâtre avec le temps avec en son centre une masse noirâtre
   gleocystides: 

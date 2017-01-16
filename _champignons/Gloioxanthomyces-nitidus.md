@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/8/7343/9268009925_e956b6717f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9268009925/in/photolist-f7Z1Yi-f7YYsz-f8egtd
 album-flickr:
   - 72157672736344694
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Hygrophore luisant
@@ -20,10 +14,18 @@ details:
   genre: Gloioxanthomyces
   espece: nitidus
   litterature: Lodge, D.J.; Padamsee, M.; Matheny, P.B., Aime, M.C.; Cantrell, S.A.; Boertmann, D.; Kovalenko, A.; Moncalvo, J.-M.; Vilgalys, R.; Vizzini, A.; Larsson, E.; Lücking, R.; Griffith, G.; Smith, M.; Norvell, L.; Desjardin, D.E.; Redhead, S.; Ovrebo, C.L.; Lickey, E.B.; Ercole, E.; Hughes, K.W.; Courtecuisse, Young, A.; Binder, M.; Minnis, A.; Lindner, D.L.; Ortiz-Santana, B.; Haight, J.;Læssøe, T.; Baroni, T.J., Geml, J., Hattori, T.R. 2013. Molecular phylogeny, morphology, pigment chemistry and ecology in Hygrophoraceae (Agaricales). Fungal Diversity. 64:1-99
-  fongariums:
-    - fongarium: cKc0075
-      date: 12 juillet 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0075
+    date: 12 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -75,9 +77,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +110,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -136,9 +135,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -247,7 +244,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

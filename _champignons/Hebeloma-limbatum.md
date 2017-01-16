@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8742/29622268270_22ca218709_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29622268270/in/photolist-NdgqNj-MwxnQN-M8BSkh
 album-flickr:
   - 72157674148893871
-planches:
-  - miniature: https://c2.staticflickr.com/6/5620/30331219382_dcca2f4de6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/30331219382/in/photolist-NdgqNj-MwxnQN-M8BSkh
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Hebeloma
   espece: limbatum
   litterature: Eberhardt, U.; Beker, H.J.; Vesterholt, J.; Schütz,N. 2016. The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. and five new species. Fungal Biology. 120(1):72-103
-  fongariums:
-    - fongarium: cKc0563
-      date: 24 septembre 2016
-  numero-de-planche-micrographique: cKc0563-0138
+
+collections:
+  - fongarium: cKc0563
+    date: 24 septembre 2016
+    planche:
+      numero: cKc0563-0138
+      miniature: https://c2.staticflickr.com/6/5620/30331219382_dcca2f4de6_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/30331219382/in/photolist-NdgqNj-MwxnQN-M8BSkh
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Henry J. Beker (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -77,7 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determination-provisoire-par: Henry J. Beker
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -136,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -253,7 +255,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun cannelle à brun ochracé
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

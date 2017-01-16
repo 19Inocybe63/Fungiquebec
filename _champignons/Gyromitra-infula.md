@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8455/7996468533_a6a0aa7ab9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996468533/in/photolist-dbC215-dbBZv8-dbBZ9e
 album-flickr:
   - 72157676477017940
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Gyromitre en turban
@@ -17,10 +14,18 @@ details:
   genre: Gyromitra
   espece: infula
   litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
-  fongariums:
-    - fongarium: cKc0016
-      date: 16 septembre 2012
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0016
+    date: 16 septembre 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°57'01.25"N 71°17'51.46"O
+    altitude: 412 m
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Roland Labbé
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: irrégulièrement plissée, ou un peu convolutée, pubescente, parfois sublisse
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

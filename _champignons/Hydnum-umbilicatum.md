@@ -30,7 +30,7 @@ collections:
 description:
   acanthocytes: 
   acanthophyses: 
-  aiguillons: 
+  aiguillons: 2-7 mm de longueur, adnés à adnexés, blanc crème à crème orangé pâle, devenant plus foncé au froissement
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, cassante, blanche à orangé pâle, se tachant d'orange puis de brun à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 20-60 mm Ø, convexe à étalé, ombiliqué au centre et perforé jusque dans le pied, finement tomenteux, orange rouille à orange brunâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: 20-100 x 5-10 mm Ø, cylindrique, égal et centré, légèrement élargi vers la base, orangé ou concolore au chapeau, se tachant d'orange puis de brun au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 

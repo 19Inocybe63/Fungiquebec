@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7260/7808924042_8d013e0dc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7808924042/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
 album-flickr:
   - 72157675189299225
-planches:
-  - miniature: https://c1.staticflickr.com/9/8216/8274763429_74d0d295f7_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8274763429/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
 
 details:
   nom-francais: Entolome bleu pourpre
@@ -17,10 +14,18 @@ details:
   genre: Entoloma
   espece: cf. incarnatofuscescens
   litterature: 
-  fongariums:
-    - fongarium: 2012M_240 (DAOM)
-      date: 18 août 2012
-  numero-de-planche-micrographique: cKc-ÉTUDE0005
+
+collections:
+  - fongarium: 2012M_240 (DAOM)
+    date: 18 août 2012
+    planche:
+      numero: cKc-ÉTUDE0005
+      miniature: https://c1.staticflickr.com/9/8216/8274763429_74d0d295f7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8274763429/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
+    geolocalisation: 
+    altitude: 
+    determinee: Machiel Noordeloos (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -76,7 +81,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determination-provisoire-par: Machiel Noordeloos
   columelle: 
   commentaires: De Machiel Noordeloos. This is a nice little Entoloma, which may come near E. incarnatofuscescens from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately...
   conidies: 
@@ -135,7 +139,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -251,7 +254,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

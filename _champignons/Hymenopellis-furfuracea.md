@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8076/8389201215_7ee93b2516_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8389201215/in/photolist-KZZ5kK-L7KXRa-dMqqb1-dKiztv-dJeNnK-dJeUGZ-dMjRfg-dMjRhX-cvkwvb-cvkwk5
 album-flickr:
   - 72157673831072554
-planches:
-  - miniature: https://c1.staticflickr.com/9/8469/8390287540_de371bbed1_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8390287540/in/photostream/
 
 details:
   nom-francais: Collybie furfuracée
@@ -17,12 +14,28 @@ details:
   genre: Hymenopellis
   espece: furfuracea
   litterature: Petersen, R.H.; Hughes, K.W. 2010. The Xerula/Oudemansiella complex (Agaricales). Beihefte zur Nova Hedwigia. 137:1-625
-  fongariums:
-    - fongarium: sans mnuméro
-      date: 11 juillet 2012
-    - fongarium: cKc0006
-      date: 22 juillet 2012
-  numero-de-planche-micrographique: cKc0006-0012
+
+collections:
+  - fongarium: sans mnuméro
+    date: 11 juillet 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0006
+    date: 22 juillet 2012
+    planche:
+      numero: cKc0006-0012
+      miniature: https://c1.staticflickr.com/9/8469/8390287540_de371bbed1_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8390287540/in/photostream/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -79,9 +92,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -115,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +150,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -255,7 +263,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanchâtre, crème
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

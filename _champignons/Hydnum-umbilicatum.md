@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Hydne ombiliqué
   autorites: Peck
   ordre: Cantharellales
   famille: Hydnaceae

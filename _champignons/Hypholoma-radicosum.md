@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3898/14579980651_218188fc9e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14579980651/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
 album-flickr:
   - 72157675098869386
-planches:
-  - miniature: https://c2.staticflickr.com/8/7595/16616933670_e13aed0080_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16616933670/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
 
 details:
   nom-francais: Hypholome radicant
@@ -17,10 +14,18 @@ details:
   genre: Hypholoma
   espece: radicosum
   litterature: Lange, J.E. 1923. Studies in the Agarics of Denmark. V. Ecological notes. The Hygrophorei, Stropharia and Hypholoma. Supplementary notes to Parts I-III. Dansk botanisk Arkiv. 4(4):1-55
-  fongariums:
-    - fongarium: cKc0175
-      date: 3 juillet 2014
-  numero-de-planche-micrographique: cKc0175-0074
+
+collections:
+  - fongarium: cKc0175
+    date: 3 juillet 2014
+    planche:
+      numero: cKc0175-0074
+      miniature: https://c2.staticflickr.com/8/7595/16616933670_e13aed0080_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16616933670/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
+    geolocalisation: 45°58’40.33"N 70°57’40.76"O
+    altitude: 1.36 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,7 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +139,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -250,7 +252,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun pourpre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

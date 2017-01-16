@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/713/20474978959_f2ee0c486a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20474978959/in/photolist-xciBUB-xsZTzN
 album-flickr:
   - 72157674431474104
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Stérée tabac
@@ -17,10 +14,18 @@ details:
   genre: Hymenochaetopsis
   espece: tabacina
   litterature: Yang, J; Dai L.D; He, S.H. 2016. Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China. Mycological Progress. 15(2/13):1-8
-  fongariums:
-    - fongarium: cKc0413
-      date: 17 août 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0413
+    date: 17 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -74,9 +79,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -110,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +137,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -248,7 +248,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

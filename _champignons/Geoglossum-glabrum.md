@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5643/20515863236_f2374fa141_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20515863236/in/photolist-x767Dr-xfVanW
 album-flickr:
   - 72157674182903280
-planches:
-  - miniature: https://c2.staticflickr.com/6/5727/20415956699_f1a5bd7c13_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20415956699/in/photolist-x767Dr-xfVanW
 
 details:
   nom-francais: Géoglosse glabre
@@ -17,10 +14,18 @@ details:
   genre: Geoglossum
   espece: glabrum
   litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung der Schwämme. Neues Magazin für die Botanik. 1:63-80
-  fongariums:
-    - fongarium: cKc0402
-      date: 13 août 2015
-  numero-de-planche-micrographique: cKc0402-0097
+
+collections:
+  - fongarium: cKc0402
+    date: 13 août 2015
+    planche:
+      numero: cKc0402-0097
+      miniature: https://c2.staticflickr.com/6/5727/20415956699_f1a5bd7c13_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/20415956699/in/photolist-x767Dr-xfVanW
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,7 +85,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -114,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -139,9 +143,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -254,7 +256,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: noirâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

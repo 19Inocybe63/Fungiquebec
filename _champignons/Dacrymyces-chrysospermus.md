@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8493/8330888434_22bb5d7a01_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8330888434/in/photolist-dG9Y65-dGaYTu
 album-flickr:
   - 72157674177774881
-planches:
-  - miniature: https://c1.staticflickr.com/9/8363/8330690630_e8af73e9a4_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8330690630/in/photolist-dG9Y65-dGaYTu
 
 details:
   nom-francais: Trémelle à spores jaunes
@@ -17,10 +14,18 @@ details:
   genre: Dacrymyces
   espece: chrysospermus
   litterature: Berkeley, M.J. 1873. Notices of North American fungi (cont.). Grevillea. 2(14):17-20
-  fongariums:
-    - fongarium: cKc0019
-      date: 13 octobre 2012
-  numero-de-planche-micrographique: cKc0019-0009
+
+collections:
+  - fongarium: cKc0019
+    date: 13 octobre 2012
+    planche:
+      numero: cKc0019-0009
+      miniature: https://c1.staticflickr.com/9/8363/8330690630_e8af73e9a4_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8330690630/in/photolist-dG9Y65-dGaYTu
+    geolocalisation: 46°54'03.96"N 71°10'40.83"O
+    altitude: 476 m
+    determinee: 
+    confirmee: Roland Labbé
 
 description:
   acanthocytes: 
@@ -73,7 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -132,7 +136,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -242,7 +245,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: jaune à jaunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

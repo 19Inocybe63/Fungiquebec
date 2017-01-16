@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3930/15461315042_c12164c798_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461315042/in/photolist-pK1eva-pyghih-pwfJKU
 album-flickr:
   - 72157673932255201
-planches:
-  - miniature: https://c2.staticflickr.com/4/3952/15582860415_52b76245e9_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15582860415/in/photolist-pK1eva-pyghih-pwfJKU
 
 details:
   nom-francais: Dédalée du chêne ou Lenzite du chêne
@@ -17,12 +14,28 @@ details:
   genre: Daedalea
   espece: quercina
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
-  fongariums:
-    - fongarium: cKc0294
-      date: 6 octobre 2014
-    - fongarium: cKc0494
-      date: 3 juin 2016
-  numero-de-planche-micrographique: cKc0294-0042
+
+collections:
+  - fongarium: cKc0294
+    date: 6 octobre 2014
+    planche:
+      numero: cKc0294-0042
+      miniature: https://c2.staticflickr.com/4/3952/15582860415_52b76245e9_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15582860415/in/photolist-pK1eva-pyghih-pwfJKU
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0494
+    date: 3 juin 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,7 +90,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: Un mycologue européen m'indique. « Je ne vois pas dans la littérature mention d'hyphes génératrices tramales, à mon sens tu devrais trouver ces hyphes à côté de celles à extrémités cystoïdes, et indistinctes de celles-ci, car personnellement je pense que ce sont ces hyphes qui évoluent au fil du temps et finissent par se différencier à leur extrémité soit en probasides, puis basides, soit en cystides. » Il faudra voir si la définition de Daedalea quercina en Amérique est identique à celle de l'Europe.
   conidies: 
@@ -135,7 +147,6 @@ description:
   face-externe: 
   face-poroïde: aplanie à oblique, surtout près du substrat, ochracé pâle à beige
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -252,7 +263,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche à blanchâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3923/14368514495_c15fa5712c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14368514495/in/photolist-nTGoLx-nTBP7q
 album-flickr:
   - 72157675243699821
-planches:
-  - miniature: https://c1.staticflickr.com/1/183/31472402466_9554bac5a7_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/31472402466/in/photostream/
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Galerina
   espece: dicranorum
   litterature: Smith, A.H.; Singer, R. 1958. New species of Galerina. Mycologia. 50(4):469-489
-  fongariums:
-    - fongarium: cKc0162
-      date: 7 juin 2014
-  numero-de-planche-micrographique: cKc0162-0147
+
+collections:
+  - fongarium: cKc0162
+    date: 7 juin 2014
+    planche:
+      numero: cKc0162-0147
+      miniature: https://c1.staticflickr.com/1/183/31472402466_9554bac5a7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31472402466/in/photostream/
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -78,9 +83,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -114,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -139,9 +141,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -255,7 +255,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rouille à brun cannelle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

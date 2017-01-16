@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/4/3858/15199843732_698468a2be_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15199843732/in/photolist-paaaZf
 album-flickr:
   - 
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Hydne corail
@@ -20,10 +14,18 @@ details:
   genre: Hericium
   espece: coralloides
   litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung der Schwämme. Neues Magazin für die Botanik. 1:63-80
-  fongariums:
-    - fongarium: cKc0246
-      date: 10 septembre 2014
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0246
+    date: 10 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -74,9 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -110,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +134,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -246,7 +243,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

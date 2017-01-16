@@ -73,7 +73,7 @@ description:
   cellules-stromatiques: 
   chair: mince, brunâtre
   chancre: 
-  chapeau: 19 mm Ø, conique-campanulé puis étalé, papillé, subfibrilleux puis glabre, zoné et canescent, gris-brun foncé à brun, crème grisâtre pâle et luisant au sec, à cuticule dépassant les lames au pourtour
+  chapeau: 19 mm Ø, conique-campanulé puis étalé, papillé, subfibrilleux puis glabre, zoné et canescent, gris-brun foncé à brun, subhygrophane, fribrilleux-argenté, crème grisâtre pâle et luisant au sec, à cuticule dépassant les lames au pourtour
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 

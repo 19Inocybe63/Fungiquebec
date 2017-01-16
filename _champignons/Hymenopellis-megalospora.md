@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8238/8354287809_dd005d69e3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8354287809/in/photolist-dKiztv-dJeNnK-dJeUGZ
 album-flickr:
   - 72157676407457940
-planches:
-  - miniature: https://c1.staticflickr.com/9/8056/8366320055_6474236d7e_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8366320055/in/photolist-dKiztv-dJeNnK-dJeUGZ
 
 details:
   nom-francais: Collybie à grandes spores
@@ -17,10 +14,18 @@ details:
   genre: Hymenopellis
   espece: megalospora
   litterature: (Clem.) R.H. Petersen, Nova Hedwigia, 137, 181, 2010
-  fongariums:
-    - fongarium: cKc0038
-      date: 26 août 2012
-  numero-de-planche-micrographique: cKc0038-0011
+
+collections:
+  - fongarium: cKc0038
+    date: 26 août 2012
+    planche:
+      numero: cKc0038-0011
+      miniature: https://c1.staticflickr.com/9/8056/8366320055_6474236d7e_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8366320055/in/photolist-dKiztv-dJeNnK-dJeUGZ
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: De cKc. « L'espèce H. megalospora diffère de H. limonispora par la présence de piléocystides. »
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/3/2817/9438005957_e509607329_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9438005957/in/photolist-fo1fmD-fofxis/
 album-flickr:
   - 72157678433302206
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Hygrophore chanterelle
@@ -17,10 +14,18 @@ details:
   genre: Hygrocybe
   espece: cantharellus
   litterature: Murrill, W.A. 1911. The Agaricaceae of tropical North America III. Mycologia. 3(4):189-199
-  fongariums:
-    - fongarium: cKc0098
-      date: 31 juillet 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0098
+    date: 31 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°46'21.6"N 71°10'29.3"O
+    altitude: 1.07 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

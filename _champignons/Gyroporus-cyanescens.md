@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8441/28995578361_e4c677dbe9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28995578361/in/photolist-L8FwLE-LbeVfR-z8SLYU-ySoPCV-ycT6no
 album-flickr:
   - 72157675737892515
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet bleuissant
@@ -17,12 +14,28 @@ details:
   genre: Gyroporus
   espece: cyanescens
   litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
-  fongariums:
-    - fongarium: cKc0478
-      date: 27 septembre 2015
-    - fongarium: cKc0540
-      date: 18 août 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0478
+    date: 27 septembre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0540
+    date: 18 août 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,7 +86,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -107,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -132,9 +144,7 @@ description:
   face-externe: 
   face-poroïde: blanchâtre, jaunissant à maturité, bleuissant immédiatement au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -244,7 +254,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: jaune pâle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

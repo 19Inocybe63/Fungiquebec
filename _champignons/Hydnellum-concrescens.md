@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3869/15064369687_1d8ea59157_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064369687/in/photolist-pUJXXk-oXbQgR-oXbNkB
 album-flickr:
   - 72157676753895536
-planches:
-  - miniature: https://c2.staticflickr.com/8/7544/15693046389_522bf2a4ec_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15693046389/in/photolist-pUJXXk-oXbQgR-oXbNkB
 
 details:
   nom-francais: Hydne concrescent
@@ -17,10 +14,18 @@ details:
   genre: Hydnellum
   espece: concrescens
   litterature: Banker, H.J. 1906. A contribution to a revision of the North American Hydnaceae. Memoirs of the Torrey Botanical Club. 12:99-194
-  fongariums:
-    - fongarium: cKc0258
-      date: 19 septembre 2014
-  numero-de-planche-micrographique: cKc0258-0050
+
+collections:
+  - fongarium: cKc0258
+    date: 19 septembre 2014
+    planche:
+      numero: cKc0258-0050
+      miniature: https://c2.staticflickr.com/8/7544/15693046389_522bf2a4ec_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15693046389/in/photolist-pUJXXk-oXbQgR-oXbNkB
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,9 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -136,9 +138,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -255,7 +255,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brune
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

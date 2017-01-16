@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5487/9532550164_cff4d0ea25_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9532550164/in/photolist-s7WLut-fwmP4b-fw7w6p
 album-flickr:
   - 72157676756043636
-planches:
-  - miniature: https://c2.staticflickr.com/8/7706/17143860659_9c3d93042b_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/17143860659/in/photolist-s7WLut-fw7w6p-fwmP4b
 
 details:
   nom-francais: Hygrophore crête-de-coq
@@ -17,10 +14,18 @@ details:
   genre: Hygrocybe
   espece: coccineocrenata
   litterature: Moser, M. 1967. Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes). IIb/2:1-443
-  fongariums:
-    - fongarium: cKc0113
-      date: 17 août 2013
-  numero-de-planche-micrographique: cKc0113-0083
+
+collections:
+  - fongarium: cKc0113
+    date: 17 août 2013
+    planche:
+      numero: cKc0113-0083
+      miniature: https://c2.staticflickr.com/8/7706/17143860659_9c3d93042b_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/17143860659/in/photolist-s7WLut-fw7w6p-fwmP4b
+    geolocalisation: 46°45'28.7"N 71°19'37.0"O
+    altitude: 1.08 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

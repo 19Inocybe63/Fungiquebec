@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8283/29076192640_686dda6d42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29076192640/in/photolist-Lin65d-LFMgRj
 album-flickr:
   - 72157672219854874
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: 
@@ -17,14 +14,38 @@ details:
   genre: Ganoderma
   espece: megaloma
   litterature: Bresadola, G. 1913. Basidiomycetes philippinenses. Series II. Hedwigia. 53:44-80
-  fongariums:
-    - fongarium: sans numéro
-      date: 14 juillet 2012
-    - fongarium: sans numéro
-      date: 18 août 2012
-    - fongarium: cKc0554
-      date: 31 août 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: sans numéro
+    date: 14 juillet 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: sans numéro
+    date: 18 août 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0554
+    date: 31 août 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Herbert Baker
 
 description:
   acanthocytes: 
@@ -75,8 +96,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-confirmee-par: Herbert Baker
   columelle: 
   commentaires: De Alan Rockefeller. « G. applanatum est un nom européen, tandis que G. megaloma est un nom de la partie nord-est des États-Unis. »
   conidies: 
@@ -110,7 +129,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +154,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -246,7 +263,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rouille
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

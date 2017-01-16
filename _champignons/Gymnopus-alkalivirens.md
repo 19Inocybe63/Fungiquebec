@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/483/19122325155_2232868ca2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19122325155/in/photolist-v8LV4i-uRjJmt
 album-flickr:
   - 72157673024168473
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Collybie pourprée ou Collybie obscure
@@ -17,12 +14,28 @@ details:
   genre: Gymnopus
   espece: alkalivirens
   litterature: Antonín, V., Halling, R.E., Noordeloos, M.E. 1997. Generic concepts within the groups Marasmius and Collybia sensu lato. Mycotaxon. 63:359-368
-  fongariums:
-    - fongarium: cKc0059
-      date: 1 juillet 2013
-    - fongarium: cKc0324
-      date: 24 juin 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0059
+    date: 1 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°51'19.0"N 71°06'38.2"O
+    altitude: 6.13 km
+    determinee: 
+    confirmee: Roland Labbé
+  - fongarium: cKc0324
+    date: 24 juin 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,9 +88,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +121,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -136,9 +146,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -248,7 +256,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

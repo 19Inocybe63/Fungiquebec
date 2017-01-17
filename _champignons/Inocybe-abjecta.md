@@ -5,11 +5,6 @@ image: https://c1.staticflickr.com/1/517/19736553568_86546edb7c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19736553568/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
 album-flickr:
   - 72157674804662134
-planches:
-  - miniature: https://c2.staticflickr.com/8/7556/26887464776_bbe04751a8_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/26887464776/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
-  - miniature: https://c2.staticflickr.com/2/1529/25685634394_72d31bc539_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/25685634394/in/photolist-F8KAeq-wsNBUQ-wraQZS
 
 details:
   nom-francais: Inocybe négligé
@@ -19,12 +14,28 @@ details:
   genre: Inocybe
   espece: abjecta
   litterature: Karsten, P.A. 1879. Rysslands, Finlands och den Skandinaviska halföns Hattsvampar. Förra Delen, Skifsvampar. Bidrag till Kännedom av Finlands Natur och Folk. 32:1-571
-  fongariums:
-    - fongarium: cKc0367
-      date: 22 juillet 2015
-    - fongarium: cKc0377
-      date: 25 juillet 2015
-  numero-de-planche-micrographique: cKc0367-0126 ; cKc0377-0121
+
+collections:
+  - fongarium: cKc0367
+    date: 22 juillet 2015
+    planche:
+      numero: cKc0367-0126
+      miniature: https://c2.staticflickr.com/8/7556/26887464776_bbe04751a8_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/26887464776/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0377
+    date: 25 juillet 2015
+    planche:
+      numero: cKc0377-0121
+      miniature: https://c2.staticflickr.com/2/1529/25685634394_72d31bc539_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/25685634394/in/photolist-F8KAeq-wsNBUQ-wraQZS
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -88,9 +99,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -125,7 +133,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -150,9 +158,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

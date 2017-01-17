@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3920/14887778419_60f361d921_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14887778419/in/photolist-qryYtU-oFAfzb-oFzKQP
 album-flickr:
   - 72157675764074685
-planches:
-  - miniature: https://c2.staticflickr.com/8/7541/16041908418_7b000d8690_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16041908418/in/photolist-qryYtU-oFAfzb-oFzKQP
 
 details:
   nom-francais: Bolet bai
@@ -17,10 +14,18 @@ details:
   genre: Imleria
   espece: badia
   litterature: (Fr.) Vizzini, Index Fungorum, 147, 1, 2014
-  fongariums:
-    - fongarium: cKc0220
-      date: 29 août 2014
-  numero-de-planche-micrographique: cKc0220-0064
+
+collections:
+  - fongarium: cKc0220
+    date: 29 août 2014
+    planche:
+      numero:  cKc0220-0064
+      miniature: https://c2.staticflickr.com/8/7541/16041908418_7b000d8690_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16041908418/in/photolist-qryYtU-oFAfzb-oFzKQP
+    geolocalisation: = 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -76,8 +81,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-confirmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +114,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -136,9 +139,7 @@ description:
   face-externe: 
   face-poroïde: jaunâtre puis jaune olivacé avec l'âge, bleuissant au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -254,7 +255,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun olive
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -13,6 +13,7 @@ details:
   famille: Strophariaceae
   genre: Leratiomyces
   espece: riparius
+  litterature: (A.H. Sm.) Redhead, Index Fungorum, 142, 1, 2014
 
 collections:
   - fongarium: cKc0037

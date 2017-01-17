@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/3/2946/15165489459_e68be80594_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15165489459/in/photolist-p786Ec-poACwf/
 album-flickr:
   - 72157675570525760
-planches:
-  - miniature: https://c2.staticflickr.com/6/5692/31184857081_a0f987d95d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/31184857081/in/photostream/
 
 details:
   nom-francais: Vesse-de-loup perlée
@@ -17,12 +14,28 @@ details:
   genre: Lycoperdon
   espece: perlatum
   litterature: Persoon, C.H. 1796. Observationes mycologicae. 1:1-116
-  fongariums:
-    - fongarium: cKc0270
-      date: 25 septembre 2014
-    - fongarium: cKc0566
-      date: 24 septembre 2016
-  numero-de-planche-micrographique: cKc0270-0145
+
+collections:
+  - fongarium: cKc0270
+    date: 25 septembre 2014
+    planche:
+      numero: cKc0270-0145
+      miniature: https://c2.staticflickr.com/6/5692/31184857081_a0f987d95d_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31184857081/in/photostream/
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0566
+    date: 24 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,9 +93,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -116,7 +126,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -141,9 +151,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: ferme et blanche au début, poudreuse et jaune-brun à brun olive à maturité
   gleocystides: 
   gleocystides-hymeniales: 
@@ -258,7 +266,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

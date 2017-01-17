@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8526/8597213435_f7c55bce91_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8597213435/in/photolist-e8Fsch-e6GY2R/
 album-flickr:
   - 
-planches:
-  - miniature: https://c1.staticflickr.com/9/8537/8619550942_816d04704a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8619550942/in/photolist-e8Fsch-e6GY2R/
 
 details:
   nom-francais: Lentin couleur d'ours
@@ -17,10 +14,18 @@ details:
   genre: Lentinellus
   espece: ursinus
   litterature: Kühner, R. 1926. Contribution à l’Étude des Hyménomycètes et spécialement des agaricacées. Le Botaniste. 17:1-224
-  fongariums:
-    - fongarium: cKc0018
-      date: 20 octobre 2012
-  numero-de-planche-micrographique: cKc0018-0022
+
+collections:
+  - fongarium: cKc0018
+    date: 20 octobre 2012
+    planche:
+      numero: cKc0018-0022
+      miniature: https://c1.staticflickr.com/9/8537/8619550942_816d04704a_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8619550942/in/photolist-e8Fsch-e6GY2R/
+    geolocalisation: 
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Roland Labbé
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

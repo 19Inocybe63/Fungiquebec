@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/4/3887/14711090926_794090957f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14711090926/in/photolist-owP4KZ-os11Bz-orZZwi-opYbNJ
 album-flickr:
   - 72157676158837095
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/4/3857/14788526683_7801f149bf_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/14788526683/in/photolist-owP4KZ-os11Bz-orZZwi-opYbNJ
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Polypore soufré
@@ -20,10 +14,18 @@ details:
   genre: Laetiporus
   espece: sulphureus
   litterature: Murrill, W.A. 1920. Corrections and additions to the polypores of temperate North America. Mycologia. 12(1):6-24
-  fongariums:
-    - fongarium: cKc0188
-      date: 24 juillet 2014
-  numero-de-planche-micrographique: cKc0188-0040
+
+collections:
+  - fongarium: cKc0188
+    date: 24 juillet 2014
+    planche:
+      numero: cKc0188-0040
+      miniature: https://c2.staticflickr.com/4/3857/14788526683_7801f149bf_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/14788526683/in/photolist-owP4KZ-os11Bz-orZZwi-opYbNJ
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,9 +77,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +110,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle à commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -136,9 +135,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -253,7 +250,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche à blanchâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

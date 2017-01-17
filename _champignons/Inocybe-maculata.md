@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3736/9537628135_495f242585_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9537628135/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
 album-flickr:
   - 72157675124608175
-planches:
-  - miniature: https://c1.staticflickr.com/1/592/22914526952_12722fa6c6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/22914526952/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
 
 details:
   nom-francais: Inocybe maculé
@@ -17,10 +14,18 @@ details:
   genre: Inocybe
   espece: maculata
   litterature: Boudier, J.L.É. 1885. Description de quelques espèces nouvelles de champignons basidiosporés. Bulletin de la Société Botanique de France. 32:282-283
-  fongariums:
-    - fongarium: cKc0115
-      date: 18 août 2013
-  numero-de-planche-micrographique: cKc0115-0101
+
+collections:
+  - fongarium: cKc0115
+    date: 18 août 2013
+    planche:
+      numero: cKc0115-0101
+      miniature: https://c1.staticflickr.com/1/592/22914526952_12722fa6c6_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/22914526952/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -81,8 +86,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-confirmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 
@@ -116,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -141,9 +144,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -262,7 +263,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun à brun cannelle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

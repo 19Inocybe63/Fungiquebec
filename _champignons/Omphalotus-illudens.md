@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8431/7710718004_d5e8a9582b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7710718004/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
 album-flickr:
   - 72157671763938194
-planches:
-  - miniature: https://c1.staticflickr.com/9/8358/8303542541_4758fa8d5b_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8303542541/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
 
 details:
   nom-francais: Clitocybe lumineux
@@ -17,10 +14,18 @@ details:
   genre: Omphalotus
   espece: illudens
   litterature: Bresinsky, A.; Besl, H. 1979. Zum verwandtschaftlichen Anschluss von Omphalotus. Beihefte zur Sydowia. 8:98-109
-  fongariums:
-    - fongarium: cKc0007
-      date: 4 août 2012
-  numero-de-planche-micrographique: cKc0007-0007
+
+collections:
+  - fongarium: cKc0007
+    date: 4 août 2012
+    planche:
+      numero: cKc0007-0007
+      miniature: https://c1.staticflickr.com/9/8358/8303542541_4758fa8d5b_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8303542541/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,7 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +138,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -253,7 +255,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: crème, jaune pâle à légèrement verdâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: avec extrémités hyphales dans le revêtement caulinaire

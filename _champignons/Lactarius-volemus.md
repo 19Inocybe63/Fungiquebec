@@ -7,7 +7,7 @@ album-flickr:
   - 72157679268660725
 
 details:
-  nom-francais: 
+  nom-francais: Lactaire à lait abondant
   autorites: ss. Hesler & A. H. Sm.
   ordre: Russulales
   famille: Russulaceae

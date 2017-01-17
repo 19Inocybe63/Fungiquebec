@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7309/8937592313_9fb6943bef_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8937592313/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
 album-flickr:
   - 72157673827899631
-planches:
-  - miniature: https://c2.staticflickr.com/6/5466/17645661958_7e54d295cb_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/17645661958/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
 
 details:
   nom-francais: Mitrule élégante
@@ -17,10 +14,18 @@ details:
   genre: Mitrula
   espece: elegans
   litterature: Berkeley, M.J. 1875. Notices of North American fungi. Grevillea. 3(28):145-160
-  fongariums:
-    - fongarium: cKc0045
-      date: 3 juin 2013
-  numero-de-planche-micrographique: cKc0045-0087
+
+collections:
+  - fongarium: cKc0045
+    date: 3 juin 2013
+    planche:
+      numero: cKc0045-0087
+      miniature: https://c2.staticflickr.com/6/5466/17645661958_7e54d295cb_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/17645661958/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,7 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +138,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -246,7 +248,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: avec terminaisons hyphales, parfois isolées, en faisceaux ou emmêlées

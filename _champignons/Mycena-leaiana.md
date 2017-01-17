@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/8/7702/27786798991_80faf1d330_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27786798991/in/photolist-JkqBge-Hw4bwF-eW5sug-eW5pRM/
 album-flickr:
   - 72157676223305045
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Mycène de Léa
@@ -20,12 +14,28 @@ details:
   genre: Mycena
   espece: leaiana
   litterature: Saccardo, P.A. 1891. Supplementum Universale, Pars I. Agaricaceae-Laboulbeniaceae. Sylloge Fungorum. 9:1-1141
-  fongariums:
-    - fongarium: cKc0054
-      date: 26 juin 2013
-    - fongarium: cKc0501
-      date: 23 juin 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0054
+    date: 26 juin 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45'28.7"N 71°19'37.0"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0501
+    date: 23 juin 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -76,9 +86,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -112,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -137,9 +144,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -249,7 +254,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

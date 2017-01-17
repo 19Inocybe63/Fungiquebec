@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/527/20002235135_b8e49c6294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20002235135/in/photolist-Ajog3r-wtwKDr-wtwFD2
 album-flickr:
   - 72157678499858696
-planches:
-  - miniature: https://c1.staticflickr.com/1/644/22524170105_2e41373db9_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/22524170105/in/photolist-Ajog3r-wtwKDr-wtwFD2
 
 details:
   nom-francais: Inocybe à jolies spores
@@ -17,18 +14,58 @@ details:
   genre: Inocybe
   espece: calospora
   litterature: Bresadola, G. 1882. Fungi tridentini. Fungi Tridentini. 1(2):15-26
-  fongariums:
-    - fongarium: cKc0330
-      date: 7 juillet 2015
-    - fongarium: cKc0335
-      date: 13 juillet 2015
-    - fongarium: cKc0343
-      date: 19 juillet 2015
-    - fongarium: cKc0345
-      date: 15 juillet 2015
-    - fongarium: cKc0375
-      date: 25 juillet 2015
-  numero-de-planche-micrographique: cKc0375-0100
+
+collections:
+  - fongarium: cKc0330
+    date: 7 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0335
+    date: 13 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0343
+    date: 19 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0345
+    date: 15 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0375
+    date: 25 juillet 2015
+    planche:
+      numero: cKc0375-0100
+      miniature: https://c1.staticflickr.com/1/644/22524170105_2e41373db9_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/22524170105/in/photolist-Ajog3r-wtwKDr-wtwFD2
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -92,9 +129,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: De Claude Kaufholtz-Couture. « Dans les mesures des spores, Kauffman (North American Flora, vol. 10, Part 4, Inocybe, 1924, p. 233) inclut les digitations dans la mesure. Pour ma part, je ne les inclus pas, elles sont mesurées à part. »
   conidies: 
@@ -128,7 +162,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -153,9 +187,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

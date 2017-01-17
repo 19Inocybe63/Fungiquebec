@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8309/7996768584_cf8f588230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996768584/in/photolist-dWueXc-dbDwGq-dbDukK
 album-flickr:
   - 72157678504766025
-planches:
-  - miniature: https://c1.staticflickr.com/9/8237/8492882069_100cdc0535_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8492882069/in/photolist-dWueXc-dbDukK-dbDwGq
 
 details:
   nom-francais: Bolet insolite
@@ -17,10 +14,18 @@ details:
   genre: Leccinum
   espece: insolens
   litterature: Smith, A.H.; Thiers, H.D.; Watling, R. 1968. Notes on species of Leccinum. I., Additions to Section Leccinum. Lloydia. 31(3):252-267
-  fongariums:
-    - fongarium: cKc0011
-      date: 16 septembre 2012
-  numero-de-planche-micrographique: cKc0011-0016
+
+collections:
+  - fongarium: cKc0011
+    date: 16 septembre 2012
+    planche:
+      numero: cKc0011-0016
+      miniature: https://c1.staticflickr.com/9/8237/8492882069_100cdc0535_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8492882069/in/photolist-dWueXc-dbDukK-dbDwGq
+    geolocalisation: 46°57'01.25"N 71°17'51.46"O
+    altitude: 412 m
+    determinee: Geoffrey Kibby (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: Geoffrey Kibby
   columelle: 
   commentaires: De Claude Kaufholtz-Couture. « La marge débordante ainsi que la couleur du chapeau dans les teintes de brun sont deux des caractéristiques fiables. La face poroïde blanchâtre brunissant à maturité et au froissement est un autre caractère important. »
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: blanchâtre, brunissant à maturité et au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

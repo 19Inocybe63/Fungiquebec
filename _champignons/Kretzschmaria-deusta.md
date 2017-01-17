@@ -16,14 +16,24 @@ details:
   litterature: Martin, P. 1970. Studies in the Xylariaceae:VIII. Xylaria and its allies. South African Journal of Botany. 36(2):73-138
 
 collections:
+  - fongarium: sans numéro
+    date: 17 juin 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05
+    determinee: 
+    confirmee: 
   - fongarium: cKc0314
     date: 14 juin 2015
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

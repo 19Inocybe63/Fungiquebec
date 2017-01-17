@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3898/14937584416_30a6aeecf8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14937584416/in/photolist-ovww45-fdnUT4-fdC9HL-oKZ2qU
 album-flickr:
   - 72157675493594446
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Marasme à beau pied
@@ -17,12 +14,28 @@ details:
   genre: Marasmius
   espece: pulcherripes
   litterature: Peck, C.H. 1872. Report of the Botanist (1870). Annual Report on the New York State Museum of Natural History. 24:41-108
-  fongariums:
-    - fongarium: cKc0089
-      date: 20 juillet 2013
-    - fongarium: cKc0204
-      date: 18 août 2014
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0089
+    date: 20 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0204
+    date: 18 août 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -74,7 +87,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
   columelle: 
   commentaires: 
   conidies: 
@@ -108,7 +120,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle à commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -133,9 +145,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel à commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -244,7 +254,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

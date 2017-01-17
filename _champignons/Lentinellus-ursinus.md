@@ -22,8 +22,8 @@ collections:
       numero: cKc0018-0022
       miniature: https://c1.staticflickr.com/9/8537/8619550942_816d04704a_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8619550942/in/photolist-e8Fsch-e6GY2R/
-    geolocalisation: 
-    altitude: 
+    geolocalisation: 46°48'40.46"N 71°21'30.15"O
+    altitude: 1.06 km
     determinee: Claude Kaufholtz-Couture
     confirmee: Roland Labbé
 

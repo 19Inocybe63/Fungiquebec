@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/758/21351416242_15fbc668f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21351416242/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
 album-flickr:
   - 72157675062059436
-planches:
-  - miniature: https://c2.staticflickr.com/2/1614/24702242666_282e8ab4c6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/24702242666/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
 
 details:
   nom-francais: Omphale de Kauffman
@@ -17,10 +14,18 @@ details:
   genre: Xeromphalina
   espece: kauffmanii
   litterature: Smith, A.H. 1953. New and rare agarics from the Douglas Lake region and Tahquamenon Falls State Park, Michigan, and an account of the North American species of Xeromphalina. Papers of the Michigan Academy of Sciences. 38:53-87
-  fongariums:
-    - fongarium: cKc0460
-      date: 12 septembre 2015
-  numero-de-planche-micrographique: cKc0460-0111
+
+collections:
+  - fongarium: cKc0460
+    date: 12 septembre 2015
+    planche:
+      numero: cKc0460-0111
+      miniature: https://c2.staticflickr.com/2/1614/24702242666_282e8ab4c6_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/24702242666/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,7 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -134,7 +138,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -246,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous chênes et hêtres (Fagus, Quercus)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, cassante, crème
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -132,7 +132,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: de fruits de mer
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -195,7 +195,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -209,7 +209,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -243,18 +243,20 @@ description:
     Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = olive sur le chapeau ; orangé sur le latex
+    FeSO<sub>4</sub> = instantanément vert à bleu vert foncé sur la chair
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

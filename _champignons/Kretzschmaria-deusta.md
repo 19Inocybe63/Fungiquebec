@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/439/18809605881_84a527218e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18809605881/in/photolist-unstDz-unjxuY-cfNfNb-uE99vF
 album-flickr:
   - 72157675766389235
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Ustuline brûlée
@@ -17,10 +14,18 @@ details:
   genre: Kretzschmaria
   espece: deusta
   litterature: Martin, P. 1970. Studies in the Xylariaceae:VIII. Xylaria and its allies. South African Journal of Botany. 36(2):73-138
-  fongariums:
-    - fongarium: cKc0314
-      date: 14 juin 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0314
+    date: 14 juin 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -71,7 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -105,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -130,9 +134,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: très commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -240,7 +242,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: noire
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

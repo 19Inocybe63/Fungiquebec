@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3894/15353097812_268277f7f5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15353097812/in/photolist-pmGdss-poGD5Y
 album-flickr:
   - 72157675717994590
-planches:
-  - miniature: https://c1.staticflickr.com/9/8681/16008432500_8bcd687ec5_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16008432500/in/photolist-qoBpfU-p8YGN4-pqsjxJ
 
 details:
   nom-francais: Bolet blanc des marais ou Bolet blanc de neige
@@ -17,12 +14,28 @@ details:
   genre: Leccinum
   espece: holopus var. americanum
   litterature: Smith, A.H.; Thiers, H.D. 1971. The Boletes of Michigan. :1-428
-  fongariums:
-    - fongarium: cKc0271
-      date: 25 septembre 2014
-    - fongarium: cKc0275
-      date: 27 septembre 2014
-  numero-de-planche-micrographique: cKc0275-0063
+
+collections:
+  - fongarium: cKc0271
+    date: 25 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0275
+    date: 27 septembre 2014
+    planche:
+      numero: cKc0275-0063
+      miniature: https://c1.staticflickr.com/9/8681/16008432500_8bcd687ec5_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16008432500/in/photolist-qoBpfU-p8YGN4-pqsjxJ
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -79,9 +92,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: De Yves Lamoureux. « Leccinum holopus ne rougirait pas à la coupe en Europe, ou tout au plus il rosit un peu ; au Québec, en coupe transversale, il rougit vivement puis devient noir en quinze minutes ; aucun noircissement n'est mentionné pour l'Europe, à ma connaissance. Par ailleurs, il n'est pas prouvé hors de tout doute qu'un seul bolet d'Europe pousse chez nous. »
   conidies: 
@@ -115,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +150,7 @@ description:
   face-externe: 
   face-poroïde: blanchâtre, brunissant à maturité, parfois ornée de minuscules taches bleu-vert, brunissant au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -261,7 +269,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brune
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

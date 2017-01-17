@@ -5,12 +5,6 @@ image: https://c1.staticflickr.com/9/8364/28809911693_d4176fcf69_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28809911693/in/photolist-KTQk2p-LphUVN
 album-flickr:
   - 72157660672410068
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: 
@@ -20,10 +14,18 @@ details:
   genre: Lactarius
   espece: turpis
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-  fongariums:
-    - fongarium: cKc0557
-      date: 3 septembre 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0557
+    date: 3 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -76,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -112,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -137,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -252,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: crème pâle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

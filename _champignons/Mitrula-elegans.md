@@ -22,8 +22,8 @@ collections:
       numero: cKc0045-0087
       miniature: https://c2.staticflickr.com/6/5466/17645661958_7e54d295cb_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/17645661958/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
-    geolocalisation: 
-    altitude: 
+    geolocalisation: 46°45'28.7"N 71°19'37.0"O
+    altitude: 1.08 km
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

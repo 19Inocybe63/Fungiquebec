@@ -82,7 +82,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Comme nous ne sommes pas en Europe, notre L. volemus devient donc à ce jour : Lactarius volemus ss. Hesler & A. H. Sm., puisque ces auteurs ont réécrit l'espèce uniquement à partir de récoltes américaines dans leur monographie (1979). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -132,9 +132,9 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: de fruits de mer
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison: 
+  exhalaison-de-la-chair: de fruit de mer
+  exhalaison-des-lames: de fruit de mer
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -251,7 +251,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: douce
+  saveur: douce, agréable
   sclerocystides: 
   sclerote: 
   soies: 

@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5567/15033475346_6db9feaa38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15033475346/in/photolist-qzgfEY-oUsusN
 album-flickr:
   - 
-  - 
-planches:
-  - miniature: https://c1.staticflickr.com/9/8673/16128982836_54334949ef_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16128982836/in/photolist-qzgfEY-oUsusN
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet blanchâtre
@@ -20,10 +14,18 @@ details:
   genre: Leccinellum
   espece: albellum
   litterature: Bresinsky, A.; Besl, H. 2003. Beiträge zu einer Mykoflora Deutschlands - Schlüssel zur Gattungsbestimmung der Blätter-, Leisten- und Röhrenpilze mit Literaturhinweisen zur Artbestimmung. Regensburger Mykologische Schriften. 11:1-236
-  fongariums:
-    - fongarium: cKc0222
-      date: 27 août 2014
-  numero-de-planche-micrographique: cKc0222-0062
+
+collections:
+  - fongarium: cKc0222
+    date: 27 août 2014
+    planche:
+      numero: cKc0222-0062
+      miniature: https://c1.staticflickr.com/9/8673/16128982836_54334949ef_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16128982836/in/photolist-qzgfEY-oUsusN
+    geolocalisation: 
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -78,9 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: |
     Question de cKc = L'espèce a-t-elle un sosie ?
@@ -116,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -141,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: blanchâtre, brunissant avec l'âge, immuable au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -261,7 +258,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brune
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

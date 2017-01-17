@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5831/19949912134_a097b3d209_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19949912134/in/photolist-AYH9DB-woUvQj-x4iWC5/
 album-flickr:
   - 72157676790172411
-planches:
-  - miniature: https://c2.staticflickr.com/6/5666/22957882573_3ff7c20644_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/22957882573/in/photolist-AYH9DB-woUvQj-x4iWC5/
 
 details:
   nom-francais: Inocybe rimeux
@@ -17,10 +14,18 @@ details:
   genre: Inocybe
   espece: rimosa
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-  fongariums:
-    - fongarium: cKc0405
-      date: 14 août 2015
-  numero-de-planche-micrographique: cKc0405-0103
+
+collections:
+  - fongarium: cKc0405
+    date: 14 août 2015
+    planche:
+      numero: cKc0405-0103
+      miniature: https://c2.staticflickr.com/6/5666/22957882573_3ff7c20644_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/22957882573/in/photolist-AYH9DB-woUvQj-x4iWC5/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -83,9 +88,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: De Claude Kaufholtz-Couture. « Une fois déshydraté, cet Inocybe sent un mélange de sueur et d'urine. »
   conidies: 
@@ -119,7 +121,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -144,9 +146,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

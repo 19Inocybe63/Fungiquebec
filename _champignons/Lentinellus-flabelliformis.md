@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8192/8084204057_9ff65926da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084204057/in/photolist-dwGgDp-djnDe7-djnEdz
 album-flickr:
   - 72157675222116356
-planches:
-  - miniature: https://c1.staticflickr.com/9/8058/8223633205_b17927e549_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8223633205/in/photolist-dwGgDp-djnDe7-djnEdz
 
 details:
   nom-francais: Lentin en éventail
@@ -17,10 +14,18 @@ details:
   genre: Lentinellus
   espece: flabelliformis
   litterature: Ito, S. 1955. Mycological Flora of Japan. Basidiomycetes. 2(4):1-450
-  fongariums:
-    - fongarium: cKc0021
-      date: 13 octobre 2012
-  numero-de-planche-micrographique: cKc0021-0002
+
+collections:
+  - fongarium: cKc0021
+    date: 13 octobre 2012
+    planche:
+      numero: cKc0021-0002
+      miniature: https://c1.staticflickr.com/9/8058/8223633205_b17927e549_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8223633205/in/photolist-dwGgDp-djnDe7-djnEdz
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -74,7 +79,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -108,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occassionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -133,9 +137,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occassionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -247,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

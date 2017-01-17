@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5742/20784652632_8c14559e56_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20784652632/in/photolist-xEEM6S-xp12Tn
 album-flickr:
   - 72157677319225921
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Lactaire à lait verdissant
@@ -17,13 +14,18 @@ details:
   genre: Lactifluus
   espece: glaucescens
   litterature: Verbeken, A.; Van de Putte, K.; De Crop, E. 2012. New combinations in Lactifluus. 3. L. subgenera Lactifluus and Piperati. Mycotaxon. 120:443-450
-  fongariums:
-    - fongarium: cKc0426
-      date: 22 août 2015
-  numero-de-planche-micrographique: 
-  geolocalisation: 
-  elevation: 
-  altitude: 
+
+collections:
+  - fongarium: cKc0426
+    date: 22 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -76,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -138,9 +137,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

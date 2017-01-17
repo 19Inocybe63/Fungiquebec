@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5081/29319616244_6847877804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29319616244/in/photolist-LESGqU-Msekd9
 album-flickr:
   - 72157676894618835
-planches:
-  - miniature: https://c2.staticflickr.com/6/5684/31218707835_7d444d5f9a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/31218707835/in/dateposted/
 
 details:
   nom-francais: Vesse-de-loup piriforme
@@ -17,10 +14,18 @@ details:
   genre: Lycoperdon
   espece: pyriforme
   litterature: Schaeffer, J.C. 1774. Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones. 4:1-136
-  fongariums:
-    - fongarium: cKc0581
-      date: 26 septembre 2016
-  numero-de-planche-micrographique: cKc0581-0144
+
+collections:
+  - fongarium: cKc0581
+    date: 26 septembre 2016
+    planche:
+      numero: cKc0581-0144
+      miniature: https://c2.staticflickr.com/6/5684/31218707835_7d444d5f9a_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31218707835/in/dateposted/
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -78,9 +83,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: |
     De cKc. À la base du sporophore, il y a des cordons mycéliens ou rhizomorphes. À l'une des extrémités, il y avait deux petites plaques piriformes plat et échinulées. Après les avoir regardé au microscope, elles ont les mêmes terminaisons que l'exopéridium, c'est-à-dire, que le sommet des échinulations est formée de sphérocystes de même nature que l'exopéridium. Si quelqu'un peut me dire exactement ce que c'est, j'apprécierais. Prochainement, un dessin viendra rendre plus claire mon explication !
@@ -116,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -141,9 +143,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: blanche et ferme au début, puis jaune verdâtre et spongieuse, brun olive et poudreuse à maturité
   gleocystides: 
   gleocystides-hymeniales: 
@@ -258,7 +258,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun olivâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

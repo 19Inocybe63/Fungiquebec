@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8269/30187682516_dd519e3805_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30187682516/in/photostream/
 album-flickr:
   - 72157676762763596
-planches:
-  - miniature: https://c2.staticflickr.com/6/5772/31027116291_4d63602e40_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/31027116291/in/photostream/
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Mycena
   espece: mackinawensis
   litterature: Smith, A.H. 1953. New and rare agarics from the Douglas Lake region and Tahquamenon Falls State Park, Michigan, and an account of the North American species of Xeromphalina. Papers of the Michigan Academy of Sciences. 38:53-87
-  fongariums:
-    - fongarium: cKc0589
-      date: 9 octobre 2016
-  numero-de-planche-micrographique: cKc0589-0143
+
+collections:
+  - fongarium: cKc0589
+    date: 9 octobre 2016
+    planche:
+      numero: cKc0589-0143
+      miniature: https://c2.staticflickr.com/6/5772/31027116291_4d63602e40_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31027116291/in/photostream/
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -78,9 +83,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: |
     De Arne Aronsen. « I suspect it could be a member of sect. Fuliginellae. The cap is probably covered with a separable, gelatinous pellicle, and the gill edge should be covered by a gelatinous, elastic thread. » Voir aussi correspondance du 22 novembre 2016.
@@ -115,7 +117,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: donnée inconnue
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +142,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: donnée inconnue
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -258,7 +258,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3827/19116582812_309bc0247f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19116582812/in/photolist-v8gu4o-uRbuMb-v7UN4S
 album-flickr:
   - 72157675173497026
-planches:
-  - miniature: https://c1.staticflickr.com/1/496/19112546040_a326d36a7f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/19112546040/in/photolist-v8gu4o-uRbuMb-v7UN4S
 
 details:
   nom-francais: Mycène en casque
@@ -17,10 +14,18 @@ details:
   genre: Mycena
   espece: galericulata
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
-  fongariums:
-    - fongarium: cKc0323
-      date: 24 juin 2015
-  numero-de-planche-micrographique: cKc0323-0091
+
+collections:
+  - fongarium: cKc0323
+    date: 24 juin 2015
+    planche:
+      numero: cKc0323-0091
+      miniature: https://c1.staticflickr.com/1/496/19112546040_a326d36a7f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/19112546040/in/photolist-v8gu4o-uRbuMb-v7UN4S
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,7 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +138,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -250,7 +252,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

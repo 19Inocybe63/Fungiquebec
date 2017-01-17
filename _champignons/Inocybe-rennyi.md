@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
   - 72157678323069856
-planches:
-  - miniature: https://c1.staticflickr.com/1/752/31075700664_ec9eda465f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
 
 details:
   nom-francais: Inocybe de Renny
@@ -17,10 +14,18 @@ details:
   genre: Inocybe
   espece: rennyi
   litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
-  fongariums:
-    - fongarium: cKc0556
-      date: 9 septembre 2016
-  numero-de-planche-micrographique: cKc0556-0151
+
+collections:
+  - fongarium: cKc0556
+    date: 9 septembre 2016
+    planche:
+      numero: cKc0556-0151
+      miniature: https://c1.staticflickr.com/1/752/31075700664_ec9eda465f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -84,9 +89,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -120,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -145,9 +147,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

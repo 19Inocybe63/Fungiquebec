@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7783/29832926531_677fe9d14b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832926531/in/photolist-MwuSm1-MwuPD7-MsexGg
 album-flickr:
   - 72157675684849236
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Mélanoleuque à pied court
@@ -17,10 +14,18 @@ details:
   genre: Melanoleuca
   espece: brevipes
   litterature: Patouillard, N. 1900. Essai taxonomique sur les familles et les genres des Hyménomycètes. :1-184
-  fongariums:
-    - fongarium: cKc0560
-      date: 24 septembre 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0560
+    date: 24 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -71,7 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -105,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -130,9 +134,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -240,7 +242,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: pallidosporée en tas, crème pâle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

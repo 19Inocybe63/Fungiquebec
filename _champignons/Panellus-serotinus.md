@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/8/7419/10088858635_e499dc1285_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088858635/in/photolist-gnw3bx-gnvHw7
 album-flickr:
   - 72157672456112613
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Pleurote tardif
@@ -20,10 +14,18 @@ details:
   genre: Panellus
   espece: serotinus
   litterature: Kühner 1950, Compte rendu hebdomadaire des Sciences de l'Academie des sciences, Paris 230:1889
-  fongariums:
-    - fongarium: sans numéro
-      date: 4 octobre 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: sans numéro
+    date: 4 octobre 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -50,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois pourri de feuillus (Fagus)
+  biotopes: pousse sur bois pourri de feuillus, Fagus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -74,9 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -110,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +134,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -245,7 +242,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: crème jaunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

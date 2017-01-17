@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7239/7234066596_1238f17e4c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7234066596/in/photolist-c2i38s-c2ftY9
 album-flickr:
   - 72157675331655494
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: 
@@ -17,13 +14,18 @@ details:
   genre: Morchella
   espece: prava
   litterature: Kuo, M.; Dewsbury, D.R.; O'Donnell, K.; Carter, M.C.; Rehner, S.A.; Moore, J. D.; Moncalvo, J.-M.; Canfield, S.A.; Stephenson, S.L.; Methven, A.S.; Volk, T.J. 2012. Taxonomic revision of true morels (Morchella) in Canada and the United States. Mycologia. 104(5):1159-1177
-  fongariums:
-    - fongarium: sans numéro
-      date: 20 mai 2012
-  numero-de-planche-micrographique: 
-  geolocalisation: 
-  elevation: 
-  altitude: 
+
+collections:
+  - fongarium: sans numéro
+    date: 20 mai 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Philippe Clowez
 
 description:
   acanthocytes: 
@@ -76,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Philippe Clowez
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -138,7 +137,6 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 

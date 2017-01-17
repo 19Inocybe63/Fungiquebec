@@ -17,10 +17,18 @@ details:
   genre: Lactarius
   espece: lignyotus
   litterature: Fries 1855, Monogr. Lact. Suec.:25
-  fongariums:
-    - fongarium: cKc0277
-      date: 27 septembre 2014
-  numero-de-planche-micrographique: cKc0277-0061
+
+collections:
+  - fongarium: cKc0277
+    date: 27 septembre 2014
+    planche:
+      numero: cKc0277-0061
+      miniature: https://c2.staticflickr.com/8/7571/15941932100_61d3bc471c_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15941932100/in/photolist-pqu9V6-qhJz1h-p8Z5Ax
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -76,7 +84,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -110,7 +117,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +142,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -252,7 +257,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanc crème au jaune orangé
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

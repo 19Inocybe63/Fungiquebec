@@ -82,7 +82,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Comme nous ne sommes pas en Europe, notre L. volemus devient donc à ce jour : Lactarius volemus ss. Hesler & A. H. Sm., puisque ces auteurs ont réécrit l'espèce uniquement à partir de récoltes américaines dans leur monographie (1979). »
+  commentaires: De Claude Kaufholtz-Couture. « Comme nous ne sommes pas en Europe, notre L. volemus devient donc à ce jour Lactarius volemus ss. Hesler & A. H. Sm., puisque ces auteurs ont réécrit l'espèce uniquement à partir de récoltes américaines dans leur monographie (1979). »
   conidies: 
   conidiome: 
   conidiophores: 

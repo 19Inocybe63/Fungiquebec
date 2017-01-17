@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, cassante, crème
   chancre: 
-  chapeau: 
+  chapeau: 30-103 mm Ø, convexe au début avec une marge enroulée, devenant étalé, avec une dépression centrale, avec ombon au disque, lisses ou légèrement craquelé, mais généralement finement veloutés au toucher, du moins lorsqu'ils sont jeunes, orange brunâtre, brun orangé, ou parfois plus léger, ou parfois plus foncé s'approchant ± du rouge brun foncé, sans zones concentriques de couleur, mais souvent plus foncée vers le centre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -177,12 +177,12 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, sublarges, souvent fourchues près de la marge piléique, serrées, blanc crème, se tachant lentement de brun fauve
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: copieux, résineux, blanc, devenant parfois brunâtre à la coupe, tachant les tissus et le papier blanc de brun, à saveur douce
   leptocystides: 
   leptopleurocystides: 
   macrocystides: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 50-100 x 8-25 mm Ø, cylindrique, égal, atténué vers la base, plein au début puis creux à maturité, lisse, parfois pruineux à vaguement côtelé longitudinalement, concolore au chapeau ou plus pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -244,7 +244,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = olive sur le chapeau ; orangé sur le latex
+    KOH 10% = olive sur le chapeau ; orange à orange pâle sur le latex
     FeSO<sub>4</sub> = instantanément vert à bleu vert foncé sur la chair
   receptacle: 
   remarques: 

@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20814861412/in/photolist-xtpr2s-xJ3sDc-xHkB7U
 album-flickr:
   - 72157674612351426
-planches:
-  - miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20657176960/in/photolist-xtpr2s-xJ3sDc-xHkB7U
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Octaviania
   espece: asterosperma
   litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-  fongariums:
-    - fongarium: cKc0430
-      date: 23 août 2015
-  numero-de-planche-micrographique: cKc0430-0098
+
+collections:
+  - fongarium: cKc0430
+    date: 23 août 2015
+    planche:
+      numero: cKc0430-0098
+      miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/20657176960/in/photolist-xtpr2s-xJ3sDc-xHkB7U
+    geolocalisation: 
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Paco Sáinz et Pedro M. Pasaban
 
 description:
   acanthocytes: 
@@ -76,8 +81,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Paco Sáinz et Pedro M. Pasaban
-  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +114,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: inconnue
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -133,7 +136,6 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
   glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
@@ -246,7 +248,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

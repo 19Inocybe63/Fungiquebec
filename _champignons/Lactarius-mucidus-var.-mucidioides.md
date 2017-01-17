@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8178/7996919806_53f97e1310_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996919806/in/photolist-e9JUKB-dbEiDG
 album-flickr:
   - 
-planches:
-  - miniature: https://c1.staticflickr.com/9/8104/8631542113_1917e45b33_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8631542113/in/photolist-e9JUKB-dbEiDG
 
 details:
   nom-francais: Lactaire muqueux
@@ -17,10 +14,18 @@ details:
   genre: Lactarius
   espece: mucidus var. mucidioides
   litterature: Hesler, L.R.; Smith, A.H. 1979. North American species of Lactarius. :1-841
-  fongariums:
-    - fongarium: cKc0015
-      date: 16 septembre 2012
-  numero-de-planche-micrographique: cKc0015-0023
+
+collections:
+  - fongarium: cKc0015
+    date: 16 septembre 2012
+    planche:
+      numero: cKc0015-0023
+      miniature: https://c1.staticflickr.com/9/8104/8631542113_1917e45b33_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8631542113/in/photolist-e9JUKB-dbEiDG
+    geolocalisation: 46°57'01.25"N 71°17'51.46"O
+    altitude: 412 m
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Walt Sturgeon
 
 description:
   acanthocytes: 
@@ -75,8 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Walt Sturgeon (Mushroom Observer)
-  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -110,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +138,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -252,7 +253,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: Pallidosporée, crème
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

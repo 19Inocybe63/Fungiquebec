@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8351/28651501954_d36f8d1517_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28651501954/in/photolist-KDQrk1-KDZWbi/
 album-flickr:
   - 72157677287111181
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Lactaire velouteux
@@ -17,13 +14,18 @@ details:
   genre: Lactifluus
   espece: subvellereus
   litterature: Verbeken, A.; Buyck, B.; Nuytinck, J. 2011. New combinations in Lactifluus. 1. L. subgenera Edules, Lactariopsis, and Russulopsis. Mycotaxon. 118:447-453
-  fongariums:
-    - fongarium: cKc0550
-      date: 27 août 2016
-  numero-de-planche-micrographique: 
-  geolocalisation: 
-  elevation: 
-  altitude: 
+
+collections:
+  - fongarium: cKc0550
+    date: 27 août 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -76,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -138,9 +137,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

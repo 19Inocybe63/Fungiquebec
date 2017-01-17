@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5714/20740537014_8d15c5fb89_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20740537014/in/photolist-ywQRi9-xALF4L
 album-flickr:
   - 72157676777053822
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet orangé
@@ -17,10 +14,18 @@ details:
   genre: Leccinum
   espece: aurantiacum
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
-  fongariums:
-    - fongarium: cKc0459
-      date: 12 septembre 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0459
+    date: 12 septembre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -110,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +137,7 @@ description:
   face-externe: 
   face-poroïde: beige, brunissant au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

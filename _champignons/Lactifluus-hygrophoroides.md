@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3707/9368669824_b30939639b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9368669824/in/photolist-fgST95-fgSS7N
 album-flickr:
   - 72157677404447085
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Lactaire hygrophore
@@ -17,10 +14,18 @@ details:
   genre: Lactifluus
   espece: hygrophoroides
   litterature: Kuntze, O. 1898. Revisio generum plantarum. 3:1-576
-  fongariums:
-    - fongarium: cKc0091
-      date: 25 juillet 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0091
+    date: 25 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°18'05.3"N 73°05'41.8"O
+    altitude: 341 m
+    determinee: 
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -249,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche à crème
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -77,7 +77,7 @@ description:
   base-stipitiforme: 
   basides: courtement ovoïdales à claviformes, parfois légèrement atténuées à la base, tétrastérigmates, bouclées à la base, 20 [23,2; 25,4] 28,6 x 9,1 [10,5; 11,5] 13 µm
   basidiospores: |
-    ovoïdales à subhexagonales vue frontale à globalement largement oblongues à oblongues allongées vue de profil, tronquées, lisses, à paroi légèrement épaissie 0,3 µm en moyenne, avec appendice hilaire bien visible et pore germinatif centré à excentré 1,3 [1,5; 1,7] 1,8 µm, à contenu variable, brunes dans le NaCl iso, inactives dans le melzer, non cyanophiles
+    ovoïdales à subhexagonales vue frontale à globalement largement oblongues à oblongues allongées vue de profil, tronquées, lisses, à paroi légèrement épaissie 0,3 µm en moyenne, avec appendice hilaire bien visible et pore germinatif centré à excentré 1,3 [1,5; 1,7] 1,8 µm, à contenu variable, brunes dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
     (12,2) 12,5 - 13,6 (14,3) × (6,3) 6,6 - 7,5 (8,3) µm
     Q = (1,5) 1,7 - 2 (2,1); N = 30
     Me = 13,1 × 7 µm; Qe = 1,9

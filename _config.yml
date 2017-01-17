@@ -144,9 +144,9 @@ champs-collections:
   - name: altitude
     label: Altitude
   - name: determinee
-    label: Déterminée par
+    label: Déterminée
   - name: confirmee
-    label: Confirmée par
+    label: Confirmée
 
 champs-description:
   - name: apothecie

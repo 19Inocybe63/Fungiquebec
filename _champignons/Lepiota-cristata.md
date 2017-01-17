@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7403/9126745733_af90e42d4e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9126745733/in/photolist-BJxJfm-wMd74K-eUuXx4-eUGkvN-eUF9pL-eUEToS-dfHuSE
 album-flickr:
   - 72157675908715850
-planches:
-  - miniature: https://c2.staticflickr.com/6/5650/23453970304_0fd268d4c9_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/23453970304/in/photolist-BJxJfm-wMd74K-eUuXx4-eUGkvN-eUF9pL-eUEToS-dfHuSE
 
 details:
   nom-francais: Lepiote cretée
@@ -17,14 +14,38 @@ details:
   genre: Lepiota
   espece: cristata
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-  fongariums:
-    - fongarium: sans numéro
-      date: 30 septembre 2012
-    - fongarium: cKc0050
-      date: 24 juin 2013
-    - fongarium: cKc0388
-      date: 1 août 2015
-  numero-de-planche-micrographique: cKc0388-0106
+
+collections:
+  - fongarium: sans numéro
+    date: 30 septembre 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°54'03.96"N 71°10'40.83"O
+    altitude: 476 m
+    determinee: 
+    confirmee: Roland Labbé
+  - fongarium: cKc0050
+    date: 24 juin 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.50 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0388
+    date: 1 août 2015
+    planche:
+      numero: cKc0388-0106
+      miniature: https://c2.staticflickr.com/6/5650/23453970304_0fd268d4c9_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/23453970304/in/photolist-BJxJfm-wMd74K-eUuXx4-eUGkvN-eUF9pL-eUEToS-dfHuSE
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -81,9 +102,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -117,7 +135,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -142,9 +160,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -253,7 +269,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche à crème
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

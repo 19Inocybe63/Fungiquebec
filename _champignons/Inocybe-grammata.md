@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/335/18276172193_8a7128149f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18276172193/in/photolist-uKdsm9-uvp2YK-tR1ag8
 album-flickr:
   - 72157678574737955
-planches:
-  - miniature: https://c1.staticflickr.com/1/462/18867028808_2c525f021b_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/18867028808/in/photolist-uKdsm9-uvp2YK-tR1ag8
 
 details:
   nom-francais: Inocybe rayé ou Inocybe sillonné
@@ -17,12 +14,28 @@ details:
   genre: Inocybe
   espece: grammata
   litterature: Le Breton, A.; Quélet, L. 1879. Champignons récemment observés en Normandie, aux environs de Paris et de La Rochelle, en Alsace, en Suisse et dans les montagnes du Jura et des Vosges. Bulletin de la Société des Amis des Sciences Naturelles du Musée de Rouen. 15:153-184
-  fongariums:
-    - fongarium: cKc0315
-      date: 17 juin 2015
-    - fongarium: cKc0322
-      date: 22 juin 2015
-  numero-de-planche-micrographique: cKc0315-0089
+
+collections:
+  - fongarium: cKc0315
+    date: 17 juin 2015
+    planche:
+      numero: cKc0315-0089
+      miniature: https://c1.staticflickr.com/1/462/18867028808_2c525f021b_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/18867028808/in/photolist-uKdsm9-uvp2YK-tR1ag8
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Erminio Ferrari
+  - fongarium: cKc0322
+    date: 22 juin 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -85,9 +98,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Erminio Ferrari
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -121,7 +131,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -146,9 +156,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

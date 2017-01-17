@@ -5,12 +5,6 @@ image: https://c1.staticflickr.com/9/8769/28037429074_2cd09ed90b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28037429074/in/photolist-JHz9Ry
 album-flickr:
   - 72157676306656305
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet affine var. maculosus
@@ -20,12 +14,28 @@ details:
   genre: Xanthoconium
   espece: affine var. maculosus
   litterature: Singer, R. 1947. The Boletoideae of Florida. The Boletineae of Florida with notes on extralimital species III. The American Midland Naturalist. 37:1-135
-  fongariums:
-    - fongarium: cKc0526
-      date: 30 juillet 2016
-    - fongarium: cKc0527
-      date: 30 juillet 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0526
+    date: 30 juillet 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0527
+    date: 30 juillet 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -78,9 +88,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -139,7 +146,6 @@ description:
   face-externe: 
   face-poroïde: blanche crème puis jaune brunâtre avec l'âge, brunissant un peu au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
   glebe: 
   gleocystides: 
@@ -254,7 +260,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: jaune brunâtre à ocre brunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

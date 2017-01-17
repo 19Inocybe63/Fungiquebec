@@ -5,13 +5,6 @@ image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18014840069/in/photolist-HDHSvu-HNrU6e-FUfGoV-tG2gVW-trUAiD-trLvyU-trULjR-dB653b-rLyqV3-f4auVu-eUs8vP-eUsn5z-eUDu43-cU6gkJ-cU6fJE-cU6fxJ-cU6fXb
 album-flickr:
   - 72157671467848974
-planches:
-  - miniature: https://c1.staticflickr.com/9/8492/8273347718_58d8cdec4a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8273347718/
-  - miniature: https://c2.staticflickr.com/8/7721/16913172420_83e9a70342_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16913172420/
-  - miniature: https://c2.staticflickr.com/2/1598/26189239201_730d0fd85d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/26189239201/
 
 details:
   nom-francais: 
@@ -20,16 +13,48 @@ details:
   famille: Strophariaceae
   genre: Leratiomyces
   espece: riparius
-  fongariums:
-    - fongarium: cKc0037
-      date: 18 août 2012
-    - fongarium: cKc0049
-      date: 24 juin 2013
-    - fongarium: cKc0305
-      date: 28 mai 2015
-    - fongarium: cKc0493
-      date: 3 juin 2016
-  numero-de-planche-micrographique: cKc0037-0004 ; cKc0049-0080 ; cKc0305-0120
+
+collections:
+  - fongarium: cKc0037
+    date: 18 août 2012
+    planche:
+      numero: 
+      miniature: https://c1.staticflickr.com/9/8492/8273347718_58d8cdec4a_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8273347718/
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0049
+    date: 24 juin 2013
+    planche:
+      numero: 
+      miniature: https://c2.staticflickr.com/8/7721/16913172420_83e9a70342_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16913172420/
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0305
+    date: 28 mai 2015
+    planche:
+      numero: 
+      miniature: https://c2.staticflickr.com/2/1598/26189239201_730d0fd85d_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/26189239201/
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0493
+    date: 3 juin 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: absents
@@ -84,7 +109,6 @@ description:
   chrysocystides: absentes
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: La collection cKc0305 fut étudiée sur matériel déshydraté
   conidies: 
@@ -118,7 +142,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare, car connu seulement dans une station au Québec ; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -142,9 +166,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare, car connu seulement dans une station au Québec ; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -262,7 +284,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: gris pourpre, brun
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

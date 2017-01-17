@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8405/30103944306_f590dd4289_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30103944306/in/photolist-MKa8td-MSbzQw-zh9iiC-zipnKU-ziqiVN-ynrGC5-zjtkWT
 album-flickr:
   - 72157676778041812
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet rude
@@ -17,14 +14,38 @@ details:
   genre: Leccinum
   espece: scabrum
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
-  fongariums:
-    - fongarium: cKc0483
-      date: 1 octobre 2015
-    - fongarium: cKc0484
-      date: 1 octobre 2015
-    - fongarium: cKc0583
-      date: 27 septembre 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0483
+    date: 1 octobre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0484
+    date: 1 octobre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0583
+    date: 27 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -77,9 +98,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -114,7 +132,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -139,9 +157,7 @@ description:
   face-externe: 
   face-poroïde: blanchâtre, brunissant avec l'âge et au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

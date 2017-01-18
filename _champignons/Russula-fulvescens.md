@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8214/29040518066_72b46c7929_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29040518066/in/photolist-Lfdfgm
 album-flickr:
   - 
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Russule fauvâtre
@@ -17,10 +14,18 @@ details:
   genre: Russula
   espece: fulvescens
   litterature: Burlingham, G.S. 1915. Russula. North American Flora. 9:201-236
-  fongariums:
-    - fongarium: cKc0539
-      date: 18 août 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0539
+    date: 18 août 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -110,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -249,7 +252,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: ochrosporée IIIa-IIIb, d'après la charte de couleur de Romagnesi et D-E d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

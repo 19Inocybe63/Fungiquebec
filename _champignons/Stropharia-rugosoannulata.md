@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3766/9169017888_13dd353b07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9169017888/in/photolist-eYeErh-eYeBzj
 album-flickr:
   - 72157676456121516
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Strophaire à anneau rugueux
@@ -17,14 +14,38 @@ details:
   genre: Stropharia
   espece: rugosoannulata
   litterature: Murrill, W.A. 1922. Dark-spored agarics - II. Gomphidius ands Stropharia. Mycologia. 14(3):121-142
-  fongariums:
-    - fongarium: cKc0057
-      date: 29 juin 2013
-    - fongarium: cKc0316
-      date: 17 juin 2015
-    - fongarium: cKc0316
-      date: 17 juin 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0057
+    date: 29 juin 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0316
+    date: 17 juin 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0317
+    date: 17 juin 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,9 +98,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +131,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +156,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -250,7 +266,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: gris pourpre foncé à violet-noir
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

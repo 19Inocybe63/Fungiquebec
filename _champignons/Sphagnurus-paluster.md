@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/4/3881/14345415626_ee4db60ceb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14345415626/in/photolist-qad15s-nRE1hb
 album-flickr:
   - 
-  - 
-planches:
-  - miniature: https://c1.staticflickr.com/9/8646/15856752498_68f26087a9_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15856752498/in/photolist-qad15s-nRE1hb
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Téphrocybe des marais
@@ -20,10 +14,18 @@ details:
   genre: Sphagnurus
   espece: paluster
   litterature: Index Fungorum. 202
-  fongariums:
-    - fongarium: cKc0161
-      date: 7 juin 2014
-  numero-de-planche-micrographique: cKc0161-0059
+
+collections:
+  - fongarium: cKc0161
+    date: 7 juin 2014
+    planche:
+      numero: cKc0161-0059
+      miniature: https://c1.staticflickr.com/9/8646/15856752498_68f26087a9_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15856752498/in/photolist-qad15s-nRE1hb
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -78,9 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -114,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -139,9 +138,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -249,7 +246,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

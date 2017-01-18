@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/4/3857/14880591843_754fdb0487_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14880591843/in/photolist-oDagSs-oEWVwk/
 album-flickr:
   - 72157674814039630
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Tramète versicolore
@@ -20,12 +14,28 @@ details:
   genre: Trametes
   espece: versicolor
   litterature: Lloyd, C.G. 1921. Mycological Notes 65. Mycological Writings. 6(65):1029-1101
-  fongariums:
-    - fongarium: cKc0201
-      date: 8 août 2014
-    - fongarium: cKc0489
-      date: 12 octobre 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0201
+    date: 8 août 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0489
+    date: 12 octobre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -76,9 +86,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -112,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -137,9 +144,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -248,7 +253,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

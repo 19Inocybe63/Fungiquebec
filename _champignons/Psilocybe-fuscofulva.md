@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/3/2943/15155802299_c6032f05d7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15155802299/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
 album-flickr:
   - 72157676547571471
-planches:
-  - miniature: https://c1.staticflickr.com/9/8648/16758290556_2df479a4ed_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16758290556/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
 
 details:
   nom-francais: Psilocybe fauve sombre
@@ -17,16 +14,48 @@ details:
   genre: Psilocybe
   espece: fuscofulva
   litterature: Peck, C.H. 1887. Descriptions of new species of New York fungi. Bulletin of the New York State Museum. 1(2):5-24
-  fongariums:
-    - fongarium: sans numéro
-      date: 27 septembre 2013
-    - fongarium: cKc0144
-      date: 29 septembre 2013
-    - fongarium: cKc0266
-      date: 25 septembre 2014
-    - fongarium: cKc0490
-      date: 12 octobre 2015
-  numero-de-planche-micrographique: cKc0266-0073
+
+collections:
+  - fongarium: sans numéro
+    date: 27 septembre 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Alan Rockefeller
+  - fongarium: cKc0144
+    date: 29 septembre 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0266
+    date: 25 septembre 2014
+    planche:
+      numero: cKc0266-0073
+      miniature: https://c1.staticflickr.com/9/8648/16758290556_2df479a4ed_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16758290556/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0490
+    date: 12 octobre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -83,9 +112,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Alan Rockefeller
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -119,7 +145,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -144,9 +170,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

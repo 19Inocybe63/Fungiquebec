@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3840/15156170348_692c211acb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15156170348/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
 album-flickr:
   - 72157675704726796
-planches:
-  - miniature: https://c1.staticflickr.com/9/8591/16249172970_6f72387b2d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16249172970/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
 
 details:
   nom-francais: Russule aqueuse
@@ -17,14 +14,38 @@ details:
   genre: Russula
   espece: aquosa ss. Shaffer
   litterature: 
-  fongariums:
-    - fongarium: cKc0224
-      date: 27 août 2014
-    - fongarium: cKc0244
-      date: 10 septembre 2014
-    - fongarium: cKc0268
-      date: 24 septembre 2014
-  numero-de-planche-micrographique: cKc0268-0068
+
+collections:
+  - fongarium: cKc0224
+    date: 27 août 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0244
+    date: 10 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0268
+    date: 24 septembre 2014
+    planche:
+      numero: cKc0268-0068
+      miniature: https://c1.staticflickr.com/9/8591/16249172970_6f72387b2d_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16249172970/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,8 +101,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: De Yves Lamoureux ; « En Europe, R. grisescens est le taxon le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce ».
   conidies: 
@@ -115,7 +134,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +159,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: très commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -264,7 +281,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: leucosporée à pallidosporée Ib-IIa, blanchâtre-crème, d'après la charte de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

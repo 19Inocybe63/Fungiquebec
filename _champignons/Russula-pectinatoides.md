@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5529/9493150357_bd7193a334_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9493150357/in/photolist-qdcpjx-ft8n3h-fsT5c2-ft8pzE-fsSSSa
 album-flickr:
   - 72157675010165641
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/8/7381/15890585063_250b103154_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15890585063/
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Russule fausse-pectinata
@@ -20,14 +14,38 @@ details:
   genre: Russula
   espece: pectinatoides
   litterature: Peck, C.H. 1907. Report of the State Botanist, 1906. Bulletin of the New York State Museum. 116:1-117
-  fongariums:
-    - fongarium: cKc0101
-      date: 12 août 2013
-    - fongarium: cKc0180
-      date: 9 juillet 2014
-    - fongarium: cKc0187
-      date: 14 juillet 2014
-  numero-de-planche-micrographique: cKc0101-0070
+
+collections:
+  - fongarium: cKc0101
+    date: 12 août 2013
+    planche:
+      numero: cKc0101-0070
+      miniature: https://c2.staticflickr.com/8/7381/15890585063_250b103154_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15890585063/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0180
+    date: 9 juillet 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0187
+    date: 14 juillet 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -84,9 +102,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -120,7 +135,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -145,9 +160,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -268,7 +281,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: pallidosporée à ochrosporée IId-IIIa, crème foncé à ocre pâle, d’après la charte de couleur de Romagnesi ; D-E d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

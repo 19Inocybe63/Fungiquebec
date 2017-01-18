@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/376/19393008420_da3416cf4f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19393008420/in/photolist-CzJihz-wh2GQt-wwcNoW-vY1Eiy-wdj9TQ-v1RKbo-v1RCjs-vxGeL9-uTie5N-vxPT5H
 album-flickr:
   - 72157673767811843
-planches:
-  - miniature: https://c2.staticflickr.com/2/1698/24010540869_e8268168c2_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/24010540869/in/photolist-CzJihz-wh2GQt-wwcNoW-vY1Eiy-wdj9TQ-v1RKbo-v1RCjs-vxPT5H-vxGeL9-uTie5N
 
 details:
   nom-francais: Russule fastigiée
@@ -17,16 +14,48 @@ details:
   genre: Russula
   espece: fastigiata
   litterature: Fatto, R.M. 2002. Some Russulas of the subsection Urentinae. Mycotaxon. 84:229-244
-  fongariums:
-    - fongarium: cKc0334
-      date: 10 juillet 2015
-    - fongarium: cKc0338
-      date: 13 juillet 2015
-    - fongarium: cKc0354
-      date: 19 juillet 2015
-    - fongarium: cKc0384
-      date: 27 juillet 2015
-  numero-de-planche-micrographique: cKc0334-0109
+
+collections:
+  - fongarium: cKc0334
+    date: 10 juillet 2015
+    planche:
+      numero: cKc0334-0109
+      miniature: https://c2.staticflickr.com/2/1698/24010540869_e8268168c2_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/24010540869/in/photolist-CzJihz-wh2GQt-wwcNoW-vY1Eiy-wdj9TQ-v1RKbo-v1RCjs-vxPT5H-vxGeL9-uTie5N
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0338
+    date: 13 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0354
+    date: 19 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0384
+    date: 27 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -85,9 +114,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -121,7 +147,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -146,9 +172,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -260,7 +284,7 @@ description:
     FeSO<SUB>4</SUB> = absence de réaction sur le chapeau ; > 4' très légèrement de rose-rouge, orangé sur le stipe
     Soluté alcoolique officinal de résine de gaïac = réaction bleu > 5" stipe ++ (3, moyenne) ; réaction bleu > 5" lames + (1, moyenne)
   receptacle: 
-  remarques: Code de Kibby, A H K N - R S _ _
+  remarques: Code de Kibby, A H K N R S
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: claviformes élancées, tétrastérigmates, non bouclées à la base, à contenu vacuolaires, 42 [44,4; 51] 53,4 x 12,1 [12,2; 12,6] 12,8 µm en moyenne
   basidiospores: |
-    elliptiques vue frontale à subglobuleuses à largement elliptiques vue de profil, verruqueuses à échinulées et rarement réticulées, avec proéminences jusqu’à 0,9 µm de hauteur, à paroi mince, avec appendice hilaire et plage hilaire pas toujours bien visible jusqu’à 2,1 x 2,6 µm Ø en moyenne, à contenu uniguttulé dans le NaCl isotonique 0,9%, hyalines dans le NaCl iso, amyloïdes
+    elliptiques vue frontale à subglobuleuses à largement elliptiques vue de profil, verruqueuses à échinulées et rarement réticulées, avec proéminences jusqu’à 0,9 µm de hauteur, à paroi mince, avec appendice hilaire et plage hilaire pas toujours bien visible jusqu’à 2,1 x 2,6 µm Ø en moyenne, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,8 [8,7; 9] 9,9 x 6,7 [7,3; 7,6] 8,2 µm
     Q = 1 [1,2] 1,3; N = 30; C = 95%
     Me = 8,9 x 7,5 µm; Qe = 1,2

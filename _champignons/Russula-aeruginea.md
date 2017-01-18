@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/4/3928/15457643411_fb0e938895_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15457643411/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
 album-flickr:
   - 72157675077209080
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/8/7523/15466442337_86e36f97a9_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15466442337/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Russule vert-de-gris
@@ -20,12 +14,28 @@ details:
   genre: Russula
   espece: aeruginea
   litterature: Fries, E.M. 1863. Monographia Hymenomycetum Sueciae. 2:1-355
-  fongariums:
-    - fongarium: cKc0292
-      date: 6 octobre 2014
-    - fongarium: cKc0470
-      date: 20 septembre 2015
-  numero-de-planche-micrographique: cKc0292-0044
+
+collections:
+  - fongarium: cKc0292
+    date: 6 octobre 2014
+    planche:
+      numero: cKc0292-0044
+      miniature: https://c2.staticflickr.com/8/7523/15466442337_86e36f97a9_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15466442337/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: 
+  - fongarium: cKc0470
+    date: 20 septembre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,9 +90,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -116,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -141,9 +148,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -264,7 +269,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: ochrosporée IIIa, crème pâle, d'après la charte de couleur de Romagnesi ; E d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

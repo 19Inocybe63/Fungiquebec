@@ -5,12 +5,6 @@ image: https://c1.staticflickr.com/1/558/18379166100_42fb1239d5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18379166100/in/photolist-tt4ZcL-tkzuXN-u172L9
 album-flickr:
   - 72157676168367036
-  - 
-planches:
-  - miniature: https://c1.staticflickr.com/1/421/18027955894_2ed046cb52_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/18027955894/in/photolist-tt4ZcL-tkzuXN-u172L9
-  - miniature: https://c1.staticflickr.com/9/8695/27655385133_e8b0bfd61b_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/27655385133/in/photolist-J8P5v4-tt4ZcL-wZ5tPm-tkzuXN-u172L9-f15aCR-JUpWWq
 
 details:
   nom-francais: Pézize en bouclier
@@ -20,14 +14,38 @@ details:
   genre: Scutellinia
   espece: scutellata
   litterature: Lambotte 1887, Mém. Soc. roy. Sci. Liège, Série 2 14:299
-  fongariums:
-    - fongarium: cKc0309
-      date: 7 juin 2015
-    - fongarium: cKc0441
-      date: 28 août 2015
-    - fongarium: cKc0515
-      date: 9 juillet 2016
-  numero-de-planche-micrographique: cKc0309-0088 ; cKc0515-0136
+
+collections:
+  - fongarium: cKc0309
+    date: 7 juin 2015
+    planche:
+      numero: cKc0309-0088
+      miniature: https://c1.staticflickr.com/1/421/18027955894_2ed046cb52_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/18027955894/in/photolist-tt4ZcL-tkzuXN-u172L9
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0441
+    date: 28 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0515
+    date: 9 juillet 2016
+    planche:
+      numero: cKc0515-0136
+      miniature: https://c1.staticflickr.com/9/8695/27655385133_e8b0bfd61b_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/27655385133/in/photolist-J8P5v4-tt4ZcL-wZ5tPm-tkzuXN-u172L9-f15aCR-JUpWWq
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -85,9 +103,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -121,7 +136,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle à commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -146,9 +161,7 @@ description:
   face-externe: couverte modérément à généreusement de poils bruns noirs, bordant la marge comme des cils, 1-2 mm de longueur, formant une palissade autour de la marge comme des cils
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -262,7 +275,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

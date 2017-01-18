@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5521/9969248856_bb1a51c6a9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9969248856/in/photolist-gbX1mY-gbWHfT
 album-flickr:
   - 72157677247370390
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Russule rugueuse
@@ -17,12 +14,28 @@ details:
   genre: Russula
   espece: rugulosa
   litterature: Peck, C.H. 1902. Report of the State Botanist (1900). Annual Report on the New York State Museum of Natural History. 54:131-199
-  fongariums:
-    - fongarium: cKc0140
-      date: 27 septembre 2013
-    - fongarium: cKc0525
-      date: 30 juillet 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0140
+    date: 27 septembre 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0525
+    date: 30 juillet 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -76,9 +89,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +148,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

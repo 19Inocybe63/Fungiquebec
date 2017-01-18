@@ -236,8 +236,8 @@ description:
     Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    NH<SUB>4</SUB>OH 10% = ochracée sur la chair
     FeSO<SUB>4</SUB> = gris bleuâtre sur la chair
+    NH<SUB>4</SUB>OH 10% = ochracée sur la chair
   receptacle: 
   remarques: 
   repartition: 

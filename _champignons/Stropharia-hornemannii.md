@@ -4,13 +4,7 @@ date: 2016-11-08 00:00:00
 image: https://c2.staticflickr.com/4/3829/10003933046_13d4943085_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10003933046/in/photolist-rbEmaB-pgNHt4-pgQhaT-pe4V44-pvxYwx-pe3JYP-gf1PUE-gf1LLf
 album-flickr:
-  - 72157674802092762
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/8/7719/16529566253_f10987f389_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16529566253/in/photolist-rbEmaB-pgNHt4
-  - miniature: 
-    originale: 
+  - 72157674802092762 
 
 details:
   nom-francais: Strophaire de Hornemann
@@ -20,16 +14,48 @@ details:
   genre: Stropharia
   espece: hornemannii
   litterature: Lundell, S.; Nannfeldt, J.A. 1934. Fungi Exsiccati Suecici. Fasc. 1-2:1-100
-  fongariums:
-    - fongarium: cKc0148
-      date: 29 septembre 2013
-    - fongarium: cKc0283
-      date: 3 octobre 2014
-    - fongarium: cKc0295
-      date: 6 octobre 2014
-    - fongarium: cKc0297
-      date: 6 octobre 2014
-  numero-de-planche-micrographique: cKc0297-0081
+
+collections:
+  - fongarium: cKc0148
+    date: 29 septembre 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0283
+    date: 3 octobre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0295
+    date: 6 octobre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0297
+    date: 6 octobre 2014
+    planche:
+      numero: cKc0297-0081
+      miniature: https://c2.staticflickr.com/8/7719/16529566253_f10987f389_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16529566253/in/photolist-rbEmaB-pgNHt4
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -86,9 +112,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -122,7 +145,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -147,9 +170,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

@@ -5,11 +5,6 @@ image: https://c1.staticflickr.com/1/312/19210870652_2bb2944cd4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19210870652/in/photolist-ENZRuc-vgAJxN-uZxrV7
 album-flickr:
   - 72157676444128910
-planches:
-  - miniature: https://c2.staticflickr.com/2/1665/25473403855_1c9559c8e3_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/25473403855/in/photolist-ENZRuc-vgAJxN-uZxrV7
-  - miniature: https://c2.staticflickr.com/2/1534/25052648230_44297c9d70_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/25052648230/in/photolist-EaPnuS-vWnGUh-vWuP4r-vWuYnX
 
 details:
   nom-francais: 
@@ -19,12 +14,28 @@ details:
   genre: Russula
   espece: flavoxerampelina
   litterature: 
-  fongariums:
-    - fongarium: cKc0327
-      date: 26 juin 2015
-    - fongarium: cKc0355
-      date: 19 juillet 2015
-  numero-de-planche-micrographique: cKc0327-0116 ; cKc0355-0115
+
+collections:
+  - fongarium: cKc0327
+    date: 26 juin 2015
+    planche:
+      numero: cKc0327-0116
+      miniature: https://c2.staticflickr.com/2/1665/25473403855_1c9559c8e3_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/25473403855/in/photolist-ENZRuc-vgAJxN-uZxrV7
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0355
+    date: 19 juillet 2015
+    planche:
+      numero: cKc0355-0115
+      miniature: https://c2.staticflickr.com/2/1534/25052648230_44297c9d70_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/25052648230/in/photolist-EaPnuS-vWnGUh-vWuP4r-vWuYnX
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -82,9 +93,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -118,7 +126,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: inconnue
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -143,9 +151,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

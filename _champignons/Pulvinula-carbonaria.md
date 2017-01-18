@@ -5,11 +5,6 @@ image: https://c2.staticflickr.com/6/5783/20542097725_4860e5477f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20542097725/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
 album-flickr:
   - 72157675162860642
-planches:
-  - miniature: https://c1.staticflickr.com/1/764/20590422485_709c7b6954_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/20590422485/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
-  - miniature: https://c2.staticflickr.com/8/7314/27292419723_2f3d096a04_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/27292419723/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
 
 details:
   nom-francais: 
@@ -19,14 +14,38 @@ details:
   genre: Pulvinula
   espece: carbonaria
   litterature: Boudier, J.L.É. 1885. Nouvelle classification naturelle des Discomycètes charnus. Bulletin de la Société Mycologique de France. 1:97-120
-  fongariums:
-    - fongarium: cKc0401
-      date: 13 août 2015
-    - fongarium: cKc0412
-      date: 18 août 2015
-    - fongarium: cKc0496
-      date: 23 juin 2016
-  numero-de-planche-micrographique: cKc0401-0096 ; cKc0496-0131
+
+collections:
+  - fongarium: cKc0401
+    date: 13 août 2015
+    planche:
+      numero: cKc0401-0096
+      miniature: https://c1.staticflickr.com/1/764/20590422485_709c7b6954_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/20590422485/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: 
+  - fongarium: cKc0412
+    date: 18 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0496
+    date: 23 juin 2016
+    planche:
+      numero: cKc0496-0131
+      miniature: https://c2.staticflickr.com/8/7314/27292419723_2f3d096a04_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/27292419723/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -86,9 +105,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: |
     De Claude Kaufholtz-Couture. « Remerciement à Nicolas Van Vooren pour la terminologie des paraphyses. »
@@ -128,7 +144,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -153,9 +169,7 @@ description:
   face-externe: glabre, légèrement plus pâle que l'hyménophore
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -269,7 +283,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

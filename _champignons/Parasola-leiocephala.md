@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/377/18588563623_6dabc39644_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18588563623/in/photolist-un4yyL-ujBfmg
 album-flickr:
   - 
-planches:
-  - miniature: https://c1.staticflickr.com/1/456/18616330804_e5f448a919_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/18616330804/in/photostream/
 
 details:
   nom-francais: Coprin glabre
@@ -17,10 +14,18 @@ details:
   genre: Parasola
   espece: leiocephala
   litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-  fongariums:
-    - fongarium: cKc0328
-      date: 27 juin 2015
-  numero-de-planche-micrographique: cKc0328-0090
+
+collections:
+  - fongarium: cKc0328
+    date: 27 juin 2015
+    planche:
+      numero: cKc0328-0090
+      miniature: https://c1.staticflickr.com/1/456/18616330804_e5f448a919_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/18616330804/in/photostream/
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -249,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: noirâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

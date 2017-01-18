@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3911/14982459949_433e4650ba_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14982459949/in/photolist-pQLeB8-oPX2mZ
 album-flickr:
   - 
-planches:
-  - miniature: https://c2.staticflickr.com/8/7526/15648028169_4db198dd91_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15648028169/
 
 details:
   nom-francais: Russule compacte ou Russule fauve rougeatre
@@ -17,12 +14,28 @@ details:
   genre: Russula
   espece: compacta
   litterature: Peck, C.H. 1879. Report of the Botanist (1878). Annual Report on the New York State Museum of Natural History. 32:17-72
-  fongariums:
-    - fongarium: cKc0132
-      date: 1 septembre 2013
-    - fongarium: cKc0242
-      date: 7 septembre 2014
-  numero-de-planche-micrographique: cKc0242-0047
+
+collections:
+  - fongarium: cKc0132
+    date: 1 septembre 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0242
+    date: 7 septembre 2014
+    planche:
+      numero: cKc0242-0047
+      miniature: https://c2.staticflickr.com/8/7526/15648028169_4db198dd91_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15648028169/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -79,9 +92,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -115,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +150,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -261,7 +269,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; C-D d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

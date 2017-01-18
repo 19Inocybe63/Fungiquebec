@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3780/9411670398_b43ab1cd36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9411670398/in/photolist-fkFz8J-fkFgHh
 album-flickr:
   - 72157676645474105
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Strobilomyces
   espece: floccopus
   litterature: Karsten, P.A. 1882. Rysslands, Finlans och den Skandinaviska halföns Hattsvampar. Sednare Delen, Pip-, Tagg-, Hud-, Klubb- och Gelésvampar. Bidrag till Kännedom av Finlands Natur och Folk. 37:1-257
-  fongariums:
-    - fongarium: cKc0095
-      date: 31 juillet 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0095
+    date: 31 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°46'21.6"N 71°10'29.3"O
+    altitude: 1.07 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -249,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun noirâtre à noir
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -69,7 +69,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrastérigmates, non bouclées à la base, 31,8 [37,2; 42,6] 48 x 8,5 [9,5; 10,5] 11,5 µm
   basidiospores: |
-    largement elliptiques vue de profil à obovales vue frontale, verruqueuses, avec verrues petites et obtuses, non réticulées, avec des proéminences entre 0,2-0,5 μm de hauteur en moyenne, à paroi mince, avec appendice hilaire, plage hilaire rarement visible, à contenu uniguttulé dans le NaCl iso, hyalines dans le NaCl iso 0,9%, amyloïdes
+    largement elliptiques vue de profil à obovales vue frontale, verruqueuses, avec verrues petites et obtuses, non réticulées, avec des proéminences entre 0,2-0,5 μm de hauteur en moyenne, à paroi mince, avec appendice hilaire, plage hilaire rarement visible, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,4 [8,1; 8,3] 9 x 6 [6,4; 6,6] 6,9 µm
     Q = 1,2 [1,25; 1,3] 1,4; N = 31; C = 95%
     Me = 8,2 x 6,5 µm; Qe = 1,3

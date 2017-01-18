@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3741/20394289172_5bc72dfbf6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20394289172/in/photolist-xLgTP2-yqyEJN-yqDjTB-x5b4Do-w3ZoVs-wHp8uq-p5raj5-p3rd51-feLjNp
 album-flickr:
   - 72157671763216164
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Scléroderme commun
@@ -17,10 +14,18 @@ details:
   genre: Scleroderma
   espece: citrinum
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
-  fongariums:
-    - fongarium: cKc0399
-      date: 8 août 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0399
+    date: 8 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -71,7 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -105,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -130,9 +134,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: blanche et longtemps ferme au début, puis gris violacé à noirâtre, souvent marbrée de blanchâtre, demeurant ferme, poudreuse à granuleuse à la fin, après l'ouverture du péridium, à odeur aigre ou agréable
   gleocystides: 
   gleocystides-hymeniales: 

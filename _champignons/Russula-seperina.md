@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5583/15011778666_ffc8af6d78_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15011778666/in/photolist-qF7LLH-oSxhN7-oC5sZm
 album-flickr:
   - 72157674244776193
-planches:
-  - miniature: https://c1.staticflickr.com/9/8626/16195227057_5278c8405a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16195227057/in/photolist-qF7LLH-oSxhN7-oC5sZm
 
 details:
   nom-francais: Russule noircie ou Russule de la Sevre
@@ -17,10 +14,18 @@ details:
   genre: Russula
   espece: seperina
   litterature: Dupain 1913, Bull. Soc. Mycol. France 28:181, t. 7:1-6
-  fongariums:
-    - fongarium: cKc0216
-      date: 25 août 2014
-  numero-de-planche-micrographique: cKc0216-0067
+
+collections:
+  - fongarium: cKc0216
+    date: 25 août 2014
+    planche:
+      numero: cKc0216-0067
+      miniature: https://c1.staticflickr.com/9/8626/16195227057_5278c8405a_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16195227057/in/photolist-qF7LLH-oSxhN7-oC5sZm
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -251,7 +251,7 @@ description:
   receptacle: 
   remarques: |
     Il semble y avoir des hyphes partiellement incrustées par endroits.
-    Code de Kibby: A I K N / R T V _
+    Code de Kibby: A I K N / R T V 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7528/29925850280_fcac7d9e2f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29925850280/in/photolist-MArNFS-MApE2w
 album-flickr:
   - 72157672333801174
-planches:
-  - miniature: https://c2.staticflickr.com/6/5647/30780779796_13887468b6_n.jpg
-    originale:  https://www.flickr.com/photos/kaufholtz/30780779796/in/photostream/
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Phlebia
   espece: sp.
   litterature: 
-  fongariums:
-    - fongarium: cKc0591
-      date: 9 octobre 2016
-  numero-de-planche-micrographique: cKc0591-0141
+
+collections:
+  - fongarium: cKc0591
+    date: 9 octobre 2016
+    planche:
+      numero: cKc0591-0141
+      miniature: https://c2.staticflickr.com/6/5647/30780779796_13887468b6_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/30780779796/in/photostream/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -76,9 +81,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmée-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -112,7 +114,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle à commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -137,9 +139,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -247,7 +247,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

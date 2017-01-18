@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/457/19437139763_3d6cc665ec_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19437139763/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
 album-flickr:
   - 72157675601005415
-planches:
-  - miniature: https://c2.staticflickr.com/2/1602/24171767671_6474f1f7ac_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/24171767671/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
 
 details:
   nom-francais: Russule du Michigan
@@ -17,14 +14,38 @@ details:
   genre: Russula
   espece: michiganensis
   litterature: Shaffer, R.L. 1962. The subsection Compactae of Russula. Brittonia. 14(3):254-284
-  fongariums:
-    - fongarium: cKc0385
-      date: 27 juillet 2015
-    - fongarium: cKc0387
-      date: 1 août 2015
-    - fongarium: cKc0389
-      date: 3 août 2015
-  numero-de-planche-micrographique: cKc0385-0107
+
+collections:
+  - fongarium: cKc0385
+    date: 27 juillet 2015
+    planche:
+      numero: cKc0385-0107
+      miniature: https://c2.staticflickr.com/2/1602/24171767671_6474f1f7ac_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/24171767671/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0387
+    date: 1 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0389
+    date: 3 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -79,7 +100,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +133,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +158,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -260,7 +278,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: leucosporée Ib, blanchâtre, d'après la charte de couleur de Romagnesi ; B d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

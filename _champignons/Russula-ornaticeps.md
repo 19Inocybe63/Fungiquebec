@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/317/19538550198_bebce9b492_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19538550198/in/photolist-C6vQDR-vLybg9-w4b2ea
 album-flickr:
   - 72157677124822605
-planches:
-  - miniature: https://c2.staticflickr.com/2/1616/23691248043_a4821991e8_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/23691248043/in/photolist-C6vQDR-vLybg9-w4b2ea
 
 details:
   nom-francais: Russule à chapeau orné
@@ -17,10 +14,18 @@ details:
   genre: Russula
   espece: ornaticeps
   litterature: Burlingham, G.S. 1921. Some new species of Russula. Mycologia. 13(3):129-134
-  fongariums:
-    - fongarium: cKc0346
-      date: 15 juillet 2015
-  numero-de-planche-micrographique: cKc0346-0108
+
+collections:
+  - fongarium: cKc0346
+    date: 15 juillet 2015
+    planche:
+      numero: cKc0346-0108
+      miniature: https://c2.staticflickr.com/2/1616/23691248043_a4821991e8_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/23691248043/in/photolist-C6vQDR-vLybg9-w4b2ea
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -261,7 +261,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: ochrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; D-E d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,11 +5,6 @@ image: https://c2.staticflickr.com/8/7699/27530665341_5619c52b91_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27530665341/in/photolist-HWMRDP-J6iLNE-H8pRei-dZJen1-e1s9mU
 album-flickr:
   - 72157672151962934
-planches:
-  - miniature: https://c2.staticflickr.com/8/7439/27627034362_e4e66faf7c_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/27627034362/in/photolist-J6iLNE-HWMRDP-H8pRei-dZJen1-e1s9mU
-  - miniature: https://c1.staticflickr.com/1/754/31422946873_78a30f47d4_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/31422946873/in/photostream/
 
 details:
   nom-francais: Plutée couleur de cerf
@@ -19,10 +14,28 @@ details:
   genre: Pluteus
   espece: cervinus
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-  fongariums:
-    - fongarium: cKc0001
-      date: 11 juin 2016
-  numero-de-planche-micrographique: cKc0001-0129 ; cKc0590-0153
+
+collections:
+  - fongarium: cKc0001
+    date: 11 juin 2016
+    planche:
+      numero: cKc0001-0129
+      miniature: https://c2.staticflickr.com/8/7439/27627034362_e4e66faf7c_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/27627034362/in/photolist-J6iLNE-HWMRDP-H8pRei-dZJen1-e1s9mU
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: Alfredo Justo (provisoire)
+    confirmee: 
+  - fongarium: cKc0590
+    date: 9 octobre 2016
+    planche:
+      numero: cKc0590-0153
+      miniature: https://c1.staticflickr.com/1/754/31422946873_78a30f47d4_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31422946873/in/photostream/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -80,8 +93,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: Alfredo Justo
   columelle: 
   commentaires: De Alfredo Justo. « L'épaisseur de la paroi des pleurocystides ne revêt pas une si grande importance. »
   conidies: 
@@ -115,7 +126,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +151,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

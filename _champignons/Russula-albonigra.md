@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8242/28826395870_8327d25997_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28826395870/in/photolist-LcknHf-LeNzMD-KVhPcm
 album-flickr:
   - 72157671696496014
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Russule noire et blanche
@@ -17,10 +14,18 @@ details:
   genre: Russula
   espece: albonigra
   litterature: Fries, E.M. 1874. Hymenomycetes europaei., 1-755
-  fongariums:
-    - fongarium: cKc0546
-      date: 20 août 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0546
+    date: 20 août 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,7 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -107,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -132,9 +136,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -249,7 +251,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: leucosporée Ia-Ib, blanche à blanchâtre, d'après la charte de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

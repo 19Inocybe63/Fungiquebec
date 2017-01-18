@@ -79,7 +79,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à cylindriques, tétrastérigmates, non bouclées à la base 25,3 [33,4; 37,6] 40,7 x 8,4 [9,6; 11,4] 12,6 µm
   basidiospores: |
-    elliptiques à subamygdaliformes vue de profil à ovoïdales vue frontale, lisses, à paroi légèrement épaissie à épaissie, avec appendice hilaire, et pore germinatif large centré 1,1-1,6 (1,9) µm de large, à contenu homogène, brun avec de légers reflets rougeâtres dans le NaCl, uniguttulé et rougeâtre dans le melzer (dextrinoïdes ?), ferrugineuses dans le KOH 5%, non cyanophiles
+    elliptiques à subamygdaliformes vue de profil à ovoïdales vue frontale, lisses, à paroi légèrement épaissie à épaissie, avec appendice hilaire, et pore germinatif large centré 1,1-1,6 (1,9) µm de large, à contenu homogène, brun avec de légers reflets rougeâtres dans le NaCl iso 0,9%, uniguttulé et rougeâtre dans le melzer (dextrinoïdes ?), ferrugineuses dans le KOH 5%, non cyanophiles
     12,2 [13; 13,3] 14,1 x 6 [6,5; 6,7] 7,2 µm
     Q = 1,9 [2] 2,1; N = 30; C = 95%
     Me = 13,2 x 6,6 µm; Qe = 2

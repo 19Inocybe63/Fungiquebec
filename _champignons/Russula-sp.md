@@ -17,10 +17,18 @@ details:
   genre: Russula
   espece: sp.
   litterature: 
-  fongariums:
-    - fongarium: cKc0254
-      date: 15 septembre 2014
-  numero-de-planche-micrographique: cKc0254-0041
+
+collections:
+  - fongarium: cKc0254
+    date: 15 septembre 2014
+    planche:
+      numero: cKc0254-0041
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -77,9 +85,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: |
     De C. Kaufholtz-Couture. « Si je me fie aux critères de la sporée qui indique que R. cyanoxantha et R. variata ont une sporée blanche (A, d'après Kibby), je peux affirmer aujourd'hui que, pour le moment, je n'ai jamais vu ces espèces au Québec. Pour ma part, la sporée de mes collections est toujours pallidosporée IIa-IIb, crème pâle à crème moyen d'après la charte de couleur de Romagnesi et B-C d'après la charte de couleur de Kibby. De plus, l'utilisation du sulfate de fer (FeSO<sub>4</sub>) devient très importante, car pour deux espèces semblables, la chair du stipe devient soit légèrement verdâtre à verdâtre, ou orangé. En conclusion, je pense que la sporée de R. cyanoxantha et de R. variata (celles du Québec seulement) a un spectre plus large que celui connu. Il faudra envisager sérieusement à étudier cet aspect. »
@@ -114,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: inconnue
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -139,9 +144,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

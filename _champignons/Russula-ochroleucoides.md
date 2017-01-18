@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
   - 72157675938639090
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Russule fausse-ochroleuca
@@ -17,10 +14,18 @@ details:
   genre: Russula
   espece: ochroleucoides
   litterature: Kauffman, C.H. 1917. Tennessee and Kentucky fungi. Mycologia. 9(3):159-166
-  fongariums:
-    - fongarium: cKc0535
-      date: 10 août 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0535
+    date: 10 août 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -74,9 +79,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -110,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +137,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -256,7 +256,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: leucosporée Ib à pallidosporée IIa, (en tas), blanchâtre à crème pâle, d'après la charte de couleurs de Romagnesi ; A-B (C) d'après la charte de couleurs de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

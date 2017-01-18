@@ -5,11 +5,6 @@ image: https://c2.staticflickr.com/8/7250/7661083404_364b14e24a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7661083404/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
 album-flickr:
   - 72157673298001334
-planches:
-  - miniature: https://c1.staticflickr.com/9/8391/8577717910_39dd75c396_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8577717910/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
-  - miniature: https://c1.staticflickr.com/9/8692/16843365459_e7dc03e1aa_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16843365459/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
 
 details:
   nom-francais: Pholiote granuleuse
@@ -19,18 +14,58 @@ details:
   genre: Pholiota
   espece: granulosa
   litterature: Smith, A.H.; Hesler, L.R. 1968. The North American species of Pholiota. :1-402
-  fongariums:
-    - fongarium: cKc0009
-      date: 27 juillet 2012
-    - fongarium: cKc0099
-      date: 31 juillet 2013
-    - fongarium: cKc0174
-      date: 29 juin 2014
-    - fongarium: cKc0186
-      date: 12 juillet 2014
-    - fongarium: cKc0194
-      date: 6 août 2014
-  numero-de-planche-micrographique: cKc0009-0020 ; cKc0194-0078
+
+collections:
+  - fongarium: cKc0009
+    date: 27 juillet 2012
+    planche:
+      numero: cKc0009-0020
+      miniature: https://c1.staticflickr.com/9/8391/8577717910_39dd75c396_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8577717910/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
+    geolocalisation: 46°53'35.73"N 71°15'01.04"O
+    altitude: 1.18 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0099
+    date: 31 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°46'21.6"N 71°10'29.3"O
+    altitude: 1.18 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0174
+    date: 29 juin 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0186
+    date: 12 juillet 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0194
+    date: 6 août 2014
+    planche:
+      numero: cKc0194-0078
+      miniature: https://c1.staticflickr.com/9/8692/16843365459_e7dc03e1aa_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16843365459/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -87,9 +122,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: De A. H. Smith. « La distribution de cette espèce en Amérique du Nord est demeurée incertaine à cause de sa grande confusion avec Flammulaster erinaceellus, P. limulata et P. muricata. Naucoria muricata a déjà été différenciée seulement par ses cheilocystides, mais se définit mieux actuellement comme une P. erinaceella à lames jaunes. Flammula limulata, très proche de P. granulosa, a un pileipellis trichodermique formé d’hyphes plus lourdement ornementées et une trame lamellaire plus fortement colorée. Les deux poussent sur conifères et ne sont pas considérées comme synonymes. »
   conidies: 
@@ -123,7 +155,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -148,9 +180,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -268,7 +298,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rouille
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

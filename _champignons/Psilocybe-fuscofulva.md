@@ -22,8 +22,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
     determinee: 
     confirmee: Alan Rockefeller
   - fongarium: cKc0144
@@ -32,8 +32,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0266
@@ -42,8 +42,8 @@ collections:
       numero: cKc0266-0073
       miniature: https://c1.staticflickr.com/9/8648/16758290556_2df479a4ed_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16758290556/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0490
@@ -52,8 +52,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

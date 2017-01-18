@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/300/20000728785_173a5c29df_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20000728785/in/photolist-wtoXRt-wtp2DD
 album-flickr:
   - 72157677592462810
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: 
@@ -17,13 +14,18 @@ details:
   genre: Russula
   espece: luteispora
   litterature: Murrill, W.A. 1944. More fungi from Florida. Lloydia. 7(4):303-327
-  fongariums:
-    - fongarium: cKc0372
-      date: 25 juillet 2015
-  numero-de-planche-micrographique: 
-  geolocalisation: 
-  elevation: 
-  altitude: 
+
+collections:
+  - fongarium: cKc0372
+    date: 25 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -76,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -138,9 +137,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

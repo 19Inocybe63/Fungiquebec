@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7320/10004327923_fbf60f569d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10004327923/in/photolist-ntoYbe-oUyccn-oUwaBQ-gf3gJT-gf3N9t
 album-flickr:
   - 72157675931341941
-planches:
-  - miniature: https://c1.staticflickr.com/3/2906/14093518961_b0e92955ba_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/14093518961/in/photostream
 
 details:
   nom-francais: Psathyrelle hydrophile
@@ -17,14 +14,38 @@ details:
   genre: Psathyrella
   espece: piluliformis
   litterature: Orton, P.D. 1969. Notes on British Agarics III. Notes from the Royal Botanical Garden Edinburgh. 29(1):75-127
-  fongariums:
-    - fongarium: cKc0119
-      date: 24 août 2013
-    - fongarium: cKc0146
-      date: 29 septembre 2013
-    - fongarium: cKc0207
-      date: 25 août 2014
-  numero-de-planche-micrographique: cKc0146-0032
+
+collections:
+  - fongarium: cKc0119
+    date: 24 août 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0146
+    date: 29 septembre 2013
+    planche:
+      numero: cKc0146-0032
+      miniature: https://c1.staticflickr.com/3/2906/14093518961_b0e92955ba_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/14093518961/in/photostream
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0207
+    date: 25 août 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -81,9 +102,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -117,7 +135,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -142,9 +160,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -260,7 +276,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun pourpré à brun noir
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5522/9582361213_0814e6f2a2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9582361213/in/photolist-r4pXqm-fAL79n
 album-flickr:
   - 
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/8/7378/16447542696_5c26dcdb53_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16447542696/in/photolist-r4pXqm-fAL79n
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: 
@@ -20,10 +14,18 @@ details:
   genre: Russula
   espece: grata
   litterature: Britzelmayr, M. 1893. Materialien zur Beschreibung der Hymenomyceten 3. Botanisches Centralblatt. 54(4):97-105
-  fongariums:
-    - fongarium: cKc0108
-      date: 24 août 2013
-  numero-de-planche-micrographique: cKc0108-0069
+
+collections:
+  - fongarium: cKc0108
+    date: 24 août 2013
+    planche:
+      numero: cKc0108-0069
+      miniature: https://c2.staticflickr.com/8/7378/16447542696_5c26dcdb53_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16447542696/in/photolist-r4pXqm-fAL79n
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -78,9 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -114,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -139,9 +138,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -260,7 +257,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: pallidosporée IIc-IId, crème ocre, d’après la charte de couleur de Romagnesi ; C-D d’après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

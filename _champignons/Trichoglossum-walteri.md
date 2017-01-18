@@ -272,7 +272,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun foncé, avec reflets verdâtres
+  sporee: brun foncé avec reflets verdâtres
   spherocytes: 
   sporocystes: 
   stipitipellis: 

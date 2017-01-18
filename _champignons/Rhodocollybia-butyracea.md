@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3903/15064668488_052b6a0e2e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064668488/in/photolist-oXdn6A-oXch8n
 album-flickr:
   - 72157675843334431
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Collybie beurrée
@@ -16,11 +13,19 @@ details:
   famille: Omphalotaceae
   genre: Rhodocollybia
   espece: butyracea
-  litterature: Lennox, J.W. 1979. Collybioid genera in the Pacific Northwest. Mycotaxon. 9(1):117-231
-  fongariums:
-    - fongarium: cKc0251
-      date: 15 septembre 2014
-  numero-de-planche-micrographique: 
+  litterature: Lennox, J.W. 1979. Collybioid genera in the Pacific Northwest. Mycotaxon. 9(1):117-231 
+
+collections:
+  - fongarium: cKc0251
+    date: 15 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8185/8443643369_21c095bedf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8443643369/in/photolist-dSzgU3-dSetnA-dSdVfD-dS8T3P-dS8T16
 album-flickr:
   - 72157673087172874
-planches:
-  - miniature: https://c1.staticflickr.com/9/8044/8448598190_e5301d824f_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8448598190/in/photolist-dSzgU3-dSdVfD-dSetnA-dS8T3P-dS8T16
 
 details:
   nom-francais: Pholiote adipo-squarreuse
@@ -17,10 +14,18 @@ details:
   genre: Pholiota
   espece: limonella
   litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
-  fongariums:
-    - fongarium: cKc0026
-      date: 20 septembre 2012
-  numero-de-planche-micrographique: cKc0026-0014
+
+collections:
+  - fongarium: cKc0026
+    date: 20 septembre 2012
+    planche:
+      numero: cKc0026-0014
+      miniature: https://c1.staticflickr.com/9/8044/8448598190_e5301d824f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8448598190/in/photolist-dSzgU3-dSdVfD-dSetnA-dS8T3P-dS8T16
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -257,7 +257,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun à brun rouille
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -4,27 +4,27 @@ date: 2017-01-18 00:00:00
 image: https://c1.staticflickr.com/1/281/19260307573_8863d5b233_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19260307573/in/photolist-vkPhpN-vkY7qv
 album-flickr:
-  - # Exemple: 72157672806318152
+  - 72157679317553425
 
 details:
   nom-francais: 
   autorites: (Peck) Snell
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
-  litterature: 
+  ordre: Boletales
+  famille: Suillaceae
+  genre: Suillus
+  espece: americanus
+  litterature: Snell, W.H.; Singer, R.; Dick, E.A. 1959. Notes on boletes. XI. Mycologia. 51:564-577
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0363
+    date: 20 juillet 2015
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
-    determinee: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
 description:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous pin blanc, conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: jaune moutarde, devenant brun rougeâtre à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 30-100 mm, convexe à largement convexe, à marge enroulée lorsque jeune, avec restes vélaire suspendu à la marge, blanc à jaune brunâtre, visqueux à glutineux à l’humidité, jaune vif, parfois jaune plus foncé, souvent avec des taches brun marron à rougeâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -78,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -96,7 +93,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: souvent décurrente, concolore à la face poroïde, 7-10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -132,13 +129,13 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: jaune devenant plus foncée à maturité, brunissant au froissement
   feutrage-basal: 
   fragments-sporaux: 
   frequence: 
@@ -212,7 +209,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent courbe, creux avec l'âge, concolore au chapeau, à glandules brunes sur toute la longueur
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -232,27 +229,33 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: anguleux et parfois allongés radialement, larges, 1-2 mm de largeur
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+     Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
+    Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<sub>4</sub> = la chair devient olive à olivâtre
+    KOH 10% = le chapeau devient noir
+    NH<sub>4</sub>OH 10% = flash rose devenant rouge et finalement noir sur le chapeau
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -261,7 +264,9 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Boletus americanus Peck, Bulletin of the New York State Museum 1 (2):62 (1887)
+    Ixocomus americanus (Peck) E.-J. Gilbert, Les Livres du Mycologue Tome I-IV, Tom. III:Les Bolets: 93 (1931)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -273,7 +278,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: jaunâtre, ne laissant pas d'anneau sur le pied, demeurant typiquement attaché à la marge piléique
   volve: 
   zone-perihymeniale: 
 ---

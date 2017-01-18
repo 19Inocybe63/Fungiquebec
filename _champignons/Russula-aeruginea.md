@@ -25,7 +25,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0470
     date: 20 septembre 2015
     planche:

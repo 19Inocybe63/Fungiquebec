@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8508/8452247883_0a41a31a34_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8452247883/in/photostream/
 album-flickr:
   - 72157673870143573
-planches:
-  - miniature: https://c1.staticflickr.com/9/8373/8467687001_b78d935da1_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8467687001/
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Russula
   espece: pseudolepida
   litterature: Singer, R. 1939. Contribution à l'étude des Russules. IV. Quelques Russules américaines et asiatiques (suite). Bulletin de la Société Mycologique de France. 55:226-283
-  fongariums:
-    - fongarium: cKc0003
-      date: 8 juillet 2012
-  numero-de-planche-micrographique: cKc0003-0015
+
+collections:
+  - fongarium: cKc0003
+    date: 8 juillet 2012
+    planche:
+      numero: cKc0003-0015
+      miniature: https://c1.staticflickr.com/9/8373/8467687001_b78d935da1_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8467687001/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -259,7 +259,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi ; C d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

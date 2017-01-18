@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3868/14774195389_5de782aa3c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14774195389/in/photolist-ovxzgY-ovxByH-prxbdT
 album-flickr:
   - 72157675629317475
-planches:
-  - miniature: https://c2.staticflickr.com/8/7526/15385200923_da10196b1b_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15385200923/in/photolist-ovxzgY-ovxByH-prxbdT
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Suillus
   espece: spraguei
   litterature: (Berk. & M.A. Curtis) Kuntze, Revis. gen. pl., 3(2), 536, 1898
-  fongariums:
-    - fongarium: cKc0209
-      date: 18 août 2014
-  numero-de-planche-micrographique: cKc0209-0057
+
+collections:
+  - fongarium: cKc0209
+    date: 18 août 2014
+    planche:
+      numero: cKc0209-0057
+      miniature: https://c2.staticflickr.com/8/7526/15385200923_da10196b1b_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15385200923/in/photolist-ovxzgY-ovxByH-prxbdT
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,7 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +138,7 @@ description:
   face-externe: 
   face-poroïde: jaune ocré pâle, brunissant avec l'âge et un peu au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -252,7 +254,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brune
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

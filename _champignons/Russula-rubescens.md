@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5554/14870132589_cb7cdb3cb0_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14870132589/in/photolist-qXocf1-oE2jmn-oE42XA-oViEmY-oXkBBT-oCV5qB-omGoTC
 album-flickr:
   - 72157675422287630
-planches:
-  - miniature: https://c2.staticflickr.com/8/7426/16379299992_3134ceb66e_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/16379299992/in/photolist-qXocf1-oE2jmn-oE42XA-oXkBBT-oViEmY-oCV5qB-omGoTC
 
 details:
   nom-francais: 
@@ -17,14 +14,38 @@ details:
   genre: Russula
   espece: rubescens
   litterature: Kauffman
-  fongariums:
-    - fongarium: cKc0198
-      date: 8 août 2014
-    - fongarium: cKc0218
-      date: 27 août 2014
-    - fongarium: cKc0223
-      date: 27 août 2014
-  numero-de-planche-micrographique: cKc0218-0066
+
+collections:
+  - fongarium: cKc0198
+    date: 8 août 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Yves Lanmoureux
+  - fongarium: cKc0218
+    date: 27 août 2014
+    planche:
+      numero: cKc0218-0066
+      miniature: https://c2.staticflickr.com/8/7426/16379299992_3134ceb66e_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/16379299992/in/photolist-qXocf1-oE2jmn-oE42XA-oXkBBT-oViEmY-oCV5qB-omGoTC
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0223
+    date: 27 août 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -81,9 +102,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: De Yves Lamoureux. « L'espèce est très variable en couleurs ».
   conidies: 
@@ -117,7 +135,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -142,9 +160,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -265,7 +281,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: ochrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur Romagnesi ; E d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

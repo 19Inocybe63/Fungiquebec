@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3844/14981506665_cb3fc4848b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981506665/in/photolist-q8FJRj-oPS8Z4-oxn6NB-oPPpW7
 album-flickr:
   - 72157673817941932
-planches:
-  - miniature: https://c1.staticflickr.com/9/8600/15839531420_f5708512d3_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15839531420/in/photolist-q8FJRj-oPS8Z4-oxn6NB-oPPpW7
 
 details:
   nom-francais: Russule fausse-claroflava
@@ -17,10 +14,18 @@ details:
   genre: Russula
   espece: claroflavoides
   litterature: 
-  fongariums:
-    - fongarium: cKc0212
-      date: 20 août 2014
-  numero-de-planche-micrographique: cKc0212-0058
+
+collections:
+  - fongarium: cKc0212
+    date: 20 août 2014
+    planche:
+      numero: cKc0212-0058
+      miniature: https://c1.staticflickr.com/9/8600/15839531420_f5708512d3_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15839531420/in/photolist-q8FJRj-oPS8Z4-oxn6NB-oPPpW7
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,7 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occassionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +138,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occassionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -256,7 +258,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: ochrosporée à xanthosporée IIIc-IVe, ocre foncé à jaune, ocre-orange, d'après la charte de couleur de Romagnesi ; F-H d’après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

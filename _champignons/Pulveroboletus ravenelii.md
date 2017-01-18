@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/571/20495491838_2c8f61ca8f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20495491838/in/photolist-xe7KEW-oPXq4J
 album-flickr:
   - 72157674494104903
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet de Ravenel
@@ -17,12 +14,28 @@ details:
   genre: Pulveroboletus
   espece: ravenelii
   litterature: Murrill, W.A. 1909. The Boletaceae of North America - 1. Mycologia. 1(1):4-18
-  fongariums:
-    - fongarium: cKc0240
-      date: 7 septembre 2014
-    - fongarium: cKc0410
-      date: 17 août 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0240
+    date: 7 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0410
+    date: 17 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,9 +88,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +121,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -136,9 +146,7 @@ description:
   face-externe: 
   face-poroïde: jaune puis jaune olivacé à maturité, bleuissant au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

@@ -5,11 +5,6 @@ image: https://c2.staticflickr.com/8/7549/28260902725_d9f5ba7e38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28260902725/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
 album-flickr:
   - 72157674044898010
-planches:
-  - miniature: https://c2.staticflickr.com/8/7539/28130157805_8bbab0ab88_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/28130157805/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
-  - miniature: https://c1.staticflickr.com/9/8820/28186682002_2974394338_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/28186682002/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
 
 details:
   nom-francais: Pezize fausse-succosa
@@ -19,14 +14,38 @@ details:
   genre: Peziza
   espece: succosella
   litterature: Avizohar-Hershenzon, Z.; Nemlich, H. 1974. Pezizales of Israel II. Pezizaceae. Israel Journal of Botany. 23:151-163
-  fongariums:
-    - fongarium: cKc0505
-      date: 3 juillet 2016
-    - fongarium: cKc0512
-      date: 4 juillet 2016
-    - fongarium: cKc0516
-      date: 11 juillet 2016
-  numero-de-planche-micrographique: cKc0512-0134 ; cKc0516-0137
+
+collections:
+  - fongarium: cKc0505
+    date: 3 juillet 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: René Dougoud
+  - fongarium: cKc0512
+    date: 4 juillet 2016
+    planche:
+      numero:  cKc0512-0134
+      miniature: https://c2.staticflickr.com/8/7539/28130157805_8bbab0ab88_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/28130157805/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0516
+    date: 11 juillet 2016
+    planche:
+      numero: cKc0516-0137
+      miniature: https://c1.staticflickr.com/9/8820/28186682002_2974394338_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/28186682002/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -82,8 +101,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-confirmee-par: René Dougoud
   columelle: 
   commentaires: De René Dougoud. « La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent P. succosella. »
   conidies: 
@@ -117,7 +134,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -141,9 +158,7 @@ description:
   face-externe: sublisse à finement granuleuse, brun beige pâle
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -261,7 +276,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanchâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

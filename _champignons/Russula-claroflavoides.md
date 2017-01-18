@@ -245,7 +245,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russules, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     FeSO<SUB>4</SUB> = pas de coloration
-    KOH 10% = négative sur le pied
+    KOH 10% = pas de coloration ou de décoloration sur le pied
     NH<SUB>4</SUB>OH 10% = non observée
   receptacle: 
   remarques: Toutes les parties noircissent avec l’âge.

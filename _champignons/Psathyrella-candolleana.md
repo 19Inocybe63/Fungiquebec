@@ -26,6 +26,16 @@ collections:
     altitude: 1.05 km
     determinee: 
     confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0332
+    date: 7 juillet 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

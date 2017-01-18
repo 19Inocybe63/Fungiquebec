@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/718/20475447168_2094b83b00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20475447168/in/photolist-xcm26b
 album-flickr:
   - 72157675103008824
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Russule fardée
@@ -17,17 +14,38 @@ details:
   genre: Russula
   espece: fucosa
   litterature: Burlingham, G.S. 1924. Notes on species of Russula. Mycologia. 16(1):16-23
-  fongariums:
-    - fongarium: cKc0236
-      date: 4 septembre 2014
-    - fongarium: cKc0408
-      date: 17 août 2015
-    - fongarium: cKc0519
-      date: 19 juillet 2016
-  numero-de-planche-micrographique: 
-  geolocalisation: 
-  elevation: 
-  altitude: 
+
+collections:
+  - fongarium: cKc0236
+    date: 4 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0408
+    date: 17 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0519
+    date: 19 juillet 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -80,9 +98,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: De Yves Lamoureux. « Cette xérampéline varie peu en couleurs. As-tu remarqué que son odeur est faible pour une xérampéline, sauf dans la vétusté ? Concernant l’odeur, il y a des règles générales. L'odeur est plus forte dans les lames, et toujours avec l'âge, mais celle de la chair est parfois différente, surtout chez les Cortinarius, la pluie ou le froid (frigo, mois d'octobre) peuvent masquer une odeur ; l'odeur des xérampélines et des bolets s'accentuent au séchage. »
   conidies: 
@@ -117,7 +132,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -142,9 +157,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3892/14520440129_c3a194f4b7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14520440129/in/photolist-ouvxsk-o8854t-o883Y2-orny4z
 album-flickr:
   - 72157673735320544
-planches:
-  - miniature: https://c2.staticflickr.com/4/3842/14762474843_f9fc3aae57_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/14762474843/in/photolist-ouvxsk-o8854t-o883Y2-orny4z
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Russula
   espece: montana
   litterature: Shaffer, R.L. 1975. Some common North American species of Russula subsect. Emeticinae. Beihefte zur Nova Hedwigia. 51:207-237
-  fongariums:
-    - fongarium: cKc0185
-      date: 12 juillet 2014
-  numero-de-planche-micrographique: cKc0185-0039
+
+collections:
+  - fongarium: cKc0185
+    date: 12 juillet 2014
+    planche:
+      numero: cKc0185-0039
+      miniature: https://c2.staticflickr.com/4/3842/14762474843_f9fc3aae57_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/14762474843/in/photolist-ouvxsk-o8854t-o883Y2-orny4z
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: De Yves Lamoureux. « R. silvicola vient surtout avec le chêne et le hêtre (pruche ?) ; pour être honnête, je n'ai jamais surveillé montana ; elle m'est peut-être passée sous le nez... plus d'une fois ! Il est possible que tous ici aient confondu R. montana et R. aquosa ss. Shaffer sans distinction. La difficulté est que ces espèces sont variables, et qu'on se tanne de les récolter encore et encore, et d'arriver toujours au même nom. C'est là que devient l'utilité du spécialiste. Après tout, il n'y a pas de raison que l'on ne trouve pas ici ces deux espèces de Shaffer... Certaines de nos grisescens sont probablement des montana. Cette semaine j'ai vu R. aquosa ss. Shaffer, son aspect graisseux ne trompe pas. »
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

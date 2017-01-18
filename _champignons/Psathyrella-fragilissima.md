@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5680/20383173670_09a3b14d86_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20383173670/in/photolist-xiuhow-x4c6Mm-x4c6oN/
 album-flickr:
   - 72157677417297456
-planches:
-  - miniature: https://c1.staticflickr.com/1/621/22412667285_e1a52acfe4_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/22412667285/in/photolist-A9wM92-xiuhow-x4c6Mm-x4c6oN
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Psathyrella
   espece: fragilissima
   litterature: Smith, A.H. 1972. The North American species of Psathyrella. Memoirs of the New York Botanical Garden. 24:1-633
-  fongariums:
-    - fongarium: cKc0404
-      date: 14 août 2015
-  numero-de-planche-micrographique: cKc0404-0099
+
+collections:
+  - fongarium: cKc0404
+    date: 14 août 2015
+    planche:
+      numero: cKc0404-0099
+      miniature: https://c1.staticflickr.com/1/621/22412667285_e1a52acfe4_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/22412667285/in/photolist-A9wM92-xiuhow-x4c6Mm-x4c6oN
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -255,7 +255,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: noir à brun-pourpré foncé
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5831/21330589130_0e890b0721_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21330589130/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
 album-flickr:
   - 72157671662254364
-planches:
-  - miniature: https://c2.staticflickr.com/2/1692/26474496531_9722a15703_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/26474496531/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
 
 details:
   nom-francais: Trichoglosse de Walter
@@ -17,14 +14,38 @@ details:
   genre: Trichoglossum
   espece: walteri
   litterature: Durand, E.J. 1908. The Geoglossaceae of North America. Annales Mycologici. 6:387-477
-  fongariums:
-    - fongarium: cKc0458
-      date: 9 septembre 2015
-    - fongarium: cKc0468
-      date: 18 septembre 2015
-    - fongarium: cKc0472
-      date: 20 septembre 2015
-  numero-de-planche-micrographique: cKc0468-0122
+
+collections:
+  - fongarium: cKc0458
+    date: 9 septembre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0468
+    date: 18 septembre 2015
+    planche:
+      numero: cKc0468-0122
+      miniature: https://c2.staticflickr.com/2/1692/26474496531_9722a15703_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/26474496531/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0472
+    date: 20 septembre 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -83,7 +104,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -117,7 +137,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle à commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -142,9 +162,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel à commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -255,7 +273,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

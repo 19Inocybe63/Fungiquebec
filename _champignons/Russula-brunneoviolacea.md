@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/4/3910/15251215762_2c74fa0dfe_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15251215762/in/photolist-pMgKKQ-oXf7BF-peGt6U
 album-flickr:
   - 72157673786196243
-planches:
-  - miniature: https://c2.staticflickr.com/8/7510/15608521858_d3848785a1_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/15608521858/in/photolist-peGt6U-oXf7BF-pMgKKQ
 
 details:
   nom-francais: Russule brun violacé
@@ -17,12 +14,28 @@ details:
   genre: Russula
   espece: brunneoviolacea
   litterature: Crawshay, S. 1930. The Spore Ornamentation of the Russulas. :1-188
-  fongariums:
-    - fongarium: cKc0061
-      date: 1 juillet 2013
-    - fongarium: cKc0255
-      date: 15 septembre 2014
-  numero-de-planche-micrographique: cKc0255-0045
+
+collections:
+  - fongarium: cKc0061
+    date: 1 juillet 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°51'19.0"N 71°06'38.2"O
+    altitude: 6.13 km
+    determinee: 
+    confirmee: Roland Labbé
+  - fongarium: cKc0255
+    date: 15 septembre 2014
+    planche:
+      numero: cKc0255-0045
+      miniature: https://c2.staticflickr.com/8/7510/15608521858_d3848785a1_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15608521858/in/photolist-peGt6U-oXf7BF-pMgKKQ
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -79,9 +92,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -115,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +150,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -262,7 +270,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; C-D d'après la charte de couleur de Kibby
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

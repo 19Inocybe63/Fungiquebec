@@ -282,7 +282,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     FeSO<SUB>4</SUB> = absence de réaction sur le chapeau ; > 4' très légèrement de rose-rouge, orangé sur le stipe
-    Soluté de gaïac = > 5" stipe ++ b (3, moyenne) ; > 5" lames + b (1, moyenne)
+    Soluté de gaïac = > 5" stipe ++ b (3, moyenne) ; > 5" lames + b (1, faible)
   receptacle: 
   remarques: Code de Kibby, A H K N R S
   repartition: 

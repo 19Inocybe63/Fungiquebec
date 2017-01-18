@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8630/28131978620_09c0705734_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28131978620/in/photolist-JRVK99
 album-flickr:
   - 
-planches:
-  - miniature: https://c1.staticflickr.com/1/702/31773219746_111b97d030_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/31773219746/in/photostream/
 
 details:
   nom-francais: Plutée en Parasol
@@ -17,10 +14,18 @@ details:
   genre: Pluteus
   espece: petasatus
   litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. :177-560
-  fongariums:
-    - fongarium: cKc0520
-      date: 19 juillet 2016
-  numero-de-planche-micrographique: cKc0520-0150
+
+collections:
+  - fongarium: cKc0520
+    date: 19 juillet 2016
+    planche:
+      numero: cKc0520-0150
+      miniature: https://c1.staticflickr.com/1/702/31773219746_111b97d030_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31773219746/in/photostream/
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -79,9 +84,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -115,7 +117,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +142,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

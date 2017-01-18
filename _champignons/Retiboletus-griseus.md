@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5721/20336173364_c4bc44ddd0_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20336173364/in/photolist-xW48aP-wZ3cQG
 album-flickr:
   - 72157675987358775
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet gris
@@ -20,10 +14,18 @@ details:
   genre: Retiboletus
   espece: griseus
   litterature: Binder, M.; Bresinsky, A. 2002. Retiboletus, a new genus for a species-complex in the Boletaceae producing retipolides. Feddes Repertorium Specierum Novarum Regni Vegetabilis. 113(1-2):30-40
-  fongariums:
-    - fongarium: cKc0439
-      date: 28 août 2015
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0439
+    date: 28 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -74,9 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -110,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,9 +134,7 @@ description:
   face-externe: 
   face-poroïde: blanchâtre lorsque jeune, devenant brunâtre à grisâtre, Pas de contusions ou de contusions légèrement brunes, 3-4 pores circulaires par mm, formé de tubes ayant ± 10 mm de profondeur
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -253,7 +250,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun olive à brun jaune
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

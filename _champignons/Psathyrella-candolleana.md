@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7425/9000085449_fc6ec93855_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9000085449/in/photolist-eSj7PH-eHiPdx-eHiMR4
 album-flickr:
   - 72157677434424756
-planches:
-  - miniature: https://c2.staticflickr.com/6/5532/9101997751_d77b62e351_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/9101997751/in/album-72157630299294190/
 
 details:
   nom-francais: Psathyrelle de Candolle
@@ -17,10 +14,18 @@ details:
   genre: Psathyrella
   espece: candolleana
   litterature: Maire 1913, Bull. Soc. Mycol. France 29:185
-  fongariums:
-    - fongarium: cKc0046
-      date: 9 juin 2013
-  numero-de-planche-micrographique: cKc0046-0030
+
+collections:
+  - fongarium: cKc0046
+    date: 9 juin 2013
+    planche:
+      numero: cKc0046-0030
+      miniature: https://c2.staticflickr.com/6/5532/9101997751_d77b62e351_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/9101997751/in/album-72157630299294190/
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -256,7 +256,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun pourpre foncé
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

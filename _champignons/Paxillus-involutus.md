@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/6/5710/21493893579_e5509540a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21493893579/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
 album-flickr:
   - 72157675289305110
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/2/1474/24821637815_ed31e7688a_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/24821637815/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Paxille enroulé
@@ -20,12 +14,28 @@ details:
   genre: Paxillus
   espece: involutus
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-  fongariums:
-    - fongarium: cKc0475
-      date: 24 septembre 2015
-    - fongarium: cKc0592
-      date: 9 octobre 2016
-  numero-de-planche-micrographique: cKc0475-0113
+
+collections:
+  - fongarium: cKc0475
+    date: 24 septembre 2015
+    planche:
+      numero: cKc0475-0113
+      miniature: https://c2.staticflickr.com/2/1474/24821637815_ed31e7688a_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/24821637815/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0592
+    date: 9 octobre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -82,9 +92,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -118,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -143,9 +150,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -258,7 +263,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rouille à brun jaunâtre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

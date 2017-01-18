@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    cylindriques à elliptiques vue de profil à cylindriques à fusiformes à longuement elliptiques vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl iso, inactives dans le melzer, non cyanophiles
+    cylindriques à elliptiques vue de profil à cylindriques à fusiformes à longuement elliptiques vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
     8,9 [9,6; 10] 10,7 x 3,6 [3,9; 4] 4,2 µm
     Q = 2,3 [2,5] 2,7; N = 30; C = 95%
     Me = 9,8 x 3,9 µm; Qe = 2,5

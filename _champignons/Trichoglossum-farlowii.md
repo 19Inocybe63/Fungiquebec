@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7383/9968689104_70a0b0ffc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9968689104/in/photolist-wwWoqh-s5M8R3-gbU2wZ-gbU8Y5
 album-flickr:
   - 72157675807039605
-planches:
-  - miniature: https://c1.staticflickr.com/9/8763/17119348384_24bfb24a1d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/17119348384/in/photolist-wwWoqh-s5M8R3-gbU2wZ-gbU8Y5
 
 details:
   nom-francais: Trichoglosse de Farlow
@@ -17,12 +14,28 @@ details:
   genre: Trichoglossum
   espece: farlowii
   litterature: 
-  fongariums:
-    - fongarium: cKc0136
-      date: 27 septembre 2013
-    - fongarium: cKc0418
-      date: 17 août 2015
-  numero-de-planche-micrographique: cKc0136-0086
+
+collections:
+  - fongarium: cKc0136
+    date: 27 septembre 2013
+    planche:
+      numero: cKc0136-0086
+      miniature: https://c1.staticflickr.com/9/8763/17119348384_24bfb24a1d_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/17119348384/in/photolist-wwWoqh-s5M8R3-gbU2wZ-gbU8Y5
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0418
+    date: 17 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,7 +90,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -111,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle à commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -136,9 +148,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel à commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -251,7 +261,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

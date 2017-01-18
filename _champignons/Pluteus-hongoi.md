@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7308/27250982564_dd1c4e21c2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27250982564/in/photolist-JtAhvm-Hw61aV-Hw5pGY
 album-flickr:
   - 72157672153165794
-planches:
-  - miniature: https://c2.staticflickr.com/8/7457/27879218982_0eb08ae404_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/27879218982/in/photolist-JtAhvm-Hw61aV-Hw5pGY
 
 details:
   nom-francais: Plutée de Hongō
@@ -17,10 +14,18 @@ details:
   genre: Pluteus
   espece: hongoi
   litterature: Singer, R. 1989. New taxa and new combinations of Agaricales (Diagnoses fungorum novorum Agaricalium 4). Fieldiana Botany. 21:1-133
-  fongariums:
-    - fongarium: cKc0500
-      date: 23 juin 2016
-  numero-de-planche-micrographique: cKc0500-0133
+
+collections:
+  - fongarium: cKc0500
+    date: 23 juin 2016
+    planche:
+      numero: cKc0500-0133
+      miniature: https://c2.staticflickr.com/8/7457/27879218982_0eb08ae404_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/27879218982/in/photolist-JtAhvm-Hw61aV-Hw5pGY
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: Alfredo Justo (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -78,8 +83,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: Alfredo Justo
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +141,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -252,7 +253,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -249,7 +249,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     FeSO<sub>4</sub> = pas de coloration à rosâtre sur le pied
-    KOH 10% = pas de coloration ni de décoloration à rosâtre sur le chapeau
+    KOH 10% = pas de coloration ni de décoloration à légèrement rosâtre sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

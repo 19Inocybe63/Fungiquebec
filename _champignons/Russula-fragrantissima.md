@@ -22,10 +22,10 @@ collections:
       numero: cKc0012-0021
       miniature: https://c1.staticflickr.com/9/8111/8594261535_f29626cebb_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8594261535/in/photolist-e6rQx2-e7hgUS-e6pW3h
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°56'39.7"N 71°18'14.0"O
+    altitude: 1.21 km
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Roland Labbé
 
 description:
   acanthocytes: 

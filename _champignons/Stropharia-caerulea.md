@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8191/8122273690_424d6d5230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8122273690/in/photolist-dnJMnf-dnJFjn-dDwhHj-dnJLZy
 album-flickr:
   - 72157671660314714
-planches:
-  - miniature: https://c1.staticflickr.com/9/8500/8300901148_838da0606d_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8300901148/in/photolist-dDwhHj-dnJMnf-dnJFjn-dnJLZy
 
 details:
   nom-francais: Strophaire bleutée
@@ -17,10 +14,18 @@ details:
   genre: Stropharia
   espece: caerulea
   litterature: Kreisel, H. 1979. Zur Taxonomie von Stropharia aeruginosa sensu lato. Beihefte zur Sydowia. 8:228-232
-  fongariums:
-    - fongarium: cKc0034
-      date: 25 octobre 2012
-  numero-de-planche-micrographique: cKc0034-0006
+
+collections:
+  - fongarium: cKc0034
+    date: 25 octobre 2012
+    planche:
+      numero: cKc0034-0006
+      miniature: https://c1.staticflickr.com/9/8500/8300901148_838da0606d_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8300901148/in/photolist-dDwhHj-dnJMnf-dnJFjn-dnJLZy
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: présents dans le mycélium à la base du pied
@@ -75,7 +80,6 @@ description:
   chrysocystides: abondantes, clavées à largement fusiformes, mucronées, de 40 µm x 14 µm en moyenne
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +138,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -247,7 +249,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun ambre à brun-pourpre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

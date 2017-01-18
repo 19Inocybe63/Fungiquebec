@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/485/19540518869_9cc363d8bc_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19540518869/in/photolist-FubZvg-vLJgtK-vLJm7x
 album-flickr:
   - 72157676693996480
-planches:
-  - miniature: https://c2.staticflickr.com/2/1582/25916920405_4a0b61cda0_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/25916920405/in/photolist-FubZvg-vLJgtK-vLJm7x
 
 details:
   nom-francais: 
@@ -17,10 +14,18 @@ details:
   genre: Russula
   espece: romagnesiana
   litterature: Shaffer, R.L. 1964. The subsection Lactarioideae of Russula. Mycologia. 56(2):202-231
-  fongariums:
-    - fongarium: cKc0347
-      date: 15 juillet 2015
-  numero-de-planche-micrographique: cKc0347-0117
+
+collections:
+  - fongarium: cKc0347
+    date: 15 juillet 2015
+    planche:
+      numero: cKc0347-0117
+      miniature: https://c2.staticflickr.com/2/1582/25916920405_4a0b61cda0_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/25916920405/in/photolist-FubZvg-vLJgtK-vLJm7x
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -80,9 +85,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: |
     De C. Kaufholtz-Couture. « Romagnesi indique que R. chloroïdes forme type chloroïdes possède « avec quelquefois dans sa forme typique un beau cerne vert sous l'insertion des lames, qui manque d'ailleurs très souvent, à surface d'abord pruineuse, puis satinée-luisante, finement ruguleuse ».
@@ -118,7 +120,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -143,9 +145,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7347/27589360352_cb34fe68a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27589360352/in/photolist-Je2nvb-HfVs48-J2YFCL
 album-flickr:
   - 72157675161308592
-planches:
-  - miniature: https://c2.staticflickr.com/8/7336/27714366152_99f809b25e_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/27714366152/in/photolist-Je2nvb-HfVs48-J2YFCL
 
 details:
   nom-francais: Pézize de Bolton
@@ -17,10 +14,18 @@ details:
   genre: Peziza
   espece: boltonii
   litterature: Quélet, L. 1878. Quelques especes nouvelles de Champignons. Bulletin de la Société Botanique de France. 25(4):287-292
-  fongariums:
-    - fongarium: cKc0497
-      date: 15 juin 2016
-  numero-de-planche-micrographique: cKc0497-0130
+
+collections:
+  - fongarium: cKc0497
+    date: 15 juin 2016
+    planche:
+      numero:  cKc0497-0130
+      miniature: https://c2.staticflickr.com/8/7336/27714366152_99f809b25e_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/27714366152/in/photolist-Je2nvb-HfVs48-J2YFCL
+    geolocalisation: 
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -80,9 +85,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: De cKc. Collection étudiée sur matériel frais. Les spécimens étaient très matures, mais j'ai obtenu une belle sporée. Les photos macro ne sont pas représentatives, mais l'étude microscopique en valait vraiment le coup.
   conidies: 
@@ -116,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -141,9 +143,7 @@ description:
   face-externe: sublisse à finement granuleuse, parfois avec des veinures, brun rougeâtre
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -258,7 +258,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

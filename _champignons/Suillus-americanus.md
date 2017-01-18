@@ -7,7 +7,7 @@ album-flickr:
   - 72157679317553425
 
 details:
-  nom-francais: 
+  nom-francais: Bolet d'Amérique
   autorites: (Peck) Snell
   ordre: Boletales
   famille: Suillaceae
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, grégaire ou cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent courbe, creux avec l'âge, concolore au chapeau, à glandules brunes sur toute la longueur
   pieds-steriles: 

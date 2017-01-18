@@ -34,8 +34,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/28130157805/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture
+    confirmee: René Dougoud
   - fongarium: cKc0516
     date: 11 juillet 2016
     planche:

@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/394/20272518041_035dfb297c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20272518041/in/photolist-wApzri-wTpXk8
 album-flickr:
   - 72157674632221620
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Scléroderme oignon
@@ -16,11 +13,19 @@ details:
   famille: Sclerodermataceae
   genre: Scleroderma
   espece: cepa
-  litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
-  fongariums:
-    - fongarium: cKc0390
-      date: 3 août 2015
-  numero-de-planche-micrographique: 
+  litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706 
+
+collections:
+  - fongarium: cKc0390
+    date: 3 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -71,7 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -105,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -130,9 +134,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: longtemps blanche et très ferme au début, devenant rose rougeâtre à vineuse à la coupe, noir pourpré à noire, marbrée de blanchâtre, et poudreuse à maturité
   gleocystides: 
   gleocystides-hymeniales: 
@@ -242,7 +244,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

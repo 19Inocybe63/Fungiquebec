@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8514/8593889828_e811faf521_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8593889828/in/photolist-e6rQx2-e6pW3h-e7hgUS
 album-flickr:
   - 72157676714106640
-planches:
-  - miniature: https://c1.staticflickr.com/9/8111/8594261535_f29626cebb_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8594261535/in/photolist-e6rQx2-e7hgUS-e6pW3h
 
 details:
   nom-francais: Russule fragrante
@@ -17,10 +14,18 @@ details:
   genre: Russula
   espece: fragrantissima
   litterature: Romagnesi, H. 1967. Les Russules d'Europe et d'Afrique du Nord. :1-998
-  fongariums:
-    - fongarium: cKc0012
-      date: 29 septembre 2012
-  numero-de-planche-micrographique: cKc0012-0021
+
+collections:
+  - fongarium: cKc0012
+    date: 29 septembre 2012
+    planche:
+      numero: cKc0012-0021
+      miniature: https://c1.staticflickr.com/9/8111/8594261535_f29626cebb_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8594261535/in/photolist-e6rQx2-e7hgUS-e6pW3h
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,9 +82,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +140,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

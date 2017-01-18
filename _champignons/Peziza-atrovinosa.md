@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/2/1606/24672563904_69f71fc804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/24672563904/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
 album-flickr:
   - 72157673970680130
-planches:
-  - miniature: https://c2.staticflickr.com/2/1617/26612029266_5e2bebfa84_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/26612029266/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
 
 details:
   nom-francais: 
@@ -17,12 +14,28 @@ details:
   genre: Peziza
   espece: atrovinosa
   litterature: Cooke, M.C. 1875. Synopsis of the discomycetous fungi of the United States. 1. Bulletin of the Buffalo Society of Natural Sciences. 2(36):285-288
-  fongariums:
-    - fongarium: cKc0331
-      date: 7 juillet 2015
-    - fongarium: cKc0523
-      date: 24 juillet 2016
-  numero-de-planche-micrographique: cKc0331-0123
+
+collections:
+  - fongarium: cKc0331
+    date: 7 juillet 2015
+    planche:
+      numero: cKc0331-0123
+      miniature: https://c2.staticflickr.com/2/1617/26612029266_5e2bebfa84_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/26612029266/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0523
+    date: 24 juillet 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -87,7 +100,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -121,7 +133,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare à occassionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -146,9 +158,7 @@ description:
   face-externe: finement granuleuse, face externe cannelle surface brun fumé
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare à occassionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -259,7 +269,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

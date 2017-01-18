@@ -255,7 +255,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: noirâtre
+  sporee: brun noirâtre foncé
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/6/5754/22047993816_fd80d44ac8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/22047993816/in/photolist-CCLgNz-yFJm6a-zAiJqq
 album-flickr:
   - 72157674433576544
-planches:
-  - miniature: https://c2.staticflickr.com/2/1638/24044875593_714396c227_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/24044875593/in/photolist-CCLgNz-yFJm6a-zAiJqq
 
 details:
   nom-francais: Plicature crispée
@@ -17,12 +14,28 @@ details:
   genre: Plicaturopsis
   espece: crispa
   litterature: Reid, D.A. 1964. Notes on some fungi of Michigan-I. Cyphellaceae. Persoonia. 3:97-154
-  fongariums:
-    - fongarium: sans numéro
-      date: 20 octobre 2012
-    - fongarium: cKc0487
-      date: 10 octobre 2015
-  numero-de-planche-micrographique: cKc0487-0110
+
+collections:
+  - fongarium: sans numéro
+    date: 20 octobre 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°56'39.7"N 71°18'14.0"O
+    altitude: 1.21. km
+    determinee: 
+    confirmee: Roland Labbé
+  - fongarium: cKc0487
+    date: 10 octobre 2015
+    planche:
+      numero: cKc0487-0110
+      miniature: https://c2.staticflickr.com/2/1638/24044875593_714396c227_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/24044875593/in/photolist-CCLgNz-yFJm6a-zAiJqq
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -76,9 +89,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -112,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -137,9 +147,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

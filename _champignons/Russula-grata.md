@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: largement fusiformes à elliptiques-ovoïdes, plus rarement subutriformes, tétrastérigmates, non bouclées à la base, 26,7 [36,5; 63,6] 73,5 x 9 [11,4; 18] 20,4 µm en moyenne
   basidiospores: |
-    globuleuses à subglobuleuses, majoritairement verruqueuses, munies de hautes crêtes ailées et partiellement réticulées, avec proéminences allant de 1,6-2,4 µm de hauteur, à paroi mince, avec appendice hilaire, plage hilaire subamyloïde pas toujours bien visible, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl, amyloïdes
+    globuleuses à subglobuleuses, majoritairement verruqueuses, munies de hautes crêtes ailées et partiellement réticulées, avec proéminences allant de 1,6-2,4 µm de hauteur, à paroi mince, avec appendice hilaire, plage hilaire subamyloïde pas toujours bien visible, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
     8 [8,7; 9] 9,7 x 7,5 [8,3; 8,7] 9,5 µm
     Q =  [1; 1,05] 1,1; N = 25; C = 95%
     Me = 8,8 x 8,5 µm; Qe = 1

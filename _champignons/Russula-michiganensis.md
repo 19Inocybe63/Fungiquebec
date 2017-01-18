@@ -69,7 +69,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à utriformes, tétrastérigmates
   basidiospores: |
-    globuleuses à subglobuleuses vue de front, subglobuleuses à largement elliptiques vue de profil, finement à moyennement verruqueuses, finement et partiellement réticulées, avec des proéminences entre 0,1-0,4 µm de hauteur, à paroi mince, pore germinatif parfois observable ± 1 µm Ø, plage hilaire lisse et amyloïde, avec appendice hilaire visible, à contenu uniguttulé, hyaline dans le NaCl iso, amyloïdes
+    globuleuses à subglobuleuses vue de front, subglobuleuses à largement elliptiques vue de profil, finement à moyennement verruqueuses, finement et partiellement réticulées, avec des proéminences entre 0,1-0,4 µm de hauteur, à paroi mince, pore germinatif parfois observable ± 1 µm Ø, plage hilaire lisse et amyloïde, avec appendice hilaire visible, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%, amyloïdes
     (6,6) 7,4-8,5 (8,7) x (5,6) 5,9-7 (7,1) µm
     Q = (1,1) 1,2 - 1,3 (1,5); N = 30
     Me = 7,9 x 6,4 µm; Qe = 1,2

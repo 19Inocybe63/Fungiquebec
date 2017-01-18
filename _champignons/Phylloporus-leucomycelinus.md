@@ -5,12 +5,6 @@ image: https://c1.staticflickr.com/1/618/20171022673_3a523b2c21_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20171022673/in/photolist-CAxxCb-wJrLhZ-wJtepT
 album-flickr:
   - 72157672609989183
-  - 
-planches:
-  - miniature: https://c2.staticflickr.com/2/1716/24019759366_30a8ab98dd_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/24019759366/in/dateposted/
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Phyllopore à base blanche
@@ -20,10 +14,18 @@ details:
   genre: Phylloporus
   espece: leucomycelinus
   litterature: Singer, R. 1978. Die Kernteilung in den Basidien und die Phylogenie der Basidiomyceten. Persoonia. 9(4):421-438
-  fongariums:
-    - fongarium: cKc0427
-      date: 22 août 2015
-  numero-de-planche-micrographique: cKc0427-0105
+
+collections:
+  - fongarium: cKc0427
+    date: 22 août 2015
+    planche:
+      numero: cKc0427-0105
+      miniature: https://c2.staticflickr.com/2/1716/24019759366_30a8ab98dd_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/24019759366/in/dateposted/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -79,9 +81,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -115,7 +114,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +139,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -258,7 +255,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: jaunâtre-ochracé
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

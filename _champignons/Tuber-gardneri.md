@@ -14,10 +14,6 @@ details:
   genre: Tuber
   espece: gardneri
   litterature: Gilkey, H.M. 1916. A revision of the Tuberales of California. University of California Publications in Botany. 6:275-356
-  fongariums:
-    - fongarium: cKc0348
-      date: 14 juillet 2015
-  numero-de-planche-micrographique: cKc0348-0092
 
 collections:
   - fongarium: cKc0348

@@ -12,7 +12,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: fragilis
+  espece: sensu fragilis
   litterature: Fries, E.M. 1825. Stirpes agri Femsionensis.
 
 collections:

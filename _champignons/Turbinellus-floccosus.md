@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8474/29042223936_e6c819caf1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29042223936/in/photolist-LfmZmU
 album-flickr:
   - 
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Chanterelle à flocons
@@ -17,10 +14,18 @@ details:
   genre: Turbinellus
   espece: floccosus
   litterature: Giachini, A.J; Castellano, M.A. 2011. A new taxonomic classification for species in Gomphus sensu lato. Mycotaxon. 115:183-201
-  fongariums:
-    - fongarium: cKc0544
-      date: 18 août 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0544
+    date: 18 août 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -245,7 +245,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: ocre pâle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

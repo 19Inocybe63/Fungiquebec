@@ -8,7 +8,7 @@ album-flickr:
 
 details:
   nom-francais: Russule fragile
-  autorites: ss. Shaffer
+  autorites: sensu Shaffer
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: assez ferme, mais fragile, blanche
+  chair: ferme, fragile, immuable, blanche
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, étroites, subespacées, blanches, à arêtes parfois finement floconneuses à serrulées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 48-70 x 9-16 mm Ø, plein, blanc, immuable
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,9 +243,11 @@ description:
     Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    FeSO<sub>4</sub> = pas de coloration sur le chapeau
   receptacle: 
-  remarques: 
+  remarques: |
+    Code de Kibby, A I K N / P (Q?) S
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

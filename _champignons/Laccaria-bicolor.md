@@ -16,8 +16,8 @@ details:
   litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0247
+    date: 10 septembre 2014
     planche:
       numero: 
       miniature: # Largeur 320px. ici
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans un brûlis (feu de camp)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 14 mm Ø, convexe, légèrement omboné, pruineux ou micacé, hygrophane, orangé à brun orangé, beige rosé pâle au sec, à marge blanchâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -131,7 +131,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-des-lames: fongique à légèrement de caoutchouc
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, espacées, avec plusieurs lamellules, lilacées, puis rose pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 42 x 2 mm Ø, légèrement flexueux, creux, torsadé à fibrilleux, tenace, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,7 +243,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte avec une finale subamère
   sclerocystides: 
   sclerote: 
   soies: 

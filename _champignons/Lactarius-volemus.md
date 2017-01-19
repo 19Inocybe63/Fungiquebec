@@ -244,8 +244,8 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = olive sur le chapeau ; orange à orange pâle sur le latex
     FeSO<sub>4</sub> = instantanément vert à bleu vert foncé sur la chair
+    KOH 10% = olive sur le chapeau ; orange à orange pâle sur le latex
   receptacle: 
   remarques: 
   repartition: 

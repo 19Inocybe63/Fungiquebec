@@ -24,8 +24,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     altitude: 1.08 km
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 

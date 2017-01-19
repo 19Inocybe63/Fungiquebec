@@ -5,9 +5,6 @@ image: https://c2.staticflickr.com/8/7368/8754529825_a47c6aa765_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8754529825/in/photolist-ekH1EC-ekBfHp-ekH1uQ-dhDPo1-dhDNwX/
 album-flickr:
   - 72157672900331914
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Tubaire commune
@@ -17,12 +14,28 @@ details:
   genre: Tubaria
   espece: furfuracea
   litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. :177-560
-  fongariums:
-    - fongarium: sans numéro
-      date: 7 octobre 2012
-    - fongarium: cKc0039
-      date: 18 mai 2013
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: sans numéro
+    date: 7 octobre 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0039
+    date: 18 mai 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -79,9 +92,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -115,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -140,9 +150,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -257,7 +265,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rouille, ocre
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

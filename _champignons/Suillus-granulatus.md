@@ -7,7 +7,7 @@ album-flickr:
   - 72157677607585761
 
 details:
-  nom-francais: 
+  nom-francais: Bolet granulé
   autorites: (L.) Roussel
   ordre: Boletales
   famille: Suillaceae
@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre, jaunissant avec l'âge, immuable à la coupe
   chancre: 
   chapeau: 20-90 (100) mm Ø, largement convexe, glutineux
   cheilochrysocystides:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -192,7 +192,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -206,7 +206,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: 35-48 x 7-16 mm Ø, cylindrique, plein, orné de glandules brunâtre et d'une base jaune
   pieds-steriles: 
@@ -246,12 +246,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: jaune brunâtre
   spherocytes: 
   sporocystes: 
   stipitipellis: 

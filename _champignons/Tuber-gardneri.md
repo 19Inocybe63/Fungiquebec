@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/1/360/19748538615_4f93219236_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19748538615/in/photostream/
 album-flickr:
   - 
-planches:
-  - miniature: https://c1.staticflickr.com/1/366/19797225815_91ec6199aa_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/19797225815/in/photostream/
 
 details:
   nom-francais: 
@@ -21,6 +18,18 @@ details:
     - fongarium: cKc0348
       date: 14 juillet 2015
   numero-de-planche-micrographique: cKc0348-0092
+
+collections:
+  - fongarium: cKc0348
+    date: 14 juillet 2015
+    planche:
+      numero: cKc0348-0092
+      miniature: https://c1.staticflickr.com/1/366/19797225815_91ec6199aa_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/19797225815/in/photostream/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -77,9 +86,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -113,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,9 +144,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: brun très foncé, rouge brique à brun rougeâtre à maturité, marbrée de veines blanches
   gleocystides: 
   gleocystides-hymeniales: 
@@ -250,7 +254,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: 
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

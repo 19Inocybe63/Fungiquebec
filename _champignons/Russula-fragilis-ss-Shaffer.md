@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, étroites, subespacées, blanches, à arêtes parfois finement floconneuses à serrulées
+  lames: adnexées, étroites, subespacées, blanches, à arêtes parfois finement crénelées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

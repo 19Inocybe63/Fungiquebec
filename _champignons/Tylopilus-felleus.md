@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8443/29399041486_35070c7c15_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29399041486/in/photolist-LMTLMC-LHT5Tt
 album-flickr:
   - 72157677322106245
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Bolet amer
@@ -17,10 +14,18 @@ details:
   genre: Tylopilus
   espece: felleus
   litterature: Karsten, P.A. 1881. Enumeratio Boletinearum et Polyporearum Fennicarum, systemate novo dispositarum. Revue Mycologique Toulouse. 3(9):16-19
-  fongariums:
-    - fongarium: cKc0558
-      date: 3 septembre 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0558
+    date: 3 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -73,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: blanchâtre puis rosée ou rose-brun à maturité, brunissant au froissement
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -250,7 +250,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun rougeâtre ou brun rosé
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

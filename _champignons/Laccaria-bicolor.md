@@ -72,7 +72,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans un brûlis (feu de camp)
+  biotopes: pousse au sol, sous divers conifères, bouleaux et peupliers, feu de camp
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -132,7 +132,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -212,7 +212,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé ou parfois cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -226,7 +226,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: 16-42 x 2-4 mm Ø, légèrement flexueux, creux, torsadé à fibrilleux, tenace, concolore au chapeau
   pieds-steriles: 
@@ -268,7 +268,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

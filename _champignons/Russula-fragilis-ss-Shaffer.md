@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, ou bois très pourri, sous feuillus et conifères, Betula, Picea, Pinus
+  biotopes: pousse au sol, dans la mousse, ou bois très pourri, sous feuillus, Betula, Fagus, Quercus
   boucles: 
   brachybasidioles: 
   calicule: 

@@ -22,8 +22,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
   - fongarium: sans numéro
@@ -32,8 +32,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
   - fongarium: cKc0247

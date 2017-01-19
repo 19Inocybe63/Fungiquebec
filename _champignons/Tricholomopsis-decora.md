@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8520/8635746662_876994de16_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8635746662/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
 album-flickr:
   - 72157672076237783
-planches:
-  - miniature: https://c1.staticflickr.com/9/8545/8644268445_ecaccb931c_n.jpg
-    originale: https://www.flickr.com/photos/kaufholtz/8644268445/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
 
 details:
   nom-francais: Tricholome décoré
@@ -17,10 +14,18 @@ details:
   genre: Tricholomopsis
   espece: decora
   litterature: Singer, R. 1939. Phylogenie und Taxonomie der Agaricales. Schweizerische Zeitschrift für Pilzkunde. 17:52-57
-  fongariums:
-    - fongarium: cKc0020
-      date: 14 octobre 2012
-  numero-de-planche-micrographique: cKc0020-0024
+
+collections:
+  - fongarium: cKc0020
+    date: 14 octobre 2012
+    planche:
+      numero: cKc0020-0024
+      miniature: https://c1.staticflickr.com/9/8545/8644268445_ecaccb931c_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/8644268445/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -75,7 +80,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -109,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,9 +138,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: commun
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -244,7 +246,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

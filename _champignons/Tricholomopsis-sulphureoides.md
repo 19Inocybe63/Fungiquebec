@@ -5,9 +5,6 @@ image: https://c1.staticflickr.com/9/8164/29608929000_0859bae19b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29608929000/in/photolist-M7rv2S-Monoq9
 album-flickr:
   - 72157675206317355
-planches:
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Tricholome faux-sulphureum
@@ -17,10 +14,18 @@ details:
   genre: Tricholomopsis
   espece: sulphureoides
   litterature: Singer, R. 1943. Das System der Agaricales. III. Annales Mycologici. 41:1-189
-  fongariums:
-    - fongarium: cKc0559
-      date: 24 septembre 2016
-  numero-de-planche-micrographique: 
+
+collections:
+  - fongarium: cKc0559
+    date: 24 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -71,7 +76,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
   columelle: 
   commentaires: 
   conidies: 
@@ -105,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -129,9 +133,7 @@ description:
   face-externe: 
   face-poroide: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -239,7 +241,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: pallidosporé, crème pâle, en tas
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. Regarde le chapeau, s'il avait été sec, tu aurais pu supprimer facilement tout grain de terre. Mais là, ils sont incrustées car T. subluteum est viscidule... mais vite sec.
+  commentaires: De Yves Lamoureux. « Regarde le chapeau, s'il avait été sec, tu aurais pu supprimer facilement tout grain de terre. Mais là, ils sont incrustées car T. subluteum est viscidule... mais vite sec. »
   conidies: 
   conidiome: 
   conidiophores: 

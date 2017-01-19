@@ -7,7 +7,7 @@ album-flickr:
   - 72157679350037855
 
 details:
-  nom-francais: 
+  nom-francais: Laccaire bicolore
   autorites: (Maire) P.D. Orton
   ordre: Agaricales
   famille: Hydnangiaceae

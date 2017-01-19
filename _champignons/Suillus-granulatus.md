@@ -238,12 +238,12 @@ description:
     Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
     Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
     Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
-  publications-microscopiques: |
+  publications-microscopiques: 
+  reactions-chimiques-naturelles: 
+  reactions-macrochimiques: |
     FeSO<sub>4</sub> = gris bleuâtre sur le chapeau ; vert olive sur la face poroïde ; vert foncé sur le pied ; gris olive sur la chair
     KOH 10% = olive foncé à gris olive sur le chapeau ; instantanément rouille orangé, puis rapidement brun pourpré sur la face poroïde ; brun pourpré sur le pied ; rose puis brun rosâtre sur la chair
     NH<sub>4</sub>OH 10% = gris bleuâtre sur le chapeau ; rouille orangé sur la face poroïde ; brun pourpré sur le pied ; orange rosâtre puis bleuâtre à pourprée cerclée d'orangé sur la chair
-  reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

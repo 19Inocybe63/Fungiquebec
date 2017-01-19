@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, fragile, immuable, blanche
   chancre: 
-  chapeau: 
+  chapeau: 27-67 mm Ø, convexe puis étalé, parfois déprimé au centre, fragile, de couleur très variable, rouge pourpré, vineux, violacé, rouge à rouge rosâtre, souvent plus foncé au centre, presque noir, brun à olive, plus pâle vers le pourtour, parfois très pâle et délavé, avec taches pâles ou entièrement blanc, à marge mince, unie à striatulée, et cuticule pelant jusqu'aux 3/4 du rayon ou plus
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 48-70 x 9-16 mm Ø, plein, blanc, immuable
+  pied: 48-70 x 9-16 mm Ø, subclaviforme, plein, fragile, immuable, blanc à légèrement jaune à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: 

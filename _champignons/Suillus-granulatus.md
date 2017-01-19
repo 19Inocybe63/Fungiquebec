@@ -1,5 +1,5 @@
 ---
-nom: Suillus granulatus
+nom: Suillus aff. granulatus
 date: 2017-01-19 00:00:00
 image: https://c1.staticflickr.com/1/481/18934767368_1d12186c12_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18934767368/in/photolist-uRcCEm-uRcy7J
@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « En Europe, S. granulatus ne pousse qu'avec les pins à deux aiguilles. Ici, il ne pousse pas avec les pins à deux aiguilles, mais avec le pin blanc ou la pruche. D'où le Suillus aff. granulatus que j'ai instauré en attendant qu'il soit renommé. J'avais signalé cela à Both dans les années 90, et il était d'accord que le granulatus européen ressemble plus à notre brevipes. C'est toujours la même chanson, euro et ameri en même temps, ça fausse souvent. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -16,8 +16,8 @@ details:
   litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
 
 collections:
-  - fongarium: cKc0247
-    date: 10 septembre 2014
+  - fongarium: sans numéro
+    date: 24 juin 2013
     planche:
       numero: 
       miniature: # Largeur 320px. ici
@@ -26,6 +26,26 @@ collections:
     altitude: 1.08 km
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
+  - fongarium: sans numéro
+    date: 27 juin 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
+  - fongarium: cKc0247
+    date: 10 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

@@ -1,5 +1,5 @@
 ---
-nom: Russula sensu fragilis
+nom: Russula fragilis
 date: 2017-01-19 00:00:00
 image: https://c2.staticflickr.com/6/5589/15034624325_0cd9367c27_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15034624325/in/photolist-oUypVP-oUyo1M-oC4HTw
@@ -12,7 +12,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: sensu fragilis
+  espece: fragilis
   litterature: Fries, E.M. 1825. Stirpes agri Femsionensis.
 
 collections:

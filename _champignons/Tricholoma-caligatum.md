@@ -5,12 +5,6 @@ image: https://c1.staticflickr.com/3/2854/9967543876_3dc771a34b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9967543876/in/photolist-gbMWp6-gbNgwL
 album-flickr:
   - 72157676207264646
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Tricholome guêtré ou Tricholome chaussé
@@ -19,11 +13,19 @@ details:
   famille: Tricholomataceae
   genre: Tricholoma
   espece: caligatum
-  litterature: Ricken, A. 1915. Die Blätterpilze. 1:1-480
-  fongariums:
-    - fongarium: cKc0123
-      date: 27 septembre 2013
-  numero-de-planche-micrographique: 
+  litterature: Ricken, A. 1915. Die Blätterpilze. 1:1-480 
+
+collections:
+  - fongarium: cKc0123
+    date: 27 septembre 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -76,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Claude Kaufholtz-Couture
-  collection-determinee-par: 
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: 
   conidies: 
@@ -112,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -137,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: rare
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 
@@ -249,7 +246,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

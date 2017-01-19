@@ -401,8 +401,6 @@ champs-description:
     label: Phénologie
   - name: distribution
     label: Distribution
-  - name: frequence
-    label: Fréquence
   - name: reactions-chimiques-naturelles
     label: Réactions chimiques naturelles
   - name: reactions-macrochimiques
@@ -430,8 +428,6 @@ champs-description:
     label: Remarques
   - name: collection-determinee-par
     label: Collection déterminée par
-  - name: collection-determination-provisoire-par
-    label: Collection détermination provisoire par
   - name: collection-confirmee-par
     label: Collection confirmée par
   - name: acanthophyses
@@ -540,8 +536,6 @@ champs-description:
     label: Espèces semblables
   - name: feutrage-basal
     label: Feutrage basal
-  - name: fongarium
-    label: Fongarium
   - name: fragments-sporaux
     label: Fragments sporaux
   - name: gleocystides

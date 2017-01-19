@@ -426,10 +426,6 @@ champs-description:
     label: Commentaires
   - name: remarques
     label: Remarques
-  - name: collection-determinee-par
-    label: Collection déterminée par
-  - name: collection-confirmee-par
-    label: Collection confirmée par
   - name: acanthophyses
     label: Acanthophyses
   - name: aleurioconidies

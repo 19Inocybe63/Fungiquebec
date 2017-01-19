@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre, jaunissant avec l'âge, immuable à la coupe
   chancre: 
-  chapeau: 20-90 (100) mm Ø, largement convexe, glutineux
+  chapeau: 20-90 (100) mm Ø, convexe à largement convexe, visqueux à glutineux, glabre, brun-jaune ou brun rougeâtre, parfois taché de brun foncé par le gluten séché, à marge unie
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

@@ -5,12 +5,6 @@ image: https://c2.staticflickr.com/4/3924/15348923981_4dd795fa5e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15348923981/in/photolist-pokdzX-pokfmn
 album-flickr:
   - 72157672645720714
-  - 
-planches:
-  - miniature: 
-    originale: 
-  - miniature: 
-    originale: 
 
 details:
   nom-francais: Tricholome jaune
@@ -19,11 +13,19 @@ details:
   famille: Tricholomataceae
   genre: Tricholoma
   espece: subluteum
-  litterature: Peck, C.H. 1904. Report of the State Botanist 1903. Bulletin of the New York State Museum. 75:1-68
-  fongariums:
-    - fongarium: cKc0272
-      date: 25 septembre 2014
-  numero-de-planche-micrographique: 
+  litterature: Peck, C.H. 1904. Report of the State Botanist 1903. Bulletin of the New York State Museum. 75:1-68 
+
+collections:
+  - fongarium: cKc0272
+    date: 25 septembre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 
@@ -76,9 +78,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: Yves Lamoureux
-  collection-determinee-par: Claude Kaufholtz-Couture
-  collection-determination-provisoire-par: 
   columelle: 
   commentaires: De Yves Lamoureux. Regarde le chapeau, s'il avait été sec, tu aurais pu supprimer facilement tout grain de terre. Mais là, ils sont incrustées car T. subluteum est viscidule... mais vite sec.
   conidies: 
@@ -112,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution-et-abondance: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -137,9 +136,7 @@ description:
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
-  fongarium:
   fragments-sporaux: 
-  frequence: occasionnel
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

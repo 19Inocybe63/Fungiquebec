@@ -244,7 +244,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = pas de coloration sur le chapeau
+    FeSO<sub>4</sub> = pas de coloration sur le pied
   receptacle: 
   remarques: |
     Code de Kibby, A I K N / P (Q?) S

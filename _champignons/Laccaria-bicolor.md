@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 14 mm Ø, convexe, légèrement omboné, pruineux ou micacé, hygrophane, orangé à brun orangé, beige rosé pâle au sec, à marge blanchâtre
+  chapeau: 6-14 mm Ø, convexe, légèrement omboné, pruineux ou micacé, hygrophane, orangé à brun orangé, beige rosé pâle au sec, à marge blanchâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 42 x 2 mm Ø, légèrement flexueux, creux, torsadé à fibrilleux, tenace, concolore au chapeau
+  pied: 16-42 x 2-4 mm Ø, légèrement flexueux, creux, torsadé à fibrilleux, tenace, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 

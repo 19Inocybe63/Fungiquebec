@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, parmi les sphaignes des milieux humides, sous conifères et feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: très mince, concolore au chapeau
   chancre: 
-  chapeau: 
+  chapeau: 28 mm Ø, conique tronqué, ombiliqué, hygrophane, brun rougeâtre à orange brun, à marge longuement translucide-striée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à pomme de terre
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées à sinuées, espacées, rosées, à arêtes parfois plus foncées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,9 +206,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: 20-70 x 1-4 mm Ø, égal, farci, glabre, parfois un peu strié, concolore au chapeau, ou plus foncé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -248,7 +248,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

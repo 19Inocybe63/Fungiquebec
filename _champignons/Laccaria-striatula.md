@@ -234,7 +234,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Mueller, Gregory M. Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

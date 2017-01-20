@@ -16,6 +16,16 @@ details:
   litterature: Zmitrovich, I.V. 2010. The taxonomical and nomenclatural characteristics of medicinal mushrooms in some genera of Polyporaceae. International Journal of Medicinal Mushrooms. 12(1):87-89
 
 collections:
+  - fongarium: sans numéro
+    date: 7 octobre 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45'43.6"N 71°41'39.1"O
+    altitude: 527 m
+    determinee: 
+    confirmee: Roland Labbé
   - fongarium: cKc0567
     date: 24 septembre 2016
     planche:
@@ -60,9 +70,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur une souche pourrie et mousse de Fagus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -79,7 +89,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 7-23 x Ø, 2-5 mm d'épaisseur, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire, tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts poils raides et foncés au début, puis sublisse ou velouté, azoné, luisant, bronzé, brun pourpré, brun grisâtre à presque noir, à marge enroulée au début, réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée à ciliée, concolore
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -94,7 +104,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: subéreux, azoné, blanc, 1-3 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -103,7 +113,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: subdécurrente, blanche à ivoire, 1-3 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -145,7 +155,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: égale, chatoyante, blanchâtre à ivoire
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -218,7 +228,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 7-12 x 1-2 mm Ø, centré à excentré, égal, droit à courbe, parfois légèrement élargi vers avec base, solide, finement velouté à lisse, blanc grisâtre à brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -238,7 +248,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: ronds, puis anguleux, souvent librement disposés, (1) 2-4 par mm, à dissépiments minces, devenant lacérés
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -258,7 +268,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

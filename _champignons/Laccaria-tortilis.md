@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: Laccaire contourné
+  nom-francais: Laccaire tortueux
   autorites: (Bolton) Cooke
   ordre: Agaricales
   famille: Hydnangiaceae
@@ -192,7 +192,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé ou grégaire, parfois cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Laccaire contourné
   autorites: (Bolton) Cooke
   ordre: Agaricales
   famille: Hydnangiaceae
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, presque absente, concolore au chapeau
   chancre: 
-  chapeau: 
+  chapeau: 6-16 mm Ø, convexe à étalé, déprimé, parfois ondulé, strié, subglabre, hygrophane, saumon ou brunâtre à crème-rosé à orange-roux au frais, beige à chamois au sec, marge ondulée et parfois très ondulée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à sinuées, larges, épaisses, espacées à très espacées, peu nombreuses, rosé carné à légèrement vineuses
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: 8-12 x 1 mm Ø, cylindrique, égal à subbulbeux, sec, glabre ou finement fibrilleux, non strié, concolore au chapeau, avec mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -244,12 +244,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

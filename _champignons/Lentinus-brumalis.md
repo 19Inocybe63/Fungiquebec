@@ -1,0 +1,305 @@
+---
+nom: Lentinus brumalis
+date: 2017-01-20 00:00:00
+image: https://c2.staticflickr.com/6/5577/30024934032_7af1fb303f_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/30024934032/in/photolist-MKcCQq-MKcJKG
+album-flickr:
+  - 72157679275601306
+
+details:
+  nom-francais: 
+  autorites: (Pers.) Zmitr.
+  ordre: Polyporales
+  famille: Polyporaceae
+  genre: Lentinus
+  espece: brumalis
+  litterature: Zmitrovich, I.V. 2010. The taxonomical and nomenclatural characteristics of medicinal mushrooms in some genera of Polyporaceae. International Journal of Medicinal Mushrooms. 12(1):87-89
+
+collections:
+  - fongarium: cKc0567
+    date: 24 septembre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0585
+    date: 5 octobre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+
+description:
+  acanthocytes: 
+  acanthophyses: 
+  aiguillons: 
+  aleurioconidies: 
+  anamorphe: 
+  anamorphe-conidien: 
+  anneau: 
+  apothecie: 
+  arete-lamellaire: 
+  arthroconidies: 
+  articles: 
+  ascome: 
+  ascospores: 
+  asques: 
+  asterohyphidies: 
+  avertissement: 
+  base-du-pied: 
+  base-sterile: 
+  base-stipitiforme: 
+  basides: 
+  basidiospores: 
+  basidioles: 
+  basidiome: 
+  bibliographies: 
+  biotopes: 
+  boucles: 
+  brachybasidioles: 
+  calicule: 
+  capillitium: 
+  capitule: 
+  caulobasides: 
+  caulocystides: 
+  caulocystides-medianes: 
+  caulocystides-sommitales: 
+  cellules-hymeniales-diverticulees: 
+  cellules-hymeniales-en-brosses: 
+  cellules-marginales-paracystides: 
+  cellules-peritheciales: 
+  cellules-stromatiques: 
+  chair: 
+  chancre: 
+  chapeau: 
+  cheilochrysocystides:
+  cheilocystides: 
+  cheiloleptocystides: 
+  cheilomacrocystides: 
+  chlamydospores: 
+  chrysocystides: 
+  circumcystides: 
+  clavules: 
+  columelle: 
+  commentaires: 
+  conidies: 
+  conidiome: 
+  conidiophores: 
+  consistance: 
+  contexte: 
+  cordons-myceliens: 
+  cordons-rhizomorphiques: 
+  cortex: 
+  cortex-caulinaire: 
+  cortex-du-pied-et-du-bulbe: 
+  cortex-peridial: 
+  cortex-sclerotial: 
+  cortine: 
+  couches-de-tubes: 
+  coupe-sterile: 
+  cristaux: 
+  cristaux-d-oxalate: 
+  cristaux apicaux: 
+  cuticule: 
+  cutis: 
+  cycle: 
+  cystides: 
+  cystides-hymeniales: 
+  cystides-intermediaires: 
+  cystidioles: 
+  dendrohyphydies: 
+  depots-de-pigment-interhyphal: 
+  dermatocystides-caulocystides-et-pileipellis: 
+  derniere-correction: 
+  dicaryophyses: 
+  dichophyses: 
+  disque-basal: 
+  distribution: 
+  elateres: 
+  elements-acanthophyses: 
+  elements-cystidioides: 
+  elements-hyphoides: 
+  elements-setoides: 
+  elements-steriles: 
+  elements-sur-les-cotes: 
+  elements-velaires: 
+  endoperidium: 
+  especes-identification: 
+  especes-semblables: 
+  excipulum: 
+  excipulum-medullaire-superieur: 
+  excipulum-medullaire-moyen: 
+  excipulum-medullaire-inferieur: 
+  excipulum-ectal: 
+  exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
+  exoperidium: 
+  extremites-hyphales: 
+  face-externe: 
+  face-poroïde: 
+  feutrage-basal: 
+  fragments-sporaux: 
+  glebe: 
+  gleocystides: 
+  gleocystides-hymeniales: 
+  gleocystides-subhymeniales: 
+  granules-calcaires: 
+  groupe: 
+  hymenium: 
+  hymenocystides: 
+  hymenophore: 
+  hyphes: 
+  hyphes-de-la-chair: 
+  hyphes-de-l-anneau: 
+  hyphes-du-pied: 
+  hyphes-glebales: 
+  hyphes-gleopleres: 
+  hyphes-hymeniales: 
+  hyphes-ligatives: 
+  hyphes-oleiferes: 
+  hyphes-pectinees: 
+  hyphes-primordiales: 
+  hyphes-setales: 
+  hyphes-squelettiques: 
+  hyphes-skeletoligative: 
+  hyphes-subiculaires: 
+  hyphes-thrombopleres: 
+  hyphes-tramales: 
+  hyphes-vesiculaires: 
+  hyphidies: 
+  hyphique: 
+  hypobasides: 
+  hypoderme: 
+  hypoge: 
+  hypophylle: 
+  hypothalle: 
+  hypothece: 
+  hysterothece: 
+  lames: 
+  lamprocystides: 
+  lamprocheilocystides: 
+  lampropleurocystides: 
+  lamprocaulocystides: 
+  latex: 
+  leptocystides: 
+  leptopleurocystides: 
+  macrocystides: 
+  macropleurocystides: 
+  marge: 
+  marge-et-face-externe: 
+  mediostrate: 
+  medulla: 
+  medulla-caulinaire: 
+  medulla-clavariale: 
+  medulla-clavulaire: 
+  microconidies: 
+  mode-de-croissance: 
+  mycelium-basal: 
+  myxocarpe: 
+  nouvelle-espece: 
+  note-taxonomique: 
+  oeuf: 
+  paracapillitium: 
+  paraphyses: 
+  parasite: 
+  paroi-peritheciale: 
+  peridiole: 
+  peridiopellis: 
+  peridium: 
+  peritheces: 
+  phenologie: 
+  phialoconidies: 
+  pied: 
+  pieds-steriles: 
+  pigments: 
+  pileipellis: 
+  pileitrame: 
+  pileocystides: 
+  plasmode: 
+  pleurochrysocystides: 
+  pleurocystides: 
+  poils: 
+  poils-basaux: 
+  poils-caulinaires: 
+  poils-du-cortex: 
+  poils-externes: 
+  poils-lateraux-et-caulinaires: 
+  poils-marginaux: 
+  poils-mycelien-basaux: 
+  poils-peridiaux: 
+  poils-peritheciaux: 
+  poils-pileiques: 
+  pores: 
+  premiere-mention: 
+  pseudocapillitium: 
+  pseudocolumelle: 
+  pseudocystides: 
+  pseudo-peridioles: 
+  publications: 
+  publications-microscopiques: 
+  reactions-chimiques-naturelles: 
+  reactions-macrochimiques: 
+  receptacle: 
+  remarques: 
+  repartition: 
+  rhizomorphes: 
+  sac-sporifere: 
+  saveur: 
+  sclerocystides: 
+  sclerote: 
+  soies: 
+  soies-hymeniales: 
+  sporee: 
+  spherocytes: 
+  sporocystes: 
+  stipitipellis: 
+  stipititrame: 
+  stroma: 
+  subhymenium: 
+  subiculum: 
+  substrat: 
+  synonymie: |
+    Polystictus brumalis (Pers.) Fr.
+    Boletus brumalis Pers., Neues Magazin für die Botanik 1:107 (1794)
+    Polyporus brumalis (Pers.) Fr., Observationes mycologicae 2:255 (1818)
+    Polyporellus brumalis (Pers.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:37 (1879)
+    Leucoporus brumalis (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:165 (1886)
+    Leucoporus brumalis (Pers.) Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 28:367 (1926)
+    Boletus hypocrateriformis Schrank, Baierische Flora 2:621, n. 1747 (1789)
+    Boletus umbilicatus Schrank, Baierische Flora 2:621, n. 1748 (1789)
+    Boletus fuscidulus Schrad. ex J.F. Gmel., Systema Naturae 2:1433 (1792)
+    Boletus fasciculatus Schrad. ex J.F. Gmel., Systema Naturae 2:1433 (1792)
+    Boletus ciliatus Hornem., Fl. danica:pl. 1297 (1806)
+    Polyporus substriatus Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 4-5:21, t.9 (1828)
+    Polyporus nanus F. Brig., Atti R. Ist. Incoragg. Sci. nat.:151 (1840)
+    Polyporus trachypus Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 27/28:27 (1848)
+    Polyporus luridus Berk. & M.A. Curtis, Grevillea 1 (3):37 (1872)
+    Polyporus cyathoides Quél., Mémoires de la Société d'Émulation de Montbéliard 5:270 (1872)
+    Polyporus pauperculus Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 11 (4):435 (1889)
+    Polyporus tucumanensis Speg., Anales del Museo Nacional de Historia Natural Buenos Aires 6:162 (1898)
+    Favolus apiahynus Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 23 (3-4):407 (1919)
+    Polyporus brumalis f. subarcularius Donk, Mededelingen van de Nederlandse Mycologische Vereeniging 18-20:133 (1933)
+  systeme-hyphal: 
+  textura: 
+  tomentum-caulinaire: 
+  tomentum-pileique: 
+  trame-hymenophorale: 
+  trame-lamellaire: 
+  trame-tubulaire: 
+  type: 
+  typique: 
+  voile: 
+  voile-general: 
+  voile-partiel: 
+  volve: 
+  zone-perihymeniale: 
+---

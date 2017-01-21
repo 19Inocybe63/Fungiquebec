@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: mince, blanchâtre à grise puis gris-brun à noir violacé, blanche dans le pied
   chancre: 
-  chapeau: 
+  chapeau: jusqu’à 50 mm de hauteur x 30 mm Ø, lorsque fermé, 60 mm Ø, après expansion, ovoïde, ellipsoïde à cylindrique-ellipsoïde au début, puis campanulé, conique, convexe, étalé à étalé-concave, gris-brun pâle ou foncé au centre, plus pâle vers la marge, couvert d’un voile blanchâtre puis gris argenté au début, gris ou gris-brun avec l’âge, se brisant radialement en petites écailles ou méchules floconneuses-fibrilleuses ou poilues dispersées, souvent pointues et apprimées ou récurvées, surtout au centre, à bouts brunissant au sec, déliquescent, à marge récurvée à la fin, profondément sillonnée presque au disque
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres à adnexées, larges à étroites, épaisses, très serrées à modérément serrées, blanches au début, puis grisâtres, brun rosâtre-grisâtre à noirâtres, déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
+  pied: 30-130 x 3-10 mm Ø, blanchâtres, légèrement atténué vers l’apex, légèrement élargi à clavé vers la base ou bulbeux jusqu’à 13 mm Ø, creux, pubescent à entièrement floconneux-poilu, densément surtout sur la partie inférieure, glabrescent, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 

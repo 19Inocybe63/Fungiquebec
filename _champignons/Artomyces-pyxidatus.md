@@ -84,7 +84,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De C. Kaufholtz-Couture. « La sporée fut mise en tas pour une meilleure concentration de la couleur. À ma grande surprise, la couleur de cette sporée n'est pas blanche comme indiqué partout dans les monographies, mais bien ocrosporée, ocre pâle à ocre moyen. »
+  commentaires: De Claude Kaufholtz-Couture. « La sporée fut mise en tas pour une meilleure concentration de la couleur. À ma grande surprise, la couleur de cette sporée n'est pas blanche comme indiqué partout dans les monographies, mais bien ocrosporée, ocre pâle à ocre moyen. »
   conidies: 
   conidiome: 
   conidiophores: 

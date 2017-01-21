@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Coprin laineux des charbonnières ou Coprin sosie du pied de lièvre
   autorites: (Peck) Redhead, Vilgalys & Moncalvo
   ordre: Agaricales
   famille: Psathyrellaceae
@@ -25,7 +25,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur bois carbonisé, dans les brûlis
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, blanchâtre à grise puis gris-brun à noir violacé, blanche dans le pied
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -192,7 +192,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, subgrégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -206,7 +206,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -243,12 +243,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: noire
   spherocytes: 
   sporocystes: 
   stipitipellis: 

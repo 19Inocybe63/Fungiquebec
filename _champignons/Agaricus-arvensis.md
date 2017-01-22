@@ -58,7 +58,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol en milieux herbeux et ouverts, pelouses, champs, pâturages, orée des forêts, parfois clairières
-  boucles: 
+  boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -76,7 +76,8 @@ description:
   chancre: 
   chapeau: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, avec marge appendiculée de restes vélaires
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, formées de cellules cylindriques à subglobuleuses, oblongues à piriformes, formant une chaîne, (8,2) 10,5-15,1 (22,3) × (4,1) 5,5-8,1 (8,6) µm
+  
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -213,7 +214,7 @@ description:
   pied: 54-56 x 13-17 mm Ø, égal, cylindrique à claviforme dont la la base est subbulbeuse, plein, farci puis creux, lisse au-dessus de l'anneau, fibrilleux-squamuleux-cotonneux au-dessous, blanc beige
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, formé d'hyphes apprimées, parallèles, non bouclées, hyalines à légèrement pigmentées, 3,5-5 µm Ø
   pileitrame: 
   pileocystides: 
   plasmode: 

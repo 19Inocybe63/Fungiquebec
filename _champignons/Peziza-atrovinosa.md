@@ -101,7 +101,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Exhalaison spermatique et légèrement de chlore une fois réhydraté. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Exhalaison spermatique et légèrement de chlore une fois réhydraté. Remerciements à René Dougoud pour son aide dans l'étude microscopique. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -130,7 +130,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: agréable, d'amandes ou d'anis lorsque jeune, de moisi ou d'urine à maturité
+  exhalaison-des-lames: agréable, d'amandes ou d'anis
   exoperidium: 
   extremites-hyphales: 
   face-externe: 

@@ -76,8 +76,7 @@ description:
   chancre: 
   chapeau: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, avec marge appendiculée de restes vélaires
   cheilochrysocystides:
-  cheilocystides: abondantes, formées de cellules cylindriques à subglobuleuses, oblongues à piriformes, formant une chaîne, (8,2) 10,5-15,1 (22,3) × (4,1) 5,5-8,1 (8,6) µm
-  
+  cheilocystides: abondantes, formées de cellules cylindriques à subglobuleuses, oblongues à piriformes, caténulées, (8,2) 10,5-15,1 (22,3) × (4,1) 5,5-8,1 (8,6) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -282,7 +281,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: membraneux, laissant un anneau supère ou subapical sur le pied, pendant, ample, épais, fragile, persistant, double, en roue dentée, lisse au-dessus, typiquement avec plaques cotonneuses blanches, puis teintées de jaunâtre, d'orangé ou de chamois, qui se brisent en étoile ou en roue de bateau au-dessous
+  voile-partiel: membraneux, laissant un anneau supère ou subapical sur le pied, pendant, ample, épais, fragile, persistant, double, en roue dentée, lisse au-dessus, typiquement avec plaques cotonneuses blanches, puis teintées de jaunâtre, d'orangé ou de chamois, qui se brisent en étoile ou en roue de bateau au-dessous, formé d'hyphes septées non bouclées, cylindriques caténulées, avec hyphes terminales claviformes à parfois largement claviformes, (11,6) 13-40 (67,8) × (1,9) 2,4-4,1 (4,7) µm en moyenne
   volve: 
   zone-perihymeniale: 
 ---

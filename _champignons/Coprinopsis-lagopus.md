@@ -16,14 +16,24 @@ details:
   litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
 
 collections:
+  - fongarium: sans numéro
+    date: 31 mai 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0310
     date: 10 juin 2015
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -206,7 +216,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de juin à juillet
+  phenologie: de mai à juillet
   phialoconidies: 
   pied: 
   pieds-steriles: 

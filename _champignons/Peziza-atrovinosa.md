@@ -101,7 +101,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Exhalaison spermatique et légèrement de chlore une fois réhydraté. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -133,7 +133,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occassionnelle
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -259,7 +259,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Exhalaison spermatique et légèrement de chlore une fois réhydraté. Étude microscopique réalisée sur matériel réhydraté, c'est pourquoi il est probable que sur le frais, l'excipulum médullaire supérieur et inférieur soit de textura globulosa. Autant de motifs pour rester prudent sur l'identification.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

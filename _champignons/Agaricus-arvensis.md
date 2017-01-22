@@ -48,7 +48,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    ovales à elliptiques vue de front, ellptiques à largement elliptiques vue de profil, lisses, à paroi mince à légèrement épaissie, sans pore germinatif distinct, avec petit appendice hilaire, à contenu uniguttulé, brun foncé dans E.G. 20%, inactives dans le melzer, non cyanophiles
+    (6) 6,3 - 7,4 (7,9) × (4,2) 4,4 - 5,1 (5,4) µm
+    Q = (1,3) 1,34 - 1,5 (1,6) ; N = 30
+    Me = 6,8 × 4,7 µm ; Qe = 1,4
+    (Piximètre, formule clasique, mesure issues de sporée dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

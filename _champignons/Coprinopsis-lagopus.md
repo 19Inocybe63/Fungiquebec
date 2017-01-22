@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, étroites, modérément serrées, blanches au début, puis vite brun grisâtre à noirâtres, déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -218,7 +218,7 @@ description:
   peritheces: 
   phenologie: de mai à juillet
   phialoconidies: 
-  pied: 
+  pied: 50-100 x 2-5 mm Ø, légèrement atténué vers l'apex, clavé vers la base à bulbeux jusqu'à 8 mm Ø, creux, floconneux, hirsute, plus densément sur la partie inférieure, glabrescent, blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

@@ -20,8 +20,8 @@ collections:
     date: 11 octobre 2016
     planche:
       numero: cKc0597-0154
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c1.staticflickr.com/1/353/32330712862_251338267b_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/32330712862/in/photolist-RfXmxQ-MWupCd-M9YoGN-MWusFh-MZ9gSK/
     geolocalisation: 46°47'56.1"N 71°14'33.3"O
     altitude: 1.07 km
     determinee: 
@@ -76,7 +76,7 @@ description:
   chancre: 
   chapeau: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, avec marge appendiculée de restes vélaires
   cheilochrysocystides:
-  cheilocystides: abondantes, formées de cellules cylindriques à subglobuleuses, oblongues à piriformes, caténulées, (8,2) 10,5-15,1 (22,3) × (4,1) 5,5-8,1 (8,6) µm
+  cheilocystides: abondantes, peu émergentes, formées de cellules cylindriques à subglobuleuses, oblongues à piriformes, caténulées, (8,2) 10,5-15,1 (22,3) × (4,1) 5,5-8,1 (8,6) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

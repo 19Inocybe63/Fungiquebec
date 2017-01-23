@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous conifères, Abies, Picea, Pinus
+  biotopes: pousse au sol, dans les débris ligneux, sous conifères, Abies, Picea, Pinus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: crème à brun foncé
   chancre: 
-  chapeau: 
+  chapeau: 20-50 mm Ø, conique-campanulé, puis étalé, mamelonné, hygrophane, brun foncé à l'humidité, brun orangé pâle ou jaune brunâtre terne au sec, orné de fines squamules plus pâles
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, larges, espacées, brun fauve, à arêtes plus pâles
+  lames: adnées, larges, espacées, avec lamelles et lamellules, brun foncé, à arêtes plus pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 30-100 x 3-8 mm Ø, cylindrique, égal, crème brunâtre, plus foncé à l'humidité, orné de fibrilles ocrées, parfois ± disposées en guirlandes
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -240,7 +240,8 @@ description:
     Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = toutes les parties deviennent noires
   receptacle: 
   remarques: 
   repartition: 

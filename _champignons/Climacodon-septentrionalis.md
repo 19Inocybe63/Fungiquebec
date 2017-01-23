@@ -30,7 +30,7 @@ collections:
 description:
   acanthocytes: 
   acanthophyses: 
-  aiguillons: 
+  aiguillons: 5-25 mm de longueur, flexibles, très serrés, blancs au début, puis jaunâtres
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur Acer saccharinum
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, fibreuse, coriace, immuable à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 100-150 (300) mm de largeur, 20-50 mm d'épaisseur à la base, en console, convexe, étalé à légèrement déprimé, atténué vers la marge, de contour semi-circulaire, collant à sec, tomenteux-rugueux, blanchâtre, puis crème jaunâtre, en amas imbriqués jusqu'à 100-400 mm de hauteur au total
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: quelque peu désagréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: absent
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -240,16 +240,17 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    L'arbre avait trois spécimens tout situés sur de longues fissures. Deux étaient à un mètre et demi du sol, un troisième spécimen à environ deux et trois mètres du sol ;
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: subsucrée
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

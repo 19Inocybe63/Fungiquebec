@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: crème à brun foncé
   chancre: 
-  chapeau: 20-50 mm Ø, conique-campanulé, puis étalé, mamelonné, hygrophane, brun foncé à l'humidité, brun orangé pâle ou jaune brunâtre terne au sec, orné de fines squamules plus pâles
+  chapeau: 20-50 mm Ø, conique-campanulé, puis étalé, mamelonné, hygrophane, méchuleux, brun foncé à l'humidité, brun orangé pâle ou jaune brunâtre terne au sec, orné de fines squamules plus pâles
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Les bandelettes orangées sur le pied ne résultent pas du dépôt de spores ; c'est la couleur du voile général de cette espèce. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 30-100 x 3-8 mm Ø, cylindrique, égal, crème brunâtre, plus foncé à l'humidité, orné de fibrilles ocrées, parfois ± disposées en guirlandes
+  pied: 30-100 x 3-8 mm Ø, cylindrique, égal, crème brunâtre, plus foncé à l'humidité, orné de fibrilles ocrées, parfois ± disposées en bandelettes orangées
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -272,7 +272,7 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: souvent abondant, brun-jaune à ochracé
+  voile-general: souvent abondant, brun-jaune à ochracé orangé
   voile-partiel: 
   volve: 
   zone-perihymeniale: 

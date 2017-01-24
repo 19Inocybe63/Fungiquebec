@@ -1,7 +1,7 @@
 ---
 nom: Cortinarius pholideus
 date: 2017-01-24 00:00:00
-image: https://c1.staticflickr.com/1/609/21586158261_3d4d164db9_n.jpg
+image: https://c1.staticflickr.com/1/609/21586158261_ab26f267bf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21586158261/in/photolist-yA7MiG-yTuGNr
 album-flickr:
   - 72157679526968885

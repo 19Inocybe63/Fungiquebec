@@ -7,7 +7,7 @@ album-flickr:
   - 72157679526968885
 
 details:
-  nom-francais: 
+  nom-francais: Cortinaire écailleux
   autorites: (Lilj.) Fr.
   ordre: Agaricales
   famille: Cortinariaceae
@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sapinières à bouleaux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -77,9 +77,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre à brunâtre dans le chapeau, violacée à l'apex du pied, brun-jaune à sa base
   chancre: 
-  chapeau: 
+  chapeau: 20-80 mm Ø, hémisphérique à convexe, puis étalé, souvent avec petit mamelon conique à pointu, parfois entouré de dépressions circulaires concentriques, mat, non hygrophane, entièrement recouvert de squamules gris-brun foncé sur fond jaune-brun
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -102,7 +102,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: blanchâtre
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -122,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -139,7 +139,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: faiblement fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, serrées, gris-brun ou violettes au début, brun rouille avec l'âge, à arêtes ± denticulées, plus pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -216,9 +216,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 
+  pied: 40-100 x 5-15 mm Ø, assez mince, ± cylindrique, subégal, grisâtre avec des squamules gris-brun, formant des bandelettes en zigzag, dont l’apex est gris pâle avec reflet violet
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -252,16 +252,16 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: de la section Pholidei
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: faiblement fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 

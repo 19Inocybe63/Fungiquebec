@@ -102,7 +102,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: blanchâtre
+  cortine: gris-brun pâle
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -202,7 +202,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire par petits groupes, parfois cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -282,7 +282,7 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: 
+  voile-general: abondant, gris-brun foncé
   voile-partiel: 
   volve: 
   zone-perihymeniale: 

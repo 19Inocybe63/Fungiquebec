@@ -89,7 +89,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Lui avait des lames violettes dans le jeune âge. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -218,7 +218,7 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 40-100 x 5-15 mm Ø, assez mince, ± cylindrique, subégal, grisâtre avec des squamules gris-brun, formant des bandelettes en zigzag, dont l’apex est gris pâle avec reflet violet
+  pied: 40-100 x 5-15 mm Ø, assez mince, ± cylindrique, subégal, plein, grisâtre avec des squamules gris-brun, formant des bandelettes en zigzag, dont l’apex est gris pâle avec reflet violet
   pieds-steriles: 
   pigments: 
   pileipellis: 

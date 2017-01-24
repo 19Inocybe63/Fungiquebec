@@ -79,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à brunâtre dans le chapeau, violacée à l'apex du pied, brun-jaune à sa base
   chancre: 
-  chapeau: 20-80 mm Ø, hémisphérique à convexe, puis étalé, souvent avec petit mamelon conique à pointu, parfois entouré de dépressions circulaires concentriques, mat, non hygrophane, entièrement recouvert de squamules gris-brun foncé sur fond jaune-brun
+  chapeau: 20-80 mm Ø, convexe à campanulé, puis étalé, souvent avec petit mamelon conique à pointu, parfois entouré de dépressions circulaires concentriques, mat, non hygrophane, entièrement recouvert de squamules gris-brun foncé sur fond jaune-brun
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, serrées, gris-brun ou violettes au début, brun rouille avec l'âge, à arêtes ± denticulées, plus pâles
+  lames: sinuées, serrées, larges, gris-brun ou violettes au début, avec lamelles et lamellules, brun rouille avec l'âge, à arêtes plus pâles et ± denticulées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

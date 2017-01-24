@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées, serrées, larges, gris-brun ou violettes au début, avec lamelles et lamellules, brun rouille avec l'âge, à arêtes plus pâles et ± denticulées
+  lames: sinuées à subdécurrentes, serrées, larges, gris-brun ou violettes au début, avec lamelles et lamellules, brun rouille avec l'âge, à arêtes plus pâles et ± denticulées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

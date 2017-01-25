@@ -226,7 +226,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: Première mention de ce champignon au Québec.
+  premiere-mention: Première étude de ce champignon au Québec
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

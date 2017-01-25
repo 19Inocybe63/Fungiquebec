@@ -7,7 +7,7 @@ album-flickr:
   - 72157660672410068
 
 details:
-  nom-francais: 
+  nom-francais: Lactaire laid
   autorites: (Weinm.)
   ordre: Russulales
   famille: Russulaceae

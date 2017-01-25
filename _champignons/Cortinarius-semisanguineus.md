@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ocre
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -102,7 +102,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: jaunâtre
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -139,7 +139,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison:  indistincte, faible
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -252,16 +252,16 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: de la section Dermocybe
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: faiblement fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 

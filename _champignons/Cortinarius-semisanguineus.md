@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, étroites, serrées, rouge sang puis brun-rouge, à arêtes souvent plus jaunes
+  lames: échancrées, étroites, serrées, avec lamelles et lamellules, rouge sang puis brun-rouge, à arêtes souvent plus jaunes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

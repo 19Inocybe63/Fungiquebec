@@ -79,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: ocre
   chancre: 
-  chapeau: 20-70 mm Ø, conique-campanulé puis étalé, parfois mamelonné, soyeux, à fibrilles innées, parfois subluisant, uniformément brun-jaune à ocré olivâtre
+  chapeau: 20-80 mm Ø, conique-campanulé puis étalé, parfois mamelonné, soyeux, à fibrilles innées, parfois subluisant, uniformément brun-jaune à ocré olivâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

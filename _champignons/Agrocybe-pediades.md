@@ -19,11 +19,11 @@ collections:
   - fongarium: cKc0492
     date: 31 mai 2016
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+      numero: cKc0492-0155
+      miniature: 
+      originale: 
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    altitude: 1.05 km
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 

@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: douce, molle, immuable, blanchâtre à lilas pâle
   chancre: 
-  chapeau: 20-70 mm Ø, convexe, devenant largement convexe à campanué, visqueux à gluant lorsque frais, glabre, violet à lavande lorsque jeune, développant des taches jaunâtre à brunâtre, particulièrement près du centre et finalement devenant jaunâtre à grisâtre
+  chapeau: 20-70 mm Ø, convexe, devenant largement convexe à campanulé, visqueux à gluant lorsque frais, glabre, violet à lavande lorsque jeune, développant des taches jaunâtre à brunâtre, particulièrement près du centre et finalement devenant jaunâtre à grisâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

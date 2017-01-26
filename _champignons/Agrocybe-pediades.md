@@ -216,7 +216,7 @@ description:
   pied: 38-57 x 4-5 mm Ø, cylindrique devenant bulbeux à la base, creux, brun tan à brun crème
   pieds-steriles: 
   pigments: 
-  pileipellis: en hyménoderme, avec mince superficielle gélatinisée (ixo), formé de cellules claviformes à piriformes, non bouclées 24 - 35,6 × (8,2) 8,21 - 12,56 (12,6) µm en moyenne
+  pileipellis: en hyménoderme, avec mince couche superficielle gélatinisée (ixo), formé de cellules claviformes à piriformes, non bouclées 24 - 35,6 × (8,2) 8,21 - 12,56 (12,6) µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 

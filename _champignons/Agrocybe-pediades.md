@@ -7,7 +7,7 @@ album-flickr:
   - 72157676010869483
 
 details:
-  nom-francais: 
+  nom-francais: Agrocybe des pelouses
   autorites: (Fr.) Fayod
   ordre: Agaricales
   famille: Strophariaceae

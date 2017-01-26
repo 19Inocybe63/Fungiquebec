@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent élargie à la base, devenant plus égal à maturité, visqueux, blanchâtre à lilas violacé ou argenté, souvent avec une zone annuliforme rouille, mycélium basal blanc et abondant
+  pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent élargi à la base, devenant plus égal à maturité, visqueux, blanchâtre à lilas violacé ou argenté, souvent avec une zone annuliforme rouille, mycélium basal blanc et abondant
   pieds-steriles: 
   pigments: 
   pileipellis: 

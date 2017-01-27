@@ -13,7 +13,7 @@ details:
   famille: Hymenochaetaceae
   genre: Coltricia
   espece: cinnamomea
-  litterature: Murrill, W.A. 1904. The Polyporaceae of North America: VII. The genera Hexagona, Grifola, Romellia, Coltricia and Coltriciella. Bulletin of the Torrey Botanical Club. 31(6):325-348
+  litterature: Murrill, W.A. 1904. The Polyporaceae of North America, VII. The genera Hexagona, Grifola, Romellia, Coltricia and Coltriciella. Bulletin of the Torrey Botanical Club. 31(6):325-348
 
 collections:
   - fongarium: cKc0364

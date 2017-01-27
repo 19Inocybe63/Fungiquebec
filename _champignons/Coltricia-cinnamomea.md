@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: pousse au sol compact, dans la mousse le long des sentiers forestiers, rarement sur bois mort, forêt de feuillus ; champignon ne causant pas de carie du bois
+  biotopes: pousse au sol compact, dans la mousse le long des sentiers forestiers, rarement sur bois mort, forêt de feuillus (Quercus) ; champignon ne causant pas de carie du bois
   boucles: 
   brachybasidioles: 
   calicule: 

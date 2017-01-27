@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 20-40 mm Ø, jusqu'à 5 mm d'épaisseur au centre, suborbiculaire, aplani, déprimé au centre à infundibuliforme, finement velouté, non fibrilleux jusqu'à la marge, satiné ou lustré, avec nombreuses zones concentriques indistinctes à distinctes, brun foncé lorsque imbu, brun cannelle à brun rougeâtre foncé, à marge distincte, incurvée, mince, aiguë, entière, incisée à lobée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -135,7 +135,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: ocre à brun rougeâtre
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 20-40 x 2-6 mm Ø, presque centré, égal à aplati, souvent élargi à la base, finement velouté, ocre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -228,7 +228,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: ronds à anguleux, distinctement plus petits que 2 par mm, à dissépiments minces
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

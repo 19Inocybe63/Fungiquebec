@@ -7,7 +7,7 @@ album-flickr:
   - 72157660672410068
 
 details:
-  nom-francais: Lactaire plombé ou Lactaire laid
+  nom-francais: Lactaire plombé
   autorites: (Weinm.)
   ordre: Russulales
   famille: Russulaceae
@@ -237,7 +237,7 @@ description:
     Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = le chapeau et le stipe se colorent améthyste/violet
+    KOH 10% = le chapeau et le stipe se colorent améthyste, violet
   receptacle: 
   remarques: Littéralement, son nom signifie le Lactaire laid !
   repartition: 

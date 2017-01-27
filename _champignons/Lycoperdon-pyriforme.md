@@ -85,8 +85,8 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De cKc. À la base du sporophore, il y a des cordons mycéliens ou rhizomorphes. À l'une des extrémités, il y avait deux petites plaques piriformes plat et échinulées. Après les avoir regardé au microscope, elles ont les mêmes terminaisons que l'exopéridium, c'est-à-dire, que le sommet des échinulations est formée de sphérocystes de même nature que l'exopéridium. Si quelqu'un peut me dire exactement ce que c'est, j'apprécierais. Prochainement, un dessin viendra rendre plus claire mon explication !
-    De cKc. Il faut éviter d'inhaler les poussières laissées par les basidiospores. En trop grande quantité, une pneumonie inflammatoire peut se développer ; c'est la Lycoperdonosis. (Diaz, James H. Atlas of Human Poisoning and Envenoming, 2e Edition, 2015)
+    De Claude Kaufholtz-Couture. « À la base du sporophore, il y a des cordons mycéliens ou rhizomorphes. À l'une des extrémités, il y avait deux petites plaques piriformes plat et échinulées. Après les avoir regardé au microscope, elles ont les mêmes terminaisons que l'exopéridium, c'est-à-dire, que le sommet des échinulations est formée de sphérocystes de même nature que l'exopéridium. Si quelqu'un peut me dire exactement ce que c'est, j'apprécierais. Prochainement, un dessin viendra rendre plus claire mon explication ! »
+    De Claude Kaufholtz-Couture. « Il faut éviter d'inhaler les poussières laissées par les basidiospores. En trop grande quantité, une pneumonie inflammatoire peut se développer, c'est la Lycoperdonosis. (Diaz, James H. Atlas of Human Poisoning and Envenoming, 2e Edition, 2015) »
   conidies: 
   conidiome: 
   conidiophores: 

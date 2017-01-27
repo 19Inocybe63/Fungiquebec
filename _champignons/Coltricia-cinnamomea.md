@@ -50,9 +50,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol compact, dans la mousse le long des sentiers forestiers, rarement sur bois mort, forêt de feuillus ; champignon ne causant pas de carie du bois
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -84,7 +84,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: fibreux, tenace et coriace, brun rouille à brun rougeâtre et même orangé, mince, jusqu'à 1 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -93,7 +93,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: ± concolore à la face poroïde, jusqu'à 2 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: largement répandu en régions chaudes, au travers les forêts de l'est et de l'ouest des États-Unis et du Canada, rare en Europe
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -192,7 +192,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -249,7 +249,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun jaunâtre
   spherocytes: 
   sporocystes: 
   stipitipellis: 

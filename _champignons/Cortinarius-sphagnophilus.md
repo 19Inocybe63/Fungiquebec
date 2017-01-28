@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: violacée
   chancre: 
-  chapeau: 
+  chapeau: 30-80 mm Ø, convexe puis étalé, viscidule, glabre, brun foncé à brun-jaune pâle, parfois olivâtre à la marge, orné de taches plus foncées vers la marge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Son pied peut-être nettement plus long quand il vient parmi les sphaignes. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées à subespacées, violacées au début, puis brun rouille
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 50-150 x 10-20 mm Ø, cylindrique, égal, bulbeux marginé, strié-fibrilleux, violacé au début, brunissant avec l'âge, avec mycélium basal olive
   pieds-steriles: 
   pigments: 
   pileipellis: 

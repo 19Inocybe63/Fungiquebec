@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Cortinaire des sphaignes
   autorites: Peck
   ordre: Agaricales
   famille: Cortinariaceae
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sous conifères, dans la mousse, sphaignes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: violacée
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -92,7 +92,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: olivacée
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnelle à commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: faiblement fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -206,7 +206,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -242,16 +242,16 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: de la section Scauri
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: faiblement fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 

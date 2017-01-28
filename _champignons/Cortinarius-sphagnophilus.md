@@ -1,8 +1,8 @@
 ---
 nom: Cortinarius sphagnophilus
 date: 2017-01-28 00:00:00
-image: 
-image-originale: 
+image: https://c2.staticflickr.com/4/3847/15248257151_723d4f11bd_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/15248257151/in/photolist-periBn
 album-flickr:
   - 
 

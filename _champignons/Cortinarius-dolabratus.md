@@ -24,8 +24,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/31972781442/in/photolist-QHjS1s-picBG9-p3JGhy/
     geolocalisation: 45°57'27.0"N 70°56'00.8"O
     altitude: 828 m
-    determinee: Karl Soop (provisoire)
-    confirmee: 
+    determinee: 
+    confirmee: Karl Soop
 
 description:
   acanthocytes: 

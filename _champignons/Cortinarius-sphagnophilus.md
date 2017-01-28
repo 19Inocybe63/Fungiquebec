@@ -79,7 +79,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Son pied peut-être nettement plus long quand il vient parmi les sphaignes. »
+  commentaires: |
+    De Yves Lamoureux. « Son pied peut-être nettement plus long quand il vient parmi les sphaignes. »
+    De Claude Kaufholtz-Couture. « C. scaurus est son sosie, mais il s’en différencie par des lames vert olive. »
   conidies: 
   conidiome: 
   conidiophores: 

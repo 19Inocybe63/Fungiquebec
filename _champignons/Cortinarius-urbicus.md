@@ -24,8 +24,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/30616014810/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc/
     geolocalisation: 
     altitude: 
-    determinee: Karl Soop (provisoire)
-    confirmee: 
+    determinee: 
+    confirmee: Karl Soop
 
 description:
   acanthocytes: 

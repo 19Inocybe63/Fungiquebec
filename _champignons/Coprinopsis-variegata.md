@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Coprin écailleux
   autorites: (Peck) Redhead, Vilgalys & Moncalvo
   ordre: Agaricales
   famille: Psathyrellaceae
@@ -48,7 +48,8 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    brun foncé, ellipsoïdes, lisses, avec pore germinatif centré, 7,5-10 X 4-5 µm
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -69,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: fragile, mince, blanchâtre
   chancre: 
-  chapeau: 
+  chapeau: 40-80 de hauteur x 20-70 mm Ø, ovoïde puis conique à campanulé, couvert d'une couche feutrée blanchâtre au début, puis fragmenté en gros flocons et plaques lâches et fugaces, brunes sur fond blanchâtre à beige puis gris ou gris-brun, à marge profondément striée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -174,7 +175,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres à adnexées, larges, très serrées, blanches, vite grisâtres à gris pourpré, noires à la fin, déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +209,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 
+  pied: 40-120 x 5-12 mm Ø, cylindrique, subégal, subbulbeux, creux, feutré, écailleux à laineux, strié blanchâtre, parfois avec restes de voile partiel ou d'aspect engainé, plus rarement avec anneau, avec rhizomorphes brunâtres à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -216,7 +217,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: largement lagéniformes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -277,7 +278,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: laissant parfois un anneau fugace
+  voile-partiel: laissant parfois un anneau fugace, formé d'éléments véliques en sphérocystes jusqu'à 10 µm Ø
   volve: 
   zone-perihymeniale: 
 ---

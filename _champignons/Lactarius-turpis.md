@@ -8,7 +8,7 @@ album-flickr:
 
 details:
   nom-francais: Lactaire plombé
-  autorites: (Weinm.)
+  autorites: (Weinm.) Fr.
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius

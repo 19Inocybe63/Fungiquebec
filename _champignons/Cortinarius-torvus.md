@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: Pied 40-100 x 8-15 mm Ø, cylindrique à claviforme, parfois radicant, sec, violet pâle au début, devenant argenté à blanchâtre ou faiblement brunâtre, avec armille à partir de la base, muni d'un voile gris blanchâtre à gris lilas qui se termine souvent par un anneau fragile et replié
+  pied: 40-100 x 8-15 mm Ø, cylindrique à claviforme, parfois radicant, sec, violet pâle au début, devenant argenté à blanchâtre ou faiblement brunâtre, avec armille à partir de la base, muni d'un voile gris blanchâtre à gris lilas qui se termine souvent par un anneau fragile et replié
   pieds-steriles: 
   pigments: 
   pileipellis: 

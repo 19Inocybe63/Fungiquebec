@@ -240,7 +240,8 @@ description:
     Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = pas de coloration à gris sur le chapeau ; grisâtre à gris sur la chair
   receptacle: 
   remarques: 
   repartition: 

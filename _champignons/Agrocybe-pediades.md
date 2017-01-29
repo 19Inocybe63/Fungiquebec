@@ -84,7 +84,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Ressemble beaucoup à A. sororia... »
   conidies: 
   conidiome: 
   conidiophores: 

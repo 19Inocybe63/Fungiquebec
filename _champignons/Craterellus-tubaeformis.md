@@ -257,7 +257,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
     Cantharellus tubaeformis var. tubaeformis
     Helvella tubaeformis Bull., Herbier de la France 10:t. 461 (1790)
     Merulius tubiformis Bull., Synopsis methodica fungorum:489 (1801)

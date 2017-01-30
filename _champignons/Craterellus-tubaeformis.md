@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol sous conifères moussus, en milieux humides, souvent parmi les sphaignes
+  biotopes: pousse au sol sous conifères, en milieux humides, souvent parmi les sphaignes
   boucles: 
   brachybasidioles: 
   calicule: 

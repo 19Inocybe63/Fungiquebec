@@ -264,7 +264,7 @@ description:
     Cantharellus tubaeformis Fr., Systema Mycologicum 1:319 (1821)
     Cantharellus tubaeformis (Bull.) Gray, A natural arrangement of British plants 1:636 (1821)
     Merulius tubaeformis Pers. (1825)
-    Cantharellus infundibuliformis var. tubiformis (Schaeff.) Maire, Fungi Catalaunici: Contributions à l'étude de la Flore Mycologique de la Catalogne:44 (1933)
+    Cantharellus infundibuliformis var. tubiformis (Schaeff.) Maire, Fungi Catalaunici; Contributions à l'étude de la Flore Mycologique de la Catalogne:44 (1933)
     Helvella tubaeformis Bull., Histoire des champignons de la France. I:294, pl. 208 (1791)
     Merulius villosus Pers., Icones et Descriptiones Fungorum Minus Cognitorum 1:17, t. 6:1 (1798)
     Merulius fuligineus Pers., Synopsis methodica fungorum: 490 (1801)

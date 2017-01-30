@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: mince, brunâtre à jaunâtre
   chancre: 
-  chapeau: 
+  chapeau: 20-70 mm Ø, ± convexe-ombiliqué puis infundibuliforme, vite perforé au centre, avec une marge ondulée et irrégulière à maturité, glabre, collant ou cireux à l'état frais, à face interne lisse à rugueuse, avec fines squamules fibreuses, brun jaunâtre à brun noirâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -146,7 +146,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: formé de plis lamelliformes, fourchus, interveinés, espacés, décurrents, jaunâtres puis grisâtres, gris violacé à violacés
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 
+  pied: 30-100 x 3-10 mm Ø, cylindrique, à ± égal, souvent comprimé, farci puis creux, lisse, parfois cireux, jaune orangé à brun orangé vers l'apex, jaune vers la base, brunissant avec l'âge, parfois blanchâtre à la base, avec ou sans mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: 

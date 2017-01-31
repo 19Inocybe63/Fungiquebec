@@ -244,7 +244,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Bresadola, Ab. Dr. J. Iconographia Mycologica, Vol. XVI (tab. 751-800), Crepidotus, Flammula, Inocybe, Naucoria, Phylloporus, Società Botanica Italiana, 1930, 124 p.
+    Hesler, L. R.; Smith, Alexander H. North American species of Crepidotus, Hafner Publishing Company New York and London, 1965, 126 p. This reprint by Michael Wood & MykoWeb.com, June 2008
+    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

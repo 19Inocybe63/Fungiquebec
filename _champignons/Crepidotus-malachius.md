@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: molle, blanche
+  chair: molle, flexible, blanche
   chancre: 
   chapeau: 10-65 mm Ø, convexe puis subétalé, plutôt réniforme, semiorbiculaire, flabelliforme, légèrement déprimé à la base, glabre, souvent légèrement villeux ou tomenteux à la base, hygrophane, blanc aqueux, blanc à blanc grisâtre à l'humidité, chamois pâle au sec, à marge striatulée à l'humidité
   cheilochrysocystides:

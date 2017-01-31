@@ -79,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: molle, blanche
   chancre: 
-  chapeau: 
+  chapeau: 10-65 mm Ø, convexe puis subétalé, plutôt réniforme, semiorbiculaire, flabelliforme, légèrement déprimé à la base, glabre, souvent légèrement villeux ou tomenteux à la base, hygrophane, blanc aqueux, blanc à blanc grisâtre à l'humidité, chamois pâle au sec, à marge striatulée à l'humidité
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: radiantes d'un point basal latéral, arrondies près du pied, larges, présence de lamelles et de lamellules, serrées à subserrées, blanches au débt, puis brun rouille à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

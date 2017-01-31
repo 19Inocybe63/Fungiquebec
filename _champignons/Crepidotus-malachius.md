@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois mort de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: molle, blanche
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -139,7 +139,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: douce
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -202,7 +202,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, grégaire ou en amas imbriqués
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -216,9 +216,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
+  pied: absent ou pseudopied parfois présent
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -253,12 +253,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun à brun tabac
   spherocytes: 
   sporocystes: 
   stipitipellis: 

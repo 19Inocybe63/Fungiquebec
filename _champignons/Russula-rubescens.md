@@ -103,7 +103,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « L'espèce est très variable en couleurs ».
+  commentaires: De Yves Lamoureux. « L'espèce est très variable en couleurs. »
   conidies: 
   conidiome: 
   conidiophores: 

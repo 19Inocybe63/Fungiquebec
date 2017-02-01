@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, blanchâtre à brunâtre
   chancre: 
-  chapeau: 
+  chapeau: 14-87 mm Ø, hémisphérique à convexe puis campanulé, étalé à subétalé à la fin, tomenteux, non hygrophane, brun tan au début, avec fibrilles laineuses innées radiales ou groupées pour former des écailles imbriquées brun grisâtre à brun-jaune, plus nombreuses vers la marge, reflet olivâtre du milieu jusqu'à la marge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: Lames libres, larges, serrées à très serrées, avec lamellules, ± concolore au chapeau à brun foncé, arête blanchâtre, fimbriée
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

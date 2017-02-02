@@ -254,7 +254,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
+    Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

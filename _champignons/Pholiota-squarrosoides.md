@@ -227,7 +227,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 50-120 x 5-12 mm Ø, cylindrique, parfois claviforme à la avec base, avec zone annuliforme fibrilleuse, sec, ocre pâle à brun rougeâtre, densément fibrilleuses-squarreuses sous la zone annuliforme
+  pied: 50-120 x 5-12 mm Ø, cylindrique, parfois claviforme à la base, avec zone annuliforme fibrilleuse, sec, ocre pâle à brun rougeâtre, densément fibrilleuses-squarreuses sous la zone annuliforme
   pieds-steriles: 
   pigments: 
   pileipellis: 

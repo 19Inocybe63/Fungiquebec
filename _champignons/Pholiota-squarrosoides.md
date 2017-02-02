@@ -89,7 +89,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, plutôt flexible, blanchâtre
   chancre: 
-  chapeau: 
+  chapeau: 30-80 (100) mm Ø, convexe, orné d'un large ombon à étalé, non hygrophane, non translucide, plutôt jaune pâle au début, puis brun rougeâtre à maturité, visqueux lorsque humide, densément recouvert de fibrilles, et de fines écailles sèches, récurvées ou squamuleux brun ocre à brun rougeâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

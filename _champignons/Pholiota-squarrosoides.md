@@ -194,7 +194,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, plutôt bondées, jaune pâle puis brun rougeâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

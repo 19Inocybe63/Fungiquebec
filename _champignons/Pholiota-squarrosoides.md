@@ -72,7 +72,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur souches et troncs de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -87,7 +87,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, plutôt flexible, blanchâtre
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -132,7 +132,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -149,7 +149,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: aigres
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -212,7 +212,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: densément cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -226,7 +226,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -266,12 +266,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: aigres
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -296,7 +296,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: presque membraneux laissant un anneau supère, blanchâtre, souvent évanescent
   volve: 
   zone-perihymeniale: 
 ---

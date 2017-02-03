@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Coprin chevelu
   autorites: (O.F. Müll.) Pers.
   ordre: Agaricales
   famille: Agaricaceae
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans plate bande, sol tourné, copeaux de bois
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, fibreuse, fragile, légèrement cassante, blanche au début, puis noire par déliquescence avec l'âge
   chancre: 
-  chapeau: 
+  chapeau: 40-200 x 25-70 mm Ø, lorsque fermé, 50-80 (100) mm Ø, après expansion, ellipsoïde, oblong à subcylindrique au début, la longueur divisé par la largeur donnant souvent ou plus, puis largement conique à étalé, fragile, avec écailles vélaires apprimées persistantes, se brisant en écailles récurvées ou méchules à bout brun foncé avec l'âge, sauf au centre qui demeure lisse, blanc au début, brunâtre, gris pâle à modéré ou brun ocre au centre, déliquescent
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées puis libres, très serrées, blanches puis rosâtres et grises, noires à la fin, entièrement déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -192,7 +192,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -206,9 +206,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
-  pied: 
+  pied: 70-300 x 10-25 mm Ø, élargi vers la base jusqu'à 30 mm, subbulbeux, parfois radicant, fragile, creux, glabre à soyeux-fibrilleux, blanc opaque, muni d'un petit anneau mobile blanc souvent sur la partie inférieure
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,12 +243,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: noire
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -272,7 +272,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: présent, laissant un épais anneau cotonneux évanescent ou tombant le plus souvent sur la base du pied comme une pseudo volve
   volve: 
   zone-perihymeniale: 
 ---

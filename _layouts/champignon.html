@@ -87,7 +87,7 @@ layout: default
                             {% assign elements = page.description[champ.name] | strip | newline_to_br | split: "<br />" %}
                             <ul class="listeElements">
                             {% for element in elements %}
-                                <li>{{ element }}</li>
+                                <li>{{ element | markdownify }}</li>
                             {% endfor %}
                             </ul>
                         {% else %}

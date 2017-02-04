@@ -116,19 +116,6 @@ champs-details:
     label: Espèce
   - name: litterature
     label: Littérature
-  - name: fongariums
-    format: table
-    table:
-      - name: fongarium
-        label: Fongarium
-      - name: date
-        label: Date de cueillette
-  - name: numero-de-planche-micrographique
-    label: Numéro de planche micrographique
-  - name: geolocalisation
-    label: Géolocalisation
-  - name: altitude
-    label: Altitude
 
 champs-collections:
   - name: fongarium

@@ -23,28 +23,10 @@ layout: default
             <div class="hline"></div>
 
             {% for champ in site.champs-details %}
-                {% if page.details[champ.name] %}
+                {% assign valeurChamp = page.details[champ.name] %}
+                {% if valeurChamp %}
                     <p>
-                        {% if champ.format == "table" %}
-                            <table class="tableElements">
-                                <tr>
-                                {% for colonne in champ.table %}
-                                    <th>{{ colonne.label }}</th>
-                                {% endfor %}
-                                </tr>
-
-                                {% for element in page.details[champ.name] %}
-                                    <tr>
-                                    {% for colonne in champ.table %}
-                                        <td>{{ element[colonne.name] }}</td>
-                                    {% endfor %}
-                                    </tr>
-                                {% endfor %}
-                            </table>
-                        {% else %}
-                            <b>{{ champ.label }} :</b>
-                            {{ page.details[champ.name] | newline_to_br }}
-                        {% endif %}
+                        <b>{{ champ.label }} :</b> {{ valeurChamp }}
                     </p>
                 {% endif %}
             {% endfor %}
@@ -52,27 +34,6 @@ layout: default
             <p><b>Auteur :</b> {{ page.author }}</p>
             <p><b>Derniere mise à jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
             <div class="spacing"></div>
-
-            {% assign planchesPresentes = page.planches | map: "miniature" | join: "" | strip %}
-            {% if planchesPresentes.size > 0 %}
-                <h4>Planches micrographiques</h4>
-                <div class="hline"></div>
-
-                {% for planche in page.planches %}
-                    {% if planche.miniature %}
-                        <p>
-                        {% if planche.originale %}
-                            <a href="{{ planche.originale }}">
-                        {% endif %}
-                            <img src="{{ planche.miniature }}" />
-                        {% if planche.originale %}
-                            </a>
-                        {% endif %}
-                        </p>
-                    {% endif %}
-                {% endfor %}
-                <div class="spacing"></div>
-            {% endif %}
         </div>
 
         <div class="col-lg-8 col-md-7 col-sm-6">
@@ -80,18 +41,19 @@ layout: default
             <div class="hline"></div>
 
             {% for champ in site.champs-description %}
-                {% if page.description[champ.name] %}
+                {% assign valeurChamp = page.description[champ.name] %}
+                {% if valeurChamp %}
                     <p>
                         <b>{{ champ.label }} :</b>
                         {% if champ.format == "liste" %}
-                            {% assign elements = page.description[champ.name] | strip | newline_to_br | split: "<br />" %}
+                            {% assign elements = valeurChamp | strip | newline_to_br | split: "<br />" %}
                             <ul class="listeElements">
                             {% for element in elements %}
                                 <li>{{ element }}</li>
                             {% endfor %}
                             </ul>
                         {% else %}
-                            {{ page.description[champ.name] | newline_to_br }}
+                            {{ valeurChamp | newline_to_br }}
                         {% endif %}
                     </p>
                 {% endif %}
@@ -118,25 +80,27 @@ layout: default
                     {% for element in page.collections %}
                         <tr>
                         {% for champ in site.champs-collections %}
+                            {% assign valeurChamp = element[champ.name] %}
                             <td>
-                            {% if champ.format == "planche" %}
-                                <div>{{ element[champ.name].numero }}</div>
-                                {% if element[champ.name].miniature %}
-                                    <div>
-                                        {% if element[champ.name].originale %}
-                                            <a href="{{ element[champ.name].originale }}">
-                                        {% endif %}
-                                            <img src="{{ element[champ.name].miniature }}" />
-                                        {% if element[champ.name].originale %}
-                                            </a>
-                                        {% endif %}
-                                    </div>
-                                {% endif %}
-                            {% elsif element[champ.name] %}
-                                {% if champ.format == "geo" %}
-                                    <a href="https://www.google.com/maps/place/{{ element[champ.name] | replace: '"','%22' | replace: " ","+" | replace: "O","W" }}">{{ element[champ.name] }}</a>
+                            {% if valeurChamp %}
+                                {% if champ.format == "planche" %}
+                                    <div>{{ valeurChamp.numero }}</div>
+                                    {% if valeurChamp.miniature %}
+                                        <div>
+                                            {% if valeurChamp.originale %}
+                                                <a href="{{ valeurChamp.originale }}">
+                                            {% endif %}
+                                                    <img src="{{ valeurChamp.miniature }}" />
+                                            {% if valeurChamp.originale %}
+                                                </a>
+                                            {% endif %}
+                                        </div>
+                                    {% endif %}
+                                {% elsif champ.format == "geo" %}
+                                    {% assign mapsLink = valeurChamp | replace: '"','%22' | replace: " ","+" | replace: "O","W" %}
+                                    <a href="https://www.google.com/maps/place/{{ mapsLink }}">{{ valeurChamp }}</a>
                                 {% else %}
-                                    {{ element[champ.name] }}
+                                    {{ valeurChamp }}
                                 {% endif %}
                             {% endif %}
                             </td>
@@ -171,30 +135,5 @@ layout: default
     </div><!--/row -->
     {% endif %}
 
-    {% if site.disqus and page.comments %}
-    <div class="row">
-        <div class="col-lg-12">
-            <h4>Commentaires</h4>
-            <div class="hline"></div>
-            <div class="spacing"></div>
-
-            <div id="disqus_thread"></div>
-            <script>
-                var disqus_config = function () {
-                    this.page.url = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
-                    this.page.identifier = "{{ page.title }}";
-                };
-                (function() {
-                    var d = document, s = d.createElement('script');
-                    s.src = '//{{ site.disqus }}.disqus.com/embed.js';
-                    s.setAttribute('data-timestamp', +new Date());
-                    (d.head || d.body).appendChild(s);
-                })();
-            </script>
-            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
-            <div class="spacing"></div>
-        </div>
-    </div><!--/row -->
-    {% endif %}
+    {% include disqus.md %}
 </div><!--/container -->

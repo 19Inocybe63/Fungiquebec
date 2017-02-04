@@ -11,6 +11,10 @@ layout: default
             <h4>Détails</h4>
             <div class="hline"></div>
 
+            <p><b>Famille :</b> {{ page.famille }}</p>
+            {% if page.genre %}
+            <p><b>Genre :</b> {{ page.genre }}</p>
+            {% endif %}
             <p><b>Auteur :</b> {{ page.author }}</p>
             <p><b>Source :</b> {{ page.source }}</p>
             <p><b>Derniere mise à jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
@@ -25,7 +29,6 @@ layout: default
                 <a name="{{ etape.numero }}"></a>
                 <p>
                 {% for question in etape.questions %}
-                    {% assign champignonTrouve = nil %}
                     <div class="etape">
                         <div class="numero">{{ etape.numero }}.&nbsp;</div>
                         <span class="question">{{ question.question | newline_to_br }}</span>
@@ -34,12 +37,8 @@ layout: default
                             {% if referenceArray.size == 1 %}
                                 <a href="#{{ question.reference }}">
                             {% else %}
-                                {% for champignon in site.champignons %}
-                                    {% if champignon.nom == question.reference %}
-                                        {% assign champignonTrouve = champignon %}
-                                        {% break %}
-                                    {% endif %}
-                                {% endfor %}
+                                {% assign champignonTrouve = site.champignons | where: 'nom', question.reference %}
+                                {% assign champignonTrouve = champignonTrouve[0] %}
                                 {% if champignonTrouve %}
                                     <a href="{{ champignonTrouve.url }}">
                                 {% endif %}
@@ -65,30 +64,5 @@ layout: default
         </div>
     </div><!--/row -->
 
-    {% if site.disqus and page.comments %}
-    <div class="row">
-        <div class="col-lg-12">
-            <h4>Commentaires</h4>
-            <div class="hline"></div>
-            <div class="spacing"></div>
-
-            <div id="disqus_thread"></div>
-            <script>
-                var disqus_config = function () {
-                    this.page.url = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
-                    this.page.identifier = "{{ page.title }}";
-                };
-                (function() {
-                    var d = document, s = d.createElement('script');
-                    s.src = '//{{ site.disqus }}.disqus.com/embed.js';
-                    s.setAttribute('data-timestamp', +new Date());
-                    (d.head || d.body).appendChild(s);
-                })();
-            </script>
-            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
-            <div class="spacing"></div>
-        </div>
-    </div><!--/row -->
-    {% endif %}
+    {% include disqus.md %}
 </div><!--/container -->

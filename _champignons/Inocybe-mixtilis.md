@@ -99,7 +99,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Les cristaux apicaux de la collection cKc0341 et cKc0391. Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des Lamprocystides (Lamprocheilocystides et Lampropleurocystides) possède entre 5 et 10 crochets. Chaque sommet se compose de 5 à 10 (11) crochets, dont 2 (3) sont bifides et les autres entiers. C'est avec le temps que l'on pourra tirer une conclusion de cette observation. »
   conidies: 
   conidiome: 
   conidiophores: 

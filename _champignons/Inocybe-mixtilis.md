@@ -72,7 +72,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans un sol sablonneux, sous chêne, pin, en milieu ouvert, au potentiel hydrogène (pH) 4-6
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -212,7 +212,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé, dispersé, grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -226,7 +226,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à août
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -270,7 +270,10 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Sous-genre Inocybe, Section Marginatae, Sous-section Praetervisae
+    Clé d'après la clé de Fatto : B C E H K M N Q + mix ;
+    Ressemble aussi à Inocybe earleana = B C E H K M N Q + mix
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

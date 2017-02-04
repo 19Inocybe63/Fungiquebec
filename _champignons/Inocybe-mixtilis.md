@@ -36,16 +36,6 @@ collections:
     altitude: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0444
-    date: 30 août 2015
-    planche:
-      numero: cKc0444-0127
-      miniature: https://c2.staticflickr.com/8/7659/27220204435_b477c21568_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/27220204435/in/photolist-HtmErz-xJajjX-x4MHWH
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

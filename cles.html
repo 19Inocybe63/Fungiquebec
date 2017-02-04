@@ -4,122 +4,63 @@ title: Clés
 permalink: /cles/
 ---
 
-<script>
-    function filterCles(lettre, classe) {
-        toggleLettreSelected(lettre);
-        $('.lettre').hide();
-        $(classe).show();
-    }
-
-    function showAllCles() {
-        toggleLettreSelected($('.lettre-tous')[0]);
-        $('.lettre').show();
-    }
-
-    function hideAllCles() {
-        $('.lettre').hide();
-    }
-
-    function toggleLettreSelected(lettre) {
-        $('.lettre-selected').removeClass('lettre-selected');
-        $(lettre).addClass('lettre-selected');
-    }
-
-    function onSearchBoxKeyUp(e) {
-        if (e.keyCode == 13) {
-            var searchbox = e.eventTarget;
-            search(searchbox);
-        }
-    }
-
-    function onSearchButtonClick() {
-        var searchbox = $('#searchbox');
-        if (searchbox) {
-            search(searchbox[0]);
-        }
-    }
-
-    function search(searchbox) {
-        if (searchbox) {
-            var terms = searchbox.value;
-            if (terms) {
-                hideAllCles();
-                toggleLettreSelected($('.lettre-tous')[0]);
-
-                var results = index.search(terms);
-                for (var i = 0; i < results.length; ++i) {
-                    var result = results[i];
-                    $('.index' + result.ref).show();
-                    $('.lettre-entete.lettre' + index.documentStore.getDoc(result.ref).nom[0].toLowerCase()).show();
-                }
-            } else {
-                showAllCles();
-            }
-        }
-    }
-</script>
-
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-12">
-            <div>
-                <a class="lien-lettre lettre-selected lettre-tous" onclick="showAllCles()">TOUS</a>
-                {% assign alphabet = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" | split:',' %}
-                {% for lettre in alphabet %}
-                    <a class="lien-lettre" onclick="filterCles(this, '.lettre{{ lettre }}')">{{ lettre | capitalize }}</a>
-                {% endfor %}
-            </div>
+            {% assign clesParFamille = site.cles | sort: 'famille' %}
+            {% assign clesParNom = site.cles | sort: 'nom' %}
+            {% assign familles = clesParFamille | map: 'famille' | uniq %}
+            <ul class="cle-familles">
+            {% for famille in familles %}
+                <li class="cle-famille">{{ famille }}</li>
+                {% assign hasCleSansGenre = false %}
+                {% capture allGenres %}{% for cle in clesParFamille %}{% if cle.famille == famille %}{% if cle.genre %}{{ cle.genre }}|{% else %}{% assign hasCleSansGenre = true %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
 
-            <form id="searchform" onsubmit="return false">
-                <input id="searchbox" type="text" placeholder="Recherche..." onkeyup="onSearchBoxKeyUp(event)" />
-                <button id="searchbutton" value="Rechercher" onclick="onSearchButtonClick()">Rechercher</button>
-            </form>
-
-            <table>
-            {% assign clesTries = (site.cles | sort: 'nom') %}
-            {% assign lettreCourrante = '' %}
-            {% for cle in clesTries %}
-                {% assign lettreCle = cle.nom | downcase | slice:0 %}
-                {% if lettreCourrante != lettreCle %}
-                    {% assign lettreCourrante = lettreCle %}
-                    <tr class="lettre lettre{{ lettreCourrante }} lettre-entete">
-                        <td>
-                            {{ lettreCourrante | capitalize }}
-                        </td>
-                    </tr>
+                {% if hasCleSansGenre %}
+                <li>
+                    <ul class="cles">
+                        {% for cle in clesParNom %}
+                            {% if cle.famille == famille %}
+                                {% if cle.genre %}
+                                {% else %}
+                                    <li class="cle">
+                                        <a href="{{ cle.url | prepend: site.baseurl }}">
+                                            {{ cle.nom }}
+                                        </a>
+                                    </li>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </li>
                 {% endif %}
-                <tr class="lettre lettre{{ lettreCle }} index{{ forloop.index }}">
-                    <td>
-                        <a href="{{ cle.url | prepend: site.baseurl }}">
-                            {{ cle.nom }}
-                        </a>
-                    <td>
-                </tr>
+
+                {% assign genres = allGenres | split: '|' | uniq | sort %}
+                {% assign nombreGenres = genres | size %}
+                {% if nombreGenres > 0 %}
+                <li>
+                    <ul class="cle-genres">
+                    {% for genre in genres %}
+                        <li class="cle-genre">{{ genre }}</li>
+                        <li>
+                            <ul class="cles">
+                                {% for cle in clesParNom %}
+                                    {% if cle.famille == famille and cle.genre == genre %}
+                                        <li class="cle">
+                                            <a href="{{ cle.url | prepend: site.baseurl }}">
+                                                {{ cle.nom }}
+                                            </a>
+                                        </li>
+                                    {% endif %}
+                                {% endfor %}
+                            </ul>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                </li>
+                {% endif %}
             {% endfor %}
-            </table>
+            </ul>
         </div>
     </div><!--/row -->
 </div><!--/container -->
-
-<script src="{{ "/assets/js/elasticlunr.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/assets/js/lunr.stemmer.support.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/assets/js/lunr.fr.js" | prepend: site.baseurl }}"></script>
-<script type="text/javascript">
-    var index = elasticlunr(function () {
-            this.use(elasticlunr.fr);
-            this.addField('nom');
-            this.setRef('id');
-    });
-
-    var cles = [
-    {% for cle in clesTries %}  {
-        id: {{ forloop.index }},
-        nom: "{{ cle.nom }}"
-    },
-    {% endfor %}
-    ];
-
-    for (var i = 0; i < cles.length; ++i) {
-        index.addDoc(cles[i]);
-    }
-</script>

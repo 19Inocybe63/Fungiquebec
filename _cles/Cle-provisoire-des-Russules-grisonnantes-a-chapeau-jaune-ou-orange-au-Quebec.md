@@ -3,6 +3,8 @@ nom: Clé provisoire des Russules grisonnantes à chapeau jaune ou orange au Qu�
 date: 2016-11-13 00:00:00
 author: Yves Lamoureux
 source: Édition à compte d'auteur, août 2010.
+famille: Russulaceae
+genre: Russula
 
 etapes:
   -

@@ -3,6 +3,8 @@ nom: Key to Sections Agrocybe
 date: 2016-12-03 00:00:00
 author: Watling, Roy
 source: Bolbitiaceae; Agrocybe, Bolbitius & Conocybe, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
+famille: Strophariaceae
+genre: Agrocybe
 
 etapes:
   -

@@ -83,9 +83,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, blanche, immuable
   chancre: 
-  chapeau: 10-30 mm Ø, campanulé à conique ou mamelonné, fibrillo-vergeté
+  chapeau: 10-40 mm Ø, conique-convexe, conique, campanulé à subétalé, avec papille arrondie ou ombon indistinct, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

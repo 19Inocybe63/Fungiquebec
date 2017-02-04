@@ -65,7 +65,7 @@ description:
   base-stipitiforme: 
   basides: courtement claviformes-piriformes, à très légèrement déformées-flexueuses, à 2-4 stérigmates jusqu'à 4 µm de longueur, bouclées à la base, avec contenu granuleux, 21,7 - 34 × (9,4) 9,45 - 12,9 µm en moyenne
   basidiospores: |
-    gibbosporées (noduleuses)-anguleuses (goniospores) avec 8-10 bosses assez haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans l'eau glycérinée 20%, inactives dans le melzer, non cyanophiles
+    gibbosporées noduleuses-anguleuses (goniospores) avec 8-10 bosses assez haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans l'eau glycérinée 20%, inactives dans le melzer, non cyanophiles
     (6,3) 6,7 - 8,7 (9,1) × (4,4) 5,6 - 7 (7,4) µm
     Q = 1 - 1,4 (1,7) ; N = 30
     Me = 7,6 × 6,2 µm ; Qe = 1,2

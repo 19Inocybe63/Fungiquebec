@@ -20,8 +20,8 @@ collections:
     date: 11 octobre 2016
     planche:
       numero: cKc0597-0154
-      miniature: https://c1.staticflickr.com/1/353/32330712862_251338267b_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/32330712862/in/photolist-RfXmxQ-MWupCd-M9YoGN-MWusFh-MZ9gSK/
+      miniature: https://c1.staticflickr.com/1/353/32330712862_6afb5fd0da_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/32330712862/in/photolist-RfXmxQ-MZ9gSK-MWupCd-M9YoGN-MWusFh
     geolocalisation: 46°47'56.1"N 71°14'33.3"O
     altitude: 1.07 km
     determinee: 

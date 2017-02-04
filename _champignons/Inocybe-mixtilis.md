@@ -29,9 +29,9 @@ collections:
   - fongarium: cKc0391
     date: 3 août 2015
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0391-0125
+      miniature: https://c2.staticflickr.com/8/7399/26815855246_88194bc3f9_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/26815855246/in/photolist-GRCgvQ-vW7Q9a-w4hTQt-w3DWcd/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 

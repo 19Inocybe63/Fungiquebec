@@ -19,9 +19,9 @@ collections:
   - fongarium: cKc0341
     date: 15 juillet 2015
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0341-0124
+      miniature: https://c2.staticflickr.com/8/7751/26210096224_a6d4bbf451_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/26210096224/in/photolist-FW6AsL-vW7Q9a-w4hTQt-w3DWcd
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 
@@ -39,9 +39,9 @@ collections:
   - fongarium: cKc0444
     date: 30 août 2015
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0444-0127
+      miniature: https://c2.staticflickr.com/8/7659/27220204435_b477c21568_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/27220204435/in/photolist-HtmErz-xJajjX-x4MHWH
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 
@@ -58,7 +58,13 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    Lecomte, Marcel. Vous avez dit P.D.A.B. ?, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
+    Kuo, Michael, & Matheny, P. Brandon. Contemporary documentation of the rare eastern North American species Inocybe insignis (Inocybaceae, Agaricales), MycoKeys 11:23-31 (2015), 9 p.
+    Kropp, Bradley R., Matheny, P. Brandon, et al. Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
+    Matheny, P. Brandon & Moreau, Pierre-Arthur. A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
+    Matheny, P. Brandon, et al. A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
+    Matheny, P. Brandon. Key to Species of Inocybe from eastern North America – v02 (20-Dec-2016), University of Tennessee
   ascome: 
   ascospores: 
   asques: 
@@ -112,7 +118,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: absente
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -282,7 +288,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brune à brun-rouge foncé
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -3,6 +3,8 @@ nom: Champignons magiques
 date: 2016-11-13 00:00:00
 author: Monsieur Untel
 source: Livre X, Auteur Y, Page Z
+famille: Kaufholtztaceae
+genre: tataouinage (optionnel. Enlever l'attribut si c'est une clé de famille)
 
 etapes:
   -

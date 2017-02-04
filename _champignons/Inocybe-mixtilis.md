@@ -80,8 +80,8 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: polymorphes, de type métuloïdes fusiformes à lagéniformes, à paroi fine à épaissie 1-3 µm, (44,7) 59,9 - 77 (82,7) × (16,1) 18,5 - 23,2 (23,5) µm, ellipsoïdes ovoïdes 27,1 - 31,76 (31,8) × 8,4 - 11,4 µm en moyenne, en faisceaux
+  caulocystides-sommitales: polymorphes, de type métuloïdes fusiformes à lagéniformes, à paroi moyenne à épaissie 2-3 µm, (53,5) 56,7 - 88,3 (89,4) × (18,9) 19,9 - 27,4 (35,2) µm en moyenne, clavées 29,8 - 30,8 × 8,9 - 9,9 µm en moyenne, et ovoïdes 30,9 - 34,7 × 15,6 - 16,5 µm en moyenne, en faisceaux, rarement solitaire
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: abondantes, piriformes, clavées, sphéropédonculées, à paroi fine, situées sur l'arête lamellaire, 17,6 - 28,4 × 8,2 - 10,25 (10,3) µm en moyenne
@@ -231,7 +231,7 @@ description:
   pied: 20-70 x 3-5 mm Ø, cylindrique, ± égal à flexueux, avec bulbe marginé, pruineux sur toute sa longueur, blanchâtre au début, puis crème, jaune pâle à teinté de jaune ocre
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis (ixocutis) avec suprapellis d'environ 50-55 µm de profondeur, parallèle à hyaline entrelacées, avec hyphes agglutinées 2-3,5 µm de Ø, avec granulations hyalines, le subpellis est composé d’une couche d’environ 65 µm de profondeur, compacts, avec des hyphes entrelacées entre 5.5-13 µm de Ø, avec des hyphes à pigmentations incrustées brun foncé à brun pâles
   pileitrame: 
   pileocystides: 
   plasmode: 

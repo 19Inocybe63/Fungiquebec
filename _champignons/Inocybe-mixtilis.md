@@ -25,7 +25,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux et Erminio Ferrari
+    confirmee: Y. Lamoureux et E. Ferrari
   - fongarium: cKc0391
     date: 3 août 2015
     planche:

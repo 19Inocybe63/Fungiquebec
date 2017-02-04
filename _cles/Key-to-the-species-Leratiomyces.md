@@ -3,6 +3,8 @@ nom: Key to the species Leratiomyces
 date: 2016-11-26 00:00:00
 author: Machiel E. Noordeloos
 source: Strophariaceae s.l. Fungi Europaei, N° 13, Edizioni Candusso, 2011 (Adaptée pour L. riparius)
+famille: Strophariaceae
+genre: Leratiomyces
 
 etapes:
   -

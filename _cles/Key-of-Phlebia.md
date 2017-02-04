@@ -3,6 +3,8 @@ nom: Key of Phlebia
 date: 2016-11-30 00:00:00
 author: Ellis, Martin B. and Ellis, J. Pamela
 source: Fungi without gills (Hymenomycetes and Gasteromycetes), An Identification Handbook, Chapman and Hall, First edition, 1990.
+famille: Meruliaceae
+genre: Phlebia
 
 etapes:
   -

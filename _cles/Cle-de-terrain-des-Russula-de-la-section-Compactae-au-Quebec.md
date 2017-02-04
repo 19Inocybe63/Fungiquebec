@@ -3,6 +3,8 @@ nom: Clé de terrain des Russula de la section Compactae au Québec
 date: 2016-11-21 00:00:00
 author: Yves Lamoureux
 source: Edition à compte d'auteur, juillet 2016
+famille: Russulaceae
+genre: Russula
 
 etapes:
   -

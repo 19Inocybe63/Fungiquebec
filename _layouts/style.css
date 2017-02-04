@@ -434,6 +434,27 @@ blockquote footer {
 
 /* Cles */
 
+ul.cle-familles {
+    font-size: 18px;
+}
+ul.cle-familles li {
+	list-style-type: none;
+}
+li.cle-famille {
+    font-weight: bold;
+	font-size: 1.2em;
+}
+li.cle-genre {
+    font-weight: bold;
+	font-size: 1.1em;
+}
+ul.cles {
+	margin-bottom: 20px;
+}
+ul.cles li {
+	list-style-type: disc;
+}
+
 .etape {
 		background-color: white;
 }

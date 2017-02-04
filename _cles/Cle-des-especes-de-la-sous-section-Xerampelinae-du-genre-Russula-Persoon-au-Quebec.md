@@ -3,6 +3,8 @@ nom: Clé des espèces de la sous-section Xerampelinae du genre Russula Persoon 
 date: 2016-11-21 00:00:00
 author: Yves Lamoureux
 source: Édition à compte d'auteur
+famille: Russulaceae
+genre: Russula
 
 etapes:
   -

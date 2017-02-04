@@ -24,8 +24,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/26210096224/in/photolist-FW6AsL-vW7Q9a-w4hTQt-w3DWcd
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux et Erminio Ferrari
   - fongarium: cKc0391
     date: 3 août 2015
     planche:
@@ -34,8 +34,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/26815855246/in/photolist-GRCgvQ-vW7Q9a-w4hTQt-w3DWcd/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 

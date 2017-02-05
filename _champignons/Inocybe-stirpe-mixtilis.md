@@ -63,7 +63,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: observées dans le Pileipellis
+  boucles: observées dans le pileipellis
   brachybasidioles: 
   calicule: 
   capillitium: 

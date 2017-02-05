@@ -262,7 +262,7 @@ description:
   receptacle: 
   remarques: |
     Collection étudiée sur matériel déshydraté
-    Peut-être s'agit-il de Inocybe mixtilis, mais j'ai des doutes. L'analyse d'ADN nous apportera plus de précisions
+    Peut-être s'agit-il de I. mixtilis, mais j'ai des doutes. L'analyse d'ADN nous apportera plus de précisions
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

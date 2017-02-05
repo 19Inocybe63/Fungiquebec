@@ -36,7 +36,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: fertile
   arthroconidies: 
   articles: |
     Lecomte, Marcel. Vous avez dit P.D.A.B. ?, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
@@ -54,23 +54,27 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    gibbosporées (noduleuses)-anguleuses (goniospores) avec 8-10 bosses moyennement haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans l'eau glycérinée 20%, inactives dans le melzer, non cyanophiles
+    (6,7) 7,3 - 8,8 (9,4) × (5,3) 5,5 - 7,1 (7,5) µm
+    Q = (1) 1,1 - 1,5 (1,7) ; N = 30
+    Me = 8 × 6,3 µm ; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées dans le Pileipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: présentes, de type lamprocaulocystides, sensiblement comme les sommitales
+  caulocystides-sommitales: présentes, de type lamprocaulocystides, fusiformes à largement fusiformes (41,8) 46,6 - 56,3 (59,7) × (13,3) 16,4 - 22,6 (23,8) µm, à piriformes, (13,4) 13,45 - 23,2 × (5,1) 5,15 - 11,8 µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: nombreuses, piriformes, (16,9) 16,91 - 22,3 × (8,9) 8,94 - 9,6 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
@@ -182,8 +186,8 @@ description:
   hysterothece: 
   lames: 
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: 
+  lamprocheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, parfois ovoïdes, (39,8) 46,3 - 56,2 (56,8) × (16,6) 19,5 - 21,3 (26,4) µm
+  lampropleurocystides: nombreuses, polymorphes, largement fusiformes, ellipsoïdes à ovoïdes à largement ovoïdes, (44) 50,8 - 53,6 (55,9) × (24,2) 25,5 - 29,6 (33,2) µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 

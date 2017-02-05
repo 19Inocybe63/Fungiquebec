@@ -79,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 23-25 mm Ø, conique-convexe, conique, campanulé, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -141,7 +141,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-des-lames: fongique à spermatique
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crème à gris pâle puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
   lamprocystides: 
   lamprocheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, parfois ovoïdes, (39,8) 46,3 - 56,2 (56,8) × (16,6) 19,5 - 21,3 (26,4) µm
   lampropleurocystides: nombreuses, polymorphes, largement fusiformes, ellipsoïdes à ovoïdes à largement ovoïdes, (44) 50,8 - 53,6 (55,9) × (24,2) 25,5 - 29,6 (33,2) µm
@@ -218,7 +218,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 48-50 x 3-4 mm Ø, cylindrique, avec bulbe ± marginé, pruineux, blanchâtre au début, puis crème, jaune pâle à teinté de jaune ocre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -265,7 +265,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique à spermatique
   sclerocystides: 
   sclerote: 
   soies: 

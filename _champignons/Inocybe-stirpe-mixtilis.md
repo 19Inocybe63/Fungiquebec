@@ -260,7 +260,8 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Collection étudiée sur matériel déshydraté
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

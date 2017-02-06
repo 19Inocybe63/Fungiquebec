@@ -149,7 +149,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à légèrement fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

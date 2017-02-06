@@ -89,7 +89,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre au début, puis jaunâtre pâle ou beige blanchâtre, ocre ou brun rouille pâle à dans la partie inférieure du pied
   chancre: 
-  chapeau: 
+  chapeau: 15-50 (75) mm Ø, hémisphérique à convexe puis convexe, convexe-étalé à étalé, souvent avec ombon peu élevé, large et obtus, avec marge involutée, non hygrophane, non strié translucide, visqueux lorsque humide, lisse, glabre, écailleux, ocre ou brun ocré au centre, parfois légèrement teinté d'orangé, graduellement plus pâle vers le pourtour, jaune, beige, blanchâtre-jaunâtre à presque blanc
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -194,7 +194,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: émarginées et uncinées, serrées, subventrues, blanchâtres, beige blanchâtre à jaune ocre au début, ocre sordide, beige brunâtre, brun ocré à brunes à maturité, parfois teintées d'olivacé, à arêtes finement serrulées, plus pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

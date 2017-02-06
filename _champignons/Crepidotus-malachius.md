@@ -58,7 +58,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    globuleuses, finement verruqueuses, à paroi mince, petit appendice hilaire, petit pore germinatif parfois visible dans le Bleu crésyl 0,4-0,8 µm Ø, à contenu uniguttulé, hyalines dans E.G. 20%, inactives dans le melzer, non cyanophiles
+    (5,4) 5,7 - 6,2 (6,5) × (5,4) 5,5 - 6 (6,4) µm
+    Q = 1 ; N = 30
+    Me = 5,9 × 5,8 µm ; Qe = 1
+    (Piximètre, formule classique ; mesures issues d'une sporée)
   basidioles: 
   basidiome: 
   bibliographies: 

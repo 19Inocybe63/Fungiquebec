@@ -226,7 +226,7 @@ description:
   pied: absent ou pseudopied parfois présent
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, avec hyphes émergentes lisses à ± incrustées, dont le subpellis est non différenciée, composée d'hyphes cylindriques, entrelacée, parfois ± immergées dans une couche de gélatine
   pileitrame: 
   pileocystides: 
   plasmode: 

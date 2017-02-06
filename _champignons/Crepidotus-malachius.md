@@ -29,7 +29,7 @@ collections:
   - fongarium: cKc0192
     date: 4 août 2014
     planche:
-      numero: 
+      numero: cKc0192-0156
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O

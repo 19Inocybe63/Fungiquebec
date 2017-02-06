@@ -1,6 +1,6 @@
 ---
 nom: Crepidotus malachius
-date: 2017-01-31 00:00:00
+date: 2017-02-06 00:00:00
 image: https://c2.staticflickr.com/8/7392/9359067501_2638ed78b1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9359067501/in/photolist-fg2EGM
 album-flickr:
@@ -94,7 +94,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Maria Teresa Basso. « Les pleurocystides sont absentes, cependant chez certaines espèces, il est possible de trouver des éléments définis comme pleurocistidioïdes, de forme similaire aux basides avec une longue annexe. »
   conidies: 
   conidiome: 
   conidiophores: 

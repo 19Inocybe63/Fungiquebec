@@ -57,7 +57,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes à claviformes élancées, 2-4 stérigmates, bouclées à la base, (11,9) 15-27,3 (27,9) × (4,5) 5,1-8 µm en moyenne
   basidiospores: |
     globuleuses, finement verruqueuses, à paroi mince, petit appendice hilaire, petit pore germinatif parfois visible dans le Bleu crésyl 0,4-0,8 µm Ø, à contenu uniguttulé, hyalines dans E.G. 20%, inactives dans le melzer, non cyanophiles
     (5,4) 5,7 - 6,2 (6,5) × (5,4) 5,5 - 6 (6,4) µm

@@ -231,7 +231,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: abondantes, polymorphes, largement fusiformes, cylindriques-mucronées, subrostrées, piriformes, bidigitées, apex rarement moniliformes (18,7) 20,3-33,5 (49) × (3,2) 7-10,1 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

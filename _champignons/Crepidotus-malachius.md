@@ -228,7 +228,7 @@ description:
   pigments: 
   pileipellis: en cutis, avec hyphes émergentes lisses à ± incrustées, dont le subpellis est non différencié, composé d'hyphes cylindriques, entrelacée, parfois ± immergées dans une couche de gélatine
   pileitrame: 
-  pileocystides: 
+  pileocystides: absentes
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes, polymorphes, largement fusiformes, cylindriques-mucronées, subrostrées, piriformes, bidigitées, apex rarement moniliformes (18,7) 20,3-33,5 (49) × (3,2) 7-10,1 µm en moyenne

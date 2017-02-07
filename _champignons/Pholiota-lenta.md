@@ -24,8 +24,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°46'21.6"N 71°10'29.3"O
     altitude: 1.07 km
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
   - fongarium: cKc0282
     date: 3 octobre 2014
     planche:

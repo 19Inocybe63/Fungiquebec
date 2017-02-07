@@ -204,7 +204,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, ou décurrentes par une dent, blanches, étroite à assez étroite à moyenne large, avec lamelles et lamellules, gris-fauve ou brun grisâtre, ou argile, à arêtes entières ou fimbriées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

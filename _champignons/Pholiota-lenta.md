@@ -99,7 +99,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 
+  chapeau: 30-70 (100) mm Ø, convexe-hémisphérique à campanulé, convexe-étalé, lagre, blanchâtre à beige, parfois rosâtre-chamois ou gris fumé, le disque devient légèrement plus foncé, jaunâtre, visqueux à glutineux, parfois avec méchules blanches dispersées de restes vélaires, à marge souvent appendiculée de restes vélaires, glabrescente
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -109,7 +109,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Le gluten se sépare parfois distinctement du chapeau laissant une cuticule parfaitement sèche, lisse. »
   conidies: 
   conidiome: 
   conidiophores: 

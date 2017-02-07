@@ -238,7 +238,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 30-80 (120) x 4-12 mm Ø, égal à subbulbeux, solide à spongieux, farineux blanc vers l'apex, fibrilleux et blanc vers la base, brunâtre à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 

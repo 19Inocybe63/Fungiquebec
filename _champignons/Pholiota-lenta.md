@@ -16,8 +16,28 @@ details:
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0151
+    date: 4 octobre 2013
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°46'21.6"N 71°10'29.3"O
+    altitude: 1.07 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0282
+    date: 3 octobre 2014
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 1.08 km
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0577
+    date: 29 septembre 2016
     planche:
       numero: 
       miniature: # Largeur 320px. ici
@@ -25,9 +45,9 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 
-    confirmee: 
-  - fongarium: 
-    date: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0593
+    date: 9 octobre 2016
     planche:
       numero: 
       miniature: # Largeur 320px. ici
@@ -35,27 +55,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 
-    confirmee: 
-  - fongarium: 
-    date: 
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: 
-  - fongarium: 
-    date: 
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

@@ -4,18 +4,48 @@ date: 2017-02-07 00:00:00
 image: https://c2.staticflickr.com/4/3936/15427367891_c418597eb1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15427367891/in/photolist-MBptmN-M6YVCH-LMKgni-Mi8k7S-MBKdW6-LMKbcD-pe3H4h-pvghZz-gnvVcx-gnwtCc
 album-flickr:
-  - 
+  - 72157676507343273
 
 details:
-  nom-francais: 
-  autorites: 
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
-  litterature: 
+  nom-francais: Flammule glutineuse ou Pholiote gluante
+  autorites: (Pers.) Singer
+  ordre: Agaricales
+  famille: Strophariaceae
+  genre: Pholiota
+  espece: lenta
+  litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
 
 collections:
+  - fongarium: 
+    date: 
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: 
+  - fongarium: 
+    date: 
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: 
+  - fongarium: 
+    date: 
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: 
   - fongarium: 
     date: 
     planche:
@@ -52,7 +82,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, débris ligneux, sous conifères et feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +97,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanche
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -112,7 +142,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -129,7 +159,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à légèrement raphanoïde
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -192,7 +222,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -206,7 +236,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -234,8 +264,15 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
-  publications-microscopiques: 
+  publications: |
+    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
+    Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
@@ -243,12 +280,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -257,7 +294,14 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Agaricus lentus Pers., Synopsis methodica fungorum:287 (1801)
+    Flammula lenta (Pers.) P. Kumm., Der Führer in die Pilzkunde:82 (1871)
+    Dryophila lenta (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:70 (1886)
+    Gymnopilus lentus (Pers.) Murrill, North American Flora 10 (3):204 (1917)
+    Pholiotina lenta (Pers.) Singer, Lilloa 22:516 (1951)
+    Inocybe olgae Velen., Ceske Houby 2:371 (1920)
+    Pholiota groenlandica M. Lange, Meddelelser om Grønland 148 (2):7 (1957)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -269,7 +313,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: copieux, fibrilleux, blanc, laissant un anneau évanescent
   volve: 
   zone-perihymeniale: 
 ---

@@ -238,7 +238,8 @@ description:
     Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = pas de coloration ou de décoloration sur la chair du chapeau
   receptacle: 
   remarques: 
   repartition: 

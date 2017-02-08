@@ -30,8 +30,8 @@ collections:
     date: 4 août 2014
     planche:
       numero: cKc0192-0156
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c1.staticflickr.com/1/643/31942065784_02001a25d7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/31942065784/in/photostream/
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     altitude: 1.08 km
     determinee: Claude Kaufholtz-Couture

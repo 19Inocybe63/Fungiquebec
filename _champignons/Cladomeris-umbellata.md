@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur bois mort, ou près des souches à partir d'un sclérote, agent de carie blanche, Fagus, Quercus, parfois rapporté sur Picea et Pinus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: rare à occasionnelle
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,7 +135,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanchâtre au début, crème à paille avec l'âge
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -206,7 +206,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre, poussant souvent au même endroit les années subséquentes
   phialoconidies: 
   pied: 
   pieds-steriles: 

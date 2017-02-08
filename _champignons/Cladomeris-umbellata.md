@@ -50,7 +50,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, piléé, stipité, hémisphérique, en forme de chou-fleur, formé de nombreux petits chapeaux stipités, en partie imbriqués et arrivant d'une base commune ± centrée et très ramifiée, d'un diamètre maximal de 70-200 (500) mm Ø
   bibliographies: 
   biotopes: pousse au sol, sur bois mort, ou près des souches à partir d'un sclérote, agent de carie blanche, Fagus, Quercus, parfois rapporté sur Picea et Pinus
   boucles: 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 10-30 (40) mm Ø, jusqu'à 30 mm d'épaisseur au centre, aplani, concave au centre, suborbiculaire, ombiliqué à légèrement infundibuliforme, charnu au frais, dur et cassant au sec, sec, glabre ou avec très minuscules écailles apprimées donnant un aspect finement tacheté (loupe), lisse à fibreux au frais, plissé au sec, blanc, ocré, grisâtre pâle à brun pâle, à marge mince, ondulée, entière à légèrement lobée ou crénelée, incurvée au sec
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre, poussant souvent au même endroit les années subséquentes
   phialoconidies: 
-  pied: 
+  pied: centré, blanc à crème ou paille pâle, couvert de pores vers l'apex, plus lisse vers la base, élargi à la base, atténué vers le chapeau, ramifiant d'un tronc commun ± centré, égal, court et noduleux, jusqu'à 30 mm Ø, arrivant d'un sclérote noirâtre, dur, irrégulier, noduleux, avec courtes ramifications difformes, blanc à l'intérieur
   pieds-steriles: 
   pigments: 
   pileipellis: 

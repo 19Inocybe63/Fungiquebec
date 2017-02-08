@@ -257,8 +257,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Exhalaison de croûte de vieux fromage Limburger une fois déshydraté
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

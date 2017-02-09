@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8542/8676927112_d96e74b518_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8676927112/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
     geolocalisation: 46°54'03.96"N 71°10'40.83"O
-    altitude: 476 m
+    elevation: 145 m
     determinee: 
     confirmee: Roland Labbé
 

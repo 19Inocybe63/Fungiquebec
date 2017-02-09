@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8091/8520997071_7a95de4f6f_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8520997071/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0420
@@ -33,7 +33,7 @@ collections:
       miniature: https://c2.staticflickr.com/2/1686/24988306952_f50ecc63f3_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/24988306952/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
     geolocalisation: 
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

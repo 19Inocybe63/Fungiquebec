@@ -130,6 +130,8 @@ champs-collections:
     format: geo
   - name: altitude
     label: Altitude
+  - name: elevation
+    label: Élévation
   - name: determinee
     label: Déterminée
   - name: confirmee

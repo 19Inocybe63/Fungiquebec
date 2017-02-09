@@ -47,19 +47,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: cylindriques, tétrastérigmates, bouclées à la base, 20,1 x 5,5 µm en moyenne
+  basidiospores: |
+    ovoïdes à ellipsoïdes, lisses, à paroi mince de 0,2-0,4 µm, avec petit appendice hilaire et pore germinatif tronqué, à contenu granuleux, hyalines dans le NH<sub>4</sub>OH 2%
+    5,4 [5,8; 5,9] 6,4 x 3,2 [3,5; 3,6] 3,9 µm
+    Q = 1,5 [1,6; 1,7] 1,8; N = 74; C = 95%
+    Me = 5,9 x 3,6 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse sur souches et troncs morts de feuillus
-  boucles: 
+  boucles: nombreuses, observées dans le pileipellis, 8,7 µm de longueur, le médiostrate, 3,2 µm de longueur, le stipitipellis, 4,06 µm de longueur
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -71,7 +75,7 @@ description:
   chancre: 
   chapeau: 40-100 mm Ø, convexe puis étalé, lisse, rouge brique, plus pâle au pourtour, à marge souvent ornée de vestiges du voile partiel
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, polymorphes, lécythiformes,  parfois lagéniformes, cylindriques, capitées, rarement largement fusiformes, rarement en cheilochrysocystides, 29,1 x 6,4 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -211,11 +215,11 @@ description:
   pied: 50-100 x 5-15 mm Ø, égal, crème à l'apex, vineux vers la base, parfois teinté de jaune par endroits
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en deux couches distinctes, suprapellis formé d’hyphes en rectocutis et subpellis celluleux
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurochrysocystides: 
+  pleurochrysocystides: dispersées, subventrues, mucronées, 36 µm x 12 µm
   pleurocystides: 
   poils: 
   poils-basaux: 
@@ -278,7 +282,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle à subparallèle
   trame-tubulaire: 
   type: 
   typique: 

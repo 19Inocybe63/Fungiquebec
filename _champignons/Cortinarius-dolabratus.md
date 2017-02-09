@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/1/765/31972781442_f4d6b51e59_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/31972781442/in/photolist-QHjS1s-picBG9-p3JGhy/
     geolocalisation: 45°57'27.0"N 70°56'00.8"O
-    altitude: 828 m
+    elevetion: 329 m
     determinee: 
     confirmee: Karl Soop
 

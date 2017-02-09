@@ -46,6 +46,16 @@ collections:
     elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0257
+    date: 15 septembre 2014
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

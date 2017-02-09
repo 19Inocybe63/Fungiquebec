@@ -35,7 +35,7 @@ collections:
     geolocalisation: 46°57'47.71"N 70°57'06.06"O
     elevation: 83 m
     determinee: 
-    confirmee: Yves Lamnoureux
+    confirmee: Yves Lamoureux
   - fongarium: cKc0226
     date: 29 août 2014
     planche:

@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, crème
   chancre: 
-  chapeau: 
+  chapeau: 40-100 mm Ø, convexe puis étalé, lisse, rouge brique, plus pâle au pourtour, à marge souvent ornée de vestiges du voile partiel
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, étroites, serrées, blanchâtres, gris olivâtre puis violacées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 50-100 x 5-15 mm Ø, égal, crème à l'apex, vineux vers la base, parfois teinté de jaune par endroits
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -240,7 +240,8 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    De Claude Kaufholtz-Couture. « Les boucles du pileipellis sont plus grosses (au double) que celles trouvées dans le médiostrate et le stipitipellis. »
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -283,7 +284,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: presque membraneux, blanchâtre, laissant une zone annuliforme
+  voile-partiel: presque membraneux, blanchâtre, laissant une zone annuliforme, abondamment bouclées
   volve: 
   zone-perihymeniale: 
 ---

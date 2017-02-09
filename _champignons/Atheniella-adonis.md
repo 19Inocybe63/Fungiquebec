@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7511/15811647626_cc8cc39170_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/15811647626/in/photolist-q6dPYf-peNjeP-pwfJNf
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Debbie Viess
 

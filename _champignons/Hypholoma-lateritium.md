@@ -26,6 +26,16 @@ collections:
     altitude: 1.06 km
     determinee: 
     confirmee: Roland Labbé
+  - fongarium: cKc0150
+    date: 1 octobre 2013
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Yves Lamnoureux
 
 description:
   acanthocytes: 

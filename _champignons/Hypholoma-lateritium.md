@@ -32,7 +32,7 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: 
+    geolocalisation: 46°57'47.71"N 70°57'06.06"O
     altitude: 
     determinee: 
     confirmee: Yves Lamnoureux

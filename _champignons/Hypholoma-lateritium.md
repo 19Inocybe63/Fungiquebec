@@ -36,6 +36,16 @@ collections:
     elevation: 83 m
     determinee: 
     confirmee: Yves Lamnoureux
+  - fongarium: cKc0226
+    date: 29 août 2014
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

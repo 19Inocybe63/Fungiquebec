@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°18'05.3"N 73°05'41.8"O
-    altitude: 341 m
+    elevation: 341 m
     determinee: 
     confirmee: Yves Lamoureux
 

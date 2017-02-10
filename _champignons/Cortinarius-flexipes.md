@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8614/16112035051_e875992960_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16112035051/in/photolist-pkct91-qxLoFM/
     geolocalisation: 45°58’40.33"N 70°57’40.76"O
-    altitude: 1.36 km
+    elevation: 334 m
     determinee: 
     confirmee: Yves Lamoureux
 

@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/6/5495/30616014810_1d98b904a7_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/30616014810/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc/
     geolocalisation: 
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Karl Soop
 

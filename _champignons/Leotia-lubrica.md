@@ -16,6 +16,16 @@ details:
   litterature: Persoon, C.H. 1797. Commentatio de Fungis Clavaeformibus. :1-124
 
 collections:
+  - fongarium: sans numéro
+    date: 14 octobre 2012
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°57'05.82"N 71°17'45.00"O
+    elevation: 537 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0249
     date: 12 septembre 2014
     planche:
@@ -206,7 +216,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de juillet à septembre
+  phenologie: de juillet à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

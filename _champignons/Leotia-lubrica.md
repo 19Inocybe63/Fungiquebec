@@ -49,7 +49,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 
+  ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un pied distincts, ± visqueux-gélatineux, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -67,7 +67,7 @@ description:
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 
+  capitule: 7-40 mm Ø, de forme variable mais plus ou moins convexe, convoluté, chauve, avec une surface lisse ou légèrement froissée, ridée, collant, gluant losque frais, la marge est incurvée, translucide, jaune brunâtre, jaune ou olive, tournant rarement au vert foncé à presque noir avec l'âge, plus pâle et stérile au-dessous
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 

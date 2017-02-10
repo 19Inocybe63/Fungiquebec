@@ -4,7 +4,7 @@ date: 2016-11-02 00:00:00
 image: https://c2.staticflickr.com/6/5232/7228311120_e6dc452112_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7228311120/in/photolist-sZ547m-tgpfUu-c1JZ4N
 album-flickr:
-  - 72157674505582341
+  - 72157680075298706
 
 details:
   nom-francais: Polypore écailleux

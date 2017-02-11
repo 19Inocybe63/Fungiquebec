@@ -25,7 +25,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous feuillus et conifères, en bordure de sentier
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, ferme, cassante, brunâtre à concolore à la surface du chapeau
   chancre: 
-  chapeau: 
+  chapeau: 24-35 mm Ø, convexe, puis étalé, déprimé, mamelonné, papillé, glabre, brun cannelle à brun pâle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: agréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,12 +174,12 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, serrées, beige crème avec reflet rosé pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: immuable, hyalin, ± blanchâtre, rapidement brûlant, s'atténuant aussitôt
   leptocystides: 
   leptopleurocystides: 
   macrocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 39-49 x 4-7 mm Ø, cylindrique, creux, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -246,12 +246,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: ± sucrée, douce à légèrement âcre, s'atténuant
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: pallidosporée, crème pâle, taché parfois de jaunâtre
   spherocytes: 
   sporocystes: 
   stipitipellis: 

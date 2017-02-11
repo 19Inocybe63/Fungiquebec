@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8216/8274763429_74d0d295f7_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8274763429/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: Machiel Noordeloos (provisoire)
     confirmee: 
 

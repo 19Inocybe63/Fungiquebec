@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/19912097704/in/photolist-wkyGVo-vXQz7Y
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 95 m
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

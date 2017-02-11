@@ -1,7 +1,7 @@
 ---
 nom: Geoglossum difforme
 date: 2016-11-02 00:00:00
-image: https://c2.staticflickr.com/4/3697/19666230344_580e9cd6e7_n.jpg
+image: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_m.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19666230344/in/photolist-wkyGVo-vXQz7Y
 album-flickr:
   - 72157675365108575

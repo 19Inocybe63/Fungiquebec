@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7467/15937652161_3835d1f584_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/15937652161/in/photolist-qhmCJe-owGghB-oNDUGi
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
 

@@ -50,9 +50,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois pourri de feuillu
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -84,7 +84,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: dense, mince, blanc, 1-2 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -93,7 +93,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: dense et subcartilagineuse au sec, concolore à la face poroïde, 1-2 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -135,7 +135,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanchâtre au début, vite paille pâle à ochracée
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -228,7 +228,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: ronds à légèrement anguleux, 5-7 par mm, à dissépiments entiers
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -248,7 +248,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

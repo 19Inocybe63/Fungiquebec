@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8745/16871277948_067ee28bb3_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16871277948/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Rocky Houghtby
   - fongarium: cKc0312
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Rocky Houghtby
 

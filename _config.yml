@@ -108,10 +108,13 @@ champs-details:
     label: Autorités
   - name: ordre
     label: Ordre
+    search: facet
   - name: famille
     label: Famille
+    search: facet
   - name: genre
     label: Genre
+    search: facet
   - name: espece
     label: Espèce
   - name: litterature
@@ -122,14 +125,23 @@ champs-collections:
     label: Fongarium
   - name: date
     label: Date de cueillette
+    search: exclure
   - name: planche
     label: Planche micrographique
     format: planche
+    champs:
+      - name: numero
+      - name: miniature
+        search: exclure
+      - name: originale
+        search: exclure
   - name: geolocalisation
     label: Géolocalisation
     format: geo
+    search: exclure
   - name: elevation
     label: Élévation
+    search: exclure
   - name: determinee
     label: Déterminée
   - name: confirmee
@@ -302,7 +314,7 @@ champs-description:
     label: Lamprocheilocystides
   - name: lampropleurocystides
     label: Lampropleurocystides
-  - name: cristaux apicaux
+  - name: cristaux-apicaux
     label: Cristaux apicaux
   - name: macropleurocystides
     label: Macropleurocystides

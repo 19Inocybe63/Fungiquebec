@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Helvelle fibreuse
   autorites: (Wallr.) Korf
   ordre: Pezizales
   famille: Helvellaceae

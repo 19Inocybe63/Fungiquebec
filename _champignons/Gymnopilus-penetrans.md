@@ -23,9 +23,9 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°49'45.3"N 71°27'20.9"O
-    altitude: 1.22 km
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
+    elevation: 230 m
+    determinee: 
+    confirmee: Roland Labbé
 
 description:
   acanthocytes: 

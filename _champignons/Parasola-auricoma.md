@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Coprin doré ou Coprin à soies brunes
   autorites: (Pat.) Redhead, Vilgalys & Hopple
   ordre: Agaricales
   famille: Psathyrellaceae
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, au travers de copeaux de bois
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: gris brun, mince à membraneuse
   chancre: 
-  chapeau: 
+  chapeau: 10-25 x 15-45 mm Ø, d'abord ovoide, puis campanulé et finalement aplani étalé, dépourvu de voile déliquescent dans la vieillesse, surface sèche, mate, brillante à l'état humide et striée cannelée, presque jusqu'au centre, rosé au debut, puis gris brun à brun noir, ornée de fins poils dressés, disque brun rouge foncé et lisse, marge crenelée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: faible à indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: blanchâtres, gris beige par la suite, brun noir avec l'âge, larges, étroitement adnées à libres, arêtes entières blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 50-110 x 2-5 mm Ø, cylindrique, aminci vers le sommet, creux, cassant, surface lisse, blanche ornée de fines fibrilles longitudinales, base parfois faiblement feutrée blanche
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,12 +243,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce et légère de caoutchouc, faiblement astringente
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: noire
   spherocytes: 
   sporocystes: 
   stipitipellis: 

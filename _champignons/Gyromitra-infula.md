@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°57'01.25"N 71°17'51.46"O
-    altitude: 412 m
+    elevation: 222 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Roland Labbé
 

@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: jusqu'à 60 mm Ø, souvent profondément infundibuliforme au début, étalé-déprimé avec l'âge, finement velouté et blanc grisâtre au début, puis gris et vite brun rougeâtre à brun orangé surtout vers le centre, avec fines lignes radiales et restes dispersés de tomentum, devenant rouge baie foncé et glabre avec l'âge, lisse au frais, finement plissé radialement avec l'âge, dense et dur au sec et alors avec une très mince mais distincte cuticule (loupe), à marge incurvée et mince au sec
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 10-60 mm de longueur, rarement > 5 mm Ø, souvent ± centré, élancé, finement velouté et brun sépia au début, glabre et noir avec l'âge, avec pores superficiels vers l'apex, finement plissé au sec (loupe), dense, à centre homogène blanc et mince cuticule noire sous le tomentum à la coupe
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,7 +234,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -243,7 +244,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: légèrement acidulée
   sclerocystides: 
   sclerote: 
   soies: 

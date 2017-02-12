@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « La description de ce champignon fut prise sur le site MycoDB = http://www.mycodb.fr/quicksearch.php »
   conidies: 
   conidiome: 
   conidiophores: 

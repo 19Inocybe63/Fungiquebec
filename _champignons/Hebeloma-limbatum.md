@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/6/5620/30331219382_dcca2f4de6_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/30331219382/in/photolist-NdgqNj-MwxnQN-M8BSkh
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: Henry J. Beker (provisoire)
     confirmee: 
 

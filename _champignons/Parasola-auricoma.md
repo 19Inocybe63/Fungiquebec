@@ -48,7 +48,8 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    10-16 x 6-9 μm, ellipsoïdes, lisses, avec un pore germinatif centré proéminent, brunes dans le NaCl iso 0,9%, brun foncé dans le KOH 5%
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -237,7 +238,8 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+     KOH 10% = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

@@ -7,7 +7,7 @@ album-flickr:
   - 72157676466675673
 
 details:
-  nom-francais: 
+  nom-francais: Pholiote voisine
   autorites: (Fr.) Kuyper & Tjall.-Beuk.
   ordre: Agaricales
   famille: Strophariaceae

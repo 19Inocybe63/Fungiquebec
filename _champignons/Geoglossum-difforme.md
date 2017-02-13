@@ -20,7 +20,7 @@ collections:
     date: 4 août 2015
     planche:
       numero: cKc0393-0095
-      miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_m.jpg
+      miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/19912097704/in/dateposted/
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m

@@ -1,7 +1,7 @@
 ---
 nom: Craterellus tubaeformis
 date: 2017-01-30 00:00:00
-image: https://c2.staticflickr.com/6/5787/20473498400_6ca4264095.jpg
+image: https://c2.staticflickr.com/6/5787/20473498400_6ca4264095_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20473498400/in/photolist-xcb2MJ
 album-flickr:
   - 

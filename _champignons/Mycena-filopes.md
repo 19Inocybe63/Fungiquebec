@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: 
+  nom-francais: Mycène à pied filiforme
   autorites: (Bull.) P. Kumm.
   ordre: Agaricales
   famille: Mycenaceae
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois, ou entre l'écorce de bois mort
+  biotopes: pousse au sol, au travers des aiguilles de conifères et dans l'humus, dans les zones moussues des forêts de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, assez fragile, immuable
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, étroites, subespacées à serrées, brunâtre pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -192,7 +192,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

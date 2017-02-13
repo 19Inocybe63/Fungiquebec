@@ -79,7 +79,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    elliptiques vue de front, subelliptiques à elliptiques à subphaséoliformes, parfois en haricots vue de profil, lisses, à paroi mince jusqu’à 0,2 µm d’épaisseur, avec petit appendice hilaire, pore germinatif indistinct à partiellement visible surtout dans le Bleu crésyl, à contenu uniguttulé à pluriguttulé, hyalines à brun très pâle dans E.G. 20%, inactives dans le melzer, non cyanophiles
+    elliptiques vue de front, subelliptiques à elliptiques à subphaséoliformes, parfois en haricots vue de profil, lisses, à paroi mince jusqu’à 0,2 µm d’épaisseur, avec petit appendice hilaire, pore germinatif indistinct à partiellement visible, à contenu uniguttulé à pluriguttulé, hyalines à brun très pâle dans E.G. 20%, inactives dans le melzer, non cyanophiles
     (5,7) 6-7,3 (7,6) × (3,2) 3,4-3,76 (3,8) µm
     Q = 1,7-2 (2,1) ; N = 30
     Me = 6,6 × 3,6 µm ; Qe = 1,9

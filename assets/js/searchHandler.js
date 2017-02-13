@@ -9,12 +9,12 @@ var searchHandler = {
     query: "",
     facets: [],
     initialize: function(query) {
-        if (query && query !== "") {
+        if (query) {
             this.query = query;
         }
-        for (var i = 0; i < this.facets.length; ++i) {
-            this.createFacet(i, this.facets[i]);
-        }
+        // for (var i = 0; i < this.facets.length; ++i) {
+        //     this.createFacet(i, this.facets[i]);
+        // }
 
         this.search();
     },
@@ -47,83 +47,49 @@ var searchHandler = {
         var facetValuesElement = facetElement.find('.facetValues');
         facetValuesElement.show();
     },
-    shouldSearch: function () {
-        var hasQuery = !!this.query;
-        if (hasQuery) {
-            return true;
-        }
+    // shouldSearch: function () {
+    //     var hasQuery = !!this.query;
+    //     if (hasQuery) {
+    //         return true;
+    //     }
+
+    //     for (var i = 0; i < this.facets.length; ++i) {
+    //         if (this.facets[i].selectedValue) {
+    //             return true;
+    //         }
+    //     }
+
+    //     return false;
+    // },
+    search: function () {
+        this.hideAllResults();
+
+        var queries = [];
+
+        queries.push({
+            query: this.query
+        });
 
         for (var i = 0; i < this.facets.length; ++i) {
-            if (this.facets[i].selectedValue) {
-                return true;
+            var facet = this.facets[i];
+
+            if (!facet.selectedValue) {
+                continue;
             }
+
+            var fieldsToSearchFor = {};
+            fieldsToSearchFor[facet.field] = { boost: 1 };
+            queries.push({
+                query: facet.selectedValue,
+                userConfig: {
+                    fields: fieldsToSearchFor
+                }
+            });
         }
 
-        return false;
-    },
-    search: function () {
-        if (this.shouldSearch()) {
-            this.hideAllResults();
-
-            var queryResults = [];
-            if (this.query) {
-                queryResults = this.index.search(this.query);
-            }
-
-            var facetsResults = [];
-            for (var i = 0; i < this.facets.length; ++i) {
-                var facet = this.facets[i];
-
-                if (!facet.selectedValue) {
-                    continue;
-                }
-
-                var fieldsToSearchFor = {};
-                fieldsToSearchFor[facet.field] = { boost: 1 };
-                var results = this.index.search(
-                    facet.selectedValue,
-                    { fields: fieldsToSearchFor }
-                );
-                facetsResults.push(results);
-            }
-
-            // Merge results
-            var hasQueryResults = queryResults.length > 0;
-            var resultsToStartWith = hasQueryResults ? queryResults : facetsResults[0];
-            var facetIndexInitialValue =hasQueryResults ? 0 : 1;
-            var finalResults = [];
-            for (var i = 0; i < resultsToStartWith.length; ++i) {
-                resultId = resultsToStartWith[i].ref;
-                resultFoundInAllFacets = true;
-
-                for (var facetIndex = facetIndexInitialValue; facetIndex < facetsResults.length; ++facetIndex) {
-                    var facetResults = facetsResults[facetIndex];
-                    var resultFoundInFacet = false;
-
-                    for (var facetResultIndex = 0; facetResultIndex < facetResults.length; ++ facetResultIndex) {
-                        if (facetResults[facetResultIndex].ref === resultId) {
-                            resultFoundInFacet = true;
-                            break;
-                        }
-                    }
-
-                    if (!resultFoundInFacet) {
-                        resultFoundInAllFacets = false;
-                        break;
-                    }
-                }
-
-                if (resultFoundInAllFacets) {
-                    finalResults.push(resultsToStartWith[i]);
-                }
-            }
-
-            this.showResults(finalResults);
-            this.updateFacetsFromSearchResults(finalResults);
-        } else {
-            this.showAllResults();
-            this.updateFacetsFromAllResults();
-        }
+        var searchResults = this.index.multiSearch(queries);
+        this.showResults(searchResults);
+        this.updateFacetsFromSearchResults(searchResults);
     },
     updateFacetsFromAllResults: function() {
         var _this = this;

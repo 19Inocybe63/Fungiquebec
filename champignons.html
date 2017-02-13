@@ -5,33 +5,25 @@ permalink: /champignons/
 ---
 
 <script>
-    function filterChampignons(lettre, classe) {
-        toggleLettreSelected(lettre);
-        $('.lettre').hide();
-        $(classe).show();
-    }
-
     function showAllChampignons() {
         toggleLettreSelected($('.lettre-tous')[0]);
         $('.lettre').show();
     }
 
     function hideAllChampignons() {
-        toggleLettreSelected($('.lettre-tous')[0]);
-        $('.lettre').hide();
+        $('#search-results').html("");
     }
 
     function showResults(results) {
         for (var i = 0; i < results.length; ++i) {
             var result = results[i];
-            $('.index' + result.ref).show();
-            $('.lettre-entete.lettre' + indexChampignons.documentStore.getDoc(result.ref).nom[0].toLowerCase()).show();
-        }
-    }
 
-    function toggleLettreSelected(lettre) {
-        $('.lettre-selected').removeClass('lettre-selected');
-        $(lettre).addClass('lettre-selected');
+            var searchResultDiv = $('<div>');
+            searchResultDiv.text(result.ref);
+
+            $('#search-results').append(searchResultDiv);
+//            $('.lettre-entete.lettre' + indexChampignons.documentStore.getDoc(result.ref).nom[0].toLowerCase()).show();
+        }
     }
 
     function onSearchBoxKeyUp(e) {
@@ -50,20 +42,8 @@ permalink: /champignons/
 
     function search(searchbox) {
         if (searchbox) {
-            var terms = searchbox.value;
-            if (terms) {
-                hideAllChampignons();
-                toggleLettreSelected($('.lettre-tous')[0]);
-
-                var results = index.search(terms);
-                for (var i = 0; i < results.length; ++i) {
-                    var result = results[i];
-                    $('.index' + result.ref).show();
-                    $('.lettre-entete.lettre' + index.documentStore.getDoc(result.ref).nom[0].toLowerCase()).show();
-                }
-            } else {
-                showAllChampignons();
-            }
+            searchHandler.query = searchbox.value;
+            searchHandler.search();
         }
     }
 </script>
@@ -71,41 +51,14 @@ permalink: /champignons/
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-12">
-            <div>
-                <a class="lien-lettre lettre-selected lettre-tous" onclick="showAllChampignons()">TOUS</a>
-                {% assign alphabet = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" | split:',' %}
-                {% for lettre in alphabet %}
-                    <a class="lien-lettre" onclick="filterChampignons(this, '.lettre{{ lettre }}')">{{ lettre | capitalize }}</a>
-                {% endfor %}
-            </div>
-
             <form id="searchform" onsubmit="return false">
                 <input id="searchbox" type="text" placeholder="Recherche..." onkeyup="onSearchBoxKeyUp(event)" />
                 <button id="searchbutton" value="Rechercher" onclick="onSearchButtonClick()">Rechercher</button>
             </form>
 
-            <table>
-            {% assign champignonsTries = (site.champignons | sort: 'nom') %}
-            {% assign lettreCourrante = '' %}
-            {% for champignon in champignonsTries %}
-                {% assign lettreChampignon = champignon.nom | downcase | slice:0 %}
-                {% if lettreCourrante != lettreChampignon %}
-                    {% assign lettreCourrante = lettreChampignon %}
-                    <tr class="lettre lettre{{ lettreCourrante }} lettre-entete">
-                        <td>
-                            {{ lettreCourrante | capitalize }}
-                        </td>
-                    </tr>
-                {% endif %}
-                <tr class="lettre lettre{{ lettreChampignon }} index{{ forloop.index }}">
-                    <td>
-                        <a href="{{ champignon.url | prepend: site.baseurl }}">
-                            <i>{{ champignon.nom }}</i>
-                        </a>
-                    <td>
-                </tr>
-            {% endfor %}
-            </table>
+            <div id="search-results">
+
+            </div>
         </div>
     </div><!--/row -->
 </div><!--/container -->
@@ -124,6 +77,6 @@ permalink: /champignons/
         searchHandler.showAllResults = showAllChampignons;
         searchHandler.facetsContainer = $($('#facets')[0]);
         searchHandler.facets = facetsChampignons;
-        searchHandler.initialize();
+        searchHandler.initialize("");
     }
 </script>

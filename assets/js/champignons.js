@@ -2,6 +2,7 @@
 ---
 var indexChampignons = elasticlunr(function () {
     this.use(elasticlunr.fr);
+    this.saveDocument(false);
     this.setRef('id');
     this.addField('nom');
 
@@ -21,7 +22,7 @@ this.addField('{{ champ.name | replace: "-", "_" }}');
         {% endif %}
     {% endif %}{% endfor %}
 
-    {% for champ in site.champs-description %}{% if champ.search != "exclure" %}
+    {% for champ in site.champs-description %}{% if champ.search != "exclure" and champ.name != "cristaux apicaux" %}
     this.addField('{{ champ.name | replace: "-", "_" }}');
     {% endif %}{% endfor %}
 });
@@ -65,7 +66,7 @@ var champignons = [
             {% endif %}
         {% endif %}{% endfor %}
 
-        {% for champ in site.champs-description %}{% if champ.search != "exclure" and champignon.description[champ.name] %}
+        {% for champ in site.champs-description %}{% if champ.search != "exclure" and champ.name != "cristaux apicaux" and champignon.description[champ.name] %}
             {% assign champSplit = champignon.description[champ.name] | strip | newline_to_br | split: "<br />" %}
             {% capture valeurChamp %}{% for ligne in champSplit %}{{ ligne | strip | replace: '"', ' ' }} {% endfor %}{% endcapture %}
         {{ champ.name | replace: "-", "_" }}: "{{ valeurChamp }}",

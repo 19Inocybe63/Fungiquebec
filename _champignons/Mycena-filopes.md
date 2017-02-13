@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 50-120 x 1-3 mm Ø, cylindrique, égal, cassant, creux-tubuleux, finement pruineux au début, mais devient vite glabre, pâle au-dessus et brunâtre à grisâtre en-dessous, mais parfois avec de légères nuances bleuâtres ou lilas, mycélium basal poilu et blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -250,7 +250,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

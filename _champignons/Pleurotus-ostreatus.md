@@ -13,7 +13,7 @@ details:
   famille: Pleurotaceae
   genre: Pleurotus
   espece: ostreatus
-  litterature: 
+  litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:
   - fongarium: cKc0134
@@ -267,7 +267,13 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Agaricus ostreatus Jacq., Flora Austriaca 2:3, t. 104 (1774)
+    Crepidopus ostreatus (Jacq.) Gray, A natural arrangement of British plants 1:616 (1821)
+    Dendrosarcus ostreatus (Jacq.) Kuntze, Revisio generum plantarum 3 (2):463 (1898)
+    Agaricus ochraceus Pers., Abb. Schwämme (1793)
+    Pleurotus columbinus Quél., Fungi Tridentini 1 (1):10 (1881)
+    Pleurotus floridanus Singer, Papers of the Michigan Academy of Sciences 32:134 (1946)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -16,6 +16,16 @@ details:
   litterature: Burlingham, G.S. 1924. Notes on species of Russula. Mycologia. 16(1):16-23
 
 collections:
+  - fongarium: cKc0217
+    date: 25 août 2014
+    planche:
+      numero: 
+      miniature: https://c2.staticflickr.com/8/7496/15991135571_d47c9bd456_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15991135571/in/photolist-qn5KtZ-oSwUbo-oUyEuZ-oUyGrz
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    altitude: 95 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0236
     date: 4 septembre 2014
     planche:

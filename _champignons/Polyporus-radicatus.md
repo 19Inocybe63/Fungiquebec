@@ -52,8 +52,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: pousse au sol, sur racines enfouies ou autour des souches de feuillus
-agent de carie blanche
+  biotopes: pousse au sol, sur racines enfouies ou autour des souches de feuillus, agent de carie blanche
   boucles: 
   brachybasidioles: 
   calicule: 

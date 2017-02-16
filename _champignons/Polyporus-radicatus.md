@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: très dure, blanche
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -129,7 +129,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 
+  pied: 30-100 x 5-10 mm Ø, centré à légèrement excentré, ± égale, ou légèrement élargi vers la base, sec, finement pubescent près de l'apex, Sale orangé à légèrement brunâtre au-dessus du sol, avec une racine noire de 40 à 100 mm qui se rétrécit et se prolonge sous terre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,7 +234,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -243,7 +244,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: légèrement amère
   sclerocystides: 
   sclerote: 
   soies: 

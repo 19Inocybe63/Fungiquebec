@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 30-100 x 5-10 mm Ø, centré à légèrement excentré, ± égale, ou légèrement élargi vers la base, sec, finement pubescent près de l'apex, Sale orangé à légèrement brunâtre au-dessus du sol, avec une racine noire de 40 à 100 mm qui se rétrécit et se prolonge sous terre
+  pied: 30-100 x 5-10 mm Ø, centré à légèrement excentré, ± égale, ou légèrement élargi vers la base, sec, finement pubescent près de l'apex, orangé à légèrement brunâtre au-dessus du sol, avec une pseudorhize noire de 40 à 100 mm qui se rétrécit et se prolonge sous terre
   pieds-steriles: 
   pigments: 
   pileipellis: 

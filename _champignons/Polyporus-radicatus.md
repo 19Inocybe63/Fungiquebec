@@ -7,7 +7,7 @@ album-flickr:
   - 72157678571401211
 
 details:
-  nom-francais: 
+  nom-francais: Polypore radicant
   autorites: Schwein.
   ordre: Polyporales
   famille: Polyporaceae
@@ -50,9 +50,10 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sur racines enfouies ou autour des souches de feuillus
+agent de carie blanche
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -84,7 +85,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: dense, blanc à crème, jusqu'à 10 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -93,7 +94,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: décurrente, cartilagineuse et cassante au sec, plus foncée que le contexte, 1-5 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -135,7 +136,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanche, crème à jaunâtre au frais, ochracée à brun jaunâtre pâle au sec
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -206,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -228,7 +229,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: ronds à anguleux, 1-3 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -248,7 +249,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
   stipitipellis: 

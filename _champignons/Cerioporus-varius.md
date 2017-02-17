@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, immuable, coriace, blanchâtre à jaunâtre
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 
+  pied: 10-20 x 4-7 mm Ø, central ou décentrée à latérale, conique légèrement à la base, souvent courbée, sec, glabre et pâle à l'apex, devenant veloutée et brun foncé à noir de la base vers le haut, coriace, dur
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,10 +234,12 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = orange brunâtre sur la surface de la chair et du chapeau
   receptacle: 
   remarques: 
   repartition: 

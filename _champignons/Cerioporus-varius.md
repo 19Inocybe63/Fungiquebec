@@ -1,0 +1,283 @@
+---
+nom: Cerioporus varius
+date: 2017-02-17 00:00:00
+image: https://c2.staticflickr.com/8/7324/28090576492_0e3d9edeaa_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/28090576492/in/photolist-JUr2Z9-JNgxJm
+album-flickr:
+  - 72157676846412564
+
+details:
+  nom-francais: Polypore vergeté
+  autorites: (Pers.) Zmitr. & Kovalenko
+  ordre: Polyporales
+  famille: Polyporaceae
+  genre: Cerioporus
+  espece: varius
+  litterature: Zmitrovich, I.V; Kovalenko, A.E. 2016. Lentinoid and polyporoid fungi, two generic conglomerates containing important medicinal mushrooms in molecular perspective. International Journal of Medicinal Mushrooms. 18(1):23-38
+
+collections:
+  - fongarium: cKc0513
+    date: 9 juillet 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+
+description:
+  acanthocytes: 
+  acanthophyses: 
+  aiguillons: 
+  aleurioconidies: 
+  anamorphe: 
+  anamorphe-conidien: 
+  anneau: 
+  apothecie: 
+  arete-lamellaire: 
+  arthroconidies: 
+  articles: 
+  ascome: 
+  ascospores: 
+  asques: 
+  asterohyphidies: 
+  avertissement: 
+  base-du-pied: 
+  base-sterile: 
+  base-stipitiforme: 
+  basides: 
+  basidiospores: 
+  basidioles: 
+  basidiome: annuel à biannuel, piléé, stipité
+  bibliographies: 
+  biotopes: pousse sur bois mort de feuillus et de conifères, agent de carie blanche
+  boucles: 
+  brachybasidioles: 
+  calicule: 
+  capillitium: 
+  capitule: 
+  caulobasides: 
+  caulocystides: 
+  caulocystides-medianes: 
+  caulocystides-sommitales: 
+  cellules-hymeniales-diverticulees: 
+  cellules-hymeniales-en-brosses: 
+  cellules-marginales-paracystides: 
+  cellules-peritheciales: 
+  cellules-stromatiques: 
+  chair: 
+  chancre: 
+  chapeau: 
+  cheilochrysocystides:
+  cheilocystides: 
+  cheiloleptocystides: 
+  cheilomacrocystides: 
+  chlamydospores: 
+  chrysocystides: 
+  circumcystides: 
+  clavules: 
+  columelle: 
+  commentaires: 
+  conidies: 
+  conidiome: 
+  conidiophores: 
+  consistance: 
+  contexte: subéreux, azoné, blanc, chamois à brun pâle, jusqu'à 5 mm d'épaisseur, parfois jusqu'à 15 mm
+  cordons-myceliens: 
+  cordons-rhizomorphiques: 
+  cortex: 
+  cortex-caulinaire: 
+  cortex-du-pied-et-du-bulbe: 
+  cortex-peridial: 
+  cortex-sclerotial: 
+  cortine: 
+  couches-de-tubes: souvent décurrentes jusque sur la portion noire du pied, blanches à crème, 1-5 mm de longueur
+  coupe-sterile: 
+  cristaux: 
+  cristaux-d-oxalate: 
+  cristaux-apicaux: 
+  cuticule: 
+  cutis: 
+  cycle: 
+  cystides: 
+  cystides-hymeniales: 
+  cystides-intermediaires: 
+  cystidioles: 
+  dendrohyphydies: 
+  depots-de-pigment-interhyphal: 
+  dermatocystides-caulocystides-et-pileipellis: 
+  derniere-correction: 
+  dicaryophyses: 
+  dichophyses: 
+  disque-basal: 
+  distribution: 
+  elateres: 
+  elements-acanthophyses: 
+  elements-cystidioides: 
+  elements-hyphoides: 
+  elements-setoides: 
+  elements-steriles: 
+  elements-sur-les-cotes: 
+  elements-velaires: 
+  endoperidium: 
+  especes-identification: 
+  especes-semblables: 
+  excipulum: 
+  excipulum-medullaire-superieur: 
+  excipulum-medullaire-moyen: 
+  excipulum-medullaire-inferieur: 
+  excipulum-ectal: 
+  exhalaison: indistincte
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
+  exoperidium: 
+  extremites-hyphales: 
+  face-externe: 
+  face-poroïde: blanche à chamois pâle, puis grise, jaunâtre à brun rougeâtre pâle
+  feutrage-basal: 
+  fragments-sporaux: 
+  glebe: 
+  gleocystides: 
+  gleocystides-hymeniales: 
+  gleocystides-subhymeniales: 
+  granules-calcaires: 
+  groupe: 
+  hymenium: 
+  hymenocystides: 
+  hymenophore: 
+  hyphes: 
+  hyphes-de-la-chair: 
+  hyphes-de-l-anneau: 
+  hyphes-du-pied: 
+  hyphes-glebales: 
+  hyphes-gleopleres: 
+  hyphes-hymeniales: 
+  hyphes-ligatives: 
+  hyphes-oleiferes: 
+  hyphes-pectinees: 
+  hyphes-primordiales: 
+  hyphes-setales: 
+  hyphes-squelettiques: 
+  hyphes-skeletoligative: 
+  hyphes-subiculaires: 
+  hyphes-thrombopleres: 
+  hyphes-tramales: 
+  hyphes-vesiculaires: 
+  hyphidies: 
+  hyphique: 
+  hypobasides: 
+  hypoderme: 
+  hypoge: 
+  hypophylle: 
+  hypothalle: 
+  hypothece: 
+  hysterothece: 
+  lames: 
+  lamprocystides: 
+  lamprocheilocystides: 
+  lampropleurocystides: 
+  lamprocaulocystides: 
+  latex: 
+  leptocystides: 
+  leptopleurocystides: 
+  macrocystides: 
+  macropleurocystides: 
+  marge: 
+  marge-et-face-externe: 
+  mediostrate: 
+  medulla: 
+  medulla-caulinaire: 
+  medulla-clavariale: 
+  medulla-clavulaire: 
+  microconidies: 
+  mode-de-croissance: solitaire, par paires ou cespiteux
+  mycelium-basal: 
+  myxocarpe: 
+  nouvelle-espece: 
+  note-taxonomique: 
+  oeuf: 
+  paracapillitium: 
+  paraphyses: 
+  parasite: 
+  paroi-peritheciale: 
+  peridiole: 
+  peridiopellis: 
+  peridium: 
+  peritheces: 
+  phenologie: de juin à octobre
+  phialoconidies: 
+  pied: 
+  pieds-steriles: 
+  pigments: 
+  pileipellis: 
+  pileitrame: 
+  pileocystides: 
+  plasmode: 
+  pleurochrysocystides: 
+  pleurocystides: 
+  poils: 
+  poils-basaux: 
+  poils-caulinaires: 
+  poils-du-cortex: 
+  poils-externes: 
+  poils-lateraux-et-caulinaires: 
+  poils-marginaux: 
+  poils-mycelien-basaux: 
+  poils-peridiaux: 
+  poils-peritheciaux: 
+  poils-pileiques: 
+  pores: ronds à anguleux, 6-9 par mm, à dissépiments entiers
+  premiere-mention: 
+  pseudocapillitium: 
+  pseudocolumelle: 
+  pseudocystides: 
+  pseudo-peridioles: 
+  publications: 
+  publications-microscopiques: 
+  reactions-chimiques-naturelles: 
+  reactions-macrochimiques: 
+  receptacle: 
+  remarques: 
+  repartition: 
+  rhizomorphes: 
+  sac-sporifere: 
+  saveur: indistincte
+  sclerocystides: 
+  sclerote: 
+  soies: 
+  soies-hymeniales: 
+  sporee: blanche
+  spherocytes: 
+  sporocystes: 
+  stipitipellis: 
+  stipititrame: 
+  stroma: 
+  subhymenium: 
+  subiculum: 
+  substrat: 
+  synonymie: |
+    Boletus lateralis Bolton, An History of Fungusses, Growing about Halifax 2:83 (1788)
+    Boletus varius Pers., Observationes mycologicae 1:85 (1796)
+    Polyporus varius (Pers.) Fr., Systema Mycologicum 1:352 (1821)
+    Grifola varia (Pers.) Gray, A natural arrangement of British plants 1:644 (1821)
+    Polyporus varius β varius (Pers.) Fr. (1821)
+    Polyporellus varius (Pers.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:37 (1879)
+    Melanopus varius (Pers.) Pat., Les Hyménomycètes d'Europe:137 (1887)
+    Polystictus varius (Pers.) G. Cunn. (1965)
+  systeme-hyphal: 
+  textura: 
+  tomentum-caulinaire: 
+  tomentum-pileique: 
+  trame-hymenophorale: 
+  trame-lamellaire: 
+  trame-tubulaire: 
+  type: 
+  typique: 
+  voile: 
+  voile-general: 
+  voile-partiel: 
+  volve: 
+  zone-perihymeniale: 
+---

@@ -88,7 +88,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, débris ligneux, sous conifères et feuillus
-  boucles: 
+  boucles: observées dans le mediostrate et dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -296,7 +296,7 @@ description:
   spherocytes: 
   sporocystes: 
   stipitipellis: 
-  stipititrame: 
+  stipititrame: parallèle, formée d'hyphes bouclées à paroi mince, hyalines
   stroma: 
   subhymenium: 
   subiculum: 

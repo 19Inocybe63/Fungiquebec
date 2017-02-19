@@ -25,7 +25,7 @@ collections:
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité, subéreux, tenace-coriace au frais, cassant et dur au sec
   bibliographies: 
-  biotopes: pousse au sol, en milieux sablonneux et exposé des forêts de conifères, souvent en milieux perturbés, rarement sur bois pourri, sous Pinus
+  biotopes: pousse au sol, en milieux sablonneux et exposé des forêts de conifères, souvent en milieux perturbés, rarement sur bois pourri, bord de sentier, sous Pinus
   boucles: 
   brachybasidioles: 
   calicule: 

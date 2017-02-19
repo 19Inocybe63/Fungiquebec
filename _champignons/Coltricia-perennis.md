@@ -1,0 +1,299 @@
+---
+nom: Coltricia perennis
+date: 2017-02-19 00:00:00
+image: https://c1.staticflickr.com/1/418/18780670846_4faaec4ac8_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/18780670846/in/photolist-tGTTF1-uBzR8L
+album-flickr:
+  - 72157680512643965
+
+details:
+  nom-francais: Polypore vivace
+  autorites: (L.) Murrill
+  ordre: Hymenochaetales
+  famille: Hymenochaetaceae
+  genre: Coltricia
+  espece: perennis
+  litterature: Murrill, W.A. 1903. A historical review of the genera of the Polyporaceae. Journal of Mycology. 9(2):87-102
+
+collections:
+  - fongarium: cKc0313
+    date: 14 juin 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
+    determinee: 
+    confirmee: 
+
+description:
+  acanthocytes: 
+  acanthophyses: 
+  aiguillons: 
+  aleurioconidies: 
+  anamorphe: 
+  anamorphe-conidien: 
+  anneau: 
+  apothecie: 
+  arete-lamellaire: 
+  arthroconidies: 
+  articles: 
+  ascome: 
+  ascospores: 
+  asques: 
+  asterohyphidies: 
+  avertissement: 
+  base-du-pied: 
+  base-sterile: 
+  base-stipitiforme: 
+  basides: 
+  basidiospores: 
+  basidioles: 
+  basidiome: annuel, piléé, stipité, subéreux, tenace-coriace au frais, cassant et dur au sec
+  bibliographies: 
+  biotopes: pousse au sol, en milieux sablonneux et exposé des forêts de conifères, souvent en milieux perturbés, rarement sur bois pourri, sous Pinus
+  boucles: 
+  brachybasidioles: 
+  calicule: 
+  capillitium: 
+  capitule: 
+  caulobasides: 
+  caulocystides: 
+  caulocystides-medianes: 
+  caulocystides-sommitales: 
+  cellules-hymeniales-diverticulees: 
+  cellules-hymeniales-en-brosses: 
+  cellules-marginales-paracystides: 
+  cellules-peritheciales: 
+  cellules-stromatiques: 
+  chair: 
+  chancre: 
+  chapeau: 15-30 (50) mm Ø, arrondi, plat à infundibuliforme ou ombiliqué, un peu ondulé, tissu épais de 0,5-2 mm, surface piléique étroitement zonée concentriquement, veloutée, jaune-brun, rouille ou gris-brun, à marge ondulée-sinueuse, parfois incisée
+  cheilochrysocystides:
+  cheilocystides: 
+  cheiloleptocystides: 
+  cheilomacrocystides: 
+  chlamydospores: 
+  chrysocystides: 
+  circumcystides: 
+  clavules: 
+  columelle: 
+  commentaires: 
+  conidies: 
+  conidiome: 
+  conidiophores: 
+  consistance: 
+  contexte: compacte, brun à brun rouille, devenant plus pâle vers la face supérieure, 1-2 mm d'épaisseur
+  cordons-myceliens: 
+  cordons-rhizomorphiques: 
+  cortex: 
+  cortex-caulinaire: 
+  cortex-du-pied-et-du-bulbe: 
+  cortex-peridial: 
+  cortex-sclerotial: 
+  cortine: 
+  couches-de-tubes: subdécurrente, brun rouille à cannelle, jusqu'à 3 mm de longueur
+  coupe-sterile: 
+  cristaux: 
+  cristaux-d-oxalate: 
+  cristaux-apicaux: 
+  cuticule: 
+  cutis: 
+  cycle: 
+  cystides: 
+  cystides-hymeniales: 
+  cystides-intermediaires: 
+  cystidioles: 
+  dendrohyphydies: 
+  depots-de-pigment-interhyphal: 
+  dermatocystides-caulocystides-et-pileipellis: 
+  derniere-correction: 
+  dicaryophyses: 
+  dichophyses: 
+  disque-basal: 
+  distribution: commune
+  elateres: 
+  elements-acanthophyses: 
+  elements-cystidioides: 
+  elements-hyphoides: 
+  elements-setoides: 
+  elements-steriles: 
+  elements-sur-les-cotes: 
+  elements-velaires: 
+  endoperidium: 
+  especes-identification: 
+  especes-semblables: 
+  excipulum: 
+  excipulum-medullaire-superieur: 
+  excipulum-medullaire-moyen: 
+  excipulum-medullaire-inferieur: 
+  excipulum-ectal: 
+  exhalaison: indistincte
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
+  exoperidium: 
+  extremites-hyphales: 
+  face-externe: 
+  face-poroïde: ± brun doré au début, cannelle à brun foncé avec l'âge
+  feutrage-basal: 
+  fragments-sporaux: 
+  glebe: 
+  gleocystides: 
+  gleocystides-hymeniales: 
+  gleocystides-subhymeniales: 
+  granules-calcaires: 
+  groupe: 
+  hymenium: 
+  hymenocystides: 
+  hymenophore: 
+  hyphes: 
+  hyphes-de-la-chair: 
+  hyphes-de-l-anneau: 
+  hyphes-du-pied: 
+  hyphes-glebales: 
+  hyphes-gleopleres: 
+  hyphes-hymeniales: 
+  hyphes-ligatives: 
+  hyphes-oleiferes: 
+  hyphes-pectinees: 
+  hyphes-primordiales: 
+  hyphes-setales: 
+  hyphes-squelettiques: 
+  hyphes-skeletoligative: 
+  hyphes-subiculaires: 
+  hyphes-thrombopleres: 
+  hyphes-tramales: 
+  hyphes-vesiculaires: 
+  hyphidies: 
+  hyphique: 
+  hypobasides: 
+  hypoderme: 
+  hypoge: 
+  hypophylle: 
+  hypothalle: 
+  hypothece: 
+  hysterothece: 
+  lames: 
+  lamprocystides: 
+  lamprocheilocystides: 
+  lampropleurocystides: 
+  lamprocaulocystides: 
+  latex: 
+  leptocystides: 
+  leptopleurocystides: 
+  macrocystides: 
+  macropleurocystides: 
+  marge: 
+  marge-et-face-externe: 
+  mediostrate: 
+  medulla: 
+  medulla-caulinaire: 
+  medulla-clavariale: 
+  medulla-clavulaire: 
+  microconidies: 
+  mode-de-croissance: solitaire ou souvent en amas confluents
+  mycelium-basal: 
+  myxocarpe: 
+  nouvelle-espece: 
+  note-taxonomique: 
+  oeuf: 
+  paracapillitium: 
+  paraphyses: 
+  parasite: 
+  paroi-peritheciale: 
+  peridiole: 
+  peridiopellis: 
+  peridium: 
+  peritheces: 
+  phenologie: 
+  phialoconidies: 
+  pied: 20-50 x 2-10 mm Ø, centré, parfois excentré, cylindrique, égal à ± aplati, souvent élargi vers la base, feutré vers la base, brun foncé à brun rouille
+  pieds-steriles: 
+  pigments: 
+  pileipellis: 
+  pileitrame: 
+  pileocystides: 
+  plasmode: 
+  pleurochrysocystides: 
+  pleurocystides: 
+  poils: 
+  poils-basaux: 
+  poils-caulinaires: 
+  poils-du-cortex: 
+  poils-externes: 
+  poils-lateraux-et-caulinaires: 
+  poils-marginaux: 
+  poils-mycelien-basaux: 
+  poils-peridiaux: 
+  poils-peritheciaux: 
+  poils-pileiques: 
+  pores: ronds-anguleux, devenant inégaux, 2-4 par mm, à dissépiments minces, parfois légèrement incisés ou dentés avec l'âge
+  premiere-mention: 
+  pseudocapillitium: 
+  pseudocolumelle: 
+  pseudocystides: 
+  pseudo-peridioles: 
+  publications: 
+  publications-microscopiques: 
+  reactions-chimiques-naturelles: 
+  reactions-macrochimiques: 
+  receptacle: 
+  remarques: 
+  repartition: 
+  rhizomorphes: 
+  sac-sporifere: 
+  saveur: douce
+  sclerocystides: 
+  sclerote: 
+  soies: 
+  soies-hymeniales: 
+  sporee: brun jaunâtre pâle
+  spherocytes: 
+  sporocystes: 
+  stipitipellis: 
+  stipititrame: 
+  stroma: 
+  subhymenium: 
+  subiculum: 
+  substrat: 
+  synonymie: |
+    Boletus perennis L., Species Plantarum:1177 (1753)
+    Suillus perennis (L.) Roussel, Flore du Calvados et terrains adjacents, composée suivant la méthode de Jussieu:34 (1796)
+    Suillus perennis (L.) Roussel:34 (1796)
+    Polyporus perennis (L.) Fr., Systema Mycologicum 1:350 (1821)
+    Coltricia connata Gray, A natural arrangement of British plants 1:644 (1821)
+    Trametes perennis (L.) Fr., Summa vegetabilium Scandinaviae 2:323 (1849)
+    Polystictus perennis (L.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:39 (1879)
+    Pelloporus perennis (L.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium (1886)
+    Ochroporus perennis (L.) J. Schröt., Krypt.-Fl. Schlesien 3(1):488 (1888)
+    Microporus perennis (L.) Kuntze, Revisio generum plantarum 3 (2):494 (1898)
+    Xanthochrous perennis (L.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:100 (1900)
+    Boletus subtomentosus Bolton, An History of Fungusses, Growing about Halifax 2:87 (1788)
+    Boletus subtomentosum Bolton (1788)
+    Boletus cyathiformis Vill., Histoire des plantes du Dauphiné 3:1040 (1789)
+    Boletus fimbriatus Roth, Catalecta botanica quibus plantae novae et minus cognitae describuntur atque illustrantur 1:240 (1797)
+    Boletus infundibulum Roth, Catalecta botanica quibus plantae novae et minus cognitae describuntur atque illustrantur 1:244 (1797)
+    Boletus leucoporus Holmsk., Beata ruris otia fungis danicis 2:57, f. 30 (1799)
+    Boletus lejeunii L. Marchand, Bijdr. natuurk. Wet.:413 (1826)
+    Boletus perfosssus L. Marchand, Bijdr. natuurk. Wet.:414 (1826)
+    Polyporus scutellatus I.G. Borshch., Reise Sibir.:144 (1856)
+    Polystictus prolifer Lloyd, Mycol. Writ.:8 (1908)
+    Polystictus decurrens Lloyd, Mycol. Writ.:12 (1908)
+    Pelloporus parvulus Lázaro Ibiza, Revta R. Acad. Cienc. exact. fis. nat. Madr.:110 (1916)
+    Polyporus parvulus Lázaro Ibiza, Revta R. Acad. Cienc. exact. fis. nat. Madr.:99 (1916)
+  systeme-hyphal: 
+  textura: 
+  tomentum-caulinaire: 
+  tomentum-pileique: 
+  trame-hymenophorale: 
+  trame-lamellaire: 
+  trame-tubulaire: 
+  type: 
+  typique: 
+  voile: 
+  voile-general: 
+  voile-partiel: 
+  volve: 
+  zone-perihymeniale: 
+---

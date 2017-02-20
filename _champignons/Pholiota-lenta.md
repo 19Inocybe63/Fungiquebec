@@ -296,7 +296,7 @@ description:
   spherocytes: 
   sporocystes: 
   stipitipellis: 
-  stipititrame: parallèle, formée d'hyphes bouclées à paroi mince, hyalines, 4,2-10,1 µm Ø
+  stipititrame: parallèle à subparallèle, formée d'hyphes bouclées à paroi mince, hyalines, 4,2-10,1 µm Ø
   stroma: 
   subhymenium: 
   subiculum: 

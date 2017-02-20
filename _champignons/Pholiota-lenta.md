@@ -1,6 +1,6 @@
 ---
 nom: Pholiota lenta
-date: 2017-02-07 00:00:00
+date: 2017-02-20 00:00:00
 image: https://c2.staticflickr.com/4/3936/15427367891_c418597eb1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15427367891/in/photolist-MBptmN-M6YVCH-LMKgni-Mi8k7S-MBKdW6-LMKbcD-pe3H4h-pvghZz-gnvVcx-gnwtCc
 album-flickr:
@@ -50,8 +50,8 @@ collections:
     date: 9 octobre 2016
     planche:
       numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c1.staticflickr.com/3/2175/32865564282_344fd8de2d_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/32865564282/in/photostream/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 

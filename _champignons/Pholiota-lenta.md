@@ -253,8 +253,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: ± nombreuses, fusiformes à sublagéniformes, avec contenu réfringent dans le KOH 5% ou dans le NH4OH 5%, parfois avec cristaux à l’apex (55,5) 57,4-73,5 (74,8) × (9,6) 9,9-13,4 (14,2) µm
-
+  pleurocystides: ± nombreuses, fusiformes à sublagéniformes, avec contenu réfringent dans le KOH 5% ou dans le NH<sub>4</sub>OH 5%, parfois avec cristaux à l’apex (55,5) 57,4-73,5 (74,8) × (9,6) 9,9-13,4 (14,2) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

@@ -248,7 +248,7 @@ description:
   pied: 30-80 (120) x 4-12 mm Ø, égal à subbulbeux, solide à spongieux, farineux blanc vers l'apex, fibrilleux et blanc vers la base, brunâtre à la base
   pieds-steriles: 
   pigments: 
-  pileipellis: en ixocutis, dans une épaisse couche gélatineuse (160-210 µm d'épaisseur en moyenne) d'hyphes étroites hyalines à jaunâtres de 1 à 3 μm Ø, avec des zones réfringentes, lisses et lâches dans la matrice gélatineuse
+  pileipellis: en ixocutis, dans une épaisse couche gélatineuse (160-210 µm d'épaisseur en moyenne) d'hyphes étroites hyalines à jaunâtres de 1 à 3 μm d'épaisseur, avec des zones réfringentes, lisses et lâches dans la matrice gélatineuse
   pileitrame: 
   pileocystides: 
   plasmode: 

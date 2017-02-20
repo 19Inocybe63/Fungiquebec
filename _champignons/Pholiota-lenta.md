@@ -106,7 +106,7 @@ description:
   chancre: 
   chapeau: 30-70 (100) mm Ø, convexe-hémisphérique à campanulé, convexe-étalé, lagre, blanchâtre à beige, parfois rosâtre-chamois ou gris fumé, le disque devient légèrement plus foncé, jaunâtre, visqueux à glutineux, parfois avec méchules blanches dispersées de restes vélaires, à marge souvent appendiculée de restes vélaires, glabrescente
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, formant presque une pallissade, fusiformes avec parfois un long pédicelle, sublagéniformes, rarement bidigitées (40,3) 58,9-70,2 (70,7) × (8,7) 10,9-11,7 (13,4) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: de Rod E. Tulloss. « I believe that in eastern North America, we should label photographs... of fungi like this as Amanita lavendula group. In recent years, Dr. Karen Hughes and others have established that we have three taxa that are very similar in overall appearance that we have been calling “Amanita citrina”. The one with a valid name is Amanita lavendula (nomenclatural synonym of Amanita mappa var. lavendula (Coker). In the group of three, this species is distinguished by its broadly ellipsoid and smaller spores. This species is treated here www.amanitaceae.org?Amanita%20lavendula. For some more information about the species and its name, you can go here www.researchgate.net/. The other two taxa have nearly identical, larger, subglobose spores. I do not yet know how to separate them morphologically. The three species are separable by genetic means at present. »
   conidies: 
   conidiome: 
   conidiophores: 

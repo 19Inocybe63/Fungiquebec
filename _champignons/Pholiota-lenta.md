@@ -49,7 +49,7 @@ collections:
   - fongarium: cKc0593
     date: 9 octobre 2016
     planche:
-      numero: 
+      numero: cKc0593-0157
       miniature: https://c1.staticflickr.com/3/2175/32865564282_f703159501_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/32865564282/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O

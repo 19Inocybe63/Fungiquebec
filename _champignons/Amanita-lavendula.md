@@ -13,7 +13,7 @@ details:
   famille: Amanitaceae
   genre: Amanita
   espece: lavendula
-  litterature: 
+  litterature: Rodham E. Tulloss, Cristina Rodríguez Caycedo, Karen W. Hughes, József Geml, Linas V. Kudzma, Benjamin E. Wolfe, and David Arora. 2015. Nomenclatural changes in Amanita. II. Amanitaceae. 1(2):1-6
 
 collections:
   - fongarium: cKc0594
@@ -257,7 +257,11 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: 
+  synonymie: |
+    Amanita mappa var. lavendula Coker, Journal of the Elisha Mitchell Scientific Society 33 (1-2):1-88 (1917)
+    Amanita citrina var. lavendula (Coker) Sartory & Maire, Compendium Hymenom., Amanita:25 (1922)
+    Amanita porphyria var. lavendula (Coker) L. Krieg., Mycologia 19 (6):309 (1927)
+    Amanita citrina f. lavendula (Coker) Veselý, Annales Mycologici 31 (4):239 (1933)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -244,7 +244,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: de pomme de terre crue, finale subraphanoïde
+  saveur: de pomme de terre crue, avec une finale subraphanoïde
   sclerocystides: 
   sclerote: 
   soies: 

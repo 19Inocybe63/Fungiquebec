@@ -96,7 +96,7 @@ description:
   chancre: 
   chapeau: 15-50 (75) mm Ø, hémisphérique à convexe puis convexe, convexe-étalé à étalé, souvent avec ombon peu élevé, large et obtus, avec marge involutée, non hygrophane, non strié translucide, visqueux lorsque humide, lisse, glabre, écailleux, ocre ou brun ocré au centre, parfois légèrement teinté d'orangé, graduellement plus pâle vers le pourtour, jaune, beige, blanchâtre-jaunâtre à presque blanc
   cheilochrysocystides:
-  cheilocystides: abondantes, fusiformes à lagéniformes, parfois avec un long pédicelle, souvent hyalines ou parfois remplies d'un pigment homogène brun-rosâtre contenu souvent à l’apex (45,9) 48,2-61,9 (65,2) × 11,4-13,8 µm en moyenne
+  cheilocystides: abondantes, fusiformes à lagéniformes, parfois avec un long pédicelle, à paroi mince jusqu'à 0,6 µm d'épaisseur, souvent hyalines ou parfois remplies d'un pigment homogène brun-rosâtre contenu souvent à l’apex (45,9) 48,2-61,9 (65,2) × 11,4-13,8 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

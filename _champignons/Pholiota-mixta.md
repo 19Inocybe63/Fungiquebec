@@ -67,7 +67,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes à piriformes, parfois avec apex tronqué, tétrastérigmates jusqu’à 3,8 µm de longueur, non blouclées à la base, à contenu granuleux, 19-21,4 (26) × 6,4-7,7 µm
   basidiospores: |
     ovoïdes vue de front, elliptiques à oblongues, rarement phaséoliformes, parfois en haricots vue de profil, lisses, à paroi mince jusqu’à 0,2 µm d’épaisseur, avec petit appendice hilaire, pore germinatif indistinct à partiellement visible, à contenu uniguttulé, hyalines à brun très pâle dans E.G. 20%, ± ochracées à fauve dans le KOH 5%, inactives dans le melzer, non cyanophiles
     (6,4) 6,7-7,8 (8,3) × (3,6) 3,61-4,2 (4,4) µm

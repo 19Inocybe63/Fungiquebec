@@ -106,8 +106,8 @@ description:
   chancre: 
   chapeau: 30-70 (100) mm Ø, convexe-hémisphérique à campanulé, convexe-étalé, lagre, blanchâtre à beige, parfois rosâtre-chamois ou gris fumé, le disque devient légèrement plus foncé, jaunâtre, visqueux à glutineux, parfois avec méchules blanches dispersées de restes vélaires, à marge souvent appendiculée de restes vélaires, glabrescente
   cheilochrysocystides:
-  cheilocystides: abondantes, formant presque une pallissade, fusiformes avec parfois un long pédicelle, sublagéniformes, rarement bidigitées, parfois avec apex subcapité (40,3) 58,9-70,2 (70,7) × (8,7) 10,9-11,7 (13,4) µm
-  cheiloleptocystides: 
+  cheilocystides: 
+  cheiloleptocystides: abondantes, formant presque une pallissade, fusiformes avec parfois un long pédicelle, sublagéniformes, rarement bidigitées, parfois avec apex subcapité (40,3) 58,9-70,2 (70,7) × (8,7) 10,9-11,7 (13,4) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -253,7 +253,8 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: ± nombreuses, fusiformes à sublagéniformes, avec contenu réfringent dans le KOH 5% ou dans le NH<sub>4</sub>OH 5%, parfois avec cristaux à l’apex (métuloïdes) (55,5) 57,4-73,5 (74,8) × (9,6) 9,9-13,4 (14,2) µm
+  pleurocystides: 
+  pleuroleptocystides: ± nombreuses, fusiformes à sublagéniformes, avec contenu réfringent dans le KOH 5% ou dans le NH<sub>4</sub>OH 5%, parfois avec cristaux à l’apex (métuloïdes) (55,5) 57,4-73,5 (74,8) × (9,6) 9,9-13,4 (14,2) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

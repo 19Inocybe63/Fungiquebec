@@ -78,7 +78,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sous conifères ou feuillus, parfois de feuillus
-  boucles: observées dans le stipitipellis
+  boucles: observées dans le stipitipellis et le médiostrate
   brachybasidioles: 
   calicule: 
   capillitium: 

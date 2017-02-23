@@ -100,7 +100,7 @@ description:
   cheiloleptocystides: abondantes, fusiformes à lagéniformes, parfois avec un long pédicelle, à paroi mince jusqu'à 0,6 µm d'épaisseur, souvent hyalines ou parfois remplies d'un pigment homogène brun-rosâtre contenu souvent à l’apex (45,9) 48,2-61,9 (65,2) × 11,4-13,8 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: pas de vraie chrysocystides
+  chrysocystides: absent ; pas de vraie chrysocystides
   circumcystides: 
   clavules: 
   columelle: 

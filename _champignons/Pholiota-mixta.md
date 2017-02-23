@@ -29,9 +29,9 @@ collections:
   - fongarium: cKc0139
     date: 8 septembre 2013
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0139-0158
+      miniature: 
+      originale: 
     geolocalisation: 46°45'28.7"N 71°19'37.0"O
     elevation: 100 m
     determinee: 

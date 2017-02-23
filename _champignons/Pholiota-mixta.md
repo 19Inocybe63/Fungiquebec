@@ -84,7 +84,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: plutôt des hyphes septées à l'apex du stipe, parfois des 
+  caulocystides: plutôt des hyphes septées à l'apex du stipe, parfois des cellules cylindriques émergentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 

@@ -236,7 +236,7 @@ description:
   pied: 30-60 x 3-8 mm Ø, égal à légèrement graduellement atténué vers la base, finement fibrilleux, blanc à blanc-jaune au-dessus de la zone annuliforme, graduellement beige pâle, jaune ocré à brun ocré vers la base, brun rouille à la base
   pieds-steriles: 
   pigments: 
-  pileipellis: en ixocutis, dans une couche gélatineuse d'hyphes étroites, hyalines à jaunâtres, lisses et lâches dans la matrice gélatineuse
+  pileipellis: formé d'un mince ixocutis d'hyphes étroits, cylindriques de 2-5 μm ; subpellis compact, composé d'hyphes cylindriques de 3-10 μm Ø, avec des parois incrustées de brun
   pileitrame: 
   pileocystides: 
   plasmode: 

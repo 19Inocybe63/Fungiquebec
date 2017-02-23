@@ -241,7 +241,8 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, légèrement plus grandes que les cheilocystides, fusiformes à lagéniformes, souvent avec un long pédicelle, souvent hyalines ou parfois remplies d'un pigment homogène brun-rosâtre contenu souvent à l’apex (54,1) 62,1-73,4 (76,8) × (10,3) 11,1-14,5 (15,5) µm en moyenne
+  pleurocystides: 
+  pleuroleptocystides: nombreuses, légèrement plus grandes que les cheilocystides, fusiformes à lagéniformes, souvent avec un long pédicelle, souvent hyalines ou parfois remplies d'un pigment homogène brun-rosâtre contenu souvent à l’apex (54,1) 62,1-73,4 (76,8) × (10,3) 11,1-14,5 (15,5) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

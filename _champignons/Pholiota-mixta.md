@@ -30,8 +30,8 @@ collections:
     date: 8 septembre 2013
     planche:
       numero: cKc0139-0158
-      miniature: 
-      originale: 
+      miniature: https://c1.staticflickr.com/3/2111/32963546301_073a136263_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/32963546301/in/dateposted/
     geolocalisation: 46°45'28.7"N 71°19'37.0"O
     elevation: 100 m
     determinee: 

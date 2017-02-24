@@ -104,7 +104,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Machiel E. Noordeloos. « Ce ne sont pas de vraie chrysocystides. »
+  commentaires: De Machiel E. Noordeloos. « Ce ne sont pas de vraies chrysocystides. »
   conidies: 
   conidiome: 
   conidiophores: 

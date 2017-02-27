@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, blanche à jaunâtre
+  chair: très mince, blanche à jaunâtre pâle, dure et cassante
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes, parfois fourchues et interveinées, avec lamellules, de texture graisseuse au sec, espacées à subespacées, blanches, crème à jaune pâle au frais, orangé pâle au sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

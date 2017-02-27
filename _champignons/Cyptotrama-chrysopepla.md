@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Mycodb. « Les squames épineuses sont caractéristiques sur les spécimens jeunes. Remarquable couleur jaune plus ou moins orange, mêlé de vermillon au disque, hérisse de squamules dressées, allure de pholiota squarrosa, mais chapeau vite plan. »
   conidies: 
   conidiome: 
   conidiophores: 

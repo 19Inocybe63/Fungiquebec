@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: très mince, blanche à jaunâtre pâle, dure et cassante
   chancre: 
-  chapeau: 
+  chapeau: 5-30 mm Ø, hémisphérique, convexe à pulviné puis étalé, sec, densément finement granuleux-squamuleux au début, plus laineux à velu avec l'âge, lisse à la fin, devenant parfois plissé, jaune brillant ou pâle à jaune orangé, parfois plus foncé au centre, à marge enroulée au début, puis droite, striée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 
+  pied: 15-50 x 2-5 mm Ø, égal à légèrement atténué ou légèrement élargi vers la base, plein, finement granuleux-floconneux à fibrilleux, écailleux surtout vers la base, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 

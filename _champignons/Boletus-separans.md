@@ -1,6 +1,6 @@
 ---
 nom: Boletus separans
-date: 2016-11-03 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c1.staticflickr.com/1/420/20356478421_2ed6c3bb97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20356478421/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA
 album-flickr:
@@ -69,7 +69,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    cylindriques à étroitement subfusiformes vue de front, cylindriques à inéquilatérales vue de profil, lisses, à paroi légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, ± à très faiblement cyanophiles
+    cylindriques à étroitement subfusiformes en vue frontale, cylindriques à inéquilatérales vues de profil, lisses, à paroi légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, très faiblement cyanophiles
     (11,7) 12,5 - 14,8 (15,1) × (4,3) 4,4 - 4,8 (5,1) µm
     Q = (2,6) 2,8 - 3,2 (3,4) ; N = 30
     Me = 13,7 × 4,6 µm ; Qe = 3
@@ -134,7 +134,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

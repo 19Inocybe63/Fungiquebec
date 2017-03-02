@@ -1,6 +1,6 @@
 ---
 nom: Atheniella adonis
-date: 2016-11-02 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c1.staticflickr.com/3/2950/15438576082_0bcaf7f0bb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15438576082/in/photolist-q6dPYf-peNjeP-pwfJNf
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes élancées, à tétrastérigmates, 20-22 x 6-7 µm
+  basides: claviformes élancées, tétrasporiques, 20-22 x 6-7 µm
   basidiospores: |
-    elliptiques à subcitriformes vue frontale, elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl iso, inactives dans le melzer
+    elliptiques à subcitriformes en vue frontale, elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer
     5,5 [6,5; 7,2] 8,1 x 3,5 [3,9; 4,1] 4,4 µm
     Q = 1,4 [1,6; 1,8] 2,1; N = 15; C = 95%
     Me = 6,8 x 4 µm; Qe = 1,7
@@ -73,7 +73,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, rosâtre puis blanchâtre
   chancre: 
-  chapeau: 6 mm Ø, conique campanulé, rouge orangé
+  chapeau: 2-6 mm Ø, conique campanulé, rouge orangé
   cheilocystides: abondantes, fusiformes à lagéniformes, souvent avec un long col, lisses, 34-60 x 8-14 µm
   cheilomacrocystides: 
   chlamydospores: 
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexée, avec de nombreuses lamellules, étroites, espacées à subespacées, blanches, roses à rougeâtre
+  lames: adnées à adnexées, avec de nombreuses lamellules, étroites, espacées à subespacées, blanches, roses à rougeâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

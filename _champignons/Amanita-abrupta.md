@@ -1,6 +1,6 @@
 ---
 nom: Amanita abrupta
-date: 2016-11-22 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c1.staticflickr.com/1/713/21329672180_4f938a431f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21329672180/in/photolist-yuQ9qC-yuQdej
 album-flickr:
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, 5-8,5 mm de largeur, plus larges vers la marge piléique, avec lamellules atténuées, serrées, blanches à crème rosé, à arêtes finement fimbriées, jaunissant légèrement avec l'âge
+  lames: libres, 5-8,5 mm de largeur, plus larges vers la marge piléique, avec lamellules atténuées, serrées, blanches à crème rosée, à arêtes finement fimbriées, jaunissant légèrement avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

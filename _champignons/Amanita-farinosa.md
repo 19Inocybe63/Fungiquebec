@@ -1,6 +1,6 @@
 ---
 nom: Amanita farinosa
-date: 2016-11-02 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9648424458/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
 album-flickr:
@@ -65,9 +65,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base, 30-33 x 8-10 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 30-33 x 8-10 µm en moyenne
   basidiospores: |
-    subglobuleuses à elliptiques vue de profil, largement elliptiques vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines avec reflet verdâtre en NaCl isotonique 0,9%, inactives dans le melzer, cyanophiles
+    largement elliptiques en vue frontale, subglobuleuses à elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     7,6 [8,2; 8,5] 9,1 x 5,9 [6,3; 6,5] 6,9 µm
     Q = 1,2 [1,3] 1,4; N = 30; C = 95%
     Me = 8,3 x 6,4 µm; Qe = 1,3

@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes élancées, tétrastérigmates, non bouclées à la base, à contenu vacuolaire, 31-45 x 8-10 μm
+  basides: claviformes élancées, tétrasporiques, non bouclées à la base, à contenu vacuolaire, 31-45 x 8-10 μm
   basidiospores: |
-    subglobuleuses à largement elliptiques vue de profil, et subelliptiques vue frontale, lisses, à paroi mince 0,1-0,2 μm, avec appendice hilaire, à contenu uniguttulé à granulations, hyalines dans le NaCl isotonique 0,9%, amyloïdes, cyanophiles
+    subelliptiques en vue frontale à subglobuleuses à largement elliptiques vues de profil, lisses, à paroi mince 0,1-0,2 μm, avec appendice hilaire, à contenu uniguttulé à granulations, hyalines dans le NaCl isotonique 0,9%, amyloïdes, cyanophiles
     8,3 [9; 9,4] 10,2 x 6 [6,8; 7,1] 7,9 µm
     Q = 1,2 [1,3; 1,4] 1,5; N = 28; C = 95%
     Me = 9,2 x 7 µm; Qe = 1,3
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à libre, blanche, parfois avec légère décoloration rougeâtre, lamellules nombreuses
+  lames: adnées à libres, blanches, parfois avec légère décoloration rougeâtre, lamellules nombreuses
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

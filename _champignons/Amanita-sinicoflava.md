@@ -1,6 +1,6 @@
 ---
 nom: Amanita sinicoflava
-date: 2016-12-02 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c2.staticflickr.com/4/3859/15083082127_e0523fc7f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15083082127/in/photolist-pntRkJ-oYQJQ8-pgjSSr
 album-flickr:
@@ -83,7 +83,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 30-80 mm Ø, ovoïde, conique-arrondi puid étalé-mamelonné, jaune olive, jaune paille ou olive brunâtre, parfois plus foncé au centre et dans la zone antémarginale, dépourvu de restes vélaires, à marge longuement sillonnée
+  chapeau: 30-80 mm Ø, ovoïde, conique-arrondi puis étalé-mamelonné, jaune olive, jaune paille ou olive brunâtre, parfois plus foncé au centre et dans la zone antémarginale, dépourvu de restes vélaires, à marge longuement sillonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -125,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -186,7 +186,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: blanchâtre ou grisâtres
+  lames: blanchâtres à ± grisâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

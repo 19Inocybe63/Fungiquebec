@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8104/8631542113_1917e45b33_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8631542113/in/photolist-e9JUKB-dbEiDG
     geolocalisation: 46°57'01.25"N 71°17'51.46"O
-    altitude: 412 m
+    elevation: 222 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Walt Sturgeon
 

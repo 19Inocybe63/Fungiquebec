@@ -158,7 +158,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: désagréable et bien que distinctif, difficile à définir
+  exhalaison: désagréable et bien que distinctive, difficile à définir
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -271,7 +271,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: désagréable et bien que distinctif, difficile à définir
+  saveur: désagréable et bien que distinctive, difficile à définir
   sclerocystides: 
   sclerote: 
   soies: 

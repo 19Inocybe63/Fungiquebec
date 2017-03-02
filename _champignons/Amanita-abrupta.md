@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, 5-8,5 mm de largeur, plus larges vers la marge piléique, avec lamellules atténuées, serrées, blanches à crème rosée, à arêtes finement fimbriées, jaunissant légèrement avec l'âge
+  lames: libres, 5-8,5 mm de largeur, plus larges vers la marge piléique, avec lamellules atténuées, serrées, blanches à crème rosé, à arêtes finement fimbriées, jaunissant légèrement avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

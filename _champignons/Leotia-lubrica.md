@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°57'05.82"N 71°17'45.00"O
-    elevation: 537 m
+    elevation: 225 m
     determinee: 
     confirmee: Roland Labbé
   - fongarium: cKc0249

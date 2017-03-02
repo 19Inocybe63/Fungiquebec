@@ -57,7 +57,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subutriformes, tétrastérigmates, non bouclées à la base, 33,4 - 36,5 × 9,7 - 11 µm
+  basides: claviformes à subutriformes, tétrasporqiues, non bouclées à la base, 33,4 - 36,5 × 9,7 - 11 µm
   basidiospores: |
     subfusiformes à fusiformes en vue frontale, cylindriques à légèrement inéquilatérales vues de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     (13,4) 13,8 - 15,8 (16,9) × (4,3) 4,4 - 5 (6) µm

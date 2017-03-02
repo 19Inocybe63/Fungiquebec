@@ -1,6 +1,6 @@
 ---
 nom: Xeromphalina kauffmanii
-date: 2016-11-03 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c1.staticflickr.com/1/758/21351416242_15fbc668f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21351416242/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: clavées, tétrastérigmates, à paroi mince, 21-25 x 4-5 µm
+  basides: claviformes, tétrasporiques, à paroi mince, 21-25 x 4-5 µm
   basidiospores: |
-    elliptiques vue de front, elliptiques à oblongues vue de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu homogène, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes dans le melzer, fortement cyanophiles
+    elliptiques en vue frontale, elliptiques à oblongues vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu homogène, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes dans le melzer, fortement cyanophiles
     (4,5) 4,9-6 (7) x (2,7) 2,9-3,4 (3,9) µm
     Q = (1,5) 1,6-1,9 (2,1); N = 30
     Me = 5,5 x 3,1 µm; Qe = 1,8
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle à commune
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

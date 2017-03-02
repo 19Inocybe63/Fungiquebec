@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8237/8492882069_100cdc0535_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8492882069/in/photolist-dWueXc-dbDukK-dbDwGq
     geolocalisation: 46°57'01.25"N 71°17'51.46"O
-    altitude: 412 m
+    elevation: 222 m
     determinee: Geoffrey Kibby (provisoire)
     confirmee: 
 

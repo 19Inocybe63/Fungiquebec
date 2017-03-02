@@ -59,7 +59,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    globuleuses à subglobuleuses, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, inactive dans le melzer, cyanophiles
+    globuleuses à subglobuleuses, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     9,3 [11; 11,7] 13,4 x 8,7 [10,3; 11] 12,6 µm
     Q =  [1; 1,1] 1,2; N = 30; C = 95%
     Me = 11,3 x 10,7 µm; Qe = 1,1

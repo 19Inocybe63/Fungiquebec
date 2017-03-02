@@ -79,7 +79,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrastérigmates, bouclées à la base, 25-31 x 6,8-8 µm en moyenne
   basidiospores: |
-    elliptiques à presque subamygdaliformes vue de profil, à ovoïdes vue frontale, lisses, à paroi mince à légèrement épaissie 0,2 x 0,3 µm, avec appendice hilaire et pore germinatif tronqué, à contenu homogène, brunâtres dans le NaCl, ferrugineuses dans le KOH 5%, inactives dans le melzer, non cyanophiles
+    ovoïdes en vue de front, elliptiques à presque subamygdaliformes vues de profil, lisses, à paroi mince à légèrement épaissie 0,2 x 0,3 µm, avec appendice hilaire et pore germinatif tronqué, à contenu homogène, brunâtres dans le NaCl iso 0,9%, ferrugineuses dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     7,3 [8; 8,3] 9 x 4,8 [5,1; 5,3] 5,6 µm
     Q = 1,5 [1,54; 1,6] 1,7; N = 27; C = 95%
     Me = 8,1 x 5,2 µm; Qe = 1,6
@@ -103,7 +103,7 @@ description:
   cellules-stromatiques: 
   chair: moyennement épaisse à épaisse en son centre, blanchâtre à crème
   chancre: 
-  chapeau: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plisser finement dans un petit rayon concentrique à la marge
+  chapeau: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plissé finement dans un petit rayon concentrique à la marge
   cheilocystides: nombreuses, ventrues avec col absent et/ou avec col allongé 46-54 x 22-26 µm en moyenne, fusiformes-ventrues 55-70 x 23-24 µm en moyenne, claviformes, rares utriformes au sens de Romagnesi, à paroi mince, lisses, hyalines
   cheilomacrocystides: 
   chlamydospores: 
@@ -204,7 +204,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées à échancrées, sublarges à larges, serrées, lamellules, beige à crème, arête rouille et très finement érodées
+  lames: sinuées à échancrées, sublarges à larges, serrées et très finement érodées ; lamellules, beige à crème ; arête rouille 
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -237,7 +237,7 @@ description:
   peritheces: 
   phenologie: de mai à juillet
   phialoconidies: 
-  pied: 14-68 x 3-12 mm Ø, légèrement aplatit, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strillé longitudinalement, crème à brun, brun pâle à la base, bulbe plein et plutôt blanchâtre, à crème, mycélium basal
+  pied: 14-68 x 3-12 mm Ø, légèrement aplati, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strié longitudinalement, crème à brun, brun pâle à la base ; bulbe plein et plutôt blanchâtre, à crème ; mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme à ixohyménoderme
@@ -270,8 +270,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    NH<SUB>4</SUB>OH 10% = absences
+  reactions-macrochimiques: aucune connue
   receptacle: 
   remarques: 
   repartition: 

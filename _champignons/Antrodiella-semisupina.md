@@ -1,6 +1,6 @@
 ---
 nom: Antrodiella semisupina
-date: 2017-01-15 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c2.staticflickr.com/6/5564/14658395437_928c323f9a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14658395437/in/photolist-okj7gP
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

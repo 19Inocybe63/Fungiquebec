@@ -1,6 +1,6 @@
 ---
 nom: Bisporella citrina
-date: 2016-11-02 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15397943256/in/photolist-oTnnJF-psEu5h
 album-flickr:
@@ -41,7 +41,7 @@ description:
   articles: 
   ascome: 
   ascospores: |
-    cylindriques, fusiformes à subbacilliformes, lisses, à paroi mince, n’ayant aucun septa, l’appendice hilaire non visible, à contenu variable, verdâtres dans le NaCl isotonique 0,9%, inactives dans le melzer, cyanophiles
+    cylindriques, fusiformes à subbacilliformes, lisses, à paroi mince, n’ayant aucun septa, l’appendice hilaire non visible, à contenu variable, verdâtres dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, cyanophiles
     7,4 [8,8; 9,4] 10,7 x 2,7 [3,1; 3,2] 3,5 µm
     Q = 2,3 [2,8; 3] 3,5; N = 30; C = 95%
     Me = 9,1 x 3,1 µm; Qe = 2,9
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

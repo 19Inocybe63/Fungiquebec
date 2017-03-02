@@ -1,6 +1,6 @@
 ---
 nom: Chlorociboria aeruginascens
-date: 2016-11-17 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c1.staticflickr.com/9/8231/29832790142_9e39b52477_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832790142/in/photolist-MsdR9J-MzfAsC
 album-flickr:
@@ -41,7 +41,7 @@ description:
   articles: 
   ascome: 
   ascospores: |
-    cylindriques à irrégulièrement fusiformes, parfois légèrement arquées, lisses, à paroi mince, non septées, à contenu biguttulé à variable, hyalines dans E.G. 20%, inactives dans le melzer, partiellement cyanophiles à cyanophiles
+    cylindriques à irrégulièrement fusiformes, parfois légèrement arquées, lisses, à paroi mince, non septées, à contenu biguttulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, partiellement cyanophiles à cyanophiles
     (9,5) 10,3 - 13,4 (15) × (2,1) 2,3 - 3,2 (3,3) µm
     Q = (3,5) 3,6 - 4,7 (4,9) ; N = 30
     Me = 11,7 × 2,8 µm ; Qe = 4,2
@@ -116,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

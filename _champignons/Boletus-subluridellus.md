@@ -1,6 +1,6 @@
 ---
 nom: Boletus subluridellus
-date: 2016-11-02 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19726150815/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
 album-flickr:
@@ -59,7 +59,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à subutriformes, tétrastérigmates, non bouclées à la base, 33,4 - 36,5 × 9,7 - 11 µm
   basidiospores: |
-    subfusiformes à fusiformes vue de front, cylindriques à légèrement inéquilatérales vue de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso, dextrinoïdes, non cyanophiles
+    subfusiformes à fusiformes en vue frontale, cylindriques à légèrement inéquilatérales vues de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     (13,4) 13,8 - 15,8 (16,9) × (4,3) 4,4 - 5 (6) µm
     Q = (2,8) 3 - 3,3 (3,5) ; N = 30
     Me = 14,6 × 4,6 µm ; Qe = 3,1
@@ -84,7 +84,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 50-100 mm Ø, large, convexe à contour irrégulier, devenant globalement convexe, avec  une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuses, également vermillon rouge à baie, ou à des moments orange, violette instantanément sombre au touché, la surface souvent grêlé
+  chapeau: 50-100 mm Ø, large, convexe à contour irrégulier, devenant globalement convexe, avec une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuses, également vermillon rouge à baie, ou à des moments orange, violette instantanément sombre au touché, la surface souvent grêlé
   cheilocystides: abondantes, polymorphes, parfois saillantes, cylindriques, fusiformes simples à fusiformes à long col, lagéniformes, flexueuses, dont l’apex de plusieurs est biseauté 21,6 [34; 51] 63,5 x 3,7 [5,8; 8,7] 10,7 µm
   cheilomacrocystides: 
   chlamydospores: 

@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2016-12-17 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, en palissade, tétrastérigmates 2,4-3,7 µm de longueur, non bouclées à la base, 14,4 - 20 × 3,7 - 4,3 µm en moyenne
+  basides: claviformes, en palissade, tétrasporiques 2,4-3,7 µm de longueur, non bouclées à la base, 14,4 - 20 × 3,7 - 4,3 µm en moyenne
   basidiospores: |
-    courtement elliptiques à subovoïdales vue de front, à elliptiques-ovoïdales vue de profil, finement verruqueuses (criblé), à paroi mince, appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes, partiellement cyanophiles à cyanophiles
+    courtement elliptiques à subovoïdales en vue frontale, à elliptiques-ovoïdales vues de profil, finement verruqueuses (criblé), à paroi mince, appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes dans le melzer, partiellement cyanophiles à cyanophiles
     (3,7) 4 - 4,6 (5) × (2,5) 2,55 - 2,9 (3) µm
     Q = (1,4) 1,5 - 1,7 (1,9) ; N = 30
     Me = 4,3 × 2,7 µm ; Qe = 1,6
@@ -116,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

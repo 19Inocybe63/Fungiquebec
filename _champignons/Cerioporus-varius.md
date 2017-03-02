@@ -1,6 +1,6 @@
 ---
 nom: Cerioporus varius
-date: 2017-02-17 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c2.staticflickr.com/8/7324/28090576492_0e3d9edeaa_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28090576492/in/photolist-JUr2Z9-JNgxJm
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

@@ -1,6 +1,6 @@
 ---
 nom: Cerrena unicolor
-date: 2016-11-23 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c2.staticflickr.com/4/3876/14783725081_686bf42dfe_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14783725081/in/photolist-ofb36w-ofb1ZJ-owCLCw-owospK
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

@@ -1,6 +1,6 @@
 ---
 nom: Amanita virosa
-date: 2016-11-16 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c1.staticflickr.com/1/678/20665354231_ac839dd947_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665354231/in/photolist-xu8kQT-xtwWYn
 album-flickr:
@@ -141,7 +141,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -300,7 +300,7 @@ description:
   typique: 
   voile: 
   voile-general: membraneux, blanc, laissant une volve à la base du pied
-  voile-partiel: 44 mm de hauteur, membraneux, blanc, laissant un anneau parfois fugace dans le haut du pied et parfois des lambeaux au pourtour du chapeau
+  voile-partiel: jusqu'à 44 mm de hauteur, membraneux, blanc, laissant un anneau parfois fugace dans le haut du pied et parfois des lambeaux au pourtour du chapeau
   volve: blanche
   zone-perihymeniale: 
 ---

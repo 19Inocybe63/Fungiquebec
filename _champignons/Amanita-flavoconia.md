@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libre à adnées, avec nombreuses lamellules, blanches, parfois jaunes à l'arête
+  lames: libres à adnées, avec nombreuses lamellules, blanches, parfois jaunes à l'arête
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

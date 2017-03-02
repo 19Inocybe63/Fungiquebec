@@ -67,9 +67,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes tétrastérigmates non bouclées à la base 23,6 [26,9; 30,2] 33,5 x 7,5 [8,3; 9,1] 9,9 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 23,6 [26,9; 30,2] 33,5 x 7,5 [8,3; 9,1] 9,9 µm en moyenne
   basidiospores: |
-    ovoïdes, parfois subhexagonales vue frontale à elliptiques vue de profil, tronquées, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire et un petit pore germinatif, à contenu homogène dans le NaCl, mais uniguttulé dans le melzer, brun à brun pâle dans le NaCl, non cyanophiles
+    ovoïdes, parfois subhexagonales en vue frontale à elliptiques vues de profil, tronquées, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire et un petit pore germinatif, à contenu homogène dans le NaCl iso 0,9%, mais uniguttulé dans le melzer, brun à brun pâle dans le NaCl, non cyanophiles
     8,8 [9,7; 10,1] 11 x 5,2 [5,7; 5,9] 6,4 µm
     Q = 1,6 [1,7] 1,8; N = 30; C = 95%
     Me = 9,9 x 5,8 µm; Qe = 1,7
@@ -93,8 +93,8 @@ description:
   cellules-stromatiques: 
   chair: mince, blanche
   chancre: 
-  chapeau: 30-70 (100) mm Ø, obtus à convexe puis largement convexe à étalé, souvent légèrement omboné, sec à humide, lisse à souvent plissé au centre, hygrophane, brun foncé, jaune ocre, cannelle jaunâtre à jaune-brun foncé au début, puis beige brunâtre, tan jaunâtre à tan avec l'âge, chamois pâle au sec, à marge unie, opaque, souvent appendiculée de restes vélaires
-  cheilocystides: semblable aux pleurocystides, mais plus petites 43,3 [46; 53,4] 56,1 x 17,6 [18,8; 22] 23,2 µm en moyenne
+  chapeau: 30-70 (100) mm Ø, obtus à convexe puis largement convexe à étalé, souvent légèrement umboné, sec à humide, lisse à souvent plissé au centre, hygrophane, brun foncé, jaune ocre, cannelle jaunâtre à jaune-brun foncé au début, puis beige brunâtre, tan jaunâtre à tan avec l'âge, chamois pâle au sec, à marge unie, opaque, souvent appendiculée de restes vélaires
+  cheilocystides: semblables aux pleurocystides, mais plus petites 43,3 [46; 53,4] 56,1 x 17,6 [18,8; 22] 23,2 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

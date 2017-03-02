@@ -1,6 +1,6 @@
 ---
 nom: Kretzschmaria deusta
-date: 2016-11-02 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c1.staticflickr.com/1/439/18809605881_84a527218e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18809605881/in/photolist-unstDz-unjxuY-cfNfNb-uE99vF
 album-flickr:
@@ -119,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

@@ -201,7 +201,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 10-50 x 1-2 mm Ø, égal, finement poudreux à pubescent, blanchâtre à brunâtre, avec rhizomorphes basals distincts
+  pied: 10-50 x 1-2 mm Ø, égal, finement poudreux à pubescent, blanchâtre à brunâtre, avec rhizomorphes basaux distincts
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis mince, formé d'éléments cylindriques bouclés, 4-14 µm Ø, et d'un subpellis subcellulaire

@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/6/5684/31218707835_7d444d5f9a_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/31218707835/in/dateposted/
     geolocalisation: 
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

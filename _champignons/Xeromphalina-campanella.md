@@ -1,6 +1,6 @@
 ---
 nom: Xeromphalina campanella
-date: 2016-11-03 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c1.staticflickr.com/9/8379/8613638912_3aa70ccb99_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8613638912/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
 album-flickr:
@@ -50,9 +50,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: clavées, tétrastérigmates, à paroi mince, 17-28 X 3.5-5.5 µm
+  basides: claviformes, tétrasporiques, à paroi mince, 17-28 X 3.5-5.5 µm
   basidiospores: |
-    elliptiques vue de front, elliptiques à oblongues vue de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu homogène, hyalines dans le NaCl iso, faiblement amyloïdes dans le melzer, fortement cyanophiles
+    elliptiques en vue frontale, elliptiques à oblongues vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu homogène, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes dans le melzer, fortement cyanophiles
     (5,6) 5,8-7 (7,2) x (3,3) 3,4-3,9 (4,1) µm
     Q = (1,6) 1,65-1,9 (2); N = 30
     Me = 6,5 x 3,7 µm; Qe = 1,8
@@ -116,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

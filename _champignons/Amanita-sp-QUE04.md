@@ -1,6 +1,6 @@
 ---
 nom: Amanita sp-QUE04
-date: 2016-11-02 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c2.staticflickr.com/6/5582/14981967220_f12992b12a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981967220/in/photolist-p5H4RU-oPUuTE-p5o6dE
 album-flickr:
@@ -48,7 +48,7 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: globuleuses, inactives dans le melzer
+  basidiospores: globuleuses, pas de réaction dans le melzer
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -109,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: inconnue
+  distribution: inconnu
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

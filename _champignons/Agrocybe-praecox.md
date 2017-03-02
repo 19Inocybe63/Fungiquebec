@@ -77,7 +77,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, bouclées à la base, 25-31 x 6,8-8 µm en moyenne
+  basides: claviformes, tétrasporiques, bouclées à la base, 25-31 x 6,8-8 µm en moyenne
   basidiospores: |
     ovoïdes en vue frontale, elliptiques à presque subamygdaliformes vues de profil, lisses, à paroi mince à légèrement épaissie 0,2 x 0,3 µm, avec appendice hilaire et pore germinatif tronqué, à contenu homogène, brunâtres dans le NaCl iso 0,9%, ferrugineuses dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     7,3 [8; 8,3] 9 x 4,8 [5,1; 5,3] 5,6 µm

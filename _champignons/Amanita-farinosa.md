@@ -131,7 +131,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -189,7 +189,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres à adnexées, avec lamellules tronquées, serrées, blanchâtres à grisâtre
+  lames: libres à adnées, avec lamellules tronquées, serrées, blanchâtres à grisâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +206,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: seul, dispersés ou grégaire
+  mode-de-croissance: seul, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -222,7 +222,7 @@ description:
   peritheces: 
   phenologie: début du printemps à fin de l'automne
   phialoconidies: 
-  pied: 30-90 x 3-10 mm Ø, cylindrique plus ou moins égale, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
+  pied: 30-90 x 3-10 mm Ø, cylindrique à ± égal, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis et parfois en ixocutis, formé d’hyphes de 2-8 µm Ø
@@ -257,7 +257,7 @@ description:
   receptacle: 
   references: 
   remarques: |
-    C'est la première fois que je vois un groupe aussi nombreux de cette espèce. Habituellement, on la voit en petit groupe de trois à huit spécimens, mais pas en groupe de vingt et plus. Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
+    C'est la première fois que je vois un groupe aussi fourni de cette espèce. Habituellement, on la voit en petits groupes de trois à huit spécimens, mais pas en groupe de vingt et plus. Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
   rhizomorphes: 
   sac-sporifere: 
   saveur: indistincte
@@ -290,7 +290,7 @@ description:
   typique: 
   voile: 
   voile-general: friable, gris-brun, laissant une couche poudreuse sur le chapeau
-  voile-partiel: constitué d’hyphes filamenteux et des cellules sphérocytes
+  voile-partiel: constitué d’hyphes filamenteuses et de sphérocytes (cellules arrondies)
   volve: 
   zone-perihymeniale: 
 ---

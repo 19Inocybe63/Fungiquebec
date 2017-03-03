@@ -1,6 +1,6 @@
 ---
 nom: Entoloma violaceum
-date: 2016-11-10 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/4/3877/14967804121_d118d38839_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14967804121/in/photolist-qhmCJe-owGghB-oNDUGi
 album-flickr:
@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    hétérodiamétriques entre 5-7 angles, mais à prédominance de 6 angles, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, verdâtres dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    hétérodiamétriques entre 5-7 angles, mais à prédominance de 6 angles, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     7,7 [8,8; 9,3] 10,4 x 5,8 [6,4; 6,7] 7,3 µm
     Q = 1,2 [1,3; 1,4] 1,5; N = 30; C = 95%
     Me = 9 x 6,5 µm; Qe = 1,4
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: émarginées à sinuées, légèrement lilas au début, devenant rose à maturité, arête souvent dentelés et blanchâtres, fimbriées
+  lames: émarginées à sinuées, légèrement lilas au début, devenant roses à maturité, arêtes souvent dentelées et blanchâtres, fimbriées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

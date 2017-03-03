@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius flexipes var. flabellus
-date: 2016-12-09 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/9/8549/30168238602_c1ee598a97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30168238602/in/photolist-MXS7hS-MboHve-MboCkz-LCbgH9-MsfcAn-MwvDPL
 album-flickr:
@@ -59,7 +59,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    elliptiques à légèrement subovoïdales vue de front, elliptiques à largement elliptiques vue de profil, verruqueuses,  à paroi mince, avec appendice hilaire visible, pore germinatif non observé, à contenu uniguttulé à variable, brun pâle dans E.G. 20%, dextrinoïdes, non cyanophyles
+    elliptiques à légèrement subovoïdales en vue frontale, elliptiques à largement elliptiques vues de profil, verruqueuses, à paroi mince, avec appendice hilaire visible, pore germinatif non observé, à contenu uniguttulé à variable, brun pâle dans E.G. 20%, dextrinoïdes, non cyanophyles
     (7,5) 8,3 - 9,3 (9,5) × (4,9) 5,1 - 5,6 (5,8) µm
     Q = (1,5) 1,6 - 1,7 (1,8) ; N = 30
     Me = 8,7 × 5,4 µm ; Qe = 1,6
@@ -95,7 +95,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De cKc. « D'après ce qui est écrit dans les descriptions de cette espèce, son odeur est caractérisée par le pélargonium (géranium). Pour ma part, je connais très peu l'odeur du géranium, mais je connais très bien celle des betteraves, et l'odeur qui exhale de cette collection est celle de la betterave. »
+    De Claude Kaufholtz-Couture. « D'après ce qui est écrit dans les descriptions de cette espèce, son odeur est caractérisée par le pélargonium (géranium). Pour ma part, je connais très peu l'odeur du géranium, mais je connais très bien celle des betteraves, et l'odeur qui exhale de cette collection est celle de la betterave. »
     De Roger Boyer. « La variété flabellus se distingue de la variété flexipes par l'absence souvent complète de colorations violacées, un chapeau orné de fibrilles plutôt que de squamules, parfois même presque glabre sauf à la marge, et des spores un peu plus larges. »
   conidies: 
   conidiome: 
@@ -128,7 +128,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -189,7 +189,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées, sinuées à subdécurrentes, serrées, présence parfois de furcation, lamelles et lamellules
+  lames: échancrées, sinuées à subdécurrentes, serrées, présence parfois de furcation, avec lamelles et lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

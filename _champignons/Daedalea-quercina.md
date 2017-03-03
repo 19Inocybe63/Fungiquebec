@@ -1,6 +1,6 @@
 ---
 nom: Daedalea quercina
-date: 2016-11-02 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/4/3930/15461315042_c12164c798_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461315042/in/photolist-pK1eva-pyghih-pwfJKU
 album-flickr:
@@ -59,7 +59,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    cylindriques à amygdaliformes vue de profil, elliptiques vue frontal, lisses, à paroi mince, avec appendice hilaire très petit, à contenu de petites granulations à homogènes, hyalines dans le NaCl isotonique 0,9%, inactive dans le melzer, cyanophiles, orthochromatiques
+    elliptiques en vue frontale, cylindriques à amygdaliformes vues de profil, lisses, à paroi mince, avec appendice hilaire très petit, à contenu de petites granulations à homogènes, hyalines dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, cyanophiles, orthochromatiques
     4,4 [5,2; 5,5] 6,4 x 2,4 [2,9; 3,2] 3,7 µm
     Q = 1,5 [1,7; 1,8] 2; N = 30; C = 95%
     Me = 5,4 x 3 µm; Qe = 1,8
@@ -123,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionelle
+  distribution: occasionel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

@@ -1,6 +1,6 @@
 ---
 nom: Conocybe apala
-date: 2017-02-18 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/1/556/20294391061_b3d85acf00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20294391061/in/photolist-wVm4qa-wCkeW2
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres à adnexées, étroites, subventrues, très serrées, blanchâtres à crème au début, déliquescentes à la fin, jaune-brun à brun orangé, brun rouille à brun cannelle à la fin, à arêtes floconneuses, blanches
+  lames: libres à adnexées, étroites, subventrues, très serrées, blanchâtres à crème au début, déliquescentes à la fin, jaune-brun à brun orangé, brun rouille à brun cannelle à la fin, à arêtes floconneuses blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

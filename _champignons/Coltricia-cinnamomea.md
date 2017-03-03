@@ -1,6 +1,6 @@
 ---
 nom: Coltricia cinnamomea
-date: 2017-01-27 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/1/320/19728812658_fe09f8de71_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19728812658/in/photolist-vp7x2F-vp7BKt-w4nCVS-voYd5E-w4njEo
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: largement répandu en régions chaudes, au travers les forêts de l'est et de l'ouest des États-Unis et du Canada, rare en Europe
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

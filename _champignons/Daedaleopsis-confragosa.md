@@ -1,6 +1,6 @@
 ---
 nom: Daedaleopsis confragosa
-date: 2016-11-02 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/1/729/21681354819_68688b6f57_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21681354819/in/photolist-z2UBqp-zkgMqH-zh7uJN
 album-flickr:
@@ -109,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

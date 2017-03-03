@@ -1,6 +1,6 @@
 ---
 nom: Delicatula integrella
-date: 2016-11-02 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/6/5584/14981972960_cd66ec9e93_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981972960/in/photolist-oPUwAC
 album-flickr:
@@ -109,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -170,7 +170,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: réduites à des veines ou des plis émarginés à subdécurrents, en partie fourchus, anastomosés, espacés, blancs, à arêtes entières
+  lames: réduites à des veines ou des plis émarginés à subdécurrents, en partie fourchues, anastomosées, espacées, blanches, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

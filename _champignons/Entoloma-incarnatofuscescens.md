@@ -1,6 +1,6 @@
 ---
 nom: Entoloma cf. incarnatofuscescens
-date: 2016-11-02 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/8/7260/7808924042_8d013e0dc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7808924042/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement clavées, 2-4 stérigmates, non bouclées à la base
+  basides: piriformes à largement clavées, bisporiques à tétrasporiques, non bouclées à la base
   basidiospores: |
-    isodiamétriques à 5-6 côtés, à contenu uniguttulé à pluriguttulé, hyalines
+    isodiamétriques à 5-6 côtés, à contenu uniguttulé à pluriguttulé, hyalines dans le NaCl iso 0,9%
     7,7 [8,3; 8,7] 9,4 x 6,2 [6,8; 7,2] 7,9 µm
     Q = 1,1 [1,2; 1,3] 1,4; N = 21; C = 95%
     Me = 8,5 x 7 µm; Qe = 1,2
@@ -175,7 +175,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: décurrentes, espacées, avec lamellules, blanches, à arêtes concolore
+  lames: décurrentes, espacées, avec lamellules, blanches, à arêtes concolores
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

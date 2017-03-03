@@ -210,7 +210,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: septembre
+  phenologie: de août à octobre
   phialoconidies: 
   pied: 40-100 x 3-7 mm Ø, égal, souvent courbé ou flexueux à la base, acuminé, raide, souvent creux, revêtu de fibrilles claires, brun, habituellement violet au sommet, brun foncé avec une nuance orangée à la base. Coton mycélien parfois violet. Voile blanc ou un peu ochracé, copieux, laissant des flocons manifestes surmontés d'un anneau
   pieds-steriles: 

@@ -1,6 +1,6 @@
 ---
 nom: Clavaria zollingeri
-date: 2016-12-18 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/4/3820/9342634870_f7bdf1a814_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9342634870/in/photolist-fezrRy
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

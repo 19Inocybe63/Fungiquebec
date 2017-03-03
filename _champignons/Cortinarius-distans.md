@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées, larges, espacées concolore au chapeau
+  lames: sinuées, larges, espacées, concolore au chapeau
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

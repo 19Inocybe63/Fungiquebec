@@ -1,6 +1,6 @@
 ---
 nom: Coprinus comatus
-date: 2017-02-03 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/9/8463/8122208811_c0a46004cc_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8122208811/in/photolist-dnJrGX
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

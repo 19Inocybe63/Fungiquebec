@@ -1,6 +1,6 @@
 ---
 nom: Entoloma conicum
-date: 2016-11-02 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/6/5575/14701084889_7123cd3564_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14701084889/in/photolist-op5SWB-op5UmR-qfrG8V
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base, 26,2 [32,1; 39,3] 45,2 x 8,1 [8,6; 9,2] 9,7 µm
+  basides: claviformes, tétrasporiques, non bouclées à la base, 26,2 [32,1; 39,3] 45,2 x 8,1 [8,6; 9,2] 9,7 µm
   basidiospores: |
-    hétérodiamétriques à prédominance de 5 angles rarement 6 angles, à très rarement cubique à subcubiques, lisses, à paroi mince, avec appendice hilaire, à contenu dominant uniguttulé à occasionnellement biguttulé, hyalines à verdâtres dans le NaCl iso, inactives dans le melzer, non cyanophiles
+    hétérodiamétriques à prédominance de 5 angles rarement 6 angles, à très rarement cubique à subcubiques, lisses, à paroi mince, avec appendice hilaire, à contenu dominant uniguttulé à occasionnellement biguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     7,7 [8,7; 9,1] 10,1 x 5,6 [6,5; 6,9] 7,7 µm
     Q = 1,1 [1,3; 1,4] 1,5; N = 30; C = 95%
     Me = 8,9 x 6,7 µm; Qe = 1,3
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

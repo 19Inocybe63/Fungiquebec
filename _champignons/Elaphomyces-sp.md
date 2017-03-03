@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces sp. nov. not
-date: 2016-12-31 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 album-flickr:
@@ -65,7 +65,7 @@ description:
     18,1 [21,6; 24,9] 28,4 x 17,7 [21,3; 24,7] 28,3 µm
     Q = 1 [1,0] 1; N = 10; C = 95%
     Me = 23,2 x 23 µm; Qe = 1
-  asques: globuleuses, contenant en moyenne (5) 6 à 7 spores globuleuses, 51,6 [61,6; 71] 81,1 x 40,5 [46,7; 52,5] 58,8 µm
+  asques: globuleuses, contenant en moyenne (5) 6 à 7 ascospores globuleuses, 51,6 [61,6; 71] 81,1 x 40,5 [46,7; 52,5] 58,8 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -137,7 +137,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: semble commune dans l'Est du Québec
+  distribution: semble commun dans l'Est du Québec
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

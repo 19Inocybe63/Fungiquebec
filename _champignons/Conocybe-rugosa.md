@@ -1,6 +1,6 @@
 ---
 nom: Conocybe rugosa
-date: 2017-01-09 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/9/8662/29878980946_7e40363052_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29878980946
 album-flickr:
@@ -133,7 +133,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -195,7 +195,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, ventrues, serrées, crème à ochracées puis brun ocre à brun rouille, à arêtes denticulées, blanchâtres
+  lames: adnexées, ventrues, serrées, crèmes à ochracées puis brun ocre à brun rouille, à arêtes denticulées blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

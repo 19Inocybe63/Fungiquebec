@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius urbicus
-date: 2017-01-06 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/9/8133/29510867143_38fbd3d847_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29510867143/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, bouclées à la base, 24,5-26,9 × 7,7-8,7 µm
+  basides: claviformes, tétrasporiques, bouclées à la base, 24,5-26,9 × 7,7-8,7 µm
   basidiospores: |
-    largement elliptiques à elliptiques allongées vue de front, elliptiques à amygdaliformes vue de profils, parfois légèrement subtronquées, faiblement verruqueuses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire bien développé, pore germinatif non visible, à contenu uniguttulé, hyalines dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
+    largement elliptiques à elliptiques allongées en vue frontale, elliptiques à amygdaliformes vues de profils, parfois légèrement subtronquées, faiblement verruqueuses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire bien développé, pore germinatif non visible, à contenu uniguttulé, hyalines dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
     (6,1) 7,2 - 9,1 (10) × (4,7) 4,8 - 5,4 (5,7) µm
     Q = (1,3) 1,4 - 1,7 (1,9) ; N = 30
     Me = 8,1 × 5,1 µm ; Qe = 1,6
@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées, subespacées, avec lamellules, violacées jeune, brun ocre, arête lamellaire plus pâle et crénelée
+  lames: échancrées, subespacées, avec lamellules, violacées jeune, brun ocre, arêtes lamellaires plus pâles et crènelées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

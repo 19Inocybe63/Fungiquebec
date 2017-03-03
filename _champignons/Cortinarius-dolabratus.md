@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius dolabratus
-date: 2017-01-05 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/6/5559/15290852396_0d53a784d8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15290852396/in/photolist-QHjS1s-picBG9-p3JGhy
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: utriformes à claviformes, bouclées à la base, tétrastérigmates 3,0-4,8 µm de longueur en moyenne, à contenu granuleux, 26,1- 30,2 × 6,4-7 µm en moyenne
+  basides: utriformes à claviformes, tétrasporiques, bouclées à la base, 3,0-4,8 µm de longueur en moyenne, à contenu granuleux, 26,1- 30,2 × 6,4-7 µm en moyenne
   basidiospores: |
-    largement elliptiques à elliptiques vue de front, elliptiques à amygdaliformes vue de profil, faiblement à moyennement verruqueuses, à paroi mince entre 0,2-0,3 μm, appendice hilaire bien formé, à contenu uniguttulé, brun pâle dans E.G. 20%, faiblement dextrinoïdes, non cyanophiles
+    elliptiques en vue frontale, largement elliptiques, elliptiques à amygdaliformes vues de profil, faiblement à moyennement verruqueuses, à paroi mince entre 0,2-0,3 μm, appendice hilaire bien formé, à contenu uniguttulé, brun pâle dans E.G. 20%, faiblement dextrinoïdes, non cyanophiles
     (6,7) 6,9 - 8,5 (9,4) × (4,1) 4,2 - 4,8 (5,2) µm
     Q = (1,6) 1,64 - 1,8 (1,9) ; N = 30
     Me = 7,6 × 4,5 µm ; Qe = 1,7
@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, large, subserrées, concolores au chapeau
+  lames: adnées à adnexées, larges, subserrées, concolores au chapeau
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

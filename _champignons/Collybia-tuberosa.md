@@ -1,6 +1,6 @@
 ---
 nom: Collybia tuberosa
-date: 2016-12-28 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/1/639/21886192929_4753e592aa_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21886192929/in/photolist-zm1sDX
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, serrées à subserrées, à arêtes entières et droites, blanchâtre à rose pâle
+  lames: adnées à subdécurrentes, serrées à subserrées, à arêtes entières et droites, blanchâtres à rose pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

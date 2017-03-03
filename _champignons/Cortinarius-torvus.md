@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius torvus
-date: 2017-01-29 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/8/7380/9412517132_cc0b5e615b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9412517132/in/photolist-fkKyDo-fkKBq9
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, subespacées à espacées, larges, brunâtre pourpre au début, devenant brun rouille à maturité, à arêtes plus pâles ou concolores aux faces
+  lames: adnées, subespacées à espacées, larges, brunâtre pourpre au début, devenant brun rouille à maturité, à arêtes plus pâle ou concolore aux faces
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

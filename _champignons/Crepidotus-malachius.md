@@ -1,6 +1,6 @@
 ---
 nom: Crepidotus malachius
-date: 2017-02-08 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/8/7392/9359067501_2638ed78b1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9359067501/in/photolist-fg2EGM
 album-flickr:
@@ -57,9 +57,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à claviformes élancées, 2-4 stérigmates, bouclées à la base, (11,9) 15-27,3 (27,9) × (4,5) 5,1-8 µm en moyenne
+  basides: claviformes à claviformes élancées, bisporiques à tétrasporiques, bouclées à la base, (11,9) 15-27,3 (27,9) × (4,5) 5,1-8 µm en moyenne
   basidiospores: |
-    globuleuses, finement verruqueuses, à paroi mince, petit appendice hilaire, petit pore germinatif centré parfois bien visible dans le Bleu crésyl 0,4-0,8 µm Ø, à contenu uniguttulé, hyalines dans E.G. 20%, inactives dans le melzer, non cyanophiles
+    globuleuses, finement verruqueuses, à paroi mince, petit appendice hilaire, petit pore germinatif centré parfois bien visible dans le Bleu crésyl 0,4-0,8 µm Ø, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (5,4) 5,7 - 6,2 (6,5) × (5,4) 5,5 - 6 (6,4) µm
     Q = 1 ; N = 30
     Me = 5,9 × 5,8 µm ; Qe = 1
@@ -127,7 +127,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -189,7 +189,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: radiantes d'un point basal latéral, arrondies près du pied, larges, présence de lamelles et de lamellules, serrées à subserrées, blanches au débt, puis brun rouille à maturité
+  lames: radiantes d'un point basal latéral, arrondies près du pied, larges, avec lamelles et lamellules, serrées à subserrées, blanches au début, puis brun rouille à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

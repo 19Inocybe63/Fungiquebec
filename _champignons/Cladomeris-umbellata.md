@@ -1,6 +1,6 @@
 ---
 nom: Cladomeris umbellata
-date: 2017-02-08 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/1/382/18933921856_c849d27f0b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18933921856/in/photolist-uR8inE-uR8ims-uR8ijy
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

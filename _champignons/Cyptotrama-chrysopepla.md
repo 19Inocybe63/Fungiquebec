@@ -1,6 +1,6 @@
 ---
 nom: Cyptotrama chrysopepla
-date: 2017-02-27 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/9/8181/8064645462_423d37e499_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8064645462/in/photolist-dhDq8q
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, parfois fourchues et interveinées, avec lamellules, de texture graisseuse au sec, espacées à subespacées, blanches, crème à jaune pâle au frais, orangé pâle au sec
+  lames: adnées à subdécurrentes, parfois fourchues et interveinées, avec lamellules, de texture graisseuse au sec, espacées à subespacées, blanches, crèmes à jaune pâle au frais, orangé pâle au sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

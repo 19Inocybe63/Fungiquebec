@@ -1,6 +1,6 @@
 ---
 nom: Clavulinopsis fusiformis
-date: 2016-11-02 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/1/685/20665078175_836e5968f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665078175/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
 album-flickr:
@@ -67,9 +67,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à claviformes élancées, rarement utriformes, sinueuses, dont le sommet est tronqué, longuement et étroitement pédicellées, tétrastérigmates jusqu'à 6-8 µm de longueur, bouclées à la base, avec contenu vacuolaire, (40,9) 48 - 60,6 (63,1) × (6,7) 7 - 8,9 (9,3) µm en moyenne
+  basides: cylindriques à claviformes élancées, rarement utriformes, sinueuses, dont le sommet est tronqué, longuement et étroitement pédicellées, tétrasporiques avec stérigmates jusqu'à 8 µm de longueur, bouclées à la base, avec contenu vacuolaire, (40,9) 48 - 60,6 (63,1) × (6,7) 7 - 8,9 (9,3) µm en moyenne
   basidiospores: |
-    globuleuses à subglobuleuses vue de front à subglobuleuses à largement ovoïdes vue de profil, lisses, à paroi légèrement épaissie, avec appendice hilaire proéminent jusqu'à 1,0-1,5 µm de longueur, à contenu uniguttulé, hyalines dans l’Eau glycérinée 20%, inactives dans le melzer, cyanophiles
+    globuleuses à subglobuleuses en vue frontale à subglobuleuses à largement ovoïdes vues de profil, lisses, à paroi légèrement épaissie, avec appendice hilaire proéminent jusqu'à 1,0-1,5 µm de longueur, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, cyanophiles
     (5,3) 5,34 - 6,6 (6,9) × (4,2) 5,1 - 6,1 (6,2) µm
     Q = 1 - 1,2 (1,3) ; N = 25
     Me = 6,1 × 5,6 µm ; Qe = 1,1
@@ -134,7 +134,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

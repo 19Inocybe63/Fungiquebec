@@ -1,6 +1,6 @@
 ---
 nom: Climacodon septentrionalis
-date: 2017-01-23 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/6/5666/20983721528_ec61923f61_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20983721528/in/photolist-yeXCLo-xYg4md-yeXHQS
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

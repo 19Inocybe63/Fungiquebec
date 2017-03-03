@@ -1,6 +1,6 @@
 ---
 nom: Coltricia montagnei
-date: 2016-12-09 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/4/3897/14842437391_8660812a9e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14842437391/in/photolist-oBznwX
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

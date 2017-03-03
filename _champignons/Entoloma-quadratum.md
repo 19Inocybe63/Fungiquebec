@@ -1,6 +1,6 @@
 ---
 nom: Entoloma quadratum
-date: 2016-11-04 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/6/5569/14774140147_24ec6dfe42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14774140147/in/photolist-q1NzQF-oKZuMC-ovxk9g
 album-flickr:
@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    cuboïdes à 4 angles vue de profil, lenticulaires vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, verdâtres dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    lenticulaires en vue frontale, cuboïdes à 4 angles vues de profil, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     11,5 [12,6; 13,2] 14,3 x 11 [11,9; 12,5] 13,4 µm
     Q =  [1; 1,08] 1,1; N = 20; C = 95%
     Me = 12,9 x 12,2 µm; Qe = 1,1
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

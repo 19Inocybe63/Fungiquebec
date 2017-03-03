@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius distans
-date: 2016-11-09 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/8/7072/27942307491_0d2d8e1b9c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27942307491/in/photolist-JLhYc9-JzaCwg
 album-flickr:
@@ -50,13 +50,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, rarement ventrues, tétrastérigmates, bouclées à la base, hyalines, avec contenu vacuolaire, 32,5 - 40,8 × 9 - 10,2 µm en moyenne
+  basides: claviformes, rarement ventrues, tétrasporiques, bouclées à la base, hyalines, avec contenu vacuolaire, 32,5 - 40,8 × 9 - 10,2 µm en moyenne
   basidiospores: |
-    ellipsoïdes à courtement ellipsoïdes, parfois subcitriformes vue de front, ellipsoïdes à largement ellipsoïdes, avec parfois un angle adaxial supra-hilaire « ou avec une extrémité subfusoïdes » (M. Kuo), finement à moyennement verruqueuses, à paroi mince, appendice hilaire visible, à contenu uniguttulé, brun cannelle à brun foncé dans l’eau glycérinée 20%, dextrinoïdes, non cyanophiles
+    ellipsoïdes à courtement ellipsoïdes, parfois subcitriformes vues de front, ellipsoïdes à largement ellipsoïdes, avec parfois un angle adaxial supra-hilaire « ou avec une extrémité subfusoïdes » (M. Kuo), finement à moyennement verruqueuses, à paroi mince, appendice hilaire visible, à contenu uniguttulé, brun cannelle à brun foncé dans E.G. 20%, dextrinoïdes, non cyanophiles
     (7,4) 7,8 - 8,6 (9) × (5,3) 5,4 - 6 (6,2) µm
     Q = (1,3) 1,4 - 1,5 (1,6) ; N = 30
     Me = 8,3 × 5,8 µm ; Qe = 1,4
-    (Piximètre; formule classique, issues d’une sporée et mesures dans l'eau glycérinée 20%)
+    (Piximètre; formule classique, issues d’une sporée et mesures dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

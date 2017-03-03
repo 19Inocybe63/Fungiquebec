@@ -1,6 +1,6 @@
 ---
 nom: Coprinellus truncorum
-date: 2016-11-03 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/3/2922/14221760856_2a6067ffc5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14221760856/in/photolist-sXpQiS-s1P2ep-nGNyqX-nEJf2o
 album-flickr:
@@ -57,9 +57,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: polymorphes, utriformes selon Romagnesi, tétrastérigmates, 30-35 x 6 µm en moyenne
+  basides: polymorphes, utriformes selon Romagnesi, tétrasporiques, 30-35 x 6 µm en moyenne
   basidiospores: |
-    elliptiques à largement elliptiques vue de profil, elliptiques à ovoïdes vue frontale, à l’apex légèrement tronquées, lisses, à paroi mince, avec appendice hilaire, et pore germinatif distinct et centré 1,7 [1,8; 2] 2,1 x 1,2 [1,4; 1,9] 2,1 µm, à contenu homogène, brun foncé à brun rougeâtre dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    elliptiques à ovoïdes en vue frontale, elliptiques à largement elliptiques vues de profil, à l’apex légèrement tronquées, lisses, à paroi mince, avec appendice hilaire, et pore germinatif distinct et centré 1,7 [1,8; 2] 2,1 x 1,2 [1,4; 1,9] 2,1 µm, à contenu homogène, brun foncé à brun rougeâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     7,1 [7,9; 8,3] 9,1 x 4,8 [5,1; 5,3] 5,6 µm
     Q = 1,4 [1,5; 1,6] 1,7; N = 30; C = 95%
     Me = 8,1 x 5,2 µm; Qe = 1,6
@@ -123,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

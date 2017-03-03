@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius flexipes
-date: 2016-11-09 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/6/5556/15313456612_cc49d74b37_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15313456612/in/photolist-qxLoFM-pkct91
 album-flickr:
@@ -50,9 +50,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à utriformes, parfois élancées, tétrastérigmates, bouclées à la base, 27-39 x 8 µm en moyenne
+  basides: cylindriques à utriformes, parfois élancées, tétrasporiques, bouclées à la base, 27-39 x 8 µm en moyenne
   basidiospores: |
-    largement elliptiques à elliptiques, parfois subamygdaliformes vue de profil, courtement elliptiques à subovales vue frontale, pointillées à faiblement verruqueuses, à paroi mince jusqu’à 0,1-0,2 µm d’épaisseur, avec appendice hilaire, à contenu uniguttulé, brun pâle à brun rougeâtre dans le NaCl isotonique 0,9%, dextrinoïdes, non cyanophiles
+    courtement elliptiques à subovales en vue frontale, largement elliptiques à elliptiques, parfois subamygdaliformes vues de profil, pointillées à faiblement verruqueuses, à paroi mince jusqu’à 0,1-0,2 µm d’épaisseur, avec appendice hilaire, à contenu uniguttulé, brun pâle à brun rougeâtre dans le NaCl isotonique 0,9%, dextrinoïdes, non cyanophiles
     7,4 [8,3; 8,7] 9,5 x 5 [5,4; 5,6] 6,1 µm
     Q = 1,4 [1,5; 1,6] 1,7; N = 30; C = 95%
     Me = 8,5 x 5,5 µm; Qe = 1,5
@@ -118,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: serrées, violet très foncé au début, à arêtes plus pâles
+  lames: serrées, violet très foncé au début, à arêtes plus pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

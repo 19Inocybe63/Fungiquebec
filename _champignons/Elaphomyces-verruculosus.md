@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces verruculosus
-date: 2016-11-02 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/6/5659/21247990934_8e04b18b66_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21247990934/in/photolist-ynBvrh-z38wYn
 album-flickr:
@@ -110,7 +110,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: largement répartie sur la côte Est
+  distribution: largement réparti sur la côte est
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

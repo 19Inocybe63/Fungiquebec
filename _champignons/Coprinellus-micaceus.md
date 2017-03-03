@@ -1,6 +1,6 @@
 ---
 nom: Coprinellus micaceus
-date: 2016-11-02 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/4/3902/14496677944_a47634fdd8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14311334720/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: utriformes, tétrastérigmates
+  basides: utriformes, tétrasporiques
   basidiospores: |
-    elliptiques à subelliptiques, parfois subamygdaliformes vue de profil, mitriformes vue frontale, tronquées, lisses, à paroi mince, avec appendice hilaire et pore germinatif jaunâtre centré 1,3-2,0 µm Ø, à contenu uniguttulé à pluriguttulé, brun médium à légèrement rougeâtre dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    mitriformes en vue frontale, elliptiques à subelliptiques parfois subamygdaliformes vues de profil, tronquées, lisses, à paroi mince, avec appendice hilaire et pore germinatif jaunâtre centré 1,3-2,0 µm Ø, à contenu uniguttulé à pluriguttulé, brun à légèrement rougeâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     6,4 [7,4; 8] 9 x 4,3 [4,9; 5,2] 5,8 µm
     Q = 1,3 [1,5; 1,6] 1,8; N = 17; C = 95%
     Me = 7,7 x 5,1 µm; Qe = 1,5
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres ou presque, 3-8 mm de largeur, serrées, blanches puis gris-brun, noires à la fin, déliquescentes
+  lames: sublibres, 3-8 mm de largeur, serrées, blanches puis gris-brun, noires à la fin, déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

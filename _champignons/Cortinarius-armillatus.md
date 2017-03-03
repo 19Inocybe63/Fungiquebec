@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius armillatus
-date: 2017-01-07 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/4/3927/15372671292_724ac95746_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15372671292/in/photolist-pqqVWd-pqqXAL
 album-flickr:
@@ -122,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, larges, serrées à subserrées, jaune pâle à cannelle pâle lorsque jeune, devenant brun rouille à maturité, couvert d'une cortine blanchâtre dès sa jeunesse, à arête plus pâle
+  lames: adnexées, larges, serrées à subserrées, jaune pâle à cannelle pâle lorsque jeune, devenant brun rouille à maturité, couvert d'une cortine blanchâtre dès sa jeunesse, à arêtes plus pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

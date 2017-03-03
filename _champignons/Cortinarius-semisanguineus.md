@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius semisanguineus
-date: 2017-01-25 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/6/5706/21371299261_55b7c1ef07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21371299261/in/photolist-yxM8R4-yyvuGV
 album-flickr:
@@ -122,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

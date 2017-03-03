@@ -237,7 +237,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: non réalisée
+  saveur: non observée
   sclerocystides: 
   sclerote: 
   soies: 

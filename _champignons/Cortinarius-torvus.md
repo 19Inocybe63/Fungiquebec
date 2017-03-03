@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, subespacées à espacées, larges, brunâtre pourpre au début, devenant brun rouille à maturité, à arêtes plus pâle ou concolore aux faces
+  lames: adnées, subespacées à espacées, larges, brunâtre pourpre au début, devenant brun rouille à maturité, à arêtes plus pâle ou concolores aux faces
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

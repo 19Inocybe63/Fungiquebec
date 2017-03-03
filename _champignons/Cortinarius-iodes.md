@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius iodes
-date: 2017-01-26 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/6/5323/9516208641_61f8abeb80_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9516208641/in/photolist-fuV4hM
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées à subserrées, violet pâle devenant cannelle à brun rouille, couvertes par la cortine lorsque jeune
+  lames: adnées, serrées à subserrées, violet pâle devenant cannelles à brun rouille, couvertes par la cortine lorsque jeune
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

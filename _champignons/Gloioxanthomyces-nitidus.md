@@ -1,6 +1,6 @@
 ---
 nom: Gloioxanthomyces nitidus
-date: 2016-11-11 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/8/7343/9268009925_e956b6717f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9268009925/in/photolist-f7Z1Yi-f7YYsz-f8egtd
 album-flickr:
@@ -110,7 +110,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

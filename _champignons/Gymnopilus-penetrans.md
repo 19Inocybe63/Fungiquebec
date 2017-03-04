@@ -1,6 +1,6 @@
 ---
 nom: Gymnopilus penetrans
-date: 2016-12-03 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/6/5535/9240759913_21ee91ef3b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9240759913/in/photolist-f5ziYM-f5zmMt
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à sinuées, de largeur moyenne, étroites, d'abord jaune pâle à ± blanc jaunâtre, devenant rouille à maturité
+  lames: adnées à sinuées, de largeur moyenne, étroites, d'abord jaune pâle à ± blanc jaunâtre, devenant rouilles à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

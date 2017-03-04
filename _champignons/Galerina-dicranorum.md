@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées, 2-3 mm de largeur, espacées à maturité, subconcolores au chapeau sec, à arêtes entières ou presque
+  lames: sinuées, 2-3 mm de largeur, espacées à maturité, subconcolores au chapeau, ± arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

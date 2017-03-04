@@ -1,6 +1,6 @@
 ---
 nom: Hygrocybe conica
-date: 2016-11-30 00:00:00
+date: 2017-04-04 00:00:00
 image: https://c1.staticflickr.com/1/406/19678525428_f777d68d59_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19678525428/in/photolist-vjyS1S-wfUQUN-vYVA2b-wgxmv2-vZ47s7-vZbfhH
 album-flickr:
@@ -57,9 +57,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, 2 stérigmates 7,5-9,2 µm, non bouclées à la base, 34,4 [37,2; 41,8] 44,7 x 9,2 [9,7; 10,5] 11 µm
+  basides: claviformes, bisporiques 7,5-9,2 µm de longueur, non bouclées à la base, 34,4 [37,2; 41,8] 44,7 x 9,2 [9,7; 10,5] 11 µm
   basidiospores: |
-    largement elliptiques à elliptiques vue de profil, elliptiques vue frontale, lisse, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%
+     elliptiques en vue frontale, largement elliptiques à elliptiques vues de profil, lisse, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%
     9,2 [10,5; 11,7] 13 x 6,7 [7,3; 7,9] 8,5 µm
     Q = 1,2 [1,4; 1,5] 1,7; N = 9; C = 95%
     Me = 11,1 x 7,6 µm; Qe = 1,5
@@ -186,7 +186,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées à sublibres, larges, ventrues, épaisses, molles, cireuses, serrées, blanchâtres à jaunâtres, puis orange chamois, ocre olive à grisâtre olivacé, noircissant avec l'âge et au froissement, à arêtes ondulées, serrulées à érodées
+  lames: adnexées à sublibres, larges, ventrues, épaisses, molles, cireuses, serrées, blanchâtres à jaunâtres, puis orange chamois, ocre olive à grisâtre olivacé, noircissants avec l'âge et au froissement, à arêtes ondulées, serrulées à érodées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

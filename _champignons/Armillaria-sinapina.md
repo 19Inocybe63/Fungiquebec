@@ -1,6 +1,6 @@
 ---
 nom: Armillaria sinapina
-date: 2017-03-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/9/8169/8064698711_27a2a80ff8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8064698711/in/photolist-eceEmc-dhDFXv
 album-flickr:
@@ -75,7 +75,8 @@ description:
   chancre: 
   chapeau: 20-80 mm Ø, convexe ou campanulé puis étalé, parfois un peu mamelonné, orné de méchules jaune olive fugaces sur fond brun rougeâtre au début, brun rosé avec l'âge
   cheilochrysocystides:
-  cheilocystides: polymorphes abondantes, septées et souvent terminées par des cellules utriformes, composées par des segments septées ressemblant aux feuilles d’opuntia avec terminal régulier, subglobuleuse à subclaviforme, ou atténué vers le sommet, ou arrondi, diverticules, cylindriques, piriformes à largement clavées, parfois largement fusiformes, claviformes
+  cheilocystides: polymorphes abondantes, septées et souvent terminées par des cellules utriformes, composées par des segments septés
+avec terminal régulier, subglobuleuses à subclaviformes, ou atténuées vers le sommet, ou arrondies, diverticulées, cylindriques, piriformes à largement clavées, parfois largement fusiformes, claviformes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

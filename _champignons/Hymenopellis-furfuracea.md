@@ -1,6 +1,6 @@
 ---
 nom: Hymenopellis furfuracea
-date: 2016-12-13 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/9/8076/8389201215_7ee93b2516_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8389201215/in/photolist-KZZ5kK-L7KXRa-dMqqb1-dKiztv-dJeNnK-dJeUGZ-dMjRfg-dMjRhX-cvkwvb-cvkwk5
 album-flickr:
@@ -57,9 +57,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, bouclées à la base, 55-60 x 13-14 µm
+  basides: claviformes, tétrasporiques, bouclées à la base, 55-60 x 13-14 µm
   basidiospores: |
-    ellipsoïdes à largement ovoïdes, apparaissant lisses, à paroi légèrement épaissie, avec appendice proéminent, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    ellipsoïdes à largement ovoïdes, apparaissant lisses, à paroi légèrement épaissie, avec appendice proéminent, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     13,7 [15,3; 16] 17,6 x 10,5 [11,7; 12,1] 13,3 µm
     Q = 1,2 [1,3] 1,4; N = 34; C = 95%
     Me = 15,7 x 11,9 µm en moyenne; Q moyen = 1,3
@@ -125,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -186,7 +186,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: largement adnées à uncinées, vite sécédentes, largement ventrues à maturité, subespacées, avec lamellules  irrégulières à distribution symétrique, blanches, à arêtes parfois brunes vers le pourtour du chapeau
+  lames: largement adnées à uncinées, vite sécédentes, largement ventrues à maturité, subespacées, avec lamellules irrégulières à distribution symétrique, blanches, à arêtes parfois brunes vers le pourtour du chapeau
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

@@ -147,7 +147,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: nombreuses, fusiformes simples à fusiformes avec long col, parfois vacuolaires brunâtre rouille, dont l’apex de plusieurs est biseauté et portent une fine couche de granulations blanchâtres, 45,5 [56,6; 65,1] 76,2 x 10 [12,1; 13,8] 15,9 µm
+  hymenocystides: nombreuses, fusiformes simples à fusiformes avec longs cols, parfois vacuolaires brunâtre rouille, parfois à l’apex biseauté, avec une fine couche de granulations blanchâtres, 45,5 [56,6; 65,1] 76,2 x 10 [12,1; 13,8] 15,9 µm
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 

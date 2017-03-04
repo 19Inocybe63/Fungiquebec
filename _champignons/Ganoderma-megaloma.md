@@ -1,6 +1,6 @@
 ---
 nom: Ganoderma megaloma
-date: 2016-11-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/9/8283/29076192640_686dda6d42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29076192640/in/photolist-Lin65d-LFMgRj
 album-flickr:
@@ -129,7 +129,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

@@ -75,8 +75,7 @@ description:
   chancre: 
   chapeau: 20-80 mm Ø, convexe ou campanulé puis étalé, parfois un peu mamelonné, orné de méchules jaune olive fugaces sur fond brun rougeâtre au début, brun rosé avec l'âge
   cheilochrysocystides:
-  cheilocystides: polymorphes abondantes, septées et souvent terminées par des cellules utriformes, composées par des segments septés
-avec terminal régulier, subglobuleuses à subclaviformes, ou atténuées vers le sommet, ou arrondies, diverticulées, cylindriques, piriformes à largement clavées, parfois largement fusiformes, claviformes
+  cheilocystides: polymorphes abondantes, septées et souvent terminées par des cellules utriformes, composées par des segments septés avec terminal régulier, subglobuleuses à subclaviformes, ou atténuées vers le sommet, ou arrondies, diverticulées, cylindriques, piriformes à largement clavées, parfois largement fusiformes, claviformes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

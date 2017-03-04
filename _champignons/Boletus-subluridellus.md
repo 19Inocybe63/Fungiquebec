@@ -1,6 +1,6 @@
 ---
 nom: Boletus subluridellus
-date: 2017-03-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19726150815/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
 album-flickr:
@@ -84,7 +84,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 50-100 mm Ø, large, convexe à contour irrégulier, devenant globalement convexe, avec une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuses, également vermillon rouge à baie, ou à des moments orange, violette instantanément sombre au touché, la surface souvent grêlé
+  chapeau: 50-100 mm Ø, large, convexe à contour irrégulier, devenant globalement convexe, avec une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuse, également vermillon rouge à baie, ou à des moments orange, violet instantanément sombre au touché, la surface souvent grêlée
   cheilocystides: abondantes, polymorphes, parfois saillantes, cylindriques, fusiformes simples à fusiformes à long col, lagéniformes, flexueuses, dont l’apex de plusieurs est biseauté 21,6 [34; 51] 63,5 x 3,7 [5,8; 8,7] 10,7 µm
   cheilomacrocystides: 
   chlamydospores: 
@@ -97,7 +97,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: lumineux jaune citron, mais instantanément bleue à la coupe
+  contexte: lumineux jaune citron, mais instantanément bleu à la coupe
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -106,7 +106,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 6-9 mm de long, jaune virant au bleu instantanément lorsqu'il est coupé, déprimé autour du stipe à peu près libre
+  couches-de-tubes: 6-9 mm de long, jaune virant au bleu instantanément lorsqu'ils sont coupés, déprimé autour du stipe à peu près libre
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -218,10 +218,10 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 15-23 x 4-9 mm Ø, long, solide, égale, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, la surface revêtue sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracée globale, pas du tout réticulaire
+  pied: 15-23 x 4-9 mm Ø, long, solide, égal, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, la surface revêtue sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracé globalement, pas du tout réticulé
   pieds-steriles: 
   pigments: 
-  pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droits, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
+  pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droites, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -237,7 +237,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 2-3 par mm, rond, carmin ou rouge foncé, instantanément bleu lorsque meurtris
+  pores: 2-3 par mm, ronds, carmin ou rouge foncé, instantanément bleus lorsque meurtris
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

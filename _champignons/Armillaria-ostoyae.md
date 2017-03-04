@@ -1,6 +1,6 @@
 ---
 nom: Armillaria ostoyae
-date: 2017-03-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/6/5598/15505206645_8151e39b28_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15505206645/in/photolist-pLEhxV-pBRYht-pkCiBH-pC9eK4-pkDsTA
 album-flickr:
@@ -49,14 +49,14 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, bouclées à la base, 30-35 x 6-7 µm en moyenne
   basidiospores: |
-    pruniformes en vue frontale à elliptiques à largement elliptiques vues de profil, lisses, à paroi mince, avec un gros appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, cyanophiles
+    pruniformes en vue frontale, elliptiques à largement elliptiques vues de profil, lisses, à paroi mince, avec un gros appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, cyanophiles
     7,7 [8,8; 9,3] 10,4 x 5,1 [5,7; 5,9] 6,5 µm
     Q = 1,3 [1,5; 1,6] 1,8; N = 30; C = 95%
     Me = 9,1 x 5,8 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur bois ou racines de conifères, moins souvent de feuillus agent de carie de racines
+  biotopes: pousse au sol, sur bois ou racines de conifères, moins souvent de feuillus (agent de carie des racines)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -275,7 +275,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: laissant un anneau bien formé, blanchâtre, souvent brun au revers ou sur la marge
+  voile-partiel: laissant un anneau bien formé, blanchâtre, maculé de brun à la marge (typique de l’espèce)
   volve: 
   zone-perihymeniale: 
 ---

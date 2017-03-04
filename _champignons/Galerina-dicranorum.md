@@ -1,13 +1,13 @@
 ---
 nom: Galerina dicranorum
-date: 2016-12-07 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/4/3923/14368514495_c15fa5712c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14368514495/in/photolist-nTGoLx-nTBP7q
 album-flickr:
   - 72157675243699821
 
 details:
-  nom-francais: 
+  nom-francais: Galérine des dicranes
   autorites: A.H. Sm. & Singer
   ordre: Agaricales
   famille: Hymenogastraceae

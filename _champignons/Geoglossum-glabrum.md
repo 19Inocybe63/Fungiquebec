@@ -46,7 +46,7 @@ description:
     Priou, Jean-Paul. Contribution aux Geoglossum de France, Association Mycologique et botanique Ploemeur-Morbihan, 5 p. 
   ascome: 40-73 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, visqueux au début, puis lisse et brillant avec l'âge, noir
   ascospores: |
-    cylindriques, légèrement incurvées, à 7 septa, lisses, noir foncé dans le NaCl
+    cylindriques, légèrement incurvées, à 7 septa, lisses, noir foncé dans le NaCl iso 0,9%
     90 [92,9; 98,7] 101,6 x 7,6 [7,7; 8] 8,2 µm
     Q = 11 [11,6; 12,7] 13,3; N = 15; C = 95%
     Me = 95,8 x 7,9 µm
@@ -118,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

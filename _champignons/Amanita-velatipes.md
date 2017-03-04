@@ -1,6 +1,6 @@
 ---
 nom: Amanita velatipes
-date: 2017-03-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/1/374/19870908390_0f8aa788a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19870908390/in/photolist-vBwq3S-wwdsTb-wgVALN-nensEd-fbph4T-f5orUR-f5oWAF
 album-flickr:
@@ -287,7 +287,7 @@ description:
   typique: 
   voile: 
   voile-general: friable, blanchâtre, laissant des flocons sur le chapeau et une ou quelques bandelettes à la base du pied
-  voile-partiel: blanc, laissant sur le pied un anneau denté et ample, en chaînette dont les hyphes terminaux sont polymorphes (75% filamenteux et 25% elliptiques allongées à ovoïdes), filamenteux, cylindriques, claviformes, utriformes, elliptiques allongées, ovoïdes, 22-54 x 5,5 x 9 µm
+  voile-partiel: blanc, laissant sur le pied un anneau denté et ample, en chaînette dont les hyphes terminales sont polymorphes (75% filamenteuses, et 25% elliptiques allongées à ovoïdes) cylindriques, claviformes, utriformes, elliptiques allongées, ovoïdes, 22-54 x 5,5 x 9 µm
   volve: 
   zone-perihymeniale: 
 ---

@@ -1,6 +1,6 @@
 ---
 nom: Amanita fuscozonata Y. Lamoureux nom. prov.
-date: 2016-12-17 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/3/2825/9331711293_e30710d682_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9331711293/in/photolist-fdBtyn-fdBsE2
 album-flickr:

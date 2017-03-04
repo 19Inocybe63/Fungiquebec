@@ -63,9 +63,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement claviformes-piriformes, à très légèrement déformées-flexueuses, à 2-4 stérigmates jusqu'à 4 µm de longueur, bouclées à la base, avec contenu granuleux, 21,7 - 34 × (9,4) 9,45 - 12,9 µm en moyenne
+  basides: courtement claviformes-piriformes, à très légèrement déformées-flexueuses, bisporiques à tétrasporiques jusqu'à 4 µm de longueur, bouclées à la base, avec contenu granuleux, 21,7 - 34 × (9,4) 9,45 - 12,9 µm en moyenne
   basidiospores: |
-    gibbosporées noduleuses-anguleuses (goniospores) avec 8-10 bosses assez haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans l'eau glycérinée 20%, inactives dans le melzer, non cyanophiles
+    gibbosporées noduleuses-anguleuses (goniospores) avec 8-10 bosses assez haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6,3) 6,7 - 8,7 (9,1) × (4,4) 5,6 - 7 (7,4) µm
     Q = 1 - 1,4 (1,7) ; N = 30
     Me = 7,6 × 6,2 µm ; Qe = 1,2
@@ -136,7 +136,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -198,7 +198,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crème à gris pâle puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
+  lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crème à gris pâle, puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
   lamprocystides: 
   lamprocheilocystides: de type métuloïdes, nombreuses, fusiformes à largement fusiformes (± ventrues), lagéniformes, à paroi fine à moyenne 1,5-2,4 µm, (52,2) 64,2 - 74,5 (74,6) × (13,4) 19,4 - 21,2 (24,0) µm  
   lampropleurocystides: de type métuloïdes, abondantes, fusiformes à largement fusiformes (± ventrues), lagéniformes, à paroi épaisse 3-4 µm, (53,2) 67,1 - 74,5 (90,8) × (15,5) 19,7 - 22,3 (29,2) µm

@@ -1,6 +1,6 @@
 ---
 nom: Bisporella citrina
-date: 2017-03-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15397943256/in/photolist-oTnnJF-psEu5h
 album-flickr:
@@ -81,7 +81,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Hans-Otto Baral. « Maybe you expected to see septate spores? The septum is formed in Bisporella citrina only on overmature spores, so don't worry. If the excipulum is gelatinized I am quite sure it is this species. You can also look at the ascus apex in IKI, but you need dead asci for that. The apical ring is a bit like a T, while for instance in Bisporella subpallida it is only reactive in the lower part of the wall thickeningl like two short thin lines. Also the contents of the paraphyses are worth to look at. The difference in apicla ring and genetic data led me to say Calycina citrina for the present fungus, so I restrict Bisporella to B. subpallida and B. pallescens. »
+  commentaires: De Hans-Otto Baral. « Maybe you expected to see septate spores? The septum is formed in Bisporella citrina only on overmature spores, so don't be worry. If the excipulum is gelatinized I am quite sure it is this species. You can also look at the ascus apex in IKI, but you need dead asci for that. The apical ring is a bit like a T, while for instance in Bisporella subpallida it is only reactive in the lower part of the wall thickeningl like two short thin lines. Also the contents of the paraphyses are worth to look at. The difference in apical ring and genetic data led me to say Calycina citrina for the present fungus, so I restrict Bisporella to B. subpallida and B. pallescens. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: presque absent ou rudimentaire, très court et large, rarement > 1 mm, jaune pâle
   pieds-steriles: 

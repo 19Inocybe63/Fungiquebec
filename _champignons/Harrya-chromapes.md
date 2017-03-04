@@ -1,6 +1,6 @@
 ---
 nom: Harrya chromapes
-date: 2016-11-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/6/5671/20335858794_361bbf8904_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20335858794/in/photolist-wZ1Ak5
 album-flickr:
@@ -91,7 +91,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
+  couches-de-tubes: blanc crème, devenant rose, puis brunâtre à brun rougeâtre, déprimé à la tige, 1-3 pores par mm, tubes de 13-14 mm de profondeur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -109,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -222,7 +222,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: blanc crème, devenant rose, puis brunâtre à brun rougeâtre, déprimé à la tige, 1-3 pores par mm, tubes de 13-14 mm de profondeur
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

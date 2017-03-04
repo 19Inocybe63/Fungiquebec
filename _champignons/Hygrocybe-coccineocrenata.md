@@ -1,6 +1,6 @@
 ---
 nom: Hygrocybe coccineocrenata
-date: 2016-11-20 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/6/5487/9532550164_cff4d0ea25_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9532550164/in/photolist-s7WLut-fwmP4b-fw7w6p
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: subpiriformes à claviformes élancées, munies de longues stérigmates entre 6-10 µm de longueur, tétrastérigmates, bouclée à la base, 39,7 [49,9; 64] 74,2 x 12,3 [13,4; 14,9] 15,9 µm
+  basides: subpiriformes à claviformes élancées, tétrasporiques, avec de longues stérigmates entre 6-10 µm de longueur, bouclée à la base, 39,7 [49,9; 64] 74,2 x 12,3 [13,4; 14,9] 15,9 µm
   basidiospores: |
-    elliptiques-ovoïdales vue frontale, largement elliptiques à elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, sans pore germinatif, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, cyanophiles
+    elliptiques-ovoïdales en vue frontale, largement elliptiques à elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, sans pore germinatif, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     9,1 [10,1; 10,5] 11,4 x 6 [6,7; 6,9] 7,6 µm
     Q = 1,4 [1,5] 1,7; N = 30; C = 95%
     Me = 10,3 x 6,8 µm; Qe = 1,5
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées puis décurrentes, espacées, jaune pâle à crème
+  lames: adnées puis décurrentes, espacées, jaune pâle à crèmes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

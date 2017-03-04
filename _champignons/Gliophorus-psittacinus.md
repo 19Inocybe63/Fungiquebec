@@ -1,6 +1,6 @@
 ---
 nom: Gliophorus psittacinus
-date: 2016-11-04 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/1/359/19917747775_9b63d8184f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19917747775/in/photolist-wm4Eup
 album-flickr:
@@ -119,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, serrées à subespacées, souvent vert pâle lorsque jeune, devenant jaunâtre à orange-jaune à maturité
+  lames: adnées à adnexées, serrées à subespacées, souvent vert pâle lorsque jeune, devenant jaunâtres à orange jaune à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

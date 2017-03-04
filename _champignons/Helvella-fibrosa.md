@@ -1,6 +1,6 @@
 ---
 nom: Helvella fibrosa
-date: 2016-12-04 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/9/8825/28444177671_0372fd8c51_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28444177671/in/photolist-KkvR3p
 album-flickr:

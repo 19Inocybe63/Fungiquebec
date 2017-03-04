@@ -1,6 +1,6 @@
 ---
 nom: Boletus separans
-date: 2017-03-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/1/420/20356478421_2ed6c3bb97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20356478421/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA
 album-flickr:
@@ -77,7 +77,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol mal drainé, sous chênes et hêtres
+  biotopes: pousse sur sol mal drainé, sous Fagus et Quercus
   boucles: absentes
   brachybasidioles: 
   calicule: 
@@ -94,7 +94,7 @@ description:
   cellules-stromatiques: 
   chair: crème pâle, immuable, rougeâtre près de la cuticule
   chancre: 
-  chapeau: 60-180 mm Ø, convexe, convexe à étalé à maturité, cuticule un peu collante lorsque imbue, glabre avec l'âge rouge foncé mat vivre brun, ou baie-brun, avec une voile ochracé près de la marge
+  chapeau: 60-180 mm Ø, convexe, convexe à étalé à maturité, cuticule un peu collante lorsque imbue, glabre avec l'âge rouge foncé mat virant au brun, ou bai-brun, avec une voile ochracé près de la marge
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -116,7 +116,7 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: adnés devenant déprimés, blanchâtre, jaunâtre lentement terne à ochracé terne (non olivacé), immuable, pores blanc quand il est jeune, devenant jaune pâle, mais pas de coloration bleue, 1-2 mm, rond ou presque
+  couches-de-tubes: adnés devenant déprimés, blanchâtres, jaunâtres lentement ternes à ochracé terne (non olivacé), immuables, pores blancs quand il est jeune, devenant jaune pâle, mais pas de coloration bleue, 1-2 mm, rond ou presque
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -228,7 +228,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 100-240 x 6-20 mm Ø, cylindrique, élargie vers le bas, finement réticuler, ± concolore avec ou plus pâle que le chapeau, glabre, blanchâtre, chair blanche
+  pied: 100-240 x 6-20 mm Ø, cylindrique, élargi vers le bas, finement réticulé, ± concolore avec ou plus pâle que le chapeau, glabre, blanchâtre, chair blanche
   pieds-steriles: 
   pigments: 
   pileipellis: en épithélium formant une palissade de cellules terminales emmêlées fusiformes à ventrues, (17) 18,7 - 24 (28,8) × (6,7) 7,9 - 12,7 (17,7) µm en moyenne, d'où émerge de longues hyphes 43-47,7 × 4-4,7 µm en moyenne

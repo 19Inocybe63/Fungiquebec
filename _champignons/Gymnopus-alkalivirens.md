@@ -1,6 +1,6 @@
 ---
 nom: Gymnopus alkalivirens
-date: 2016-11-24 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/1/483/19122325155_2232868ca2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19122325155/in/photolist-v8LV4i-uRjJmt
 album-flickr:
@@ -121,7 +121,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -182,7 +182,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à sublibres, présence de lamelles et de lamellules, brun moyen à brun pâle
+  lames: échancrées à sublibres, avec lamelles lamellules, brun moyen à brun pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

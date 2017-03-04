@@ -1,6 +1,6 @@
 ---
 nom: Amanita sp-QUE04
-date: 2017-03-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/6/5582/14981967220_f12992b12a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981967220/in/photolist-p5H4RU-oPUuTE-p5o6dE
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, forêt mixte ; pour la présente collection, pousse sous Tsuga Canadensis
+  biotopes: pousse au sol, forêt mixte ; pour la présente collection, pousse sous Tsuga canadensis
   boucles: 
   brachybasidioles: 
   calicule: 

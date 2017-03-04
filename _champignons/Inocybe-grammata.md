@@ -63,9 +63,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes, claviformes à largement claviformes, 2-4 stérigmates, bouclées à la base, 25,5 [29,6; 33,4] 37,5 x 11,3 [12,5; 13,6] 14,7 µm
+  basides: piriformes, claviformes à largement claviformes, bisporiques à tétrasporiques, bouclées à la base, 25,5 [29,6; 33,4] 37,5 x 11,3 [12,5; 13,6] 14,7 µm
   basidiospores: |
-    subamigdaliformes, gibbeuses (noduleuses)-anguleuses (goniosporées), à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    subamigdaliformes, gibbeuses (noduleuses)-anguleuses (goniosporées), à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     7,8 [8,8; 9,3] 10,3 x 6,1 [7,1; 7,5] 8,4 µm
     Q = 1,1 [1,2; 1,3] 1,4; N = 30; C = 95%
     Me = 9,1 x 7,3 µm; Qe = 1,3

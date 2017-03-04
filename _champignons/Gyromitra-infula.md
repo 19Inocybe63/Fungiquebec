@@ -1,6 +1,6 @@
 ---
 nom: Gyromitra infula
-date: 2016-12-15 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/9/8455/7996468533_a6a0aa7ab9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996468533/in/photolist-dbC215-dbBZv8-dbBZ9e
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

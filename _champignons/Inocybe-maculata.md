@@ -53,9 +53,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, à 2-4 stérigmates, bouclées à la base, 32-40 x 9-11 µm
+  basides: claviformes, bisporiques à tétrasporiques, bouclées à la base, 32-40 x 9-11 µm
   basidiospores: |
-    leiospore ovoïdales vue frontale, ellipsoïdes à phaséoliformes vue de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec petit appendice hilaire, à contenu granulaire et parfois uniguttulé (surtout dans le Bleu crésyl), hyalines dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    leiospore ovoïdales en vue frontale, ellipsoïdes à phaséoliformes vues de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec petit appendice hilaire, à contenu granulaire et parfois uniguttulé (surtout dans le Bleu crésyl), hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     8,4 [9,4; 9,8] 10,8 x 5,1 [5,8; 6,2] 6,9 µm
     Q = 1,5 [1,6] 1,8; N = 30; C = 95%
     Me = 9,6 x 6 µm; Qe = 1,6
@@ -119,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées à échancrées, serrées,  présences de lamelles et de lamellules, crème pâle dont l’arête est légèrement + crème foncée
+  lames: sinuées à échancrées, serrées, avec lamelles et lamellules, crème pâle dont l’arêtes est légèrement ± crème foncé
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

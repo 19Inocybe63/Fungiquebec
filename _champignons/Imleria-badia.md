@@ -1,6 +1,6 @@
 ---
 nom: Imleria badia
-date: 2016-11-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/4/3920/14887778419_60f361d921_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14887778419/in/photolist-qryYtU-oFAfzb-oFzKQP
 album-flickr:
@@ -48,9 +48,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques atténuées en bas, tétrastérigmates, non bouclées à la base, 23,6 [27,9; 30,7] 35 x 8,6 [9,4; 9,9] 10,6 µm
+  basides: claviformes à cylindriques atténuées en bas, tétrasporiques, non bouclées à la base, 23,6 [27,9; 30,7] 35 x 8,6 [9,4; 9,9] 10,6 µm
   basidiospores: |
-    cylindriques vue de profil à fusiformes vue frontale, lisses, à paroi mince jusqu’à 0,2 μm, avec appendice hilaire et dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    fusiformes en vue frontale, cylindriques vues de profil, lisses, à paroi mince jusqu’à 0,2 μm, avec appendice hilaire et dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     13,3 [14,8; 15,5] 16,9 x 4,5 [5,2; 5,5] 6,3 µm
     Q = 2,5 [2,8; 2,9] 3,1; N = 30; C = 95%
     Me = 15,1 x 5,4 µm; Qe = 2,8
@@ -114,7 +114,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

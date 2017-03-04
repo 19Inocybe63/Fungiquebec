@@ -59,7 +59,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, bisporiques 7,5-9,2 µm de longueur, non bouclées à la base, 34,4 [37,2; 41,8] 44,7 x 9,2 [9,7; 10,5] 11 µm
   basidiospores: |
-     elliptiques en vue frontale, largement elliptiques à elliptiques vues de profil, lisse, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%
+    elliptiques en vue frontale, largement elliptiques à elliptiques vues de profil, lisse, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%
     9,2 [10,5; 11,7] 13 x 6,7 [7,3; 7,9] 8,5 µm
     Q = 1,2 [1,4; 1,5] 1,7; N = 9; C = 95%
     Me = 11,1 x 7,6 µm; Qe = 1,5

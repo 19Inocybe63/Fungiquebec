@@ -1,6 +1,6 @@
 ---
 nom: Hygrocybe cantharellus
-date: 2016-12-31 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/3/2817/9438005957_e509607329_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9438005957/in/photolist-fo1fmD-fofxis/
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

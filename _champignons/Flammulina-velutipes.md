@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques, tétrastérigmates, bouclées à la base, peu émergentes à maturité, 27-29 x 4-5 µm
+  basides: claviformes à cylindriques, tétrasporiques, bouclées à la base, peu émergentes à maturité, 27-29 x 4-5 µm
   basidiospores: |
-    ellipsoïdes à cylindriques, lisses, à paroi légèrement épaissie, de 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines dans le NH<SUB>4</SUB>OH 2%, inactives dans le melzer, cyanophiles
+    ellipsoïdes à cylindriques, lisses, à paroi légèrement épaissie, de 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer, cyanophiles
     5,2 [6,2; 6,6] 7,7 x 3 [3,5; 3,6] 4,1 µm
     Q = 1,4 [1,8; 1,9] 2,2; N = 45; C = 95%
     Me = 6,4 x 3,5 µm; Qe = 1,8
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à échancrées, étroites, serrées ou espacées, crème
+  lames: adnées à échancrées, étroites, serrées ou espacées, crèmes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

@@ -1,6 +1,6 @@
 ---
 nom: Helvella corium
-date: 2016-11-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/1/723/20522852470_aca2a0fe2c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20522852470/in/album-72157675892972545/
 album-flickr:
@@ -54,7 +54,7 @@ description:
     Anderson, P. J. and Ickis, Marguerite G., Massachusetts Species of Helvella, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
   ascome: 
   ascospores: |
-    unisériées, largement ellipsoïdes à ellipsoïdes, lisses (voir remarque), à paroi mince à légèrement épaissie, à contenu uniguttulé, hyalines dans l’eau glycérinée 20%, iodonégatives, non cyanophiles
+    unisériées, largement ellipsoïdes à ellipsoïdes, lisses (voir remarque), à paroi mince à légèrement épaissie, à contenu uniguttulé, hyalines dans E.G. 20%, iodonégatives, non cyanophiles
     (16,2) 16,6 - 18,1 (19,3) × (11,2) 11,3 - 12 (12,7) µm
     Q = (1,4) 1,43 - 1,56 (1,6) ; N = 30
     Me = 17,3 × 11,6 µm ; Qe = 1,5
@@ -127,7 +127,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

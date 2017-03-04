@@ -1,6 +1,6 @@
 ---
 nom: Gymnopilus luteus
-date: 2016-11-04 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/9/8501/8373342022_f22fe5dbc4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8373342022/in/photolist-fB12Xs-fAKLcD-dQsHnj-dKQ5MD-dKVyRU
 album-flickr:
@@ -57,7 +57,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: largement cylindriques avec léger resserrement au centre, tétrastérigmates, bouclées à la base, 24,1 x 8,2 µm en moyenne
+  basides: largement cylindriques avec léger resserrement au centre, tétrasporiques, bouclées à la base, 24,1 x 8,2 µm en moyenne
   basidiospores: |
     ellipsoïdes à ovoïdes, rugueuses à verruqueuses, à paroi mince, avec appendice hilaire, sans pore germinatif, avec légère dépression apiculaire, au contenu souvent uniguttulé, brun à brun orangé dans le NH<SUB>4</SUB>OH 2%, dextrinoïdes
     7,6 [8,1; 8,3] 8,8 x 4,9 [5,3; 5,4] 5,8 µm
@@ -123,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

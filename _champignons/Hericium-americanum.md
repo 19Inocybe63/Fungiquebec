@@ -1,6 +1,6 @@
 ---
 nom: Hericium americanum
-date: 2016-11-12 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/6/5573/15127426101_04bd07380a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15127426101/in/photolist-p3L1Kp
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

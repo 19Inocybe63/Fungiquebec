@@ -1,6 +1,6 @@
 ---
 nom: Coprinopsis atramentaria
-date: 2017-03-03 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/8/7323/10088573684_37c385249e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088573684/in/photolist-sTRAxX-gnuBKj-gnuztA
 album-flickr:
@@ -244,7 +244,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: indistinctes
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
@@ -273,7 +273,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, évanescent ou laissant un anneau ou zone annuliforme déchirée médian ou basal sur le pied, formé d'éléments tubulaires plus large de 10 µm
+  voile-partiel: fibrilleux, évanescent ou laissant un anneau (ou zone annuliforme déchirée) médian ou basal sur le pied, formé d'éléments tubulaires plus larges de 10 µm
   volve: 
   zone-perihymeniale: 
 ---

@@ -1,6 +1,6 @@
 ---
 nom: Boletus subcaerulescens
-date: 2017-03-02 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/6/5657/20677827014_5ccdd426a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20677827014/in/photolist-yaCLKE-xvegyS
 album-flickr:
@@ -91,7 +91,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -271,6 +270,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

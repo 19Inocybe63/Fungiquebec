@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius distans
-date: 2017-03-03 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/8/7072/27942307491_0d2d8e1b9c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27942307491/in/photolist-JLhYc9-JzaCwg
 album-flickr:
@@ -77,7 +77,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 8-22 mm Ø, convexe, conique-campanulé, omboné, hygrophane, fibrilleux-squamuleux, brun cannelle imbue, brun beige à orangé sec
+  chapeau: 8-22 mm Ø, convexe, conique-campanulé, umboné, hygrophane, fibrilleux-squamuleux, brun cannelle imbu, brun beige à orangé sec
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées, larges, espacées, concolore au chapeau
+  lames: sinuées, larges, espacées, concolores au chapeau
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,9 +211,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
-  pied: 20-35 x 5-6 mm Ø, cylindrique avec cortine formant une zone annuliforme, creux, chiné, parfois avec bandes annulaires, fibrilleux, légèrement concolore à plus foncé
+  pied: 20-35 x 5-6 mm Ø, cylindrique avec cortine formant une zone annuliforme ; creux, chiné, parfois avec bandes annulaires ; fibrilleux, légèrement concolore à plus foncé
   pieds-steriles: 
   pigments: 
   pileipellis: formé de deux couches, 1) suprapellis en cutis, constitué d'hyphes cylindriques, avec hyphes terminales obtus, souvent en biseau, 24,1 - 59,7 × 4,7 - 8,4 µm en moyenne, 2) médiopellis formé de cellules plus grandes, ellipsoïdes à largement ellipsoïdes, ovoïdales, 23 - 52,9 × 10,5 - 19,7 µm en moyenne

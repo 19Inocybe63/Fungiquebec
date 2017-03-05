@@ -1,6 +1,6 @@
 ---
 nom: Coprinellus truncorum
-date: 2017-03-03 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c1.staticflickr.com/3/2922/14221760856_2a6067ffc5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14221760856/in/photolist-sXpQiS-s1P2ep-nGNyqX-nEJf2o
 album-flickr:
@@ -83,7 +83,7 @@ description:
   cellules-stromatiques: 
   chair: mince
   chancre: 
-  chapeau: jusqu'à 35 mm de hauteur x 3 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique à convexe, ocre au début, vite ocre pâle vers la marge et ocre au centre, couvert de fins flocons granuleux vélaires blanchâtres mais légèrement concolores au fond au centre, vite fugaces, à marge incurvée au début, puis puis droite, striée
+  chapeau: jusqu'à 35 mm de hauteur x 3 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique à convexe, ocre au début, vite ocre pâle vers la marge et ocre au centre, couvert de fins flocons granuleux vélaires blanchâtres mais légèrement concolores au fond au centre, vite fugaces, à marge incurvée au début, puis droite, striée
   cheilocystides: abondantes, cylindriques à largement cylindriques, 77-120 x 43-53 μm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -131,7 +131,7 @@ description:
   elements-setoides: 
   elements-steriles: 
   elements-sur-les-cotes: 
-  elements-velaires: formés de cellules subglobuleuses, à paroi mince, 15-40 µm Ø, reliées à des hyphes étroitement légèrement diverticulées
+  elements-velaires: formés de cellules subglobuleuses, à paroi mince, 15-40 µm Ø, reliées à des hyphes légèrement diverticulées
   endoperidium: 
   especes-identification: 
   especes-semblables: 
@@ -220,11 +220,11 @@ description:
   pied: 40-140 x 2-7 mm Ø, clavé vers la base, lisse ou très finement fibrilleux, blanc, avec un col en forme de volve
   pieds-steriles: 
   pigments: 
-  pileipellis: en hyméniderme épithéloïde
+  pileipellis: en hyménoderme épithéloïde
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: occasionnelles, elliptiques large à elliptiques allongées 74-125 x 45-62 μm en moyenne
+  pleurocystides: occasionnelles, elliptiques larges à elliptiques allongées 74-125 x 45-62 μm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

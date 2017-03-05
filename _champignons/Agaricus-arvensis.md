@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol en milieux herbeux et ouverts, pelouses, champs, pâturages, orée des forêts, parfois clairières
+  biotopes: pousse au sol en milieux herbeux et ouverts ; pelouses, champs, pâturages, orée des forêts, parfois clairières
   boucles: absentes
   brachybasidioles: 
   calicule: 

@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe praecox
-date: 2017-03-02 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/4/3821/8780672969_b12aa3654b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8780672969/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY
 album-flickr:
@@ -103,8 +103,8 @@ description:
   cellules-stromatiques: 
   chair: moyennement épaisse à épaisse en son centre, blanchâtre à crème
   chancre: 
-  chapeau: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plissé finement dans un petit rayon concentrique à la marge
-  cheilocystides: nombreuses, ventrues avec col absent et/ou avec col allongé 46-54 x 22-26 µm en moyenne, fusiformes-ventrues 55-70 x 23-24 µm en moyenne, claviformes, rares utriformes au sens de Romagnesi, à paroi mince, lisses, hyalines
+  chapeau: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plissé finement dans un petit rayon concentrique à la marge.
+  cheilocystides: nombreuses, ventrues avec col absent ou avec col allongé 46-54 x 22-26 µm en moyenne, fusiformes-ventrues 55-70 x 23-24 µm en moyenne, claviformes, rares utriformes au sens de Romagnesi, à paroi mince, lisses, hyalines
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -204,7 +204,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées à échancrées, sublarges à larges, serrées et très finement érodées ; lamellules, beige à crème ; arête rouille 
+  lames: sinuées à échancrées, sublarges à larges, serrées et très finement érodées, lamellules, beige à crème, à arêtes rouille
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -237,14 +237,14 @@ description:
   peritheces: 
   phenologie: de mai à juillet
   phialoconidies: 
-  pied: 14-68 x 3-12 mm Ø, légèrement aplati, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strié longitudinalement, crème à brun, brun pâle à la base ; bulbe plein et plutôt blanchâtre, à crème ; mycélium basal
+  pied: 14-68 x 3-12 mm Ø, légèrement aplati, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strié longitudinalement, crème à brun, brun pâle à la base, bulbe plein et plutôt blanchâtre, à crème, mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme à ixohyménoderme
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: nombreuses, fusiformes-ventrues 55 x 23,7 µm en moyenne, ventrues avec col absent et/ou avec col allongé 54 x 24 µm en moyenne, rares utriformes au sens de Romagnesi 32,5 x 13 µm, à paroi mince, lisses, hyalines
+  pleurocystides: nombreuses, fusiformes-ventrues 55 x 23,7 µm en moyenne, ventrues avec col absent ou avec col allongé 54 x 24 µm en moyenne, rares utriformes au sens de Romagnesi 32,5 x 13 µm, à paroi mince, lisses, hyalines
   poils: 
   poils-basaux: 
   poils-caulinaires: 

@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol en milieux herbeux et ouverts, pelouses, champs, pâturages, orée des forêts, parfois clairières
+  biotopes: pousse au sol en milieux herbeux et ouverts, pelouses, champs, pâturages, orée des forêts, parfois clairières.
   boucles: absentes
   brachybasidioles: 
   calicule: 
@@ -72,7 +72,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ferme, immuable, blanche ; jusqu'à 25 mm d'épaisseur
+  chair: ferme, immuable, blanche, jusqu'à 25 mm d'épaisseur.
   chancre: 
   chapeau: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, à marge appendiculée de restes vélaires.
   cheilochrysocystides:
@@ -194,7 +194,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: grégaire ; parfois en décrivant un cercle
+  mode-de-croissance: grégaire, parfois en décrivant un cercle
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

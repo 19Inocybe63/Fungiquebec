@@ -86,7 +86,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol tourné, débris ligneux, plate-bande, copeaux de bois enfouis, sous </i>Syringa vulgaris
+  biotopes: pousse sur sol tourné, débris ligneux, plate-bande, copeaux de bois enfouis, sous </i>Syringa vulgaris</i>
   boucles: 
   brachybasidioles: 
   calicule: 

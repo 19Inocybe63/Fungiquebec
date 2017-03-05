@@ -217,7 +217,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 70-150 x 7-20 mm, bulbeux à la base, sec, glabre ou finement soyeuse, blanchâtre à brun pâle, entouré de 2 à 4 bandelettes concentriques orange-rouge, avec une zone annulaire rouille au-dessus des bandes, mycélium basal blanchâtre
+  pied: 70-150 x 7-20 mm, bulbeux à la base, sec, glabre ou finement soyeux, blanchâtre à brun pâle, entouré de 2 à 4 bandelettes concentriques orange-rouge, avec une zone annulaire rouille au-dessus des bandes, mycélium basal blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

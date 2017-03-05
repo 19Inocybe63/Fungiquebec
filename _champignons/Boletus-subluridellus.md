@@ -1,6 +1,6 @@
 ---
 nom: Boletus subluridellus
-date: 2017-03-04 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19726150815/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
 album-flickr:
@@ -106,7 +106,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 6-9 mm de long, jaune virant au bleu instantanément lorsqu'ils sont coupés, déprimé autour du stipe à peu près libre
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -237,7 +236,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 2-3 par mm, ronds, carmin ou rouge foncé, instantanément bleus lorsque meurtris
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -283,6 +282,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: 6-9 mm de long, jaune virant au bleu instantanément lorsqu'ils sont coupés ; déprimé autour du stipe à peu près libre ; 2-3 par mm, ronds, carmin ou rouge foncé, instantanément bleu lorsque meurtris
   type: 
   typique: 
   voile: 

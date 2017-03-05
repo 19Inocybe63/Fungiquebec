@@ -1,6 +1,6 @@
 ---
 nom: Boletus separans
-date: 2017-03-04 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c1.staticflickr.com/1/420/20356478421_2ed6c3bb97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20356478421/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA
 album-flickr:
@@ -116,7 +116,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: adnés devenant déprimés, blanchâtres, jaunâtres lentement ternes à ochracé terne (non olivacé), immuables, pores blancs quand il est jeune, devenant jaune pâle, mais pas de coloration bleue, 1-2 mm, rond ou presque
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -294,6 +293,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: adnés devenant déprimés ; blanchâtres, jaunâtres lentement ternes à ochracé terne (non olivacé) ; immuables, blancs quand il est jeune, devenant jaune pâle, mais pas de coloration bleue, 1-2 mm, rond ou presque
   type: 
   typique: 
   voile: 

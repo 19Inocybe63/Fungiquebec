@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: ± concolore à la face poroïde, jusqu'à 2 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -206,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à août
   phialoconidies: 
   pied: 20-40 x 2-6 mm Ø, presque centré, égal à aplati, souvent élargi à la base, finement velouté, ocre
   pieds-steriles: 
@@ -286,6 +285,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: ± concolores à la face poroïde ; jusqu'à 2 mm de longueur
   type: 
   typique: 
   voile: 

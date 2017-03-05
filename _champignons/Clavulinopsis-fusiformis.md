@@ -225,7 +225,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: indistinct, fusionnant rapidement avec la clavule, glabre, finement sillonné, blanc à blanchâtre
   pieds-steriles: 

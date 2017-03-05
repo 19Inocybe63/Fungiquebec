@@ -1,6 +1,6 @@
 ---
 nom: Coprinellus disseminatus
-date: 2017-03-03 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/4/3900/14280968558_e1ee06d97a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14280968558/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
 album-flickr:
@@ -72,7 +72,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, immuable, blanche grisâtre
   chancre: 
-  chapeau: jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après expansion, ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge dont elle porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement blanc à crème
+  chapeau: jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après expansion, ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge, qui porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement blanc à crème
   cheilocystides: cylindriques à subcapitées 70 × 15 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 

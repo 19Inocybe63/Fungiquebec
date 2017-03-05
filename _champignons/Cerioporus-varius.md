@@ -84,7 +84,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: subéreux, azoné, blanc, chamois à brun pâle, jusqu'à 5 mm d'épaisseur, parfois jusqu'à 15 mm
+  contexte: subéreux, non zoné, blanc, chamois à brun pâle, jusqu'à 5 mm d'épaisseur, parfois jusqu'à 15 mm
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: souvent décurrentes jusque sur la portion noire du pied, blanches à crème, 1-5 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -208,7 +207,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 10-20 x 4-7 mm Ø, central ou décentrée à latérale, conique légèrement à la base, souvent courbée, sec, glabre et pâle à l'apex, devenant veloutée et brun foncé à noir de la base vers le haut, coriace, dur
+  pied: 10-20 x 4-7 mm Ø, central ou décentré à latéral, conique légèrement à la base, souvent courbé, sec, glabre et pâle à l'apex, devenant velouté et brun foncé à noir de la base vers le haut, coriace, dur
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -228,7 +227,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds à anguleux, 6-9 par mm, à dissépiments entiers
+  pores: souvent décurrents jusque sur la portion noire du pied, blanches à crème, 1-5 mm de longueur ; ronds à anguleux, 6-9 par mm, à dissépiments entiers
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

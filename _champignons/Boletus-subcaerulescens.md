@@ -200,7 +200,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: cylindrique, dont l'apex est jaune et mauve du milieu vers la base
   pieds-steriles: 

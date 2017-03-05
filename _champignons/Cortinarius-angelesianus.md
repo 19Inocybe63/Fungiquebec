@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius angelesianus
-date: 2017-03-03 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/4/3929/15417912301_99e8c4201e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15417912301/in/photolist-psEZ9Q-pddKms-puqQba-pddWKt
 album-flickr:
@@ -206,7 +206,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 30-100 x 3-8 mm Ø, cylindrique, égal, crème brunâtre, plus foncé à l'humidité, orné de fibrilles ocrées, parfois ± disposées en bandelettes orangées
   pieds-steriles: 

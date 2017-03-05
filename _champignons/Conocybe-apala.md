@@ -1,6 +1,6 @@
 ---
 nom: Conocybe apala
-date: 2017-03-03 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c1.staticflickr.com/1/556/20294391061_b3d85acf00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20294391061/in/photolist-wVm4qa-wCkeW2
 album-flickr:
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 53-85 x 1-2 mm Ø, cylindrique, légèrement élargie à du milieu vers la base, légèrement strié, blanchâtre
+  pied: 53-85 x 1-2 mm Ø, cylindrique, légèrement élargi du milieu vers la base ; légèrement strié, blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

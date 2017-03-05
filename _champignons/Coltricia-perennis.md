@@ -94,7 +94,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: compacte, brun à brun rouille, devenant plus pâle vers la face supérieure, 1-2 mm d'épaisseur
+  contexte: compact, brun à brun rouille, devenant plus pâle vers la face supérieure, 1-2 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -103,7 +103,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: subdécurrente, brun rouille à cannelle, jusqu'à 3 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -216,7 +215,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: 20-50 x 2-10 mm Ø, centré, parfois excentré, cylindrique, égal à ± aplati, souvent élargi vers la base, feutré vers la base, brun foncé à brun rouille
   pieds-steriles: 
@@ -238,7 +237,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds-anguleux, devenant inégaux, 2-4 par mm, à dissépiments minces, parfois légèrement incisés ou dentés avec l'âge
+  pores: subdécurrents, brun rouille à cannelle, jusqu'à 3 mm de longueur ; ronds-anguleux, devenant inégaux, 2-4 par mm, à dissépiments minces, parfois légèrement incisés ou dentés avec l'âge
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -299,6 +298,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

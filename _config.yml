@@ -188,8 +188,8 @@ champs-description:
     label: Face poroïde
   - name: pores
     label: Pores
-  - name: couches-de-tubes
-    label: Couche(s) de tubes
+  - name: tubes
+    label: Tubes
   - name: contexte
     label: Contexte
   - name: lames

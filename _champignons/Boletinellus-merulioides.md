@@ -1,6 +1,6 @@
 ---
 nom: Boletinellus merulioides
-date: 2017-03-04 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c1.staticflickr.com/1/681/20710760485_9274b8e443_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20710760485/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
 album-flickr:
@@ -106,7 +106,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: décurrente, concolore à la face poroïde, 3-6 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -236,7 +235,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: anguleux et interveinés, bolétinoïdes, parfois sublamellés, très larges, 1 mm ou plus de largeur
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -285,6 +284,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: parallèle à subparallèle
+  tubes: décurrents, concolore à la face poroïde, 3-6 mm de longueur ; anguleux et interveinés, bolétinoïdes, parfois sublamellés, très larges, 1 mm ou plus de largeurs
   type: 
   typique: 
   voile: 

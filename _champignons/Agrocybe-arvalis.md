@@ -57,23 +57,23 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques ; bisporiques à tétrasporiques, bouclées à la base, 25,6 [27,6; 30,9] 32,9 x 6,1 [7; 8,5] 9,4 µm
+  basides: cylindriques, bisporiques à tétrasporiques, bouclées à la base, 25,6 [27,6; 30,9] 32,9 x 6,1 [7; 8,5] 9,4 µm
   basidiospores: |
-    elliptiques-ovoïdes en vue frontale à elliptiques à longuement elliptiques vues de profil ; lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm ; avec appendice hilaire et pore germinatif 1-1,3 µm ; à contenu variable ; brun pâle avec de légers reflets rougeâtres dans le NaCl iso 0,9% ; pas de réaction dans le melzer ; non cyanophiles
+    elliptiques-ovoïdes en vue frontale à elliptiques à longuement elliptiques vues de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec appendice hilaire et pore germinatif 1-1,3 µm, à contenu variable, brun pâle avec de légers reflets rougeâtres dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     (8,7) 9,1 [10,3; 10,8] 12 x 4,8 [5,5; 5,8] 6,5 µm
     Q = 1,7 [1,8; 1,9] 2; N = 90; C = 95%
     Me = 10,5 x 5,7 µm; Qe = 1,9
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sols retournés ; au travers des copeaux de bois
+  biotopes: pousse sur sols retournés, au travers des copeaux de bois
   boucles: observées dans la trame lamellaire et le mycélium basal
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: polymorphes ; cylindriques-clavées, fusiformes, lagéniformes 68,3 [70,8; 82,6] 85,1 x 14,7 [15,7; 20,3] 21,2 µm en moyenne
+  caulocystides: polymorphes, cylindriques-clavées, fusiformes, lagéniformes 68,3 [70,8; 82,6] 85,1 x 14,7 [15,7; 20,3] 21,2 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -81,9 +81,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, immuable ; hyaline à blanchâtre
+  chair: mince, immuable, hyaline à blanchâtre
   chancre: 
-  chapeau: 11 x 53 mm Ø ; convexe à campanulé, puis étalé ; mamelonné, non visqueux, non hygrophane, glabre, zoné de couleurs différentes du disque vers la marge ; ocre foncé au centre et crème pâle vers la marge au frais, uniformément ocre foncé au sec ; à marge unie, droite à relevée avec l'âge, crème au début, devenant plus foncée à maturité, légèrement récurvée avec l’âge
+  chapeau: 11 x 53 mm Ø, convexe à campanulé, puis étalé, mamelonné, non visqueux, non hygrophane, glabre, zoné de couleurs différentes du disque vers la marge, ocre foncé au centre et crème pâle vers la marge au frais, uniformément ocre foncé au sec ; à marge unie, droite à relevée avec l'âge, crème au début, devenant plus foncée à maturité, légèrement récurvée avec l’âge.
   cheilocystides: 
   cheiloleptocystides: abondantes, polymorphes ; parfois en petites touffes, lagéniformes 41,3 [46,5; 60,9] 66,1 x 10,5 [13 ; 20] 22,6 µm en moyenne, parfois avec inclusions apicales ; suboblongues 45,6 [47,9; 58,9] 61,2 x 17,2 [18; 22,1] 22,9 µm en moyenne, utriformes 40,1 [42,4; 53,5] 55,8 x 19,3 [19,6; 21,4] 21,8 µm en moyenne
   cheilomacrocystides: 
@@ -185,7 +185,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées à libres ; larges, minces, cunéiformes, serrées, avec lamelles et lamellules ; dont l’arête est sérulée ; ocre à ocre foncé presque concolore au chapeau, à arêtes plus foncées
+  lames: adnexées à libres, larges, minces, cunéiformes, serrées, avec lamelles et lamellules, dont l’arête est sérulée, ocre à ocre foncé presque concolore au chapeau, à arêtes plus foncées.
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -202,7 +202,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: grégaire, dispersé ; pousse parfois en groupe abondant de plus de 500 spécimens
+  mode-de-croissance: grégaire, dispersé, pousse parfois en groupe abondant de plus de 500 spécimens
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -217,14 +217,14 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: (40) 70-111 x (1) 3-8 mm Ø ; égal ou un peu renflé à la base et légèrement radicant ; tenace, creux, cotonneux blanc à l'apex, longuement strié ; blanchâtre à l'apex et concolore au chapeau vers la base, ocre pâle ; couvert d’un mycélium blanc à la base ; muni de petits trichoïdes de 1-4 mm de longueur. Le pied arrivant d'une pseudorhize courte, il produit de nombreux petits rhizoïdes lui procurant une grande stabilité au travers des copeaux de bois ; arrivant d'une sclérote de 20 à 40 mm
+  pied: (40) 70-111 x (1) 3-8 mm Ø, égal ou un peu renflé à la base et légèrement radicant, tenace, creux, cotonneux blanc à l'apex, longuement strié, blanchâtre à l'apex et concolore au chapeau vers la base, ocre pâle, couvert d’un mycélium blanc à la base, muni de petits trichoïdes de 1-4 mm de longueur. Le pied arrivant d'une pseudorhize courte, il produit de nombreux petits rhizoïdes lui procurant une grande stabilité au travers des copeaux de bois, arrivant d'une sclérote de 20 à 40 mm.
   pieds-steriles: 
   pigments: 
   pileipellis: subcutis en épithélium avec un couche superficielle (épicutis) hyménodermique
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: dispersées ; largement clavées, lagéniformes, sublécythiformes 45,1 [49,7; 57,3] 61,9 x 15,7 [19,7; 26,2] 30,2 µm, avec 3 à 8 digitations apicales 10,4 [12,7; 15,9] 18,2 x 2,4 [3,2; 4,3] 5,1 µm
+  pleurocystides: dispersées, largement clavées, lagéniformes, sublécythiformes 45,1 [49,7; 57,3] 61,9 x 15,7 [19,7; 26,2] 30,2 µm, avec 3 à 8 digitations apicales 10,4 [12,7; 15,9] 18,2 x 2,4 [3,2; 4,3] 5,1 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

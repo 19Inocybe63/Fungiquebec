@@ -116,7 +116,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: jaune, 8-26 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -247,7 +246,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires et petits, 2 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -291,6 +290,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: jaune, 8-26 mm de longueur ; circulaires et petits, 2 par mm
   type: 
   typique: 
   voile: 

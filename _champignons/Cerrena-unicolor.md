@@ -1,6 +1,6 @@
 ---
 nom: Cerrena unicolor
-date: 2017-03-02 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/4/3876/14783725081_686bf42dfe_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14783725081/in/photolist-ofb36w-ofb1ZJ-owCLCw-owospK
 album-flickr:
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 100 mm de longueur, 20-50 mm de largeur, 5-10 mm d'épaisseur, dimidié, conchoïde à flabelliforme, hirsute à subglabre, zoné et sillonné concentriquement, blanchâtre, gris à brunâtre pâle, souvent verdâtre à brun verdâtre par les algues, à marge aiguë à obtuse, parfois ondulée à brisée, souvent pâle
+  chapeau: jusqu'à 100 mm de longueur, 20-50 mm de largeur, 5-10 mm d'épaisseur, dimidié, conchoïde à flabelliforme, hirsute à subglabre, zoné et sillonné concentriquement, blanchâtre, gris à brunâtre pâle, souvent coloré de verdâtre à brun verdâtre par les algues, à marge aiguë à obtuse, parfois ondulée à brisée, souvent pâle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -84,7 +84,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: duplexe ; 1) zone foncée séparant le tomentum piléique, mince, molle et spongieuse ; 2) partie inférieure subéreuse, brunâtre pâle jusqu'à 3 mm d'épaisseur au total
+  contexte: double ; 1) zone foncée séparant le tomentum piléique, mince, molle et spongieuse ; 2) partie inférieure subéreuse, brunâtre pâle jusqu'à 3 mm d'épaisseur au total
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: continue et concolore au contexte inférieur, jusqu'à 10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -203,7 +202,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -225,7 +224,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: variables, ronds à la marge, allongés, sinueux, vite dédaloïdes et irpicoïdes vers la base, 3-4 par mm, plus grands par endroits, à dissépiments épais et fimbriés au début, minces et lacérés avec l'âge
+  pores: continus et concolores au contexte inférieur, jusqu'à 10 mm de longueur ; variables, ronds à la marge ; allongés, sinueux, vite dédaloïdes et irpicoïdes vers la base, 3-4 par mm ; plus grands par endroits, à dissépiments épais et fimbriés au début, minces et lacérés avec l'âge
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -282,6 +281,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: 
   type: 
   typique: 
   voile: 

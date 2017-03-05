@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius pholideus
-date: 2017-03-03 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c1.staticflickr.com/1/609/21586158261_ab26f267bf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21586158261/in/photolist-yA7MiG-yTuGNr
 album-flickr:
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées à subdécurrentes, serrées, larges, gris-brun ou violettes au début, avec lamelles et lamellules, brun rouille avec l'âge, à arêtes plus pâles et ± denticulées
+  lames: sinuées à subdécurrentes, serrées, larges, gris-brun ou violettes au début, avec lamelles et lamellules, brun rouille avec l'âge, aux arêtes plus pâles et ± denticulées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

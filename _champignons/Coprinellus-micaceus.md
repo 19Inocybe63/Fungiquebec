@@ -1,6 +1,6 @@
 ---
 nom: Coprinellus micaceus
-date: 2017-03-03 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/4/3902/14496677944_a47634fdd8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14311334720/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
 album-flickr:
@@ -63,7 +63,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: lagéniformes à longuement cylindrique
+  caulocystides: lagéniformes à longuement cylindriques
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 

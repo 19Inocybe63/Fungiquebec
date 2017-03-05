@@ -201,7 +201,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 30-90 mm x 10-30 mm Ø, cylindrique ± égale, blanchâtre, devenant jaune gris à jaune orangé de la base vers le haut, réticulé en évidence sur toute la tige, avec un gros réticulum blanc qui devient jaunâtre, puis brunâtre ou noirâtre à maturité ou lorsqu'il est manipulé, ferme, à la base parfois radicante
   pieds-steriles: 

@@ -1,6 +1,6 @@
 ---
 nom: Chlorociboria aeruginascens
-date: 2017-03-02 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c1.staticflickr.com/9/8231/29832790142_9e39b52477_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832790142/in/photolist-MsdR9J-MzfAsC
 album-flickr:
@@ -46,7 +46,7 @@ description:
     Q = (3,5) 3,6 - 4,7 (4,9) ; N = 30
     Me = 11,7 × 2,8 µm ; Qe = 4,2
     (Piximètre formule classique ; mesures des ascospores matures dans E.G. 20%)
-  asques: cylindriques fusiformes, octosporé et ± bisériées, apex IKI +b, (63,7) 64,5 - 66,4 (84,5) × (5,8) 5,9 - 6,4 (6,5) µm
+  asques: cylindriques fusiformes, octosporés et ± bisériés, apex IKI +b, (63,7) 64,5 - 66,4 (84,5) × (5,8) 5,9 - 6,4 (6,5) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -98,7 +98,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -150,7 +149,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: concolore à la face externe, vert-de-gris-bleuâtre, turquoise à olivacée, parfois vert blanchâtre pâle à jaune orangé pâle, tendant blanchir au sec
+  hymenophore: concolore à la face externe, vert-de-gris-bleuâtre, turquoise à olivacé, parfois vert blanchâtre pâle à jaune orangé pâle, tendant à blanchir au sec
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -276,6 +275,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

@@ -79,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, immuable, blanchâtre, douce lorsque jeune, mais coriace lorsque mature
   chancre: 
-  chapeau: 50-300 mm Ø, 10-40 mm d'épaisseur, assez variable dans ses formes, mais généralement semi-circulaire, en forme de rein, ou en éventail, convexe, devenant plat, faiblement déprimée, ou profondément déprimé, sec, pâle tan à jaunâtre crème, avec écailles noirâtres qui sont vaguement disposées radialement, avec développement d'une zone noire au centre, dont la marge mince initialement incurvée, même lorsque mature
+  chapeau: 50-300 mm Ø, 10-40 mm d'épaisseur, assez variable dans ses formes, mais généralement semi-circulaire, en forme de rein, ou en éventail, convexe, devenant plat, faiblement ou profondément déprimé, sec, pâle tan à jaunâtre crème, avec écailles noirâtres qui sont vaguement disposées radialement, avec développement d'une zone noire au centre, dont la marge mince initialement incurvée, même lorsque mature
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -101,7 +101,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: jusqu'à 15 mm de profondeur, non facilement séparable
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -232,7 +231,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: crème blanchâtre, devenant jaunâtre à maturité, pores larges à maturité, angulaires et souvent irréguliers
+  pores: larges à maturité, angulaires et souvent irréguliers ; crème blanchâtre, devenant jaunâtre ; jusqu'à 15 mm de profondeur, non facilement séparables
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

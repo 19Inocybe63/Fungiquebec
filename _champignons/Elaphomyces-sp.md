@@ -229,7 +229,7 @@ description:
   peridiopellis: 
   peridium: 9-30 x 10-34 mm Ø, surface granuleuse, jaunâtre
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

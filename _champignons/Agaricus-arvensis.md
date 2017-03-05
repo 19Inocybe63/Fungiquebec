@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à claviformes subventrues ; tétrasporiques ; non bouclées à la base ; parfois avec contenu, (19,4) 21,7-28,8 (29,3) × (6,5) 7,8-9,2 (9,7) µm
   basidiospores: |
-    ovales à elliptiques vues de front, ellptiques à largement elliptiques vues de profil ; lisses ; à paroi mince à légèrement épaissie ; sans pore germinatif distinct ; avec petit appendice hilaire ; à contenu uniguttulé ; brun foncé dans E.G. 20% ; pas de réaction dans le melzer ; non cyanophiles
+    ovales à elliptiques vues de front, elliptiques à largement elliptiques vues de profil ; lisses ; à paroi mince à légèrement épaissie ; sans pore germinatif distinct ; avec petit appendice hilaire ; à contenu uniguttulé ; brun foncé dans E.G. 20% ; pas de réaction dans le melzer ; non cyanophiles
     (6) 6,3-7,4 (7,9) × (4,2) 4,4-5,1 (5,4) µm
     Q = (1,3) 1,34-1,5 (1,6) ; N = 30
     Me = 6,8 × 4,7 µm ; Qe = 1,4
@@ -74,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, immuable, blanche ; jusqu'à 25 mm d'épaisseur
   chancre: 
-  chapeau: 44-86 mm Ø ; globuleux, largement convexe à convexe-étalé ; sec ; lisse ; crème beige à chamois, brun pâle vers le centre ; à marge appendiculée de reste vélaire
+  chapeau: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, à marge appendiculée de restes vélaires.
   cheilochrysocystides:
   cheilocystides: abondantes ; peu émergentes ; formées de cellules cylindriques à subglobuleuses, oblongues à piriformes, caténulées, (8,2) 10,5-15,1 (22,3) × (4,1) 5,5-8,1 (8,6) µm
   cheiloleptocystides: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, larges, serrées à très serrées ; blanches à grisâtres, brun grisâtre à brun rosâtre ; aux arêtes entières, pâles
+  lames: libres, larges, serrées à très serrées, blanches à grisâtres, brun grisâtre à brun rosâtre, à arêtes entières, pâles.
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -210,7 +210,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 54-56 x 13-17 mm Ø ; égal, cylindrique à claviforme ; dont la base est subbulbeuse ; plein, farci puis creux ; lisse au-dessus de l'anneau ; fibrilleux-squamuleux-cotonneux au-dessous ; blanc beige
+  pied: 54-56 x 13-17 mm Ø, égal, cylindrique à claviforme, dont la base est subbulbeuse ; plein, farci puis creux, lisse au-dessus de l'anneau, fibrilleux-squamuleux-cotonneux au-dessous, blanc beige.
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, formé d'hyphes apprimées, parallèles, non bouclées ; hyalines à légèrement pigmentées, 3,5-5 µm Ø

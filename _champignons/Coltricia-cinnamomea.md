@@ -1,6 +1,6 @@
 ---
 nom: Coltricia cinnamomea
-date: 2017-03-03 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c1.staticflickr.com/1/320/19728812658_fe09f8de71_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19728812658/in/photolist-vp7x2F-vp7BKt-w4nCVS-voYd5E-w4njEo
 album-flickr:
@@ -227,7 +227,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds à anguleux, distinctement plus petits que 2 par mm, à dissépiments minces
+  pores: ± concolores à la face poroïde ; jusqu'à 2 mm de longueur ; ronds à anguleux, distinctement plus petits que 2 par mm, à dissépiments minces
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -285,7 +285,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: ± concolores à la face poroïde ; jusqu'à 2 mm de longueur
+  tubes: 
   type: 
   typique: 
   voile: 

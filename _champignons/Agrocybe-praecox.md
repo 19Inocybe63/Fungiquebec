@@ -237,7 +237,7 @@ description:
   peritheces: 
   phenologie: de mai à juillet
   phialoconidies: 
-  pied: 14-68 x 3-12 mm Ø, légèrement aplati, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strié longitudinalement, crème à brun, brun pâle à la base, bulbe plein et plutôt blanchâtre, à crème, mycélium basal
+  pied: 14-68 x 3-12 mm Ø, légèrement aplati, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strié longitudinalement, crème à brun, brun pâle à la base, bulbe plein et plutôt blanchâtre à crème, avec mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme à ixohyménoderme

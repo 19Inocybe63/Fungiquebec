@@ -36,7 +36,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: recouverte de gélatine sur presque toute sa longueur
+  arete-lamellaire: recouverte d'un gélin sur presque toute sa longueur
   arthroconidies: 
   articles: |
     Cripps, Cathy L., Liimatainen, Kare, et al. Intercontinental distributions of species of Cortinarius, subgenus Phlegmacium, associated with Populus in western North America, Botany 93: 711-721 (2015), 11 p.
@@ -216,7 +216,7 @@ description:
   pied: 20-35 x 5-6 mm Ø, cylindrique avec cortine formant une zone annuliforme ; creux, chiné, parfois avec bandes annulaires ; fibrilleux, légèrement concolore à plus foncé
   pieds-steriles: 
   pigments: 
-  pileipellis: formé de deux couches, 1) suprapellis en cutis, constitué d'hyphes cylindriques, avec hyphes terminales obtus, souvent en biseau, 24,1 - 59,7 × 4,7 - 8,4 µm en moyenne, 2) médiopellis formé de cellules plus grandes, ellipsoïdes à largement ellipsoïdes, ovoïdales, 23 - 52,9 × 10,5 - 19,7 µm en moyenne
+  pileipellis: formé de deux couches, 1) suprapellis en cutis, constitué d'hyphes cylindriques, avec hyphes terminales obtuses, souvent en biseau, 24,1 - 59,7 × 4,7 - 8,4 µm en moyenne, 2) médiopellis formé de cellules plus grandes, ellipsoïdes à largement ellipsoïdes, ovoïdales, 23 - 52,9 × 10,5 - 19,7 µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -253,7 +253,7 @@ description:
   reactions-macrochimiques: |
     TL4 = le chapeau ne se colore pas
   receptacle: 
-  remarques: La gélatine présente sur l'arête lamellaire en couvrait une bonne partie, englobant ainsi les cellules marginales
+  remarques: Le gélin présent sur l'arête lamellaire en couvrait une bonne partie, englobant ainsi les cellules marginales
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

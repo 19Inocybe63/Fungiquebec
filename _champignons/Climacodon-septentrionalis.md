@@ -1,6 +1,6 @@
 ---
 nom: Climacodon septentrionalis
-date: 2017-03-03 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/6/5666/20983721528_ec61923f61_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20983721528/in/photolist-yeXCLo-xYg4md-yeXHQS
 album-flickr:
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, fibreuse, coriace, immuable à la coupe
   chancre: 
-  chapeau: 100-150 (300) mm de largeur, 20-50 mm d'épaisseur à la base, en console, convexe, étalé à légèrement déprimé, atténué vers la marge, de contour semi-circulaire, collant à sec, tomenteux-rugueux, blanchâtre, puis crème jaunâtre, en amas imbriqués jusqu'à 100-400 mm de hauteur au total
+  chapeau: 100-150 (300) mm de largeur, 20-50 mm d'épaisseur à la base, en console, convexe, étalé à légèrement déprimé, atténué vers la marge, à contour semi-circulaire, collant à sec, tomenteux-rugueux, blanchâtre, puis crème jaunâtre, en amas imbriqués jusqu'à 100-400 mm de hauteur au total
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -241,7 +240,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    L'arbre avait trois spécimens tout situés sur de longues fissures. Deux étaient à un mètre et demi du sol, un troisième spécimen à environ deux et trois mètres du sol ;
+    L'arbre portait trois spécimens, tout situés sur de longues fissures. Deux étaient à un mètre et demi du sol, un troisième spécimen à près de trois mètres du sol.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -270,6 +269,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

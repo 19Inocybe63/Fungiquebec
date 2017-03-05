@@ -225,7 +225,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 50-120 x 5-12 mm Ø, cylindrique, parfois claviforme à la base, avec zone annuliforme fibrilleuse, sec, ocre pâle à brun rougeâtre, densément fibrilleux-squarreux sous la zone annuliforme
   pieds-steriles: 

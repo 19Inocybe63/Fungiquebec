@@ -1,6 +1,6 @@
 ---
 nom: Laccaria striatula
-date: 2017-01-20 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/8/7412/9146599462_fb7a75f103_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9146599462/in/photolist-eW4mtk-eWfHmJ
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

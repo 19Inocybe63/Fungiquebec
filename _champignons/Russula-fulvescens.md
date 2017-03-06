@@ -1,6 +1,6 @@
 ---
 nom: Russula fulvescens
-date: 2016-11-21 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/9/8214/29040518066_72b46c7929_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29040518066/in/photolist-Lfdfgm
 album-flickr:
@@ -19,7 +19,7 @@ collections:
   - fongarium: cKc0539
     date: 18 août 2016
     planche:
-      numero: 
+      numero: cKc0539-0160
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
@@ -72,7 +72,7 @@ description:
   chancre: 
   chapeau: 83 mm Ø, convexe à étalé, puis déprimé, jaune orangé, la cuticule collante, pèle presque entièrement
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: occasionnelles, peu émergentes, cylindriques à fusiformes, parfois avec apex mucroné, à contenu pailleté, Sulfovanilline négative (SV -), 60 - 65 × 8 - 10 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -217,7 +217,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: nombreuses, cylindriques à fusiformes, souvent avec apex mucroné, à contenu pailleté, Sulfovanilline négative (SV -), 68,3 - 78,5 × 11 - 13,7 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

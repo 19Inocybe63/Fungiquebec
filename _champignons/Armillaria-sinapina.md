@@ -1,6 +1,6 @@
 ---
 nom: Armillaria sinapina
-date: 2017-03-04 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/9/8169/8064698711_27a2a80ff8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8064698711/in/photolist-eceEmc-dhDFXv
 album-flickr:
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 40-100 x 5-15 mm Ø, clavé, blanchâtre vers l'apex, strié-fibrilleux et brunâtre vers la base, muni d'un anneau délicat, blanchâtre à jaune olivâtre
   pieds-steriles: 

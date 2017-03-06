@@ -1,6 +1,6 @@
 ---
 nom: Amanita amerirubescens
-date: 2016-11-10 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/8/7340/9529571835_f6574d6e2d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9529571835/in/photolist-naiDb4-fwkQjJ-fw6xGF
 album-flickr:
@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: claviformes élancées, tétrasporiques, non bouclées à la base, à contenu vacuolaire, 31-45 x 8-10 μm
   basidiospores: |
-    subelliptiques en vue frontale à subglobuleuses à largement elliptiques vues de profil, lisses, à paroi mince 0,1-0,2 μm, avec appendice hilaire, à contenu uniguttulé à granulations, hyalines dans le NaCl isotonique 0,9%, amyloïdes, cyanophiles
+    subelliptiques en vue frontale à subglobuleuses, largement elliptiques vues de profil, lisses, à paroi mince 0,1-0,2 μm, avec appendice hilaire, à contenu uniguttulé à granulations, hyalines dans le NaCl isotonique 0,9%, amyloïdes, cyanophiles
     8,3 [9; 9,4] 10,2 x 6 [6,8; 7,1] 7,9 µm
     Q = 1,2 [1,3; 1,4] 1,5; N = 28; C = 95%
     Me = 9,2 x 7 µm; Qe = 1,3
@@ -277,7 +277,7 @@ description:
   typique: 
   voile: 
   voile-general: friable, blanc ou gris, rougissant avec l'âge, laissant des flocons sur le chapeau
-  voile-partiel: membraneux, blanchâtre, se tachant de rouge vin avec l'âge, laissant un anneau dans le haut du pied, ample, pendant, persistant, fragile, strié au-dessus ; microscopie = formé d'hyhes et de sphérocystes
+  voile-partiel: membraneux, blanchâtre, se tachant de rouge vin avec l'âge, laissant un anneau dans le haut du pied, ample, pendant, persistant, fragile, strié au-dessus ; formé d'hyhes et de sphérocystes
   volve: 
   zone-perihymeniale: 
 ---

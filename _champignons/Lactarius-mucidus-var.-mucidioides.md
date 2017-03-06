@@ -1,6 +1,6 @@
 ---
 nom: Lactarius mucidus var. mucidioides
-date: 2016-11-03 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/9/8178/7996919806_53f97e1310_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996919806/in/photolist-e9JUKB-dbEiDG
 album-flickr:
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 50-90 x 10-17 mm Ø, égal, creux, viscidule, blanchâtre au sommet, beige rosé plus bas, souvent orné de fossettes brun rougeâtre
   pieds-steriles: 
@@ -252,7 +252,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: Pallidosporée, crème
+  sporee: pallidosporée, crème
   spherocytes: 
   sporocystes: 
   stipitipellis: 

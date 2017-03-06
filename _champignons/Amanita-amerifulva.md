@@ -1,6 +1,6 @@
 ---
 nom: Amanita amerifulva nom. prov.
-date: 2016-12-06 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/4/3842/14598644206_0d2a0c205a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14598644206/in/photolist-of2Sjb-ogTp9m/
 album-flickr:

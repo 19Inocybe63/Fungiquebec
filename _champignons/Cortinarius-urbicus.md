@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, bouclées à la base, 24,5-26,9 × 7,7-8,7 µm
   basidiospores: |
-    largement elliptiques à elliptiques allongées en vue frontale, elliptiques à amygdaliformes vues de profils, parfois légèrement subtronquées, faiblement verruqueuses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire bien développé, pore germinatif non visible, à contenu uniguttulé, hyalines dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
+    largement elliptiques à elliptiques allongées en vue frontale, elliptiques à amygdaliformes vues de profil, parfois légèrement subtronquées, faiblement verruqueuses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire bien développé, pore germinatif non visible, à contenu uniguttulé, hyalines dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
     (6,1) 7,2 - 9,1 (10) × (4,7) 4,8 - 5,4 (5,7) µm
     Q = (1,3) 1,4 - 1,7 (1,9) ; N = 30
     Me = 8,1 × 5,1 µm ; Qe = 1,6

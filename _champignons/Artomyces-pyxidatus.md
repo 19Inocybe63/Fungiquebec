@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2017-03-04 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
@@ -49,11 +49,11 @@ description:
   base-stipitiforme: 
   basides: claviformes, en palissade, tétrasporiques 2,4-3,7 µm de longueur, non bouclées à la base, 14,4 - 20 × 3,7 - 4,3 µm en moyenne
   basidiospores: |
-    courtement elliptiques à subovoïdales en vue frontale, elliptiques-ovoïdales vues de profil, finement verruqueuses (criblées), à paroi mince ; appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes, partiellement cyanophiles à cyanophiles
+    courtement elliptiques à subovoïdales en vue frontale, elliptiques-ovoïdales vues de profil, finement verruqueuses (criblées), à paroi mince, appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes, partiellement cyanophiles à cyanophiles
     (3,7) 4 - 4,6 (5) × (2,5) 2,55 - 2,9 (3) µm
     Q = (1,4) 1,5 - 1,7 (1,9) ; N = 30
     Me = 4,3 × 2,7 µm ; Qe = 1,6
-    (Piximètre, formule classique, mesures issues de sporée, dans E.G. 20%)
+    (Piximètre, formule classique, mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, ramifié à plusieurs reprises, aux extrémités en forme de petites couronnes ; branches 1-5 mm Ø, lisses, blanchâtres à jaune pâle au début, parfois foncées à pâle aux teintes rosâtres en développement, apex couronné d'une dépression peu profonde et de 3-6 pointes, dont les extrémités sont concolores aux branches ou deviennent brunâtres
   bibliographies: 

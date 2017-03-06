@@ -1,6 +1,6 @@
 ---
 nom: Amanita sinicoflava
-date: 2017-03-04 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/4/3859/15083082127_e0523fc7f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15083082127/in/photolist-pntRkJ-oYQJQ8-pgjSSr
 album-flickr:
@@ -253,7 +253,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
-    KOH 10% = absence de coloration ou de décoloration sur le chapeau
+    KOH 10% = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

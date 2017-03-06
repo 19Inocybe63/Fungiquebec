@@ -247,7 +247,7 @@ description:
     FeSO<SUB>4</SUB> =  stipe rosé (3 = moyenne)
     Soluté de gaïac = > 5" stipe + (1 = faible) ; < 5" lames ++ (3 = moyenne)
   receptacle: 
-  remarques: Malheureusement, il manque une photo des lames et encore bien des informations.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

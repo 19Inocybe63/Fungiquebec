@@ -132,7 +132,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte à la cueillette, mais légèrement agréable après 3 heures
+  exhalaison: indistincte à la cueillette, mais agréable après 3 heures
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

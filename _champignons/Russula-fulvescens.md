@@ -49,7 +49,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, non bouclées à la base, 38 - 50 × 12,5 - 15 µm en moyenne
-  basidiospores: 
+  basidiospores: |
+    ovoïdales en vue frontale, largement elliptiques à elliptiques vues de profil, verrues isolées avec réticulum partiel, à paroi mince, plage supra hilaire relativement petite (2 - 2,4 µm Ø en moyenne) et distinctement amyloïde, à contenu uniguttulé, avec proéminences jusqu'à 1,2 µm de hauteur, hyalines dans E.G. 20%, amyloïdes
+    (8,2) 8,7 - 9,6 (10) × (6,9) 6,94 - 7,4 (7,7) µm
+    Q = (1,1) 1,2 - 1,3 (1,4) ; N = 30
+    Me = 9,1 × 7,2 µm ; Qe = 1,3
+    (Piximètre, formule classique ; mesures issues d’une sporée)
   basidioles: 
   basidiome: 
   bibliographies: 

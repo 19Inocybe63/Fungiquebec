@@ -48,7 +48,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes, tétrasporiques, non bouclées à la base, 38 - 50 × 12,5 - 15 µm en moyenne
   basidiospores: 
   basidioles: 
   basidiome: 

@@ -1,6 +1,6 @@
 ---
 nom: Lactarius helvus
-date: 2016-12-15 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/1/694/21586852311_e226e1987d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21586852311/in/photolist-yTyg7P-p1ZDNU-p1ZFAG-oL159Y-ovx8s3-oMKXmR
 album-flickr:
@@ -72,7 +72,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous Abies ou Picae mariana, en milieux humides
+  biotopes: pousse au sol, sous <i>Abies</i> ou <i>Picae mariana</i>, en milieux humides
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -89,7 +89,7 @@ description:
   cellules-stromatiques: 
   chair: ± concolore au chapeau
   chancre: 
-  chapeau: 30-130 mm Ø, convexe avec une marge enroulée au début, devenant largement convexe, plane à légèrement déprimée, avec une marge égale, sec, lisse à finement veloutée au début, devenant rugueux à subécailleux, brun pâle à ± variable
+  chapeau: 30-130 mm Ø, convexe, devenant largement convexe, plane à légèrement déprimé, avec une marge enroulée au début, puis égale ; sec, lisse à finement velouté au début, devenant rugueux à subécailleux, brun pâle à ± variable
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -131,7 +131,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -192,7 +192,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées au début puis subdécurrentes à maturité, serrées, étroites à ± larges, souvent fourchues près du pied, blanchâtre au début devenant crème à ± jaunâtre
+  lames: adnées au début puis subdécurrentes à maturité, serrées, étroites à ± larges, souvent fourchues près du pied, blanchâtres au début devenant crème à ± jaunâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

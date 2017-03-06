@@ -1,6 +1,6 @@
 ---
 nom: Amanita lavendula
-date: 2017-03-04 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/6/5651/30199932386_91347b7511_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30199932386/in/photolist-N1EqdS-N1ExKq
 album-flickr:
@@ -133,7 +133,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: odeur de pomme de terre crue
+  exhalaison-des-lames: de pomme de terre crue
   exoperidium: 
   extremites-hyphales: 
   face-externe: 

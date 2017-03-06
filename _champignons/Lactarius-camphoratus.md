@@ -1,6 +1,6 @@
 ---
 nom: Lactarius camphoratus
-date: 2017-02-11 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/9/8554/30024166755_571409ee88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024166755/in/photolist-MK8GKv
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -206,7 +206,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre (début octobre)
+  phenologie: d'août à septembre (début octobre)
   phialoconidies: 
   pied: 39-49 x 4-7 mm Ø, cylindrique, creux, concolore au chapeau
   pieds-steriles: 

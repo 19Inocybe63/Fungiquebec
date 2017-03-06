@@ -72,7 +72,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous <i>Abies</i> ou <i>Picae mariana</i>, en milieux humides
+  biotopes: pousse au sol, sous <i>Abies</i> ou <i>Picea mariana</i>, en milieux humides
   boucles: 
   brachybasidioles: 
   calicule: 

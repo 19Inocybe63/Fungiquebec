@@ -1,6 +1,6 @@
 ---
 nom: Amanita velatipes
-date: 2017-03-04 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/1/374/19870908390_0f8aa788a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19870908390/in/photolist-vBwq3S-wwdsTb-wgVALN-nensEd-fbph4T-f5orUR-f5oWAF
 album-flickr:
@@ -59,7 +59,7 @@ description:
   base-stipitiforme: 
   basides: piriformes à claviformes, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire, 32-44 x 9-15 µm
   basidiospores: |
-    elliptiques allongées en vue frontale à elliptiques à largement elliptiques vues de profil, lisses, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
+    elliptiques allongées en vue frontale, elliptiques à largement elliptiques vues de profil, lisses, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     9,1 [10,2; 10,7] 11,7 x 6,5 [7; 7,2] 7,7 µm
     Q = 1,3 [1,4; 1,5] 1,6; N = 30; C = 95%
     Me = 10,4 x 7,1 µm; Qe = 1,5

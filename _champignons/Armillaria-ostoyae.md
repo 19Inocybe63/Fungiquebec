@@ -1,6 +1,6 @@
 ---
 nom: Armillaria ostoyae
-date: 2017-03-04 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/6/5598/15505206645_8151e39b28_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15505206645/in/photolist-pLEhxV-pBRYht-pkCiBH-pC9eK4-pkDsTA
 album-flickr:
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 50-150 mm x 8-30 mm Ø, subégal à atténué vers la base, fibrilleux-strié, blanchâtre vers l'apex, devenant brunâtre à presque noir vers la base, souvent avec mycélium basal jaunâtre à jaune olive et longs rhizomorphes noirs qui parcourent le bois
   pieds-steriles: 

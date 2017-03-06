@@ -1,6 +1,6 @@
 ---
 nom: Lactarius turpis
-date: 2016-11-12 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/9/8364/28809911693_d4176fcf69_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28809911693/in/photolist-KTQk2p-LphUVN
 album-flickr:
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: plutôt ferme
   chancre: 
-  chapeau: 40-130 mm Ø, d'abord convexe avec marge enroulée se déroulant à maturité, devenant légèrement à nettement déprimé, la marge parfois crènelée lorsque jeune, surface finement veloutée à veinée, légèrement visqueuse autour du centre, sec et plus nettement velouté, squamuleuse près de la marge chez les jeunes spécimens, à surface devenant ± brillante lorsque mature, avec centre brun olivâtre à noirâtre, gris-olivâtre vers la marge et olivâtre à gris olivâtre pâle, chrome pâle ou jaune paille chez les jeunes spécimens
+  chapeau: 40-130 mm Ø, d'abord convexe devenant légèrement à nettement déprimé, avec marge enroulée se déroulant à maturité, parfois crènelée au début ; surface finement veloutée à veinée ; légèrement visqueux autour du centre, sec et plus nettement velouté, squamuleux près de la marge chez les jeunes spécimens, à surface devenant ± brillante lorsque mature, avec centre brun olivâtre à noirâtre, gris-olivâtre vers la marge et olivâtre à gris olivâtre pâle, chrome pâle ou jaune paille chez les jeunes spécimens
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à ± décurrentes, étroites à sublarges, serrées, un peu bifurqué, blanchâtre, puis crème pâle à crème grisâtre
+  lames: adnées à ± décurrentes, étroites à sublarges, serrées, un peu bifurquées, blanchâtres puis crème pâle à crème grisâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
-  pied: 16-65 x 9-30 mm Ø, cylindrique, épais-trapu et court, parfois légèrement comprimée, surface lisse, légèrement visqueuse, ensuite sec, s'affinant vers la base, scrobiculé, gris pâle à olivâtre à gris-olivâtre, plus pâle à l'apex, devenant brun-olivâtre
+  pied: 16-65 x 9-30 mm Ø, cylindrique, épais-trapu et court, parfois légèrement comprimé ; surface lisse, légèrement visqueuse, ensuite sèche ; s'affinant vers la base, scrobiculé, gris pâle à olivâtre à gris-olivâtre, plus pâle à l'apex, devenant brun-olivâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,7 +226,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: Première étude de ce champignon au Québec
+  premiere-mention: Première étude de ce champignon au Québec.
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

@@ -1,6 +1,6 @@
 ---
 nom: Lacrymaria lacrymabunda
-date: 2017-02-01 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/6/5511/9147119220_73d737a9c6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9147119220/in/photolist-eWivmy-eWiz5w-eWinS5-eW79M6/
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, larges, serrées à très serrées, avec lamellules, ± concolore au chapeau à brun foncé, arête blanchâtre, fimbriée
+  lames: adnées, larges, serrées à très serrées, avec lamellules, ± concolores au chapeau à brun foncé, arêtes blanchâtres, fimbriées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

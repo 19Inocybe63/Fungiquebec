@@ -218,7 +218,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, cylindriques à fusiformes, souvent avec apex mucroné, à contenu pailleté, Sulfovanilline négative (SV -), 68,3 - 78,5 × 11 - 13,7 µm en moyenne
-  poils: 
+  poils: cylindriques, vide optique, septeés, (17,4) 19,5 - 48,7 (55,8) × (1,8) 2,1 - 3,6 (3,9) µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

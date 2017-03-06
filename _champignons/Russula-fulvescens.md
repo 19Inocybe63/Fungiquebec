@@ -214,7 +214,7 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: occasionnelles, cylindriques, dont l’apex se termine souvent spatulé à subspatulé, à rarement bidigitée, septées, Sulfovanilline négatives (SV -), 37 - 87,5 × 4,5 - 6 µm en moyenne
+  pileocystides: occasionnelles, cylindriques, dont l’apex se termine souvent spatulé à subspatulé, à rarement bidigitée ; septées, Sulfovanilline négatives (SV -), 37 - 87,5 × 4,5 - 6 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, cylindriques à fusiformes, souvent avec apex mucroné, à contenu pailleté, Sulfovanilline négative (SV -), 68,3 - 78,5 × 11 - 13,7 µm en moyenne

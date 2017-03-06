@@ -212,7 +212,7 @@ description:
   pied: 84 x 18 mm Ø, cylindrique, farci, blanc, l'intérieur se tâche légèrement de brun rougeâtre très pâle à la coupe
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis, formé d'hyphes non incrustées et de pileocystides occasionnelles
   pileitrame: 
   pileocystides: occasionnelles, cylindriques, dont l’apex se termine souvent spatulé à subspatulé, à rarement bidigitée ; septées, Sulfovanilline négatives (SV -), 37 - 87,5 × 4,5 - 6 µm en moyenne
   plasmode: 

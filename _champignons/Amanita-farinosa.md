@@ -1,6 +1,6 @@
 ---
 nom: Amanita farinosa
-date: 2017-03-02 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9648424458/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
 album-flickr:
@@ -74,7 +74,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus et conifères ; apparaissant parfois dans des zones herbeuses urbaines à proximité des arbres
+  biotopes: pousse au sol, sous feuillus et conifères, apparaissant parfois dans des zones herbeuses urbaines à proximité des arbres
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -220,7 +220,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: début du printemps à fin de l'automne
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 30-90 x 3-10 mm Ø, cylindrique à ± égal, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
   pieds-steriles: 

@@ -1,6 +1,6 @@
 ---
 nom: Lentinus brumalis
-date: 2017-01-20 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/6/5577/30024934032_7af1fb303f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024934032/in/photolist-MKcCQq-MKcJKG
 album-flickr:
@@ -89,7 +89,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 7-23 mm Ø, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire, tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts poils raides et foncés au début, puis sublisse ou velouté, azoné, luisant, bronzé, brun pourpré, brun grisâtre à presque noir, à marge enroulée au début, réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée à ciliée, concolore
+  chapeau: 7-23 mm Ø, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire, tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts poils raides et foncés au début, puis sublisse ou velouté, non zoné, luisant, bronzé, brun pourpré, brun grisâtre à presque noir ; à marge enroulée au début, réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée à ciliée, concolore
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -113,7 +113,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: subdécurrente, blanche à ivoire, 1-3 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -132,7 +131,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -226,7 +225,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 7-12 x 1-2 mm Ø, centré à excentré, égal, droit à courbe, parfois légèrement élargi vers avec base, solide, finement velouté à lisse, blanc grisâtre à brunâtre
   pieds-steriles: 
@@ -306,6 +305,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: subdécurrents, blancs à ivoire, 1-3 mm de longueur
   type: 
   typique: 
   voile: 

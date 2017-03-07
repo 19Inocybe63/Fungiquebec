@@ -107,7 +107,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: concolore à la face poroïde, 10-25 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -239,7 +238,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires 2-3 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -286,6 +285,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: circulaires 2-3 par mm, concolore à la face poroïde, 10-25 mm de longueur
   type: 
   typique: 
   voile: 

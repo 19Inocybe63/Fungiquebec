@@ -1,6 +1,6 @@
 ---
 nom: Laetiporus sulphureus
-date: 2016-11-05 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/4/3887/14711090926_794090957f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14711090926/in/photolist-owP4KZ-os11Bz-orZZwi-opYbNJ
 album-flickr:
@@ -49,7 +49,8 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    elliptiques, ovoïdes à largement ovoïdes, lisses, à paroi mince, à contenu variable, hyalines dans le NaCl, inactives dans le melzer     5,5-7 x 3,5-5 μm
+    elliptiques, ovoïdes à largement ovoïdes, lisses, à paroi mince, à contenu variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer
+    5,5-7 x 3,5-5 μm
   basidioles: 
   basidiome: annuel, sessile, stipité, charnu-mou au début, fibreux-tenace à maturité, imbue au frais, friable et cassant au sec
   bibliographies: 
@@ -68,9 +69,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, aqueux quand jeune, devenant dur à maturité et finit par s'effriter, blanc à jaune pâle
+  chair: épaisse, aqueuse au début, devenant dure à maturité et finit par s'effriter, blanc à jaune pâle
   chancre: 
-  chapeau: 50-300 mm de largeur et jusqu'à 200 mm de profondeur, jusqu'à 30 mm d'épaisseur, en forme d'éventail à semi-circulaire ou irrégulière, ± plano à convexe, lisse à finement ridée, feutré, jaune vif à orange quand jeune, suivant une décoloration à maturité
+  chapeau: 50-300 mm de largeur et jusqu'à 200 mm de profondeur, jusqu'à 30 mm d'épaisseur, en forme d'éventail à semi-circulaire ou irrégulière, ± plano à convexe, lisse à finement ridé, feutré, jaune vif à orange au début, suivant une décoloration à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -110,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle à commune
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -289,7 +290,7 @@ description:
     Polyporus candicinus (Scop.) J. Schröt. (1888)
     Polyporus rostafinskii Blonski, Hedwigia 28:280 (1889)
     Laetiporus speciosus Battarra ex Murrill, Bulletin of the Torrey Botanical Club 31 (11):607 (1904)
-  systeme-hyphal: dimitique avec hyphes générative sans boucles
+  systeme-hyphal: dimitique avec hyphes génératives sans boucles
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 

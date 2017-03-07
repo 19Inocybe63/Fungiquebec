@@ -272,7 +272,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: formée d'hyphes parallèles à subparallèles de 3-9 µm de largeur
-  tubes: circulaires et petits, 1-4 par mm, déprimée près du pied, concolore à la face poroïde, 8-20 mm de longueur
+  tubes: circulaires et petits, 1-4 par mm, déprimés près du pied, concolore à la face poroïde, 8-20 mm de longueur
   type: 
   typique: 
   voile: 

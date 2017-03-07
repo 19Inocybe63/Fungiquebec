@@ -1,6 +1,6 @@
 ---
 nom: Boletus subluridellus
-date: 2017-03-05 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19726150815/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
 album-flickr:
@@ -63,7 +63,7 @@ description:
     (13,4) 13,8 - 15,8 (16,9) × (4,3) 4,4 - 5 (6) µm
     Q = (2,8) 3 - 3,3 (3,5) ; N = 30
     Me = 14,6 × 4,6 µm ; Qe = 3,1
-    (Piximètre: formule classique)
+    (Piximètre, formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -217,7 +217,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 15-23 x 4-9 mm Ø, long, solide, égal, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, la surface revêtue sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracé globalement, pas du tout réticulé
+  pied: 15-23 x 4-9 mm Ø, long, solide, égal, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, revêtu sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracé globalement, pas du tout réticulé
   pieds-steriles: 
   pigments: 
   pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droites, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
@@ -282,7 +282,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: 6-9 mm de long, jaune virant au bleu instantanément lorsqu'ils sont coupés ; déprimé autour du stipe à peu près libre ; 2-3 par mm, ronds, carmin ou rouge foncé, instantanément bleu lorsque meurtris
+  tubes: 6-9 mm de long, jaunes devenant bleus instantanément lorsqu'ils sont coupés, déprimés autour du stipe, à peu près libres, 2-3 par mm, ronds, carmins ou rouge foncé, instantanément bleu lorsque meurtris
   type: 
   typique: 
   voile: 

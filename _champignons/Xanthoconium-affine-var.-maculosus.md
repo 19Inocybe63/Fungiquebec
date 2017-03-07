@@ -1,6 +1,6 @@
 ---
 nom: Xanthoconium affine var. maculosus
-date: 2017-03-02 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c1.staticflickr.com/9/8769/28037429074_2cd09ed90b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28037429074/in/photolist-JHz9Ry
 album-flickr:
@@ -103,7 +103,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: déprimée ou non près du pied, concolore à la face poroïde, 8-20 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -235,7 +234,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires, 1-2 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -277,6 +276,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: circulaires, 1-2 par mm, déprimés ou non près du pied, concolore à la face poroïde, 8-20 mm de longueur
   type: 
   typique: 
   voile: 

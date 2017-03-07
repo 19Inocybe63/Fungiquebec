@@ -1,6 +1,6 @@
 ---
 nom: Baeospora myosura
-date: 2017-03-02 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c1.staticflickr.com/9/8453/8042774343_50f59b2d29_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8042774343/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
 album-flickr:
@@ -199,7 +199,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 10-50 x 1-2 mm Ø, égal, finement poudreux à pubescent, blanchâtre à brunâtre, avec rhizomorphes basaux distincts
   pieds-steriles: 

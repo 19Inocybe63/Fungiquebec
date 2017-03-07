@@ -1,6 +1,6 @@
 ---
 nom: Leccinellum albellum
-date: 2016-11-05 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/6/5567/15033475346_6db9feaa38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15033475346/in/photolist-qzgfEY-oUsusN
 album-flickr:
@@ -47,16 +47,16 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base, 20,8 [28,6; 35,7] 43,5 x 9 [11,1; 13] 15,1 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 20,8 [28,6; 35,7] 43,5 x 9 [11,1; 13] 15,1 µm en moyenne
   basidiospores: |
-    cylindriques à bacilliformes vue de profil, fusiformes vue frontale, lisses, à paroi mince entre 0,10-0,26 µm, avec appendice hilaire et une dépression supra apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    fusiformes en vue frontale, cylindriques à bacilliformes vues de profil, lisses, à paroi mince entre 0,10-0,26 µm, avec appendice hilaire et une dépression supra apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     14,1 [15,6; 16,2] 17,6 x 4,7 [5; 5,1] 5,4 µm
     Q = 2,8 [3,1; 3,2] 3,5; N = 30; C = 95%
     Me = 15,9 x 5,1 µm; Qe = 3,1
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, sphaigne, sous feuillus (Quercus)
+  biotopes: pousse au sol, dans la mousse, sphaigne, sous feuillus (<i>Quercus</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -73,7 +73,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 20-75 mm Ø, convexe à largement convexe, subplane, sec, finement tomenteux à glabre, finement craquelé-aréolé à maturité, blanchâtre à gris pâle, rosâtre, jaunâtre, bronzé ou olive, à marge unie
+  chapeau: 20-75 mm Ø, convexe à largement convexe, subétalé, sec, finement tomenteux à glabre, finement craquelé-aréolé à maturité, blanchâtre à gris pâle, rosâtre, jaunâtre, bronzé ou olive, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -97,7 +97,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: concolore à la face poroïde, jusqu'à 10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -148,7 +147,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: nombreuses, fusiformes à fusiformes digitées ou fusiformes avec long col, parfois avec apex moniliformes, 37,8 [45,7; 61,4] 69,2 x 6,3 [7,5; 10,1] 11,3 µm
+  hymenocystides: nombreuses, fusiformes à fusiformes digitées ou fusiformes avec long col, parfois avec apex moniliforme, 37,8 [45,7; 61,4] 69,2 x 6,3 [7,5; 10,1] 11,3 µm
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -207,9 +206,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
-  pied: 40-115 x 5-12 mm Ø, claviformes, subégal à légèrement élargi vers la base et conique vers le sommet, plein, sec, blanchâtre, orné de fines rugosités devenant brun-noir avec l'âge, une tache jaune dans la chair est localisée juste à la base, mycélium basal blanchâtre
+  pied: 40-115 x 5-12 mm Ø, claviforme, subégal à légèrement élargi vers la base et conique vers le sommet, plein, sec, blanchâtre, orné de fines rugosités devenant brun-noir avec l'âge, une tache jaune dans la chair est localisée juste à la base, mycélium basal blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'éléments celluleux en chaîne, subglobuleux à clavées ressemblant à un trichoderme, entre 19,5 [29,2; 44,8] 54,4 x 6,4 [11,3; 19,2] 24,2 µm; ressemble parfois à un pileipellis de type virescens
@@ -228,7 +227,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires et petits
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -278,6 +277,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: circulaires et petits, concolore à la face poroïde, jusqu'à 10 mm de longueur
   type: 
   typique: 
   voile: 

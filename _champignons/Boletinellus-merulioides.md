@@ -11,8 +11,8 @@ details:
   autorites: (Schwein.) Murrill
   ordre: Boletales
   famille: Boletinellaceae
-  genre: Boletinellus
-  espece: merulioides
+  genre: <i>Boletinellus</i>
+  espece: <i>merulioides</i>
   litterature: Murrill, W.A. 1909. The Boletaceae of North America, 1. Mycologia. 1(1):4-18
 
 collections:

@@ -1,6 +1,6 @@
 ---
 nom: Leratiomyces riparius
-date: 2016-11-03 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18014840069/in/photolist-HDHSvu-HNrU6e-FUfGoV-tG2gVW-trUAiD-trLvyU-trULjR-dB653b-rLyqV3-f4auVu-eUs8vP-eUsn5z-eUDu43-cU6gkJ-cU6fJE-cU6fxJ-cU6fXb
 album-flickr:
@@ -76,9 +76,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement ovoïdales à claviformes, parfois légèrement atténuées à la base, tétrastérigmates, bouclées à la base, 20 [23,2; 25,4] 28,6 x 9,1 [10,5; 11,5] 13 µm
+  basides: courtement ovoïdales à claviformes, parfois légèrement atténuées à la base, tétrasporiquess, bouclées à la base, 20 [23,2; 25,4] 28,6 x 9,1 [10,5; 11,5] 13 µm
   basidiospores: |
-    ovoïdales à subhexagonales vue frontale à globalement largement oblongues à oblongues allongées vue de profil, tronquées, lisses, à paroi légèrement épaissie 0,3 µm en moyenne, avec appendice hilaire bien visible et pore germinatif centré à excentré 1,3 [1,5; 1,7] 1,8 µm, à contenu variable, brunes dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    ovoïdales à subhexagonales en vue frontale, globalement largement oblongues à oblongues allongées vues de profil, tronquées, lisses, à paroi légèrement épaissie 0,3 µm en moyenne, avec appendice hilaire bien visible et pore germinatif centré à excentré 1,3 [1,5; 1,7] 1,8 µm, à contenu variable, brunes dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     (12,2) 12,5 - 13,6 (14,3) × (6,3) 6,6 - 7,5 (8,3) µm
     Q = (1,5) 1,7 - 2 (2,1); N = 30
     Me = 13,1 × 7 µm; Qe = 1,9
@@ -102,9 +102,9 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, immuable, blanche
   chancre: 
-  chapeau: 17,5-49,3 mm Ø, hémisphérique au début à conique-campanulé, puis campanulé convexe à plan à maturité, collant, terne et fibrilleux lorsqu'il est sec, non distinctement hygrophane, appendiculée de reste vélaire, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracée, jaune à orange ochracée
+  chapeau: 17,5-49,3 mm Ø, hémisphérique au début à conique-campanulé, puis campanulé convexe à étalé à maturité, collant, terne et fibrilleux au sec, non distinctement hygrophane, appendiculé de restes vélaires, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracé, jaune à orange ochracé
   cheilocystides: 
-  cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capité 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
+  cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capitées 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: absentes
@@ -203,7 +203,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à légèrement décurrente par une dent, large, cunéiforme, marbrées, subespacées et bombées, présence de lamelles et de lamellules, pourpre jeune, puis pourpre foncé à maturité, dont l’arête lamellaire est fimbriées, blanche
+  lames: adnées à légèrement décurrentes par une dent, larges, cunéiformes, marbrées, subespacées et bombées, avec lamelles et lamellules, pourpre au début, puis pourpre foncé à maturité, à arêtes lamellaires fimbriées, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -220,7 +220,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolées, parfois en petits groupes, très souvent cespiteux
+  mode-de-croissance: isolé, parfois en petits groupes, très souvent cespiteux
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 

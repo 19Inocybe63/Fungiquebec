@@ -67,7 +67,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse, sous frêne
+  biotopes: pousse au sol, sur pelouse, sous <i>Fraxinux</i>
   boucles: observées dans le pileipellis
   brachybasidioles: 
   calicule: 

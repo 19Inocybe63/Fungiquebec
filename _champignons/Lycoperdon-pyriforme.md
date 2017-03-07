@@ -1,6 +1,6 @@
 ---
 nom: Lycoperdon pyriforme
-date: 2016-11-21 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/6/5081/29319616244_6847877804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29319616244/in/photolist-LESGqU-Msekd9
 album-flickr:
@@ -53,7 +53,7 @@ description:
     (3,4) 3,5 - 4 (4,1) × (3,3) 3,5 - 3,9 (4) µm
     Q = 1 (1,1) ; N = 30
     Me = 3,8 × 3,7 µm ; Qe = 1
-    (Piximètre formule classique ; mesures dans E.G. 20% issues de sporées)
+    (Piximètre formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 20-50 mm de hauteur, 15-45 mm Ø, piriforme, subglobuleux, ovoïde, ogival à submamelonné au-dessus, parfois plissé à la jonction de la partie élargie et la base stipitiforme atténuée qui est petite à proéminente selon la forme du basidiome, avec nombreux rhizomorphes distincts, tenaces et blancs, souvent radiants d'une base à l'autre, à exopéridium pâle puis brun fauvâtre, typiquement brun rouille plus foncé avec l'âge, parfois jaunâtre, lisse ou avec quelques petites épines dispersées au-dessus au début, puis se brisant par plaques aréolées plus foncées qui se divisent en plus petites unités qui deviennent de fins granules ou écailles polygonales au sec, relativement rugueux et persistants
   bibliographies: 
@@ -118,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -210,7 +210,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

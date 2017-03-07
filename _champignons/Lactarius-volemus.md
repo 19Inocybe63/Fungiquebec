@@ -1,6 +1,6 @@
 ---
 nom: Lactarius volemus
-date: 2017-01-17 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/6/5625/20783082342_8d61a139c2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20783082342/in/photolist-xD3Hn1-xEwJiU/
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous chênes et hêtres (Fagus, Quercus)
+  biotopes: pousse au sol, sous chênes et hêtres (<i>Fagus</i>, <i>Quercus</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, cassante, crème
   chancre: 
-  chapeau: 30-103 mm Ø, convexe au début avec une marge enroulée, devenant étalé, avec une dépression centrale, avec ombon au disque, lisses ou légèrement craquelé, mais généralement finement veloutés au toucher, du moins lorsqu'ils sont jeunes, orange brunâtre, brun orangé, ou parfois plus léger, ou parfois plus foncé s'approchant ± du rouge brun foncé, sans zones concentriques de couleur, mais souvent plus foncée vers le centre
+  chapeau: 30-103 mm Ø, convexe au début devenant étalé, à marge enroulée, avec dépression centrale ; avec ombon au disque, lisses ou légèrement craquelé, mais généralement finement veloutés, du moins lorsqu'ils sont jeunes, orange brunâtre, brun orangé, ou parfois plus léger, ou parfois plus foncé s'approchant ± du rouge brun foncé ; sans zones concentriques de couleur, mais souvent plus foncée vers le centre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

@@ -1,6 +1,6 @@
 ---
 nom: Boletus subvelutipes
-date: 2017-03-04 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c1.staticflickr.com/9/8111/28596715912_ffdf32245e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28596715912/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
 album-flickr:
@@ -73,7 +73,7 @@ description:
     13,9 [15,1; 15,6] 16,8 x 5,1 [5,5; 5,6] 6 µm
     Q = 2,5 [2,7; 2,8] 3; N = 30; C = 95%
     Me = 15,4 x 5,5 µm; Qe = 2,8
-    (Piximètre: formule classique)
+    (Piximètre, formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -290,7 +290,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: jaune, 8-26 mm de longueur ; circulaires et petits, 2 par mm
+  tubes: jaune, 8-26 mm de longueur, circulaires et petits, 2 par mm
   type: 
   typique: 
   voile: 

@@ -1,6 +1,6 @@
 ---
 nom: Lentinellus flabelliformis
-date: 2016-11-03 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c1.staticflickr.com/9/8192/8084204057_9ff65926da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084204057/in/photolist-dwGgDp-djnDe7-djnEdz
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occassionnelle
+  distribution: rare à occassionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -204,7 +204,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: < 1 mm de largeur, 11 mm de longueur, absent ou très court, centré, excentré à latéral, à obclavé, lisse à subglabre, côtelé par les lames décurrentes, chamois rosé, brun grisâtre, brun foncé, brun pourpré foncé à brun-noir, parfois avec fin mycélium basal cotonneux à laineux brun grisâtre à vineux et/ou délicats rhizomorphes aplatis, palmés aux ramifications
   pieds-steriles: 

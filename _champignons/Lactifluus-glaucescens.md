@@ -1,6 +1,6 @@
 ---
 nom: Lactifluus glaucescens
-date: 2017-01-11 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/6/5742/20784652632_8c14559e56_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20784652632/in/photolist-xEEM6S-xp12Tn
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous Fagus, Quercus
+  biotopes: pousse au sol, sous <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

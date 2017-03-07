@@ -1,6 +1,6 @@
 ---
 nom: Boletus separans
-date: 2017-03-05 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c1.staticflickr.com/1/420/20356478421_2ed6c3bb97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20356478421/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA
 album-flickr:
@@ -73,7 +73,7 @@ description:
     (11,7) 12,5 - 14,8 (15,1) × (4,3) 4,4 - 4,8 (5,1) µm
     Q = (2,6) 2,8 - 3,2 (3,4) ; N = 30
     Me = 13,7 × 4,6 µm ; Qe = 3
-    (Piximètre: formule classique)
+    (Piximètre, formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -293,7 +293,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: adnés devenant déprimés ; blanchâtres, jaunâtres lentement ternes à ochracé terne (non olivacé) ; immuables, blancs quand il est jeune, devenant jaune pâle, mais pas de coloration bleue, 1-2 mm, rond ou presque
+  tubes: adnés devenant déprimés, blanchâtres, jaunâtres lentement ternes à ochracé terne (non olivacé), immuables, blancs quand il est jeune, devenant jaune pâle, mais pas de coloration bleue, 1-2 mm, rond ou presque
   type: 
   typique: 
   voile: 

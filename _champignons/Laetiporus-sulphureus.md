@@ -69,7 +69,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, aqueuse au début, devenant dure à maturité et finit par s'effriter, blanc à jaune pâle
+  chair: épaisse, aqueuse au début, devenant dure à maturité et finit par s'effriter, blanche à jaune pâle
   chancre: 
   chapeau: 50-300 mm de largeur et jusqu'à 200 mm de profondeur, jusqu'à 30 mm d'épaisseur, en forme d'éventail à semi-circulaire ou irrégulière, ± plano à convexe, lisse à finement ridé, feutré, jaune vif à orange au début, suivant une décoloration à maturité
   cheilocystides: 

@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: adnée puis déprimée autour du pied, blanchâtre, brunissant à maturité, assez longue
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -279,6 +278,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: adnée puis déprimée autour du pied, blanchâtre, brunissant à maturité, assez longue
   type: 
   typique: 
   voile: 

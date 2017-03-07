@@ -1,6 +1,6 @@
 ---
 nom: Lycoperdon perlatum
-date: 2016-11-21 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c1.staticflickr.com/3/2946/15165489459_e68be80594_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15165489459/in/photolist-p786Ec-poACwf/
 album-flickr:
@@ -57,13 +57,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, 2-4 stérigmates, non bouclées, vide optique, 7-10 x 4-5 µm
+  basides: claviformes, bisporiques à tétrasporiques, non bouclées, vide optique, 7-10 x 4-5 µm
   basidiospores: |
     globuleuses, finement verruqueuses, formant parfois des petites plaques verruqueuses allant entre 0,3-0,6 µm Ø, à paroi mince à légèrement épaissie, avec pédicelle, à contenu uniguttulé à variable, hyalines à grisâtre pâle dans E.G. 20%, dextrinoïdes, cyanophiles
     (3,5) 3,6 - 4,1 (4,2) × (3,4) 3,5 - 4 (4,1) µm
     Q = 1 (1,1) ; N = 30
     Me = 3,9 × 3,8 µm ; Qe = 1
-    (Piximètre formule classique ; mesures dans E.G. 20% non issues de sporées)
+    (Piximètre formule classique ; mesures non issues d'une sporée dans E.G. 20%)
   basidioles: 
   basidiome: 20-100 mm Ø, 15-90 mm Ø, subglobuleux, piriforme à turbiné, ± mamelonné au sommet, avec base stipitiforme bien développée, abruptement atténuée, occupant la demi ou plus du basidiome, souvent persistant, souvent plissé à sillonné sous la tête, à exopéridium avec épines de deux types, coniques-obtuses, 1-2 mm de hauteur, solitaires, plus grosses et nombreuses vers l'apex, molles, labiles et laissant des cicatrices rondes et pâles à la disparition, espacées de nombreuses épines, verrues ou granules plus petits, peu visibles, persistantes, la base étant ornée de plus petits aiguillons encore, blancs puis crème, jaune-brun ou brun foncé
   bibliographies: 
@@ -126,7 +126,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -218,7 +218,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

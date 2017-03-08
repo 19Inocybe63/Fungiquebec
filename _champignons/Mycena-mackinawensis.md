@@ -1,6 +1,6 @@
 ---
 nom: Mycena mackinawensis
-date: 2016-11-20 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c1.staticflickr.com/9/8269/30187682516_dd519e3805_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30187682516/in/photostream/
 album-flickr:
@@ -47,13 +47,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes dont l'apex est parfois subcapité, 2-4 stérigmates, non bouclées à la base (22,3) 23,7 - 29 (29,9) × (4,5) 5,6 - 6,6 (6,7) µm
+  basides: claviformes dont l'apex est parfois subcapité, bisporiques à tétrasporiques, non bouclées à la base (22,3) 23,7 - 29 (29,9) × (4,5) 5,6 - 6,6 (6,7) µm
   basidiospores: |
-    elliptiques à étroitement elliptiques vue frontal à elliptiques-larmiformes vue de profil, lisses, à paroi mince, avec appendice hilaire bien visible, à contenu granulé à variable, hyalines dans l’eau glycérinée 20%, inactives dans le melzer, fortement cyanophiles
+    elliptiques à étroitement elliptiques en vue frontale, elliptiques-larmiformes vues de profil, lisses, à paroi mince, avec appendice hilaire bien visible, à contenu granulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, fortement cyanophiles
     (7,2) 7,6 - 9 (9,5) × (3,6) 3,7 - 4,1 (4,6) µm
     Q = (1,9) 2 - 2,2 (2,3) ; N = 30
     Me = 8,4 × 4 µm ; Qe = 2,1
-    (Piximètre: formule classique ; basidiospores mesurées dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -117,7 +117,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: donnée inconnue
+  distribution: inconnu
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: décurrentes, espacées, présence de lamelles et de lamellules, beige terne sec
+  lames: décurrentes, espacées, avec lamelles et lamellules, beige terne lorsque sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,7 +211,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 28 x 1 mm Ø, cylindrique, pruineux, dont le pied est radicant, crème avec reflet verdâtre, dont la base est plus foncé, reflets jaunâtre, non bulbeux
+  pied: 28 x 1 mm Ø, cylindrique, pruineux, dont le pied est radicant, crème avec reflets verdâtres, dont la base est plus foncée, reflets jaunâtres, non bulbeux
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, dont le suprapellis est formé d'hyphes ornées d'excroissances plus ou moins courtes (diverticules), et d'un subpellis formé d'hyphes cylindriques
@@ -252,7 +252,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: raphanoïde, douce
+  saveur: douce à raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 

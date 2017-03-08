@@ -232,7 +232,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: et première étude de cette espèce au Québec.
+  premiere-mention: première étude de cette espèce au Québec.
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

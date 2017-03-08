@@ -1,6 +1,6 @@
 ---
 nom: Morchella prava
-date: 2017-01-13 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c2.staticflickr.com/8/7239/7234066596_1238f17e4c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7234066596/in/photolist-c2i38s-c2ftY9
 album-flickr:
@@ -39,7 +39,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 30-60 mm de haut et 20-50 mm de large, de forme irrégulière mais souvent plus ou moins en forme d'œuf avec un sommet légèrement rétréci ou largement conique, les fosses disposées et orientées aléatoirement et de forme irrégulière lorsqu'ils sont jeunes, avec une crête chauve ou finement veloutée, aplatie ou largement arrondie, pâle, jaunâtre à blanchâtre, et des fosses grises moyennes à foncées ou noires lorsqu'elles sont matures, avec des arêtes arrondies à des arêtes tranchées ou érodées, brunâtres jaunes à brun jaunâtre et des fosses de même couleur (mais restant souvent dans le « stade gris » pendant une période prolongée et apparemment ne vieillissent jamais), attaché à la tige directement, sans rainure, creux
+  ascome: 30-60 mm de haut et 20-50 mm de large, de forme irrégulière, mais souvent plus ou moins en forme d'œuf avec un sommet légèrement rétréci ou largement conique, les fosses disposées et orientées aléatoirement et de forme irrégulière lorsqu'ils sont jeunes, avec une crête chauve ou finement veloutée, aplatie ou largement arrondie, pâle, jaunâtre à blanchâtre, et des fosses grises moyennes à foncées ou noires lorsqu'elles sont matures, avec des arêtes arrondies à des arêtes tranchées ou érodées, brunâtres jaunes à brun jaunâtre et des fosses de même couleur (mais restant souvent dans le stade gris pendant une période prolongée et apparemment ne vieillissent jamais), attaché à la tige directement, sans rainure, creux
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous chêne à gros fruits (Quercus)
+  biotopes: pousse au sol, sous chêne à gros fruits (<i>Quercus</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -207,7 +207,7 @@ description:
   peritheces: 
   phenologie: de mi-mai à début juin
   phialoconidies: 
-  pied: 25-40 x 10-30 mm Ø, égal au-dessus d'une base légèrement gonflée, blanchâtre à juanâtre crèmre, souvent avec décoloration brun rougeâtre, glabre à subglabre, creux
+  pied: 25-40 x 10-30 mm Ø, égal au-dessus d'une base légèrement gonflée, blanchâtre à jaunâtre crèmre, souvent avec décoloration brun rougeâtre, glabre à subglabre, creux
   pieds-steriles: 
   pigments: 
   pileipellis: 

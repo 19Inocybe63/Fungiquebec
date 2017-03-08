@@ -293,7 +293,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: adnés devenant déprimés, blanchâtres, jaunâtres lentement ternes à ochracé terne (non olivacé), immuables, blancs quand il est jeune, devenant jaune pâle, mais pas de coloration bleue, 1-2 mm, rond ou presque
+  tubes: adnés devenant déprimés, blanchâtres, jaunâtres lentement ternes à ochracé terne (non olivacé), immuables, blancs au début, devenant jaune pâle, mais pas de coloration bleue, 1-2 mm, rond ou presque
   type: 
   typique: 
   voile: 

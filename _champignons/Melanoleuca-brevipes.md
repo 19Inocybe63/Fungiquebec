@@ -1,6 +1,6 @@
 ---
 nom: Melanoleuca brevipes
-date: 2016-11-03 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c2.staticflickr.com/8/7783/29832926531_677fe9d14b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832926531/in/photolist-MwuSm1-MwuPD7-MsexGg
 album-flickr:
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 47 mm Ø, convexe à étalé, brun gris, avec reflets olivâtre
+  chapeau: 47 mm Ø, convexe à étalé, brun gris, avec reflets olivâtres
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -109,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

@@ -1,6 +1,6 @@
 ---
 nom: Omphalotus illudens
-date: 2017-03-02 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c1.staticflickr.com/9/8431/7710718004_d5e8a9582b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7710718004/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
 album-flickr:
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: étroites, orangées, serrées, décurrentes, fourchues près du pied, lamellules, arête légèrement plus foncée
+  lames: étroites, orangées, serrées, décurrentes, fourchues près du pied, lamellules, arêtes légèrement plus foncées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

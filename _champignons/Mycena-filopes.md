@@ -1,6 +1,6 @@
 ---
 nom: Mycena filopes
-date: 2017-02-13 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c2.staticflickr.com/4/3887/15267237871_896b88bcc8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15267237871/in/photolist-pg7zVa
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

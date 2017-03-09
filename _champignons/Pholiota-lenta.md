@@ -1,6 +1,6 @@
 ---
 nom: Pholiota lenta
-date: 2017-02-20 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/4/3936/15427367891_c418597eb1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15427367891/in/photolist-MBptmN-M6YVCH-LMKgni-Mi8k7S-MBKdW6-LMKbcD-pe3H4h-pvghZz-gnvVcx-gnwtCc
 album-flickr:
@@ -77,13 +77,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: polymorphes, cylindriques à subutriformes, piriformes, tétrastérigmates, non bouclées à la base, à paroi mince, avec granulations (16,7) 17-19,1 (19,7) × (5,1) 5,4-6,2 (6,4) µm
+  basides: polymorphes, cylindriques à subutriformes, piriformes, tétrasporiques, non bouclées à la base, à paroi mince, avec granulations (16,7) 17-19,1 (19,7) × (5,1) 5,4-6,2 (6,4) µm
   basidiospores: |
-    elliptiques à ovoïdes vue de front, subelliptiques à elliptiques à subphaséoliformes, parfois en haricots vue de profil, lisses, à paroi mince jusqu’à 0,2 µm d’épaisseur, avec petit appendice hilaire, pore germinatif indistinct à partiellement visible, à contenu uniguttulé à pluriguttulé, hyalines à brun très pâle dans E.G. 20%, ± ochracées à fauve dans le KOH 5%, inactives dans le melzer, non cyanophiles
+    elliptiques à ovoïdes vue frontale, subelliptiques à elliptiques à subphaséoliformes, parfois en haricots vues de profil, lisses, à paroi mince jusqu’à 0,2 µm d’épaisseur, avec petit appendice hilaire, pore germinatif indistinct à partiellement visible, à contenu uniguttulé à pluriguttulé, hyalines à brun très pâle dans E.G. 20%, ± ochracées à fauve dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     (5,7) 6-7,3 (7,6) × (3,2) 3,4-3,76 (3,8) µm
     Q = 1,7-2 (2,1) ; N = 30
     Me = 6,6 × 3,6 µm ; Qe = 1,9
-    (Piximètre, formule classique ; mesures issues de sporée)
+    (Piximètre, formule classique ; mesures issues d'une sporée)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -104,7 +104,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 30-70 (100) mm Ø, convexe-hémisphérique à campanulé, convexe-étalé, lagre, blanchâtre à beige, parfois rosâtre-chamois ou gris fumé, le disque devient légèrement plus foncé, jaunâtre, visqueux à glutineux, parfois avec méchules blanches dispersées de restes vélaires, à marge souvent appendiculée de restes vélaires, glabrescente
+  chapeau: 30-70 (100) mm Ø, convexe-hémisphérique à campanulé, convexe-étalé, lagre, blanchâtre à beige, parfois rosâtre-chamois ou gris fumé, le disque devient légèrement plus foncé, jaunâtre, visqueux à glutineux, parfois avec méchules blanches dispersés de restes vélaires, à marge souvent appendiculée de restes vélaires, glabrescente
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: abondantes, formant presque une pallissade, fusiformes avec parfois un long pédicelle, sublagéniformes, rarement bidigitées, parfois avec apex subcapité (40,3) 58,9-70,2 (70,7) × (8,7) 10,9-11,7 (13,4) µm
@@ -149,7 +149,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -211,7 +211,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, ou décurrentes par une dent, blanches, étroite à assez étroite à moyenne large, avec lamelles et lamellules, gris-fauve ou brun grisâtre, ou argile, à arêtes entières ou fimbriées
+  lames: adnées, ou décurrentes par une dent, blanches, étroites à assez étroites à moyenne larges, avec lamelles et lamellules, gris-fauve ou brun grisâtre, ou argile, à arêtes entières ou fimbriées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -243,12 +243,12 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 30-80 (120) x 4-12 mm Ø, égal à subbulbeux, solide à spongieux, farineux blanc vers l'apex, fibrilleux et blanc vers la base, brunâtre à la base
   pieds-steriles: 
   pigments: 
-  pileipellis: en ixocutis, dans une épaisse couche gélatineuse (160-210 µm d'épaisseur en moyenne) d'hyphes étroites hyalines à jaunâtres de 1-3 μm Ø, avec des zones réfringentes, lisses et lâches dans la matrice gélatineuse
+  pileipellis: en ixocutis, dans une épaisse couche de gélin (160-210 µm d'épaisseur en moyenne) d'hyphes étroites hyalines à jaunâtres de 1-3 μm Ø, avec des zones réfringentes, lisses et lâches dans la matrice de gélin
   pileitrame: 
   pileocystides: 
   plasmode: 

@@ -1,6 +1,6 @@
 ---
 nom: Phylloporus leucomycelinus
-date: 2016-11-07 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c1.staticflickr.com/1/618/20171022673_3a523b2c21_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20171022673/in/photolist-CAxxCb-wJrLhZ-wJtepT
 album-flickr:
@@ -48,9 +48,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclée à la base 29,74-30,49 x 6,7 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclée à la base 29,74-30,49 x 6,7 µm en moyenne
   basidiospores: |
-    elliptiques à subcylindriques, lisses, à paroi mince, avec petit appendice hilaire et une petite dépression supra hilaire, à contenu uniguttulé à variable, hyalines verdâtres dans le NaCl isotonique, inactives dans le melzer, non cyanophiles
+    elliptiques à subcylindriques, lisses, à paroi mince, avec petit appendice hilaire et une petite dépression supra hilaire, à contenu uniguttulé à variable, hyalines verdâtres dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     (9,4) 9,6 - 10,9 (11,6) x (3,3) 3,5 - 3,9 (4,4) µm
     Q = (2,2) 2,5 - 3 (3,3); N = 30
     Me = 10,2 x 3,8 µm; Qe = 2,7
@@ -72,9 +72,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanchâtre à jaune pâle, se tachant de bleue
+  chair: blanchâtre à jaune pâle, se tache de bleue
   chancre: 
-  chapeau: 20-65 mm Ø, pulviné puis convexe à étalé, sec, subvelouté, devenant rivuleux-craquelé, rouge vin, brun-rouge à brun olivâtre
+  chapeau: 20-65 mm Ø, pulviné puis convexe à étalé, sec, subvelouté, devenant rivuleux-craquelé, rouge vin, brun rouge à brun olivâtre
   cheilocystides: assez nombreuses, cylindriques à cylindriques-fusiformes, subclaviformes à subfusiformes, hyalines, à paroi mince, vide optique, 45-80 x 7-13 µm
   cheilomacrocystides: 
   chlamydospores: 
@@ -96,7 +96,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -114,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -175,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, décurrentes, interveinées, espacées, jaunes à jaune brunâtre au début, olivâtres à brun jaunâtre avec l'âge, immuables au froissement, à arêtes entières
+  lames: adnées, décurrentes, interveinées, espacées, jaunes à jaune brunâtre au début, olivâtres à brun jaunâtre à maturité, immuables au froissement, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +207,7 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 20-70 x 3-10 mm Ø, cylindrique, subégal, atténué vers la base, droit à courbe, plein, sec, pruineux sur la partie supérieure au début, ponctué de brun vineux, brun-rouge puis de brun pâle, pâle à la base, immuable, avec mycélium basal blanc à blanchâtre
+  pied: 20-70 x 3-10 mm Ø, cylindrique, subégal, atténué vers la base, droit à courbe, plein, sec, pruineux sur la partie supérieure du stipe au début, ponctué de brun vineux, brun rouge puis de brun pâle, à pâle à la base, immuable, avec mycélium basal blanc à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en trichoderme formé d'hyphes cylindriques, en chaîne, lisses, à paroi mince
@@ -271,6 +270,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: bilatérale formée d'hyphes cylindriques
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

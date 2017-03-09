@@ -1,6 +1,6 @@
 ---
 nom: Phyllotopsis nidulans
-date: 2017-01-09 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/4/3891/14674164427_314106bc38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14674164427/in/photolist-omGujh-omGVQX/
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

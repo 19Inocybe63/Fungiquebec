@@ -1,6 +1,6 @@
 ---
 nom: Pleurotus ostreatus
-date: 2017-02-14 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/6/5602/15527961875_63c2792900_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15527961875/in/photolist-pE7NaU-pE9S5B-pE9TUZ
 album-flickr:
@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois vivant ou mort de feuillus, Acer, Fagus, Quercus
+  biotopes: pousse sur bois vivant ou mort de feuillus, <i>Acer</i>, <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -122,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

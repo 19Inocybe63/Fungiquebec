@@ -7,7 +7,7 @@ album-flickr:
   - 72157676289059033
 
 details:
-  nom-francais: 
+  nom-francais: Pholiote squarreuse
   autorites: (Peck) Sacc.
   ordre: Agaricales
   famille: Strophariaceae

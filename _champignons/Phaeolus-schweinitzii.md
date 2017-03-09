@@ -1,6 +1,6 @@
 ---
 nom: Phaeolus schweinitzii
-date: 2017-01-31 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c1.staticflickr.com/9/8572/28194357805_f133399607_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28194357805/in/photolist-JUqUMo-JXrsik
 album-flickr:
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: décurrente, distincte du contexte, verdâtre à brun rouille, jusqu'à 1,5 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -228,7 +227,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: anguleux à labyrinthiques, 1-2 par mm, à dissépiments épais, puis lacérés
+  pores: décurrents, distincts du contexte, verdâtres à brun rouille, jusqu'à 1,5 mm de longueur, anguleux à labyrinthiques, 1-2 par mm, à dissépiments épais, puis lacérés
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -292,6 +291,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: 
   type: 
   typique: 
   voile: 

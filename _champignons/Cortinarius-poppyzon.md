@@ -47,19 +47,24 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à subutriformes, tétrasporiques jusqu'à 4,5 µm de longueur, bouclées à la base, à contenu granuleux, (22,9) 25,8 - 30,7 (31,9) × (6,7) 7,2 - 8,4 (9,1) µm
+  basidiospores: |
+    ovoïdes vue de front, elliptiques à largement elliptiques vues de profil, moyennement à fortement verruqueuses avec proéminences jusqu’à 5 µm de hauteur, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilaire, à contenu uniguttulé, brun rougeâtre pâle dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
+(6,1) 6,4 - 7,5 (8) × (4,6) 4,7 - 5,3 (5,5) µm
+Q = (1,3) 1,32 - 1,5 (1,6) ; N = 30
+Me = 7 × 5 µm ; Qe = 1,4
+(Piximètre, formule classique ; mesures issues d'une sporée dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sous conifères, en bordure de chemin
-  boucles: 
+  boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -71,7 +76,7 @@ description:
   chancre: 
   chapeau: 21-36 mm Ø, campanulé à campanulé-étalé, fibrilleux, ± hygrophane, beige à ocre pâle, avec centre brun foncé rougeâtre
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: non observées
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,12 +215,12 @@ description:
   pied: 43-53 x 4-7 mm Ø, cylindrique, courbe, flexueux, soyeux-fibrilleux, avec guirlandes, ± bulbeux, beige avec reflets violacés, avec mycélium basal blanc
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, formé d'hyphes cylindriques avec pigmentation brun pâle, 2,2 - 5,2 µm Ø en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

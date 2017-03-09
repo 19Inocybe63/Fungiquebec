@@ -1,6 +1,6 @@
 ---
 nom: Plicaturopsis crispa
-date: 2016-12-27 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/6/5754/22047993816_fd80d44ac8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/22047993816/in/photolist-CCLgNz-yFJm6a-zAiJqq
 album-flickr:
@@ -57,13 +57,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: formant une palissade dense, cylindriques à subcylindriques, claviformes à subclaviformes, tétrastérigmates, bouclées à la base, 19,5-28 x 4-5 µm en moyenne
+  basides: formant une palissade dense, cylindriques à subcylindriques, claviformes à subclaviformes, tétrasporiques, bouclées à la base, 19,5-28 x 4-5 µm en moyenne
   basidiospores: |
     cylindriques, allantoïdes, lisses, à paroi mince, à contenu biguttulé, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes, 3-5 x 1-1,5 µm
   basidioles: 
   basidiome: flabelliforme, de structure anatomique en forme de coupe, grégaire, douce quand elle est fraîche, fragile lorsqu'il est sec, non stipité ou avec une zone plus ou moins rétréci à la base élaborant ainsi un semblant de stipe, surface au abord blanchâtre brun, puis ochracé, finement veloutée, hyménophore plié de façon irrégulière, anastomosé, blanc au premier abord, avec assombrissement des spécimens plus âgés ou sec, à marge lobée
   bibliographies: 
-  biotopes: pousse sur bois de feuillus (Fagus) écorces et bois mort et vivant, branches et troncs tombés ou debout
+  biotopes: pousse sur bois de feuillus (<i>Fagus</i>) écorces et bois mort et vivant, branches et troncs tombés ou debout
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -122,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -214,7 +214,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

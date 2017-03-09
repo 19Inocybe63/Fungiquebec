@@ -1,6 +1,6 @@
 ---
 nom: Phlebia sp.
-date: 2016-11-06 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/8/7528/29925850280_fcac7d9e2f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29925850280/in/photolist-MArNFS-MApE2w
 album-flickr:
@@ -47,15 +47,15 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: en palissade dense, claviformes à étroitement claviformes, tétrastérigmates, bouclées à la base 17,9 [24,2 ; 33] 39,3 × 2,6 [3,8 ; 5,5] 6,7 µm
+  basides: en palissade dense, claviformes à étroitement claviformes, tétrasporiques, bouclées à la base 17,9 [24,2 ; 33] 39,3 × 2,6 [3,8 ; 5,5] 6,7 µm
   basidiospores: |
-    elliptiques vue de front, cylindriques à suballantoïdes vue de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu variable, hyalines dans l’eau glycérinée 20%, inactives dans le melzer, fortement cyanophiles
+    elliptiques en vue frontale, cylindriques à suballantoïdes vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, fortement cyanophiles
     (5,6) 6 - 7,7 (9) × (2,7) 2,9 - 3,5 (3,8) µm
     Q = (1,8) 1,9 - 2,3 (2,7) ; N = 30
     Me = 6,8 × 3,2 µm ; Qe = 2,1
-    (Piximètre ; formule classique ; l'étude de la spore fut réalisée à l'aide d'une sporée, donc des spores matures et mesurées dans l'eau glycérinée 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
-  basidiome: entièrement résupiné, effusé à légèrement effusé-réfléchi, orbiculaire 10-100 mm ou plus, avec contour irrégulier, allant jusqu'à environ 3 mm d'épaisseur, surface ridée, avec les rides et les plis rayonnant à partir d'un point plus ou moins centrale, orange au rose (plus rarement tan avec des bords orangées ou violacé), développer occasionnellement, un bord poilue légèrement repliée
+  basidiome: entièrement résupiné, effusé à légèrement effusé-réfléchi, orbiculaire 10-100 mm ou plus, avec contour irrégulier, allant jusqu'à environ 3 mm d'épaisseur, surface ridée, avec les rides et les plis rayonnants à partir d'un point plus ou moins central, orange au rose (plus rarement tan avec des bords orangé ou violacé), développé occasionnellement, un bord poilu légèrement replié
   bibliographies: 
   biotopes: pousse sur bois mort pourri de feuillus et de conifères; agent de carie blanche
   boucles: de tailles différentes, observées sur les hyphes génératrices
@@ -114,7 +114,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle à commune
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -192,7 +192,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: du printemps à l'automne
+  mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -206,7 +206,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -237,7 +237,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: À la recherche de publications récentes avec clés.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -61,7 +61,7 @@ description:
   articles: 
   ascome: 
   ascospores: |
-    unisériées, ellipsoïdes, à verrues grossières et irrégulières jusqu'à 1 µm de hauteur, avec réticulum irrégulier de rides trapues, à contenu biguttulé jeune, par la suite uniguttulé (coloration en bleu verdâtre foncé des inclusions lipidiques (guttules) au Soudan III ou noir Soudan B)
+    unisériées, ellipsoïdes, à verrues grossières et irrégulières jusqu'à 1 µm de hauteur, avec réticulum irrégulier de rides trapues, à contenu biguttulé au début, uniguttulé à maturité (coloration en bleu verdâtre foncé des inclusions lipidiques (guttules) au Soudan III ou noir Soudan B)
     (14,5) 14,7 - 17,3 (17,7) × (7,8) 8,3 - 9 (9,3) µm
     Q = (1,6) 1,7 - 2 (2,1) ; N = 30
     Me = 16 × 8,6 µm ; Qe = 1,9

@@ -1,6 +1,6 @@
 ---
 nom: Peziza boltonii
-date: 2016-11-18 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/8/7347/27589360352_cb34fe68a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27589360352/in/photolist-Je2nvb-HfVs48-J2YFCL
 album-flickr:
@@ -43,11 +43,11 @@ description:
     Dougoud, René. Clé des Discomycètes carbonicoles, 14 p.
   ascome: 
   ascospores: |
-    unisériées, elliptiques, verruqueuses, à contenu biguttulé jeune, par la suite granulaire
+    unisériées, elliptiques, verruqueuses, à contenu biguttulé au début, granulaire par la suite
     (15,8) 16,3 - 17,9 (18,9) × (7) 7,5 - 8,3 (8,4) µm
     Q = (2) 2,1 - 2,4 (2,5) ; N = 30
     Me = 17,2 × 7,8 µm ; Qe = 2,2
-    (Piximètre, formule classique, mesures dans le bleu Coton lactique)
+    (Piximètre, formule classique ; mesures dans le bleu Coton lactique)
   asques: claviformes, octosporés, à apex IKI +, operculé, (220,5) 238,1 - 246,8 (256,6) × (10,4) 10,6 - 11,9 (12,4) µm en moyenne
   asterohyphidies: 
   avertissement: 
@@ -118,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

@@ -1,6 +1,6 @@
 ---
 nom: Parasola auricoma
-date: 2017-02-12 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/4/3779/9166933169_e1819108df_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9166933169/in/photolist-eY3VRT
 album-flickr:
@@ -70,7 +70,7 @@ description:
   cellules-stromatiques: 
   chair: gris brun, mince à membraneuse
   chancre: 
-  chapeau: 10-25 x 15-45 mm Ø, d'abord ovoide, puis campanulé et finalement aplani étalé, dépourvu de voile déliquescent dans la vieillesse, surface sèche, mate, brillante à l'état humide et striée cannelée, presque jusqu'au centre, rosé au debut, puis gris brun à brun noir, ornée de fins poils dressés, disque brun rouge foncé et lisse, marge crenelée
+  chapeau: 10-25 x 15-45 mm Ø, d'abord ovoide, puis campanulé et finalement aplani étalé, dépourvu de voile déliquescent dans la vieillesse ; surface sèche, mate, brillante à l'état humide et striée cannelée, presque jusqu'au centre ; rosé au debut, puis gris brun à brun noir, orné de fins poils dressés, disque brun rouge foncé et lisse, marge crenelée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -175,7 +175,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: blanchâtres, gris beige par la suite, brun noir avec l'âge, larges, étroitement adnées à libres, arêtes entières blanchâtres
+  lames: blanchâtres, gris beige par la suite, brun noir à maturité, larges, étroitement adnées à libres, arêtes entières blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: de juin à juillet
   phialoconidies: 
-  pied: 50-110 x 2-5 mm Ø, cylindrique, aminci vers le sommet, creux, cassant, surface lisse, blanche ornée de fines fibrilles longitudinales, base parfois faiblement feutrée blanche
+  pied: 50-110 x 2-5 mm Ø, cylindrique, aminci vers le sommet, creux, cassant ; surface lisse, blanche ornée de fines fibrilles longitudinales, base parfois faiblement feutrée blanche
   pieds-steriles: 
   pigments: 
   pileipellis: 

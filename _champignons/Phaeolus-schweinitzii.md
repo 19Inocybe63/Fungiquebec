@@ -134,7 +134,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: orangée au début, brun verdâtre et brun jaunâtre à brun rouille avec l'âge
+  face-poroïde: orangée au début, brun verdâtre et brun jaunâtre à brun rouille à maturité
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 

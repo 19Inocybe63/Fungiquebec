@@ -67,13 +67,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à piriformes, parfois avec apex tronqué, tétrastérigmates jusqu’à 3,8 µm de longueur, non blouclées à la base, à contenu granuleux, 19-21,4 (26) × 6,4-7,7 µm
+  basides: claviformes à piriformes, parfois avec apex tronqué, tétrasporiques jusqu’à 3,8 µm de longueur, non bouclées à la base, à contenu granuleux, 19-21,4 (26) × 6,4-7,7 µm
   basidiospores: |
-    ovoïdes vue de front, elliptiques à oblongues, rarement phaséoliformes, parfois en haricots vue de profil, lisses, à paroi mince jusqu’à 0,2 µm d’épaisseur, avec petit appendice hilaire, pore germinatif indistinct à partiellement visible, à contenu uniguttulé, hyalines à brun très pâle dans E.G. 20%, ± ochracées à fauve dans le KOH 5%, inactives dans le melzer, non cyanophiles
+    ovoïdes en vue frontale, elliptiques à oblongues, rarement phaséoliformes, parfois en haricots vues de profil, lisses, à paroi mince jusqu’à 0,2 µm d’épaisseur, avec petit appendice hilaire, pore germinatif indistinct à partiellement visible, à contenu uniguttulé, hyalines à brun très pâle dans E.G. 20%, ± ochracées à fauve dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     (6,4) 6,7-7,8 (8,3) × (3,6) 3,61-4,2 (4,4) µm
     Q = (1,7) 1,74-2 (2,1) ; N = 30
     Me = 7,3 × 3,9 µm ; Qe = 1,9
-    (Piximètre, formule classique ; mesures issues de sporée)
+    (Piximètre, formule classique ; mesures issues d'une sporée)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -231,7 +231,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 30-60 x 3-8 mm Ø, égal à légèrement graduellement atténué vers la base, finement fibrilleux, blanc à blanc-jaune au-dessus de la zone annuliforme, graduellement beige pâle, jaune ocré à brun ocré vers la base, brun rouille à la base
   pieds-steriles: 

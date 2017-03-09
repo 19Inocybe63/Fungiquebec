@@ -1,6 +1,6 @@
 ---
 nom: Paxillus involutus
-date: 2016-11-12 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/6/5710/21493893579_e5509540a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21493893579/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
 album-flickr:
@@ -57,16 +57,16 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, bouclées à la base, 30-48 x 8,5-10,5 µm
+  basides: claviformes, tétrasporiques, bouclées à la base, 30-48 x 8,5-10,5 µm
   basidiospores: |
-    subovoïdes à ovoïdes-elliptiques vue de front, elliptiques vue de profil, dont l’apex est obtus, lisses, à paroi mince à légèrement épaissie, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    subovoïdes à ovoïdes-elliptiques en vue frontale, elliptiques vues de profil, dont l’apex est obtus, lisses, à paroi mince à légèrement épaissie, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     (6,6) 6,8-8,3 (8,9) x (4,5) 4,6-5,4 (5,5) µm
     Q = (1,4) 1,44-1,6 (1,7); N = 30
     Me = 7,6 x 5 µm; Qe = 1,5
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus ou conifères, parfois sur gazons, près des arbres, souvent sous Betula, Tilia
+  biotopes: pousse au sol, sous feuillus ou conifères, parfois sur gazons, près des arbres, souvent sous <i>Betula</i>, <i>Tilia</i>
   boucles: observées dans la trame lamellaire et dans le stipitipellis
   brachybasidioles: 
   calicule: 
@@ -83,9 +83,9 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, jaunâtre, chamois pâle à ochracée, se tachant souvent de brun à rougeâtre à la coupe
   chancre: 
-  chapeau: 60-88 mm Ø, convexe à largement convexe, étalé et mamelonné, déprimé, en entonnoir, visqueux, à cuticule collante à l'humidité, puis sec, marge veloutée et enroulée, brun, brun olive
+  chapeau: 60-88 mm Ø, convexe à largement convexe, étalé et mamelonné, déprimé, en entonnoir, visqueux, à cuticule collante à l'humidité puis sec ; marge veloutée et enroulée ; brun, brun olive
   cheilochrysocystides:
-  cheilocystides: abondantes, subfusiformes, dont l'apex est souvent acuminé ou ± long, rarement rostrées, 40-90 µm de long
+  cheilocystides: abondantes, subfusiformes, dont l'apex est souvent acuminé ou ± long ; rarement rostrées, 40-90 µm de long
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -125,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -186,7 +186,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: décurrentes, très serrées, avec de nombreuses fourches, olive, jaune-brun à brunâtres, se tachant de brun foncé à brun rougeâtre avec l'âge ou au froissement
+  lames: décurrentes, très serrées, avec de nombreuses fourches, olive, jaune-brun à brunâtres, se tachant de brun foncé à brun rougeâtre à maturité ou au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -219,7 +219,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 30-42 x 9-11 mm Ø, cylindrique, égal, plein, ferme, glabre à légèrement fibrilleux, lisse, sec, crème ou beige, souvent taché de rougeâtre ou de brun foncé, brunissant avec l'âge ou au froissement
+  pied: 30-42 x 9-11 mm Ø, cylindrique, égal, plein, ferme, glabre à légèrement fibrilleux, lisse, sec, crème ou beige, souvent taché de rougeâtre ou de brun foncé, brunissant à maturité ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (ixocutis) avec des éléments en trichoderme (ixotrichoderme) formé d'hyphes au contenu brunâtre

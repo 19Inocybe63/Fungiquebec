@@ -1,6 +1,6 @@
 ---
 nom: Pholiota mixta
-date: 2017-02-24 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c1.staticflickr.com/3/2818/9700568797_6d796c7e6f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9700568797/in/photolist-pvfTKP-pe3UXf-fMuxSo-fMd1dZ-fMcX9a-fMd2KB
 album-flickr:
@@ -94,7 +94,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre au début, puis jaunâtre pâle ou beige blanchâtre, ocre ou brun rouille pâle à dans la partie inférieure du pied
   chancre: 
-  chapeau: 15-50 (75) mm Ø, hémisphérique à convexe puis convexe, convexe-étalé à étalé, souvent avec ombon peu élevé, large et obtus, avec marge involutée, non hygrophane, non strié translucide, visqueux lorsque humide, lisse, glabre, écailleux, ocre ou brun ocré au centre, parfois légèrement teinté d'orangé, graduellement plus pâle vers le pourtour, jaune, beige, blanchâtre-jaunâtre à presque blanc
+  chapeau: 15-50 (75) mm Ø, hémisphérique à convexe puis convexe, convexe-étalé à étalé, souvent avec ombon peu élevé, large et obtus, avec marge involutée ; non hygrophane, non strié translucide, visqueux lorsque humide, lisse, glabre, écailleux, ocre ou brun ocré au centre, parfois légèrement teinté d'orangé, graduellement plus pâle vers le pourtour, jaune, beige, blanchâtre-jaunâtre à presque blanc
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: abondantes, fusiformes à lagéniformes, parfois avec un long pédicelle, à paroi mince jusqu'à 0,6 µm d'épaisseur, souvent hyalines ou parfois remplies d'un pigment homogène brun-rosâtre contenu souvent à l’apex (45,9) 48,2-61,9 (65,2) × 11,4-13,8 µm en moyenne
@@ -137,7 +137,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -236,7 +236,7 @@ description:
   pied: 30-60 x 3-8 mm Ø, égal à légèrement graduellement atténué vers la base, finement fibrilleux, blanc à blanc-jaune au-dessus de la zone annuliforme, graduellement beige pâle, jaune ocré à brun ocré vers la base, brun rouille à la base
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'un mince ixocutis d'hyphes étroits, cylindriques de 2-5 μm ; subpellis compact, composé d'hyphes cylindriques de 3-10 μm Ø, avec des parois incrustées de brun
+  pileipellis: formé d'un mince ixocutis d'hyphes étroites, cylindriques de 2-5 μm ; subpellis compact, composé d'hyphes cylindriques de 3-10 μm Ø, avec des parois incrustées de pigment brun
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -281,7 +281,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brune à brun rouille
+  sporee: brun à brun rouille
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -1,6 +1,6 @@
 ---
 nom: Picipes tubaeformis
-date: 2017-02-12 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/6/5577/14847991983_e3567bb968_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14847991983/in/photolist-oC4QHM
 album-flickr:
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: dense et subcartilagineuse au sec, concolore à la face poroïde, 1-2 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -112,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -228,7 +227,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds à légèrement anguleux, 5-7 par mm, à dissépiments entiers
+  pores: dense et subcartilagineux au sec, concolore à la face poroïde, 1-2 mm de longueur ; ronds à légèrement anguleux, 5-7 par mm, à dissépiments entiers
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -269,6 +268,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

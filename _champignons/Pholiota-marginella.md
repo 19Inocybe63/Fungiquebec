@@ -99,7 +99,7 @@ description:
   base-stipitiforme: 
   basides: piriformes à claviformes, bisporiques à tétrasporiques, non bouclées à la base 16,7 [18,9; 21,7] 24 x 6,9 [7,2; 7,6] 7,9 µm
   basidiospores: |
-    elliptiques à ovoïdales en vue frontale, largement elliptique à elliptiques vues de profil, quelque peu tronquées, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilare et pore germinatif pas toujours bien visible 0,9-1,2 µm Ø, à contenu homogène, brun pâle dans le NaCl iso 0,9%, brun rougeâtre dans le melzer, non cyanophiles
+    elliptiques à ovoïdales en vue frontale, largement elliptiques à elliptiques vues de profil, quelque peu tronquées, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilare et pore germinatif pas toujours bien visible 0,9-1,2 µm Ø, à contenu homogène, brun pâle dans le NaCl iso 0,9%, brun rougeâtre dans le melzer, non cyanophiles
     6,4 [7,1; 7,5] 8,2 x 3,8 [4,2; 4,4] 4,7 µm
     Q = 1,5 [1,7] 1,9; N = 30; C = 95%
     Me = 7,3 x 4,3 µm; Qe = 1,7

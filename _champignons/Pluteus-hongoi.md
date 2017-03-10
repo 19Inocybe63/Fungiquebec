@@ -54,11 +54,11 @@ description:
     (6,4) 6,7 - 7,7 (7,9) × (4,5) 4,7 - 5,4 (5,5) µm
     Q = (1,3) 1,34 - 1,6 (1,7) ; N = 30
     Me = 7,2 × 5 µm ; Qe = 1,5
-    (Piximètre: formule classique ; basidiospores mesurées dans l’eau glycérinée 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois décomposé de feuillus (Acer, Betula, Fagus, Quercus)
+  biotopes: pousse sur bois décomposé de feuillus (<i>Acer</i>, <i>Betula</i>, <i>Fagus</i>, <i>Quercus</i>)
   boucles: absentes du pileipellis et non observées dans aucune autre partie du basidiome
   brachybasidioles: 
   calicule: 

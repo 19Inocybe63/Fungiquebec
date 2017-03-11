@@ -88,7 +88,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
-  comestibilite: ±, car données insuffisantes
+  comestibilite: ±, espèce sans intérêt et données insuffisantes
   commentaires: 
   conidies: 
   conidiome: 

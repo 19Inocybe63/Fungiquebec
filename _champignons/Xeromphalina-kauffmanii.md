@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, à paroi mince, 21-25 x 4-5 µm
   basidiospores: |
-    elliptiques en vue frontale, elliptiques à oblongues vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu homogène, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes dans le melzer, fortement cyanophiles
+    elliptiques en vue frontale, elliptiques à oblongues vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu homogène, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes, fortement cyanophiles
     (4,5) 4,9-6 (7) x (2,7) 2,9-3,4 (3,9) µm
     Q = (1,5) 1,6-1,9 (2,1); N = 30
     Me = 5,5 x 3,1 µm; Qe = 1,8

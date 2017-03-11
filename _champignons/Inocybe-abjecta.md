@@ -288,7 +288,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  symptomes: 
+  symptomes: apparation rapide entre 30 minutes et 2 heures après l'ingestion ; sudation très importante ; hypersécrétion salivaire ; nausées, vomissements, diarrhées
   syndrome: muscarinien ou sudorien
   synonymie: |
     Agaricus abjectus P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 2:172 (1878)

@@ -224,6 +224,8 @@ champs-description:
     label: Syndrome
   - name: symptomes
     label: Symptômes
+  - name: comestibilite
+    label: Comestibilité
   - name: sclerote
     label: Sclérote
   - name: cortex

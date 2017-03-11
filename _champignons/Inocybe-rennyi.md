@@ -1,6 +1,6 @@
 ---
 nom: Inocybe rennyi
-date: 2016-12-28 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -90,6 +90,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: NON. Intoxication à apparition rapide (moins de 6 heures)
   commentaires: 
   conidies: 
   conidiome: 
@@ -276,6 +277,10 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 2 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: muscarinien ou sudorien. La <i>muscarine</i> est la toxine responsable
   synonymie: |
     Agaricus rennyi Berk. & Broome, Annals and Magazine of Natural History 3:205 (1879)
     Astrosporina rennyi (Berk. & Broome) Rea, British Basidiomycetae: A handbook to the larger British fungi:212 (1922)

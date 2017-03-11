@@ -289,7 +289,7 @@ description:
   subiculum: 
   substrat: 
   symptomes: apparation rapide entre 30 minutes et 2 heures après l'ingestion ; sudation très importante ; hypersécrétion salivaire ; nausées, vomissements, diarrhées
-  syndrome: muscarinien ou sudorien
+  syndrome: muscarinien ou sudorien ; toxine responsable la <i>muscarine</i>
   synonymie: |
     Agaricus abjectus P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 2:172 (1878)
     Inocybe flocculosa var. abjecta (P. Karst) R. Heim, Encyclopédie Mycologique 1:387 (1931)

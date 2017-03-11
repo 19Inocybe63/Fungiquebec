@@ -1,6 +1,6 @@
 ---
 nom: Russula aeruginea
-date: 2016-11-07 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/4/3928/15457643411_fb0e938895_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15457643411/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
 album-flickr:
@@ -57,9 +57,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, 40-49 x 8-9 μm, tétrastérigmates, non bouclées, uniguttulées à pluriguttulées
+  basides: claviformes, 40-49 x 8-9 μm, tétrasporiques, non bouclées, uniguttulées à pluriguttulées
   basidiospores: |
-    elliptiques à largement elliptiques vue de profil, globuleuses à subglobuleuses vue frontale, verrues isolées avec de rares connexifs, à paroi mince, avec appendice hilaire, proéminences entre 0,1 x 0,8 µm de hauteur, hyalines dans le NaCl isotonique 0,9%, amyloïdes
+    globuleuses à subglobuleuses en vue frontale, elliptiques à largement elliptiques vues de profil, verrues isolées avec de rares connexifs, à paroi mince, avec appendice hilaire, proéminences entre 0,1 x 0,8 µm de hauteur, hyalines dans le NaCl iso 0,9%, amyloïdes
     6,1 [7; 7,4] 8,3 x 4,9 [5,5; 5,8] 6,3 µm
     Q = 1,1 [1,2; 1,3] 1,5; N = 30; C = 95%
     Me = 7,2 x 5,6 µm; Qe = 1,3
@@ -123,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, souvent fourchues près du pied, cassantes, serrées, crème à chamois pâle, pas de lamellules, tachées de brunâtre par endroits avec l'âge
+  lames: adnées à subdécurrentes, souvent fourchues près du pied, cassantes, serrées, crème à chamois pâle, pas de lamellules, tachées de brunâtre par endroits à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -215,9 +215,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
-  pied: 40-80 x 13-17 mm Ø, égal, plein, dont la base est atténuée, se tache légèrement de brun jaunâtre avec l'âge ou au froissement
+  pied: 40-80 x 13-17 mm Ø, égal, plein, dont la base est atténuée, se tache légèrement de brun jaunâtre à maturité ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 

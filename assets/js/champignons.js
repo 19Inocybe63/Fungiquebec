@@ -27,17 +27,15 @@ this.addField('{{ champ.name | replace: "-", "_" }}');
     {% endif %}{% endfor %}
 });
 
-var facetsChampignons = [
+var facetsChampignons = {
     {% for champ in site.champs-details %}
         {% if champ.search == "facet" %}
-    {
-        label: '{{ champ.label }}',
-        field: '{{ champ.name | replace: "-", "_" }}',
+    '{{ champ.name | replace: "-", "_" }}': {
         selectedValue: undefined
     },
         {% endif %}
     {% endfor %}
-];
+};
 
 
 {% assign champignonsTries = (site.champignons | sort: 'nom') %}

@@ -5,16 +5,11 @@ permalink: /champignons/
 ---
 
 <script>
-    function showAllChampignons() {
-        toggleLettreSelected($('.lettre-tous')[0]);
-        $('.lettre').show();
-    }
-
     function hideAllChampignons() {
         $('#search-results').html("");
     }
 
-    function showResults(results) {
+    function showResults(results, facets) {
         var resultCountDiv = $('<div>');
         resultCountDiv.text(results.length + " champignons trouvés");
         $('#search-results').append(resultCountDiv);
@@ -30,13 +25,32 @@ permalink: /champignons/
             }
 
             var searchResultDiv = $('<div>');
+            search
             var searchResultLink = $('<a>');
             searchResultLink.html("<i>" + doc.nom + "</i>");
             searchResultLink.attr('href', doc.url);
             searchResultDiv.append(searchResultLink);
 
             $('#search-results').append(searchResultDiv);
-//            $('.lettre-entete.lettre' + indexChampignons.documentStore.getDoc(result.ref).nom[0].toLowerCase()).show();
+        }
+
+        for (var i = 0; i < facets.length; ++i) {
+            var facetResult = facets[i];
+            var facetSelectElement = $('#' + facetResult.field);
+            facetSelectElement.html('');
+
+            var option = $('<option>');
+            option.attr('value', 'tous');
+            option.text('Tous');
+            facetSelectElement.append(option);
+
+            for (var j = 0; j < facetResult.results.length; ++j) {
+                var item = facetResult.results[j]
+                option = $('<option>');
+                option.attr('value', item.value);
+                option.text(item.value + " (" + item.count + ")");
+                facetSelectElement.append(option);
+            }
         }
     }
 
@@ -66,8 +80,52 @@ permalink: /champignons/
     <div class="row">
         <div class="col-lg-12">
             <form id="searchform" onsubmit="return false">
-                <input id="searchbox" type="text" placeholder="Recherche..." onkeyup="onSearchBoxKeyUp(event)" />
-                <button id="searchbutton" value="Rechercher" onclick="onSearchButtonClick()">Rechercher</button>
+                <div>
+                    <input id="searchbox" type="text" placeholder="Recherche..." onkeyup="onSearchBoxKeyUp(event)" />
+                </div>
+                <div>
+                    {% for champ in site.champs-details %}
+                        {% if champ.search == "facet" %}
+                        <div>
+                            {{ champ.label }} :
+                            <select name="{{ champ.name | replace: "-", "_" }}" id="{{ champ.name | replace: "-", "_" }}">
+                            </select>
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                <div>
+                    <select name="champ1">
+                        {% for champ in site.champs-details %}
+                            {% if champ.search != "exclure" and champ.search != "facet" %}
+                            <option value="{{ champ.name | replace: "-", "_" }}">{{ champ.label }}</option>
+                            {% endif %}
+                        {% endfor %}
+                        {% for champ in site.champs-collection %}
+                            {% if champ.search != "exclure" %}
+                                {% if champ.champs %}
+                                    {% for sousChamp in champ.champs %}
+                                        {% if sousChamp.search != "exclure" %}
+                                    <option value="{{ champ.name | replace: "-", "_" }}_{{ sousChamp.name | replace: "-", "_" }}">{{ champ.label }} - {{ sousChamp.label }}</option>
+                        this.addField('{{ champ.name | replace: "-", "_" }}_{{ sousChamp.name | replace: "-", "_" }}');
+                                        {% endif %}
+                                    {% endfor %}
+                                {% else %}
+                                    <option value="{{ champ.name | replace: "-", "_" }}">{{ champ.label }}</option>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                        {% for champ in site.champs-description %}
+                            {% if champ.search != "exclure" and champ.name != "cristaux apicaux" %}
+                            <option value="{{ champ.name | replace: "-", "_" }}">{{ champ.label }}</option>
+                            {% endif %}
+                        {% endfor %}
+                    </select>
+                    : <input type"text" />
+                </div>
+                <div>
+                    <button id="searchbutton" value="Rechercher" onclick="onSearchButtonClick()">Rechercher</button>
+                </div>
             </form>
 
             <div id="search-results">
@@ -88,8 +146,6 @@ permalink: /champignons/
         searchHandler.allResults = champignons;
         searchHandler.showResults = showResults;
         searchHandler.hideAllResults = hideAllChampignons;
-        searchHandler.showAllResults = showAllChampignons;
-        searchHandler.facetsContainer = $($('#facets')[0]);
         searchHandler.facets = facetsChampignons;
         searchHandler.initialize("");
     }

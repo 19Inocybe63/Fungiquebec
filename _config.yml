@@ -220,6 +220,10 @@ champs-description:
     label: Exhalaison des lames
   - name: saveur
     label: Saveur
+  - name: syndrome
+    label: Syndrome
+  - name: symptomes
+    label: Symptômes
   - name: sclerote
     label: Sclérote
   - name: cortex

@@ -100,6 +100,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: Non, intoxication à apparition rapide (moins de 6 heures)
   commentaires: 
   conidies: 
   conidiome: 

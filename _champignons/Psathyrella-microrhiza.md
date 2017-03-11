@@ -1,6 +1,6 @@
 ---
 nom: Psathyrella microrhiza
-date: 2016-12-07 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c1.staticflickr.com/9/8035/8056863941_c1af63bc37_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8056863941/in/photolist-dHFWbh-dgXwXg-dgXx4z/
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subsphéropédonculées, tétrastérigmates 31,3 x 11,8 µm en moyenne
+  basides: claviformes à subsphéropédonculées, tétrasporiques 31,3 x 11,8 µm en moyenne
   basidiospores: |
-    elliptiques à largement elliptiques vue de profil, à elliptiques vue frontale, tronquées, lisses, à paroi légèrement épaissie, avec appendice hilaire, et pore germinatif centré 1,4-1,7 µm en moyenne, à contenu homogène, brun foncé dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    elliptiques en vue frontale, elliptiques à largement elliptiques vues de profil, tronquées, lisses, à paroi légèrement épaissie, avec appendice hilaire, et pore germinatif centré 1,4-1,7 µm en moyenne, à contenu homogène, brun foncé dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     10,7 [12,1; 12,5] 13,8 x 5,8 [6,4; 6,5] 7,2 µm
     Q = 1,7 [1,9] 2,1; N = 61; C = 95%
     Me = 12,3 x 6,5 µm; Q moyen = 1,9
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, serrées, avec lamellules irrégulières à distribution symétrique, brun foncé, large à subventrue, avec arêtes blanchâtre fimbrillées
+  lames: libres, serrées, avec lamellules irrégulières à distribution symétrique, larges à subventrues, brun foncé, avec arêtes blanchâtres fimbrillées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

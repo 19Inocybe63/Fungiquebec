@@ -1,6 +1,6 @@
 ---
 nom: Inocybe stirpe mixtilis
-date: 2017-02-05 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/6/5769/20824170299_f2ac300786_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20824170299/in/photolist-HtmErz-xJajjX-x4MHWH
 album-flickr:
@@ -89,6 +89,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: NON. Intoxication à apparition rapide (moins de 6 heures)
   commentaires: 
   conidies: 
   conidiome: 
@@ -280,6 +281,10 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 2 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: muscarinien ou sudorien. La <i>muscarine</i> est la toxine responsable
   synonymie: 
   systeme-hyphal: 
   textura: 

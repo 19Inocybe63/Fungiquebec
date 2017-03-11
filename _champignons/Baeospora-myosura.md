@@ -11,8 +11,8 @@ details:
   autorites: (Fr.) Singer
   ordre: Agaricales
   famille: Marasmiaceae
-  genre: <i>Baeospora</i>
-  espece: <i>myosura</i>
+  genre: Baeospora
+  espece: myosura
   litterature: Singer, R. 1938. Notes sur quelques Basidiomycetes. Revue de Mycologie. 3, 187-199
 
 collections:

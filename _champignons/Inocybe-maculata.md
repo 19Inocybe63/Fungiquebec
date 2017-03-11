@@ -1,6 +1,6 @@
 ---
 nom: Inocybe maculata
-date: 2016-11-02 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/4/3736/9537628135_495f242585_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9537628135/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
 album-flickr:
@@ -87,6 +87,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: NON. Intoxication à apparition rapide (moins de 6 heures)
   commentaires: 
   conidies: 
   conidiome: 
@@ -271,6 +272,10 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 2 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: muscarinien ou sudorien. La <i>muscarine</i> est la toxine responsable
   synonymie: |
     Inocybe fastigiella sensu auct. eur.; fide Checklist of Basidiomycota of Great Britain and Ireland (2005)
     Inocybe maculata f. fastigiella sensu auct. eur.; fide Checklist of Basidiomycota of Great Britain and Ireland (2005)

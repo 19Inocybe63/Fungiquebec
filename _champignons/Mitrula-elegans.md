@@ -1,6 +1,6 @@
 ---
 nom: Mitrula elegans
-date: 2017-03-08 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/8/7309/8937592313_9fb6943bef_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8937592313/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
 album-flickr:
@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur feuilles, aiguilles, écailles, ramilles ou fruits, débris, billes, boues, tapis d'algues, etc., pourrissant dans les eaux peu profondes des forêts (1 décimètre concernant le sujet ci-dessus), mares, eaux en voie d'assèchement ou fossés
+  biotopes: pousse sur feuilles, aiguilles, écailles, ramilles ou fruits, débris, billes, boues, tapis d'algues, etc., pourrissant dans les eaux peu profondes des forêts (1 dm concernant le sujet ci-dessus), mares, eaux en voie d'assèchement ou fossés
   boucles: 
   brachybasidioles: 
   calicule: 

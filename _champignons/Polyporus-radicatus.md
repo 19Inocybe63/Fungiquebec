@@ -1,6 +1,6 @@
 ---
 nom: Polyporus radicatus
-date: 2017-02-16 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c1.staticflickr.com/9/8147/7545022948_2da26f1e36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7545022948/in/photolist-cuJdWS-cuJdsy
 album-flickr:
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: décurrente, cartilagineuse et cassante au sec, plus foncée que le contexte, 1-5 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -228,7 +227,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds à anguleux, 1-3 par mm
+  pores: décurrents, cartilagineux et cassants au sec, plus foncés que le contexte, 1-5 mm de longueur ; ronds à anguleux, 1-3 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -271,6 +270,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: 
   type: 
   typique: 
   voile: 

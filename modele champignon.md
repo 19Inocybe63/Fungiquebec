@@ -258,6 +258,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  symptomes: 
+  syndrome: 
   synonymie: 
   systeme-hyphal: 
   textura: 

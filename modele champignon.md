@@ -266,7 +266,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tube: 
+  tubes: 
   type: 
   typique: 
   voile: 

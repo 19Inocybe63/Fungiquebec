@@ -1,6 +1,6 @@
 ---
 nom: Russula albonigra
-date: 2016-11-02 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c1.staticflickr.com/9/8242/28826395870_8327d25997_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28826395870/in/photolist-LcknHf-LeNzMD-KVhPcm
 album-flickr:
@@ -79,6 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: 
   commentaires: 
   conidies: 
   conidiome: 
@@ -111,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -259,6 +260,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  symptomes: 
+  syndrome: 
   synonymie: |
     Agaricus alboniger Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 9, 27, t. 70:16-17 (1845)
     Russula nigricans var. albonigra (Krombh.) Cooke & Quél., Clavis synoptica Hymenomycetum Europaeorum, 143 (1878)

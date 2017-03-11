@@ -1,6 +1,6 @@
 ---
 nom: Inocybe calospora
-date: 2017-03-04 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c1.staticflickr.com/1/527/20002235135_b8e49c6294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20002235135/in/photolist-Ajog3r-wtwKDr-wtwFD2
 album-flickr:
@@ -130,6 +130,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: NON. Intoxication à apparition rapide (moins de 6 heures)
   commentaires: De Claude Kaufholtz-Couture. « Dans les mesures des spores, Kauffman (North American Flora, vol. 10, Part 4, Inocybe, 1924, p. 233) inclut les digitations dans la mesure. Pour ma part, je ne les inclus pas, elles sont mesurées à part. »
   conidies: 
   conidiome: 
@@ -317,6 +318,10 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 2 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: muscarinien ou sudorien. Toxine responsable la <i>muscarine</i>
   synonymie: |
     Astrosporina calospora (Quél.) E. Horak, British Basidiomycetae: A handbook to the larger British fungi:211 (1922)
     Inocybella calospora (Quél.) Zerova, Novosti Sist. Nizsh. Rast.:163 (1974)

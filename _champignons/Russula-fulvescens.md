@@ -77,7 +77,7 @@ description:
   chancre: 
   chapeau: 83 mm Ø, convexe à étalé, puis déprimé, jaune orangé, la cuticule collante, pèle presque entièrement
   cheilochrysocystides:
-  cheilocystides: occasionnelles, peu émergentes, cylindriques à fusiformes, parfois avec apex mucroné, à contenu pailleté, Sulfovanilline négative (SV -), 60 - 65 × 8 - 10 µm en moyenne
+  cheilocystides: occasionnelles, peu émergentes, cylindriques à fusiformes, parfois avec apex mucroné, à contenu pailleté, sulfovanilline négative (SV -), 60 - 65 × 8 - 10 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -219,10 +219,10 @@ description:
   pigments: 
   pileipellis: en ixocutis, formé d'hyphes non incrustées et de pileocystides occasionnelles
   pileitrame: 
-  pileocystides: occasionnelles, cylindriques, dont l’apex se termine souvent spatulé à subspatulé, à rarement bidigitée, septées, Sulfovanilline négatives (SV -), 37 - 87,5 × 4,5 - 6 µm en moyenne
+  pileocystides: occasionnelles, cylindriques, dont l’apex se termine souvent spatulé à subspatulé, à rarement bidigitée, septées, sulfovanilline négatives (SV -), 37 - 87,5 × 4,5 - 6 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, cylindriques à fusiformes, souvent avec apex mucroné, à contenu pailleté, Sulfovanilline négative (SV -), 68,3 - 78,5 × 11 - 13,7 µm en moyenne
+  pleurocystides: nombreuses, cylindriques à fusiformes, souvent avec apex mucroné, à contenu pailleté, sulfovanilline négative (SV -), 68,3 - 78,5 × 11 - 13,7 µm en moyenne
   poils: cylindriques, vide optique, septées, (17,4) 19,5 - 48,7 (55,8) × (1,8) 2,1 - 3,6 (3,9) µm en moyenne
   poils-basaux: 
   poils-caulinaires: 

@@ -288,6 +288,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  symptomes: 
+  syndrome: muscarinien ou sudorien
   synonymie: |
     Agaricus abjectus P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 2:172 (1878)
     Inocybe flocculosa var. abjecta (P. Karst) R. Heim, Encyclopédie Mycologique 1:387 (1931)

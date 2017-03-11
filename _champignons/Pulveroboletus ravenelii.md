@@ -1,6 +1,6 @@
 ---
 nom: Pulveroboletus ravenelii
-date: 2016-12-25 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c1.staticflickr.com/1/571/20495491838_2c8f61ca8f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20495491838/in/photolist-xe7KEW-oPXq4J
 album-flickr:
@@ -79,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre ou jaune, bleuissant légèrement à la coupe, surtout au-dessus des tubes
   chancre: 
-  chapeau: 20-120 mm Ø, convexe à largement convexe ou presque plat, d'abord couvert d'un voile partiel jaune vif, devenant assez vite rouge brique à orangée, rougeâtre à brun rougeâtre au centre et jaune sur le bord, sec ou un peu collant après que le voile jaune a disparu, lisse, souvent avec marge appendiculée
+  chapeau: 20-120 mm Ø, convexe à largement convexe ou presque plat, d'abord couvert d'un voile partiel jaune vif, devenant assez vite rouge brique à orangé, rougeâtre à brun rougeâtre au centre et jaune sur le bord, sec ou un peu collant après que le voile jaune a disparu, lisse, souvent avec marge appendiculée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -103,7 +103,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: concolore à la face poroïde, 5-8 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -121,7 +120,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -213,7 +212,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 4-15 x 10-50 mm Ø, cylindrique, égale à conique à la base, jaune à blanchâtre, parfois avec un anneau fragile, mycélium basal blanchâtre ou jaunâtre
   pieds-steriles: 
@@ -235,7 +234,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: subcirculaires à anguleux, petits, 1-3 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -277,6 +276,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: concolores à la face poroïde, 5-8 mm de longueur ; subcirculaires à anguleux, petits, 1-3 par mm
   type: 
   typique: 
   voile: 

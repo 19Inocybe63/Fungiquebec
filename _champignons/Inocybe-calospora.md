@@ -321,7 +321,7 @@ description:
   symptomes: |
     Apparition rapide entre 30 minutes et 2 heures après l'ingestion, mais qui n'entrainent pas la mort.
     Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
-  syndrome: muscarinien ou sudorien. Toxine responsable la <i>muscarine</i>
+  syndrome: muscarinien ou sudorien. La <i>muscarine</i> est la toxine responsable
   synonymie: |
     Astrosporina calospora (Quél.) E. Horak, British Basidiomycetae: A handbook to the larger British fungi:211 (1922)
     Inocybella calospora (Quél.) Zerova, Novosti Sist. Nizsh. Rast.:163 (1974)

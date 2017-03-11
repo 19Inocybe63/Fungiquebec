@@ -1,6 +1,6 @@
 ---
 nom: Hygrocybe chlorophana
-date: 2016-11-25 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/6/5467/9331277074_be19b687dd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9331277074/in/photolist-suxWc1-fdzezu-fdzh7E-fdjVZX/
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7729/17388368622_ed9d956b7a_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/17388368622/in/photolist-suxWc1-fdzh7E-fdjVZX-fdzezu
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à claviformes, tétrastérigmates de longueurs 3,3-5,8 µm en moyenne, bouclées à la base 33,1 [38,3; 41,9] 47,1 x 6,6 [8,2; 9,3] 10,9 µm
+  basides: piriformes à claviformes, tétrasporiques 3,3-5,8 µm de longueur en moyenne, bouclées à la base 33,1 [38,3; 41,9] 47,1 x 6,6 [8,2; 9,3] 10,9 µm
   basidiospores: |
-    elliptiques-ovoïdales vue frontale, largement elliptiques à elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, sans pore germinatif, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, cyanophiles
+    elliptiques-ovoïdales en vue frontale, largement elliptiques à elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, sans pore germinatif, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     7,6 [8,1; 8,3] 8,8 x 4,5 [5; 5,3] 5,8 µm
     Q = 1,4 [1,6] 1,8; N = 30; C = 95%
     Me = 8,2 x 5,2 µm; Qe = 1,6
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

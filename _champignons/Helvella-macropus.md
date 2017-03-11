@@ -1,6 +1,6 @@
 ---
 nom: Helvella macropus
-date: 2016-11-04 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/4/3930/15340706368_d0b67296f3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15340706368/in/photolist-pnAFAq-pnB8xo-pnC8tT
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -109,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

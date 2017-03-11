@@ -1,6 +1,6 @@
 ---
 nom: Psathyrella fragilissima
-date: 2016-12-06 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/6/5680/20383173670_09a3b14d86_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20383173670/in/photolist-xiuhow-x4c6Mm-x4c6oN/
 album-flickr:
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 10-81 x 1-5 mm Ø, cylindrique et parfois légèrement flexueux vers la base, beige pâle, cotonneux blanchâtre par endroit, semble avoir un petit bulbe à la base, dont le mycélium basale est attaché fermement au substrat
   pieds-steriles: 

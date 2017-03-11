@@ -1,6 +1,6 @@
 ---
 nom: Hypholoma radicosum
-date: 2016-11-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/4/3898/14579980651_218188fc9e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14579980651/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7595/16616933670_e13aed0080_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16616933670/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
     geolocalisation: 45°58’40.33"N 70°57’40.76"O
-    altitude: 1.36 km
+    elevation: 334 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: capitées à utriformes, tétrastérigmates 12-22 x 5-7 µm en moyenne
+  basides: capitées à utriformes, tétrasporiques, 12-22 x 5-7 µm en moyenne
   basidiospores: |
-    elliptiques-oblongues vue de profil à subamygdaliformes vue frontale, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire, et petit pore germinatif, à contenu variable, brun pâle dans le NaCl 0,9%, inactive dans le melzer, non cyanophiles
+    subamygdaliformes en vue frontale, elliptiques-oblongues vues de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire, et petit pore germinatif, à contenu variable, brun pâle dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     5,8 [6,8; 7,2] 8,1 x 3,8 [4,4; 4,6] 5,1 µm
     Q = 1,5 [1,54; 1,6] 1,7; N = 30; C = 95%
     Me = 7 x 4,5 µm; Qe = 1,6
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -175,7 +175,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, serrées, blanches puis grisâtres-brunâtres, à arêtes blanchâtres
+  lames: adnexées, serrées, blanches puis grisâtre-brunâtre, à arêtes blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

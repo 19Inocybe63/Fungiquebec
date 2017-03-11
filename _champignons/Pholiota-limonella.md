@@ -1,6 +1,6 @@
 ---
 nom: Pholiota limonella
-date: 2016-11-26 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c1.staticflickr.com/9/8185/8443643369_21c095bedf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8443643369/in/photolist-dSzgU3-dSetnA-dSdVfD-dS8T3P-dS8T16
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à l’apex légèrement piriforme, à tétrastérigmates, bouclées à la base, 23,2 x 7,4 µm en moyenne
+  basides: cylindriques à l’apex légèrement piriforme, à tétrasporiques, bouclées à la base, 23,2 x 7,4 µm en moyenne
   basidiospores: |
-    obovoïdes, ellipsoïdes à oblongues, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, très finement apiculé, pore germinatif indistinct, à contenu uniguttulé à variable, jaunâtre dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    obovoïdes, ellipsoïdes à oblongues, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, très finement apiculé, pore germinatif indistinct, à contenu uniguttulé à variable, jaunâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     6,7 [7,4; 7,6] 8,3 x 4,3 [4,6; 4,7] 5 µm
     Q = 1,4 [1,6; 1,7] 1,8; N = 38; C = 95%
     Me = 7,5 x 4,6 µm; Qe = 1,6
@@ -73,9 +73,9 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune
   chancre: 
-  chapeau: 10-85 mm Ø, campanulé convexe à subétalé, parfois légèrement omboné, avec marge incurvée, visqueux quand humide et à peine visqueux lorsque sec, lisse ou avec de fines méchules dispersées à subdressées, jaunâtre-gris au centre, vert jaunâtre vers la marge, avec des flocons orange-brun concentriquement alignés, squamules plus ou moins triangulaires, qui contrastent avec le fond jaunâtre, avec la marge appendiculée de fines taches du voile, blanchâtre à jaune brun
+  chapeau: 10-85 mm Ø, campanulé convexe à subétalé, parfois légèrement umboné, avec marge incurvée ; visqueux lorsque humide et à peine visqueux lorsque sec, lisse ou avec de fines méchules dispersées à subdressées ; jaunâtre-gris au centre, vert jaunâtre vers la marge, avec des flocons orange-brun concentriquement alignés, squamules plus ou moins triangulaires, qui contrastent avec le fond jaunâtre, avec la marge appendiculée de fines taches du voile, blanchâtre à jaune brun
   cheilochrysocystides:
-  cheilocystides: polymorphes, piriformes à largement clavées, lagéniformes, parfois cylindriques dont l’apex est courbé et légèrement diverticulées à déformées, rarement cylindriques à l’apex capitées
+  cheilocystides: polymorphes, piriformes à largement clavées, lagéniformes, parfois cylindriques dont l’apex est courbé et légèrement diverticulé à déformé, rarement cylindriques à l’apex capité
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: étroitement adnées à émarginées, étroite, 2-6 mm de large, beige jaune à jaune lorsque jeune, puis jaune cannelle à brun, avec bord ondulé irrégulier, finement pruineuse, blanchâtre
+  lames: étroitement adnées à émarginées, étroites, 2-6 mm de large, beige jaune à jaunes au début, puis jaune cannelle à brun, avec bord ondulé irrégulier, arêtes finement pruineuses, blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -217,7 +217,7 @@ description:
   pileocystides: absentes
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: polymorphes, largement fusoïdes, mucronées, souvent comme chrysocystides ou partiellement à entièrement remplies de pigment et déformées, piriformes à clavées, 31,6 x 8,9 µm en moyenne, souvent légèrement émergentes
+  pleurocystides: polymorphes, largement fusoïdes, mucronées, souvent comme chrysocystides ou partiellement à entièrement remplies de pigments et déformées, piriformes à clavées, 31,6 x 8,9 µm en moyenne, souvent légèrement émergentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

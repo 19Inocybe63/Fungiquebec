@@ -1,6 +1,6 @@
 ---
 nom: Gyroporus castaneus
-date: 2016-11-30 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/6/5809/29291388773_577f7734f6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29291388773/in/photolist-LCo2on-MzKYGP
 album-flickr:
@@ -23,9 +23,9 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    elevation: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

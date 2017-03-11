@@ -1,6 +1,6 @@
 ---
 nom: Coprinopsis jonesii
-date: 2017-01-21 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/4/3839/14794602610_8b81ccbddd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14794602610/in/photolist-oxmcVm
 album-flickr:
@@ -97,7 +97,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-130 x 3-10 mm Ø, blanchâtres, légèrement atténué vers l’apex, légèrement élargi à clavé vers la base ou bulbeux jusqu’à 13 mm Ø, creux, pubescent à entièrement floconneux-poilu, densément surtout sur la partie inférieure, glabrescent, blanc
+  pied: 30-130 x 3-10 mm Ø, blanchâtre, légèrement atténué vers l’apex, légèrement élargi à clavé vers la base ou bulbeux jusqu’à 13 mm Ø, creux, pubescent à entièrement floconneux-poilu, densément surtout sur la partie inférieure, glabrescent, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 

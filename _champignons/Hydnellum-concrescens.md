@@ -1,6 +1,6 @@
 ---
 nom: Hydnellum concrescens
-date: 2016-11-20 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/4/3869/15064369687_1d8ea59157_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064369687/in/photolist-pUJXXk-oXbQgR-oXbNkB
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7544/15693046389_522bf2a4ec_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/15693046389/in/photolist-pUJXXk-oXbQgR-oXbNkB
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

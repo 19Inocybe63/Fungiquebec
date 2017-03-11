@@ -1,6 +1,6 @@
 ---
 nom: Helvella crispa
-date: 2016-12-04 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/1/613/20718058281_8d69dbff88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20718058281/in/photolist-xgFeBn-xyMsVp
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

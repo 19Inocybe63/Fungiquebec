@@ -1,6 +1,6 @@
 ---
 nom: Amanita muscaria var. guessowii
-date: 2016-12-16 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/4/3804/9383558688_c77720140f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9383558688/in/photolist-ficc5C
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 120-250 x 10-25 mm Ø, cylindrique, égal ou atténué vers apex, bulbeux-arrondi, poudreux, fibrilleux à squamuleux, orné de petites écailles ± disposées en cercles au dessus du bulbe, blanc à jaune pâle, annelé
+  pied: 120-250 x 10-25 mm Ø, cylindrique, égal ou atténué vers l'apex, bulbeux-arrondi, poudreux, fibrilleux à squamuleux, orné de petites écailles ± disposées en cercles au dessus du bulbe, blanc à jaune pâle, annelé
   pieds-steriles: 
   pigments: 
   pileipellis: 

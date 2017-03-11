@@ -1,6 +1,6 @@
 ---
 nom: Rhodocollybia butyracea
-date: 2016-12-05 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/4/3903/15064668488_052b6a0e2e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064668488/in/photolist-oXdn6A-oXch8n
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées à sublibres, minces, serrées à très serrées, blanches, puis teintées légèrement de rosâtre avec l'âge, à arêtes droites à inégales ou ondulées au début, rarement pubescentes, érodées ou laciniées avec l'âge
+  lames: adnexées à sublibres, minces, serrées à très serrées, blanches, puis teintées légèrement de rosâtre à maturité, à arêtes droites à inégales ou ondulées au début, rarement pubescentes, érodées ou laciniées à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,9 +203,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-100 x 4-10 mm Ø, claviformes, radicant  et parfois comprimé vers la base, fibreux, sec, glabre, farci puis creux et spongieux, distinctement strié à sillonné, blanchâtre à la base, chamois à chamois rosâtre ou pâle vers l'apex et concolore au chapeau vers la base au début, brun cannelle avec l'âge, blanchâtre à la base sous le niveau de substrat
+  pied: 30-100 x 4-10 mm Ø, claviforme, radicant  et parfois comprimé vers la base, fibreux, sec, glabre, farci puis creux et spongieux, distinctement strié à sillonné, blanchâtre à la base, chamois à chamois rosâtre ou pâle vers l'apex et concolore au chapeau vers la base au début, brun cannelle à maturité, blanchâtre à la base sous le niveau de substrat
   pieds-steriles: 
   pigments: 
   pileipellis: 

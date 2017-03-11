@@ -1,6 +1,6 @@
 ---
 nom: Armillaria sinapina
-date: 2016-12-15 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/9/8169/8064698711_27a2a80ff8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8064698711/in/photolist-eceEmc-dhDFXv
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, bouclées à la base, peu émergentes, 25-35 x 4,5-8 µm
+  basides: claviformes, tétrasporiques, bouclées à la base, peu émergentes, 25-35 x 4,5-8 µm
   basidiospores: |
-    ellipsoïdes à légèrement ovoïdes, lisses, à paroi légèrement épaissie, de 0,4-0,6 µm, avec appendice hilaire, à contenu uniguttulé parfois biguttulé, hyalines, verdâtres dans le NH<SUB>4</SUB>OH 2%, inactives dans le melzer
+    ellipsoïdes à légèrement ovoïdes, lisses, à paroi légèrement épaissie, de 0,4-0,6 µm, avec appendice hilaire, à contenu uniguttulé parfois biguttulé, hyalines, verdâtres dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer
     7,2 [8,1; 8,6] 9,5 x 4,2 [4,9; 5,3] 6 µm
     Q = 1,3 [1,6; 1,7] 2; N = 22; C = 95%
     Me = 8,4 x 5,1 µm; Qe = 1,7
@@ -75,7 +75,7 @@ description:
   chancre: 
   chapeau: 20-80 mm Ø, convexe ou campanulé puis étalé, parfois un peu mamelonné, orné de méchules jaune olive fugaces sur fond brun rougeâtre au début, brun rosé avec l'âge
   cheilochrysocystides:
-  cheilocystides: polymorphes abondantes, septées et souvent terminées par des cellules utriformes, composées par des segments septées ressemblant aux feuilles d’opuntia avec terminal régulier, subglobuleuse à subclaviforme, ou atténué vers le sommet, ou arrondi, diverticules, cylindriques, piriformes à largement clavées, parfois largement fusiformes, claviformes
+  cheilocystides: polymorphes abondantes, septées et souvent terminées par des cellules utriformes, composées par des segments septés avec terminal régulier, subglobuleuses à subclaviformes, ou atténuées vers le sommet, ou arrondies, diverticulées, cylindriques, piriformes à largement clavées, parfois largement fusiformes, claviformes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 40-100 x 5-15 mm Ø, clavé, blanchâtre vers l'apex, strié-fibrilleux et brunâtre vers la base, muni d'un anneau délicat, blanchâtre à jaune olivâtre
   pieds-steriles: 

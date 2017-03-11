@@ -1,6 +1,6 @@
 ---
 nom: Craterellus fallax
-date: 2017-01-06 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c2.staticflickr.com/6/5689/20978286609_8c2f1879e9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20978286609/in/photolist-xXMcJH
 album-flickr:
@@ -97,7 +97,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

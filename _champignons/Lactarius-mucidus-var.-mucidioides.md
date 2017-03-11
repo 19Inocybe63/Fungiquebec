@@ -1,6 +1,6 @@
 ---
 nom: Lactarius mucidus var. mucidioides
-date: 2016-11-03 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/9/8178/7996919806_53f97e1310_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996919806/in/photolist-e9JUKB-dbEiDG
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8104/8631542113_1917e45b33_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8631542113/in/photolist-e9JUKB-dbEiDG
     geolocalisation: 46°57'01.25"N 71°17'51.46"O
-    altitude: 412 m
+    elevation: 222 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Walt Sturgeon
 
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: fusiformes, tétrastérigmates 40-68 x 9-11 µm en moyenne
+  basides: fusiformes, tétrasporiquess, 40-68 x 9-11 µm en moyenne
   basidiospores: |
-    subglobuleuses à largement ellipsoïdes, ornementations assez hautes et plutôt crêtées-réticulées, avec proéminences entre 0,6-1,3 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, hyalines dans le NaCl, amyloïdes
+    subglobuleuses à largement ellipsoïdes, ornementations assez hautes et plutôt crêtées-réticulées, avec proéminences entre 0,6-1,3 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
     5,6 [6,1; 6,4] 6,9 x 5,2 [5,7; 5,9] 6,4 µm
     Q = 1 [1,1] 1,2; N = 20; C = 95%
     Me = 6,3 x 5,8 µm; Qe = 1,1
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 50-90 x 10-17 mm Ø, égal, creux, viscidule, blanchâtre au sommet, beige rosé plus bas, souvent orné de fossettes brun rougeâtre
   pieds-steriles: 
@@ -252,7 +252,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: Pallidosporée, crème
+  sporee: pallidosporée, crème
   spherocytes: 
   sporocystes: 
   stipitipellis: 

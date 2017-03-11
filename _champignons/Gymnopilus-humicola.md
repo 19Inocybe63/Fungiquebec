@@ -1,6 +1,6 @@
 ---
 nom: Gymnopilus humicola
-date: 2016-11-04 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9060850940/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8745/16871277948_067ee28bb3_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16871277948/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Rocky Houghtby
   - fongarium: cKc0312
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Rocky Houghtby
 
@@ -56,9 +56,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: clavées à longuement claviformes, tétrastérigmates, bouclées à la base, 21 [25,3; 29,7] 34 x 6,3 [7,3; 8,2] 9,2 µm en moyenne 
+  basides: clavées à longuement claviformes, tétrasporiques, bouclées à la base, 21 [25,3; 29,7] 34 x 6,3 [7,3; 8,2] 9,2 µm en moyenne 
   basidiospores: |
-    largement elliptique à elliptique, amygdaliformes vue de profil, à ovoïdes vue frontale, finement verruqueuses, à paroi mince entre 0,2-0,3 µm, avec petit appendice apiculaire, à contenu variable mais souvent uniguttulé, cannelle à miel dans le NaCl, ferrugineuses dans le KOH 5%, rapidement dextrinoïdes, non cyanophiles
+    ovoïdes en vue frontale, largement elliptique à elliptique, amygdaliformes vues de profil, finement verruqueuses, à paroi mince entre 0,2-0,3 µm, avec petit appendice apiculaire, à contenu variable mais souvent uniguttulé, cannelle à miel dans le NaCl iso 0,9%, ferrugineuses dans le KOH 5%, rapidement dextrinoïdes, non cyanophiles
     7,1 [8; 8,4] 9,3 x 4,6 [5; 5,1] 5,5 µm
     Q = 1,5 [1,6] 1,7; N = 30; C = 95%
     Me = 8,2 x 5,1 µm; Qe = 1,6
@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, larges, serrées, avec lamellules irrégulières à distribution symétrique, jaunâtre, crème, à arête concolore aux lames
+  lames: adnées à subdécurrentes, larges, serrées, avec lamellules irrégulières à distribution symétrique, jaunâtres, crèmes, à arêtes concolores aux lames
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

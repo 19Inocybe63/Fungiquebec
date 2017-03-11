@@ -1,6 +1,6 @@
 ---
 nom: Crepidotus cesatii var. subsphaerosporus
-date: 2016-11-02 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/9/8467/8084202795_cc78c9e611_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084202795/in/photolist-dxUEnx-djnDQP-dxXe3x
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates jusqu'à 6 µm de longueur, 22-32 µm x 6-8 µm
+  basides: claviformes, tétrasporiques jusqu'à 6 µm de longueur, 22-32 µm x 6-8 µm
   basidiospores: |
-    subglobuleuses à largement ellipsoïdes, ponctuées, échinulées, à paroi légèrement épaissie, avec apicule excentré, à contenu uniguttulé, brun jaunâtre dans le NaCl iso 0,9%, inactives dans le melzer, partiellement cyanophiles
+    subglobuleuses à largement ellipsoïdes, ponctuées, échinulées, à paroi légèrement épaissie, avec apicule excentré, à contenu uniguttulé, brun jaunâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, partiellement cyanophiles
     7,3 x 5,6 µm en moyenne; Q moyen = 1,3
     échantillonnage, 30 spores
   basidioles: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

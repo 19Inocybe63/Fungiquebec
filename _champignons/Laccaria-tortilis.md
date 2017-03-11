@@ -1,6 +1,6 @@
 ---
 nom: Laccaria tortilis
-date: 2017-01-20 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/8/7242/27918087042_822955bf7f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27918087042/in/photolist-Jx2uCj
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
@@ -97,7 +97,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 

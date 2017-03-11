@@ -1,6 +1,6 @@
 ---
 nom: Leccinum insolens
-date: 2016-12-30 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c1.staticflickr.com/9/8309/7996768584_cf8f588230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996768584/in/photolist-dWueXc-dbDwGq-dbDukK
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8237/8492882069_100cdc0535_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8492882069/in/photolist-dWueXc-dbDukK-dbDwGq
     geolocalisation: 46°57'01.25"N 71°17'51.46"O
-    altitude: 412 m
+    elevation: 222 m
     determinee: Geoffrey Kibby (provisoire)
     confirmee: 
 
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes, tétrastérigmates, non bouclées à la base, de 23-26 x 9-10 µm en moyenne
+  basides: piriformes, tétrasporiques, non bouclées à la base, de 23-26 x 9-10 µm en moyenne
   basidiospores: |
-    subellipsoïdes à subfusiformes, lisses, à paroi mince de 0,2-0,3 µm, à contenu souvent uniguttulé parfois granuleux, avec appendice hilaire, et dépression suprahilaire, verdâtres en NH<sub>4</sub>OH 2%, inactives dans le melzer
+    subellipsoïdes à subfusiformes, lisses, à paroi mince de 0,2-0,3 µm, à contenu souvent uniguttulé parfois granuleux, avec appendice hilaire, et dépression suprahilaire, verdâtres en NH<sub>4</sub>OH 2%, pas de réaction dans le melzer
     11,6 [13,9; 14,8] 17,1 x 3,5 [4,1; 4,4] 5,1 µm
     Q = 2,8 [3,3; 3,5] 4; N = 35; C = 95%
     Me = 14,3 x 4,3 µm; Qe = 3,4
@@ -97,7 +97,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: déprimée près du pied, concolore à la face poroïde, 8-20 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -115,7 +114,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -212,12 +211,12 @@ description:
   pied: 84 x 19 mm Ø, élargi vers la base, plein, sec, orné de rugosités brun noirâtre sur fond blanchâtre. Il brunit lentement à la coupe. La chaire dans l'apex est lilas pâle à gris pâle
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis terminé par des extrémités hyphale
+  pileipellis: en cutis terminé par des extrémités hyphales
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: semblables aux cheilocystides, dont l’apex se collapse facilement, parfois largement ventrues 40,9 x 14,8 µm en moyenne
+  pleurocystides: semblables aux cheilocystides, parfois largement ventrues, l’apex se collapse facilement, 40,9 x 14,8 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -229,7 +228,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires et petits, 1-4 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -273,6 +272,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: formée d'hyphes parallèles à subparallèles de 3-9 µm de largeur
+  tubes: circulaires et petits, 1-4 par mm, déprimés près du pied, concolore à la face poroïde, 8-20 mm de longueur
   type: 
   typique: 
   voile: 

@@ -1,6 +1,6 @@
 ---
 nom: Pulvinula carbonaria
-date: 2016-11-18 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/6/5783/20542097725_4860e5477f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20542097725/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
 album-flickr:
@@ -67,7 +67,7 @@ description:
     13,6 [14,5; 15,1] 16 x 13,3 [14,3; 15] 15,9 µm
     Q = 1 [1,0] 1; N = 17; C = 95%
     Me = 14,8 x 14,6 µm; Qe = 1
-    (Piximètre; mesures effectuées sur des spores immatures)
+    (Piximètre, mesures issues de spores immatures)
   asques: longuement claviformes, octosporés, unisériés, iodonégatifs, 195-235 x 17-21 µm
   asterohyphidies: 
   avertissement: 
@@ -106,8 +106,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: |
-    De Claude Kaufholtz-Couture. « Remerciement à Nicolas Van Vooren pour la terminologie des paraphyses. »
+  commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 

@@ -1,6 +1,6 @@
 ---
 nom: Dacrymyces chrysospermus
-date: 2016-11-02 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/9/8493/8330888434_22bb5d7a01_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8330888434/in/photolist-dG9Y65-dGaYTu
 album-flickr:
@@ -48,7 +48,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, fourchues, non bouclées à la base, 45-70 x 3-3,5 µm
   basidiospores: |
-    cylindriques à suballantoïdes, lisses, à paroi légèrement épaissie, avec sept septa à maturité, dépression supra-apiculaire et hile, à contenu pluriguttulé, hyalines dans le NH<SUB>4</SUB>OH 2%, inactives dans le melzer, non cyanophiles
+    cylindriques à suballantoïdes, lisses, à paroi légèrement épaissie, avec sept septa à maturité, dépression supra-apiculaire et hile, à contenu pluriguttulé, hyalines dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer, non cyanophiles
     18,1 [19,6; 20,2] 21,6 x 6 [7,1; 7,5] 8,5 µm
     Q = 2,3 [2,7; 2,8] 3,2; N = 33; C = 95%
     Me = 19,9 x 7,3 µm; Q moyen = 2,7
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

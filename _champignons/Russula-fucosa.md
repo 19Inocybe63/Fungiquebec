@@ -1,6 +1,6 @@
 ---
 nom: Russula fucosa
-date: 2017-01-08 00:00:00
+date: 2017-02-15 00:00:00
 image: https://c1.staticflickr.com/1/718/20475447168_2094b83b00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20475447168/in/photolist-xcm26b
 album-flickr:
@@ -16,15 +16,25 @@ details:
   litterature: Burlingham, G.S. 1924. Notes on species of Russula. Mycologia. 16(1):16-23
 
 collections:
+  - fongarium: cKc0217
+    date: 25 août 2014
+    planche:
+      numero: 
+      miniature: https://c2.staticflickr.com/8/7496/15991135571_d47c9bd456_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15991135571/in/photolist-qn5KtZ-oSwUbo-oUyEuZ-oUyGrz
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
   - fongarium: cKc0236
     date: 4 septembre 2014
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
+    determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
   - fongarium: cKc0408
     date: 17 août 2015
@@ -32,8 +42,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0519
@@ -42,8 +52,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -68,8 +78,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrastérigmates, non bouclées à la base, 40-45 x 11,5-13 μm en moyenne
+  basidiospores: |
+    subglobuleuses vue de profil à largement elliptiques vue frontale, largement échinulées avec de rares réticulations, avec des proéminences jusqu’à 1,6 (1,7) µm de hauteur, à paroi mince, l’appendice hilaire pas toujours bien visible, hyalines dans le NaCl iso 0,9%, amyloïdes
+    8,4 [9,2; 9,6] 10,3 x 7,4 [7,9; 8,2] 8,7 µm
+    Q = 1,1 [1,2; 1,18] 1,2; N = 30; C = 95%
+    Me = 9,4 x 8 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -92,7 +106,7 @@ description:
   chancre: 
   chapeau: 40-65 mm Ø, convexe à étalé, déprimé, pruineux, rosâtre à rouge plus foncé en son centre, légèrement feutré en son centre, cuticule pelant au ¼-¾ du rayon
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: nombreuses non proéminentes, cylindriques flexueuses, rostrées, parfois cylindriques avec apex moniliformes, sulfobenzaldéhyde négatif (SBA-), 31,5 [34,8; 38,3] 41,5 x 5,8 [7,9; 10,3] 12,4 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -118,7 +132,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -168,7 +182,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: septées du pileipellis
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -233,10 +247,10 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: 
+  pileocystides: présentes
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: nombreuses, proéminentes, cylindriques avec apex mucroné, parfois avec apex largement mucroné, à baguette de tambour, 48,7 [58,6; 70,7] 80,7 x 10,5 [11,3; 12,3] 13,1 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -261,7 +275,12 @@ description:
     Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Primo, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Secondo, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
     Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
-  publications-microscopiques: 
+  publications-microscopiques: |
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
     FeSO<sub>4</sub> = verdâtre à vert ± intense après 5 minutes sur le stipe

@@ -1,6 +1,6 @@
 ---
 nom: Leotia lubrica
-date: 2017-02-10 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/4/3901/15031724019_326fe183c6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15031724019/in/photolist-oUivRv-oUiuqe
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°57'05.82"N 71°17'45.00"O
-    elevation: 537 m
+    elevation: 225 m
     determinee: 
     confirmee: Roland Labbé
   - fongarium: cKc0249
@@ -107,7 +107,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -122,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

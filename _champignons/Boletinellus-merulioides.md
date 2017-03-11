@@ -1,6 +1,6 @@
 ---
 nom: Boletinellus merulioides
-date: 2016-11-02 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c1.staticflickr.com/1/681/20710760485_9274b8e443_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20710760485/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
 album-flickr:
@@ -57,17 +57,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes, claviformes à largement claviformes, tétrastérigmates, bouclées à la base, hyalines dans le NaCl, à contenu vacuolaires, (30,6) 30,7 - 36,7 (37,6) × (8,3) 9 - 12,8 (13,5) µm
+  basides: piriformes, claviformes à largement claviformes, tétrasporiques, bouclées à la base, hyalines dans le NaCl iso 0,9%, à contenu vacuolaire, (30,6) 30,7 - 36,7 (37,6) × (8,3) 9 - 12,8 (13,5) µm
   basidiospores: |
-    elliptiques vue de front, largement elliptiques à elliptiques vue de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, pore germinatif légèrement excentré à excentré et bien visible dans le melzer 1,7-2 µm, à contenu uniguttulé, hyalines dans le NaCl iso, dextrinoïdes, non cyanophiles
+    elliptiques en vue frontale, largement elliptiques à elliptiques vues de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, pore germinatif légèrement excentré à excentré et bien visible dans le melzer 1,7-2 µm, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     (7,5) 7,9 - 8,6 (9,5) × (5,4) 5,6 - 6,2 (6,9) µm
     Q = (1,3) 1,32 - 1,4 (1,5) ; N = 30
     Me = 8,2 × 6 µm ; Qe = 1,4
-    (Piximètre: formule classique)
+    (Piximètre, formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse, sous frêne
+  biotopes: pousse au sol, sur pelouse, sous <i>Fraxinux</i>
   boucles: observées dans le pileipellis
   brachybasidioles: 
   calicule: 
@@ -84,7 +84,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à jaunâtre, immuable ou devenant lentement bleu-vert à la coupe, surtout au-dessus de la couche de tubes
   chancre: 
-  chapeau: 50-200 mm Ø, convexe quand il est jeune, puis étalé à concave à maturité, sec à viscidule, glabre ou presque, brun rougeâtre, brun jaunâtre ou brun olivâtre, à marge incurvée puis souvent ondulée ou gondolent, avec bande étroite de tissu stérile
+  chapeau: 50-200 mm Ø, convexe au début, puis étalé à concave à maturité, sec à viscidule, glabre ou presque, brun rougeâtre, brun jaunâtre ou brun olivâtre, à marge incurvée puis souvent ondulée ou gondolée, avec bande étroite de tissu stérile
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -106,7 +106,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: décurrente, concolore à la face poroïde, 3-6 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -124,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -217,7 +216,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 20-45 x 5-25 mm Ø, souvent excentré à latéral, court, subégal, souvent courbe, plein, jaune vers l'apex, brun vers la base, arrivant de nombreux sclérotes
+  pied: 20-45 x 5-25 mm Ø, souvent excentré à latéral, court, subégal, souvent courbe, plein, jaune vers l'apex, brun vers la base, naissant de nombreux sclérotes
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis avec des hyphes pigmentées, emmêlées et émergentes 3-10 µm de largeur
@@ -236,7 +235,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: anguleux et interveinés, bolétinoïdes, parfois sublamellés, très larges, 1 mm ou plus de largeur
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -285,6 +284,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: parallèle à subparallèle
+  tubes: décurrents, concolore à la face poroïde, 3-6 mm de longueur, anguleux et interveinés, bolétinoïdes, parfois sublamellés, très larges, 1 mm ou plus de largeurs
   type: 
   typique: 
   voile: 

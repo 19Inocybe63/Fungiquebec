@@ -1,6 +1,6 @@
 ---
 nom: Lactarius lignyotus
-date: 2016-11-03 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/4/3839/15186557979_f17d2d4e4a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15186557979/in/photolist-pqu9V6-qhJz1h-p8Z5Ax
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7571/15941932100_61d3bc471c_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/15941932100/in/photolist-pqu9V6-qhJz1h-p8Z5Ax
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -48,9 +48,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates jusqu'à 10 µm de longueur, non bouclées à la base 55-60 x 14-15 µm en moyenne
+  basides: claviformes, tétrasporiques jusqu'à 10 µm de longueur, non bouclées à la base 55-60 x 14-15 µm en moyenne
   basidiospores: |
-    globuleuses à subglobuleuses, échinulées-subréticulées à crêtées-subréticulées, avec des proéminences jusqu’à 1,7 µm de hauteur, à paroi mince, avec appendice hilaire, hyalines dans le NaCl iso, amyloïdes
+    globuleuses à subglobuleuses, échinulées-subréticulées à crêtées-subréticulées, avec proéminences jusqu’à 1,7 µm de hauteur, à paroi mince, avec appendice hilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
     8,4 [9; 9,3] 9,8 x 8 [8,7; 9] 9,7 µm
     Q = 1 [1,0] 1,1; N = 30; C = 95%
     Me = 9,1 x 8,8 µm; Qe = 1
@@ -114,7 +114,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

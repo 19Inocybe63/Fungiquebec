@@ -1,6 +1,6 @@
 ---
 nom: Inocybe abjecta
-date: 2017-01-02 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c1.staticflickr.com/1/517/19736553568_86546edb7c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19736553568/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
 album-flickr:
@@ -63,9 +63,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à étroitement claviformes, tétrastérigmates, bouclées à la base, 25,0-38,0 × 6,5-10,0 µm
+  basides: claviformes à étroitement claviformes, tétrasporiques, bouclées à la base, 25,0-38,0 × 6,5-10,0 µm
   basidiospores: |
-    léiosporées, elliptiques citriformes à sommet subtronqué vue frontale, amygdaliformes à citriformes avec apex coniques à ± ogives, parfois subtronquées vue de profil, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire, parfois avec pore germinatif 0,6-0,8 µm Ø, à contenu uniguttulé, brun pâle à rougeâtre dans E.G. 20%, inactives dans le melzer, non cyanophiles
+    léiosporées, elliptiques citriformes à sommet subtronqué en vue frontale, amygdaliformes à citriformes avec apex coniques à ± ogives, parfois subtronquées vues de profil, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire, parfois avec pore germinatif 0,6-0,8 µm Ø, à contenu uniguttulé, brun pâle à rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (7,5) 8 - 9,3 (10,7) × (4,5) 4,8 - 5,5 (6,7) µm
     Q = (1,5) 1,6 - 1,8 (2) ; N = 30
     Me = 8,8 × 5,2 µm ; Qe = 1,7
@@ -100,6 +100,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: NON. Intoxication à apparition rapide (moins de 6 heures)
   commentaires: 
   conidies: 
   conidiome: 
@@ -118,7 +119,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des Lamprocystides (Lamprocheilocystides et Lampropleurocystides) possède entre 1 et 2 (3) très petits subcrochets, plutôt une masse de cristaux
+  cristaux-apicaux: Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des Lamprocystides (Lamprocheilocystides et Lampropleurocystides) possède entre 1 et 2 (3) très petits subcrochets, plutôt une masse de cristaux
   cuticule: 
   cutis: 
   cycle: 
@@ -133,7 +134,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -194,7 +195,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, présence de lamelles et de lamellules, larges, avec arête érodée, crème à brun pâle
+  lames: adnées à adnexées, avec lamelles et lamellules, larges, à arêtes érodée, crèmes à brun pâle
   lamprocystides: 
   lamprocheilocystides: nombreuses, polymorphes, métuloïdes, fusiformes à subfusiformes, lagéniformes, cylindriques, (50,0) 59,6 - 72 × (10) 11,8 - 15,5 (18,2) µm, à paroi fine à moyenne 1,0-2,4 µm
   lampropleurocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, atténué au sommet-obclavée, lagéniformes à cylindriques à paroi fine à moyenne 1,0-2,4 µm, (50,1) 60,3 - 64,7 (70,0) × (11) 16 - 17,5 (18,5) µm, parfois avec col tortueux, largement ovoïdes à piriformes, (20,5) 42,8 - 50,8 (51,4) × (17,5) 18,4 - 20,3 (24) µm, à paroi fine à moyenne (1,0) 1,4-2,5 (2,7) µm
@@ -288,6 +289,10 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 2 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: muscarinien ou sudorien. Toxine responsable la <i>muscarine</i>
   synonymie: |
     Agaricus abjectus P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 2:172 (1878)
     Inocybe flocculosa var. abjecta (P. Karst) R. Heim, Encyclopédie Mycologique 1:387 (1931)

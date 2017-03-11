@@ -1,6 +1,6 @@
 ---
 nom: Lactifluus subvellereus
-date: 2017-01-10 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c1.staticflickr.com/9/8351/28651501954_d36f8d1517_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28651501954/in/photolist-KDQrk1-KDZWbi/
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous Fagus, Quercus
+  biotopes: pousse au sol, sous <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -97,7 +97,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, serrées à subserrées, étroites, avec lamellules, parfois fourchues, crème jaunâtre, souvent avec gouttelettes crèmes jaunâtre, devenant fauve brunâtre au froissement et cannelle au sec
+  lames: adnées à subdécurrentes, serrées à subserrées, étroites, avec lamellules, parfois fourchues, crème jaunâtre, souvent avec gouttelettes crème jaunâtre, devenant fauve brunâtre au froissement et cannelle au sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

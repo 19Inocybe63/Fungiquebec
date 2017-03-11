@@ -1,6 +1,6 @@
 ---
 nom: Amanita virosa
-date: 2016-11-16 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/1/678/20665354231_ac839dd947_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665354231/in/photolist-xu8kQT-xtwWYn
 album-flickr:
@@ -141,7 +141,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -158,7 +158,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: désagréable et bien que distinctif, difficile à définir
+  exhalaison: désagréable, difficile à définir
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -271,7 +271,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: désagréable et bien que distinctif, difficile à définir
+  saveur: désagréable, difficile à définir
   sclerocystides: 
   sclerote: 
   soies: 
@@ -300,7 +300,7 @@ description:
   typique: 
   voile: 
   voile-general: membraneux, blanc, laissant une volve à la base du pied
-  voile-partiel: 44 mm de hauteur, membraneux, blanc, laissant un anneau parfois fugace dans le haut du pied et parfois des lambeaux au pourtour du chapeau
+  voile-partiel: jusqu'à 44 mm de hauteur, membraneux, blanc, laissant un anneau parfois fugace dans le haut du pied et parfois des lambeaux au pourtour du chapeau
   volve: blanche
   zone-perihymeniale: 
 ---

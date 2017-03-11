@@ -1,6 +1,6 @@
 ---
 nom: Leccinum holopus var. americanum
-date: 2016-11-25 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/4/3894/15353097812_268277f7f5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15353097812/in/photolist-pmGdss-poGD5Y
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Yves Lamoureux
   - fongarium: cKc0275
@@ -33,7 +33,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8681/16008432500_8bcd687ec5_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16008432500/in/photolist-qoBpfU-p8YGN4-pqsjxJ
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -57,9 +57,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement clavées, tétrastérigmates, non bouclées à la base, 18,1 [24,8; 30,5] 37,2 x 8,1 [10; 11,7] 13,6 µm en moyenne
+  basides: piriformes à largement clavées, tétrasporiques, non bouclées à la base, 18,1 [24,8; 30,5] 37,2 x 8,1 [10; 11,7] 13,6 µm en moyenne
   basidiospores: |
-    cylindriques à bacilliformes vue de profil, fusiformes vue frontale, lisses, à paroi mince jusqu’à 0,27 µm, avec appendice hilaire et une dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    fusiformes en vue frontale, cylindriques à bacilliformes vues de profil, lisses, à paroi mince jusqu’à 0,2 µm d'épaisseur, avec appendice hilaire et une dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     14,9 [16,9; 17,8] 19,8 x 5,1 [5,5; 5,7] 6,2 µm
     Q = 2,7 [3; 3,1] 3,5; N = 30; C = 95%
     Me = 17,3 x 5,6 µm; Qe = 3,1
@@ -107,7 +107,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: concolore à la face poroïde, 10-25 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -125,7 +124,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -217,12 +216,12 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 60-140 mm x 10-23 mm Ø, cylindrique, égal à subclaviforme, blanchâtre, scabreux avec de fines rugosités blanchâtres qui deviennent brun grisâtre à noirâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, parfois même en ixocutis, formée d’éléments cylindriques, 14,5 [26; 81,9] 93,4 (100+) x 3 [3,3; 4,6] 4,9 µm, parfois avec des hyphes pigmentées brunâtre, 5-7 µm de largeur en moyenne, de longueur variable 69,1 μm et +
+  pileipellis: en cutis, parfois même en ixocutis, formé d’éléments cylindriques, 14,5 [26; 81,9] 93,4 (100+) x 3 [3,3; 4,6] 4,9 µm, parfois avec des hyphes pigmentées brunâtres, 5-7 µm de largeur en moyenne, de longueur variable 69,1 μm et +
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -239,7 +238,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires 2-3 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -286,6 +285,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: circulaires 2-3 par mm, concolore à la face poroïde, 10-25 mm de longueur
   type: 
   typique: 
   voile: 

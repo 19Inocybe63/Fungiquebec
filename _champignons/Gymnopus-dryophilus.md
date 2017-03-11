@@ -1,6 +1,6 @@
 ---
 nom: Gymnopus dryophilus
-date: 2016-11-19 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/3/2933/14435276209_1066824e4c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14435276209/in/photolist-nZAyGz-of43KE-nS6rBm-o9hkft/
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées à sublibre, serrées, blanchâtre à rosâtre, devenant chamois, large, à arêtes entières, souvent érodées avec l'âge
+  lames: adnexées à sublibres, serrées, blanchâtres à rosâtres, devenant chamois, larges, à arêtes entières, souvent érodées avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius iodes
-date: 2017-01-26 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/6/5323/9516208641_61f8abeb80_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9516208641/in/photolist-fuV4hM
 album-flickr:
@@ -97,7 +97,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées à subserrées, violet pâle devenant cannelle à brun rouille, couvertes par la cortine lorsque jeune
+  lames: adnées, serrées à subserrées, violet pâle devenant cannelle à brun rouille ; couvertes par la cortine lorsque jeune
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +206,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent élargi à la base, devenant plus égal à maturité, visqueux, blanchâtre à lilas violacé ou argenté, souvent avec une zone annuliforme rouille, mycélium basal blanc et abondant
   pieds-steriles: 
@@ -241,7 +241,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = pas de coloration à rosâtre sur la surface du chapeau ; brunâtre sur la chair
+    KOH 10% = pas de coloration, ou rosâtre sur la surface du chapeau ; brunâtre sur la chair
   receptacle: 
   remarques: 
   repartition: 

@@ -1,6 +1,6 @@
 ---
 nom: Pholiota lenta
-date: 2017-02-07 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/4/3936/15427367891_c418597eb1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15427367891/in/photolist-MBptmN-M6YVCH-LMKgni-Mi8k7S-MBKdW6-LMKbcD-pe3H4h-pvghZz-gnvVcx-gnwtCc
 album-flickr:
@@ -49,9 +49,9 @@ collections:
   - fongarium: cKc0593
     date: 9 octobre 2016
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0593-0157
+      miniature: https://c1.staticflickr.com/3/2175/32865564282_e1712938ae_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/32865564282/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 
@@ -77,19 +77,24 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: polymorphes, cylindriques à subutriformes, piriformes, tétrasporiques, non bouclées à la base, à paroi mince, avec granulations (16,7) 17-19,1 (19,7) × (5,1) 5,4-6,2 (6,4) µm
+  basidiospores: |
+    elliptiques à ovoïdes vue frontale, subelliptiques à elliptiques à subphaséoliformes, parfois en haricots vues de profil, lisses, à paroi mince jusqu’à 0,2 µm d’épaisseur, avec petit appendice hilaire, pore germinatif indistinct à partiellement visible, à contenu uniguttulé à pluriguttulé, hyalines à brun très pâle dans E.G. 20%, ± ochracées à fauve dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
+    (5,7) 6-7,3 (7,6) × (3,2) 3,4-3,76 (3,8) µm
+    Q = 1,7-2 (2,1) ; N = 30
+    Me = 6,6 × 3,6 µm ; Qe = 1,9
+    (Piximètre, formule classique ; mesures issues d'une sporée)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, débris ligneux, sous conifères et feuillus
-  boucles: 
+  boucles: observées dans le médiostrate et dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: plutôt des hyphes en faisceaux uniquement à l'apex du stipe
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -99,10 +104,10 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 30-70 (100) mm Ø, convexe-hémisphérique à campanulé, convexe-étalé, lagre, blanchâtre à beige, parfois rosâtre-chamois ou gris fumé, le disque devient légèrement plus foncé, jaunâtre, visqueux à glutineux, parfois avec méchules blanches dispersées de restes vélaires, à marge souvent appendiculée de restes vélaires, glabrescente
+  chapeau: 30-70 (100) mm Ø, convexe-hémisphérique à campanulé, convexe-étalé, lagre, blanchâtre à beige, parfois rosâtre-chamois ou gris fumé, le disque devient légèrement plus foncé, jaunâtre, visqueux à glutineux, parfois avec méchules blanches dispersés de restes vélaires, à marge souvent appendiculée de restes vélaires, glabrescente
   cheilochrysocystides:
   cheilocystides: 
-  cheiloleptocystides: 
+  cheiloleptocystides: abondantes, formant presque une pallissade, fusiformes avec parfois un long pédicelle, sublagéniformes, rarement bidigitées, parfois avec apex subcapité (40,3) 58,9-70,2 (70,7) × (8,7) 10,9-11,7 (13,4) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -129,7 +134,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -144,7 +149,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -206,7 +211,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, ou décurrentes par une dent, blanches, étroite à assez étroite à moyenne large, avec lamelles et lamellules, gris-fauve ou brun grisâtre, ou argile, à arêtes entières ou fimbriées
+  lames: adnées, ou décurrentes par une dent, blanches, étroites à assez étroites à moyenne larges, avec lamelles et lamellules, gris-fauve ou brun grisâtre, ou argile, à arêtes entières ou fimbriées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -238,17 +243,18 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 30-80 (120) x 4-12 mm Ø, égal à subbulbeux, solide à spongieux, farineux blanc vers l'apex, fibrilleux et blanc vers la base, brunâtre à la base
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis, dans une épaisse couche de gélin (160-210 µm d'épaisseur en moyenne) d'hyphes étroites hyalines à jaunâtres de 1-3 μm Ø, avec des zones réfringentes, lisses et lâches dans la matrice de gélin
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
+  pleuroleptocystides: ± nombreuses, fusiformes à sublagéniformes, avec contenu réfringent dans le KOH 5% ou dans le NH<sub>4</sub>OH 5%, parfois avec cristaux à l’apex (métuloïdes) (55,5) 57,4-73,5 (74,8) × (9,6) 9,9-13,4 (14,2) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -291,7 +297,7 @@ description:
   spherocytes: 
   sporocystes: 
   stipitipellis: 
-  stipititrame: 
+  stipititrame: parallèle à subparallèle, formée d'hyphes bouclées à paroi mince, hyalines, 4,2-10,1 µm Ø
   stroma: 
   subhymenium: 
   subiculum: 
@@ -309,7 +315,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée d'hyphes parallèles à subparallèles
   trame-tubulaire: 
   type: 
   typique: 

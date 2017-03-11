@@ -1,6 +1,6 @@
 ---
 nom: Mitrula elegans
-date: 2016-11-03 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c2.staticflickr.com/8/7309/8937592313_9fb6943bef_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8937592313/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
 album-flickr:
@@ -41,7 +41,7 @@ description:
   articles: 
   ascome: charnu, formé d'une clavule et d'un pied distincts, 20-80 mm de hauteur
   ascospores: |
-    étroitement elliptiques, cylindriques à légèrement en forme de massue, lisses, sans septa, à contenu homogène, hyalines dans le NaCl iso, inactives dans le melzer, non cyanophiles
+    étroitement elliptiques, cylindriques à légèrement en forme de massue, lisses, sans septa, à contenu homogène, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     10,4 [12,4; 13,4] 15,4 x 1,3 [2; 2,3] 2,9 µm
     Q = 3,9 [5,8; 6,7] 8,7; N = 30; C = 95%
     Me = 12,9 x 2,1 µm; Qe = 6,3
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -251,7 +251,7 @@ description:
   spherocytes: 
   sporocystes: 
   stipitipellis: avec terminaisons hyphales, parfois isolées, en faisceaux ou emmêlées
-  stipititrame: constitué de trois grosseurs d’hyphes ; filiforme entre 15 x 6 µm en moyenne, fusiforme entre 35-46 x 18-20 µm en moyenne, et largement fusiforme entre 50-60 x 25-27 µm en moyenne
+  stipititrame: constitué de trois grosseurs d’hyphes ; filiformes entre 15 x 6 µm en moyenne, fusiformes entre 35-46 x 18-20 µm en moyenne, et largement fusiformes entre 50-60 x 25-27 µm en moyenne
   stroma: 
   subhymenium: 
   subiculum: 

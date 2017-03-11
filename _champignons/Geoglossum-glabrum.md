@@ -1,6 +1,6 @@
 ---
 nom: Geoglossum glabrum
-date: 2016-11-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/6/5643/20515863236_f2374fa141_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20515863236/in/photolist-x767Dr-xfVanW
 album-flickr:
@@ -46,7 +46,7 @@ description:
     Priou, Jean-Paul. Contribution aux Geoglossum de France, Association Mycologique et botanique Ploemeur-Morbihan, 5 p. 
   ascome: 40-73 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, visqueux au début, puis lisse et brillant avec l'âge, noir
   ascospores: |
-    cylindriques, légèrement incurvées, à 7 septa, lisses, noir foncé dans le NaCl
+    cylindriques, légèrement incurvées, à 7 septa, lisses, noir foncé dans le NaCl iso 0,9%
     90 [92,9; 98,7] 101,6 x 7,6 [7,7; 8] 8,2 µm
     Q = 11 [11,6; 12,7] 13,3; N = 15; C = 95%
     Me = 95,8 x 7,9 µm
@@ -118,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -210,7 +210,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

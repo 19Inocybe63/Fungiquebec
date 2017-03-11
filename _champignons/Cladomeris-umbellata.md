@@ -1,6 +1,6 @@
 ---
 nom: Cladomeris umbellata
-date: 2017-02-08 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c1.staticflickr.com/1/382/18933921856_c849d27f0b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18933921856/in/photolist-uR8inE-uR8ims-uR8ijy
 album-flickr:
@@ -93,11 +93,10 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: subdécurrente, concolore à la face poroïde, 1-2 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -112,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -228,7 +227,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: anguleux sur le chapeau, allongés près du pied, 1-3 par mm, plus irréguliers sur le pied, fendus et en partie sinueux, jusqu'à 2 mm Ø
+  pores: subdécurrents, concolores à la face poroïde, 1-2 mm de longueur ; anguleux sur le chapeau, allongés près du pied, 1-3 par mm, plus irréguliers sur le pied ; fendus et en partie sinueux, jusqu'à 2 mm Ø
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -279,6 +278,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

@@ -1,6 +1,6 @@
 ---
 nom: Psathyrella piluliformis
-date: 2016-12-07 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/8/7320/10004327923_fbf60f569d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10004327923/in/photolist-ntoYbe-oUyccn-oUwaBQ-gf3gJT-gf3N9t
 album-flickr:
@@ -67,9 +67,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, hyalines dans le NaCl iso 0,9%, 14-20 x 5,5-7 µm
+  basides: claviformes, tétrasporiques, hyalines dans le NaCl iso 0,9%, 14-20 x 5,5-7 µm
   basidiospores: |
-    largement elliptiques vue de profil, largement elliptiques à subreniformes (en haricot) vue frontale, lisses, à paroi mince 0,1-0,2 µm, avec petit pore germinatif peu visible 0,7-1,2 µm, avec petit appendice hilaire, à contenu homogène à uniguttulé, brunes à brun pâle dans le NaCl iso 0,9%, légèrement rougeâtre dans le melzer (dextrinoïdes ?), gris pâle à violacées dans le KOH 5%, non cyanophiles
+    largement elliptiques à subreniformes (en haricot) en vue frontale, largement elliptiques vues de profil, lisses, à paroi mince 0,1-0,2 µm, avec petit pore germinatif peu visible 0,7-1,2 µm, avec petit appendice hilaire, à contenu homogène à uniguttulé, brun à brun pâle dans le NaCl iso 0,9%, légèrement rougeâtre dans le melzer (dextrinoïdes ?), gris pâle à violacées dans le KOH 5%, non cyanophiles
     5,5 [5,8; 6] 6,3 x 3,2 [3,4] 3,6 µm
     Q = 1,6 [1,7; 1,8] 1,9; N = 30; C = 95%
     Me = 5,9 x 3,4 µm; Qe = 1,7
@@ -93,7 +93,7 @@ description:
   cellules-stromatiques: 
   chair: mince, assez ferme et rigide puis fragile, blanchâtre à brun aqueux puis brunâtre à tan pâle
   chancre: 
-  chapeau: 15-70 mm Ø, conique-obtus à convexe puis largement convexe à subétalé, parfois obscurément omboné, glabre ou avec fibrilles blanchâtres vers la marge, humide, hygrophane, brun rougeâtre foncé, brun rouille à brun orangé ou parfois presque brun noirâtre avec l'âge à l'humidité, tan pâle, cannelle pâle, beige brunâtre ou parfois grisâtre au sec, souvent brun foncé vers le pourtour, à marge parfois translucide-striée à l'humidité et finement plissée, souvent frangée de restes vélaires au début
+  chapeau: 15-70 mm Ø, conique-obtus à convexe puis largement convexe à subétalé, parfois obscurément umboné, glabre ou avec fibrilles blanchâtres vers la marge, humide, hygrophane, brun rougeâtre foncé, brun rouille à brun orangé ou parfois presque brun noirâtre avec l'âge à l'humidité, tan pâle, cannelle pâle, beige brunâtre ou parfois grisâtre au sec, souvent brun foncé vers le pourtour, à marge parfois translucide-striée à l'humidité et finement plissée, souvent frangée de restes vélaires au début
   cheilochrysocystides:
   cheilocystides: abondantes lagéniformes 30-31 x 11-13 µm, largement claviformes 33 x 16 µm en moyenne, subfusiformes 34 x 11 µm en moyenne
   cheiloleptocystides: 
@@ -135,7 +135,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -227,7 +227,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 30-130 x 3-10 mm Ø, égal, fragile avec l'âge, creux, lisse, pruineux vers l'apex, lisse ou avec fines fibrilles vélaires vers la base, glabrescent, blanc à grisâtre pâle puis brunâtre sordide, au moins vers la base
   pieds-steriles: 

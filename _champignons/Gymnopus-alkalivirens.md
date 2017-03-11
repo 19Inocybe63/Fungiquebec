@@ -1,6 +1,6 @@
 ---
 nom: Gymnopus alkalivirens
-date: 2016-11-24 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/1/483/19122325155_2232868ca2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19122325155/in/photolist-v8LV4i-uRjJmt
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°51'19.0"N 71°06'38.2"O
-    altitude: 6.13 km
+    elevation: 60 m
     determinee: 
     confirmee: Roland Labbé
   - fongarium: cKc0324
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -121,7 +121,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -182,7 +182,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à sublibres, présence de lamelles et de lamellules, brun moyen à brun pâle
+  lames: échancrées à sublibres, avec lamelles lamellules, brun moyen à brun pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

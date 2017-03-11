@@ -11,7 +11,7 @@ description: |
 
   Les descriptions macroscopiques sont habituellement réalisées à partir de nos observations, ou bien de monographies. Les descriptions microscopiques sont essentiellement issues de mes observations. Tous les documents de référence sont mentionnés dans la rubrique « Publications » ou dans « Articles ».
 
-  ATTENTION: Il est très important de noter que le site Fungiquebec ne contient pas d’informations sur la comestibilité, ou la toxicité des champignons. Il est donc inutile de nous poser des questions en ce sens. Cet aspect de la mycologie requiert des compétences qui dépassent largement notre champ d’action. Si vous avez des doutes ou des questions sur les intoxications causées par les champignons, nous vous suggérons d'appeler le Centre antipoison du Québec au 1-800-463-5060.
+  ATTENTION: Il est très important de noter que le site Fungiquebec contient des informations générales sur la comestibilité, ou la toxicité des champignons. Alors, dans le doute, même minime, abstenez-vous de les consommer. Nous tenons surtout à informer les gens de façon globale sur le type de syndrome et les symptômes entourant la consommation des champignons sauvages. Si vous avez des doutes ou des questions sur les intoxications causées par les champignons, nous vous suggérons d'appeler le Centre antipoison du Québec au 1-800-463-5060.
 
   En conclusion, les données mycologiques mises à disposition sur le site Fungiquebec reflètent l'état d'avancement des connaissances dans le domaine et de nos travaux. En aucun cas elles ne sauraient être considérées comme exhaustives.
 
@@ -108,10 +108,13 @@ champs-details:
     label: Autorités
   - name: ordre
     label: Ordre
+    search: facet
   - name: famille
     label: Famille
+    search: facet
   - name: genre
     label: Genre
+    search: facet
   - name: espece
     label: Espèce
   - name: litterature
@@ -122,14 +125,23 @@ champs-collections:
     label: Fongarium
   - name: date
     label: Date de cueillette
+    search: exclure
   - name: planche
     label: Planche micrographique
     format: planche
+    champs:
+      - name: numero
+      - name: miniature
+        search: exclure
+      - name: originale
+        search: exclure
   - name: geolocalisation
     label: Géolocalisation
     format: geo
+    search: exclure
   - name: elevation
     label: Élévation
+    search: exclure
   - name: determinee
     label: Déterminée
   - name: confirmee
@@ -176,8 +188,8 @@ champs-description:
     label: Face poroïde
   - name: pores
     label: Pores
-  - name: couches-de-tubes
-    label: Couche(s) de tubes
+  - name: tubes
+    label: Tubes
   - name: contexte
     label: Contexte
   - name: lames
@@ -208,6 +220,12 @@ champs-description:
     label: Exhalaison des lames
   - name: saveur
     label: Saveur
+  - name: syndrome
+    label: Syndrome
+  - name: symptomes
+    label: Symptômes
+  - name: comestibilite
+    label: Comestibilité
   - name: sclerote
     label: Sclérote
   - name: cortex
@@ -286,6 +304,8 @@ champs-description:
     label: Cheilocystides intermédiaires
   - name: cheiloleptocystides
     label: Cheiloleptocystides
+  - name: pleuroleptocystides
+    label: Pleuroleptocystides
   - name: leptopleurocystides
     label: Leptopleurocystides
   - name: cheilomacrocystides
@@ -302,7 +322,7 @@ champs-description:
     label: Lamprocheilocystides
   - name: lampropleurocystides
     label: Lampropleurocystides
-  - name: cristaux apicaux
+  - name: cristaux-apicaux
     label: Cristaux apicaux
   - name: macropleurocystides
     label: Macropleurocystides

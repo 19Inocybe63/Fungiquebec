@@ -1,6 +1,6 @@
 ---
 nom: Laccaria amethystina
-date: 2016-11-02 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/4/3677/19729624453_57b5fb126c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19729624453/in/photolist-w4rtYR-wHGdyw
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, plus colore au chapeau ou plus pâle
+  chair: mince, concolore au chapeau ou plus pâle
   chancre: 
-  chapeau: 21 mm Ø, convexe à étalé puis déprimé, à marge égale ou légèrement enroulée, non plissée ou légèrement à maturité, finement squameuse à presque glabre, pourpre grisâtre, changeant de couleur en séchant
+  chapeau: 21 mm Ø, convexe à étalé, puis déprimé, à marge égale ou légèrement enroulée ; non plissé ou légèrement à maturité, finement squameux à presque glabre, pourpre grisâtre, changeant de couleur en séchant.
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -109,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -170,7 +170,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, larges, violet foncé
+  lames: adnées, serrées, larges, violet foncé.
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,7 +203,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 66 x 2 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à grossièrement strié à écailleux, concolore au chapeau, avec mycélium basal lilas à blanchâtre
+  pied: 66 x 2 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à grossièrement strié à écailleux, concolore au chapeau, avec mycélium basal lilas à blanchâtre.
   pieds-steriles: 
   pigments: 
   pileipellis: 

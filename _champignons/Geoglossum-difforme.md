@@ -1,6 +1,6 @@
 ---
 nom: Geoglossum difforme
-date: 2016-11-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/4/3697/19666230344_580e9cd6e7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19666230344/in/photostream/
 album-flickr:
@@ -20,7 +20,7 @@ collections:
     date: 4 août 2015
     planche:
       numero: cKc0393-0095
-      miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_m.jpg
+      miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/19912097704/in/dateposted/
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m
@@ -46,7 +46,7 @@ description:
     Priou, Jean-Paul. Contribution aux Geoglossum de France, Association Mycologique et botanique Ploemeur-Morbihan, 5 p.
   ascome: visqueux, 51-68 mm de longueur, noir
   ascospores: |
-    cylindriques-filiformes, atténuées à chaque bout, lisses, avec 14-15 septa, brun-gris dans le NaCl isotonique
+    cylindriques-filiformes, atténuées à chaque bout, lisses, avec 14-15 septa, brun-gris dans le NaCl isotonique 0,9%
     103,5 [111,7; 115,3] 123,5 x 5,9 [6,5; 6,8] 7,3 µm
     Q = 15,3 [16,8; 17,4] 19; N = 30; C = 95%
     Me = 113,5 x 6,6 µm
@@ -118,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -210,7 +210,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

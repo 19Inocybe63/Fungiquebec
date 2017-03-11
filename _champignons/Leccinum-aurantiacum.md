@@ -1,6 +1,6 @@
 ---
 nom: Leccinum aurantiacum
-date: 2017-01-03 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/6/5714/20740537014_8d15c5fb89_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20740537014/in/photolist-ywQRi9-xALF4L
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -93,11 +93,10 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: adnée puis déprimée autour du pied, blanchâtre, brunissant à maturité, assez longue
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -112,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -279,6 +278,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: adnés puis déprimés autour du pied, blanchâtre, brunissant à maturité, assez long
   type: 
   typique: 
   voile: 

@@ -1,6 +1,6 @@
 ---
 nom: Lactifluus hygrophoroides
-date: 2016-12-04 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/4/3707/9368669824_b30939639b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9368669824/in/photolist-fgST95-fgSS7N
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°18'05.3"N 73°05'41.8"O
-    altitude: 341 m
+    elevation: 95 m
     determinee: 
     confirmee: Yves Lamoureux
 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, souvent dépoussiéré d'une floraison blanchâtre, finement velouté, sec, dont la marge est légèrement incurvée lorsque jeune, souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
+  chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, finement velouté, sec, dont la marge est légèrement incurvée lorsque jeune ; souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, espacées à très espacées lorsque mature, larges, épaisses, non fourchues, interveinées, avec lamellules, blanchâtre devenant crème ou jaunâtre pâle, immuable au froissement, parfois avec un stade lavande
+  lames: adnées à subdécurrentes, espacées à très espacées lorsque mature, larges, épaisses, non fourchues, interveinées, avec lamellules, blanchâtre devenant crème ou jaunâtre pâle, immuables au froissement, parfois avec un stade lavande
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

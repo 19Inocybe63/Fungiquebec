@@ -1,6 +1,6 @@
 ---
 nom: Coprinopsis atramentaria
-date: 2016-11-29 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/8/7323/10088573684_37c385249e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088573684/in/photolist-sTRAxX-gnuBKj-gnuztA
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: trimorphiques, courtement piriformes à clavées 14,6 [15,5; 16,8] 17,7 x 7,1 [8; 9,2] 10,1 µm en moyenne, longuement piriformes à clavées 17,7 [20,6; 25,3] 28,3 x 8,1 [8,3; 8,6] 8,8 µm en moyenne, utriformes 21 [24,4; 29,8] 33,1 x 7,5 [7,9; 8,5] 8,9 µm en moyenne, tétrastérigmates, non bouclées à la base
+  basides: trimorphiques, courtement piriformes à clavées 14,6 [15,5; 16,8] 17,7 x 7,1 [8; 9,2] 10,1 µm en moyenne, longuement piriformes à clavées 17,7 [20,6; 25,3] 28,3 x 8,1 [8,3; 8,6] 8,8 µm en moyenne, utriformes 21 [24,4; 29,8] 33,1 x 7,5 [7,9; 8,5] 8,9 µm en moyenne, tétrasporiques, non bouclées à la base
   basidiospores: |
-    elliptiques à subovoïdes vue frontale, elliptiques à presque largement elliptiques vue de profil, lisses, à paroi mince, avec petit appendice hilaire et pore germinatif centré 1,0-2,0 µm Ø, à contenu uniguttulé à variable, brunes à brun brique dans le NaCl iso 0,9%, gris pourpre dans le KOH 5%, inactive dans le melzer, non cyanophiles
+    elliptiques à subovoïdes en vue frontale, elliptiques à presque largement elliptiques vues de profil, lisses, à paroi mince, avec petit appendice hilaire et pore germinatif centré 1,0-2,0 µm Ø, à contenu uniguttulé à variable, brunes à brun brique dans le NaCl iso 0,9%, gris pourpre dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     6,5 [7,5; 7,9] 8,8 x 4,4 [4,8; 5] 5,5 µm
     Q = 1,4 [1,5; 1,6] 1,7; N = 30; C = 95%
     Me = 7,7 x 4,9 µm; Qe = 1,6
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -244,7 +244,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: indistinctes
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
@@ -273,7 +273,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, évanescent ou laissant un anneau ou zone annuliforme déchirée médian ou basal sur le pied, formé d'éléments tubulaires plus large de 10 µm
+  voile-partiel: fibrilleux, évanescent ou laissant un anneau (ou zone annuliforme déchirée) médian ou basal sur le pied, formé d'éléments tubulaires plus larges de 10 µm
   volve: 
   zone-perihymeniale: 
 ---

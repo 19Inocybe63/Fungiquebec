@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius caperatus
-date: 2016-12-03 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/9/8461/8038502020_3d777ea34d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8038502020/in/photolist-edZ8GF-dfkqAq
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à clavées, tétrastérigmates, bouclées à la base, 36-45 x 11-12 µm
+  basides: claviformes à clavées, tétrasporiques, bouclées à la base, 36-45 x 11-12 µm
   basidiospores: |
-    amygdaliformes vue de profil à citriformes vue frontale, modérément verruqueuses, à paroi légèrement épaissie 05-06 µm, avec appendice hilaire, plus rarement avec un pore germinatif tronqué, à contenu uniguttulé, brunâtres à rougeâtres dans le NH<SUB>4</SUB>OH 10% = 2%, dextrinoïdes, non cyanophiles
+    citriformes en vue frontale, amygdaliformes vues de profil, modérément verruqueuses, à paroi légèrement épaissie 05-06 µm, avec appendice hilaire, plus rarement avec un pore germinatif tronqué, à contenu uniguttulé, brunâtres à rougeâtres dans le NH<SUB>4</SUB>OH 10% = 2%, dextrinoïdes, non cyanophiles
     9,9 [11,1; 11,6] 12,7 x 6,7 [7,4; 7,8] 8,5 µm
     Q = 1,3 [1,5] 1,7; N = 31; C = 95%
     Me = 11,3 x 7,6 µm; Qe = 1,5
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

@@ -1,6 +1,6 @@
 ---
 nom: Amanita sinicoflava
-date: 2016-12-02 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/4/3859/15083082127_e0523fc7f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15083082127/in/photolist-pntRkJ-oYQJQ8-pgjSSr
 album-flickr:
@@ -59,7 +59,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    globuleuses à subglobuleuses vue de profil et vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, inactive dans le melzer, cyanophiles
+    globuleuses à subglobuleuses, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     9,3 [11; 11,7] 13,4 x 8,7 [10,3; 11] 12,6 µm
     Q =  [1; 1,1] 1,2; N = 30; C = 95%
     Me = 11,3 x 10,7 µm; Qe = 1,1
@@ -83,7 +83,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 30-80 mm Ø, ovoïde, conique-arrondi puid étalé-mamelonné, jaune olive, jaune paille ou olive brunâtre, parfois plus foncé au centre et dans la zone antémarginale, dépourvu de restes vélaires, à marge longuement sillonnée
+  chapeau: 30-80 mm Ø, ovoïde, conique-arrondi puis étalé-mamelonné, jaune olive, jaune paille ou olive brunâtre, parfois plus foncé au centre et dans la zone antémarginale, dépourvu de restes vélaires, à marge longuement sillonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -125,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -186,7 +186,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: blanchâtre ou grisâtres
+  lames: blanchâtres à ± grisâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -253,7 +253,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
-    KOH 10% = absence de coloration ou de décoloration sur le chapeau
+    KOH 10% = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

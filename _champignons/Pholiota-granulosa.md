@@ -1,6 +1,6 @@
 ---
 nom: Pholiota granulosa
-date: 2016-12-01 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/8/7250/7661083404_364b14e24a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7661083404/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
 album-flickr:
@@ -87,9 +87,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à largement cylindriques, claviformes, parfois lagéniformes, 2-4 stérigmates, bouclées à la base, 24-33 x 6-8 µm
+  basides: cylindriques à largement cylindriques, claviformes, parfois lagéniformes, bisporiques à tétrasporiques, bouclées à la base, 24-33 x 6-8 µm
   basidiospores: |
-    elliptiques à subovoïdes vue frontale, elliptiques à subphaséoliformes (en haricot) vue de profil, avec parfois une ligne ventrale plus droite que la ligne dorsale, lisses, à paroi mince, avec appendice hilaire et pore germinatif petit entre 0,5-0,6 µm, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    elliptiques à subovoïdes en vue frontale, elliptiques à subphaséoliformes (en haricot) vues de profil, avec parfois une ligne ventrale plus droite que la ligne dorsale, lisses, à paroi mince, avec appendice hilaire et pore germinatif petit entre 0,5-0,6 µm, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     7,8 [8,4; 8,7] 11,3 x 4 [4,4; 4,5] 6,7 µm
     Q = 1,7 [1,9; 2] 2,2; N = 30; C = 95%
     Me = 8,6 x 4,5 µm; Qe = 1,9
@@ -103,7 +103,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: rares, présentes surtout à l’apex, subclavées, ressemble plus à des hyphes terminales
+  caulocystides: rares, présentes surtout à l’apex, subclavées, ressemblent plus à des hyphes terminales
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -113,7 +113,7 @@ description:
   cellules-stromatiques: 
   chair: mince, ochracé-aqueux, immuable à la coupe
   chancre: 
-  chapeau: 10-35 mm Ø, convexe puis largement convexe,  sec, densément couvert de fines squamules fibrilleuses dressées au disque, ± granuleuses et plus apprimées vers la marge, jaune-brun riche brillant, brun ambre ou brun soudan sur fond jaunâtre entre les squamules, à marge longtemps incurvée, appendiculée de délicats restes véliques jaunes au début
+  chapeau: 10-35 mm Ø, convexe puis largement convexe, sec, densément couvert de fines squamules fibrilleuses dressées au disque, ± granuleuses et plus apprimées vers la marge ; jaune-brun riche brillant, brun ambre ou brun soudan sur fond jaunâtre entre les squamules, à marge longtemps incurvée, appendiculée de délicats restes véliques jaunes au début
   cheilochrysocystides:
   cheilocystides: abondantes en touffes, piriformes à largement clavées, subcylindriques, rarement subbecquées
   cheiloleptocystides: 
@@ -155,7 +155,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -252,7 +252,7 @@ description:
   pied: 30-50 x 2-3 (4) mm Ø, égal, vite tubuleux ou creux, jaune pâle vers l’apex, finement fibrileux-furfuracé jaune ou concolore aux squamules du chapeau sous la zone annuliforme, devenant brun rouille foncé depuis la base, avec feutrage de mycélium pâle à la base
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, formé d’hyphes superficiels agrégées en faisceaux, bouclées, à paroi mince, presque lisses, aspérulées ou finement rugueuses, 8-18 µm de long, à cellule terminale un peu cystidioïde, ou légèrement ellipsoïde, avec subcutis formés d’hyphes apprimées, lisses, parfois incrustées, rouille cannelle, plus étroites que celles des faisceaux
+  pileipellis: en cutis, formé d’hyphes superficielles agrégées en faisceaux, bouclées, à paroi mince, presque lisses, aspérulées ou finement rugueuses, 8-18 µm de long, à cellule terminale un peu cystidioïde, ou légèrement ellipsoïde, avec subcutis formés d’hyphes apprimées, lisses, parfois incrustées, rouille cannelle, plus étroites que celles des faisceaux
   pileitrame: 
   pileocystides: 
   plasmode: 

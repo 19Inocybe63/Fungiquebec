@@ -1,6 +1,6 @@
 ---
 nom: Gliophorus psittacinus
-date: 2016-11-04 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/1/359/19917747775_9b63d8184f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19917747775/in/photolist-wm4Eup
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0366
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -119,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, serrées à subespacées, souvent vert pâle lorsque jeune, devenant jaunâtre à orange-jaune à maturité
+  lames: adnées à adnexées, serrées à subespacées, souvent vert pâle lorsque jeune, devenant jaunâtres à orange jaune à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

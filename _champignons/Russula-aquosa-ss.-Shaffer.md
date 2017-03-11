@@ -1,6 +1,6 @@
 ---
 nom: Russula aquosa ss. Shaffer
-date: 2016-11-02 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/4/3840/15156170348_692c211acb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15156170348/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
 album-flickr:
@@ -68,9 +68,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, pourvues de longues stérigmates entre 8-10 μm, non bouclées à la base, 45 [45,7; 47,1] 47,8 x 11 [12,4; 15,3] 16,7 µm
+  basides: claviformes, tétrasporiques, pourvues de longues stérigmates entre 8-10 μm, non bouclées à la base, 45 [45,7; 47,1] 47,8 x 11 [12,4; 15,3] 16,7 µm
   basidiospores: |
-    largement ellipsoïdales vue de profil, à subglobuleuses vue frontale, verruqueuses-subcrêtées à rarement échinulées, partiellement réticulées, avec proéminences jusqu’à 1,2 μm de hauteur, à paroi mince, appendice hilaire bien visible dans le NaCl iso 0,9%, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    subglobuleuses en vue frontale, largement ellipsoïdales vues de profil, verruqueuses-subcrêtées à rarement échinulées, partiellement réticulées, avec proéminences jusqu’à 1,2 μm de hauteur, à paroi mince, appendice hilaire bien visible dans le NaCl iso 0,9%, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,9 [8,8; 9,2] 10,1 x 6,8 [7,5; 7,8] 8,4 µm
     Q = 1,1 [1,2] 1,3; N = 30; C = 95%
     Me = 9 x 7,6 µm; Qe = 1,2
@@ -134,7 +134,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -226,7 +226,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 28-67 x 6-14 mm Ø, cylindrique à subclaviforme, plein puis farci, blanc
   pieds-steriles: 
@@ -280,7 +280,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée à pallidosporée Ib-IIa, blanchâtre-crème, d'après la charte de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
+  sporee: leucosporée à pallidosporée Ib-IIa, blanchâtre-crème, d'après la charte de couleur de Romagnesi, A-B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

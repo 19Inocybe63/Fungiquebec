@@ -55,7 +55,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    gibbosporées (noduleuses)-anguleuses (goniospores) avec 8-10 bosses moyennement haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans l'eau glycérinée 20%, inactives dans le melzer, non cyanophiles
+    gibbosporées (noduleuses)-anguleuses (goniospores) avec 8-10 bosses moyennement haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6,7) 7,3 - 8,8 (9,4) × (5,3) 5,5 - 7,1 (7,5) µm
     Q = (1) 1,1 - 1,5 (1,7) ; N = 30
     Me = 8 × 6,3 µm ; Qe = 1,3
@@ -107,7 +107,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -122,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crème à gris pâle puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
+  lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crèmes à gris pâle puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
   lamprocystides: 
   lamprocheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, parfois ovoïdes, (39,8) 46,3 - 56,2 (56,8) × (16,6) 19,5 - 21,3 (26,4) µm
   lampropleurocystides: nombreuses, polymorphes, largement fusiformes, ellipsoïdes à ovoïdes à largement ovoïdes, (44) 50,8 - 53,6 (55,9) × (24,2) 25,5 - 29,6 (33,2) µm

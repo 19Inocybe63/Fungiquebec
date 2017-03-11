@@ -1,6 +1,6 @@
 ---
 nom: Lactarius helvus
-date: 2016-12-15 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/1/694/21586852311_e226e1987d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21586852311/in/photolist-yTyg7P-p1ZDNU-p1ZFAG-oL159Y-ovx8s3-oMKXmR
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0232
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0471
@@ -43,7 +43,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -72,7 +72,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous Abies ou Picae mariana, en milieux humides
+  biotopes: pousse au sol, sous <i>Abies</i> ou <i>Picea mariana</i>, en milieux humides
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -89,7 +89,7 @@ description:
   cellules-stromatiques: 
   chair: ± concolore au chapeau
   chancre: 
-  chapeau: 30-130 mm Ø, convexe avec une marge enroulée au début, devenant largement convexe, plane à légèrement déprimée, avec une marge égale, sec, lisse à finement veloutée au début, devenant rugueux à subécailleux, brun pâle à ± variable
+  chapeau: 30-130 mm Ø, convexe, devenant largement convexe, plane à légèrement déprimé, avec une marge enroulée au début, puis égale ; sec, lisse à finement velouté au début, devenant rugueux à subécailleux, brun pâle à ± variable
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -131,7 +131,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -192,7 +192,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées au début puis subdécurrentes à maturité, serrées, étroites à ± larges, souvent fourchues près du pied, blanchâtre au début devenant crème à ± jaunâtre
+  lames: adnées au début puis subdécurrentes à maturité, serrées, étroites à ± larges, souvent fourchues près du pied, blanchâtres au début devenant crème à ± jaunâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -223,7 +223,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 30-120 x 10-20 mm Ø, cylindrique plus ou moins égal, farci puis creux, sec, lisse ou très finement veloutée au début, concolore au chapeau à orangée pâle, rosâtre à brun orangé
   pieds-steriles: 

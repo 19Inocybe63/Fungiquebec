@@ -1,6 +1,6 @@
 ---
 nom: Lentinellus ursinus
-date: 2016-12-30 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c1.staticflickr.com/9/8526/8597213435_f7c55bce91_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8597213435/in/photolist-e8Fsch-e6GY2R/
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8537/8619550942_816d04704a_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8619550942/in/photolist-e8Fsch-e6GY2R/
     geolocalisation: 46°48'40.46"N 71°21'30.15"O
-    altitude: 1.06 km
+    elevation: 75 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Roland Labbé
 
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à légèrement clavées, parfois sphéropédonculées, tétrastérigmates, bouclées à la base, hyalines et parfois avec gouttelettes, de 17-23 x 4-5 µm
+  basides: cylindriques à légèrement clavées, parfois sphéropédonculées, tétrasporiques, bouclées à la base, hyalines et parfois avec gouttelettes, de 17-23 x 4-5 µm
   basidiospores: |
-    subglobuleuses à largement ellipsoïdes, finement échinulées ou ponctuées, à paroi mince à légèrement épaissie 0,1 x 0,3 µm, apparaissant lisses, avec petit appendice hilaire, à contenu uniguttulé, hyalines à verdâtre pâle dans le NH<sub>4</sub>OH 2%, fortement amyloïdes dans le melzer, non cyanophiles
+    subglobuleuses à largement ellipsoïdes, finement échinulées ou ponctuées, à paroi mince à légèrement épaissie 0,1 x 0,3 µm, apparaissant lisses, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans le NH<sub>4</sub>OH 2%, fortement amyloïdes, non cyanophiles
     3,6 [4,1; 4,2] 4,7 x 3,1 [3,5; 3,6] 4 µm
     Q = 1,1 [1,15; 1,2] 1,3; N = 34; C = 95%
     Me = 4,2 x 3,6 µm; Qe = 1,2
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

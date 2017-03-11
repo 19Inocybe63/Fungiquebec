@@ -1,6 +1,6 @@
 ---
 nom: Cerioporus squamosus
-date: 2016-11-02 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c2.staticflickr.com/6/5232/7228311120_e6dc452112_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7228311120/in/photolist-sZ547m-tgpfUu-c1JZ4N
 album-flickr:
@@ -79,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, immuable, blanchâtre, douce lorsque jeune, mais coriace lorsque mature
   chancre: 
-  chapeau: 50-300 mm Ø, 10-40 mm d'épaisseur, assez variable dans ses formes, mais généralement semi-circulaire, en forme de rein, ou en éventail, convexe, devenant plat, faiblement déprimée, ou profondément déprimé, sec, pâle tan à jaunâtre crème, avec écailles noirâtres qui sont vaguement disposées radialement, avec développement d'une zone noire au centre, dont la marge mince initialement incurvée, même lorsque mature
+  chapeau: 50-300 mm Ø, 10-40 mm d'épaisseur, assez variable dans ses formes, mais généralement semi-circulaire, en forme de rein, ou en éventail, convexe, devenant plat, faiblement ou profondément déprimé, sec, pâle tan à jaunâtre crème, avec écailles noirâtres qui sont vaguement disposées radialement, avec développement d'une zone noire au centre, dont la marge mince initialement incurvée, même lorsque mature
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -101,7 +101,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: jusqu'à 15 mm de profondeur, non facilement séparable
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -119,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -213,7 +212,7 @@ description:
   peritheces: 
   phenologie: par période ; de la mi-mai et à l'automne
   phialoconidies: 
-  pied: 20-80 mm de long x 10-40 mm d'épaisseur, ferme, plein, habituellement excentré, latéral, crème blanchâtre, se couvrant d’un fini velouté brun foncé à noir
+  pied: 20-80 mm de long x 10-40 mm d'épaisseur, ferme, plein, habituellement excentré, latéral, crème blanchâtre, se couvrant d’un fin velouté brun foncé à noir
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -232,7 +231,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: crème blanchâtre, devenant jaunâtre à maturité, pores larges à maturité, angulaires et souvent irréguliers
+  pores: larges à maturité, angulaires et souvent irréguliers ; crème blanchâtre, devenant jaunâtre ; jusqu'à 15 mm de profondeur, non facilement séparables
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

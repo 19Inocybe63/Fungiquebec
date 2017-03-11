@@ -1,6 +1,6 @@
 ---
 nom: Boletus subvelutipes
-date: 2016-11-02 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c1.staticflickr.com/9/8111/28596715912_ffdf32245e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28596715912/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
 album-flickr:
@@ -67,13 +67,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subutriformes, tétrastérigmates, non bouclées à la base, 17,6 [22,8; 29,2] 34,5 x 5,1 [6,9; 9,1] 11 µm
+  basides: claviformes à subutriformes, tétrasporiques, non bouclées à la base, 17,6 [22,8; 29,2] 34,5 x 5,1 [6,9; 9,1] 11 µm
   basidiospores: |
-    cylindriques à subfusiformes vue de profil, à fusiformes et parfois légèrement subventrues vue frontale, lisses, à paroi mince jusqu’à 0,2 µm, avec appendice hilaire et dépression supra apiculaire, à contenu variable, brun pâle dans le NaCl isotonique 0,9%, dextrinoïdes, non cyanophiles
+    fusiformes et parfois légèrement subventrues en vue frontale, cylindriques à subfusiformes vues de profil, lisses, à paroi mince jusqu’à 0,2 µm, avec appendice hilaire et dépression supra apiculaire, à contenu variable, brun pâle dans le NaCl isotonique 0,9%, dextrinoïdes, non cyanophiles
     13,9 [15,1; 15,6] 16,8 x 5,1 [5,5; 5,6] 6 µm
     Q = 2,5 [2,7; 2,8] 3; N = 30; C = 95%
     Me = 15,4 x 5,5 µm; Qe = 2,8
-    (Piximètre: formule classique)
+    (Piximètre, formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -116,7 +116,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: jaune, 8-26 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -134,7 +133,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -231,7 +230,7 @@ description:
   pied: 85 x 20 mm Ø, égal à subégal, plein, sec, finement velouté, orange rougeâtre sur fond jaune, devenant plus rouge avec l’âge, bleuissant au froissement
   pieds-steriles: 
   pigments: 
-  pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droits, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
+  pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droites, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -247,7 +246,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires et petits, 2 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -291,6 +290,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: jaune, 8-26 mm de longueur, circulaires et petits, 2 par mm
   type: 
   typique: 
   voile: 

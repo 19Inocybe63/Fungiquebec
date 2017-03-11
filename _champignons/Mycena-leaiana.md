@@ -1,6 +1,6 @@
 ---
 nom: Mycena leaiana
-date: 2016-11-06 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c2.staticflickr.com/8/7702/27786798991_80faf1d330_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27786798991/in/photolist-JkqBge-Hw4bwF-eW5sug-eW5pRM/
 album-flickr:
@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois pourri de feuillu (Fagus)
+  biotopes: pousse sur bois pourri de feuillu (<i>Fagus</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -119,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

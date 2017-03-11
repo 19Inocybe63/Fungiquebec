@@ -1,6 +1,6 @@
 ---
 nom: Fusicolla merismoides
-date: 2016-11-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/9/8535/8870357399_d0722d4a0f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8870357399/in/photolist-eQTXzm-evQUdx-evUfJY
 album-flickr:
@@ -77,7 +77,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Le champignon produit une gaine visqueuse blanche puis rose à orangée sur le substrat dans laquelle les périthèces peuvent être entièrement ou partiellement immergés. F. merismoides, de la famille des Nectriaceae, est souvent considéré comme le champignon visqueux orange des arbres. Il fait partie d'un complexe de nombreuses espèces phylogénétiques. »
   conidies: |
     de deux types ;
     a) macroconidies falciformes, de type Fusarium, septées, formées sur les phialides
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -237,7 +237,6 @@ description:
   receptacle: 
   remarques: |
     Pas de collection de ce spécimen, seulement une étude, cKcÉtude0029.
-    Le champignon produit une gaine visqueuse blanche puis rose à orangée sur le substrat dans laquelle les périthèces peuvent être entièrement ou partiellement immergés. F. merismoides, de la famille des Nectriaceae, est souvent considéré comme le champignon visqueux orange des arbres. Il fait partie d'un complexe de nombreuses espèces phylogénétiques.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

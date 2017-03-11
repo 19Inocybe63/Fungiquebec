@@ -1,6 +1,6 @@
 ---
 nom: Hydnum umbilicatum
-date: 2017-01-16 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/3/2950/15275249687_1af927425b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15275249687/in/photolist-pgPDxV
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
 
@@ -100,7 +100,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

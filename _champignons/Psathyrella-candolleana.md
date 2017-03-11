@@ -1,6 +1,6 @@
 ---
 nom: Psathyrella candolleana
-date: 2016-12-07 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/8/7425/9000085449_fc6ec93855_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9000085449/in/photolist-eSj7PH-eHiPdx-eHiMR4
 album-flickr:
@@ -57,9 +57,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à subclavées, à 4 stérigmates, non bouclées à la base, 20-24 x 8-10 µm
+  basides: piriformes à subclavées, tétrasporiques, non bouclées à la base, 20-24 x 8-10 µm
   basidiospores: |
-    ellipsoïdes à ovoïdes, lisses, avec petit pore germinatif et tronquées à l'apex, à paroi mince, avec petit appendice hilaire, à contenu homogènes, inactives dans le melzer, non cyanophiles
+    ellipsoïdes à ovoïdes, lisses, avec petit pore germinatif et tronquées à l'apex, à paroi mince, avec petit appendice hilaire, à contenu homogènes, pas de réaction dans le melzer, non cyanophiles
     6,4 [7,4; 7,8] 8,8 x 3,8 [4,3; 4,5] 5 µm
     Q = 1,6 [1,7; 1,8] 1,9; N = 40; C = 95%
     Me = 7,6 x 4,4 µm; Qe = 1,7
@@ -83,7 +83,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, humide, blanchâtre à jaune pâle, pâle au sec
   chancre: 
-  chapeau: 20-110 mm Ø, conique-obtus, ovoïde à convexe puis largement convexe, étalé à omboné-obtus, demeurant parfois largement conique, humide, lisse à ruguleux, souvent avec plaques de fibrilles ou de squamules vers la marge au début, hygrophane, beige, chamois à miel foncé au début, graduellement brun date à brun pourpré sombre, au moins vers le pourtour, blanchâtre ou demeurant chamois fauve au disque au sec, à marge droite avec l'âge, translucide-striée, frangée de restes vélaires blancs au début
+  chapeau: 20-110 mm Ø, conique-obtus, ovoïde à convexe puis largement convexe, étalé à umboné-obtus, demeurant parfois largement conique, humide, lisse à ruguleux, souvent avec plaques de fibrilles ou de squamules vers la marge au début, hygrophane, beige, chamois à miel foncé au début, graduellement brun date à brun pourpré sombre, au moins vers le pourtour, blanchâtre ou demeurant chamois fauve au disque au sec, à marge droite avec l'âge, translucide-striée, frangée de restes vélaires blancs au début
   cheilochrysocystides:
   cheilocystides: en faisceaux, abondantes, utriformes, cylindriques à subcylindriques, largement lagéniformes, parfois cylindriques à l’apex capités
   cheiloleptocystides: 
@@ -125,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -253,8 +253,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Melzer = pas de coloration ou de décoloration sur toutes les parties des tissus
+  reactions-macrochimiques: 
   receptacle: 
   remarques: 
   repartition: 

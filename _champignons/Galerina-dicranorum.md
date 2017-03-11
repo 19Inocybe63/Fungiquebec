@@ -1,13 +1,13 @@
 ---
 nom: Galerina dicranorum
-date: 2016-12-07 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/4/3923/14368514495_c15fa5712c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14368514495/in/photolist-nTGoLx-nTBP7q
 album-flickr:
   - 72157675243699821
 
 details:
-  nom-francais: 
+  nom-francais: Galérine des dicranes
   autorites: A.H. Sm. & Singer
   ordre: Agaricales
   famille: Hymenogastraceae
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à largement cylindriques à subclaviformes, parfois avec un rétrécissement à la base, tétrastérigmates, non bouclées à la base, (22,7) 23 - 25,7 (26,6) × (7) 8,6 - 9,1 µm en moyenne
+  basides: cylindriques à largement cylindriques à subclaviformes, parfois avec un rétrécissement à la base, tétrasporiques, non bouclées à la base, (22,7) 23 - 25,7 (26,6) × (7) 8,6 - 9,1 µm en moyenne
   basidiospores: |
-    ovoïdes à subovoïdes vue de front à elliptiques à largement elliptiques à amygdaloïdes, sablées à finement verruqueuses, à paroi mince à légèrement épaissie 0,2-0,3 µm, non calyptrées, pore germinatif non observé, appendice hilaire bien visible, avec parfois une dépression supra hilaire, à contenu uniguttulé à pluriguttulé, brun pâle dans E.G. 20%, fortement dextrinoïdes, non cyalophiles
+    ovoïdes à subovoïdes en vue frontale à elliptiques à largement elliptiques à amygdaloïdes vues de profil, sablées à finement verruqueuses, à paroi mince à légèrement épaissie 0,2-0,3 µm, non calyptrées, pore germinatif non observé, appendice hilaire bien visible, avec parfois une dépression supra hilaire, à contenu uniguttulé à pluriguttulé, brun pâle dans E.G. 20%, fortement dextrinoïdes, non cyalophiles
     (8,4) 8,9 - 9,8 (11,8) × (5) 5,2 - 6 (6,9) µm
     Q = (1,4) 1,5 - 1,8 (1,9) ; N = 30
     Me = 9,4 × 5,7 µm ; Qe = 1,7
@@ -116,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées, 2-3 mm de largeur, espacées à maturité, subconcolores au chapeau sec, à arêtes entières ou presque
+  lames: sinuées, 2-3 mm de largeur, espacées à maturité, subconcolores au chapeau, ± arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

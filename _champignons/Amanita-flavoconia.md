@@ -1,6 +1,6 @@
 ---
 nom: Amanita flavoconia
-date: 2016-12-06 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/3/2828/9378730585_17f076277c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9378730585/in/photolist-fhLrRt
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -172,7 +172,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libre à adnées, avec nombreuses lamellules, blanches, parfois jaunes à l'arête
+  lames: libres à adnées, avec nombreuses lamellules, blanches, parfois jaunes à l'arête
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

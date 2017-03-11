@@ -1,6 +1,6 @@
 ---
 nom: Panellus serotinus
-date: 2016-11-03 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/8/7419/10088858635_e499dc1285_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088858635/in/photolist-gnw3bx-gnvHw7
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois pourri de feuillus, Fagus
+  biotopes: pousse sur bois pourri de feuillus, <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -109,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

@@ -1,13 +1,13 @@
 ---
 nom: Helvella fibrosa
-date: 2016-12-04 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/9/8825/28444177671_0372fd8c51_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28444177671/in/photolist-KkvR3p
 album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Helvelle fibreuse
   autorites: (Wallr.) Korf
   ordre: Pezizales
   famille: Helvellaceae
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

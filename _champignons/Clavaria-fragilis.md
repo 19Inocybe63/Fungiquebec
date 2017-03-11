@@ -1,6 +1,6 @@
 ---
 nom: Clavaria fragilis
-date: 2016-12-19 00:00:00
+date: 2017-03-03 00:00:00
 image: https://c1.staticflickr.com/9/8843/28240406722_244345c4a1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28240406722/in/photolist-K2vt3b
 album-flickr:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

@@ -1,6 +1,6 @@
 ---
 nom: Omphalotus illudens
-date: 2016-11-03 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c1.staticflickr.com/9/8431/7710718004_d5e8a9582b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7710718004/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à 2-4 stérigmates
+  basides: piriformes, bisporiques à tétrasporiques
   basidiospores: |
-    subglobuleuses à largement ellipsoïdes, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines à verdâtre dans le NH<SUB>4</SUB>OH 2%, inactives dans le melzer, cyanophiles
+    subglobuleuses à largement ellipsoïdes, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer, cyanophiles
     4,9 [5,3; 5,5] 5,9 x 4,4 [4,7; 4,8] 5,1 µm
     Q = 1 [1,1; 1,2] 1,3; N = 50; C = 95%
     Me = 5,4 x 4,7 µm; Q moyen = 1,1
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: étroites, orangées, serrées, décurrentes, fourchues près du pied, lamellules, arête légèrement plus foncée
+  lames: étroites, orangées, serrées, décurrentes, fourchues près du pied, lamellules, arêtes légèrement plus foncées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

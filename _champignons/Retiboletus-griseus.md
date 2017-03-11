@@ -1,6 +1,6 @@
 ---
 nom: Retiboletus griseus
-date: 2016-11-02 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/6/5721/20336173364_c4bc44ddd0_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20336173364/in/photolist-xW48aP-wZ3cQG
 album-flickr:
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanc, immuable, parfois avec de légère coloration rosâtre lorsque coupé, devenant jaune dans la tige à maturité, jaune gris dans la base, très souvent parsemé de tunnels de larves
+  chair: blanche, immuable, parfois avec de légères colorations rosâtres lorsque coupée, devenant jaune dans le pied à maturité, jaune gris dans la base, très souvent parsemée de tunnels de larves
   chancre: 
-  chapeau: 20-90 mm Ø, convexe, à largement convexe, à presque plat, sec, finement velouté lorsque jeune, devenant glabre à maturité, brun grisâtre foncé lorsque jeune, devient terne brun grisâtre à gris à maturité, striées de fibrilles apprimées plus foncées, à marge unie
+  chapeau: 20-90 mm Ø, convexe, à largement convexe, à presque étalé, sec, finement velouté au début, devenant glabre à maturité, brun grisâtre foncé au début, devient terne brun grisâtre à gris à maturité, striées de fibrilles apprimées plus foncées, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -91,7 +91,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -109,7 +108,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -132,7 +131,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: blanchâtre lorsque jeune, devenant brunâtre à grisâtre, Pas de contusions ou de contusions légèrement brunes, 3-4 pores circulaires par mm, formé de tubes ayant ± 10 mm de profondeur
+  face-poroïde: blanchâtre au début, devenant brunâtre à grisâtre, rares contusions légèrement brunes, 3-4 pores circulaires par mm, formé de tubes ayant ± 10 mm de profondeur
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -201,9 +200,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-90 mm x 10-30 mm Ø, cylindrique ± égale, blanchâtre, devenant jaune gris à jaune orangé de la base vers le haut, réticulé en évidence sur toute la tige, avec un gros réticulum blanc qui devient jaunâtre, puis brunâtre ou noirâtre à maturité ou lorsqu'il est manipulé, ferme, à la base parfois radicante
+  pied: 30-90 mm x 10-30 mm Ø, cylindrique ± égale, blanchâtre, devenant jaune gris à jaune orangé de la base vers le haut, réticulé en évidence sur toute la longueur, avec un gros réticulum blanc qui devient jaunâtre, puis brunâtre ou noirâtre à maturité ou lorsqu'il est manipulé, ferme, à la base parfois radicante
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -270,6 +269,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 0,8-2 cm de longueur
   type: 
   typique: 
   voile: 

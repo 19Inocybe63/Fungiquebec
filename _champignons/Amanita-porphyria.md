@@ -1,6 +1,6 @@
 ---
 nom: Amanita porphyria
-date: 2016-12-16 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/4/3928/15243769398_3a8366c102_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15243769398/in/photolist-pvuPJA-pe3iyj-pvwDBR-pe3vM6
 album-flickr:
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -204,7 +204,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 50-150 x 7-15 mm Ø, largement bulbeux-marginé, à bulbe parfois napiforme avec l'âge, rarement fendu, souvent chiné de fibrilles gris-brun sur fond blanchâtre, avec anneau gris, émergeant d'une volve membraneuse soudée au pied
   pieds-steriles: 
@@ -241,7 +241,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: pomme de terre crue
+  saveur: de pomme de terre crue
   sclerocystides: 
   sclerote: 
   soies: 

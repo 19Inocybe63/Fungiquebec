@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius distans
-date: 2016-11-09 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/8/7072/27942307491_0d2d8e1b9c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27942307491/in/photolist-JLhYc9-JzaCwg
 album-flickr:
@@ -36,7 +36,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: recouverte de gélatine sur presque toute sa longueur
+  arete-lamellaire: recouverte d'un gélin sur presque toute sa longueur
   arthroconidies: 
   articles: |
     Cripps, Cathy L., Liimatainen, Kare, et al. Intercontinental distributions of species of Cortinarius, subgenus Phlegmacium, associated with Populus in western North America, Botany 93: 711-721 (2015), 11 p.
@@ -50,13 +50,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, rarement ventrues, tétrastérigmates, bouclées à la base, hyalines, avec contenu vacuolaire, 32,5 - 40,8 × 9 - 10,2 µm en moyenne
+  basides: claviformes, rarement ventrues, tétrasporiques, bouclées à la base, hyalines, avec contenu vacuolaire, 32,5 - 40,8 × 9 - 10,2 µm en moyenne
   basidiospores: |
-    ellipsoïdes à courtement ellipsoïdes, parfois subcitriformes vue de front, ellipsoïdes à largement ellipsoïdes, avec parfois un angle adaxial supra-hilaire « ou avec une extrémité subfusoïdes » (M. Kuo), finement à moyennement verruqueuses, à paroi mince, appendice hilaire visible, à contenu uniguttulé, brun cannelle à brun foncé dans l’eau glycérinée 20%, dextrinoïdes, non cyanophiles
+    ellipsoïdes à courtement ellipsoïdes, parfois subcitriformes vues de front, ellipsoïdes à largement ellipsoïdes, avec parfois un angle adaxial supra-hilaire « ou avec une extrémité subfusoïdes » (M. Kuo), finement à moyennement verruqueuses, à paroi mince, appendice hilaire visible, à contenu uniguttulé, brun cannelle à brun foncé dans E.G. 20%, dextrinoïdes, non cyanophiles
     (7,4) 7,8 - 8,6 (9) × (5,3) 5,4 - 6 (6,2) µm
     Q = (1,3) 1,4 - 1,5 (1,6) ; N = 30
     Me = 8,3 × 5,8 µm ; Qe = 1,4
-    (Piximètre; formule classique, issues d’une sporée et mesures dans l'eau glycérinée 20%)
+    (Piximètre; formule classique, issues d’une sporée et mesures dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -77,7 +77,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 8-22 mm Ø, convexe, conique-campanulé, omboné, hygrophane, fibrilleux-squamuleux, brun cannelle imbue, brun beige à orangé sec
+  chapeau: 8-22 mm Ø, convexe, conique-campanulé, umboné, hygrophane, fibrilleux-squamuleux, brun cannelle imbu, brun beige à orangé sec
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées, larges, espacées concolore au chapeau
+  lames: sinuées, larges, espacées, concolores au chapeau
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,12 +211,12 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
-  pied: 20-35 x 5-6 mm Ø, cylindrique avec cortine formant une zone annuliforme, creux, chiné, parfois avec bandes annulaires, fibrilleux, légèrement concolore à plus foncé
+  pied: 20-35 x 5-6 mm Ø, cylindrique avec cortine formant une zone annuliforme ; creux, chiné, parfois avec bandes annulaires ; fibrilleux, légèrement concolore à plus foncé
   pieds-steriles: 
   pigments: 
-  pileipellis: formé de deux couches, 1) suprapellis en cutis, constitué d'hyphes cylindriques, avec hyphes terminales obtus, souvent en biseau, 24,1 - 59,7 × 4,7 - 8,4 µm en moyenne, 2) médiopellis formé de cellules plus grandes, ellipsoïdes à largement ellipsoïdes, ovoïdales, 23 - 52,9 × 10,5 - 19,7 µm en moyenne
+  pileipellis: formé de deux couches, 1) suprapellis en cutis, constitué d'hyphes cylindriques, avec hyphes terminales obtuses, souvent en biseau, 24,1 - 59,7 × 4,7 - 8,4 µm en moyenne, 2) médiopellis formé de cellules plus grandes, ellipsoïdes à largement ellipsoïdes, ovoïdales, 23 - 52,9 × 10,5 - 19,7 µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -253,7 +253,7 @@ description:
   reactions-macrochimiques: |
     TL4 = le chapeau ne se colore pas
   receptacle: 
-  remarques: La gélatine présente sur l'arête lamellaire en couvrait une bonne partie, englobant ainsi les cellules marginales
+  remarques: Le gélin présent sur l'arête lamellaire en couvrait une bonne partie, englobant ainsi les cellules marginales
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

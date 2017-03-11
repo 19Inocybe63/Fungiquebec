@@ -1,6 +1,6 @@
 ---
 nom: Coltricia montagnei
-date: 2016-12-09 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/4/3897/14842437391_8660812a9e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14842437391/in/photolist-oBznwX
 album-flickr:
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du chapeau, circulaire à convexe, plat ou en entonnoir dont la bordure est mince et aiguë, droite ou légèrement onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou fibreux-écailleux à maturité, surtout vers le centre, souvent azoné, rarement légèrement azoné, cannelle à brun rouille foncé
+  chapeau: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du chapeau, circulaire à convexe, plat ou en entonnoir dont la bordure est mince et aiguë, droite ou légèrement onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou fibreux-écailleux à maturité, surtout vers le centre, généralement non zoné, légèrement zoné dans de rares cas, cannelle à brun rouille foncé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: décurrents, 4-5 mm de profondeur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -111,7 +110,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -203,7 +202,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 10-40 x 3-20 mm Ø, centré ou à peine excentré, massif, souvent élargi vers la base, homogène, tomenteux à verruqueux, glabre par endroits avec l'âge, cannelle à brun rouille foncé
   pieds-steriles: 
@@ -225,7 +224,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: anguleux au début, irréguliers et légèrement étirés près du pied, ensuite ils deviennent dédaléens par endroits, lacérés, 5-1,5 mm Ø
+  pores: décurrents, 4-5 mm de profondeur ; anguleux au début, irréguliers et légèrement étirés près du pied, ensuite ils deviennent dédaléens par endroits, lacérés, 5-1,5 mm Ø
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -281,6 +280,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

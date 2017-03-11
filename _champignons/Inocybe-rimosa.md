@@ -53,9 +53,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: de deux types, claviformes à largement claviformes et capitées, tétrastérigmates, bouclées à la base, 25,6 [30,6; 34,5] 39,6 x 7,6 [9,6; 11,2] 13,2 µm
+  basides: de deux types, claviformes à largement claviformes et capitées, tétrasporiques, bouclées à la base, 25,6 [30,6; 34,5] 39,6 x 7,6 [9,6; 11,2] 13,2 µm
   basidiospores: |
-    ovoïdes vue de front, ovoïdes à phaséolées ou réniformes vue de profil, lisse, à paroi mince, avec un petit appendice hilaire, à contenu uniguttulé, brun pâle à rougeâtre dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    ovoïdes en vue frontale, ovoïdes à phaséolées ou réniformes vues de profil, lisse, à paroi mince, avec un petit appendice hilaire, à contenu uniguttulé, brun pâle à rougeâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     8,9 [9,8; 10,2] 11 x 4,8 [5,3; 5,5] 6 µm
     Q = 1,7 [1,8; 1,9] 2,1; N = 30; C = 95%
     Me = 10 x 5,4 µm; Qe = 1,9
@@ -121,7 +121,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -182,7 +182,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à souvent sublibre, jusqu’à 7-8 mm de large, gris pâle à gris beige, ocre lorsque jeune, brunâtre sal à brunâtre pâle lorsque mature, parfois avec une teinte olive ou jaunâtre, sur le bord supérieur, un peu ondulé, blanchâtre, ciliées lorsque mature
+  lames: adnées à souvent sublibres, jusqu’à 7-8 mm de large, gris pâle à gris beige, ocres lorsque jeune, brunâtre sal à brunâtre pâle lorsque mature, parfois avec teinte olive ou jaunâtre, sur le bord supérieur, un peu ondulées, blanchâtres, ciliées lorsque mature
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

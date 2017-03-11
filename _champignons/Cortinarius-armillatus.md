@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius armillatus
-date: 2017-01-07 00:00:00
+date: 2017-03-05 00:00:00
 image: https://c2.staticflickr.com/4/3927/15372671292_724ac95746_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15372671292/in/photolist-pqqVWd-pqqXAL
 album-flickr:
@@ -79,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à brun pâle
   chancre: 
-  chapeau: 40-150 mm Ø, hémisphérique campanulé à convexe puis étalé, devenant souvent largement convexe, mamelonné, sec, glabre, finement fbrilleux à squamuleux, ou très finement écailleuse sur le centre à maturité, brun-jaune à brun rougeâtre, souvent avec un centre plus foncé, rouge brique, parfois plus pâle à la marge
+  chapeau: 40-150 mm Ø, hémisphérique campanulé à convexe puis étalé, devenant souvent largement convexe, mamelonné, sec, glabre, finement fibrilleux à squamuleux, ou très finement écailleux sur le centre à maturité, brun-jaune à brun rougeâtre, souvent avec un centre plus foncé, rouge brique, parfois plus pâle à la marge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -107,7 +107,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -122,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, larges, serrées à subserrées, jaune pâle à cannelle pâle lorsque jeune, devenant brun rouille à maturité, couvert d'une cortine blanchâtre dès sa jeunesse, à arête plus pâle
+  lames: adnexées, larges, serrées à subserrées, jaune pâle à cannelle pâle lorsque jeunes, devenant brun rouille à maturité, couvertes d'une cortine blanchâtre dès leur jeunesse, aux arêtes plus pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -217,7 +217,7 @@ description:
   peritheces: 
   phenologie: de août à octobre
   phialoconidies: 
-  pied: 70-150 x 7-20 mm, bulbeux à la base, sec, glabre ou finement soyeuse, blanchâtre à brun pâle, entouré de 2 à 4 bandelettes concentriques orange-rouge, avec une zone annulaire rouille au-dessus des bandes, mycélium basal blanchâtre
+  pied: 70-150 x 7-20 mm, bulbeux à la base, sec, glabre ou finement soyeux, blanchâtre à brun pâle, entouré de 2 à 4 bandelettes concentriques orange-rouge, avec une zone annulaire rouille au-dessus des bandes, mycélium basal blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

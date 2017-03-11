@@ -1,6 +1,6 @@
 ---
 nom: Peziza atrovinosa
-date: 2016-11-02 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/2/1606/24672563904_69f71fc804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/24672563904/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
 album-flickr:
@@ -45,7 +45,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 12-50 mm Ø, cupuliforme, assez profonde, devenant crispé à plissé avec l'âge ou par la pression et le chevauchement des autres pezizes
+  apothecie: 12-50 mm Ø, cupuliforme, assez profonde, devenant crispé à plissé avec l'âge ou par la pression et le chevauchement des autres pézizes
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -60,11 +60,11 @@ description:
     The Whole fungus: the sexual-asexual synthesis, by Bryce Kendrick ; International Mycological conference, v. 2 (1979), p. 738.
   ascome: 
   ascospores: |
-    ellipsoïdales, réticulées, à paroi mince ornée d’un réseau cyanophile lâche, marqué de crêtes élevées, jusqu’à 1,3 µm, à contenu uniguttulé à biguttulé, hyalines dans l'eau glycérinée 20%, cyanophiles
+    ellipsoïdales, réticulées, à paroi mince ornée d’un réseau cyanophile lâche, marqué de crêtes élevées, jusqu’à 1,3 µm, à contenu uniguttulé à biguttulé, hyalines dans E.G. 20%, cyanophiles
     (10,9) 11,7 - 12,9 (13,2) × (6,8) 7 - 7,6 (7,9) µm
     Q = (1,4) 1,6 - 1,79 (1,8) ; N = 30
     Me = 12,2 × 7,3 µm ; Qe = 1,7
-    (Piximètre = formule classique ; mesures dans le bleu coton lactique, sans les ornementations)
+    (Piximètre, formule classique ; mesures dans le bleu coton lactique, sans les ornementations)
   asques: octosporé, operculé, IKI +b, 180-250 x 11-14 µm
   asterohyphidies: 
   avertissement: 

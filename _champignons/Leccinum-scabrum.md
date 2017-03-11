@@ -23,9 +23,9 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    elevation: 95 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0484
     date: 1 octobre 2015
     planche:
@@ -33,9 +33,9 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    elevation: 95 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0583
     date: 27 septembre 2016
     planche:
@@ -44,8 +44,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -113,11 +113,10 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: concolore à la face poroïde, 7-16 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -246,7 +245,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires et petits, 2-3 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -305,6 +304,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: circulaires et petits, 2-3 par mm, concolore à la face poroïde, 7-16 mm de longueur
   type: 
   typique: 
   voile: 

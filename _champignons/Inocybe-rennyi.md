@@ -53,9 +53,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques, tétrastérigmates, non bouclées à la base, 31,0 - 35,0 × 9,5 - 11,0 µm en moyenne
+  basides: claviformes à cylindriques, tétrasporiques, non bouclées à la base, 31,0 - 35,0 × 9,5 - 11,0 µm en moyenne
   basidiospores: |
-    subrectangulaires à rectangulaires, parfois avec apex subconiques vue de front, à noduleuses-anguleuses vue de profil, majoritairement pentagone rarement hexagone, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, inactives dans le melzer, non cyanophiles
+    subrectangulaires à rectangulaires, parfois avec apex subconiques en vue frontale, à noduleuses-anguleuses vues de profil, majoritairement pentagone rarement hexagone, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (9,5) 10,4 - 13 (15,5) × (5,8) 6 - 6,9 (7,1) µm
     Q = (1,6) 1,7 - 2 (2,6) ; N = 30
     Me = 11,9 × 6,4 µm ; Qe = 1,9
@@ -183,7 +183,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, large à subventrue, crème jaunâtre
+  lames: échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, larges à subventrues, crème jaunâtre, au liseré blanchâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 μm, Ammoniaco -, dont les cristaux d’oxalates de calcium sont plus présent à l’apex, (55,6) 55,8 - 59,2 (59,6) × (16,1) 16,3 - 19,4 (22) µm en moyenne

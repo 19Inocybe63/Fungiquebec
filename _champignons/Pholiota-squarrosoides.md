@@ -1,13 +1,13 @@
 ---
 nom: Pholiota squarrosoides
-date: 2017-02-02 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c2.staticflickr.com/8/7295/9591960483_a32eab764b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9591960483/in/photolist-xt3tBS-wwZ7Ct-fBBuHa-fBBiF2-dKPZEc-dKVtSm/
 album-flickr:
   - 72157676289059033
 
 details:
-  nom-francais: 
+  nom-francais: Pholiote squarreuse
   autorites: (Peck) Sacc.
   ordre: Agaricales
   famille: Strophariaceae
@@ -117,7 +117,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -132,7 +132,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -225,9 +225,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-120 x 5-12 mm Ø, cylindrique, parfois claviforme à la base, avec zone annuliforme fibrilleuse, sec, ocre pâle à brun rougeâtre, densément fibrilleux-squarreux sous la zone annuliforme
+  pied: 50-120 x 5-12 mm Ø, cylindrique, parfois claviforme à la base, avec zone annuliforme fibrilleuse ; sec, ocre pâle à brun rougeâtre, densément fibrilleux-squarreux sous la zone annuliforme
   pieds-steriles: 
   pigments: 
   pileipellis: 

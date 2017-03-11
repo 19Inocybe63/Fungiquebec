@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe pediades
-date: 2017-01-26 00:00:00
+date: 2017-03-02 00:00:00
 image: https://c2.staticflickr.com/8/7351/27376363195_4f178bde92_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27376363195/in/photolist-HHa1ZZ-HAV7A8-nTpic6-nTLDni/
 album-flickr:
@@ -24,8 +24,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/32403505402/in/photolist-RnoreC-HHa1ZZ-HAV7A8/
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -47,13 +47,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à largement claviformes, parfois largement cylindriques, tétrastérigmates jusqu'à 2,1-5,4 µm de long, non bouclées à la base, (27,4) 27,9 - 30,9 (33,2) × (8,7) 9 - 9,9 (10,7) µm
+  basides: claviformes à largement claviformes, parfois largement cylindriques, tétrasporiques jusqu'à 2,1-5,4 µm de long, non bouclées à la base, (27,4) 27,9 - 30,9 (33,2) × (8,7) 9 - 9,9 (10,7) µm
   basidiospores: |
-    elliptiques, subovales à ovales, parfois subhexagonales vue de front, largement elliptiques à elliptiques vue de profil, parfois avec rétrécissement à l’apex, tronquée, avec petit pore germinatif centré parfois bien visible, lisses, à paroi mince à légèrement épaissie, avec petit appendice hilaire pas toujours bien visible, à contenu guttulé à variable, brun pâle dans E.G. 20%, brun rougeâtre dans le KOH 5%, inactives dans le melzer, non cyanophiles
+    elliptiques, subovales à ovales, parfois subhexagonales en vue frontale, largement elliptiques à elliptiques vues de profil, parfois avec rétrécissement à l’apex, tronquées, avec petit pore germinatif centré parfois bien visible, lisses, à paroi mince à légèrement épaissie, avec petit appendice hilaire pas toujours bien visible, à contenu guttulé à variable, brun pâle dans E.G. 20%, brun rougeâtre dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     (10,1) 10,4 - 11,7 (13,5) × (6) 6,1 - 6,9 (7,6) µm
     Q = (1,5) 1,6 - 1,8 (1,9) ; N = 30
     Me = 11 × 6,5 µm ; Qe = 1,7
-    (Piximètre, formule classique ; mesures issues de sporée dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -64,7 +64,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes à l'apex, polymorphes, claviformes rarement avec une digitation, capitulées à subcapitulées, parfois avec des cristaux à l'apex, piriformes, (16,7) 25,4 - 40,5 (50,9) × (4,4) 5 - 11,8 (13,6) µm en moyenne
+  caulocystides: abondantes à l'apex, polymorphes, claviformes, rarement avec des digitations, capitulées à subcapitulées, parfois avec des cristaux à l'apex, piriformes, (16,7) 25,4 - 40,5 (50,9) × (4,4) 5 - 11,8 (13,6) µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -74,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: mince, blanchâtre à ivoire puis chamois pâle
   chancre: 
-  chapeau: 18-36 mm Ø, hémisphérique à convexe, avec rayon brun plus foncé à la marge, visqueux, avec le centre orangée ocre
+  chapeau: 18-36 mm Ø, hémisphérique à convexe, avec rayon brun plus foncé à la marge, visqueux, avec le centre orangée ocre.
   cheilochrysocystides:
   cheilocystides: abondantes, polymorphes, claviformes à largement claviformes (26) 30 - 40,4 (47,3) × (13,8) 14,1 - 20,8 (21,4) µm en moyenne, subglobuleuses, lécythiformes 25,9 - 32,9 × 10,4 - 14 µm en moyenne
   cheiloleptocystides: 
@@ -84,7 +84,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Ressemble beaucoup à A. sororia... »
+  commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 
@@ -102,7 +102,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -117,7 +117,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -134,7 +134,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: fongique à légèrement cucurbitacée
+  exhalaison: fongique à légèrement de concombre
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, large, subespacées, blanchâtres au début devenant crème beige à brun pâle à maturité
+  lames: adnées à adnexées, larges, subespacées, blanchâtres au début devenant crème beige à brun pâle à maturité.
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -213,7 +213,7 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 38-57 x 4-5 mm Ø, cylindrique devenant bulbeux à la base, creux, brun tan à brun crème
+  pied: 38-57 x 4-5 mm Ø, cylindrique devenant bulbeux à la base, creux, brun tan à brun crème.
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme, avec mince couche superficielle gélatinisée (ixo), formé de cellules claviformes à piriformes, non bouclées 24 - 35,6 × (8,2) 8,21 - 12,56 (12,6) µm en moyenne
@@ -251,14 +251,13 @@ description:
   reactions-macrochimiques: |
     FeSO<sub>4</sub> = légèrement verdâtre sur le chapeau et les lames après plusieurs minutes
     KOH 10% = coloration rose à rougeâtre sur le chapeau
-    Réaction de Schaeffer = 0
     TL4 = -
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: cucurbitacée-amère avec finale nettement amère
+  saveur: ± amère avec une finale nettement amère
   sclerocystides: 
   sclerote: 
   soies: 
@@ -296,7 +295,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, fin, fugace, ne laissant pas d'anneau ni de zone annuliforme sur le pied
+  voile-partiel: fibrilleux, fin, fugace, ne laissant pas d'anneau ni de zone annuliforme sur le pied.
   volve: 
   zone-perihymeniale: 
 ---

@@ -1,6 +1,6 @@
 ---
 nom: Gyroporus cyanescens
-date: 2016-11-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/9/8441/28995578361_e4c677dbe9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28995578361/in/photolist-L8FwLE-LbeVfR-z8SLYU-ySoPCV-ycT6no
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0540
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -119,7 +119,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

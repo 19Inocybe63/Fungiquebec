@@ -1,6 +1,6 @@
 ---
 nom: Parasola leiocephala
-date: 2016-12-05 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c1.staticflickr.com/1/377/18588563623_6dabc39644_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18588563623/in/photolist-un4yyL-ujBfmg
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: bimorphiques, longuement clavées, 2-4 stérigmates, non bouclée à la base 28,7 [30,6; 39,6] 41,4 x 8,8 [9,1; 10,7] 11,1 µm en moyenne; courtement clavées, 2-4 stérigmates, non bouclée à la base 21,6 [24,2; 31,1] 33,6 x 11 [11,3; 12] 12,3 µm en moyenne
+  basides: bimorphiques, longuement clavées, bisporiques à tétrasporiques, non bouclées à la base 28,7 [30,6; 39,6] 41,4 x 8,8 [9,1; 10,7] 11,1 µm en moyenne; courtement clavées, bisporiques à tétrasporiques, non bouclées à la base 21,6 [24,2; 31,1] 33,6 x 11 [11,3; 12] 12,3 µm en moyenne
   basidiospores: |
-    cordiformes à ± à cinq angles vue frontale, ellipsoïdes vue de profil, lisses, à paroi mince, avec pore germinatif excentré, à contenu uniguttulé
+    cordiformes à ± à cinq angles en vue frontale, ellipsoïdes vues de profil, lisses, à paroi mince, avec pore germinatif excentré, à contenu uniguttulé
     8,9 [9,8; 10,3] 11,2 x 5,3 [6,3; 6,9] 7,8 µm
     Q = 1,3 [1,5; 1,6] 1,8; N = 17; C = 95%
     Me = 10,1 x 6,6 µm; Qe = 1,5
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

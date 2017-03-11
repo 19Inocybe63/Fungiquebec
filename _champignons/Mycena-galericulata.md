@@ -1,6 +1,6 @@
 ---
 nom: Mycena galericulata
-date: 2016-11-03 00:00:00
+date: 2017-03-08 00:00:00
 image: https://c2.staticflickr.com/4/3827/19116582812_309bc0247f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19116582812/in/photolist-v8gu4o-uRbuMb-v7UN4S
 album-flickr:
@@ -47,16 +47,16 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: étroitement claviformes à longuement claviformes, 2-4 stérigmates, non bouclée à la base 27,1 [34,8; 41,9] 49,6 x 5,2 [6,4; 7,6] 8,8 µm
+  basides: étroitement claviformes à longuement claviformes, bisporiques à tétrasporiques, non bouclée à la base 27,1 [34,8; 41,9] 49,6 x 5,2 [6,4; 7,6] 8,8 µm
   basidiospores: |
-    ovoïdales vue frontale, elliptiques à largement elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, pore germinatif non visible, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%, amyloïdes, cyanophiles
+    ovoïdales en vue frontale, elliptiques à largement elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, pore germinatif non visible, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%, amyloïdes, cyanophiles
     7,5 [9,3; 10,1] 11,9 x 5,6 [6,9; 7,5] 8,8 µm
     Q = 1,2 [1,3; 1,4] 1,5; N = 30; C = 95%
     Me = 9,7 x 7,2 µm; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois mort de hêtre (Fagus Grandifolia)
+  biotopes: pousse sur bois mort de hêtre (<i>Fagus Grandifolia</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

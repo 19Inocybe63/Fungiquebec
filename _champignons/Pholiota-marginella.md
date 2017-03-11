@@ -1,6 +1,6 @@
 ---
 nom: Pholiota marginella
-date: 2017-01-13 00:00:00
+date: 2017-03-09 00:00:00
 image: https://c1.staticflickr.com/3/2936/14229296896_c8eebbe971_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14229296896/in/photolist-rYoUD4-nHeZ4S-nFoSe7
 album-flickr:
@@ -97,9 +97,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à claviformes, 2-4 stérigmates, non bouclées à la base 16,7 [18,9; 21,7] 24 x 6,9 [7,2; 7,6] 7,9 µm
+  basides: piriformes à claviformes, bisporiques à tétrasporiques, non bouclées à la base 16,7 [18,9; 21,7] 24 x 6,9 [7,2; 7,6] 7,9 µm
   basidiospores: |
-    elliptiques à ovoïdales vue frontale à largement elliptique à elliptiques vue de profil, quelque peu tronquées, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilare et pore germinatif pas toujours bien visible 0,9-1,2 µm Ø, à contenu homogène, brun pâle dans le NaCl iso 0,9%, brun rougeâtre dans le melzer, non cyanophiles
+    elliptiques à ovoïdales en vue frontale, largement elliptiques à elliptiques vues de profil, quelque peu tronquées, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilare et pore germinatif pas toujours bien visible 0,9-1,2 µm Ø, à contenu homogène, brun pâle dans le NaCl iso 0,9%, brun rougeâtre dans le melzer, non cyanophiles
     6,4 [7,1; 7,5] 8,2 x 3,8 [4,2; 4,4] 4,7 µm
     Q = 1,5 [1,7] 1,9; N = 30; C = 95%
     Me = 7,3 x 4,3 µm; Qe = 1,7
@@ -113,7 +113,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: présentes surtout à l’apex, en faisceaux ou isolées, en générales  semblables aux cheilocystides, mais parfois cylindriques septées, subfusiformes, sublagéniformes à subtibiformes
+  caulocystides: présentes surtout à l’apex du stipe, en faisceaux ou isolées, en générales semblables aux cheilocystides, mais parfois cylindriques septées, subfusiformes, sublagéniformes à subtibiformes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -123,7 +123,7 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau
   chancre: 
-  chapeau: 10-25 mm Ø, convexe puis étalé, visqueux lorsque humide, glabre, hygrophane du centre vers la marge, fauve à brun orangé frais, beige pâle au sec, à marge parfois un peu translucide-striée, ornée de fibrilles blanchâtres au début
+  chapeau: 10-25 mm Ø, convexe puis étalé, visqueux lorsque humide, glabre, hygrophane du centre vers la marge, fauve à brun orangé frais, beige pâle au sec, à marge parfois un peu translucide-striée ; orné de fibrilles blanchâtres au début
   cheilochrysocystides:
   cheilocystides: abondantes, subulati avec long col, à base ampullacée, lagéniformes avec apex cylindriques à subcapitées et parfois avec des granulations 32,9 [40; 43,9] 51 x 6,2 [7,7; 8,5] 10 µm
   cheiloleptocystides: 
@@ -151,7 +151,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -166,7 +166,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -262,7 +262,7 @@ description:
   peritheces: 
   phenologie: de mai à juin
   phialoconidies: 
-  pied: 38 x 4 mm Ø, cylindrique, égal, farci puis creux, fibrilleux, crème ou brunâtre, parfois avec un mycélium basale blanc
+  pied: 38 x 4 mm Ø, cylindrique, égal, farci puis creux, fibrilleux, crème ou brunâtre, parfois avec un mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis

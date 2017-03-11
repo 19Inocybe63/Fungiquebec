@@ -1,6 +1,6 @@
 ---
 nom: Hypholoma lateritium
-date: 2017-02-09 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c1.staticflickr.com/9/8523/8486240695_ea46252827_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8486240695/in/photolist-dXpeui-dVZNbq-dVUcTK-dVUcGK/
 album-flickr:
@@ -87,7 +87,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques, tétrastérigmates, bouclées à la base, 20,1 x 5,5 µm en moyenne
+  basides: cylindriques, tétrasporiques, bouclées à la base, 20,1 x 5,5 µm en moyenne
   basidiospores: |
     ovoïdes à ellipsoïdes, lisses, à paroi mince de 0,2-0,4 µm, avec petit appendice hilaire et pore germinatif tronqué, à contenu granuleux, hyalines dans le NH<sub>4</sub>OH 2%
     5,4 [5,8; 5,9] 6,4 x 3,2 [3,5; 3,6] 3,9 µm
@@ -141,7 +141,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -156,7 +156,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

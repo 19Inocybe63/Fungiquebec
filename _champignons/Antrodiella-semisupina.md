@@ -1,6 +1,6 @@
 ---
 nom: Antrodiella semisupina
-date: 2017-01-15 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/6/5564/14658395437_928c323f9a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14658395437/in/photolist-okj7gP
 album-flickr:
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 4-6 mm de projection, 1-5 mm d'épaisseur à la base, avez zone résupinée 10 x 20 mm environ, étroit, plus développé sur le bord supérieur du basidiome, en forme d'ongle, largement attaché, incurvé, azoné et velouté-apprimé au début, plus foncé, blanc, dans les tons d'ochracé à paille pâle, légèrement zoné et parfois avec lignes radiales et glabre avec l'âge, à marge aiguë, incurvée et dure chez les basidiomes piléés au sec, blanche à crème et souvent légèrement fimbriée sur les parties résupinées
+  chapeau: 4-6 mm de projection, 1-5 mm d'épaisseur à la base, avec zone résupinée 10 x 20 mm environ, étroit, plus développé sur le bord supérieur du basidiome, en forme d'ongle, largement attaché, incurvé, azoné et velouté-apprimé au début, plus foncé, blanc, dans les tons d'ochracé à paille pâle, légèrement zoné et parfois avec lignes radiales et glabre avec l'âge, à marge aiguë, incurvée et dure chez les basidiomes piléés au sec, blanche à crème et souvent légèrement fimbriée sur les parties résupinées
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -97,7 +97,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

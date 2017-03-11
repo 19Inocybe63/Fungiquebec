@@ -1,6 +1,6 @@
 ---
 nom: Amanita velatipes
-date: 2016-11-28 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c1.staticflickr.com/1/374/19870908390_0f8aa788a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19870908390/in/photolist-vBwq3S-wwdsTb-wgVALN-nensEd-fbph4T-f5orUR-f5oWAF
 album-flickr:
@@ -57,9 +57,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à claviformes, 2-4 stérigmates, non bouclées à la base, à contenu vacuolaire, 32-44 x 9-15 µm
+  basides: piriformes à claviformes, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire, 32-44 x 9-15 µm
   basidiospores: |
-    elliptiques à largement elliptiques vue de profil, elliptiques allongées vue frontale, lisses, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, cyanophiles
+    elliptiques allongées en vue frontale, elliptiques à largement elliptiques vues de profil, lisses, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     9,1 [10,2; 10,7] 11,7 x 6,5 [7; 7,2] 7,7 µm
     Q = 1,3 [1,4; 1,5] 1,6; N = 30; C = 95%
     Me = 10,4 x 7,1 µm; Qe = 1,5
@@ -83,7 +83,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 80-200 mm Ø, globuleux hémisphérique à convexe puis étalé, orné de flocons vélaires blanchâtres sur fond beige à jaune brunâtre, à marge sillonnée à maturité
+  chapeau: 80-200 mm Ø, globuleux, hémisphérique à convexe puis étalé, orné de flocons vélaires blanchâtres sur fond beige à jaune brunâtre, à marge sillonnée à maturité
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -125,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -287,7 +287,7 @@ description:
   typique: 
   voile: 
   voile-general: friable, blanchâtre, laissant des flocons sur le chapeau et une ou quelques bandelettes à la base du pied
-  voile-partiel: blanc, laissant sur le pied un anneau denté et ample, en chaînette dont les hyphes terminaux sont polymorphes (75% filamenteux et 25% elliptiques allongées à ovoïdes), filamenteux, cylindriques, claviformes, utriformes, elliptiques allongées, ovoïdes, 22-54 x 5,5 x 9 µm
+  voile-partiel: blanc, laissant sur le pied un anneau denté et ample, en chaînette dont les hyphes terminales sont polymorphes (75% filamenteuses, et 25% elliptiques allongées à ovoïdes) cylindriques, claviformes, utriformes, elliptiques allongées, ovoïdes, 22-54 x 5,5 x 9 µm
   volve: 
   zone-perihymeniale: 
 ---

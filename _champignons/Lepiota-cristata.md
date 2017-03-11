@@ -1,6 +1,6 @@
 ---
 nom: Lepiota cristata
-date: 2016-11-30 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/8/7403/9126745733_af90e42d4e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9126745733/in/photolist-BJxJfm-wMd74K-eUuXx4-eUGkvN-eUF9pL-eUEToS-dfHuSE
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°54'03.96"N 71°10'40.83"O
-    altitude: 476 m
+    elevation: 145 m
     determinee: 
     confirmee: Roland Labbé
   - fongarium: cKc0050
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.50 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0388
@@ -43,7 +43,7 @@ collections:
       miniature: https://c2.staticflickr.com/6/5650/23453970304_0fd268d4c9_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/23453970304/in/photolist-BJxJfm-wMd74K-eUuXx4-eUGkvN-eUF9pL-eUEToS-dfHuSE
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -67,9 +67,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à trapus ovoïdes, tétrastérigmates, bouclées à la base, hyalines dans le NaCl iso 0,9%, 13-18 x 5-7 µm en moyenne
+  basides: claviformes à trapus ovoïdes, tétrasporiques, bouclées à la base, hyalines dans le NaCl iso 0,9%, 13-18 x 5-7 µm en moyenne
   basidiospores: |
-    elliptiques vue de front, subtriangulaires à en éperons ou en forme d’obus vue de profil, tronquées, lisses, à paroi mince, avec appendice hilaire latéral proéminent, sans pore germinatif distinct, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, partiellement cyanophiles à cyanophiles
+    elliptiques en vue frontale, subtriangulaires à en éperons ou en forme d’obus vues de profil, tronquées, lisses, à paroi mince, avec appendice hilaire latéral proéminent, sans pore germinatif distinct, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, partiellement cyanophiles à cyanophiles
     (5,3) 5,9-7,3 (8,2) x (2,8) 2,8-3,3 (3,8) µm
     Q = (1,7) 1,9 - 2,3 (2,6); N = 30
     Me = 6,6 x 3,1 µm; Qe = 2,1
@@ -93,7 +93,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, blanche, immuable, rosâtre dans le pied
   chancre: 
-  chapeau: 15-50 mm Ø, ovoïde, conique-convexe à campanulé puis étalé, légèrement omboné, sec, lisse au début, à cuticule vite rompue en petites écailles ± concentriques ochracées, roussâtres, brun foncé, brun rougeâtre ou rouge vin, plus pâles vers la marge et à disque brun orangé à brun, sur fond blanchâtre à crème pâle, à marge longtemps incurvée, aiguë, parfois frangée de restes vélaires, légèrement ondulée avec l'âge, souvent sans cuticule
+  chapeau: 15-50 mm Ø, ovoïde, conique-convexe à campanulé puis étalé, légèrement umboné, sec, lisse au début ; à cuticule vite rompue en petites écailles ± concentriques ochracées ; roussâtres, brun foncé, brun rougeâtre ou rouge vin, plus pâles vers la marge et à disque brun orangé à brun, sur fond blanchâtre à crème pâle ; à marge longtemps incurvée, aiguë, parfois frangée de restes vélaires, légèrement ondulée avec l'âge ; souvent sans cuticule
   cheilochrysocystides:
   cheilocystides: abondantes, polymorphes, claviformes, piriformes à turbinées, à paroi mince, lisses, hyalines dans le NaCl iso 0,9%, 14,5-37 x 7-13 µm en moyenne
   cheiloleptocystides: 
@@ -135,7 +135,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

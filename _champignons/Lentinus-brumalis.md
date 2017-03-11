@@ -1,6 +1,6 @@
 ---
 nom: Lentinus brumalis
-date: 2017-01-20 00:00:00
+date: 2017-03-07 00:00:00
 image: https://c2.staticflickr.com/6/5577/30024934032_7af1fb303f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024934032/in/photolist-MKcCQq-MKcJKG
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45'43.6"N 71°41'39.1"O
-    altitude: 527 m
+    elevation: 105 m
     determinee: 
     confirmee: Roland Labbé
   - fongarium: cKc0567
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0585
@@ -43,7 +43,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -89,7 +89,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 7-23 mm Ø, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire, tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts poils raides et foncés au début, puis sublisse ou velouté, azoné, luisant, bronzé, brun pourpré, brun grisâtre à presque noir, à marge enroulée au début, réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée à ciliée, concolore
+  chapeau: 7-23 mm Ø, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire, tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts poils raides et foncés au début, puis sublisse ou velouté, non zoné, luisant, bronzé, brun pourpré, brun grisâtre à presque noir ; à marge enroulée au début, réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée à ciliée, concolore
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -113,11 +113,10 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: subdécurrente, blanche à ivoire, 1-3 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -132,7 +131,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -226,7 +225,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 7-12 x 1-2 mm Ø, centré à excentré, égal, droit à courbe, parfois légèrement élargi vers avec base, solide, finement velouté à lisse, blanc grisâtre à brunâtre
   pieds-steriles: 
@@ -306,6 +305,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: subdécurrents, blancs à ivoire, 1-3 mm de longueur
   type: 
   typique: 
   voile: 

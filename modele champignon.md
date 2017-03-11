@@ -81,6 +81,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: 
   commentaires: 
   conidies: 
   conidiome: 
@@ -95,11 +96,10 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -259,6 +259,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  symptomes: 
+  syndrome: 
   synonymie: 
   systeme-hyphal: 
   textura: 
@@ -267,6 +269,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: 
   type: 
   typique: 
   voile: 

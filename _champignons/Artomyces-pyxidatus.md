@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2016-12-17 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
@@ -47,15 +47,15 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, en palissade, tétrastérigmates 2,4-3,7 µm de longueur, non bouclées à la base, 14,4 - 20 × 3,7 - 4,3 µm en moyenne
+  basides: claviformes, en palissade, tétrasporiques 2,4-3,7 µm de longueur, non bouclées à la base, 14,4 - 20 × 3,7 - 4,3 µm en moyenne
   basidiospores: |
-    courtement elliptiques à subovoïdales vue de front, à elliptiques-ovoïdales vue de profil, finement verruqueuses (criblé), à paroi mince, appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes, partiellement cyanophiles à cyanophiles
+    courtement elliptiques à subovoïdales en vue frontale, elliptiques-ovoïdales vues de profil, finement verruqueuses (criblées), à paroi mince, appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes, partiellement cyanophiles à cyanophiles
     (3,7) 4 - 4,6 (5) × (2,5) 2,55 - 2,9 (3) µm
     Q = (1,4) 1,5 - 1,7 (1,9) ; N = 30
     Me = 4,3 × 2,7 µm ; Qe = 1,6
-    (Piximètre, formule classique, mesures issues de sporée, dans E.G. 20%)
+    (Piximètre, formule classique, mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
-  basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, ramifié à plusieurs reprises, aux extrémités en forme de petites couronnes, branche 1-5 mm Ø, lisse, blanchâtre à jaune pâle au début, parfois foncé à pâle aux teintes rosâtres en développement, apex couronnées d'une dépression peu profonde et de 3-6 pointes, dont les extrémités sont concolores aux branches ou deviennent brunâtres
+  basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, ramifié à plusieurs reprises, aux extrémités en forme de petites couronnes ; branches 1-5 mm Ø, lisses, blanchâtres à jaune pâle au début, parfois foncées à pâle aux teintes rosâtres en développement, apex couronné d'une dépression peu profonde et de 3-6 pointes, dont les extrémités sont concolores aux branches ou deviennent brunâtres
   bibliographies: 
   biotopes: pousse sur bois pourri de feuillus
   boucles: facilement observables
@@ -116,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -156,7 +156,7 @@ description:
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
   hyphes-glebales: 
-  hyphes-gleopleres: de 5 à 8 µm de large, dispersés dans le sous-hémenium
+  hyphes-gleopleres: de 5 à 8 µm de large, dispersées dans le sous-hémenium
   hyphes-hymeniales: 
   hyphes-ligatives: 
   hyphes-oleiferes: 
@@ -247,7 +247,7 @@ description:
     KOH 10% = jaune brunâtre pâle sur chair et rameaux
   receptacle: 
   remarques: |
-    Puisque les spores de A. pyxidatus sont petites, hyalines et mal définies dans l'eau glycérinée 20% et/ou dans le NaCl iso 0,9%, elles se prêtent parfaitement à une préparation dans le Permanganate de potassium (KMnO<sub>4</sub>) qui en détermine mieux les contours.
+    Puisque les spores de A. pyxidatus sont petites, hyalines et mal définies dans l'eau glycérinée 20% et/ou dans le NaCl iso 0,9%, elles se prêtent parfaitement à une préparation dans le permanganate de potassium (KMnO<sub>4</sub>) qui en détermine mieux les contours.
     Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes.
   repartition: 
   rhizomorphes: 

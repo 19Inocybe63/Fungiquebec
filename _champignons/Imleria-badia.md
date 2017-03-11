@@ -1,6 +1,6 @@
 ---
 nom: Imleria badia
-date: 2016-11-02 00:00:00
+date: 2017-03-04 00:00:00
 image: https://c2.staticflickr.com/4/3920/14887778419_60f361d921_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14887778419/in/photolist-qryYtU-oFAfzb-oFzKQP
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7541/16041908418_7b000d8690_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16041908418/in/photolist-qryYtU-oFAfzb-oFzKQP
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
 
@@ -48,9 +48,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques atténuées en bas, tétrastérigmates, non bouclées à la base, 23,6 [27,9; 30,7] 35 x 8,6 [9,4; 9,9] 10,6 µm
+  basides: claviformes à cylindriques atténuées en bas, tétrasporiques, non bouclées à la base, 23,6 [27,9; 30,7] 35 x 8,6 [9,4; 9,9] 10,6 µm
   basidiospores: |
-    cylindriques vue de profil à fusiformes vue frontale, lisses, à paroi mince jusqu’à 0,2 μm, avec appendice hilaire et dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    fusiformes en vue frontale, cylindriques vues de profil, lisses, à paroi mince jusqu’à 0,2 μm, avec appendice hilaire et dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     13,3 [14,8; 15,5] 16,9 x 4,5 [5,2; 5,5] 6,3 µm
     Q = 2,5 [2,8; 2,9] 3,1; N = 30; C = 95%
     Me = 15,1 x 5,4 µm; Qe = 2,8
@@ -114,7 +114,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -147,7 +147,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: nombreuses, fusiformes simples à fusiformes avec long col, parfois vacuolaires brunâtre rouille, dont l’apex de plusieurs est biseauté et portent une fine couche de granulations blanchâtres, 45,5 [56,6; 65,1] 76,2 x 10 [12,1; 13,8] 15,9 µm
+  hymenocystides: nombreuses, fusiformes simples à fusiformes avec longs cols, parfois vacuolaires brunâtre rouille, parfois à l’apex biseauté, avec une fine couche de granulations blanchâtres, 45,5 [56,6; 65,1] 76,2 x 10 [12,1; 13,8] 15,9 µm
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 

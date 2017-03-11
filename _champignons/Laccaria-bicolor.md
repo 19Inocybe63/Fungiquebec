@@ -1,6 +1,6 @@
 ---
 nom: Laccaria bicolor
-date: 2017-01-19 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/6/5557/15198063431_dcaedc9351_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15198063431/in/photolist-pa13Lp-oSMn45
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
   - fongarium: sans numéro
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
   - fongarium: cKc0247
@@ -43,7 +43,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -117,7 +117,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux apicaux: 
+  cristaux-apicaux: 
   cuticule: 
   cutis: 
   cycle: 
@@ -132,7 +132,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -194,7 +194,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, large, espacées, avec plusieurs lamellules, lilacées au début, puis rose pâle, à arêtes légèrement érodées
+  lames: adnées à subdécurrentes, larges, espacées, avec plusieurs lamellules, lilacées au début, puis rose pâle, à arêtes légèrement érodées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

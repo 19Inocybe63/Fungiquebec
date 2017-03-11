@@ -1,6 +1,6 @@
 ---
 nom: Pluteus hongoi
-date: 2016-11-02 00:00:00
+date: 2017-03-10 00:00:00
 image: https://c2.staticflickr.com/8/7308/27250982564_dd1c4e21c2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27250982564/in/photolist-JtAhvm-Hw61aV-Hw5pGY
 album-flickr:
@@ -48,17 +48,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, 2-4 stérigmates, non bouclées à la base, à contenu vacuolaire ou bien carminophile, (25,1 - 35,2 × 7,1 - 8,5 µm en moyenne
+  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire ou bien carminophile, (25,1 - 35,2 × 7,1 - 8,5 µm en moyenne
   basidiospores: |
-    ovoïdes à subtriangulaires vue frontale, elliptiques à largement elliptiques vue de profil, ou légèrement resserré au milieu, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu uniguttulé à granulations, hyalines dans l’eau glycérinée 20%, inactives dans le melzer, non cyanophiles
+    ovoïdes à subtriangulaires en vue frontale, elliptiques à largement elliptiques vues de profil, ou légèrement resserré au milieu, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu uniguttulé à granulations, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6,4) 6,7 - 7,7 (7,9) × (4,5) 4,7 - 5,4 (5,5) µm
     Q = (1,3) 1,34 - 1,6 (1,7) ; N = 30
     Me = 7,2 × 5 µm ; Qe = 1,5
-    (Piximètre: formule classique ; basidiospores mesurées dans l’eau glycérinée 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois décomposé de feuillus (Acer, Betula, Fagus, Quercus)
+  biotopes: pousse sur bois décomposé de feuillus (<i>Acer</i>, <i>Betula</i>, <i>Fagus</i>, <i>Quercus</i>)
   boucles: absentes du pileipellis et non observées dans aucune autre partie du basidiome
   brachybasidioles: 
   calicule: 
@@ -75,7 +75,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 84 mm Ø, étalé, omboné, légèrement déprimé, viscidule, brun-gris à olivâtre foncé à noirâtre vers le centre
+  chapeau: 84 mm Ø, étalé, umboné, légèrement déprimé, viscidule, brun-gris à olivâtre foncé à noirâtre vers le centre
   cheilocystides: occasionnelles (plus nombreuses à l'arête lamellaire) plus petites et moins bien développées que les lampropleurocystides, fusiformes à cylindriques, souvent avec crochets difformes ou avec un seul crochet, 52,7 - 59,6 × 10,7 - 15,9 µm en moyenne
   cheilocystides-intermediaires: 
   cheilomacrocystides: 
@@ -116,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, gris-beige devenant légèrement rosâtres à maturité
+  lames: libres, gris beige devenant légèrement rosâtres à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: abondantes, métuloïdes, fusiformes (70,4) 72,3 - 84,1 (89,6) × 16,5 - 23,7 µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la moitié sont entiers, et l'autre moitié sont bifides, à paroi jusqu'à 2,5 (2,7 µm) µm d’épaisseur

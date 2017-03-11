@@ -1,6 +1,6 @@
 ---
 nom: Amanita farinosa
-date: 2016-11-02 00:00:00
+date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9648424458/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
 album-flickr:
@@ -65,16 +65,16 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base, 30-33 x 8-10 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 30-33 x 8-10 µm en moyenne
   basidiospores: |
-    subglobuleuses à elliptiques vue de profil, largement elliptiques vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines avec reflet verdâtre en NaCl isotonique 0,9%, inactives dans le melzer, cyanophiles
+    largement elliptiques en vue frontale, subglobuleuses à elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     7,6 [8,2; 8,5] 9,1 x 5,9 [6,3; 6,5] 6,9 µm
     Q = 1,2 [1,3] 1,4; N = 30; C = 95%
     Me = 8,3 x 6,4 µm; Qe = 1,3
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus et conifères ; apparaissant parfois dans des zones herbeuses urbaines à proximité des arbres
+  biotopes: pousse au sol, sous feuillus et conifères, apparaissant parfois dans des zones herbeuses urbaines à proximité des arbres
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -131,7 +131,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -189,7 +189,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres à adnexées, avec lamellules tronquées, serrées, blanchâtres à grisâtre
+  lames: libres à adnées, avec lamellules tronquées, serrées, blanchâtres à grisâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +206,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: seul, dispersés ou grégaire
+  mode-de-croissance: seul, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -220,9 +220,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: début du printemps à fin de l'automne
+  phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-90 x 3-10 mm Ø, cylindrique plus ou moins égale, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
+  pied: 30-90 x 3-10 mm Ø, cylindrique à ± égal, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis et parfois en ixocutis, formé d’hyphes de 2-8 µm Ø
@@ -257,7 +257,7 @@ description:
   receptacle: 
   references: 
   remarques: |
-    C'est la première fois que je vois un groupe aussi nombreux de cette espèce. Habituellement, on la voit en petit groupe de trois à huit spécimens, mais pas en groupe de vingt et plus. Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
+    C'est la première fois que je vois un groupe aussi fourni de cette espèce. Habituellement, on la voit en petits groupes de trois à huit spécimens, mais pas en groupe de vingt et plus. Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
   rhizomorphes: 
   sac-sporifere: 
   saveur: indistincte
@@ -290,7 +290,7 @@ description:
   typique: 
   voile: 
   voile-general: friable, gris-brun, laissant une couche poudreuse sur le chapeau
-  voile-partiel: constitué d’hyphes filamenteux et des cellules sphérocytes
+  voile-partiel: constitué d’hyphes filamenteuses et de sphérocytes (cellules arrondies)
   volve: 
   zone-perihymeniale: 
 ---

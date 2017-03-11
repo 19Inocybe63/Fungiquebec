@@ -1,6 +1,6 @@
 ---
 nom: Pluteus cervinus
-date: 2016-11-02 00:00:00
+date: 2017-03-10 00:00:00
 image: https://c2.staticflickr.com/8/7699/27530665341_5619c52b91_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27530665341/in/photolist-HWMRDP-J6iLNE-H8pRei-dZJen1-e1s9mU
 album-flickr:
@@ -58,17 +58,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: longuement claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, 2-4 stérigmates, non bouclées à la base, à contenu vacuolaire ou bien carminophile, émergentes sur la moitié de leur longueur lorsque mature (27,7) 32,4 - 38 (38,9) × (7,3) 7,4 - 8,8 (9,1) µm en moyenne
+  basides: longuement claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire ou bien carminophile, émergentes sur la moitié de leur longueur à maturé (27,7) 32,4 - 38 (38,9) × (7,3) 7,4 - 8,8 (9,1) µm en moyenne
   basidiospores: |
-    ovoïdes à subtriangulaires vue frontale, elliptiques à largement elliptiques vue de profil, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu parfois uniguttulé à granulations, hyalines dans l’eau glycérinée 20%, inactives dans le melzer, non cyanophiles
+    ovoïdes à subtriangulaires en vue frontale, elliptiques à largement elliptiques vues de profil, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu parfois uniguttulé à granulations, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6,1) 6,3 - 7,8 (8) × (4,5) 4,7 - 5,2 (6,1) µm
     Q = (1,2) 1,3 - 1,5 (1,6) ; N = 30
     Me = 6,8 × 4,9 µm ; Qe = 1,4
-    (Piximètre: formule classique)
+    (Piximètre, formule classique)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois décomposé de feuillus (Acer, Betula, Eucalyptus, Fagus, Quercus)
+  biotopes: pousse sur bois décomposé de feuillus (<i>Acer</i>, <i>Betula</i>, <i>Eucalyptus</i>, <i>Fagus</i>, <i>Quercus</i>)
   boucles: absentes
   brachybasidioles: 
   calicule: 
@@ -126,7 +126,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -187,7 +187,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, ventrues, très serrées, blanches au début, puis rose, à arêtes entières ou floconneuses et blanches rosées
+  lames: libres, ventrues, très serrées, blanches au début, puis rose, à arêtes entières ou floconneuses et blanchâtre rosée
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: nombreuses, métuloïdes, fusiformes (76,9) 77,5 - 85,9 (95,7) × (11,4) 13,5 - 17,6 (20,3) µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la plupart sont entiers, quelques bifides, à paroi jusqu'à 2,5 µm d’épaisseur
@@ -220,10 +220,10 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 50-80 x 7-11 mm Ø, cylindrique, subégal, élargie à la base, plein, méchuleux, bulbeux
+  pied: 50-80 x 7-11 mm Ø, cylindrique, subégal, élargi à la base, plein, méchuleux, bulbeux
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis (ixocutis) formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou remplis de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41 - 70,1 (80) × (6) 8,5 - 13,5 (16,7) µm en moyenne, avec matrice gélatinée présente chez certaines collections
+  pileipellis: en cutis (ixocutis) formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou rempli de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41 - 70,1 (80) × (6) 8,5 - 13,5 (16,7) µm en moyenne, avec matrice de gélin présente chez certaines collections
   pileitrame: 
   pileocystides: 
   plasmode: 

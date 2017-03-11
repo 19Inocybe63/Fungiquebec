@@ -1,6 +1,6 @@
 ---
 nom: Russula fulvescens
-date: 2016-11-21 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c1.staticflickr.com/9/8214/29040518066_72b46c7929_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29040518066/in/photolist-Lfdfgm
 album-flickr:
@@ -19,9 +19,9 @@ collections:
   - fongarium: cKc0539
     date: 18 août 2016
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0539-0160
+      miniature: https://c2.staticflickr.com/4/3860/33188329162_2d1f12d79a_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/33188329162/in/photostream/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 
@@ -48,8 +48,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrasporiques, non bouclées à la base, 38 - 50 × 12,5 - 15 µm en moyenne
+  basidiospores: |
+    ovoïdales en vue frontale, largement elliptiques à elliptiques vues de profil, verrues isolées avec réticulum partiel, à paroi mince, plage supra hilaire relativement petite (2 - 2,4 µm Ø en moyenne) et distinctement amyloïde, à contenu uniguttulé, avec proéminences jusqu'à 1,2 µm de hauteur, hyalines dans E.G. 20%, amyloïdes
+    (8,2) 8,7 - 9,6 (10) × (6,9) 6,94 - 7,4 (7,7) µm
+    Q = (1,1) 1,2 - 1,3 (1,4) ; N = 30
+    Me = 9,1 × 7,2 µm ; Qe = 1,3
+    (Piximètre, formule classique ; mesures issues d’une sporée dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -72,7 +77,7 @@ description:
   chancre: 
   chapeau: 83 mm Ø, convexe à étalé, puis déprimé, jaune orangé, la cuticule collante, pèle presque entièrement
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: occasionnelles, peu émergentes, cylindriques à fusiformes, parfois avec apex mucroné, à contenu pailleté, sulfovanilline négative (SV -), 60 - 65 × 8 - 10 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -83,6 +88,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
+  comestibilite: ±, espèce sans intérêt et données insuffisantes
   commentaires: 
   conidies: 
   conidiome: 
@@ -132,7 +138,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte à la cueillette, mais légèrement agréable après 3 heures
+  exhalaison: indistincte à la cueillette, mais agréable après 3 heures
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -207,18 +213,18 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 84 x 18 mm Ø, cylindrique, farci, blanc, l'intérieur se tâche légèrement de brun rougeâtre très pâle à la coupe
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis, formé d'hyphes non incrustées et de pileocystides occasionnelles
   pileitrame: 
-  pileocystides: 
+  pileocystides: occasionnelles, cylindriques, dont l’apex se termine souvent spatulé à subspatulé, à rarement bidigitée, septées, sulfovanilline négatives (SV -), 37 - 87,5 × 4,5 - 6 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
-  poils: 
+  pleurocystides: nombreuses, cylindriques à fusiformes, souvent avec apex mucroné, à contenu pailleté, sulfovanilline négative (SV -), 68,3 - 78,5 × 11 - 13,7 µm en moyenne
+  poils: cylindriques, vide optique, septées, (17,4) 19,5 - 48,7 (55,8) × (1,8) 2,1 - 3,6 (3,9) µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -230,7 +236,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: 
+  premiere-mention: première étude de cette espèce au Québec
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
@@ -242,7 +248,7 @@ description:
     FeSO<SUB>4</SUB> =  stipe rosé (3 = moyenne)
     Soluté de gaïac = > 5" stipe + (1 = faible) ; < 5" lames ++ (3 = moyenne)
   receptacle: 
-  remarques: Malheureusement, il manque une photo des lames et encore bien des informations.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

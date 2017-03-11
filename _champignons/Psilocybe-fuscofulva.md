@@ -1,6 +1,6 @@
 ---
 nom: Psilocybe fuscofulva
-date: 2016-12-23 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c1.staticflickr.com/3/2943/15155802299_c6032f05d7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15155802299/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
 album-flickr:
@@ -77,9 +77,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, bouclées à la base, 20-32 x 5-9 µm
+  basides: claviformes, tétrasporiques, bouclées à la base, 20-32 x 5-9 µm
   basidiospores: |
-    elliptiques-oblongues vue de profil à elliptiques-ovoïdes vue frontale, légèrement tronquées, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire et pore germinatif large, à contenu variable, brun foncé à brun lilacée dans le NaCl iso 0,9%, rouille dans le melzer (dextrinoïdes ?), non cyanophiles
+    elliptiques-ovoïdes en vue frontale, elliptiques-oblongues vues de profil, légèrement tronquées, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire et pore germinatif large, à contenu variable, brun foncé à brun lilacée dans le NaCl iso 0,9%, rouille dans le melzer (dextrinoïdes ?), non cyanophiles
     10,1 [11; 11,4] 12,3 x 5,6 [6,3; 6,6] 7,4 µm
     Q = 1,5 [1,7; 1,8] 1,9; N = 30; C = 95%
     Me = 11,2 x 6,5 µm; Qe = 1,7
@@ -145,7 +145,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -206,7 +206,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à adnexées, larges, à arête érodées, blanchâtre, serrées, parfois sinuées à décurrentes en filet, cunéiforme ; lamellules arrondies sur le bord proximal et aussi atténuées sur le rebord proximal
+  lames: échancrées à adnexées, larges, à arête érodées, blanchâtres, serrées, parfois sinuées à décurrentes en filet, cunéiforme, lamellules arrondies sur le bord proximal et aussi atténuées sur le rebord proximal
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -237,7 +237,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 50-98 x 2-3 mm Ø, creux, fibrilleux, radicant, blanchâtre à brun pâle, plus foncé à la base, strié longitudinalement avec de légère fibrille sur l'écorce, flexueux, parfois, central, égal, cylindrique, radicant
   pieds-steriles: 

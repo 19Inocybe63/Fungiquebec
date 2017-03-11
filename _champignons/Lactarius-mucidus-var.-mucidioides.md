@@ -1,6 +1,6 @@
 ---
 nom: Lactarius mucidus var. mucidioides
-date: 2017-03-06 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c1.staticflickr.com/9/8178/7996919806_53f97e1310_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996919806/in/photolist-e9JUKB-dbEiDG
 album-flickr:
@@ -182,7 +182,7 @@ description:
   latex: blanc, immuable au goût brûlant
   leptocystides: 
   macrocystides: 
-  macropleurocystides: peu abondantes clavées se terminant par un petit éperon, Sulfovanilline positives (SV+), 40-50 x 10-12 µm
+  macropleurocystides: peu abondantes clavées se terminant par un petit éperon, sulfovanilline positives (SV+), 40-50 x 10-12 µm
   marge: 
   marge-et-face-externe: 
   mediostrate: 

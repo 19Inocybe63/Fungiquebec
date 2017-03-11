@@ -1,6 +1,6 @@
 ---
 nom: Mycena galericulata
-date: 2017-03-08 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/4/3827/19116582812_309bc0247f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19116582812/in/photolist-v8gu4o-uRbuMb-v7UN4S
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/1/496/19112546040_a326d36a7f_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/19112546040/in/photolist-v8gu4o-uRbuMb-v7UN4S
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

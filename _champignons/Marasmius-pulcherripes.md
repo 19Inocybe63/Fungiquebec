@@ -1,6 +1,6 @@
 ---
 nom: Marasmius pulcherripes
-date: 2017-03-08 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/4/3898/14937584416_30a6aeecf8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14937584416/in/photolist-ovww45-fdnUT4-fdC9HL-oKZ2qU
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Yves Lamoureux
   - fongarium: cKc0204

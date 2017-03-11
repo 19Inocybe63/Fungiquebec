@@ -15,11 +15,25 @@ permalink: /champignons/
     }
 
     function showResults(results) {
+        var resultCountDiv = $('<div>');
+        resultCountDiv.text(results.length + " champignons trouvés");
+        $('#search-results').append(resultCountDiv);
+
         for (var i = 0; i < results.length; ++i) {
             var result = results[i];
+            if (!result) {
+                continue;
+            }
+            var doc = champignons[(result.ref * 1) - 1];
+            if (!doc) {
+                continue;
+            }
 
             var searchResultDiv = $('<div>');
-            searchResultDiv.text(result.ref);
+            var searchResultLink = $('<a>');
+            searchResultLink.html("<i>" + doc.nom + "</i>");
+            searchResultLink.attr('href', doc.url);
+            searchResultDiv.append(searchResultLink);
 
             $('#search-results').append(searchResultDiv);
 //            $('.lettre-entete.lettre' + indexChampignons.documentStore.getDoc(result.ref).nom[0].toLowerCase()).show();

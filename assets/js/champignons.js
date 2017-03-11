@@ -46,6 +46,8 @@ var champignons = [
     {% for champignon in champignonsTries %}  {
         id: {{ forloop.index }},
         nom: "{{ champignon.nom }}",
+        nom_francais: "{{ champignon.details.nom-francais }}",
+        url: "{{ champignon.url | prepend: site.baseurl }}",
         {% for champ in site.champs-details %}{% if champ.search != "exclure" and champignon.details[champ.name] %}
         {{ champ.name | replace: "-", "_" }}: "{{ champignon.details[champ.name] | replace: '"', ' ' }}",
         {% endif %}{% endfor %}

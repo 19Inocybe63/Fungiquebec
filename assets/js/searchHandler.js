@@ -66,9 +66,12 @@ var searchHandler = {
 
         var queries = [];
 
-        queries.push({
-            query: this.query
-        });
+        var terms = this.query.split(" ");
+        for (var i = 0; i < terms.length; ++i) {
+            queries.push({
+                query: terms[i]
+            });
+        }
 
         for (var i = 0; i < this.facets.length; ++i) {
             var facet = this.facets[i];
@@ -82,14 +85,15 @@ var searchHandler = {
             queries.push({
                 query: facet.selectedValue,
                 userConfig: {
-                    fields: fieldsToSearchFor
+                    fields: fieldsToSearchFor,
+                    bool: "AND"
                 }
             });
         }
 
         var searchResults = this.index.multiSearch(queries);
         this.showResults(searchResults);
-        this.updateFacetsFromSearchResults(searchResults);
+        //this.updateFacetsFromSearchResults(searchResults);
     },
     updateFacetsFromAllResults: function() {
         var _this = this;

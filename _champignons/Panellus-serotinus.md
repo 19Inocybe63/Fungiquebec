@@ -1,6 +1,6 @@
 ---
 nom: Panellus serotinus
-date: 2017-03-09 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/8/7419/10088858635_e499dc1285_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088858635/in/photolist-gnw3bx-gnvHw7
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    altitude: 1.07 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

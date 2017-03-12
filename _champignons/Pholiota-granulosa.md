@@ -1,6 +1,6 @@
 ---
 nom: Pholiota granulosa
-date: 2017-03-09 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/8/7250/7661083404_364b14e24a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7661083404/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8391/8577717910_39dd75c396_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8577717910/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
     geolocalisation: 46°53'35.73"N 71°15'01.04"O
-    altitude: 1.18 km
+    elevation: 210 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Roland Labbé
   - fongarium: cKc0099
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    altitude: 1.07 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0174
@@ -43,7 +43,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0186
@@ -53,7 +53,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0194
@@ -63,7 +63,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8692/16843365459_e7dc03e1aa_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16843365459/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

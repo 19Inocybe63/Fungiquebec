@@ -1,6 +1,6 @@
 ---
 nom: Russula fragilis
-date: 2017-01-19 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5589/15034624325_0cd9367c27_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15034624325/in/photolist-oUypVP-oUyo1M-oC4HTw
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, ou bois très pourri, sous feuillus, Betula, Fagus, Quercus
+  biotopes: pousse au sol, dans la mousse, ou bois très pourri, sous feuillus, <i>Betula</i>, <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

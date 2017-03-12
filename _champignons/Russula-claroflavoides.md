@@ -1,6 +1,6 @@
 ---
 nom: Russula claroflavoides Y. Lamoureux nom. prov.
-date: 2016-11-02 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/4/3844/14981506665_cb3fc4848b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981506665/in/photolist-q8FJRj-oPS8Z4-oxn6NB-oPPpW7
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes élancées, tétrastérigmates, non bouclées à la base, à contenu vacuolaires, 42 [44,4; 51] 53,4 x 12,1 [12,2; 12,6] 12,8 µm en moyenne
+  basides: claviformes élancées, tétrasporiques, non bouclées à la base, à contenu vacuolaires, 42 [44,4; 51] 53,4 x 12,1 [12,2; 12,6] 12,8 µm en moyenne
   basidiospores: |
-    elliptiques vue frontale à subglobuleuses à largement elliptiques vue de profil, verruqueuses à échinulées et rarement réticulées, avec proéminences jusqu’à 0,9 µm de hauteur, à paroi mince, avec appendice hilaire et plage hilaire pas toujours bien visible jusqu’à 2,1 x 2,6 µm Ø en moyenne, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
+    elliptiques en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses à échinulées et rarement réticulées, avec proéminences jusqu’à 0,9 µm de hauteur, à paroi mince, avec appendice hilaire et plage hilaire pas toujours bien visible jusqu’à 2,1 x 2,6 µm Ø en moyenne, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,8 [8,7; 9] 9,9 x 6,7 [7,3; 7,6] 8,2 µm
     Q = 1 [1,2] 1,3; N = 30; C = 95%
     Me = 8,9 x 7,5 µm; Qe = 1,2
@@ -74,7 +74,7 @@ description:
   chair: friable, blanche, rougissant puis grisonnant au grattage
   chancre: 
   chapeau: 54 mm Ø, convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon, non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge
-  cheilocystides: peu abondantes et non proéminentes, cylindriques, Sulfobenzaldéhyde négatif (SBA-)
+  cheilocystides: peu abondantes et non proéminentes, cylindriques, sulfobenzaldéhyde négatif (SBA-)
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occassionnelle
+  distribution: rare à occassionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -211,10 +211,10 @@ description:
   pigments: 
   pileipellis: en ixocutis
   pileitrame: 
-  pileocystides: rares, petits, Sulfobenzaldéhyde négatif (SBA-)
+  pileocystides: rares, petits, sulfobenzaldéhyde négatif (SBA-)
   plasmode: 
-  pleurocystides: abondantes, cylindriques avec apex rostrées, mucronées, fusiformes et plus rarement moniliformes, Sulfobenzaldéhyde négatif (SBA-), 42,9 [54,9; 78,8] 90,8 x 7,1 [9,3; 13,6] 15,7 µm en moyenne
-  poils: septées
+  pleurocystides: abondantes, cylindriques avec apex rostrées, mucronées, fusiformes et plus rarement moniliformes, sulfobenzaldéhyde négatif (SBA-), 42,9 [54,9; 78,8] 90,8 x 7,1 [9,3; 13,6] 15,7 µm en moyenne
+  poils: cylindriques, septées
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

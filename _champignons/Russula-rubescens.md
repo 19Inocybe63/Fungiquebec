@@ -1,6 +1,6 @@
 ---
 nom: Russula rubescens ss. Kauffman
-date: 2016-11-15 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5554/14870132589_cb7cdb3cb0_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14870132589/in/photolist-qXocf1-oE2jmn-oE42XA-oViEmY-oXkBBT-oCV5qB-omGoTC
 album-flickr:
@@ -67,9 +67,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base, 34,5 [37; 42,1] 44,6 x 9,3 [10,2; 12,2] 13,2 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 34,5 [37; 42,1] 44,6 x 9,3 [10,2; 12,2] 13,2 µm en moyenne
   basidiospores: |
-    subglobuleuses à largement elliptiques, verruqueuses-échinulées, avec quelques rares connexifs, avec proéminence entre 0,70-0,95 µm, aussi > 1,0 (1,3) µm de haut, à paroi mince, appendice hilaire pas toujours bien visible, ainsi que la plage hilaire 2,41-3,16 en moyenne, à contenu uniguttulé, subhyalines dans le NaCl iso 0,9%, amyloïdes
+    subglobuleuses à largement elliptiques, verruqueuses-échinulées, avec quelques rares connexifs, avec proéminence entre 0,7-0,9 µm, aussi > 1,0 (1,3) µm de haut, à paroi mince, appendice hilaire pas toujours bien visible, ainsi que la plage hilaire 2,4-3,1 en moyenne, à contenu uniguttulé, subhyalines dans le NaCl iso 0,9%, amyloïdes
     7 [7,9; 8,3] 9,2 x 6,1 [6,8; 7,1] 7,7 µm
     Q = 1 [1,1; 1,2] 1,3; N = 30; C = 95%
     Me = 8,1 x 6,9 µm; Qe = 1,2
@@ -135,7 +135,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -196,7 +196,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, plutôt larges, cassantes, non fourchues, serrées, blanchâtres, jaunissant avec l'âge, avec lamellules très rares ou absentes
+  lames: adnées, plutôt larges, cassantes, non fourchues, serrées, blanchâtres, jaunissantes à maturité, lamellules très rares ou absentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -234,7 +234,7 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: gorgées de pigments
+  pileocystides: remplies de pigments
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes, polymorphes, cylindriques mucronées 52,9 [59,7; 78,2] 84,9 x 6,1 [7; 9,5] 10,3 µm en moyenne, lagéniformes à sublagéniformes 50,2 [51,8; 54,8] 56,3 x 6,1 [6,9; 8,3] 9 µm en moyenne, claviformes dont l’apex est acéré, rostré à submoniliforme 52,3 [53,3; 57,9] 58,8 x 12,1 [12,2; 12,5] 12,6 µm en moyenne

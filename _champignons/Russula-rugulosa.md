@@ -1,6 +1,6 @@
 ---
 nom: Russula rugulosa
-date: 2017-01-03 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5521/9969248856_bb1a51c6a9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9969248856/in/photolist-gbX1mY-gbWHfT
 album-flickr:
@@ -63,7 +63,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous conifères, Abies, Larix, et tout près Fagus grandifolia
+  biotopes: pousse au sol, sous conifères, <i>Abies</i>, <i>Larix</i>, et tout près <i>Fagus grandifolia</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -80,7 +80,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche, mais fragile lorsque le spécimen est mature, immuable au grattage ou à la coupe, rouge sous la cuticule
   chancre: 
-  chapeau: 23-99 mm Ø, convexe à étalé puis légèrement déprimé, à cuticule collante qui se pèle jusqu'au ¾ du rayon, rouge à rouge pâle avec centre parfois jaunâtre, ou ± plus foncé, s'atténuant vers la marge
+  chapeau: 23-99 mm Ø, convexe à étalé puis légèrement déprimé, à cuticule collante qui se pèle jusqu'au ¾ du rayon ; rouge à rouge pâle avec centre parfois jaunâtre, ou ± plus foncé, s'atténuant vers la marge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -123,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -217,7 +217,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 38-70 x 7-20 mm Ø, cylindrique à claviformes, élargie vers la base, plein puis farci, blanc, immuable au grattage
+  pied: 38-70 x 7-20 mm Ø, cylindrique à claviforme, élargie vers la base, plein puis farci, blanc, immuable au grattage
   pieds-steriles: 
   pigments: 
   pileipellis: 

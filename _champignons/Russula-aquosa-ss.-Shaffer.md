@@ -1,6 +1,6 @@
 ---
 nom: Russula aquosa ss. Shaffer
-date: 2017-03-05 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/4/3840/15156170348_692c211acb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15156170348/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
 album-flickr:
@@ -236,7 +236,7 @@ description:
   pileocystides: très nombreuses, de deux types, claviformes septées entre 6-8 µm de large, et l’autres plus étroites, le plus souvent capitulées à l’apex entre 3,8-6 µm de large, à contenu granuleux, Sulfopipéronal positif (sp+)
   plasmode: 
   pleurocystides: 
-  poils: septés
+  poils: cylindriques, septés
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

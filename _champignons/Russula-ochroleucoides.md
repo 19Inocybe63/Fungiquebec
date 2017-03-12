@@ -1,6 +1,6 @@
 ---
 nom: Russula ochroleucoides
-date: 2016-12-01 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
@@ -53,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus (Fagus), chênaies-hêtraies
+  biotopes: pousse au sol, sous feuillus (<i>Fagus</i>), chênaies-hêtraies
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -173,7 +173,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, cunéiformes, dont les sinus sont interveinés (voir remarque), blanches à crèmes, sans lamelles ni lamellules, avec quelques furcations à la base du pied
+  lames: adnées, serrées, cunéiformes, dont les sinus sont interveinés (voir remarque) ; blanches à crème, sans lamelles ni lamellules, avec quelques furcations à la base du pied
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +206,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 60 x 21 mm Ø, égal, très ferme, plein, blanc avec des teintes jaune
+  pied: 60 x 21 mm Ø, égal, très ferme, plein, blanc avec des teintes jaunes
   pieds-steriles: 
   pigments: 
   pileipellis: 

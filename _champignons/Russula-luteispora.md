@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: commun
+  phenologie: juillet
   phialoconidies: 
   pied: 33 x 5 mm Ø, cylindrique à subégal, subclaviforme, blanc, sans teinte rosée
   pieds-steriles: 

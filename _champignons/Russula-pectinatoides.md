@@ -1,6 +1,6 @@
 ---
 nom: Russula pectinatoides
-date: 2016-11-13 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5529/9493150357_bd7193a334_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9493150357/in/photolist-qdcpjx-ft8n3h-fsT5c2-ft8pzE-fsSSSa
 album-flickr:
@@ -67,9 +67,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base, 31,8 [37,2; 42,6] 48 x 8,5 [9,5; 10,5] 11,5 µm
+  basides: claviformes, tétrasporiques, non bouclées à la base, 31,8 [37,2; 42,6] 48 x 8,5 [9,5; 10,5] 11,5 µm
   basidiospores: |
-    largement elliptiques vue de profil à obovales vue frontale, verruqueuses, avec verrues petites et obtuses, non réticulées, avec des proéminences entre 0,2-0,5 μm de hauteur en moyenne, à paroi mince, avec appendice hilaire, plage hilaire rarement visible, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
+    obovales en vue frontale, largement elliptiques vues de profil, verruqueuses, avec verrues petites et obtuses, non réticulées, avec des proéminences entre 0,2-0,5 μm de hauteur en moyenne, à paroi mince, avec appendice hilaire, plage hilaire rarement visible, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,4 [8,1; 8,3] 9 x 6 [6,4; 6,6] 6,9 µm
     Q = 1,2 [1,25; 1,3] 1,4; N = 31; C = 95%
     Me = 8,2 x 6,5 µm; Qe = 1,3
@@ -93,9 +93,9 @@ description:
   cellules-stromatiques: 
   chair: épaisse, immuable, blanche
   chancre: 
-  chapeau: 35-67 (75) mm Ø, convexe, étalé à déprimé, non visqueux, légèrement feutré, crème avec parfois un centre brun bourgogne foncé, à marge cannelées, dont la cuticile se pèle au ¼ à ½ du rayon
+  chapeau: 35-67 (75) mm Ø, convexe, étalé à déprimé, non visqueux, légèrement feutré, crème avec parfois un centre brun pourpre foncé, à marge cannelées, dont la cuticule se pèle au ¼ à ½ du rayon
   cheilochrysocystides:
-  cheilocystides: nombreuses, cylindriques mucronées, fusiformes-ventrues, parfois lagéniformes, plus rarement moniliformes, Sulfovanilline positive (SV+), 53-69 x 8,5-11 µm
+  cheilocystides: nombreuses, cylindriques mucronées, fusiformes-ventrues, parfois lagéniformes, plus rarement moniliformes, réaction sulfovanilline positive (SV+), 53-69 x 8,5-11 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -135,7 +135,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -196,7 +196,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexée, large, serrées, avec de rares lamelles et pas de lamellules, à arête entière, blanchâtre
+  lames: adnexée, larges, serrées, avec de rares lamelles et pas de lamellules, à arêtes entières, blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -204,7 +204,7 @@ description:
   latex: 
   leptocystides: 
   macrocystides: 
-  macropleurocystides: peu nombreuses, fusiformes à fusiformes légèrement mucronées, Sulfovanilline positive (SV+), 70-74 x 8-9 µm
+  macropleurocystides: peu nombreuses, fusiformes à fusiformes légèrement mucronées, réaction sulfovanilline positive (SV+), 70-74 x 8-9 µm
   marge: 
   marge-et-face-externe: 
   mediostrate: 
@@ -237,7 +237,7 @@ description:
   pileocystides: absentes
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, semblables aux cheilocystides, Sulfovanilline positive (SV+), 45-56 x 6-10,5 µm
+  pleurocystides: nombreuses, semblables aux cheilocystides, réaction sulfovanilline positive (SV+), 45-56 x 6-10,5 µm
   poils: septés
   poils-basaux: 
   poils-caulinaires: 

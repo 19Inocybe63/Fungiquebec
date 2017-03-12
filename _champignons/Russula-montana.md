@@ -217,7 +217,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: mucronées 55 x 11 μm en moyenne, sulfovanilline + (SV+)
+  pleurocystides: mucronées, sulfovanilline positive (SV+), 55 x 11 μm en moyenne
   poils: du revêtement cuticulaires septés
   poils-basaux: 
   poils-caulinaires: 

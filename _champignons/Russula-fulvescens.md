@@ -1,6 +1,6 @@
 ---
 nom: Russula fulvescens
-date: 2017-03-11 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/9/8214/29040518066_72b46c7929_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29040518066/in/photolist-Lfdfgm
 album-flickr:
@@ -88,7 +88,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
-  comestibilite: ±, espèce sans intérêt et données insuffisantes
+  comestibilite: NON ; espèce sans intérêt
   commentaires: 
   conidies: 
   conidiome: 

@@ -1,6 +1,6 @@
 ---
 nom: Russula fastigiata
-date: 2016-12-10 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/376/19393008420_da3416cf4f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19393008420/in/photolist-CzJihz-wh2GQt-wwcNoW-vY1Eiy-wdj9TQ-v1RKbo-v1RCjs-vxGeL9-uTie5N-vxPT5H
 album-flickr:
@@ -78,17 +78,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à largement claviformes, tétrastérigmates, non bouclée à la base, à paroi mince à légèrement épaissie, à contenu vacuolaire, à apex tronquée, 39-44 x 12,5-14 µm en moyenne
+  basides: claviformes à largement claviformes, tétrasporiques, non bouclées à la base, à paroi mince à légèrement épaissie, à contenu vacuolaire, à apex tronquée, 39-44 x 12,5-14 µm en moyenne
   basidiospores: |
-    elliptiques vue de front, subglobuleuses à largement elliptiques vue de profil, moyennement verruqueuses-échinulées, munies de rares caténulations, avec des proéminences entre 0,5-1,5 µm de hauteur, à paroi mince à légèrement épaissie, appendice hilaire proéminent, plage hilaire amyloïde, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    elliptiques en vue frontale, subglobuleuses à largement elliptiques vues de profil, moyennement verruqueuses-échinulées, munies de rares caténulations, avec des proéminences entre 0,5-1,5 µm de hauteur, à paroi mince à légèrement épaissie, appendice hilaire proéminent, plage hilaire amyloïde, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (8,1) 8,2-9 (9,3) x (6,7) 7-8 (8,3) µm
     Q = (1,1) 1,11-1,2 (1,3); N = 30
     Me = 8,6 x 7,5 µm; Qe = 1,1
-    (Piximètre, formule classique, mesures issues de sporées, dans NaCl iso 0,9%)
+    (Piximètre, formule classique ; mesures issues de sporées dans NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous chêne rouge et hêtre à grandes feuillues
+  biotopes: pousse au sol, sous chêne rouge et hêtre à grandes feuillues ; <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -147,7 +147,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -208,7 +208,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, blanche crème puis jaunâtres, lamelles et lamellules, rares (1-3), furcations près du pied
+  lames: adnées, serrées, blanche crème puis jaunâtres, avec lamelles et lamellules, rares (1-3), furcations près du pied
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -246,10 +246,10 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: nombreuses à occasionnelles, cylindriques-clavées, à 1-2 septa, Sulfovanilline positive (SV +), (46) 50-92 (95) x (6) 6,5-10,5 (11) µm en moyenne
+  pileocystides: nombreuses à occasionnelles, cylindriques-clavées, à 1-2 septa, sulfovanilline positive (SV +), (46) 50-92 (95) x (6) 6,5-10,5 (11) µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, avec contenu pailleté hyalin verdâtre et réfringent dans le R.C.Sds, Sulfovanilline positive (SV +) 70-80 x 8,5-11 µm en moyenne
+  pleurocystides: abondantes, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, avec contenu pailleté hyalin et réfringent dans le R.C.Sds, sulfovanilline positive (SV +) 70-80 x 8,5-11 µm en moyenne
   poils: abondants, septés, en chaîne, 11-31 x 2,5-6,5 µm en moyenne, avec la cellule finale qui se termine atténué 20-45 ± de long
   poils-basaux: 
   poils-caulinaires: 

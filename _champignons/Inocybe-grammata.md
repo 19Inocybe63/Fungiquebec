@@ -1,6 +1,6 @@
 ---
 nom: Inocybe grammata
-date: 2017-03-11 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/335/18276172193_8a7128149f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18276172193/in/photolist-uKdsm9-uvp2YK-tR1ag8
 album-flickr:
@@ -99,7 +99,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: NON. Intoxication à apparition rapide (moins de 6 heures)
+  comestibilite: NON
   commentaires: 
   conidies: 
   conidiome: 
@@ -289,9 +289,9 @@ description:
   subiculum: 
   substrat: 
   symptomes: |
-    Apparition rapide entre 30 minutes et 2 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
     Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
-  syndrome: muscarinien ou sudorien. La <i>muscarine</i> est la toxine responsable
+  syndrome: muscarinien ou sudorien. La toxine responsable est la muscarine
   synonymie: |
     Astrosporina grammata (Quél.) Lebedeva (1949)
   systeme-hyphal: 

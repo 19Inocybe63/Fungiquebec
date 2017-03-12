@@ -1,6 +1,6 @@
 ---
 nom: Phaeolus schweinitzii
-date: 2017-03-09 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/9/8572/28194357805_f133399607_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28194357805/in/photolist-JUqUMo-JXrsik
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

@@ -1,6 +1,6 @@
 ---
 nom: Russula brunneoviolacea
-date: 2016-12-10 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/4/3910/15251215762_2c74fa0dfe_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15251215762/in/photolist-pMgKKQ-oXf7BF-peGt6U
 album-flickr:
@@ -59,7 +59,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    largement elliptiques vue de profil à ovoïdes vue frontale, avec verrues bornées à subéchinulées, avec proéminences entre 0,7-1,2 µm de hauteur, à paroi mince, avec appendice hilaire, verdâtres en NaCl iso 0,9%, amyloïdes
+    ovoïdes en vue frontale, largement elliptiques vues de profil, avec verrues bornées à subéchinulées, avec proéminences entre 0,7-1,2 µm de hauteur, à paroi mince, avec appendice hilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
     8,2 [8,8; 9,2] 9,8 x 6,9 [7,4; 7,7] 8,2 µm
     Q = 1,1 [1,2] 1,3; N = 20; C = 95%
     Me = 9 x 7,6 µm; Qe = 1,2
@@ -125,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -219,7 +219,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 47-70 x 1-11 mm Ø, cylindriqus à subclaviformes, égal, plein à légèrement farci, blanc, souvent taché de brunâtre
+  pied: 47-70 x 1-11 mm Ø, cylindrique à subclaviforme, égal, plein à légèrement farci, blanc, souvent taché de brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 

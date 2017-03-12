@@ -1,6 +1,6 @@
 ---
 nom: Scleroderma cepa
-date: 2016-11-02 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/394/20272518041_035dfb297c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20272518041/in/photolist-wApzri-wTpXk8
 album-flickr:
@@ -109,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -201,7 +201,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

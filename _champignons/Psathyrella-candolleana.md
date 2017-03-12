@@ -1,6 +1,6 @@
 ---
 nom: Psathyrella candolleana
-date: 2017-03-11 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/8/7425/9000085449_fc6ec93855_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9000085449/in/photolist-eSj7PH-eHiPdx-eHiMR4
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/6/5532/9101997751_d77b62e351_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/9101997751/in/album-72157630299294190/
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0332
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -83,7 +83,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, humide, blanchâtre à jaune pâle, pâle au sec
   chancre: 
-  chapeau: 20-110 mm Ø, conique-obtus, ovoïde à convexe puis largement convexe, étalé à umboné-obtus, demeurant parfois largement conique, humide, lisse à ruguleux, souvent avec plaques de fibrilles ou de squamules vers la marge au début, hygrophane, beige, chamois à miel foncé au début, graduellement brun date à brun pourpré sombre, au moins vers le pourtour, blanchâtre ou demeurant chamois fauve au disque au sec, à marge droite avec l'âge, translucide-striée, frangée de restes vélaires blancs au début
+  chapeau: 20-110 mm Ø, conique-obtus, ovoïde à convexe puis largement convexe, étalé à umboné-obtus, demeurant parfois largement conique, humide, lisse à rugueux, souvent avec plaques de fibrilles ou de squamules vers la marge au début, hygrophane, beige, chamois à miel foncé au début, graduellement brun date à brun pourpré sombre, au moins vers le pourtour, blanchâtre ou demeurant chamois fauve au disque au sec, à marge blanche, droite avec l'âge, translucide-striée, frangée de restes vélaires au début
   cheilochrysocystides:
   cheilocystides: en faisceaux, abondantes, utriformes, cylindriques à subcylindriques, largement lagéniformes, parfois cylindriques à l’apex capités
   cheiloleptocystides: 

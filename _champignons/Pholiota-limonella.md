@@ -1,6 +1,6 @@
 ---
 nom: Pholiota limonella
-date: 2017-03-09 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/9/8185/8443643369_21c095bedf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8443643369/in/photolist-dSzgU3-dSetnA-dSdVfD-dS8T3P-dS8T16
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8044/8448598190_e5301d824f_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8448598190/in/photolist-dSzgU3-dSdVfD-dSetnA-dS8T3P-dS8T16
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -47,7 +47,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à l’apex légèrement piriforme, à tétrasporiques, bouclées à la base, 23,2 x 7,4 µm en moyenne
+  basides: cylindriques à l’apex légèrement piriforme, tétrasporiques, bouclées à la base, 23,2 x 7,4 µm en moyenne
   basidiospores: |
     obovoïdes, ellipsoïdes à oblongues, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, très finement apiculé, pore germinatif indistinct, à contenu uniguttulé à variable, jaunâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     6,7 [7,4; 7,6] 8,3 x 4,3 [4,6; 4,7] 5 µm

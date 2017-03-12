@@ -1,6 +1,6 @@
 ---
 nom: Pluteus cervinus
-date: 2017-03-10 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/8/7699/27530665341_5619c52b91_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27530665341/in/photolist-HWMRDP-J6iLNE-H8pRei-dZJen1-e1s9mU
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7439/27627034362_e4e66faf7c_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/27627034362/in/photolist-J6iLNE-HWMRDP-H8pRei-dZJen1-e1s9mU
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: Alfredo Justo (provisoire)
     confirmee: 
   - fongarium: cKc0590
@@ -33,7 +33,7 @@ collections:
       miniature: https://c1.staticflickr.com/1/754/31422946873_78a30f47d4_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/31422946873/in/photostream/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 

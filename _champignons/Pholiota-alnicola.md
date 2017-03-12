@@ -1,6 +1,6 @@
 ---
 nom: Pholiota alnicola
-date: 2017-03-09 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5598/15461831105_2fb25e98da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461831105/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Yves Lamoureux
   - fongarium: cKc0286
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0298
@@ -43,7 +43,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7367/16534533606_985a2663a6_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16534533606/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

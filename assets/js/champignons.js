@@ -5,6 +5,7 @@ var indexChampignons = elasticlunr(function () {
     this.saveDocument(false);
     this.setRef('id');
     this.addField('nom');
+    this.addField('nom_francais');
 
     {% for champ in site.champs-details %}{% if champ.search != "exclure" %}
     this.addField('{{ champ.name | replace: "-", "_" }}');
@@ -37,6 +38,45 @@ var facetsChampignons = {
     {% endfor %}
 };
 
+var champsChampignons = [
+    {% for champ in site.champs-details %}
+        {% if champ.search != "exclure" and champ.search != "facet" %}
+    {
+        name: "{{ champ.name | replace: "-", "_" }}",
+        label: "{{ champ.label }}"
+    },
+        {% endif %}
+    {% endfor %}
+    {% for champ in site.champs-collections %}
+        {% if champ.search != "exclure" %}
+            {% if champ.champs %}
+                {% for sousChamp in champ.champs %}
+                    {% if sousChamp.search != "exclure" %}
+    {
+        name: "{{ champ.name | replace: "-", "_" }}_{{ sousChamp.name | replace: "-", "_" }}",
+        label: "Collection - {{ champ.label }} - {{ sousChamp.label }}"
+    },
+                    {% endif %}
+                {% endfor %}
+            {% else %}
+    {
+        name: "{{ champ.name | replace: "-", "_" }}",
+        label: "{{ champ.label }}"
+    },
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    {% for champ in site.champs-description %}
+        {% if champ.search != "exclure" and champ.name != "cristaux apicaux" %}
+    {
+        name: "{{ champ.name | replace: "-", "_" }}",
+        label: "{{ champ.label }}"
+    },
+        {% endif %}
+    {% endfor %}
+].sort(function(a, b) {
+    return a.label.localeCompare(b.label);
+});
 
 {% assign champignonsTries = (site.champignons | sort: 'nom') %}
 

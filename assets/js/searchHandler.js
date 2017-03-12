@@ -3,9 +3,10 @@ var searchHandler = {
     allResults: undefined, // Should be set by the caller
     showResults: undefined, // Should be set by the caller
     hideAllResults: undefined, // Should be set by the caller
+    facets: undefined, // Should be set by the caller
+    filters: undefined, // Should be set by the caller
 
     query: "",
-    facets: [],
     initialize: function(query) {
         if (query) {
             this.query = query;
@@ -57,17 +58,35 @@ var searchHandler = {
             });
         }
 
-        for (var i = 0; i < this.facets.length; ++i) {
-            var facet = this.facets[i];
+        for (var facetField in this.facets) {
+            var facet = this.facets[facetField];
 
             if (!facet.selectedValue) {
                 continue;
             }
 
             var fieldsToSearchFor = {};
-            fieldsToSearchFor[facet.field] = { boost: 1 };
+            fieldsToSearchFor[facetField] = { boost: 1 };
             queries.push({
                 query: facet.selectedValue,
+                userConfig: {
+                    fields: fieldsToSearchFor,
+                    bool: "AND"
+                }
+            });
+        }
+
+        for (var field in this.filters) {
+            var value = this.filters[field];
+
+            if (!value) {
+                continue;
+            }
+
+            var fieldsToSearchFor = {};
+            fieldsToSearchFor[field] = { boost: 1 };
+            queries.push({
+                query: value,
                 userConfig: {
                     fields: fieldsToSearchFor,
                     bool: "AND"

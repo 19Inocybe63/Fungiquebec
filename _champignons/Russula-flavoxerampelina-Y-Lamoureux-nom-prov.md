@@ -57,13 +57,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base, (39,3) 39,31 - 48,79 (48,8) × (12,4) 12,44 - 13,17 (13,2) µm
+  basides: claviformes, tétrasporiques, non bouclées à la base, (39,3) 39,31 - 48,79 (48,8) × (12,4) 12,44 - 13,17 (13,2) µm
   basidiospores: |
-    globuleuses à subglobuleuses vue de front, subglobuleuses à largement elliptiques vue de profil, verrues médiums et isolées, réunies par de rares connexions, plus souvent avec verrues caténulées, avec des proéminences entre 0,5-1 µm de hauteur, à paroi mince, appendice hilaire proéminent, petite plage hilaire amyloïde, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verrues médiums et isolées, réunies par de rares connexions, plus souvent avec verrues caténulées, avec des proéminences entre 0,5-1 µm de hauteur, à paroi mince, appendice hilaire proéminent, petite plage hilaire amyloïde, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (7,2) 7,6 - 8,8 (9,2) × (6,3) 6,6 - 7,5 (7,7) µm
     Q = (1,1) 1,13 - 1,2 (1,3) ; N = 30
     Me = 8,3 × 7,1 µm ; Qe = 1,2
-    (Piximètre, formule classique, mesures issues de sporée dans NaCl iso 0,9%)
+    (Piximètre, formule classique ; mesures issues d'une sporée dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -126,7 +126,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: inconnue
+  distribution: inconnu
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -187,7 +187,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées à échancrées, beaucoup de lamelles, et sans lamellules, blanchâtre
+  lames: sinuées à échancrées, beaucoup de lamelles, et sans lamellules, blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -218,14 +218,14 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à juillet
   phialoconidies: 
   pied: 55-61 x 15-16 mm Ø, cylindrique claviforme, farci, se tache de brun rougeâtre au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: épicuticulaires, claviformes, fusiformes à largement fusiformes, cystidioïdes, septées, faiblement Sulfoaldéhyde, 50 - 85 (90) × (5) 7 - 15 (16) µm ; piléocystides atypiques, cylindriques et septées, 10-30 x 2-4 µm en moyenne, 15-17 x 4-6 µm en moyenne
+  pileocystides: épicuticulaires, claviformes, fusiformes à largement fusiformes, cystidioïdes, septées, faiblement sulfoaldéhyde, 50 - 85 (90) × (5) 7 - 15 (16) µm ; piléocystides atypiques, cylindriques et septées, 10-30 x 2-4 µm en moyenne, 15-17 x 4-6 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, au contenu pailleté hyalin et réfringent dans le R.C.Sds  

@@ -1,6 +1,6 @@
 ---
 nom: Russula ornaticeps
-date: 2016-11-27 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/317/19538550198_bebce9b492_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19538550198/in/photolist-C6vQDR-vLybg9-w4b2ea
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à claviformes, tétrastérigmates, non bouclée à la base, à contenu vacuolaire, 37,0-40,0 x 7,0-9,0 µm en moyenne
+  basides: cylindriques à claviformes, tétrasporiques, non bouclées à la base, à contenu vacuolaire, 37,0-40,0 x 7,0-9,0 µm en moyenne
   basidiospores: |
-    subglobuleuses à elliptiques vue de front, subglobuleuses à largement elliptiques vue de profil, verruqueuses, partiellement réticulé, ornements entre 0,1-0,5 µm de hauteur, à paroi mince, appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    subglobuleuses à elliptiques en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses, partiellement réticulé, ornements entre 0,1-0,5 µm de hauteur, à paroi mince, appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (5,3) 5,8-6,4 (7,7) x (4,2) 4,6-5,7 (6,5) µm
     Q = (1) 1,1-1,26 (1,3); N = 30
     Me = 6,2 x 5,2 µm; Qe = 1,2
@@ -73,9 +73,9 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 40-100 mm Ø, convexe ensuite déprimé, cuticule finement rompue et collante se pèle jusqu'au ¾ du rayon
+  chapeau: 40-100 mm Ø, convexe puis déprimé, cuticule finement rompue et collante ; se pèle jusqu'au ¾ du rayon
   cheilochrysocystides:
-  cheilocystides: présentes, sensiblement de la même forme que les pleurocystides, Sulfovanilline positives (SV+)
+  cheilocystides: présentes, sensiblement de la même forme que les pleurocystides, réaction sulfovanilline positives (SV+)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à sinuées, serrées, blanches avec arête violette sur une bonne partie de sa longueur, nombreuses furcations à la base du pied
+  lames: échancrées à sinuées, serrées, blanches avec arêtes violettes sur une bonne partie de sa longueur, nombreuses furcations à la base du pied
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -209,16 +209,16 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 50–70 x 15–20 mm Ø, claviforme, subégal à abruptement atténué vers la base, parfois pruineux vers l'apex, irrégulièrement strié, blanc, parfois légèrement lavé de bleu-violet
+  pied: 50–70 x 15–20 mm Ø, claviforme, subégal à abruptement atténué vers la base, parfois pruineux vers l'apex, irrégulièrement strié, blanc, parfois légèrement lavé de bleu violet
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: abondantes, cylindriques à claviformes, plus ou moins renflés, souvent munis d'une tétine, à contenu pailleté réfringent, Sulfopipéronal positif (SP+) , 45-70 ± x 8-11 µm
+  pileocystides: abondantes, cylindriques à claviformes, plus ou moins renflées, souvent avec apex mucronés, à contenu pailleté réfringent, réaction sulfopipéronal positive (SP+) , 45-70 ± x 8-11 µm
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, avec contenu pailleté hyalin verdâtre et réfringent dans le R.C.Sds, Sulfovanilline positives (SV+), 65-78 x 10-12,5 µm en moyenne
-  poils: septés, en chaîne dont les cellules font de 12-21,5 x 3-8 µm en moyenne, avec la cellule finale qui se termine atténué 70-80 ± de long
+  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, à contenu pailleté réfringent dans le R.C.Sds, réaction sulfovanilline positive (SV+), 65-78 x 10-12,5 µm en moyenne
+  poils: septés, en chaîne dont les cellules font de 12-21,5 x 3-8 µm en moyenne, avec la cellule finale qui se termine atténuée 70-80 ± de longueur
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

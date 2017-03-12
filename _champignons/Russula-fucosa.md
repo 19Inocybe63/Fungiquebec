@@ -1,6 +1,6 @@
 ---
 nom: Russula fucosa
-date: 2017-02-15 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/718/20475447168_2094b83b00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20475447168/in/photolist-xcm26b
 album-flickr:
@@ -78,16 +78,16 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base, 40-45 x 11,5-13 μm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 40-45 x 11,5-13 μm en moyenne
   basidiospores: |
-    subglobuleuses vue de profil à largement elliptiques vue frontale, largement échinulées avec de rares réticulations, avec des proéminences jusqu’à 1,6 (1,7) µm de hauteur, à paroi mince, l’appendice hilaire pas toujours bien visible, hyalines dans le NaCl iso 0,9%, amyloïdes
+    largement elliptiques en vue frontale, subglobuleuses vues de profil, largement échinulées avec de rares réticulations, avec des proéminences jusqu’à 1,7 µm de hauteur, à paroi mince, l’appendice hilaire pas toujours bien visible, hyalines dans le NaCl iso 0,9%, amyloïdes
     8,4 [9,2; 9,6] 10,3 x 7,4 [7,9; 8,2] 8,7 µm
     Q = 1,1 [1,2; 1,18] 1,2; N = 30; C = 95%
     Me = 9,4 x 8 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, chênaies, Fagus, Fraxinus, Quercus
+  biotopes: pousse au sol, chênaies, <i>Fagus</i>, <i>Fraxinus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -147,7 +147,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

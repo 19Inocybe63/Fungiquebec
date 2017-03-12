@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: prononcé d’amande, ou de massepain (benzaldéhyde)
+  exhalaison: prononcée d’amande, ou de massepain (benzaldéhyde)
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

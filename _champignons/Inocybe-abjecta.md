@@ -1,6 +1,6 @@
 ---
 nom: Inocybe abjecta
-date: 2017-03-11 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/517/19736553568_86546edb7c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19736553568/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
 album-flickr:
@@ -100,7 +100,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: NON. Intoxication à apparition rapide (moins de 6 heures)
+  comestibilite: NON
   commentaires: 
   conidies: 
   conidiome: 
@@ -292,7 +292,9 @@ description:
   symptomes: |
     Apparition rapide entre 30 minutes et 2 heures après l'ingestion, mais qui n'entrainent pas la mort.
     Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
-  syndrome: muscarinien ou sudorien. La <i>muscarine</i> est la toxine responsable
+  syndrome: |
+    muscarinien ou sudorien
+    La toxine responsable est la muscarine
   synonymie: |
     Agaricus abjectus P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 2:172 (1878)
     Inocybe flocculosa var. abjecta (P. Karst) R. Heim, Encyclopédie Mycologique 1:387 (1931)

@@ -1,6 +1,6 @@
 ---
 nom: Russula sp.
-date: 2016-12-24 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/4/3864/15251402335_29cb990693_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15251402335
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes élancées, avec granulations mais souvent avec contenu vacuolaire situé à la base puis gravitant au sommet avec l’âge devenant guttulées à pluriguttulées verdâtre dans le Rouge Congo ammoniacal, tétrastérigmates entre 6-9 µm de longueur, non bouclées à la base, 43-50 x 9-10 µm
+  basides: claviformes élancées, avec granulations mais souvent avec contenu vacuolaire situé à la base puis gravitant au sommet avec l’âge devenant guttulées à pluriguttulées verdâtre dans le R.C.Am., tétrasporiques entre 6-9 µm de longueur, non bouclées à la base, 43-50 x 9-10 µm
   basidiospores: |
-    largement elliptiques à elliptiques, parfois subréniformes vue de profil, globuleuses à subglobuleuses vue frontale, verruqueuses avec verrues isolées et de rares connexifs, à paroi mince, proéminences entre 0,1-0,6 µm de hauteur, avec appendice hilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
+    globuleuses à subglobuleuses en vue frontale, largement elliptiques à elliptiques, parfois subréniformes vues de profil, verruqueuses avec verrues isolées et de rares connexifs, à paroi mince, proéminences entre 0,1-0,6 µm de hauteur, avec appendice hilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,2 [8,3; 8,9] 10 x 5,9 [6,3; 6,6] 7,1 µm
     Q = 1,2 [1,3; 1,4] 1,5; N = 22; C = 95%
     Me = 8,6 x 6,5 µm; Qe = 1,3
@@ -73,9 +73,9 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche, immuable
   chancre: 
-  chapeau: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon, avec couche supérieure de la cuticule finement rompue à la marge, mauve violacé avec de petites plaques rosâtres vers le centre
+  chapeau: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon, avec couche supérieure de la cuticule finement rompue à la marge ; mauve violacé avec de petites plaques rosâtres vers le centre
   cheilochrysocystides:
-  cheilocystides: peu abondantes, cylindriques, parfois submucronées, avec nécropigments, 38-65 x 7-9 µm, sulfovanilline négative (SV-)
+  cheilocystides: peu abondantes, cylindriques, parfois submucronées, avec nécropigments, 38-65 x 7-9 µm, réaction sulfovanilline négative (SV-)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -116,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: inconnue
+  distribution: inconnu
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: légèrement élastiques, mais pas aussi lardacées que R. cyanoxantha et R. variata, lamellules nombreuses 14+, bifurcations concentrées près du pied, blanches
+  lames: légèrement élastiques, mais pas aussi lardacées que <i>R. cyanoxantha</i> et <i>R. variata</i>, lamellules nombreuses 14+, bifurcations concentrées près du pied, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +208,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: inconnue
   phialoconidies: 
   pied: 58 x 22 mm Ø, cylindrique, caverneux, blanc
   pieds-steriles: 
@@ -218,7 +218,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes, cylindriques mucronées à largement mucronées, parfois avec apex moniliformes, avec nécropigments, 58-70 x 8-11 µm, sulfovanilline négative (SV-), sulfobenzaldéhyde ± (SBA ±, très faible)
+  pleurocystides: abondantes, cylindriques mucronées à largement mucronées, parfois avec apex moniliformes, avec nécropigments, 58-70 x 8-11 µm, réaction sulfovanilline négative (SV-), réaction sulfobenzaldéhyde ± (SBA ±, très faible)
   poils: 
   poils-basaux: 
   poils-caulinaires: 

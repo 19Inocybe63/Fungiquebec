@@ -1,6 +1,6 @@
 ---
 nom: Russula luteispora
-date: 2017-01-12 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/300/20000728785_173a5c29df_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20000728785/in/photolist-wtoXRt-wtp2DD
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, sous Quercus
+  biotopes: pousse au sol, dans la mousse, sous <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: commun
   phialoconidies: 
   pied: 33 x 5 mm Ø, cylindrique à subégal, subclaviforme, blanc, sans teinte rosée
   pieds-steriles: 
@@ -243,7 +243,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = lames légèrement rosé, orangé ; stipe légèrement rosé, orangé
+    FeSO<sub>4</sub> = lames légèrement rosées, orangées ; stipe légèrement rosé, orangé
   receptacle: 
   remarques: 
   repartition: 

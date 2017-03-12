@@ -1,6 +1,6 @@
 ---
 nom: Pholiota marginella
-date: 2017-03-09 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/3/2936/14229296896_c8eebbe971_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14229296896/in/photolist-rYoUD4-nHeZ4S-nFoSe7
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Yves Lamoureux
   - fongarium: cKc0137
@@ -33,7 +33,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7626/17047112517_7b379b404d_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/17047112517/in/photolist-rYoUD4-nHeZ4S-nFoSe7
     geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    altitude: 1.08 km
+    elevation: 100 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0156
@@ -43,7 +43,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0157
@@ -53,7 +53,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0158
@@ -63,7 +63,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: sans numéro
@@ -73,7 +73,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

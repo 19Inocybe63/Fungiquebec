@@ -214,7 +214,7 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: abondantes, remplies de pigments, 45-100 x 5-6 µm; réaction sulfobenzaldéhyde positif (SBA+)
+  pileocystides: abondantes, remplies de pigments, 45-100 x 5-6 µm, réaction sulfobenzaldéhyde positif (SBA+)
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes, polymorphes, claviformes, cylindriques, à apex pointu, cylindriques-claviformes, cylindriques mucronées, cylindriques avec apex subrostrés, lagéniformes à lagéniformes dont l’apex est souvent moniliformes, réaction pourpre dans le sulfobenzaldéhyde (SBA+) 43,5 [55,8; 67,2] 79,5 x 6,6 [9,7; 12,6] 15,7 µm en moyenne

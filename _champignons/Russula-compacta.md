@@ -1,6 +1,6 @@
 ---
 nom: Russula compacta
-date: 2016-12-10 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/4/3911/14982459949_433e4650ba_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14982459949/in/photolist-pQLeB8-oPX2mZ
 album-flickr:
@@ -59,7 +59,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    subglobuleuses à largement elliptiques vue de profil, et globuleuses à subglobuleuses vue frontale, verruqueuses subcrêtées à rarement échinulées subréticulées, avec des proéminences de 0,2-0,7 µm de hauteur, à paroi mince, avec appendice hilaire bien visible, à contenu homogène, verdâtres dans le NaCl iso 0,9%, amyloïdes
+    globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses subcrêtées à rarement échinulées subréticulées, avec des proéminences de 0,2-0,7 µm de hauteur, à paroi mince, avec appendice hilaire bien visible, à contenu homogène, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,1 [7,8; 8,1] 8,8 x 6,2 [6,9; 7,3] 8 µm
     Q = 1 [1,1] 1,2; N = 30; C = 95%
     Me = 7,9 x 7,1 µm; Qe = 1,1
@@ -125,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -217,7 +217,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: commun
   phialoconidies: 
   pied: 20-100 x 12-30 mm Ø, égal, ferme, concolore au chapeau, brun rougeâtre au froissement
   pieds-steriles: 

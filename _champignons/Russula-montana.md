@@ -1,6 +1,6 @@
 ---
 nom: Russula montana
-date: 2016-12-11 00:00:00
+date: 2017-03-11 00:00:00
 image: https://c2.staticflickr.com/4/3892/14520440129_c3a194f4b7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14520440129/in/photolist-ouvxsk-o8854t-o883Y2-orny4z
 album-flickr:
@@ -73,9 +73,9 @@ description:
   cellules-stromatiques: 
   chair: fragile, blanche
   chancre: 
-  chapeau: 35-70 mm Ø, convexe-étalé, marge rarement striée, rouge foncé à rouge grisâtre ou brun rougeâtre, parfois avec des zones décolorées, lisse, cuticule se pelant jusqu'au ⅔ du rayon
+  chapeau: 35-70 mm Ø, convexe-étalé, rouge foncé à rouge grisâtre ou brun rougeâtre, parfois avec des zones décolorées ; lisse, cuticule se pelant jusqu'au ⅔ du rayon, marge rarement striée
   cheilochrysocystides:
-  cheilocystides: mucronées, sulfobenzaldéhyde + (SBA+)
+  cheilocystides: mucronées, sulfobenzaldéhyde positive (SBA+)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, fragile, blanche
+  lames: adnées, serrées, fragiles, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

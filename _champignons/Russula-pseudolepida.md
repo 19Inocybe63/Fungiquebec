@@ -1,6 +1,6 @@
 ---
 nom: Russula pseudolepida
-date: 2016-12-12 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/9/8508/8452247883_0a41a31a34_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8452247883/in/photostream/
 album-flickr:
@@ -47,16 +47,16 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement claviformes, à 4 stérigmates, apparemment non bouclées à la base, 36,2 x 11,2 µm en moyenne
+  basides: piriformes à largement claviformes, tétrasporiques, boucles non observées à la base, 36,2 x 11,2 µm en moyenne
   basidiospores: |
-    globuleuses à subglobuleuses, verruqueuses, avec verrues isolées, quelques crêtes et connexifs, avec proéminences jusqu’à 0,6-1,1 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, amyloïdes en périphérie, hyalines, amyloïdes
+    globuleuses à subglobuleuses, verruqueuses, avec verrues isolées, quelques crêtes et connexifs, avec proéminences jusqu’à 1,1 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, amyloïdes en périphérie, hyalines, amyloïdes
     6,5 [7,3; 7,6] 8,4 x 5,8 [6,2; 6,3] 6,7 µm
     Q = 1 [1,2] 1,3; N = 35; C = 95%
     Me = 7,4 x 6,3 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus (Fagus grandifolia)
+  biotopes: pousse au sol, sous feuillus (<i>Fagus grandifolia</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -184,7 +184,7 @@ description:
   latex: 
   leptocystides: 
   macrocystides: 
-  macropleurocystides: fusiformes à cylindriques, Sulfovanilline positive (SV+)
+  macropleurocystides: fusiformes à cylindriques, réaction sulfovanilline positive (SV+)
   marge: 
   marge-et-face-externe: 
   mediostrate: 
@@ -214,7 +214,7 @@ description:
   pigments: 
   pileipellis: en trichoderme, formé d'hyphes dressées, avec terminaisons hyphales en forme de poils, sans hyphes incrustées
   pileitrame: 
-  pileocystides: cylindriques-clavées à fusiformes, parfois ± capitées, fortement Sulfovanilline positive (SV +), 65 x 7,2 µm en moyenne
+  pileocystides: cylindriques-clavées à fusiformes, parfois ± capitées, réaction sulfovanilline positive (SV +), 65 x 7,2 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: semblables aux macropleurocystides

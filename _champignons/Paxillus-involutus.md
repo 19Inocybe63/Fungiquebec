@@ -1,6 +1,6 @@
 ---
 nom: Paxillus involutus
-date: 2017-03-09 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5710/21493893579_e5509540a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21493893579/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/2/1474/24821637815_ed31e7688a_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/24821637815/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
     geolocalisation: 
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0592
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

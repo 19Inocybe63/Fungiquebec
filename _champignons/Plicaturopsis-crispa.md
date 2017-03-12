@@ -1,6 +1,6 @@
 ---
 nom: Plicaturopsis crispa
-date: 2017-03-09 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5754/22047993816_fd80d44ac8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/22047993816/in/photolist-CCLgNz-yFJm6a-zAiJqq
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°56'39.7"N 71°18'14.0"O
-    altitude: 1.21. km
+    elevation: 212 m
     determinee: 
     confirmee: Roland Labbé
   - fongarium: cKc0487
@@ -33,7 +33,7 @@ collections:
       miniature: https://c2.staticflickr.com/2/1638/24044875593_714396c227_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/24044875593/in/photolist-CCLgNz-yFJm6a-zAiJqq
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

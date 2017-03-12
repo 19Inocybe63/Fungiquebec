@@ -1,6 +1,6 @@
 ---
 nom: Inocybe mixtilis
-date: 2017-03-11 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/320/19646769673_3aa100cc36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19646769673/in/photolist-FW6AsL-vW7Q9a-w4hTQt-w3DWcd/
 album-flickr:
@@ -99,7 +99,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: NON. Intoxication à apparition rapide (moins de 6 heures)
+  comestibilite: NON
   commentaires: |
     De Claude Kaufholtz-Couture. « Les cristaux apicaux de la collection cKc0341 et cKc0391. Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des Lamprocystides (Lamprocheilocystides et Lampropleurocystides) possède entre 5 et 10 crochets. Chaque sommet se compose de 5 à 10 (11) crochets, dont 2 (3) sont bifides et les autres entiers. C'est avec le temps que l'on pourra tirer une conclusion de cette observation. »
     « La Nigrosine donne de beaux contrastes aux lamprocystides et colore leur contenu. »
@@ -298,9 +298,11 @@ description:
   subiculum: 
   substrat: 
   symptomes: |
-    Apparition rapide entre 30 minutes et 2 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
     Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
-  syndrome: muscarinien ou sudorien. La <i>muscarine</i> est la toxine responsable
+  syndrome: |
+    muscarinien ou sudorien
+    La toxine responsable est la muscarine.
   synonymie: |
     Agaricus mixtilis Britzelm., Berichte des Naturhistorischen Vereins Augsburg 28:152 (1885)
   systeme-hyphal: 

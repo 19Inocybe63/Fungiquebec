@@ -1,6 +1,6 @@
 ---
 nom: Russula romagnesiana
-date: 2016-12-20 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/485/19540518869_9cc363d8bc_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19540518869/in/photolist-FubZvg-vLJgtK-vLJm7x
 album-flickr:
@@ -49,13 +49,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: longuement claviformes, tétrastérigmates, non bouclées à la base, 47,2 - 61,0(61,2) × 10,6 - 12,6 µm
+  basides: longuement claviformes, tétrasporiques, non bouclées à la base, 47,2 - 61,0(61,2) × 10,6 - 12,6 µm
   basidiospores: |
     globuleuses à subglobuleuses, verruqueuses-échinulées moyennes et isolées, ne formant pas de zones proprement réticulées, peu aculéolées avec proéminences entre 0,5-1,5 µm de hauteur, à paroi mince, appendice hilaire petit, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (6,8) 7 - 7,8 (7,9) × (6,2) 6,4 - 7,1 (7,3) µm
     Q = 1 - 1,1 (1,2) ; N = 30
     Me = 7,4 × 6,8 µm ; Qe = 1,1
-    (Piximètre, formule classique ; mesures issues de sporée dans le NaCl iso 0,9%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -120,7 +120,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -137,7 +137,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: faible, mais prononcé de crustacé une fois déshydraté
+  exhalaison: faible, mais prononcée de crustacé une fois déshydraté
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -163,7 +163,7 @@ description:
   hyphes-gleopleres: 
   hyphes-hymeniales: 
   hyphes-ligatives: 
-  hyphes-oleiferes: nombreuses et bien visibles dans la Sulfovanilline
+  hyphes-oleiferes: nombreuses et bien visibles dans la sulfovanilline
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 
@@ -219,7 +219,7 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: atypiques, cylindriques à clavées, septées, Sulfoaldéhyde négatif
+  pileocystides: atypiques, cylindriques à clavées, septées, réaction sulfoaldéhyde négative
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: semblables aux cheilocystides

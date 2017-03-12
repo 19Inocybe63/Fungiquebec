@@ -1,6 +1,6 @@
 ---
 nom: Russula seperina
-date: 2016-12-20 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5583/15011778666_ffc8af6d78_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15011778666/in/photolist-qF7LLH-oSxhN7-oC5sZm
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à claviformes élancées, tétrastérigmates, non bouclées à la base, 37,7 [45,2; 51] 58,5 x 10,3 [11,6; 12,6] 13,9 µm en moyenne
+  basides: claviformes à claviformes élancées, tétrasporiques, non bouclées à la base, 37,7 [45,2; 51] 58,5 x 10,3 [11,6; 12,6] 13,9 µm en moyenne
   basidiospores: |
-    subglobuleuses à largement elliptiques vue de profil à globuleuses vue frontale, verruqueuses-échinulées, avec quelques rares connexifs, avec proéminences jusqu’à 0,9 µm, aussi < 1,0 µm de hauteur, à paroi mince, appendice hilaire pas toujours bien visible, ainsi que la plage hilaire 2,2-3,5 µm, à contenu uniguttulé, subhyalines dans le NaCl iso 0,9%, amyloïdes
+    globuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses-échinulées, avec quelques rares connexifs, avec proéminences jusqu’à 0,9 µm, aussi < 1,0 µm de hauteur, à paroi mince, appendice hilaire pas toujours bien visible, ainsi que la plage hilaire 2,2-3,5 µm, à contenu uniguttulé, subhyalines dans le NaCl iso 0,9%, amyloïdes
     7,6 [8,7; 9,2] 10,4 x 6,5 [7,2; 7,5] 8,3 µm
     Q = 1,1 [1,2] 1,3; N = 30; C = 95%
     Me = 9 x 7,4 µm; Qe = 1,2
@@ -115,7 +115,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à occasionnelle
+  distribution: rare à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -214,10 +214,10 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: abondantes, gorgées de pigments, 45-100 x 5-6 µm; Sulfobenzaldéhyde positif (SBA+)
+  pileocystides: abondantes, remplies de pigments, 45-100 x 5-6 µm; réaction sulfobenzaldéhyde positif (SBA+)
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes, polymorphes, claviformes, cylindriques à apex pointue, cylindriques-claviformes, cylindriques mucronées, cylindriques avec apex subrostrées, lagéniformes à lagéniformes dont l’apex est souvent moniliformes, pourprées dans le Sulfobenzaldéhyde (SBA+) 43,5 [55,8; 67,2] 79,5 x 6,6 [9,7; 12,6] 15,7 µm en moyenne
+  pleurocystides: abondantes, polymorphes, claviformes, cylindriques, à apex pointu, cylindriques-claviformes, cylindriques mucronées, cylindriques avec apex subrostrés, lagéniformes à lagéniformes dont l’apex est souvent moniliformes, réaction pourpre dans le sulfobenzaldéhyde (SBA+) 43,5 [55,8; 67,2] 79,5 x 6,6 [9,7; 12,6] 15,7 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

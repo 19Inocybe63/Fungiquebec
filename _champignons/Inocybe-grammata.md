@@ -291,7 +291,9 @@ description:
   symptomes: |
     Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
     Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
-  syndrome: muscarinien ou sudorien. La toxine responsable est la muscarine
+  syndrome: |
+    muscarinien ou sudorien
+    La toxine responsable est la muscarine
   synonymie: |
     Astrosporina grammata (Quél.) Lebedeva (1949)
   systeme-hyphal: 

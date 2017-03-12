@@ -186,7 +186,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées puis étroitement adnexées, étroites, 2-5 mm de largeur, avec lamellules, serrées à très serrées, blanches à pâles puis brun grisâtre ± teintées de violet ou de gris beige, à arêtes crénelées, blanchâtres
+  lames: adnées puis étroitement adnexées, étroites, 2-5 mm de largeur, avec lamellules, serrées à très serrées, blanches à blanchâtres puis brun grisâtre ± teintées de violet ou de gris beige, à arêtes crénelées, blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

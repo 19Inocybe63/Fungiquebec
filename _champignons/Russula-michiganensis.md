@@ -1,6 +1,6 @@
 ---
 nom: Russula michiganensis
-date: 2016-11-02 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/457/19437139763_3d6cc665ec_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19437139763/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
 album-flickr:
@@ -67,9 +67,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à utriformes, tétrastérigmates
+  basides: claviformes à utriformes, tétrasporiques
   basidiospores: |
-    globuleuses à subglobuleuses vue de front, subglobuleuses à largement elliptiques vue de profil, finement à moyennement verruqueuses, finement et partiellement réticulées, avec des proéminences entre 0,1-0,4 µm de hauteur, à paroi mince, pore germinatif parfois observable ± 1 µm Ø, plage hilaire lisse et amyloïde, avec appendice hilaire visible, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%, amyloïdes
+    globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, finement à moyennement verruqueuses, finement et partiellement réticulées, avec des proéminences entre 0,1-0,4 µm de hauteur, à paroi mince, pore germinatif parfois observable ± 1 µm Ø, plage hilaire lisse et amyloïde, avec appendice hilaire visible, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%, amyloïdes
     (6,6) 7,4-8,5 (8,7) x (5,6) 5,9-7 (7,1) µm
     Q = (1,1) 1,2 - 1,3 (1,5); N = 30
     Me = 7,9 x 6,4 µm; Qe = 1,2
@@ -94,7 +94,7 @@ description:
   chair: ferme, même très dure, épaisse, cassante, blanche, rougeâtre-grisâtre et noircissant à la coupe
   chancre: 
   chapeau: 60-100 mm Ø, convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement
-  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, Sulfoaldéhydes positifs (SA+), 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
+  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, sulfoaldéhydes positifs (SA+) ; 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -194,7 +194,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: blanchâtres, très serrées, avec lamelles et lamellules abondantes, se tachent de noir au froissement
+  lames: très serrées, avec lamelles et lamellules abondantes, blanchâtres, se tachent de noir au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -234,7 +234,7 @@ description:
   pileitrame: 
   pileocystides: absentes
   plasmode: 
-  pleurocystides: nombreuses, semblable au 1er types des cheilocystides, Sulfoaldéhydes positifs (SA+)
+  pleurocystides: nombreuses, semblable au 1er types des cheilocystides, sulfoaldéhydes positifs (SA+)
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -266,7 +266,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = lames rosé ; pas de coloration sur le stipe
+    FeSO<SUB>4</SUB> = lames rosées ; pas de coloration sur le stipe
   receptacle: 
   remarques: Lors de la coupe, la chair est blanche, devient rougeâtre-grisâtre sale, puis noircit.
   repartition: 

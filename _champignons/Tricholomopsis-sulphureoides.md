@@ -1,6 +1,6 @@
 ---
 nom: Tricholomopsis sulphureoides
-date: 2016-11-03 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8164/29608929000_0859bae19b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29608929000/in/photolist-M7rv2S-Monoq9
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune pâle, immuable
   chancre: 
-  chapeau: 11-55 mm Ø, convexe-campanulé, légèrement déprimé, mamelonné-ombonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche, comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé
+  chapeau: 11-55 mm Ø, convexe-campanulé, légèrement déprimé, mamelonné-umbonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche ; comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -109,7 +109,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -169,7 +169,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, serrées, concolore au chapeau, dont l'arête lamellaire semble givrée, fimbriée, présence de lamelles et de lamellules
+  lames: adnexées, serrées, concolores au chapeau, dont l'arêtes lamellaires semblent givrées, fimbriées, présence de lamelles et de lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

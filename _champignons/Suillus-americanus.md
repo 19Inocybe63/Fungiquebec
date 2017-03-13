@@ -1,6 +1,6 @@
 ---
 nom: Suillus americanus
-date: 2017-01-18 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/1/281/19260307573_8863d5b233_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19260307573/in/photolist-vkPhpN-vkY7qv
 album-flickr:
@@ -22,8 +22,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    elevation: 90 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: jaune moutarde, devenant brun rougeâtre à la coupe
   chancre: 
-  chapeau: 30-100 mm, convexe à largement convexe, à marge enroulée lorsque jeune, avec restes vélaire suspendu à la marge, blanc à jaune brunâtre, visqueux à glutineux à l’humidité, jaune vif, parfois jaune plus foncé, souvent avec des taches brun marron à rougeâtre
+  chapeau: 30-100 mm, convexe à largement convexe, à marge enroulée au début, avec restes vélaires suspendus à la marge, blanc à jaune brunâtre, visqueux à glutineux à l’humidité, jaune vif, parfois jaune plus foncé, souvent avec des taches brun marron à rougeâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: souvent décurrente, concolore à la face poroïde, 7-10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -112,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -229,7 +228,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: anguleux et parfois allongés radialement, larges, 1-2 mm de largeur
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -274,6 +273,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: anguleux et parfois allongés radialement, larges, 1-2 mm de largeur, souvent décurrents, concolores à la face poroïde, 7-10 mm de longueur
   type: 
   typique: 
   voile: 

@@ -89,7 +89,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 20-60 mm Ø, convexe puis étalé, légèrement omboné et parfois légèrement déprimé, pruineux à micacé, squamuleux, hygrophane, orangé à brun orangé, beige rosé pâle au sec, à marge blanchâtre, à marge incurvée à droite, entière à ondulée, souvent érodée
+  chapeau: 20-60 mm Ø, convexe puis étalé, légèrement umboné et parfois légèrement déprimé, pruineux à micacé, squamuleux, hygrophane, orangé à brun orangé, beige rosé pâle au sec, à marge blanchâtre, à marge incurvée à droite, entière à ondulée, souvent érodée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

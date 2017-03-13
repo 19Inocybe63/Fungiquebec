@@ -109,7 +109,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: NON ; Champignon MORTEL
+  comestibilite: NON ; champignon MORTEL
   commentaires: 
   conidies: 
   conidiome: 

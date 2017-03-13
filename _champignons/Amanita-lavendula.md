@@ -1,6 +1,6 @@
 ---
 nom: Amanita lavendula
-date: 2017-03-06 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5651/30199932386_91347b7511_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30199932386/in/photolist-N1EqdS-N1ExKq
 album-flickr:
@@ -80,7 +80,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Rod E. Tulloss. « I believe that in eastern North America, we should label photographs... of fungi like this as Amanita lavendula group. In recent years, Dr. Karen Hughes and others have established that we have three taxa that are very similar in overall appearance that we have been calling “Amanita citrina”. The one with a valid name is Amanita lavendula (nomenclatural synonym of Amanita mappa var. lavendula (Coker). In the group of three, this species is distinguished by its broadly ellipsoid and smaller spores. This species is treated here www.amanitaceae.org?Amanita%20lavendula. For some more information about the species and its name, you can go here www.researchgate.net/. The other two taxa have nearly identical, larger, subglobose spores. I do not yet know how to separate them morphologically. The three species are separable by genetic means at present... To be explicit, all three taxa are similar macroscopically. All three will turn purple when the weather gets to one or two degrees above freezing for a prolonged period (for example, overnight). »
+    De Rod E. Tulloss. « I believe that in eastern North America, we should label photographs... of fungi like this as Amanita lavendula group. In recent years, Dr. Karen Hughes and others have established that we have three taxa that are very similar in overall appearance that we have been calling “Amanita citrina”. The one with a valid name is Amanita lavendula (nomenclatural synonym of Amanita mappa var. lavendula (Coker). In the group of three, this species is distinguished by its broadly ellipsoid and smaller spores. This species is treated here www.amanitaceae.org?Amanita%20lavendula. For some more information about the species and its name, you can go here www.researchgate.net/. The other two taxa have nearly identical, larger, subglobose basidiospores. I do not yet know how to separate them morphologically. The three species are separable by genetic means at present... To be explicit, all three taxa are similar macroscopically. All three will turn purple when the weather gets to one or two degrees above freezing for a prolonged period (for example, overnight). »
     De Claude Kaufholtz-Couture. « Amanita groupe lavendula ».
   conidies: 
   conidiome: 

@@ -1,6 +1,6 @@
 ---
 nom: Entoloma cf. incarnatofuscescens
-date: 2017-03-03 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/8/7260/7808924042_8d013e0dc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7808924042/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
 album-flickr:
@@ -53,7 +53,7 @@ description:
     7,7 [8,3; 8,7] 9,4 x 6,2 [6,8; 7,2] 7,9 µm
     Q = 1,1 [1,2; 1,3] 1,4; N = 21; C = 95%
     Me = 8,5 x 7 µm; Qe = 1,2
-    Il faut tenir compte que j'ai mesuré des spores issues des lames
+    (Il faut tenir compte que j'ai mesuré des basidiospores issues des lames)
   basidioles: 
   basidiome: 
   bibliographies: 

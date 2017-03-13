@@ -1,6 +1,6 @@
 ---
 nom: Turbinellus floccosus
-date: 2016-11-27 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8474/29042223936_e6c819caf1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29042223936/in/photolist-LfmZmU
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 10-50 x 10-30 mm Ø, peu distinct, atténué vers la base, plein puis creux avec l'âge, sublisse, blanchâtre ou crème
   pieds-steriles: 

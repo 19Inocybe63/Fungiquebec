@@ -1,13 +1,13 @@
 ---
 nom: Crepidotus cesatii var. subsphaerosporus
-date: 2017-03-03 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/9/8467/8084202795_cc78c9e611_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084202795/in/photolist-dxUEnx-djnDQP-dxXe3x
 album-flickr:
   - 72157675223253036
 
 details:
-  nom-francais: Crepidote à spores sphériques
+  nom-francais: Crepidote à basidiospores sphériques
   autorites: (J.E. Lange) Senn-Irlet
   ordre: Agaricales
   famille: Inocybaceae
@@ -51,7 +51,7 @@ description:
   basidiospores: |
     subglobuleuses à largement ellipsoïdes, ponctuées, échinulées, à paroi légèrement épaissie, avec apicule excentré, à contenu uniguttulé, brun jaunâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, partiellement cyanophiles
     7,3 x 5,6 µm en moyenne; Q moyen = 1,3
-    échantillonnage, 30 spores
+    échantillonnage, 30 basidiospores
   basidioles: 
   basidiome: 
   bibliographies: 

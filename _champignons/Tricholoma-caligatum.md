@@ -1,6 +1,6 @@
 ---
 nom: Tricholoma caligatum
-date: 2016-11-08 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/3/2854/9967543876_3dc771a34b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9967543876/in/photolist-gbMWp6-gbNgwL
 album-flickr:
@@ -22,8 +22,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 50-120 x 20-30 mm Ø, subégal ou atténué à la base, plein, sec, lisse et blanchâtre vers l'apex, guêtré plus bas d'une armille se réduisant avec l'âge en écailles brunes sur fond blanc, et s'ouvrant au sommet en un anneau membraneux, blanc sur le dessus, brun en dessous, parfois très petit
   pieds-steriles: 

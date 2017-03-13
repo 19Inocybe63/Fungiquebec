@@ -1,6 +1,6 @@
 ---
 nom: Tuber gardneri
-date: 2016-11-15 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/1/360/19748538615_4f93219236_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19748538615/in/photostream/
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/1/366/19797225815_91ec6199aa_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/19797225815/in/photostream/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous Quercus rubra, Betula papyrifera, Pinus resinosa, Pinus strobus, Acer saccharum
+  biotopes: pousse dans le sol, sous <i>Quercus rubra</i>, <i>Betula papyrifera</i>, <i>Pinus resinosa</i>, <i>Pinus strobus</i>, <i>Acer saccharum</i>
   boucles: 
   brachybasidioles: 
   calicule: 

@@ -48,7 +48,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclée à la base 29,74-30,49 x 6,7 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base 29,74-30,49 x 6,7 µm en moyenne
   basidiospores: |
     elliptiques à subcylindriques, lisses, à paroi mince, avec petit appendice hilaire et une petite dépression supra hilaire, à contenu uniguttulé à variable, hyalines verdâtres dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     (9,4) 9,6 - 10,9 (11,6) x (3,3) 3,5 - 3,9 (4,4) µm

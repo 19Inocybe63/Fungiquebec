@@ -1,6 +1,6 @@
 ---
 nom: Suillus spraguei
-date: 2016-11-02 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3868/14774195389_5de782aa3c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14774195389/in/photolist-ovxzgY-ovxByH-prxbdT
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7526/15385200923_da10196b1b_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/15385200923/in/photolist-ovxzgY-ovxByH-prxbdT
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    cylindriques à elliptiques vue de profil à cylindriques à fusiformes à longuement elliptiques vue frontale, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl iso 0,9%, inactives dans le melzer, non cyanophiles
+    cylindriques à fusiformes à longuement elliptiques en vue frontale, cylindriques à elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     8,9 [9,6; 10] 10,7 x 3,6 [3,9; 4] 4,2 µm
     Q = 2,3 [2,5] 2,7; N = 30; C = 95%
     Me = 9,8 x 3,9 µm; Qe = 2,5
@@ -62,7 +62,7 @@ description:
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: cylindriques, à 2 stérigmates, non bouclées à la base, de 30,7 x 6,9 µm en moyenne
+  caulobasides: cylindriques, bisporiques, non bouclées à la base, de 30,7 x 6,9 µm en moyenne
   caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
@@ -95,7 +95,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: souvent subdécurrente, non facilement détachable de la chair du chapeau, jaune ocré pâle, brunissant avec l'âge, 4-8 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -113,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -226,7 +225,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: anguleux et un peu disposés radialement, larges, 3-5 mm de largeur
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -276,6 +275,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: anguleux et un peu disposés radialement, larges, 3-5 mm de largeur, souvent subdécurrents, non facilement détachable de la chair du chapeau, jaune ocré pâle, brunissant avec l'âge, 4-8 mm de longueur
   type: 
   typique: 
   voile: 

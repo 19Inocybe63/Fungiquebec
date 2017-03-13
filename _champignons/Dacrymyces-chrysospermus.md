@@ -7,7 +7,7 @@ album-flickr:
   - 72157674177774881
 
 details:
-  nom-francais: Trémelle à spores jaunes
+  nom-francais: Trémelle à basidiospores jaunes
   autorites: Berk. & M.A. Curtis
   ordre: Dacrymycetales
   famille: Dacrymycetaceae

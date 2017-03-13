@@ -260,7 +260,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: faiblement acre
+  saveur: faiblement âcre
   sclerocystides: 
   sclerote: 
   soies: 

@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7523/15466442337_86e36f97a9_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/15466442337/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0470
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

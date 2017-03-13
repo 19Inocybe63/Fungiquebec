@@ -1,6 +1,6 @@
 ---
 nom: Pluteus hongoi
-date: 2017-03-10 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/8/7308/27250982564_dd1c4e21c2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27250982564/in/photolist-JtAhvm-Hw61aV-Hw5pGY
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7457/27879218982_0eb08ae404_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/27879218982/in/photolist-JtAhvm-Hw61aV-Hw5pGY
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: Alfredo Justo (provisoire)
     confirmee: 
 

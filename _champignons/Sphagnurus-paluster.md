@@ -1,6 +1,6 @@
 ---
 nom: Sphagnurus paluster
-date: 2016-11-02 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3881/14345415626_ee4db60ceb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14345415626/in/photolist-qad15s-nRE1hb
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8646/15856752498_68f26087a9_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/15856752498/in/photolist-qad15s-nRE1hb
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrastérigmates, non bouclées à la base, à granulations sidérophiles, 20 [22,7; 25,2] 27,9 x 6,5 [7,2; 7,8] 8,6 µm
+  basides: claviformes, tétrasporiques, non bouclées à la base, à granulations sidérophiles, 20 [22,7; 25,2] 27,9 x 6,5 [7,2; 7,8] 8,6 µm
   basidiospores: |
-    ovoïdes vue de front à elliptiques vue de profil, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique 0,9%, inactives dans le melzer, faiblement cyanophiles
+    ovoïdes en vue frontale à elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, à contenu variable, hyalines dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, faiblement cyanophiles
     6,2 [7; 7,4] 8,2 x 3,9 [4,4; 4,6] 5,1 µm
     Q = 1,4 [1,6] 1,8; N = 30; C = 95%
     Me = 7,2 x 4,5 µm; Qe = 1,6
@@ -73,7 +73,7 @@ description:
   cellules-stromatiques: 
   chair: mince, brun, concolore au chapeau
   chancre: 
-  chapeau: 10-20 (30) mm Ø, conique à campanulé-convexe lorsque jeune, puis étalé, papillé, lisse, finement feutré au sec, subhygrophane, gris, gris-brun, brun ocre à brun pâle avec reflets olive par endroits à l'humidité, grisâtre à alutacé pâle au sec, à marge enroulée
+  chapeau: 10-20 (30) mm Ø, conique à campanulé-convexe au début, puis étalé, papillé, lisse, finement feutré au sec, subhygrophane, gris, gris-brun, brun ocre à brun pâle avec reflets olive par endroits à l'humidité, grisâtre à alutacé pâle au sec, à marge enroulée
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -81,7 +81,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Sphagnurus paluster peut être tenue facilement pour une Mycène. Cependant, cette espèce pousse habituellement dans la mousse, tourbière. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -236,7 +236,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: Lorsque l’on dépose un petit morceau déshydraté de lames dans le Rouge Congo SDS, ce dernier devient noir, et ensuite le noir s’atténue pour disparaître complètement.
   receptacle: 
-  remarques: Sphagnurus paluster peut être tenue facilement pour une Mycène. Cependant, cette espèce pousse habituellement dans la mousse, tourbière.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

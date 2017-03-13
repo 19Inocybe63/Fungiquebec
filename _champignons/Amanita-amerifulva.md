@@ -267,7 +267,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: blanche
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

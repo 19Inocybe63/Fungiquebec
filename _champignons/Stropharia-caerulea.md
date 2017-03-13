@@ -1,6 +1,6 @@
 ---
 nom: Stropharia caerulea
-date: 2016-11-02 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8191/8122273690_424d6d5230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8122273690/in/photolist-dnJMnf-dnJFjn-dDwhHj-dnJLZy
 album-flickr:
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: capitées à largement capitées tétrastérigmates
+  basides: capitées à largement capitées tétrasporiques
   basidiospores: |
-    ellipsoïdes, lisses, à paroi légèrement épaissie, apiculés excentré, petit pore germinatif, à contenu uniguttulé à granuleux, brun à brun pâle, inactive dans le melzer, non cyanophiles
+    ellipsoïdes, lisses, à paroi légèrement épaissie, apiculés excentré, petit pore germinatif, à contenu uniguttulé à granuleux, brun à brun pâle, pas de réaction dans le melzer, non cyanophiles
     7,4 [8; 8,3] 8,8 x 4,6 [5; 5,1] 5,5 µm
     Q = 1,5 [1,6] 1,7; N = 30; C = 95%
     Me = 8,1 x 5 µm; Qe = 1,6
@@ -73,7 +73,7 @@ description:
   cellules-stromatiques: 
   chair: mince, bleuâtre au début, puis paille, bleu-vert vers la base du pied
   chancre: 
-  chapeau: 20-70 mm Ø, hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtre décoloré par endroit, muni de petites méchules blanches au pourtour
+  chapeau: 20-70 mm Ø, hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtres décolorées par endroits, muni de petites méchules blanches au pourtour
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, par une dent décurrentes ou échancrées, modérément serrées à très serrées, ventrue, brun pâle ou gris-brun quand lorsque jeune, avec reflets violets gris puis violacées, violet-gris
+  lames: adnées, décurrentes par une dent, échancrées, modérément serrées à très serrées, ventrues, brun pâle ou gris-brun au début, avec reflets violet gris puis violacés, violet-gris
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +206,7 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 4-11 x 3-15 mm Ø, égal à légèrement élargi vers la base, ferme, fragile, plein lorsque jeune puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous, glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc
+  pied: 4-11 x 3-15 mm Ø, égal à légèrement élargi vers la base, ferme, fragile, plein au début puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous, glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis

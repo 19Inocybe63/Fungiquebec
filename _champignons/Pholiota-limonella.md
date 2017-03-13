@@ -209,7 +209,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 10-80 x 2-6 mm Ø, cylindrique, parfois élargi vers l'apex et la base, avec zone annuliforme à environ 15-20 mm de l'apex, sec, blanchâtre à l'apex, jaunâtre à brun orange pâle vers la base, grossièrement fibrilleux au-dessus de la zone annuliforme, finement squamuleux, d'abord blanc, puis brun roux à cause des spores
+  pied: 10-80 x 2-6 mm Ø, cylindrique, parfois élargi vers l'apex et la base, avec zone annuliforme à environ 15-20 mm de l'apex, sec, blanchâtre à l'apex, jaunâtre à brun orange pâle vers la base, grossièrement fibrilleux au-dessus de la zone annuliforme, finement squamuleux, d'abord blanc, puis brun roux à cause des basidiospores
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis

@@ -7,7 +7,7 @@ album-flickr:
   - 72157678499858696
 
 details:
-  nom-francais: Inocybe à jolies spores
+  nom-francais: Inocybe à jolies basidiospores
   autorites: Quél.
   ordre: Agaricales
   famille: Inocybaceae

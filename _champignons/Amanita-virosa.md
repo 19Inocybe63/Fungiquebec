@@ -109,7 +109,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilité: NON ; mortel
+  comestibilite: MORTEL
   commentaires: 
   conidies: 
   conidiome: 

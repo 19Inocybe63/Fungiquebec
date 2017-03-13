@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°51'19.0"N 71°06'38.2"O
-    altitude: 6.13 km
+    elevation: 60 m
     determinee: 
     confirmee: Roland Labbé
   - fongarium: cKc0255
@@ -32,8 +32,8 @@ collections:
       numero: cKc0255-0045
       miniature: https://c2.staticflickr.com/8/7510/15608521858_d3848785a1_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/15608521858/in/photolist-peGt6U-oXf7BF-pMgKKQ
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

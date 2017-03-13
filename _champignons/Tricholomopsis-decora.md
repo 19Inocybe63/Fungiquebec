@@ -1,6 +1,6 @@
 ---
 nom: Tricholomopsis decora
-date: 2016-11-03 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8520/8635746662_876994de16_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8635746662/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
 album-flickr:
@@ -23,9 +23,9 @@ collections:
       miniature: https://c1.staticflickr.com/9/8545/8644268445_ecaccb931c_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8644268445/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
     geolocalisation: 46°57'05.82"N 71°17'45.00"O
-    altitude: 537 m
+    elevation: 225 m
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Roland Labbé
 
 description:
   acanthocytes: 
@@ -47,9 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: étroitement clavées à claviformes, parfois à contenu guttuleux, granulaires, à 1, 2, 3 ou 4 stérigmates, bouclées à la base, 22-39 x 6-7,5 µm
+  basides: étroitement clavées à claviformes, parfois à contenu guttuleux, granulaires, bisporiques à tétrasporiques, bouclées à la base, 22-39 x 6-7,5 µm
   basidiospores: |
-    largement ellipsoïdes à ellipsoïdes, lisses, à paroi légèrement épaissie, de 05-06 µm, avec petit appendice hilaire, à contenu uniguttulé et à granulations, hyalines, verdâtres dans le NH<SUB>4</SUB>OH 2%, inactives dans le melzer, partiellement cyanophiles
+    largement ellipsoïdes à ellipsoïdes, lisses, à paroi légèrement épaissie entre 05-06 µm, avec petit appendice hilaire, à contenu uniguttulé ou à granulations, hyalines dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer, partiellement cyanophiles
     5,5 [6,4; 7] 7,8 x 4,2 [4,9; 5,4] 6,2 µm
     Q = 1,1 [1,2; 1,3] 1,5; N = 16; C = 95%
     Me = 6,7 x 5,2 µm; Qe = 1,3
@@ -73,8 +73,8 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, mince vers la marge, ferme puis flaccide, jaune
   chancre: 
-  chapeau: 30-80 mm Ø, conique-convexe puis convexe à étalé, subomboné, déprimé au centre, avec fines écailles fibrilleuses brun foncé, brun noirâtre à brun olive, disposées concentriquement et surtout au centre, sur fond jaune à jaune doré foncé, à marge incurvée au début
-  cheilocystides: polymorphes abondantes en touffes, cylindriques à largement cylindriques, piriformes à largement clavées, sphéropédonculées, parfois subrostrées dont la base est plutôt cylindriques, parfois subfusiformes, parfois subcapitées, arête lamellaire stérile
+  chapeau: 30-80 mm Ø, conique-convexe puis convexe à étalé, subumboné, déprimé au centre, avec fines écailles fibrilleuses brun foncé, brun noirâtre à brun olive, disposées concentriquement et surtout au centre, sur fond jaune à jaune doré foncé, à marge incurvée au début
+  cheilocystides: polymorphes abondantes en touffes, cylindriques à largement cylindriques, piriformes à largement clavées, sphéropédonculées, parfois subrostrées dont la base est plutôt cylindriques, parfois subfusiformes, parfois subcapitées
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -113,7 +113,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, adnexées, larges, avec lammeles et lamellules, serrées à très serrées, jaunes à jaune doré, à arêtes entières ou devenant légèrement crénelées, parfois brunes
+  lames: adnées, adnexées, larges, avec lamelles et lamellules, serrées à très serrées, jaunes à jaune doré, à arêtes entières ou devenant légèrement crénelées, parfois brunes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 20-70 x 3-10 mm Ø, cylindrique, parfois excentré, parfois flexueux, plein puis creux, fibrilleux à squamuleux, jaune pâle, jaune à jaune soufre
   pieds-steriles: 

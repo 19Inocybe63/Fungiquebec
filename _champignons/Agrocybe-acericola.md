@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe acericola
-date: 2017-03-05 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/8/7418/9186177091_c21d995901_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9186177091/in/photolist-rFhzHk-nZyrDb-of4xZb-eZZW13-eZKypD
 album-flickr:
@@ -273,7 +273,6 @@ description:
   soies: 
   soies-hymeniales: 
   sporee: brun à brun foncé, brun cannelle
-  spores: 
   spherocytes: 
   sporocystes: 
   stipitipellis: 

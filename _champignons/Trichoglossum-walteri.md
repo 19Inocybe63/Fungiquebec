@@ -1,6 +1,6 @@
 ---
 nom: Trichoglossum walteri
-date: 2016-11-02 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/6/5831/21330589130_0e890b0721_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21330589130/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0468
@@ -33,7 +33,7 @@ collections:
       miniature: https://c2.staticflickr.com/2/1692/26474496531_9722a15703_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/26474496531/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0472
@@ -43,7 +43,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -64,11 +64,11 @@ description:
     Kaufholtz-Couture, C. Clé des espèces du genre Trichoglossum au Québec, Publication libre, avril 2016, 3 p.
   ascome: jusqu'à 90 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts
   ascospores: |
-    cylindriques étroites, fusiformes à claviformes, lisses, parfois entre 2 et 3 septa, plus souvent à 7 septa, fuligineuses à brun pâle dans l’eau glycérinée 20%
+    cylindriques étroites, fusiformes à claviformes, lisses, parfois entre 2 et 3 septa, plus souvent à 7 septa, fuligineuses à brun pâle dans E.G. 20%
     (84,6) 87,9 - 97,8 (100,3) × (5) 5,3 - 6 (6,1) µm
     Q = (14,5) 14,8 - 17,9 (18,3) ; N = 30
     Me = 92,7 × 5,6 µm ; Qe = 16,5
-    (Piximètre: formule classique)
+    (Piximètre, formule classique)
   asques: fusiformes à clavés, atténués vers l'apex, à 8 spores parallèles, avec l'anneau apical amyloïde (bleu dans le melzer), jusqu'à (162,4) 162,43 - 195,8 × (17,2) 17,22 - 21 µm
   asterohyphidies: 
   avertissement: 
@@ -105,7 +105,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « L'utilisation d'un microscope est essentielle pour détecter la présence de poils ; une loupe 10x est insuffisante. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -137,7 +137,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle à commune
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -228,9 +228,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
-  pied: jusqu'à 2 mm Ø, cylindrique, aplati à comprimé, densément velouté, concolore au capitule à brunâtre, avec des poils noir de jais et émergentes
+  pied: jusqu'à 2 mm Ø, cylindrique, aplati à comprimé, densément velouté, concolore au capitule à brunâtre, avec des poils noirs et émergents
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -263,7 +263,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: L'utilisation d'un microscope est essentielle pour détecter la présence de poils ; une loupe 10x est insuffisante.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -1,6 +1,6 @@
 ---
 nom: Suillus aff. granulatus
-date: 2017-01-19 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/1/481/18934767368_1d12186c12_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18934767368/in/photolist-uRcCEm-uRcy7J
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
 
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus et conifères (Pinus)
+  biotopes: pousse au sol, sous feuillus et conifères (<i>Pinus</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: concolore à la face poroïde, 4-10 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -112,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -208,7 +207,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 35-48 x 7-16 mm Ø, cylindrique, plein, orné de glandules brunâtre et d'une base jaune
+  pied: 35-48 x 7-16 mm Ø, cylindrique, plein, orné de glandules brunâtres et d'une base jaune
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -228,7 +227,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds à légèrement déformé au début, devenant anguleux à maturité
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -277,6 +276,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: ronds à légèrement déformés au début, devenant anguleux à maturité, concolores à la face poroïde, 4-10 mm de longueur
   type: 
   typique: 
   voile: 

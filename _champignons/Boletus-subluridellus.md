@@ -73,7 +73,7 @@ description:
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: abondantes, claviformes, 2-4 stérigmates, non bouclées à la base, 27,5 - 36,2 × 8,8 - 12,5 µm
+  caulobasides: abondantes, claviformes, bisporiques à tétrasporiques, non bouclées à la base, 27,5 - 36,2 × 8,8 - 12,5 µm
   caulocystides: sur toute la longueur du stipe, cylindriques à fusiformes, flexueuses, dont l’apex de plusieurs est biseauté 16,7 [21,9; 32,1] 37,3 x 4,6 [5,4; 6,8] 7,6 µm, piriformes 22,8 x 9,1 µm en moyenne, rarement cylindriques mucronées
   caulocystides-medianes: 
   caulocystides-sommitales: 

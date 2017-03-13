@@ -83,7 +83,7 @@ description:
   cellules-stromatiques: 
   chair: mince, très fragile, cireuse, jaunâtre ou concolore au chapeau, noircissant avec l'âge
   chancre: 
-  chapeau: 2-10 mm Ø, conique-aigu à obtus puis parfois convexe et omboné-conique, non étalé, viscidule à sec, lisse, légèrement vergeté, fibrilleux-subécailleux à squamuleux-inné, souvent rougeâtre à orange écarlate au disque et orangé vers la marge, parfois entièrement teinté d'olive, de jaune citron, d'orange ochracé, de roux orange ou de rouge, noircissant avec l'âge et au froissement, à marge irrégulière, parfois relevée avec l'âge, plus longue d'un côté, festonnée
+  chapeau: 2-10 mm Ø, conique-aigu à obtus puis parfois convexe et umboné-conique, non étalé, viscidule à sec, lisse, légèrement vergeté, fibrilleux-subécailleux à squamuleux-inné, souvent rougeâtre à orange écarlate au disque et orangé vers la marge, parfois entièrement teinté d'olive, de jaune citron, d'orange ochracé, de roux orange ou de rouge, noircissant avec l'âge et au froissement, à marge irrégulière, parfois relevée avec l'âge, plus longue d'un côté, festonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

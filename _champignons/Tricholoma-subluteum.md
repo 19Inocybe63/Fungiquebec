@@ -1,6 +1,6 @@
 ---
 nom: Tricholoma subluteum
-date: 2016-11-08 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3924/15348923981_4dd795fa5e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15348923981/in/photolist-pokdzX-pokfmn
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
 
@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Regarde le chapeau, s'il avait été sec, tu aurais pu supprimer facilement tout grain de terre. Mais là, ils sont incrustées car T. subluteum est viscidule... mais vite sec. »
+  commentaires: De Yves Lamoureux. « Regarde le chapeau, s'il avait été sec, tu aurais pu supprimer facilement tout grain de terre. Mais là, ils sont incrustées car <i>T. subluteum</i> est viscidule... mais vite sec. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 50-100 x 10-20 mm Ø, égal à légèrement élargi vers la base, un peu fibrilleux, blanc, jaune par endroits
   pieds-steriles: 

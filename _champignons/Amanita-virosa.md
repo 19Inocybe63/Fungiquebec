@@ -291,7 +291,7 @@ description:
     gastro-entérite brutale, souvent avec vomissements, diarrhée, déshydratation et insuffisance rénale
   syndrome: |
     phalloïdien
-    Les toxines responsables sont les phallotoxines
+    Diverses toxines (cyclopeptides) sont responsables.
   synonymie: |
     Agaricus virosus Fr., Epicrisis Systematis Mycologici:3 (1838)
     Amanitina virosa (Bertill.) E.-J. Gilbert, Iconographia Mycologica 27:78 (1940)

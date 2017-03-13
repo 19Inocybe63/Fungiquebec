@@ -1,6 +1,6 @@
 ---
 nom: Stropharia hornemannii
-date: 2016-11-08 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3829/10003933046_13d4943085_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10003933046/in/photolist-rbEmaB-pgNHt4-pgQhaT-pe4V44-pvxYwx-pe3JYP-gf1PUE-gf1LLf
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0283
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0295
@@ -43,7 +43,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0297
@@ -53,7 +53,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7719/16529566253_f10987f389_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16529566253/in/photolist-rbEmaB-pgNHt4
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -77,9 +77,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques, tétrastérigmates, non bouclées à la base 25,3 [33,4; 37,6] 40,7 x 8,4 [9,6; 11,4] 12,6 µm
+  basides: claviformes à cylindriques, tétrasporiques, non bouclées à la base 25,3 [33,4; 37,6] 40,7 x 8,4 [9,6; 11,4] 12,6 µm
   basidiospores: |
-    elliptiques à subamygdaliformes vue de profil à ovoïdales vue frontale, lisses, à paroi légèrement épaissie à épaissie, avec appendice hilaire, et pore germinatif large centré 1,1-1,6 (1,9) µm de large, à contenu homogène, brun avec de légers reflets rougeâtres dans le NaCl iso 0,9%, uniguttulé et rougeâtre dans le melzer (dextrinoïdes ?), ferrugineuses dans le KOH 5%, non cyanophiles
+    ovoïdales en vue frontale, elliptiques à subamygdaliformes vues de profil, lisses, à paroi légèrement épaissie à épaissie, avec appendice hilaire, et pore germinatif large centré jusqu'à 1,9 µm Ø, à contenu homogène, brun avec de légers reflets rougeâtres dans le NaCl iso 0,9%, uniguttulé et rougeâtre dans le melzer (dextrinoïdes ?), ferrugineuses dans le KOH 5%, non cyanophiles
     12,2 [13; 13,3] 14,1 x 6 [6,5; 6,7] 7,2 µm
     Q = 1,9 [2] 2,1; N = 30; C = 95%
     Me = 13,2 x 6,6 µm; Qe = 2
@@ -103,7 +103,7 @@ description:
   cellules-stromatiques: 
   chair: blanc à blanc crème à jaune pâle
   chancre: 
-  chapeau: 30-70 mm Ø, convexe à plan-convexe, parfois omboné, à marge droite, non distinctement hygrophane, blanc humide à brun gris pâle, souvent avec légère teinte jaune au centre, blanc quand sec, lisse, glabre, voile pratiquement absent
+  chapeau: 30-70 mm Ø, convexe à convexe étalé, parfois umboné, à marge droite, non distinctement hygrophane, blanc humide à brun gris pâle, souvent avec légère teinte jaune au centre, blanc quand sec, lisse, glabre, voile pratiquement absent
   cheilochrysocystides: absentes
   cheilocystides: 
   cheiloleptocystides: polymorphes, utriformes à subutriformes 39,2 [45,4; 57,9] 64,1 x 14,8 [16,4; 19,7] 21,4 µm en moyenne, lagéniformes 53,2 x 17,8 µm en moyenne, fusiformes à fusiformes ventrues 35,8 [39,3; 55,7] 59,1 x 15,9 [16,5; 19,7] 20,4 µm
@@ -145,7 +145,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -239,10 +239,10 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 40-100 x 5-13 mm Ø, cylindrique à progressivement élargi vers la base, blanc à jaune pâle, avec anneau, finement pruinose au-dessus de l'anneau, strié en partie inférieure
+  pied: 40-100 x 5-13 mm Ø, cylindrique à progressivement élargi vers la base, blanc à jaune pâle, avec anneau, finement pruineux au-dessus de l'anneau, strié en partie inférieure
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches ; suprapellis en ixocutis étroit avec un subpellis constitué d'hyphes cylindriques incorporées dans une couche épaisse gélatineuse et hyaline
+  pileipellis: en deux couches ; suprapellis en ixocutis étroit avec un subpellis constitué d'hyphes cylindriques incorporées dans une couche épaisse de gélin
   pileitrame: 
   pileocystides: 
   plasmode: 

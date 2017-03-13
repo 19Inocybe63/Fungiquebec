@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: très mince, fragile, molle, blanchâtre ou concolore à la surface du chapeau
   chancre: 
-  chapeau: 15-23 mm Ø, hémisphérique à conique, parfois subcampanulé, lisse à ruguleux, omboné, crème pâle, et plus foncé au centre
+  chapeau: 15-23 mm Ø, hémisphérique à conique, parfois subcampanulé, lisse à ruguleux, umboné, crème pâle, et plus foncé au centre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

@@ -1,6 +1,6 @@
 ---
 nom: Psilocybe fuscofulva
-date: 2017-03-11 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/3/2943/15155802299_c6032f05d7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15155802299/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Alan Rockefeller
   - fongarium: cKc0144
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0266
@@ -43,7 +43,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8648/16758290556_2df479a4ed_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16758290556/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0490
@@ -53,7 +53,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

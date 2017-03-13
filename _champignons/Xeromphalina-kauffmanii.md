@@ -1,6 +1,6 @@
 ---
 nom: Xeromphalina kauffmanii
-date: 2017-03-02 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/1/758/21351416242_15fbc668f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21351416242/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
 album-flickr:
@@ -204,9 +204,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
-  pied: 7-10 mm Ø, cylindrique, égal, légèrement élargie à la base, finement velouté, jaune à l'apex, brun bourgogne jusqu'à la base, avec mycélium basale cannelle
+  pied: 7-10 mm Ø, cylindrique, égal, légèrement élargi à la base, finement velouté, jaune à l'apex, brun bourgogne jusqu'à la base, avec mycélium basal cannelle
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -239,7 +239,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: X. kauffmanii peut facilement se distinguer de X. campanella qui pousse sur du bois mort de conifères
+  remarques: <i>X. kauffmanii</i> peut facilement se distinguer de <i>X. campanella</i> qui pousse sur du bois mort de conifères
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

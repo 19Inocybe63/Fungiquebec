@@ -1,6 +1,6 @@
 ---
 nom: Scutellinia scutellata
-date: 2016-11-07 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/1/558/18379166100_42fb1239d5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18379166100/in/photolist-tt4ZcL-tkzuXN-u172L9
 album-flickr:
@@ -67,7 +67,7 @@ description:
     (15,7) 17,7 - 19,3 (21,1) × (10,2) 10,4 - 11,5 (12,1) µm
     Q = (1,4) 1,6 - 1,8 (1,9) ; N = 30
     Me = 18,6 × 10,9 µm ; Qe = 1,7
-    (Piximètre; formule classique, issues d’une sporée et mesures dans le bleu Coton lactique)
+    (Piximètre, formule classique ; mesures issues d’une sporée, dans le bleu Coton lactique)
   asques: cylindriques octosporées, à apex arrondi, IKI -, non operculé, dont la base est acrorhynque
   asterohyphidies: 
   avertissement: 
@@ -136,7 +136,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle à commune
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -228,7 +228,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -265,7 +265,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: réaction microchimie = non réactif au Soudan III
+  remarques: réaction microchimique = non réactive dans le Soudan III
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

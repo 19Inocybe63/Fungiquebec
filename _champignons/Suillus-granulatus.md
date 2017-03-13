@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « En Europe, S. granulatus ne pousse qu'avec les pins à deux aiguilles. Ici, il ne pousse pas avec les pins à deux aiguilles, mais avec le pin blanc ou la pruche. D'où le Suillus aff. granulatus que j'ai instauré en attendant qu'il soit renommé. J'avais signalé cela à Both dans les années 90, et il était d'accord que le granulatus européen ressemble plus à notre brevipes. C'est toujours la même chanson, euro et ameri en même temps, ça fausse souvent. »
+  commentaires: De Yves Lamoureux. « En Europe, <i>S. granulatus</i> ne pousse qu'avec les pins à deux aiguilles. Ici, il ne pousse pas avec les pins à deux aiguilles, mais avec le pin blanc ou la pruche. D'où le <i>Suillus aff. granulatus</i> que j'ai instauré en attendant qu'il soit renommé. J'avais signalé cela à Both dans les années 90, et il était d'accord que le <i>granulatus</i> européen ressemble plus à notre <i>brevipes</i>. C'est toujours la même chanson, euro et ameri en même temps, ça fausse souvent. »
   conidies: 
   conidiome: 
   conidiophores: 

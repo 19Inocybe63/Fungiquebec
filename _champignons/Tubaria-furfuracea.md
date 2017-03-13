@@ -1,6 +1,6 @@
 ---
 nom: Tubaria furfuracea
-date: 2016-11-22 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/8/7368/8754529825_a47c6aa765_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8754529825/in/photolist-ekH1EC-ekBfHp-ekH1uQ-dhDPo1-dhDNwX/
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45'43.6"N 71°41'39.1"O
-    altitude: 527 m
+    elevation: 105 m
     determinee: 
     confirmee: Roland Labbé
   - fongarium: cKc0039
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -57,9 +57,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques-claviformes, tétrastérigmates, bouclées à la base, 22-27 x 6-8 µm
+  basides: claviformes à cylindriques-claviformes, tétrasporiques, bouclées à la base, 22-27 x 6-8 µm
   basidiospores: |
-    ellipsoïdes à ellipsoïdes-subcylindriques, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, parfois biguttulé, avec granulations, hyalines dans le NaCl iso 0,9%, inactives dans le melzer
+    ellipsoïdes à ellipsoïdes-subcylindriques, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, parfois biguttulé, avec granulations, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer
     6,9 [7,6; 7,9] 8,6 x 4,1 [4,6; 4,9] 5,5 µm
     Q = 1,4 [1,6; 1,7] 1,9; N = 33; C = 95%
     Me = 7,7 x 4,8 µm; Qe = 1,6
@@ -125,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -186,7 +186,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à légèrement décurrentes, larges, subespacées, avec lamellules irrégulières à distribution symétrique, orangé pâle, à arête blanchâtre
+  lames: adnées à légèrement décurrentes, larges, subespacées, avec lamellules irrégulières à distribution symétrique, orange pâle, aux arêtes blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

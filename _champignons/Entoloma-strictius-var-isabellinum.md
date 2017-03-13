@@ -1,6 +1,6 @@
 ---
 nom: Entoloma strictius var. isabellinum
-date: 2017-03-03 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/3/2938/14027433237_c891b5ecb3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14027433237/in/photolist-nFqWq4-nnygcc
 album-flickr:
@@ -69,7 +69,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, non bouclées à la base, 43-44 x 13-15 µm en moyenne
   basidiospores: |
-    hétérodiamétriques à 5 angles (anguleuses), aussi parfois entre 4-6 côtés, lisses, à paroi mince 0,20-0,25 µm, avec appendice hilaire, à contenu uniguttulé à plus rarement biguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
+    hétérodiamétriques à 5 angles (anguleuses), aussi parfois entre 4-6 côtés, lisses, à paroi mince 0,2-0,2 µm, avec appendice hilaire, à contenu uniguttulé à plus rarement biguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     10,4 [11,7; 12,3] 13,7 x 7,4 [8,3; 8,7] 9,7 µm
     Q = 1,2 [1,4] 1,6; N = 30; C = 95%
     Me = 12 x 8,5 µm; Qe = 1,4
@@ -196,7 +196,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, obtuses en avant, ascendantes lorsque jeune, larges, cunéiformes, élastiques et très légèrement friables, serrées à très serrées, avec lamelles et lamellules, légèrement atténuées sur le rebord proximal, blanchâtres avec reflet rosé à maturité, avec arêtes légèrement érodées, largement arrondies
+  lames: libres, obtuses en avant, ascendantes au début, larges, cunéiformes, élastiques et très légèrement friables, serrées à très serrées, avec lamelles et lamellules, légèrement atténuées sur le rebord proximal, blanchâtres avec reflet rosé à maturité, avec arêtes légèrement érodées, largement arrondies
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

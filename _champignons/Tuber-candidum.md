@@ -1,6 +1,6 @@
 ---
 nom: Tuber candidum
-date: 2016-11-14 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/6/5811/20524255219_fb577b31a2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20524255219/in/photolist-xgxGf7-xgEb2i-wKN4JH-w69kQP-wSTPci-wSaqJo
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/1/312/19748913163_4f3d6124cc_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/19748913163/in/photolist-xgxGf7-xgEb2i-wKN4JH-w69kQP-wSTPci-wSaqJo
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0398
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0403
@@ -43,7 +43,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0422
@@ -53,7 +53,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -86,7 +86,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous Quercus rubra, Betula papyrifera, Pinus resinosa, Pinus strobus, Acer saccharum
+  biotopes: pousse dans le sol, sous <i>Quercus rubra</i>, <i>Betula papyrifera</i>, <i>Pinus resinosa</i>, <i>Pinus strobus</i>, <i>Acer saccharum</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -145,7 +145,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à ± occasionnelle
+  distribution: rare à ± occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

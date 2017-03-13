@@ -287,8 +287,8 @@ description:
   subiculum: 
   substrat: 
   symptomes: |
-    Apparition retardée (+ de 6 heures), voir même d'une période d'incubation silencieuse importante entre 10 à 12 h en moyenne, qui entraine la mort.
-    gastro-entérite brutale, souvent avec vomissements, diarrhée, déshydratation et insuffisance rénale
+    Apparition retardée (+ de 6 heures), voir même d'une période d'incubation silencieuse importante entre 10 à 12 h en moyenne, qui peut entrainer la mort.
+    gastroentérite brutale, souvent avec vomissements, diarrhée, déshydratation et insuffisance rénale
   syndrome: |
     phalloïdien
     Diverses toxines (cyclopeptides) sont responsables.

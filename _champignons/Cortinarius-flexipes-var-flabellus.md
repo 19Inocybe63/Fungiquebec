@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius flexipes var. flabellus
-date: 2017-03-05 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/9/8549/30168238602_c1ee598a97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30168238602/in/photolist-MXS7hS-MboHve-MboCkz-LCbgH9-MsfcAn-MwvDPL
 album-flickr:
@@ -96,7 +96,7 @@ description:
   columelle: 
   commentaires: |
     De Claude Kaufholtz-Couture. « D'après ce qui est écrit dans les descriptions de cette espèce, son odeur est caractérisée par le pélargonium (géranium). Pour ma part, je connais très peu l'odeur du géranium, mais je connais très bien celle des betteraves, et l'odeur qui exhale de cette collection est celle de la betterave. »
-    De Roger Boyer. « La variété flabellus se distingue de la variété flexipes par l'absence souvent complète de colorations violacées, un chapeau orné de fibrilles plutôt que de squamules, parfois même presque glabre sauf à la marge, et des spores un peu plus larges. »
+    De Roger Boyer. « La variété flabellus se distingue de la variété flexipes par l'absence souvent complète de colorations violacées, un chapeau orné de fibrilles plutôt que de squamules, parfois même presque glabre sauf à la marge, et des basidiospores un peu plus larges. »
   conidies: 
   conidiome: 
   conidiophores: 

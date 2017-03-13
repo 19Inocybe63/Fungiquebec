@@ -131,7 +131,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Dans les mesures des spores, Kauffman (North American Flora, vol. 10, Part 4, Inocybe, 1924, p. 233) inclut les digitations dans la mesure. Pour ma part, je ne les inclus pas, elles sont mesurées à part. »
+  commentaires: De Claude Kaufholtz-Couture. « Dans les mesures des basidiospores, Kauffman (North American Flora, vol. 10, Part 4, Inocybe, 1924, p. 233) inclut les digitations dans la mesure. Pour ma part, je ne les inclus pas, elles sont mesurées à part. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -81,7 +81,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Sphagnurus paluster peut être tenue facilement pour une Mycène. Cependant, cette espèce pousse habituellement dans la mousse, tourbière. »
+  commentaires: De Yves Lamoureux. « Sphagnurus paluster peut être tenu facilement pour un Mycène. Cependant, cette espèce pousse habituellement dans la mousse, tourbière. »
   conidies: 
   conidiome: 
   conidiophores: 

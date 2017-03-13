@@ -1,6 +1,6 @@
 ---
 nom: Rhodocollybia butyracea
-date: 2017-03-11 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/4/3903/15064668488_052b6a0e2e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064668488/in/photolist-oXdn6A-oXch8n
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

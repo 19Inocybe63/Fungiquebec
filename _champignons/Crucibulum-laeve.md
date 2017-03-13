@@ -202,7 +202,7 @@ description:
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
-  peridiole: ressemblent à de petites lentilles de 1-2 mm Ø, au nombre de 15 environ, avec une tunique distincte, dure, plissée au sec, blanchâtre à beige argenté puis ocre pâle, chacun retenu à la coupe par un minuscule cordonnet élastique spiralé (funicule) et renfermant une glèbe dans laquelle sont formées les basidiospores, expulsées par les éclaboussures des gouttes de pluie tombant dans le basidiome, s'attachant aux brindilles environnantes grâce à leur cordonnet qui s'enroule à la manière d'un fouet, puis l'enveloppe extérieure du péridiole se désagrège graduellement et libère les spores
+  peridiole: ressemblent à de petites lentilles de 1-2 mm Ø, au nombre de 15 environ, avec une tunique distincte, dure, plissée au sec, blanchâtre à beige argenté puis ocre pâle, chacun retenu à la coupe par un minuscule cordonnet élastique spiralé (funicule) et renfermant une glèbe dans laquelle sont formées les basidiospores, expulsées par les éclaboussures des gouttes de pluie tombant dans le basidiome, s'attachant aux brindilles environnantes grâce à leur cordonnet qui s'enroule à la manière d'un fouet, puis l'enveloppe extérieure du péridiole se désagrège graduellement et libère les basidiospores
   peridiopellis: 
   peridium: 
   peritheces: 

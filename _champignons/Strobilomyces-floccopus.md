@@ -1,6 +1,6 @@
 ---
 nom: Strobilomyces floccopus
-date: 2016-11-16 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3780/9411670398_b43ab1cd36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9411670398/in/photolist-fkFz8J-fkFgHh
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    altitude: 1.07 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanchâtre, rougissant puis noircissant rapidement lorsque coupé ou meurtri
+  chair: blanchâtre, rougissante puis noircissant rapidement lorsque coupée ou meurtrie
   chancre: 
-  chapeau: 30-155 mm Ø, large, convexe, devenant largement convexe à presque plane à maturité, marge appendiculée de reste du voile partiel cotonneux et grisâtre, sec, blanchâtre à grisâtre, recouverte de laine grossière ou cotonneuse, aplatie ou dressée, de gris à gris violacé ou noirâtre
+  chapeau: 30-155 mm Ø, large, convexe, devenant largement convexe à subétalé à maturité, marge appendiculée de reste du voile partiel cotonneux et grisâtre ; sec, blanchâtre à grisâtre, recouvert de laine grossière ou cotonneuse, aplati ou dressé, de gris à gris violacé ou noirâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: blanc lorsque jeune, puis gris, enfin noir, se tachant de rougeâtre, puis noire lorsque brisé, tubes de 10-15 mm de profondeur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -111,7 +110,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -272,6 +271,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: blancs au début, puis gris, enfin noirs, se tachant de rougeâtre, puis noir lorsque brisés, 10-15 mm de profondeur
   type: 
   typique: 
   voile: 

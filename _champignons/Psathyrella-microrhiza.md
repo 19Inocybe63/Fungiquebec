@@ -1,6 +1,6 @@
 ---
 nom: Psathyrella microrhiza
-date: 2017-03-11 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/9/8035/8056863941_c1af63bc37_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8056863941/in/photolist-dHFWbh-dgXwXg-dgXx4z/
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8230/8348049172_0abd75b9e5_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8348049172/in/photolist-dHFWbh-dgXx4z-dgXwXg
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: Francis Fouchier (provisoire)
     confirmee: 
 

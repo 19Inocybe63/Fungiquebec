@@ -1,6 +1,6 @@
 ---
 nom: Bisporella citrina
-date: 2017-03-08 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15397943256/in/photolist-oTnnJF-psEu5h
 album-flickr:
@@ -45,7 +45,7 @@ description:
     7,4 [8,8; 9,4] 10,7 x 2,7 [3,1; 3,2] 3,5 µm
     Q = 2,3 [2,8; 3] 3,5; N = 30; C = 95%
     Me = 9,1 x 3,1 µm; Qe = 2,9
-  asques: cylindriques-clavés, à 8 spores irrégulièrement bisériées, à pore apical indistinctement amyloïde, 100-135 x 7-8 (10) µm
+  asques: cylindriques-clavés, à 8 ascospores irrégulièrement bisériées, à pore apical indistinctement amyloïde, 100-135 x 7-8 (10) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -81,7 +81,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Hans-Otto Baral. « Maybe you expected to see septate spores? The septum is formed in Bisporella citrina only on overmature spores, so don't be worry. If the excipulum is gelatinized I am quite sure it is this species. You can also look at the ascus apex in IKI, but you need dead asci for that. The apical ring is a bit like a T, while for instance in Bisporella subpallida it is only reactive in the lower part of the wall thickeningl like two short thin lines. Also the contents of the paraphyses are worth to look at. The difference in apical ring and genetic data led me to say Calycina citrina for the present fungus, so I restrict Bisporella to B. subpallida and B. pallescens. »
+  commentaires: De Hans-Otto Baral. « Maybe you expected to see septate ascospores? The septum is formed in Bisporella citrina only on overmature spores, so don't be worry. If the excipulum is gelatinized I am quite sure it is this species. You can also look at the ascus apex in IKI, but you need dead asci for that. The apical ring is a bit like a T, while for instance in Bisporella subpallida it is only reactive in the lower part of the wall thickeningl like two short thin lines. Also the contents of the paraphyses are worth to look at. The difference in apical ring and genetic data led me to say Calycina citrina for the present fungus, so I restrict Bisporella to B. subpallida and B. pallescens. »
   conidies: 
   conidiome: 
   conidiophores: 

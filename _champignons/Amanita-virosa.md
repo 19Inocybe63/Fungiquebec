@@ -1,6 +1,6 @@
 ---
 nom: Amanita virosa
-date: 2017-03-06 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/1/678/20665354231_ac839dd947_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665354231/in/photolist-xu8kQT-xtwWYn
 album-flickr:
@@ -109,6 +109,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilité: NON ; mortel
   commentaires: 
   conidies: 
   conidiome: 
@@ -285,6 +286,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  symptomes: |
+    Apparition après 6 heures, voir même d'une période d'incubation silencieuse importante entre 10 à 12 h en moyenne.
+    gastro-entérite brutale, souvent avec vomissements, diarrhée, déshydratation et insuffisance rénale
+  syndrome: |
+    phalloïdien
+    Les toxines responsables sont les phallotoxines
   synonymie: |
     Agaricus virosus Fr., Epicrisis Systematis Mycologici:3 (1838)
     Amanitina virosa (Bertill.) E.-J. Gilbert, Iconographia Mycologica 27:78 (1940)

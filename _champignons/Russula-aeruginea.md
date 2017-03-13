@@ -1,6 +1,6 @@
 ---
 nom: Russula aeruginea
-date: 2017-03-11 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/4/3928/15457643411_fb0e938895_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15457643411/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
 album-flickr:
@@ -22,8 +22,8 @@ collections:
       numero: cKc0292-0044
       miniature: https://c2.staticflickr.com/8/7523/15466442337_86e36f97a9_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/15466442337/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0470
@@ -32,8 +32,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

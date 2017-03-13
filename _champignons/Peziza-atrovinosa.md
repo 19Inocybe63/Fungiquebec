@@ -1,6 +1,6 @@
 ---
 nom: Peziza atrovinosa
-date: 2017-03-09 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/2/1606/24672563904_69f71fc804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/24672563904/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
 album-flickr:
@@ -168,7 +168,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
-  hymenophore: lisse, brun surface intérieure devenant presque noir avec une teinte olivâtre d'un saupoudrage de spores
+  hymenophore: lisse, brun, surface intérieure devenant presque noir avec une teinte olivâtre d'un saupoudrage d'ascospores
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 

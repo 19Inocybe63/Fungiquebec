@@ -1,6 +1,6 @@
 ---
 nom: Trichoglossum farlowii
-date: 2016-10-31 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/8/7383/9968689104_70a0b0ffc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9968689104/in/photolist-wwWoqh-s5M8R3-gbU2wZ-gbU8Y5
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8763/17119348384_24bfb24a1d_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/17119348384/in/photolist-wwWoqh-s5M8R3-gbU2wZ-gbU8Y5
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0418
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -54,7 +54,7 @@ description:
     Kaufholtz-Couture, C. Clé des espèces du genre Trichoglossum au Québec, Publication libre, avril 2016, 3 p.
   ascome: 20-70 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, clavé à lancéolé, noir brunâtre à noir
   ascospores: |
-    bacilliformes, légèrement atténuées aux bouts, entre trois et six septa, mais souvent à trois septa, grisâtres à brunâtres dans le NaCl, 45-85 x 6-7 µm
+    bacilliformes, légèrement atténuées aux bouts, entre trois et six septa, mais souvent à trois septa, grisâtres à brunâtres dans le NaCl iso 0,9%, 45-85 x 6-7 µm
   asques: claviformes, et légèrement atténués vers l'apex, à huit spores parallèles, 160-200 x 14-19 µm
   asterohyphidies: 
   avertissement: 
@@ -123,7 +123,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnelle à commune
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -215,7 +215,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 20-60 x 4-6 mm Ø, égal à élargi aux deux bouts, droit ou flexueux, aplati, rarement un peu comprimé, lisse puis sillonné longitudinalement, densément velouté, apparaissant finement épineux (soies à la loupe), noir
   pieds-steriles: 

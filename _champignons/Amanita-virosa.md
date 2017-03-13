@@ -287,7 +287,7 @@ description:
   subiculum: 
   substrat: 
   symptomes: |
-    Apparition après 6 heures, voir même d'une période d'incubation silencieuse importante entre 10 à 12 h en moyenne.
+    Apparition retardée (+ de 6 heures), voir même d'une période d'incubation silencieuse importante entre 10 à 12 h en moyenne, qui entraine la mort.
     gastro-entérite brutale, souvent avec vomissements, diarrhée, déshydratation et insuffisance rénale
   syndrome: |
     phalloïdien

@@ -1,6 +1,6 @@
 ---
 nom: Pluteus petasatus
-date: 2017-03-10 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/9/8630/28131978620_09c0705734_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28131978620/in/photolist-JRVK99
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: https://c1.staticflickr.com/1/702/31773219746_111b97d030_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/31773219746/in/photostream/
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

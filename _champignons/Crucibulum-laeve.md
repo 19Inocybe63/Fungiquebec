@@ -1,6 +1,6 @@
 ---
 nom: Crucibulum laeve
-date: 2017-03-03 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5511/18901284261_bd2582ee2a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18901284261/in/photolist-tQYTAJ-uNf2ip
 album-flickr:
@@ -202,7 +202,7 @@ description:
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
-  peridiole: ressemblent à de petites lentilles de 1-2 mm Ø, au nombre de 15 environ, avec une tunique distincte, dure, plissée au sec, blanchâtre à beige argenté puis ocre pâle, chacun retenu à la coupe par un minuscule cordonnet élastique spiralé (funicule) et renfermant une glèbe dans laquelle sont formées les spores, expulsées par les éclaboussures des gouttes de pluie tombant dans le basidiome, s'attachant aux brindilles environnantes grâce à leur cordonnet qui s'enroule à la manière d'un fouet, puis l'enveloppe extérieure du péridiole se désagrège graduellement et libère les spores
+  peridiole: ressemblent à de petites lentilles de 1-2 mm Ø, au nombre de 15 environ, avec une tunique distincte, dure, plissée au sec, blanchâtre à beige argenté puis ocre pâle, chacun retenu à la coupe par un minuscule cordonnet élastique spiralé (funicule) et renfermant une glèbe dans laquelle sont formées les basidiospores, expulsées par les éclaboussures des gouttes de pluie tombant dans le basidiome, s'attachant aux brindilles environnantes grâce à leur cordonnet qui s'enroule à la manière d'un fouet, puis l'enveloppe extérieure du péridiole se désagrège graduellement et libère les spores
   peridiopellis: 
   peridium: 
   peritheces: 

@@ -69,7 +69,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, non bouclées à la base, 43-44 x 13-15 µm en moyenne
   basidiospores: |
-    hétérodiamétriques à 5 angles (anguleuses), aussi parfois entre 4-6 côtés, lisses, à paroi mince 0,2-0,2 µm, avec appendice hilaire, à contenu uniguttulé à plus rarement biguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
+    hétérodiamétriques à 5 angles (anguleuses), aussi parfois entre 4-6 côtés, lisses, à paroi mince 0,2 µm, avec appendice hilaire, à contenu uniguttulé à plus rarement biguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     10,4 [11,7; 12,3] 13,7 x 7,4 [8,3; 8,7] 9,7 µm
     Q = 1,2 [1,4] 1,6; N = 30; C = 95%
     Me = 12 x 8,5 µm; Qe = 1,4

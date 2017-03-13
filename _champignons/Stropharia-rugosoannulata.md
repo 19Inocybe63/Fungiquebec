@@ -1,6 +1,6 @@
 ---
 nom: Stropharia rugosoannulata
-date: 2016-11-14 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3766/9169017888_13dd353b07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9169017888/in/photolist-eYeErh-eYeBzj
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0316
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0317
@@ -43,7 +43,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 1.05 km
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -54,7 +54,7 @@ description:
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
-  anneau: membraneuse, pendante, distinctement striée sur le côté supérieur, avec un bord un peu floconneux, se désintégrant avec l'âge
+  anneau: membraneux, pendant, distinctement strié sur le côté supérieur, avec un bord un peu floconneux, se désintégrant avec l'âge
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
@@ -89,7 +89,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, assez ferme, blanche, teinté de gris brun dans la couche corticale
   chancre: 
-  chapeau: 60-175 mm Ø, conique à convexe, devenant plan-convexe à subétalé, largement omboné, à marge fortement involutée puis étalée, non hygrophane, non translucide, brun pâle à brun assez foncé, gris brun ou jaune, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
+  chapeau: 60-175 mm Ø, conique à convexe, devenant convexe étalé à subétalé, largement umboné, à marge fortement involutée puis étalée ; non hygrophane, non translucide, brun pâle à brun assez foncé, gris brun ou jaune, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -131,7 +131,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -192,7 +192,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées ou adnées-émarginées,  minces, jusqu'à 20 mm de large, gris pâle d'abord, puis tacheté de violet, grisâtre, finement noir violacé, avec arête blanche, fimbriée
+  lames: adnexées ou adnées-émarginées,  minces, jusqu'à 20 mm de large, gris pâle d'abord, puis tacheté de violet, grisâtre, finement noir violacé, avec arêtes blanches fimbriées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -223,7 +223,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de juin  à septembre
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: 50-130 x 7-40 (65) mm Ø, généralement progressivement élargi vers la base, parfois avec base subbulbeuse, ferme, avec anneau, jaune ocre dans la partie médiane, blanche et fibrilleuse à l'apex et base
   pieds-steriles: 
@@ -256,7 +256,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Stropharia rugosoannulata est la plus grande espèce du genre. Il existe une grande variété de couleur de son chapeau. Habituellement, on le retrouve dans les teintes violacées, mais des formes plus pâles existent aussi.
+  remarques: <i>Stropharia rugosoannulata</i> est la plus grande espèce du genre. Il existe une grande variété de couleur de son chapeau. Habituellement, on le retrouve dans les teintes violacées, mais des formes plus pâles existent aussi.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -22,8 +22,8 @@ collections:
       numero: cKc0034-0006
       miniature: https://c1.staticflickr.com/9/8500/8300901148_838da0606d_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/8300901148/in/photolist-dDwhHj-dnJMnf-dnJFjn-dnJLZy
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

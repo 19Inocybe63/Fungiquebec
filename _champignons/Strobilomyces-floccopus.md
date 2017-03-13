@@ -224,7 +224,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: angulaires 1-2 mm de large
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -271,7 +271,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: blancs au début, puis gris, enfin noirs, se tachant de rougeâtre, puis noir lorsque brisés, 10-15 mm de profondeur
+  tubes: angulaires 1-2 mm de large, blancs au début, puis gris, enfin noirs, se tachant de rougeâtre, puis noir lorsque brisés, 10-15 mm de profondeur
   type: 
   typique: 
   voile: 

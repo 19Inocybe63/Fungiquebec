@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Yves Lamoureux
   - fongarium: cKc0244
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0268
@@ -43,7 +43,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8591/16249172970_6f72387b2d_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16249172970/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

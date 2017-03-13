@@ -295,7 +295,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: membraneux, laissant un anneau supère sur le pied; large, pendant, typiquement persistant, strié au-dessus, blanchâtre à crème avant sporulation, puis coloré de brun par les spores.
+  voile-partiel: membraneux, laissant un anneau supère sur le pied ; large, pendant, typiquement persistant, strié au-dessus, blanchâtre à crème avant sporulation, puis coloré de brun par les basidiospores.
   volve: 
   zone-perihymeniale: 
 ---

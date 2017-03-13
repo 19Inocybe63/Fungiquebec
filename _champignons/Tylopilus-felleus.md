@@ -1,6 +1,6 @@
 ---
 nom: Tylopilus felleus
-date: 2016-12-02 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8443/29399041486_35070c7c15_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29399041486/in/photolist-LMTLMC-LHT5Tt
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable ou brunissant un peu à la coupe
   chancre: 
-  chapeau: 40-250 mm, convexe devenant largement convexe à presque plane à maturité, sec, glabre, parfois visqueux lorsqu'humide, rosâtre à pourpre rougeâtre au début, développant une certaine nuance de brun avec ou sans teintes violacées et finalement brun foncé à maturité  
+  chapeau: 40-250 mm, convexe devenant largement convexe à presque étalé à maturité, sec, glabre, parfois visqueux lorsqu'humide, rosâtre à pourpre rougeâtre au début, développant une certaine nuance de brun avec ou sans teintes violacées et finalement brun foncé à maturité  
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: concolore à la face poroïde, 1-2 cm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -111,7 +110,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -225,7 +224,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires et petits, 1-2 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -267,6 +266,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 1-2 cm de longueur
   type: 
   typique: 
   voile: 

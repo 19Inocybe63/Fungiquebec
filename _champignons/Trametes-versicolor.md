@@ -1,6 +1,6 @@
 ---
 nom: Trametes versicolor
-date: 2016-11-02 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3857/14880591843_754fdb0487_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14880591843/in/photolist-oDagSs-oEWVwk/
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0489
@@ -33,7 +33,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    altitude: 1.08 km
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -101,7 +101,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: parfois décurrents sur le support et mesurent 4 mm ou moins de profondeur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -119,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commune
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -197,7 +196,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: se développe rarement seul, sauf sur conifères ; sur les feuillus, il forme d'innombrables chapeaux imbriqués latéralement soudés, ou disposés en rosette
+  mode-de-croissance: se développe rarement seul, sauf sur conifères, sur les feuillus, il forme d'innombrables chapeaux imbriqués latéralement soudés, ou disposés en rosette
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -232,7 +231,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: réguliers, ronds, 4-6 pores par mm
+  pores: réguliers, ronds, 4-6 pores par mm, parfois décurrents sur le support et mesurent 4 mm ou moins de profondeur
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

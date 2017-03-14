@@ -1,6 +1,6 @@
 ---
 nom: Leotia lubrica
-date: 2017-03-07 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3901/15031724019_326fe183c6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15031724019/in/photolist-oUivRv-oUiuqe
 album-flickr:
@@ -49,7 +49,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un pied distincts, ± visqueux-gélatineux, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
+  ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un pied distincts, ± visqueux-gélifié, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: gélatineuse dans le capitule et au moins dans le noyau central, souvent translucide
+  chair: matière gélifiée dans le capitule et au moins dans le noyau central, souvent translucide
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -218,7 +218,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 20-80 x 3-10 mm Ø, cylindrique, égal à ± légèrement élargi vers la base, glabre, souvent coalescent à d'autres pieds sur la partie inférieure, souvent ornée de petits flocons pâles, collant ou gluant lorsque frais, concolore au chapeau ou plus pâle, creux ou rempli de matière gélatineuse
+  pied: 20-80 x 3-10 mm Ø, cylindrique, égal à ± légèrement élargi vers la base, glabre, souvent coalescent à d'autres pieds sur la partie inférieure, souvent ornée de petits flocons pâles, collant ou gluant lorsque frais, concolore au chapeau ou plus pâle, creux ou rempli de matière gélifiée
   pieds-steriles: 
   pigments: 
   pileipellis: 

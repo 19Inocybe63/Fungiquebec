@@ -1,6 +1,6 @@
 ---
 nom: Boletinellus merulioides
-date: 2017-03-13 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c1.staticflickr.com/1/681/20710760485_9274b8e443_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20710760485/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
 album-flickr:
@@ -252,7 +252,7 @@ description:
     Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient noirâtre puis rouge terne à orangé
     Potasse (KOH 10%) = le chapeau devient noirâtre puis rouge terne à orangé
   receptacle: 
-  remarques: Cueilli sous les frênes ; probablement en symbiose avec le puceron (ou aphide) Melia Rhizophagus fraxinifolia.
+  remarques: Cueilli sous les frênes ; probablement en symbiose avec le puceron (ou aphide) <i>Melia Rhizophagus fraxinifolia</i>.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

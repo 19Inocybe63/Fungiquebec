@@ -256,7 +256,7 @@ description:
   receptacle: 
   remarques: |
     Subsection Lactarioïdeae Sarnari / Compactae-Plorantinae chez Romagnesi 1967.
-    Avec cette collection, je me dirige vers R. romagnesiana, mais une seule collection ne représente pas une espèce. J'espère donc en retrouver pour parfaire cette étude.
+    Avec cette collection, je me dirige vers <i>R. romagnesiana</i>, mais une seule collection ne représente pas une espèce. J'espère donc en retrouver pour parfaire cette étude.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -1,6 +1,6 @@
 ---
 nom: Coprinopsis variegata
-date: 2017-03-03 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8008/7426245136_1209367d96_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7426245136/in/photolist-cmbCTq-cjerXf/
 album-flickr:
@@ -94,7 +94,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -274,6 +273,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

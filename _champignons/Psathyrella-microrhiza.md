@@ -1,6 +1,6 @@
 ---
 nom: Psathyrella microrhiza
-date: 2017-03-12 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8035/8056863941_c1af63bc37_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8056863941/in/photolist-dHFWbh-dgXwXg-dgXx4z/
 album-flickr:
@@ -97,7 +97,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -283,6 +282,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

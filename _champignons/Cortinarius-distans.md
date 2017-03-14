@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius distans
-date: 2017-03-05 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/8/7072/27942307491_0d2d8e1b9c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27942307491/in/photolist-JLhYc9-JzaCwg
 album-flickr:
@@ -56,7 +56,7 @@ description:
     (7,4) 7,8 - 8,6 (9) × (5,3) 5,4 - 6 (6,2) µm
     Q = (1,3) 1,4 - 1,5 (1,6) ; N = 30
     Me = 8,3 × 5,8 µm ; Qe = 1,4
-    (Piximètre; formule classique, issues d’une sporée et mesures dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d’une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

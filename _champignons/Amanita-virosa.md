@@ -1,6 +1,6 @@
 ---
 nom: Amanita virosa
-date: 2017-03-13 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c1.staticflickr.com/1/678/20665354231_ac839dd947_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665354231/in/photolist-xu8kQT-xtwWYn
 album-flickr:
@@ -266,7 +266,7 @@ description:
     Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = le chapeau devient rapidement jaune
+    Potasse (KOH 10%) = le chapeau devient rapidement jaune
   receptacle: 
   remarques: 
   repartition: 

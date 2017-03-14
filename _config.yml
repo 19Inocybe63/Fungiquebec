@@ -109,9 +109,11 @@ champs-details:
   - name: ordre
     label: Ordre
     search: facet
+    format: italique
   - name: famille
     label: Famille
     search: facet
+    format: italique
   - name: genre
     label: Genre
     search: facet

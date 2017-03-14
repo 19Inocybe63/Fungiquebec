@@ -1,6 +1,6 @@
 ---
 nom: Paxillus involutus
-date: 2017-03-12 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/6/5710/21493893579_e5509540a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21493893579/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
 album-flickr:
@@ -107,7 +107,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -282,7 +281,8 @@ description:
   tomentum-pileique: 
   trame-hymenophorale: 
   trame-lamellaire: bilatérale
-  trame-tubulaire: 
+  trame-tubulaire:
+  tube: 
   type: 
   typique: 
   voile: 

@@ -248,7 +248,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    Sur 100-150 ascospores observées, quatre seulement étaient uniguttulées, les autres semblent avoir un contenu granulaire.
+    Sur 100-150 ascospores observées, 4 seulement étaient uniguttulées, les autres semblent avoir un contenu granulaire.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

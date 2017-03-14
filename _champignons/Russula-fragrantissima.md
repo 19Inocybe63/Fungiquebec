@@ -9,7 +9,7 @@ album-flickr:
 details:
   nom-francais: Russule fragrante
   autorites: Romagn.
-  ordre: Russusales
+  ordre: Russulales
   famille: Russulaceae
   genre: Russula
   espece: fragrantissima

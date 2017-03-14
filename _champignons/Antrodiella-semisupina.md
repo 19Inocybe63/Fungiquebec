@@ -1,6 +1,6 @@
 ---
 nom: Antrodiella semisupina
-date: 2017-03-06 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/6/5564/14658395437_928c323f9a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14658395437/in/photolist-okj7gP
 album-flickr:
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: fusionnée, se fendant, et devenant plus grande dans les parties les plus vieilles (centrales), dense, semi-translucide, concolore à la face poroïde, jusqu'à 3 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -228,7 +227,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds à anguleux, (5) 6-8 (9) par mm, à dissépiments entiers ou finement denticulés
+  pores: ronds à anguleux, (5) 6-8 (9) par mm, à dissépiments entiers ou finement denticulés, fusionnés, se fendant, et devenant plus grand dans les parties les plus vieilles (centrales), dense, semi-translucide, concolores à la face poroïde, jusqu'à 3 mm de longueur
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -273,6 +272,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: 
   type: 
   typique: 
   voile: 

@@ -1,6 +1,6 @@
 ---
 nom: Inocybe mixtilis
-date: 2017-03-12 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c1.staticflickr.com/1/320/19646769673_3aa100cc36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19646769673/in/photolist-FW6AsL-vW7Q9a-w4hTQt-w3DWcd/
 album-flickr:
@@ -278,8 +278,8 @@ description:
   receptacle: 
   remarques: |
     Sous-genre Inocybe, Section Marginatae, Sous-section Praetervisae
-    Clé d'après la clé de Fatto : B C E H K M N Q + mix ;
-    Ressemble aussi à Inocybe earleana = B C E H K M N Q + mix
+    Clé d'après la clé de Fatto : B C E H K M N Q + mix
+    Ressemble aussi à <i>Inocybe earleana</i> = B C E H K M N Q + mix
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

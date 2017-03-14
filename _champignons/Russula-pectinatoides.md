@@ -10,7 +10,7 @@ details:
   nom-francais: Russule fausse-pectinata
   autorites: Peck
   ordre: Russulales
-  famille: Russulacceae
+  famille: Russulaceae
   genre: Russula
   espece: pectinatoides
   litterature: Peck, C.H. 1907. Report of the State Botanist, 1906. Bulletin of the New York State Museum. 116:1-117

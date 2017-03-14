@@ -1,6 +1,6 @@
 ---
 nom: Imleria badia
-date: 2017-03-04 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3920/14887778419_60f361d921_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14887778419/in/photolist-qryYtU-oFAfzb-oFzKQP
 album-flickr:
@@ -96,7 +96,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: déprimée près du pied, concolore à la face poroïde, 8-15 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -227,7 +226,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires à anguleux, petits, 1-2 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -281,6 +280,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: circulaires à anguleux, petits, 1-2 par mm, déprimée près du pied, concolores à la face poroïde, 8-15 mm de longueur
   type: 
   typique: 
   voile: 

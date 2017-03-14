@@ -52,7 +52,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, rarement ventrues, tétrasporiques, bouclées à la base, hyalines, avec contenu vacuolaire, 32,5 - 40,8 × 9 - 10,2 µm en moyenne
   basidiospores: |
-    ellipsoïdes à courtement ellipsoïdes, parfois subcitriformes vues de front, ellipsoïdes à largement ellipsoïdes, avec parfois un angle adaxial supra-hilaire « ou avec une extrémité subfusoïdes » (M. Kuo), finement à moyennement verruqueuses, à paroi mince, appendice hilaire visible, à contenu uniguttulé, brun cannelle à brun foncé dans E.G. 20%, dextrinoïdes, non cyanophiles
+    ellipsoïdes à courtement ellipsoïdes, parfois subcitriformes en vue frontale, ellipsoïdes à largement ellipsoïdes, avec parfois un angle adaxial supra-hilaire « ou avec une extrémité subfusoïdes » (M. Kuo) vues de profil, finement à moyennement verruqueuses, à paroi mince, appendice hilaire visible, à contenu uniguttulé, brun cannelle à brun foncé dans E.G. 20%, dextrinoïdes, non cyanophiles
     (7,4) 7,8 - 8,6 (9) × (5,3) 5,4 - 6 (6,2) µm
     Q = (1,3) 1,4 - 1,5 (1,6) ; N = 30
     Me = 8,3 × 5,8 µm ; Qe = 1,4

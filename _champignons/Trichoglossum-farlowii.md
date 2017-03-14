@@ -54,8 +54,8 @@ description:
     Kaufholtz-Couture, C. Clé des espèces du genre Trichoglossum au Québec, Publication libre, avril 2016, 3 p.
   ascome: 20-70 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, clavé à lancéolé, noir brunâtre à noir
   ascospores: |
-    bacilliformes, légèrement atténuées aux bouts, entre trois et six septa, mais souvent à trois septa, grisâtres à brunâtres dans le NaCl iso 0,9%, 45-85 x 6-7 µm
-  asques: claviformes, et légèrement atténués vers l'apex, à huit spores parallèles, 160-200 x 14-19 µm
+    bacilliformes, légèrement atténuées aux bouts, entre 3 et 6 septa, mais souvent à 3 septa, grisâtres à brunâtres dans le NaCl iso 0,9%, 45-85 x 6-7 µm
+  asques: claviformes, et légèrement atténués vers l'apex, à 8 ascospores parallèles, 160-200 x 14-19 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

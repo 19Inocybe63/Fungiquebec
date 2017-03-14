@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2017-03-06 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
@@ -243,8 +243,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = pas de coloration à légèrement grisâtre ou brunâtre sur les branches et la base
-    KOH 10% = jaune brunâtre pâle sur chair et rameaux
+    Potasse (KOH 10%) = jaune brunâtre pâle sur chair et rameaux
+    Sulfate de fer (FeSO<SUB>4</SUB>) = pas de coloration à légèrement grisâtre ou brunâtre sur les branches et la base
   receptacle: 
   remarques: |
     Puisque les spores de A. pyxidatus sont petites, hyalines et mal définies dans l'eau glycérinée 20% et/ou dans le NaCl iso 0,9%, elles se prêtent parfaitement à une préparation dans le permanganate de potassium (KMnO<sub>4</sub>) qui en détermine mieux les contours.

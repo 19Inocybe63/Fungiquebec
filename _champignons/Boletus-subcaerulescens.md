@@ -237,8 +237,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = chair du stipe et du chapeau = rosé ; stipe et cuticule = verdâtre
-    Potasse (KOH 10%) = sur les tubes = rose ; cuticule = verdâtre ; chair = rosé ; stipe = mauve ; chair du Stipe = mauve puis rougeâtre
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = rosé sur la chair du stipe et du chapeau ; verdâtre sur le stipe et la cuticule
+    Potasse (KOH 10%) = rose sur les tubes ; verdâtre sur la cuticule ; rosé sur la chair ; mauve sur le stipe ; mauve puis rougeâtre sur la chair du stipe
     Sulfate de fer (FeSO<SUB>4</SUB>) = stipe verdâtre ; chair du chapeau et cuticule = verdâtre
   receptacle: 
   remarques: 

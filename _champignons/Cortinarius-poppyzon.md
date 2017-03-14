@@ -245,7 +245,7 @@ description:
   receptacle: 
   remarques: |
     Remerciements à Karl Soop.
-    Sous-genre Sericeocybe, Section Malachii
+    Sous-genre Sericeocybe (ou Telamonia ?), Section Malachii
   repartition:
   rhizomorphes: 
   sac-sporifere: 

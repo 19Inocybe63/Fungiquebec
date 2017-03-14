@@ -1,6 +1,6 @@
 ---
 nom: Gymnopilus penetrans
-date: 2017-03-04 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/6/5535/9240759913_21ee91ef3b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9240759913/in/photolist-f5ziYM-f5zmMt
 album-flickr:
@@ -10,7 +10,7 @@ details:
   nom-francais: Gymnopile pénétrant
   autorites: (Fr.) Murrill
   ordre: Agaricales
-  famille: Gymnopileae
+  famille: Strophariaceae
   genre: Gymnopilus
   espece: penetrans
   litterature: Murrill, W.A. 1912. The Agaricaceae of the Pacific Coast - II. White and ochre-spored genera. Mycologia. 4(5):231-262

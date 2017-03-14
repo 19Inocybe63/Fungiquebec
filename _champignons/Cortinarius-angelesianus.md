@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius angelesianus
-date: 2017-03-05 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3929/15417912301_99e8c4201e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15417912301/in/photolist-psEZ9Q-pddKms-puqQba-pddWKt
 album-flickr:
@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Les bandelettes orangées sur le pied ne résultent pas du dépôt de spores ; c'est la couleur du voile général de cette espèce. »
+  commentaires: De Yves Lamoureux. « Les bandelettes orangées sur le pied ne résultent pas du dépôt de basidiospores ; c'est la couleur du voile général de cette espèce. »
   conidies: 
   conidiome: 
   conidiophores: 

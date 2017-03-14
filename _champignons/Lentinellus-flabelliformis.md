@@ -1,6 +1,6 @@
 ---
 nom: Lentinellus flabelliformis
-date: 2017-03-07 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8192/8084204057_9ff65926da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084204057/in/photolist-dwGgDp-djnDe7-djnEdz
 album-flickr:
@@ -51,7 +51,7 @@ description:
   basidiospores: |
     subglobuleuses à largement ellipsoïdes, finement échinulées, à paroi mince, avec fin apicule, sans pore germinatif, à contenu uniguttulé à pluriguttulé, hyalines, fortement amyloïdes, cyanophiles
     5,6 x 4,5 µm en moyenne; Q moyen = 1,2
-    (échantillonnage de 35 spores)
+    (échantillonnage de 35 basidiospores)
   basidioles: 
   basidiome: 
   bibliographies: 

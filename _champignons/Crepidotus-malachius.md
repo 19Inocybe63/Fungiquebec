@@ -1,6 +1,6 @@
 ---
 nom: Crepidotus malachius
-date: 2017-03-03 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/8/7392/9359067501_2638ed78b1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9359067501/in/photolist-fg2EGM
 album-flickr:
@@ -226,7 +226,7 @@ description:
   pied: absent ou pseudopied parfois présent
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, avec hyphes émergentes lisses à ± incrustées, dont le subpellis est non différencié, composé d'hyphes cylindriques, entrelacée, parfois ± immergées dans une couche de gélatine
+  pileipellis: en cutis, avec hyphes émergentes lisses à ± incrustées, dont le subpellis est non différencié, composé d'hyphes cylindriques, entrelacée, parfois ± immergées dans une couche gélifiée
   pileitrame: 
   pileocystides: absentes
   plasmode: 

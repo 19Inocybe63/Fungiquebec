@@ -69,7 +69,7 @@ description:
     Q = (14,5) 14,8 - 17,9 (18,3) ; N = 30
     Me = 92,7 × 5,6 µm ; Qe = 16,5
     (Piximètre, formule classique)
-  asques: fusiformes à clavés, atténués vers l'apex, à 8 spores parallèles, avec l'anneau apical amyloïde (bleu dans le melzer), jusqu'à (162,4) 162,43 - 195,8 × (17,2) 17,22 - 21 µm
+  asques: fusiformes à clavés, atténués vers l'apex, à 8 ascospores parallèles, avec l'anneau apical amyloïde (bleu dans le melzer), jusqu'à (162,4) 162,43 - 195,8 × (17,2) 17,22 - 21 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

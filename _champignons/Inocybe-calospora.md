@@ -1,6 +1,6 @@
 ---
 nom: Inocybe calospora
-date: 2017-03-12 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c1.staticflickr.com/1/527/20002235135_b8e49c6294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20002235135/in/photolist-Ajog3r-wtwKDr-wtwFD2
 album-flickr:
@@ -297,7 +297,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 12, les Inocybe, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    KOH 10% = sur la surface du chapeau pas de coloration à légèrement rosé
+    Potasse (KOH 10%) = sur la surface du chapeau pas de coloration à légèrement rosé
     Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 
   remarques: 

@@ -1,6 +1,6 @@
 ---
 nom: Russula aeruginea
-date: 2017-03-12 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3928/15457643411_fb0e938895_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15457643411/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
 album-flickr:
@@ -268,7 +268,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ochrosporée IIIa, crème pâle, d'après la charte de couleur de Romagnesi ; E d'après la charte de couleur de Kibby
+  sporee: ocrosporée IIIa, crème pâle, d'après la charte de couleur de Romagnesi ; E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

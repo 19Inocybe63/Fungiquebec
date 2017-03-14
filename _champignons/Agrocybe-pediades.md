@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe pediades
-date: 2017-03-02 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/8/7351/27376363195_4f178bde92_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27376363195/in/photolist-HHa1ZZ-HAV7A8-nTpic6-nTLDni/
 album-flickr:
@@ -249,8 +249,8 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = légèrement verdâtre sur le chapeau et les lames après plusieurs minutes
-    KOH 10% = coloration rose à rougeâtre sur le chapeau
+    Potasse (KOH 10%) = coloration rose à rougeâtre sur le chapeau
+    Sulfate de fer (FeSO<sub>4</sub>) = légèrement verdâtre sur le chapeau et les lames après plusieurs minutes
     TL4 = -
   receptacle: 
   remarques: 

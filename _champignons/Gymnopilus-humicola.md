@@ -1,6 +1,6 @@
 ---
 nom: Gymnopilus humicola
-date: 2017-03-04 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9060850940/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
 album-flickr:
@@ -10,7 +10,7 @@ details:
   nom-francais: Gymnopilus humicole
   autorites: Harding ex Singer
   ordre: Agaricales
-  famille: Gymnopileae
+  famille: Strophariaceae
   genre: Gymnopilus
   espece: humicola
   litterature: Singer, R. 1961. Diagnoses fungorum novorum Agaricalium II. Sydowia. 15(1-6):45-83

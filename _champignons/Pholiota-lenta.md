@@ -1,6 +1,6 @@
 ---
 nom: Pholiota lenta
-date: 2017-03-09 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3936/15427367891_c418597eb1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15427367891/in/photolist-MBptmN-M6YVCH-LMKgni-Mi8k7S-MBKdW6-LMKbcD-pe3H4h-pvghZz-gnvVcx-gnwtCc
 album-flickr:
@@ -130,7 +130,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -317,6 +316,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: formée d'hyphes parallèles à subparallèles
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

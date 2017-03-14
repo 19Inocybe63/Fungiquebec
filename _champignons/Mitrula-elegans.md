@@ -1,6 +1,6 @@
 ---
 nom: Mitrula elegans
-date: 2017-03-11 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/8/7309/8937592313_9fb6943bef_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8937592313/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
 album-flickr:
@@ -45,7 +45,7 @@ description:
     10,4 [12,4; 13,4] 15,4 x 1,3 [2; 2,3] 2,9 µm
     Q = 3,9 [5,8; 6,7] 8,7; N = 30; C = 95%
     Me = 12,9 x 2,1 µm; Qe = 6,3
-  asques: claviformes, longuement stipitées, à huit spores, 104-130 x 5,5-7,5 µm
+  asques: claviformes, longuement stipitées, à 8 ascospores, 104-130 x 5,5-7,5 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

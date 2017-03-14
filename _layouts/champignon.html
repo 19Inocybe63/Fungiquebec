@@ -26,7 +26,12 @@ layout: default
                 {% assign valeurChamp = page.details[champ.name] %}
                 {% if valeurChamp %}
                     <p>
-                        <b>{{ champ.label }} :</b> {{ valeurChamp }}
+                        <b>{{ champ.label }} :</b>
+                        {% if champ.format == "italique" %}
+                            <i>{{ valeurChamp }}</i>
+                        {% else %}
+                            {{ valeurChamp }}
+                        {% endif %}
                     </p>
                 {% endif %}
             {% endfor %}

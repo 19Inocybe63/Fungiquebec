@@ -1,6 +1,6 @@
 ---
 nom: Psilocybe fuscofulva
-date: 2017-03-12 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/3/2943/15155802299_c6032f05d7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15155802299/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
 album-flickr:
@@ -103,7 +103,7 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau
   chancre: 
-  chapeau: 5-27 mm Ø, conique campanulé, hygrophane, glabre, brun à brun pâle vers la marge, la cuticule collante et gélatineuse et se détache difficilement
+  chapeau: 5-27 mm Ø, conique campanulé, hygrophane, glabre, brun à brun pâle vers la marge, la cuticule collante et gélifiée et se détache difficilement
   cheilochrysocystides:
   cheilocystides: abondantes, lagéniformes à tibiformes, plus rarement ellipsoïdes à oblongues, plus rarement bidigitées 41,2 [47,7; 65,2] 71,6 x 4,7 [5,5; 6,9] 7,7 µm
   cheiloleptocystides: 

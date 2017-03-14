@@ -479,3 +479,36 @@ ul.cles li {
 		float: right;
 		font-weight: bold;
 }
+
+.facet {
+	border: 1px solid black;
+	padding: 5px;
+	margin-right: 10px;
+}
+
+.facet + .facet {
+	margin-top: 10px;
+}
+
+.facet a {
+	cursor: pointer;
+}
+
+.facetName {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.facetValues {
+	margin-top: 3px;
+}
+
+.facetValue {
+	display: block;
+}
+
+.facetSelectedValue {
+	display: block;
+	margin-top: 3px;
+	font-weight: bold;
+}

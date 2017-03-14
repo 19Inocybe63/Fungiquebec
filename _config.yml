@@ -131,6 +131,7 @@ champs-collections:
     format: planche
     champs:
       - name: numero
+        label: Numéro
       - name: miniature
         search: exclure
       - name: originale

@@ -5,98 +5,180 @@ permalink: /champignons/
 ---
 
 <script>
-    function filterChampignons(lettre, classe) {
-        toggleLettreSelected(lettre);
-        $('.lettre').hide();
-        $(classe).show();
-    }
-
-    function showAllChampignons() {
-        toggleLettreSelected($('.lettre-tous')[0]);
-        $('.lettre').show();
-    }
-
     function hideAllChampignons() {
-        $('.lettre').hide();
+        $('#search-results').html("");
     }
 
-    function toggleLettreSelected(lettre) {
-        $('.lettre-selected').removeClass('lettre-selected');
-        $(lettre).addClass('lettre-selected');
-    }
+    function showResults(results, facets) {
+        var resultCountDiv = $('<h3>');
+        resultCountDiv.text(results.length + " champignons trouvés");
+        $('#search-results').append(resultCountDiv);
 
-    function onSearchBoxKeyUp(e) {
-        if (e.keyCode == 13) {
-            var searchbox = e.eventTarget;
-            search(searchbox);
+        for (var i = 0; i < results.length; ++i) {
+            var result = results[i];
+            if (!result) {
+                continue;
+            }
+            var doc = champignons[(result.ref * 1) - 1];
+            if (!doc) {
+                continue;
+            }
+
+            var searchResultDiv = $('<h4>');
+            search
+            var searchResultLink = $('<a>');
+            searchResultLink.html("<i>" + doc.nom + "</i>");
+            searchResultLink.attr('href', doc.url);
+            searchResultDiv.append(searchResultLink);
+
+            $('#search-results').append(searchResultDiv);
         }
-    }
 
-    function onSearchButtonClick() {
-        var searchbox = $('#searchbox');
-        if (searchbox) {
-            search(searchbox[0]);
-        }
-    }
+        for (var i = 0; i < facets.length; ++i) {
+            var facetResult = facets[i];
+            var facet = searchHandler.facets[facetResult.field];
+            var facetSelectElement = $('#' + facetResult.field);
+            facetSelectElement.html('');
 
-    function search(searchbox) {
-        if (searchbox) {
-            var terms = searchbox.value;
-            if (terms) {
-                hideAllChampignons();
-                toggleLettreSelected($('.lettre-tous')[0]);
+            var option = $('<option>');
+            option.attr('value', 'tous');
+            option.text('Tous');
+            facetSelectElement.append(option);
 
-                var results = index.search(terms);
-                for (var i = 0; i < results.length; ++i) {
-                    var result = results[i];
-                    $('.index' + result.ref).show();
-                    $('.lettre-entete.lettre' + index.documentStore.getDoc(result.ref).nom[0].toLowerCase()).show();
+            for (var j = 0; j < facetResult.results.length; ++j) {
+                var item = facetResult.results[j]
+                option = $('<option>');
+                option.attr('value', item.value);
+                if (item.value === facet.selectedValue) {
+                    option.attr('selected', 'selected');
                 }
-            } else {
-                showAllChampignons();
+                option.text(item.value + " (" + item.count + ")");
+                facetSelectElement.append(option);
             }
         }
+    }
+
+    function onSearchBoxKeyUp(event) {
+        if (event.keyCode == 13) {
+            search();
+        }
+    }
+
+    function onFacetSelectionChange(event) {
+        var dropdown = event.target;
+        var champ = dropdown.id;
+        var selectedValue = dropdown.selectedOptions[0].value;
+        var facet = searchHandler.facets[champ];
+
+        if (selectedValue === "tous") {
+            facet.selectedValue = undefined;
+        } else {
+            facet.selectedValue = selectedValue;
+        }
+
+        search();
+    }
+
+    function search() {
+        var searchbox = $('#searchbox')[0];
+        if (searchbox) {
+            searchHandler.query = searchbox.value;
+        }
+
+        searchHandler.filters = {};
+
+        var attributeSelectorElements = $('.attributeSelector');
+        var attributeKeywordsElements = $('.attributeKeywords');
+        for (var i = 0; i < attributeSelectorElements.length; ++i) {
+            var attributeSelectorElement = attributeSelectorElements[i];
+            var attributeKeywordsElement = attributeKeywordsElements[i];
+
+            if (attributeKeywordsElement.value) {
+                searchHandler.filters[attributeSelectorElement.selectedOptions[0].value] = attributeKeywordsElement.value;
+            }
+        }
+
+        searchHandler.search();
+    }
+
+    function appendAttributeSelector() {
+        var rowDiv = $('<div>');
+        rowDiv.attr('class', 'row form-group');
+
+        var attributeSelectorDiv = $('<div>');
+        attributeSelectorDiv.attr('class', 'col-lg-5 col-md-6 col-sm-12');
+
+        var attributeSelector = $('<select>');
+        attributeSelector.attr('class', 'attributeSelector form-control');
+        for (var i = 0; i < champsChampignons.length; ++i) {
+            var champ = champsChampignons[i];
+            option = $('<option>');
+            option.attr('value', champ.name);
+            option.text(champ.label);
+            attributeSelector.append(option);
+        }
+        attributeSelectorDiv.append(attributeSelector);
+        rowDiv.append(attributeSelectorDiv);
+
+        var attributeKeywordsDiv = $('<div>');
+        attributeKeywordsDiv.attr('class', 'col-lg-7 col-md-6 col-sm-12');
+
+        var attributeKeywordsElement = $('<input>');
+        attributeKeywordsElement.attr('type', 'text');
+        attributeKeywordsElement.attr('class', 'attributeKeywords form-control');
+        attributeKeywordsDiv.append(attributeKeywordsElement);
+        rowDiv.append(attributeKeywordsDiv);
+
+        var attributeSelectors = $('#attributeSelectors');
+        attributeSelectors.append(rowDiv);
     }
 </script>
 
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-12">
-            <div>
-                <a class="lien-lettre lettre-selected lettre-tous" onclick="showAllChampignons()">TOUS</a>
-                {% assign alphabet = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" | split:',' %}
-                {% for lettre in alphabet %}
-                    <a class="lien-lettre" onclick="filterChampignons(this, '.lettre{{ lettre }}')">{{ lettre | capitalize }}</a>
-                {% endfor %}
-            </div>
-
             <form id="searchform" onsubmit="return false">
-                <input id="searchbox" type="text" placeholder="Recherche..." onkeyup="onSearchBoxKeyUp(event)" />
-                <button id="searchbutton" value="Rechercher" onclick="onSearchButtonClick()">Rechercher</button>
+                <div class="form-horizontal">
+                    {% for champ in site.champs-details %}
+                        {% if champ.search == "facet" %}
+                        <div class="form-group">
+                            <label for="{{ champ.name | replace: "-", "_" }}" class="col-sm-2 control-label">{{ champ.label }}</label>
+                            <div class="col-sm-9">
+                                <select name="{{ champ.name | replace: "-", "_" }}" id="{{ champ.name | replace: "-", "_" }}" class="form-control" onchange="onFacetSelectionChange(event)"></select>
+                            </div>
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Attributs</label>
+                        <div class="col-sm-9">
+                            <div id="attributeSelectors"></div>
+                            <div>
+                                <button class="btn btn-default" onclick="appendAttributeSelector()">Ajouter un attribut</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="searchbox" class="col-sm-2 control-label">Global</label>
+                        <div class="col-sm-9">
+                            <input id="searchbox" name="searchbox" type="text" class="form-control" placeholder="Mots clés généraux..." onkeyup="onSearchBoxKeyUp(event)" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-2"></div>
+                        <div class="col-sm-9">
+                            <button class="btn btn-default btn-lg btn-block" onclick="search()">Rechercher</button>
+                        </div>
+                    </div>
+                </div>
             </form>
 
-            <table>
-            {% assign champignonsTries = (site.champignons | sort: 'nom') %}
-            {% assign lettreCourrante = '' %}
-            {% for champignon in champignonsTries %}
-                {% assign lettreChampignon = champignon.nom | downcase | slice:0 %}
-                {% if lettreCourrante != lettreChampignon %}
-                    {% assign lettreCourrante = lettreChampignon %}
-                    <tr class="lettre lettre{{ lettreCourrante }} lettre-entete">
-                        <td>
-                            {{ lettreCourrante | capitalize }}
-                        </td>
-                    </tr>
-                {% endif %}
-                <tr class="lettre lettre{{ lettreChampignon }} index{{ forloop.index }}">
-                    <td>
-                        <a href="{{ champignon.url | prepend: site.baseurl }}">
-                            <i>{{ champignon.nom }}</i>
-                        </a>
-                    <td>
-                </tr>
-            {% endfor %}
-            </table>
+            <div class="row">
+                <div id="search-results" class="col-sm-offset-2 col-sm-10"></div>
+            </div>
         </div>
     </div><!--/row -->
 </div><!--/container -->
@@ -104,22 +186,16 @@ permalink: /champignons/
 <script src="{{ "/assets/js/elasticlunr.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/lunr.stemmer.support.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/lunr.fr.js" | prepend: site.baseurl }}"></script>
-<script type="text/javascript">
-    var index = elasticlunr(function () {
-            this.use(elasticlunr.fr);
-            this.addField('nom');
-            this.setRef('id');
-    });
-
-    var champignons = [
-    {% for champignon in champignonsTries %}  {
-        id: {{ forloop.index }},
-        nom: "{{ champignon.nom }}"
-    },
-    {% endfor %}
-    ];
-
-    for (var i = 0; i < champignons.length; ++i) {
-        index.addDoc(champignons[i]);
+<script src="{{ "/assets/js/searchHandler.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/champignons.js" | prepend: site.baseurl }}"></script>
+<script>
+    function onDomReady() {
+        searchHandler.index = indexChampignons;
+        searchHandler.allResults = champignons;
+        searchHandler.showResults = showResults;
+        searchHandler.hideAllResults = hideAllChampignons;
+        searchHandler.facets = facetsChampignons;
+        searchHandler.initialize("");
+        appendAttributeSelector();
     }
 </script>

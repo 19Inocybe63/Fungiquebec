@@ -48,7 +48,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, fourchues, non bouclées à la base, 45-70 x 3-3,5 µm
   basidiospores: |
-    cylindriques à suballantoïdes, lisses, à paroi légèrement épaissie, avec sept septa à maturité, dépression supra-apiculaire et hile, à contenu pluriguttulé, hyalines dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer, non cyanophiles
+    cylindriques à suballantoïdes, lisses, à paroi légèrement épaissie, avec 7 septa à maturité, dépression supra-apiculaire et hile, à contenu pluriguttulé, hyalines dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer, non cyanophiles
     18,1 [19,6; 20,2] 21,6 x 6 [7,1; 7,5] 8,5 µm
     Q = 2,3 [2,7; 2,8] 3,2; N = 33; C = 95%
     Me = 19,9 x 7,3 µm; Q moyen = 2,7

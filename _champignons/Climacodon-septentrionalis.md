@@ -240,7 +240,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    L'arbre portait trois spécimens, tout situés sur de longues fissures. Deux étaient à un mètre et demi du sol, un troisième spécimen à près de trois mètres du sol.
+    L'arbre portait 3 spécimens, tout situés sur de longues fissures ; deux étaient à un mètre et demi du sol, un troisième spécimen à près de trois mètres du sol.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

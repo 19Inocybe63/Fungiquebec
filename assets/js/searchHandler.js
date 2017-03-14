@@ -77,32 +77,30 @@ var searchHandler = {
             };
 
             // Find all the values for this facet
-            var facetValues = [];
+            var facetValues = {};
 
             for (var r = 0; r < results.length; ++r) {
                 var fieldValue = this.allResults[(results[r].ref * 1) - 1][field];
                 if (!fieldValue) {
                     continue;
                 }
-                facetValues.push(fieldValue);
+                if (facetValues[fieldValue]) {
+                    facetValues[fieldValue] += 1;
+                } else {
+                    facetValues[fieldValue] = 1;
+                }
             }
 
-            if (facetValues.length > 0) {
-                // Sort the values and compute their occurences
-                var uniqueValues = Array.from(facetValues);
-                var numberOfUniqueValues = 0;
-                while (numberOfUniqueValues != uniqueValues.length) {
-                    numberOfUniqueValues = uniqueValues.length;
-                    $.unique(uniqueValues);
-                }
-                uniqueValues.sort();
+            var uniqueValues = Object.keys(facetValues);
+            if (uniqueValues.length > 0) {
+                uniqueValues = uniqueValues.sort(function(a, b) {
+                    return a.localeCompare(b);
+                });
 
                 var facetValuesOccurrences = uniqueValues.map(function (uniqueValue, index) {
                     return {
                         value: uniqueValue,
-                        count: facetValues.filter(function(value) {
-                            return value == uniqueValue;
-                        }).length
+                        count: facetValues[uniqueValue]
                     };
                 });
 

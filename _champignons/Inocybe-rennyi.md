@@ -1,6 +1,6 @@
 ---
 nom: Inocybe rennyi
-date: 2017-03-12 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -70,9 +70,9 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: occasionnelles à subabondantes, sommitales, de deux types; 1° type métuloïdes, fusiformes à fusiformes ventrues, avec peu ou sans cristaux d’oxalates de calcium, 38,5 - 45,6 × 12 - 16,9 µm en moyenne, 2° type cylindriques claviformes, dont l’apex est parfois subcapité, parfois en faisceaux, ressemblent davantage à des hyphes, (32,6) 39,1 - 52 (58,7) × (6,2) 6,4 - 8,4 (9,2) µm en moyenne, caulocystides médianes, ressemblent davantage à des hyphes
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides: 
+  caulocystides-medianes: ressemblent davantage à des hyphes
+  caulocystides-sommitales: occasionnelles à subabondantes, sommitales, de deux types; 1° type métuloïdes, fusiformes à fusiformes ventrues, avec peu ou sans cristaux d’oxalates de calcium, 38,5 - 45,6 × 12 - 16,9 µm en moyenne, 2° type cylindriques claviformes, dont l’apex est parfois subcapité, parfois en faisceaux, ressemblent davantage à des hyphes, (32,6) 39,1 - 52 (58,7) × (6,2) 6,4 - 8,4 (9,2) µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: elliptiques à ovoïdes, courtement piriformes à piriformes, subcylindriques, (14) 15,7 - 20,1 (25) × (6,1) 6,7 - 10,6 (11,4) µm en moyenne

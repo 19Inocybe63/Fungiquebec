@@ -1,6 +1,6 @@
 ---
 nom: Gyroporus castaneus
-date: 2017-03-04 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/6/5809/29291388773_577f7734f6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29291388773/in/photolist-LCo2on-MzKYGP
 album-flickr:
@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: concolore à la face poroïde, 5-8 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -225,7 +224,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: circulaires à subanguleux et petits, 1-3 par mm
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -269,6 +268,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: circulaires à subanguleux et petits, 1-3 par mm, concolores à la face poroïde, 5-8 mm de longueur
   type: 
   typique: 
   voile: 

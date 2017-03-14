@@ -1,6 +1,6 @@
 ---
 nom: Crepidotus cesatii var. subsphaerosporus
-date: 2017-03-12 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8467/8084202795_cc78c9e611_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084202795/in/photolist-dxUEnx-djnDQP-dxXe3x
 album-flickr:
@@ -94,7 +94,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -271,6 +270,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: formée d'hyphes subparallèles
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

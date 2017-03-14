@@ -103,7 +103,7 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau
   chancre: 
-  chapeau: 5-27 mm Ø, conique campanulé, hygrophane, glabre, brun à brun pâle vers la marge, la cuticule collante et gélifiée et se détache difficilement
+  chapeau: 5-27 mm Ø, conique campanulé, hygrophane, glabre, brun à brun pâle vers la marge, la cuticule collante et gélifiée qui se détache difficilement
   cheilochrysocystides:
   cheilocystides: abondantes, lagéniformes à tibiformes, plus rarement ellipsoïdes à oblongues, plus rarement bidigitées 41,2 [47,7; 65,2] 71,6 x 4,7 [5,5; 6,9] 7,7 µm
   cheiloleptocystides: 

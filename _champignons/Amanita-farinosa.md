@@ -1,6 +1,6 @@
 ---
 nom: Amanita farinosa
-date: 2017-03-06 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9648424458/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
 album-flickr:
@@ -257,7 +257,7 @@ description:
   receptacle: 
   references: 
   remarques: |
-    C'est la première fois que je vois un groupe aussi fourni de cette espèce. Habituellement, on la voit en petits groupes de trois à huit spécimens, mais pas en groupe de vingt et plus. Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
+    C'est la première fois que je vois un groupe aussi fourni de cette espèce. Habituellement, on la voit en petits groupes de 3 à 8 spécimens, mais pas en groupe de 20 et plus. Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
   rhizomorphes: 
   sac-sporifere: 
   saveur: indistincte

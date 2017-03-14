@@ -1,6 +1,6 @@
 ---
 nom: Amanita porphyria
-date: 2017-03-06 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3928/15243769398_3a8366c102_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15243769398/in/photolist-pvuPJA-pe3iyj-pvwDBR-pe3vM6
 album-flickr:
@@ -80,7 +80,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « On reconnaît facilement cette amanite aux traits suivants ; chapeau foncé, anneau gris et pied très bulbeux. A. lignophila en diffère par sa petite taille, son pied blanc et son anneau blanc ou jaune. L’épithète « porphyria » désigne une couleur teintée de pourpre. Toutefois, cette coloration est rarement présente chez l’espèce, du moins au Québec. Il ne faut donc pas accorder d’importance à la signification de ce nom. »
+    De Yves Lamoureux. « On reconnaît facilement cette amanite aux traits suivants ; chapeau foncé, anneau gris et pied très bulbeux. <i>A. lignophila</i> en diffère par sa petite taille, son pied blanc et son anneau blanc ou jaune. L’épithète « porphyria » désigne une couleur teintée de pourpre. Toutefois, cette coloration est rarement présente chez l’espèce, du moins au Québec. Il ne faut donc pas accorder d’importance à la signification de ce nom. »
   conidies: 
   conidiome: 
   conidiophores: 

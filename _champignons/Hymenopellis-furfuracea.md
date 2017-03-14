@@ -1,6 +1,6 @@
 ---
 nom: Hymenopellis furfuracea
-date: 2017-03-04 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8076/8389201215_7ee93b2516_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8389201215/in/photolist-KZZ5kK-L7KXRa-dMqqb1-dKiztv-dJeNnK-dJeUGZ-dMjRfg-dMjRhX-cvkwvb-cvkwk5
 album-flickr:
@@ -107,7 +107,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -284,6 +283,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: sarcodimitique, formée de cellules fusoïdes descendantes, jusqu'à 30-100 µm, reliées par des hyphes 4-5 µm Ø
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

@@ -1,6 +1,6 @@
 ---
 nom: Callistosporium luteo-olivaceum
-date: 2017-03-02 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3808/9366140251_6a8ff08cf5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9366140251/in/photolist-fgDW6g-fgDVbK
 album-flickr:
@@ -231,7 +231,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = chapeau et lames deviennent rouge vif presque instantanément
+    Potasse (KOH 10%) = chapeau et lames deviennent rouge vif presque instantanément
   receptacle: 
   remarques: 
   repartition: 

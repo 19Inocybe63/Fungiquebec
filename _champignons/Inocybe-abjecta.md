@@ -1,6 +1,6 @@
 ---
 nom: Inocybe abjecta
-date: 2017-03-12 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/1/517/19736553568_86546edb7c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19736553568/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
 album-flickr:
@@ -270,8 +270,8 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    D'après l'article de Grund et Stuntz (Nova Scotian Inocybe, vol. II, pp. 925-927), I. abjecta a de rares caulocystides non métuloïdes. Elles se présentent comme des hyphes terminales et ne sont présentes qu'à l'apex du stipe.
-    D'après la Clé des Inocybes de Ray Fatto: Code = A C E H K L N Q - (I. abjecta)  &  A C F H K L N Q - (I. fuscidula)
+    D'après l'article de Grund et Stuntz (Nova Scotian Inocybe, vol. II, pp. 925-927), <i>I. abjecta</i> a de rares caulocystides non métuloïdes. Elles se présentent comme des hyphes terminales et ne sont présentes qu'à l'apex du stipe.
+    D'après la Clé des Inocybes de Ray Fatto: Code = A C E H K L N Q - (<i>I. abjecta</i>)  &  A C F H K L N Q - (<i>I. fuscidula</i>)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

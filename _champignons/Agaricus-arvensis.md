@@ -1,6 +1,6 @@
 ---
 nom: Agaricus arvensis
-date: 2017-03-05 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/6/5803/30152698222_912045cf23_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30152698222/in/photolist-MWupCd-MWusFh-MZ9gSK-M9YoGN
 album-flickr:
@@ -244,7 +244,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
     Gaïacol = la chair du chapeau devient rose-rouge après plusieurs minutes
-    KOH 10% = le chapeau devient jaune
+    Potasse (KOH 10%) = le chapeau devient jaune
     Schaeffer = + ; voir la photo démontrant la réaction en croix de Schaeffer
     Soluté de gaïac = pas de coloration ou de décoloration sur la chair
     TL4 = le chapeau devient rose pâle

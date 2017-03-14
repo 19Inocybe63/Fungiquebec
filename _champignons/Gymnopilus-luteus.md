@@ -1,6 +1,6 @@
 ---
 nom: Gymnopilus luteus
-date: 2017-03-04 00:00:00
+date: 2017-03-12 00:00:00
 image: https://c1.staticflickr.com/9/8501/8373342022_f22fe5dbc4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8373342022/in/photolist-fB12Xs-fAKLcD-dQsHnj-dKQ5MD-dKVyRU
 album-flickr:
@@ -10,7 +10,7 @@ details:
   nom-francais: Gymnopile jaune
   autorites: (Peck) Hesler
   ordre: Agaricales
-  famille: Gymnopileae
+  famille: Strophariaceae
   genre: Gymnopilus
   espece: luteus
   litterature: Hesler, L.R. 1969. North American species of Gymnopilus. Mycologia Memoirs. 3:1-117

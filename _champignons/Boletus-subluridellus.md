@@ -1,6 +1,6 @@
 ---
 nom: Boletus subluridellus
-date: 2017-03-13 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19726150815/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
 album-flickr:
@@ -252,9 +252,9 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = sur la chair bleue, devient jaune à jaune or, légèrement orangé
-    KOH 10% = sur la chair du chapeau devient saumon et la face poroïde devient brun rouille
-    NH<SUB>4</SUB>OH 10% = sur la chair du chapeau devient jaune crème et la face poroïde devient brun
+    FeSO<SUB>4</SUB> (sulfate ferreux) = sur la chair bleue, devient jaune à jaune or, légèrement orangé
+    KOH 10% (potasse) = sur la chair du chapeau devient saumon et la face poroïde devient brun rouille
+    NH<SUB>4</SUB>OH 10% (Ammoniaque) = sur la chair du chapeau devient jaune crème et la face poroïde devient brun
   receptacle: 
   remarques: 
   repartition: 

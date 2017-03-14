@@ -270,7 +270,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    D'après l'article de Grund et Stuntz (Nova Scotian Inocybe, vol. II, pp. 925-927), <i>I. abjecta</i> a de rares caulocystides non métuloïdes. Elles se présentent comme des hyphes terminales et ne sont présentes qu'à l'apex du stipe.
+    D'après l'article de Grund et Stuntz (Nova Scotian Inocybe, vol. II, pp. 925-927), <i>I. abjecta</i> a de rares caulocystides sommitales non métuloïdes. Elles se présentent comme des hyphes terminales et ne sont présentes qu'à l'apex du stipe.
     D'après la Clé des Inocybes de Ray Fatto: Code = A C E H K L N Q - (<i>I. abjecta</i>)  &  A C F H K L N Q - (<i>I. fuscidula</i>)
   repartition: 
   rhizomorphes: 

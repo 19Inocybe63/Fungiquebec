@@ -1,6 +1,6 @@
 ---
 nom: Harrya chromapes
-date: 2017-03-04 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/6/5671/20335858794_361bbf8904_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20335858794/in/photolist-wZ1Ak5
 album-flickr:
@@ -91,7 +91,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: blanc crème, devenant rose, puis brunâtre à brun rougeâtre, déprimé à la tige, 1-3 pores par mm, tubes de 13-14 mm de profondeur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -268,6 +267,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tubes: blanc crème, devenant rose, puis brunâtre à brun rougeâtre, déprimé à la tige, 1-3 pores par mm, tubes de 13-14 mm de profondeur
   type: 
   typique: 
   voile: 

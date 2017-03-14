@@ -10,7 +10,7 @@ permalink: /champignons/
     }
 
     function showResults(results, facets) {
-        var resultCountDiv = $('<div>');
+        var resultCountDiv = $('<h3>');
         resultCountDiv.text(results.length + " champignons trouvés");
         $('#search-results').append(resultCountDiv);
 
@@ -24,7 +24,7 @@ permalink: /champignons/
                 continue;
             }
 
-            var searchResultDiv = $('<div>');
+            var searchResultDiv = $('<h4>');
             search
             var searchResultLink = $('<a>');
             searchResultLink.html("<i>" + doc.nom + "</i>");
@@ -102,11 +102,14 @@ permalink: /champignons/
     }
 
     function appendAttributeSelector() {
-        var attributeSelectors = $('#attributeSelectors');
+        var rowDiv = $('<div>');
+        rowDiv.attr('class', 'row form-group');
+
         var attributeSelectorDiv = $('<div>');
+        attributeSelectorDiv.attr('class', 'col-lg-5 col-md-6 col-sm-12');
 
         var attributeSelector = $('<select>');
-        attributeSelector.attr('class', 'attributeSelector');
+        attributeSelector.attr('class', 'attributeSelector form-control');
         for (var i = 0; i < champsChampignons.length; ++i) {
             var champ = champsChampignons[i];
             option = $('<option>');
@@ -115,17 +118,19 @@ permalink: /champignons/
             attributeSelector.append(option);
         }
         attributeSelectorDiv.append(attributeSelector);
+        rowDiv.append(attributeSelectorDiv);
 
-        var spanElement = $('<span>');
-        spanElement.text(' : ');
-        attributeSelectorDiv.append(spanElement);
+        var attributeKeywordsDiv = $('<div>');
+        attributeKeywordsDiv.attr('class', 'col-lg-7 col-md-6 col-sm-12');
 
         var attributeKeywordsElement = $('<input>');
         attributeKeywordsElement.attr('type', 'text');
-        attributeKeywordsElement.attr('class', 'attributeKeywords');
-        attributeSelectorDiv.append(attributeKeywordsElement);
+        attributeKeywordsElement.attr('class', 'attributeKeywords form-control');
+        attributeKeywordsDiv.append(attributeKeywordsElement);
+        rowDiv.append(attributeKeywordsDiv);
 
-        attributeSelectors.append(attributeSelectorDiv);
+        var attributeSelectors = $('#attributeSelectors');
+        attributeSelectors.append(rowDiv);
     }
 </script>
 
@@ -133,31 +138,46 @@ permalink: /champignons/
     <div class="row">
         <div class="col-lg-12">
             <form id="searchform" onsubmit="return false">
-                <div>
-                    <input id="searchbox" type="text" placeholder="Recherche..." onkeyup="onSearchBoxKeyUp(event)" />
-                </div>
-                <div>
+                <div class="form-horizontal">
                     {% for champ in site.champs-details %}
                         {% if champ.search == "facet" %}
-                        <div>
-                            {{ champ.label }} :
-                            <select name="{{ champ.name | replace: "-", "_" }}" id="{{ champ.name | replace: "-", "_" }}" onchange="onFacetSelectionChange(event)"></select>
+                        <div class="form-group">
+                            <label for="{{ champ.name | replace: "-", "_" }}" class="col-sm-2 control-label">{{ champ.label }}</label>
+                            <div class="col-sm-9">
+                                <select name="{{ champ.name | replace: "-", "_" }}" id="{{ champ.name | replace: "-", "_" }}" class="form-control" onchange="onFacetSelectionChange(event)"></select>
+                            </div>
                         </div>
                         {% endif %}
                     {% endfor %}
-                </div>
-                <div id="attributeSelectors">
-                </div>
-                <div>
-                    <button onclick="appendAttributeSelector()">Ajouter un champ</button>
-                </div>
-                <div>
-                    <button onclick="search()">Rechercher</button>
+
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Attributs</label>
+                        <div class="col-sm-9">
+                            <div id="attributeSelectors"></div>
+                            <div>
+                                <button class="btn btn-default" onclick="appendAttributeSelector()">Ajouter un attribut</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="searchbox" class="col-sm-2 control-label">Global</label>
+                        <div class="col-sm-9">
+                            <input id="searchbox" name="searchbox" type="text" class="form-control" placeholder="Mots clés généraux..." onkeyup="onSearchBoxKeyUp(event)" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-2"></div>
+                        <div class="col-sm-9">
+                            <button class="btn btn-default btn-lg btn-block" onclick="search()">Rechercher</button>
+                        </div>
+                    </div>
                 </div>
             </form>
 
-            <div id="search-results">
-
+            <div class="row">
+                <div id="search-results" class="col-sm-offset-2 col-sm-10"></div>
             </div>
         </div>
     </div><!--/row -->

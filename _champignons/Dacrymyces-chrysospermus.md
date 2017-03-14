@@ -1,6 +1,6 @@
 ---
 nom: Dacrymyces chrysospermus
-date: 2017-03-03 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8493/8330888434_22bb5d7a01_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8330888434/in/photolist-dG9Y65-dGaYTu
 album-flickr:
@@ -69,7 +69,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: gélatineuse-tenace au début, gélatineuse-molle avec l'âge, corné au sec
+  chair: gélifiée, tenace au début, mollement gélifiée à maturité, corné au sec
   chancre: 
   chapeau: 
   cheilocystides: 

@@ -1,6 +1,6 @@
 ---
 nom: Clavaria zollingeri
-date: 2017-03-03 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c2.staticflickr.com/4/3820/9342634870_f7bdf1a814_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9342634870/in/photolist-fezrRy
 album-flickr:
@@ -235,7 +235,7 @@ description:
   publications-microscopiques: 
   rameaux: 2-6 mm Ø, abondants ou non, débutant près du sol, ± régulièrement dichotomiques en 2-4 fois, souvent divergents dans les derniers rangs, arrondis à légèrement aplatis, à aisselle étroitement arrondie et angle aigu au-dessus, puis alignés, arrondis, subhémisphériques, atténués à irréguliers à l'apex, brun violacé
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = pas de coloration sur toutes les surfaces
+    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration sur toutes les surfaces
   receptacle: 
   remarques: 
   repartition: 

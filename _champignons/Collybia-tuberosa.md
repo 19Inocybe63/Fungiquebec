@@ -1,6 +1,6 @@
 ---
 nom: Collybia tuberosa
-date: 2017-03-03 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c1.staticflickr.com/1/639/21886192929_4753e592aa_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21886192929/in/photolist-zm1sDX
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur de la matière en décomposition, sur l'humus des forêts de feuillus et conifères, ou sur un autre champignon (Russula)
+  biotopes: pousse sur de la matière en décomposition, sur l'humus des forêts de feuillus et conifères, ou sur un autre champignon (<i>Russula</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

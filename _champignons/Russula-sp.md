@@ -1,6 +1,6 @@
 ---
 nom: Russula sp.
-date: 2017-03-12 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c2.staticflickr.com/4/3864/15251402335_29cb990693_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15251402335
 album-flickr:
@@ -98,7 +98,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -287,6 +286,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: formé de sphérocystes à subcellulaires, non bouclées
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

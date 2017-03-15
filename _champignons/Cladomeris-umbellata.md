@@ -1,6 +1,6 @@
 ---
 nom: Cladomeris umbellata
-date: 2017-03-05 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c1.staticflickr.com/1/382/18933921856_c849d27f0b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18933921856/in/photolist-uR8inE-uR8ims-uR8ijy
 album-flickr:
@@ -238,7 +238,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = pas de coloration ou de décoloration sur la chair du chapeau
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur la chair du chapeau
   receptacle: 
   remarques: 
   repartition: 

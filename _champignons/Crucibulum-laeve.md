@@ -93,7 +93,6 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -282,6 +281,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

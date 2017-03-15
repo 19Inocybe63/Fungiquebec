@@ -1,6 +1,6 @@
 ---
 nom: Russula sp.
-date: 2017-03-14 00:00:00
+date: 2017-03-15 00:00:00
 image: https://c2.staticflickr.com/4/3864/15251402335_29cb990693_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15251402335
 album-flickr:
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: inconnue
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 58 x 22 mm Ø, cylindrique, caverneux, blanc
   pieds-steriles: 
@@ -248,7 +248,7 @@ description:
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = aucune coloration sur les lames ; légèrement verdâtre sur le stipe
+    Sulfate de fer (FeSO<sub>4</sub>) = aucune coloration sur les lames ; légèrement verdâtre sur le stipe
   receptacle: 
   remarques: |
     Code de Kibby: D I K M(N) / P T

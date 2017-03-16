@@ -1,6 +1,6 @@
 ---
 nom: Russula ochroleucoides
-date: 2017-03-15 00:00:00
+date: 2017-03-16 00:00:00
 image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
@@ -49,7 +49,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    globuleuses en vue frontale, subglobuleuses vues de profil, finement à moyennement verruqueuses, avec réticulum partiel, à paroi mince, à contenu uniguttulé, avec proéminences jusqu’à 1,4 µm de hauteur, hyalines dans E.G. 20%, amyloïdes
+    (6,8) 7,2 - 8,3 (9,1) × (5,9) 6,3 - 7,8 (8) µm
+    Q = (1) 1,1 - 1,17 (1,2) ; N = 30
+    Me = 7,7 × 6,9 µm ; Qe = 1,1
+    (Piximètre, formule classique ; mesures issues d’une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

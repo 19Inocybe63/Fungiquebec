@@ -1,6 +1,6 @@
 ---
 nom: Galerina dicranorum
-date: 2017-03-04 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c2.staticflickr.com/4/3923/14368514495_c15fa5712c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14368514495/in/photolist-nTGoLx-nTBP7q
 album-flickr:
@@ -53,11 +53,11 @@ description:
     (8,4) 8,9 - 9,8 (11,8) × (5) 5,2 - 6 (6,9) µm
     Q = (1,4) 1,5 - 1,8 (1,9) ; N = 30
     Me = 9,4 × 5,7 µm ; Qe = 1,7
-    (Piximètre formule classique ; mesures issues de sporée, dans E.G. 20%)
+    (Piximètre formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse en milieux marécageux, sur espèces de Dicranum
+  biotopes: pousse en milieux marécageux, sur espèces de <i>Dicranum</i>
   boucles: observées dans le pileipellis et dans le stipititrame
   brachybasidioles: 
   calicule: 

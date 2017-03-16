@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe praecox
-date: 2017-03-05 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c2.staticflickr.com/4/3821/8780672969_b12aa3654b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8780672969/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY
 album-flickr:
@@ -263,13 +263,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Smith, Alexander H., Smith, Helen V., Weber, Nancy, S. How to know the gilled mushrooms, Publisher William C. Brown Pub; 2 edition (June 1979).
-    Watling, R. Bolbitiaceae, Agrocybe, Bolbitius & Conocybe, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
+    <b>Smith, Alexander H., Smith, Helen V., Weber, Nancy, S.</b> <i>How to know the gilled mushrooms</i>, Publisher William C. Brown Pub; 2 edition (June 1979).
+    <b>Watling, R.</b> <i>Bolbitiaceae, Agrocybe, Bolbitius and Conocybe</i>, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: aucune connue
   receptacle: 
   remarques: 
@@ -291,26 +291,26 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus candicans Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:50, t. 217 (1774)
-    Agaricus niveobrunneus Batsch, Elenchus fungorum:77 (1783)
-    Agaricus praecox Pers., Comm. Schaeff. icon. pict.:89 (1800)
-    Pholiota praecox (Pers.) P. Kumm., Der Führer in die Pilzkunde:85 (1871)
-    Dryophila praecox (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:67 (1886)
-    Hylophila praecox (Pers.) Quél., Flore mycologique de la France et des pays limitrophes:97 (1888)
-    Naucoria praecox (Pers.) Fayod, Annales des Sciences Naturelles Botanique 9:358 (1889)
-    Togaria praecox (Pers.) W.G. Sm., Synopsis of the British Basidiomycetes: A descriptive catalogue of the drawings and speciments in the department of Botany British Museum:124 (1908)
-    Agaricus cereolus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:22, t. 51 (1774)
-    Agaricus sphaleromorphus Bull. ex Pers., Synopsis methodica fungorum:266 (1801)
-    Agaricus togularis Bull. ex Pers., Synopsis methodica fungorum:262 (1801)
-    Agaricus aestivalis Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:259 (1803)
-    Agaricus togularius Bull., Hist. champ. France:639, t. 595:2 (1812)
-    Agaricus vaporariorum Weinm., Hymeno- et Gastero-Mycetes hucusque in imperio Rossico observatos:231 (1836)
-    Agaricus ombrophilus Fr., Hymenomycetes europaei:216 (1874)
-    Agaricus britzelmayrii Schulzer, Berichte des Naturhistorischen Vereins Augsburg 27:152 (1882)
-    Agaricus confoederans Britzelm., Berichte des Naturhistorischen Vereins Augsburg 27:152 (1883)
-    Agaricus praecavendus Britzelm., Berichte des Naturhistorischen Vereins Augsburg 27:152 (1883)
-    Agaricus exsequens Britzelm., Berichte des Naturhistorischen Vereins Augsburg 27:152 (1883)
-    Agaricus propinquatus Britzelm., Berichte des Naturhistorischen Vereins Augsburg 27:152 (1883)
+    <i>Agaricus candicans</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:50, t. 217 (1774)
+    <i>Agaricus niveobrunneus</i> Batsch, Elenchus fungorum:77 (1783)
+    <i>Agaricus praecox</i> Pers., Comm. Schaeff. icon. pict.:89 (1800)
+    <i>Pholiota praecox</i> (Pers.) P. Kumm., Der Führer in die Pilzkunde:85 (1871)
+    <i>Dryophila praecox</i> (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:67 (1886)
+    <i>Hylophila praecox</i> (Pers.) Quél., Flore mycologique de la France et des pays limitrophes:97 (1888)
+    <i>Naucoria praecox</i> (Pers.) Fayod, Annales des Sciences Naturelles Botanique 9:358 (1889)
+    <i>Togaria praecox</i> (Pers.) W.G. Sm., Synopsis of the British Basidiomycetes: A descriptive catalogue of the drawings and speciments in the department of Botany British Museum:124 (1908)
+    <i>Agaricus cereolus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:22, t. 51 (1774)
+    <i>Agaricus sphaleromorphus</i> Bull. ex Pers., Synopsis methodica fungorum:266 (1801)
+    <i>Agaricus togularis</i> Bull. ex Pers., Synopsis methodica fungorum:262 (1801)
+    <i>Agaricus aestivalis</i> Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:259 (1803)
+    <i>Agaricus togularius</i> Bull., Hist. champ. France:639, t. 595:2 (1812)
+    <i>Agaricus vaporariorum</i> Weinm., Hymeno- et Gastero-Mycetes hucusque in imperio Rossico observatos:231 (1836)
+    <i>Agaricus ombrophilus</i> Fr., Hymenomycetes europaei:216 (1874)
+    <i>Agaricus britzelmayrii</i> Schulzer, Berichte des Naturhistorischen Vereins Augsburg 27:152 (1882)
+    <i>Agaricus confoederans</i> Britzelm., Berichte des Naturhistorischen Vereins Augsburg 27:152 (1883)
+    <i>Agaricus praecavendus</i> Britzelm., Berichte des Naturhistorischen Vereins Augsburg 27:152 (1883)
+    <i>Agaricus exsequens</i> Britzelm., Berichte des Naturhistorischen Vereins Augsburg 27:152 (1883)
+    <i>Agaricus propinquatus</i> Britzelm., Berichte des Naturhistorischen Vereins Augsburg 27:152 (1883)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

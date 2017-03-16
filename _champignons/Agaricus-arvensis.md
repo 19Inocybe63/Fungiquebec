@@ -268,12 +268,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Psalliota arvensis (Schaeff.) P. Kumm., Der Führer in die Pilzkunde:74 (1871)
-    Pratella arvensis (Schaeff.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:563 (1878)
-    Fungus arvensis (Schaeff.) Kuntze, Revisio generum plantarum 3:479 (1898)
-    Psalliota campestris var. arvensis (Schaeff.) Cheel (1913)
-    Psalliota fissurata F.H. Møller, Friesia 4 (3):165 (1952)
-    Psalliota leucotricha F.H. Møller, Friesia 4 (3):159 (1952)
+    <i>Psalliota arvensis</i> (Schaeff.) P. Kumm., Der Führer in die Pilzkunde:74 (1871)
+    <i>Pratella arvensis</i> (Schaeff.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:563 (1878)
+    <i>Fungus arvensis</i> (Schaeff.) Kuntze, Revisio generum plantarum 3:479 (1898)
+    <i>Psalliota campestris</i> var. arvensis (Schaeff.) Cheel (1913)
+    <i>Psalliota fissurata</i> F.H. Møller, Friesia 4 (3):165 (1952)
+    <i>Psalliota leucotricha</i> F.H. Møller, Friesia 4 (3):159 (1952)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

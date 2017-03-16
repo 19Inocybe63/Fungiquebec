@@ -1,6 +1,6 @@
 ---
 nom: Hymenochaetopsis tabacina
-date: 2017-03-04 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c1.staticflickr.com/1/713/20474978959_f2ee0c486a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20474978959/in/photolist-xciBUB-xsZTzN
 album-flickr:
@@ -236,7 +236,7 @@ description:
     Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = noire sur toutes les parties
+    Potasse (KOH 10%) = noire sur toutes les parties
   receptacle: 
   remarques: 
   repartition: 

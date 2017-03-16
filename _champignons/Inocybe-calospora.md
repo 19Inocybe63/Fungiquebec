@@ -1,6 +1,6 @@
 ---
 nom: Inocybe calospora
-date: 2017-03-14 00:00:00
+date: 2017-03-16 00:00:00
 image: https://c1.staticflickr.com/1/527/20002235135_b8e49c6294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20002235135/in/photolist-Ajog3r-wtwKDr-wtwFD2
 album-flickr:
@@ -99,7 +99,7 @@ description:
     (7,7) 8,2 [9,4; 9,9] 11,2 x (7) 7,6 [8,8; 9,4] 10,6 µm
     Q = 1,0 [1,1-1,2] 1,3; N = 30; C = 95%
     Me = 9,7 x 9,1 µm; Qe = 1,1
-    (mesures issues de sporée dans NaCl iso 0,9%, excluant les digitations)
+    (mesures issues d'une sporée, dans le NaCl iso 0,9%, excluant les digitations)
   basidioles: 
   basidiome: 
   bibliographies: 

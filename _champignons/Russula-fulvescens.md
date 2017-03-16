@@ -1,6 +1,6 @@
 ---
 nom: Russula fulvescens
-date: 2017-03-12 00:00:00
+date: 2017-03-16 00:00:00
 image: https://c1.staticflickr.com/9/8214/29040518066_72b46c7929_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29040518066/in/photolist-Lfdfgm
 album-flickr:
@@ -84,9 +84,6 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  collection-confirmee-par: 
-  collection-determinee-par: 
-  collection-determination-provisoire-par: Claude Kaufholtz-Couture
   columelle: 
   comestibilite: NON ; espèce sans intérêt
   commentaires: 
@@ -245,8 +242,8 @@ description:
     Kibby, Geoffrey, Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> =  stipe rosé (3 = moyenne)
     Soluté de gaïac = > 5" stipe + (1 = faible) ; < 5" lames ++ (3 = moyenne)
+    Sulfate de fer (FeSO<SUB>4</SUB>) =  stipe rosé (3 = moyenne)
   receptacle: 
   remarques: 
   repartition: 

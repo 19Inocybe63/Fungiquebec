@@ -1,6 +1,6 @@
 ---
 nom: Lactifluus hygrophoroides
-date: 2017-03-07 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c2.staticflickr.com/4/3707/9368669824_b30939639b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9368669824/in/photolist-fgST95-fgSS7N
 album-flickr:
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, finement velouté, sec, dont la marge est légèrement incurvée lorsque jeune ; souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
+  chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, finement velouté, sec, dont la marge est légèrement incurvée au début ; souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -237,7 +237,7 @@ description:
     Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = olive pâle sur le chapeau
+    Potasse (KOH 10%) = olive pâle sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

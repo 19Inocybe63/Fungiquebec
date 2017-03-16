@@ -242,13 +242,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Smith, Alexander H., Smith, Helen V., Weber, Nancy S. How to know the gilled mushrooms, Publisher William C. Brown Pub; 2 edition (June 1979).
-    Watling, R. Bolbitiaceae, Agrocybe, Bolbitius & Conocybe, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
+    <b>Smith, Alexander H., Smith, Helen V., Weber, Nancy S</b>. <i>How to know the gilled mushrooms</i>, Publisher William C. Brown Pub; 2 edition (June 1979).
+    <b>Watling, R.</b> <i>Bolbitiaceae, Agrocybe, Bolbitius and Conocybe</i>, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
     Potasse (KOH 10%) = chapeau et lames grisonnant légèrement
   receptacle: 
@@ -271,15 +271,15 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus perpendicularis Bull., Herbier de la France 9, t. 422:2 (1789)
-    Agaricus arvalis Fr., Systema Mycologicum 1, 263 (1821)
-    Naucoria arvalis (Fr.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France, 548 (1876)
-    Simocybe arvalis (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32, 428 (1879)
-    Hylophila arvalis (Fries) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium, 102 (1886)
-    Galera arvalis var. tuberigena Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 18 (2), 510, t. 15:10 (1890)
-    Naucoria tuberosa Henn., Hedwigia 42, 310 (1903)
-    Naucoria scleroticola Lloyd, Mycological Writings 5 (51), 722 (1917)
-    Naucoria sclerotina Velen., Mykologia, 144 (1924)
+    <i>Agaricus perpendicularis</i> Bull., Herbier de la France 9, t. 422:2 (1789)
+    <i>Agaricus arvalis</i> Fr., Systema Mycologicum 1, 263 (1821)
+    <i>Naucoria arvalis</i> (Fr.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France, 548 (1876)
+    <i>Simocybe arvalis</i> (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32, 428 (1879)
+    <i>Hylophila arvalis</i> (Fries) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium, 102 (1886)
+    <i>Galera arvalis var. tuberigena</i> Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 18 (2), 510, t. 15:10 (1890)
+    <i>Naucoria tuberosa</i> Henn., Hedwigia 42, 310 (1903)
+    <i>Naucoria scleroticola</i> Lloyd, Mycological Writings 5 (51), 722 (1917)
+    <i>Naucoria sclerotina Velen.,</i> Mykologia, 144 (1924)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

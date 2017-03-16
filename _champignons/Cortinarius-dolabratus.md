@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius dolabratus
-date: 2017-03-05 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/6/5559/15290852396_0d53a784d8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15290852396/in/photolist-QHjS1s-picBG9-p3JGhy
 album-flickr:
@@ -53,11 +53,11 @@ description:
     (6,7) 6,9 - 8,5 (9,4) × (4,1) 4,2 - 4,8 (5,2) µm
     Q = (1,6) 1,64 - 1,8 (1,9) ; N = 30
     Me = 7,6 × 4,5 µm ; Qe = 1,7
-    (Piximètre, formule classique, mesures issues de sporée dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse, milieux ouverts, en présence de Larix, Populus tremuloïdes, Quercus rubra
+  biotopes: pousse au sol, sur pelouse, milieux ouverts, en présence de <i>Larix</i>, <i>Populus tremuloïdes</i>, <i>Quercus rubra</i>
   boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 

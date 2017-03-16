@@ -1,6 +1,6 @@
 ---
 nom: Phyllotopsis nidulans
-date: 2017-03-12 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c2.staticflickr.com/4/3891/14674164427_314106bc38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14674164427/in/photolist-omGujh-omGVQX/
 album-flickr:
@@ -237,7 +237,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = négative sur le chapeau
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

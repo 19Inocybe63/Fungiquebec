@@ -1,6 +1,6 @@
 ---
 nom: Hygrocybe cantharellus
-date: 2017-03-04 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c1.staticflickr.com/3/2817/9438005957_e509607329_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9438005957/in/photolist-fo1fmD-fofxis/
 album-flickr:
@@ -235,7 +235,7 @@ description:
     Boertmann, David. The genus Hygrocybe, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = pas de coloration ou de décoloration sur le chapeau
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

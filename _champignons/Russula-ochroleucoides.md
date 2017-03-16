@@ -1,6 +1,6 @@
 ---
 nom: Russula ochroleucoides
-date: 2017-03-12 00:00:00
+date: 2017-03-15 00:00:00
 image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
@@ -241,9 +241,9 @@ description:
     Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = chair rosé très pâle
-    KOH 10% = pas de coloration ou de décoloration sur le chapeau
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
     Soluté de gaïac = > 5" stipe + b (1 = faible) ; > 5" lames + b (1 = faible)
+    Sulfate de fer (FeSO<SUB>4</SUB>) = chair rosé très pâle
   receptacle: 
   remarques: |
     Veine ou bourrelets formés au niveau des sinus, au fond des vallécules interlamellaires et reliant les lames au niveau de leur base.

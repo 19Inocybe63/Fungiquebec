@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe pediades
-date: 2017-03-12 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c2.staticflickr.com/8/7351/27376363195_4f178bde92_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27376363195/in/photolist-HHa1ZZ-HAV7A8-nTpic6-nTLDni/
 album-flickr:
@@ -53,7 +53,7 @@ description:
     (10,1) 10,4 - 11,7 (13,5) × (6) 6,1 - 6,9 (7,6) µm
     Q = (1,5) 1,6 - 1,8 (1,9) ; N = 30
     Me = 11 × 6,5 µm ; Qe = 1,7
-    (Piximètre, formule classique ; mesures issues d'une sporée dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -239,13 +239,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Smith, Alexander H., Smith, Helen V., Weber, Nancy S. How to know the gilled mushrooms, Publisher William C. Brown Pub; 2 edition (June 1979).
-    Watling, R. Bolbitiaceae, Agrocybe, Bolbitius & Conocybe, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
+    <b>Smith, Alexander H., Smith, Helen V., Weber, Nancy S.</b> <i>How to know the gilled mushrooms</i>, Publisher William C. Brown Pub; 2 edition (June 1979).
+    <b>Watling, R.</b> <i>Bolbitiaceae, Agrocybe, Bolbitius and Conocybe</i>, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = coloration rose à rougeâtre sur le chapeau
@@ -271,18 +271,18 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus pediades Fr., Systema Mycologicum 1:290 (1821)
-    Naucoria pediades (Fr.) P. Kumm., Der Führer in die Pilzkunde:78 (1871)
-    Naucoria pediades (Fr.) P. Kumm.:78 (1871)
-    Simocybe pediades (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:427 (1879)
-    Nolanea pediades (Fr.) Sacc., Sylloge Fungorum 5:760 (1887)
-    Agaricus pusillus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:45, t. 203 (1774)
-    Agaricus semiorbicularis Bull., Herbier de la France 9:t. 422:1 (1789)
-    Agaricus arenicola Berk., London Journal of Botany 2:511 ['411'] (1843)
-    Naucoria pediades var. obscuripes Fayod, Verh. Bot. Ver. Prov. Brandenb.:226 (1889)
-    Naucoria arenaria Peck, Bulletin of the New York State Museum 157:29 (1912)
-    Naucoria subpediades Murrill, Lloydia 5: 150 (1942) [MB#288738]
-    Agrocybe splendida Clémençon, Nova Hedwigia 28 (1):8 (1977)
+    <i>Agaricus pediades</i> Fr., Systema Mycologicum 1:290 (1821)
+    <i>Naucoria pediades</i> (Fr.) P. Kumm., Der Führer in die Pilzkunde:78 (1871)
+    <i>Naucoria pediades</i> (Fr.) P. Kumm.:78 (1871)
+    <i>Simocybe pediades</i> (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:427 (1879)
+    <i>Nolanea pediades</i> (Fr.) Sacc., Sylloge Fungorum 5:760 (1887)
+    <i>Agaricus pusillus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:45, t. 203 (1774)
+    <i>Agaricus semiorbicularis</i> Bull., Herbier de la France 9:t. 422:1 (1789)
+    <i>Agaricus arenicola Berk.,</i> London Journal of Botany 2:511 ['411'] (1843)
+    <i>Naucoria pediades var. obscuripes</i> Fayod, Verh. Bot. Ver. Prov. Brandenb.:226 (1889)
+    <i>Naucoria arenaria</i> Peck, Bulletin of the New York State Museum 157:29 (1912)
+    <i>Naucoria subpediades</i> Murrill, Lloydia 5: 150 (1942) [MB#288738]
+    <i>Agrocybe splendida</i> Clémençon, Nova Hedwigia 28 (1):8 (1977)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius urbicus
-date: 2017-03-03 00:00:00
+date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8133/29510867143_38fbd3d847_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29510867143/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc
 album-flickr:
@@ -53,11 +53,11 @@ description:
     (6,1) 7,2 - 9,1 (10) × (4,7) 4,8 - 5,4 (5,7) µm
     Q = (1,3) 1,4 - 1,7 (1,9) ; N = 30
     Me = 8,1 × 5,1 µm ; Qe = 1,6
-    (Piximètre, formule classique, mesures issues de sporée, dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous conifères (Picea) et feuillus (Betula, Fagus), en bordure de sentier
+  biotopes: pousse au sol, sous conifères (<i>Picea</i>) et feuillus (<i>Betula</i>, <i>Fagus</i>), en bordure de sentier
   boucles: observées dans le médiostrate et le stipitipellis
   brachybasidioles: 
   calicule: 

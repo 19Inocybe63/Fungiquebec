@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe acericola
-date: 2017-03-12 00:00:00
+date: 2017-03-14 00:00:00
 image: https://c2.staticflickr.com/8/7418/9186177091_c21d995901_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9186177091/in/photolist-rFhzHk-nZyrDb-of4xZb-eZZW13-eZKypD
 album-flickr:
@@ -254,13 +254,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Alexander H. Smith, Helen V. Smith, Nancy S. Weber. How to know the gilled mushrooms, Publisher William C. Brown Pub; 2 edition (June 1979).
-    Watling, R. Bolbitiaceae, Agrocybe, Bolbitius & Conocybe, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
+    <b>Alexander H. Smith, Helen V. Smith, Nancy S. Weber.</b> <i>How to know the gilled mushrooms</i>, Publisher William C. Brown Pub; 2 edition (June 1979).
+    <b>Watling, R.</b> <i>Bolbitiaceae, Agrocybe, Bolbitius and Conocybe</i>, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -282,8 +282,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus acericola Peck, Bulletin of the Buffalo Society of Natural Sciences 1:50 (1873)
-    Pholiota acericola (Peck) Sacc., Sylloge Fungorum 5:759 (1887)
+    <i>Agaricus acericola</i> Peck, Bulletin of the Buffalo Society of Natural Sciences 1:50 (1873)
+    <i>Pholiota acericola</i> (Peck) Sacc., Sylloge Fungorum 5:759 (1887)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

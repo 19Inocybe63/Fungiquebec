@@ -246,7 +246,7 @@ description:
     Sulfate de fer (FeSO<SUB>4</SUB>) = chair rosé très pâle
   receptacle: 
   remarques: |
-    Veine ou bourrelets formés au niveau des sinus, au fond des vallécules interlamellaires et reliant les lames au niveau de leur base.
+    Veines ou bourrelets formés au niveau des sinus, au fond des vallécules interlamellaires et reliant les lames au niveau de leur base.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

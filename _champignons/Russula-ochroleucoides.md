@@ -1,6 +1,6 @@
 ---
 nom: Russula ochroleucoides
-date: 2017-03-16 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
@@ -19,7 +19,7 @@ collections:
   - fongarium: cKc0535
     date: 10 août 2016
     planche:
-      numero: 
+      numero: cKc0535-0161
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O

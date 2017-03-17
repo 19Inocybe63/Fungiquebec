@@ -79,6 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilité: NON. Espèce toxique, indigeste ou suspecte.
   commentaires: 
   conidies: 
   conidiome: 

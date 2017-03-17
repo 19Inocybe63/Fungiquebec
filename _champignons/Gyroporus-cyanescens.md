@@ -1,13 +1,13 @@
 ---
 nom: Gyroporus cyanescens
-date: 2017-03-13 00:00:00
+date: 2017-03-16 00:00:00
 image: https://c1.staticflickr.com/9/8441/28995578361_e4c677dbe9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28995578361/in/photolist-L8FwLE-LbeVfR-z8SLYU-ySoPCV-ycT6no
 album-flickr:
   - 72157675737892515
 
 details:
-  nom-francais: Bolet bleuissant
+  nom-francais: Bolet indogotier
   autorites: (Bull.) Quél.
   ordre: Boletales
   famille: Gyroporaceae
@@ -238,8 +238,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -262,12 +262,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus cyanescens Bull., Herbier de la France 8:t. 369 (1788)
-    Boletus constrictus Pers., Synopsis methodica fungorum:508 (1801)
-    Leccinum constrictum (Pers.) Gray, A natural arrangement of British plants 1:647 (1821)
-    Suillus cyanescens (Bull.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:1 (1882)
-    Suillus cyanescens (Bull.) Kuntze:535 (1898)
-    Leucoconius cyanescens (Bull.) Beck, Zeitschrift für Pilzkunde 2 (7):142 (1923)
+    <i>Boletus cyanescens</i> Bull., Herbier de la France 8:t. 369 (1788)
+    <i>Boletus constrictus</i> Pers., Synopsis methodica fungorum:508 (1801)
+    <i>Leccinum constrictum</i> (Pers.) Gray, A natural arrangement of British plants 1:647 (1821)
+    <i>Suillus cyanescens</i> (Bull.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:1 (1882)
+    <i>Suillus cyanescens</i> (Bull.) Kuntze:535 (1898)
+    <i>Leucoconius cyanescens</i> (Bull.) Beck, Zeitschrift für Pilzkunde 2 (7):142 (1923)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

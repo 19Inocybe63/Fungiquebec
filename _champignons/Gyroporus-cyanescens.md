@@ -87,7 +87,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilité: Excellent et recherché
+  comestibilité: OUI. Excellent et recherché.
   commentaires: 
   conidies: 
   conidiome: 

@@ -1,13 +1,13 @@
 ---
 nom: Gyroporus castaneus
-date: 2017-03-13 00:00:00
+date: 2017-03-16 00:00:00
 image: https://c2.staticflickr.com/6/5809/29291388773_577f7734f6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29291388773/in/photolist-LCo2on-MzKYGP
 album-flickr:
   - 72157675902731870
 
 details:
-  nom-francais: Bolet chatain
+  nom-francais: Bolet châtain
   autorites: (Bull.) Quél.
   ordre: Boletales
   famille: Gyroporaceae
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol mal drainé des forêts de feuillus (Betula, Quercus)
+  biotopes: pousse au sol mal drainé des forêts de feuillus (<i>Betula</i>, <i>Quercus</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -231,8 +231,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -255,12 +255,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus castaneus Bull., Herbier de la France 7, t. 328 (1787)
-    Boletus fulvidus Fr., Observationes mycologicae 2:247 (1818)
-    Boletus testaceus Pers., Mycologia Europaea 2: 137 (1825)
-    Suillus castaneus (Bull.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:1 (1882)
-    Suillus castaneus (Bull.) Kuntze:535 (1898)
-    Leucobolites castaneus (Bull.) Beck, Zeitschrift für Pilzkunde 2 (7):142 (1923)
+    <i>Boletus castaneus</i> Bull., Herbier de la France 7, t. 328 (1787)
+    <i>Boletus fulvidus</i> Fr., Observationes mycologicae 2:247 (1818)
+    <i>Boletus testaceus</i> Pers., Mycologia Europaea 2: 137 (1825)
+    <i>Suillus castaneus</i> (Bull.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:1 (1882)
+    <i>Suillus castaneus</i> (Bull.) Kuntze:535 (1898)
+    <i>Leucobolites castaneus</i> (Bull.) Beck, Zeitschrift für Pilzkunde 2 (7):142 (1923)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

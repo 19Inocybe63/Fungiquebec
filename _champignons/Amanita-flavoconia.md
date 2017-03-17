@@ -1,6 +1,6 @@
 ---
 nom: Amanita flavoconia
-date: 2017-03-06 00:00:00
+date: 2017-03-16 00:00:00
 image: https://c1.staticflickr.com/3/2828/9378730585_17f076277c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9378730585/in/photolist-fhLrRt
 album-flickr:
@@ -232,7 +232,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
@@ -256,8 +256,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Amplariella flavoconia (G.F. Atk.) E.-J. Gilbert, Iconographia Mycologica 27:79 (1940)
-    Venenarius flavoconius (G.F. Atk.) Murrill, Lloydia 11:101 (1948)
+    <i>Amplariella flavoconia</i> (G.F. Atk.) E.-J. Gilbert, Iconographia Mycologica 27:79 (1940)
+    <i>Venenarius flavoconius</i> (G.F. Atk.) Murrill, Lloydia 11:101 (1948)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

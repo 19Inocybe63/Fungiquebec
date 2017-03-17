@@ -1,6 +1,6 @@
 ---
 nom: Amanita amerifulva nom. prov.
-date: 2017-03-06 00:00:00
+date: 2017-03-16 00:00:00
 image: https://c2.staticflickr.com/4/3842/14598644206_0d2a0c205a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14598644206/in/photolist-of2Sjb-ogTp9m/
 album-flickr:
@@ -252,7 +252,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+    <b>Lamoureux, Yves.</b> Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: |
     Phénol = la chair devient rouge brun terne
@@ -276,12 +276,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Amanitopsis fulva (Pers.) W.G. Sm.
-    Agaricus fulvus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:41, t. 95 (1774)
-    Amanita vaginata var. fulva (Pers.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:51 (1874)
-    Amanitopsis vaginata var. fulva (Pers.) Sacc., Sylloge Fungorum 5:21 (1887)
-    Vaginata fulva (Pers.) A.H. Sm., Mushrooms in their natural habitats:396 (1949)
-    Amanita ochraceomaculata Neville, Poumarat & Fraiture, Bollettino del Gruppo Micologico "G. Bresadola" 43 (2):261 (2000)
+    <i>Amanitopsis fulva</i> (Pers.) W.G. Sm.
+    <i>Agaricus fulvus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:41, t. 95 (1774)
+    <i>Amanita vaginata var. fulva</i> (Pers.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:51 (1874)
+    <i>Amanitopsis vaginata var. fulva</i> (Pers.) Sacc., Sylloge Fungorum 5:21 (1887)
+    <i>Vaginata fulva</i> (Pers.) A.H. Sm., Mushrooms in their natural habitats:396 (1949)
+    <i>Amanita ochraceomaculata</i> Neville, Poumarat & Fraiture, Bollettino del Gruppo Micologico "G. Bresadola" 43 (2):261 (2000)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

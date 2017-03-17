@@ -1,6 +1,6 @@
 ---
 nom: Amanita abrupta
-date: 2017-03-12 00:00:00
+date: 2017-03-16 00:00:00
 image: https://c1.staticflickr.com/1/713/21329672180_4f938a431f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21329672180/in/photolist-yuQ9qC-yuQdej
 album-flickr:
@@ -232,7 +232,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = pas de coloration à légèrement rosâtre sur le chapeau
@@ -256,8 +256,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Lepidella abrupta (Peck) E.J. Gilbert, Bulletin de la Société Mycologique de France 44:151 (1928)
-    Aspidella abrupta (Peck) E.-J. Gilbert, Iconographia Mycologica 27:79 (1940)
+    <i>Lepidella abrupta</i> (Peck) E.J. Gilbert, Bulletin de la Société Mycologique de France 44:151 (1928)
+    <i>Aspidella abrupta</i> (Peck) E.-J. Gilbert, Iconographia Mycologica 27:79 (1940)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

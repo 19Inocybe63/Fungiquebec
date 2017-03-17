@@ -246,7 +246,7 @@ description:
     Potasse (KOH 10%) = aucune coloration ou décoloration sur le chapeau
   receptacle: 
   remarques: |
-    Cette collection a été étudiée par R. Tulloss, qui la classe pour le moment dans Amanita amerirubescens groupe.
+    Cette collection a été étudiée par R. Tulloss, qui la classe pour le moment dans <i>Amanita amerirubescens groupe</i>.
     Cette collection était entourée de conifères (<i>Picea</i>) âgés. Il y avait aussi un majestueux chêne rouge non loin (<i>Quercus</i>).
   repartition: 
   rhizomorphes: 

@@ -246,12 +246,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   references: 
@@ -273,11 +273,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Amanitopsis farinosa (Schwein.) G.F. Atk., Mushrooms: 76 (1900);
-    Amanitella farinosa (Schwein.) Earle, Bull. New York Bot. Gard. 5: 449 (1909)
-    Vaginata farinosa (Schwein.) Murrill, Mycologia 4(1): 3 (1912)
-    Amanita farinosa Schwein., Schr. naturf. Ges. Leipzig 1: 79 (1822) var. farinosa
-    Amanita farinosa var. mexicana Cifuentes, Villegas & G. Santiago, in Santiago, Cifuentes & Villegas, Boln. Soc. mex. Micol. 19: 98 (1984)
+    <i>Amanitopsis farinosa</i> (Schwein.) G.F. Atk., Mushrooms: 76 (1900);
+    <i>Amanitella farinosa</i> (Schwein.) Earle, Bull. New York Bot. Gard. 5: 449 (1909)
+    <i>Vaginata farinosa</i> (Schwein.) Murrill, Mycologia 4(1): 3 (1912)
+    <i>Amanita farinosa</i> Schwein., Schr. naturf. Ges. Leipzig 1: 79 (1822) var. farinosa
+    <i>Amanita farinosa var. mexicana</i> Cifuentes, Villegas & G. Santiago, in Santiago, Cifuentes & Villegas, Boln. Soc. mex. Micol. 19: 98 (1984)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

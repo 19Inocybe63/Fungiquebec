@@ -280,7 +280,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée majoritairement de sphérocystes
   trame-tubulaire: 
   type: 
   typique: 

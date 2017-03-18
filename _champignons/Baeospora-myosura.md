@@ -1,6 +1,6 @@
 ---
 nom: Baeospora myosura
-date: 2017-03-08 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/9/8453/8042774343_50f59b2d29_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8042774343/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
 album-flickr:
@@ -47,7 +47,7 @@ description:
   base-stipitiforme: 
   basides: cylindriques à claviformes, bisporiques à tétrasporiques, bouclées à la base, 12-14 x 3-4 µm
   basidiospores: |
-    ellipsoïdes à ovoïdes, lisses, à paroi légèrement épaissie, entre 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines, verdâtres dans le NH<SUB>4</SUB>OH 2%, faiblement amyloïdes, faiblement cyanophiles
+    ellipsoïdes à ovoïdes, lisses, à paroi légèrement épaissie, entre 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines dans le NH<SUB>4</SUB>OH 2%, faiblement amyloïdes, faiblement cyanophiles
     3,3 [3,7; 3,8] 4,1 x 2 [2,5; 2,7] 3,1 µm
     Q = 1,2 [1,4; 1,5] 1,7; N = 30; C = 95%
     Me = 3,7 x 2,6 µm; Qe = 1,5
@@ -227,10 +227,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -252,14 +252,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Baeospora myosura (Fr.) Singer, Revue de Mycologie 3: 193 (1938)
-    Agaricus myosurus Fr., Observationes mycologicae 2: 129 (1818)
-    Collybia myosura (Fr.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5: 95 (1872)
-    Collybia clavus var. myosura (Fries) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium: 30 (1886)
-    Marasmius myosuros (Fr.) P. Karst. (1889)
-    Marasmius myosurus (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 48: 102 (1889)
-    Mycena myosura (Fr.) Kühner, Encyclopédie Mycologique 10: 526 (1938)
-    Agaricus conigenus Pers. (1801)
+    <i>Baeospora myosura</i> (Fr.) Singer, Revue de Mycologie 3: 193 (1938)
+    <i>Agaricus myosurus</i> Fr., Observationes mycologicae 2: 129 (1818)
+    <i>Collybia myosura</i> (Fr.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5: 95 (1872)
+    <i>Collybia clavus var. myosura</i> (Fries) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium: 30 (1886)
+    <i>Marasmius myosuros</i> (Fr.) P. Karst. (1889)
+    <i>Marasmius myosurus</i> (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 48: 102 (1889)
+    <i>Mycena myosura</i> (Fr.) Kühner, Encyclopédie Mycologique 10: 526 (1938)
+    <i>Agaricus conigenus</i> Pers. (1801)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

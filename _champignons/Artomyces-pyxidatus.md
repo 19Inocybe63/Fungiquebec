@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2017-03-14 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
@@ -240,10 +240,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
     Potasse (KOH 10%) = jaune brunâtre pâle sur chair et rameaux
     Sulfate de fer (FeSO<SUB>4</SUB>) = pas de coloration à légèrement grisâtre ou brunâtre sur les branches et la base
@@ -268,12 +268,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Clavaria pyxidata Pers., Neues Magazin für die Botanik 1:117 (1794)
-    Merisma pyxidatum (Pers.) Spreng., Caroli Linnaei systema vegetabilium 4(1):496 (1827)
-    Clavicorona pyxidata (Pers.) Doty, Lloydia 10:43 (1947)
-    Clavicorona pyxidata var. pyxidata (Pers.) Doty:43 (1947)
-    Clavaria coronata Schwein., Transactions of the American Philosophical Society 4 (2):182 (1832)
-    Clavaria petersii Berk. & M.A. Curtis, Grevillea 2 (13):7 (1873)
+    <i>Clavaria pyxidata</i> Pers., Neues Magazin für die Botanik 1:117 (1794)
+    <i>Merisma pyxidatum</i> (Pers.) Spreng., Caroli Linnaei systema vegetabilium 4(1):496 (1827)
+    <i>Clavicorona pyxidata</i> (Pers.) Doty, Lloydia 10:43 (1947)
+    <i>Clavicorona pyxidata var. pyxidata</i> (Pers.) Doty:43 (1947)
+    <i>Clavaria coronata</i> Schwein., Transactions of the American Philosophical Society 4 (2):182 (1832)
+    <i>Clavaria petersii</i> Berk. & M.A. Curtis, Grevillea 2 (13):7 (1873)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

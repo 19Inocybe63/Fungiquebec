@@ -219,7 +219,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: nombreuses, longuement fusiformes avec parfois l’apex mucroné à rarement rostrés, lancéolées à sublancéolées, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-) (84,3) 90,7 - 142,2 (154,1) × (9,7) 10,1 - 11,7 (14,1) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

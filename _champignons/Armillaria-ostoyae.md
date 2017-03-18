@@ -1,6 +1,6 @@
 ---
 nom: Armillaria ostoyae
-date: 2017-03-12 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/6/5598/15505206645_8151e39b28_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15505206645/in/photolist-pLEhxV-pBRYht-pkCiBH-pC9eK4-pkDsTA
 album-flickr:
@@ -234,10 +234,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
@@ -260,10 +260,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Armillariella ostoyae Romagn., Bulletin de la Société Mycologique de France 86 (1):265 (1970)
-    Agaricus congregatus Bolton, An History of Fungusses, Growing about Halifax App., t. 140 (1791)
-    Armillaria mellea var. obscura Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:84 (1874)
-    Armillaria solidipes Peck, Bulletin of the Torrey Botanical Club 27 (12):611 (1900)
+    <i>Armillariella ostoyae</i> Romagn., Bulletin de la Société Mycologique de France 86 (1):265 (1970)
+    <i>Agaricus congregatus</i> Bolton, An History of Fungusses, Growing about Halifax App., t. 140 (1791)
+    <i>Armillaria mellea var. obscura</i> Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:84 (1874)
+    <i>Armillaria solidipes</i> Peck, Bulletin of the Torrey Botanical Club 27 (12):611 (1900)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

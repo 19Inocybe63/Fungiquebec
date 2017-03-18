@@ -1,6 +1,6 @@
 ---
 nom: Antrodiella semisupina
-date: 2017-03-13 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/6/5564/14658395437_928c323f9a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14658395437/in/photolist-okj7gP
 album-flickr:
@@ -234,7 +234,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -258,13 +258,13 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Polyporus semisupinus Berk. & M.A. Curtis, Grevillea 1 (4):50 (1872)
-    Tyromyces semisupinus (Berk. & M.A. Curtis) Murrill, North American Flora 9 (1):34 (1907)
-    Leptoporus semisupinus (Berk. & M.A. Curtis) Pilát, Atlas Champ. Eur., Polypor., B:121 (1938)
-    Aporpium semisupinum (Berk. & M.A. Curtis) Bondartsev, The Polyporaceae of the European USSR and Caucasia:161 (1953)
-    Trametes semisupina (Berk. & M.A. Curtis) Ryvarden, Norwegian Journal of Botany 20 (1):10 (1973)
-    Antrodia semisupina (Berk. & M.A. Curtis) Ryvarden, The Polyporaceae of North Europe 1:88 (1976)
-    Flaviporus semisupinus (Berk. & M.A. Curtis) Ginns, Mycotaxon 21:326 (1984)
+    <i>Polyporus semisupinus</i> Berk. & M.A. Curtis, Grevillea 1 (4):50 (1872)
+    <i>Tyromyces semisupinus</i> (Berk. & M.A. Curtis) Murrill, North American Flora 9 (1):34 (1907)
+    <i>Leptoporus semisupinus</i> (Berk. & M.A. Curtis) Pilát, Atlas Champ. Eur., Polypor., B:121 (1938)
+    <i>Aporpium semisupinum</i> (Berk. & M.A. Curtis) Bondartsev, The Polyporaceae of the European USSR and Caucasia:161 (1953)
+    <i>Trametes semisupina</i> (Berk. & M.A. Curtis) Ryvarden, Norwegian Journal of Botany 20 (1):10 (1973)
+    <i>Antrodia semisupina</i> (Berk. & M.A. Curtis) Ryvarden, The Polyporaceae of North Europe 1:88 (1976)
+    <i>Flaviporus semisupinus</i> (Berk. & M.A. Curtis) Ginns, Mycotaxon 21:326 (1984)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

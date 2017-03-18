@@ -1,6 +1,6 @@
 ---
 nom: Amanita lavendula
-date: 2017-03-13 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/6/5651/30199932386_91347b7511_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30199932386/in/photolist-N1EqdS-N1ExKq
 album-flickr:
@@ -260,10 +260,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Amanita mappa var. lavendula Coker, Journal of the Elisha Mitchell Scientific Society 33 (1-2):1-88 (1917)
-    Amanita citrina var. lavendula (Coker) Sartory & Maire, Compendium Hymenom., Amanita:25 (1922)
-    Amanita porphyria var. lavendula (Coker) L. Krieg., Mycologia 19 (6):309 (1927)
-    Amanita citrina f. lavendula (Coker) Veselý, Annales Mycologici 31 (4):239 (1933)
+    <i>Amanita mappa var. lavendula</i> Coker, Journal of the Elisha Mitchell Scientific Society 33 (1-2):1-88 (1917)
+    <i>Amanita citrina var. lavendula</i> (Coker) Sartory & Maire, Compendium Hymenom., Amanita:25 (1922)
+    <i>Amanita porphyria var. lavendula</i> (Coker) L. Krieg., Mycologia 19 (6):309 (1927)
+    <i>Amanita citrina f. lavendula</i> (Coker) Veselý, Annales Mycologici 31 (4):239 (1933)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

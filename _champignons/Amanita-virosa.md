@@ -1,6 +1,6 @@
 ---
 nom: Amanita virosa
-date: 2017-03-14 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/1/678/20665354231_ac839dd947_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665354231/in/photolist-xu8kQT-xtwWYn
 album-flickr:
@@ -263,7 +263,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = le chapeau devient rapidement jaune
@@ -293,9 +293,9 @@ description:
     phalloïdien
     Diverses toxines (cyclopeptides) sont responsables.
   synonymie: |
-    Agaricus virosus Fr., Epicrisis Systematis Mycologici:3 (1838)
-    Amanitina virosa (Bertill.) E.-J. Gilbert, Iconographia Mycologica 27:78 (1940)
-    Agaricus virosus Fr., Epicrisis Systematis Mycologici:3 (1838)
+    <i>Agaricus virosus</i> Fr., Epicrisis Systematis Mycologici:3 (1838)
+    <i>Amanitina virosa</i> (Bertill.) E.-J. Gilbert, Iconographia Mycologica 27:78 (1940)
+    <i>Agaricus virosus</i> Fr., Epicrisis Systematis Mycologici:3 (1838)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -76,7 +76,7 @@ description:
   chancre: 
   chapeau: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, à marge appendiculée de restes vélaires.
   cheilochrysocystides:
-  cheilocystides: abondantes ; peu émergentes ; formées de cellules cylindriques à subglobuleuses, oblongues à piriformes, caténulées, (8,2) 10,5-15,1 (22,3) × (4,1) 5,5-8,1 (8,6) µm
+  cheilocystides: abondantes, peu émergentes, formées de cellules cylindriques à subglobuleuses, oblongues à piriformes, caténulées, (8,2) 10,5-15,1 (22,3) × (4,1) 5,5-8,1 (8,6) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

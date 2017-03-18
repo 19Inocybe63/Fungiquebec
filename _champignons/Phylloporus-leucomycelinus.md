@@ -1,6 +1,6 @@
 ---
 nom: Phylloporus leucomycelinus
-date: 2017-03-09 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/1/618/20171022673_3a523b2c21_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20171022673/in/photolist-CAxxCb-wJrLhZ-wJtepT
 album-flickr:
@@ -50,7 +50,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, non bouclées à la base 29,74-30,49 x 6,7 µm en moyenne
   basidiospores: |
-    elliptiques à subcylindriques, lisses, à paroi mince, avec petit appendice hilaire et une petite dépression supra hilaire, à contenu uniguttulé à variable, hyalines verdâtres dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
+    elliptiques à subcylindriques, lisses, à paroi mince, avec petit appendice hilaire et une petite dépression supra hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     (9,4) 9,6 - 10,9 (11,6) x (3,3) 3,5 - 3,9 (4,4) µm
     Q = (2,2) 2,5 - 3 (3,3); N = 30
     Me = 10,2 x 3,8 µm; Qe = 2,7
@@ -233,16 +233,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    NH<SUB>4</SUB>OH 10% = le chapeau devient bleu vert
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient bleu vert
   receptacle: 
   remarques: 
   repartition: 

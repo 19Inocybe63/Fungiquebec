@@ -85,7 +85,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Kibby indique (dans <i>Keys to the species of Russula in Northeastern North America</i>) que les piléocystides sont faiblement sulfovanilline (SV+). Pour ma part, les hyménocystides et les dermatocystides sont sulfovanillines négatives (SV-) et sulfobenzaldéhydes négatifs (SBA-). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -219,7 +219,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, longuement fusiformes avec parfois l’apex mucroné à rarement rostrés, lancéolées à sublancéolées, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-) (84,3) 90,7 - 142,2 (154,1) × (9,7) 10,1 - 11,7 (14,1) µm en moyenne
+  pleurocystides: nombreuses, longuement fusiformes, parfois avec apex mucroné à rarement rostrés, lancéolées à sublancéolées, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-) (84,3) 90,7 - 142,2 (154,1) × (9,7) 10,1 - 11,7 (14,1) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

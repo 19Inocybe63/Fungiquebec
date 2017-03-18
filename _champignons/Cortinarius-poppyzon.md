@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius poppyzon
-date: 2017-03-14 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/6/5619/29289082834_c2f7203165_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29289082834/in/photolist-Rdv8ky-LCbcUN-MpxjQN
 album-flickr:
@@ -53,7 +53,7 @@ description:
     (6,1) 6,4 - 7,5 (8) × (4,6) 4,7 - 5,3 (5,5) µm
     Q = (1,3) 1,32 - 1,5 (1,6) ; N = 30
     Me = 7 × 5 µm ; Qe = 1,4
-    (Piximètre, formule classique ; mesures issues d'une sporée dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -84,7 +84,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Karl Soop. « Les Telamonia sont très proches l’un à l’autre, aussi bien sur le plan morpho que génétique. Souvent deux récoltes ± pareilles à vue diffèrent dans la région ITS d’un nucléotide ou deux. Est-ce deux espèces ou une ? C’est une question d’opinion et rien d’autre. Le concept d’espèce n’est jamais absolu, et il est plus “vague” ou plus douteux dans les Telamonia qu'ailleurs dans la systématique mycologique. Il s’ensuit que beaucoup “d’espèces” restent à découvrir, surtout en Amérique du Nord, où assez peu ont été étudiés. Les chances (ou risques ?) que ta récolte soit une espèce non décrite sont considérables, je dirais plus que 50%. Je n’ai malheureusement pas accès à un labo qui fasse l’ADN, et se servir d’un commercial n’est pas bon marché. »
+  commentaires: De Karl Soop. « Les Telamonia sont très proches l’un à l’autre, aussi bien sur le plan morpho que génétique. Souvent deux récoltes ± pareilles à vue diffèrent dans la région ITS d’un nucléotide ou deux. Est-ce deux espèces ou une ? C’est une question d’opinion et rien d’autre. Le concept d’espèce n’est jamais absolu, et il est plus “vague” ou plus douteux dans les Telamonia qu'ailleurs dans la systématique mycologique. Il s’ensuit que beaucoup “d’espèces” restent à découvrir, surtout en Amérique du Nord, où assez peu ont été étudiés. Les chances (ou risques ?) que ta récolte soit une espèce non décrite sont considérables, je dirais plus que 50%. »
   conidies: 
   conidiome: 
   conidiophores: 

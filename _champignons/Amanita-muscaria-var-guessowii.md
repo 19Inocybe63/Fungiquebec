@@ -1,6 +1,6 @@
 ---
 nom: Amanita muscaria var. guessowii
-date: 2017-03-06 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/4/3804/9383558688_c77720140f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9383558688/in/photolist-ficc5C
 album-flickr:
@@ -232,7 +232,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
@@ -256,9 +256,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Amanita muscaria var. güssowii Veselý (1933)
-    Amanita muscaria f. gussowii (Veselý) Neville & Poumarat (2002)
-    Amanita muscaria f. guessowii (Veselý) Neville & Poumarat, Bulletin de la Société Mycologique de France 117 (4):305 (2002)
+    <i>Amanita muscaria var. güssowii</i> Veselý (1933)
+    <i>Amanita muscaria f. gussowii</i> (Veselý) Neville & Poumarat (2002)
+    <i>Amanita muscaria f. guessowii</i> (Veselý) Neville & Poumarat, Bulletin de la Société Mycologique de France 117 (4):305 (2002)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

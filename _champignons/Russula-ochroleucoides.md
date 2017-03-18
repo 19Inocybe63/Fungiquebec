@@ -214,7 +214,7 @@ description:
   pied: 60 x 21 mm Ø, égal, très ferme, plein, blanc avec des teintes jaunes
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en deux couches ; 1e) couche supérieure en tomentum formé d'éléments dressés, arrondis à subaigus à l'apex, certains flexueux, hyalins, et de piléocystides ; 2e) couche formé d’hyphes en cutis
   pileitrame: 
   pileocystides: peu nombreuses, cylindriques, claviformes à subclaviformes, ochracées, réfringentes dans le KOH 5%, sulfobenzaldéhyde négatif (SBA-), jusqu'à 100-130 x 7-8 µm en moyenne
   plasmode: 

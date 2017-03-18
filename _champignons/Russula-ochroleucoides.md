@@ -77,7 +77,7 @@ description:
   chancre: 
   chapeau: 102 mm Ø, pruineux, sec, jaune à jaune orangé, cuticule inséparable de la chair
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: nombreuses, cylindriques à longuement fusiformes, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-), (61,5) 70,7 - 92 (93,2) × (7,4) 7,7 - 10,1 (10,8) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

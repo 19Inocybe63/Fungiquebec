@@ -1,6 +1,6 @@
 ---
 nom: Amanita porphyria
-date: 2017-03-13 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/4/3928/15243769398_3a8366c102_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15243769398/in/photolist-pvuPJA-pe3iyj-pvwDBR-pe3vM6
 album-flickr:
@@ -233,7 +233,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -256,12 +256,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus porphyreus (Alb. & Schwein.) Fr. (1821)
-    Agaricus porphyrius (Alb. & Schwein.) Fr., Systema Mycologicum 1:14 (1821)
-    Amanitina porphyria (Alb. & Schwein.) E.-J. Gilbert, Iconographia Mycologica 27:78 (1940)
-    Agaricus porphyreus (Alb. & Schwein.) Fr. (1821)
-    Amanita tomentella Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 4:23, 29:6-9 (1836)
-    Agaricus recutitus Fr., Epicrisis Systematis Mycologici:6 (1838)
+    <i>Agaricus porphyreus</i> (Alb. & Schwein.) Fr. (1821)
+    <i>Agaricus porphyrius</i> (Alb. & Schwein.) Fr., Systema Mycologicum 1:14 (1821)
+    <i>Amanitina porphyria</i> (Alb. & Schwein.) E.-J. Gilbert, Iconographia Mycologica 27:78 (1940)
+    <i>Agaricus porphyreus</i> (Alb. & Schwein.) Fr. (1821)
+    <i>Amanita tomentella</i> Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 4:23, 29:6-9 (1836)
+    <i>Agaricus recutitus</i> Fr., Epicrisis Systematis Mycologici:6 (1838)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

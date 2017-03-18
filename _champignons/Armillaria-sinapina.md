@@ -1,6 +1,6 @@
 ---
 nom: Armillaria sinapina
-date: 2017-03-06 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/9/8169/8064698711_27a2a80ff8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8064698711/in/photolist-eceEmc-dhDFXv
 album-flickr:
@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, bouclées à la base, peu émergentes, 25-35 x 4,5-8 µm
   basidiospores: |
-    ellipsoïdes à légèrement ovoïdes, lisses, à paroi légèrement épaissie, de 0,4-0,6 µm, avec appendice hilaire, à contenu uniguttulé parfois biguttulé, hyalines, verdâtres dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer
+    ellipsoïdes à légèrement ovoïdes, lisses, à paroi légèrement épaissie, de 0,4-0,6 µm, avec appendice hilaire, à contenu uniguttulé parfois biguttulé, hyalines dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer
     7,2 [8,1; 8,6] 9,5 x 4,2 [4,9; 5,3] 6 µm
     Q = 1,3 [1,6; 1,7] 2; N = 22; C = 95%
     Me = 8,4 x 5,1 µm; Qe = 1,7
@@ -237,10 +237,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 

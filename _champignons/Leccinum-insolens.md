@@ -1,6 +1,6 @@
 ---
 nom: Leccinum insolens
-date: 2017-03-07 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/9/8309/7996768584_cf8f588230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996768584/in/photolist-dWueXc-dbDwGq-dbDukK
 album-flickr:
@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: piriformes, tétrasporiques, non bouclées à la base, de 23-26 x 9-10 µm en moyenne
   basidiospores: |
-    subellipsoïdes à subfusiformes, lisses, à paroi mince de 0,2-0,3 µm, à contenu souvent uniguttulé parfois granuleux, avec appendice hilaire, et dépression suprahilaire, verdâtres en NH<sub>4</sub>OH 2%, pas de réaction dans le melzer
+    subellipsoïdes à subfusiformes, lisses, à paroi mince de 0,2-0,3 µm, à contenu souvent uniguttulé parfois granuleux, avec appendice hilaire, et dépression suprahilaire, hyalines en NH<sub>4</sub>OH 2%, pas de réaction dans le melzer
     11,6 [13,9; 14,8] 17,1 x 3,5 [4,1; 4,4] 5,1 µm
     Q = 2,8 [3,3; 3,5] 4; N = 35; C = 95%
     Me = 14,3 x 4,3 µm; Qe = 3,4
@@ -235,16 +235,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = bleue sur la chair
+    Sulfate de fer (FeSO<sub>4</sub>) = bleue sur la chair
   receptacle: 
   remarques: 
   repartition: 

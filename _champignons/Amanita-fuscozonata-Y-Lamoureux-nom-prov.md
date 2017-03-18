@@ -1,6 +1,6 @@
 ---
 nom: Amanita fuscozonata Y. Lamoureux nom. prov.
-date: 2017-03-06 00:00:00
+date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/3/2825/9331711293_e30710d682_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9331711293/in/photolist-fdBtyn-fdBsE2
 album-flickr:
@@ -232,7 +232,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Lamoureux, Yves. Champignons du Québec, Tome 2, Les Amanites, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

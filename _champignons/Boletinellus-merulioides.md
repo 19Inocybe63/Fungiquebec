@@ -1,6 +1,6 @@
 ---
 nom: Boletinellus merulioides
-date: 2017-03-14 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/681/20710760485_9274b8e443_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20710760485/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S
 album-flickr:
@@ -241,13 +241,14 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: Smith, Alexander H., and Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971.
+  publications: |
+    <b>Smith, Alexander H. ; and Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient noirâtre puis rouge terne à orangé
     Potasse (KOH 10%) = le chapeau devient noirâtre puis rouge terne à orangé
@@ -271,12 +272,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Daedalea merulioides Schwein., Transactions of the American Philosophical Society 4 (2):160 (1832)
-    Gyrodon merulioides (Schwein.) Singer, Revue de Mycologie 3 (4-5):171 (1938)
-    Boletinus merulioides (Schwein.) Coker & Beers, The Boletaceae of North Carolina:82 (1943)
-    Boletus merulioides (Schwein.) Coker & Beers (1948)
-    Cantharellus olivaceus Schwein., Transactions of the American Philosophical Society 4 (2):153 (1832)
-    Paxillus porosus Berk., London Journal of Botany 6:314 (1847)
+    <i>Daedalea merulioides</i> Schwein., Transactions of the American Philosophical Society 4 (2):160 (1832)
+    <i>Gyrodon merulioides</i> (Schwein.) Singer, Revue de Mycologie 3 (4-5):171 (1938)
+    <i>Boletinus merulioides</i> (Schwein.) Coker & Beers, The Boletaceae of North Carolina:82 (1943)
+    <i>Boletus merulioides</i> (Schwein.) Coker & Beers (1948)
+    <i>Cantharellus olivaceus</i> Schwein., Transactions of the American Philosophical Society 4 (2):153 (1832)
+    <i>Paxillus porosus</i> Berk., London Journal of Botany 6:314 (1847)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

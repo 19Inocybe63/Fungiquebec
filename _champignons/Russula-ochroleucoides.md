@@ -1,6 +1,6 @@
 ---
 nom: Russula ochroleucoides
-date: 2017-03-18 00:00:00
+date: 2017-03-19 00:00:00
 image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
@@ -20,8 +20,8 @@ collections:
     date: 10 août 2016
     planche:
       numero: cKc0535-0161
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c2.staticflickr.com/4/3776/33380044122_960b8841a6_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/33380044122/in/photolist-SRFsb7-L2hbRK-K5Jnyo-K5JcvN/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture

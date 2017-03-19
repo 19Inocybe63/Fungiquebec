@@ -1,6 +1,6 @@
 ---
 nom: Boletus subcaerulescens
-date: 2017-03-13 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/6/5657/20677827014_5ccdd426a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20677827014/in/photolist-yaCLKE-xvegyS
 album-flickr:
@@ -228,14 +228,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Ammoniaque (NH<SUB>4</SUB>OH 10%) = rosé sur la chair du stipe et du chapeau ; verdâtre sur le stipe et la cuticule
     Potasse (KOH 10%) = rose sur les tubes ; verdâtre sur la cuticule ; rosé sur la chair ; mauve sur le stipe ; mauve puis rougeâtre sur la chair du stipe
@@ -260,9 +260,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus edulis subsp. subcaerulescens E.A. Dick & Snell (1965)
-    Boletus edulis f. subcaerulescens (E.A. Dick & Snell) Vassilkov (1966)
-    Boletus separans var. subcaerulescens (E.A. Dick & Snell) A.H. Sm. & Thiers, The Boletes of Michigan:365 (1971)
+    <i>Boletus edulis subsp. subcaerulescens</i> E.A. Dick & Snell (1965)
+    <i>Boletus edulis f. subcaerulescens</i> (E.A. Dick & Snell) Vassilkov (1966)
+    <i>Boletus separans var. subcaerulescens</i> (E.A. Dick & Snell) A.H. Sm. & Thiers, The Boletes of Michigan:365 (1971)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

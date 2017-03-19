@@ -43,7 +43,7 @@ description:
     <b>Dougoud, René</b>. <i>Contribution à la connaissance de quelques Discomycètes operculés rares ou méconnus</i>, coll. Fungi non Delineati, Pars XVIII, Edizioni Candusso, 2002.
   ascome: 
   ascospores: |
-    cylindriques, fusiformes à subbacilliformes, lisses, à paroi mince, n’ayant aucun septa, l’appendice hilaire non visible, à contenu variable, verdâtres dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, cyanophiles
+    cylindriques, fusiformes à subbacilliformes, lisses, à paroi mince, n’ayant aucun septa, l’appendice hilaire non visible, à contenu variable, hyalines dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, cyanophiles
     7,4 [8,8; 9,4] 10,7 x 2,7 [3,1; 3,2] 3,5 µm
     Q = 2,3 [2,8; 3] 3,5; N = 30; C = 95%
     Me = 9,1 x 3,1 µm; Qe = 2,9

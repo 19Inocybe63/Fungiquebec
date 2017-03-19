@@ -1,6 +1,6 @@
 ---
 nom: Boletus subvelutipes
-date: 2017-03-08 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8111/28596715912_ffdf32245e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28596715912/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
 album-flickr:
@@ -253,14 +253,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -282,7 +282,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Suillellus subvelutipes (Peck) Murrill, Lloydia 11:29 (1948)
+    <i>Suillellus subvelutipes</i> (Peck) Murrill, Lloydia 11:29 (1948)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

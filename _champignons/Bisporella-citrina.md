@@ -1,6 +1,6 @@
 ---
 nom: Bisporella citrina
-date: 2017-03-13 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15397943256/in/photolist-oTnnJF-psEu5h
 album-flickr:
@@ -38,7 +38,9 @@ description:
   apothecie: jusqu'à 1 x 3 mm Ø, globuleuse et fermée au début, puis cupuliforme, allantoïde ou étalée et convexe au disque, souvent sessile
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    <b>Dougoud, René</b>. <i>Contribution à l'étude des discomycètes</i>, Version 2013, Ascomycete.org vol 5, Fasc. 2, mars 2013, 63-89 pp.
+    <b>Dougoud, René</b>. <i>Contribution à la connaissance de quelques Discomycètes operculés rares ou méconnus</i>, coll. Fungi non Delineati, Pars XVIII, Edizioni Candusso, 2002.
   ascome: 
   ascospores: |
     cylindriques, fusiformes à subbacilliformes, lisses, à paroi mince, n’ayant aucun septa, l’appendice hilaire non visible, à contenu variable, verdâtres dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, cyanophiles
@@ -233,7 +235,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -255,8 +262,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Peziza citrina Batsch, Elenchus fungorum. Continuatio secunda:95, t. 39:218 (1789)
-    Calycella citrina (Batsch) Boud., Bulletin de la Société Mycologique de France 1:112 (1885)
+    <i>Peziza citrina</i> Batsch, Elenchus fungorum. Continuatio secunda:95, t. 39:218 (1789)
+    <i>Calycella citrina</i> (Batsch) Boud., Bulletin de la Société Mycologique de France 1:112 (1885)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Climacodon septentrionalis
-date: 2017-03-14 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/6/5666/20983721528_ec61923f61_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20983721528/in/photolist-yeXCLo-xYg4md-yeXHQS
 album-flickr:
@@ -234,7 +234,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -259,9 +259,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Hydnum septentrionale Fr., Systema Mycologicum 1:414 (1821)
-    Steccherinum septentrionale (Fr.) Banker, Memoirs of the Torrey Botanical Club 12:130 (1906)
-    Creolophus septentrionalis (Fr.) Banker, Mycologia 5 (6):293 (1912)
+    <i>Hydnum septentrionale</i> Fr., Systema Mycologicum 1:414 (1821)
+    <i>Steccherinum septentrionale</i> (Fr.) Banker, Memoirs of the Torrey Botanical Club 12:130 (1906)
+    <i>Creolophus septentrionalis</i> (Fr.) Banker, Mycologia 5 (6):293 (1912)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Coprinellus micaceus
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3902/14496677944_a47634fdd8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14311334720/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
 album-flickr:
@@ -234,12 +234,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Watling, R. Bolbitiaceae, Agrocybe, Bolbitius & Conocybe, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
-  publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -261,8 +259,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus micaceus Bull., Herbier de la France 6:t. 246 (1792)
-    Coprinus micaceus (Bull.) Fr., Epicrisis Systematis Mycologici:247 (1838)
+    <i>Agaricus micaceus</i> Bull., Herbier de la France 6:t. 246 (1792)
+    <i>Coprinus micaceus</i> (Bull.) Fr., Epicrisis Systematis Mycologici:247 (1838)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

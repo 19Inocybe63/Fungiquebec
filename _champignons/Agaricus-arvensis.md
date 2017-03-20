@@ -247,7 +247,7 @@ description:
     Potasse (KOH 10%) = le chapeau devient jaune
     Schaeffer = + ; voir la photo démontrant la réaction en croix de Schaeffer
     Soluté de gaïac = pas de coloration ou de décoloration sur la chair
-    Tl4 = le chapeau devient rose pâle
+    Tl4 = +, le chapeau devient rose pâle
   receptacle: 
   remarques: 
   repartition: 

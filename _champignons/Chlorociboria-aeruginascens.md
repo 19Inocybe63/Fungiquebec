@@ -1,6 +1,6 @@
 ---
 nom: Chlorociboria aeruginascens
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8231/29832790142_9e39b52477_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832790142/in/photolist-MsdR9J-MzfAsC
 album-flickr:
@@ -45,7 +45,7 @@ description:
     (9,5) 10,3 - 13,4 (15) × (2,1) 2,3 - 3,2 (3,3) µm
     Q = (3,5) 3,6 - 4,7 (4,9) ; N = 30
     Me = 11,7 × 2,8 µm ; Qe = 4,2
-    (Piximètre formule classique ; mesures des ascospores matures dans E.G. 20%)
+    (Piximètre formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   asques: cylindriques fusiformes, octosporés et ± bisériés, apex IKI +b, (63,7) 64,5 - 66,4 (84,5) × (5,8) 5,9 - 6,4 (6,5) µm
   asterohyphidies: 
   avertissement: 
@@ -236,13 +236,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Dougoud, René. Contribution à la connaissance de quelques Discomycètes operculés rares ou méconnus, Fungi non Delineati, Pars XVIII Edizioni Candusso, 2002, 37 p.
+    <b>Dougoud, René</b>. <i>Contribution à la connaissance de quelques Discomycètes operculés rares ou méconnus</i>, Fungi non Delineati, Pars XVIII Edizioni Candusso, 2002, 37 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiosporres</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -264,10 +264,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Peziza aeruginascens Nyl. (1869)
-    Chlorosplenium aeruginosum var. aeruginascens (Nyl.) P. Karst.:233 (1870)
-    Chlorosplenium aeruginascens (Nyl.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 19:103 (1871)
-    Chlorociboria aeruginascens (Nyl.) Kanouse, Mycologia 39:641 (1947)
+    <i>Peziza aeruginascens</i> Nyl. (1869)
+    <i>Chlorosplenium aeruginosum var. aeruginascens</i> (Nyl.) P. Karst.:233 (1870)
+    <i>Chlorosplenium aeruginascens</i> (Nyl.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 19:103 (1871)
+    <i>Chlorociboria aeruginascens</i> (Nyl.) Kanouse, Mycologia 39:641 (1947)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

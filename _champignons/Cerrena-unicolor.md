@@ -1,6 +1,6 @@
 ---
 nom: Cerrena unicolor
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3876/14783725081_686bf42dfe_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14783725081/in/photolist-ofb36w-ofb1ZJ-owCLCw-owospK
 album-flickr:
@@ -231,7 +231,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -254,26 +254,26 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus unicolor Bull., Herbier de la France 9:t. 408 (1789)
-    Sistotrema cinereum Pers., Neues Magazin für die Botanik 1:109 (1794)
-    Daedalea unicolor (Bull.) Fr., Systema Mycologicum 1:336 (1821)
-    Cerrena cinerea (Pers.) Gray, A natural arrangement of British plants 1:649 (1821)
-    Sistotrema unicolor (Bull.) Secr., Mycographie Suisse, ou Description des Champignons, qui Croissent en Suisse, Particulièrment dans le Canton de Vaud, aux Environs de Lausanne 2:498 (1833)
-    Striglia unicolor (Bull.) Kuntze, Revisio generum plantarum 2:871 (1891)
-    Coriolus unicolor (Bull.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:94 (1900)
-    Bulliardia unicolor (Bull.) Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:840 (1916)
-    Trametes unicolor (Bull.) Pilát, Atlas Champ. Eur.:279 (1939)
-    Phyllodontia unicolor (Bull.) Bondartsev & Singer, Annales Mycologici 39 (1):59 (1941)
-    Lenzites unicolor (Bull.) G. Cunn., Bulletin of the New Zealand Department of Industrial Research 81:21 (1949)
-    Daedalea cinerea Pers., Synopsis methodica fungorum:500 (1801)
-    Daedalea cinerea Fr., Observationes mycologicae 1:105 (1815)
-    Hydnum squalinum Fr., Systema Mycologicum 1:420 (1821)
-    Phyllodontia magnusii P. Karst., Hedwigia 22:163 (1883)
-    Dryodon squalinum (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium 0:193 (1886)
-    Daedaleopsis incana P. Karst., Öfvers. finska VetenskSoc. Förh. 46 (11):4 (1904)
-    Bulliardia grisea Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:841 (1916)
-    Bulliardia nigrozonata Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:843 (1916)
-    Daedalea lobata Velen., Ceske Houby 4-5:692 (1922)
+    <i>Boletus unicolor</i> Bull., Herbier de la France 9:t. 408 (1789)
+    <i>Sistotrema cinereum</i> Pers., Neues Magazin für die Botanik 1:109 (1794)
+    <i>Daedalea unicolor</i> (Bull.) Fr., Systema Mycologicum 1:336 (1821)
+    <i>Cerrena cinerea</i> (Pers.) Gray, A natural arrangement of British plants 1:649 (1821)
+    <i>Sistotrema unicolor</i> (Bull.) Secr., Mycographie Suisse, ou Description des Champignons, qui Croissent en Suisse, Particulièrment dans le Canton de Vaud, aux Environs de Lausanne 2:498 (1833)
+    <i>Striglia unicolor</i> (Bull.) Kuntze, Revisio generum plantarum 2:871 (1891)
+    <i>Coriolus unicolor</i> (Bull.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:94 (1900)
+    <i>Bulliardia unicolor</i> (Bull.) Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:840 (1916)
+    <i>Trametes unicolor</i> (Bull.) Pilát, Atlas Champ. Eur.:279 (1939)
+    <i>Phyllodontia unicolor</i> (Bull.) Bondartsev & Singer, Annales Mycologici 39 (1):59 (1941)
+    <i>Lenzites unicolor</i> (Bull.) G. Cunn., Bulletin of the New Zealand Department of Industrial Research 81:21 (1949)
+    <i>Daedalea cinerea</i> Pers., Synopsis methodica fungorum:500 (1801)
+    <i>Daedalea cinerea</i> Fr., Observationes mycologicae 1:105 (1815)
+    <i>Hydnum squalinum</i> Fr., Systema Mycologicum 1:420 (1821)
+    <i>Phyllodontia magnusii</i> P. Karst., Hedwigia 22:163 (1883)
+    <i>Dryodon squalinum</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium 0:193 (1886)
+    <i>Daedaleopsis incana</i> P. Karst., Öfvers. finska VetenskSoc. Förh. 46 (11):4 (1904)
+    <i>Bulliardia grisea</i> Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:841 (1916)
+    <i>Bulliardia nigrozonata</i> Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:843 (1916)
+    <i>Daedalea lobata</i> Velen., Ceske Houby 4-5:692 (1922)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

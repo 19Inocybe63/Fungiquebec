@@ -1,6 +1,6 @@
 ---
 nom: Cladomeris umbellata
-date: 2017-03-14 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/382/18933921856_c849d27f0b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18933921856/in/photolist-uR8inE-uR8ims-uR8ijy
 album-flickr:
@@ -234,7 +234,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
@@ -259,18 +259,18 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus umbellatus Pers., Synopsis methodica fungorum:519 (1801)
-    Polyporus umbellatus (Pers.) Fr., Systema Mycologicum 1:354 (1821)
-    Merisma umbellatum (Pers.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:691 (1878)
-    Polypilus umbellatus (Pers.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:24 (1882)
-    Cerioporus umbellatus (Pers.) Quél., Flore mycologique de la France et des pays limitrophes:409 (1888)
-    Cladodendron umbellatum (Pers.) Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:865 (1916)
-    Grifola umbellata (Pers.) Pilát, Beih. Bot. Zentbl.:25 (1934)
-    Dendropolyporus umbellatus (Pers.) Jülich, Bibliotheca Mycologica 85:400 (1982)
-    Boletus ramosissimus Scop., Flora carniolica 2:470 (1772)
-    Boletus ramosus Vahl, Fl. danica 7:f. 1197 (1797)
-    Polyporus chuling Shirai, Bot. Mag. Tokyo:92 (1905)
-    Polyporus chu-ling Shirai (1905)
+    <i>Boletus umbellatus</i> Pers., Synopsis methodica fungorum:519 (1801)
+    <i>Polyporus umbellatus</i> (Pers.) Fr., Systema Mycologicum 1:354 (1821)
+    <i>Merisma umbellatum</i> (Pers.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:691 (1878)
+    <i>Polypilus umbellatus</i> (Pers.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:24 (1882)
+    <i>Cerioporus umbellatus</i> (Pers.) Quél., Flore mycologique de la France et des pays limitrophes:409 (1888)
+    <i>Cladodendron umbellatum</i> (Pers.) Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:865 (1916)
+    <i>Grifola umbellata</i> (Pers.) Pilát, Beih. Bot. Zentbl.:25 (1934)
+    <i>Dendropolyporus umbellatus</i> (Pers.) Jülich, Bibliotheca Mycologica 85:400 (1982)
+    <i>Boletus ramosissimus</i> Scop., Flora carniolica 2:470 (1772)
+    <i>Boletus ramosus</i> Vahl, Fl. danica 7:f. 1197 (1797)
+    <i>Polyporus chuling</i> Shirai, Bot. Mag. Tokyo:92 (1905)
+    <i>Polyporus chu-ling</i> Shirai (1905)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

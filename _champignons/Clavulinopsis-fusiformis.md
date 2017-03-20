@@ -1,6 +1,6 @@
 ---
 nom: Clavulinopsis fusiformis
-date: 2017-03-14 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/685/20665078175_836e5968f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665078175/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
 album-flickr:
@@ -73,7 +73,7 @@ description:
     (5,3) 5,34 - 6,6 (6,9) × (4,2) 5,1 - 6,1 (6,2) µm
     Q = 1 - 1,2 (1,3) ; N = 25
     Me = 6,1 × 5,6 µm ; Qe = 1,1
-    (formule classique)
+    (Piximètre, formule classique)
   basidioles: 
   basidiome: 60-120 (150) mm de hauteur, 2-10 mm de largeur, clavulé, cylindrique, rarement ramifié une ou deux fois vers l'apex, souvent ± aplati, avec axe luné ou en croissant, plein puis creux, aigu à étroitement arrondi à l'apex, rarement trapu à tronqué, jaune brillant, jaune citron à orangé vif, souvent plus foncé vers l'apex, brunâtre à rougeâtre, surtout avec l'âge
   bibliographies: 
@@ -102,7 +102,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Belle planche ! Mais (avec Yves, rarement pas de "mais..."), les basidiomes sont trop jeunes pour une planche parfaite ; cela prendrait une autre grappe à côté illustrant des basidiomes une fois rendus fusiformes, donc à maturité. À la limite, tu aurais pu cueillir juste une langue et laisser les autres pousser une semaine (ou rarement deux ?) de plus et revenir les photographier et les cueillir pour les joindre à ton premier champignon étudié (le seul que tu aurais cueilli. Et ne pas oublier que lorsque les pointes sont brunes, c'est parce qu'elles sont collapsées, généralement par le soleil et le vent. Cela donne parfois même une touche de beauté à l'espèce, mais il ne faut jamais étudier les cellules brunies pour quoi que ce soit. »
+  commentaires: De Yves Lamoureux. « Belle planche ! Mais les basidiomes sont trop jeunes pour une planche parfaite ; cela prendrait une autre grappe à côté illustrant des basidiomes une fois rendus fusiformes, donc à maturité. À la limite, tu aurais pu cueillir juste une langue et laisser les autres pousser une semaine (ou rarement deux ?) de plus et revenir les photographier et les cueillir pour les joindre à ton premier champignon étudié (le seul que tu aurais cueilli. Et ne pas oublier que lorsque les pointes sont brunes, c'est parce qu'elles sont collapsées, généralement par le soleil et le vent. Cela donne parfois même une touche de beauté à l'espèce, mais il ne faut jamais étudier les cellules brunies pour quoi que ce soit. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -253,7 +253,11 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
     Potasse (KOH 10%) = pas de coloration ou de décoloration
   receptacle: 
@@ -276,11 +280,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Clavaria fusiformis Sowerby, Coloured Figures of English Fungi 2:98, pl. 234 (1799)
-    Clavaria inaequalis var. fusiformis (Sowerby) Fr., Elenchus Fungorum 1:231 (1828)
-    Ramariopsis fusiformis (Sowerby) R.H. Petersen, Mycologia 70 (3):668 (1978)
-    Clavaria compressa Schwein., Transactions of the American Philosophical Society 4 (2):182 (1832)
-    Clavaria platyclada Peck, Bulletin of the Torrey Botanical Club 23 (10):419 (1896)
+    <i>Clavaria fusiformis</i> Sowerby, Coloured Figures of English Fungi 2:98, pl. 234 (1799)
+    <i>Clavaria inaequalis var. fusiformis</i> (Sowerby) Fr., Elenchus Fungorum 1:231 (1828)
+    <i>Ramariopsis fusiformis</i> (Sowerby) R.H. Petersen, Mycologia 70 (3):668 (1978)
+    <i>Clavaria compressa</i> Schwein., Transactions of the American Philosophical Society 4 (2):182 (1832)
+    <i>Clavaria platyclada</i> Peck, Bulletin of the Torrey Botanical Club 23 (10):419 (1896)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

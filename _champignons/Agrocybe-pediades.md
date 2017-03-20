@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe pediades
-date: 2017-03-14 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/8/7351/27376363195_4f178bde92_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27376363195/in/photolist-HHa1ZZ-HAV7A8-nTpic6-nTLDni/
 album-flickr:
@@ -250,7 +250,7 @@ description:
   reactions-macrochimiques: |
     Potasse (KOH 10%) = coloration rose à rougeâtre sur le chapeau
     Sulfate de fer (FeSO<sub>4</sub>) = légèrement verdâtre sur le chapeau et les lames après plusieurs minutes
-    TL4 = -
+    Tl4 = -
   receptacle: 
   remarques: 
   repartition: 

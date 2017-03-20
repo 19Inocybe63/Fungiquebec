@@ -247,7 +247,7 @@ description:
   reactions-macrochimiques: |
     KOH 10% = le chapeau devient orangé à rougeâtre
     NH<SUB>4</SUB>OH 10% = le chapeau devient orangé
-    Tl4 = le chapeau devient rose foncé puis brun
+    Tl4 = +, le chapeau devient rose foncé puis brun
   receptacle: 
   remarques: 
   repartition: 

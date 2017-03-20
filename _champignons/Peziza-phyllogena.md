@@ -137,7 +137,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: formée de petites méchules (comme finement granuleuse), beige à reflets jaunâtres, violacée à la base et près du centre
+  face-externe: formée de petites méchules (comme finement granuleuse), beige à reflets jaunâtres ; violacée à la base et près du centre
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 

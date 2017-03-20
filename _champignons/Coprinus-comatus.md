@@ -1,6 +1,6 @@
 ---
 nom: Coprinus comatus
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8463/8122208811_c0a46004cc_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8122208811/in/photolist-dnJrGX
 album-flickr:
@@ -234,7 +234,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -258,9 +259,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus cylindricus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:5, t. 8 (1774)
-    Agaricus comatus O.F. Müll., Fl. dan.:t. 834 (1780)
-    Agaricus vaillantii J.F. Gmel., Systema Naturae 2 (2):1427 (1792)
+    <i>Agaricus cylindricus Schaeff</i>., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:5, t. 8 (1774)
+    <i>Agaricus comatus</i> O.F. Müll., Fl. dan.:t. 834 (1780)
+    <i>Agaricus vaillantii</i> J.F. Gmel., Systema Naturae 2 (2):1427 (1792)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

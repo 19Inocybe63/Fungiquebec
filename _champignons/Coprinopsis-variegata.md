@@ -1,6 +1,6 @@
 ---
 nom: Coprinopsis variegata
-date: 2017-03-13 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8008/7426245136_1209367d96_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7426245136/in/photolist-cmbCTq-cjerXf/
 album-flickr:
@@ -53,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur les pelouses, près ou sur bois pourri de feuillus (Ulmus)
+  biotopes: pousse au sol, sur les pelouses, près ou sur bois pourri de feuillus (<i>Ulmus</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -235,12 +235,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    <b>Noordeloos, Machiel E.  Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
@@ -264,8 +266,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Coprinus variegatus Peck, Bulletin of the Buffalo Society of Natural Sciences 1:54 (1873)
-    Coprinus atramentarius var. variegatus (Peck) Rick (1961)
+    <i>Coprinus variegatus</i> Peck, Bulletin of the Buffalo Society of Natural Sciences 1:54 (1873)
+    <i>Coprinus atramentarius var. variegatus</i> (Peck) Rick (1961)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

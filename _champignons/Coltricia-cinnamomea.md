@@ -1,6 +1,6 @@
 ---
 nom: Coltricia cinnamomea
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/320/19728812658_fe09f8de71_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19728812658/in/photolist-vp7x2F-vp7BKt-w4nCVS-voYd5E-w4njEo
 album-flickr:
@@ -234,7 +234,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -258,26 +258,26 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus cinnamomeus Jacq., Collectanea ad botanicam, chemiam, et historiam naturalem spectantia 1:116, t. 2 (1786)
-    Strilia cinnamomea (Jacq.) Gray, A natural arrangement of British plants 1:645 (1821)
-    Strilia cinnamomeus (Jacq.) Gray (1821)
-    Polyporus cinnamomeus (Jacq.) Pers., Mycologia Europaea 2:41 (1825)
-    Polystictus cinnamomeus (Jacq.) Sacc., Sylloge Fungorum 6:210 (1888)
-    Pelloporus cinnamomeus (Jacq.) Quél., Flore mycologique de la France et des pays limitrophes:402 (1888)
-    Pelloporus fimbriatus var. cinnamomeus (Jacq.) Quél., Flore mycologique de la France et des pays limitrophes:402 (1888)
-    Microporus cinnamomeus (Jacq.) Kuntze, Revisio generum plantarum 3 (2):495 (1898)
-    Xanthochrous cinnamomeus (Jacq.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:100 (1900)
-    Polystictus perennis f. cinnamomeus (Jacq.) Pilát, Atlas Champ. Europe III, Polyporaceae 1:582 (1940)
-    Polyporus parvulus Klotzsch, Linnaea 8:483 (1833)
-    Polyporus cladonia Berk., London Journal of Botany 4:51 (1845)
-    Polyporus oblectans Berk., London Journal of Botany 4:51 (1845)
-    Polyporus bulbipes Fr., Plantae Preissianae 2:135 (1847)
-    Polyporus splendens Peck, Bulletin of the Buffalo Society of Natural Sciences 1:61 (1873)
-    Polyporus casimirii Velen. (1922)
-    Polyporus baudysii Kavina, Ceske Houby 4-5:681 (1922)
-    Polyporus casimiri Velen., Ceske Houby 4-5:681 (1922)
-    Polystictus perennis f. casimirii (Velen.) Pilát (1942)
-    Coltricia perennis f. casimirii (Velen.) Bondartsev (1953)
+    <i>Boletus cinnamomeus</i> Jacq., Collectanea ad botanicam, chemiam, et historiam naturalem spectantia 1:116, t. 2 (1786)
+    <i>Strilia cinnamomea</i> (Jacq.) Gray, A natural arrangement of British plants 1:645 (1821)
+    <i>Strilia cinnamomeus</i> (Jacq.) Gray (1821)
+    <i>Polyporus cinnamomeus</i> (Jacq.) Pers., Mycologia Europaea 2:41 (1825)
+    <i>Polystictus cinnamomeus</i> (Jacq.) Sacc., Sylloge Fungorum 6:210 (1888)
+    <i>Pelloporus cinnamomeus</i> (Jacq.) Quél., Flore mycologique de la France et des pays limitrophes:402 (1888)
+    <i>Pelloporus fimbriatus var. cinnamomeus</i> (Jacq.) Quél., Flore mycologique de la France et des pays limitrophes:402 (1888)
+    <i>Microporus cinnamomeus</i> (Jacq.) Kuntze, Revisio generum plantarum 3 (2):495 (1898)
+    <i>Xanthochrous cinnamomeus</i> (Jacq.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:100 (1900)
+    <i>Polystictus perennis f. cinnamomeus</i> (Jacq.) Pilát, Atlas Champ. Europe III, Polyporaceae 1:582 (1940)
+    <i>Polyporus parvulus</i> Klotzsch, Linnaea 8:483 (1833)
+    <i>Polyporus cladonia</i> Berk., London Journal of Botany 4:51 (1845)
+    <i>Polyporus oblectans</i> Berk., London Journal of Botany 4:51 (1845)
+    <i>Polyporus bulbipes</i> Fr., Plantae Preissianae 2:135 (1847)
+    <i>Polyporus splendens</i> Peck, Bulletin of the Buffalo Society of Natural Sciences 1:61 (1873)
+    <i>Polyporus casimirii</i> Velen. (1922)
+    <i>Polyporus baudysii</i> Kavina, Ceske Houby 4-5:681 (1922)
+    <i>Polyporus casimiri</i> Velen., Ceske Houby 4-5:681 (1922)
+    <i>Polystictus perennis f. casimirii</i> (Velen.) Pilát (1942)
+    <i>Coltricia perennis f. casimirii</i> (Velen.) Bondartsev (1953)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

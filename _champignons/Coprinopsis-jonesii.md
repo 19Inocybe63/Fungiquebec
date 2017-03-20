@@ -1,6 +1,6 @@
 ---
 nom: Coprinopsis jonesii
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3839/14794602610_8b81ccbddd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14794602610/in/photolist-oxmcVm
 album-flickr:
@@ -235,7 +235,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -259,9 +259,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Coprinus jonesii Peck, Bulletin of the Torrey Botanical Club 22:206 (1895)
-    Coprinus funariarum Métrod, Bull. trimest. Soc. mycol. Fr.:287 (1937)
-    Coprinus lagopus var. sphaerosporus Kühner & Joss., Bull. trimest. Soc. mycol. Fr.:31 (1944)
+    <i>Coprinus jonesii</i> Peck, Bulletin of the Torrey Botanical Club 22:206 (1895)
+    <i>Coprinus funariarum</i> Métrod, Bull. trimest. Soc. mycol. Fr.:287 (1937)
+    <i>Coprinus lagopus var. sphaerosporus</i> Kühner & Joss., Bull. trimest. Soc. mycol. Fr.:31 (1944)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

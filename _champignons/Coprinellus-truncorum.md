@@ -1,6 +1,6 @@
 ---
 nom: Coprinellus truncorum
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/3/2922/14221760856_2a6067ffc5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14221760856/in/photolist-sXpQiS-s1P2ep-nGNyqX-nEJf2o
 album-flickr:
@@ -243,7 +243,11 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -265,9 +269,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus truncorum Scop., Flora carniolica 2:426, no 426 (1772)
-    Agaricus succineus Batsch, Elenchus fungorum:61 (1783)
-    Coprinus truncorum (Scop.) Fr., Epicrisis Systematis Mycologici:248 (1838)
+    <i>Agaricus truncorum</i> Scop., Flora carniolica 2:426, no 426 (1772)
+    <i>Agaricus succineus</i> Batsch, Elenchus fungorum:61 (1783)
+    <i>Coprinus truncorum</i> (Scop.) Fr., Epicrisis Systematis Mycologici:248 (1838)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -256,6 +256,26 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  synonymie: |
+    <i>Agaricus pallescens</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:48, t. 211 (1774)
+    <i>Agaricus digitaliformis</i> Bull., Herbier de la France 1:t. 22 (1781)
+    <i>Amanita digitaliformis</i> Lam., Encyclopédie Méthodique, Botanique 1-1:110 (1783)
+    <i>Agaricus striatellus</i> Batsch, Elenchus fungorum:69 (1783)
+    <i>Agaricus petasiformis</i> Humb., Florae Fribergensis Specimen plantas cryptogamicas praesertim subterraneas exhibens:89 (1793)
+    <i>Agaricus disseminatus</i> Pers., Comm. Schaeff. icon. pict.:87 (1800)
+    <i>Agaricus disseminatus var. digitaliformis</i> (Bull.) Pers., Synopsis methodica fungorum:403 (1801)
+    <i>Coprinus disseminatus</i> (Pers.) Gray, A natural arrangement of British plants 1:634 (1821)
+    <i>Agaricus disseminatus f. digitaliformis</i> (Bull.) Fr., Systema Mycologicum 1:305 (1821)
+    <i>Coprinus petasiformis</i> Corda, Icones fungorum hucusque cognitorum 1:27, t. 7:300 (1837)
+    <i>Agaricus gyroflexus</i> Fr., Epicrisis Systematis Mycologici:232 (1838)
+    <i>Coprinarius disseminatus</i> (Pers.) P. Kumm., Der Führer in die Pilzkunde:68 (1871)
+    <i>Psathyra gyroflexa</i> (Fr.) P. Kumm., Der Führer in die Pilzkunde:70 (1871)
+    <i>Coprinus digitaliformis</i> (Bull.) P. Kumm., Der Führer in die Pilzkunde:66 (1871)
+    <i>Psathyrella disseminata</i> (Pers.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:153 (1872)
+    <i>Drosophila gyroflexa</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:116 (1886)
+    <i>Pilosace pallescens</i> (Schaeff.) Kuntze, Revisio generum plantarum 3 (2):503 (1898)
+    <i>Pseudocoprinus disseminatus</i> (Pers.) Kühner, Le Botaniste 20:156 (1928)
+    <i>Psathyrella gyroflexa</i> (Fr.) Konrad & Maubl., Encyclopédie Mycologique 14:124 (1949)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

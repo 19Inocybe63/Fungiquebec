@@ -11,7 +11,7 @@ details:
   autorites: (Peck) Watling
   ordre: Agaricales
   famille: Bolbitiaceae
-  genre: Pholiotina
+  genre: Conocybe
   espece: rugosa
   litterature: Watling, R.; Gregory, N.M. 1981. Census catalogue of world members of the Bolbitiaceae. Bibliotheca Mycologica. 82:1-224
 

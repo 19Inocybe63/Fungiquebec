@@ -1,6 +1,6 @@
 ---
 nom: Cerioporus squamosus
-date: 2017-03-02 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/6/5232/7228311120_e6dc452112_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7228311120/in/photolist-sZ547m-tgpfUu-c1JZ4N
 album-flickr:
@@ -237,7 +237,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -260,49 +261,49 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus iuglandis Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:75, t. 101-102 (1774)
-    Boletus juglandis Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:75, pl. 101-102 (1774)
-    Boletus cellulosus Lightf., Flora Scotica 2:1032 (1777)
-    Boletus squamosus Huds., Flora anglica:626 (1778)
-    Boletus subsquamosus Batsch, Elenchus fungorum:97 (1783)
-    Boletus platyporus Pers., Neues Magazin für die Botanik 1:107 (1794)
-    Polyporus squamosus (Huds.) Fr., Systema Mycologicum 1:343 (1821)
-    Grifola platypora Gray, A natural arrangement of British plants 1:643 (1821)
-    Polyporus juglandis (Schaeff.) Pers., Mycologia Europaea 2:38 (1825)
-    Polyporellus squamosus (Huds.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:38 (1879)
-    Melanopus squamosus (Huds.) Pat., Les Hyménomycètes d'Europe:137 (1887)
-    Favolus squamosus (Huds.) Ames, Annales Mycologici 11 (3):241 (1913)
-    Bresadolia squamosa (Huds.) Teixeira, Revista Brasileira de Botânica 9 (1):43 (1986)
-    Boletus polymorphus Bull., Herbier de la France 3, t. 114 (1783)
-    Boletus rangiferinus Bolton, An History of Fungusses, Growing about Halifax 3:138 (1790)
-    Agarico-pulpa ulmi Paulet, Traité des champignons 2:102, pl. 16:1-2 (1793)
-    Boletus maximus Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:381 (1803)
-    Polyporus ulmi Paulet, Iconogr. Champ., t. 13 (1812)
-    Polyporus michelii Fr., Systema Mycologicum 1:343 (1821)
-    Polyporus flabelliformis Pers., Mycologia Europaea 2:53 (1825)
-    Polyporus tigrinus Pers., Mycologia Europaea 2:54 (1825)
-    Polyporus dissectus Letell., Hist. Descr. Champ.:48 (1826)
-    Polyporus infundibiliformis Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 4-10:37, t. 17 (1830)
-    Favolus boucheanus Klotzsch, Linnaea:316, t. 5:2a-g (1833)
-    Polyporus rostkovii Fr. (1838)
-    Polyporus pallidus Schulzer, Hymenomycetes europaei:533 (1874)
-    Polyporus alpinus Saut., Hedwigia 15:33 (1876)
-    Polyporellus rostkovii (Fr.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:38 (1879)
-    Bresadolia paradoxa Speg., Anales de la Sociedad Científica Argentina 16 (6):277 (1883)
-    Trametes retirugis Bres. (1893)
-    Trametes retirugus Bres., Atti della Reale Accademia degli Agiati di Rovereto 11:6 (1893)
-    Polyporus clusianus Britzelm., Berichte des Naturwissenschaftlichen Vereins Schwaben Neuburg 31:174 (1894)
-    Bresadolia caucasica Shestunov, Hedwigia:101 (1910)
-    Polyporus squamatus Lloyd, Synopsis of the section Ovinus of Polyporus (7):84 (1911)
-    Polyporus mcmurphyi Murrill (1915)
-    Polyporus macmurphyi Murrill, Western Polypores (5):12 (1915)
-    Leucoporus lepideus Pat., Bulletin de la Société Mycologique de France 33:51 (1917)
-    Leucoporus lepidus Pat., Bulletin de la Société Mycologique de France 33:52 (1917)
-    Polyporus squamosus var. maculatus Velen., Ceske Houby 4-5:664 (1922)
-    Polyporellus squamosus f. rostkovii (Fr.) Pilát (1936)
-    Polyporus westii Murrill, Bulletin of the Torrey Botanical Club 65:651 (1938)
-    Polyporus squamosus f. rostkovii (Fr.) Bondartsev (1953)
-    Polyporus retirugis (Bres.) Ryvarden, A preliminary polypore flora of East Africa, 502 (1980)
+    <i>Boletus iuglandis</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:75, t. 101-102 (1774)
+    <i>Boletus juglandis</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:75, pl. 101-102 (1774)
+    <i>Boletus cellulosus</i> Lightf., Flora Scotica 2:1032 (1777)
+    <i>Boletus squamosus</i> Huds., Flora anglica:626 (1778)
+    <i>Boletus subsquamosus</i> Batsch, Elenchus fungorum:97 (1783)
+    <i>Boletus platyporus</i> Pers., Neues Magazin für die Botanik 1:107 (1794)
+    <i>Polyporus squamosus</i> (Huds.) Fr., Systema Mycologicum 1:343 (1821)
+    <i>Grifola platypora</i> Gray, A natural arrangement of British plants 1:643 (1821)
+    <i>Polyporus juglandis</i> (Schaeff.) Pers., Mycologia Europaea 2:38 (1825)
+    <i>Polyporellus squamosus</i> (Huds.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:38 (1879)
+    <i>Melanopus squamosus</i> (Huds.) Pat., Les Hyménomycètes d'Europe:137 (1887)
+    <i>Favolus squamosus</i> (Huds.) Ames, Annales Mycologici 11 (3):241 (1913)
+    <i>Bresadolia squamosa</i> (Huds.) Teixeira, Revista Brasileira de Botânica 9 (1):43 (1986)
+    <i>Boletus polymorphus</i> Bull., Herbier de la France 3, t. 114 (1783)
+    <i>Boletus rangiferinus</i> Bolton, An History of Fungusses, Growing about Halifax 3:138 (1790)
+    <i>Agarico-pulpa ulmi</i> Paulet, Traité des champignons 2:102, pl. 16:1-2 (1793)
+    <i>Boletus maximus</i> Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:381 (1803)
+    <i>Polyporus ulmi</i> Paulet, Iconogr. Champ., t. 13 (1812)
+    <i>Polyporus michelii</i> Fr., Systema Mycologicum 1:343 (1821)
+    <i>Polyporus flabelliformis</i> Pers., Mycologia Europaea 2:53 (1825)
+    <i>Polyporus tigrinus</i> Pers., Mycologia Europaea 2:54 (1825)
+    <i>Polyporus dissectus</i> Letell., Hist. Descr. Champ.:48 (1826)
+    <i>Polyporus infundibiliformis</i> Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 4-10:37, t. 17 (1830)
+    <i>Favolus boucheanus</i> Klotzsch, Linnaea:316, t. 5:2a-g (1833)
+    <i>Polyporus rostkovii</i> Fr. (1838)
+    <i>Polyporus pallidus</i> Schulzer, Hymenomycetes europaei:533 (1874)
+    <i>Polyporus alpinus</i> Saut., Hedwigia 15:33 (1876)
+    <i>Polyporellus rostkovii</i> (Fr.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:38 (1879)
+    <i>Bresadolia paradoxa</i> Speg., Anales de la Sociedad Científica Argentina 16 (6):277 (1883)
+    <i>Trametes retirugis</i> Bres. (1893)
+    <i>Trametes retirugus</i> Bres., Atti della Reale Accademia degli Agiati di Rovereto 11:6 (1893)
+    <i>Polyporus clusianus</i> Britzelm., Berichte des Naturwissenschaftlichen Vereins Schwaben Neuburg 31:174 (1894)
+    <i>Bresadolia caucasica</i> Shestunov, Hedwigia:101 (1910)
+    <i>Polyporus squamatus</i> Lloyd, Synopsis of the section Ovinus of Polyporus (7):84 (1911)
+    <i>Polyporus mcmurphyi</i> Murrill (1915)
+    <i>Polyporus macmurphyi</i> Murrill, Western Polypores (5):12 (1915)
+    <i>Leucoporus lepideus</i> Pat., Bulletin de la Société Mycologique de France 33:51 (1917)
+    <i>Leucoporus lepidus</i> Pat., Bulletin de la Société Mycologique de France 33:52 (1917)
+    <i>Polyporus squamosus var. maculatus</i> Velen., Ceske Houby 4-5:664 (1922)
+    <i>Polyporellus squamosus</i> f. rostkovii (Fr.) Pilát (1936)
+    <i>Polyporus westii</i> Murrill, Bulletin of the Torrey Botanical Club 65:651 (1938)
+    <i>Polyporus squamosus f. rostkovii</i> (Fr.) Bondartsev (1953)
+    <i>Polyporus retirugis</i> (Bres.) Ryvarden, A preliminary polypore flora of East Africa, 502 (1980)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -310,6 +311,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
+  tube: 
   type: 
   typique: 
   voile: 

@@ -1,6 +1,6 @@
 ---
 nom: Agaricus arvensis
-date: 2017-03-17 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/6/5803/30152698222_912045cf23_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30152698222/in/photolist-MWupCd-MWusFh-MZ9gSK-M9YoGN
 album-flickr:
@@ -247,7 +247,7 @@ description:
     Potasse (KOH 10%) = le chapeau devient jaune
     Schaeffer = + ; voir la photo démontrant la réaction en croix de Schaeffer
     Soluté de gaïac = pas de coloration ou de décoloration sur la chair
-    TL4 = le chapeau devient rose pâle
+    Tl4 = le chapeau devient rose pâle
   receptacle: 
   remarques: 
   repartition: 

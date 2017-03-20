@@ -1,6 +1,6 @@
 ---
 nom: Conocybe rugosa
-date: 2017-03-03 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8662/29878980946_7e40363052_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29878980946
 album-flickr:
@@ -59,7 +59,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Watling, R.; Gregory, N.M. 1981. Census catalogue of world members of the Bolbitiaceae. Bibliotheca Mycologica. 82:1-224
+    <b>Watling, R. ; Gregory, N.M</b>. <i>Census catalogue of world members of the Bolbitiaceae</i>. Bibliotheca Mycologica, 1981, 82:1-224
   ascome: 
   ascospores: 
   asques: 
@@ -278,11 +278,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Pholiota rugosa Peck, Annual Report on the New York State Museum of Natural History 50:102 (1898)
-    Pholiotina rugosa (Peck) Singer, Papers of the Michigan Academy of Sciences 32:148 (1946)
-    Agaricus togularis var. filaris Fr.:2 (1884)
-    Agaricus togularius var. filaris Fr. (1884)
-    Galera vestita var. pusilla Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium 0:81 (1886)
+    <i>Pholiota rugosa</i> Peck, Annual Report on the New York State Museum of Natural History 50:102 (1898)
+    <i>Pholiotina rugosa</i> (Peck) Singer, Papers of the Michigan Academy of Sciences 32:148 (1946)
+    <i>Agaricus togularis var. filaris</i> Fr.:2 (1884)
+    <i>Agaricus togularius var. filaris</i> Fr. (1884)
+    <i>Galera vestita var. pusilla</i> Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium 0:81 (1886)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

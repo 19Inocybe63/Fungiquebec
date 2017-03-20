@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius angelesianus
-date: 2017-03-13 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3929/15417912301_99e8c4201e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15417912301/in/photolist-psEZ9Q-pddKms-puqQba-pddWKt
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans les débris ligneux, sous conifères, Abies, Picea, Pinus
+  biotopes: pousse au sol, dans les débris ligneux, sous conifères, <i>Abies</i>, <i>Picea</i>, <i>Pinus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -235,13 +235,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boyer, Roger. Les champignons de Sept-Îles, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    Overholts, Lee Oras., Kauffman, Calvin Henry. (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
-    Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
+    <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
+    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = toutes les parties deviennent noires
+    Potasse (KOH 10%) = toutes les parties deviennent noires
   receptacle: 
   remarques: 
   repartition: 

@@ -1,6 +1,6 @@
 ---
 nom: Coprinopsis lagopus
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/389/18517728959_f7543e0d50_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18517728959/in/photolist-udm81B-udmcEX
 album-flickr:
@@ -245,7 +245,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -269,8 +269,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus lagopus Fr., Systema Mycologicum 1:312 (1821)
-    Coprinus lagopus (Fr.) Fr., Epicrisis Systematis Mycologici:250 (1838)
+    <i>Agaricus lagopus</i> Fr., Systema Mycologicum 1:312 (1821)
+    <i>Coprinus lagopus</i> (Fr.) Fr., Epicrisis Systematis Mycologici:250 (1838)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

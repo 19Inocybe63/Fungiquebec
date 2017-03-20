@@ -1,6 +1,6 @@
 ---
 nom: Coprinopsis atramentaria
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/8/7323/10088573684_37c385249e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088573684/in/photolist-sTRAxX-gnuBKj-gnuztA
 album-flickr:
@@ -236,7 +236,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -259,9 +259,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus atramentarius Bull., Herbier de la France 4, t. 164 (1784)
-    Coprinus atramentarius (Bull.) Fr., Epicrisis Systematis Mycologici, 243 (1838)
-    Pselliophora atramentaria (Bull.) Fr., Bidr. Känn. Finl. Nat. Folk, 528 (1879)
+    <i>Agaricus atramentarius</i> Bull., Herbier de la France 4, t. 164 (1784)
+    <i>Coprinus atramentarius</i> (Bull.) Fr., Epicrisis Systematis Mycologici, 243 (1838)
+    <i>Pselliophora atramentaria</i> (Bull.) Fr., Bidr. Känn. Finl. Nat. Folk, 528 (1879)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

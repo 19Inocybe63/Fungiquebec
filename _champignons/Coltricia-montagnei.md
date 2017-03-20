@@ -1,6 +1,6 @@
 ---
 nom: Coltricia montagnei
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3897/14842437391_8660812a9e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14842437391/in/photolist-oBznwX
 album-flickr:
@@ -231,11 +231,11 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Ce polypore fut nommé à la mémoire du mycologue français Pierre François Camille Montagne (1784-1866)
+  remarques: Ce polypore fut nommé à la mémoire du mycologue français <b>Pierre François Camille Montagne</b> (1784-1866)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -254,25 +254,25 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Polyporus montagnei Fr., Annales des Sciences Naturelles Botanique 5:341 (1836)
-    Pelloporus montagnei (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:166 (1886)
-    Polystictus montagnei (Fr.) Cooke, Grevillea 14 (71):77 (1886)
-    Microporus montagnei (Fr.) Kuntze, Revisio generum plantarum 3:496 (1898)
-    Xanthochrous montagnei (Fr.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:100 (1900)
-    Polystictus perennis f. montagnei (Fr.) Pilát, Atlas Champ. Europe III, Polyporaceae 1:582 (1940)
-    Cycloporus montagnei (Fr.) Ryvarden, Norwegian Journal of Botany 19:237 (1972)
-    Cyclomyces greenii Berk. (1845)
-    Cyclomyces greenei Berk., London Journal of Botany 4:306 (1845)
-    Cyclomyces turbinatus Berk., Hooker's Journal of Botany and Kew Garden Miscellany 6:166 (1854)
-    Polyporus saxatilis Britzelm., Botanisches Centralblatt 68:141 (1896)
-    Polystictus obesus Ellis & Everh., Bulletin of the Torrey Botanical Club 24:125 (1897)
-    Xanthochrous javanicus Pat., Annales du Jardin Botanique de Buitenzorg Suppl. 1:113 (1897)
-    Coltricia memmingeri Murrill, Bulletin of the Torrey Botanical Club 31 (6):347 (1904)
-    Polystictus cuticularis Lloyd, Mycol. Writ.:12 (1908)
-    Polyporus greenei Lloyd, Mycological Writings 5 (58):843 (1919)
-    Polyporus greenii Yasuda (1919)
-    Polyporus greenei Yasuda, Bull. imp. Forest exp. Station Japan:141 (1919)
-    Coltricia greenii (Berk.) Imazeki (1943)
+    <i>Polyporus montagnei</i> Fr., Annales des Sciences Naturelles Botanique 5:341 (1836)
+    <i>Pelloporus montagnei</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:166 (1886)
+    <i>Polystictus montagnei</i> (Fr.) Cooke, Grevillea 14 (71):77 (1886)
+    <i>Microporus montagnei</i> (Fr.) Kuntze, Revisio generum plantarum 3:496 (1898)
+    <i>Xanthochrous montagnei</i> (Fr.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:100 (1900)
+    <i>Polystictus perennis f. montagnei</i> (Fr.) Pilát, Atlas Champ. Europe III, Polyporaceae 1:582 (1940)
+    <i>Cycloporus montagnei</i> (Fr.) Ryvarden, Norwegian Journal of Botany 19:237 (1972)
+    <i>Cyclomyces greenii</i> Berk. (1845)
+    <i>Cyclomyces greenei</i> Berk., London Journal of Botany 4:306 (1845)
+    <i>Cyclomyces turbinatus</i> Berk., Hooker's Journal of Botany and Kew Garden Miscellany 6:166 (1854)
+    <i>Polyporus saxatilis</i> Britzelm., Botanisches Centralblatt 68:141 (1896)
+    <i>Polystictus obesus</i> Ellis & Everh., Bulletin of the Torrey Botanical Club 24:125 (1897)
+    <i>Xanthochrous javanicus</i> Pat., Annales du Jardin Botanique de Buitenzorg Suppl. 1:113 (1897)
+    <i>Coltricia memmingeri</i> Murrill, Bulletin of the Torrey Botanical Club 31 (6):347 (1904)
+    <i>Polystictus cuticularis</i> Lloyd, Mycol. Writ.:12 (1908)
+    <i>Polyporus greenei</i> Lloyd, Mycological Writings 5 (58):843 (1919)
+    <i>Polyporus greenii</i> Yasuda (1919)
+    <i>Polyporus greenei</i> Yasuda, Bull. imp. Forest exp. Station Japan:141 (1919)
+    <i>Coltricia greenii</i> (Berk.) Imazeki (1943)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

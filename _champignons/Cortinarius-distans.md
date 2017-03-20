@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius distans
-date: 2017-03-13 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/8/7072/27942307491_0d2d8e1b9c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27942307491/in/photolist-JLhYc9-JzaCwg
 album-flickr:
@@ -39,9 +39,9 @@ description:
   arete-lamellaire: recouverte d'un gélin sur presque toute sa longueur
   arthroconidies: 
   articles: |
-    Cripps, Cathy L., Liimatainen, Kare, et al. Intercontinental distributions of species of Cortinarius, subgenus Phlegmacium, associated with Populus in western North America, Botany 93: 711-721 (2015), 11 p.
-    Liimatainen, K., Niskanen, T. The largest type study of Agaricales species to date: bringing identification and nomenclature of Phlegmacium (Cortinarius) into the DNA era, Persoonia 33, 2014:98-140, 43 p.
-    Niskanen, Tuula, et al. New Cortinarius species from conifer-dominated forests of North America and Europe, Botany 90:743-754 (2012), 12 p.
+    <b>Cripps, Cathy L. ; Liimatainen, Kare, et al</b>. <i>Intercontinental distributions of species of Cortinarius, subgenus Phlegmacium, associated with Populus in western North America</i>, Botany 93: 711-721 (2015), 11 p.
+    <b>Liimatainen, K. ; Niskanen, T</b>. <i>The largest type study of Agaricales species to date: bringing identification and nomenclature of Phlegmacium (Cortinarius) into the DNA era</i>, Persoonia 33, 2014:98-140, 43 p.
+    <b>Niskanen, Tuula, et al</b>. <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012), 12 p.
   ascome: 
   ascospores: 
   asques: 
@@ -60,7 +60,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol sablonneux, dans la mousse, sous feuillus (chêne)
+  biotopes: pousse sur sol sablonneux, dans la mousse, sous feuillus (<i>Quercus</i>)
   boucles: observées dans le pileipellis, dans la trame lamellaire et dans le stipe
   brachybasidioles: 
   calicule: 
@@ -240,16 +240,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Overholts, Lee Oras., Kauffman, Calvin Henry. (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
-    Liimatainen, Kare. Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
-    Niskanen, Tuula. Cortinarius subgenus Telamonia p.p. in North Europe, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
-    Niskanen, Tuula, et al. New Cortinarius species from conifer-dominated forests of North America and Europe, Botany 90:743-754 (2012), 12 p.
-    Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
+    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Liimatainen, Kare</b>. <i>Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America</i>, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
+    <b>Niskanen, Tuula</b>. <i>Cortinarius subgenus Telamonia p.p. in North Europe</i>, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
+    <b>Niskanen, Tuula, et al</b>. <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012), 12 p.
+    <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
     TL4 = le chapeau ne se colore pas
   receptacle: 
@@ -272,7 +272,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Phaeomarasmius distans (Peck) Singer, Lilloa 13:83 (1947)
+    <i>Phaeomarasmius distans</i> (Peck) Singer, Lilloa 13:83 (1947)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

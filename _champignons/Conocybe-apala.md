@@ -1,6 +1,6 @@
 ---
 nom: Conocybe apala
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/556/20294391061_b3d85acf00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20294391061/in/photolist-wVm4qa-wCkeW2
 album-flickr:
@@ -258,15 +258,15 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus apalus Fr., Observationes mycologicae 2:142 (1818)
-    Pluteolus apalus (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:105 (1886)
-    Galera hapala (Fr.) Sacc. (1887)
-    Galera apala (Fr.) Sacc., Sylloge Fungorum 5:860 (1887)
-    Conocybe huysmanii Watling
-    Agaricus tener Sowerby, Coloured Figures of English Fungi 1:tab. 33 (1797)
-    Galera lactea J.E. Lange, Flora Agaricina Danica 4:33 (1938)
-    Conocybe huijsmanii Watling, Nordic Journal of Botany 3 (2):262 (1983)
-    Conocybe huijsmanii var. conica Watling, Gardens Bulletin Singapore 45 (2):377 (1993)
+    <i>Agaricus apalus</i> Fr., Observationes mycologicae 2:142 (1818)
+    <i>Pluteolus apalus</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:105 (1886)
+    <i>Galera hapala</i> (Fr.) Sacc. (1887)
+    <i>Galera apala</i> (Fr.) Sacc., Sylloge Fungorum 5:860 (1887)
+    <i>Conocybe huysmanii</i> Watling
+    <i>Agaricus tener</i> Sowerby, Coloured Figures of English Fungi 1:tab. 33 (1797)
+    <i>Galera lactea</i> J.E. Lange, Flora Agaricina Danica 4:33 (1938)
+    <i>Conocybe huijsmanii</i> Watling, Nordic Journal of Botany 3 (2):262 (1983)
+    <i>Conocybe huijsmanii var. conica</i> Watling, Gardens Bulletin Singapore 45 (2):377 (1993)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

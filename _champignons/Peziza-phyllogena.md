@@ -38,7 +38,10 @@ description:
   apothecie: 20-70 mm Ø
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    <b>Dougoud, René</b>. <i>Contribution à l'étude des discomycètes</i>, Version 2013, Ascomycete.org vol 5, Fasc. 2, mars 2013, 63-89 pp.
+    <b>Dougoud, René</b>. <i>Contribution à la connaissance de quelques Discomycètes operculés rares ou méconnus</i>, coll. Fungi non Delineati, Pars XVIII, Edizioni Candusso, 2002.
+    <b>Hohmeyer, H</b>. <i>Une clé pour les espèces d'Europe du genre Peziza L.</i>, Zeitschrift für Mykologie 1986, trad. de P. A. Renaud en collaboration de René Dougoud, 1988.
   ascome: 
   ascospores: 
   asques: 

@@ -1,6 +1,6 @@
 ---
 nom: Cerioporus varius
-date: 2017-03-14 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/8/7324/28090576492_0e3d9edeaa_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28090576492/in/photolist-JUr2Z9-JNgxJm
 album-flickr:
@@ -234,7 +234,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
@@ -259,14 +259,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus lateralis Bolton, An History of Fungusses, Growing about Halifax 2:83 (1788)
-    Boletus varius Pers., Observationes mycologicae 1:85 (1796)
-    Polyporus varius (Pers.) Fr., Systema Mycologicum 1:352 (1821)
-    Grifola varia (Pers.) Gray, A natural arrangement of British plants 1:644 (1821)
-    Polyporus varius β varius (Pers.) Fr. (1821)
-    Polyporellus varius (Pers.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:37 (1879)
-    Melanopus varius (Pers.) Pat., Les Hyménomycètes d'Europe:137 (1887)
-    Polystictus varius (Pers.) G. Cunn. (1965)
+    <i>Boletus lateralis</i> Bolton, An History of Fungusses, Growing about Halifax 2:83 (1788)
+    <i>Boletus varius</i> Pers., Observationes mycologicae 1:85 (1796)
+    <i>Polyporus varius</i> (Pers.) Fr., Systema Mycologicum 1:352 (1821)
+    <i>Grifola varia</i> (Pers.) Gray, A natural arrangement of British plants 1:644 (1821)
+    <i>Polyporus varius</i> β varius (Pers.) Fr. (1821)
+    <i>Polyporellus varius</i> (Pers.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:37 (1879)
+    <i>Melanopus varius</i> (Pers.) Pat., Les Hyménomycètes d'Europe:137 (1887)
+    <i>Polystictus varius</i> (Pers.) G. Cunn. (1965)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

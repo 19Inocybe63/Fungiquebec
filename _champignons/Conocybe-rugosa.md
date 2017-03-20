@@ -59,7 +59,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Watling, R. ; Gregory, N.M</b>. <i>Census catalogue of world members of the Bolbitiaceae</i>. Bibliotheca Mycologica, 1981, 82:1-224
+    <b>Watling, R. ; Gregory, N. M</b>. <i>Census catalogue of world members of the Bolbitiaceae</i>. Bibliotheca Mycologica, 1981, 82:1-224
   ascome: 
   ascospores: 
   asques: 

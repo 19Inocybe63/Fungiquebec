@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité, subéreux, tenace-coriace au frais, cassant et dur au sec
   bibliographies: 
-  biotopes: pousse au sol, en milieux sablonneux et exposé des forêts de conifères, souvent en milieux perturbés, rarement sur bois pourri, bord de sentier, sous Pinus
+  biotopes: pousse au sol, en milieux sablonneux et exposé des forêts de conifères, souvent en milieux perturbés, rarement sur bois pourri, bord de sentier, sous <i>Pinus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

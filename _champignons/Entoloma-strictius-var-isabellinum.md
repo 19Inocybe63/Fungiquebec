@@ -1,6 +1,6 @@
 ---
 nom: Entoloma strictius var. isabellinum
-date: 2017-03-12 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/3/2938/14027433237_c891b5ecb3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14027433237/in/photolist-nFqWq4-nnygcc
 album-flickr:
@@ -270,7 +270,7 @@ description:
     KOH 10% = chapeau et pied, aucune coloration ou décoloration ; lames légèrement verdâtre
     NH<SUB>4</SUB>OH 10% = chapeau, lames et pied, aucune coloration ou décoloration
     Réaction de Schaeffer = Schaeffer 0
-    TL4 = -TL4
+    Tl4 = -
   receptacle: 
   remarques: 
   repartition: 

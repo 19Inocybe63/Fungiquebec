@@ -1,6 +1,6 @@
 ---
 nom: Coltricia perennis
-date: 2017-03-05 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/418/18780670846_4faaec4ac8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18780670846/in/photolist-tGTTF1-uBzR8L
 album-flickr:
@@ -243,7 +243,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -267,30 +268,30 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus perennis L., Species Plantarum:1177 (1753)
-    Suillus perennis (L.) Roussel, Flore du Calvados et terrains adjacents, composée suivant la méthode de Jussieu:34 (1796)
-    Suillus perennis (L.) Roussel:34 (1796)
-    Polyporus perennis (L.) Fr., Systema Mycologicum 1:350 (1821)
-    Coltricia connata Gray, A natural arrangement of British plants 1:644 (1821)
-    Trametes perennis (L.) Fr., Summa vegetabilium Scandinaviae 2:323 (1849)
-    Polystictus perennis (L.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:39 (1879)
-    Pelloporus perennis (L.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium (1886)
-    Ochroporus perennis (L.) J. Schröt., Krypt.-Fl. Schlesien 3(1):488 (1888)
-    Microporus perennis (L.) Kuntze, Revisio generum plantarum 3 (2):494 (1898)
-    Xanthochrous perennis (L.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:100 (1900)
-    Boletus subtomentosus Bolton, An History of Fungusses, Growing about Halifax 2:87 (1788)
-    Boletus subtomentosum Bolton (1788)
-    Boletus cyathiformis Vill., Histoire des plantes du Dauphiné 3:1040 (1789)
-    Boletus fimbriatus Roth, Catalecta botanica quibus plantae novae et minus cognitae describuntur atque illustrantur 1:240 (1797)
-    Boletus infundibulum Roth, Catalecta botanica quibus plantae novae et minus cognitae describuntur atque illustrantur 1:244 (1797)
-    Boletus leucoporus Holmsk., Beata ruris otia fungis danicis 2:57, f. 30 (1799)
-    Boletus lejeunii L. Marchand, Bijdr. natuurk. Wet.:413 (1826)
-    Boletus perfosssus L. Marchand, Bijdr. natuurk. Wet.:414 (1826)
-    Polyporus scutellatus I.G. Borshch., Reise Sibir.:144 (1856)
-    Polystictus prolifer Lloyd, Mycol. Writ.:8 (1908)
-    Polystictus decurrens Lloyd, Mycol. Writ.:12 (1908)
-    Pelloporus parvulus Lázaro Ibiza, Revta R. Acad. Cienc. exact. fis. nat. Madr.:110 (1916)
-    Polyporus parvulus Lázaro Ibiza, Revta R. Acad. Cienc. exact. fis. nat. Madr.:99 (1916)
+    <i>Boletus perennis</i> L., Species Plantarum:1177 (1753)
+    <i>Suillus perennis</i> (L.) Roussel, Flore du Calvados et terrains adjacents, composée suivant la méthode de Jussieu:34 (1796)
+    <i>Suillus perennis</i> (L.) Roussel:34 (1796)
+    <i>Polyporus perennis</i> (L.) Fr., Systema Mycologicum 1:350 (1821)
+    <i>Coltricia connata</i> Gray, A natural arrangement of British plants 1:644 (1821)
+    <i>Trametes perennis</i> (L.) Fr., Summa vegetabilium Scandinaviae 2:323 (1849)
+    <i>Polystictus perennis</i> (L.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:39 (1879)
+    <i>Pelloporus perennis</i> (L.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium (1886)
+    <i>Ochroporus perennis</i> (L.) J. Schröt., Krypt.-Fl. Schlesien 3(1):488 (1888)
+    <i>Microporus perennis</i> (L.) Kuntze, Revisio generum plantarum 3 (2):494 (1898)
+    <i>Xanthochrous perennis</i> (L.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:100 (1900)
+    <i>Boletus subtomentosus</i> Bolton, An History of Fungusses, Growing about Halifax 2:87 (1788)
+    <i>Boletus subtomentosum</i> Bolton (1788)
+    <i>Boletus cyathiformis</i> Vill., Histoire des plantes du Dauphiné 3:1040 (1789)
+    <i>Boletus fimbriatus</i> Roth, Catalecta botanica quibus plantae novae et minus cognitae describuntur atque illustrantur 1:240 (1797)
+    <i>Boletus infundibulum</i> Roth, Catalecta botanica quibus plantae novae et minus cognitae describuntur atque illustrantur 1:244 (1797)
+    <i>Boletus leucoporus</i> Holmsk., Beata ruris otia fungis danicis 2:57, f. 30 (1799)
+    <i>Boletus lejeunii</i> L. Marchand, Bijdr. natuurk. Wet.:413 (1826)
+    <i>Boletus perfosssus</i> L. Marchand, Bijdr. natuurk. Wet.:414 (1826)
+    <i>Polyporus scutellatus</i> I.G. Borshch., Reise Sibir.:144 (1856)
+    <i>Polystictus prolifer</i> Lloyd, Mycol. Writ.:8 (1908)
+    <i>Polystictus decurrens</i> Lloyd, Mycol. Writ.:12 (1908)
+    <i>Pelloporus parvulus</i> Lázaro Ibiza, Revta R. Acad. Cienc. exact. fis. nat. Madr.:110 (1916)
+    <i>Polyporus parvulus</i> Lázaro Ibiza, Revta R. Acad. Cienc. exact. fis. nat. Madr.:99 (1916)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Collybia tuberosa
-date: 2017-03-14 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/639/21886192929_4753e592aa_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21886192929/in/photolist-zm1sDX
 album-flickr:
@@ -254,11 +254,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus tuberosus Bull., Herbier de la France 6:t. 256 (1786)
-    Agaricus amanitae subsp. tuberosus (Bull.) Pers., Observationes mycologicae 2:53 (1800)
-    Gymnopus tuberosus Gray, A natural arrangement of British plants 1:611 (1821)
-    Microcollybia tuberosa (Bull.) Lennox, Mycotaxon 9 (1):187 (1979)
-    Marasmius sclerotipes Bres., Fungi Tridentini 1 (1):12, t. 11:1 (1881)
+    <i>Agaricus tuberosus</i> Bull., Herbier de la France 6:t. 256 (1786)
+    <i>Agaricus amanitae subsp. tuberosus</i> (Bull.) Pers., Observationes mycologicae 2:53 (1800)
+    <i>Gymnopus tuberosus</i> Gray, A natural arrangement of British plants 1:611 (1821)
+    <i>Microcollybia tuberosa</i> (Bull.) Lennox, Mycotaxon 9 (1):187 (1979)
+    <i>Marasmius sclerotipes</i> Bres., Fungi Tridentini 1 (1):12, t. 11:1 (1881)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

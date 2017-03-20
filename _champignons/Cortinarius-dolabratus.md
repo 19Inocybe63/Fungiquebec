@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius dolabratus
-date: 2017-03-13 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/6/5559/15290852396_0d53a784d8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15290852396/in/photolist-QHjS1s-picBG9-p3JGhy
 album-flickr:
@@ -49,11 +49,11 @@ description:
   base-stipitiforme: 
   basides: utriformes à claviformes, tétrasporiques, bouclées à la base, 3,0-4,8 µm de longueur en moyenne, à contenu granuleux, 26,1- 30,2 × 6,4-7 µm en moyenne
   basidiospores: |
-    elliptiques en vue frontale, largement elliptiques, elliptiques à amygdaliformes vues de profil, faiblement à moyennement verruqueuses, à paroi mince entre 0,2-0,3 μm ; appendice hilaire bien formé ; à contenu uniguttulé, brun pâle dans E.G. 20%, faiblement dextrinoïdes, non cyanophiles
+    elliptiques en vue frontale, largement elliptiques, elliptiques à amygdaliformes vues de profil, faiblement à moyennement verruqueuses, à paroi mince entre 0,2-0,3 μm, appendice hilaire bien formé, à contenu uniguttulé, brun pâle dans E.G. 20%, faiblement dextrinoïdes, non cyanophiles
     (6,7) 6,9 - 8,5 (9,4) × (4,1) 4,2 - 4,8 (5,2) µm
     Q = (1,6) 1,64 - 1,8 (1,9) ; N = 30
     Me = 7,6 × 4,5 µm ; Qe = 1,7
-    (Piximètre, formule classique ; mesures issues d'une sporée dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -239,19 +239,19 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Overholts, Lee Oras., Kauffman, Calvin Henry. (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
-    Liimatainen, Kare. Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
-    Niskanen, Tuula. Cortinarius subgenus Telamonia p.p. in North Europe, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
-    Niskanen, Tuula, et al. New Cortinarius species from conifer-dominated forests of North America and Europe, Botany 90:743-754 (2012), 12 p.
-    Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
+    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Liimatainen, Kare</b>. <i>Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America</i>, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
+    <b>Niskanen, Tuula</b>. <i>Cortinarius subgenus Telamonia p.p. in North Europe</i>, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
+    <b>Niskanen, Tuula, et al</b>. <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012), 12 p.
+    <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = devient noir sur le chapeau
+    Potasse (KOH 10%) = devient noir sur le chapeau
   receptacle: 
   remarques: |
     Sous-genre Telamonia, section Duracini

@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius caperatus
-date: 2017-03-03 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8461/8038502020_3d777ea34d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8038502020/in/photolist-edZ8GF-dfkqAq
 album-flickr:
@@ -236,12 +236,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Overholts, Lee Oras., Kauffman, Calvin Henry. (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
-    Liimatainen, Kare. Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
-    Niskanen, Tuula. Cortinarius subgenus Telamonia p.p. in North Europe, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
-    Niskanen, Tuula, et al. New Cortinarius species from conifer-dominated forests of North America and Europe, Botany 90:743-754 (2012), 12 p.
-    Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
-  publications-microscopiques: 
+    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Liimatainen, Kare</b>. <i>Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America</i>, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
+    <b>Niskanen, Tuula</b>. <i>Cortinarius subgenus Telamonia p.p. in North Europe</i>, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
+    <b>Niskanen, Tuula, et al</b>. <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012), 12 p.
+    <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: Une fois déshydraté, il a une odeur florale.
@@ -263,11 +267,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus caperatus Pers., Observationes mycologicae 1:48 (1796)
-    Pholiota caperata (Pers.) P. Kumm., Der Führer in die Pilzkunde, 84 (1871)
-    Rozites caperatus (Pers.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:290 (1879)
-    Dryophila caperata (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium, 66 (1886)
-    Togaria caperata (Pers.) W.G. Sm., Synopsis of the British Basidiomycetes: A descriptive catalogue of the drawings and speciments in the department of Botany British Museum, 122 (1908)
+    <i>Agaricus caperatus</i> Pers., Observationes mycologicae 1:48 (1796)
+    <i>Pholiota caperata</i> (Pers.) P. Kumm., Der Führer in die Pilzkunde, 84 (1871)
+    <i>Rozites caperatus</i> (Pers.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:290 (1879)
+    <i>Dryophila caperata</i> (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium, 66 (1886)
+    <i>Togaria caperata</i> (Pers.) W.G. Sm., Synopsis of the British Basidiomycetes: A descriptive catalogue of the drawings and speciments in the department of Botany British Museum, 122 (1908)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

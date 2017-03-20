@@ -1,6 +1,6 @@
 ---
 nom: Clavaria fragilis
-date: 2017-03-14 00:00:00
+date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8843/28240406722_244345c4a1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28240406722/in/photolist-K2vt3b
 album-flickr:
@@ -256,19 +256,19 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Clavaria eburnea Pers., Synopsis methodica fungorum:603 (1801)
-    Clavaria eburnea var. fragilis (Holmsk.) Pers., Synopsis methodica fungorum:603 (1801)
-    Clavaria cylindrica Bull., Herbier de la France 10:t. 463:1 (1790)
-    Clavaria vermicularis Sw., Kungl. Svenska Vetenskapsakad. Handl.:159, t. 6:2 (1811)
-    Clavaria alba Pers., Traité sur les Champignons Comestibles:255 (1818)
-    Clavaria solida Gray, A natural arrangement of British plants 1:656 (1821)
-    Clavaria pistilliforma Pers. (1822)
-    Clavaria corynoides Peck, Annual Report on the New York State Museum of Natural History 31:39 (1879)
-    Clavaria simplex P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:172 (1882)
-    Clavaria gracilior Britzelm., Hymenomyceten aus Südbayern 9:14 (1891)
-    Clavaria muelleri Berk. ex Cooke, Grevillea 20:10 (1891)
-    Clavaria ninea Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 30 (2):96 (1901)
-    Clavaria nivea Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 30 (2):496 (1901)
+    <i>Clavaria eburnea</i> Pers., Synopsis methodica fungorum:603 (1801)
+    <i>Clavaria eburnea var. fragilis</i> (Holmsk.) Pers., Synopsis methodica fungorum:603 (1801)
+    <i>Clavaria cylindrica</i> Bull., Herbier de la France 10:t. 463:1 (1790)
+    <i>Clavaria vermicularis</i> Sw., Kungl. Svenska Vetenskapsakad. Handl.:159, t. 6:2 (1811)
+    <i>Clavaria alba</i> Pers., Traité sur les Champignons Comestibles:255 (1818)
+    <i>Clavaria solida</i> Gray, A natural arrangement of British plants 1:656 (1821)
+    <i>Clavaria pistilliforma</i> Pers. (1822)
+    <i>Clavaria corynoides</i> Peck, Annual Report on the New York State Museum of Natural History 31:39 (1879)
+    <i>Clavaria simplex</i> P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:172 (1882)
+    <i>Clavaria gracilior</i> Britzelm., Hymenomyceten aus Südbayern 9:14 (1891)
+    <i>Clavaria muelleri</i> Berk. ex Cooke, Grevillea 20:10 (1891)
+    <i>Clavaria ninea</i> Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 30 (2):96 (1901)
+    <i>Clavaria nivea</i> Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 30 (2):496 (1901)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

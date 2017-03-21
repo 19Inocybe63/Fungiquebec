@@ -1,6 +1,6 @@
 ---
 nom: Craterellus tubaeformis
-date: 2017-03-03 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5787/20473498400_6ca4264095_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20473498400/in/photolist-xcb2MJ
 album-flickr:
@@ -206,7 +206,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 30-100 x 3-10 mm Ø, cylindrique, à ± égal, souvent comprimé, farci puis creux, lisse, parfois cireux, jaune orangé à brun orangé vers l'apex, jaune vers la base, brunissant avec l'âge, parfois blanchâtre à la base, avec ou sans mycélium basal
   pieds-steriles: 
@@ -258,16 +258,16 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Cantharellus tubaeformis var. tubaeformis
-    Helvella tubaeformis Bull., Herbier de la France 10:t. 461 (1790)
-    Merulius tubiformis Bull., Synopsis methodica fungorum:489 (1801)
-    Cantharellus tubaeformis Fr., Systema Mycologicum 1:319 (1821)
-    Cantharellus tubaeformis (Bull.) Gray, A natural arrangement of British plants 1:636 (1821)
-    Merulius tubaeformis Pers. (1825)
-    Cantharellus infundibuliformis var. tubiformis (Schaeff.) Maire, Fungi Catalaunici; Contributions à l'étude de la Flore Mycologique de la Catalogne:44 (1933)
-    Helvella tubaeformis Bull., Histoire des champignons de la France. I:294, pl. 208 (1791)
-    Merulius villosus Pers., Icones et Descriptiones Fungorum Minus Cognitorum 1:17, t. 6:1 (1798)
-    Merulius fuligineus Pers., Synopsis methodica fungorum:490 (1801)
+    <i>Cantharellus tubaeformis var. tubaeformis</i>
+    <i>Helvella tubaeformis</i> Bull., Herbier de la France 10:t. 461 (1790)
+    <i>Merulius tubiformis</i> Bull., Synopsis methodica fungorum:489 (1801)
+    <i>Cantharellus tubaeformis</i> Fr., Systema Mycologicum 1:319 (1821)
+    <i>Cantharellus tubaeformis</i> (Bull.) Gray, A natural arrangement of British plants 1:636 (1821)
+    <i>Merulius tubaeformis</i> Pers. (1825)
+    <i>Cantharellus infundibuliformis var. tubiformis</i> (Schaeff.) Maire, Fungi Catalaunici; Contributions à l'étude de la Flore Mycologique de la Catalogne:44 (1933)
+    <i>Helvella tubaeformis</i> Bull., Histoire des champignons de la France. I:294, pl. 208 (1791)
+    <i>Merulius villosus</i> Pers., Icones et Descriptiones Fungorum Minus Cognitorum 1:17, t. 6:1 (1798)
+    <i>Merulius fuligineus</i> Pers., Synopsis methodica fungorum:490 (1801)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

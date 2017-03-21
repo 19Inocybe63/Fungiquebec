@@ -51,7 +51,7 @@ description:
   basidiospores: |
     subglobuleuses à largement ellipsoïdes, ponctuées, échinulées, à paroi légèrement épaissie, avec apicule excentré, à contenu uniguttulé, brun jaunâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, partiellement cyanophiles
     7,3 x 5,6 µm en moyenne; Q moyen = 1,3
-    échantillonnage, 30 basidiospores
+    (Piximètre, échantillonnage, 30 basidiospores)
   basidioles: 
   basidiome: 
   bibliographies: 

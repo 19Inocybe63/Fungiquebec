@@ -91,7 +91,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: Un mycologue européen m'indique. « Je ne vois pas dans la littérature mention d'hyphes génératrices tramales, à mon sens tu devrais trouver ces hyphes à côté de celles à extrémités cystoïdes, et indistinctes de celles-ci, car personnellement je pense que ce sont ces hyphes qui évoluent au fil du temps et finissent par se différencier à leur extrémité soit en probasides, puis basides, soit en cystides. » Il faudra voir si la définition de Daedalea quercina en Amérique est identique à celle de l'Europe.
+  commentaires: |
+    Un mycologue européen m'indique. « Je ne vois pas dans la littérature mention d'hyphes génératrices tramales, à mon sens tu devrais trouver ces hyphes à côté de celles à extrémités cystoïdes, et indistinctes de celles-ci, car personnellement je pense que ce sont ces hyphes qui évoluent au fil du temps et finissent par se différencier à leur extrémité soit en probasides, puis basides, soit en cystides. »
+    De Claude Kaufholtz-Couture: « Il faudra voir si la définition de <i>Daedalea quercina</i> en Amérique est identique à celle de l'Europe. »
   conidies: 
   conidiome: 
   conidiophores: 

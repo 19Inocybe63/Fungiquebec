@@ -214,7 +214,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

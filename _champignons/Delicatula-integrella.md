@@ -1,6 +1,6 @@
 ---
 nom: Delicatula integrella
-date: 2017-03-03 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5584/14981972960_cd66ec9e93_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981972960/in/photolist-oPUwAC
 album-flickr:
@@ -170,7 +170,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: réduites à des veines ou des plis émarginés à subdécurrents, en partie fourchues, anastomosées, espacées, blanches, à arêtes entières
+  lames: réduites à des veines ou des plis émarginés à subdécurrents ; en partie fourchues, anastomosées, espacées, blanches, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -201,7 +201,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 5-15 (25) x 5-7 mm Ø, cylindrique filiforme, égal, bulbilleux, cassant, lisse à finement velouté, transparent, blanc
   pieds-steriles: 
@@ -251,10 +251,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus integrellus Pers., Icones et Descriptiones Fungorum Minus Cognitorum 2:54, t. 13:5 (1800)
-    Mycena integrella (Pers.) Gray, A natural arrangement of British plants 1:621 (1821)
-    Omphalia integrella (Pers.) P. Kumm., Der Führer in die Pilzkunde:106 (1871)
-    Omphalina integrella (Persoon) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:46 (1886)
+    <i>Agaricus integrellus</i> Pers., Icones et Descriptiones Fungorum Minus Cognitorum 2:54, t. 13:5 (1800)
+    <i>Mycena integrella</i> (Pers.) Gray, A natural arrangement of British plants 1:621 (1821)
+    <i>Omphalia integrella</i> (Pers.) P. Kumm., Der Führer in die Pilzkunde:106 (1871)
+    <i>Omphalina integrella</i> (Persoon) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:46 (1886)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

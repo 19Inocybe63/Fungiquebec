@@ -1,6 +1,6 @@
 ---
 nom: Craterellus fallax
-date: 2017-03-03 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5689/20978286609_8c2f1879e9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20978286609/in/photolist-xXMcJH
 album-flickr:
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: indistinct, comme une courte extension de l'hyménophore, souvent creux, brun foncé à noirâtre
   pieds-steriles: 
@@ -237,7 +237,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = pas de coloration ou de décoloration sur toutes les parties
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur toutes les parties
   receptacle: 
   remarques: 
   repartition: 

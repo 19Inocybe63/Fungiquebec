@@ -1,6 +1,6 @@
 ---
 nom: Crepidotus cesatii var. subsphaerosporus
-date: 2017-03-13 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/9/8467/8084202795_cc78c9e611_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084202795/in/photolist-dxUEnx-djnDQP-dxXe3x
 album-flickr:
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: très court, latéral, en pseudopied
   pieds-steriles: 
@@ -231,14 +231,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bresadola, Ab. Dr. J. Iconographia Mycologica, Vol. XVI (tab. 751-800), Crepidotus, Flammula, Inocybe, Naucoria, Phylloporus, Società Botanica Italiana, 1930, 124 p.
-    Hesler, L. R.; Smith, Alexander H. North American species of Crepidotus, Hafner Publishing Company New York and London, 1965, 126 p. This reprint by Michael Wood & MykoWeb.com, June 2008
-    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
+    <b>Bresadola, Ab. Dr. J</b>. Iconographia Mycologica, Vol. XVI (tab. 751-800), <i>Crepidotus, Flammula, Inocybe, Naucoria, Phylloporus</i>, Società Botanica Italiana, 1930, 124 p.
+    <b>Hesler, L. R. ; Smith, Alexander H</b>. <i>North American species of Crepidotus</i>, Hafner Publishing Company New York and London, 1965, 126 p. This reprint by Michael Wood & MykoWeb.com, June 2008
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: Sous-genre Dochmiopus
@@ -260,9 +260,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Crepidotus variabilis var. subsphaerosporus J.E. Lange, Flora Agaricina Danica 5:IV (1940)
-    Crepidotus subsphaerosporus (J.E. Lange) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:76 (1953)
-    Crepidotus subsphaerosporus (J.E. Lange) Kühner & Romagn. ex Hesler & A.H. Sm., North American species of Crepidotus:121 (1965)
+    <i>Crepidotus variabilis var. subsphaerosporus</i> J.E. Lange, Flora Agaricina Danica 5:IV (1940)
+    <i>Crepidotus subsphaerosporus</i> (J.E. Lange) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:76 (1953)
+    <i>Crepidotus subsphaerosporus</i> (J.E. Lange) Kühner & Romagn. ex Hesler & A.H. Sm., North American species of Crepidotus:121 (1965)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

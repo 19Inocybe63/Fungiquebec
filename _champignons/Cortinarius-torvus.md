@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius torvus
-date: 2017-03-03 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/8/7380/9412517132_cc0b5e615b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9412517132/in/photolist-fkKyDo-fkKBq9
 album-flickr:
@@ -235,13 +235,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boyer, Roger. Les champignons de Sept-Îles, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    Overholts, Lee Oras., Kauffman, Calvin Henry. (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
-    Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
+    <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
+    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = pas de coloration à gris sur le chapeau ; grisâtre à gris sur la chair
+    Potasse (KOH 10%) = pas de coloration à gris sur le chapeau ; grisâtre à gris sur la chair
   receptacle: 
   remarques: 
   repartition: 
@@ -262,9 +262,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus torvus Fr., Observationes mycologicae 2:80 (1818)
-    Telamonia torva (Fr.) Wünsche, Die Pilze. Eine Anleitung zur Kenntniss derselben:124 (1877)
-    Hydrocybe torva (Fr.) M.M. Moser, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter - und Bauchpilze (Agaricales und Gastromycetes) II:162 (1953)
+    <i>Agaricus torvus</i> Fr., Observationes mycologicae 2:80 (1818)
+    <i>Telamonia torva</i> (Fr.) Wünsche, Die Pilze. Eine Anleitung zur Kenntniss derselben:124 (1877)
+    <i>Hydrocybe torva</i> (Fr.) M.M. Moser, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter - und Bauchpilze (Agaricales und Gastromycetes) II:162 (1953)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

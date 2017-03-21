@@ -1,6 +1,6 @@
 ---
 nom: Daedaleopsis confragosa
-date: 2017-03-03 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/1/729/21681354819_68688b6f57_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21681354819/in/photolist-z2UBqp-zkgMqH-zh7uJN
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: annuel, effusé-réfléchi à sessile, tenace-subéreux
   bibliographies: 
-  biotopes: pousse sur bois pourri, Betula
+  biotopes: pousse sur bois pourri, <i>Betula</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -201,7 +201,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -229,10 +229,10 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = Toutes les parties deviennent gris foncé, noir
+    Potasse (KOH 10%) = toutes les parties deviennent gris foncé, noir
   receptacle: 
   remarques: 
   repartition: 
@@ -253,39 +253,39 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus confragosus Bolton, An History of Fungusses, Growing about Halifax App.:160, t. 160 (1791
-    Daedalea confragosa (Bolton) Pers., Synopsis methodica fungorum:501 (1801)
-    Trametes confragosa (Bolton) Rabenh., Deutschlands Kryptogamenflora 1:416 (1844)
-    Polyporus confragosus (Bolton) P. Kumm., Der Führer in die Pilzkunde:59 (1871)
-    Striglia confragosa (Bolton) Kuntze, Revisio generum plantarum 2:871 (1891)
-    Lenzites confragosa (Bolton) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:89 (1900)
-    Agaricus confragosus (Bolton) Murrill, Bulletin of the Torrey Botanical Club 32 (2):86 (1905)
-    Daedalea confragosa f. bulliardii (Fr.) Domanski, Orlos & Skirg., Flora Polska Grzyby (Mycota) 3:249 (1967)
-    Ischnoderma confragosum (Bolton) Zmitr., Mycena 1 (1):92 (2001)
-    Ischnoderma confragosa (Bolton) Zmitr. (2001)
-    Daedaleopsis confragosa var. confragosa
-    Boletus suaveolens Bull., Herbier de la France 7:t. 310 (1787)
-    Boletus angustatus Sowerby, Coloured Figures of English Fungi 2:81, t. 193 (1799)
-    Daedalea rubescens Alb. & Schwein., Conspectus Fungorum in Lusatiae superioris:238, t. 11:2 (1805)
-    Daedalea corrugata Klotzsch, Linnaea 8:481 (1833)
-    Daedalea discolor Klotzsch, Linnaea:325 (1833)
-    Lenzites crataegi Berk., London Journal of Botany 6:323 (1847)
-    Lenzites ungulaeformis Berk. & M.A. Curtis, Hooker's Journal of Botany and Kew Garden Miscellany 1:101 (1849)
-    Lenzites unguliformis Berk. & M.A. Curtis, Hooker's Journal of Botany and Kew Garden Miscellany 1:101 (1849)
-    Daedalea pruinata Secr., Mycogr. Suisse:481 (1855)
-    Lenzites atropurpurea Sacc., Nuovo Giornale Botanico Italiano 5:271 (1873)
-    Lenzites cookei Berk., Grevillea 4 (32):161 (1876)
-    Lenzites proxima Berk., Grevillea 4 (32):162 (1876)
-    Trametes purpurascens Berk. & Broome, Annals and Magazine of Natural History 3:210 (1879)
-    Polyporus purpurascens Berk. & M.A. Curtis, 210 (1879)
-    Trametes erubescens Schulzer, Rad. jugosl. Akad. Znan. Umjetn.:179 (1882)
-    Trametes zonata Wettst., Verhandlungen der Zoologisch-Botanischen Gesellschaft Wien 35:561 (1885)
-    Lenzites sinensis Cooke, Grevillea 17 (84):75 (1889)
-    Lenzites sibirica P. Karst., Öfvers. finska VetenskSoc. Förh. 46 (11):3 (1904)
-    Daedalea favoloides Murrill, Bulletin of the New York Botanical Garden 8:151 (1912)
-    Daedalea ochracea Velen., Ceske Houby 4-5:693 (1922)
-    Lenzites queletii var. jappii Velen., Mykologia:18 (1930)
-    Tyromyces subradiatus Corner, Beihefte zur Nova Hedwigia 96:199 (1989)
+    <i>Boletus confragosus</i> Bolton, An History of Fungusses, Growing about Halifax App.:160, t. 160 (1791
+    <i>Daedalea confragosa</i> (Bolton) Pers., Synopsis methodica fungorum:501 (1801)
+    <i>Trametes confragosa</i> (Bolton) Rabenh., Deutschlands Kryptogamenflora 1:416 (1844)
+    <i>Polyporus confragosus</i> (Bolton) P. Kumm., Der Führer in die Pilzkunde:59 (1871)
+    <i>Striglia confragosa</i> (Bolton) Kuntze, Revisio generum plantarum 2:871 (1891)
+    <i>Lenzites confragosa</i> (Bolton) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:89 (1900)
+    <i>Agaricus confragosus</i> (Bolton) Murrill, Bulletin of the Torrey Botanical Club 32 (2):86 (1905)
+    <i>Daedalea confragosa f. bulliardii</i> (Fr.) Domanski, Orlos & Skirg., Flora Polska Grzyby (Mycota) 3:249 (1967)
+    <i>Ischnoderma confragosum</i> (Bolton) Zmitr., Mycena 1 (1):92 (2001)
+    <i>Ischnoderma confragosa</i> (Bolton) Zmitr. (2001)
+    <i>Daedaleopsis confragosa var. confragosa</i>
+    <i>Boletus suaveolens</i> Bull., Herbier de la France 7:t. 310 (1787)
+    <i>Boletus angustatus</i> Sowerby, Coloured Figures of English Fungi 2:81, t. 193 (1799)
+    <i>Daedalea rubescens</i> Alb. & Schwein., Conspectus Fungorum in Lusatiae superioris:238, t. 11:2 (1805)
+    <i>Daedalea corrugata</i> Klotzsch, Linnaea 8:481 (1833)
+    <i>Daedalea discolor</i> Klotzsch, Linnaea:325 (1833)
+    <i>Lenzites crataegi</i> Berk., London Journal of Botany 6:323 (1847)
+    <i>Lenzites ungulaeformis</i> Berk. & M.A. Curtis, Hooker's Journal of Botany and Kew Garden Miscellany 1:101 (1849)
+    <i>Lenzites unguliformis</i> Berk. & M.A. Curtis, Hooker's Journal of Botany and Kew Garden Miscellany 1:101 (1849)
+    <i>Daedalea pruinata</i> Secr., Mycogr. Suisse:481 (1855)
+    <i>Lenzites atropurpurea</i> Sacc., Nuovo Giornale Botanico Italiano 5:271 (1873)
+    <i>Lenzites cookei</i> Berk., Grevillea 4 (32):161 (1876)
+    <i>Lenzites proxima</i> Berk., Grevillea 4 (32):162 (1876)
+    <i>Trametes purpurascens</i> Berk. & Broome, Annals and Magazine of Natural History 3:210 (1879)
+    <i>Polyporus purpurascens</i> Berk. & M.A. Curtis, 210 (1879)
+    <i>Trametes erubescens</i> Schulzer, Rad. jugosl. Akad. Znan. Umjetn.:179 (1882)
+    <i>Trametes zonata</i> Wettst., Verhandlungen der Zoologisch-Botanischen Gesellschaft Wien 35:561 (1885)
+    <i>Lenzites sinensis</i> Cooke, Grevillea 17 (84):75 (1889)
+    <i>Lenzites sibirica</i> P. Karst., Öfvers. finska VetenskSoc. Förh. 46 (11):3 (1904)
+    <i>Daedalea favoloides</i> Murrill, Bulletin of the New York Botanical Garden 8:151 (1912)
+    <i>Daedalea ochracea</i> Velen., Ceske Houby 4-5:693 (1922)
+    <i>Lenzites queletii var. jappii</i> Velen., Mykologia:18 (1930)
+    <i>Tyromyces subradiatus</i> Corner, Beihefte zur Nova Hedwigia 96:199 (1989)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

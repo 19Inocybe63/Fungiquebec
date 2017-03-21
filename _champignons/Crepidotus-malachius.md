@@ -1,6 +1,6 @@
 ---
 nom: Crepidotus malachius
-date: 2017-03-13 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/8/7392/9359067501_2638ed78b1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9359067501/in/photolist-fg2EGM
 album-flickr:
@@ -63,7 +63,7 @@ description:
     (5,4) 5,7 - 6,2 (6,5) × (5,4) 5,5 - 6 (6,4) µm
     Q = 1 ; N = 30
     Me = 5,9 × 5,8 µm ; Qe = 1
-    (Piximètre, formule classique ; mesures issues d'une sporée)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -249,14 +249,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bresadola, Ab. Dr. J. Iconographia Mycologica, Vol. XVI (tab. 751-800), Crepidotus, Flammula, Inocybe, Naucoria, Phylloporus, Società Botanica Italiana, 1930, 124 p.
-    Hesler, L. R.; Smith, Alexander H. North American species of Crepidotus, Hafner Publishing Company New York and London, 1965, 126 p. This reprint by Michael Wood & MykoWeb.com, June 2008
-    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
+    <b>Bresadola, Ab. Dr. J</b>. Iconographia Mycologica, Vol. XVI (tab. 751-800), <i>Crepidotus, Flammula, Inocybe, Naucoria, Phylloporus</i>, Società Botanica Italiana, 1930, 124 p.
+    <b>Hesler, L. R. ; Smith, Alexander H</b>. <i>North American species of Crepidotus</i>, Hafner Publishing Company New York and London, 1965, 126 p. This reprint by Michael Wood & MykoWeb.com, June 2008
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
@@ -279,8 +279,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus malachius Berk. & M.A. Curtis, Annals and Magazine of Natural History 4:291 (1859)
-    Agaricus applanatus Pers., Observationes mycologicae 1:8 (1796)
+    <i>Agaricus malachius</i> Berk. & M.A. Curtis, Annals and Magazine of Natural History 4:291 (1859)
+    <i>Agaricus applanatus</i> Pers., Observationes mycologicae 1:8 (1796)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

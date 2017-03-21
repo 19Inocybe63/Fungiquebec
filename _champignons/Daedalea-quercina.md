@@ -1,6 +1,6 @@
 ---
 nom: Daedalea quercina
-date: 2017-03-03 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/4/3930/15461315042_c12164c798_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461315042/in/photolist-pK1eva-pyghih-pwfJKU
 album-flickr:
@@ -66,7 +66,7 @@ description:
   basidioles: 
   basidiome: pérenne, sessile, tenace, subéreux à ligneux-dur, fortement adné
   bibliographies: 
-  biotopes: pousse sur bois vivant de feuillus, Quercus surtout, souvent sur bois très dur
+  biotopes: pousse sur bois vivant de feuillus, <i>Quercus</i> surtout, souvent sur bois très dur
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -242,15 +242,15 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 6, les polyporales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 6, <i>les polyporales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    KOH 10% = devient rouge brun foncé à noir
+    Potasse (KOH 10%) = devient rouge brun foncé à noir
     Rouge Congo SDS = lors d'une coupe, le contexte devient noir
   receptacle: 
   remarques: 
@@ -272,20 +272,20 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus quercinus L., Species Plantarum, 1176 (1753)
-    Agaricus labyrinthiformis Bull., Herbier de la France 8, t. 352 (1788)
-    Merulius quercinus (L.) J.F. Gmel., Systema Naturae 2, 1431 (1792)
-    Lenzites quercina (L.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:54 (1882)
-    Striglia quercina (L.) Kuntze, Revisio generum plantarum 2:871 (1891)
-    Daedaleites quercinus (L.) Mesch. (1892)
-    Trametes quercina (L.) Pilát, Atlas Champ. Eur., Polypor., B:329 (1939)
-    Agaricus dubius Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:56, t. 231 (1774)
-    Agaricus antiquus Willd., Florae Berolinensis Prodromus, 376 (1787)
-    Agaricus labyrinthiformis Hoffm., Nomencl. Fungi, 1789 (1789)
-    Agarico-suber daedaleum Paulet, Traité des champignons 2:75, pl. 1:1-2 (1793)
-    Daedalea nigricans Pers., Synopsis methodica fungorum, 499 (1801)
-    Daedalea inzengae Fr., Funghi siciliani, 8 (1869)
-    Hexagonia minor Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:514 (1916)
+    <i>Agaricus quercinus</i> L., Species Plantarum, 1176 (1753)
+    <i>Agaricus labyrinthiformis</i> Bull., Herbier de la France 8, t. 352 (1788)
+    <i>Merulius quercinus</i> (L.) J.F. Gmel., Systema Naturae 2, 1431 (1792)
+    <i>Lenzites quercina</i> (L.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 37:54 (1882)
+    <i>Striglia quercin</i>a (L.) Kuntze, Revisio generum plantarum 2:871 (1891)
+    <i>Daedaleites quercinus</i> (L.) Mesch. (1892)
+    <i>Trametes quercina</i> (L.) Pilát, Atlas Champ. Eur., Polypor., B:329 (1939)
+    <i>Agaricus dubius</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:56, t. 231 (1774)
+    <i>Agaricus antiquus</i> Willd., Florae Berolinensis Prodromus, 376 (1787)
+    <i>Agaricus labyrinthiformis</i> Hoffm., Nomencl. Fungi, 1789 (1789)
+    <i>Agarico-suber daedaleum</i> Paulet, Traité des champignons 2:75, pl. 1:1-2 (1793)
+    <i>Daedalea nigricans</i> Pers., Synopsis methodica fungorum, 499 (1801)
+    <i>Daedalea inzengae</i> Fr., Funghi siciliani, 8 (1869)
+    <i>Hexagonia minor</i> Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:514 (1916)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

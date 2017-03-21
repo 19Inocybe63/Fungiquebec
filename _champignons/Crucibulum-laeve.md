@@ -1,6 +1,6 @@
 ---
 nom: Crucibulum laeve
-date: 2017-03-12 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5511/18901284261_bd2582ee2a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18901284261/in/photolist-tQYTAJ-uNf2ip
 album-flickr:
@@ -257,23 +257,23 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Nidularia levis Bull.
-    Peziza crucibuliformis Scop., Flora carniolica 2:486 (1772)
-    Peziza levis Huds. (1778)
-    Peziza laevis Huds., Flora anglica:634 (1778)
-    Peziza pyxis Batsch, Elenchus fungorum:129 (1783)
-    Cyathus cylindricus Willd., Florae Berolinensis Prodromus:399 (1787)
-    Cyathus crucibuliformis (Scop.) Hoffm., Vegetabilia Cryptogama 2:29, t. 8:1 (1790)
-    Nidularia laevis Bull., Herbier de la France 11:t. 488:2 (1790)
-    Nidularia laevis (Huds.) With., A botanical arrangement of British plants 3:446 (1792)
-    Cyathus crucibulum Pers., Synopsis methodica fungorum:238 (1801)
-    Cyathella laevis (Huds.) Brot., Flora Lusitanica 2:474 (1804)
-    Nidularia crucibulum (Pers.) Sw., K. Vet. Acad. nya Handl.:128 (1814)
-    Crucibulum crucibuliforme (Scop.) V.S. White, Bulletin of the Torrey Botanical Club 29:269 (1902)
-    Peziza scutellaris O.F. Müll., Fl. dan. 5: t. 780:2 (1777)
-    Crucibulum vulgare Tul. & C. Tul., Annales des Sciences Naturelles Botanique 1:90 (1844)
-    Cyathus pezizoides Berk., Botanical Journal of the Linnean Society 18:387 (1881)
-    Cyathus atrofuscus Velen., Novitates mycologicae novissimae:94 (1947)
+    <i>Nidularia levis</i> Bull.
+    <i>Peziza crucibuliformis</i> Scop., Flora carniolica 2:486 (1772)
+    <i>Peziza levis</i> Huds. (1778)
+    <i>Peziza laevis</i> Huds., Flora anglica:634 (1778)
+    <i>Peziza pyxis</i> Batsch, Elenchus fungorum:129 (1783)
+    <i>Cyathus cylindricus</i> Willd., Florae Berolinensis Prodromus:399 (1787)
+    <i>Cyathus crucibuliformis</i> (Scop.) Hoffm., Vegetabilia Cryptogama 2:29, t. 8:1 (1790)
+    <i>Nidularia laevis</i> Bull., Herbier de la France 11:t. 488:2 (1790)
+    <i>Nidularia laevis</i> (Huds.) With., A botanical arrangement of British plants 3:446 (1792)
+    <i>Cyathus crucibulum</i> Pers., Synopsis methodica fungorum:238 (1801)
+    <i>Cyathella laevis</i> (Huds.) Brot., Flora Lusitanica 2:474 (1804)
+    <i>Nidularia crucibulum</i> (Pers.) Sw., K. Vet. Acad. nya Handl.:128 (1814)
+    <i>Crucibulum crucibuliforme</i> (Scop.) V.S. White, Bulletin of the Torrey Botanical Club 29:269 (1902)
+    <i>Peziza scutellaris</i> O.F. Müll., Fl. dan. 5: t. 780:2 (1777)
+    <i>Crucibulum vulgare</i> Tul. & C. Tul., Annales des Sciences Naturelles Botanique 1:90 (1844)
+    <i>Cyathus pezizoides</i> Berk., Botanical Journal of the Linnean Society 18:387 (1881)
+    <i>Cyathus atrofuscus</i> Velen., Novitates mycologicae novissimae:94 (1947)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

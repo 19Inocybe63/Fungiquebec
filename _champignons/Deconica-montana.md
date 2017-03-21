@@ -60,8 +60,8 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    subtriangulaires-lentiformes à ± hexagonales en vue frontale, elliptiques à largement elliptiques vues de profil, tronquées, lisses, à paroi mince entre 0,1-0,2 µm, avec appendice hilaire, et petit pore germinatif pas toujours bien visible 0,8-0,9 µm Ø, à contenu homogène dans le NaCl iso 0,9%, mais uniguttulé dans le melzer, brun-gris pâle avec reflets violets dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
-    6 [6,6; 6,8] 7,3 x 4,4 [5; 5,3] 5,8 x 3,5 [4; 4,2] 4,6 µm
+    elliptiques à citriformes, subtriangulaires-lentiformes à ± hexagonales en vue frontale, elliptiques à largement elliptiques, amygdaliformes vues de profil, tronquées, lisses, à paroi mince entre 0,1-0,3 µm, avec appendice hilaire, et petit pore germinatif pas toujours bien visible jusqu'à 1,3 µm Ø, à contenu homogène dans le NaCl iso 0,9%, mais uniguttulé dans le melzer, brun-gris pâle avec reflets violets dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    6 [6,6; 6,8] 8,7 x 4,4 [5; 5,3] 5,8 x 3,5 [4; 4,2] 4,6 µm
     Q = 1,5 [1,6; 1,7] 1,8; N = 30; C = 95%
     Me = 6,7 x 4,1 µm; Qe = 1,7
   basidioles: 

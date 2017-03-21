@@ -7,7 +7,7 @@ album-flickr:
   - 72157675846416715
 
 details:
-  nom-francais: Mycene délicate
+  nom-francais: Mycène délicate
   autorites: (Pers.) Fayod
   ordre: Agaricales
   famille: Tricholomataceae

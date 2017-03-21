@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius semisanguineus
-date: 2017-03-03 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5706/21371299261_55b7c1ef07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21371299261/in/photolist-yxM8R4-yyvuGV
 album-flickr:
@@ -216,7 +216,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 30-100 x 3-10 mm Ø, cylindrique, égal ou un peu renflé vers la base, fibrilleux, jaunâtre, plus rarement jaune laiton plus foncé, souvent avec mycélium basal carminé pâle
   pieds-steriles: 
@@ -245,9 +245,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boyer, Roger. Les champignons de Sept-Îles, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    Overholts, Lee Oras., Kauffman, Calvin Henry. (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
-    Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
+    <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
+    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -271,9 +271,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus cinnamomeus var. semisanguineus Fr., Systema Mycologicum 1:229 (1821)
-    Flammula cinnamomea var. semisanguinea (Fr.) P. Kumm., Der Führer in die Pilzkunde:81 (1871)
-    Dermocybe semisanguinea (Fr.) M.M. Moser, Schweizerische Zeitschrift für Pilzkunde 52:129 (1974)
+    <i>Agaricus cinnamomeus var. semisanguineus</i> Fr., Systema Mycologicum 1:229 (1821)
+    <i>Flammula cinnamomea var. semisanguinea</i> (Fr.) P. Kumm., Der Führer in die Pilzkunde:81 (1871)
+    <i>Dermocybe semisanguinea</i> (Fr.) M.M. Moser, Schweizerische Zeitschrift für Pilzkunde 52:129 (1974)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

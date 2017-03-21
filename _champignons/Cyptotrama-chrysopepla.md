@@ -1,6 +1,6 @@
 ---
 nom: Cyptotrama chrysopepla
-date: 2017-03-03 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/9/8181/8064645462_423d37e499_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8064645462/in/photolist-dhDq8q
 album-flickr:
@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Mycodb. « Les squames épineuses sont caractéristiques sur les spécimens jeunes. Remarquable couleur jaune plus ou moins orange, mêlé de vermillon au disque, hérisse de squamules dressées, allure de pholiota squarrosa, mais chapeau vite plan. »
+  commentaires: De Mycodb. « Les squames épineuses sont caractéristiques sur les spécimens jeunes. Remarquable couleur jaune plus ou moins orange, mêlé de vermillon au disque, hérisse de squamules dressées, allure de <i>Pholiota squarrosa</i>, mais chapeau vite plan. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -206,7 +206,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 15-50 x 2-5 mm Ø, égal à légèrement atténué ou légèrement élargi vers la base, plein, finement granuleux-floconneux à fibrilleux, écailleux surtout vers la base, concolore au chapeau
   pieds-steriles: 
@@ -258,13 +258,13 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Lentinus chrysopeplus Berk. & M.A. Curtis, Journal of the Linnean Society 10:301 (1869)
-    Pocillaria chrysopepla (Berk. & M.A. Curtis) Kuntze, Revisio generum plantarum 2:865 (1891)
-    Gymnopus chrysopeplus (Berk. & M.A. Curtis) Murrill, North American Flora 9 (5):359 (1916)
-    Xerula chrysopepla (Berk. & M.A. Curtis) Singer, Mycologia 35 (2):157 (1943)
-    Collybia chrysopepla (Berk. & M.A. Curtis) A. Pearson, Transactions of the British Mycological Society 33 (3-4):297 (1950)
-    Xerulina chrysopepla (Berk. & M.A. Curtis) Singer, Sydowia 15 (1-6):59 (1962)
-    Cyptotrama chrysopeplum (Berk. & M.A. Curtis) Singer, Beihefte zur Sydowia 7:34 (1973)
+    <i>Lentinus chrysopeplus</i> Berk. & M.A. Curtis, Journal of the Linnean Society 10:301 (1869)
+    <i>Pocillaria chrysopepla</i> (Berk. & M.A. Curtis) Kuntze, Revisio generum plantarum 2:865 (1891)
+    <i>Gymnopus chrysopeplus</i> (Berk. & M.A. Curtis) Murrill, North American Flora 9 (5):359 (1916)
+    <i>Xerula chrysopepla</i> (Berk. & M.A. Curtis) Singer, Mycologia 35 (2):157 (1943)
+    <i>Collybia chrysopepla</i> (Berk. & M.A. Curtis) A. Pearson, Transactions of the British Mycological Society 33 (3-4):297 (1950)
+    <i>Xerulina chrysopepla</i> (Berk. & M.A. Curtis) Singer, Sydowia 15 (1-6):59 (1962)
+    <i>Cyptotrama chrysopeplum</i> (Berk. & M.A. Curtis) Singer, Beihefte zur Sydowia 7:34 (1973)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius iodes
-date: 2017-03-05 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5323/9516208641_61f8abeb80_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9516208641/in/photolist-fuV4hM
 album-flickr:
@@ -235,13 +235,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boyer, Roger. Les champignons de Sept-Îles, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    Overholts, Lee Oras., Kauffman, Calvin Henry. (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
-    Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
+    <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
+    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = pas de coloration, ou rosâtre sur la surface du chapeau ; brunâtre sur la chair
+    Potasse (KOH 10%) = pas de coloration, ou rosâtre sur la surface du chapeau ; brunâtre sur la chair
   receptacle: 
   remarques: 
   repartition: 

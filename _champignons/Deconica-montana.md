@@ -1,6 +1,6 @@
 ---
 nom: Deconica montana
-date: 2017-03-03 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/4/3918/14248225929_dbab7946e2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14248225929/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
 album-flickr:
@@ -48,7 +48,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Guzmán, Gastón et Ott, Jonathan. Description and Chemical Analysis of a New Species of Hallucinogenic Psilocybe from the Pacific Northwest, Mycologia, Vol. 68, No. 6 (Nov.-Dec., 1976), pp. 1261-1267, 8 p.
+  articles: |
+    <b>Guzmán, Gastón, ; Ott, Jonathan</b>. <i>Description and Chemical Analysis of a New Species of Hallucinogenic Psilocybe from the Pacific Northwest</i>, Mycologia, Vol. 68, No. 6 (Nov.-Dec., 1976), pp. 1261-1267, 8 p.
   ascome: 
   ascospores: 
   asques: 
@@ -59,7 +60,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    subtriangulaires-lentiformes à ± hexagonales en vue frontale, elliptiques à largement elliptiques vues de profil, tronquées, lisses, à paroi mince entre 0,1-0,2 µm, avec appendice hilaire, et petit pore germinatif pas toujours bien visible 0,8-0,9 µm Ø, à contenu homogène dans le NaCl isotonique 0,9%, mais uniguttulé dans le melzer, brun-gris pâle avec reflets violets dans le NaCl, dextrinoïdes, non cyanophiles
+    subtriangulaires-lentiformes à ± hexagonales en vue frontale, elliptiques à largement elliptiques vues de profil, tronquées, lisses, à paroi mince entre 0,1-0,2 µm, avec appendice hilaire, et petit pore germinatif pas toujours bien visible 0,8-0,9 µm Ø, à contenu homogène dans le NaCl iso 0,9%, mais uniguttulé dans le melzer, brun-gris pâle avec reflets violets dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     6 [6,6; 6,8] 7,3 x 4,4 [5; 5,3] 5,8 x 3,5 [4; 4,2] 4,6 µm
     Q = 1,5 [1,6; 1,7] 1,8; N = 30; C = 95%
     Me = 6,7 x 4,1 µm; Qe = 1,7
@@ -91,7 +92,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Au printemps, il n'est pas rare de voir <i>D. montana</i> pousser au travers les bryophytes et les mousses. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -214,7 +215,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: le printemps et l'été
+  phenologie: de juin à septembre
   phialoconidies: 
   pied: 20-50 x 1-2 mm, élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau, brun marron à ochracé
   pieds-steriles: 
@@ -241,16 +242,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
-    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV, Mykoflora I, Alassio-(SV), 1998, 48 p.
+    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV, Mykoflora I, Alassio-(SV), 1998, 48 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Au printemps, il n'est pas rare de voir D. montana pousser au travers les bryophytes et les mousses.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -269,11 +270,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus montanus Pers., Observationes mycologicae 1: 9 (1796)
-    Psilocybe montana (Pers.) P. Kumm., Der Führer in die Pilzkunde: 71 (1871)
-    Agaricus atrorufus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4: 58, t. 234 (1774)
-    Astylospora lateritia Murrill, Mycologia 10 (1): 20 (1918)
-    Atylospora lateritia Murrill (1918)
+    <i>Agaricus montanus</i> Pers., Observationes mycologicae 1: 9 (1796)
+    <i>Psilocybe montana</i> (Pers.) P. Kumm., Der Führer in die Pilzkunde: 71 (1871)
+    <i>Agaricus atrorufus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4: 58, t. 234 (1774)
+    <i>Astylospora lateritia</i> Murrill, Mycologia 10 (1): 20 (1918)
+    <i>Atylospora lateritia</i> Murrill (1918)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

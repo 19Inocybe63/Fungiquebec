@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius sphagnophilus
-date: 2017-03-03 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/4/3847/15248257151_723d4f11bd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15248257151/in/photolist-periBn
 album-flickr:
@@ -80,8 +80,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Son pied peut-être nettement plus long quand il vient parmi les sphaignes. »
-    De Claude Kaufholtz-Couture. « C. scaurus est son sosie, mais il s’en différencie par des lames vert olive. »
+    De Yves Lamoureux. « Son pied peut-être nettement plus long quand il vient parmi les sphaignes ; et <i>C. scaurus</i> est son sosie, mais il s’en différencie par des lames vert olive. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -208,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 50-150 x 10-20 mm Ø, cylindrique, égal, bulbeux marginé, strié-fibrilleux, violacé au début, brunissant avec l'âge, avec mycélium basal olive
   pieds-steriles: 
@@ -237,9 +236,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boyer, Roger. Les champignons de Sept-Îles, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    Overholts, Lee Oras., Kauffman, Calvin Henry. (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
-    Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
+    <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
+    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -263,8 +262,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Phlegmacium sphagnophilum (Peck) M.M. Moser, Die Gattung Phlegmacium (Schleimköpfe). Die Pilze Mitteleuropas 4:225 (1960)
-    Cortinarius scaurus var. sphagnophilus (Peck) Brandrud, Cortinarius. Flora photographica 3:27 (1994)
+    <i>Phlegmacium sphagnophilum</i> (Peck) M.M. Moser, Die Gattung Phlegmacium (Schleimköpfe). Die Pilze Mitteleuropas 4:225 (1960)
+    <i>Cortinarius scaurus var. sphagnophilus</i> (Peck) Brandrud, Cortinarius. Flora photographica 3:27 (1994)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

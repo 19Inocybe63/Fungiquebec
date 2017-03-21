@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius pholideus
-date: 2017-03-05 00:00:00
+date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/1/609/21586158261_ab26f267bf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21586158261/in/photolist-yA7MiG-yTuGNr
 album-flickr:
@@ -245,9 +245,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boyer, Roger. Les champignons de Sept-Îles, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    Overholts, Lee Oras., Kauffman, Calvin Henry. (Agaricales); Hypodendrum ; Cortinarius, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
-    Soop, Karl. Cortinarius in Sweden, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
+    <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
+    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -271,7 +271,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus pholideus Lilj., Utkast Svensk Fl. ed.3:645 (1816)
+    <i>Agaricus pholideus</i> Lilj., Utkast Svensk Fl. ed.3:645 (1816)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

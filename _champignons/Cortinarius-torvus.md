@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous Fagus et Quercus
+  biotopes: pousse au sol, sous <i>Fagus</i> et <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

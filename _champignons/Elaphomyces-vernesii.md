@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces vernesii sp. nov.
-date: 2017-03-03 00:00:00
+date: 2017-03-22 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
 album-flickr:
@@ -82,7 +82,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sous la surface du sol, sous chêne rouge
+  biotopes: pousse sous la surface du sol, sous <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -108,8 +108,8 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Michael Castellano. All E. vernesii sp. nov. known only from Canada.
-    De Kaufholtz-Couture. Faire attention, car dans les nombreuses récoltes de E. vernesii, une autre espèce la côtoie et vit à proximité.
+    De Michael Castellano. « All <i>E. vernesii sp. nov.</i> known only from Canada. »
+    De Kaufholtz-Couture. « Faire attention, car dans les nombreuses récoltes de <i>E. vernesii</i>, une autre espèce la côtoie et vit à proximité. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -233,7 +233,7 @@ description:
   peridiopellis: 
   peridium: distinct du cortex, formé d'hyphes à paroi épaissie, hyalines à brun pâle et 3-4 µm Ø sur la partie externe, plus lâchement emmêlées et 6-7 µm Ø sur la partie interne
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -264,8 +264,8 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    Il s'agit d'une nouvelle espèce; E. vernesii sp. nov. Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
-    Les hyphes sont parfaitement visibles dans le Bleu de crésyl alcoolique selon Clémençon.
+    Il s'agit d'une nouvelle espèce ; <i>E. vernesii sp. nov.</i> Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
+    Les hyphes sont parfaitement visibles dans le Bleu crésyl alcoolique selon Clémençon.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

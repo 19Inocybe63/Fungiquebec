@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces verruculosus
-date: 2017-03-13 00:00:00
+date: 2017-03-22 00:00:00
 image: https://c2.staticflickr.com/6/5659/21247990934_8e04b18b66_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21247990934/in/photolist-ynBvrh-z38wYn
 album-flickr:
@@ -39,7 +39,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Michael A. Castellano. Elaphomyces appalachiensis and E. verruculosus sp. nov. (Ascomycota Eurotiales, Elaphomycetaceae) from eastern North America, Revista Mexicana de Micologia 35:17-22, 2012, 6 p.
+    <b>Michael A. Castellano</b>. <i>Elaphomyces appalachiensis and E. verruculosus sp. nov. (Ascomycota Eurotiales, Elaphomycetaceae) from eastern North America</i>, Revista Mexicana de Micologia 35:17-22, 2012, 6 p.
   ascome: irrégulièrement subglobuleux à réniformes, jusqu'à 22 x 27 mm
   ascospores: 
   asques: 
@@ -53,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous épinette
+  biotopes: pousse dans le sol, sous <i>Picea</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -78,7 +78,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Michael Castellano. « E. verruculosus Castellano wide spread across the east coast. »
+  commentaires: De Michael Castellano. « <i>E. verruculosus</i> Castellano wide spread across the east coast. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -201,7 +201,7 @@ description:
   peridiopellis: 
   peridium: semi-arrondi à verrues angulaires ou allongées, jusqu'à 500 µm de large et de 300 µm de haut, arrondi à aigu ou même aplati à l'apex, contigu à l'autre à la base, jaune-brun pâle quand il est jeune, puis brun marbré, jaune-brun lorsque mature, avec brun pâle dominant, verrues souvent masqués par des structures d'hyphes mêlés pour rendre l'aspect de la surface presque lisse ou papilleux, avec couche ± 140 µm d'épaisseur, rouge-brun à cellules rouge-brun foncé superposée à jaune-brun pâle, au tissu blanc gris, 300-350 µm d'épaisseur, à la base des verrues, il y a une couche de blanc gris, parfois teinté de gris-bleu pâle
   peritheces: 
-  phenologie: 
+  phenologie: de septembre à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

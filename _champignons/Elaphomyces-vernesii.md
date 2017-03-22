@@ -222,7 +222,7 @@ description:
   mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
-  nouvelle-espece: Elaphomyces vernesii sp. nov., d'après Michael Castellano.
+  nouvelle-espece: <i>Elaphomyces vernesii sp. nov.</i>, d'après Michael Castellano.
   note-taxonomique: 
   oeuf: 
   paracapillitium: 

@@ -1,6 +1,6 @@
 ---
 nom: Entoloma conicum
-date: 2017-03-12 00:00:00
+date: 2017-03-21 00:00:00
 image: https://c2.staticflickr.com/6/5575/14701084889_7123cd3564_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14701084889/in/photolist-op5SWB-op5UmR-qfrG8V
 album-flickr:
@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois pourri et moussu de feuillu (Betula)
+  biotopes: pousse sur bois pourri et moussu de feuillu (<i>Betula</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -233,14 +233,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Kuyper, Th. W, Noordeloos, M. E., Vellinga, E. C. et al. Critical monographs on families of agarics and boleti occurring in the Netherlands, Flora Agaricina Neerlandica, A. A. Balkema, Rotterdam, Brookfield, 1988; Volume 1, A. General part B. Special part, Entolomataceae by M. E. Noordeloos, 182 p.
-    Vesterholt, Jan. Contribution to the knowledge of species of Entoloma subgenus Leptonia, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XXI; Édizioni Candusso, 2002, 64 p.
+    <b>Kuyper, Th. W. ; Noordeloos, M. E. ; Vellinga, E. C. et al</b>. <i>Critical monographs on families of agarics and boleti occurring in the Netherlands</i>, Flora Agaricina Neerlandica, A. A. Balkema, Rotterdam, Brookfield, 1988; Volume 1, A. General part B. Special part, Entolomataceae by M. E. Noordeloos, 182 p.
+    <b>Vesterholt, Jan</b>. <i>Contribution to the knowledge of species of Entoloma subgenus Leptonia</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XXI; Édizioni Candusso, 2002, 64 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 9, les Entoloma, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 9, <i>les Entoloma</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -262,10 +262,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus conicum Peck (1872)
-    Agaricus conicus Peck, Annual Report on the New York State Museum of Natural History 24:66 (1872)
-    Nolanea conica Sacc., Sylloge Fungorum 5:723 (1887)
-    Nolanea peckii House, Bulletin of the New York State Museum 205-206:38 (1919)
+    <i>Agaricus conicum</i> Peck (1872)
+    <i>Agaricus conicus</i> Peck, Annual Report on the New York State Museum of Natural History 24:66 (1872)
+    <i>Nolanea conica</i> Sacc., Sylloge Fungorum 5:723 (1887)
+    <i>Nolanea peckii</i> House, Bulletin of the New York State Museum 205-206:38 (1919)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Entoloma formosum
-date: 2017-03-03 00:00:00
+date: 2017-03-21 00:00:00
 image: https://c2.staticflickr.com/6/5553/14864698956_e8a7930466_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14864698956/in/photolist-qepDS2-oDxt83-oDxrA5
 album-flickr:
@@ -47,7 +47,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, bisporiques, bouclées à la bass
+  basides: claviformes, bisporiques, bouclées à la base
   basidiospores: |
     hétérodiamétriques 5-7 angles, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, non cyanophiles
     10 [11; 11,4] 12,3 x 7,1 [7,8; 8,1] 8,7 µm
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 40-70 x 2-4 mm Ø, cylindrique, égal, souvent légèrement élargi vers la base, souvent arrondi à la coupe, sillonné longitudinalement, creux, lisse à substrié par des fibrilles argentées dispersées, concolore au chapeau ou plus jaune à plus pâle au début, orange rougeâtre à orange brunâtre avec l'âge et au sec
   pieds-steriles: 
@@ -233,14 +233,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Kuyper, Th. W, Noordeloos, M. E., Vellinga, E. C. et al. Critical monographs on families of agarics and boleti occurring in the Netherlands, Flora Agaricina Neerlandica, A. A. Balkema, Rotterdam, Brookfield, 1988; Volume 1, A. General part B. Special part, Entolomataceae by M. E. Noordeloos, 182 p.
-    Vesterholt, Jan. Contribution to the knowledge of species of Entoloma subgenus Leptonia, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XXI; Édizioni Candusso, 2002, 64 p.
+    <b>Kuyper, Th. W. ; Noordeloos, M. E. ; Vellinga, E. C. et al</b>. <i>Critical monographs on families of agarics and boleti occurring in the Netherlands</i>, Flora Agaricina Neerlandica, A. A. Balkema, Rotterdam, Brookfield, 1988; Volume 1, A. General part B. Special part, Entolomataceae by M. E. Noordeloos, 182 p.
+    <b>Vesterholt, Jan</b>. <i>Contribution to the knowledge of species of Entoloma subgenus Leptonia</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XXI; Édizioni Candusso, 2002, 64 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 9, les Entoloma, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 9, <i>les Entoloma</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -262,10 +262,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus formosus Fr., Systema Mycologicum 1:208 (1821)
-    Leptonia formosa (Fr.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:414 (1876)
-    Rhodophyllus formosus (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:61 (1886)
-    Leptonia fulva P.D. Orton, Transactions of the British Mycological Society 43 (2):293 (1960)
+    <i>Agaricus formosus</i> Fr., Systema Mycologicum 1:208 (1821)
+    <i>Leptonia formosa</i> (Fr.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:414 (1876)
+    <i>Rhodophyllus formosus</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:61 (1886)
+    <i>Leptonia fulva</i> P.D. Orton, Transactions of the British Mycological Society 43 (2):293 (1960)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

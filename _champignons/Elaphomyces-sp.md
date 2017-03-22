@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces sp. nov. not
-date: 2017-03-03 00:00:00
+date: 2017-03-22 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 album-flickr:
@@ -76,7 +76,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous Picea, Pinus, Quercus
+  biotopes: pousse dans le sol, sous <i>Picea</i>, <i>Pinus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

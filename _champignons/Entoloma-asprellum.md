@@ -1,6 +1,6 @@
 ---
 nom: Entoloma asprellum
-date: 2017-03-03 00:00:00
+date: 2017-03-21 00:00:00
 image: https://c1.staticflickr.com/1/490/20065281211_140025cb40_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20065281211/in/photolist-KnAmT8-LjcCoe-wxW9Bh-wz6P3k
 album-flickr:
@@ -271,9 +271,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus asprellus Fr., Systema Mycologicum 1:208 (1821)
-    Leptonia asprella (Fr.) P. Kumm., Der Führer in die Pilzkunde:96 (1871)
-    Rhodophyllus asprellus (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:61 (1886)
+    <i>Agaricus asprellus</i> Fr., Systema Mycologicum 1:208 (1821)
+    <i>Leptonia asprella</i> (Fr.) P. Kumm., Der Führer in die Pilzkunde:96 (1871)
+    <i>Rhodophyllus asprellus</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:61 (1886)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

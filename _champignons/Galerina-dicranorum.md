@@ -1,6 +1,6 @@
 ---
 nom: Galerina dicranorum
-date: 2017-03-14 00:00:00
+date: 2017-03-23 00:00:00
 image: https://c2.staticflickr.com/4/3923/14368514495_c15fa5712c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14368514495/in/photolist-nTGoLx-nTBP7q
 album-flickr:
@@ -53,7 +53,7 @@ description:
     (8,4) 8,9 - 9,8 (11,8) × (5) 5,2 - 6 (6,9) µm
     Q = (1,4) 1,5 - 1,8 (1,9) ; N = 30
     Me = 9,4 × 5,7 µm ; Qe = 1,7
-    (Piximètre formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -237,12 +237,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Smith, Alexander H., Singer, Rolf. A monograph on the Genus Galerina Earle, Hafner Publishing Company, New York and London, 1964, 385 p.
+    <b>Smith, Alexander H. ; Singer, Rolf</b>. <i>A monograph on the Genus Galerina Earle</i>, Hafner Publishing Company, New York and London, 1964, 385 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 

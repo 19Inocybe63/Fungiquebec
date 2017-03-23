@@ -267,7 +267,7 @@ description:
   reactions-macrochimiques: |
     Ammoniaque (NH<SUB>4</SUB>OH 10%) = pas de coloration ou de décoloration sur toutes les parties
     Gaïacol = pas de coloration ou de décoloration sur toutes les parties
-    Potasse (KOH 10%) = chapeau et pied, pas de coloration ou de décoloration ; lames légèrement verdâtre
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau et le pied ; lames légèrement verdâtre
     Réaction de Schaeffer = Schaeffer 0
     Sulfate de fer (FeSO<SUB>4</SUB>) = pas de coloration ou de décoloration sur toutes les parties
     Tl4 = -

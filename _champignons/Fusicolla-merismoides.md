@@ -1,6 +1,6 @@
 ---
 nom: Fusicolla merismoides
-date: 2017-03-04 00:00:00
+date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/9/8535/8870357399_d0722d4a0f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8870357399/in/photolist-eQTXzm-evQUdx-evUfJY
 album-flickr:
@@ -77,11 +77,11 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Le champignon produit une gaine visqueuse blanche puis rose à orangée sur le substrat dans laquelle les périthèces peuvent être entièrement ou partiellement immergés. F. merismoides, de la famille des Nectriaceae, est souvent considéré comme le champignon visqueux orange des arbres. Il fait partie d'un complexe de nombreuses espèces phylogénétiques. »
+  commentaires: De Claude Kaufholtz-Couture. « Le champignon produit une gaine visqueuse blanche puis rose à orangée sur le substrat dans laquelle les périthèces peuvent être entièrement ou partiellement immergés. <i>F. merismoides</i>, de la famille des Nectriaceae, est souvent considéré comme le champignon visqueux orange des arbres. Il fait partie d'un complexe de nombreuses espèces phylogénétiques. »
   conidies: |
     de deux types ;
-    a) macroconidies falciformes, de type Fusarium, septées, formées sur les phialides
-    b) microconidies ellipsoïdes à allantoïdes, formées directement sur les hyphes
+    1) macroconidies falciformes, de type Fusarium, septées, formées sur les phialides
+    2) microconidies ellipsoïdes à allantoïdes, formées directement sur les hyphes
   conidiome: 
   conidiophores: phialides cylindriques à subulées, formant des macroconidies aux extrémités
   consistance: 
@@ -232,7 +232,11 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
@@ -255,7 +259,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Fusarium merismoides Corda, Icones fungorum hucusque cognitorum 2:4, t. 8:16 (1838)
+    <i>Fusarium merismoides</i> Corda, Icones fungorum hucusque cognitorum 2:4, t. 8:16 (1838)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

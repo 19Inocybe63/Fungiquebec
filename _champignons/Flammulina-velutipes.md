@@ -1,6 +1,6 @@
 ---
 nom: Flammulina velutipes
-date: 2017-03-04 00:00:00
+date: 2017-03-23 00:00:00
 image: https://c2.staticflickr.com/8/7303/8787825572_72e4f87309_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8787825572/in/photolist-enYcQc-euNGm8-eoxUo1
 album-flickr:
@@ -232,13 +232,13 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Cette espèce est aussi désignée par son nom japonais « enoki ».
+  remarques: Cette espèce est aussi désignée par son nom japonais <i>enoki</i>.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -257,16 +257,15 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus velutipes Curtis, Flora londinensis: 212, t. 70 (1782)
-    Gymnopus velutipes (Curtis) Gray, A natural arrangement of British plants 1: 605 (1821)
-    Collybia velutipes (Curtis) P. Kumm., Der Führer in die Pilzkunde: 116 (1871)
-    Pleurotus velutipes (Curtis) Quél., Flore mycologique de la France et des pays limitrophes: 334 (1888)
-    Myxocollybia velutipes (Curtis) Singer, Schweizerische Zeitschrift für Pilzkunde 17: 72 (1939)
-    Myxocollybia velutipes (Curtis) Singer, Annales Mycologici 41: 116 (1943)
-    Agaricus nigripes Bull., Herbier de la France 8: t. 344 (1788)
-    Agaricus veluticeps Cooke & Massee, Grevillea 18 (85): 4 (1889)
-    Panaeolus veluticeps Sacc., Sylloge Fungorum 9: 147 (1891)
-    Mycobank Database, http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=10374&Fields=All
+    <i>Agaricus velutipes</i> Curtis, Flora londinensis: 212, t. 70 (1782)
+    <i>Gymnopus velutipes</i> (Curtis) Gray, A natural arrangement of British plants 1: 605 (1821)
+    <i>Collybia velutipes</i> (Curtis) P. Kumm., Der Führer in die Pilzkunde: 116 (1871)
+    <i>Pleurotus velutipes</i> (Curtis) Quél., Flore mycologique de la France et des pays limitrophes: 334 (1888)
+    <i>Myxocollybia velutipes</i> (Curtis) Singer, Schweizerische Zeitschrift für Pilzkunde 17: 72 (1939)
+    <i>Myxocollybia velutipes</i> (Curtis) Singer, Annales Mycologici 41: 116 (1943)
+    <i>Agaricus nigripes</i> Bull., Herbier de la France 8: t. 344 (1788)
+    <i>Agaricus veluticeps</i> Cooke & Massee, Grevillea 18 (85): 4 (1889)
+    <i>Panaeolus veluticeps</i> Sacc., Sylloge Fungorum 9: 147 (1891)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

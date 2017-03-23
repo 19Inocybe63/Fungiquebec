@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, sphaigne, sous chêne rouge, hêtre à grandes feuilles
+  biotopes: pousse au sol, dans la mousse, sphaigne, sous <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

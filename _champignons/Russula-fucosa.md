@@ -114,7 +114,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Cette xérampéline varie peu en couleurs. As-tu remarqué que son odeur est faible pour une xérampéline, sauf dans la vétusté ? Concernant l’odeur, il y a des règles générales. L'odeur est plus forte dans les lames, et toujours avec l'âge, mais celle de la chair est parfois différente, surtout chez les Cortinarius, la pluie ou le froid (frigo, mois d'octobre) peuvent masquer une odeur ; l'odeur des xérampélines et des bolets s'accentuent au séchage. »
+  commentaires: De Yves Lamoureux. « Cette xérampéline varie peu en couleurs. As-tu remarqué que son odeur est faible pour une xérampéline, sauf dans la vétusté ? Concernant l’odeur, il y a des règles générales. L'odeur est plus forte dans les lames, et toujours avec l'âge, mais celle de la chair est parfois différente, surtout chez les <i>Cortinarius</i>, la pluie ou le froid (frigo, mois d'octobre) peuvent masquer une odeur ; l'odeur des xérampélines et des bolets s'accentuent au séchage. »
   conidies: 
   conidiome: 
   conidiophores: 

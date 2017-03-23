@@ -1,6 +1,6 @@
 ---
 nom: Entoloma strictius var. isabellinum
-date: 2017-03-18 00:00:00
+date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/3/2938/14027433237_c891b5ecb3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14027433237/in/photolist-nFqWq4-nnygcc
 album-flickr:
@@ -256,20 +256,20 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Kuyper, Th. W, Noordeloos, M. E., Vellinga, E. C. et al. Critical monographs on families of agarics and boleti occurring in the Netherlands, Flora Agaricina Neerlandica, A. A. Balkema, Rotterdam, Brookfield, 1988; Volume 1, A. General part B. Special part, Entolomataceae by M. E. Noordeloos, 182 p.
-    Vesterholt, Jan. Contribution to the knowledge of species of Entoloma subgenus Leptonia, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XXI; Édizioni Candusso, 2002, 64 p.
+    <b>Kuyper, Th. W. ; Noordeloos, M. E. ; Vellinga, E. C. et al</b>. <i>Critical monographs on families of agarics and boleti occurring in the Netherlands</i>, Flora Agaricina Neerlandica, A. A. Balkema, Rotterdam, Brookfield, 1988; Volume 1, A. General part B. Special part, Entolomataceae by M. E. Noordeloos, 182 p.
+    <b>Vesterholt, Jan</b>. <i>Contribution to the knowledge of species of Entoloma subgenus Leptonia</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XXI; Édizioni Candusso, 2002, 64 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 9, les Entoloma, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 9, <i>les Entoloma</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = chapeau, lames et pied, aucune coloration ou décoloration
-    Gaïacol = chapeau, lames et pied, aucune coloration ou décoloration
-    KOH 10% = chapeau et pied, aucune coloration ou décoloration ; lames légèrement verdâtre
-    NH<SUB>4</SUB>OH 10% = chapeau, lames et pied, aucune coloration ou décoloration
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = pas de coloration ou de décoloration sur toutes les parties
+    Gaïacol = pas de coloration ou de décoloration sur toutes les parties
+    Potasse (KOH 10%) = chapeau et pied, pas de coloration ou de décoloration ; lames légèrement verdâtre
     Réaction de Schaeffer = Schaeffer 0
+    Sulfate de fer (FeSO<SUB>4</SUB>) = pas de coloration ou de décoloration sur toutes les parties
     Tl4 = -
   receptacle: 
   remarques: 

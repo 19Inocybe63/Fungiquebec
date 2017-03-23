@@ -230,7 +230,7 @@ description:
   pores: 
   premiere-mention: |
     Collection Yves Lamoureux, 1905, Cercle des mycologues de Montréal (CMM).
-    Espèce cueillie et étudiée pour la deuxième fois au Québec (Entoloma cf. incarnatofuscescens_2012M_240)
+    Espèce cueillie et étudiée pour la deuxième fois au Québec (<i>Entoloma cf. incarnatofuscescens</i>, 2012M_240)
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

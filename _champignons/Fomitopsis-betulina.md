@@ -1,6 +1,6 @@
 ---
 nom: Fomitopsis betulina
-date: 2017-03-04 00:00:00
+date: 2017-03-23 00:00:00
 image: https://c2.staticflickr.com/4/3905/15064383809_0d95a73134_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064383809/in/photolist-oXcgnL-oXbUtk
 album-flickr:
@@ -229,7 +229,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -252,14 +252,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus betulinus Bull., Herbier de la France 7:t. 312 (1787)
-    Piptoporus betulinus (Bull.) P. Karst., Revue Mycologique Toulouse 3 (9):17 (1881)
-    Placodes betulinus (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:170 (1886)
-    Fomes betulinus (Bull.) Gillot & Lucand, Bull. Soc. Hist. nat. Autun:165 (1890)
-    Ungulina betulina (Bull.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:103 (1900)
-    Ungularia betulina (Bull.) Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:668 (1916)
-    Boletus suberosus Wulfen, Collectanea ad botanicam, chemiam, et historiam naturalem spectantia 1:344 (1786)
-    Agarico-pulpa pseudoagaricon Paulet, Traité des champignons 2: 105, pl. 18:1-4 (1793)
+    <i>Boletus betulinus</i> Bull., Herbier de la France 7:t. 312 (1787)
+    <i>Piptoporus betulinus</i> (Bull.) P. Karst., Revue Mycologique Toulouse 3 (9):17 (1881)
+    <i>Placodes betulinus</i> (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:170 (1886)
+    <i>Fomes betulinus</i> (Bull.) Gillot & Lucand, Bull. Soc. Hist. nat. Autun:165 (1890)
+    <i>Ungulina betulina</i> (Bull.) Pat., Essai taxonomique sur les familles et les genres des Hyménomycètes:103 (1900)
+    <i>Ungularia betulina</i> (Bull.) Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:668 (1916)
+    <i>Boletus suberosus</i> Wulfen, Collectanea ad botanicam, chemiam, et historiam naturalem spectantia 1:344 (1786)
+    <i>Agarico-pulpa</i> pseudoagaricon Paulet, Traité des champignons 2: 105, pl. 18:1-4 (1793)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -268,7 +268,7 @@ description:
     <i>Agaricus cyaneus</i> Peck, Bulletin of the Buffalo Society of Natural Sciences 1:49 (1873)
     <i>Entoloma cyaneum</i> Sacc., Sylloge Fungorum 5:688 (1887)
     <i>Rhodophyllus violaceus</i> (Murrill) Singer, Mycologia 39:188 (1947)
-    <i>Nolanea cyanea</i> (Sacc.) Pomerl. & R. McNeil, Supplement a la flore des champignons au Quebec:70 (1984)
+    <i>Nolanea cyanea</i> (Sacc.) Pomerl. & R. McNeil, Supplément à la flore des champignons au Quebec:70 (1984)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Entoloma quadratum
-date: 2017-03-03 00:00:00
+date: 2017-03-23 00:00:00
 image: https://c2.staticflickr.com/6/5569/14774140147_24ec6dfe42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14774140147/in/photolist-q1NzQF-oKZuMC-ovxk9g
 album-flickr:
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 40-130 x 2-6 mm Ø, longuement cylindrique, égal à légèrement élargi vers la base, tordu, creux, lisse, pruineux vers l'apex, strié longitudinalement, concolore au chapeau
   pieds-steriles: 
@@ -255,9 +255,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus quadratus Berk. & M.A. Curtis, Annals and Magazine of Natural History 4:290 (1859)
-    Nolanea quadrata (Berk. & M.A. Curtis) Sacc., Sylloge Fungorum 5:723 (1887)
-    Inocephalus quadratus (Berk. & M.A. Curtis) T.J. Baroni, Brittonia 52:133 (2000)
+    <i>Agaricus quadratus</i> Berk. & M.A. Curtis, Annals and Magazine of Natural History 4:290 (1859)
+    <i>Nolanea quadrata</i> (Berk. & M.A. Curtis) Sacc., Sylloge Fungorum 5:723 (1887)
+    <i>Inocephalus quadratus</i> (Berk. & M.A. Curtis) T.J. Baroni, Brittonia 52:133 (2000)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

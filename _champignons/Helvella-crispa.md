@@ -79,6 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: NON
   commentaires: 
   conidies: 
   conidiome: 

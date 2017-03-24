@@ -1,6 +1,6 @@
 ---
 nom: Xeromphalina kauffmanii
-date: 2017-03-12 00:00:00
+date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/1/758/21351416242_15fbc668f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21351416242/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
 album-flickr:
@@ -38,7 +38,8 @@ description:
   apothecie: 
   arete-lamellaire: fertile
   arthroconidies: 
-  articles: Aldrovandi, Matthew S. P., Johnson, James E. et al. Xeromphalina campanella-kauffmanii complex, The Mycological Society of America, 2015, 44 p.
+  articles: |
+    <b>Aldrovandi, Matthew S. P. ; Johnson, James E. et al</b>. <i>Xeromphalina campanella-kauffmanii complex</i>, The Mycological Society of America, 2015, 44 p.
   ascome: 
   ascospores: 
   asques: 
@@ -231,12 +232,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    AntonÍn, Vladimir, Noordeloos, Machiel E. A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in Europe  with 65 figures and 57 colored plates, IHW Verlag, 2004, 279 p.
+    <b>AntonÍn, Vladimir, ; Noordeloos, Machiel E</b>. <i>A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina</i>, (tribus Mycenae sensu Singer, Mycena excluded) in Europe  with 65 figures and 57 colored plates, IHW Verlag, 2004, 279 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: <i>X. kauffmanii</i> peut facilement se distinguer de <i>X. campanella</i> qui pousse sur du bois mort de conifères

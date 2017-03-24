@@ -1,6 +1,6 @@
 ---
 nom: Geoglossum difforme
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/4/3697/19666230344_580e9cd6e7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19666230344/in/photostream/
 album-flickr:
@@ -39,14 +39,14 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Hakelier, Nils. Three new swedish species of geoglossum, Svensk Botanisk Tidskrift, Bd. 61, H. 3, 1967, 6 p.
-    Kučera, Viktor, Nitare, Johan, et al. Geoglossaceous fungi in Slovakia 5. Geoglossum uliginosum, taxonomy and nomenclature, Mycotaxon, Volume 124, pp. 111-115, April-June 2013, 5 p.
-    Kučera, Viktor, Lizoň, Pavel. Geoglossaceous fungi in Slovakia III. The genus Geoglossum, Biologia 67/4:654-658, 2012, Section Botany, 5 p.
-    Ohenoja, Esteri. Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
-    Priou, Jean-Paul. Contribution aux Geoglossum de France, Association Mycologique et botanique Ploemeur-Morbihan, 5 p.
+    <b>Hakelier, Nils</b>. <i>Three new swedish species of geoglossum</i>, Svensk Botanisk Tidskrift, Bd. 61, H. 3, 1967, 6 p.
+    <b>Kučera, Viktor, ; Nitare, Johan, et al</b>. <i>Geoglossaceous fungi in Slovakia 5. Geoglossum uliginosum, taxonomy and nomenclature</i>, Mycotaxon, Volume 124, pp. 111-115, April-June 2013, 5 p.
+    <b>Kučera, Viktor, ; Lizoň, Pavel</b>. <i>Geoglossaceous fungi in Slovakia III. The genus Geoglossum</i>, Biologia 67/4:654-658, 2012, Section Botany, 5 p.
+    <b>Ohenoja, Esteri</b>. <i>Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland</i>, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
+    <b>Priou, Jean-Paul</b>. <i>Contribution aux Geoglossum de France</i>, Association Mycologique et botanique Ploemeur-Morbihan, 5 p.
   ascome: visqueux, 51-68 mm de longueur, noir
   ascospores: |
-    cylindriques-filiformes, atténuées à chaque bout, lisses, avec 14-15 septa, brun-gris dans le NaCl isotonique 0,9%
+    cylindriques-filiformes, atténuées à chaque bout, lisses, avec 14-15 septa, brun-gris dans le NaCl iso 0,9%
     103,5 [111,7; 115,3] 123,5 x 5,9 [6,5; 6,8] 7,3 µm
     Q = 15,3 [16,8; 17,4] 19; N = 30; C = 95%
     Me = 113,5 x 6,6 µm
@@ -239,11 +239,11 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -265,8 +265,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Geoglossum glabrum f. difforme (Fr.) Massee:248 (1897)
-    Gloeoglossum difforme (Fr.) E.J. Durand, Annales Mycologici 6:421 (1908)
+    <i>Geoglossum glabrum f. difforme</i> (Fr.) Massee:248 (1897)
+    <i>Gloeoglossum difforme</i> (Fr.) E.J. Durand, Annales Mycologici 6:421 (1908)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

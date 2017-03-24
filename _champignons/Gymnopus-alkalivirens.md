@@ -1,6 +1,6 @@
 ---
 nom: Gymnopus alkalivirens
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/1/483/19122325155_2232868ca2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19122325155/in/photolist-v8LV4i-uRjJmt
 album-flickr:
@@ -244,7 +244,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = devient vert sur toutes les surfaces
+    Potasse (KOH 10%) = devient vert sur toutes les surfaces
   receptacle: 
   remarques: 
   repartition: 
@@ -265,7 +265,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Collybia alkalivirens Singer, Sydowia 2 (1-6):27 (1948)
+    <i>Collybia alkalivirens</i> Singer, Sydowia 2 (1-6):27 (1948)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

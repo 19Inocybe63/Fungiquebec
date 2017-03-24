@@ -1,6 +1,6 @@
 ---
 nom: Gymnopilus luteus
-date: 2017-03-12 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/9/8501/8373342022_f22fe5dbc4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8373342022/in/photolist-fB12Xs-fAKLcD-dQsHnj-dKQ5MD-dKVyRU
 album-flickr:
@@ -245,7 +245,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = chapeau devenant rouge foncé
+    Potasse (KOH 10%) = chapeau devenant rouge foncé
   receptacle: 
   remarques: 
   repartition: 
@@ -266,7 +266,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Pholiota lutea Peck, Annual Report on the New York State Museum of Natural History 51:288 (1898)
+    <i>Pholiota lutea</i> Peck, Annual Report on the New York State Museum of Natural History 51:288 (1898)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

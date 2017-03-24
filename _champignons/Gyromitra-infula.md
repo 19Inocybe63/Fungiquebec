@@ -79,6 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: NON. La guérison est possible, mais l'atteinte hépatique peut être mortelle.
   commentaires: 
   conidies: 
   conidiome: 
@@ -253,6 +254,13 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  syndrome: |
+    gyromitrien ou helvellien
+    Les toxines dérivés d'hydraziniques sont responsables.
+  symptomes: |
+    Apparition retardée (+ de 6 heures) ; période d'incubation entre 5 et 12 heures.
+    nausées, vomissement, parfois de la fièvre (rare dans les intoxications par des champignons) ; puis régression ou aggravation, surtout entre 36 et 48 heures après le repas ; atteinte hépatique s'accompagnant éventuellement d'une hémolyse, atteinte rénale,
+troubles neurologiques
   synonymie: |
     <i>Leptopodia monachella</i> (Scop.) Boud.
     <i>Phallus monachella</i> Scop., Flora carniolica 2:476 (1772)

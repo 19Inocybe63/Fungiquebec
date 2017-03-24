@@ -1,6 +1,6 @@
 ---
 nom: Gymnopilus humicola
-date: 2017-03-12 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9060850940/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
 album-flickr:
@@ -65,7 +65,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol ou tout près de souche pourrie de feuillu (Betula, Fagus)
+  biotopes: pousse au sol ou tout près de souche pourrie de feuillu (<i>Betula</i>, <i>Fagus</i>)
   boucles: observées dans le pileipellis et dans le stipitipellis
   brachybasidioles: 
   calicule: 
@@ -90,7 +90,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « D’après Maria Teresa Basso (<i>Manuale di Microscopia dei Funghi</i>, vol. 2), les hyménocystides deviennent légèrement verdâtre dans le bleu coton ; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -220,7 +220,7 @@ description:
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides:  rares, de même forme que les cheilocystides, elles sont davantage situées près de l'arête lamellaire
+  pleurocystides: rares, de même forme que les cheilocystides, elles sont davantage situées près de l'arête lamellaire
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -239,18 +239,18 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bon, Marcel et Roux, Pierre. Le Genre Gymnopilus P. Karst., en Europe, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
-    Hesler, L. R. North American Species of Gymnopilus, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir, Hafner Publishing Company New York and London, 1969
-    Murrill, William Alphonso. Agaricaceae, Murrill, Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
+    <b>Bon, Marcel, ; Roux, Pierre</b>. <i>Le Genre Gymnopilus P. Karst., en Europe</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
+    <b>Hesler, L. R</b>. <i>North American Species of Gymnopilus</i>, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir, Hafner Publishing Company New York and London, 1969
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae, Murrill, Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
-    KOH 10% = cuticule du chapeau devient noire
+    Potasse (KOH 10%) = cuticule du chapeau devient noire
   receptacle: 
-  remarques: D’après Maria Teresa Basso (Manuale di Microscopia dei Funghi, vol. 2), les hyménocystides deviennent légèrement verdâtre en Bleu coton; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre.
+  remarques: 
   rhizomorphes: 
   sac-sporifere: 
   saveur: raphanoïde et rapidement amarescente à amère

@@ -1,6 +1,6 @@
 ---
 nom: Helvella crispa
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/1/613/20718058281_8d69dbff88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20718058281/in/photolist-xgFeBn-xyMsVp
 album-flickr:
@@ -203,7 +203,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 4-130 x 2-35 mm Ø, égale à agrandie, typiquement élargi au milieu, creux, fortement nervuré et profondément alvéolé, finement pubescent, à la base blanche à crème à brun pâle grisâtre
   pieds-steriles: 
@@ -232,8 +232,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Abbott, Sean P., Currah, R. S. The Helvellaceae; Systematic Revision and occurrence in Northern and Northwestern North America, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
-    Dissing, Henry. The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
+    <b>Abbott, Sean P. ; Currah, R. S</b>. <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
+    <b>Dissing, Henry</b>. <i>The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden</i>, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -256,19 +256,19 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Merulius crispus (Bull.) J.F. Gmel., Systema Naturae 2:1430 (1792)
-    Craterella crispa (Bull.) Pers., Annalen der Botanik (Usteri) 15:30 (1795)
-    Merulius undulatus Pers., Synopsis methodica fungorum:492 (1801)
-    Cantharellus undulatus (Pers.) Fr., Systema Mycologicum 1:321 (1821)
-    Craterellus sinuosus var. crispus (Bull.) Quél., Epicrisis Systematis Mycologici:533 (1838)
-    Craterellus sinuosus * crispus (Bull.) Fr.:533 (1838)
-    Pseudocraterellus undulatus (Pers.) Rauschert, Feddes Repertorium 98 (11-12):661 (1987)
-    Pseudocraterellus undulatus var. crispus (Bull.) Courtec., Documents Mycologiques 23 (92):62 (1994)
-    Craterellus undulatus (Pers.) Redeuilh (2004)
-    Merulius pusillus Fr., Observationes mycologicae 2:234 (1818)
-    Cantharellus kunthii Chevall., Flore Générale des Environs de Paris 1:242 (1826)
-    Craterellus crispus Fr., Epicrisis Systematis Mycologici:533 (1838)
-    Craterellus floccosus Quél., Bull. Soc. bot. Fr.:308
+    <i>Merulius crispus</i> (Bull.) J.F. Gmel., Systema Naturae 2:1430 (1792)
+    <i>Craterella crispa</i> (Bull.) Pers., Annalen der Botanik (Usteri) 15:30 (1795)
+    <i>Merulius undulatus</i> Pers., Synopsis methodica fungorum:492 (1801)
+    <i>Cantharellus undulatus</i> (Pers.) Fr., Systema Mycologicum 1:321 (1821)
+    <i>Craterellus sinuosus var. crispus</i> (Bull.) Quél., Epicrisis Systematis Mycologici:533 (1838)
+    <i>Craterellus sinuosus * crispus</i> (Bull.) Fr.:533 (1838)
+    <i>Pseudocraterellus undulatus</i> (Pers.) Rauschert, Feddes Repertorium 98 (11-12):661 (1987)
+    <i>Pseudocraterellus undulatus var. crispus</i> (Bull.) Courtec., Documents Mycologiques 23 (92):62 (1994)
+    <i>Craterellus undulatus</i> (Pers.) Redeuilh (2004)
+    <i>Merulius pusillus</i> Fr., Observationes mycologicae 2:234 (1818)
+    <i>Cantharellus kunthii</i> Chevall., Flore Générale des Environs de Paris 1:242 (1826)
+    <i>Craterellus crispus</i> Fr., Epicrisis Systematis Mycologici:533 (1838)
+    <i>Craterellus floccosus</i> Quél., Bull. Soc. bot. Fr.:308
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

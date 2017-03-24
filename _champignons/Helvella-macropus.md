@@ -1,6 +1,6 @@
 ---
 nom: Helvella macropus
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/4/3930/15340706368_d0b67296f3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15340706368/in/photolist-pnAFAq-pnB8xo-pnC8tT
 album-flickr:
@@ -201,7 +201,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 4-65 x 2-9 mm Ø, cylindrique, égal à élargie à la base, apex typiquement conique, brun gris clair, densément pubescent à villeux
   pieds-steriles: 
@@ -229,14 +229,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Abbott, Sean P., Currah, R. S. The Helvellaceae; Systematic Revision and occurrence in Northern and Northwestern North America, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
-    Dissing, Henry. The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
+    <b>Abbott, Sean P. ; Currah, R. S</b>. <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
+    <b>Dissing, Henry</b>. <i>The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden</i>, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -258,13 +258,13 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Peziza macropus Pers., Annalen der Botanik (Usteri) 15:26, t. 1:3 (1795)
-    Macroscyphus macropus (Pers.) Gray, A natural arrangement of British plants 1:672 (1821)
-    Macropodia macropus (Pers.) Fuckel, Jahrbücher des Nassauischen Vereins für Naturkunde 23-24:331 (1870)
-    Aleuria macropus (Persoon) Gillet, Champignons de France, les Discomycètes:35 (1879)
-    Lachnea macropus (Pers.) W. Phillips, A manual of the British Discomycetes:207 (1887)
-    Cowlesia macropus (Pers.) Nieuwl., The American Midland Naturalist 4:380 (1916)
-    Cyathipodia macropus (Pers.) Dennis, British cup fungi and their allies, An introduction to the Ascomycetes:7 (1960)
+    <i>Peziza macropus</i> Pers., Annalen der Botanik (Usteri) 15:26, t. 1:3 (1795)
+    <i>Macroscyphus macropus</i> (Pers.) Gray, A natural arrangement of British plants 1:672 (1821)
+    <i>Macropodia macropus</i> (Pers.) Fuckel, Jahrbücher des Nassauischen Vereins für Naturkunde 23-24:331 (1870)
+    <i>Aleuria macropus</i> (Persoon) Gillet, Champignons de France, les Discomycètes:35 (1879)
+    <i>Lachnea macropus</i> (Pers.) W. Phillips, A manual of the British Discomycetes:207 (1887)
+    <i>Cowlesia macropus</i> (Pers.) Nieuwl., The American Midland Naturalist 4:380 (1916)
+    <i>Cyathipodia macropus</i> (Pers.) Dennis, British cup fungi and their allies, An introduction to the Ascomycetes:7 (1960)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

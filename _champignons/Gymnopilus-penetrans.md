@@ -1,6 +1,6 @@
 ---
 nom: Gymnopilus penetrans
-date: 2017-03-12 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/6/5535/9240759913_21ee91ef3b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9240759913/in/photolist-f5ziYM-f5zmMt
 album-flickr:
@@ -232,9 +232,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bon, Marcel et Roux, Pierre. Le Genre Gymnopilus P. Karst., en Europe, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
-    Hesler, L. R. North American Species of Gymnopilus, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir, Hafner Publishing Company New York and London, 1969
-    Murrill, William Alphonso. Agaricaceae, Murrill, Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
+    <b>Bon, Marcel, ; Roux, Pierre</b>. <i>Le Genre Gymnopilus P. Karst., en Europe</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
+    <b>Hesler, L. R</b>. <i>North American Species of Gymnopilus</i>, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir, Hafner Publishing Company New York and London, 1969
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae, Murrill, Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -257,18 +257,18 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus penetrans Fr., Observationes mycologicae 1:23 (1815)
-    Agaricus sapineus Fr., Systema Mycologicum 1:239 (1821)
-    Agaricus liquiritiae subsp. sapineus (Fr.) Pers., Mycologia Europaea 3:184 (1828)
-    Flammula sapinea (Fr.) P. Kumm., Der Führer in die Pilzkunde:82 (1871)
-    Flammula penetrans (Fr.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:252 (1872)
-    Dryophila penetrans (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:1-352 (1886)
-    Naucoria penetrans (Fr.) Henn. (1898)
-    Gymnopilus sapineus (Fr.) Murrill, Mycologia 4 (5):254 (1912)
-    Gymnopilus sapineus (Fr.) Maire, Fungi Catalaunici, Contributions à l'étude de la Flore Mycologique de la Catalogne:96 (1933)
-    Fulvidula sapinea (Fr.) Romagn., Revue de Mycologie:191 (1937)
-    Fulvidula penetrans (Fr.) Singer, Revue de Mycologie 2 (6):239 (1937)
-    Flammula croceolamellata Pilát, Bull. Soc. Mycol. Fr.:251 (1939)
+    <i>Agaricus penetrans</i> Fr., Observationes mycologicae 1:23 (1815)
+    <i>Agaricus sapineus</i> Fr., Systema Mycologicum 1:239 (1821)
+    <i>Agaricus liquiritiae subsp. sapineus</i> (Fr.) Pers., Mycologia Europaea 3:184 (1828)
+    <i>Flammula sapinea</i> (Fr.) P. Kumm., Der Führer in die Pilzkunde:82 (1871)
+    <i>Flammula penetrans</i> (Fr.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:252 (1872)
+    <i>Dryophila penetrans</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:1-352 (1886)
+    <i>Naucoria penetrans</i> (Fr.) Henn. (1898)
+    <i>Gymnopilus sapineus</i> (Fr.) Murrill, Mycologia 4 (5):254 (1912)
+    <i>Gymnopilus sapineus</i> (Fr.) Maire, Fungi Catalaunici, Contributions à l'étude de la Flore Mycologique de la Catalogne:96 (1933)
+    <i>Fulvidula sapinea</i> (Fr.) Romagn., Revue de Mycologie:191 (1937)
+    <i>Fulvidula penetrans</i> (Fr.) Singer, Revue de Mycologie 2 (6):239 (1937)
+    <i>Flammula croceolamellata</i> Pilát, Bull. Soc. Mycol. Fr.:251 (1939)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

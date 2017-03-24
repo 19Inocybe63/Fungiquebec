@@ -1,6 +1,6 @@
 ---
 nom: Ganoderma megaloma
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/9/8283/29076192640_686dda6d42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29076192640/in/photolist-Lin65d-LFMgRj
 album-flickr:
@@ -97,7 +97,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Alan Rockefeller. « G. applanatum est un nom européen, tandis que G. megaloma est un nom de la partie nord-est des États-Unis. »
+  commentaires: De Alan Rockefeller. « <i>G. applanatum</i> est un nom européen, tandis que <i>G. megaloma</i> est un nom de la partie nord-est des États-Unis. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -249,7 +249,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -272,10 +272,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Polyporus megaloma Lév., Annales des Sciences Naturelles Botanique 5:128 (1846)
-    Fomes megaloma (Lév.) Cooke, Grevillea 14 (69):18 (1885)
-    Scindalma megaloma (Lév.) Kuntze, Revisio generum plantarum 3:519 (1898)
-    Elfvingia megaloma (Lév.) Murrill, Bulletin of the Torrey Botanical Club 30 (5):300 (1903)
+    <i>Polyporus megaloma</i> Lév., Annales des Sciences Naturelles Botanique 5:128 (1846)
+    <i>Fomes megaloma</i> (Lév.) Cooke, Grevillea 14 (69):18 (1885)
+    <i>Scindalma megaloma</i> (Lév.) Kuntze, Revisio generum plantarum 3:519 (1898)
+    <i>Elfvingia megaloma</i> (Lév.) Murrill, Bulletin of the Torrey Botanical Club 30 (5):300 (1903)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

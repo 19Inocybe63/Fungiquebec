@@ -1,6 +1,6 @@
 ---
 nom: Xeromphalina campanella
-date: 2017-03-12 00:00:00
+date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/9/8379/8613638912_3aa70ccb99_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8613638912/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
 album-flickr:
@@ -39,9 +39,9 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Aldrovandi, Matthew S. P., Johnson, James E. et al. Xeromphalina campanella-kauffmanii complex, The Mycological Society of America, 2015, 44 p.
-    Miller, Orson K. Jr. A Revision of the Genus Xeromphalina, Mycological Society of America, Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188, 34 p.
-    Voitk, Andrus. Xeromphalina enigmatica, Omphalina Vol. VII, No 2, Feb 24, 2016, pp. 15-19.
+    <b>Aldrovandi, Matthew S. P. ; Johnson, James E. et al</b>. <i>Xeromphalina campanella-kauffmanii complex</i>, The Mycological Society of America, 2015, 44 p.
+    <b>Miller, Orson K. Jr</b>. <i>A Revision of the Genus Xeromphalina</i>, Mycological Society of America, Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188, 34 p.
+    <b>Voitk, Andrus</b>. <i>Xeromphalina enigmatica</i>, Omphalina Vol. VII, No 2, Feb 24, 2016, pp. 15-19.
   ascome: 
   ascospores: 
   asques: 
@@ -234,12 +234,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    AntonÍn, Vladimir, Noordeloos, Machiel E. A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in Europe  with 65 figures and 57 colored plates, IHW Verlag, 2004, 279 p.
+    <b>AntonÍn, Vladimir, ; Noordeloos, Machiel E</b>. <i>A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in Europe with 65 figures and 57 colored plates</i>, IHW Verlag, 2004, 279 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: Miller indique la présence occasionnelle de piléocystides pour <i>X. campanella</i>, (Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188) ; pour ma part, je n'en ai pas observé dans cette collection.

@@ -1,6 +1,6 @@
 ---
 nom: Xanthoconium affine var. maculosus
-date: 2017-03-18 00:00:00
+date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/9/8769/28037429074_2cd09ed90b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28037429074/in/photolist-JHz9Ry
 album-flickr:
@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous chênes, hêtres, pruches
+  biotopes: pousse au sol, sous <i>Fagus</i>, <i>Quercus</i>, <i>Tsuga</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -241,12 +241,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = le chapeau devient orangé à rougeâtre
-    NH<SUB>4</SUB>OH 10% = le chapeau devient orangé
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient orangé
+    Potasse (KOH 10%) = le chapeau devient orangé à rougeâtre
     Tl4 = +, le chapeau devient rose foncé puis brun
   receptacle: 
   remarques: 
@@ -268,7 +268,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus affinis var. maculosus Peck, Annual Report on the New York State Museum of Natural History 32:57 (1880)
+    <i>Boletus affinis var. maculosus</i> Peck, Annual Report on the New York State Museum of Natural History 32:57 (1880)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

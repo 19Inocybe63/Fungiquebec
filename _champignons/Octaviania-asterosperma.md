@@ -138,7 +138,6 @@ description:
   face-poroide: 
   feutrage-basal: 
   fragments-sporaux: 
-  frequence: Il est impossible de se prononcer de façon certaine sur la fréquence de ce genre au Québec, puisqu'il existe qu'une étude microscopique de l'espèce.
   glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
   gleocystides: 
   gleocystides-hymeniales: 

@@ -1,6 +1,6 @@
 ---
 nom: Hebeloma limbatum
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/9/8742/29622268270_22ca218709_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29622268270/in/photolist-NdgqNj-MwxnQN-M8BSkh
 album-flickr:
@@ -39,7 +39,7 @@ description:
   arete-lamellaire: fertile
   arthroconidies: 
   articles: |
-    Eberhardt, Ursula., Beker, Henry J., Vesterholt, Jan., Schütz, Nicole. The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. And five new species, Fungal Biology 120 (2016) 72-103, 32 p.
+    <b>Eberhardt, Ursula. ; Beker, Henry J. ; Vesterholt, Jan. ; Schütz, Nicole</b>. <i>The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. And five new species</i>, Fungal Biology 120 (2016) 72-103, 32 p.
   ascome: 
   ascospores: 
   asques: 
@@ -54,11 +54,11 @@ description:
     (9,6) 10,2 - 11,9 (13,8) × (5,2) 5,4 - 6,1 (6,7) µm
     Q = (1,7) 1,8 - 2,1 (2,2) ; N = 30
     Me = 10,9 × 5,7 µm ; Qe = 1,9
-    (Piximètre, formule classique)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse, sous feuillus (Quercus)
+  biotopes: pousse au sol, sur pelouse, sous feuillus (<i>Quercus</i>)
   boucles: observées dans le médiostrate
   brachybasidioles: 
   calicule: 
@@ -235,14 +235,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Beker, H. J., Eberhardt, U., Vesterholt, J. Hebeloma (Fr.) P. Kumm. Fungi Europaei vol. 14, Ed. Candusso Edizioni, 2016.
-    Smith, Alexander H., Evenson, Vera Stuck, Mitchel, Duane H. The Veiled Species of Hebeloma in the Western United States, Ann Arbor the University of Michigan Press, 1983, 228 p.
-    Vesterholt, Jan. The genus Hebeloma, Fungi of Northern Europe, vol. 3, Danish Mycological Society, 2005, p. 76 p.
+    <b>Beker, H. J. ; Eberhardt, U. ; Vesterholt, J</b>. <i>Hebeloma (Fr.) P. Kumm.</i> Fungi Europaei vol. 14, Ed. Candusso Edizioni, 2016.
+    <b>Smith, Alexander H. ; Evenson, Vera Stuck ; Mitchel, Duane H</b>. <i>The Veiled Species of Hebeloma in the Western United States</i>, Ann Arbor the University of Michigan Press, 1983, 228 p.
+    <b>Vesterholt, Jan</b>. <i>The genus Hebeloma</i>, Fungi of Northern Europe, vol. 3, Danish Mycological Society, 2005, p. 76 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1 : les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2 : les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3 : les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4 : la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: Des études d'ADN seront réalisées prochainement par Henry J. Beker sur trois collections.

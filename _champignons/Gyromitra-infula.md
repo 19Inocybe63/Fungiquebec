@@ -256,7 +256,7 @@ description:
   substrat: 
   syndrome: |
     gyromitrien ou helvellien
-    Les toxines dérivés d'hydraziniques sont responsables.
+    Les toxines dérivés hydraziniques sont responsables.
   symptomes: |
     Apparition retardée (+ de 6 heures) ; période d'incubation entre 6 et 12 heures.
     Nausées, vomissement, parfois de la fièvre (rare dans les intoxications par des champignons) ; puis régression ou aggravation, surtout entre 36 et 48 heures après le repas ; atteinte hépatique s'accompagnant éventuellement d'une hémolyse, atteinte rénale, troubles neurologiques. La guérison est possible, mais l'atteinte hépatique peut être mortelle.

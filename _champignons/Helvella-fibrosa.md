@@ -1,6 +1,6 @@
 ---
 nom: Helvella fibrosa
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/9/8825/28444177671_0372fd8c51_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28444177671/in/photolist-KkvR3p
 album-flickr:
@@ -39,8 +39,8 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Korf, R.P. (2008). Nomenclatural notes. 12. Untangling Hedwig's Octospora villosa: Helvella fibrosa comb. nov., Mycotaxon 103; 307-312. BSM ref. 12: 7335
-    Anderson, P. J. and Ickis, Marguerite G., Massachusetts Species of Helvella, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
+    <b>Korf, R.P</b>. Nomenclatural notes. 12. <i>Untangling Hedwig's Octospora villosa, Helvella fibrosa comb. nov.</i>, Mycotaxon 103; 307-312. BSM ref. 12:7335
+    <b>Anderson, P. J. ; Ickis, Marguerite G.</b>. <i>Massachusetts Species of Helvella</i>, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
   ascome: 
   ascospores: 
   asques: 
@@ -234,8 +234,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Abbott, Sean P., Currah, R. S. The Helvellaceae; Systematic Revision and occurrence in Northern and Northwestern North America, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
-    Dissing, Henry. The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
+    <b>Abbott, Sean P. ; Currah, R. S</b>. <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
+    <b>Dissing, Henry</b>. <i>The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden</i>, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -258,16 +258,16 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Octospora villosa Hedw., Descr. micro-anal. musc.:54, t. 19B (1789)
-    Peziza macropus var. villosa (Hedw.) Pers., Synopsis methodica fungorum:646 (1801)
-    Peziza fibrosa Wallr., Flora Cryptogamica Germaniae 2:498 (1833)
-    Macropodia fibrosa (Wallr.) Sacc., Sylloge Fungorum 8:160 (1889)
-    Fuckelina villosa (Hedw.) Kuntze, Revisio generum plantarum 2:852 (1891)
-    Cyathipodia villosa (Hedw.) Boud.:2 (1904)
-    Cyathipodia villosa (Hedw.) Boud., Histoire et Classification des Discomycètes d'Europe:39 (1907)
-    Helvella villosa (Hedw.) Dissing & Nannf., Svensk Botanisk Tidskrift 60 (2):330 (1966)
-    Helvella dissingii Korf, Mycotaxon 31 (2):381 (1988)
-    Macropodia chinensis Velen., Novitates mycologicae:200 (1939)
+    <i>Octospora villosa</i> Hedw., Descr. micro-anal. musc.:54, t. 19B (1789)
+    <i>Peziza macropus var. villosa</i> (Hedw.) Pers., Synopsis methodica fungorum:646 (1801)
+    <i>Peziza fibrosa</i> Wallr., Flora Cryptogamica Germaniae 2:498 (1833)
+    <i>Macropodia fibrosa</i> (Wallr.) Sacc., Sylloge Fungorum 8:160 (1889)
+    <i>Fuckelina villosa</i> (Hedw.) Kuntze, Revisio generum plantarum 2:852 (1891)
+    <i>Cyathipodia villosa</i> (Hedw.) Boud.:2 (1904)
+    <i>Cyathipodia villosa</i> (Hedw.) Boud., Histoire et Classification des Discomycètes d'Europe:39 (1907)
+    <i>Helvella villosa</i> (Hedw.) Dissing & Nannf., Svensk Botanisk Tidskrift 60 (2):330 (1966)
+    <i>Helvella dissingii</i> Korf, Mycotaxon 31 (2):381 (1988)
+    <i>Macropodia chinensis</i> Velen., Novitates mycologicae:200 (1939)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Helvella corium
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/1/723/20522852470_aca2a0fe2c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20522852470/in/album-72157675892972545/
 album-flickr:
@@ -49,16 +49,16 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Korf, R.P. (2008). Nomenclatural notes. 12. Untangling Hedwig's Octospora villosa: Helvella fibrosa comb. nov. Mycotaxon 103:307-312. BSM ref. 12: 7335
+    <b>Korf, R.P</b>. <i>Nomenclatural notes. 12. Untangling Hedwig's Octospora villosa, Helvella fibrosa comb. nov.</i> Mycotaxon 103:307-312, 2008. BSM ref. 12: 7335
     Abbott, Sean P. and Currah, R. S., The Helvellaceae: Systematic Revision and occurrence in Northern and Northwestern North America, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
     Anderson, P. J. and Ickis, Marguerite G., Massachusetts Species of Helvella, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
   ascome: 
   ascospores: |
-    unisériées, largement ellipsoïdes à ellipsoïdes, lisses (voir remarque), à paroi mince à légèrement épaissie, à contenu uniguttulé, hyalines dans E.G. 20%, iodonégatives, non cyanophiles
+    unisériées, largement ellipsoïdes à ellipsoïdes, lisses (voir remarque), à paroi mince à légèrement épaissie, à contenu uniguttulé, hyalines dans E.G. 20%, iodonégatives dans le melzer, non cyanophiles
     (16,2) 16,6 - 18,1 (19,3) × (11,2) 11,3 - 12 (12,7) µm
     Q = (1,4) 1,43 - 1,56 (1,6) ; N = 30
     Me = 17,3 × 11,6 µm ; Qe = 1,5
-    (Piximètre: formule classique, ascospores mesurées dans l'eau glycérinée 20%)
+    (Piximètre, formule classique ; mesures issues de sporée, dans E.G. 20%)
   asques: cylindriques, operculés, octosporés, iodonégatifs, 225-250 x 12,2-17 µm Ø
   asterohyphidies: 
   avertissement: 
@@ -248,14 +248,14 @@ description:
     Abbott, Sean P., Currah, R. S. The Helvellaceae; Systematic Revision and occurrence in Northern and Northwestern North America, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
     Dissing, Henry. The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Ascospores finement rugueuses au microscope à balayage électronique, (Scanning electron microscope (SEM))
+  remarques: Ascospores finement rugueuses au microscope à balayage électronique, (<i>Scanning electron microscope</i> (SEM))
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -274,20 +274,19 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Cyathipodia corium (O. Weberb.) Boud.
-    Peziza corium O. Weberb.
-    Macropodia corium (O. Weberb.) Cooke
-    Aleuria corium (O. Weberbauer) Gillet, Champignons de France. Les Discomycètes 2: 39 (1879)
-    Scypharia corium (Weberb.) Quél.: 83 (1886)
-    Lachnea corium (O. Weberb.) W. Phillips, A manual of the British Discomycetes: 204 (1887)
-    Fuckelina corium (O. Weberbauer) Kuntze, Revisio generum plantarum 2: 852 (1891)
-    Sarcoscypha corium (O. Weberb.) J. Schröt.: 59 (1893)
-    Helvella corium f. corium (O. Weberb.) Massee: 463 (1895)
-    Cyathipodia corium (O. Weberb.) Boud.: 2 (1904)
-    Leptopodia corium (O. Weberb.) Boudier, Histoire et Classification des Discomycètes d'Europe: 239bis (1910)
-    Cowlesia corium (O. Weberb.) Nieuwl., The American Midland Naturalist 4: 380 (1916)
-    Paxina corium (O. Weberb.) Seaver, The North American Cup-Fungi (Operculates) (3): 208 (1928)
-    http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=121669&Fields=All
+    <i>Cyathipodia corium</i> (O. Weberb.) Boud.
+    <i>Peziza corium</i> O. Weberb.
+    <i>Macropodia corium</i> (O. Weberb.) Cooke
+    <i>Aleuria corium</i> (O. Weberbauer) Gillet, Champignons de France. Les Discomycètes 2: 39 (1879)
+    <i>Scypharia corium</i> (Weberb.) Quél.: 83 (1886)
+    <i>Lachnea corium</i> (O. Weberb.) W. Phillips, A manual of the British Discomycetes: 204 (1887)
+    <i>Fuckelina corium</i> (O. Weberbauer) Kuntze, Revisio generum plantarum 2: 852 (1891)
+    <i>Sarcoscypha corium</i> (O. Weberb.) J. Schröt.: 59 (1893)
+    <i>Helvella corium f. corium</i> (O. Weberb.) Massee: 463 (1895)
+    <i>Cyathipodia corium</i> (O. Weberb.) Boud.: 2 (1904)
+    <i>Leptopodia corium</i> (O. Weberb.) Boudier, Histoire et Classification des Discomycètes d'Europe: 239bis (1910)
+    <i>Cowlesia corium</i> (O. Weberb.) Nieuwl., The American Midland Naturalist 4: 380 (1916)
+    <i>Paxina corium</i> (O. Weberb.) Seaver, The North American Cup-Fungi (Operculates) (3): 208 (1928)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

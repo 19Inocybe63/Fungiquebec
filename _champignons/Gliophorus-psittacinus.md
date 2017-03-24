@@ -1,6 +1,6 @@
 ---
 nom: Gliophorus psittacinus
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/1/359/19917747775_9b63d8184f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19917747775/in/photolist-wm4Eup
 album-flickr:
@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans les milieux humides des forêts (surtout de feuillus, Fagus, Quercus)
+  biotopes: pousse au sol, dans les milieux humides des forêts (surtout de feuillus, <i>Fagus</i>, <i>Quercus</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -261,12 +261,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus dentatus L., Species Plantarum; 1172 (1753)
-    Agaricus psittacinus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:70, t. 301 (1774)
-    Agaricus cameleon Bull. & Vent., Herbier de la France 12:t. 545:1 (1792)
-    Hygrophorus psittacinus (Schaeff.) Fr., Epicrisis Systematis Mycologici:332 (1838)
-    Hygrocybe psittacina (Schaeff.) P. Kumm., Der Führer in die Pilzkunde:112 (1871)
-    Bolbitius dentatus (L.) Kuntze, Revisio generum plantarum 3:478 (1898)
+    <i>Agaricus dentatus</i> L., Species Plantarum; 1172 (1753)
+    <i>Agaricus psittacinus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:70, t. 301 (1774)
+    <i>Agaricus cameleon</i> Bull. & Vent., Herbier de la France 12:t. 545:1 (1792)
+    <i>Hygrophorus psittacinus</i> (Schaeff.) Fr., Epicrisis Systematis Mycologici:332 (1838)
+    <i>Hygrocybe psittacina</i> (Schaeff.) P. Kumm., Der Führer in die Pilzkunde:112 (1871)
+    <i>Bolbitius dentatus</i> (L.) Kuntze, Revisio generum plantarum 3:478 (1898)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

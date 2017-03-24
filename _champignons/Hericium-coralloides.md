@@ -1,6 +1,6 @@
 ---
 nom: Hericium coralloides
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/4/3858/15199843732_698468a2be_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15199843732/in/photolist-paaaZf
 album-flickr:
@@ -201,7 +201,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: absent
   pieds-steriles: 
@@ -252,24 +252,24 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Hydnum coralloides Scop., Flora carniolica 2:472, no 1602 (1772)
-    Hydnum coralloideum Batsch, Elenchus fungorum:113 (1783)
-    Medusina coralloides (Scop.) Chevall., Flore Générale des Environs de Paris 1:279 (1826)
-    Merisma coralloides (Scop.) Spreng., Caroli Linnaei systema vegetabilium 4(1):496 (1827)
-    Friesites coralloides (Scop.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:41 (1879)
-    Friesites corallioides (Scop.) P. Karst. (1879)
-    Dryodon coralloides (Scop.) P. Karst., Meddel. Soc. Fauna Fl. Fenn.:15 (1881)
-    Manina coralloides (Scop.) Banker, Mycologia 4 (5):276 (1912)
-    Hydnum clathroides Pall., Reise Prov. Russ. Reichs:744, f. 3 (1773)
-    Hydnum laciniatum Leers, Flora Herbornensis:276 (1775)
-    Clavaria madreporaeformis Retz., Suppl. Scand.:19 (1779)
-    Hydnum ramosum Bull., Herbier de la France 9, t. 390 (1789)
-    Hericium reichii Opiz, Lotos:256 (1851)
-    Hydnum caput-ursi Fr., Monographia Hymenomycetum Sueciae 2:278 (1863)
-    Hydnum aciculare Sacc., Michelia 2 (6):154 (1880)
-    Hydnum novae-zelandiae Colenso (1889)
-    Hydnum novae-zealandiae Colenso, Transactions of the New Zealand Institute 21:79 (1889)
-    Dryodon aciculare (Sacc.) Bourdot, Bulletin de la Société Mycologique de France 48:221 (1932)
+    <i>Hydnum coralloides</i> Scop., Flora carniolica 2:472, no 1602 (1772)
+    <i>Hydnum coralloideum</i> Batsch, Elenchus fungorum:113 (1783)
+    <i>Medusina coralloides</i> (Scop.) Chevall., Flore Générale des Environs de Paris 1:279 (1826)
+    <i>Merisma coralloides</i> (Scop.) Spreng., Caroli Linnaei systema vegetabilium 4(1):496 (1827)
+    <i>Friesites coralloides</i> (Scop.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:41 (1879)
+    <i>Friesites corallioides</i> (Scop.) P. Karst. (1879)
+    <i>Dryodon coralloides</i> (Scop.) P. Karst., Meddel. Soc. Fauna Fl. Fenn.:15 (1881)
+    <i>Manina coralloides</i> (Scop.) Banker, Mycologia 4 (5):276 (1912)
+    <i>Hydnum clathroides</i> Pall., Reise Prov. Russ. Reichs:744, f. 3 (1773)
+    <i>Hydnum laciniatum</i> Leers, Flora Herbornensis:276 (1775)
+    <i>Clavaria madreporaeformis</i> Retz., Suppl. Scand.:19 (1779)
+    <i>Hydnum ramosum</i> Bull., Herbier de la France 9, t. 390 (1789)
+    <i>Hericium reichii</i> Opiz, Lotos:256 (1851)
+    <i>Hydnum caput-ursi</i> Fr., Monographia Hymenomycetum Sueciae 2:278 (1863)
+    <i>Hydnum aciculare</i> Sacc., Michelia 2 (6):154 (1880)
+    <i>Hydnum novae-zelandiae</i> Colenso (1889)
+    <i>Hydnum novae-zealandiae</i> Colenso, Transactions of the New Zealand Institute 21:79 (1889)
+    <i>Dryodon aciculare</i> (Sacc.) Bourdot, Bulletin de la Société Mycologique de France 48:221 (1932)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Gloioxanthomyces nitidus
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/8/7343/9268009925_e956b6717f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9268009925/in/photolist-f7Z1Yi-f7YYsz-f8egtd
 album-flickr:
@@ -253,11 +253,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Hygrophorus nitidus Berk. & M.A. Curtis, Annals and Magazine of Natural History 12:424 (1853)
-    Hydrocybe nitida (Berk. & M.A. Curtis) Murrill (1916)
-    Hygrocybe nitida (Berk. & M.A. Curtis) Murrill, North American Flora 9 (6):378 (1916)
-    Gliophorus nitidus (Berk. & M.A. Curtis) Kovalenko, Mikologiya i Fitopatologiya 22 (3):209 (1988)
-    Hygrocybe nitida (Berk. & M.A. Curtis) Malloch, Fleshy fungi (Basidiomycota) of the Atlantic Maritime Ecozone:124 (2010)
+    <i>Hygrophorus nitidus</i> Berk. & M.A. Curtis, Annals and Magazine of Natural History 12:424 (1853)
+    <i>Hydrocybe nitida</i> (Berk. & M.A. Curtis) Murrill (1916)
+    <i>Hygrocybe nitida</i> (Berk. & M.A. Curtis) Murrill, North American Flora 9 (6):378 (1916)
+    <i>Gliophorus nitidus</i> (Berk. & M.A. Curtis) Kovalenko, Mikologiya i Fitopatologiya 22 (3):209 (1988)
+    <i>Hygrocybe nitida</i> (Berk. & M.A. Curtis) Malloch, Fleshy fungi (Basidiomycota) of the Atlantic Maritime Ecozone:124 (2010)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

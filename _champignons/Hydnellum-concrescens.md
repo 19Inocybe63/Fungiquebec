@@ -1,6 +1,6 @@
 ---
 nom: Hydnellum concrescens
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/4/3869/15064369687_1d8ea59157_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064369687/in/photolist-pUJXXk-oXbQgR-oXbNkB
 album-flickr:
@@ -234,16 +234,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 6, les polyporales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 6, <i>les polyporales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    KOH 10% = la chair devient vert foncé presque noir
-    NH<SUB>4</SUB>OH 10% = la chair devient bleu-vert
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = la chair devient bleu-vert
+    Potasse (KOH 10%) = la chair devient vert foncé presque noir
   receptacle: 
   remarques: 
   repartition: 
@@ -264,13 +264,13 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Hydnum concrescens Pers., Observationes mycologicae 1:74 (1796)
-    Hydnum vespertilio Berk., Hooker's Journal of Botany and Kew Garden Miscellany 6:167 (1854)
-    Hydnum fasciatum Peck, Annual Report on the New York State Museum of Natural History 41:78 (1888)
-    Calodon fasciatum (Peck) Pat. (1900)
-    Hydnellum parvum Banker, Mycologia 5 (4):200 (1913)
-    Hydnum spathulatum Lloyd, Mycological Writings 6 (61):878 (1919)
-    Hydnellum subsuccosum K.A. Harrison, Canadian Journal of Botany 42 (9):1228 (1964)
+    <i>Hydnum concrescens</i> Pers., Observationes mycologicae 1:74 (1796)
+    <i>Hydnum vespertilio</i> Berk., Hooker's Journal of Botany and Kew Garden Miscellany 6:167 (1854)
+    <i>Hydnum fasciatum</i> Peck, Annual Report on the New York State Museum of Natural History 41:78 (1888)
+    <i>Calodon fasciatum</i> (Peck) Pat. (1900)
+    <i>Hydnellum parvum</i> Banker, Mycologia 5 (4):200 (1913)
+    <i>Hydnum spathulatum</i> Lloyd, Mycological Writings 6 (61):878 (1919)
+    <i>Hydnellum subsuccosum</i> K.A. Harrison, Canadian Journal of Botany 42 (9):1228 (1964)
   systeme-hyphal: monomitique, hyphes génératrices du contexte piléique emmêlées sous la surface, parallèles plus en profondeur, non renflées, septées-simples, jusqu'à 5 µm Ø, avec hyphes gléoplères jusqu'à 6,3 µm Ø, hyphes du contexte caulinaire emmêlées sous la surface, parallèles au centre, septées-simples, jusqu'à 6,3 µm Ø, avec hyphes gléoplères jusqu'à 6,3 µm Ø, hyphes de la trame des aiguillons non renflées, septées-simples, jusqu'à 5 µm Ø
   textura: 
   tomentum-caulinaire: 

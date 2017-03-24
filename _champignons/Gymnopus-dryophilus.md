@@ -1,6 +1,6 @@
 ---
 nom: Gymnopus dryophilus
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/3/2933/14435276209_1066824e4c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14435276209/in/photolist-nZAyGz-of43KE-nS6rBm-o9hkft/
 album-flickr:
@@ -234,7 +234,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = absence à faiblement jaunâtre-olive sur la surface du chapeau
+    Potasse (KOH 10%) = absence à faiblement jaunâtre-olive sur la surface du chapeau
   receptacle: 
   remarques: 
   repartition: 
@@ -255,12 +255,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus dryophilus Bull., Herbier de la France 10:t. 434 (1790)
-    Omphalia dryophilus (Bull.) Gray (1821)
-    Omphalia dryophila (Bull.) Gray, A natural arrangement of British plants 1:612 (1821)
-    Collybia dryophila (Bull.) P. Kumm., Der Führer in die Pilzkunde:115 (1871)
-    Marasmius dryophilus (Bull.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 48:103 (1889)
-    Collybia aquosa var. dryophila (Bull.) Krieglst., Beiträge zur Kenntnis der Pilze Mitteleuropas 13:36 (2000)
+    <i>Agaricus dryophilus</i> Bull., Herbier de la France 10:t. 434 (1790)
+    <i>Omphalia dryophilus</i> (Bull.) Gray (1821)
+    <i>Omphalia dryophila</i> (Bull.) Gray, A natural arrangement of British plants 1:612 (1821)
+    <i>Collybia dryophila</i> (Bull.) P. Kumm., Der Führer in die Pilzkunde:115 (1871)
+    <i>Marasmius dryophilus</i> (Bull.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 48:103 (1889)
+    <i>Collybia aquosa var. dryophila</i> (Bull.) Krieglst., Beiträge zur Kenntnis der Pilze Mitteleuropas 13:36 (2000)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

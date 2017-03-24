@@ -1,6 +1,6 @@
 ---
 nom: Gyromitra infula
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/9/8455/7996468533_a6a0aa7ab9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996468533/in/photolist-dbC215-dbBZv8-dbBZ9e
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, souvent près et même sur des débris ligneux (sur vieux Fomes), ou sur bois pourri de conifères
+  biotopes: pousse au sol, souvent près et même sur des débris ligneux (sur vieux <i>Fomes</i>), ou sur bois pourri de conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -254,13 +254,13 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Leptopodia monachella (Scop.) Boud.
-    Phallus monachella Scop., Flora carniolica 2:476 (1772)
-    Helvella infula Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:105, t. 159 (1774)
-    Elvela infula Schaeff. (1774)
-    Helvella brunnea J.F. Gmel., Systema Naturae 2:1450 (1792)
-    Helvella monachella (Scop.) Fr., Systema Mycologicum 2:18 (1822)
-    Physomitra infula (Schaeff.) Boud., Histoire et Classification des Discomycètes d'Europe:35 (1907)
+    <i>Leptopodia monachella</i> (Scop.) Boud.
+    <i>Phallus monachella</i> Scop., Flora carniolica 2:476 (1772)
+    <i>Helvella infula</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:105, t. 159 (1774)
+    <i>Elvela infula</i> Schaeff. (1774)
+    <i>Helvella brunnea</i> J.F. Gmel., Systema Naturae 2:1450 (1792)
+    <i>Helvella monachella</i> (Scop.) Fr., Systema Mycologicum 2:18 (1822)
+    <i>Physomitra infula</i> (Schaeff.) Boud., Histoire et Classification des Discomycètes d'Europe:35 (1907)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

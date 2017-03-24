@@ -1,6 +1,6 @@
 ---
 nom: Omphalotus illudens
-date: 2017-03-11 00:00:00
+date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/9/8431/7710718004_d5e8a9582b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7710718004/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
 album-flickr:
@@ -234,18 +234,18 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = brunes à brunâtres sur les lames après ± 5 minutes
-    KOH 10% = légèrement verdâtre sur le chapeau et le pied
-    NH<SUB>4</SUB>OH 10% = légèrement verdâtre sur la chair du pied
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = légèrement verdâtre sur la chair du pied
+    Potasse (KOH 10%) = légèrement verdâtre sur le chapeau et le pied
+    Sulfate de fer (FeSO<SUB>4</SUB>) = brunes à brunâtres sur les lames après ± 5 minutes
   receptacle: 
   remarques: |
     Parfois observée de fines gouttelettes orangées, collantes et visqueuses, comme exsudées, et qui se fixent sur le chapeau et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux.
-    Les histoires les plus rocambolesques les unes que les autres nourrissent le fait que ce champignon possède la propriété d'être luminescent où il se trouve. Il aide le voyageur égaré en forêt, il permet de lire un livre avec assez de luminosité, bref, un champignon dont l'exagération et l'imaginaire collectif n'a pas fini de faire sourire ; The jack-o'lantern mushroom !
+    Les histoires les plus rocambolesques les unes que les autres nourrissent le fait que ce champignon possède la propriété d'être luminescent où il se trouve. Il aide le voyageur égaré en forêt, il permet de lire un livre avec assez de luminosité, bref, un champignon dont l'exagération et l'imaginaire collectif n'a pas fini de faire sourire ; The <i>jack-o'lantern</i> mushroom !
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -264,15 +264,15 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus illudens Schwein., Schriften der Naturforschenden Gesellschaft zu Leipzig 1:81 (1822)
-    Panus illudens (Schwein.) Fr., Nova Acta Regiae Societatis Scientiarum Upsaliensis 1:39 (1851)
-    Clitocybe illudens (Schwein.) Sacc., Sylloge Fungorum 5:162 (1887)
-    Pocillaria illudens (Schwein.) Kuntze, Revisio generum plantarum 3:506 (1898)
-    Lentinus illudens (Schwein.) Henn., Die natürlichen Pflanzenfamilien nebst ihren Gattungen und wichtigeren Arten insbesondere den Nutzpflanzen; I. Tl., 1. Abt., Fungi (Eumycetes):224 (1900)
-    Monodelphus illudens (Schwein.) Earle, Bulletin of the New York Botanical Garden 5:432 (1908)
-    Omphalotus olearius var. illudens (Schwein.) A. Ortega & Esteve-Rav., Bollettino del Gruppo Micologico "G. Bresadola" 43 (1):51 (2000)
-    Clitocybe phosphorea Battarra
-    Agaricus olearius DC., Flore française 6:44 (1815)
+    <i>Agaricus illudens</i> Schwein., Schriften der Naturforschenden Gesellschaft zu Leipzig 1:81 (1822)
+    <i>Panus illudens</i> (Schwein.) Fr., Nova Acta Regiae Societatis Scientiarum Upsaliensis 1:39 (1851)
+    <i>Clitocybe illudens</i> (Schwein.) Sacc., Sylloge Fungorum 5:162 (1887)
+    <i>Pocillaria illudens</i> (Schwein.) Kuntze, Revisio generum plantarum 3:506 (1898)
+    <i>Lentinus illudens</i> (Schwein.) Henn., Die natürlichen Pflanzenfamilien nebst ihren Gattungen und wichtigeren Arten insbesondere den Nutzpflanzen; I. Tl., 1. Abt., Fungi (Eumycetes):224 (1900)
+    <i>Monodelphus illudens</i> (Schwein.) Earle, Bulletin of the New York Botanical Garden 5:432 (1908)
+    <i>Omphalotus olearius var. illudens</i> (Schwein.) A. Ortega & Esteve-Rav., Bollettino del Gruppo Micologico "G. Bresadola" 43 (1):51 (2000)
+    <i>Clitocybe phosphorea</i> Battarra
+    <i>Agaricus olearius</i> DC., Flore française 6:44 (1815)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

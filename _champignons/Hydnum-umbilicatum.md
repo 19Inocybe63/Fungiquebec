@@ -1,6 +1,6 @@
 ---
 nom: Hydnum umbilicatum
-date: 2017-03-04 00:00:00
+date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/3/2950/15275249687_1af927425b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15275249687/in/photolist-pgPDxV
 album-flickr:
@@ -246,7 +246,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: indistincte, doux
+  saveur: indistincte, douce
   sclerocystides: 
   sclerote: 
   soies: 
@@ -261,7 +261,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Dentinum umbilicatum (Peck) Pouzar, Ceská Mykologie 10 (2):76 (1956)
+    <i>Dentinum umbilicatum</i> (Peck) Pouzar, Ceská Mykologie 10 (2):76 (1956)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Hygrophoropsis rufa
-date: 2017-03-13 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5312/29609987530_ac7ec97005_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29609987530/in/photolist-M7wVGo
 album-flickr:
@@ -39,7 +39,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Holec, Jan., Kolarik, Miroslav. Notes on the identity of Hygrophoropsis rufa (Basidiomycota, Boletales), Czech Mycology 65(1):15–24, June 10, 2013
+    <b>Holec, Jan. ; Kolarik, Miroslav</b>. <i>Notes on the identity of Hygrophoropsis rufa (Basidiomycota, Boletales)</i>, Czech Mycology 65(1):15–24, June 10, 2013
   ascome: 
   ascospores: 
   asques: 
@@ -251,7 +251,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Hygrophoropsis aurantiaca var. rufa D.A. Reid, Fungorum rariorum Icones coloratae 6:5 (1972)
+    <i>Hygrophoropsis aurantiaca var. rufa</i> D.A. Reid, Fungorum rariorum Icones coloratae 6:5 (1972)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

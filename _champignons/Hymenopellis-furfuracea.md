@@ -1,6 +1,6 @@
 ---
 nom: Hymenopellis furfuracea
-date: 2017-03-13 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8076/8389201215_7ee93b2516_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8389201215/in/photolist-KZZ5kK-L7KXRa-dMqqb1-dKiztv-dJeNnK-dJeUGZ-dMjRfg-dMjRhX-cvkwvb-cvkwk5
 album-flickr:
@@ -246,10 +246,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -271,11 +271,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Collybia radicata var. furfuracea Peck, Annual Report on the New York State Museum of Natural History 45:91 (1893)
-    Oudemansiella radicata var. furfuracea (Peck) Pegler & T.W.K. Young, Transactions of the British Mycological Society 87 (4):598 (1987)
-    Xerula furfuracea (Peck) Redhead, Ginns & Shoemaker, Mycotaxon 30:362 (1987)
-    Oudemansiella furfuracea (Peck) Zhu L. Yang, G.M. Muell., G. Kost & Rexer, Mycosystema 28 (1):7 (2009)
-    Hymenopellis furfuracea (Peck) R.H. Petersen:137 [+ 602] (2010)
+    <i>Collybia radicata var. furfuracea</i> Peck, Annual Report on the New York State Museum of Natural History 45:91 (1893)
+    <i>Oudemansiella radicata var. furfuracea</i> (Peck) Pegler & T.W.K. Young, Transactions of the British Mycological Society 87 (4):598 (1987)
+    <i>Xerula furfuracea</i> (Peck) Redhead, Ginns & Shoemaker, Mycotaxon 30:362 (1987)
+    <i>Oudemansiella furfuracea</i> (Peck) Zhu L. Yang, G.M. Muell., G. Kost & Rexer, Mycosystema 28 (1):7 (2009)
+    <i>Hymenopellis furfuracea</i> (Peck) R.H. Petersen:137 [+ 602] (2010)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

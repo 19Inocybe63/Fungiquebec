@@ -1,6 +1,6 @@
 ---
 nom: Tuber candidum
-date: 2017-03-13 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5811/20524255219_fb577b31a2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20524255219/in/photolist-xgxGf7-xgEb2i-wKN4JH-w69kQP-wSTPci-wSaqJo
 album-flickr:
@@ -266,7 +266,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Trappe, Matt, Evans, Frank, and Trappe, James. Field Guide to North American Truffles; Hunting, Identifying, and Enjoying the World’s most Prized Fungi, 2007, 230 pp.
+    <b>Trappe, Matt ; Evans, Frank; Trappe, James</b>. <>iField Guide to North American Truffles</i> ; Hunting, Identifying, and Enjoying the World’s most Prized Fungi, 2007, 230 pp.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

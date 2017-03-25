@@ -53,6 +53,7 @@ description:
     5,8 [6,8; 7,2] 8,1 x 3,8 [4,4; 4,6] 5,1 µm
     Q = 1,5 [1,54; 1,6] 1,7; N = 30; C = 95%
     Me = 7 x 4,5 µm; Qe = 1,6
+    (Piximètre, formule statistique ; mesures issues de spores contenues dans les lames, dans le Rouge Congo ammoniacal)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -243,7 +244,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Cette collection n'a pas sporulé. L'étude de la spore fut réalisée dans les lames, dans le Rouge Congo ammoniacal.
+  remarques: Cette collection n'a pas sporulée.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

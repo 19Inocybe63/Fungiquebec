@@ -1,6 +1,6 @@
 ---
 nom: Hymenochaetopsis tabacina
-date: 2017-03-14 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/713/20474978959_f2ee0c486a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20474978959/in/photolist-xciBUB-xsZTzN
 album-flickr:
@@ -39,7 +39,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Yang, Jiao ; Dai, Li-Dan ; He, Shuang-Hui. Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China, Mycological Progress, February 2016
+    <b>Yang, Jiao ; Dai, Li-Dan ; He, Shuang-Hui</b>. <i>Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China</i>, Mycological Progress, February 2016
   ascome: 
   ascospores: 
   asques: 
@@ -233,7 +233,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = noire sur toutes les parties
@@ -257,11 +257,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Auricularia tabacina Sowerby, Coloured Figures of English Fungi 1:14, t. 25 (1797)
-    Thelephora tabacina (Sowerby) Fr., Systema Mycologicum 1:437 (1821)
-    Stereum tabacinum (Sowerby) Fr., Epicrisis Systematis Mycologici:550 (1838)
-    Hymenochaete tabacina (Sowerby) Lév., Annales des Sciences Naturelles Botanique 5:152 (1846)
-    Pseudochaete tabacina (Sowerby) T. Wagner & M. Fisch., Mycological Progress 1 (1):100 (2002)
+    <i>Auricularia tabacina</i> Sowerby, Coloured Figures of English Fungi 1:14, t. 25 (1797)
+    <i>Thelephora tabacina</i> (Sowerby) Fr., Systema Mycologicum 1:437 (1821)
+    <i>Stereum tabacinum</i> (Sowerby) Fr., Epicrisis Systematis Mycologici:550 (1838)
+    <i>Hymenochaete tabacina</i> (Sowerby) Lév., Annales des Sciences Naturelles Botanique 5:152 (1846)
+    <i>Pseudochaete tabacina</i> (Sowerby) T. Wagner & M. Fisch., Mycological Progress 1 (1):100 (2002)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

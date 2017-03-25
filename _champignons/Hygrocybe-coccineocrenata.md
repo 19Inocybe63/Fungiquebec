@@ -1,6 +1,6 @@
 ---
 nom: Hygrocybe coccineocrenata
-date: 2017-03-04 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5487/9532550164_cff4d0ea25_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9532550164/in/photolist-s7WLut-fwmP4b-fw7w6p
 album-flickr:
@@ -236,12 +236,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boertmann, David. The genus Hygrocybe, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
+    <b>Boertmann, David</b>. <i>The genus Hygrocybe</i>, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -263,8 +263,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Hygrophorus coccineocrenatus P. D. Orton, Transactions of the British Mycological Society 43 (2):262 (1960)
-    Pseudohygrocybe coccineocrenata (P. D. Orton) Kovalenko, Mikologiya i Fitopatologiya 22 (3):209 (1988)
+    <i>Hygrophorus coccineocrenatus</i> P. D. Orton, Transactions of the British Mycological Society 43 (2):262 (1960)
+    <i>Pseudohygrocybe coccineocrenata</i> (P. D. Orton) Kovalenko, Mikologiya i Fitopatologiya 22 (3):209 (1988)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

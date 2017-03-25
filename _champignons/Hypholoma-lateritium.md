@@ -1,6 +1,6 @@
 ---
 nom: Hypholoma lateritium
-date: 2017-03-04 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8523/8486240695_ea46252827_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8486240695/in/photolist-dXpeui-dVZNbq-dVUcTK-dVUcGK/
 album-flickr:
@@ -123,7 +123,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Les boucles du pileipellis sont plus grosses (au double) que celles trouvées dans le médiostrate et le stipitipellis. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -250,7 +251,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à octobre
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 50-100 x 5-15 mm Ø, égal, crème à l'apex, vineux vers la base, parfois teinté de jaune par endroits
   pieds-steriles: 
@@ -279,17 +280,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    De Claude Kaufholtz-Couture. « Les boucles du pileipellis sont plus grosses (au double) que celles trouvées dans le médiostrate et le stipitipellis. »
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -308,19 +308,19 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus lateritius Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:22, t. 49 (1774)
-    Agaricus carneolus Batsch, Elenchus fungorum:83 (1783)
-    Agaricus pomposus Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:251 (1803)
-    Pratella lateritia (Schaeff.) Gray, A natural arrangement of British plants 1:627 (1821)
-    Agaricus sublateritius Fr., Epicrisis Systematis Mycologici:221 (1838)
-    Hypholoma sublateritium (Fr.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:143 (1872)
-    Nematoloma sublateritium (Schaeff.) P. Karst. (1879)
-    Naematoloma sublateritium (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:495 (1880)
-    Geophila sublateritia (Schaeff.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:113 (1886)
-    Dryophila sublateritia (Schaeff.) Quél., Flore mycologique de la France et des pays limitrophes:1-492 (1888)
-    Psilocybe lateritia (Schaeff.) Noordel., Persoonia 16 (1):129 (1995)
-    Agaricus perplexus Peck, Annual Report on the New York State Museum of Natural History 23:99 (1872)
-    Inocybe corcontica Velen., Ceske Houby 2:370 (1920)
+    <i>Agaricus lateritius</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:22, t. 49 (1774)
+    <i>Agaricus carneolus</i> Batsch, Elenchus fungorum:83 (1783)
+    <i>Agaricus pomposus</i> Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:251 (1803)
+    <i>Pratella lateritia</i> (Schaeff.) Gray, A natural arrangement of British plants 1:627 (1821)
+    <i>Agaricus sublateritius</i> Fr., Epicrisis Systematis Mycologici:221 (1838)
+    <i>Hypholoma sublateritium</i> (Fr.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:143 (1872)
+    <i>Nematoloma sublateritium</i> (Schaeff.) P. Karst. (1879)
+    <i>Naematoloma sublateritium</i> (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:495 (1880)
+    <i>Geophila sublateritia</i> (Schaeff.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:113 (1886)
+    <i>Dryophila sublateritia</i> (Schaeff.) Quél., Flore mycologique de la France et des pays limitrophes:1-492 (1888)
+    <i>Psilocybe lateritia</i> (Schaeff.) Noordel., Persoonia 16 (1):129 (1995)
+    <i>Agaricus perplexus</i> Peck, Annual Report on the New York State Museum of Natural History 23:99 (1872)
+    <i>Inocybe corcontica</i> Velen., Ceske Houby 2:370 (1920)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

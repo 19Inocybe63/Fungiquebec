@@ -1,6 +1,6 @@
 ---
 nom: Hygrocybe cantharellus
-date: 2017-03-14 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/3/2817/9438005957_e509607329_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9438005957/in/photolist-fo1fmD-fofxis/
 album-flickr:
@@ -232,7 +232,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boertmann, David. The genus Hygrocybe, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
+    <b>Boertmann, David</b>. <i>The genus Hygrocybe</i>, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
@@ -256,12 +256,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus cantharellus Schwein., Schriften der Naturforschenden Gesellschaft zu Leipzig 1:88 (1822)
-    Hygrophorus cantharellus (Schwein.) Fr., Epicrisis Systematis Mycologici:329 (1838)
-    Hydrocybe cantharellus (Schwein.) Murrill (1911)
-    Camarophyllus cantharellus (Schwein.) Murrill, North American Flora 9 (6):388 (1916)
-    Pseudohygrocybe cantharella (Schwein.) Kovalenko, Mikologiya i Fitopatologiya 22 (3):208 (1988)
-    Pseudohygrocybe cantharellus (Schwein.) Kovalenko (1988)
+    <i>Agaricus cantharellus</i> Schwein., Schriften der Naturforschenden Gesellschaft zu Leipzig 1:88 (1822)
+    <i>Hygrophorus cantharellus</i> (Schwein.) Fr., Epicrisis Systematis Mycologici:329 (1838)
+    <i>Hydrocybe cantharellus</i> (Schwein.) Murrill (1911)
+    <i>Camarophyllus cantharellus</i> (Schwein.) Murrill, North American Flora 9 (6):388 (1916)
+    <i>Pseudohygrocybe cantharella</i> (Schwein.) Kovalenko, Mikologiya i Fitopatologiya 22 (3):208 (1988)
+    <i>Pseudohygrocybe cantharellus</i> (Schwein.) Kovalenko (1988)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

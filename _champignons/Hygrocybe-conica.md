@@ -1,6 +1,6 @@
 ---
 nom: Hygrocybe conica
-date: 2017-03-04 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/406/19678525428_f777d68d59_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19678525428/in/photolist-vjyS1S-wfUQUN-vYVA2b-wgxmv2-vZ47s7-vZbfhH
 album-flickr:
@@ -66,7 +66,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, sous feuillus, Fagus, Quercus
+  biotopes: pousse au sol, dans la mousse, sous feuillus, <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -93,7 +93,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De David Boertmann. « ... Here in Europe collections which previously was identified as H. nigrescens, will be named H. pseudoconica. However, your photos shows a fruitbody markedly deviating from European H. pseudoconica (nigrescens). And it resembles much more some tropical forms, such H. atrosquamosa or H. astatogala... » Ce commentaire est relié à la collection cKc0356.
+  commentaires: De David Boertmann. « ... Here in Europe collections which previously was identified as <i>H. nigrescens</i>, will be named <i>H. pseudoconica</i>. However, your photos shows a fruitbody markedly deviating from European <i>H. pseudoconica</i> (<i>nigrescens</i>). And it resembles much more some tropical forms, such <i>H. atrosquamosa</i> or <i>H. astatogala</i>... » Ce commentaire est relié à la collection cKc0356.
   conidies: 
   conidiome: 
   conidiophores: 
@@ -246,16 +246,16 @@ description:
   pseudocystides: de formes variées provenant de la trame lamellaire, émergentes dans l'hyménium, + 112 x 2-10 µm
   pseudo-peridioles: 
   publications: |
-    Boertmann, David. The genus Hygrocybe, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
+    <b>Boertmann, David</b>. <i>The genus Hygrocybe</i>, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    Dès qu'on le touche, il devient verdâtre-noirâtre. Au microscope, les basides apparaissent parfois ocre ferreux dans une solution de glycérine 8%.
+    Dès qu'on le touche, il devient verdâtre-noirâtre. Les basides apparaissent parfois ocre ferreux dans une solution de glycérine 8%.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -274,12 +274,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus conicus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:2 (1774)
-    Hygrophorus conicus (Schaeff.) Fr., Epicrisis Systematis Mycologici, 331 (1838)
-    Godfrinia conica (Schaeff.) Maire, Bulletin de la Société Mycologique de France 18 (Suppl.), 116 (1902)
-    Agaricus conicus Scop., Flora carniolica 2:443 (1772)
-    Hygrocybe trista (Pers.) F.H. Møller (1945) [MB#265881]
-    Hygrocybe riparia Kreisel, Westfälische Pilzbriefe 2 (7): 112 (1960)
+    <i>Agaricus conicus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:2 (1774)
+    <i>Hygrophorus conicus</i> (Schaeff.) Fr., Epicrisis Systematis Mycologici, 331 (1838)
+    <i>Godfrinia conica</i> (Schaeff.) Maire, Bulletin de la Société Mycologique de France 18 (Suppl.), 116 (1902)
+    <i>Agaricus conicus</i> Scop., Flora carniolica 2:443 (1772)
+    <i>Hygrocybe trista</i> (Pers.) F.H. Møller (1945) [MB#265881]
+    <i>Hygrocybe riparia</i> Kreisel, Westfälische Pilzbriefe 2 (7): 112 (1960)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

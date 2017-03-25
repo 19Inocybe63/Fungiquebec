@@ -1,6 +1,6 @@
 ---
 nom: Tuber gardneri
-date: 2017-03-13 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/360/19748538615_4f93219236_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19748538615/in/photostream/
 album-flickr:
@@ -236,7 +236,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Trappe, Matt, Evans, Frank, and Trappe, James. Field Guide to North American Truffles; Hunting, Identifying, and Enjoying the World’s most Prized Fungi, 2007, 230 pp.
+    <b>Trappe, Matt ; Evans, Frank ; Trappe, James</b>. <i>Field Guide to North American Truffles</i> ; Hunting, Identifying, and Enjoying the World’s most Prized Fungi, 2007, 230 pp.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -259,7 +259,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Tuber gardnerii Gilkey (1916)
+    <i>Tuber gardnerii</i> Gilkey (1916)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

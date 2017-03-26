@@ -1,6 +1,6 @@
 ---
 nom: Leratiomyces riparius
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18014840069/in/photolist-HDHSvu-HNrU6e-FUfGoV-tG2gVW-trUAiD-trLvyU-trULjR-dB653b-rLyqV3-f4auVu-eUs8vP-eUsn5z-eUDu43-cU6gkJ-cU6fJE-cU6fxJ-cU6fXb
 album-flickr:
@@ -263,19 +263,19 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques: |
-    FeSO<SUB>4</SUB> = aucune coloration
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le pied devient légèrement jaunâtre, chapeau aucune coloration
     Gaïacol = aucune coloration sur les lames et le pied, rose lilacée sur le chapeau après > 5’
-    KOH 10% = le pied devient légèrement jaunâtre rouille, chapeau auncune coloration
-    NH<SUB>4</SUB>OH 10% = le pied devient légèrement jaunâtre, chapeau aucune coloration
+    Potasse (KOH 10%) = le pied devient légèrement jaunâtre rouille, chapeau auncune coloration
+    Sulfate de fer (FeSO<SUB>4</SUB>) = aucune coloration
   receptacle: 
-  remarques: L'épithète « riparius » signifie qui se tient sur les rives (en parlant d'oiseaux); il y a aussi « ripariolus » qui signifie qui se trouve sur la rive. Difficile ici de donner un nom français. (Dictionnaire Gaffiot latin-français, 1934.
+  remarques: L'épithète <i>riparius</i> signifie qui se tient sur les rives (en parlant d'oiseaux); il y a aussi <i>ripariolus</i> qui signifie qui se trouve sur la rive. Difficile ici de donner un nom français. (Dictionnaire Gaffiot latin-français, 1934.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -293,7 +293,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: Stropharia riparia A.H. Sm., Michigan Bot. 18(3), 107 (1979)
+  synonymie: |
+    <i>Stropharia riparia</i> A.H. Sm., Michigan Bot. 18(3), 107 (1979)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -85,7 +85,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Arne Aronsen. « I suspect it could be a member of sect. Fuliginellae. The cap is probably covered with a separable, gelatinous pellicle, and the gill edge should be covered by a gelatinous, elastic thread. » Voir aussi correspondance du 22 novembre 2016.
+    De Arne Aronsen. « I suspect it could be a member of sect. Fuliginellae. The cap is probably covered with a separable, gelatinous pellicle, and the gill edge should be covered by a gelatinous, elastic thread. »
   conidies: 
   conidiome: 
   conidiophores: 

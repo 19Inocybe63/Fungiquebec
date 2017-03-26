@@ -1,6 +1,6 @@
 ---
 nom: Imleria badia
-date: 2017-03-13 00:00:00
+date: 2017-03-26 00:00:00
 image: https://c2.staticflickr.com/4/3920/14887778419_60f361d921_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14887778419/in/photolist-qryYtU-oFAfzb-oFzKQP
 album-flickr:
@@ -39,7 +39,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Zhu, Xue-Tai., Li, Yan-Chun. et al. The genus Imleria (Boletaceae) in East Asia, Phytotaxa 191 (1):081-098 ; (2014), 18 p.
+    <b>Zhu, Xue-Tai. ; Li, Yan-Chun, et al</b>. <i>The genus Imleria (Boletaceae) in East Asia</i>, Phytotaxa 191 (1):081-098 ; (2014), 18 p.
   ascome: 
   ascospores: 
   asques: 
@@ -233,18 +233,18 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    Pour cette étude micrographique, l'utilisation du NH<SUB>4</SUB>OH 2% et du KOH 5% doit être limitée, car les éléments observables se dissolvent très facilement. Ici, l'utilisation du NaCl isotonique 0,9% ou l'eau glycérinée 10% prend toute sa pertinence, par exemple, dans les incrustations des hyphes du pileipellis, mais surtout dans les hyménocystides vacuolaires.
+    Pour cette étude micrographique, l'utilisation du NH<SUB>4</SUB>OH 2% et du KOH 5% doit être limitée, car les éléments observables se dissolvent très facilement. Ici, l'utilisation du NaCl iso 0,9% ou l'eau glycérinée 10% prend toute sa pertinence, par exemple, dans les incrustations des hyphes du pileipellis, mais surtout dans les hyménocystides vacuolaires.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -263,16 +263,16 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus badius var. badius
-    Boletus badius (Fr.) Fr., Systema Mycologicum 1:515 (1821)
-    Boletus castaneus var. badius Fr., Systema Mycologicum 1:392 (1821)
-    Boletus castaneus var. badius (Fr.) Fr.:126 (1828)
-    Rostkovites badia (Fr.) P. Karst., Revue Mycologique Toulouse 3 (9):16 (1881)
-    Viscipellis badia (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:156 (1886)
-    Viscipellis badia (Fr.) Quél.:156 (1886)
-    Ixocomus badius (Fr.) Quél., Flore mycologique de la France et des pays limitrophes:412 (1888)
-    Suillus badius (Fr.) Kuntze, Revisio generum plantarum 3 (1898)
-    Xerocomus badius (Fr.) E.-J. Gilbert, Les Livres du Mycologue Tome I-IV, Tom. III: Les Bolets:92 (1931)
+    <i>Boletus badius var. badius</i>
+    <i>Boletus badius</i> (Fr.) Fr., Systema Mycologicum 1:515 (1821)
+    <i>Boletus castaneus var. badius</i> Fr., Systema Mycologicum 1:392 (1821)
+    <i>Boletus castaneus var. badius</i> (Fr.) Fr.:126 (1828)
+    <i>Rostkovites badia</i> (Fr.) P. Karst., Revue Mycologique Toulouse 3 (9):16 (1881)
+    <i>Viscipellis badia</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:156 (1886)
+    <i>Viscipellis badia</i> (Fr.) Quél.:156 (1886)
+    <i>Ixocomus badius</i> (Fr.) Quél., Flore mycologique de la France et des pays limitrophes:412 (1888)
+    <i>Suillus badius</i> (Fr.) Kuntze, Revisio generum plantarum 3 (1898)
+    <i>Xerocomus badius</i> (Fr.) E.-J. Gilbert, Les Livres du Mycologue Tome I-IV, Tom. III: Les Bolets:92 (1931)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Lentinellus flabelliformis
-date: 2017-03-13 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8192/8084204057_9ff65926da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084204057/in/photolist-dwGgDp-djnDe7-djnEdz
 album-flickr:
@@ -233,10 +233,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -258,17 +258,17 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus flabelliformis Bolton, An History of Fungusses, Growing about Halifax App.:157, t. 157 (1791)
-    Lentinus flabelliformis (Bolton) Fr., Systema Orbis Vegetabilis 1:78 (1825)
-    Hemicybe flabelliformis (Bolton) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:250 (1879)
-    Lentinus flabellinus Quél., Flore mycologique de la France et des pays limitrophes:326 (1888)
-    Pocillaria flabelliformis (Bolton) Kuntze, Revisio generum plantarum 2:866 (1891)
-    Lentinellus flabellinus (Quél.) Konrad & Maubl., Icones Selectae Fungorum Fasc. 7:pl. 315 (1937)
-    Lentinus omphalodes f. flabelliformis (Bolton) Pilát, Annales Mycologici 39 (1):83 (1941)
-    Lentinus omphalodes var. flabelliformis (Bolton) Pilát, Atlas des Champignons de l'Europe V, Monographie des espèces européennes du genre Lentinus Fr.:36 (1946)
-    Lentinus scoticus Berk. & Broome, Annals and Magazine of Natural History 15:30 (1875)
-    Lentinus piceinus Peck, Bulletin of the New York State Museum 150:33 (1911)
-    Lentinus omphalodes f. apoda Pilát, Atlas des Champignons de l'Europe V, Monographie des espèces européennes du genre Lentinus Fr.:36 (1946)
+    <i>Agaricus flabelliformis</i> Bolton, An History of Fungusses, Growing about Halifax App.:157, t. 157 (1791)
+    <i>Lentinus flabelliformis</i> (Bolton) Fr., Systema Orbis Vegetabilis 1:78 (1825)
+    <i>Hemicybe flabelliformis</i> (Bolton) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:250 (1879)
+    <i>Lentinus flabellinus</i> Quél., Flore mycologique de la France et des pays limitrophes:326 (1888)
+    <i>Pocillaria flabelliformis</i> (Bolton) Kuntze, Revisio generum plantarum 2:866 (1891)
+    <i>Lentinellus flabellinus</i> (Quél.) Konrad & Maubl., Icones Selectae Fungorum Fasc. 7:pl. 315 (1937)
+    <i>Lentinus omphalodes f. flabelliformis</i> (Bolton) Pilát, Annales Mycologici 39 (1):83 (1941)
+    <i>Lentinus omphalodes var. flabelliformis</i> (Bolton) Pilát, Atlas des Champignons de l'Europe V, Monographie des espèces européennes du genre Lentinus Fr.:36 (1946)
+    <i>Lentinus scoticus</i> Berk. & Broome, Annals and Magazine of Natural History 15:30 (1875)
+    <i>Lentinus piceinus</i> Peck, Bulletin of the New York State Museum 150:33 (1911)
+    <i>Lentinus omphalodes f. apoda</i> Pilát, Atlas des Champignons de l'Europe V, Monographie des espèces européennes du genre Lentinus Fr.:36 (1946)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

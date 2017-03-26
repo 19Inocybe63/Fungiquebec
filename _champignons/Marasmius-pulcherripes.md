@@ -240,7 +240,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Marasmius: Key to the sections in Europe.
+    <b>Noordeloos, Machiel E</b>. <i>Marasmius: Key to the sections in Europe</i>.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

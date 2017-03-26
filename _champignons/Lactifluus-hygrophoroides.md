@@ -1,6 +1,6 @@
 ---
 nom: Lactifluus hygrophoroides
-date: 2017-03-14 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3707/9368669824_b30939639b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9368669824/in/photolist-fgST95-fgSS7N
 album-flickr:
@@ -232,9 +232,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Harris, David B. Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius), Syracuse University Press, 2009, 307 p.
-    Heilmann-Clausen, J., Verbeken, A., Vesterholt, J. The genus Lactarius, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = olive pâle sur le chapeau
@@ -258,7 +258,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Lactarius hygrophoroides Berk. & M.A. Curtis, Annals and Magazine of Natural History 4:293 (1859)
+    <i>Lactarius hygrophoroides</i> Berk. & M.A. Curtis, Annals and Magazine of Natural History 4:293 (1859)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

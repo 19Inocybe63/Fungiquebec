@@ -1,6 +1,6 @@
 ---
 nom: Panellus serotinus
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7419/10088858635_e499dc1285_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088858635/in/photolist-gnw3bx-gnvHw7
 album-flickr:
@@ -251,12 +251,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus serotinus Pers., Abb. Schwämme:25 (1793)
-    Pleurotus serotinus (Pers.) P. Kumm., Der Führer in die Pilzkunde:104 (1871)
-    Sarcomyxa serotina (Pers.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 18:62 (1891)
-    Acanthocystis serotinus (Pers.) Maire, Fungi Catalaunici: Contributions à l'étude de la Flore Mycologique de la Catalogne:63 (1934)
-    Hohenbuehelia serotina (Pers.) Singer, Lilloa 22:254 (1951)
-    Panus serotinus (Pers.) Kühner, Bulletin Mensuel de la Société Linnéenne de Lyon 49:895 (1980)
+    <i>Agaricus serotinus</i> Pers., Abb. Schwämme:25 (1793)
+    <i>Pleurotus serotinus</i> (Pers.) P. Kumm., Der Führer in die Pilzkunde:104 (1871)
+    <i>Sarcomyxa serotina</i> (Pers.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 18:62 (1891)
+    <i>Acanthocystis serotinus</i> (Pers.) Maire, Fungi Catalaunici: Contributions à l'étude de la Flore Mycologique de la Catalogne:63 (1934)
+    <i>Hohenbuehelia serotina</i> (Pers.) Singer, Lilloa 22:254 (1951)
+    <i>Panus serotinus</i> (Pers.) Kühner, Bulletin Mensuel de la Société Linnéenne de Lyon 49:895 (1980)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

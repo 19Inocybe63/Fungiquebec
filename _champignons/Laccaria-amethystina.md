@@ -1,6 +1,6 @@
 ---
 nom: Laccaria amethystina
-date: 2017-03-05 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3677/19729624453_57b5fb126c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19729624453/in/photolist-w4rtYR-wHGdyw
 album-flickr:
@@ -229,10 +229,10 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Mueller, Gregory M. Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
+    <b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = surface du chapeau devenant brunâtre
+    Potasse (KOH 10%) = surface du chapeau devenant brunâtre
   receptacle: 
   remarques: 
   repartition: 
@@ -253,13 +253,13 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus amethystinus Huds., Flora anglica:612 (1778)
-    Collybia amethystina (Huds.) Quél., Flore mycologique de la France et des pays limitrophes:237 (1888)
-    Russuliopsis laccata var. amethystina (Cooke) J. Schröt., Kryptogamen-Flora von Schlesien 3-1(1):623 (1889)
-    Clitocybe amethystina (Cooke) Peck, Annual Report on the New York State Museum of Natural History 50:128 (1897)
-    Laccaria laccata var. amethystina (Cooke) Rea, British Basidiomycetae: A handbook to the larger British fungi:290 (1922)
-    Laccaria hudsonii Pázmány, Zeitschrift für Mykologie 60 (1):7 (1994)
-    Laccaria calospora Singer, Beihefte zur Sydowia 7:7 (1973)
+    <i>Agaricus amethystinus</i> Huds., Flora anglica:612 (1778)
+    <i>Collybia amethystina</i> (Huds.) Quél., Flore mycologique de la France et des pays limitrophes:237 (1888)
+    <i>Russuliopsis laccata var. amethystina</i> (Cooke) J. Schröt., Kryptogamen-Flora von Schlesien 3-1(1):623 (1889)
+    <i>Clitocybe amethystina</i> (Cooke) Peck, Annual Report on the New York State Museum of Natural History 50:128 (1897)
+    <i>Laccaria laccata var. amethystina</i> (Cooke) Rea, British Basidiomycetae: A handbook to the larger British fungi:290 (1922)
+    <i>Laccaria hudsonii</i> Pázmány, Zeitschrift für Mykologie 60 (1):7 (1994)
+    <i>Laccaria calospora</i> Singer, Beihefte zur Sydowia 7:7 (1973)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

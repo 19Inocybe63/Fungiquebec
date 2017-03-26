@@ -1,6 +1,6 @@
 ---
 nom: Lactifluus glaucescens
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5742/20784652632_8c14559e56_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20784652632/in/photolist-xEEM6S-xp12Tn
 album-flickr:
@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de août à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 36 x 11 mm Ø, cylindrique, subégal, plein, ferme, glabre, atténué à la base, blanc à blanchâtre, se tachant de brun rouille à maturité
   pieds-steriles: 
@@ -234,13 +234,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Harris, David B. Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius), Syracuse University Press, 2009, 307 p.
-    Heilmann-Clausen, J., Verbeken, A., Vesterholt, J. The genus Lactarius, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = devient jaune or sur le latex
+    Potasse (KOH 10%) = devient jaune or sur le latex
   receptacle: 
   remarques: 
   repartition: 
@@ -261,8 +261,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Lactarius glaucescens Crossl., Naturalist (London):5 (1900)
-    Lactarius piperatus var. glaucescens (Crossl.) Hesler & A.H. Sm., North American species of Lactarius:186 (1979)
+    <i>Lactarius glaucescens</i> Crossl., Naturalist (London):5 (1900)
+    <i>Lactarius piperatus var. glaucescens</i> (Crossl.) Hesler & A.H. Sm., North American species of Lactarius:186 (1979)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

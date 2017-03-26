@@ -1,6 +1,6 @@
 ---
 nom: Parasola leiocephala
-date: 2017-03-09 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/377/18588563623_6dabc39644_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18588563623/in/photolist-un4yyL-ujBfmg
 album-flickr:
@@ -258,8 +258,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Coprinus leiocephalus P.D. Orton, Notes from the Royal Botanical Garden Edinburgh 29 (1):88 (1969)
-    Parasola plicatilis var. leiocephala (P.D. Orton) P. Roux & Guy Garcia, Mille et Un Champignons:13 (2006)
+    <i>Coprinus leiocephalus</i> P.D. Orton, Notes from the Royal Botanical Garden Edinburgh 29 (1):88 (1969)
+    <i>Parasola plicatilis var. leiocephala</i> (P.D. Orton) P. Roux & Guy Garcia, Mille et Un Champignons:13 (2006)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

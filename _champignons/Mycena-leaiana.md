@@ -1,6 +1,6 @@
 ---
 nom: Mycena leaiana
-date: 2017-03-11 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7702/27786798991_80faf1d330_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27786798991/in/photolist-JkqBge-Hw4bwF-eW5sug-eW5pRM/
 album-flickr:
@@ -239,8 +239,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis ; Tapinia ; Paxillus ; Crepidotus ; Tubaria ; Galerula ; Naucoria ; Pluteolus ; Mycena ; Phylloprus ; Gymnopilus ; Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
-    Smith, Alexander H. North American Species of Mycena, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis ; Tapinia ; Paxillus ; Crepidotus ; Tubaria ; Galerula ; Naucoria ; Pluteolus ; Mycena ; Phylloprus ; Gymnopilus ; Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    <b>Smith, Alexander H</b>. <i>North American Species of Mycena</i>, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -263,9 +263,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus leaianus Berk., London Journal of Botany 4:300 (1845)
-    Mycena leajana (Berk.) Sacc. (1891)
-    Collybia leaiana (Berk.) Fairm.:155 (1892)
+    <i>Agaricus leaianus</i> Berk., London Journal of Botany 4:300 (1845)
+    <i>Mycena leajana</i> (Berk.) Sacc. (1891)
+    <i>Collybia leaiana</i> (Berk.) Fairm.:155 (1892)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

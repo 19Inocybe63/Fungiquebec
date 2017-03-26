@@ -1,6 +1,6 @@
 ---
 nom: Lentinus brumalis
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5577/30024934032_7af1fb303f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024934032/in/photolist-MKcCQq-MKcJKG
 album-flickr:
@@ -72,7 +72,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: pousse sur une souche pourrie et mousse de Fagus
+  biotopes: pousse sur une souche pourrie et mousse de <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -247,14 +247,14 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds, puis anguleux, souvent librement disposés, (1) 2-4 par mm, à dissépiments minces, devenant lacérés
+  pores: ronds, puis anguleux, souvent librement disposés, (1) 2-4 par mm, à dissépiments minces, devenant lacérés, subdécurrents, blancs à ivoire, 1-3 mm de longueur
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -278,26 +278,26 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Polystictus brumalis (Pers.) Fr.
-    Boletus brumalis Pers., Neues Magazin für die Botanik 1:107 (1794)
-    Polyporus brumalis (Pers.) Fr., Observationes mycologicae 2:255 (1818)
-    Polyporellus brumalis (Pers.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:37 (1879)
-    Leucoporus brumalis (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:165 (1886)
-    Leucoporus brumalis (Pers.) Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 28:367 (1926)
-    Boletus hypocrateriformis Schrank, Baierische Flora 2:621, n. 1747 (1789)
-    Boletus umbilicatus Schrank, Baierische Flora 2:621, n. 1748 (1789)
-    Boletus fuscidulus Schrad. ex J.F. Gmel., Systema Naturae 2:1433 (1792)
-    Boletus fasciculatus Schrad. ex J.F. Gmel., Systema Naturae 2:1433 (1792)
-    Boletus ciliatus Hornem., Fl. danica:pl. 1297 (1806)
-    Polyporus substriatus Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 4-5:21, t.9 (1828)
-    Polyporus nanus F. Brig., Atti R. Ist. Incoragg. Sci. nat.:151 (1840)
-    Polyporus trachypus Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 27/28:27 (1848)
-    Polyporus luridus Berk. & M.A. Curtis, Grevillea 1 (3):37 (1872)
-    Polyporus cyathoides Quél., Mémoires de la Société d'Émulation de Montbéliard 5:270 (1872)
-    Polyporus pauperculus Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 11 (4):435 (1889)
-    Polyporus tucumanensis Speg., Anales del Museo Nacional de Historia Natural Buenos Aires 6:162 (1898)
-    Favolus apiahynus Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 23 (3-4):407 (1919)
-    Polyporus brumalis f. subarcularius Donk, Mededelingen van de Nederlandse Mycologische Vereeniging 18-20:133 (1933)
+    <i>Polystictus brumalis</i> (Pers.) Fr.
+    <i>Boletus brumalis</i> Pers., Neues Magazin für die Botanik 1:107 (1794)
+    <i>Polyporus brumalis</i> (Pers.) Fr., Observationes mycologicae 2:255 (1818)
+    <i>Polyporellus brumalis</i> (Pers.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:37 (1879)
+    <i>Leucoporus brumalis</i> (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:165 (1886)
+    <i>Leucoporus brumalis</i> (Pers.) Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 28:367 (1926)
+    <i>Boletus hypocrateriformis</i> Schrank, Baierische Flora 2:621, n. 1747 (1789)
+    <i>Boletus umbilicatus</i> Schrank, Baierische Flora 2:621, n. 1748 (1789)
+    <i>Boletus fuscidulus</i> Schrad. ex J.F. Gmel., Systema Naturae 2:1433 (1792)
+    <i>Boletus fasciculatus</i> Schrad. ex J.F. Gmel., Systema Naturae 2:1433 (1792)
+    <i>Boletus ciliatus</i> Hornem., Fl. danica:pl. 1297 (1806)
+    <i>Polyporus substriatus</i> Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 4-5:21, t.9 (1828)
+    <i>Polyporus nanus</i> F. Brig., Atti R. Ist. Incoragg. Sci. nat.:151 (1840)
+    <i>Polyporus trachypus</i> Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 27/28:27 (1848)
+    <i>Polyporus luridus</i> Berk. & M.A. Curtis, Grevillea 1 (3):37 (1872)
+    <i>Polyporus cyathoides</i> Quél., Mémoires de la Société d'Émulation de Montbéliard 5:270 (1872)
+    <i>Polyporus pauperculus</i> Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 11 (4):435 (1889)
+    <i>Polyporus tucumanensis</i> Speg., Anales del Museo Nacional de Historia Natural Buenos Aires 6:162 (1898)
+    <i>Favolus apiahynus</i> Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 23 (3-4):407 (1919)
+    <i>Polyporus brumalis f. subarcularius</i> Donk, Mededelingen van de Nederlandse Mycologische Vereeniging 18-20:133 (1933)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -305,7 +305,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: subdécurrents, blancs à ivoire, 1-3 mm de longueur
+  tubes: 
   type: 
   typique: 
   voile: 

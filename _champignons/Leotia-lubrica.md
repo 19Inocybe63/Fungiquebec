@@ -1,6 +1,6 @@
 ---
 nom: Leotia lubrica
-date: 2017-03-13 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3901/15031724019_326fe183c6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15031724019/in/photolist-oUivRv-oUiuqe
 album-flickr:
@@ -268,8 +268,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Helvella lubrica Scop., Flora carniolica 2:477 (1772)
-    Peziza cornucopiae Hoffm., Vegetabilia Cryptogama 2:21, t. 6:1 (1790)
+    <i>Helvella lubrica</i> Scop., Flora carniolica 2:477 (1772)
+    <i>Peziza cornucopiae</i> Hoffm., Vegetabilia Cryptogama 2:21, t. 6:1 (1790)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

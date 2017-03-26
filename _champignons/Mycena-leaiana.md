@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois pourri de feuillu (<i>Fagus</i>)
+  biotopes: pousse sur bois pourri de feuillu <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

@@ -76,7 +76,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous chêne, pin
+  biotopes: pousse au sol, sous <i>Pinus</i>, <i>Quercus</i>
   boucles: observées dans le voile partiel
   brachybasidioles: 
   calicule: 

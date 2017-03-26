@@ -1,6 +1,6 @@
 ---
 nom: Laetiporus sulphureus
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3887/14711090926_794090957f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14711090926/in/photolist-owP4KZ-os11Bz-orZZwi-opYbNJ
 album-flickr:
@@ -231,13 +231,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 6, les polyporales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 6, <i>les polyporales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Rouge Congo SDS = la chair devient noire
   receptacle: 
@@ -260,36 +260,36 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus sulphureus Bull., Herbier de la France 9, t. 429 (1789)
-    Sistotrema sulphureum (Bull.) Rebent., Prodromus Flora Neomarchicae:376 (1804)
-    Polyporus sulphureus (Bull.) Fr., Systema Mycologicum 1:357 (1821)
-    Merisma sulphureus (Bull.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:691 (1878)
-    Merisma sulphureum (Bull.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:691 (1878)
-    Polypilus sulphureus (Bull.) P. Karst., Acta Societatis pro Fauna et Flora Fennica 2 (1):29 (1881)
-    Cladomeris sulphurea (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:168 (1886)
-    Leptoporus sulphureus (Bull.) Quél., Flore mycologique de la France et des pays limitrophes:386 (1888)
-    Tyromyces sulphureus (Bull.) Donk, Mededelingen van het botanisch Museum en Herbarium van de Rijksuniversiteit Utrecht 9:145 (1933)
-    Grifola sulphurea (Bull.) Pilát, Beih. Bot. Zentbl.:39 (1934)
-    Cladoporus sulphureus (Bull.) Teixeira, Revista Brasileira de Botânica 9 (1):43 (1986)
-    Agaricus speciosus Battarra, Fungorum Agri Ariminensis Historia 0:68 (1755)
-    Boletus caudicinus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:tab. 131, 132 (1763)
-    Boletus caudicinus Schaeff. ex Scop., Flora carniolica 2:469 (1772)
-    Boletus citrinus J.J. Planer, Indici Plantarum Erffurtensium Fungos et Plantas quasdam nuper collectas. Addit. III:26 (1788)
-    Boletus tenax Bolton, An History of Fungusses, Growing about Halifax 2:75 (1788)
-    Boletus ramosus Bull., Herbier de la France 9, t. 418 (1789)
-    Boletus lingua-cervina Schrank, Baierische Flora 2:618 (1789)
-    Boletus citrinus Lumn., Flora Posoniensis:525 (1791)
-    Agarico-carnis flammula Paulet, Traité des champignons 2:100, pl. 14 (1793)
-    Agarico-pulpa styptica Paulet, Traité des champignons 2:101, pl. 15 (1793)
-    Polyporus casearius Fr., Epicrisis Systematis Mycologici:449 (1838)
-    Polyporus rubricus Berk., Hooker's Journal of Botany and Kew Garden Miscellany 3:81 (1851)
-    Polyporus ceratoniae Risso ex Barla, Les Champignons de la Province de Nice:60 (1859)
-    Polyporus todari Inzenga, Giorn. Sci. nat. econ. Palermo:98 (1866)
-    Stereum speciosum Fr., Giorn. Sci. nat. econ. Palermo:158 (1871)
-    Polyporus cincinnatus Morgan, Journal of the Cincinnati Society of Natural History 8 (3):97 (1885)
-    Polyporus candicinus (Scop.) J. Schröt. (1888)
-    Polyporus rostafinskii Blonski, Hedwigia 28:280 (1889)
-    Laetiporus speciosus Battarra ex Murrill, Bulletin of the Torrey Botanical Club 31 (11):607 (1904)
+    <i>Boletus sulphureus</i> Bull., Herbier de la France 9, t. 429 (1789)
+    <i>Sistotrema sulphureum</i> (Bull.) Rebent., Prodromus Flora Neomarchicae:376 (1804)
+    <i>Polyporus sulphureus</i> (Bull.) Fr., Systema Mycologicum 1:357 (1821)
+    <i>Merisma sulphureus</i> (Bull.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:691 (1878)
+    <i>Merisma sulphureum</i> (Bull.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:691 (1878)
+    <i>Polypilus sulphureus</i> (Bull.) P. Karst., Acta Societatis pro Fauna et Flora Fennica 2 (1):29 (1881)
+    <i>Cladomeris sulphurea</i> (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:168 (1886)
+    <i>Leptoporus sulphureus</i> (Bull.) Quél., Flore mycologique de la France et des pays limitrophes:386 (1888)
+    <i>Tyromyces sulphureus</i> (Bull.) Donk, Mededelingen van het botanisch Museum en Herbarium van de Rijksuniversiteit Utrecht 9:145 (1933)
+    <i>Grifola sulphurea</i> (Bull.) Pilát, Beih. Bot. Zentbl.:39 (1934)
+    <i>Cladoporus sulphureus</i> (Bull.) Teixeira, Revista Brasileira de Botânica 9 (1):43 (1986)
+    <i>Agaricus speciosus</i> Battarra, Fungorum Agri Ariminensis Historia 0:68 (1755)
+    <i>Boletus caudicinus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:tab. 131, 132 (1763)
+    <i>Boletus caudicinus</i> Schaeff. ex Scop., Flora carniolica 2:469 (1772)
+    <i>Boletus citrinus</i> J.J. Planer, Indici Plantarum Erffurtensium Fungos et Plantas quasdam nuper collectas. Addit. III:26 (1788)
+    <i>Boletus tenax</i> Bolton, An History of Fungusses, Growing about Halifax 2:75 (1788)
+    <i>Boletus ramosus</i> Bull., Herbier de la France 9, t. 418 (1789)
+    <i>Boletus lingua-cervina</i> Schrank, Baierische Flora 2:618 (1789)
+    <i>Boletus citrinus</i> Lumn., Flora Posoniensis:525 (1791)
+    <i>Agarico-carnis flammula</i> Paulet, Traité des champignons 2:100, pl. 14 (1793)
+    <i>Agarico-pulpa styptica</i> Paulet, Traité des champignons 2:101, pl. 15 (1793)
+    <i>Polyporus casearius</i> Fr., Epicrisis Systematis Mycologici:449 (1838)
+    <i>Polyporus rubricus</i> Berk., Hooker's Journal of Botany and Kew Garden Miscellany 3:81 (1851)
+    <i>Polyporus ceratoniae</i> Risso ex Barla, Les Champignons de la Province de Nice:60 (1859)
+    <i>Polyporus todari</i> Inzenga, Giorn. Sci. nat. econ. Palermo:98 (1866)
+    <i>Stereum speciosum</i> Fr., Giorn. Sci. nat. econ. Palermo:158 (1871)
+    <i>Polyporus cincinnatus</i> Morgan, Journal of the Cincinnati Society of Natural History 8 (3):97 (1885)
+    <i>Polyporus candicinus</i> (Scop.) J. Schröt. (1888)
+    <i>Polyporus rostafinskii</i> Blonski, Hedwigia 28:280 (1889)
+    <i>Laetiporus speciosus</i> Battarra ex Murrill, Bulletin of the Torrey Botanical Club 31 (11):607 (1904)
   systeme-hyphal: dimitique avec hyphes génératives sans boucles
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Laccaria tortilis
-date: 2017-03-06 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7242/27918087042_822955bf7f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27918087042/in/photolist-Jx2uCj
 album-flickr:
@@ -235,7 +235,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Mueller, Gregory M. Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
+    <b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -259,15 +259,15 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus tortilis Bolton, An History of Fungusses, Growing about Halifax 1:41, t. 41:A (1788)
-    Agaricus contortilis J.F. Gmel., Systema Naturae 2 (2):1418 (1792)
-    Agaricus farinaceus var. tortilis (Bolton) Pers., Synopsis methodica fungorum:454 (1801)
-    Omphalia tortilis (Bolton) Gray, A natural arrangement of British plants 1:613 (1821)
-    Clitocybe tortilis (Bolton) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:174 (1874)
-    Laccaria tortilis f. tortilis (Bolton) Cooke:no. 63 (1884)
-    Omphalia laccata var. tortilis (Bolton) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:26 (1886)
-    Collybia tortilis (Bolton) Quél., Flore mycologique de la France et des pays limitrophes:237 (1888)
-    Agaricus echinosporus Speg., Anales de la Sociedad Científica Argentina 10 (3):123 (1880)
+    <i>Agaricus tortilis</i> Bolton, An History of Fungusses, Growing about Halifax 1:41, t. 41:A (1788)
+    <i>Agaricus contortilis</i> J.F. Gmel., Systema Naturae 2 (2):1418 (1792)
+    <i>Agaricus farinaceus var. tortilis</i> (Bolton) Pers., Synopsis methodica fungorum:454 (1801)
+    <i>Omphalia tortilis</i> (Bolton) Gray, A natural arrangement of British plants 1:613 (1821)
+    <i>Clitocybe tortilis</i> (Bolton) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:174 (1874)
+    <i>Laccaria tortilis f. tortilis</i> (Bolton) Cooke:no. 63 (1884)
+    <i>Omphalia laccata var. tortilis</i> (Bolton) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:26 (1886)
+    <i>Collybia tortilis</i> (Bolton) Quél., Flore mycologique de la France et des pays limitrophes:237 (1888)
+    <i>Agaricus echinosporus</i> Speg., Anales de la Sociedad Científica Argentina 10 (3):123 (1880)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

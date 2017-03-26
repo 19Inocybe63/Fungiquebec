@@ -1,6 +1,6 @@
 ---
 nom: Lacrymaria lacrymabunda
-date: 2017-03-06 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5511/9147119220_73d737a9c6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9147119220/in/photolist-eWivmy-eWiz5w-eWinS5-eW79M6/
 album-flickr:
@@ -258,16 +258,16 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus lacrymabundus Bull., Herbier de la France 5:t. 194 (1785)
-    Psathyra lacrymabunda (Bull.) P. Kumm., Der Führer in die Pilzkunde:71 (1871)
-    Hypholoma lacrimabundum (Bull.) Sacc., Mémoires de la Société d'Émulation de Montbéliard 5:144 (1872)
-    Geophila lacrymabunda (Bulliard) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:113 (1886)
-    Geophila lacrymabunda var. lacrymabunda (Bull.) Quél. (1886)
-    Hypholoma lacrymabundum (Bull.) Sacc., Sylloge Fungorum 5:1033 (1887)
-    Psathyrella lacrymabunda (Bull.) M.M. Moser ex A.H. Sm., Kleine Kryptogamenflora von Mitteleuropa, Die Blätter, und Bauchpilze (Agaricales und Gastromycetes) II:204 (1953)
-    Psathyrella lacrimabunda (Bull.) M.M. Moser ex A.H. Sm. (1953)
-    Psathyrella lacrymabunda (Bull.) M.M. Moser, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Bauchpilze (Agaricales und Gastromycetes) II:207 (1953)
-    Agaricus macrourus Pers., Abb. Schwämme (1793)
+    <i>Agaricus lacrymabundus</i> Bull., Herbier de la France 5:t. 194 (1785)
+    <i>Psathyra lacrymabunda</i> (Bull.) P. Kumm., Der Führer in die Pilzkunde:71 (1871)
+    <i>Hypholoma lacrimabundum</i> (Bull.) Sacc., Mémoires de la Société d'Émulation de Montbéliard 5:144 (1872)
+    <i>Geophila lacrymabunda</i> (Bulliard) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:113 (1886)
+    <i>Geophila lacrymabunda var. lacrymabunda</i> (Bull.) Quél. (1886)
+    <i>Hypholoma lacrymabundum</i> (Bull.) Sacc., Sylloge Fungorum 5:1033 (1887)
+    <i>Psathyrella lacrymabunda</i> (Bull.) M.M. Moser ex A.H. Sm., Kleine Kryptogamenflora von Mitteleuropa, Die Blätter, und Bauchpilze (Agaricales und Gastromycetes) II:204 (1953)
+    <i>Psathyrella lacrimabunda</i> (Bull.) M.M. Moser ex A.H. Sm. (1953)
+    <i>Psathyrella lacrymabunda</i> (Bull.) M.M. Moser, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Bauchpilze (Agaricales und Gastromycetes) II:207 (1953)
+    <i>Agaricus macrourus</i> Pers., Abb. Schwämme (1793)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

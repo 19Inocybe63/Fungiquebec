@@ -1,6 +1,6 @@
 ---
 nom: Inocybe rimosa
-date: 2017-03-12 00:00:00
+date: 2017-03-26 00:00:00
 image: https://c2.staticflickr.com/6/5831/19949912134_a097b3d209_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19949912134/in/photolist-AYH9DB-woUvQj-x4iWC5/
 album-flickr:
@@ -39,12 +39,12 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Lecomte, Marcel. Vous avez dit P.D.A.B. ?, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
-    Kuo, Michael, & Matheny, P. Brandon. Contemporary documentation of the rare eastern North American species Inocybe insignis (Inocybaceae, Agaricales), MycoKeys 11:23-31 (2015), 9 p.
-    Kropp, Bradley R., Matheny, P. Brandon, et al. Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
-    Matheny, P. Brandon & Moreau, Pierre-Arthur. A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
-    Matheny, P. Brandon, et al. A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
-    Matheny, P. Brandon. Key to Species of Inocybe from eastern North America – v02 (20-Dec-2016), University of Tennessee
+    <b>Kropp, Bradley R. ; Matheny, P. Brandon, et al</b>. <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection «Marginatae»</i>, Mycologia, 102(3), 2010, pp. 560-573, 14 p.
+    <b>Kuo, Michael, ; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis (Inocybaceae, Agaricales)</i>, MycoKeys 11:23-31 (2015), 9 p.
+    <b>Lecomte, Marcel</b>. <i>Vous avez dit P.D.A.B. ?</i>, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
+    <b>Matheny, P. Brandon, ; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
+    <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
+    <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i>, v02 (20-Dec-2016), University of Tennessee
   ascome: 
   ascospores: 
   asques: 
@@ -59,10 +59,11 @@ description:
     8,9 [9,8; 10,2] 11 x 4,8 [5,3; 5,5] 6 µm
     Q = 1,7 [1,8; 1,9] 2,1; N = 30; C = 95%
     Me = 10 x 5,4 µm; Qe = 1,9
+    (Piximètre, formule statistique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans un sol sablonneux, sous chêne, pin
+  biotopes: pousse au sol, dans un sol sablonneux, sous <i>Pinus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -243,18 +244,18 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bresadola, Ab. Dr. J. & Alessio, C. L., Iconographia Mycologica, Vol. XXIX, Inocybe, Società Botanica Italiana, 1980, 367 p. et supplément
-    Ferrari, Erminio. Inocybe alpine e subalpine Il genere Inocybe (Fr.) Fr. nel Nord Italia e paesi limotrofi, Fungi non Delineati, pars 34-36, Edizioni Candusso, 2006, 464 p.
-    Grund, D. W. & Stuntz, D. E. Nova Scotian Inocybes, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1 ; vol. 62, 1970, Inocybe 2 ; vol. 67, 1975, Inocybe 3 ; vol. 69, 1977, Inocybe 4 ; vol. 72, 1980, Inocybe 5 ; vol. 73, 1981, Inocybe 6 ; vol. 75, 1983, Inocybe 7 ; vol. 76, 1984, Inocybe 8
-    Murrill, William Alphonso, Kauffman, Calvin Henry Overholts, Lee Oras, Agaricaceae (Murrill) ; Inocybe (Kauffman) ; Pholiota (Overholts), North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
-    Kuyper, Thomas W. A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe, Rijksherbarium, Leiden 1986, 134 p.
-    Stangl, Johann. Guida alla determinazione dei funghi Vol. 3° Inocybe, Saturnia, 1e Edizione italiana, 1991, 437 p.
+    <b>Bresadola, Ab. Dr. J. ; Alessio, C. L.</b>, Iconographia Mycologica, Vol. XXIX, <i>Inocybe</i>, Società Botanica Italiana, 1980, 367 p. et supplément
+    <b>Ferrari, Erminio</b>. <i>Inocybe alpine e subalpine Il genere Inocybe (Fr.) Fr. nel Nord Italia e paesi limotrofi</i>, Fungi non Delineati, pars 34-36, Edizioni Candusso, 2006, 464 p.
+    <b>Grund, D. W. ; Stuntz, D. E</b>. <i>Nova Scotian Inocybes</i>, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1 ; vol. 62, 1970, Inocybe 2 ; vol. 67, 1975, Inocybe 3 ; vol. 69, 1977, Inocybe 4 ; vol. 72, 1980, Inocybe 5 ; vol. 73, 1981, Inocybe 6 ; vol. 75, 1983, Inocybe 7 ; vol. 76, 1984, Inocybe 8
+    <b>Murrill, William Alphonso, ; Kauffman, Calvin Henry, ; Overholts, Lee Oras</b>, <i>Agaricaceae (Murrill) ; Inocybe (Kauffman) ; Pholiota (Overholts)</i>, North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
+    <b>Kuyper, Thomas W.</b> <i>A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden 1986, 134 p.
+    <b>Stangl, Johann</b>. <i>Guida alla determinazione dei funghi Vol. 3° Inocybe</i>, Saturnia, 1e Edizione italiana, 1991, 437 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 12, les Inocybe, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 12, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 

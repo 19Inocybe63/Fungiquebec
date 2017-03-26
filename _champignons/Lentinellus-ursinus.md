@@ -1,6 +1,6 @@
 ---
 nom: Lentinellus ursinus
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8526/8597213435_f7c55bce91_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8597213435/in/photolist-e8Fsch-e6GY2R/
 album-flickr:
@@ -158,7 +158,7 @@ description:
   hyphes-gleopleres: 
   hyphes-hymeniales: 
   hyphes-ligatives: 
-  hyphes-oleiferes: Présentes et sulfovanilline positifs (SV+)
+  hyphes-oleiferes: Présentes et sulfovanilline positives (SV+)
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 
@@ -236,13 +236,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 6, les polyporales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 6, <i>les polyporales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -264,16 +264,16 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus ursinus Fr., Systema Mycologicum 1:185 (1821)
-    Lentinus ursinus (Fr.) Fr., Systema Orbis Vegetabilis 1:78 (1825)
-    Hemicybe ursina (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:248 (1879)
-    Pocillaria ursina (Fr.) Kuntze, Revisio generum plantarum 2:866 (1891)
-    Panellus ursinus (Fr.) Murrill, North American Flora 9 (4):246 (1915)
-    Resupinatus ursinus (Fr.) Murrill, North American Flora 9 (4):246 (1915)
-    Lentinus vulpinus f. ursinus (Fr.) Pilát, Atlas des Champignons de l'Europe V, Monographie des espèces européennes du genre Lentinus Fr.:36 (1946)
-    Agaricus pelliculosus Schwein., Schriften der Naturforschenden Gesellschaft zu Leipzig 1:90 (1822)
-    Lentinellus castoreus var. hispidus P.A. Moreau & P. Roux, Bulletin de la Société Mycologique de France 115:348 (1999)
-    Lentinellus ursinus f. luxurians P.A. Moreau, Bulletin de la Société Mycologique de France 115:334 (1999)
+    <i>Agaricus ursinus</i> Fr., Systema Mycologicum 1:185 (1821)
+    <i>Lentinus ursinus</i> (Fr.) Fr., Systema Orbis Vegetabilis 1:78 (1825)
+    <i>Hemicybe ursina</i> (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:248 (1879)
+    <i>Pocillaria ursina</i> (Fr.) Kuntze, Revisio generum plantarum 2:866 (1891)
+    <i>Panellus ursinus</i> (Fr.) Murrill, North American Flora 9 (4):246 (1915)
+    <i>Resupinatus ursinus</i> (Fr.) Murrill, North American Flora 9 (4):246 (1915)
+    <i>Lentinus vulpinus f. ursinus</i> (Fr.) Pilát, Atlas des Champignons de l'Europe V, Monographie des espèces européennes du genre Lentinus Fr.:36 (1946)
+    <i>Agaricus pelliculosus</i> Schwein., Schriften der Naturforschenden Gesellschaft zu Leipzig 1:90 (1822)
+    <i>Lentinellus castoreus var. hispidus</i> P.A. Moreau & P. Roux, Bulletin de la Société Mycologique de France 115:348 (1999)
+    <i>Lentinellus ursinus f. luxurians</i> P.A. Moreau, Bulletin de la Société Mycologique de France 115:334 (1999)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

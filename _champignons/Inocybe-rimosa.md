@@ -91,7 +91,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Une fois déshydraté, cet Inocybe sent un mélange de sueur et d'urine. »
+  commentaires: De Claude Kaufholtz-Couture. « Une fois déshydraté, cette collection sent un mélange de sueur et d'urine. »
   conidies: 
   conidiome: 
   conidiophores: 

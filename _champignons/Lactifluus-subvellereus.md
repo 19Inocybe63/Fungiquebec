@@ -1,6 +1,6 @@
 ---
 nom: Lactifluus subvellereus
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8351/28651501954_d36f8d1517_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28651501954/in/photolist-KDQrk1-KDZWbi/
 album-flickr:
@@ -234,13 +234,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Harris, David B. Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius), Syracuse University Press, 2009, 307 p.
-    Heilmann-Clausen, J., Verbeken, A., Vesterholt, J. The genus Lactarius, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = la chair du chapeau devient orangé
+    Potasse (KOH 10%) = la chair du chapeau devient orangé
   receptacle: 
   remarques: |
     Latex très âcre (une gouttelette suffit pour brûler)
@@ -262,7 +262,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Lactarius subvellereus Peck, Bulletin of the Torrey Botanical Club 25:369 (1898)
+    <i>Lactarius subvellereus</i> Peck, Bulletin of the Torrey Botanical Club 25:369 (1898)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

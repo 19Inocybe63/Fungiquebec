@@ -1,6 +1,6 @@
 ---
 nom: Lactarius camphoratus
-date: 2017-03-06 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8554/30024166755_571409ee88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024166755/in/photolist-MK8GKv
 album-flickr:
@@ -235,9 +235,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Harris, David B. Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius), Syracuse University Press, 2009, 307 p.
-    Heilmann-Clausen, J., Verbeken, A., Vesterholt, J. The genus Lactarius, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -261,14 +261,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus lactifluus L., Species Plantarum:1172 (1753)
-    Amanita lactiflua (L.) Lam., Encyclopédie Méthodique, Botanique 1-1:104 (1783)
-    Agaricus camphoratus Bull., Herbier de la France 12:567:1 (1792)
-    Agaricus subdulcis var. camphoratus (Bull.) Fr., Systema Mycologicum 1:70 (1821)
-    Agaricus subdulcis β camphoratus (Bull.) Fr.:70 (1821)
-    Galorrheus camphoratus (Bull.) P. Kumm., Der Führer in die Pilzkunde:127 (1871)
-    Lactarius lactifluus (L.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:131 (1886)
-    Lactifluus camphoratus (Bull.) Kuntze, Revisio generum plantarum 3 (2):856 (1891)
+    <i>Agaricus lactifluus</i> L., Species Plantarum:1172 (1753)
+    <i>Amanita lactiflua</i> (L.) Lam., Encyclopédie Méthodique, Botanique 1-1:104 (1783)
+    <i>Agaricus camphoratus</i> Bull., Herbier de la France 12:567:1 (1792)
+    <i>Agaricus subdulcis var. camphoratus</i> (Bull.) Fr., Systema Mycologicum 1:70 (1821)
+    <i>Agaricus subdulcis</i> β camphoratus (Bull.) Fr.:70 (1821)
+    <i>Galorrheus camphoratus</i> (Bull.) P. Kumm., Der Führer in die Pilzkunde:127 (1871)
+    <i>Lactarius lactifluus</i> (L.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:131 (1886)
+    <i>Lactifluus camphoratus</i> (Bull.) Kuntze, Revisio generum plantarum 3 (2):856 (1891)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

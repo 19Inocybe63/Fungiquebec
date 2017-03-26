@@ -1,6 +1,6 @@
 ---
 nom: Leccinum aurantiacum
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5714/20740537014_8d15c5fb89_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20740537014/in/photolist-ywQRi9-xALF4L
 album-flickr:
@@ -232,16 +232,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = bleu très pâle sur la chair
+    Sulfate de fer (FeSO<sub>4</sub>) = bleu très pâle sur la chair
   receptacle: 
   remarques: 
   repartition: 
@@ -262,15 +262,15 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus aurantiacus Bull., Herbier de la France 5:t. 236 (1785)
-    Boletus scaber var. aurantiacus (Bull.) Opat., Commentatio historico-naturalis de familia fungorum Boletoideorum:34 (1836)
-    Krombholzia aurantiaca (Roques ex Bull.) E.J. Gilbert, Les Livres du Mycologue Tome I-IV, Tom. III: Les Bolets:182 (1931)
-    Krombholziella aurantiaca (Bull.) Maire, Publicacions del Instituto Botánico Barcelona 3 (4):46 (1937)
-    Trachypus aurantiacus (Bull.) Romagn., Rev. Mycol. (Paris):141 (1939)
-    Boletus versipellis var. aurantiacus (Bull.) Vassilkov, Edible and poisonous fungi of the medium belt of the European part of the USSR:38 (1948)
-    Boletus leucopodius Pers., Observationes mycologicae 2:11 (1799)
-    Leccinum salicola Watling, Notes R. bot. Gdn Edinb.:139 (1971)
-    Leccinum populinum M. Korhonen, Karstenia 35 (2):55 (1995)
+    <i>Boletus aurantiacus</i> Bull., Herbier de la France 5:t. 236 (1785)
+    <i>Boletus scaber var. aurantiacus</i> (Bull.) Opat., Commentatio historico-naturalis de familia fungorum Boletoideorum:34 (1836)
+    <i>Krombholzia aurantiaca</i> (Roques ex Bull.) E.J. Gilbert, Les Livres du Mycologue Tome I-IV, Tom. III: Les Bolets:182 (1931)
+    <i>Krombholziella aurantiaca</i> (Bull.) Maire, Publicacions del Instituto Botánico Barcelona 3 (4):46 (1937)
+    <i>Trachypus aurantiacus</i> (Bull.) Romagn., Rev. Mycol. (Paris):141 (1939)
+    <i>Boletus versipellis var. aurantiacus</i> (Bull.) Vassilkov, Edible and poisonous fungi of the medium belt of the European part of the USSR:38 (1948)
+    <i>Boletus leucopodius</i> Pers., Observationes mycologicae 2:11 (1799)
+    <i>Leccinum salicola</i> Watling, Notes R. bot. Gdn Edinb.:139 (1971)
+    <i>Leccinum populinum</i> M. Korhonen, Karstenia 35 (2):55 (1995)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

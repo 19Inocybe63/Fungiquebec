@@ -1,6 +1,6 @@
 ---
 nom: Paxillus involutus
-date: 2017-03-13 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5710/21493893579_e5509540a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21493893579/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
 album-flickr:
@@ -246,10 +246,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1 : les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2 : les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3 : les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4 : la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -271,10 +271,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus involutus Batsch, Elenchus fungorum. Continuatio prima; 39, t. 13:61 (1786)
-    Omphalia involuta (Batsch) Gray, A natural arrangement of British plants 1:611 (1821)
-    Rhymovis involuta (Batsch) Rabenh., Deutschlands Kryptogamenflora 1:453 (1844)
-    Agaricus contiguus Bull., Herbier de la France 5; t. 240 (1785)
+    <i>Agaricus involutus</i> Batsch, Elenchus fungorum. Continuatio prima; 39, t. 13:61 (1786)
+    <i>Omphalia involuta</i> (Batsch) Gray, A natural arrangement of British plants 1:611 (1821)
+    <i>Rhymovis involuta</i> (Batsch) Rabenh., Deutschlands Kryptogamenflora 1:453 (1844)
+    <i>Agaricus contiguus</i> Bull., Herbier de la France 5; t. 240 (1785)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

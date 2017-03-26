@@ -1,6 +1,6 @@
 ---
 nom: Melanoleuca brevipes
-date: 2017-03-08 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7783/29832926531_677fe9d14b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832926531/in/photolist-MwuSm1-MwuPD7-MsexGg
 album-flickr:
@@ -251,12 +251,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus brevipes Bull., Herbier de la France 11:t. 521:2 (1812)
-    Gymnopus brevipes (Bull.) Gray, A natural arrangement of British plants 1:609 (1821)
-    Tricholoma brevipes (Bull.) P. Kumm., Der Führer in die Pilzkunde:133 (1871)
-    Gyrophila brevipes (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:18 (1886)
-    Gyrophila grammopodia var. brevipes (Bull.) Quél., Flore mycologique de la France et des pays limitrophes:267 (1888)
-    Tricholoma melaleucum subvar. brevipes (Bull.) Maire, Bulletin de la Société d´Histoire Naturelle de l'Afrique du Nord 7:30 (1916)
+    <i>Agaricus brevipes</i> Bull., Herbier de la France 11:t. 521:2 (1812)
+    <i>Gymnopus brevipes</i> (Bull.) Gray, A natural arrangement of British plants 1:609 (1821)
+    <i>Tricholoma brevipes</i> (Bull.) P. Kumm., Der Führer in die Pilzkunde:133 (1871)
+    <i>Gyrophila brevipes</i> (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:18 (1886)
+    <i>Gyrophila grammopodia var. brevipes</i> (Bull.) Quél., Flore mycologique de la France et des pays limitrophes:267 (1888)
+    <i>Tricholoma melaleucum subvar. brevipes</i> (Bull.) Maire, Bulletin de la Société d´Histoire Naturelle de l'Afrique du Nord 7:30 (1916)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

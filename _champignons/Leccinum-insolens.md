@@ -1,6 +1,6 @@
 ---
 nom: Leccinum insolens
-date: 2017-03-17 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8309/7996768584_cf8f588230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996768584/in/photolist-dWueXc-dbDwGq-dbDukK
 album-flickr:
@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous peupliers
+  biotopes: pousse au sol, sous <i>Populus</i>
   boucles: rares et observées seulement dans le stipitipellis
   brachybasidioles: 
   calicule: 

@@ -93,7 +93,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Leccinum holopus ne rougirait pas à la coupe en Europe, ou tout au plus il rosit un peu ; au Québec, en coupe transversale, il rougit vivement puis devient noir en quinze minutes ; aucun noircissement n'est mentionné pour l'Europe, à ma connaissance. Par ailleurs, il n'est pas prouvé hors de tout doute qu'un seul bolet d'Europe pousse chez nous. »
+  commentaires: De Yves Lamoureux. « <i>Leccinum holopus</i> ne rougirait pas à la coupe en Europe, ou tout au plus il rosit un peu ; au Québec, en coupe transversale, il rougit vivement puis devient noir en quinze minutes ; aucun noircissement n'est mentionné pour l'Europe, à ma connaissance. Par ailleurs, il n'est pas prouvé hors de tout doute qu'un seul bolet d'Europe pousse chez nous. »
   conidies: 
   conidiome: 
   conidiophores: 

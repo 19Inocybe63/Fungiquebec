@@ -1,6 +1,6 @@
 ---
 nom: Leccinum scabrum
-date: 2017-01-03 00:00:00
+date: 2017-01-25 00:00:00
 image: https://c1.staticflickr.com/9/8405/30103944306_f590dd4289_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30103944306/in/photolist-MKa8td-MSbzQw-zh9iiC-zipnKU-ziqiVN-ynrGC5-zjtkWT
 album-flickr:
@@ -72,7 +72,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous Betula
+  biotopes: pousse au sol, sous <i>Betula</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -252,21 +252,21 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-chimiques-naturelles: |
     Froissement = pas vraiment de coloration
     À la coupe = la chair devient rougeâtre après plusieurs minutes, et la base du stipe a des reflets verts, parfois jusqu'au milieu
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = ardoise bleuâtre sur le chapeau et sur la chair ; légèrement bleutée à verdâtre sur la face poroïde
-    KOH 10% = brun rougeâtre sur le chapeau et sur la chair ; rouge grenat, puis rouge noir sur la face poroïde
-    NH<sub>4</sub>OH 10% = pas de coloration ni de décoloration sur le chapeau et sur la chair
+    Ammoniaque (NH<sub>4</sub>OH 10%) = pas de coloration ni de décoloration sur le chapeau et sur la chair
+    Potasse (KOH 10%) = brun rougeâtre sur le chapeau et sur la chair ; rouge grenat, puis rouge noir sur la face poroïde
+    Sulfate de fer (FeSO<sub>4</sub>) = ardoise bleuâtre sur le chapeau et sur la chair ; légèrement bleutée à verdâtre sur la face poroïde
   receptacle: 
   remarques: 
   repartition: 
@@ -287,16 +287,16 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus scaber Bull., Herbier de la France 3:t. 132 (1783)
-    Krombholzia scabra (Bull.) P. Karst., Revue Mycologique Toulouse 3 (9):17 (1881)
-    Gyroporus scaber (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:162 (1886)
-    Ceriomyces scaber (Bull.) Murrill, Mycologia 1 (4):146 (1909)
-    Krombholziella scabra (Bull.) Maire, Publicacions del Instituto Botánico Barcelona 3 (4):46 (1937)
-    Trachypus scaber (Bull.) Romagn., Rev. Mycol. (Paris):141 (1939)
-    Leccinum roseofractum Watling, Notes from the Royal Botanical Garden Edinburgh 28 (3):313 (1968)
-    Leccinum subcinnamomeum Pilát & Dermek, Ziva:85 (1969)
-    Boletus avellaneus J. Blum, Bulletin de la Société Mycologique de France 85 (4):560 (1970)
-    Leccinum rigidipes P.D. Orton, Transactions of the British Mycological Society 91 (4):560 (1988)
+    <i>Boletus scaber</i> Bull., Herbier de la France 3:t. 132 (1783)
+    <i>Krombholzia scabra</i> (Bull.) P. Karst., Revue Mycologique Toulouse 3 (9):17 (1881)
+    <i>Gyroporus scaber</i> (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:162 (1886)
+    <i>Ceriomyces scaber</i> (Bull.) Murrill, Mycologia 1 (4):146 (1909)
+    <i>Krombholziella scabra</i> (Bull.) Maire, Publicacions del Instituto Botánico Barcelona 3 (4):46 (1937)
+    <i>Trachypus scaber</i> (Bull.) Romagn., Rev. Mycol. (Paris):141 (1939)
+    <i>Leccinum roseofractum</i> Watling, Notes from the Royal Botanical Garden Edinburgh 28 (3):313 (1968)
+    <i>Leccinum subcinnamomeum</i> Pilát & Dermek, Ziva:85 (1969)
+    <i>Boletus avellaneus</i> J. Blum, Bulletin de la Société Mycologique de France 85 (4):560 (1970)
+    <i>Leccinum rigidipes</i> P.D. Orton, Transactions of the British Mycological Society 91 (4):560 (1988)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

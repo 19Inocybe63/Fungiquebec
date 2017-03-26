@@ -1,6 +1,6 @@
 ---
 nom: Leccinellum albellum
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5567/15033475346_6db9feaa38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15033475346/in/photolist-qzgfEY-oUsusN
 album-flickr:
@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, sphaigne, sous feuillus (<i>Quercus</i>)
+  biotopes: pousse au sol, dans la mousse, sphaigne, sous feuillus, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -83,7 +83,7 @@ description:
   columelle: 
   commentaires: |
     Question de Claude Kaufholtz-Couture. « L'espèce a-t-elle un sosie ? »
-    Réponse de Yves Lamoureux. « L. subgranulosum, très rare, demeure brun foncé même à maturité. Pour l'instant, ce dernier est inconnu à l'est de Trois-Rivières... par incompétence ? Lui aussi se craquèle avec l'âge. Leur cuticule piléique n'a toutefois pas la même composition. Les deux peuvent pousser côte à côte. »
+    Réponse de Yves Lamoureux. « <i>L. subgranulosum</i>, très rare, demeure brun foncé même à maturité. Pour l'instant, ce dernier est inconnu à l'est de Trois-Rivières... par incompétence ? Lui aussi se craquèle avec l'âge. Leur cuticule piléique n'a toutefois pas la même composition. Les deux peuvent pousser côte à côte. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -234,18 +234,18 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = le chapeau devient gris bleuâtre ; la chair devient grise
-    KOH 10% = le chapeau devient olive ; la chair devient jaune pâle
-    NH<SUB>4</SUB>OH 10% = le chapeau devient olive ; la chair devient jaune pâle
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient olive ; la chair devient jaune pâle
+    Potasse (KOH 10%) = le chapeau devient olive ; la chair devient jaune pâle
+    Sulfate de fer (FeSO<SUB>4</SUB>) = le chapeau devient gris bleuâtre ; la chair devient grise
   receptacle: 
   remarques: 
   repartition: 
@@ -266,10 +266,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus albellus Peck, Annual Report on the New York State Museum of Natural History 41:77 (1888)
-    Ceriomyces albellus (Peck) Murrill, Mycologia 1 (4):145 (1909)
-    Leccinum albellum (Peck) Singer, Mycologia 37:799 (1945)
-    Krombholziella albella (Peck) utara, Ceská Mykologie 36 (2):81 (1982)
+    <i>Boletus albellus</i> Peck, Annual Report on the New York State Museum of Natural History 41:77 (1888)
+    <i>Ceriomyces albellus</i> (Peck) Murrill, Mycologia 1 (4):145 (1909)
+    <i>Leccinum albellum</i> (Peck) Singer, Mycologia 37:799 (1945)
+    <i>Krombholziella albella</i> (Peck) utara, Ceská Mykologie 36 (2):81 (1982)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

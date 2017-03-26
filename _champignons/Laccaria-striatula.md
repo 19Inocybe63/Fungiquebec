@@ -1,6 +1,6 @@
 ---
 nom: Laccaria striatula
-date: 2017-03-06 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7412/9146599462_fb7a75f103_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9146599462/in/photolist-eW4mtk-eWfHmJ
 album-flickr:
@@ -235,7 +235,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Mueller, Gregory M. Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
+    <b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -259,7 +259,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Clitocybe laccata var. striatula Peck, Annual Report on the New York State Museum of Natural History 48:274 (1897)
+    <i>Clitocybe laccata var. striatula</i> Peck, Annual Report on the New York State Museum of Natural History 48:274 (1897)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

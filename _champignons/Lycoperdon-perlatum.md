@@ -1,6 +1,6 @@
 ---
 nom: Lycoperdon perlatum
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/3/2946/15165489459_e68be80594_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15165489459/in/photolist-p786Ec-poACwf/
 album-flickr:
@@ -63,7 +63,7 @@ description:
     (3,5) 3,6 - 4,1 (4,2) × (3,4) 3,5 - 4 (4,1) µm
     Q = 1 (1,1) ; N = 30
     Me = 3,9 × 3,8 µm ; Qe = 1
-    (Piximètre formule classique ; mesures non issues d'une sporée dans E.G. 20%)
+    (Piximètre formule classique ; mesures non issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 20-100 mm Ø, 15-90 mm Ø, subglobuleux, piriforme à turbiné, ± mamelonné au sommet, avec base stipitiforme bien développée, abruptement atténuée, occupant la demi ou plus du basidiome, souvent persistant, souvent plissé à sillonné sous la tête, à exopéridium avec épines de deux types, coniques-obtuses, 1-2 mm de hauteur, solitaires, plus grosses et nombreuses vers l'apex, molles, labiles et laissant des cicatrices rondes et pâles à la disparition, espacées de nombreuses épines, verrues ou granules plus petits, peu visibles, persistantes, la base étant ornée de plus petits aiguillons encore, blancs puis crème, jaune-brun ou brun foncé
   bibliographies: 
@@ -94,7 +94,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Le carmin acétique de Sémichon fait ressortir davantage les petites plaques verruqueuses des basidiospores. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -247,16 +247,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Pegler, D. N., Laessøe, T., Spooner, B. M. British Puffballs Earthstars and Stinkhorns; An account of the British Gasteroid Fungi, Royal Botanic Gardens, Kew, 1995, 145 p.
-    Smith, Alexander H. Puffballs and their allies in Michigan, Ann Arbor, The University of Michigan Press, 1951, 187 p.
+    <b>Pegler, D. N. ; Laessøe, T. ; Spooner, B. M</b>. <i>British Puffballs Earthstars and Stinkhorns ; An account of the British Gasteroid Fungi</i>, Royal Botanic Gardens, Kew, 1995, 145 p.
+    <b>Smith, Alexander H</b>. <i>Puffballs and their allies in Michigan</i>, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Le carmin acétique de Sémichon fait ressortir davantage les petites plaques verruqueuses des basidiospores.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: à endopéridium irrégulièrement aréolé-réticulé après la perte des aiguillons, puis sublisse, membraneux, tenace, surtout vers l'apex, crème puis brunâtre, s'ouvrant par un grand pore apical irrégulier et étoilé, avec sous-glèbe brun olive ou brun chocolat à maturité, avec logettes assez grandes, jusqu'à 1 mm de largeur
@@ -275,7 +275,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Lycoperdon gemmatum var. perlatum (Pers.) Fr., Systema Mycologicum 3:37 (1829)
+    <i>Lycoperdon gemmatum var. perlatum</i> (Pers.) Fr., Systema Mycologicum 3:37 (1829)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

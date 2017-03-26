@@ -1,6 +1,6 @@
 ---
 nom: Mycena galericulata
-date: 2017-03-11 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3827/19116582812_309bc0247f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19116582812/in/photolist-v8gu4o-uRbuMb-v7UN4S
 album-flickr:
@@ -233,13 +233,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
-    Smith, Alexander H. North American Species of Mycena, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    <b>Smith, Alexander H</b>. <i>North American Species of Mycena</i>, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -261,10 +261,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus galericulatus Scop., Flora carniolica 2:455, no 1564 (1772)
-    Agaricus conicus Huds., Flora anglica:620 (1778)
-    Agaricus crispus Batsch, Elenchus fungorum:67 (1783)
-    Prunulus galericulatus (Scop.) Murrill, North American Flora 9 (5):336 (1916)
+    <i>Agaricus galericulatus</i> Scop., Flora carniolica 2:455, no 1564 (1772)
+    <i>Agaricus conicus</i> Huds., Flora anglica:620 (1778)
+    <i>Agaricus crispus</i> Batsch, Elenchus fungorum:67 (1783)
+    <i>Prunulus galericulatus</i> (Scop.) Murrill, North American Flora 9 (5):336 (1916)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Inocybe calospora
-date: 2017-03-16 00:00:00
+date: 2017-03-26 00:00:00
 image: https://c1.staticflickr.com/1/527/20002235135_b8e49c6294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20002235135/in/photolist-Ajog3r-wtwKDr-wtwFD2
 album-flickr:
@@ -99,11 +99,11 @@ description:
     (7,7) 8,2 [9,4; 9,9] 11,2 x (7) 7,6 [8,8; 9,4] 10,6 µm
     Q = 1,0 [1,1-1,2] 1,3; N = 30; C = 95%
     Me = 9,7 x 9,1 µm; Qe = 1,1
-    (mesures issues d'une sporée, dans le NaCl iso 0,9%, excluant les digitations)
+    (Piximètre, formule statistique ; mesures issues d'une sporée, dans le NaCl iso 0,9%, excluant les digitations)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, sol sablonneux, sous feuillus et conifères (<i>Quercus</i>) (<i>Pinus</i>)
+  biotopes: pousse au sol, dans la mousse, sol sablonneux, sous feuillus et conifères ; <i>Pinus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -131,7 +131,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Dans les mesures des basidiospores, Kauffman (North American Flora, vol. 10, Part 4, Inocybe, 1924, p. 233) inclut les digitations dans la mesure. Pour ma part, je ne les inclus pas, elles sont mesurées à part. »
+  commentaires: De Claude Kaufholtz-Couture. « Dans les mesures des basidiospores, Kauffman (North American Flora, vol. 10, Part 4, <i>Inocybe</i>, 1924, p. 233) inclut les digitations dans la mesure. Pour ma part, je ne les inclus pas, elles sont mesurées à part. »
   conidies: 
   conidiome: 
   conidiophores: 

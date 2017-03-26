@@ -1,6 +1,6 @@
 ---
 nom: Lycoperdon pyriforme
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5081/29319616244_6847877804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29319616244/in/photolist-LESGqU-Msekd9
 album-flickr:
@@ -239,13 +239,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Pegler, D. N., Laessøe, T., Spooner, B. M. British Puffballs Earthstars and Stinkhorns; An account of the British Gasteroid Fungi, Royal Botanic Gardens, Kew, 1995, 145 p.
-    Smith, Alexander H. Puffballs and their allies in Michigan, Ann Arbor, The University of Michigan Press, 1951, 187 p.
+    <b>Pegler, D. N. ; Laessøe, T. ; Spooner, B. M</b>. <i>British Puffballs Earthstars and Stinkhorns ; An account of the British Gasteroid Fungi</i>, Royal Botanic Gardens, Kew, 1995, 145 p.
+    <b>Smith, Alexander H</b>. <i>Puffballs and their allies in Michigan</i>, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -267,12 +267,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Utraria pyriformis (Schaeff.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:369 (1873)
-    Morganella pyriformis (Schaeff.) Kreisel & D. Krüger, Mycotaxon 86:175 (2003)
-    Lycoperdon pyriforme Willd., Florae Berolinensis Prodromus:411 (1787)
-    Lycoperdon pyriforme var. tessellatum Pers., Synopsis methodica fungorum:149 (1801)
-    Lycoperdon pyriforme Vent., Hist. champ. France, index, t. 32 (1812)
-    Scleroderma bresadolae Schulzer, Hedwigia 23:163 (1884)
+    <i>Utraria pyriformis</i> (Schaeff.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:369 (1873)
+    <i>Morganella pyriformis</i> (Schaeff.) Kreisel & D. Krüger, Mycotaxon 86:175 (2003)
+    <i>Lycoperdon pyriforme</i> Willd., Florae Berolinensis Prodromus:411 (1787)
+    <i>Lycoperdon pyriforme var. tessellatum</i> Pers., Synopsis methodica fungorum:149 (1801)
+    <i>Lycoperdon pyriforme</i> Vent., Hist. champ. France, index, t. 32 (1812)
+    <i>Scleroderma bresadolae</i> Schulzer, Hedwigia 23:163 (1884)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

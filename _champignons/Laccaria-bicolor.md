@@ -1,6 +1,6 @@
 ---
 nom: Laccaria bicolor
-date: 2017-03-06 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5557/15198063431_dcaedc9351_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15198063431/in/photolist-pa13Lp-oSMn45
 album-flickr:
@@ -255,7 +255,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Mueller, Gregory M. Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
+    <b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -279,9 +279,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Laccaria laccata var. bicolor Maire, Publicacions del Instituto Botánico Barcelona 3 (4):84 (1937)
-    Laccaria proxima var. bicolor (Maire) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:131 (1953)
-    Laccaria laccata var. pseudobicolor Bon, Documents Mycologiques 12 (46):42 (1982)
+    <i>Laccaria laccata var. bicolor</i> Maire, Publicacions del Instituto Botánico Barcelona 3 (4):84 (1937)
+    <i>Laccaria proxima var. bicolor</i> (Maire) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:131 (1953)
+    <i>Laccaria laccata var. pseudobicolor</i> Bon, Documents Mycologiques 12 (46):42 (1982)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

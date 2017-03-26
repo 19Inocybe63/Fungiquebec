@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous chêne rouge
+  biotopes: pousse au sol, sous <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

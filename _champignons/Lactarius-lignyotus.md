@@ -39,7 +39,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Stubbe, Dirk, Verbeken, Annemieke. Lactarius subg. Plinthogalus, the European taxa and American varieties of L. lignyotus re-evaluated, Mycologia, 104(6), 2012, pp. 1490-1501, 12 p.
+    <b>Stubbe, Dirk, ; Verbeken, Annemieke</b>. <i>Lactarius subg. Plinthogalus, the European taxa and American varieties of L. lignyotus re-evaluated</i>, Mycologia, 104(6), 2012, pp. 1490-1501, 12 p.
   ascome: 
   ascospores: 
   asques: 

@@ -1,6 +1,6 @@
 ---
 nom: Lactarius turpis
-date: 2017-03-06 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8364/28809911693_d4176fcf69_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28809911693/in/photolist-KTQk2p-LphUVN
 album-flickr:
@@ -38,7 +38,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: Article de Jan Kolar, Ph.D., Faculté de l'Université UK ; http://www.enviweb.cz/clanek/priroda/106781/jake-latky-zpusobuji-zelene-zbarveni-hub
+  articles: |
+    <b>Kolar, Jan, Ph.D.</b>. Faculté de l'Université UK ; http://www.enviweb.cz/clanek/priroda/106781/jake-latky-zpusobuji-zelene-zbarveni-hub
   ascome: 
   ascospores: 
   asques: 
@@ -79,7 +80,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Littéralement, son nom signifie le Lactaire laid ! »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -232,14 +233,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Harris, David B. Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius), Syracuse University Press, 2009, 307 p.
-    Heilmann-Clausen, J., Verbeken, A., Vesterholt, J. The genus Lactarius, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J. ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = le chapeau et le stipe se colorent améthyste, violet
+    Potasse (KOH 10%) = le chapeau et le stipe se colorent améthyste, violet
   receptacle: 
-  remarques: Littéralement, son nom signifie le Lactaire laid !
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -258,9 +259,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus turpis Weinm., Syll. Plant. Novarum:85 (1828)
-    Galorrheus turpis (Weinm.) P. Kumm., Der Führer in die Pilzkunde:125 (1871)
-    Lactifluus turpis (Weinm.) Kuntze, Revisio generum plantarum 3:857 (1891)
+    <i>Agaricus turpis</i> Weinm., Syll. Plant. Novarum:85 (1828)
+    <i>Galorrheus turpis</i> (Weinm.) P. Kumm., Der Führer in die Pilzkunde:125 (1871)
+    <i>Lactifluus turpis</i> (Weinm.) Kuntze, Revisio generum plantarum 3:857 (1891)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

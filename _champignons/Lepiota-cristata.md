@@ -1,6 +1,6 @@
 ---
 nom: Lepiota cristata
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7403/9126745733_af90e42d4e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9126745733/in/photolist-BJxJfm-wMd74K-eUuXx4-eUGkvN-eUF9pL-eUEToS-dfHuSE
 album-flickr:
@@ -256,7 +256,11 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -278,14 +282,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus cristatus Bolton, An History of Fungusses, Growing about Halifax 1, t. 7 (1788)
-    Agaricus colubrinus var. cristatus (Bolton) Pers., Synopsis methodica fungorum, 259 (1801)
-    Lepiota colubrina var. cristata (Bolton) Gray, A natural arrangement of British plants 1:602 (1821)
-    Lepiota colubrina β cristata (Bolton) Gray, 602 (1821)
-    Lepiotula cristata (Bolton) E. Horak, Beiträge zur Kryptogamenflora der Schweiz 13:338 (1968)
-    Lepiota cristata var. pallidior Boud. ex Bon, Documents Mycologiques 11 (43):34 (1981)
-    Lepiota cristata var. exannulata Bon, Documents Mycologiques 11 (43):34 (1981)
-    Lepiota cristata var. felinoides Bon, Documents Mycologiques 11 (43):34 (1981)
+    <i>Agaricus cristatus</i> Bolton, An History of Fungusses, Growing about Halifax 1, t. 7 (1788)
+    <i>Agaricus colubrinus var. cristatus</i> (Bolton) Pers., Synopsis methodica fungorum, 259 (1801)
+    <i>Lepiota colubrina var. cristata</i> (Bolton) Gray, A natural arrangement of British plants 1:602 (1821)
+    <i>Lepiota colubrina β cristata</i> (Bolton) Gray, 602 (1821)
+    <i>Lepiotula cristata</i> (Bolton) E. Horak, Beiträge zur Kryptogamenflora der Schweiz 13:338 (1968)
+    <i>Lepiota cristata var. pallidior</i> Boud. ex Bon, Documents Mycologiques 11 (43):34 (1981)
+    <i>Lepiota cristata var. exannulata</i> Bon, Documents Mycologiques 11 (43):34 (1981)
+    <i>Lepiota cristata var. felinoides</i> Bon, Documents Mycologiques 11 (43):34 (1981)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

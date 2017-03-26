@@ -1,6 +1,6 @@
 ---
 nom: Marasmius pulcherripes
-date: 2017-03-11 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3898/14937584416_30a6aeecf8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14937584416/in/photolist-ovww45-fdnUT4-fdC9HL-oKZ2qU
 album-flickr:
@@ -49,7 +49,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Gilliam, Martina S. The genus Marasmius in the Northeastern United States and adjacent Canada, Mycotaxon, vol. IV, No. 1, pp. 1-144, July-Sep., 1976, 73 p.
+    <b>Gilliam, Martina S</b>. <i>The genus Marasmius in the Northeastern United States and adjacent Canada</i>, Mycotaxon, vol. IV, No. 1, pp. 1-144, July-Sep., 1976, 73 p.
   ascome: 
   ascospores: 
   asques: 
@@ -88,7 +88,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Le pied pourpré à l'apex est une caratéristique de l'espèce. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -244,7 +244,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Le pied pourpré à l'apex est une caratéristique de l'espèce.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -262,7 +262,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: Chamaeceras pulcherripes (Peck) Kuntze, Revisio generum plantarum 3:456 (1898)
+  synonymie: |
+    <i>Chamaeceras pulcherripes</i> (Peck) Kuntze, Revisio generum plantarum 3:456 (1898)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

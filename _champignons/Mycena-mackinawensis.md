@@ -1,6 +1,6 @@
 ---
 nom: Mycena mackinawensis
-date: 2017-03-08 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8269/30187682516_dd519e3805_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30187682516/in/photostream/
 album-flickr:
@@ -53,7 +53,7 @@ description:
     (7,2) 7,6 - 9 (9,5) × (3,6) 3,7 - 4,1 (4,6) µm
     Q = (1,9) 2 - 2,2 (2,3) ; N = 30
     Me = 8,4 × 4 µm ; Qe = 2,1
-    (Piximètre, formule classique ; mesures issues d'une sporée dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -238,17 +238,17 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Maas Geesteranus, Rudolph Arnold. Mycenas of the Northern Hemisphere. II. Conspectus of the Mycenas of the Northern Hemisphere. Amsterdam (1992).
-    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
-    Smith, Alexander H. North American Species of Mycena, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
+    <b>Maas Geesteranus, Rudolph Arnold</b>. <i>Mycenas of the Northern Hemisphere. II. Conspectus of the Mycenas of the Northern Hemisphere</i>. Amsterdam (1992).
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    <b>Smith, Alexander H</b>. <i>North American Species of Mycena</i>, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Consultation du site de Arne Aronsen. The Mycenas of Northern Europe ; A key to the Mycenas of Norway ; Key to the European members of section Fuliginellae ; http://www.mycena.no/
+  remarques: Consultation du site de <b>Arne Aronsen</b>. <i>The Mycenas of Northern Europe ; A key to the Mycenas of Norway ; Key to the European members of section Fuliginellae</i> ; http://www.mycena.no/
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

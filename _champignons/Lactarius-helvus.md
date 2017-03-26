@@ -1,6 +1,6 @@
 ---
 nom: Lactarius helvus
-date: 2017-03-06 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/694/21586852311_e226e1987d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21586852311/in/photolist-yTyg7P-p1ZDNU-p1ZFAG-oL159Y-ovx8s3-oMKXmR
 album-flickr:
@@ -252,9 +252,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Harris, David B. Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius), Syracuse University Press, 2009, 307 p.
-    Heilmann-Clausen, J., Verbeken, A., Vesterholt, J. The genus Lactarius, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -277,9 +277,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus helvus Fr., Systema Mycologicum 1:72 (1821)
-    Galorrheus helvus (Fr.) P. Kumm., Der Führer in die Pilzkunde:129 (1871)
-    Lactifluus helvus (Fr.) Kuntze, Revisio generum plantarum 3:857 (1891)
+    <i>Agaricus helvus</i> Fr., Systema Mycologicum 1:72 (1821)
+    <i>Galorrheus helvus</i> (Fr.) P. Kumm., Der Führer in die Pilzkunde:129 (1871)
+    <i>Lactifluus helvus</i> (Fr.) Kuntze, Revisio generum plantarum 3:857 (1891)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

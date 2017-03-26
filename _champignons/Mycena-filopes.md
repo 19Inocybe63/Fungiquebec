@@ -1,6 +1,6 @@
 ---
 nom: Mycena filopes
-date: 2017-03-08 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3887/15267237871_896b88bcc8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15267237871/in/photolist-pg7zVa
 album-flickr:
@@ -235,8 +235,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
-    Smith, Alexander H. North American Species of Mycena, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    <b>Smith, Alexander H</b>. <i>North American Species of Mycena</i>, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -260,10 +260,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus filopes Bull., Herbier de la France 7:t. 320 (1787)
-    Prunulus filopes (Bull.) House, Bulletin of the New York State Museum 219-220:233 (1920)
-    Agaricus amygdalinus Pers., Mycologia Europaea 3:255 (1828)
-    Mycena iodiolens S. Lundell, K. svenska Vetensk-Akad. Handl.:8 (1932)
+    <i>Agaricus filopes</i> Bull., Herbier de la France 7:t. 320 (1787)
+    <i>Prunulus filopes</i> (Bull.) House, Bulletin of the New York State Museum 219-220:233 (1920)
+    <i>Agaricus amygdalinus</i> Pers., Mycologia Europaea 3:255 (1828)
+    <i>Mycena iodiolens</i> S. Lundell, K. svenska Vetensk-Akad. Handl.:8 (1932)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

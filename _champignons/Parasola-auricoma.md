@@ -1,6 +1,6 @@
 ---
 nom: Parasola auricoma
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3779/9166933169_e1819108df_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9166933169/in/photolist-eY3VRT
 album-flickr:
@@ -239,7 +239,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-     KOH 10% = pas de coloration ou de décoloration sur le chapeau
+     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 
@@ -260,8 +260,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Coprinus auricomus Pat., Tab. analyt. Fung. (Paris) (5):200 (1886)
-    Coprinus hansenii J.E. Lange, Dansk bot. Ark. 2 (no. 3):48 (1915)
+    <i>Coprinus auricomus</i> Pat., Tab. analyt. Fung. (Paris) (5):200 (1886)
+    <i>Coprinus hansenii</i> J.E. Lange, Dansk bot. Ark. 2 (no. 3):48 (1915)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

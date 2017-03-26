@@ -1,6 +1,6 @@
 ---
 nom: Lactarius volemus
-date: 2017-03-07 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5625/20783082342_8d61a139c2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20783082342/in/photolist-xD3Hn1-xEwJiU/
 album-flickr:
@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous chênes et hêtres (<i>Fagus</i>, <i>Quercus</i>)
+  biotopes: pousse au sol, sous <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -82,7 +82,7 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Comme nous ne sommes pas en Europe, notre L. volemus devient donc à ce jour Lactarius volemus ss. Hesler & A. H. Sm., puisque ces auteurs ont réécrit l'espèce uniquement à partir de récoltes américaines dans leur monographie (1979). »
+  commentaires: De Yves Lamoureux. « Comme nous ne sommes pas en Europe, notre <i>L. volemus</i> devient donc à ce jour <i>Lactarius volemus ss. Hesler</i> & A. H. Sm., puisque ces auteurs ont réécrit l'espèce uniquement à partir de récoltes américaines dans leur monographie (1979). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -238,14 +238,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Harris, David B. Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius), Syracuse University Press, 2009, 307 p.
-    Heilmann-Clausen, J., Verbeken, A., Vesterholt, J. The genus Lactarius, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    Smith, Alexander H., Hesler, Lexemuel R. North American Species of Lactarius, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = instantanément vert à bleu vert foncé sur la chair
-    KOH 10% = olive sur le chapeau ; orange à orange pâle sur le latex
+    Potasse (KOH 10%) = olive sur le chapeau ; orange à orange pâle sur le latex
+    Sulfate de fer (FeSO<sub>4</sub>) = instantanément vert à bleu vert foncé sur la chair
   receptacle: 
   remarques: 
   repartition: 

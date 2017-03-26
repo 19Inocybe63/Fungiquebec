@@ -1,6 +1,6 @@
 ---
 nom: Kretzschmaria deusta
-date: 2017-03-02 00:00:00
+date: 2017-03-22 00:00:00
 image: https://c1.staticflickr.com/1/439/18809605881_84a527218e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18809605881/in/photolist-unstDz-unjxuY-cfNfNb-uE99vF
 album-flickr:
@@ -261,16 +261,16 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Lycoperdon fraxineum Huds., Flora anglica:641 (1778)
-    Sphaeria deusta Hoffm., Vegetabilia Cryptogama 1:3, t. 1:2 (1787)
-    Hypoxylon ustulatum Bull., Histoire des champignons de la France. I:176, t. 487:1 (1791)
-    Sphaeria fraxinea (Huds.) Sibth., Flora oxoniensis:401 (1794)
-    Nemania deusta (Hoffm.) Gray, A natural arrangement of British plants 1:516 (1821)
-    Discosphaera deusta (Hoffm.) Dumort., Commentationes botanicae:91 (1822)
-    Stromatosphaeria deusta (Hoffm.) Grev., Flora Edinensis:355 (1824)
-    Hypoxylon deustum (Hoffm.) Grev., Scottish Cryptogamic Flora 6:324, t. 324 (1828)
-    Ustulina deusta (Hoffm.) Maire, Bull. Soc. Bot. France:CXC (1907)
-    Ustulina vulgaris Tul. & C. Tul., Selecta Fungorum Carpologia:Xylariei- Valsei- Spaeriei 2:23 (1863)
+    <i>Lycoperdon fraxineum</i> Huds., Flora anglica:641 (1778)
+    <i>Sphaeria deusta</i> Hoffm., Vegetabilia Cryptogama 1:3, t. 1:2 (1787)
+    <i>Hypoxylon ustulatum</i> Bull., Histoire des champignons de la France. I:176, t. 487:1 (1791)
+    <i>Sphaeria fraxinea</i> (Huds.) Sibth., Flora oxoniensis:401 (1794)
+    <i>Nemania deusta</i> (Hoffm.) Gray, A natural arrangement of British plants 1:516 (1821)
+    <i>Discosphaera deusta</i> (Hoffm.) Dumort., Commentationes botanicae:91 (1822)
+    <i>Stromatosphaeria deusta</i> (Hoffm.) Grev., Flora Edinensis:355 (1824)
+    <i>Hypoxylon deustum</i> (Hoffm.) Grev., Scottish Cryptogamic Flora 6:324, t. 324 (1828)
+    <i>Ustulina deusta</i> (Hoffm.) Maire, Bull. Soc. Bot. France:CXC (1907)
+    <i>Ustulina vulgaris</i> Tul. & C. Tul., Selecta Fungorum Carpologia:Xylariei- Valsei- Spaeriei 2:23 (1863)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

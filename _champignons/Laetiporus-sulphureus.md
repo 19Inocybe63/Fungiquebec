@@ -54,7 +54,7 @@ description:
   basidioles: 
   basidiome: annuel, sessile, stipité, charnu-mou au début, fibreux-tenace à maturité, imbue au frais, friable et cassant au sec
   bibliographies: 
-  biotopes: pousse sur bois pourri et moussu de feuillus (<i>Quercus</i>)
+  biotopes: pousse sur bois pourri et moussu de feuillus, <i>Quercus</i>
   boucles: absentes
   brachybasidioles: 
   calicule: 

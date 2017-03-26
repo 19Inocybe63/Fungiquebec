@@ -63,7 +63,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans un sol sablonneux, sous chêne, pin, en milieu ouvert, au potentiel hydrogène (pH) 4-6
+  biotopes: pousse dans un sol sablonneux, sous <i>Pinus</i>, <i>Quercus</i>, en milieu ouvert, au potentiel hydrogène (pH) 4-6
   boucles: observées dans le pileipellis
   brachybasidioles: 
   calicule: 

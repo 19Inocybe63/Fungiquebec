@@ -59,7 +59,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses subcrêtées à rarement échinulées subréticulées, avec des proéminences de 0,2-0,7 µm de hauteur, à paroi mince, avec appendice hilaire bien visible, à contenu homogène, hyalines dans le NaCl iso 0,9%, amyloïdes
+    globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses subcrêtées à rarement échinulées subréticulées, avec des proéminences jusqu'à 0,7 µm de hauteur, à paroi mince, avec appendice hilaire bien visible, à contenu homogène, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,1 [7,8; 8,1] 8,8 x 6,2 [6,9; 7,3] 8 µm
     Q = 1 [1,1] 1,2; N = 30; C = 95%
     Me = 7,9 x 7,1 µm; Qe = 1,1
@@ -248,9 +248,9 @@ description:
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
     <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    <b>Kibby, Geoffrey</b>. </i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
-    <b>Sarnari, Mauro</b>. <ï>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
-    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
     <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

@@ -1,6 +1,6 @@
 ---
 nom: Psathyrella microrhiza
-date: 2017-03-13 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8035/8056863941_c1af63bc37_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8056863941/in/photolist-dHFWbh-dgXwXg-dgXx4z/
 album-flickr:
@@ -235,13 +235,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Fouchier, Francis. Le Genre Psathyrella (Fries) Quélet, Fédération des Associations Mycologiques Méditerranéennes, 1995.
-    Smith, Alexander H. The North American Species of Psathyrella, Memoirs of The New York Botanical Garden, vol. 24, 1972.
+    <b>Fouchier, Francis</b>. <i>Le Genre Psathyrella (Fries) Quélet</i>, Fédération des Associations Mycologiques Méditerranéennes, 1995.
+    <b>Smith, Alexander H</b>. <i>The North American Species of Psathyrella</i>, Memoirs of The New York Botanical Garden, vol. 24, 1972.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
     Melzer = pas de coloration ou de décoloration sur toutes les parties des tissus
   receptacle: 
@@ -264,17 +264,17 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus microrrhizus Lasch (1828)
-    Agaricus microrhizus Lasch, Linnaea 3:426 (1828)
-    Psathyra microrrhiza (Lasch) P. Kumm., Der Führer in die Pilzkunde:70 (1871)
-    Psathyra microrhiza (Lasch) P. Kumm., Der Führer in die Pilzkunde:70 (1871)
-    Drosophila microrhiza (Lasch) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:118 (1886)
-    Drosophila microrrhiza (Lasch) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:118 (1886)
-    Pilosace microrhizus (Lasch) Kuntze, Revisio generum plantarum 3:504 (1898)
-    Pilosace microrrhizus (Lasch) Kuntze, Revisio generum plantarum 3:504 (1898)
-    Pilosace microrhiza (Lasch) Kuntze (1898)
-    Drosophila microrrhiza (Lasch) Romagn. (1944)
-    Psathyrella microrrhiza (Lasch) Konrad & Maubl., Encyclopédie Mycologique 14:123 (1948)
+    <i>Agaricus microrrhizus</i> Lasch (1828)
+    <i>Agaricus microrhizus</i> Lasch, Linnaea 3:426 (1828)
+    <i>Psathyra microrrhiza</i> (Lasch) P. Kumm., Der Führer in die Pilzkunde:70 (1871)
+    <i>Psathyra microrhiza</i> (Lasch) P. Kumm., Der Führer in die Pilzkunde:70 (1871)
+    <i>Drosophila microrhiza</i> (Lasch) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:118 (1886)
+    <i>Drosophila microrrhiza</i> (Lasch) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:118 (1886)
+    <i>Pilosace microrhizus</i> (Lasch) Kuntze, Revisio generum plantarum 3:504 (1898)
+    <i>Pilosace microrrhizus</i> (Lasch) Kuntze, Revisio generum plantarum 3:504 (1898)
+    <i>Pilosace microrhiza</i> (Lasch) Kuntze (1898)
+    <i>Drosophila microrrhiza</i> (Lasch) Romagn. (1944)
+    <i>Psathyrella microrrhiza</i> (Lasch) Konrad & Maubl., Encyclopédie Mycologique 14:123 (1948)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

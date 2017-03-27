@@ -123,7 +123,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De A. H. Smith. « La distribution de cette espèce en Amérique du Nord est demeurée incertaine à cause de sa grande confusion avec Flammulaster erinaceellus, P. limulata et P. muricata. Naucoria muricata a déjà été différenciée seulement par ses cheilocystides, mais se définit mieux actuellement comme une P. erinaceella à lames jaunes. Flammula limulata, très proche de P. granulosa, a un pileipellis trichodermique formé d’hyphes plus lourdement ornementées et une trame lamellaire plus fortement colorée. Les deux poussent sur conifères et ne sont pas considérées comme synonymes. »
+  commentaires: De A. H. Smith. « La distribution de cette espèce en Amérique du Nord est demeurée incertaine à cause de sa grande confusion avec <i>Flammulaster erinaceellus</i>, <i>P. limulata</i> et <i>P. muricata</i>. <i>Naucoria muricata</i> a déjà été différenciée seulement par ses cheilocystides, mais se définit mieux actuellement comme une <i>P. erinaceella</i> à lames jaunes. <i>Flammula limulata</i>, très proche de <i>P. granulosa</i>, a un pileipellis trichodermique formé d’hyphes plus lourdement ornementées et une trame lamellaire plus fortement colorée. Les deux poussent sur conifères et ne sont pas considérées comme synonymes. »
   conidies: 
   conidiome: 
   conidiophores: 

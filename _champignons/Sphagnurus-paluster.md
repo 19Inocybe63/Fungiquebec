@@ -234,7 +234,8 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: Lorsque l’on dépose un petit morceau déshydraté de lames dans le Rouge Congo SDS, ce dernier devient noir, et ensuite le noir s’atténue pour disparaître complètement.
+  reactions-macrochimiques: |
+    Rouge Congo SDS = Lorsque l’on dépose un petit morceau déshydraté de lames dans le R.C.Sds, ce dernier devient noir, et ensuite le noir s’atténue pour disparaître complètement.
   receptacle: 
   remarques: 
   repartition: 

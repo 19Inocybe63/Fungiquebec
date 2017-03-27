@@ -1,6 +1,6 @@
 ---
 nom: Russula sp.
-date: 2017-03-15 00:00:00
+date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/4/3864/15251402335_29cb990693_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15251402335
 album-flickr:
@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: claviformes élancées, avec granulations mais souvent avec contenu vacuolaire situé à la base puis gravitant au sommet avec l’âge devenant guttulées à pluriguttulées verdâtre dans le R.C.Am., tétrasporiques entre 6-9 µm de longueur, non bouclées à la base, 43-50 x 9-10 µm
   basidiospores: |
-    globuleuses à subglobuleuses en vue frontale, largement elliptiques à elliptiques, parfois subréniformes vues de profil, verruqueuses avec verrues isolées et de rares connexifs, à paroi mince, proéminences entre 0,1-0,6 µm de hauteur, avec appendice hilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
+    globuleuses à subglobuleuses en vue frontale, largement elliptiques à elliptiques, parfois subréniformes vues de profil, verruqueuses avec verrues isolées et de rares connexifs, à paroi mince, avec proéminences jusqu'à 0,6 µm de hauteur, avec appendice hilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,2 [8,3; 8,9] 10 x 5,9 [6,3; 6,6] 7,1 µm
     Q = 1,2 [1,3; 1,4] 1,5; N = 22; C = 95%
     Me = 8,6 x 6,5 µm; Qe = 1,3
@@ -84,7 +84,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De C. Kaufholtz-Couture. « Si je me fie aux critères de la sporée qui indique que <i>R. cyanoxantha</i> et <i>R. variata</i> ont une sporée blanche (A, d'après Kibby), je peux affirmer aujourd'hui que, pour le moment, je n'ai jamais vu ces espèces au Québec. Pour ma part, la sporée de mes collections est toujours pallidosporée IIa-IIb, crème pâle à crème moyen d'après la charte de couleur de Romagnesi et B-C d'après la charte de couleur de Kibby. De plus, l'utilisation du sulfate de fer (FeSO<sub>4</sub>) devient très importante, car pour deux espèces semblables, la chair du stipe devient soit légèrement verdâtre à verdâtre, ou orangé. En conclusion, je pense que la couleur sporale de <i>R. cyanoxantha</i> et de <i>R. variata</i> (celles du Québec seulement) a un spectre plus large que celui connu. Il faudra envisager sérieusement à étudier cet aspect. »
+    De Claude Kaufholtz-Couture. « Si je me fie aux critères de la sporée qui indique que <i>R. cyanoxantha</i> et <i>R. variata</i> ont une sporée blanche (A, d'après Kibby), je peux affirmer aujourd'hui que, pour le moment, je n'ai jamais vu ces espèces au Québec. Pour ma part, la sporée de mes collections est toujours pallidosporée IIa-IIb, crème pâle à crème moyen d'après la charte de couleur de Romagnesi et B-C d'après la charte de couleur de Kibby. De plus, l'utilisation du sulfate de fer (FeSO<sub>4</sub>) devient très importante, car pour deux espèces semblables, la chair du stipe devient soit légèrement verdâtre à verdâtre, ou orangé. En conclusion, je pense que la couleur sporale de <i>R. cyanoxantha</i> et de <i>R. variata</i> (celles du Québec seulement) a un spectre plus large que celui connu. Il faudra envisager sérieusement à étudier cet aspect. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,7 +217,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes, cylindriques mucronées à largement mucronées, parfois avec apex moniliformes, avec nécropigments, 58-70 x 8-11 µm, réaction sulfovanilline négative (SV-), réaction sulfobenzaldéhyde ± (SBA ±, très faible)
+  pleurocystides: abondantes, cylindriques mucronées à largement mucronées, parfois avec apex moniliformes, avec nécropigments, 58-70 x 8-11 µm, sulfovanilline négative (SV-), très faiblement sulfobenzaldéhyde ± positif (SBA±)
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -236,17 +236,18 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Beenken, Ludwig. Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    Kibby, Geoffrey. The Genus Russula in Great Britain, with Synoptic keys to species, Édition Geoffrey Kibby, 2011, 132 p.
-    Kibby, Geoffrey., Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    Sarnari, Mauro. Monografia Illustrata del Genere Russula in Europa (Tomo Primo), A.M.B. Fondazione Centro Studi Micologici, 1998, 799 p.
-    Sarnari, Mauro. Monografia Illustrata del Genere Russula in Europa (Tomo Secondo), A.M.B. Fondazione Centro Studi Micologici, 2005, 761 p. (page 807 à 1568)
+    <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
+    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Sulfate de fer (FeSO<sub>4</sub>) = aucune coloration sur les lames ; légèrement verdâtre sur le stipe
   receptacle: 

@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus, bouleaux, chênes et hêtres, parfois des forêts mixtes
+  biotopes: pousse au sol, sous feuillus, parfois des forêts mixtes, <i>Betula</i>, <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -75,7 +75,7 @@ description:
   chancre: 
   chapeau: 40-100 mm Ø, globuleux, convexe puis étalé, visqueux au début, lisse, jaune ocré pâle, jaune-brun, jaune grisâtre à brun soutenu, à marge striée-tuberculée et cuticule pelant jusqu'aux 3/4 du rayon
   cheilochrysocystides:
-  cheilocystides: comme les pleurocystides, moins émergentes et plus souvent tordues, ou couchées, sulfovanilline positives (SV+)
+  cheilocystides: comme les pleurocystides, moins émergentes et plus souvent tordues, ou couchées, sulfovanilline positive (SV+)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -214,10 +214,10 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: cylindriques, capitées, diverticulées rares, 87 x 5 µm, d'aspect mucronées rare, sulfovanilline positives (SV+)
+  pileocystides: cylindriques, capitées, diverticulées rares, 87 x 5 µm, d'aspect mucronées rare, sulfovanilline positive (SV+)
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes en ogives à apex moniliformes, avec à l’intérieur des guttules jaunâtres, ou des masses huileuse éparses de la même couleur, 63-63,5 (80) x 7-10 µm, sulfovanilline positives (SV+)
+  pleurocystides: abondantes en ogives à apex moniliformes, avec à l’intérieur des guttules jaunâtres, ou des masses huileuse éparses de la même couleur, 63-63,5 (80) x 7-10 µm, sulfovanilline positive (SV+)
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -238,9 +238,9 @@ description:
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
     <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    <b>Kibby, Geoffrey</b>. </i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
-    <b>Sarnari, Mauro</b>. <ï>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
-    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
     <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

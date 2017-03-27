@@ -1,6 +1,6 @@
 ---
 nom: Peziza boltonii
-date: 2017-03-09 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7347/27589360352_cb34fe68a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27589360352/in/photolist-Je2nvb-HfVs48-J2YFCL
 album-flickr:
@@ -39,15 +39,17 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Dougoud, René. Contribution à l’étude des discomycètes Version 2013, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
-    Dougoud, René. Clé des Discomycètes carbonicoles, 14 p.
+    <b>Dougoud, René</b>. <i>Contribution à l'étude des discomycètes</i>, Version 2013, Ascomycete.org vol 5, Fasc. 2, mars 2013, 63-89 pp.
+    <b>Dougoud, René</b>. <i>Contribution à la connaissance de quelques Discomycètes operculés rares ou méconnus</i>, coll. Fungi non Delineati, Pars XVIII, Edizioni Candusso, 2002.
+    <b>Dougoud, René</b>. <i>Clé des Discomycètes carbonicoles</i>, 14 p.
+    <b>Hohmeyer, H</b>. <i>Une clé pour les espèces d'Europe du genre Peziza L.</i>, Zeitschrift für Mykologie 1986, trad. de P. A. Renaud en collaboration de René Dougoud, 1988.
   ascome: 
   ascospores: |
     unisériées, elliptiques, verruqueuses, à contenu biguttulé au début, granulaire par la suite
     (15,8) 16,3 - 17,9 (18,9) × (7) 7,5 - 8,3 (8,4) µm
     Q = (2) 2,1 - 2,4 (2,5) ; N = 30
     Me = 17,2 × 7,8 µm ; Qe = 2,2
-    (Piximètre, formule classique ; mesures dans le bleu Coton lactique)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans le bleu lactique)
   asques: claviformes, octosporés, à apex IKI +, operculé, (220,5) 238,1 - 246,8 (256,6) × (10,4) 10,6 - 11,9 (12,4) µm en moyenne
   asterohyphidies: 
   avertissement: 
@@ -240,11 +242,11 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
@@ -267,7 +269,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Galactinia boltonii (Quél.) Boud., Bulletin de la Société Mycologique de France 15:20 (1899)
+    <i>Galactinia boltonii</i> (Quél.) Boud., Bulletin de la Société Mycologique de France 15:20 (1899)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

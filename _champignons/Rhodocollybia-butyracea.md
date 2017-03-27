@@ -1,6 +1,6 @@
 ---
 nom: Rhodocollybia butyracea
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3903/15064668488_052b6a0e2e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064668488/in/photolist-oXdn6A-oXch8n
 album-flickr:
@@ -254,11 +254,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus butyraceus Bull., Herbier de la France 12:615, t. 572 (1792)
-    Agaricus thrichopus var. butyraceus Bull. ex Pers., Synopsis methodica fungorum:308 (1801)
-    Collybia butyracea (Bull.) P. Kumm., Der Führer in die Pilzkunde:117 (1871)
-    Agaricus leiopus Pers., Neues Magazin für die Botanik 1:101 (1797)
-    Agaricus lejopus Pers. (1797)
+    <i>Agaricus butyraceus</i> Bull., Herbier de la France 12:615, t. 572 (1792)
+    <i>Agaricus thrichopus var. butyraceus</i> Bull. ex Pers., Synopsis methodica fungorum:308 (1801)
+    <i>Collybia butyracea</i> (Bull.) P. Kumm., Der Führer in die Pilzkunde:117 (1871)
+    <i>Agaricus leiopus</i> Pers., Neues Magazin für die Botanik 1:101 (1797)
+    <i>Agaricus lejopus</i> Pers. (1797)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

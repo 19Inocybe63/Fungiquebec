@@ -246,7 +246,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Fouchier, Francis</b>. <i>Le Genre Psathyrella</i> (Fries) Quélet, Fédération des Associations Mycologiques Méditerranéennes, 1995.
+    <b>Fouchier, Francis</b>. <i>Le Genre Psathyrella (Fries) Quélet</i>, Fédération des Associations Mycologiques Méditerranéennes, 1995.
     <b>Smith, Alexander H</b>. <i>The North American Species of Psathyrella</i>, Memoirs of The New York Botanical Garden, vol. 24, 1972.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

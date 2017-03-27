@@ -245,7 +245,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Ammoniaque (NH<SUB>4</SUB>OH 10%) = non observée
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le pied
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le stipe
     Sulfate de fer (FeSO<SUB>4</SUB>) = pas de coloration
   receptacle: 
   remarques: Toutes les parties noircissent avec l’âge.

@@ -231,12 +231,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = gris bleuâtre sur la chair
-    NH<SUB>4</SUB>OH 10% = ochracée sur la chair
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = ochracée sur la chair
+    Sulfate de fer (FeSO<SUB>4</SUB>) = gris bleuâtre sur la chair
   receptacle: 
   remarques: 
   repartition: 
@@ -257,13 +257,13 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus floccopus Vahl, Fl. danica: pl. 1252 (1799)
-    Eriocorys strobilacea var. floccopus (Vahl) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:163 (1886)
-    Boletus strobilaceus Scop., Annus Historico-Naturalis 4:148, t. 1:5 (1770)
-    Boletus strobiliformis Dicks., Fasciculus plantarum cryptogamicarum Britanniae 1:17, f. 3:2 (1785)
-    Boletus squarrosus Pers., Mycologia Europaea 2:145, t. 19 (1825)
-    Boletus strobiloides Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 10:21, t. 74:12-13 (1846)
-    Boletus lepiota A. Venturi, Miceti Agro Bresciano:37 (1860)
+    <i>Boletus floccopus</i> Vahl, Fl. danica: pl. 1252 (1799)
+    <i>Eriocorys strobilacea var. floccopus</i> (Vahl) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:163 (1886)
+    <i>Boletus strobilaceus</i> Scop., Annus Historico-Naturalis 4:148, t. 1:5 (1770)
+    <i>Boletus strobiliformis</i> Dicks., Fasciculus plantarum cryptogamicarum Britanniae 1:17, f. 3:2 (1785)
+    <i>Boletus squarrosus</i> Pers., Mycologia Europaea 2:145, t. 19 (1825)
+    <i>Boletus strobiloides</i> Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 10:21, t. 74:12-13 (1846)
+    <i>Boletus lepiota</i> A. Venturi, Miceti Agro Bresciano:37 (1860)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

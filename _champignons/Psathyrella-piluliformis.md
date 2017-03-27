@@ -1,6 +1,6 @@
 ---
 nom: Psathyrella piluliformis
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7320/10004327923_fbf60f569d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10004327923/in/photolist-ntoYbe-oUyccn-oUwaBQ-gf3gJT-gf3N9t
 album-flickr:
@@ -256,13 +256,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Fouchier, Francis. Le Genre Psathyrella (Fries) Quélet, Fédération des Associations Mycologiques Méditerranéennes, 1995.
-    Smith, Alexander H. The North American Species of Psathyrella, Memoirs of The New York Botanical Garden, vol. 24, 1972.
+    <b>Fouchier, Francis</b>. <i>Le Genre Psathyrella (Fries) Quélet</i>, Fédération des Associations Mycologiques Méditerranéennes, 1995.
+    <b>Smith, Alexander H</b>. <i>The North American Species of Psathyrella</i>, Memoirs of The New York Botanical Garden, vol. 24, 1972.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
     Melzer = pas de coloration ou de décoloration sur toutes les parties des tissus
   receptacle: 
@@ -285,17 +285,17 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus piluliformis Bull., Herbier de la France 3:t. 112 (1783)
-    Hypholoma piluliforme (Bull.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:571 (1878)
-    Hypholoma pilulaeforme (Bull.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:571 (1878)
-    Drosophila hydrophila var. piluliformis (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:116 (1886)
-    Drosophila hydrophila var. pilulaeformis (Bull.) Quél. (1886)
-    Drosophila piluliformis (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:116 (1886)
-    Drosophila appendiculata var. pilulaeformis (Bull.) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:365 (1953)
-    Drosophila appendiculata var. piluliformis (Bull.) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:365 (1953)
-    Psathyrella appendiculata var. piluliformis (Bull.) Svrcek & Kubicka, Ceská Mykologie 18 (3):173 (1964)
-    Agaricus appendiculatus Bull., Herbier de la France 9:t. 392 (1789)
-    Agaricus geminus J. Otto, Versuch einer auf die Ordnung und den Stand der Lamellen gegründeten Anordnung und Beschreibung der Agaricorum: 71 (1816)
+    <i>Agaricus piluliformis</i> Bull., Herbier de la France 3:t. 112 (1783)
+    <i>Hypholoma piluliforme</i> (Bull.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:571 (1878)
+    <i>Hypholoma pilulaeforme</i> (Bull.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:571 (1878)
+    <i>Drosophila hydrophila var. piluliformis</i> (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:116 (1886)
+    <i>Drosophila hydrophila var. pilulaeformis</i> (Bull.) Quél. (1886)
+    <i>Drosophila piluliformis</i> (Bull.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:116 (1886)
+    <i>Drosophila appendiculata var. pilulaeformis</i> (Bull.) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:365 (1953)
+    <i>Drosophila appendiculata var. piluliformis</i> (Bull.) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:365 (1953)
+    <i>Psathyrella appendiculata var. piluliformis</i> (Bull.) Svrcek & Kubicka, Ceská Mykologie 18 (3):173 (1964)
+    <i>Agaricus appendiculatus</i> Bull., Herbier de la France 9:t. 392 (1789)
+    <i>Agaricus geminus</i> J. Otto, Versuch einer auf die Ordnung und den Stand der Lamellen gegründeten Anordnung und Beschreibung der Agaricorum: 71 (1816)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

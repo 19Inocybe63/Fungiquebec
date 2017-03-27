@@ -222,7 +222,7 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: abondantes 61-105 x 4-7 µm, sulfobenzaldéhyde positif (SBA+ faiblement)
+  pileocystides: abondantes 61-105 x 4-7 µm, faiblement sulfobenzaldéhyde positif (SBA+)
   plasmode: 
   pleurocystides: abondantes, 60-78 x 10-16 µm, sulfobenzaldéhyde positif (SBA+)
   poils: 

@@ -1,6 +1,6 @@
 ---
 nom: Pholiota squarrosoides
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7295/9591960483_a32eab764b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9591960483/in/photolist-xt3tBS-wwZ7Ct-fBBuHa-fBBiF2-dKPZEc-dKVtSm/
 album-flickr:
@@ -254,9 +254,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
-    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
+    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -280,10 +280,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus squarrosoides Peck, Annual Report on the New York State Museum of Natural History 31:33 (1879)
-    Hypodendrum squarrosoides (Peck) Overh., North American Flora 10 (5):278 (1932)
-    Dryophila ochropallida Romagn., Flore Analytique des Champignons Supérieurs:328 (1953)
-    Pholiota romagnesiana A.H. Sm. & Hesler, The North American species of Pholiota:203 (1968)
+    <i>Agaricus squarrosoides</i> Peck, Annual Report on the New York State Museum of Natural History 31:33 (1879)
+    <i>Hypodendrum squarrosoides</i> (Peck) Overh., North American Flora 10 (5):278 (1932)
+    <i>Dryophila ochropallida</i> Romagn., Flore Analytique des Champignons Supérieurs:328 (1953)
+    <i>Pholiota romagnesiana</i> A.H. Sm. & Hesler, The North American species of Pholiota:203 (1968)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

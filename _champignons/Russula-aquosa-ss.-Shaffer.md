@@ -102,7 +102,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux ; « En Europe, R. grisescens est le taxon le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce ».
+  commentaires: De Yves Lamoureux. « En Europe, <i>R. grisescens</i> est le taxon le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce. »
   conidies: 
   conidiome: 
   conidiophores: 

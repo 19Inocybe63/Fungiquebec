@@ -1,6 +1,6 @@
 ---
 nom: Russula albonigra
-date: 2017-03-11 00:00:00
+date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/9/8242/28826395870_8327d25997_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28826395870/in/photolist-LcknHf-LeNzMD-KVhPcm
 album-flickr:
@@ -39,8 +39,8 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Kaufholtz-Couture, Claude. Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac), 1er édition, Édition Fungiquebec, Québec 2014, 4 p.
-    Kibby, Geoffrey. Key to blackening species of Russula of section Compactae, Field Mycology Volume 2(3), July 2001, pp. 95-97, 3 p.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Édition Fungiquebec, Québec 2014, 4 p.
+    <b>Kibby, Geoffrey</b>. <i>Key to blackening species of Russula of section Compactae</i>, Field Mycology Volume 2(3), July 2001, pp. 95-97, 3 p.
   ascome: 
   ascospores: 
   asques: 
@@ -232,12 +232,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Beenken, Ludwig. Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    Kibby, Geoffrey & Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    Kibby, Geoffrey. The Genus Russula in Great Britain, with Synoptic keys to species, Édition Geoffrey Kibby, 2011, 132 p.
-    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Primo, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
-    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Secondo, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
-    Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
+    <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
+    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey</b>. </i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <ï>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: 
   reactions-macrochimiques: |
     Soluté de gaïac = < 5" stipe ++ (3 = moyenne) ; > 5" lames ++ (3 = moyenne)
@@ -263,9 +263,9 @@ description:
   symptomes: 
   syndrome: 
   synonymie: |
-    Agaricus alboniger Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 9, 27, t. 70:16-17 (1845)
-    Russula nigricans var. albonigra (Krombh.) Cooke & Quél., Clavis synoptica Hymenomycetum Europaeorum, 143 (1878)
-    Russula adusta var. albonigra (Krombh.) Massee, British Fungus-Flora 3:52 (1893)
+    <i>Agaricus alboniger</i> Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 9, 27, t. 70:16-17 (1845)
+    <i>Russula nigricans var. albonigra</i> (Krombh.) Cooke & Quél., Clavis synoptica Hymenomycetum Europaeorum, 143 (1878)
+    <i>Russula adusta var. albonigra</i> (Krombh.) Massee, British Fungus-Flora 3:52 (1893)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

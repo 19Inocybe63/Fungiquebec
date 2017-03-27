@@ -1,6 +1,6 @@
 ---
 nom: Phyllotopsis nidulans
-date: 2017-03-14 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3891/14674164427_314106bc38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14674164427/in/photolist-omGujh-omGVQX/
 album-flickr:
@@ -258,15 +258,15 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus nidulans Pers., Icones et Descriptiones Fungorum Minus Cognitorum 1:19, t. 6:4 (1798)
-    Pleurotus nidulans (Pers.) P. Kumm., Der Führer in die Pilzkunde:105 (1871)
-    Crepidotus nidulans (Pers.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:542 (1875)
-    Claudopus nidulans (Pers.) Peck, Annual Report on the New York State Museum of Natural History 39:67 (1886)
-    Dendrosarcus nidulans (Pers.) Kuntze, Revisio generum plantarum 3 (2):464 (1898)
-    Panus nidulans (Pers.) Pilát, Mykologia 7:90 (1930)
-    Dendrosarcus mollis Paulet, Traité des champignons 2:t. 20:4 (1793)
-    Panus foetens Fr., Epicrisis Systematis Mycologici:399 (1838)
-    Agaricus odorativus Britzelm., Botanisches Centralblatt 54 (3):66, t. 178:41, 199:153 (1893)
+    <i>Agaricus nidulans</i> Pers., Icones et Descriptiones Fungorum Minus Cognitorum 1:19, t. 6:4 (1798)
+    <i>Pleurotus nidulans</i> (Pers.) P. Kumm., Der Führer in die Pilzkunde:105 (1871)
+    <i>Crepidotus nidulans</i> (Pers.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:542 (1875)
+    <i>Claudopus nidulans</i> (Pers.) Peck, Annual Report on the New York State Museum of Natural History 39:67 (1886)
+    <i>Dendrosarcus nidulans</i> (Pers.) Kuntze, Revisio generum plantarum 3 (2):464 (1898)
+    <i>Panus nidulans</i> (Pers.) Pilát, Mykologia 7:90 (1930)
+    <i>Dendrosarcus mollis</i> Paulet, Traité des champignons 2:t. 20:4 (1793)
+    <i>Panus foetens</i> Fr., Epicrisis Systematis Mycologici:399 (1838)
+    <i>Agaricus odorativus</i> Britzelm., Botanisches Centralblatt 54 (3):66, t. 178:41, 199:153 (1893)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

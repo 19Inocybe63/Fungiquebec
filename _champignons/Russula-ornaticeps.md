@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: cylindriques à claviformes, tétrasporiques, non bouclées à la base, à contenu vacuolaire, 37,0-40,0 x 7,0-9,0 µm en moyenne
   basidiospores: |
-    subglobuleuses à elliptiques en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses, partiellement réticulé, proéminences jusqu'à 0,5 µm de hauteur, à paroi mince, appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    subglobuleuses à elliptiques en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses, partiellement réticulé, avec proéminences jusqu'à 0,5 µm de hauteur, à paroi mince, appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (5,3) 5,8-6,4 (7,7) x (4,2) 4,6-5,7 (6,5) µm
     Q = (1) 1,1-1,26 (1,3); N = 30
     Me = 6,2 x 5,2 µm; Qe = 1,2
@@ -75,7 +75,7 @@ description:
   chancre: 
   chapeau: 40-100 mm Ø, convexe puis déprimé, cuticule finement rompue et collante ; se pèle jusqu'au ¾ du rayon
   cheilochrysocystides:
-  cheilocystides: présentes, sensiblement de la même forme que les pleurocystides, réaction sulfovanilline positives (SV+)
+  cheilocystides: présentes, sensiblement de la même forme que les pleurocystides, réaction sulfovanilline positive (SV+)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -238,9 +238,9 @@ description:
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
     <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    <b>Kibby, Geoffrey</b>. </i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
-    <b>Sarnari, Mauro</b>. <ï>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
-    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
     <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

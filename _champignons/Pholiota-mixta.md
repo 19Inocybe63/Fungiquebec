@@ -104,7 +104,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Machiel E. Noordeloos. « Ce ne sont pas de vraies chrysocystides. »
+  commentaires: |
+    De Machiel E. Noordeloos. « Ce ne sont pas de vraies chrysocystides. »
+    De Claude Kaufholtz-Couture. « Les deux pholiotes communes sur le sol (au Québec) sont <i>P. lenta</i> et <i>P. mixta</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

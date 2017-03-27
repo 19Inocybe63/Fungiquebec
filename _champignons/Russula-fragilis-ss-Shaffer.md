@@ -1,6 +1,6 @@
 ---
 nom: Russula fragilis
-date: 2017-03-12 00:00:00
+date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/6/5589/15034624325_0cd9367c27_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15034624325/in/photolist-oUypVP-oUyo1M-oC4HTw
 album-flickr:
@@ -235,16 +235,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Beenken, Ludwig. Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    Kibby, Geoffrey & Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    Kibby, Geoffrey. The Genus Russula in Great Britain, with Synoptic keys to species, Édition Geoffrey Kibby, 2011, 132 p.
-    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Primo, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
-    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Secondo, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
-    Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
+    <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
+    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey</b>. </i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <ï>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = pas de coloration sur le pied
+    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration sur le pied
   receptacle: 
   remarques: |
     Code de Kibby, A I K N / P (Q?) S
@@ -266,14 +266,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus fragilis Pers., Synopsis methodica fungorum:440 (1801)
-    Agaricus linnaei var. fragilis (Pers.) Fr., Observationes mycologicae 1:68 (1815)
-    Russula emetica var. fragilis (Pers.) Quél., Flore mycologique de la France et des pays limitrophes:343 (1888)
-    Russula emetica subsp. fragilis (Pers.) Singer, Beihefte zum Botanischen Zentralblatt 49 (2):307 (1932)
-    Russula fragilis var. violascens Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:245 (1876)
-    Russula subfragilis Burl., North American Flora 9:233 (1915)
-    Russula emetica subsp. atropurpurina Singer, Hedwigia 66:214 (1926)
-    Russula bataillei Bidaud & Reumaux, Russules rares ou méconnues:281 (1996)
+    <i>Agaricus fragilis</i> Pers., Synopsis methodica fungorum:440 (1801)
+    <i>Agaricus linnaei var. fragilis</i> (Pers.) Fr., Observationes mycologicae 1:68 (1815)
+    <i>Russula emetica var. fragilis</i> (Pers.) Quél., Flore mycologique de la France et des pays limitrophes:343 (1888)
+    <i>Russula emetica subsp. fragilis</i> (Pers.) Singer, Beihefte zum Botanischen Zentralblatt 49 (2):307 (1932)
+    <i>Russula fragilis var. violascens</i> Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:245 (1876)
+    <i>Russula subfragilis</i> Burl., North American Flora 9:233 (1915)
+    <i>Russula emetica</i> subsp. atropurpurina Singer, Hedwigia 66:214 (1926)
+    <i>Russula bataillei</i> Bidaud & Reumaux, Russules rares ou méconnues:281 (1996)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

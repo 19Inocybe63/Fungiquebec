@@ -251,7 +251,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E.</b> <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -274,14 +274,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Geophila rugosoannulata (Farl. ex Murrill) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:336 (1953)
-    Nematoloma rugosoannulatum (Farl. ex Murrill) S. Ito (1959)
-    Naematoloma rugosoannulatum (Farl. ex Murrill) S. Ito, Mycological Flora of Japan. Basidiomycetes 2(5):337 (1959)
-    Psilocybe rugosoannulata (Farl. ex Murrill) Noordel., Persoonia 16 (1):129 (1995)
-    Stropharia ammophila Naveau (1923)
-    Stropharia ferrii Bres., Stud. Trent. 7 (1):54 (1926)
-    Nematoloma ferrei (Bres.) Singer (1951)
-    Stropharia ferrii var. lutea Hongo, Journal of Japanese Botany 27:371 (1952)
+    <i>Geophila rugosoannulata</i> (Farl. ex Murrill) Kühner & Romagn., Flore Analytique des Champignons Supérieurs:336 (1953)
+    <i>Nematoloma rugosoannulatum</i> (Farl. ex Murrill) S. Ito (1959)
+    <i>Naematoloma rugosoannulatum</i> (Farl. ex Murrill) S. Ito, Mycological Flora of Japan. Basidiomycetes 2(5):337 (1959)
+    <i>Psilocybe rugosoannulata</i> (Farl. ex Murrill) Noordel., Persoonia 16 (1):129 (1995)
+    <i>Stropharia ammophila</i> Naveau (1923)
+    <i>Stropharia ferrii</i> Bres., Stud. Trent. 7 (1):54 (1926)
+    <i>Nematoloma ferrei</i> (Bres.) Singer (1951)
+    <i>Stropharia ferrii var. lutea</i> Hongo, Journal of Japanese Botany 27:371 (1952)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

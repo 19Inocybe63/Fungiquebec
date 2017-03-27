@@ -104,7 +104,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « En réaction microchimique, non réactive dans le Soudan III. »
   conidies: 
   conidiome: 
   conidiophores: 

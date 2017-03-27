@@ -1,6 +1,6 @@
 ---
 nom: Pulvinula carbonaria
-date: 2017-03-11 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5783/20542097725_4860e5477f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20542097725/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
 album-flickr:
@@ -59,15 +59,15 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Dougoud, René. Contribution à l’étude des discomycètes Version 2013, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
-    Dougoud, René. Clé des Discomycètes carbonicoles, 14 p.
+    <b>Dougoud, René</b>. <i>Contribution à l’étude des discomycètes Version 2013</i>, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
+    <b>Dougoud, René</b>. <i>Clé des Discomycètes carbonicoles</i>, 14 p.
   ascome: 
   ascospores: |
     globuleuses, lisses, à paroi mince, à contenu pluriguttulé à granuleux, hyalines dans le NaCl iso 0,9%, iodonégatifs
     13,6 [14,5; 15,1] 16 x 13,3 [14,3; 15] 15,9 µm
     Q = 1 [1,0] 1; N = 17; C = 95%
     Me = 14,8 x 14,6 µm; Qe = 1
-    (Piximètre, mesures issues d'ascospores immatures)
+    (Piximètre, formule statistique ; mesures issues d'ascospores immatures, dans le NaCl iso 0,9%)
   asques: longuement claviformes, octosporés, unisériés, iodonégatifs, 195-235 x 17-21 µm
   asterohyphidies: 
   avertissement: 
@@ -260,11 +260,11 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -286,11 +286,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Crouania carbonaria Fuckel, Jahrbücher des Nassauischen Vereins für Naturkunde 27-28:64, Fung. Rhen. no 2482 (1874)
-    Barlaea carbonaria (Fuckel) Sacc., Sylloge Fungorum 8:112 (1889)
-    Barlaeina carbonaria (Fuckel) Sacc. & Traverso, Sylloge Fungorum 19:138 (1910)
-    Lamprospora carbonaria (Fuckel) Seaver:16 (1914)
-    Octospora carbonaria (Fuckel) Caillet & Moyne, Bulletin de la Société Mycologique de France 96 (2):194 (1980)
+    <i>Crouania carbonaria</i> Fuckel, Jahrbücher des Nassauischen Vereins für Naturkunde 27-28:64, Fung. Rhen. no 2482 (1874)
+    <i>Barlaea carbonaria</i> (Fuckel) Sacc., Sylloge Fungorum 8:112 (1889)
+    <i>Barlaeina carbonaria</i> (Fuckel) Sacc. & Traverso, Sylloge Fungorum 19:138 (1910)
+    <i>Lamprospora carbonaria</i> (Fuckel) Seaver:16 (1914)
+    <i>Octospora carbonaria</i> (Fuckel) Caillet & Moyne, Bulletin de la Société Mycologique de France 96 (2):194 (1980)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

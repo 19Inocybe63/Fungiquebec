@@ -1,6 +1,6 @@
 ---
 nom: Pleurotus ostreatus
-date: 2017-03-09 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5602/15527961875_63c2792900_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15527961875/in/photolist-pE7NaU-pE9S5B-pE9TUZ
 album-flickr:
@@ -268,12 +268,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus ostreatus Jacq., Flora Austriaca 2:3, t. 104 (1774)
-    Crepidopus ostreatus (Jacq.) Gray, A natural arrangement of British plants 1:616 (1821)
-    Dendrosarcus ostreatus (Jacq.) Kuntze, Revisio generum plantarum 3 (2):463 (1898)
-    Agaricus ochraceus Pers., Abb. Schwämme (1793)
-    Pleurotus columbinus Quél., Fungi Tridentini 1 (1):10 (1881)
-    Pleurotus floridanus Singer, Papers of the Michigan Academy of Sciences 32:134 (1946)
+    <i>Agaricus ostreatus</i> Jacq., Flora Austriaca 2:3, t. 104 (1774)
+    <i>Crepidopus ostreatus</i> (Jacq.) Gray, A natural arrangement of British plants 1:616 (1821)
+    <i>Dendrosarcus ostreatus</i> (Jacq.) Kuntze, Revisio generum plantarum 3 (2):463 (1898)
+    <i>Agaricus ochraceus</i> Pers., Abb. Schwämme (1793)
+    <i>Pleurotus columbinus</i> Quél., Fungi Tridentini 1 (1):10 (1881)
+    <i>Pleurotus floridanus</i> Singer, Papers of the Michigan Academy of Sciences 32:134 (1946)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

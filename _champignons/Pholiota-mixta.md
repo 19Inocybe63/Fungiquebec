@@ -1,6 +1,6 @@
 ---
 nom: Pholiota mixta
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/3/2818/9700568797_6d796c7e6f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9700568797/in/photolist-pvfTKP-pe3UXf-fMuxSo-fMd1dZ-fMcX9a-fMd2KB
 album-flickr:
@@ -73,7 +73,7 @@ description:
     (6,4) 6,7-7,8 (8,3) × (3,6) 3,61-4,2 (4,4) µm
     Q = (1,7) 1,74-2 (2,1) ; N = 30
     Me = 7,3 × 3,9 µm ; Qe = 1,9
-    (Piximètre, formule classique ; mesures issues d'une sporée)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -261,14 +261,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
-    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
+    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
@@ -291,11 +291,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus mixtus Fr., Epicrisis Systematis Mycologici:185 (1838)
-    Flammula mixta (Fr.) Sacc., Sylloge Fungorum 5:816 (1887)
-    Flammula fusus subsp. filia (Fr.) Gillet (1874)
-    Agaricus filius Fr., Icon. Hymenomyc.:16 (1878)
-    Pholiota kubickae Singer & Clémençon, Schweizerische Zeitschrift für Pilzkunde 49:126 (1971)
+    <i>Agaricus mixtus</i> Fr., Epicrisis Systematis Mycologici:185 (1838)
+    <i>Flammula mixta</i> (Fr.) Sacc., Sylloge Fungorum 5:816 (1887)
+    <i>Flammula fusus</i> subsp. filia (Fr.) Gillet (1874)
+    <i>Agaricus filius</i> Fr., Icon. Hymenomyc.:16 (1878)
+    <i>Pholiota kubickae</i> Singer & Clémençon, Schweizerische Zeitschrift für Pilzkunde 49:126 (1971)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -158,7 +158,7 @@ description:
   hyphes-gleopleres: 
   hyphes-hymeniales: 
   hyphes-ligatives: 
-  hyphes-oleiferes: Présentes et sulfovanilline positives (SV+)
+  hyphes-oleiferes: sulfovanilline positive (SV+)
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 

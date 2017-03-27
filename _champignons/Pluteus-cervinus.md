@@ -1,6 +1,6 @@
 ---
 nom: Pluteus cervinus
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7699/27530665341_5619c52b91_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27530665341/in/photolist-HWMRDP-J6iLNE-H8pRei-dZJen1-e1s9mU
 album-flickr:
@@ -49,7 +49,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Justo, Alfredo et al. Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species, Phytotaxa 180 (1):001-085, (2014) 85 p.
+    <b>Justo, Alfredo et al</b>. <i>Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species</i>, Phytotaxa 180 (1):001-085, (2014) 85 p.
   ascome: 
   ascospores: 
   asques: 
@@ -64,7 +64,7 @@ description:
     (6,1) 6,3 - 7,8 (8) × (4,5) 4,7 - 5,2 (6,1) µm
     Q = (1,2) 1,3 - 1,5 (1,6) ; N = 30
     Me = 6,8 × 4,9 µm ; Qe = 1,4
-    (Piximètre, formule classique)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -247,10 +247,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
@@ -274,14 +274,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus cervinus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:6, t. 10 (1774)
-    Agaricus pluteus Batsch, Elenchus fungorum:79 (1783)
-    Pluteus cervinus f. cervinus (Schaeff.) P. Kumm.:99 (1871)
-    Hyporrhodius cervinus (Schaeff.) Henn. (1898)
-    Hyporrhodius cervinus var. cervinus (Schaeff.) Henn.:258 (1898)
-    Agaricus atricapillus Batsch, Elenchus fungorum. Continuatio prima:77, t. 16:76 (1786)
-    Agaricus curtisii Berk., Hooker's Journal of Botany and Kew Garden Miscellany 1:98 (1849)
-    Pluteus atricapillus var. albus Vellinga, Persoonia 12 (4):342 (1985)
+    <i>Agaricus cervinus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:6, t. 10 (1774)
+    <i>Agaricus pluteus</i> Batsch, Elenchus fungorum:79 (1783)
+    <i>Pluteus cervinus f. cervinus</i> (Schaeff.) P. Kumm.:99 (1871)
+    <i>Hyporrhodius cervinus</i> (Schaeff.) Henn. (1898)
+    <i>Hyporrhodius cervinus var. cervinus</i> (Schaeff.) Henn.:258 (1898)
+    <i>Agaricus atricapillus</i> Batsch, Elenchus fungorum. Continuatio prima:77, t. 16:76 (1786)
+    <i>Agaricus curtisii</i> Berk., Hooker's Journal of Botany and Kew Garden Miscellany 1:98 (1849)
+    <i>Pluteus atricapillus var. albus</i> Vellinga, Persoonia 12 (4):342 (1985)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

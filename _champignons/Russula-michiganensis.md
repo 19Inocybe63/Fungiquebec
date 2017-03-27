@@ -102,7 +102,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Lors de la coupe, la chair est blanche, puis elle devient rougeâtre-grisâtre sale, et finalement noircit. »
+    De Claude Kaufholtz-Couture. « À la coupe, la chair est blanche, puis elle devient rougeâtre-grisâtre, et finalement noircit. »
   conidies: 
   conidiome: 
   conidiophores: 

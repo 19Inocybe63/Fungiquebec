@@ -182,7 +182,7 @@ description:
   latex: blanc, immuable au goût brûlant
   leptocystides: 
   macrocystides: 
-  macropleurocystides: peu abondantes clavées se terminant par un petit éperon, sulfovanilline positives (SV+), 40-50 x 10-12 µm
+  macropleurocystides: peu abondantes clavées se terminant par un petit éperon, sulfovanilline positive (SV+), 40-50 x 10-12 µm
   marge: 
   marge-et-face-externe: 
   mediostrate: 

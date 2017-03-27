@@ -1,6 +1,6 @@
 ---
 nom: Pulveroboletus ravenelii
-date: 2017-03-11 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/571/20495491838_2c8f61ca8f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20495491838/in/photolist-xe7KEW-oPXq4J
 album-flickr:
@@ -241,13 +241,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = pas de coloration sur le chapeau ; orangé sur la chair
-    KOH 10% = orange sur le chapeau et sur la chair
-    NH<sub>4</sub>OH 10% = brunâtre sur le chapeau ; pas de coloration ou de décoloration sur la chair
+    Ammoniaque (NH<sub>4</sub>OH 10%) = brunâtre sur le chapeau ; pas de coloration ou de décoloration sur la chair
+    Potasse (KOH 10%) = orange sur le chapeau et sur la chair
+    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration sur le chapeau ; orangé sur la chair
   receptacle: 
   remarques: 
   repartition: 
@@ -268,7 +268,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus ravenelii Berk. & M.A. Curtis, Annals and Magazine of Natural History 12:429 (1853)
+    <i>Boletus ravenelii</i> Berk. & M.A. Curtis, Annals and Magazine of Natural History 12:429 (1853)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

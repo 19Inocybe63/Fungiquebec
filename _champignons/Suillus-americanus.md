@@ -235,15 +235,15 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C.</b> <i>Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands</i>, Taylor & Francis group, 2005, 236 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = la chair devient olive à olivâtre
-    KOH 10% = le chapeau devient noir
-    NH<sub>4</sub>OH 10% = flash rose devenant rouge et finalement noir sur le chapeau
+    Ammoniaque (NH<sub>4</sub>OH 10%) = flash rose devenant rouge et finalement noir sur le chapeau
+    Potasse (KOH 10%) = le chapeau devient noir
+    Sulfate de fer (FeSO<sub>4</sub>) = la chair devient olive à olivâtre
   receptacle: 
   remarques: 
   repartition: 
@@ -264,8 +264,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus americanus Peck, Bulletin of the New York State Museum 1 (2):62 (1887)
-    Ixocomus americanus (Peck) E.-J. Gilbert, Les Livres du Mycologue Tome I-IV, Tom. III:Les Bolets: 93 (1931)
+    <i>Boletus americanus</i> Peck, Bulletin of the New York State Museum 1 (2):62 (1887)
+    <i>Ixocomus americanus</i> (Peck) E.-J. Gilbert, Les Livres du Mycologue Tome I-IV, Tom. III:Les Bolets: 93 (1931)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -77,7 +77,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sphaignes et bas de pentes humides, ou parfois sur supprt ligneux en décompsition, feuillus (Fagus)
+  biotopes: pousse au sol, sphaignes et bas de pentes humides, ou parfois sur supprt ligneux en décompsition, feuillus, <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

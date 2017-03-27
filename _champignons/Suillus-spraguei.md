@@ -232,15 +232,15 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C.</b> <i>Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands</i>, Taylor & Francis group, 2005, 236 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 8, les boletales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -262,12 +262,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus spraguei Berk. & M.A. Curtis, Grevillea 1(no. 3):35 (1872)
-    Boletus murrayi Berk. & M.A. Curtis [as 'murraii'], Grevillea 1(no. 3):36 (1872)
-    Suillus murrayi (Berk. & M.A. Curtis) Kuntze, Revis. gen. pl. (Leipzig) 3(2):536 (1898)
-    Boletus pictus Peck, Ann. Rep. Reg. N.Y. St. Mus. 23:128 (1872)
-    Boletinus pictus Peck, Bull. N.Y. St. Mus. nat. Hist. 2(no. 8):77 (1889)
-    Suillus pictus (Peck) Kuntze, Revis. gen. pl. (Leipzig) 3(2):536 (1898)
+    <i>Boletus spraguei</i> Berk. & M.A. Curtis, Grevillea 1(no. 3):35 (1872)
+    <i>Boletus murrayi</i> Berk. & M.A. Curtis [as 'murraii'], Grevillea 1(no. 3):36 (1872)
+    <i>Suillus murrayi</i> (Berk. & M.A. Curtis) Kuntze, Revis. gen. pl. (Leipzig) 3(2):536 (1898)
+    <i>Boletus pictus</i> Peck, Ann. Rep. Reg. N.Y. St. Mus. 23:128 (1872)
+    <i>Boletinus pictus</i> Peck, Bull. N.Y. St. Mus. nat. Hist. 2(no. 8):77 (1889)
+    <i>Suillus pictus</i> (Peck) Kuntze, Revis. gen. pl. (Leipzig) 3(2):536 (1898)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

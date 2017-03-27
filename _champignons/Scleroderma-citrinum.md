@@ -229,11 +229,11 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Pegler, D. N.; Laessøe, T.; Spooner, B. M. British Puffballs Earthstars and Stinkhorns, An account of the British Gasteroid Fungi, Royal Botanic Gardens, Kew, 1995, 145 p.
-    Smith, Alexander H. Puffballs and their allies in Michigan, Ann Arbor, The University of Michigan Press, 1951, 187 p.
+    <b>Pegler, D. N. ; Laessøe, T. ; Spooner, B. M.</b> <i>British Puffballs Earthstars and Stinkhorns, An account of the British Gasteroid Fungi</i>, Royal Botanic Gardens, Kew, 1995, 145 p.
+    <b>Smith, Alexander H</b>. <i>Puffballs and their allies in Michigan</i>, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = la surface devient rougeâtre foncé
+    Potasse (KOH 10%) = la surface devient rougeâtre foncé
   receptacle: 
   remarques: 
   repartition: 
@@ -254,8 +254,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Lycoperdon tessellatum Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:191 (1803)
-    Scleroderma vulgare Hornem., Flora Danica, tab. 1969, fig. 2 (1829)
+    <i>Lycoperdon tessellatum</i> Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:191 (1803)
+    <i>Scleroderma vulgare</i> Hornem., Flora Danica, tab. 1969, fig. 2 (1829)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

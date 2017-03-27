@@ -39,8 +39,8 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Buyck, B., Adamčík, S., (2013) Type Studies in Russula Subsection Lactarioideae from North America and a Tentative Key to North American Species. Cryptogamie Mycol 34:259-279.
-    Shaffer, Robert L. The Subsection Lactarioideae of Russula, Mycologia, vol. 56, No. 2 (Mar.-Apr., 1964), pp. 202-231.
+    <b>Buyck, B. ; Adamčík, S.</b> <i>Type Studies in Russula Subsection Lactarioideae from North America and a Tentative Key to North American Species</i>, Cryptogamie Mycol, 2013, 34:259-279.
+    <b>Shaffer, Robert L</b>. <i>The Subsection Lactarioideae of Russula</i>, Mycologia, vol. 56, No. 2 (Mar.-Apr., 1964), pp. 202-231.
   ascome: 
   ascospores: 
   asques: 
@@ -51,7 +51,7 @@ description:
   base-stipitiforme: 
   basides: longuement claviformes, tétrasporiques, non bouclées à la base, 47,2 - 61,0(61,2) × 10,6 - 12,6 µm
   basidiospores: |
-    globuleuses à subglobuleuses, verruqueuses-échinulées moyennes et isolées, ne formant pas de zones proprement réticulées, peu aculéolées avec proéminences entre 0,5-1,5 µm de hauteur, à paroi mince, appendice hilaire petit, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    globuleuses à subglobuleuses, verruqueuses-échinulées moyennes et isolées, ne formant pas de zones proprement réticulées, peu aculéolées avec proéminences jusqu'à 1,5 µm de hauteur, à paroi mince, appendice hilaire petit, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (6,8) 7 - 7,8 (7,9) × (6,2) 6,4 - 7,1 (7,3) µm
     Q = 1 - 1,1 (1,2) ; N = 30
     Me = 7,4 × 6,8 µm ; Qe = 1,1
@@ -87,8 +87,8 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Romagnesi indique que R. chloroïdes forme type chloroïdes possède « avec quelquefois dans sa forme typique un beau cerne vert sous l'insertion des lames, qui manque d'ailleurs très souvent, à surface d'abord pruineuse, puis satinée-luisante, finement ruguleuse ».
-    De Claude Kaufholtz-Couture. « Il ne peut s'agir de <i>R. brevipes var. acrior</i>, car la basidiospore de la collection cKc0347 est beaucoup trop petite ; mais aussi parce que la saveur de la collection cKc0347 n'est pas très âcre, légèrement tout au plus. Toujours d'après Romagnesi, il indique en « observation » à la page 230, que R. L. Schaffer a trouvé en Amérique une Plorantinae à petites basidiospores (<i>R. chloroides var. parvispora</i>) qu'il rattache à la variété parvispora, mais préfère l'élever au rang d'espèce sous le nom de <i>R. romagnesiana</i>. (...) »
+    De Claude Kaufholtz-Couture. « Romagnesi indique que <i>R. chloroïdes</i> forme type chloroïdes possède avec quelquefois dans sa forme typique un beau cerne vert sous l'insertion des lames, qui manque d'ailleurs très souvent, à surface d'abord pruineuse, puis satinée-luisante, finement ruguleuse ».
+    De Claude Kaufholtz-Couture. « Il ne peut s'agir de <i>R. brevipes var. acrior</i>, car la basidiospore de la collection cKc0347 est beaucoup trop petite, mais aussi parce que la saveur de la collection cKc0347 n'est pas très âcre, légèrement tout au plus. Toujours d'après Romagnesi, il indique en observation à la page 230, que R. L. Schaffer a trouvé en Amérique une Plorantinae à petites basidiospores (<i>R. chloroides var. parvispora</i>) qu'il rattache à la variété <i>parvispora</i>, mais préfère l'élever au rang d'espèce sous le nom de <i>R. romagnesiana</i>. (...) »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -219,7 +219,7 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: atypiques, cylindriques à clavées, septées, réaction sulfoaldéhyde négative
+  pileocystides: atypiques, cylindriques à clavées, septées, réaction sulfoaldéhyde négatif (SA-)
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: semblables aux cheilocystides
@@ -241,17 +241,18 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Beenken, Ludwig. Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    Kibby, Geoffrey. The Genus Russula in Great Britain, with Synoptic keys to species, Édition Geoffrey Kibby, 2011, 132 p.
-    Kibby, Geoffrey., Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    Sarnari, Mauro. Monografia Illustrata del Genere Russula in Europa (Tomo Primo), A.M.B. Fondazione Centro Studi Micologici, 1998, 799 p.
-    Sarnari, Mauro. Monografia Illustrata del Genere Russula in Europa (Tomo Secondo), A.M.B. Fondazione Centro Studi Micologici, 2005, 761 p. (page 807 à 1568)
+    <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
+    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: |

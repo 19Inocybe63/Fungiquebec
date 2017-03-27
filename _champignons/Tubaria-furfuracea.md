@@ -246,13 +246,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bresadola, Ab. Dr. J. Iconographia Mycologica, Vol. XVII (tab. 801-850), Naucoria, Pluteolus, Galera, Tubaria, Bolbitius, Psalliota, Clarkeinda, Stropharia, Hypholoma ; Società Botanica Italiana, 1931
-    Murrill, William Alphonso. Agaricaceae (Murrill), Volvariopsis ; Tapinia ; Paxillus ; Crepidotus ; Tubaria ; Galerula ; Naucoria ; Pluteolus ; Mycena ; Phylloprus ; Gymnopilus ; Hebeloma, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    <b>Bresadola, Ab. Dr. J.</b> Iconographia Mycologica, Vol. XVII (tab. 801-850), <i>Naucoria, Pluteolus, Galera, Tubaria, Bolbitius, Psalliota, Clarkeinda, Stropharia, Hypholoma</i> ; Società Botanica Italiana, 1931
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis ; Tapinia ; Paxillus ; Crepidotus ; Tubaria ; Galerula ; Naucoria ; Pluteolus ; Mycena ; Phylloprus ; Gymnopilus ; Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: Ce sporophore aime particulièrement les températures froides.
@@ -274,14 +274,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus pulverulentus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:54, t. 226 (1774)
-    Agaricus crenulatus Batsch, Elenchus fungorum:71 (1783)
-    Agaricus furfuraceus Bull., Herbier de la France 12, t. 532:1 (1792)
-    Agaricus furfuraceus Pers., Synopsis methodica fungorum:454 (1801)
-    Naucoria furfuracea (Pers.) P. Kumm., Der Führer in die Pilzkunde:77 (1871)
-    Hylophila pellucida var. furfuracea (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:103 (1886)
-    Tubaria crenulata (Batsch) Murrill, North American Flora 10 (3):160 (1917)
-    Tubaria romagnesiana Arnolds, Bibliotheca Mycologica 90:460 (1982)
+    <i>Agaricus pulverulentus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:54, t. 226 (1774)
+    <i>Agaricus crenulatus</i> Batsch, Elenchus fungorum:71 (1783)
+    <i>Agaricus furfuraceus</i> Bull., Herbier de la France 12, t. 532:1 (1792)
+    <i>Agaricus furfuraceus</i> Pers., Synopsis methodica fungorum:454 (1801)
+    <i>Naucoria furfuracea</i> (Pers.) P. Kumm., Der Führer in die Pilzkunde:77 (1871)
+    <i>Hylophila pellucida var. furfuracea</i> (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:103 (1886)
+    <i>Tubaria crenulata</i> (Batsch) Murrill, North American Flora 10 (3):160 (1917)
+    <i>Tubaria romagnesiana</i> Arnolds, Bibliotheca Mycologica 90:460 (1982)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

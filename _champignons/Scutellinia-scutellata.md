@@ -59,15 +59,15 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Dougoud, René. Contribution à l’étude des discomycètes Version 2013, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
-    Schumacher, Trond. Le genre Scutellinia (Pyronemataceae), Publication libre, 1990, 7 p.
+    <b>Dougoud, René</b>. <i>Contribution à l’étude des discomycètes Version 2013</i>, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
+    <b>Schumacher, Trond</b>. <i>Le genre Scutellinia (Pyronemataceae)</i>, Publication libre, 1990, 7 p.
   ascome: 
   ascospores: |
     unisériées, ellipsoïdes, formées des verrues interconnectées et de courtes crêtes, à contenu pluriguttulé, non coloration des inclusions lipidiques (guttules) au Soudan III
     (15,7) 17,7 - 19,3 (21,1) × (10,2) 10,4 - 11,5 (12,1) µm
     Q = (1,4) 1,6 - 1,8 (1,9) ; N = 30
     Me = 18,6 × 10,9 µm ; Qe = 1,7
-    (Piximètre, formule classique ; mesures issues d’une sporée, dans le bleu Coton lactique)
+    (Piximètre, formule classique ; mesures issues d’une sporée, dans le bleu lactique)
   asques: cylindriques octosporées, à apex arrondi, IKI -, non operculé, dont la base est acrorhynque
   asterohyphidies: 
   avertissement: 
@@ -256,13 +256,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Hohmeyer, H. Une clé pour les espèces d'Europe du genre Peziza L., extraite de Zeitschrift für Mykologie, Band. 52 (1), 1-248, April 1986, traduction par P. A. Renaud en collaboration avec R. Dougoud, Fribourg, 1988.
+    <b>Hohmeyer, H</b>. <i>Une clé pour les espèces d'Europe du genre Peziza L.</i>, extraite de Zeitschrift für Mykologie, Band. 52 (1), 1-248, April 1986, traduction par P. A. Renaud en collaboration avec R. Dougoud, Fribourg, 1988.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: réaction microchimique = non réactive dans le Soudan III
@@ -284,17 +284,17 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Peziza scutellata L., Species Plantarum:1181 (1753)
-    Helvella ciliata Scop., Flora carniolica 2:481 (1772)
-    Elvela ciliata Scop., Flora carniolica 2:481 (1772)
-    Peziza ciliata (Scop.) Hoffm., Vegetabilia Cryptogama 2:25, t. 7:3 (1790)
-    Peziza scutellata Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:432 (1803)
-    Peziza aurantiaca Vent., Hist. champ. France, index, t. 10 (1812)
-    Humaria scutellata (L.) Fuckel, Jahrbücher des Nassauischen Vereins für Naturkunde 23-24:321 (1870)
-    Lachnea scutellata (L.) Sacc., Champignons de France:57 (1879)
-    Humariella scutellata (L.) J. Schröt., Kryptogamen-Flora von Schlesien 3-2(7):37 (1893)
-    Patella scutellata (L.) Morgan, Journal of Mycology 8 (4):187 (1902)
-    Ciliaria scutellata (L.) Quél. ex Boud., Histoire et Classification des Discomycètes d'Europe:61 (1907)
+    <i>Peziza scutellata</i> L., Species Plantarum:1181 (1753)
+    <i>Helvella ciliata</i> Scop., Flora carniolica 2:481 (1772)
+    <i>Elvela ciliata</i> Scop., Flora carniolica 2:481 (1772)
+    <i>Peziza ciliata</i> (Scop.) Hoffm., Vegetabilia Cryptogama 2:25, t. 7:3 (1790)
+    <i>Peziza scutellata</i> Schumach., Enumeratio Plantarum, in Partibus Sællandiae Septentrionalis et Orientalis Crescentium 2:432 (1803)
+    <i>Peziza aurantiaca</i> Vent., Hist. champ. France, index, t. 10 (1812)
+    <i>Humaria scutellata</i> (L.) Fuckel, Jahrbücher des Nassauischen Vereins für Naturkunde 23-24:321 (1870)
+    <i>Lachnea scutellata</i> (L.) Sacc., Champignons de France:57 (1879)
+    <i>Humariella scutellata</i> (L.) J. Schröt., Kryptogamen-Flora von Schlesien 3-2(7):37 (1893)
+    <i>Patella scutellata</i> (L.) Morgan, Journal of Mycology 8 (4):187 (1902)
+    <i>Ciliaria scutellata</i> (L.) Quél. ex Boud., Histoire et Classification des Discomycètes d'Europe:61 (1907)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

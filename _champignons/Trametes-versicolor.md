@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: annuel
   bibliographies: 
-  biotopes: pousse sur chicots, arbres renversés, souches, branches, débris ligneux, sur feuillus, parfois sur conifères (Abies, Pices)
+  biotopes: pousse sur chicots, arbres renversés, souches, branches, débris ligneux, sur feuillus, parfois sur conifères, <i>Abies</i>, <i>Picea</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -238,7 +238,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -261,51 +261,51 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus versicolor L., Species Plantarum:1176 (1753)
-    Poria versicolor (L.) Scop., Dissertationes ad scientiam naturalem pertinentes:105, t. 25 (1772)
-    Agaricus versicolor (L.) Lam., Flore franç., ed. 1 (1783)
-    Boletus suberosus Batsch, Elenchus fungorum:107 (1783)
-    Agarico-suber versicolor (L.) Paulet, Traité des champignons 2 (1793)
-    Sistotrema versicolor (L.) Tratt., Fl. austriaceae: f. 5:10 (1804)
-    Polyporus versicolor (L.) Fr., Systema Mycologicum 1:368 (1821)
-    Polystictus versicolor (L.) Fr., Nova Acta Regiae Societatis Scientiarum Upsaliensis 1:86 (1851)
-    Hansenia versicolor (L.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:40 (1879)
-    Bjerkandera versicolor (L.) P. Karst., Acta Societatis pro Fauna et Flora Fennica 2 (1):30 (1881)
-    Coriolus versicolor (L.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:175 (1886)
-    Microporus versicolor (L.) Kuntze, Revisio generum plantarum 3:497 (1898)
-    Boletus atrofuscus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:91, t. 268 (1774)
-    Cellularia cyathiformis Bull., Herbier de la France 9, t. 414 (1789)
-    Boletus cyaneus Pers., Annalen der Botanik (Usteri) 11:30 (1794)
-    Polyporus fuscatus Fr., Observationes mycologicae 2:259 (1818)
-    Polyporus nummularius Pers., Botanique (Nagpur) 5 (1827)
-    Polyporus hirsutulus Schwein., Transactions of the American Philosophical Society 4 (2):156 (1832)
-    Polyporus pectunculus Lév., Annales des Sciences Naturelles Botanique 5:138 (1846)
-    Polyporus subflavus Lév., Annales des Sciences Naturelles Botanique 5:300 (1846)
-    Polyporus apophysatus Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 27/28:7 (1848)
-    Polystictus azureus Fr., Nova Acta Regiae Societatis Scientiarum Upsaliensis 1:93 (1851)
-    Polyporus pictilis Berk., Hooker's Journal of Botany and Kew Garden Miscellany 6:162 (1854)
-    Polyporus nigricans Lasch, Fungi eur. exsicc. no. 15 (1859)
-    Polyporus cristulatus Speg., Anales de la Sociedad Científica Argentina 10 (3):129 (1880)
-    Polyporus caesioglaucus Cooke, Grevillea 10 (56):121 (1882)
-    Polystictus neaniscus Berk. ex Cooke, Grevillea 15 (73):24 (1886)
-    Polyporus antarcticus Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 11 (2):163 (1888)
-    Polystictoides castaneicola Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:834 (1916)
-    Polystictus corylicola Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:751 (1916)
-    Polystictus inversus Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:746 (1916)
-    Polystictoides castanicola Lázaro Ibiza, Los poliporáceos de la flora española. Estudio crítico y descriptivo de los hongos de esta familia:146 (1916)
-    Polyporus luteovelutinus Bres., Annales Mycologici 18 (1-3):34 (1920)
-    Polyporus carpineus Velen., Ceske Houby 4-5:639 (1922)
-    Polyporus irpiciformis Velen., Ceske Houby 4-5:655 (1922)
-    Polyporus picicola Velen., Ceske Houby 4-5:655 (1922)
-    Polyporus reisneri Velen., Ceske Houby 4-5:654 (1922)
-    Polyporus rohlenae Velen., Ceske Houby 4-5:655 (1922)
-    Polyporus vitellinus Velen., Ceske Houby 4-5:652 (1922)
-    Polyporus versicolor var. cyaneus Velen., Ceske Houby 4-5:652 (1922)
-    Polyporus versicolor var. productus Velen., Ceske Houby 4-5:652 (1922)
-    Polyporus versicolor var. rosiphilus Velen., Ceske Houby 4-5:652 (1922)
-    Polystictus doidgeae Lloyd, Mycological Writings 7 (73):1329 (1924)
-    Polystictus doidgei Lloyd, Mycological Writings 7 (73):1329 (1924)
-    Polystictus castanicola (Lázaro Ibiza) Sacc. & Trotter (1925)
+    <i>Boletus versicolor</i> L., Species Plantarum:1176 (1753)
+    <i>Poria versicolor</i> (L.) Scop., Dissertationes ad scientiam naturalem pertinentes:105, t. 25 (1772)
+    <i>Agaricus versicolor</i> (L.) Lam., Flore franç., ed. 1 (1783)
+    <i>Boletus suberosus</i> Batsch, Elenchus fungorum:107 (1783)
+    <i>Agarico-suber versicolor</i> (L.) Paulet, Traité des champignons 2 (1793)
+    <i>Sistotrema versicolor</i> (L.) Tratt., Fl. austriaceae: f. 5:10 (1804)
+    <i>Polyporus versicolor</i> (L.) Fr., Systema Mycologicum 1:368 (1821)
+    <i>Polystictus versicolor</i> (L.) Fr., Nova Acta Regiae Societatis Scientiarum Upsaliensis 1:86 (1851)
+    <i>Hansenia versicolor</i> (L.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:40 (1879)
+    <i>Bjerkandera versicolor</i> (L.) P. Karst., Acta Societatis pro Fauna et Flora Fennica 2 (1):30 (1881)
+    <i>Coriolus versicolor</i> (L.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:175 (1886)
+    <i>Microporus versicolor</i> (L.) Kuntze, Revisio generum plantarum 3:497 (1898)
+    <i>Boletus atrofuscus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:91, t. 268 (1774)
+    <i>Cellularia cyathiformis</i> Bull., Herbier de la France 9, t. 414 (1789)
+    <i>Boletus cyaneus</i> Pers., Annalen der Botanik (Usteri) 11:30 (1794)
+    <i>Polyporus fuscatus</i> Fr., Observationes mycologicae 2:259 (1818)
+    <i>Polyporus nummularius</i> Pers., Botanique (Nagpur) 5 (1827)
+    <i>Polyporus hirsutulus</i> Schwein., Transactions of the American Philosophical Society 4 (2):156 (1832)
+    <i>Polyporus pectunculus</i> Lév., Annales des Sciences Naturelles Botanique 5:138 (1846)
+    <i>Polyporus subflavus</i> Lév., Annales des Sciences Naturelles Botanique 5:300 (1846)
+    <i>Polyporus apophysatus</i> Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 27/28:7 (1848)
+    <i>Polystictus azureus</i> Fr., Nova Acta Regiae Societatis Scientiarum Upsaliensis 1:93 (1851)
+    <i>Polyporus pictilis</i> Berk., Hooker's Journal of Botany and Kew Garden Miscellany 6:162 (1854)
+    <i>Polyporus nigricans</i> Lasch, Fungi eur. exsicc. no. 15 (1859)
+    <i>Polyporus cristulatus</i> Speg., Anales de la Sociedad Científica Argentina 10 (3):129 (1880)
+    <i>Polyporus caesioglaucus</i> Cooke, Grevillea 10 (56):121 (1882)
+    <i>Polystictus neaniscus</i> Berk. ex Cooke, Grevillea 15 (73):24 (1886)
+    <i>Polyporus antarcticus</i> Speg., Boletín de la Academia Nacional de Ciencias en Córdoba 11 (2):163 (1888)
+    <i>Polystictoides castaneicola</i> Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:834 (1916)
+    <i>Polystictus corylicola</i> Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:751 (1916)
+    <i>Polystictus inversus</i> Lázaro Ibiza, Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Madri 14:746 (1916)
+    <i>Polystictoides castanicola</i> Lázaro Ibiza, Los poliporáceos de la flora española. Estudio crítico y descriptivo de los hongos de esta familia:146 (1916)
+    <i>Polyporus luteovelutinus</i> Bres., Annales Mycologici 18 (1-3):34 (1920)
+    <i>Polyporus carpineus</i> Velen., Ceske Houby 4-5:639 (1922)
+    <i>Polyporus irpiciformis</i> Velen., Ceske Houby 4-5:655 (1922)
+    <i>Polyporus picicola</i> Velen., Ceske Houby 4-5:655 (1922)
+    <i>Polyporus reisneri</i> Velen., Ceske Houby 4-5:654 (1922)
+    <i>Polyporus rohlenae</i> Velen., Ceske Houby 4-5:655 (1922)
+    <i>Polyporus vitellinus</i> Velen., Ceske Houby 4-5:652 (1922)
+    <i>Polyporus versicolor var. cyaneus</i> Velen., Ceske Houby 4-5:652 (1922)
+    <i>Polyporus versicolor var. productus</i> Velen., Ceske Houby 4-5:652 (1922)
+    <i>Polyporus versicolor var. rosiphilus</i> Velen., Ceske Houby 4-5:652 (1922)
+    <i>Polystictus doidgeae</i> Lloyd, Mycological Writings 7 (73):1329 (1924)
+    <i>Polystictus doidgei</i> Lloyd, Mycological Writings 7 (73):1329 (1924)
+    <i>Polystictus castanicola</i> (Lázaro Ibiza) Sacc. & Trotter (1925)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

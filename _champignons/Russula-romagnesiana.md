@@ -59,7 +59,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse, sous chênes, hêtres et pins
+  biotopes: pousse au sol, sur pelouse, sous <i>Pinus</i>, <i>Fagus</i> et <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

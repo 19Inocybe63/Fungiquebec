@@ -1,6 +1,6 @@
 ---
 nom: Polyporus radicatus
-date: 2017-03-11 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8147/7545022948_2da26f1e36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7545022948/in/photolist-cuJdWS-cuJdsy
 album-flickr:
@@ -234,7 +234,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -258,11 +258,11 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Polyporellus radicatus (Schwein.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:38 (1879)
-    Scutiger radicatus (Schwein.) Murrill, Bulletin of the Torrey Botanical Club 30 (8):430 (1903)
-    Melanopus radicatus (Schwein.) Pomerl., Naturaliste Canadien 107:303 (1980)
-    Polyporus morganii Frost, Annual Report on the New York State Museum of Natural History 32:34 (1879)
-    Polyporus kansensis Ellis & Barthol., Erythea 4:1 (1896)
+    <i>Polyporellus radicatus</i> (Schwein.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:38 (1879)
+    <i>Scutiger radicatus</i> (Schwein.) Murrill, Bulletin of the Torrey Botanical Club 30 (8):430 (1903)
+    <i>Melanopus radicatus</i> (Schwein.) Pomerl., Naturaliste Canadien 107:303 (1980)
+    <i>Polyporus morganii</i> Frost, Annual Report on the New York State Museum of Natural History 32:34 (1879)
+    <i>Polyporus kansensis</i> Ellis & Barthol., Erythea 4:1 (1896)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

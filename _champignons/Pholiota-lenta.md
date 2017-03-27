@@ -115,7 +115,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Les gens prennent souvent cette pholiote pour un hébélome, mais les hébélomes qui ressemblent à cette pholiote ont une odeur terreuse forte (la pholiote est inodore). Les deux pholiotes communes sur le sol (au Québec) sont <i>P. lenta</i> et <</i>>P. mixta</i>. »
+    De Yves Lamoureux. « Les gens prennent souvent cette pholiote pour un hébélome, mais les hébélomes qui ressemblent à cette pholiote ont une odeur terreuse forte (la pholiote est inodore). Les deux pholiotes communes sur le sol (au Québec) sont <i>P. lenta</i> et <i>P. mixta</i>. »
     De Claude Kaufholtz-Couture. « Le gluten se sépare parfois distinctement du chapeau laissant une cuticule parfaitement sèche, lisse. »
   conidies: 
   conidiome: 

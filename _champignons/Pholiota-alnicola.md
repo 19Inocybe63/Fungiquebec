@@ -1,6 +1,6 @@
 ---
 nom: Pholiota alnicola
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5598/15461831105_2fb25e98da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461831105/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
 album-flickr:
@@ -260,14 +260,18 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
-    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
-  publications-microscopiques: 
+    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = brun rougeâtre à orangé sur le chapeau
-    NH<sub>4</sub>OH 10% = rouge vin sur le stipe et orangé sur le chapeau
+    Ammoniaque (NH<sub>4</sub>OH 10%) = rouge vin sur le stipe et orangé sur le chapeau
+    Potasse (KOH 10%) = brun rougeâtre à orangé sur le chapeau
   receptacle: 
   remarques: 
   repartition: 
@@ -288,17 +292,17 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus alnicola Fr., Systema Mycologicum 1:250 (1821)
-    Flammula alnicola (Fr.) P. Kumm., Der Führer in die Pilzkunde:82 (1871)
-    Dryophila alnicola (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:68 (1886)
-    Gymnopilus alnicola (Fr.) Murrill, North American Flora 10 (3):202 (1917)
-    Pholiota alnicola var. alnicola , Lilloa 22:516 (1951)
-    Pholiotina alnicola (Fr.) Singer, Lilloa 22:516 (1951)
-    Agaricus flavidus Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:17, t. 35 (1774)
-    Agaricus apicreus Fr., Epicrisis Systematis Mycologici:188 (1838)
-    Pholiota pseudohypholoma Velen., Ceske Houby 3: 502 (1921)
-    Flammula malicola Kauffman, American Journal of Botany 13 (1):24 (1926)
-    Pholiota aromatica P.D. Orton, Transactions of the British Mycological Society 43 (2):338 (1960)
+    <i>Agaricus alnicola</i> Fr., Systema Mycologicum 1:250 (1821)
+    <i>Flammula alnicola</i> (Fr.) P. Kumm., Der Führer in die Pilzkunde:82 (1871)
+    <i>Dryophila alnicola</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:68 (1886)
+    <i>Gymnopilus alnicola</i> (Fr.) Murrill, North American Flora 10 (3):202 (1917)
+    <i>Pholiota alnicola var. alnicola</i>, Lilloa 22:516 (1951)
+    <i>Pholiotina alnicola</i> (Fr.) Singer, Lilloa 22:516 (1951)
+    <i>Agaricus flavidus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:17, t. 35 (1774)
+    <i>Agaricus apicreus</i> Fr., Epicrisis Systematis Mycologici:188 (1838)
+    <i>Pholiota pseudohypholoma</i> Velen., Ceske Houby 3: 502 (1921)
+    <i>Flammula malicola</i> Kauffman, American Journal of Botany 13 (1):24 (1926)
+    <i>Pholiota aromatica</i> P.D. Orton, Transactions of the British Mycological Society 43 (2):338 (1960)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

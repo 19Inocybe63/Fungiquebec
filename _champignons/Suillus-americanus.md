@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous pin blanc, conifères
+  biotopes: pousse au sol, sous <i>Pinus strobus</i>, conifères
   boucles: 
   brachybasidioles: 
   calicule: 

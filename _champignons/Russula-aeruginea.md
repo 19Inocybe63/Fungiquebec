@@ -257,7 +257,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Potasse (KOH 10%) = le chapeau devient orangée
-    Sulfate de fer (FeSO<SUB>4</SUB>) = la chair du pied devient lentement et faiblement saumonée
+    Sulfate de fer (FeSO<SUB>4</SUB>) = la chair du stipe devient lentement et faiblement saumonée
   receptacle: 
   remarques: Code de Kibby = B I K N / Q T _ W
   repartition: 

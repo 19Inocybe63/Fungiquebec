@@ -1,6 +1,6 @@
 ---
 nom: Russula fragrantissima
-date: 2017-03-12 00:00:00
+date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/9/8514/8593889828_e811faf521_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8593889828/in/photolist-e6rQx2-e6pW3h-e7hgUS
 album-flickr:
@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: piriformes à largement clavées, tétrasporiques, bouclées à la base, 46-58 x 7-13 µm
   basidiospores: |
-    globuleuses à subglobuleuses, zébrées ou plurizébrées, ailées, avec quelques verrues isolées, souvent petites, à crêtes ± épaisses à très épaisses, avec proéminences jusqu’à 1,0 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, amyloïde en périphérie, hyalines dans le NaCl iso 0,9%, amyloïdes
+    globuleuses à subglobuleuses, zébrées ou plurizébrées, ailées, avec quelques verrues isolées, souvent petites, à crêtes ± épaisses à très épaisses, avec proéminences jusqu’à 1 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, amyloïde en périphérie, hyalines dans le NaCl iso 0,9%, amyloïdes
     8 [8,5; 8,9] 9,5 x 7,5 [7,9; 8,2] 8,7 µm
     Q = 1 [1,1] 1,2; N = 12; C = 95%
     Me = 8,7 x 8,1 µm; Qe = 1,1
@@ -236,20 +236,21 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Beenken, Ludwig. Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    Kibby, Geoffrey. The Genus Russula in Great Britain, with Synoptic keys to species, Édition Geoffrey Kibby, 2011, 132 p.
-    Kibby, Geoffrey., Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    Sarnari, Mauro. Monografia Illustrata del Genere Russula in Europa (Tomo Primo), A.M.B. Fondazione Centro Studi Micologici, 1998, 799 p.
-    Sarnari, Mauro. Monografia Illustrata del Genere Russula in Europa (Tomo Secondo), A.M.B. Fondazione Centro Studi Micologici, 2005, 761 p. (page 807 à 1568)
+    <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
+    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey</b>. </i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <ï>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = pas de coloration à rosâtre sur le pied
-    KOH 10% = pas de coloration ni de décoloration à légèrement rosâtre sur le chapeau
+    Potasse (KOH 10%) = pas de coloration ni de décoloration à légèrement rosâtre sur le chapeau
+    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration à rosâtre sur le pied
   receptacle: 
   remarques: 
   repartition: 
@@ -270,7 +271,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Russula laurocerasi var. fragrantissima (Romagn.) Bon, Documents Mycologiques 17 (65):56 (1986)
+    <i>Russula laurocerasi var. fragrantissima</i> (Romagn.) Bon, Documents Mycologiques 17 (65):56 (1986)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -69,14 +69,14 @@ description:
   base-stipitiforme: 
   basides: claviformes à utriformes, tétrasporiques
   basidiospores: |
-    globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, finement à moyennement verruqueuses, finement et partiellement réticulées, avec des proéminences jusqu'à 0,4 µm de hauteur, à paroi mince, pore germinatif parfois observable ± 1 µm Ø, plage hilaire lisse et amyloïde, avec appendice hilaire visible, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%, amyloïdes
+    globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, finement à moyennement verruqueuses, finement et partiellement réticulées, avec proéminences jusqu'à 0,4 µm de hauteur, à paroi mince, pore germinatif parfois observable ± 1 µm Ø, plage hilaire lisse et amyloïde, avec appendice hilaire visible, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%, amyloïdes
     (6,6) 7,4-8,5 (8,7) x (5,6) 5,9-7 (7,1) µm
     Q = (1,1) 1,2 - 1,3 (1,5); N = 30
     Me = 7,9 x 6,4 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol dans les forêts, <i>Quescus</i>
+  biotopes: pousse au sol dans les forêts, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -94,7 +94,7 @@ description:
   chair: ferme, même très dure, épaisse, cassante, blanche, rougeâtre-grisâtre et noircissant à la coupe
   chancre: 
   chapeau: 60-100 mm Ø, convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement
-  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, sulfoaldéhydes positifs (SA+) ; 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
+  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, sulfoaldéhyde positif (SA+) ; 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -235,7 +235,7 @@ description:
   pileitrame: 
   pileocystides: absentes
   plasmode: 
-  pleurocystides: nombreuses, semblable au 1er types des cheilocystides, sulfoaldéhydes positifs (SA+)
+  pleurocystides: nombreuses, semblable au 1er types des cheilocystides, sulfoaldéhyde positif (SA+)
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -256,9 +256,9 @@ description:
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
     <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    <b>Kibby, Geoffrey</b>. </i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
-    <b>Sarnari, Mauro</b>. <ï>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
-    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
     <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

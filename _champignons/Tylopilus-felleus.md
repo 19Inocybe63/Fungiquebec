@@ -1,6 +1,6 @@
 ---
 nom: Tylopilus felleus
-date: 2017-03-13 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8443/29399041486_35070c7c15_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29399041486/in/photolist-LMTLMC-LHT5Tt
 album-flickr:
@@ -231,13 +231,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = olive terne sur le chapeau
-    KOH 10% = jaune verdâtre sur la chair
-    NH<SUB>4</SUB>OH 10% = ambre orangé à orange rougeâtre sur la chapeau ; jaune pâle cerclé de bleu pâle sur la chair
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = ambre orangé à orange rougeâtre sur la chapeau ; jaune pâle cerclé de bleu pâle sur la chair
+    Potasse (KOH 10%) = jaune verdâtre sur la chair
+    Sulfate de fer (FeSO<SUB>4</SUB>) = olive terne sur le chapeau
   receptacle: 
   remarques: 
   repartition: 
@@ -258,7 +258,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus felleus Bull., Herbier de la France 8, t. 379 (1788)
+    <i>Boletus felleus</i> Bull., Herbier de la France 8, t. 379 (1788)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

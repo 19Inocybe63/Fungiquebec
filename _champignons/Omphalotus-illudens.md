@@ -239,8 +239,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = légèrement verdâtre sur la chair du pied
-    Potasse (KOH 10%) = légèrement verdâtre sur le chapeau et le pied
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = légèrement verdâtre sur la chair du stipe
+    Potasse (KOH 10%) = légèrement verdâtre sur le chapeau et le stipe
     Sulfate de fer (FeSO<SUB>4</SUB>) = brunes à brunâtres sur les lames après ± 5 minutes
   receptacle: 
   remarques: |

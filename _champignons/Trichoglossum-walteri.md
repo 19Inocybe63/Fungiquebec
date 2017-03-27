@@ -59,16 +59,16 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Ohenoja, Esteri. Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
-    Kucera, Viktor, Lizon, Pavel et al., Geoglossoid fungi in Slovakia II. Trichoglossum octopartitum, a new species for the country, Czech Mycol. 62 (1), 13-18, 2010, 6 p.
-    Kaufholtz-Couture, C. Clé des espèces du genre Trichoglossum au Québec, Publication libre, avril 2016, 3 p.
+    <b>Ohenoja, Esteri</b>. <i>Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland</i>, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
+    <b>Kucera, Viktor, ; Lizon, Pavel et al.</b> <i>Geoglossoid fungi in Slovakia II. Trichoglossum octopartitum, a new species for the country</i>, Czech Mycol. 62 (1), 13-18, 2010, 6 p.
+    <b>Kaufholtz-Couture, Claude.</b> <i>Clé des espèces du genre Trichoglossum au Québec</i>, Éditions Fungiquebec, avril 2016, 3 p.
   ascome: jusqu'à 90 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts
   ascospores: |
     cylindriques étroites, fusiformes à claviformes, lisses, parfois entre 2 et 3 septa, plus souvent à 7 septa, fuligineuses à brun pâle dans E.G. 20%
     (84,6) 87,9 - 97,8 (100,3) × (5) 5,3 - 6 (6,1) µm
     Q = (14,5) 14,8 - 17,9 (18,3) ; N = 30
     Me = 92,7 × 5,6 µm ; Qe = 16,5
-    (Piximètre, formule classique)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   asques: fusiformes à clavés, atténués vers l'apex, à 8 ascospores parallèles, avec l'anneau apical amyloïde (bleu dans le melzer), jusqu'à (162,4) 162,43 - 195,8 × (17,2) 17,22 - 21 µm
   asterohyphidies: 
   avertissement: 
@@ -256,11 +256,11 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -281,7 +281,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: Geoglossum walteri Berk., Hedwigia, 39 (1875)
+  synonymie: |
+    <i>Geoglossum walteri</i> Berk., Hedwigia, 39 (1875)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

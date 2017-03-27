@@ -110,7 +110,7 @@ description:
   cystidioles: 
   dendrohyphydies: 
   depots-de-pigment-interhyphal: 
-  dermatocystides-caulocystides-et-pileipellis: sulfobenzaldéhyde positive (SBA+)
+  dermatocystides-caulocystides-et-pileipellis: sulfobenzaldéhyde positif (SBA+)
   derniere-correction: 
   dicaryophyses: 
   dichophyses: 

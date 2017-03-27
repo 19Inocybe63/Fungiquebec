@@ -265,12 +265,12 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E.</b> <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -292,13 +292,13 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus hornemannii Fr., Observationes mycologicae 2:13 (1818)
-    Agaricus hornemanni Fr. (1818)
-    Nematoloma hornemannii (Fr.) Singer (1951)
-    Naematoloma hornemannii (Fr.) Singer, Lilloa 22:503 (1951)
-    Psilocybe hornemannii (Fr.) Noordel., Persoonia 16 (1):128 (1995)
-    Psilocybe hornemanii (Fr.) Noordel., Persoonia 16 (1):128 (1995)
-    Agaricus squarrosus Vahl, Fl. dan. 7, t. 1191 (1797)
+    <i>Agaricus hornemannii</i> Fr., Observationes mycologicae 2:13 (1818)
+    <i>Agaricus hornemanni</i> Fr. (1818)
+    <i>Nematoloma hornemannii</i> (Fr.) Singer (1951)
+    <i>Naematoloma hornemannii</i> (Fr.) Singer, Lilloa 22:503 (1951)
+    <i>Psilocybe hornemannii</i> (Fr.) Noordel., Persoonia 16 (1):128 (1995)
+    <i>Psilocybe hornemanii</i> (Fr.) Noordel., Persoonia 16 (1):128 (1995)
+    <i>Agaricus squarrosus</i> Vahl, Fl. dan. 7, t. 1191 (1797)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

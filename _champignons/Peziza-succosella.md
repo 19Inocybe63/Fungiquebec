@@ -1,6 +1,6 @@
 ---
 nom: Peziza succosella
-date: 2017-03-09 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7549/28260902725_d9f5ba7e38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28260902725/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
 album-flickr:
@@ -65,7 +65,7 @@ description:
     (14,5) 14,7 - 17,3 (17,7) × (7,8) 8,3 - 9 (9,3) µm
     Q = (1,6) 1,7 - 2 (2,1) ; N = 30
     Me = 16 × 8,6 µm ; Qe = 1,9
-    (Piximètre, formule classique ; mesures issues d’une sporée dans le bleu coton lactique, sans les ornements)
+    (Piximètre, formule classique ; mesures issues d’une sporée dans le bleu lactique, sans les ornements)
   asques: claviformes dont l'apex est tronqué, octosporés, IKI +b, operculé, avec base de type acrorhynque, ± 250 - 270 × 12 - 13,5 µm en moyenne
   asterohyphidies: 
   avertissement: 
@@ -102,7 +102,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De René Dougoud. « La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent P. succosella. »
+  commentaires: De René Dougoud. « La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent <i>P. succosella</i>. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -253,15 +253,15 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Dougoud, René. Contribution à l’étude des discomycètes Version 2013, Ascomycete.org, 5 (2), 63-89, Mars 2013, 29 p.
-    Hohmeyer, H. Une clé pour les espèces d'Europe du genre Peziza L., Zeitschrift für Mykologie, Band 52(1) pp. 1-248, April 1986. Traduction par P. A. Renaud en collaboration avec René Dougoud, 1988, 41 p.
-    Jabeen, Sana. Peziza succosella and its ectomycorrhiza associated with Cedrus deodara from Himalayan moist temperate forests of Pakistan, Mycotaxon, Volume 130, pp. 455-464, April-June 2015, 10 p.
+    <b>Dougoud, René</b>. <i>Contribution à l’étude des discomycètes Version 2013</i>, Ascomycete.org, 5 (2), 63-89, Mars 2013, 29 p.
+    <b>Hohmeyer, H</b>. <i>Une clé pour les espèces d'Europe du genre Peziza L.</i>, Zeitschrift für Mykologie, Band 52(1) pp. 1-248, April 1986. Traduction par P. A. Renaud en collaboration avec René Dougoud, 1988, 41 p.
+    <b>Jabeen, Sana</b>. <i>Peziza succosella and its ectomycorrhiza associated with Cedrus deodara from Himalayan moist temperate forests of Pakistan</i>, Mycotaxon, Volume 130, pp. 455-464, April-June 2015, 10 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Ascomycètes, Module 7, les Ascomycètes, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
@@ -285,8 +285,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Galactinia succosella Le Gal & Romagn., Revue Mycol.: 113 (1940)
-    Peziza succosella (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich, Kleine Kryptogamenflora von Mitteleuropa - Ascomyceten (Schlauchpilze) IIa: 96 (1963)
+    <i>Galactinia succosella</i> Le Gal & Romagn., Revue Mycol.: 113 (1940)
+    <i>Peziza succosella</i> (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich, Kleine Kryptogamenflora von Mitteleuropa - Ascomyceten (Schlauchpilze) IIa: 96 (1963)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

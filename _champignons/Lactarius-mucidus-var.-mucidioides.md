@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: fusiformes, tétrasporiques, 40-68 x 9-11 µm en moyenne
   basidiospores: |
-    subglobuleuses à largement ellipsoïdes, ornementations assez hautes et plutôt crêtées-réticulées, avec proéminences entre 0,6-1,3 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
+    subglobuleuses à largement ellipsoïdes, ornementations assez hautes et plutôt crêtées-réticulées, avec proéminences jusqu'à 1,3 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
     5,6 [6,1; 6,4] 6,9 x 5,2 [5,7; 5,9] 6,4 µm
     Q = 1 [1,1] 1,2; N = 20; C = 95%
     Me = 6,3 x 5,8 µm; Qe = 1,1

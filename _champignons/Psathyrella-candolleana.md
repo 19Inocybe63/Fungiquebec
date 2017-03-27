@@ -1,6 +1,6 @@
 ---
 nom: Psathyrella candolleana
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7425/9000085449_fc6ec93855_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9000085449/in/photolist-eSj7PH-eHiPdx-eHiMR4
 album-flickr:
@@ -246,13 +246,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Fouchier, Francis. Le Genre Psathyrella (Fries) Quélet, Fédération des Associations Mycologiques Méditerranéennes, 1995.
-    Smith, Alexander H. The North American Species of Psathyrella, Memoirs of The New York Botanical Garden, vol. 24, 1972.
+    <b>Fouchier, Francis</b>. <i>Le Genre Psathyrella</i> (Fries) Quélet, Fédération des Associations Mycologiques Méditerranéennes, 1995.
+    <b>Smith, Alexander H</b>. <i>The North American Species of Psathyrella</i>, Memoirs of The New York Botanical Garden, vol. 24, 1972.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -274,14 +274,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus violaceolamellatus DC., Flore française 2:143 (1805)
-    Agaricus candolleanus Fr., Observationes mycologicae 2:182 (1818)
-    Agaricus candollianus Fr., Systema Mycologicum 1:96 (1821)
-    Hypholoma candolleanum (Fr.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:146 (1872)
-    Drosophila candolleana (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:115 (1886)
-    Drosophila candolleana var. candolleana (Fr.) Quél.:115 (1886)
-    Psathyra candolleana (Fr.) G. Bertrand, Bulletin de la Société Mycologique de France 17:278 (1901)
-    Psathyrella candolleana (Fr.) Maire:185 (1913)
+    <i>Agaricus violaceolamellatus</i> DC., Flore française 2:143 (1805)
+    <i>Agaricus candolleanus</i> Fr., Observationes mycologicae 2:182 (1818)
+    <i>Agaricus candollianus</i> Fr., Systema Mycologicum 1:96 (1821)
+    <i>Hypholoma candolleanum</i> (Fr.) Quél., Mémoires de la Société d'Émulation de Montbéliard 5:146 (1872)
+    <i>Drosophila candolleana</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:115 (1886)
+    <i>Drosophila candolleana var. candolleana</i> (Fr.) Quél.:115 (1886)
+    <i>Psathyra candolleana</i> (Fr.) G. Bertrand, Bulletin de la Société Mycologique de France 17:278 (1901)
+    <i>Psathyrella candolleana</i> (Fr.) Maire:185 (1913)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

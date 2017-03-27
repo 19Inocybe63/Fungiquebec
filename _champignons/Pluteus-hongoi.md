@@ -1,6 +1,6 @@
 ---
 nom: Pluteus hongoi
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7308/27250982564_dd1c4e21c2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27250982564/in/photolist-JtAhvm-Hw61aV-Hw5pGY
 album-flickr:
@@ -39,7 +39,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    Justo, Alfredo et al. Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species, Phytotaxa 180 (1):001-085, (2014) 85 p.
+    <b>Justo, Alfredo et al</b>. <i>Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species</i>, Phytotaxa 180 (1):001-085, (2014) 85 p.
   ascome: 
   ascospores: 
   asques: 
@@ -237,10 +237,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: Sur 60 sommets apicaux de lampropleurocystides, nous obtenons exactement 30 sommets avec crochets entiers, et 30 sommets avec crochets bifides

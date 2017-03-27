@@ -1,6 +1,6 @@
 ---
 nom: Russula pectinatoides
-date: 2017-03-12 00:00:00
+date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/6/5529/9493150357_bd7193a334_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9493150357/in/photolist-qdcpjx-ft8n3h-fsT5c2-ft8pzE-fsSSSa
 album-flickr:
@@ -69,7 +69,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, non bouclées à la base, 31,8 [37,2; 42,6] 48 x 8,5 [9,5; 10,5] 11,5 µm
   basidiospores: |
-    obovales en vue frontale, largement elliptiques vues de profil, verruqueuses, avec verrues petites et obtuses, non réticulées, avec des proéminences entre 0,2-0,5 μm de hauteur en moyenne, à paroi mince, avec appendice hilaire, plage hilaire rarement visible, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
+    obovales en vue frontale, largement elliptiques vues de profil, verruqueuses, avec verrues petites et obtuses, non réticulées, avec des proéminences jusqu'à 0,5 μm de hauteur en moyenne, à paroi mince, avec appendice hilaire, plage hilaire rarement visible, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,4 [8,1; 8,3] 9 x 6 [6,4; 6,6] 6,9 µm
     Q = 1,2 [1,25; 1,3] 1,4; N = 31; C = 95%
     Me = 8,2 x 6,5 µm; Qe = 1,3
@@ -256,20 +256,20 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Beenken, Ludwig. Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    Kibby, Geoffrey & Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    Kibby, Geoffrey. The Genus Russula in Great Britain, with Synoptic keys to species, Édition Geoffrey Kibby, 2011, 132 p.
-    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Primo, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
-    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Secondo, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
-    Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
+    <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
+    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey</b>. </i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <ï>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = pas de coloration
+    Sulfate de fer (FeSO<SUB>4</SUB>) = pas de coloration
   receptacle: 
   remarques: 
   repartition: 
@@ -290,8 +290,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Russula consobrina var. pectinatoides (Peck) Singer, Hedwigia 66:205 (1926)
-    Russula pectinata subsp. pectinatoides (Peck) Bohus & Babos, Annales Historico-Natureles Musei Nationalis Hungarici 52:140 (1960)
+    <i>Russula consobrina var. pectinatoides</i> (Peck) Singer, Hedwigia 66:205 (1926)
+    <i>Russula pectinata subsp. pectinatoides</i> (Peck) Bohus & Babos, Annales Historico-Natureles Musei Nationalis Hungarici 52:140 (1960)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

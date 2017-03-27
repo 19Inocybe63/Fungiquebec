@@ -1,6 +1,6 @@
 ---
 nom: Peziza phyllogena
-date: 2017-03-20 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8114/8913089084_307ed0993a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8913089084
 album-flickr:

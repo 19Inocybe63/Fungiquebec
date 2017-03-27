@@ -1,6 +1,6 @@
 ---
 nom: Scleroderma cepa
-date: 2017-03-12 00:00:00
+date: 2017-03-26 00:00:00
 image: https://c1.staticflickr.com/1/394/20272518041_035dfb297c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20272518041/in/photolist-wApzri-wTpXk8
 album-flickr:
@@ -229,8 +229,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Pegler, D. N., Laessøe, T., Spooner, B. M. British Puffballs Earthstars and Stinkhorns, An account of the British Gasteroid Fungi, Royal Botanic Gardens, Kew, 1995, 145 p.
-    Smith, Alexander H. Puffballs and their allies in Michigan, Ann Arbor, The University of Michigan Press, 1951, 187 p.
+    <b>Pegler, D. N. ; Laessøe, T. ; Spooner, B. M. </b> <i>British Puffballs Earthstars and Stinkhorns, An account of the British Gasteroid Fungi</i>, Royal Botanic Gardens, Kew, 1995, 145 p.
+    <b>Smith, Alexander H</b>. <i>Puffballs and their allies in Michigan</i>, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -253,10 +253,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Lycoperdon caepae-facie Vaill., Bot. Paris.: 123, t. 16:5-6 (1723)
-    Scleroderma vulgare var. cepa (Pers.) W.G. Sm., Synopsis of the British Basidiomycetes: A descriptive catalogue of the drawings and speciments in the department of Botany British Museum:480 (1908)
-    Scleroderma verrucosum var. cepa (Pers.) Maire, Fungi Catalaunici: Contributions à l'étude de la Flore Mycologique de la Catalogne:112 (1933)
-    Tuber solidum With., Bot. arr. Brit., t., ed. 2:459 (1792)
+    <i>Lycoperdon caepae-facie</i> Vaill., Bot. Paris.: 123, t. 16:5-6 (1723)
+    <i>Scleroderma vulgare var. cepa</i> (Pers.) W.G. Sm., Synopsis of the British Basidiomycetes: A descriptive catalogue of the drawings and speciments in the department of Botany British Museum:480 (1908)
+    <i>Scleroderma verrucosum var. cepa</i> (Pers.) Maire, Fungi Catalaunici: Contributions à l'étude de la Flore Mycologique de la Catalogne:112 (1933)
+    <i>Tuber solidum</i> With., Bot. arr. Brit., t., ed. 2:459 (1792)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

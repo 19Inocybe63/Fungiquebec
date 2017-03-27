@@ -1,6 +1,6 @@
 ---
 nom: Pholiota limonella
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8185/8443643369_21c095bedf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8443643369/in/photolist-dSzgU3-dSetnA-dSdVfD-dS8T3P-dS8T16
 album-flickr:
@@ -236,16 +236,16 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
-    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
+    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
-    KOH 10% = rouge orangé sur la surface du chapeau
+    Potasse (KOH 10%) = rouge orangé sur la surface du chapeau
   receptacle: 
   remarques: 
   repartition: 
@@ -266,12 +266,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus limonellus Peck, Annual Report on the New York State Museum of Natural History 31:33 (1878)
-    Pholiota subsquarrosa var. limonella (Peck) Rick, Lilloa 3:405 (1938)
-    Pholiota abietis A.H. Sm. & Hesler, The North American species of Pholiota:218 (1968)
-    Pholiota connata A.H. Sm. & Hesler, The North American species of Pholiota:213 (1968)
-    Pholiota subvelutipes A.H. Sm. & Hesler, The North American species of Pholiota:217 (1968)
-    Pholiota ceriferoides P.D. Orton, Transactions of the British Mycological Society 91 (4):565 (1988)
+    <i>Agaricus limonellus</i> Peck, Annual Report on the New York State Museum of Natural History 31:33 (1878)
+    <i>Pholiota subsquarrosa var. limonella</i> (Peck) Rick, Lilloa 3:405 (1938)
+    <i>Pholiota abietis</i> A.H. Sm. & Hesler, The North American species of Pholiota:218 (1968)
+    <i>Pholiota connata</i> A.H. Sm. & Hesler, The North American species of Pholiota:213 (1968)
+    <i>Pholiota subvelutipes</i> A.H. Sm. & Hesler, The North American species of Pholiota:217 (1968)
+    <i>Pholiota ceriferoides</i> P.D. Orton, Transactions of the British Mycological Society 91 (4):565 (1988)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

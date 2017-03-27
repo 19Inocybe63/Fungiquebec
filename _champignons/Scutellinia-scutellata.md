@@ -104,7 +104,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « En réaction microchimique, non réactive dans le Soudan III. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « En réaction microchimique, non réactive dans le Soudan III. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -265,7 +266,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: réaction microchimique = non réactive dans le Soudan III
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

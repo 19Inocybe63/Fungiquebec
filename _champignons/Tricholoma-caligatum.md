@@ -232,7 +232,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C., Trudell, Steven A. Tricholomas of North America; A Mushroom field Guide, University of Texas Press, 2013, 208 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C. ; Trudell, Steven A.</b> <i>Tricholomas of North America</i>, A Mushroom field Guide, University of Texas Press, 2013, 208 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -255,10 +255,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus caligatus Viv., I Funghi d'Italia:40 (1834)
-    Armillaria caligata (Viv.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:79 (1874)
-    Sphaerocephalus caligatus (Viv.) Raithelh., Metrodiana 8:52 (1979)
-    Sphaerocephalus caligatum (Viv.) Raithelh. (1979)
+    <i>Agaricus caligatus</i> Viv., I Funghi d'Italia:40 (1834)
+    <i>Armillaria caligata</i> (Viv.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:79 (1874)
+    <i>Sphaerocephalus caligatus</i> (Viv.) Raithelh., Metrodiana 8:52 (1979)
+    <i>Sphaerocephalus caligatum</i> (Viv.) Raithelh. (1979)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Pholiota lenta
-date: 2017-03-13 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3936/15427367891_c418597eb1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15427367891/in/photolist-MBptmN-M6YVCH-LMKgni-Mi8k7S-MBKdW6-LMKbcD-pe3H4h-pvghZz-gnvVcx-gnwtCc
 album-flickr:
@@ -83,7 +83,7 @@ description:
     (5,7) 6-7,3 (7,6) × (3,2) 3,4-3,76 (3,8) µm
     Q = 1,7-2 (2,1) ; N = 30
     Me = 6,6 × 3,6 µm ; Qe = 1,9
-    (Piximètre, formule classique ; mesures issues d'une sporée)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -115,7 +115,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Les gens prennent souvent cette pholiote pour un hébélome, mais les hébélomes qui ressemblent à cette pholiote ont une odeur terreuse forte (la pholiote est inodore). Les deux pholiotes communes sur le sol (au Québec) sont P. lenta et P. mixta. »
+    De Yves Lamoureux. « Les gens prennent souvent cette pholiote pour un hébélome, mais les hébélomes qui ressemblent à cette pholiote ont une odeur terreuse forte (la pholiote est inodore). Les deux pholiotes communes sur le sol (au Québec) sont <i>P. lenta</i> et <</i>>P. mixta</i>. »
     De Claude Kaufholtz-Couture. « Le gluten se sépare parfois distinctement du chapeau laissant une cuticule parfaitement sèche, lisse. »
   conidies: 
   conidiome: 
@@ -272,14 +272,14 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
-    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
+    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
@@ -302,13 +302,13 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus lentus Pers., Synopsis methodica fungorum:287 (1801)
-    Flammula lenta (Pers.) P. Kumm., Der Führer in die Pilzkunde:82 (1871)
-    Dryophila lenta (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:70 (1886)
-    Gymnopilus lentus (Pers.) Murrill, North American Flora 10 (3):204 (1917)
-    Pholiotina lenta (Pers.) Singer, Lilloa 22:516 (1951)
-    Inocybe olgae Velen., Ceske Houby 2:371 (1920)
-    Pholiota groenlandica M. Lange, Meddelelser om Grønland 148 (2):7 (1957)
+    <i>Agaricus lentus</i> Pers., Synopsis methodica fungorum:287 (1801)
+    <i>Flammula lenta</i> (Pers.) P. Kumm., Der Führer in die Pilzkunde:82 (1871)
+    <i>Dryophila lenta</i> (Pers.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:70 (1886)
+    <i>Gymnopilus lentus</i> (Pers.) Murrill, North American Flora 10 (3):204 (1917)
+    <i>Pholiotina lenta</i> (Pers.) Singer, Lilloa 22:516 (1951)
+    <i>Inocybe olgae</i> Velen., Ceske Houby 2:371 (1920)
+    <i>Pholiota groenlandica</i> M. Lange, Meddelelser om Grønland 148 (2):7 (1957)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

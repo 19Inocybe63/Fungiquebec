@@ -1,6 +1,6 @@
 ---
 nom: Pluteus petasatus
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8630/28131978620_09c0705734_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28131978620/in/photolist-JRVK99
 album-flickr:
@@ -39,7 +39,7 @@ description:
   arete-lamellaire: stérile
   arthroconidies: 
   articles: |
-    Justo, Alfredo et al. Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species, Phytotaxa 180 (1):001-085, (2014) 85 p.
+    <b>Justo, Alfredo et al</b>. <i>Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species</i>, Phytotaxa 180 (1):001-085, (2014) 85 p.
   ascome: 
   ascospores: 
   asques: 
@@ -54,7 +54,7 @@ description:
     (6,2) 6,5 - 7,4 (8) × (4,4) 4,6 - 5,2 (5,4) µm
     Q = (1,3) 1,31 - 1,5 (1,7) ; N = 30
     Me = 6,9 × 4,9 µm ; Qe = 1,4
-    (Piximètre, formule classique ; mesures issues d'une sporée dans E.G. 20%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -239,10 +239,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -264,10 +264,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus petasatus Fr., Epicrisis Systematis Mycologici:142 (1838)
-    Pluteus cervinus var. petasatus (Fr.) Fr., Hymenomycetes europaei:186 (1874)
-    Agaricus patricius Schulzer, Icon. Sel. Hymenomyc. Hung.:20 (1874)
-    Pluteus straminiphilus Wichanský, Mykol. Sb., Praha:119 (1968)
+    <i>Agaricus petasatus</i> Fr., Epicrisis Systematis Mycologici:142 (1838)
+    <i>Pluteus cervinus var. petasatus</i> (Fr.) Fr., Hymenomycetes europaei:186 (1874)
+    <i>Agaricus patricius</i> Schulzer, Icon. Sel. Hymenomyc. Hung.:20 (1874)
+    <i>Pluteus straminiphilus</i> Wichanský, Mykol. Sb., Praha:119 (1968)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

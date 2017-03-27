@@ -99,7 +99,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « <i>Stropharia rugosoannulata</i> est la plus grande espèce du genre. Il existe une grande variété de couleur de son chapeau. Habituellement, on le retrouve dans les teintes violacées, mais des formes plus pâles existent aussi. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -255,7 +255,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: <i>Stropharia rugosoannulata</i> est la plus grande espèce du genre. Il existe une grande variété de couleur de son chapeau. Habituellement, on le retrouve dans les teintes violacées, mais des formes plus pâles existent aussi.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -232,7 +232,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C., Trudell, Steven A. Tricholomas of North America; A Mushroom field Guide, University of Texas Press, 2013, 208 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C. ; Trudell, Steven A.</b> <i>Tricholomas of North America</i>, A Mushroom field Guide, University of Texas Press, 2013, 208 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -255,7 +255,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Melanoleuca sublutea (Peck) Murrill, North American Flora 10 (1):13 (1914)
+    <i>Melanoleuca sublutea</i> (Peck) Murrill, North American Flora 10 (1):13 (1914)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

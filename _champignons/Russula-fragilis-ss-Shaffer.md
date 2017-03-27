@@ -244,7 +244,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration sur le pied
+    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration sur le stipe
   receptacle: 
   remarques: |
     Code de Kibby, A I K N / P (Q?) S

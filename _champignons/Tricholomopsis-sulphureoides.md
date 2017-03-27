@@ -250,13 +250,13 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus sulphureoides Peck, Annual Report on the New York State Museum of Natural History 23:86 (1872)
-    Agaricus sulfureoides Peck, Annual Report on the New York State Museum of Natural History 23:86 (1872)
-    Pleurotus sulphureoides (Peck) Peck, Annual Report on the New York State Museum of Natural History 39:60 (1886)
-    Dendrosarcus sulphureoides (Peck) Kuntze, Revisio generum plantarum 3: 464 (1898)
-    Dendrosarcus sulfureodes (Peck) Kuntze (1898)
-    Tricholomopsis sulfureoides (Peck) Singer (1943)
-    Tricholomopsis ornata var. sulphureoides (Peck) Singer, Mycologia 35 (2): 153 (1943)
+    <i>Agaricus sulphureoides</i> Peck, Annual Report on the New York State Museum of Natural History 23:86 (1872)
+    <i>Agaricus sulfureoides</i> Peck, Annual Report on the New York State Museum of Natural History 23:86 (1872)
+    <i>Pleurotus sulphureoides</i> (Peck) Peck, Annual Report on the New York State Museum of Natural History 39:60 (1886)
+    <i>Dendrosarcus sulphureoides</i> (Peck) Kuntze, Revisio generum plantarum 3: 464 (1898)
+    <i>Dendrosarcus sulfureodes</i> (Peck) Kuntze (1898)
+    <i>Tricholomopsis sulfureoides</i> (Peck) Singer (1943)
+    <i>Tricholomopsis ornata var. sulphureoides</i> (Peck) Singer, Mycologia 35 (2): 153 (1943)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

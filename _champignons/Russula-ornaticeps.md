@@ -1,6 +1,6 @@
 ---
 nom: Russula ornaticeps
-date: 2017-03-12 00:00:00
+date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/1/317/19538550198_bebce9b492_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19538550198/in/photolist-C6vQDR-vLybg9-w4b2ea
 album-flickr:
@@ -49,14 +49,14 @@ description:
   base-stipitiforme: 
   basides: cylindriques à claviformes, tétrasporiques, non bouclées à la base, à contenu vacuolaire, 37,0-40,0 x 7,0-9,0 µm en moyenne
   basidiospores: |
-    subglobuleuses à elliptiques en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses, partiellement réticulé, ornements entre 0,1-0,5 µm de hauteur, à paroi mince, appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    subglobuleuses à elliptiques en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses, partiellement réticulé, proéminences jusqu'à 0,5 µm de hauteur, à paroi mince, appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (5,3) 5,8-6,4 (7,7) x (4,2) 4,6-5,7 (6,5) µm
     Q = (1) 1,1-1,26 (1,3); N = 30
     Me = 6,2 x 5,2 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol argileux des vieilles forêts de chênes et de hêtres
+  biotopes: pousse au sol argileux des vieilles forêts, <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -214,7 +214,7 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: abondantes, cylindriques à claviformes, plus ou moins renflées, souvent avec apex mucronés, à contenu pailleté réfringent, réaction sulfopipéronal positive (SP+) , 45-70 ± x 8-11 µm
+  pileocystides: abondantes, cylindriques à claviformes, plus ou moins renflées, souvent avec apex mucronés, à contenu pailleté réfringent, réaction sulfopipéronal positif (SP+) , 45-70 ± x 8-11 µm
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, à contenu pailleté réfringent dans le R.C.Sds, réaction sulfovanilline positive (SV+), 65-78 x 10-12,5 µm en moyenne
@@ -236,20 +236,20 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Beenken, Ludwig. Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    Kibby, Geoffrey & Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    Kibby, Geoffrey. The Genus Russula in Great Britain, with Synoptic keys to species, Édition Geoffrey Kibby, 2011, 132 p.
-    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Primo, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
-    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Secondo, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
-    Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
+    <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
+    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey</b>. </i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <ï>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = saumon sur le pied
+    Sulfate de fer (FeSO<SUB>4</SUB>) = saumon sur le pied
   receptacle: 
   remarques: Groupe Griseinae
   repartition: 

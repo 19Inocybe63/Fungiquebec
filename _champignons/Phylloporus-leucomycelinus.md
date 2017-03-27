@@ -1,6 +1,6 @@
 ---
 nom: Phylloporus leucomycelinus
-date: 2017-03-17 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/618/20171022673_3a523b2c21_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20171022673/in/photolist-CAxxCb-wJrLhZ-wJtepT
 album-flickr:
@@ -54,6 +54,7 @@ description:
     (9,4) 9,6 - 10,9 (11,6) x (3,3) 3,5 - 3,9 (4,4) µm
     Q = (2,2) 2,5 - 3 (3,3); N = 30
     Me = 10,2 x 3,8 µm; Qe = 2,7
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 

@@ -255,14 +255,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Agaricus decorus Fr., Systema Mycologicum 1:108 (1821)
-    Clitocybe decora (Fr.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:171 (1874)
-    Cortinellus decorus (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:25 (1879)
-    Tricholoma decorum (Fr.) Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 11:389 (1883)
-    Gyrophila decora (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:11 (1886)
-    Pleurotus decorus (Fr.) Sacc., Sylloge Fungorum 5:342 (1887)
-    Dendrosarcus decorus (Fr.) Kuntze, Revisio generum plantarum 3:463 (1898)
-    Tricholoma rutilans var. decorum (Fr.) Maire, Étude synth. genre Tricholoma:107 (1916)
+    <i>Agaricus decorus</i> Fr., Systema Mycologicum 1:108 (1821)
+    <i>Clitocybe decora</i> (Fr.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:171 (1874)
+    <i>Cortinellus decorus</i> (Fr.) P. Karst., Bidrag till Kännedom av Finlands Natur och Folk 32:25 (1879)
+    <i>Tricholoma decorum</i> (Fr.) Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences 11:389 (1883)
+    <i>Gyrophila decora</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:11 (1886)
+    <i>Pleurotus decorus</i> (Fr.) Sacc., Sylloge Fungorum 5:342 (1887)
+    <i>Dendrosarcus decorus</i> (Fr.) Kuntze, Revisio generum plantarum 3:463 (1898)
+    <i>Tricholoma rutilans var. decorum</i> (Fr.) Maire, Étude synth. genre Tricholoma:107 (1916)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -1,6 +1,6 @@
 ---
 nom: Picipes tubaeformis
-date: 2017-03-09 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5577/14847991983_e3567bb968_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14847991983/in/photolist-oC4QHM
 album-flickr:
@@ -234,7 +234,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -258,9 +258,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Polyporellus picipes f. tubiformis P. Karst., Meddn Soc. Fauna Flora fenn. 5:37 (1879)
-    Polyporus picipes f. tubiformis (P. Karst.) Domański, Orloś & Skirg. [as 'tubaeformis'], Flora Polska. Grzyby (Mycota). Podstawczaki (Basidiomycetes), Bezblaszkowce (Aphyllophorales), Skórnikowate (Stereaceae), Pucharkowate (Podoscyphaceae) (Kraków):67 (1967)
-    Polyporus badius f. tubiformis (P. Karst.) Domański [as 'tubaeformis'], in Domański, Orlog & Skiergiello, Fungi, Polyporaceae 2, Mucronoporaceae 2, Revised transl. Ed. (Warsaw):141 (1973)
+    <i>Polyporellus picipes f. tubiformis</i> P. Karst., Meddn Soc. Fauna Flora fenn. 5:37 (1879)
+    <i>Polyporus picipes f. tubiformis</i> (P. Karst.) Domański, Orloś & Skirg. [as 'tubaeformis'], Flora Polska. Grzyby (Mycota). Podstawczaki (Basidiomycetes), Bezblaszkowce (Aphyllophorales), Skórnikowate (Stereaceae), Pucharkowate (Podoscyphaceae) (Kraków):67 (1967)
+    <i>Polyporus badius f. tubiformis</i> (P. Karst.) Domański [as 'tubaeformis'], in Domański, Orlog & Skiergiello, Fungi, Polyporaceae 2, Mucronoporaceae 2, Revised transl. Ed. (Warsaw):141 (1973)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

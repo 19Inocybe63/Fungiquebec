@@ -1,6 +1,6 @@
 ---
 nom: Plicaturopsis crispa
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5754/22047993816_fd80d44ac8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/22047993816/in/photolist-CCLgNz-yFJm6a-zAiJqq
 album-flickr:
@@ -243,13 +243,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Boulet, Bruno. Les champignons des arbres de l'est de l'Amérique du Nord, Les Publications du Québec, 2003, 727 p.
+    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 6, les polyporales, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 6, <i>les polyporales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 
@@ -271,14 +271,14 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Cantharellus crispus Pers., Neues Magazin für die Botanik 1:106 (1794)
-    Merulius crispus (Pers.) Pers., Icones et Descriptiones Fungorum Minus Cognitorum 2:32, t. 8:7-8 (1800)
-    Trogia crispa (Pers.) Fr., Monographia Hymenomycetum Sueciae 2:244 (1863)
-    Trombetta crispa (Pers.) Kuntze, Revisio generum plantarum 2:873 (1891)
-    Plicatura crispa (Pers.) Rea, British Basidiomycetae: A handbook to the larger British fungi:626 (1922)
-    Scytinotus crispus (Pers.) Spirin & Zmitr., Folia Cryptogamica Petropolitana 1:108 (2004)
-    Merulius fagineus Schrad., Spicilegium Florae Germanicae:137 (1794)
-    Lentinus unduletellus Britzelm., Botanisches Centralblatt 54 (4):101, pl. 19 (1893)
+    <i>Cantharellus crispus</i> Pers., Neues Magazin für die Botanik 1:106 (1794)
+    <i>Merulius crispus</i> (Pers.) Pers., Icones et Descriptiones Fungorum Minus Cognitorum 2:32, t. 8:7-8 (1800)
+    <i>Trogia crispa</i> (Pers.) Fr., Monographia Hymenomycetum Sueciae 2:244 (1863)
+    <i>Trombetta crispa</i> (Pers.) Kuntze, Revisio generum plantarum 2:873 (1891)
+    <i>Plicatura crispa</i> (Pers.) Rea, British Basidiomycetae: A handbook to the larger British fungi:626 (1922)
+    <i>Scytinotus crispus</i> (Pers.) Spirin & Zmitr., Folia Cryptogamica Petropolitana 1:108 (2004)
+    <i>Merulius fagineus</i> Schrad., Spicilegium Florae Germanicae:137 (1794)
+    <i>Lentinus unduletellus</i> Britzelm., Botanisches Centralblatt 54 (4):101, pl. 19 (1893)
   systeme-hyphal: monomitique, minces à paroi épaisse, 3-7 µm de large, certaines avec septa, brunes se terminant parfois densément, agglomérés au sommet, surtout chez les sujets âgés
   textura: 
   tomentum-caulinaire: 

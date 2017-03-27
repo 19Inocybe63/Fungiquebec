@@ -101,7 +101,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Lors de la coupe, la chair est blanche, puis elle devient rougeâtre-grisâtre sale, et finalement noircit. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -268,7 +269,7 @@ description:
   reactions-macrochimiques: |
     Sulfate de fer (FeSO<SUB>4</SUB>) = lames rosées ; pas de coloration sur le stipe
   receptacle: 
-  remarques: Lors de la coupe, la chair est blanche, devient rougeâtre-grisâtre sale, puis noircit.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

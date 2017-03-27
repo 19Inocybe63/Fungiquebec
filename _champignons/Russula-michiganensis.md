@@ -1,6 +1,6 @@
 ---
 nom: Russula michiganensis
-date: 2017-03-12 00:00:00
+date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/1/457/19437139763_3d6cc665ec_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19437139763/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
 album-flickr:
@@ -69,14 +69,14 @@ description:
   base-stipitiforme: 
   basides: claviformes à utriformes, tétrasporiques
   basidiospores: |
-    globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, finement à moyennement verruqueuses, finement et partiellement réticulées, avec des proéminences entre 0,1-0,4 µm de hauteur, à paroi mince, pore germinatif parfois observable ± 1 µm Ø, plage hilaire lisse et amyloïde, avec appendice hilaire visible, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%, amyloïdes
+    globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, finement à moyennement verruqueuses, finement et partiellement réticulées, avec des proéminences jusqu'à 0,4 µm de hauteur, à paroi mince, pore germinatif parfois observable ± 1 µm Ø, plage hilaire lisse et amyloïde, avec appendice hilaire visible, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%, amyloïdes
     (6,6) 7,4-8,5 (8,7) x (5,6) 5,9-7 (7,1) µm
     Q = (1,1) 1,2 - 1,3 (1,5); N = 30
     Me = 7,9 x 6,4 µm; Qe = 1,2
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol dans les forêts de chênes
+  biotopes: pousse au sol dans les forêts, <i>Quescus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -253,20 +253,20 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Beenken, Ludwig. Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    Kibby, Geoffrey & Fatto, Raymond. Keys to the species of Russula in Northeastern North America, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
-    Kibby, Geoffrey. The Genus Russula in Great Britain, with Synoptic keys to species, Édition Geoffrey Kibby, 2011, 132 p.
-    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Primo, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
-    Sarnari, Mauro. Monografia illustrara del Genere Russula in Europa, Tomo Secondo, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
-    Singer, Rolf. Note sur l'interprétation des spores de Russula établis en 1932.
+    <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
+    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey</b>. </i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
+    <b>Sarnari, Mauro</b>. <ï>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
+    <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B.Fondazione Centro Studi Micologici, 2005, 761 pp.
+    <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: |
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 1, les spores, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 2, les basides, les hyménocystides et les trames lamellaires, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 3, les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 4, la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    Kaufholtz-Couture, Claude. Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Module 5, les Russula, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    FeSO<SUB>4</SUB> = lames rosées ; pas de coloration sur le stipe
+    Sulfate de fer (FeSO<SUB>4</SUB>) = lames rosées ; pas de coloration sur le stipe
   receptacle: 
   remarques: Lors de la coupe, la chair est blanche, devient rougeâtre-grisâtre sale, puis noircit.
   repartition: 

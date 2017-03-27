@@ -1,6 +1,6 @@
 ---
 nom: Phaeolus schweinitzii
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8572/28194357805_f133399607_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28194357805/in/photolist-JUqUMo-JXrsik
 album-flickr:
@@ -237,7 +237,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    KOH 10% = devient noir sur le chapeau et le contexte ; sur jeunes sujets, il passe au rouge vin avant de noircir
+    Potasse (KOH 10%) = devient noir sur le chapeau et le contexte ; sur jeunes sujets, il passe au rouge vin avant de noircir
   receptacle: 
   remarques: 
   repartition: 
@@ -258,32 +258,32 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Phaeolus schweinizii (Fr.) Pat.
-    Polyporus schweinizii Fr.
-    Coltricia schweinizii (Fr.) G. Cunn.
-    Hapalopilus schweinizii (Fr.) Donk
-    Boletus sistotremoides Alb. & Schwein., Conspectus Fungorum in Lusatiae superioris:243 (1805)
-    Polyporus schweinitzii Fr., Systema Mycologicum 1:351 (1821)
-    Sistotrema ferrugineum Pers., Mycologia Europaea 2:205 (1825)
-    Polyporus sistotremoides (Alb. & Schwein.) Duby:785 (1830)
-    Polystictus schweinitzii (Fr.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:39 (1879)
-    Cladomeris schweinitzii (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:169 (1886)
-    Cladomeris schweinitzii var. schweinitzii (Fr.) Quél.:169 (1886)
-    Inodermus schweinitzii (Fr.) Quél., Flore mycologique de la France et des pays limitrophes:394 (1888)
-    Ochroporus sistotremoides (Alb. & Schwein.) J. Schröt., Kryptogamen-Flora von Schlesien 3-1(4):487 (1888)
-    Romellia sistotremoides (Alb. & Schwein.) Murrill, Bulletin of the Torrey Botanical Club 31 (6):339 (1904)
-    Polyporus sistotremoides (Alb. & Schwein.) Murrill (1905)
-    Phaeolus sistotremoides (Alb. & Schwein.) Murrill, Bulletin of the Torrey Botanical Club 32 (7):363 (1905)
-    Hapalopilus schweinitzii (Fr.) Donk, Mededelingen van het botanisch Museum en Herbarium van de Rijksuniversiteit Utrecht 9:173 (1933)
-    Coltricia schweinitzii (Fr.) G. Cunn., Bulletin of the New Zealand Department of Industrial Research 77:7 (1948)
-    Polyporus holophaeus Mont., Annales des Sciences Naturelles Botanique 20:361 (1843)
-    Polyporus herbergii Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 27/28:35 (1848)
-    Polystictus holopleus (Mont.) Fr., Nova Acta Regiae Societatis Scientiarum Upsaliensis 1:78 (1851)
-    Polyporus spongia Fr., Öfvers. K. Förh. Kongl. Svenska Vetensk.-Akad. (1852)
-    Polyporus hispidoides Peck, Annual Report on the New York State Museum of Natural History 33:21 (1880)
-    Inonotus sulphureopulverulentus P. Karst., Öfvers. finska VetenskSoc. Förh. 46 (11):8 (1904)
-    Daedalea fusca Velen., Ceske Houby 4-5:689 (1922)
-    Xanthochrous waterlotii Pat., Bull. Mus. Hist. nat., Paris:409 (1924)
+    <i>Phaeolus schweinizii</i> (Fr.) Pat.
+    <i>Polyporus schweinizii</i> Fr.
+    <i>Coltricia schweinizii</i> (Fr.) G. Cunn.
+    <i>Hapalopilus schweinizii</i> (Fr.) Donk
+    <i>Boletus sistotremoides</i> Alb. & Schwein., Conspectus Fungorum in Lusatiae superioris:243 (1805)
+    <i>Polyporus schweinitzii</i> Fr., Systema Mycologicum 1:351 (1821)
+    <i>Sistotrema ferrugineum</i> Pers., Mycologia Europaea 2:205 (1825)
+    <i>Polyporus sistotremoides</i> (Alb. & Schwein.) Duby:785 (1830)
+    <i>Polystictus schweinitzii</i> (Fr.) P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 5:39 (1879)
+    <i>Cladomeris schweinitzii</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:169 (1886)
+    <i>Cladomeris schweinitzii var. schweinitzii</i> (Fr.) Quél.:169 (1886)
+    <i>Inodermus schweinitzii</i> (Fr.) Quél., Flore mycologique de la France et des pays limitrophes:394 (1888)
+    <i>Ochroporus sistotremoides</i> (Alb. & Schwein.) J. Schröt., Kryptogamen-Flora von Schlesien 3-1(4):487 (1888)
+    <i>Romellia sistotremoides</i> (Alb. & Schwein.) Murrill, Bulletin of the Torrey Botanical Club 31 (6):339 (1904)
+    <i>Polyporus sistotremoides</i> (Alb. & Schwein.) Murrill (1905)
+    <i>Phaeolus sistotremoides</i> (Alb. & Schwein.) Murrill, Bulletin of the Torrey Botanical Club 32 (7):363 (1905)
+    <i>Hapalopilus schweinitzii</i> (Fr.) Donk, Mededelingen van het botanisch Museum en Herbarium van de Rijksuniversiteit Utrecht 9:173 (1933)
+    <i>Coltricia schweinitzii</i> (Fr.) G. Cunn., Bulletin of the New Zealand Department of Industrial Research 77:7 (1948)
+    <i>Polyporus holophaeus</i> Mont., Annales des Sciences Naturelles Botanique 20:361 (1843)
+    <i>Polyporus herbergii</i> Rostk., Deutschlands Flora, Abt. III. Die Pilze Deutschlands 27/28:35 (1848)
+    <i>Polystictus holopleus</i> (Mont.) Fr., Nova Acta Regiae Societatis Scientiarum Upsaliensis 1:78 (1851)
+    <i>Polyporus spongia</i> Fr., Öfvers. K. Förh. Kongl. Svenska Vetensk.-Akad. (1852)
+    <i>Polyporus hispidoides</i> Peck, Annual Report on the New York State Museum of Natural History 33:21 (1880)
+    <i>Inonotus sulphureopulverulentus</i> P. Karst., Öfvers. finska VetenskSoc. Förh. 46 (11):8 (1904)
+    <i>Daedalea fusca</i> Velen., Ceske Houby 4-5:689 (1922)
+    <i>Xanthochrous waterlotii</i> Pat., Bull. Mus. Hist. nat., Paris:409 (1924)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

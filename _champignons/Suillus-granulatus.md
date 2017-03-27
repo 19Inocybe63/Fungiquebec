@@ -52,7 +52,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus et conifères (<i>Pinus</i>)
+  biotopes: pousse au sol, sous feuillus et conifères ; <i>Pinus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -234,15 +234,15 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Bessette, Alan E., Bessette, Arleen R., Roody, William, C. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 2010, 400 p.
-    Noordeloos, Machiel E., Kuyper, Th. W., Vellinger, E. C. Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
-    Smith, Alexander H., Thiers, Harry D. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C.</b> <i>Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands</i>, Taylor & Francis group, 2005, 236 p.
+    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = gris bleuâtre sur le chapeau ; vert olive sur la face poroïde ; vert foncé sur le pied ; gris olive sur la chair
-    KOH 10% = olive foncé à gris olive sur le chapeau ; instantanément rouille orangé, puis rapidement brun pourpré sur la face poroïde ; brun pourpré sur le pied ; rose puis brun rosâtre sur la chair
-    NH<sub>4</sub>OH 10% = gris bleuâtre sur le chapeau ; rouille orangé sur la face poroïde ; brun pourpré sur le pied ; orange rosâtre puis bleuâtre à pourprée cerclée d'orangé sur la chair
+    Ammoniaque (NH<sub>4</sub>OH 10%) = gris bleuâtre sur le chapeau ; rouille orangé sur la face poroïde ; brun pourpré sur le stipe ; orange rosâtre puis bleuâtre à pourprée cerclée d'orangé sur la chair
+    Potasse (KOH 10%) = olive foncé à gris olive sur le chapeau ; instantanément rouille orangé, puis rapidement brun pourpré sur la face poroïde ; brun pourpré sur le stipe ; rose puis brun rosâtre sur la chair
+    Sulfate de fer (FeSO<sub>4</sub>) = gris bleuâtre sur le chapeau ; vert olive sur la face poroïde ; vert foncé sur le stipe ; gris olive sur la chair
   receptacle: 
   remarques: 
   repartition: 
@@ -263,12 +263,12 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Boletus granulatus L., Species Plantarum:1177 (1753)
-    Agaricus granulatus (L.) Lam., Encyclopédie Méthodique, Botanique 1-1:51 (1783)
-    Rostkovites granulatus (L.) P. Karst., Revue Mycologique Toulouse 3 (9):16 (1881)
-    Viscipellis granulata (Linnaeus) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:156 (1886)
-    Viscipellis granulata (L.) Quél.:156 (1886)
-    Ixocomus granulatus (L.) Quél., Flore mycologique de la France et des pays limitrophes:412 (1888)
+    <i>Boletus granulatus</i> L., Species Plantarum:1177 (1753)
+    <i>Agaricus granulatus</i> (L.) Lam., Encyclopédie Méthodique, Botanique 1-1:51 (1783)
+    <i>Rostkovites granulatus</i> (L.) P. Karst., Revue Mycologique Toulouse 3 (9):16 (1881)
+    <i>Viscipellis granulata</i> (Linnaeus) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:156 (1886)
+    <i>Viscipellis granulata</i> (L.) Quél.:156 (1886)
+    <i>Ixocomus granulatus</i> (L.) Quél., Flore mycologique de la France et des pays limitrophes:412 (1888)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

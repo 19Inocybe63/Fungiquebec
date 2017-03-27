@@ -1,6 +1,6 @@
 ---
 nom: Russula romagnesiana
-date: 2017-03-12 00:00:00
+date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/1/485/19540518869_9cc363d8bc_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19540518869/in/photolist-FubZvg-vLJgtK-vLJm7x
 album-flickr:

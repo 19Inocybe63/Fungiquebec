@@ -1,6 +1,6 @@
 ---
 nom: Pholiota marginella
-date: 2017-03-12 00:00:00
+date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/3/2936/14229296896_c8eebbe971_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14229296896/in/photolist-rYoUD4-nHeZ4S-nFoSe7
 album-flickr:
@@ -289,14 +289,18 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    Noordeloos, Machiel E. Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
-    Noordeloos, Machiel E. Pholiota, Psilocybe and Panaeolus, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    Smith, Alexander H., Hesler, Lexemuel R. The North American Species of Pholiota, Hafner Publishing Company, 1968, 349 p.
-  publications-microscopiques: 
+    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    FeSO<sub>4</sub> = le stipe devient un peu plus rougeâtre
-    NH<sub>4</sub>OH 10% = pas de coloration ou de décoloration sur toutes les parties
+    Ammoniaque (NH<sub>4</sub>OH 10%) = pas de coloration ou de décoloration sur toutes les parties
+    Sulfate de fer (FeSO<sub>4</sub>) = le stipe devient un peu plus rougeâtre
   receptacle: 
   remarques: 
   repartition: 
@@ -317,9 +321,9 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    Pholiota marginata var. marginella (Peck) Rick, Lilloa 3:406 (1938)
-    Kuehneromyces vernalis f. marginellus (Peck) Singer & A.H. Sm., Mycologia 38:520 (1946)
-    Kuehneromyces marginellus (Peck) Redhead, Sydowia 37:247 (1984)
+    <i>Pholiota marginata var. marginella</i> (Peck) Rick, Lilloa 3:406 (1938)
+    <i>Kuehneromyces vernalis f. marginellus</i> (Peck) Singer & A.H. Sm., Mycologia 38:520 (1946)
+    <i>Kuehneromyces marginellus</i> (Peck) Redhead, Sydowia 37:247 (1984)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

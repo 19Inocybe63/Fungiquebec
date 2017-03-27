@@ -250,7 +250,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Potasse (KOH 10%) = pas de coloration ni de décoloration à légèrement rosâtre sur le chapeau
-    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration à rosâtre sur le pied
+    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration à rosâtre sur le stipe
   receptacle: 
   remarques: 
   repartition: 

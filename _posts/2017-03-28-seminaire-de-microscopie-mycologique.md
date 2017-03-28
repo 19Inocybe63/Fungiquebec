@@ -8,7 +8,7 @@ categories:
 Dans le cadre de ses activités, l'Association des Mycologues Francophones de Belgique (AMFB) tiendra du 12 au 18 novembre 2017, un Séminaire de microscopie mycologique à Heer-Agimont, Belgique. Pour ma part, je suis très heureux de pouvoir participer à l'évènement. Je suis persuadé que je quitterai ce séminaire enrichi, muni de meilleures connaissances.
 
 <!--more-->
-## Programme
+#### Programme
 
 PROGRAMME DES ACTIVITES, ET EXPOSES PRATIQUES LORS DU SEMINAIRE ORGANISE PAR L’AMFB A MASSEMBRE, DU 12 AU 18 NOVEMBRE 2017
 
@@ -55,7 +55,7 @@ Voici une liste informative des diverses techniques qui seront abordées durant 
 * Gliosphex (Hohenbuehelia), chlamydospores (Lentinellus) et toxocystes (Pleurotus)
 * La trame d’un ascomycète (coupe transversale)
 
-## Exposés avec montage audiovisuel, après le repas du soir
+#### Exposés avec montage audiovisuel, après le repas du soir
 
 * La photographie numérique au microscope (diverses possibilités)
 * Les milieux de montage définitif : différents types de préparations

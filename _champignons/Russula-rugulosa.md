@@ -253,7 +253,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Soluté de gaïac = < 5" stipe +++ b (5 forte) ; < 5" lames +++ b (5 forte)
+    Soluté de gaïac = < 5" stipe +++ b (5, forte) ; < 5" lames +++ b (5, forte)
     Sulfate de fer (FeSO<sub>4</sub>) = rosé pâle sur le stipe
   receptacle: 
   remarques: Code de Kibby; A I K N / Q S

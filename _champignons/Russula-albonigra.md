@@ -39,7 +39,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Édition Fungiquebec, Québec 2014, 4 p.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
     <b>Kibby, Geoffrey</b>. <i>Key to blackening species of Russula of section Compactae</i>, Field Mycology Volume 2(3), July 2001, pp. 95-97, 3 p.
   ascome: 
   ascospores: 

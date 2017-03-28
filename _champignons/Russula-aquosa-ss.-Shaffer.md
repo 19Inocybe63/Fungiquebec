@@ -267,7 +267,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Soluté de Gaïac = < 5" stipe +++ b (5 = forte) ; < 5" lames +++ b (5 = forte)
+    Soluté de Gaïac = < 5" stipe +++ b (5, forte) ; < 5" lames +++ b (5, forte)
     Sulfate de fer (FeSO<SUB>4</SUB>) = Lames légèrement saumoné ; Stipe ± saumoné
   receptacle: 
   remarques: |

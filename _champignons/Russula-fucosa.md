@@ -29,9 +29,9 @@ collections:
   - fongarium: cKc0236
     date: 4 septembre 2014
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0236-0162
+      miniature: https://c2.staticflickr.com/4/3938/33659171526_e059f4553f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/33659171526/in/photolist-Thm42y-oMu8uA-p4WfZw-p4Ychk/
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
     determinee: Claude Kaufholtz-Couture

@@ -247,11 +247,11 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: en spatules, septées, faiblement sulfobenzaldéhyde positif (SBA+)
+  pileocystides: nombreuses, cylindriques, septées, faiblement sulfobenzaldéhyde positif (SBA+)
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, proéminentes, cylindriques avec apex mucroné, parfois avec apex largement mucroné, à baguette de tambour, 48,7 [58,6; 70,7] 80,7 x 10,5 [11,3; 12,3] 13,1 µm en moyenne
-  poils: 
+  poils: nombreux, cylindriques, septées
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

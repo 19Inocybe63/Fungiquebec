@@ -6,7 +6,7 @@ categories:
 - Microscopie
 ---
 
-  Dans le cadre de ses activités, [l'Association des Mycologues Francophones de Belgique (AMFB)](http://www.amfb.eu/) tiendra du 12 au 18 novembre 2017, un Séminaire de microscopie mycologique à Heer-Agimont, Belgique. Pour ma part, je suis très heureux de pouvoir participer à l'évènement. Je suis persuadé que je quitterai le séminaire enrichi, muni de meilleures connaissances.
+Dans le cadre de ses activités, [l'Association des Mycologues Francophones de Belgique (AMFB)](http://www.amfb.eu/) tiendra du 12 au 18 novembre 2017, un Séminaire de microscopie mycologique à Heer-Agimont, Belgique. Pour ma part, je suis très heureux de pouvoir participer à l'évènement. Je suis persuadé que je quitterai le séminaire enrichi, muni de meilleures connaissances.
 
 <!--more-->
 
@@ -37,7 +37,7 @@ Voici une liste informative des diverses techniques qui seront abordées durant 
 * La technique du frottis appliquée au montage des spores : Merckoglass / Aquatex
 * Traitement d’un exsiccatum pour examen microscopique
 * Les différents types d’hyphes, dont les thromboplères
-* Les techniques de double coloration(RCF SDS + Phloxine B – RC SDS + noir de chlorazol)
+* Les techniques de double coloration (RCF SDS + Phloxine B – RC SDS + noir de chlorazol)
 * Utilisation de la nigrosine ou du noir de chlorazol pour l’observation des éléments hyalins
 * Mise en évidence de la trame et de la cuticule d’un basidiomycète
 * Comment visualiser la forme des spores des inocybes et des entolomes ?

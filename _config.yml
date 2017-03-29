@@ -120,7 +120,6 @@ champs-details:
     format: italique
   - name: espece
     label: Espèce
-    format: italique
   - name: litterature
     label: Littérature
 

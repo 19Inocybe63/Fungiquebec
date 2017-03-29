@@ -9,7 +9,7 @@ Dans le cadre de ses activités, [l'Association des Mycologues Francophones de B
 
 <!--more-->
 
-#### PROGRAMME DES ACTIVITES, ET EXPOSES PRATIQUES LORS DU SEMINAIRE ORGANISE PAR L’AMFB A MASSEMBRE, DU 12 AU 18 NOVEMBRE 2017
+#### Programme des activités, et exposés pratiques lord du Séminaire organisé par l’AMFB à Massembre, du 12 au 18 novembre 2017
 
 Le laboratoire sera accessible en soirée, jusque 22h00, pour les « couche-tard ».
 

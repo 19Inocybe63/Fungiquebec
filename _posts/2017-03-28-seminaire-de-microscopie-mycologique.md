@@ -5,19 +5,18 @@ categories:
 - Formation
 ---
 
-Dans le cadre de ses activités, [l'Association des Mycologues Francophones de Belgique (AMFB)](http://www.amfb.eu/) tiendra du 12 au 18 novembre 2017, un Séminaire de microscopie mycologique à Heer-Agimont, Belgique. Pour ma part, je suis très heureux de pouvoir participer à l'évènement. Je suis persuadé que je quitterai ce séminaire enrichi, muni de meilleures connaissances.
+Dans le cadre de ses activités, [l'Association des Mycologues Francophones de Belgique (AMFB)](http://www.amfb.eu/) tiendra du 12 au 18 novembre 2017, un Séminaire de microscopie mycologique à Heer-Agimont, Belgique. Pour ma part, je suis très heureux de pouvoir participer à l'évènement. Je suis persuadé que je quitterai le séminaire enrichi, muni de meilleures connaissances.
 
 <!--more-->
-#### Programme
 
-**PROGRAMME DES ACTIVITES, ET EXPOSES PRATIQUES LORS DU SEMINAIRE ORGANISE PAR L’AMFB A MASSEMBRE, DU 12 AU 18 NOVEMBRE 2017**
+####**PROGRAMME DES ACTIVITES, ET EXPOSES PRATIQUES LORS DU SEMINAIRE ORGANISE PAR L’AMFB A MASSEMBRE, DU 12 AU 18 NOVEMBRE 2017**
 
 Le laboratoire sera accessible en soirée, jusque 22h00, pour les « couche-tard ».
 
 Voici une liste informative des diverses techniques qui seront abordées durant ce séminaire.
 
 * Vérification du centrage de votre condensateur
-* l’INDISPENSABLE : « laver » une préparation microscopique
+* L’indispensable : « laver » une préparation microscopique
 * Montage de la première lame : une technique essentielle en mycologie : la dissociation – la recherche de boucles dans les hyphes
 * Les milieux d’observation (préparations extemporanées)
 * Les colorations orthochromatiques (rouge Congo, bleus divers et autres)

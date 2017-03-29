@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Agaric des jachères
-  autorites: Schaeff.
   ordre: Agaricales
   famille: Agaricaceae
   genre: Agaricus
-  espece: arvensis
+  espece: arvensis Schaeff.
   litterature: Schaeffer, J. C. 1774. Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones. 4:1-136
 
 collections:

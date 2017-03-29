@@ -11,7 +11,7 @@ details:
   ordre: Agaricales
   famille: Agaricaceae
   genre: Agaricus
-  espece: <i>Agaric arvensis</i> Schaeff.
+  espece: <i>Agaricus arvensis</i> Schaeff.
   litterature: Schaeffer, J. C. 1774. Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones. 4:1-136
 
 collections:

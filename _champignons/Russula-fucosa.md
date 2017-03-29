@@ -11,7 +11,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: fucosa Burl.
+  espece: Russula fucosa Burl.
   litterature: Burlingham, G.S. 1924. Notes on species of Russula. Mycologia. 16(1):16-23
 
 collections:

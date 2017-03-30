@@ -6,7 +6,7 @@ categories:
 - Microscopie
 ---
 
-Dans le cadre de ses activités, [l'Association des Mycologues Francophones de Belgique (AMFB)](http://www.amfb.eu/) tiendra du 12 au 18 novembre 2017, un Séminaire de microscopie mycologique à Heer-Agimont, Belgique. Pour ma part, je suis très heureux de pouvoir participer à l'évènement. Je suis persuadé que je quitterai le séminaire enrichi, muni de meilleures connaissances.
+Dans le cadre de ses activités, [l'Association des Mycologues Francophones de Belgique (AMFB)](http://www.amfb.eu/) tiendra du 12 au 18 novembre 2017, un Séminaire de microscopie d emycologie à Heer-Agimont, Belgique. Pour ma part, je suis très heureux de pouvoir participer à l'évènement. Je suis persuadé que je quitterai le séminaire enrichi, muni de meilleures connaissances.
 
 <!--more-->
 

@@ -58,6 +58,10 @@ Voici une liste informative des diverses techniques qui seront abordées durant 
 * Gliosphex (Hohenbuehelia), chlamydospores (Lentinellus) et toxocystes (Pleurotus)
 * La trame d’un ascomycète (coupe transversale)
 
+<table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
+<thead>
+Titre du tableau
+<tr>
 #### Exposés avec montage audiovisuel, après le repas du soir
 
 * La photographie numérique au microscope (diverses possibilités)

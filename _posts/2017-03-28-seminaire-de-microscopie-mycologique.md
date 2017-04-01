@@ -7,6 +7,7 @@ categories:
 ---
 
 Dans le cadre de ses activités, [l'Association des Mycologues Francophones de Belgique (AMFB)](http://www.amfb.eu/) tiendra du 12 au 18 novembre 2017, un Séminaire de microscopie de mycologie à Heer-sur-Meuse, Belgique. C'est un réel bonheur que de pouvoir participer à l'évènement. Je suis persuadé que je quitterai le séminaire enrichi, et muni de meilleures connaissances.
+<p>&nbsp; </p>
 
 <!--more-->
 

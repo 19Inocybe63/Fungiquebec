@@ -57,13 +57,12 @@ Voici une liste informative des diverses techniques qui seront abordées durant 
 * Les pigments cuticulaires : mise en évidence
 * Gliosphex (Hohenbuehelia), chlamydospores (Lentinellus) et toxocystes (Pleurotus)
 * La trame d’un ascomycète (coupe transversale)
+<p>&nbsp; </p>
 
-<table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
-<thead>
 #### Exposés avec montage audiovisuel, après le repas du soir
-<tr>
-<th>colonne 1</th> La photographie numérique au microscope (diverses possibilités)
-<th>colonne 2</th> Les milieux de montage définitif : différents types de préparations
-<th>colonne 3</th>Les coupes au microtome de Ranvier
-<th>colonne 4</th> La technique de l’éclairage oblique, pour deux sous ! Découverte et utilisation, sur une préparation 
-<th>colonne 5</th> Utilisation de Piximètre (par son auteur)
+
+* La photographie numérique au microscope (diverses possibilités)
+* Les milieux de montage définitif : différents types de préparations
+* Les coupes au microtome de Ranvier
+* La technique de l’éclairage oblique, pour deux sous ! Découverte et utilisation, sur une préparation 
+* Utilisation de Piximètre (par son auteur)

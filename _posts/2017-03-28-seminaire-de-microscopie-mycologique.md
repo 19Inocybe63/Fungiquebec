@@ -60,10 +60,9 @@ Voici une liste informative des diverses techniques qui seront abordées durant 
 
 <table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
 <thead>
-Titre du tableau
-<tr>
 #### Exposés avec montage audiovisuel, après le repas du soir
-
+<tr>
+<th>colonne 1</th>
 * La photographie numérique au microscope (diverses possibilités)
 * Les milieux de montage définitif : différents types de préparations
 * Les coupes au microtome de Ranvier

@@ -259,7 +259,7 @@ description:
   reactions-macrochimiques: |
     Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 
-  remarques: Sous genre Rimosae ; Clé de Fatto, A D F I K L N Q -
+  remarques: Sous genre Rimosae ; Clé de Fatto, A D F I K L N Q
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

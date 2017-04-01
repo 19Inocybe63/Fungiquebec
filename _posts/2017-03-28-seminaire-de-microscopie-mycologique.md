@@ -62,9 +62,8 @@ Voici une liste informative des diverses techniques qui seront abordées durant 
 <thead>
 #### Exposés avec montage audiovisuel, après le repas du soir
 <tr>
-<th>colonne 1</th>
-* La photographie numérique au microscope (diverses possibilités)
-* Les milieux de montage définitif : différents types de préparations
-* Les coupes au microtome de Ranvier
-* La technique de l’éclairage oblique, pour deux sous ! Découverte et utilisation, sur une préparation 
-* Utilisation de Piximètre (par son auteur)
+<th>colonne 1</th> La photographie numérique au microscope (diverses possibilités)
+<th>colonne 2</th> Les milieux de montage définitif : différents types de préparations
+<th>colonne 3</th>Les coupes au microtome de Ranvier
+<th>colonne 4</th> La technique de l’éclairage oblique, pour deux sous ! Découverte et utilisation, sur une préparation 
+<th>colonne 5</th> Utilisation de Piximètre (par son auteur)

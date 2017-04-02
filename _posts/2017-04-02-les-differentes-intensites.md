@@ -66,10 +66,18 @@ Façon de noter les différentes intensités de la soluté alcoolique officinal 
 * réaction bleue après 5" S +++ = réaction forte endéans 5 secondes (5, forte) ;
 * réaction bleue après 5" L +++ = réaction forte endéans 5 secondes (5, forte).
 
+#### Spécimen trop mature et taux d’humidité
 
+L’utilisateur du soluté de gaïac doit être en garde, car la fraicheur du champignon influencera grandement le résultat obtenu. En effet, nous avons constaté que sur des spécimens jeunes à mâtures, les résultats bleus de gaïac sont identiques ; ce qui confère donc une stabilité dans les résultats ; on peut s’y fier.
 
+À l’inverse, lorsque le spécimen est trop mature, les réactions tardent trop, ou bien elles sont trop hâtives ; bref, rien ne va plus. Un examen macromorphologique du champignon est donc approprié et impératif avant l’utilisation du soluté de gaïac. De plus, l’utilisateur devra reconnaître et juger si le champignon est imbu ou sec, car là aussi il y aura une insidence sur le résultat du teste. Dans tel cas :
 
+* il faut tenir compte s’il a plu avant votre récolte, ou non, et depuis combien de jours. L’utilisateur devra donc reconnaître et juger si le champignon est imbu ou sec, car là aussi il y aura une insidence sur le résultat du teste ;
+* le toucher qui est un sens très sensible sera un bon indicateur sur la fraîcheur ;
+* si la marge du chapeau est plissée, même très faiblement, le spécimen est déjà trop mature. Il faussera les résultats.
 
+#### Conclusion
 
+C’est par l’utilisation de ce réactif que nous verrons apparaître une constante macrochimique importante chez les Russules, pour peu que nous nous y appliquions en procédant avec méthode par ce protocole d’utilisation. Dans quelques années, il nous sera possible de compiler les données d’un groupe de recherche, et ainsi, nous serons en mesure d'en extraire des tableaux forts instructifs et évocateurs.
 
-
+Bonne cueillette !

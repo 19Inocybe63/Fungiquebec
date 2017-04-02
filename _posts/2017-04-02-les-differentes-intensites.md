@@ -27,16 +27,13 @@ soit +
 * b) Parfois, il se produit une réaction jaune à crème jaunâtre. En effet. il arrive qu'au lieu de la réaction bleue classique, on obtienne du jaune ou du crème jaunâtre, c'est-à-dire des couleurs non orthodoxes (origine inconnue). Ainsi, sur la chair de Cortinarius aureofulvus, jaune de chrome et Cortinarius fraudulosus crème jaunâtre (réactions macrochimique chez les Cortinaires de RC Azema).
 
 #### Alors, réactions macrochimiques intéressantes ?
-
-En cas de réponse
-* +, il faut noter : 
+En cas de réponse +, il faut noter :
 * si jaune ou crème jaunâtre
-* si bleue
+* ou bleue
 
-
-
-
-
+#### Dans la formulation de la réaction, il ne faut pas oublier...
+* L'intensité de la teinte obtenue : +++, ++, +, 0
+* Le temps de réaction : instantanée, rapide, assez lente, lente, très lente
 
 
 

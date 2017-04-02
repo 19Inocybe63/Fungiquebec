@@ -26,5 +26,20 @@ soit +
 * a) Réaction bleue (phénoloxydases) qui peut varier tant en intensité (bleu clair à bleu très foncé) que dans le temps (instantanée à quelques minutes), cela dépend de la quantité et de la qualité de la phénoloxydase présente.
 * b) Parfois, il se produit une réaction jaune à crème jaunâtre. En effet. il arrive qu'au lieu de la réaction bleue classique, on obtienne du jaune ou du crème jaunâtre, c'est-à-dire des couleurs non orthodoxes (origine inconnue). Ainsi, sur la chair de Cortinarius aureofulvus, jaune de chrome et Cortinarius fraudulosus crème jaunâtre (réactions macrochimique chez les Cortinaires de RC Azema).
 
+#### Alors, réactions macrochimiques intéressantes ?
+
+En cas de réponse
+* +, il faut noter : 
+* si jaune ou crème jaunâtre
+* si bleue
+
+
+
+
+
+
+
+
+
 
 

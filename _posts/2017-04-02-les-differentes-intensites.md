@@ -35,6 +35,14 @@ En cas de réponse +, il faut noter :
 * L'intensité de la teinte obtenue : +++, ++, +, 0
 * Le temps de réaction : instantanée, rapide, assez lente, lente, très lente
 
+Avec le temps, les résultats de ces informations deviendront essentiels pour le mycologue !
+
+#### Application
+Monsieur René Chalange, secrétaire général de la *Société Mycologique de France* (SMF), un mycologue réputé et un grand russulogue, invite les mycologues à observer et enregistrer séparément les réactions du Gaïac endéans les premières 5 secondes et puis après ce délai. Il entend publier ces résultats (observations d’autres russulogues comprises) dans les années à venir, vu que les informations données dans les monographies sont trop imprécises.
+
+En effet, les réactions positives du Gaïac sont généralement fortes après quelques minutes, c’est-à-dire, une réaction progressive en intensité. Il va de soi qu’une réaction délimitée par le temps peut donner des résultats plus efficaces pour la détermination de certaines espèces, si le temps de réaction du Gaïac de ces dernières est constant suite à nos observations prolongées. Il est donc conseillé d’appliquer le Gaïac aussi bien sur le stipe que sur les lames, vu que les réactions peuvent être différentes .
+
+Pour augmenter la précision des observations de l’intensité dans le temps , il est aussi possible de mettre un chiffre entre 0 et 5 ; 0, nul, 1, faible, 3, moyenne, 5, forte. Il va de soi que les effets climatiques ont aussi beaucoup d’influences sur les résultats. L’utilisation de gros bon sens est toujours de mise !
 
 
 

@@ -15,6 +15,7 @@ Parfois écrit, à tort, *Gayac* (orthographe cependant acceptable, mais à évi
 #### Nature du réactif et gradation
 !(https://www.flickr.com/photos/kaufholtz/28260892405/in/album-72157678833294473/)
 Ce réactif révèle les phénoloxydases (comme d'ailleurs plusieurs autres substances) qui au contact du *Gaïac*, donnent plus ou moins rapidement (instantané à quelques minutes) un corps coloré en bleu dit bleu de Gaïac. La réaction est donnée par l'acide bêta gaïaconique selon la réaction générale. C'est d'ailleurs cette même réaction qui fait bleuir la résine de Gaïac à l'air, mais beaucoup plus lentement, car sans intervention d'enzyme. Il y a uniquement action de O<sub>2</sub> de l'air donc de beaucoup, plus lente).
+<p>&nbsp; </p>
 
 #### Échelle de gradation et façon de noter les résultats
 Pour assurer l'uniformité dans l'utilisation de la teinture de Gaïac, voici ce petit guide.
@@ -25,17 +26,20 @@ soit 0
 soit +
 * a) Réaction bleue (phénoloxydases) qui peut varier tant en intensité (bleu clair à bleu très foncé) que dans le temps (instantanée à quelques minutes), cela dépend de la quantité et de la qualité de la phénoloxydase présente.
 * b) Parfois, il se produit une réaction jaune à crème jaunâtre. En effet. il arrive qu'au lieu de la réaction bleue classique, on obtienne du jaune ou du crème jaunâtre, c'est-à-dire des couleurs non orthodoxes (origine inconnue). Ainsi, sur la chair de Cortinarius aureofulvus, jaune de chrome et Cortinarius fraudulosus crème jaunâtre (réactions macrochimique chez les Cortinaires de RC Azema).
+<p>&nbsp; </p>
 
 #### Alors, réactions macrochimiques intéressantes ?
 En cas de réponse +, il faut noter :
 * si jaune ou crème jaunâtre
 * ou bleue
+<p>&nbsp; </p>
 
 #### Dans la formulation de la réaction, il ne faut pas oublier...
 * L'intensité de la teinte obtenue : +++, ++, +, 0
 * Le temps de réaction : instantanée, rapide, assez lente, lente, très lente
 
 Avec le temps, les résultats de ces informations deviendront essentiels pour le mycologue !
+<p>&nbsp; </p>
 
 #### Application
 Monsieur René Chalange, secrétaire général de la *Société Mycologique de France* (SMF), un mycologue réputé et un grand russulogue, invite les mycologues à observer et enregistrer séparément les réactions du Gaïac endéans les premières 5 secondes et puis après ce délai. Il entend publier ces résultats (observations d’autres russulogues comprises) dans les années à venir, vu que les informations données dans les monographies sont trop imprécises.
@@ -51,6 +55,7 @@ Façon de noter les différentes intensités de la soluté alcoolique officinal 
 * endéans 5" L +, réaction faible après 5 secondes, (1, faible)
 * endéans 5" L ++, réaction moyenne après 5 secondes, (3, moyenne)
 * endéans 5" L +++, réaction forte après 5 secondes, (5, forte)
+<p>&nbsp; </p>
 
 #### Trois exemples distincts
 
@@ -65,6 +70,7 @@ Façon de noter les différentes intensités de la soluté alcoolique officinal 
 *Russula compacta*
 * réaction bleue après 5" S +++ = réaction forte endéans 5 secondes (5, forte) ;
 * réaction bleue après 5" L +++ = réaction forte endéans 5 secondes (5, forte).
+<p>&nbsp; </p>
 
 #### Spécimen trop mature et taux d’humidité
 
@@ -75,6 +81,7 @@ L’utilisateur du soluté de gaïac doit être en garde, car la fraicheur du ch
 * il faut tenir compte s’il a plu avant votre récolte, ou non, et depuis combien de jours. L’utilisateur devra donc reconnaître et juger si le champignon est imbu ou sec, car là aussi il y aura une insidence sur le résultat du teste ;
 * le toucher qui est un sens très sensible sera un bon indicateur sur la fraîcheur ;
 * si la marge du chapeau est plissée, même très faiblement, le spécimen est déjà trop mature. Il faussera les résultats.
+<p>&nbsp; </p>
 
 #### Conclusion
 

@@ -5,6 +5,8 @@ categories:
 - Colorants et réactifs
 - Réactions macrochimiques
 ---
+adaptation d’un article
+de Jacques Charbonnel
 
 ### Explication du nom
 Parfois écrit, à tort, *Gayac* (orthographe cependant acceptable, mais à éviter). Il ne faut pas le confondre avec le *Gaiacol* (alcoolique ou aqueux). Ce terme de « Gaïac » est l’abréviation usuelle mycologique (écrite et orale) pour désigner le soluté alcoolique officinal de résine de Gaïac, seul nom officiel qu’on appelle également teinture de gaïac ou encore teinture de résine de Gaïac, etc., mais qui n’en demeure pas moins des noms non officiels. Le terme teinture est utilisé à tort, mais cependant habituel.

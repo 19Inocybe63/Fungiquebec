@@ -12,8 +12,8 @@ Parfois écrit, à tort, *Gayac* (orthographe cependant acceptable, mais à évi
 
 ### Nature du réactif et gradation
 
-![Alt text](https://www.fungiquebec.ca//https://www.flickr.com/photos/kaufholtz/28260892405/in/photolist-LzaMxh-LzaAnG-KVgMNG-KpX4uB-K4jsHB
-"Gaïac")Ce réactif révèle les phénoloxydases (comme d'ailleurs plusieurs autres substances) qui au contact du *Gaïac*, donnent plus ou moins rapidement (instantané à quelques minutes) un corps coloré en bleu dit bleu de Gaïac. La réaction est donnée par l'acide bêta gaïaconique selon la réaction générale. C'est d'ailleurs cette même réaction qui fait bleuir la résine de Gaïac à l'air, mais beaucoup plus lentement, car sans intervention d'enzyme. Il y a uniquement action de O<sub>2</sub> de l'air donc de beaucoup, plus lente).
+https://www.flickr.com/photos/kaufholtz/28260892405/in/photolist-LzaMxh-LzaAnG-KVgMNG-KpX4uB-K4jsHB
+Ce réactif révèle les phénoloxydases (comme d'ailleurs plusieurs autres substances) qui au contact du *Gaïac*, donnent plus ou moins rapidement (instantané à quelques minutes) un corps coloré en bleu dit bleu de Gaïac. La réaction est donnée par l'acide bêta gaïaconique selon la réaction générale. C'est d'ailleurs cette même réaction qui fait bleuir la résine de Gaïac à l'air, mais beaucoup plus lentement, car sans intervention d'enzyme. Il y a uniquement action de O<sub>2</sub> de l'air donc de beaucoup, plus lente).
 
 
 

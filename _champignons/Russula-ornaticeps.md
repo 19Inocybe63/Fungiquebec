@@ -24,8 +24,18 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/23691248043/in/photolist-C6vQDR-vLybg9-w4b2ea
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0553
+    date: 31 août 2016
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

@@ -60,7 +60,7 @@ description:
   base-stipitiforme: 
   basides: cylindriques à claviformes, tétrasporiques, non bouclées à la base, à contenu vacuolaire, 37,0-40,0 x 7,0-9,0 µm en moyenne
   basidiospores: |
-    subglobuleuses à elliptiques en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses, partiellement réticulé, avec proéminences jusqu'à 0,5 µm de hauteur, à paroi mince, appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses, partiellement à rarement réticulé, avec proéminences jusqu'à 0,7 µm de hauteur, à paroi mince, avec appendice hilaire moyen à proéminent, plage hilaire faiblement amyloïde, pore germinatif rarement visible jusqu’à 1 µm Ø, à contenu uniguttulé, hyalines dans E.G. 20%, faiblement amyloïdes
     (5,3) 5,8-6,4 (7,7) x (4,2) 4,6-5,7 (6,5) µm
     Q = (1) 1,1-1,26 (1,3); N = 30
     Me = 6,2 x 5,2 µm; Qe = 1,2
@@ -276,7 +276,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; D-E d'après la charte de couleur de Kibby
+  sporee: IIb-IId pallidosporée, crème pâle à crème moyen, à ocrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; C-E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

@@ -32,8 +32,8 @@ Pour assurer l'uniformité dans l'utilisation de la teinture de Gaïac, voici ce
 
 #### Alors, réactions macrochimiques intéressantes ?
 En cas de réponse positive (+), il faut noter :
-* si jaune ou crème jaunâtre
-* ou bleue
+_* si jaune ou crème jaunâtre
+_* ou bleue
 <p>&nbsp; </p>
 
 #### Dans la formulation de la réaction, il ne faut pas oublier...

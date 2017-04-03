@@ -22,10 +22,10 @@ Ce réactif révèle les phénoloxydases (comme d'ailleurs plusieurs autres subs
 #### Échelle de gradation et façon de noter les résultats
 Pour assurer l'uniformité dans l'utilisation de la teinture de Gaïac, voici ce petit guide.
 
-soit 0
+**soit 0**
 * pas de coloration bleue, mais la coloration brun pâle du réactif, pas de phénoloxydases.
 
-soit +
+**soit +**
 * a) Réaction bleue (phénoloxydases) qui peut varier tant en intensité (bleu clair à bleu très foncé) que dans le temps (instantanée à quelques minutes), cela dépend de la quantité et de la qualité de la phénoloxydase présente.
 * b) Parfois, il se produit une réaction jaune à crème jaunâtre. En effet. il arrive qu'au lieu de la réaction bleue classique, on obtienne du jaune ou du crème jaunâtre, c'est-à-dire des couleurs non orthodoxes (origine inconnue). Ainsi, sur la chair de Cortinarius aureofulvus, jaune de chrome et Cortinarius fraudulosus crème jaunâtre (réactions macrochimique chez les Cortinaires de RC Azema).
 <p>&nbsp; </p>

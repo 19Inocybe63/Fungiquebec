@@ -1,6 +1,6 @@
 ---
 nom: Russula ornaticeps
-date: 2017-03-27 00:00:00
+date: 2017-04-03 00:00:00
 image: https://c1.staticflickr.com/1/317/19538550198_bebce9b492_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19538550198/in/photolist-C6vQDR-vLybg9-w4b2ea
 album-flickr:
@@ -83,7 +83,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « R. ornaticeps est un membre typique de la sous-section Griseinae (section Heterophyllae) et est l'un des champignons les plus communs dans les forêts à feuilles caduques de l'est des États-Unis. »
   conidies: 
   conidiome: 
   conidiophores: 

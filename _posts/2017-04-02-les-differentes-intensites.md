@@ -88,4 +88,4 @@ L’utilisateur du soluté de gaïac doit être en garde, car la fraicheur du ch
 
 #### Conclusion
 
-C’est par l’utilisation de ce réactif que nous verrons apparaître une constante macrochimique importante chez les Russules, pour peu que nous nous y appliquions en procédant avec méthode par ce protocole d’utilisation. Dans quelques années, il nous sera possible de compiler les données d’un groupe de recherche, et ainsi, nous serons en mesure d'en extraire des tableaux forts instructifs et évocateurs.
+C’est par l’utilisation du soluté de Gaïac que nous verrons apparaître une constante macrochimique importante chez les Russules, pour peu que nous nous y appliquions en procédant avec méthode par un protocole d’utilisation efficace. Dans quelques années, il nous sera possible de compiler les données de plusieurs groupes de recherche, et ainsi, être en mesure d’en extraire des bases éprouvées aux tableaux forts instructifs et évocateurs.

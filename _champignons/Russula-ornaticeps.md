@@ -83,7 +83,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « R. ornaticeps est un membre typique de la sous-section Griseinae (section Heterophyllae) et est l'un des champignons les plus communs dans les forêts à feuilles caduques de l'est des États-Unis. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « R. ornaticeps est un membre typique de la sous-section Griseinae (section Heterophyllae) et est l'un des champignons les plus communs dans les forêts à feuilles caduques de l'est des États-Unis. »
+    De Geoffrey Kibby and Raymond Fatto. « One of our most attractive and more readily recognizable species. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -249,9 +251,12 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
+    Soluté de gaïac = >"5 S (0, absence) ; >"5 L (0, absence)
     Sulfate de fer (FeSO<SUB>4</SUB>) = saumon sur le stipe
   receptacle: 
-  remarques: Groupe Griseinae
+  remarques: |
+    Groupe Griseinae
+    Code d'après Kibby & Fatto, DIK/LN QT
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

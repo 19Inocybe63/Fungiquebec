@@ -53,9 +53,9 @@ Voici une liste informative des diverses techniques qui seront abordées durant 
 * Microscopie des Lichens
 * Les Gloméromycètes
 * Des endomycorhizes : les pelotes orchidoïdes
-* Les cystides trabéculaires et les pseudoparaphyses dans le genre Coprinus
+* Les cystides trabéculaires et les pseudoparaphyses dans le genre *Coprinus*
 * Les pigments cuticulaires : mise en évidence
-* Gliosphex (Hohenbuehelia), chlamydospores (Lentinellus) et toxocystes (Pleurotus)
+* Gliosphex (*Hohenbuehelia*), *chlamydospores* (*Lentinellus*) et toxocystes (*Pleurotus*)
 * La trame d’un ascomycète (coupe transversale)
 <p>&nbsp; </p>
 
@@ -65,4 +65,4 @@ Voici une liste informative des diverses techniques qui seront abordées durant 
 * Les milieux de montage définitif : différents types de préparations
 * Les coupes au microtome de Ranvier
 * La technique de l’éclairage oblique, pour deux sous ! Découverte et utilisation, sur une préparation 
-* Utilisation de Piximètre (par son auteur)
+* Utilisation de Piximètre (par Alain Henriot)

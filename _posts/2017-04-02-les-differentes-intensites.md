@@ -16,7 +16,7 @@ Parfois écrit, à tort, *Gayac* (orthographe cependant acceptable, mais à évi
 <p>&nbsp; </p>
 #### Nature du réactif et gradation
 ![Reaction bleue de gaïac](https://c1.staticflickr.com/9/8773/28260892405_b447d257b8_n.jpg "Figure 1.  Réaction bleue de Gaïac sur une Russula sp.")
-Ce réactif révèle les phénoloxydases (comme d'ailleurs plusieurs autres substances) qui au contact du *Gaïac*, donnent plus ou moins rapidement (instantané à quelques minutes) un corps coloré en bleu dit bleu de Gaïac. La réaction est donnée par l'acide bêta gaïaconique selon la réaction générale. C'est d'ailleurs cette même réaction qui fait bleuir la résine de Gaïac à l'air, mais beaucoup plus lentement, car sans intervention d'enzyme. Il y a uniquement action de O<sub>2</sub> de l'air donc de beaucoup, plus lente).
+<p style="text-align:right";> Ce réactif révèle les phénoloxydases (comme d'ailleurs plusieurs autres substances) qui au contact du *Gaïac*, donnent plus ou moins rapidement (instantané à quelques minutes) un corps coloré en bleu dit bleu de Gaïac. La réaction est donnée par l'acide bêta gaïaconique selon la réaction générale. C'est d'ailleurs cette même réaction qui fait bleuir la résine de Gaïac à l'air, mais beaucoup plus lentement, car sans intervention d'enzyme. Il y a uniquement action de O<sub>2</sub> de l'air donc de beaucoup, plus lente).
 <p>&nbsp; </p>
 
 #### Échelle de gradation et façon de noter les résultats
@@ -32,8 +32,8 @@ Pour assurer l'uniformité dans l'utilisation de la teinture de Gaïac, voici ce
 
 #### Alors, réactions macrochimiques intéressantes ?
 En cas de réponse positive (+), il faut noter :
-_* si jaune ou crème jaunâtre
-_* ou bleue
+* si jaune ou crème jaunâtre
+* ou bleue
 <p>&nbsp; </p>
 
 #### Dans la formulation de la réaction, il ne faut pas oublier...

@@ -67,7 +67,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol argileux des vieilles forêts, <i>Fagus</i>, <i>Quercus</i>
+  biotopes: pousse au sol argileux des vieilles forêts, feuillus et conifères, <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -84,7 +84,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, cassante, blanche
   chancre: 
-  chapeau: 40-100 mm Ø, convexe puis déprimé, cuticule finement rompue et collante ; se pèle jusqu'au ¾ du rayon
+  chapeau: 40-100 mm Ø, convexe puis déprimé, à cuticule finement rompue et collante, se pèle jusqu'au ½-¾ du rayon, mauve, lilas
   cheilochrysocystides:
   cheilocystides: présentes, sensiblement de la même forme que les pleurocystides, réaction sulfovanilline positive (SV+)
   cheiloleptocystides: 
@@ -189,7 +189,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à sinuées, serrées, blanches avec arêtes violettes sur une bonne partie de sa longueur, nombreuses furcations à la base du pied
+  lames: adnées-échancrées à subéchancrées à sinuées, serrées, molles, graisseuses, avec lamelles, mais pas de lamellules, blanchâtres à crème avec arêtes violettes sur une bonne partie de sa longueur, nombreuses furcations à la base du pied 
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -222,7 +222,7 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 50–70 x 15–20 mm Ø, claviforme, subégal à abruptement atténué vers la base, parfois pruineux vers l'apex, irrégulièrement strié, blanc, parfois légèrement lavé de bleu violet
+  pied: 47–70 x 15–20 mm Ø, cylindrique à claviforme, subégal à abruptement atténué vers la base, parfois pruineux vers l'apex, irrégulièrement strié, ferme, plein, farci puis caverneux, blanchâtre, parfois légèrement lavé de bleu violet
   pieds-steriles: 
   pigments: 
   pileipellis: 

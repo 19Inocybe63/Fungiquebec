@@ -85,7 +85,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « R. ornaticeps est un membre typique de la sous-section Griseinae (section Heterophyllae) et est l'un des champignons les plus communs dans les forêts à feuilles caduques de l'est des États-Unis. »
+    De Claude Kaufholtz-Couture. « <i>R. ornaticeps</i> est un membre typique de la sous-section Griseinae (section Heterophyllae) et est l'un des champignons les plus communs dans les forêts à feuilles caduques de l'est des États-Unis. »
     De Geoffrey Kibby and Raymond Fatto. « One of our most attractive and more readily recognizable species. »
   conidies: 
   conidiome: 

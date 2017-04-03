@@ -82,7 +82,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, cassante, blanche
   chancre: 
   chapeau: 40-100 mm Ø, convexe puis déprimé, cuticule finement rompue et collante ; se pèle jusqu'au ¾ du rayon
   cheilochrysocystides:

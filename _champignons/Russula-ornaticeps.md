@@ -38,7 +38,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
   ascome: 
   ascospores: 
   asques: 
@@ -252,7 +253,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Soluté de gaïac = >"5 S (0, absence) ; >"5 L (0, absence)
-    Sulfate de fer (FeSO<SUB>4</SUB>) = saumon sur le stipe
+    Sulfate de fer (FeSO<SUB>4</SUB>) = saumon à légèrement rosé sur le stipe
   receptacle: 
   remarques: |
     Groupe Griseinae

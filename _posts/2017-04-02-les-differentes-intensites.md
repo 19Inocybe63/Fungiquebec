@@ -31,14 +31,14 @@ soit +
 <p>&nbsp; </p>
 
 #### Alors, réactions macrochimiques intéressantes ?
-En cas de réponse +, il faut noter :
-* si jaune ou crème jaunâtre
-* ou bleue
+En cas de réponse positive (+), il faut noter :
+    * si jaune ou crème jaunâtre
+    * ou bleue
 <p>&nbsp; </p>
 
 #### Dans la formulation de la réaction, il ne faut pas oublier...
- * L'intensité de la teinte obtenue : +++, ++, +, 0
- * Le temps de réaction : instantanée, rapide, assez lente, lente, très lente
+* L'intensité de la teinte obtenue : +++, ++, +, 0
+* Le temps de réaction : instantanée, rapide, assez lente, lente, très lente
 
 Avec le temps, les résultats de ces informations deviendront essentiels pour le mycologue !
 <p>&nbsp; </p>

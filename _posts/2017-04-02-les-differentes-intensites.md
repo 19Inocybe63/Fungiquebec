@@ -55,6 +55,7 @@ Façon de noter les différentes intensités de la soluté alcoolique officinal 
 * après 5" S +++, réaction forte endéans 5 secondes, (5, forte)
 * après 5" S ++, réaction moyenne endéans 5 secondes, (3, moyenne)
 * après 5" S +, réaction faible endéans 5 secondes, (1, faible)
+
 * endéans 5" L +, réaction faible après 5 secondes, (1, faible)
 * endéans 5" L ++, réaction moyenne après 5 secondes, (3, moyenne)
 * endéans 5" L +++, réaction forte après 5 secondes, (5, forte)

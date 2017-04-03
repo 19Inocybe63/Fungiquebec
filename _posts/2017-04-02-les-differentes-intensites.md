@@ -32,8 +32,8 @@ soit +
 
 #### Alors, réactions macrochimiques intéressantes ?
 En cas de réponse positive (+), il faut noter :
-    * si jaune ou crème jaunâtre
-    * ou bleue
+* si jaune ou crème jaunâtre
+* ou bleue
 <p>&nbsp; </p>
 
 #### Dans la formulation de la réaction, il ne faut pas oublier...

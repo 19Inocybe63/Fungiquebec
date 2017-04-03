@@ -61,7 +61,7 @@ Façon de noter les différentes intensités de la soluté alcoolique officinal 
 * endéans 5" L +++, réaction forte après 5 secondes, (5, forte)
 <p>&nbsp; </p>
 
-#### Trois exemples distincts
+#### Trois exemples chez les Russules
 
 *Russula fastigiata*
 * réaction bleue endéans 5" S ++ = réaction moyenne après 5 secondes (3, moyenne) ;

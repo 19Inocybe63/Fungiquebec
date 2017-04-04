@@ -1,6 +1,6 @@
 ---
 nom: Inocybe rennyi
-date: 2017-03-31 00:00:00
+date: 2017-04-04 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -91,7 +91,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Il s'agit ici d'<i>Inocybe aff. rennyi</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

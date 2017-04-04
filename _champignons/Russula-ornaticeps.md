@@ -1,6 +1,6 @@
 ---
 nom: Russula ornaticeps
-date: 2017-04-03 00:00:00
+date: 2017-04-04 00:00:00
 image: https://c1.staticflickr.com/1/317/19538550198_bebce9b492_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19538550198/in/photolist-C6vQDR-vLybg9-w4b2ea
 album-flickr:
@@ -58,7 +58,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à claviformes, tétrasporiques, non bouclées à la base, à contenu vacuolaire, 37,0-40,0 x 7,0-9,0 µm en moyenne
+  basides: largement cylindriques à claviformes, tétrasporiques, stérigmates jusqu'à 4,2 (5) µm de longueur, non bouclées à la base, à contenu vacuolaire, 37,0-40,0 (50,1) x 7,0-9,0 (11,4) µm en moyenne
   basidiospores: |
     subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses, partiellement à rarement réticulé, avec proéminences jusqu'à 0,7 µm de hauteur, à paroi mince, avec appendice hilaire moyen à proéminent, plage hilaire faiblement amyloïde, pore germinatif rarement visible jusqu’à 1 µm Ø, à contenu uniguttulé, hyalines dans E.G. 20%, faiblement amyloïdes
     (5,3) 5,8-6,4 (7,7) x (4,2) 4,6-5,7 (6,5) µm

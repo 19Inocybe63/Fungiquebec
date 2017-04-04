@@ -231,7 +231,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, à contenu pailleté réfringent dans le R.C.Sds, réaction sulfovanilline positive (SV+), 65-78 x 10-12,5 µm en moyenne
-  poils: septés, en chaîne dont les cellules font de 12-21,5 x 3-8 µm en moyenne, avec la cellule finale qui se termine atténuée 70-80 ± de longueur
+  poils: septés, en chaîne dont les cellules font de 12-21,5 x 3-8 (10) µm en moyenne, avec la cellule finale qui se termine atténuée 70-80 ± de longueur
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

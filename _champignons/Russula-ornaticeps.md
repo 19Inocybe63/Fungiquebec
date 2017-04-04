@@ -58,7 +58,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: largement cylindriques à claviformes, tétrasporiques, stérigmates jusqu'à 4,2 (5) µm de longueur, non bouclées à la base, à contenu vacuolaire, 37,0-40,0 (50,1) x 7,0-9,0 (11,4) µm en moyenne
+  basides: largement cylindriques à claviformes, tétrasporiques, stérigmates jusqu'à 4,2 (5) µm de longueur, non bouclées à la base, à contenu vacuolaire, 37-40 (50) x 7-9 (11,5) µm en moyenne
   basidiospores: |
     subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses, partiellement à rarement réticulé, avec proéminences jusqu'à 0,7 µm de hauteur, à paroi mince, avec appendice hilaire moyen à proéminent, plage hilaire faiblement amyloïde, pore germinatif rarement visible jusqu’à 1 µm Ø, à contenu uniguttulé, hyalines dans E.G. 20%, faiblement amyloïdes
     (5,3) 5,8-6,4 (7,7) x (4,2) 4,6-5,7 (6,5) µm

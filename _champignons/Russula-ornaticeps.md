@@ -86,7 +86,7 @@ description:
   chancre: 
   chapeau: 40-100 mm Ø, convexe puis déprimé, à cuticule finement rompue et collante, se pèle jusqu'au ½-¾ du rayon, mauve, lilas
   cheilochrysocystides:
-  cheilocystides: présentes, sensiblement de la même forme que les pleurocystides, réaction sulfovanilline positive (SV+)
+  cheilocystides: nombreuses, sensiblement de la même forme que les pleurocystides, réaction sulfovanilline positive (SV+), (51,8) 59,1 - 69,1 (70) × (9,2) 9,8 - 11,49 (11,5) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

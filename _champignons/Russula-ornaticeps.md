@@ -30,8 +30,8 @@ collections:
     date: 31 août 2016
     planche:
       numero: cKc0553-0163
-      miniature: 
-      originale: 
+      miniature: https://c2.staticflickr.com/4/3804/33061250593_d4e8b9199d_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/33061250593/in/photolist-SnvxXX-LzaAnG-LzaMxh/
     geolocalisation: 
     elevation: 
     determinee: 

@@ -1,6 +1,6 @@
 ---
 nom: Russula ornaticeps
-date: 2017-04-04 00:00:00
+date: 2017-04-06 00:00:00
 image: https://c1.staticflickr.com/1/317/19538550198_bebce9b492_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19538550198/in/photolist-C6vQDR-vLybg9-w4b2ea
 album-flickr:
@@ -29,7 +29,7 @@ collections:
   - fongarium: cKc0553
     date: 31 août 2016
     planche:
-      numero: 
+      numero: cKc0553-0163
       miniature: 
       originale: 
     geolocalisation: 
@@ -225,9 +225,9 @@ description:
   pied: 47–70 x 15–20 mm Ø, cylindrique à claviforme, subégal à abruptement atténué vers la base, parfois pruineux vers l'apex, irrégulièrement strié, ferme, plein, farci puis caverneux, blanchâtre, parfois légèrement lavé de bleu violet
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis (à subixocutis)
   pileitrame: 
-  pileocystides: abondantes, cylindriques à claviformes, plus ou moins renflées, souvent avec apex mucronés, à contenu pailleté réfringent, réaction sulfopipéronal positif (SP+) , 45-70 ± x 8-11 µm
+  pileocystides: nombreuses, cylindriques à claviformes, plus ou moins renflées, souvent avec apex mucronés, à contenu pailleté réfringent, réaction sulfopipéronal positif (SP+) , 45-70 ± x 8-11 µm
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, à contenu pailleté réfringent dans le R.C.Sds, réaction sulfovanilline positive (SV+), 65-78 x 10-12,5 µm en moyenne

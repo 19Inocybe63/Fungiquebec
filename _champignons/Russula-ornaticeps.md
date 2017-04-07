@@ -86,7 +86,7 @@ description:
   chancre: 
   chapeau: 40-100 mm Ø, convexe puis déprimé, à cuticule finement rompue et collante, se pèle jusqu'au ½-¾ du rayon, mauve, lilas
   cheilochrysocystides:
-  cheilocystides: nombreuses, sensiblement de la même forme que les pleurocystides, réaction sulfovanilline positive (SV+), (51,8) 59,1 - 69,1 (70) × (9,2) 9,8 - 11,49 (11,5) µm
+  cheilocystides: nombreuses, sensiblement de la même forme que les pleurocystides, sulfovanilline positive (SV+), (51,8) 59,1 - 69,1 (70) × (9,2) 9,8 - 11,49 (11,5) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -227,10 +227,10 @@ description:
   pigments: 
   pileipellis: en cutis (à subixocutis)
   pileitrame: 
-  pileocystides: nombreuses, cylindriques à claviformes, plus ou moins renflées, souvent avec apex mucronés, à contenu pailleté réfringent, réaction sulfopipéronal positif (SP+) , 45-70 ± x 8-11 µm
+  pileocystides: nombreuses, cylindriques à claviformes, plus ou moins renflées, souvent avec apex mucronés, à contenu pailleté réfringent, sulfopipéronal positif (SP+) , 45-70 ± x 8-11 µm
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, à contenu pailleté réfringent dans le R.C.Sds, réaction sulfovanilline positive (SV+), 65-78 x 10-12,5 µm en moyenne
+  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, à contenu pailleté réfringent dans le R.C.Sds, sulfovanilline positive (SV+), 65-78 x 10-12,5 µm en moyenne
   poils: septés, en chaîne dont les cellules font de 12-21,5 x 3-8 (10) µm en moyenne, avec la cellule finale qui se termine atténuée 70-80 ± de longueur
   poils-basaux: 
   poils-caulinaires: 

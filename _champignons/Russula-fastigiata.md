@@ -84,7 +84,7 @@ description:
     (8,1) 8,2-9 (9,3) x (6,7) 7-8 (8,3) µm
     Q = (1,1) 1,11-1,2 (1,3); N = 30
     Me = 8,6 x 7,5 µm; Qe = 1,1
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans NaCl iso 0,9%)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 

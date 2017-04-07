@@ -1,6 +1,6 @@
 ---
 nom: Russula fucosa
-date: 2017-03-28 00:00:00
+date: 2017-04-07 00:00:00
 image: https://c1.staticflickr.com/1/718/20475447168_2094b83b00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20475447168/in/photolist-xcm26b
 album-flickr:
@@ -23,14 +23,14 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/15991135571/in/photolist-qn5KtZ-oSwUbo-oUyEuZ-oUyGrz
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0236
     date: 4 septembre 2014
     planche:
       numero: cKc0236-0162
-      miniature: https://c2.staticflickr.com/4/3938/33659171526_e059f4553f_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/33659171526/in/photolist-Thm42y-oMu8uA-p4WfZw-p4Ychk/
+      miniature: https://c2.staticflickr.com/4/3938/33659171526_5a5b7565d8_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/33659171526/in/photolist-Thm42y-qn5KtZ-K8Gpx7-Jmp9D5-JRWN1j-xcm26b-oMu8uA-p4WfZw-p4Ychk-oSwUbo-oUyEuZ-oUyGrz-LeQtsF-LiMrm3
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
     determinee: Claude Kaufholtz-Couture

@@ -1,6 +1,6 @@
 ---
 nom: Russula fulvescens
-date: 2017-04-06 00:00:00
+date: 2017-04-07 00:00:00
 image: https://c1.staticflickr.com/9/8214/29040518066_72b46c7929_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29040518066/in/photolist-Lfdfgm
 album-flickr:
@@ -253,7 +253,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Soluté de gaïac = > 5" stipe + b (1, faible) ; < 5" lames ++ b (3, moyenne)
-    Sulfate de fer (FeSO<SUB>4</SUB>) =  stipe rosé (3 = moyenne)
+    Sulfate de fer (FeSO<SUB>4</SUB>) =  rosé sur le stipe
   receptacle: 
   remarques: 
   repartition: 

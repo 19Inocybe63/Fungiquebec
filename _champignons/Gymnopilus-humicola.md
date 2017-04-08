@@ -24,7 +24,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/16871277948/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: 
+    determinee: Claude Kaufholtz-Couture
     confirmee: Rocky Houghtby
   - fongarium: cKc0312
     date: 12 juin 2015
@@ -34,8 +34,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Rocky Houghtby
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

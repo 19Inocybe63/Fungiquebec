@@ -52,27 +52,31 @@ En effet, les réactions positives du Gaïac sont généralement fortes après q
 Pour augmenter la précision des observations de l’intensité dans le temps , il est aussi possible de mettre un chiffre entre 0, 1, 3 et 5 ; 0, absence, 1, faible, 3, moyenne, 5, forte. Il va de soi que les effets climatiques ont aussi beaucoup d’influences sur les résultats. L’utilisation de gros bon sens est toujours de mise !
 
 Façon de noter les différentes intensités de la soluté alcoolique officinal de résine de Gaïac sur les Russules.
-* après 5" stipe +++, réaction forte endéans 5 secondes, (5, forte)
-* après 5" stipe ++, réaction moyenne endéans 5 secondes, (3, moyenne)
-* après 5" stipe +, réaction faible endéans 5 secondes, (1, faible)
-* endéans 5" lames +, réaction faible après 5 secondes, (1, faible)
-* endéans 5" lames ++, réaction moyenne après 5 secondes, (3, moyenne)
-* endéans 5" lames +++, réaction forte après 5 secondes, (5, forte)
+* après 5" stipe +++ b, réaction forte après 5 secondes, (5, forte)
+* après 5" stipe ++ b, réaction moyenne après 5 secondes, (3, moyenne)
+* après 5" stipe + b, réaction faible après 5 secondes, (1, faible)
+* endéans 5" lames + b, réaction faible endéans 5 secondes, (1, faible)
+* endéans 5" lames ++ b, réaction moyenne endéans 5 secondes, (3, moyenne)
+* endéans 5" lames +++ b, réaction forte endéans 5 secondes, (5, forte)
 <p>&nbsp; </p>
 
 #### Quatre exemples de Russules
 
 *Russula aquosa ss. Shaffer*
-* réaction bleue endéans 5" stipe + = réaction faible après 5 secondes (1, faible) ;
-* réaction bleue endéans 5" lames ++ = réaction moyenne après 5 secondes (3, moyenne).
+* réaction bleue endéans 5" stipe + b = réaction faible endéans 5 secondes (1, faible) ;
+* réaction bleue endéans 5" lames ++ b = réaction moyenne endéans 5 secondes (3, moyenne).
 
 *Russula compacta*
-* réaction bleue après 5" stipe +++ = réaction forte endéans 5 secondes (5, forte) ;
-* réaction bleue après 5" lames +++ = réaction forte endéans 5 secondes (5, forte).
+* réaction bleue après 5" stipe +++ b = réaction forte après 5 secondes (5, forte) ;
+* réaction bleue après 5" lames +++ b = réaction forte après 5 secondes (5, forte).
 
 *Russula fastigiata*
-* réaction bleue endéans 5" stipe ++ = réaction moyenne après 5 secondes (3, moyenne) ;
-* réaction bleue endéans 5" lames + = réaction faible après 5 secondes (1, faible).
+* réaction bleue endéans 5" stipe ++ b = réaction moyenne endéans 5 secondes (3, moyenne) ;
+* réaction bleue endéans 5" lames + b = réaction faible endéans 5 secondes (1, faible).
+
+*Russula fucosa*
+* réaction bleue endéans 5" stipe +++ b = réaction forte endéans 5 secondes (5, forte)
+* réaction bleue endéans 5" lames +++ b = réaction forte endéans 5 secondes (5, forte)
 
 *Russula ornaticeps*
 * réaction bleue après 5" stipe 0 = absence de réaction après 5 secondes (0, absence) ;

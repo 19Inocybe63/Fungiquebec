@@ -60,7 +60,7 @@ Façon de noter les différentes intensités de la soluté alcoolique officinal 
 * endéans 5" lames +++, réaction forte après 5 secondes, (5, forte)
 <p>&nbsp; </p>
 
-#### Trois exemples de Russules
+#### Quatre exemples de Russules
 
 *Russula aquosa ss. Shaffer*
 * réaction bleue endéans 5" stipe + = réaction faible après 5 secondes (1, faible) ;

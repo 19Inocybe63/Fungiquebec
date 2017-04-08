@@ -66,6 +66,10 @@ Façon de noter les différentes intensités de la soluté alcoolique officinal 
 * réaction bleue endéans 5" stipe + b = réaction faible endéans 5 secondes (1, faible) ;
 * réaction bleue endéans 5" lames ++ b = réaction moyenne endéans 5 secondes (3, moyenne).
 
+*Russula albonigra*
+* réaction bleue endéans 5" stipe ++ b = réaction moyenne endéans 5 secondes (3, moyenne) ; 
+* réaction bleue après 5" lames ++ b = réaction moyenne après 5 secondes (3, moyenne).
+
 *Russula compacta*
 * réaction bleue après 5" stipe +++ b = réaction forte après 5 secondes (5, forte) ;
 * réaction bleue après 5" lames +++ b = réaction forte après 5 secondes (5, forte).
@@ -77,6 +81,10 @@ Façon de noter les différentes intensités de la soluté alcoolique officinal 
 *Russula fucosa*
 * réaction bleue endéans 5" stipe +++ b = réaction forte endéans 5 secondes (5, forte)
 * réaction bleue endéans 5" lames +++ b = réaction forte endéans 5 secondes (5, forte)
+
+*Russula fulfescens*
+* réaction bleue après 5" stipe + b = réaction faible après 5 secondes (1, faible) ;
+* réaction bleue endéans 5" lames ++ b = réaction moyenne endéans 5 secondes (3, moyenne).
 
 *Russula ornaticeps*
 * réaction bleue après 5" stipe 0 = absence de réaction après 5 secondes (0, absence) ;

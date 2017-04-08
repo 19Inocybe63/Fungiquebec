@@ -58,10 +58,11 @@ description:
   base-stipitiforme: 
   basides: clavées à longuement claviformes, tétrasporiques, bouclées à la base, 21 [25,3; 29,7] 34 x 6,3 [7,3; 8,2] 9,2 µm en moyenne 
   basidiospores: |
-    ovoïdes en vue frontale, largement elliptique à elliptique, amygdaliformes vues de profil, finement verruqueuses, à paroi mince entre 0,2-0,3 µm, avec petit appendice apiculaire, à contenu variable mais souvent uniguttulé, cannelle à miel dans le NaCl iso 0,9%, ferrugineuses dans le KOH 5%, rapidement dextrinoïdes, non cyanophiles
+    ovoïdes en vue frontale, largement elliptiques à elliptiques, amygdaliformes vues de profil, finement verruqueuses, à paroi mince entre 0,2-0,3 µm, avec petit appendice apiculaire, à contenu variable mais souvent uniguttulé, cannelle à miel dans le NaCl iso 0,9%, ferrugineuses dans le KOH 5%, rapidement dextrinoïdes, non cyanophiles
     7,1 [8; 8,4] 9,3 x 4,6 [5; 5,1] 5,5 µm
     Q = 1,5 [1,6] 1,7; N = 30; C = 95%
     Me = 8,2 x 5,1 µm; Qe = 1,6
+    (Piximètre, formule statistique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 

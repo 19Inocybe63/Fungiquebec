@@ -64,7 +64,7 @@ description:
     (10,9) 11,7 - 12,9 (13,2) × (6,8) 7 - 7,6 (7,9) µm
     Q = (1,4) 1,6 - 1,79 (1,8) ; N = 30
     Me = 12,2 × 7,3 µm ; Qe = 1,7
-    (Piximètre, formule classique ; mesures dans le bleu coton lactique, sans les ornementations)
+    (Piximètre, formule classique ; mesures dans le bleu lactique, sans les ornementations)
   asques: octosporé, operculé, IKI +b, 180-250 x 11-14 µm
   asterohyphidies: 
   avertissement: 

@@ -51,13 +51,13 @@ En effet, les réactions positives du Gaïac sont généralement fortes après q
 
 Pour augmenter la précision des observations de l’intensité dans le temps , il est aussi possible de mettre un chiffre entre 0 et 5 ; 0, nul, 1, faible, 3, moyenne, 5, forte. Il va de soi que les effets climatiques ont aussi beaucoup d’influences sur les résultats. L’utilisation de gros bon sens est toujours de mise !
 
-Façon de noter les différentes intensités de la soluté alcoolique officinal de résine de Gaïac sur les Russules (S= stipe et L = lames)
-* après 5" S +++, réaction forte endéans 5 secondes, (5, forte)
-* après 5" S ++, réaction moyenne endéans 5 secondes, (3, moyenne)
-* après 5" S +, réaction faible endéans 5 secondes, (1, faible)
-* endéans 5" L +, réaction faible après 5 secondes, (1, faible)
-* endéans 5" L ++, réaction moyenne après 5 secondes, (3, moyenne)
-* endéans 5" L +++, réaction forte après 5 secondes, (5, forte)
+Façon de noter les différentes intensités de la soluté alcoolique officinal de résine de Gaïac sur les Russules.
+* après 5" stipe +++, réaction forte endéans 5 secondes, (5, forte)
+* après 5" stipe ++, réaction moyenne endéans 5 secondes, (3, moyenne)
+* après 5" stipe +, réaction faible endéans 5 secondes, (1, faible)
+* endéans 5" lames +, réaction faible après 5 secondes, (1, faible)
+* endéans 5" lames ++, réaction moyenne après 5 secondes, (3, moyenne)
+* endéans 5" lames +++, réaction forte après 5 secondes, (5, forte)
 <p>&nbsp; </p>
 
 #### Trois exemples de Russules

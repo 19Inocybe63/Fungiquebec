@@ -49,7 +49,7 @@ Monsieur René Chalange, secrétaire général de la *Société Mycologique de F
 
 En effet, les réactions positives du Gaïac sont généralement fortes après quelques minutes, c’est-à-dire, une réaction progressive en intensité. Il va de soi qu’une réaction délimitée par le temps peut donner des résultats plus efficaces pour la détermination de certaines espèces, si le temps de réaction du Gaïac de ces dernières est constant suite à nos observations prolongées. Il est donc conseillé d’appliquer le Gaïac aussi bien sur le stipe que sur les lames, vu que les réactions peuvent être différentes .
 
-Pour augmenter la précision des observations de l’intensité dans le temps , il est aussi possible de mettre un chiffre entre 0 et 5 ; 0, nul, 1, faible, 3, moyenne, 5, forte. Il va de soi que les effets climatiques ont aussi beaucoup d’influences sur les résultats. L’utilisation de gros bon sens est toujours de mise !
+Pour augmenter la précision des observations de l’intensité dans le temps , il est aussi possible de mettre un chiffre entre 0 et 5 ; 0, absence, 1, faible, 3, moyenne, 5, forte. Il va de soi que les effets climatiques ont aussi beaucoup d’influences sur les résultats. L’utilisation de gros bon sens est toujours de mise !
 
 Façon de noter les différentes intensités de la soluté alcoolique officinal de résine de Gaïac sur les Russules.
 * après 5" stipe +++, réaction forte endéans 5 secondes, (5, forte)

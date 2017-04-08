@@ -90,7 +90,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « D’après Maria Teresa Basso (<i>Manuale di Microscopia dei Funghi</i>, vol. 2), les hyménocystides deviennent légèrement verdâtre dans le bleu coton ; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. »
+  commentaires: De Claude Kaufholtz-Couture. « D’après Maria Teresa Basso (<i>Manuale di Microscopia dei Funghi</i>, vol. 2), les hyménocystides deviennent légèrement verdâtre dans le bleu lactique ; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. »
   conidies: 
   conidiome: 
   conidiophores: 

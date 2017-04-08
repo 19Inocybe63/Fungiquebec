@@ -52,12 +52,12 @@ description:
     <b>Dougoud, René</b>. <i>Contribution à l'étude des discomycètes</i>, Version 2013, Ascomycete.org vol 5, Fasc. 2, mars 2013, 63-89 pp.
     <b>Dougoud, René</b>. <i>Contribution à la connaissance de quelques Discomycètes operculés rares ou méconnus</i>, coll. Fungi non Delineati, Pars XVIII, Edizioni Candusso, 2002.
     <b>Hohmeyer, H</b>. <i>Une clé pour les espèces d'Europe du genre Peziza L.</i>, Zeitschrift für Mykologie 1986, trad. de P. A. Renaud en collaboration de René Dougoud, 1988.
+    <b>Kendrick, Bryce</b>. <i>The Whole fungus: the sexual-asexual synthesis</i>, International Mycological conference, v. 2 (1979), p. 738.
     <i>Peziza atrovinosa</i> Cooke & W.R. Gerard, Bulletin of the Buffalo Society of Natural Sciences 2: 288 (1875).
     <i>Peziza atrovinosa</i> Cooke & W.R. Gerard, Bulletin of the Buffalo Society of Natural Sciences 3: 21 (1875-77).
     Minnesota Botanical studies, Geological and Natural History Survey of Minnesota, v.4 (Report, Botanical Series VII), pt. 1-4 (1909-1916).
     <b>Saever, Fred</b>. <i>The North American Cup-Fungi</i> (<i>operculates</i>), 1942, p. 101-102.
     Occasional papers of the Farlow Herbarium of cryptogamic Botany, Farlow Reference Library and Herbarium, N° 17, 1982, p. 7.
-    <b>Kendrick, Bryce</b>. <i>The Whole fungus: the sexual-asexual synthesis</i>, International Mycological conference, v. 2 (1979), p. 738.
   ascome: 
   ascospores: |
     ellipsoïdales, réticulées, à paroi mince ornée d’un réseau cyanophile lâche, marqué de crêtes élevées, jusqu’à 1,3 µm, à contenu uniguttulé à biguttulé, hyalines dans E.G. 20%, cyanophiles

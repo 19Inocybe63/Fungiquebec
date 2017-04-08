@@ -63,16 +63,16 @@ Façon de noter les différentes intensités de la soluté alcoolique officinal 
 #### Trois exemples de Russules
 
 *Russula fastigiata*
-* réaction bleue endéans 5" S ++ = réaction moyenne après 5 secondes (3, moyenne) ;
-* réaction bleue endéans 5" L + = réaction faible après 5 secondes (1, faible).
+* réaction bleue endéans 5" stipe ++ = réaction moyenne après 5 secondes (3, moyenne) ;
+* réaction bleue endéans 5" lames + = réaction faible après 5 secondes (1, faible).
 
 *Russula aquosa ss. Shaffer*
-* réaction bleue endéans 5" S + = réaction faible après 5 secondes (1, faible) ;
-* réaction bleue endéans 5" L ++ = réaction moyenne après 5 secondes (3, moyenne).
+* réaction bleue endéans 5" stipe + = réaction faible après 5 secondes (1, faible) ;
+* réaction bleue endéans 5" lames ++ = réaction moyenne après 5 secondes (3, moyenne).
 
 *Russula compacta*
-* réaction bleue après 5" S +++ = réaction forte endéans 5 secondes (5, forte) ;
-* réaction bleue après 5" L +++ = réaction forte endéans 5 secondes (5, forte).
+* réaction bleue après 5" stipe +++ = réaction forte endéans 5 secondes (5, forte) ;
+* réaction bleue après 5" lames +++ = réaction forte endéans 5 secondes (5, forte).
 <p>&nbsp; </p>
 
 #### Spécimen trop mature et taux d’humidité

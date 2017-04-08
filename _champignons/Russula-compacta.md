@@ -48,7 +48,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
   ascome: 
   ascospores: 
   asques: 

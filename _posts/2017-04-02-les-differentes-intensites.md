@@ -28,7 +28,7 @@ Pour assurer l'uniformité dans l'utilisation de la teinture de Gaïac, voici ce
 
 **soit +**
 * a) Réaction bleue (phénoloxydases) qui peut varier tant en intensité (bleu clair à bleu très foncé) que dans le temps (instantanée à quelques minutes), cela dépend de la quantité et de la qualité de la phénoloxydase présente.
-* b) Parfois, il se produit une réaction jaune à crème jaunâtre. En effet, il arrive qu'au lieu de la réaction bleue classique, on obtienne du jaune ou du crème jaunâtre, c'est-à-dire des couleurs non orthodoxes (origine inconnue). Ainsi, sur la chair de <i>Cortinarius aureofulvus</i>, jaune de chrome et <i>Cortinarius fraudulosus</i> crème jaunâtre (réactions macrochimique chez les Cortinaires de RC Azema).
+* b) Parfois, il se produit une réaction jaune à crème jaunâtre. En effet, il arrive qu'au lieu de la réaction bleue classique, on obtienne du jaune ou du crème jaunâtre, c'est-à-dire des couleurs non orthodoxes (origine inconnue). Ainsi, sur la chair de <i>Cortinarius aureofulvus</i>, jaune de chrome et <i>Cortinarius fraudulosus</i> crème jaunâtre (<b>Azéma, René-Charles</b>. <i>Réactions macrochimique chez les Cortinaires</i>, Billes, 1986).
 <p>&nbsp; </p>
 
 #### Alors, réactions macrochimiques intéressantes ?

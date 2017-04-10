@@ -1,6 +1,6 @@
 ---
 nom: Peziza atrovinosa
-date: 2017-03-12 00:00:00
+date: 2017-04-10 00:00:00
 image: https://c2.staticflickr.com/2/1606/24672563904_69f71fc804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/24672563904/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
 album-flickr:
@@ -58,7 +58,7 @@ description:
     <b>Saever, Fred</b>. <i>The North American Cup-Fungi</i> (<i>operculates</i>), 1942, p. 101-102.
   ascome: 
   ascospores: |
-    ellipsoïdales, réticulées, à paroi mince ornée d’un réseau cyanophile lâche, marqué de crêtes élevées, jusqu’à 1,3 µm, à contenu uniguttulé à biguttulé, hyalines dans E.G. 20%, cyanophiles
+    ellipsoïdales, sans ornementation, réticulées, à paroi mince ornée d’un réseau cyanophile lâche, marqué de crêtes élevées, jusqu’à 1,7 µm, à contenu uniguttulé à biguttulé, hyalines dans E.G. 20%, cyanophiles
     (10,9) 11,7 - 12,9 (13,2) × (6,8) 7 - 7,6 (7,9) µm
     Q = (1,4) 1,6 - 1,79 (1,8) ; N = 30
     Me = 12,2 × 7,3 µm ; Qe = 1,7

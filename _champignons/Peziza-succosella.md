@@ -102,7 +102,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De René Dougoud. « La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent <i>P. succosella</i>. »
+  commentaires: |
+    De René Dougoud. « La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent <i>P. succosella</i>. »
+    De Claude Kaufholtz-Couture. « Remerciements à Andreas Gminder et à René Dougoud de Ascofrance.fr »
   conidies: 
   conidiome: 
   conidiophores: 

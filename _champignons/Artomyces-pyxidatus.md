@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2017-03-17 00:00:00
+date: 2017-04-13 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
@@ -158,7 +158,7 @@ description:
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
   hyphes-glebales: 
-  hyphes-gleopleres: de 5 à 8 µm de large, dispersées dans le sous-hémenium
+  hyphes-gleopleres: de 5 à 8 µm de large, dispersées dans le sous-hymenium
   hyphes-hymeniales: 
   hyphes-ligatives: 
   hyphes-oleiferes: 

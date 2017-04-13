@@ -158,7 +158,7 @@ description:
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
   hyphes-glebales: 
-  hyphes-gleopleres: de 5 à 8 µm de large, dispersées dans le sous-hymenium
+  hyphes-gleopleres: de 5 à 8 µm de large, dispersées dans le sous-hyménium
   hyphes-hymeniales: 
   hyphes-ligatives: 
   hyphes-oleiferes: 

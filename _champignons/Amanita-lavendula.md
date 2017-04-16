@@ -76,7 +76,7 @@ description:
   chancre: 
   chapeau: 40-100 mm Ø, globuleux à convexe puis étalé, nu ou orné de quelques flocons vélaires blanchâtres, jaunâtres à gris violacé sur fond jaune pâle à jaune verdâtre, à marge unie
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, subglobuleuses, piriformes, claviformes, sphéropédonculées, rarement fusiformes (21,1) 22,3 - 36,2 (38,6) × (16,9) 17,1 - 21,1 (21,7) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

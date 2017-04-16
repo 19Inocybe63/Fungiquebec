@@ -1,6 +1,6 @@
 ---
 nom: Amanita lavendula
-date: 2017-03-17 00:00:00
+date: 2017-04-16 00:00:00
 image: https://c2.staticflickr.com/6/5651/30199932386_91347b7511_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30199932386/in/photolist-N1EqdS-N1ExKq
 album-flickr:
@@ -48,7 +48,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    globuleuses à 73,3% à subglobuleuse à 26,7%, très finement sablées à très finement verruqueuses, à paroi mince, avec appendice hilaire moyen, à contenu uniguttulé, hyalines dans E.G. 20%, amyloïdes, cyanophiles
+    (7,5) 8 - 9,2 (9,8) × (7,4) 7,5 - 9 (9,7) µm
+    Q = 1 - 1,07 (1,1) ; N = 30
+    Me = 8,5 × 8,3 µm ; Qe = 1
+    (Piximètre, formule classique ; mesures issues d'une sporée dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -81,7 +86,7 @@ description:
   columelle: 
   commentaires: |
     De Rod E. Tulloss. « I believe that in eastern North America, we should label photographs... of fungi like this as <i>Amanita lavendula</i> group. In recent years, Dr. Karen Hughes and others have established that we have three taxa that are very similar in overall appearance that we have been calling “<i>Amanita citrina</i>”. The one with a valid name is <i>Amanita lavendula</i> (nomenclatural synonym of <i>Amanita mappa var. lavendula</i> (Coker). In the group of three, this species is distinguished by its broadly ellipsoid and smaller basidiospores. This species is treated here www.amanitaceae.org?Amanita%20lavendula. For some more information about the species and its name, you can go here www.researchgate.net/. The other two taxa have nearly identical, larger, subglobose basidiospores. I do not yet know how to separate them morphologically. The three species are separable by genetic means at present... To be explicit, all three taxa are similar macroscopically. All three will turn purple when the weather gets to one or two degrees above freezing for a prolonged period (for example, overnight). »
-    De Claude Kaufholtz-Couture. « <i>Amanita groupe lavendula</i> ».
+    De Claude Kaufholtz-Couture. « <i>Amanita groupe lavendula</i>. Bien que les monographies spécialisées mentionnent que les basidiospores sont lisses, pour ma part, du moins dans cette collection, je les vois finement sablées à finement verruqueuses. À suivre ! »
   conidies: 
   conidiome: 
   conidiophores: 

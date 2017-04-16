@@ -218,7 +218,7 @@ description:
   pied: 50-150 x 7-15 mm Ø, largement bulbeux-marginé et parfois fendu, glabre à finement fibrilleux, blanc à jaunâtre, annelé, souvent muni d'une volve membraneuse soudée
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'un suprapellis en ixocutis, avec des d’hyphes lâches dans le gélin, et d’un subpellis formé d’hyphes septées, non bouclées, 3,3 x 6,8 µm Ø en moyenne
+  pileipellis: formé d'un suprapellis en ixocutis, avec des d’hyphes lâches dans le gélin, et d’un subpellis formé d’hyphes avec pigments intracellulaires, septées et non bouclées, 3,3 x 6,8 µm Ø en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 

@@ -49,7 +49,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    globuleuses à 73,3% à subglobuleuse à 26,7%, très finement sablées à très finement verruqueuses, à paroi mince, avec appendice hilaire moyen, à contenu uniguttulé, hyalines dans E.G. 20%, amyloïdes, cyanophiles
+    globuleuses à 73,3% à subglobuleuses à 26,7%, très finement sablées à très finement verruqueuses, à paroi mince, avec appendice hilaire moyen, à contenu uniguttulé, hyalines dans E.G. 20%, amyloïdes, cyanophiles
     (7,5) 8 - 9,2 (9,8) × (7,4) 7,5 - 9 (9,7) µm
     Q = 1 - 1,07 (1,1) ; N = 30
     Me = 8,5 × 8,3 µm ; Qe = 1

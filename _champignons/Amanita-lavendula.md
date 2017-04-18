@@ -280,7 +280,7 @@ description:
   typique: 
   voile: 
   voile-general: membraneux à friable, blanc, jaunâtre à gris violacé, laissant souvent quelques flocons sur le chapeau et une volve (en grande partie soudée) à la base du pied
-  voile-partiel: membraneux, blanc à jaunâtre, parfois gris violacé par endroits, laissant un anneau sur le pied
+  voile-partiel: membraneux, blanc à jaunâtre, parfois gris violacé par endroits, laissant un anneau sur le pied, formé d'hypes cylindriques à terminaisons fusiformes à recourbées
   volve: 
   zone-perihymeniale: 
 ---

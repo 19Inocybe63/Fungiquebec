@@ -1,6 +1,6 @@
 ---
 nom: Amanita lavendula
-date: 2017-04-16 00:00:00
+date: 2017-04-18 00:00:00
 image: https://c2.staticflickr.com/6/5651/30199932386_91347b7511_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30199932386/in/photolist-N1EqdS-N1ExKq
 album-flickr:
@@ -19,9 +19,9 @@ collections:
   - fongarium: cKc0594
     date: 9 octobre 2016
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0594-0164
+      miniature: https://c2.staticflickr.com/4/3948/34119826375_e69e91011d_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/34119826375/in/photolist-TZ42Ex-N1EqdS-N1ExKq/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Rod E. Tulloss (provisoire)

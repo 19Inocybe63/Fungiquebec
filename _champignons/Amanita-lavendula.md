@@ -20,8 +20,8 @@ collections:
     date: 9 octobre 2016
     planche:
       numero: cKc0594-0164
-      miniature: https://c2.staticflickr.com/4/3948/34119826375_e69e91011d_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/34119826375/in/photolist-TZ42Ex-N1EqdS-N1ExKq/
+      miniature: https://c2.staticflickr.com/4/3948/34119826375_d439567d4c_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/34119826375/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Rod E. Tulloss (provisoire)

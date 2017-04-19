@@ -1,6 +1,6 @@
 ---
 nom: Amanita abrupta
-date: 2017-03-16 00:00:00
+date: 2017-04-07 00:00:00
 image: https://c1.staticflickr.com/1/713/21329672180_4f938a431f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21329672180/in/photolist-yuQ9qC-yuQdej
 album-flickr:

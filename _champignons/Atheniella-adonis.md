@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Mycene adonis ou Mycene jolie
-  autorites: (Bull.) Redhead, Moncalvo, Vilgalys, Desjardin & B.A. Perry
   ordre: Agaricales
   famille: Marasmiaceae
   genre: Atheniella
-  espece: adonis
+  espece: <i>Atheniella adonis</i> (Bull.) Redhead, Moncalvo, Vilgalys, Desjardin & B.A. Perry
   litterature: Index Fungorum, 14, 1, 2012
   
 collections:

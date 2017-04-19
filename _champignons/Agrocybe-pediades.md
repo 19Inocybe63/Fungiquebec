@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Agrocybe des pelouses
-  autorites: (Fr.) Fayod
   ordre: Agaricales
   famille: Strophariaceae
   genre: Agrocybe
-  espece: pediades
+  espece: <i>Agrocybe pediades</i> (Fr.) Fayod
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
 
 collections:

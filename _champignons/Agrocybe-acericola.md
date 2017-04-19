@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Agrocybe des érables
-  autorites: (Peck) Singer
   ordre: Agaricales
   famille: Strophariaceae
   genre: Agrocybe
-  espece: acericola
+  espece: <i>Agrocybe acericola</i> (Peck) Singer
   litterature: Singer 1950, Trudy Bot. Inst. Akad. Nauk SSSR 6:88
 
 collections:

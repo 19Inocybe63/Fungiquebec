@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite fauve d'Amérique
-  autorites: Tulloss
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: amerifulva nom. prov.
+  espece: <i>Amanita amerifulva nom. prov.</i>
   litterature: Persoon, C.H. 1818. Traité sur les Champignons Comestibles. :1-276
   
 collections:

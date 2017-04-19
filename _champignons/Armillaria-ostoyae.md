@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Armillaire obscure ou Armillaire d'Ostoya
-  autorites: (Romagn.) Herink
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Armillaria
-  espece: ostoyae
+  espece: <i>Armillaria ostoyae</i> (Romagn.) Herink
   litterature: Hásek 1973, Sympozium o Václavce Obecné Armillaria mellea (Vahl ex Fr.) Kumm.:42
 
 collections:

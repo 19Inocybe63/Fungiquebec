@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite à bulbe abrupt
-  autorites: Peck
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: abrupta
+  espece: <i>Amanita abrupta</i> Peck
   litterature: Peck, C.H. 1897. New species of fungi. Bulletin of the Torrey Botanical Club. 24:137-147
   
 collections:

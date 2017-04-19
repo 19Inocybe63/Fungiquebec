@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Agrocybe tubereux
-  autorites: (Fr.) Singer
   ordre: Agaricales
   famille: Strophariaceae
   genre: Agrocybe
-  espece: arvalis
+  espece: <i>Agrocybe arvalis</i> (Fr.) Singer
   litterature: Singer...
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Armillaire moutarde
-  autorites: Bérubé & Dessur.
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Armillaria
-  espece: sinapina
+  espece: <i>Armillaria sinapina </i> Bérubé & Dessur.
   litterature: Bérubé, J.A.; Dessureault, M. 1988. Morphological characterization of Armillaria ostoyae and Armillaria sinapina sp. nov. Canadian Journal of Botany. 66(10):2027-2034
 
 collections:

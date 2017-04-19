@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite rougissante
-  autorites: Tulloss nom. prov.
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: amerirubescens
+  espece: <i>Amanita amerirubescens</i> Tulloss nom. prov.
   litterature: Tulloss
 
 collections:

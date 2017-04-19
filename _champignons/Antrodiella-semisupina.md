@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore retroussé
-  autorites: (Berk. & M.A. Curtis) Ryvarden
   ordre: Polyporales
   famille: Phanerochaetaceae
   genre: Antrodiella
-  espece: semisupina
+  espece: <i>Antrodiella semisupina</i> (Berk. & M.A. Curtis) Ryvarden
   litterature: Ryvarden, L.; Johansen, I. 1980. A preliminary polypore flora of East Africa. :1-636
 
 collections:

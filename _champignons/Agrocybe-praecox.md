@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Agrocybe précoce
-  autorites: (Pers.) Fayod
   ordre: Agaricales
   famille: Strophariaceae
   genre: Agrocybe
-  espece: praecox
+  espece: <i>Agrocybe praecox</i> (Pers.) Fayod
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite à pied voilé
-  autorites: G. F. Atk.
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: velatipes
+  espece: <i>Amanita velatipes</i> G. F. Atk.
   litterature: Atkinson, G.F. 1900. Studies of American fungi. Mushrooms, edible, poisonous, etc. :1-275
 
 collections:

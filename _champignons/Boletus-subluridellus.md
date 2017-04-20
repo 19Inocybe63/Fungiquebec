@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet brun rougeâtre
-  autorites: A. H. Sm. & Thiers
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
-  espece: subluridellus
+  espece: <i>Boletus subluridellus</i> A. H. Sm. & Thiers
   litterature: Smith, A.H.; Thiers, H.D. 1971. The Boletes of Michigan. :1-428
 
 collections:

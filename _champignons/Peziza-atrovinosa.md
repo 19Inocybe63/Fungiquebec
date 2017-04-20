@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Cooke & W.R. Gerard
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
-  espece: atrovinosa
+  espece: <i>Peziza atrovinosa</i> Cooke & W.R. Gerard
   litterature: Cooke, M.C. 1875. Synopsis of the discomycetous fungi of the United States. 1. Bulletin of the Buffalo Society of Natural Sciences. 2(36):285-288
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet veiné
-  autorites: (Schwein.) Murrill
   ordre: Boletales
   famille: Boletinellaceae
   genre: Boletinellus
-  espece: merulioides
+  espece: <i>Boletinellus merulioides</i> (Schwein.) Murrill
   litterature: Murrill, W.A. 1909. The Boletaceae of North America, 1. Mycologia. 1(1):4-18
 
 collections:

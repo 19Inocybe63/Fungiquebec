@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Collybie queue de souris
-  autorites: (Fr.) Singer
   ordre: Agaricales
   famille: Marasmiaceae
   genre: Baeospora
-  espece: myosura
+  espece: <i>Baeospora myosura</i> (Fr.) Singer
   litterature: Singer, R. 1938. Notes sur quelques Basidiomycetes. Revue de Mycologie. 3, 187-199
 
 collections:

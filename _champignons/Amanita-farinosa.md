@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite farineuse ou Amanite poudrée de gris
-  autorites: Schweinitz
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: farinosa
+  espece: <i>Amanita farinosa</i> Schweinitz
   litterature: Schweinitz, L.D. von. 1822. Synopsis fungorum Carolinae superioris. Schriften der Naturforschenden Gesellschaft zu Leipzig. 1:20-131
 
 collections:

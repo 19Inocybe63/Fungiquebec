@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet à pied velu
-  autorites: Peck
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
-  espece: subvelutipes
+  espece: <i>Boletus subvelutipes</i> Peck
   litterature: Peck 1889, Bull. N.Y. State Mus. 8:142-143
 
 collections:

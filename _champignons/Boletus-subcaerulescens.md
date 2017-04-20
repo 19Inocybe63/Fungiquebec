@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Cèpe à pores bleuissants
-  autorites: (E. A. Dick & Snell) Both, Bessette & A.R. Bessette
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
-  espece: subcaerulescens
+  espece: <i>Boletus subcaerulescens</i> (E. A. Dick & Snell) Both, Bessette & A.R. Bessette
   litterature: Bessette, A.E.; Roody, W.C.; Bessette, A.R. 2000. North American Boletes, A Color Guide to the Fleshy Pored Mushrooms. :1-399
 
 collections:

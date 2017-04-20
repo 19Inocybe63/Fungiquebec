@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite porphyre
-  autorites: Alb. & Schwein.
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: porphyria
+  espece: <i>Amanita porphyria</i> Alb. & Schwein.
   litterature: Albertini, J.B.; Schweinitz, L.D. von. 1805. Conspectus Fungorum in Lusatiae superioris. :1-376
 
 collections:

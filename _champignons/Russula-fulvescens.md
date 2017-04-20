@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule fauvâtre
-  autorites: Burl.
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: fulvescens
+  espece: <i>Russula fulvescens</i> Burl.
   litterature: Burlingham, G.S. 1915. Russula. North American Flora. 9:201-236
 
 collections:

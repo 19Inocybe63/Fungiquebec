@@ -1,6 +1,6 @@
 ---
 nom: Amanita lavendula
-date: 2017-04-18 00:00:00
+date: 2017-04-20 00:00:00
 image: https://c2.staticflickr.com/6/5651/30199932386_91347b7511_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30199932386/in/photolist-N1EqdS-N1ExKq
 album-flickr:

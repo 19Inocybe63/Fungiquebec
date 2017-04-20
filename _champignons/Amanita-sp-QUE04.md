@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Tulloss
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: sp. nov.
+  espece: <i>sp-QUE04</i> Tulloss sp. nov.
   litterature: 
 
 collections:

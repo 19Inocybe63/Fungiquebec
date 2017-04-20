@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite vireuse
-  autorites: Bertill.
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: virosa
+  espece: <i>Amanita virosa</i> Bertill.
   litterature: 1866. Dictionnaire encyclopédique des sciences médicales. 1(3):491-511
 
 collections:

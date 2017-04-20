@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite à voile jaune
-  autorites: G.F. Atk.
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: flavoconia
+  espece: <i>Amanita flavoconia</i> G.F. Atk.
   litterature: Atkinson, G.F. 1902. Preliminary notes on some new species of fungi. Journal of Mycology. 8:110-119
 
 collections:

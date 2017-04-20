@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet affine var. maculosus
-  autorites: (Peck) Singer
   ordre: Boletales
   famille: Boletaceae
   genre: Xanthoconium
-  espece: affine var. maculosus
+  espece: <i>Xanthoconium affine var. maculosus</i> (Peck) Singer
   litterature: Singer, R. 1947. The Boletoideae of Florida. The Boletineae of Florida with notes on extralimital species III. The American Midland Naturalist. 37:1-135
 
 collections:

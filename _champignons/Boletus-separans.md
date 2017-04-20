@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet à tubes détachés
-  autorites: Peck
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
-  espece: separans
+  espece: <i>Boletus separans</i> Peck
   litterature: Peck, C.H. 1873. Descriptions of new species of fungi. Bulletin of the Buffalo Society of Natural Sciences. 1:41-72
   
 collections:

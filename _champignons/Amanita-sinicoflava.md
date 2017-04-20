@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite jaune paille
-  autorites: Tulloss
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: sinicoflava
+  espece: <i>Amanita sinicoflava</i> Tulloss
   litterature: Tulloss, R.E. 1988. Amanita sinicoflava; a new species from eastern North America. Mycotaxon. 32:421-431
 
 collections:

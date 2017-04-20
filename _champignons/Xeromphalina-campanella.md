@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Omphale en clochette
-  autorites: (Batsch) Kühner & Maire
   ordre: Agaricales
   famille: Mycenaceae
   genre: Xeromphalina
-  espece: campanella
+  espece: <i>Xeromphalina campanella</i> (Batsch) Kühner & Maire
   litterature: Konrad & Maublanc, Icones selectae Fungorum, 6 Texte general 6, 284 (1934)
 
 collections:

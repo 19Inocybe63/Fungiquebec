@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite tue-mouches, variété de Güssow
-  autorites: Veselý
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: muscaria var. guessowii
+  espece: <i>Amanita muscaria var. guessowii</i> Veselý
   litterature: Veselý, R. 1933. Revisio critica Amanitarum euopaearum. Annales Mycologici. 31(4):209-298
 
 collections:

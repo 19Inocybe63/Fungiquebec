@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Inocybe de Renny
-  autorites: (Berk. & Broome) Sacc.
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: rennyi
+  espece: <i>Inocybe aff. rennyi</i> (Berk. & Broome) Sacc.
   litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
 
 collections:

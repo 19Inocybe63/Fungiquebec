@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pézize citrine
-  autorites: (Batsch) Korf & S.E. Carp.
   ordre: Helotiales
   famille: Helotiaceae
   genre: Bisporella
-  espece: citrina
+  espece: <i>Bisporella citrina</i> (Batsch) Korf & S.E. Carp.
   litterature: Korf, R.P.; Carpenter, S.E. 1974. Bisporella, a generic name for Helotium citrinum and its allies, and the generic names Calycella and Calycina. Mycotaxon. 1(1):51-62
 
 collections:

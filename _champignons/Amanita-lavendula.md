@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: (Coker) Tulloss, K.W. Hughes, Rodrig. Cayc. & Kudzma
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: lavendula
+  espece: <i>Amanita lavendula</i> (Coker) Tulloss, K.W. Hughes, Rodrig. Cayc. & Kudzma
   litterature: Rodham E. Tulloss, Cristina Rodríguez Caycedo, Karen W. Hughes, József Geml, Linas V. Kudzma, Benjamin E. Wolfe, and David Arora. 2015. Nomenclatural changes in Amanita. II. Amanitaceae. 1(2):1-6
 
 collections:

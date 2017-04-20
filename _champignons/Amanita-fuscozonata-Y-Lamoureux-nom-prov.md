@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Amanite zonée
-  autorites: Y. Lamoureux
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: fuscozonata
+  espece: <i>Amanita fuscozonata Y. Lamoureux nom. prov.</i>
   litterature: 
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Coprin laineux des charbonnières ou Coprin sosie du pied de lièvre
-  autorites: (Peck) Redhead, Vilgalys & Moncalvo
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinopsis
-  espece: jonesii
+  espece: <i>Coprinopsis jonesii</i> (Peck) Redhead, Vilgalys & Moncalvo
   litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Crépidote mollet
-  autorites: Sacc.
   ordre: Agaricales
   famille: Inocybaceae
   genre: Crepidotus
-  espece: malachius
+  espece: <i>Crepidotus malachius</i> Sacc.
   litterature: Peck, C.H. 1886. Report of the Botanist (1885). Annual Report on the New York State Museum of Natural History. 39:30-73
 
 collections:

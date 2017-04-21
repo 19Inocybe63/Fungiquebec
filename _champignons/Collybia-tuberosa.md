@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: (Bull.) P. Kumm.
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Collybia
-  espece: tuberosa
+  espece: <i>Collybia tuberosa</i> (Bull.) P. Kumm.
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:

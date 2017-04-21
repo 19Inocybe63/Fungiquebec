@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore écailleux
-  autorites: (Huds.) Quél.
   ordre: Polyporales
   famille: Polyporaceae
   genre: Cerioporus
-  espece: squamosus
+  espece: <i>Cerioporus squamosus</i> (Huds.) Quél.
   litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
 
 collections:

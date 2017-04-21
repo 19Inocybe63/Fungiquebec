@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Clavaire en fuseau
-  autorites: (Sowerby) Corner
   ordre: Agaricales
   famille: Clavariaceae
   genre: Clavulinopsis
-  espece: fusiformis
+  espece: <i>Clavulinopsis fusiformis</i> (Sowerby) Corner
   litterature: Corner, E.J.H. 1950. A monograph of Clavaria and allied genera. Annals of Botany Memoirs. 1:1-740
 
 collections:

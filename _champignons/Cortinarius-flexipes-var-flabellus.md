@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire à pied tortueux
-  autorites: (Fr.) H. Lindstr. & Melot
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: flexipes var. flabellus
+  espece: <i>Cortinarius flexipes var. flabellus</i> (Fr.) H. Lindstr. & Melot
   litterature: Brandrud, T.E.; Lindström, H.; Marklund, H.; Melot, J.; Muskos, S. 1998. Cortinarius. Flora photographica. 4:1-31
 
 collections:

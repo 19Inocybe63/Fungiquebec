@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire écailleux
-  autorites: (Lilj.) Fr.
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: pholideus
+  espece: <i>Cortinarius pholideus</i> (Lilj.) Fr.
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
 
 collections:

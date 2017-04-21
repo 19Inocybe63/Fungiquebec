@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire armillé ou Cortinaire à bracelets
-  autorites: (Fr.) Fr.
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: armillatus
+  espece: <i>Cortinarius armillatus</i> (Fr.) Fr.
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
 
 collections:

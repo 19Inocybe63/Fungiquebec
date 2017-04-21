@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Crepidote à basidiospores sphériques
-  autorites: (J.E. Lange) Senn-Irlet
   ordre: Agaricales
   famille: Inocybaceae
   genre: Crepidotus
-  espece: cesatii var. subsphaerosporus
+  espece: <i>Crepidotus cesatii var. subsphaerosporus</i> (J.E. Lange) Senn-Irlet
   litterature: Senn-Irlet, B. 1995. The genus Crepidotus (Fr.) Staude in Europe. Persoonia. 16(1):1-80
 
 collections:

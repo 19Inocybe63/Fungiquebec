@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Coprin écailleux
-  autorites: (Peck) Redhead, Vilgalys & Moncalvo
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinopsis
-  espece: variegata
+  espece: <i>Coprinopsis variegata</i> (Peck) Redhead, Vilgalys & Moncalvo
   litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore cannelle
-  autorites: (Jacq.) Murrill
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Coltricia
-  espece: cinnamomea
+  espece: <i>Coltricia cinnamomea</i> (Jacq.) Murrill
   litterature: Murrill, W.A. 1904. The Polyporaceae of North America, VII. The genera Hexagona, Grifola, Romellia, Coltricia and Coltriciella. Bulletin of the Torrey Botanical Club. 31(6):325-348
 
 collections:

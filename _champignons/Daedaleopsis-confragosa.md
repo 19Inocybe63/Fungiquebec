@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Tramète rougissante
-  autorites: (Bolton) J. Schröt.
   ordre: Polyporales
   famille: Polyporaceae
   genre: Daedaleopsis
-  espece: confragosa
+  espece: <i>Daedaleopsis confragosa</i> (Bolton) J. Schröt.
   litterature: Schröter, J. 1888. Kryptogamen-Flora von Schlesien. 3-1(4):385-512
 
 collections:

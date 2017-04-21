@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Coprin disséminé ou Coprin grégaire
-  autorites: (Pers.) J.E. Lange
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinellus
-  espece: disseminatus
+  espece: <i>Coprinellus disseminatus</i> (Pers.) J.E. Lange
   litterature: Lange, J.E. 1938. Studies in the Agarics of Denmark. Part XII. Hebeloma, Naucoria, Tubaria, Galera, Bolbitius, Pluteolus, Crepidotus, Pseudopaxillus, Paxillus. Dansk botanisk Arkiv. 9(6), 1-104
 
 collections:

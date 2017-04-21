@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore en ombelle
-  autorites: (Pers.) Quél.
   ordre: Polyporales
   famille: Meripilaceae
   genre: Cladomeris
-  espece: umbellata
+  espece: <i>Cladomeris umbellata</i> (Pers.) Quél.
   litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
 
 collections:

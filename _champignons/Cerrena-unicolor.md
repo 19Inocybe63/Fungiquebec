@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Tramète unicolore
-  autorites: (Bull.) Murrill
   ordre: Polyporales
   famille: Polyporaceae
   genre: Cerrena
-  espece: unicolor
+  espece: <i>Cerrena unicolor</i> (Bull.) Murrill
   litterature: Murrill, W.A. 1903. A historical review of the genera of the Polyporaceae. Journal of Mycology. 9(2):87-102
 
 collections:

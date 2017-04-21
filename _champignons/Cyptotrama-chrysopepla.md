@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Collybie drapée d'or
-  autorites: (Berk. & M.A. Curtis) Singer
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Cyptotrama
-  espece: chrysopepla
+  espece: <i>Cyptotrama chrysopepla</i> (Berk. & M.A. Curtis) Singer
   litterature: Singer, R. 1973. Diagnoses fungorum novorum Agaricalium III. Beihefte zur Sydowia. 7:1-106
 
 collections:

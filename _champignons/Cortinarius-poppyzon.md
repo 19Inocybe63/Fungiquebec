@@ -1,5 +1,5 @@
 ---
-nom: Cortinarius poppyzon
+nom: Cortinarius aff. poppyzon
 date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5619/29289082834_c2f7203165_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29289082834/in/photolist-Rdv8ky-LCbcUN-MpxjQN
@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Melot
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: poppyzon
+  espece: <i>Cortinarius aff. poppyzon</i> Melot
   litterature: Melot, J. 1989. Novitates - Combinationes et taxa nova. Documents Mycologiques. 20(77):93-100
 
 collections:

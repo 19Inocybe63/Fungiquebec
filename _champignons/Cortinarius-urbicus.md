@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire citadin
-  autorites: (Fr.) Fr.
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: urbicus
+  espece: <i>Cortinarius urbicus</i> (Fr.) Fr.
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
 
 collections:

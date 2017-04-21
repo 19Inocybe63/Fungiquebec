@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Collybie à sclérote noir
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Collybia

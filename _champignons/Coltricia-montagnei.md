@@ -11,7 +11,7 @@ details:
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Coltricia
-  espece: <ï>Coltricia montagnei</i> (Fr.) Murrill
+  espece: <i>Coltricia montagnei</i> (Fr.) Murrill
   litterature: Murrill, W.A. 1920. Corrections and additions to the polypores of temperate North America. Mycologia. 12(1):6-24
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Craterelle en tube
-  autorites: (Fr.) Quél.
   ordre: Cantharellales
   famille: Cantharellaceae
   genre: Craterellus
-  espece: tubaeformis
+  espece: <i>Craterellus tubaeformis</i> (Fr.) Quél.
   litterature: Quélet, L. 1888. Flore mycologique de la France et des pays limitrophes. :1-492
 
 collections:

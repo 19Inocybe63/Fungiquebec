@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Trémelle à basidiospores jaunes
-  autorites: Berk. & M.A. Curtis
   ordre: Dacrymycetales
   famille: Dacrymycetaceae
   genre: Dacrymyces
-  espece: chrysospermus
+  espece: <i>Dacrymyces chrysospermus</i> Berk. & M.A. Curtis
   litterature: Berkeley, M.J. 1873. Notices of North American fungi (cont.). Grevillea. 2(14):17-20
 
 collections:

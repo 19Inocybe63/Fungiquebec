@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore vergeté
-  autorites: (Pers.) Zmitr. & Kovalenko
   ordre: Polyporales
   famille: Polyporaceae
   genre: Cerioporus
-  espece: varius
+  espece: <i>Cerioporus varius</i> (Pers.) Zmitr. & Kovalenko
   litterature: Zmitrovich, I.V; Kovalenko, A.E. 2016. Lentinoid and polyporoid fungi, two generic conglomerates containing important medicinal mushrooms in molecular perspective. International Journal of Medicinal Mushrooms. 18(1):23-38
 
 collections:

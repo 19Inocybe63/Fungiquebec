@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire en forme de dolabre
-  autorites: Fr.
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: dolabratus
+  espece: <i>Cortinarius dolabratus</i> Fr.
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
 
 collections:

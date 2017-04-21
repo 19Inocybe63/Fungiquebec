@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pézize verdissante
-  autorites: (Nyl.) Kanouse ex C.S. Ramamurthi et al.
   ordre: Helotiales
   famille: Chlorociboriaceae
   genre: Chlorociboria
-  espece: aeruginascens
+  espece: <i>Chlorociboria aeruginascens</i> (Nyl.) Kanouse ex C.S. Ramamurthi et al.
   litterature: Ramamurthi, C.S.; Korf, R.P.; Batra, L.R. 1957. A revision of the North American species of Chlorociboria (Sclerotiniaceae). Mycologia. 49:854-863
 
 collections:

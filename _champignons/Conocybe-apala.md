@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Conocybe à pied blanc
-  autorites: (Fr.) Arnolds
   ordre: Agaricales
   famille: Bolbitiaceae
   genre: Conocybe
-  espece: apala
+  espece: <i>Conocybe apala</i> (Fr.) Arnolds
   litterature: Arnolds, E. 2003. Notulae ad floram agaricinam neerlandicam, XL. New combinations in Conocybe and Pholiotina. Persoonia. 18(2):225-230
 
 collections:

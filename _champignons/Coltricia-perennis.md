@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore vivace
-  autorites: (L.) Murrill
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Coltricia
-  espece: perennis
+  espece: <i>Coltricia perennis</i> (L.) Murrill
   litterature: Murrill, W.A. 1903. A historical review of the genera of the Polyporaceae. Journal of Mycology. 9(2):87-102
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Mycène délicate
-  autorites: (Pers.) Fayod
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Delicatula
-  espece: integrella
+  espece: <i>Delicatula integrella</i> (Pers.) Fayod
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Collybie jaune olivacé
-  autorites: (Berk. & M. A. Curtis) Singer
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Callistosporium
-  espece: luteo-olivaceum
+  espece: <i>Callistosporium luteo-olivaceum</i> (Berk. & M. A. Curtis) Singer
   litterature: Lloydia, 89, 117, 1946
 
 collections:

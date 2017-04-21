@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Craterelle trompeuse
-  autorites: A.H. Sm.
   ordre: Cantharellales
   famille: Cantharellaceae
   genre: Craterellus
-  espece: fallax
+  espece: <i>Craterellus fallax</i> A.H. Sm.
   litterature: Smith, A.H. 1968. The Cantharellaceae of Michigan. The Michigan Botanist. 7:143-183 
 
 collections:

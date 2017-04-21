@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hydne septentrional
-  autorites: (Fr.) P. Karst.
   ordre: Polyporales
   famille: Phanerochaetaceae
   genre: Climacodon
-  espece: septentrionalis
+  espece: <i>Climacodon septentrionalis</i> (Fr.) P. Karst.
   litterature: Karsten, P.A. 1881. Enumeratio Hydnearum Fr. Fennicarum, systemate novo dispositarum. Revue Mycologique Toulouse. 3(9):19-21
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Dédalée du chêne ou Lenzite du chêne
-  autorites: (L.) Pers.
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Daedalea
-  espece: quercina
+  espece: <i>Daedalea quercina</i> (L.) Pers.
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
 
 collections:

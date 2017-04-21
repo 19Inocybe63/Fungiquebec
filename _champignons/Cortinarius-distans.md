@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire à lames espacées
-  autorites: Peck
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: distans
+  espece: <i>Cortinarius distans</i> Peck
   litterature: Peck, C.H. 1873. Report of the Botanist (1869). Annual Report on the New York State Museum of Natural History. 23:27-135
 
 collections:

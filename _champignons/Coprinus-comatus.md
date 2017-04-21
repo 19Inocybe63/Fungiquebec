@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Coprin chevelu
-  autorites: (O.F. Müll.) Pers.
   ordre: Agaricales
   famille: Agaricaceae
   genre: Coprinus
-  espece: comatus
+  espece: <i>Coprinus comatus</i> (O.F. Müll.) Pers.
   litterature: Persoon, C.H. 1797. Tentamen dispositionis methodicae Fungorum. :1-76
 
 collections:

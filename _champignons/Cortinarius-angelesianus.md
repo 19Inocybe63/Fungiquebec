@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire à tête velue
-  autorites: A.H. Sm.
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: angelesianus
+  espece: <i>Cortinarius angelesianus</i> A.H. Sm.
   litterature: Smith, A.H. 1944. New and interesting Cortinarii from North America. Lloydia. 7(3):163-235
 
 collections:

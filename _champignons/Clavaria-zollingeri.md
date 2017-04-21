@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Clavaire violette
-  autorites: Lév.
   ordre: Agaricales
   famille: Clavariaceae
   genre: Clavaria
-  espece: zollingeri
+  espece: <i>Clavaria zollingeri</i> Lév.
   litterature: Léveillé, J.H. 1846. Descriptions des champignons de l'herbier du Muséum de Paris. Annales des Sciences Naturelles Botanique. 5:111-167
 
 collections:

@@ -79,7 +79,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « L'ADN de cette collection fut étudié par R. A. Powers (<i>MyCoPortal</i>) et les résultats furent déposés sur le site http://mycoportal.org/portal/collections/individual/index.php?occid=2416327 »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -237,8 +237,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: L'ADN de cette collection fut étudié par R. A. Powers (<i>MyCoPortal</i>) et les résultats furent déposés sur le site ;
-    http://mycoportal.org/portal/collections/individual/index.php?occid=2416327
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

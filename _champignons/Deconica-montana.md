@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Psilocybe des montagnes
-  autorites: (Pers.) P.D. Orton
   ordre: Agaricales
   famille: Strophariaceae
   genre: Deconica
-  espece: montana
+  espece: <i>Deconica montana</i> (Pers.) P.D. Orton
   litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
 
 collections:

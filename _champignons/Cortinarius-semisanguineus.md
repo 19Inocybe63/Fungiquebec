@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire semi-sanguin
-  autorites: (Fr.) Gillet
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: semisanguineus
+  espece: <i>Cortinarius semisanguineus</i> (Fr.) Gillet
   litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. :177-560
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire violacé
-  autorites: Berk. & M.A. Curtis
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: iodes
+  espece: <i>Cortinarius iodes</i> Berk. & M.A. Curtis
   litterature: Berkeley, M.J.; Curtis, M.A. 1853. Centuries of North American fungi. Annals and Magazine of Natural History. 12:417-435
 
 collections:

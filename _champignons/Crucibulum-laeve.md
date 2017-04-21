@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Crucibule lisse
-  autorites: (Huds.) Kambly
   ordre: Agaricales
   famille: Agaricaceae
   genre: Crucibulum
-  espece: laeve
+  espece: <i>Crucibulum laeve</i> (Huds.) Kambly
   litterature: Kambly, P.E.; Lee, R.E. 1936. The Gasteromycetes of Iowa. University of Iowa Studies in Natural History. 17(4):121-185
 
 collections:

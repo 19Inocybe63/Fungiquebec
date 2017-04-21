@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Clavaire fragile
-  autorites: Holmsk.
   ordre: Agaricales
   famille: Clavariaceae
   genre: Clavaria
-  espece: fragilis
+  espece: <i>Clavaria fragilis</i> Holmsk.
   litterature: Holmskjold, T. 1790. Beata ruris otia fungis danicis. 1:1-118
 
 collections:

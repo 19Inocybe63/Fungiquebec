@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Clitocybe lumineux
-  autorites: (Schwein.) Bresinsky & Besl
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Omphalotus
-  espece: illudens
+  espece: <i>Omphalotus illudens</i> (Schwein.) Bresinsky & Besl
   litterature: Bresinsky, A.; Besl, H. 1979. Zum verwandtschaftlichen Anschluss von Omphalotus. Beihefte zur Sydowia. 8:98-109
 
 collections:

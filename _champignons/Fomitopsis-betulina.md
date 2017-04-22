@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore du bouleau
-  autorites: (Bull.) B.K. Cui, M.L. Han & Y.C. Dai
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Fomitopsis
-  espece: betulina
+  espece: <i>Fomitopsis betulina</i> (Bull.) B.K. Cui, M.L. Han & Y.C. Dai
   litterature: Fries, E.M. 1821. Systema Mycologicum. 1:1-520
 
 collections:

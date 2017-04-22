@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Entolome superbe
-  autorites: (Fr.) Noordel.
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: formosum
+  espece: <i>Entoloma formosum</i> (Fr.) Noordel.
   litterature: Noordeloos, M.E. 1985. Notulae ad floram Agaricinam Neerlandicam X-XI. Entoloma. Persoonia. 12(4):457-462
 
 collections:

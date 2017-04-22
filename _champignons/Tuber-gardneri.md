@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Gilkey
   ordre: Pezizales
   famille: Tuberaceae
   genre: Tuber
-  espece: gardneri
+  espece: <i>Tuber gardneri</i> Gilkey
   litterature: Gilkey, H.M. 1916. A revision of the Tuberales of California. University of California Publications in Botany. 6:275-356
 
 collections:

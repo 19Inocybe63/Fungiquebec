@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Vittad.
   ordre: Boletales
   famille: Boletaceae
   genre: Octaviania
-  espece: asterosperma
+  espece: <i>Octaviania asterosperma</i> Vittad.
   litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
 
 collections:

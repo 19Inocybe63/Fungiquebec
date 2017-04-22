@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Entolome saumon
-  autorites: (Berk. & M.A. Curtis) E. Horak
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: quadratum
+  espece: <i>Entoloma quadratum</i> (Berk. & M.A. Curtis) E. Horak
   litterature: Horak, E. 1976. On cuboid-spored species of Entoloma (Agaricales). Sydowia. 28(1-6):171-237
 
 collections:

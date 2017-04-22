@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Elaphomyces nouvelle espèce
-  autorites: Castellano
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: sp. nov. not
+  espece: <i>Elaphomyces sp. nov. not</i> Castellano
   litterature: 
 
 collections:

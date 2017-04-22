@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Tramète versicolore
-  autorites: (L.) Lloyd
   ordre: Polyporales
   famille: Polyporaceae
   genre: Trametes
-  espece: versicolor
+  espece: <i>Trametes versicolor</i> (L.) Lloyd
   litterature: Lloyd, C.G. 1921. Mycological Notes 65. Mycological Writings. 6(65):1029-1101
 
 collections:

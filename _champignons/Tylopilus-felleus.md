@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet amer
-  autorites: (Bull.) P. Karst.
   ordre: Boletales
   famille: Boletaceae
   genre: Tylopilus
-  espece: felleus
+  espece: <i>Tylopilus felleus</i> (Bull.) P. Karst.
   litterature: Karsten, P.A. 1881. Enumeratio Boletinearum et Polyporearum Fennicarum, systemate novo dispositarum. Revue Mycologique Toulouse. 3(9):16-19
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Tubaire commune
-  autorites: (Pers.) Gillet
   ordre: Agaricales
   famille: Tubariaceae
   genre: Tubaria
-  espece: furfuracea
+  espece: <i>Tubaria furfuracea</i> (Pers.) Gillet
   litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. :177-560
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Ustuline brûlée
-  autorites: (Hoffm.) P.M.D. Martin
   ordre: Xylariales
   famille: Xylariaceae
   genre: Kretzschmaria
-  espece: deusta
+  espece: <i>Kretzschmaria deusta</i> (Hoffm.) P.M.D. Martin
   litterature: Martin, P. 1970. Studies in the Xylariaceae:VIII. Xylaria and its allies. South African Journal of Botany. 36(2):73-138
 
 collections:

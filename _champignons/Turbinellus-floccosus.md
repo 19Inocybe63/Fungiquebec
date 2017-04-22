@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Chanterelle à flocons
-  autorites: (Schwein.) Earle ex Giachini & Castellano
   ordre: Gomphales
   famille: Gomphaceae
   genre: Turbinellus
-  espece: floccosus
+  espece: <i>Turbinellus floccosus</i> (Schwein.) Earle ex Giachini & Castellano
   litterature: Giachini, A.J; Castellano, M.A. 2011. A new taxonomic classification for species in Gomphus sensu lato. Mycotaxon. 115:183-201
 
 collections:

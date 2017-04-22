@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2017-04-19 00:00:00
+date: 2017-04-22 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
@@ -117,7 +117,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: commun
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

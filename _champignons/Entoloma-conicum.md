@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Entolome conique
-  autorites: (Sacc.) Hesler
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: conicum
+  espece: <i>Entoloma conicum</i> (Sacc.) Hesler
   litterature: Hesler, L.R. 1967. Entoloma (Rhodophyllus) in Southeastern North America. Beihefte zur Nova Hedwigia. 23:1-220
 
 collections:

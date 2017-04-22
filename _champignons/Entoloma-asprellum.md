@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Entolome à pied bleuté
-  autorites: (Fr.) Fayod
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: asprellum
+  espece: <i>Entoloma asprellum</i> (Fr.) Fayod
   litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
 
 collections:

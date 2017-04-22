@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Entolome bleu pourpre
-  autorites: (Britzelm.) Noordel.
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: cf. incarnatofuscescens
+  espece: <i>Entoloma cf. incarnatofuscescens</i> (Britzelm.) Noordel.
   litterature: 
 
 collections:

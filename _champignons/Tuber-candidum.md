@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Harkn
   ordre: Pezizales
   famille: Tuberaceae
   genre: Tuber
-  espece: candidum
+  espece: <i>Tuber candidum</i> Harkn
   litterature: Phillips, W.; Harkness, H.W. 1899. Californian hypogaeous fungi. Proceedings of the California Academy of Sciences. 1(8):241-291
 
 collections:

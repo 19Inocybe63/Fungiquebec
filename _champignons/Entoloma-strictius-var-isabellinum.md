@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Peck
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: strictius var. isabellinum
+  espece: <i>Entoloma strictius var. isabellinum</i> Peck
   litterature: Peck, Bull. N.Y. St. Mus. nat. Hist., 1(no. 2), 27, 1887
 
 collections:

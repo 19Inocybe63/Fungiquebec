@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Entolome violet
-  autorites: Murrill
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: violaceum
+  espece: <i>Entoloma violaceum</i> Murrill
   litterature: Murrill, W.A. 1917. Agaricaceae subtribe Pluteanae. North American Flora. 10(2):77-144
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Tricholome faux-sulphureum
-  autorites: (Peck) Singer
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholomopsis
-  espece: sulphureoides
+  espece: <i>Tricholomopsis sulphureoides</i> (Peck) Singer
   litterature: Singer, R. 1943. Das System der Agaricales. III. Annales Mycologici. 41:1-189
 
 collections:

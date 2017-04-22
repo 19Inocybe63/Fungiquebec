@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Castellano
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: vernesii sp. nov.
+  espece: <i>Elaphomyces vernesii sp. nov.</i> Castellano
   litterature: nouvelle espèce
 
 collections:

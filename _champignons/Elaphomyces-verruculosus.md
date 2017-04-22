@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Castellano
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: verruculosus
+  espece: <i>Elaphomyces verruculosus</i> Castellano
   litterature: Castellano, M.A.; Guerrero, G.G.; Jimenez, J.G.; Trappe, J.M. 2012. Elaphomyces appalachiensis Linder and E. verruculosus sp. nov. (Ascomycota, Eurotiales, Elaphomycetaceae) from eastern North America. 35:17-22
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: (Corda) Gräfenhan, Seifert & Schroers
   ordre: Hypocreales
   famille: Nectriaceae
   genre: Fusicolla
-  espece: merismoides
+  espece: <i>Fusicolla merismoides</i> (Corda) Gräfenhan, Seifert & Schroers
   litterature: Gräfenhan, T.; Schroers, H.-J.; Nirenberg, H.I.; Seifert, K.A. 2011. An overview of the taxonomy, phylogeny and typification of some nectriaceous fungi classifed in Cosmospora, Acremonium, Fusarium, Stilbella and Volutella. Studies in Mycology. 68:79-113
 
 collections:

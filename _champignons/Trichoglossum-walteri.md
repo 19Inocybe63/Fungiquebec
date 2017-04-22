@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Trichoglosse de Walter
-  autorites: (Berk.) E.J. Durand
   ordre: Geoglossales
   famille: Geoglossaceae
   genre: Trichoglossum
-  espece: walteri
+  espece: <i>Trichoglossum walteri</i> (Berk.) E.J. Durand
   litterature: Durand, E.J. 1908. The Geoglossaceae of North America. Annales Mycologici. 6:387-477
 
 collections:

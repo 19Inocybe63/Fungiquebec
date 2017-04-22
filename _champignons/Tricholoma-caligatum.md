@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Tricholome guêtré ou Tricholome chaussé
-  autorites: (Viviani) Ricken
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholoma
-  espece: caligatum
+  espece: <i>Tricholoma caligatum</i> (Viviani) Ricken
   litterature: Ricken, A. 1915. Die Blätterpilze. 1:1-480 
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Tricholome décoré
-  autorites: (Fr.) Singer
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholomopsis
-  espece: decora
+  espece: <i>Tricholomopsis decora</i> (Fr.) Singer
   litterature: Singer, R. 1939. Phylogenie und Taxonomie der Agaricales. Schweizerische Zeitschrift für Pilzkunde. 17:52-57
 
 collections:

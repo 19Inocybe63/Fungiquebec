@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Collybie à pied velouté
-  autorites: (Curtis) Singer
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Flammulina
-  espece: velutipes
+  espece: <i>Flammulina velutipes</i> (Curtis) Singer
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
 
 collections:

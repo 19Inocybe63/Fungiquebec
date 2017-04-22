@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Tricholome jaune
-  autorites: Peck
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholoma
-  espece: subluteum
+  espece: <i>Tricholoma subluteum</i> Peck
   litterature: Peck, C.H. 1904. Report of the State Botanist 1903. Bulletin of the New York State Museum. 75:1-68 
 
 collections:

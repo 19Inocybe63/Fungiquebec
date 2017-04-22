@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Trichoglosse de Farlow
-  autorites: (Cooke) E.J. Durand
   ordre: Geoglossales
   famille: Geoglossaceae
   genre: Trichoglossum
-  espece: farlowii
+  espece: <i>Trichoglossum farlowii</i> (Cooke) E.J. Durand
   litterature: 
 
 collections:

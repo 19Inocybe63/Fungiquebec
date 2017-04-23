@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Gymnopilus humicole
-  autorites: Harding ex Singer
   ordre: Agaricales
   famille: Strophariaceae
   genre: Gymnopilus
-  espece: humicola
+  espece: <i>Gymnopilus humicola</i> Harding ex Singer
   litterature: Singer, R. 1961. Diagnoses fungorum novorum Agaricalium II. Sydowia. 15(1-6):45-83
 
 collections:

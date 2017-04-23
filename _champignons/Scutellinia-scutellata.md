@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pézize en bouclier
-  autorites: (L.) Lambotte
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Scutellinia
-  espece: scutellata
+  espece: <i>Scutellinia scutellata</i> (L.) Lambotte
   litterature: Lambotte 1887, Mém. Soc. roy. Sci. Liège, Série 2 14:299
 
 collections:

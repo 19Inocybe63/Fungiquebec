@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Helvelle crépue
-  autorites: Bull.
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
-  espece: crispa
+  espece: <i>Helvella crispa</i> Bull.
   litterature: Bulliard, J. B. F. 1790. Herbier de la France. 10:433-480
 
 collections:

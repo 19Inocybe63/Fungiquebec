@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: (Berk. & M.A. Curtis) Kuntze
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
-  espece: spraguei
+  espece: <i>Suillus spraguei</i> (Berk. & M.A. Curtis) Kuntze
   litterature: (Berk. & M.A. Curtis) Kuntze, Revis. gen. pl., 3(2), 536, 1898
 
 collections:

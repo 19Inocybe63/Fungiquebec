@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Helvelle fibreuse
-  autorites: (Wallr.) Korf
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
-  espece: fibrosa
+  espece: <i>Helvella fibrosa</i> (Wallr.) Korf
   litterature: Korf, R.P. 2008. Nomenclatural notes. 12. Untangling Hedwig's Octospora villosa; Helvella fibrosa comb. nov. Mycotaxon. 103:307-311
 
 collections:

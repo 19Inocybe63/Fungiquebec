@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Collybie du chêne
-  autorites: (Bull.) Murrill
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Gymnopus
-  espece: dryophilus
+  espece: <i>Gymnopus dryophilus</i> (Bull.) Murrill
   litterature: Murrill, W.A. 1916. Agaricaceae Tribe Agariceae. North American Flora. 9(5):297-374
 
 collections:

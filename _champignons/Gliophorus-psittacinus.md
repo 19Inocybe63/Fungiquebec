@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore perroquet
-  autorites: (Schaeff.) Herink
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Gliophorus
-  espece: psittacinus
+  espece: <i>Gliophorus psittacinus</i> (Schaeff.) Herink
   litterature: Herink, J. 1958. Stavnatkovité houby parhorku "Velká Horka" u Mnichova Hradiste. Sborník Severoceského Musea. 1:53-86
 
 collections:

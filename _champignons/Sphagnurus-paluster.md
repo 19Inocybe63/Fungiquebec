@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Téphrocybe des marais
-  autorites: (Peck) Redhead & V. Hofstetter
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Sphagnurus
-  espece: paluster
+  espece: <i>Sphagnurus paluster</i> (Peck) Redhead & V. Hofstetter
   litterature: Index Fungorum. 202
 
 collections:

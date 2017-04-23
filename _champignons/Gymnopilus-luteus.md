@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Gymnopile jaune
-  autorites: (Peck) Hesler
   ordre: Agaricales
   famille: Strophariaceae
   genre: Gymnopilus
-  espece: luteus
+  espece: <i>Gymnopilus luteus</i> (Peck) Hesler
   litterature: Hesler, L.R. 1969. North American species of Gymnopilus. Mycologia Memoirs. 3:1-117
 
 collections:

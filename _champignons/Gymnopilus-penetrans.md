@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Gymnopile pénétrant
-  autorites: (Fr.) Murrill
   ordre: Agaricales
   famille: Strophariaceae
   genre: Gymnopilus
-  espece: penetrans
+  espece: <i>Gymnopilus penetrans</i> (Fr.) Murrill
   litterature: Murrill, W.A. 1912. The Agaricaceae of the Pacific Coast - II. White and ochre-spored genera. Mycologia. 4(5):231-262
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Scléroderme oignon
-  autorites: Pers.
   ordre: Boletales
   famille: Sclerodermataceae
   genre: Scleroderma
-  espece: cepa
+  espece: <i>Scleroderma cepa</i> Pers.
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706 
 
 collections:

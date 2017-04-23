@@ -7,12 +7,11 @@ album-flickr:
   - 72157676645474105
 
 details:
-  nom-francais: 
-  autorites: (Vahl) P. Karst.
+  nom-francais: Bolet pomme de pin
   ordre: Boletales
   famille: Boletaceae
   genre: Strobilomyces
-  espece: floccopus
+  espece: <i>Strobilomyces floccopus</i> (Vahl) P. Karst.
   litterature: Karsten, P.A. 1882. Rysslands, Finlans och den Skandinaviska halföns Hattsvampar. Sednare Delen, Pip-, Tagg-, Hud-, Klubb- och Gelésvampar. Bidrag till Kännedom av Finlands Natur och Folk. 37:1-257
 
 collections:

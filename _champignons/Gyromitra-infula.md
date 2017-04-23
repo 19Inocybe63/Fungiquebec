@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Gyromitre en turban
-  autorites: (Schaeff.) Quél.
   ordre: Pezizales
   famille: Discinaceae
   genre: Gyromitra
-  espece: infula
+  espece: <i>Gyromitra infula</i> (Schaeff.) Quél.
   litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
 
 collections:

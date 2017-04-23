@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Helvelle coriace
-  autorites: (O. Weberb.) Massee
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
-  espece: corium
+  espece: <i>Helvella corium</i> (O. Weberb.) Massee
   litterature: Massee, G.E. 1895. British Fungus-Flora. 4:1-522
 
 collections:

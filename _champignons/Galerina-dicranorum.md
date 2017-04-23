@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Galérine des dicranes
-  autorites: A.H. Sm. & Singer
   ordre: Agaricales
   famille: Hymenogastraceae
   genre: Galerina
-  espece: dicranorum
+  espece: <i>Galerina dicranorum</i> A.H. Sm. & Singer
   litterature: Smith, A.H.; Singer, R. 1958. New species of Galerina. Mycologia. 50(4):469-489
 
 collections:

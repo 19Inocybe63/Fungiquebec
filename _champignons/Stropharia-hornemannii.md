@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Strophaire de Hornemann
-  autorites: (Fr.) S. Lundell & Nannf.
   ordre: Agaricales
   famille: Strophariaceae
   genre: Stropharia
-  espece: hornemannii
+  espece: <i>Stropharia hornemannii</i> (Fr.) S. Lundell & Nannf.
   litterature: Lundell, S.; Nannfeldt, J.A. 1934. Fungi Exsiccati Suecici. Fasc. 1-2:1-100
 
 collections:

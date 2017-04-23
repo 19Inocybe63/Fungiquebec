@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet indogotier
-  autorites: (Bull.) Quél.
   ordre: Boletales
   famille: Gyroporaceae
   genre: Gyroporus
-  espece: cyanescens
+  espece: <i>Gyroporus cyanescens</i> (Bull.) Quél.
   litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
 
 collections:

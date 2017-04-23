@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Scléroderme commun
-  autorites: Pers.
   ordre: Boletales
   famille: Sclerodermataceae
   genre: Scleroderma
-  espece: citrinum
+  espece: <i>Scleroderma citrinum</i> Pers.
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
 
 collections:

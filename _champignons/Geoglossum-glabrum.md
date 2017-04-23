@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Géoglosse glabre
-  autorites: Pers.
   ordre: Geoglossales
   famille: Geoglossaceae
   genre: Geoglossum
-  espece: glabrum
+  espece: <i>Geoglossum glabrum</i> Pers.
   litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung der Schwämme. Neues Magazin für die Botanik. 1:63-80
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet d'Amérique
-  autorites: (Peck) Snell
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
-  espece: americanus
+  espece: <i>Suillus americanus</i> (Peck) Snell
   litterature: Snell, W.H.; Singer, R.; Dick, E.A. 1959. Notes on boletes. XI. Mycologia. 51:564-577
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Strophaire bleutée
-  autorites: Kreisel
   ordre: Agaricales
   famille: Strophariaceae
   genre: Stropharia
-  espece: caerulea
+  espece: <i>Stropharia caerulea</i> Kreisel
   litterature: Kreisel, H. 1979. Zur Taxonomie von Stropharia aeruginosa sensu lato. Beihefte zur Sydowia. 8:228-232
 
 collections:

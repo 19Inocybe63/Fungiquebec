@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Collybie pourprée ou Collybie obscure
-  autorites: (Singer) Halling
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Gymnopus
-  espece: alkalivirens
+  espece: <i>Gymnopus alkalivirens</i> (Singer) Halling
   litterature: Antonín, V., Halling, R.E., Noordeloos, M.E. 1997. Generic concepts within the groups Marasmius and Collybia sensu lato. Mycotaxon. 63:359-368
 
 collections:

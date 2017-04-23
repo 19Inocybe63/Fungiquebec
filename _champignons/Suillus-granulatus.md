@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet granulé
-  autorites: (L.) Roussel
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
-  espece: aff. granulatus
+  espece: <i>Suillus aff. granulatus</i> (L.) Roussel
   litterature: Roussel, H.F.A. 1796. Flore du Calvados et terrains adjacents, composée suivant la méthode de Jussieu. :1-268
 
 collections:

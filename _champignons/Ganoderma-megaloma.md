@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: (Lév.) Bres.
   ordre: Polyporales
   famille: Ganodermataceae
   genre: Ganoderma
-  espece: megaloma
+  espece: <i>Ganoderma megaloma</i> (Lév.) Bres.
   litterature: Bresadola, G. 1913. Basidiomycetes philippinenses. Series II. Hedwigia. 53:44-80
 
 collections:

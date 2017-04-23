@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Strophaire à anneau rugueux
-  autorites: Farl. ex Murrill
   ordre: Agaricales
   famille: Strophariaceae
   genre: Stropharia
-  espece: rugosoannulata
+  espece: <i>Stropharia rugosoannulata</i> Farl. ex Murrill
   litterature: Murrill, W.A. 1922. Dark-spored agarics - II. Gomphidius ands Stropharia. Mycologia. 14(3):121-142
 
 collections:

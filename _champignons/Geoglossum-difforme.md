@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Géoglosse difforme
-  autorites: Fr.
   ordre: Geoglossales
   famille: Geoglossaceae
   genre: Geoglossum
-  espece: difforme
+  espece: <i>Geoglossum difforme</i> Fr.
   litterature: Fries, E.M. 1815. Observationes mycologicae. 1:1-230
 
 collections:

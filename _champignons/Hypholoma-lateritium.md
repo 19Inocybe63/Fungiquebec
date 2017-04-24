@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hypholome couleur de briques
-  autorites: (Schaeff.) P. Kumm.
   ordre: Agaricales
   famille: Strophariaceae
   genre: Hypholoma
-  espece: lateritium
+  espece: <i>Hypholoma lateritium</i> (Schaeff.) P. Kumm.
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:

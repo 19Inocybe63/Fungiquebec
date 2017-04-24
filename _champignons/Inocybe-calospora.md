@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Inocybe à jolies basidiospores
-  autorites: Quél.
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: calospora
+  espece: <i>Inocybe calospora</i> Quél.
   litterature: Bresadola, G. 1882. Fungi tridentini. Fungi Tridentini. 1(2):15-26
 
 collections:

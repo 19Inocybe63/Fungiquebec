@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Mycène en casque
-  autorites: (Scop.) Gray
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
-  espece: galericulata
+  espece: <i>Mycena galericulata</i> (Scop.) Gray
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
 
 collections:

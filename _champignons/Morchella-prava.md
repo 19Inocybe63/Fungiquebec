@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Dewsbury, Moncalvo, J.D. Moore & M. Kuo
   ordre: Pezizales
   famille: Morchellaceae
   genre: Morchella
-  espece: prava
+  espece: <i>Morchella prava</i> Dewsbury, Moncalvo, J.D. Moore & M. Kuo
   litterature: Kuo, M.; Dewsbury, D.R.; O'Donnell, K.; Carter, M.C.; Rehner, S.A.; Moore, J. D.; Moncalvo, J.-M.; Canfield, S.A.; Stephenson, S.L.; Methven, A.S.; Volk, T.J. 2012. Taxonomic revision of true morels (Morchella) in Canada and the United States. Mycologia. 104(5):1159-1177
 
 collections:

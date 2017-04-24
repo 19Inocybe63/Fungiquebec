@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet orangé
-  autorites: (Bull.) Gray
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinum
-  espece: aurantiacum
+  espece: <i>Leccinum aurantiacum</i> (Bull.) Gray
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
 
 collections:

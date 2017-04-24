@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lactaire muqueux
-  autorites: Hesler & A.H. Sm.
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: mucidus var. mucidioides
+  espece: <i>Lactarius mucidus var. mucidioides</i> Hesler & A.H. Sm.
   litterature: Hesler, L.R.; Smith, A.H. 1979. North American species of Lactarius. :1-841
 
 collections:

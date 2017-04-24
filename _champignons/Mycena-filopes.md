@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Mycène à pied filiforme
-  autorites: (Bull.) P. Kumm.
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
-  espece: filopes
+  espece: <i>Mycena filopes</i> (Bull.) P. Kumm.
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:

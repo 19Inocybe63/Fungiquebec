@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet blanchâtre
-  autorites: (Peck) Bresinsky & Manfr. Binder
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinellum
-  espece: albellum
+  espece: <i>Leccinellum albellum</i> (Peck) Bresinsky & Manfr. Binder
   litterature: Bresinsky, A.; Besl, H. 2003. Beiträge zu einer Mykoflora Deutschlands - Schlüssel zur Gattungsbestimmung der Blätter-, Leisten- und Röhrenpilze mit Literaturhinweisen zur Artbestimmung. Regensburger Mykologische Schriften. 11:1-236
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hydne corail
-  autorites: (Scop.) Pers.
   ordre: Russulales
   famille: Hericiaceae
   genre: Hericium
-  espece: coralloides
+  espece: <i>Hericium coralloides</i> (Scop.) Pers.
   litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung der Schwämme. Neues Magazin für die Botanik. 1:63-80
 
 collections:

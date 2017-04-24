@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hydne ombiliqué
-  autorites: Peck
   ordre: Cantharellales
   famille: Hydnaceae
   genre: Hydnum
-  espece: umbilicatum
+  espece: <i>Hydnum umbilicatum</i> Peck
   litterature: Peck, C.H. 1902. Report of the State Botanist (1901). Annual Report on the New York State Museum of Natural History. 54:929-984
 
 collections:

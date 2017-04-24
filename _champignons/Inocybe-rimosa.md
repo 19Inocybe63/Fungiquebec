@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Inocybe rimeux
-  autorites: (Bull.) P. Kumm.
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: rimosa
+  espece: <i>Inocybe rimosa</i> (Bull.) P. Kumm.
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:

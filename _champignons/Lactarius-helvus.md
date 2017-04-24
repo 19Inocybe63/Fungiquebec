@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lactaire à odeur d’érable
-  autorites: (Fr.) Fr.
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: helvus
+  espece: <i>Lactarius helvus</i> (Fr.) Fr.
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
 
 collections:

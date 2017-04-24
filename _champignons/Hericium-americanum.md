@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hydne d'Amérique
-  autorites: Ginns
   ordre: Russulales
   famille: Hericiaceae
   genre: Hericium
-  espece: americanum
+  espece: <i>Hericium americanum</i> Ginns
   litterature: Ginns, J. 1984. Hericium coralloides N. Amer. auct. (= H. americanum sp. nov.) and the European H. alpestre and H. coralloides. Mycotaxon. 20(1):39-43
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Mycène de Léa
-  autorites: (Berk.) Sacc.
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
-  espece: leaiana
+  espece: <i>Mycena leaiana</i> (Berk.) Sacc.
   litterature: Saccardo, P.A. 1891. Supplementum Universale, Pars I. Agaricaceae-Laboulbeniaceae. Sylloge Fungorum. 9:1-1141
 
 collections:

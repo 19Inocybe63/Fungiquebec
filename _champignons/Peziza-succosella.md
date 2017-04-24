@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pezize fausse-succosa
-  autorites: (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
-  espece: succosella
+  espece: <i>Peziza succosella</i> (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich
   litterature: Avizohar-Hershenzon, Z.; Nemlich, H. 1974. Pezizales of Israel II. Pezizaceae. Israel Journal of Botany. 23:151-163
 
 collections:

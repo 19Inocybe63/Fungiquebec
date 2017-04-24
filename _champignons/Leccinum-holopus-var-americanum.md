@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet blanc des marais ou Bolet blanc de neige
-  autorites: A. H. Smith & Thiers
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinum
-  espece: holopus var. americanum
+  espece: <i>Leccinum holopus var. americanum</i> A.H. Smith & Thiers
   litterature: Smith, A.H.; Thiers, H.D. 1971. The Boletes of Michigan. :1-428
 
 collections:

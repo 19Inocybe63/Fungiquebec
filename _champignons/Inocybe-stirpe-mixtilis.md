@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: 
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: stirpe mixtilis
+  espece: <i>Inocybe stirpe mixtilis</i>
   litterature: 
 
 collections:

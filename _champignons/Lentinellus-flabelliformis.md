@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lentin en éventail
-  autorites: (Bolton) S. Ito 
   ordre: Russulales
   famille: Auriscalpiaceae
   genre: Lentinellus
-  espece: flabelliformis
+  espece: <i>Lentinellus flabelliformis</i> (Bolton) S. Ito 
   litterature: Ito, S. 1955. Mycological Flora of Japan. Basidiomycetes. 2(4):1-450
 
 collections:

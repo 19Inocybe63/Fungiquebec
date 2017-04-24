@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore soufré
-  autorites: (Bull.) Murrill
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Laetiporus
-  espece: sulphureus
+  espece: <i>Laetiporus sulphureus</i> (Bull.) Murrill
   litterature: Murrill, W.A. 1920. Corrections and additions to the polypores of temperate North America. Mycologia. 12(1):6-24
 
 collections:

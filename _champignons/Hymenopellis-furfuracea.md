@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Collybie furfuracée
-  autorites: (Peck) R.H. Petersen
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Hymenopellis
-  espece: furfuracea
+  espece: <i>Hymenopellis furfuracea</i> (Peck) R.H. Petersen
   litterature: Petersen, R.H.; Hughes, K.W. 2010. The Xerula/Oudemansiella complex (Agaricales). Beihefte zur Nova Hedwigia. 137:1-625
 
 collections:

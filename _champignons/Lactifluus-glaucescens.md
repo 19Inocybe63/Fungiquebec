@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lactaire à lait verdissant
-  autorites: (Crossl.) Verbeken
   ordre: Russulales
   famille: Russulaceae
   genre: Lactifluus
-  espece: glaucescens
+  espece: <i>Lactifluus glaucescens</i> (Crossl.) Verbeken
   litterature: Verbeken, A.; Van de Putte, K.; De Crop, E. 2012. New combinations in Lactifluus. 3. L. subgenera Lactifluus and Piperati. Mycotaxon. 120:443-450
 
 collections:

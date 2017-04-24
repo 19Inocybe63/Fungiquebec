@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Collybie à grandes spores
-  autorites: (Clem.) R.H. Petersen
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Hymenopellis
-  espece: megalospora
+  espece: <i>Hymenopellis megalospora</i> (Clem.) R.H. Petersen
   litterature: (Clem.) R.H. Petersen, Nova Hedwigia, 137, 181, 2010
 
 collections:

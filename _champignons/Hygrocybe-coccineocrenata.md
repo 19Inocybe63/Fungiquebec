@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore crête-de-coq
-  autorites: (P.D. Orton) M.M. Moser
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
-  espece: coccineocrenata
+  espece: <i>Hygrocybe coccineocrenata</i> (P.D. Orton) M.M. Moser
   litterature: Moser, M. 1967. Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes). IIb/2:1-443
 
 collections:

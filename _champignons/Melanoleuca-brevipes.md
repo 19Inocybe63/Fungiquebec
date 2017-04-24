@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Mélanoleuque à pied court
-  autorites: (Bull.) Pat.
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Melanoleuca
-  espece: brevipes
+  espece: <i>Melanoleuca brevipes</i> (Bull.) Pat.
   litterature: Patouillard, N. 1900. Essai taxonomique sur les familles et les genres des Hyménomycètes. :1-184
 
 collections:

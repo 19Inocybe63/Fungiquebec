@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore jaune soufre
-  autorites: (Fr.) Wünsche
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
-  espece: chlorophana
+  espece: <i>Hygrocybe chlorophana</i> (Fr.) Wünsche
   litterature: Wünsche, O. 1877. Die Pilze. Eine Anleitung zur Kenntniss derselben. :1-324
 
 collections:

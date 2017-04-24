@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lentin couleur d'ours
-  autorites: (Fr.) Kühner
   ordre: Russulales
   famille: Auriscalpiaceae
   genre: Lentinellus
-  espece: ursinus
+  espece: <i>Lentinellus ursinus</i> (Fr.) Kühner
   litterature: Kühner, R. 1926. Contribution à l’Étude des Hyménomycètes et spécialement des agaricacées. Le Botaniste. 17:1-224
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lactaire couleur de suie
-  autorites: Fr.
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: lignyotus
+  espece: <i>Lactarius lignyotus</i> Fr.
   litterature: Fries 1855, Monogr. Lact. Suec.:25
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Mitrule élégante
-  autorites: Berkeley
   ordre: Helotiales
   famille: Helotiaceae
   genre: Mitrula
-  espece: elegans
+  espece: <i>Mitrula elegans</i> Berkeley
   litterature: Berkeley, M.J. 1875. Notices of North American fungi. Grevillea. 3(28):145-160
 
 collections:

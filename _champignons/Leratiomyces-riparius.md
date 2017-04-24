@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: (A.H. Sm.) Redhead
   ordre: Agaricales
   famille: Strophariaceae
   genre: Leratiomyces
-  espece: riparius
+  espece: <i>Leratiomyces riparius</i> (A.H. Sm.) Redhead
   litterature: (A.H. Sm.) Redhead, Index Fungorum, 142, 1, 2014
 
 collections:

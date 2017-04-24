@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hydne concrescent
-  autorites: (Pers.) Banker
   ordre: Thelephorales
   famille: Bankeraceae
   genre: Hydnellum
-  espece: concrescens
+  espece: <i>Hydnellum concrescens</i> (Pers.) Banker
   litterature: Banker, H.J. 1906. A contribution to a revision of the North American Hydnaceae. Memoirs of the Torrey Botanical Club. 12:99-194
 
 collections:

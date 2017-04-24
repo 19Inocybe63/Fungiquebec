@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Inocybe rayé ou Inocybe sillonné
-  autorites: Quél.
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: grammata
+  espece: <i>Inocybe grammata</i> Quél.
   litterature: Le Breton, A.; Quélet, L. 1879. Champignons récemment observés en Normandie, aux environs de Paris et de La Rochelle, en Alsace, en Suisse et dans les montagnes du Jura et des Vosges. Bulletin de la Société des Amis des Sciences Naturelles du Musée de Rouen. 15:153-184
 
 collections:

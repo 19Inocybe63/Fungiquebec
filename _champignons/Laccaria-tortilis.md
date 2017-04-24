@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Laccaire tortueux
-  autorites: (Bolton) Cooke
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
-  espece: tortilis
+  espece: <i>Laccaria tortilis</i> (Bolton) Cooke
   litterature: Cooke, M.C. 1884. New British fungi. Grevillea. 12(63):65-70
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Inocybe à bulbe marginé
-  autorites: (Britzelm.) Sacc.
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: mixtilis
+  espece: <i>Inocybe mixtilis</i> (Britzelm.) Sacc.
   litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
 
 collections:

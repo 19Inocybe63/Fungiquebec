@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Psathyrelle pleureuse
-  autorites: (Bull.) Pat.
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Lacrymaria
-  espece: lacrymabunda
+  espece: <i>Lacrymaria lacrymabunda</i> (Bull.) Pat.
   litterature: Patouillard, N. 1887. Les Hyménomycètes d'Europe. :1-166
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Léotie lubrifiée
-  autorites: (Scop.) Pers.
   ordre: Helotiales
   famille: Leotiaceae
   genre: Leotia
-  espece: lubrica
+  espece: <i>Leotia lubrica</i> (Scop.) Pers.
   litterature: Persoon, C.H. 1797. Commentatio de Fungis Clavaeformibus. :1-124
 
 collections:

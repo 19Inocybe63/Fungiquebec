@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pézize de Bolton
-  autorites: Quél.
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
-  espece: boltonii
+  espece: <i>Peziza boltonii</i> Quél.
   litterature: Quélet, L. 1878. Quelques especes nouvelles de Champignons. Bulletin de la Société Botanique de France. 25(4):287-292
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Clitocybe roux
-  autorites: (D.A. Reid) Knudsen
   ordre: Boletales
   famille: Hygrophoropsidaceae
   genre: Hygrophoropsis
-  espece: rufa
+  espece: <i>Hygrophoropsis rufa</i> (D.A. Reid) Knudsen
   litterature: Knudsen H.; Vesterhold, J. 2008. Funga Nordica. :1-965
 
 collections:

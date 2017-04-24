@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lactaire plombé
-  autorites: (Weinm.) Fr.
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: turpis
+  espece: <i>Lactarius turpis</i> (Weinm.) Fr.
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
 
 collections:

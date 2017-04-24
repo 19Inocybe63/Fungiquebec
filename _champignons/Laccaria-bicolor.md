@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Laccaire bicolore
-  autorites: (Maire) P.D. Orton
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
-  espece: bicolor
+  espece: <i>Laccaria bicolor</i> (Maire) P.D. Orton
   litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet bai
-  autorites: (Fr.) Vizzini
   ordre: Boletales
   famille: Boletaceae
   genre: Imleria
-  espece: badia
+  espece: <i>Imleria badia</i> (Fr.) Vizzini
   litterature: (Fr.) Vizzini, Index Fungorum, 147, 1, 2014
 
 collections:

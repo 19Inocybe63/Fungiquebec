@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Vesse-de-loup piriforme
-  autorites: Schaeff.
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lycoperdon
-  espece: pyriforme
+  espece: <i>Lycoperdon pyriforme</i> Schaeff.
   litterature: Schaeffer, J.C. 1774. Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones. 4:1-136
 
 collections:

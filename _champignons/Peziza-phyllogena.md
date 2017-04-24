@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pézize olivâtre
-  autorites: Cooke
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
-  espece: phyllogena
+  espece: <i>Peziza phyllogena</i> Cooke
   litterature: Cooke, M.C. 1877. Mycographia, seu Icones fungorum. 1(4):137-178
 
 collections:

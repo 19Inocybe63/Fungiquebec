@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lactaire à odeur de chicorée ou Lactaire camphré
-  autorites: (Bull.) Fr.
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: camphoratus
+  espece: <i>Lactarius camphoratus</i> (Bull.) Fr.
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
 
 collections:

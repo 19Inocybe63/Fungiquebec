@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pleurote tardif
-  autorites: (Pers.) Kühner
   ordre: Agaricales
   famille: Mycenaceae
   genre: Panellus
-  espece: serotinus
+  espece: <i>Panellus serotinus</i> (Pers.) Kühner
   litterature: Kühner 1950, Compte rendu hebdomadaire des Sciences de l'Academie des sciences, Paris 230:1889
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet insolite
-  autorites: A.H. Sm., Thiers & Watling
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinum
-  espece: insolens
+  espece: <i>Leccinum insolens</i> A.H. Sm., Thiers & Watling
   litterature: Smith, A.H.; Thiers, H.D.; Watling, R. 1968. Notes on species of Leccinum. I., Additions to Section Leccinum. Lloydia. 31(3):252-267
 
 collections:

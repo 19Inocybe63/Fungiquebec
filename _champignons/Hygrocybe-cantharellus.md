@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore chanterelle
-  autorites: (Fr.) Murrill
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
-  espece: cantharellus
+  espece: <i>Hygrocybe cantharellus</i> (Fr.) Murrill
   litterature: Murrill, W.A. 1911. The Agaricaceae of tropical North America III. Mycologia. 3(4):189-199
 
 collections:

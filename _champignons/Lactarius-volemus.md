@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lactaire à lait abondant
-  autorites: ss. Hesler & A. H. Sm.
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: volemus
+  espece: <i>Lactarius volemus</i> ss. Hesler & A. H. Sm.
   litterature: Hesler, L.R.; Smith, A.H. 1979. North American species of Lactarius. :1-841
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Paxille enroulé
-  autorites: (Batsch) Fr.
   ordre: Boletales
   famille: Paxillaceae
   genre: Paxillus
-  espece: involutus
+  espece: <i>Paxillus involutus</i> (Batsch) Fr.
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
 
 collections:

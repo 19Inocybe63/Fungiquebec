@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hypholome radicant
-  autorites: J.E. Lange
   ordre: Agaricales
   famille: Strophariaceae
   genre: Hypholoma
-  espece: radicosum
+  espece: <i>Hypholoma radicosum</i> J.E. Lange
   litterature: Lange, J.E. 1923. Studies in the Agarics of Denmark. V. Ecological notes. The Hygrophorei, Stropharia and Hypholoma. Supplementary notes to Parts I-III. Dansk botanisk Arkiv. 4(4):1-55
 
 collections:

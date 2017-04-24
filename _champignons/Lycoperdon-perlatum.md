@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Vesse-de-loup perlée
-  autorites: Pers.
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lycoperdon
-  espece: perlatum
+  espece: <i>Lycoperdon perlatum</i> Pers.
   litterature: Persoon, C.H. 1796. Observationes mycologicae. 1:1-116
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Laccaire strié
-  autorites: (Peck) Peck
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
-  espece: striatula
+  espece: <i>Laccaria striatula</i> (Peck) Peck
   litterature: Peck, C.H. 1912. Report of the State Botanist 1911. Bulletin of the New York State Museum. 157:1-139
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Cooke
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
-  espece: amethystina
+  espece: <i>Laccaria amethystina</i> Cooke
   litterature: Cooke, M.C. 1884. New British fungi. Grevillea. 12(63):65-70
 
 collections:

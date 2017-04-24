@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet rude
-  autorites: (Bull.) Gray
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinum
-  espece: scabrum
+  espece: <i>Leccinum scabrum</i> (Bull.) Gray
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
 
 collections:

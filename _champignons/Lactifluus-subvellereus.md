@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lactaire velouteux
-  autorites: (Peck) Nuytinck
   ordre: Russulales
   famille: Russulaceae
   genre: Lactifluus
-  espece: subvellereus
+  espece: <i>Lactifluus subvellereus</i> (Peck) Nuytinck
   litterature: Verbeken, A.; Buyck, B.; Nuytinck, J. 2011. New combinations in Lactifluus. 1. L. subgenera Edules, Lactariopsis, and Russulopsis. Mycotaxon. 118:447-453
 
 collections:

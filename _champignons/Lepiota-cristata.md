@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lepiote cretée
-  autorites: (Bolton) P. Kumm.
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lepiota
-  espece: cristata
+  espece: <i>Lepiota cristata</i> (Bolton) P. Kumm.
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Coprin doré ou Coprin à soies brunes
-  autorites: (Pat.) Redhead, Vilgalys & Hopple
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Parasola
-  espece: auricoma
+  espece: <i>Parasola auricoma</i> (Pat.) Redhead, Vilgalys & Hopple
   litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
 
 collections:

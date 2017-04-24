@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore d'hiver
-  autorites: (Pers.) Zmitr.
   ordre: Polyporales
   famille: Polyporaceae
   genre: Lentinus
-  espece: brumalis
+  espece: <i>Lentinus brumalis</i> (Pers.) Zmitr.
   litterature: Zmitrovich, I.V. 2010. The taxonomical and nomenclatural characteristics of medicinal mushrooms in some genera of Polyporaceae. International Journal of Medicinal Mushrooms. 12(1):87-89
 
 collections:

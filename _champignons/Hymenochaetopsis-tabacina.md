@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Stérée tabac
-  autorites: S. H. He & Jiao Yang
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Hymenochaetopsis
-  espece: tabacina
+  espece: <i>Hymenochaetopsis tabacina</i> S. H. He & Jiao Yang
   litterature: Yang, J; Dai L.D; He, S.H. 2016. Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China. Mycological Progress. 15(2/13):1-8
 
 collections:

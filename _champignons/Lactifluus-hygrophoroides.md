@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Lactaire hygrophore
-  autorites: (Berk. & M.A. Curtis) Kuntze
   ordre: Agaricales
   famille: Russulaceae
   genre: Lactifluus
-  espece: hygrophoroides
+  espece: <i>Lactifluus hygrophoroides</i> (Berk. & M.A. Curtis) Kuntze
   litterature: Kuntze, O. 1898. Revisio generum plantarum. 3:1-576
 
 collections:

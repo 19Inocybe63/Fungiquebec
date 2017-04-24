@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Inocybe négligé
-  autorites: P. Karst.
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: abjecta
+  espece: <i>Inocybe abjecta</i> P. Karst.
   litterature: Karsten, P.A. 1879. Rysslands, Finlands och den Skandinaviska halföns Hattsvampar. Förra Delen, Skifsvampar. Bidrag till Kännedom av Finlands Natur och Folk. 32:1-571
 
 collections:

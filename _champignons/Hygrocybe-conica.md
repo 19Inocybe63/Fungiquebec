@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore conique
-  autorites: (Schaeff.) P. Kumm.
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
-  espece: conica
+  espece: <i>Hygrocybe conica</i> (Schaeff.) P. Kumm.
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:

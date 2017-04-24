@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Beker, Vesterh. & U. Eberh.
   ordre: Agaricales
   famille: Hymenogastraceae
   genre: Hebeloma
-  espece: limbatum
+  espece: <i>Hebeloma limbatum</i> Beker, Vesterh. & U. Eberh.
   litterature: Eberhardt, U.; Beker, H.J.; Vesterholt, J.; Schütz,N. 2016. The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. and five new species. Fungal Biology. 120(1):72-103
 
 collections:

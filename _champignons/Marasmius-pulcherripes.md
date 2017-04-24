@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Marasme à beau pied
-  autorites: Peck
   ordre: Agaricales
   famille: Marasmiaceae
   genre: Marasmius
-  espece: pulcherripes
+  espece: <i>Marasmius pulcherripes</i> Peck
   litterature: Peck, C.H. 1872. Report of the Botanist (1870). Annual Report on the New York State Museum of Natural History. 24:41-108
 
 collections:

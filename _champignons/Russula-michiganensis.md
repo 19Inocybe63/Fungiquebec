@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule du Michigan
-  autorites: Shaffer
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: michiganensis
+  espece: <i>Russula michiganensis</i> Shaffer
   litterature: Shaffer, R.L. 1962. The subsection Compactae of Russula. Brittonia. 14(3):254-284
 
 collections:

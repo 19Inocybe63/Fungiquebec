@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: (Lasch) Konrad & Maubl.
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
-  espece: microrhiza
+  espece: <i>Psathyrella microrhiza</i> (Lasch) Konrad & Maubl.
   litterature: Konrad, P.; Maublanc, A. 1948. Les Agaricales. Encyclopédie Mycologique. 14:1-464
 
 collections:

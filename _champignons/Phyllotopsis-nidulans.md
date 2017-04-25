@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pleurote en forme de nid
-  autorites: (Pers.) Singer
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Phyllotopsis
-  espece: nidulans
+  espece: <i>Phyllotopsis nidulans</i> (Pers.) Singer
   litterature: Singer, R. 1936. Studien zur Systematik der Basidiomyceten. I. Beihefte zum Botanischen Zentralblatt. 56:137-156
 
 collections:

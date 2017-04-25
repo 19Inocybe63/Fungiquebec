@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: (Fuckel) Boud.
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Pulvinula
-  espece: carbonaria
+  espece: <i>Pulvinula carbonaria</i> (Fuckel) Boud.
   litterature: Boudier, J.L.É. 1885. Nouvelle classification naturelle des Discomycètes charnus. Bulletin de la Société Mycologique de France. 1:97-120
 
 collections:

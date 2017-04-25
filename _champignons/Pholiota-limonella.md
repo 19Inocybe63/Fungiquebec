@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pholiote adipo-squarreuse
-  autorites: (Peck) Sacc.
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: limonella
+  espece: <i>Pholiota limonella</i> (Peck) Sacc.
   litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
 
 collections:

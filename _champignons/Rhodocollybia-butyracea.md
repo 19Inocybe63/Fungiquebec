@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Collybie beurrée
-  autorites: (Bull.) Lennox
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Rhodocollybia
-  espece: butyracea
+  espece: <i>Rhodocollybia butyracea</i> (Bull.) Lennox
   litterature: Lennox, J.W. 1979. Collybioid genera in the Pacific Northwest. Mycotaxon. 9(1):117-231 
 
 collections:

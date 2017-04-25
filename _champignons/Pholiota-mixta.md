@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pholiote voisine
-  autorites: (Fr.) Kuyper & Tjall.-Beuk.
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: mixta
+  espece: <i>Pholiota mixta</i> (Fr.) Kuyper & Tjall.-Beuk.
   litterature: Kuyper, T.W.; Tjallingii-Beukers, G. 1986. Notes on Pholiota. Persoonia. 13(1):77-82
 
 collections:

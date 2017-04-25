@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule vert-de-gris
-  autorites: Lindbl. ex Fr.
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: aeruginea
+  espece: <i>Russula aeruginea</i> Lindbl. ex Fr.
   litterature: Fries, E.M. 1863. Monographia Hymenomycetum Sueciae. 2:1-355
 
 collections:

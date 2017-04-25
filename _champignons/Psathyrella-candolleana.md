@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Psathyrelle de Candolle
-  autorites: (Fr.) Maire
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
-  espece: candolleana
+  espece: <i>Psathyrella candolleana</i> (Fr.) Maire
   litterature: Maire 1913, Bull. Soc. Mycol. France 29:185
 
 collections:

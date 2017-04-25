@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore radicant
-  autorites: Schwein.
   ordre: Polyporales
   famille: Polyporaceae
   genre: Polyporus
-  espece: radicatus
+  espece: <i>Polyporus radicatus</i> Schwein.
   litterature: Schweinitz, L.D. von. 1832. Synopsis fungorum in America boreali media degentium. Transactions of the American Philosophical Society. 4(2):141-316
 
 collections:

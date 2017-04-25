@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Phyllopore à base blanche
-  autorites: Singer
   ordre: Boletales
   famille: Boletaceae
   genre: Phylloporus
-  espece: leucomycelinus
+  espece: <i>Phylloporus leucomycelinus</i> Singer
   litterature: Singer, R. 1978. Die Kernteilung in den Basidien und die Phylogenie der Basidiomyceten. Persoonia. 9(4):421-438
 
 collections:

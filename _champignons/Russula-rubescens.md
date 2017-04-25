@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Kauffman
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: rubescens
+  espece: <i>Russula rubescens</i> ss. Kauffman
   litterature: Kauffman
 
 collections:

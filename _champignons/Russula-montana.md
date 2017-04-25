@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Shaffer
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: montana
+  espece: <i>Russula montana</i> Shaffer
   litterature: Shaffer, R.L. 1975. Some common North American species of Russula subsect. Emeticinae. Beihefte zur Nova Hedwigia. 51:207-237
 
 collections:

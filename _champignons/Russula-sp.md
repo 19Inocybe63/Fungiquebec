@@ -11,7 +11,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <ï>Russula sp.</i>
+  espece: <i>Russula sp.</i>
   litterature: 
 
 collections:

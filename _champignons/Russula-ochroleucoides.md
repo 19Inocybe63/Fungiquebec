@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule fausse-ochroleuca
-  autorites: Kauffman
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: ochroleucoides
+  espece: <i>Russula ochroleucoides</i> Kauffman
   litterature: Kauffman, C.H. 1917. Tennessee and Kentucky fungi. Mycologia. 9(3):159-166
 
 collections:

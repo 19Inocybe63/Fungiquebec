@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule noire et blanche
-  autorites: (Krombh.) Fr.
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: albonigra
+  espece: <i>Russula albonigra</i> (Krombh.) Fr.
   litterature: Fries, E.M. 1874. Hymenomycetes europaei., 1-755
 
 collections:

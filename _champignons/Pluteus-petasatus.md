@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Plutée en Parasol
-  autorites: (Fr.) Gillet
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
-  espece: petasatus
+  espece: <i>Pluteus petasatus</i> (Fr.) Gillet
   litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. :177-560
 
 collections:

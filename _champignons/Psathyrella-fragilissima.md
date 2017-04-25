@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: (Kauffman) A.H. Sm.
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
-  espece: fragilissima
+  espece: <i>Psathyrella fragilissima</i> (Kauffman) A.H. Sm.
   litterature: Smith, A.H. 1972. The North American species of Psathyrella. Memoirs of the New York Botanical Garden. 24:1-633
 
 collections:

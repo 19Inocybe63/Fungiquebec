@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pleurote en huître
-  autorites: (Jacq.) P. Kumm.
   ordre: Agaricales
   famille: Pleurotaceae
   genre: Pleurotus
-  espece: ostreatus
+  espece: <i>Pleurotus ostreatus</i> (Jacq.) P. Kumm.
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:

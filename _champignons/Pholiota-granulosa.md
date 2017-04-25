@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pholiote granuleuse
-  autorites: (Peck) A.H. Sm. & Hesler
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: granulosa
+  espece: <i>Pholiota granulosa</i> (Peck) A.H. Sm. & Hesler
   litterature: Smith, A.H.; Hesler, L.R. 1968. The North American species of Pholiota. :1-402
 
 collections:

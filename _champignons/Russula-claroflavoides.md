@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule fausse-claroflava
-  autorites: Y. Lamoureux nom. prov.
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: claroflavoides
+  espece: <i>Russula claroflavoides Y. Lamoureux nom. prov.</i> 
   litterature: 
 
 collections:

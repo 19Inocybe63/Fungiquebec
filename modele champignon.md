@@ -10,7 +10,6 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: 
   ordre: 
   famille: 
   genre: 

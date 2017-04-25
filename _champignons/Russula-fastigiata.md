@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule fastigiée
-  autorites: Fatto
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: fastigiata
+  espece: <i>Russula fastigiata</i> Fatto
   litterature: Fatto, R.M. 2002. Some Russulas of the subsection Urentinae. Mycotaxon. 84:229-244
 
 collections:

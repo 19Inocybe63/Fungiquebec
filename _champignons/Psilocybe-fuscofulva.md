@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Psilocybe fauve sombre
-  autorites: Peck
   ordre: Agaricales
   famille: Strophariaceae
   genre: Psilocybe
-  espece: fuscofulva
+  espece: <i>Psilocybe fuscofulva</i> Peck
   litterature: Peck, C.H. 1887. Descriptions of new species of New York fungi. Bulletin of the New York State Museum. 1(2):5-24
 
 collections:

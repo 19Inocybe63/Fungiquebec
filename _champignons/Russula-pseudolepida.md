@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Singer
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: pseudolepida
+  espece: <i>Russula pseudolepida</i> Singer
   litterature: Singer, R. 1939. Contribution à l'étude des Russules. IV. Quelques Russules américaines et asiatiques (suite). Bulletin de la Société Mycologique de France. 55:226-283
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Psathyrelle hydrophile
-  autorites: (Bull.) P.D. Orton
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
-  espece: piluliformis
+  espece: <i>Psathyrella piluliformis</i> (Bull.) P.D. Orton
   litterature: Orton, P.D. 1969. Notes on British Agarics III. Notes from the Royal Botanical Garden Edinburgh. 29(1):75-127
 
 collections:

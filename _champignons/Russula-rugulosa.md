@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule rugueuse
-  autorites: Peck
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: rugulosa
+  espece: <i>Russula rugulosa</i> Peck
   litterature: Peck, C.H. 1902. Report of the State Botanist (1900). Annual Report on the New York State Museum of Natural History. 54:131-199
 
 collections:

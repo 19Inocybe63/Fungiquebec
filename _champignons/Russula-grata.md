@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Britzelm.
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: grata
+  espece: <i>Russula grata</i> Britzelm.
   litterature: Britzelmayr, M. 1893. Materialien zur Beschreibung der Hymenomyceten 3. Botanisches Centralblatt. 54(4):97-105
 
 collections:

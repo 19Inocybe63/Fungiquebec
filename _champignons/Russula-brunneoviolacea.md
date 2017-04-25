@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule brun violacé
-  autorites: Crawshay
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: brunneoviolacea
+  espece: <i>Russula brunneoviolacea</i> Crawshay
   litterature: Crawshay, S. 1930. The Spore Ornamentation of the Russulas. :1-188
 
 collections:

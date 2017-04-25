@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Polypore de Schweinitz
-  autorites: (Fr.) Pat.
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Phaeolus
-  espece: schweinitzii
+  espece: <i>Phaeolus schweinitzii</i> (Fr.) Pat.
   litterature: Patouillard, N. 1900. Essai taxonomique sur les familles et les genres des Hyménomycètes. :1-184
 
 collections:

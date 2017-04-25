@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Fr.
   ordre: Polyporales
   famille: Meruliaceae
   genre: Phlebia
-  espece: sp.
+  espece: <i>Phlebia sp.</i>
   litterature: 
 
 collections:

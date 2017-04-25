@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Murrill
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: luteispora
+  espece: <i>Russula luteispora</i> Murrill
   litterature: Murrill, W.A. 1944. More fungi from Florida. Lloydia. 7(4):303-327
 
 collections:

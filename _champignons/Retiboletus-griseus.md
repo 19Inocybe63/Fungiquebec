@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet gris
-  autorites: (Frost) Manfr. Binder & Bresinsky
   ordre: Boletales
   famille: Boletaceae
   genre: Retiboletus
-  espece: griseus
+  espece: <i>Retiboletus griseus</i> (Frost) Manfr. Binder & Bresinsky
   litterature: Binder, M.; Bresinsky, A. 2002. Retiboletus, a new genus for a species-complex in the Boletaceae producing retipolides. Feddes Repertorium Specierum Novarum Regni Vegetabilis. 113(1-2):30-40
 
 collections:

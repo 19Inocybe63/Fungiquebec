@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule compacte ou Russule fauve rougeatre
-  autorites: Frost
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: compacta
+  espece: <i>Russula compacta</i> Frost
   litterature: Peck, C.H. 1879. Report of the Botanist (1878). Annual Report on the New York State Museum of Natural History. 32:17-72
 
 collections:

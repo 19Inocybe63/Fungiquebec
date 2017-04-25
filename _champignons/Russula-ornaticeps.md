@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule à chapeau orné
-  autorites: Burl.
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: ornaticeps
+  espece: <i>Russula ornaticeps</i> Burl.
   litterature: Burlingham, G.S. 1921. Some new species of Russula. Mycologia. 13(3):129-134
 
 collections:

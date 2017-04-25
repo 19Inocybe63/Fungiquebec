@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule fragile
-  autorites: sensu Shaffer
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: fragilis
+  espece: <i>Russula fragilis</i> ss Shaffer
   litterature: Fries, E.M. 1825. Stirpes agri Femsionensis.
 
 collections:

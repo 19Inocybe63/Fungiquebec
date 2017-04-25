@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Shaffer
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: romagnesiana
+  espece: <i>Russula romagnesiana</i> Shaffer
   litterature: Shaffer, R.L. 1964. The subsection Lactarioideae of Russula. Mycologia. 56(2):202-231
 
 collections:

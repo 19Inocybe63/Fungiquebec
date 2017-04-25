@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Plutée de Hongō
-  autorites: Singer
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
-  espece: hongoi
+  espece: <i>Pluteus hongoi</i> Singer
   litterature: Singer, R. 1989. New taxa and new combinations of Agaricales (Diagnoses fungorum novorum Agaricalium 4). Fieldiana Botany. 21:1-133
 
 collections:

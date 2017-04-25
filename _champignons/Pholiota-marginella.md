@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Pholiote marginée
-  autorites: Peck
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: marginella
+  espece: <i>Pholiota marginella</i> Peck
   litterature: Peck, C.H. 1898. Report of the State Botanist (1897). Annual Report on the New York State Museum of Natural History. 51:265-321
 
 collections:

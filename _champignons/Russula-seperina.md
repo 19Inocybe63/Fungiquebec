@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule noircie ou Russule de la Sevre
-  autorites: Dupain
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: seperina
+  espece: <i>Russula seperina</i> Dupain
   litterature: Dupain 1913, Bull. Soc. Mycol. France 28:181, t. 7:1-6
 
 collections:

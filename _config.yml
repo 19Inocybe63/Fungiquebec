@@ -104,8 +104,6 @@ members:
 #            champs-description.
 #*****************************************************************************
 champs-details:
-  - name: autorites
-    label: Autorités
   - name: ordre
     label: Ordre
     search: facet

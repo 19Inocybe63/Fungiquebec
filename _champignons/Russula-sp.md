@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: 
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: sp.
+  espece: <ï>Russula sp.</i>
   litterature: 
 
 collections:

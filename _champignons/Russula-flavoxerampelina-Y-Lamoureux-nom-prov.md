@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: 
-  autorites: Yves Lamoureux
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: flavoxerampelina
+  espece: <i>Russula flavoxerampelina Y. Lamoureux nom. prov.</i>
   litterature: 
 
 collections:

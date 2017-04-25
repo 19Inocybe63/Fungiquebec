@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Plicature crispée
-  autorites: (Pers.) D.A. Reid
   ordre: Agaricales
   famille: Incertae sedis
   genre: Plicaturopsis
-  espece: crispa
+  espece: <i>Plicaturopsis crispa</i> (Pers.) D.A. Reid
   litterature: Reid, D.A. 1964. Notes on some fungi of Michigan-I. Cyphellaceae. Persoonia. 3:97-154
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Russule aqueuse
-  autorites: ss. Shaffer
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: aquosa ss. Shaffer
+  espece: <i>Russula aquosa ss. Shaffer</i> ss. Shaffer
   litterature: 
 
 collections:

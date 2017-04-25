@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Flammule des aulnes
-  autorites: (Fr.) Singer
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: alnicola
+  espece: <i>Pholiota alnicola</i> (Fr.) Singer
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
 
 collections:

@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Plutée couleur de cerf
-  autorites: (Schaeff.) P. Kumm.
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
-  espece: cervinus
+  espece: <i>Pluteus cervinus</i> (Schaeff.) P. Kumm.
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:

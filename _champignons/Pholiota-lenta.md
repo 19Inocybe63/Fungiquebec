@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Flammule glutineuse ou Pholiote gluante
-  autorites: (Pers.) Singer
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: lenta
+  espece: <i>Pholiota lenta</i> (Pers.) Singer
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
 
 collections:

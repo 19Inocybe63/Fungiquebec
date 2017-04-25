@@ -8,11 +8,10 @@ album-flickr:
 
 details:
   nom-francais: Bolet de Ravenel
-  autorites: (Berk. & M.A. Curtis) Murrill
   ordre: Boletales
   famille: Boletaceae
   genre: Pulveroboletus
-  espece: ravenelii
+  espece: <i>Pulveroboletus ravenelii</i> (Berk. & M.A. Curtis) Murrill
   litterature: Murrill, W.A. 1909. The Boletaceae of North America - 1. Mycologia. 1(1):4-18
 
 collections:

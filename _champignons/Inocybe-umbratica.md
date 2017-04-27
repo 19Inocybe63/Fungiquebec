@@ -77,7 +77,7 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: nombreuses, parmi les lamprocheilocystides, claviformes à piriformes, à paroi mince, (10,4) 12,8-15,4 (16,1) × (5,5) 6,7-8,4 (9,2) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: mince, 1-2 mm d'épaisseur au disque, blanchâtre dans le chapeau, pâle dans le pied, immuable

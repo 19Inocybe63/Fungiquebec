@@ -189,7 +189,7 @@ description:
   hysterothece: 
   lames: libres, adnexées à étroitement adnées, ± larges, serrées à très serrées, blanches puis beiges pâle à brun sombre à la fin, à arêtes finement fimbriées, plus pâles
   lamprocystides: 
-  lamprocheilocystides: 
+  lamprocheilocystides: abondantes, courtes, fusiformes-claviformes, 30-70 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans oxalate de calcium, ou clairsemé
   lampropleurocystides: 
   lamprocaulocystides: 
   latex: 

@@ -72,7 +72,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: abondantes sur toute la longueur du pied, en amas, de formes similaires aux lamprocheilocystides, à paroi épaisse, avec cauloparacystides plus petites, clavées, à paroi mince, celles de la base similaires, mais avec moins de cauloparacystides
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -224,7 +224,7 @@ description:
   pied: 30-80 x 3-8 mm Ø, cylindrique, égal à subégal, légèrement atténué vers la base, légèrement à ± bulbeux à bulbeux turbiné à la base, plein, finement pruineux, blanc puis teinté de jaunâtre, ± brun terne à maturité, blanc terne au sec
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: formé de 2 couches. 1) suprapellis en cutis formé d'une couche compacte d'hyphes apprimées ± 80-120 µm d'épaisseur, bouclées, hyalines, légèrement incrustées, 4-15 µm Ø ; 2) subpellis ± 120-200 µm d'épaisseur, formé d'hyphes similaires, légèrement pigmentées et moins compacte
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -294,7 +294,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle à subparallèle, formée d'hyphes compactes, à cellules cylindriques, fusiformes à clavées 5-21 µm Ø
   trame-tubulaire: 
   tubes: 
   type: 

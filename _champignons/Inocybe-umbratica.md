@@ -65,7 +65,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol en milieux humides, sous conifères ou mixtes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -92,7 +92,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: NON
   commentaires: 
   conidies: 
   conidiome: 
@@ -205,7 +205,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou en très petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -219,7 +219,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 30-80 x 3-8 mm Ø, cylindrique, égal à subégal, légèrement atténué vers la base, légèrement à ± bulbeux à bulbeux turbiné à la base, plein, finement pruineux, blanc puis teinté de jaunâtre, ± brun terne à maturité, blanc terne au sec
   pieds-steriles: 
@@ -256,7 +256,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce, spermatique
   sclerocystides: 
   sclerote: 
   soies: 
@@ -270,8 +270,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  symptomes: 
-  syndrome: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: |
+    muscarinien ou sudorien
+    La toxine responsable est la muscarine.
   synonymie: |
     <i>Inocybe paludinella var. umbratica</i> (Quélet) Gminder, Die Großpilze Baden-Württembergs, Band 5:650 (2010)
   systeme-hyphal: 

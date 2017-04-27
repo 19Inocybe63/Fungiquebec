@@ -93,7 +93,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Le chapeau de I. umbratica est de dimension plus importante que I. geophylla. De plus, ce dernier a des basidiospores lisses et un pied non bulbeux. »
+  commentaires: De Claude Kaufholtz-Couture. « Le chapeau de <i>I. umbratica</i> est de dimension plus importante que <i>I. geophylla</i>. De plus, ce dernier a des basidiospores lisses et un pied non bulbeux. »
   conidies: 
   conidiome: 
   conidiophores: 

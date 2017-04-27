@@ -143,7 +143,7 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: subnulle u vaguement farino-spermatique
+  exhalaison-de-la-chair: subnulle ou vaguement farino-spermatique
   exhalaison-des-lames: spermatique, légèrement herbeux à persiller
   exoperidium: 
   extremites-hyphales: 

@@ -273,7 +273,7 @@ description:
   symptomes: 
   syndrome: 
   synonymie: |
-    Inocybe paludinella var. umbratica (Quélet) Gminder, Die Großpilze Baden-Württembergs, Band 5:650 (2010)
+    <i>Inocybe paludinella var. umbratica</i> (Quélet) Gminder, Die Großpilze Baden-Württembergs, Band 5:650 (2010)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

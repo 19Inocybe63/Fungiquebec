@@ -271,6 +271,7 @@ description:
   tubes: 
   type: 
   typique: 
+  velipellis: 
   voile: 
   voile-general: 
   voile-partiel: 

@@ -291,6 +291,7 @@ description:
   trame-tubulaire: 
   type: 
   typique: 
+  velipellis: 
   voile: 
   voile-general: velipellis bien évident, laissant des fibrilles blanchâtres sur le chapeau
   voile-partiel: 

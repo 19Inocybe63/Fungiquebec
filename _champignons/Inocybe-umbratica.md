@@ -299,7 +299,7 @@ description:
   tubes: 
   type: 
   typique: 
-  velipellis: 
+  velipellis: laissant des fibrilles blanches sur le disque piléique
   voile: 
   voile-general: 
   voile-partiel: 

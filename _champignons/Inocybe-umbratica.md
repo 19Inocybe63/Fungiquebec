@@ -82,7 +82,7 @@ description:
   cellules-stromatiques: 
   chair: mince, 1-2 mm d'épaisseur au disque, blanchâtre dans le chapeau, pâle dans le pied, immuable
   chancre: 
-  chapeau: 15-40 (50) mm Ø, campanulé-conique puis largement mamelonné, fibrilleux, cortine laissant un revêtement finement fibrilleux à la marge, blanc puis un peu crème terne ou ± grisâtre à maturité
+  chapeau: 15-40 (50) mm Ø, campanulé-conique puis largement mamelonné, au revêtement fibrilleux, couvert de fibrilles blanches par endroits (restes du velipellis), blanc puis un peu crème terne ou ± grisâtre à maturité
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

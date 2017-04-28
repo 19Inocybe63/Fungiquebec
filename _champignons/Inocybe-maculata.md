@@ -291,9 +291,9 @@ description:
   trame-tubulaire: 
   type: 
   typique: 
-  velipellis: 
+  velipellis: bien évident, laissant des fibrilles blanchâtres sur le chapeau
   voile: 
-  voile-general: velipellis bien évident, laissant des fibrilles blanchâtres sur le chapeau
+  voile-general: 
   voile-partiel: 
   volve: 
   zone-perihymeniale: 

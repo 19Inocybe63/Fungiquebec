@@ -106,7 +106,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: absente
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 

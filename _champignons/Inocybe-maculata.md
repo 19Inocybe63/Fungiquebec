@@ -212,7 +212,7 @@ description:
   peritheces: 
   phenologie: d'août à septembre (octobre)
   phialoconidies: 
-  pied: 66 x 7-10 mm Ø, cylindrique, plein, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe/racines
+  pied: 66 x 7-10 mm Ø, cylindrique, plein, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis

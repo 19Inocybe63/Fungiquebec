@@ -63,6 +63,7 @@ description:
   caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
+  cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 

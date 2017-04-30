@@ -72,9 +72,9 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes sur toute la longueur du pied, en amas, de formes similaires aux lamprocheilocystides, à paroi épaisse, avec cauloparacystides plus petites, clavées, à paroi mince, celles de la base similaires, mais avec moins de cauloparacystides
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides: abondantes sur toute la longueur du pied, en amas, de formes similaires aux lamprocheilocystides, à paroi épaisse, avec cauloparacystides plus petites, clavées, à paroi mince, celles médianes similaires, mais avec moins de cauloparacystides
+  caulocystides-medianes: abondantes, métuloïdes, fusiformes à lagéniformes, 44,3-57,1 × 13,7-17,1 µm
+  caulocystides-sommitales: abondantes, métuloïdes, lagéniformes, ovoïdes à subovoïdes, 27,7-57 × 14,5-19,4 µm
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: nombreuses, parmi les lamprocheilocystides, claviformes à piriformes, à paroi mince, (10,4) 12,8-15,4 (16,1) × (5,5) 6,7-8,4 (9,2) µm
@@ -189,8 +189,8 @@ description:
   hysterothece: 
   lames: libres, adnexées à étroitement adnées, ± larges, serrées à très serrées, blanches puis beiges pâle à brun sombre à la fin, à arêtes finement fimbriées, plus pâles
   lamprocystides: 
-  lamprocheilocystides: abondantes, courtes, fusiformes-claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans oxalate de calcium, ou clairsemé
-  lampropleurocystides: nombreuses, courtes, fusiformes-claviformes, 35-60 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune
+  lamprocheilocystides: abondantes, courtes, fusiformes, lagéniformes à claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans oxalate de calcium, ou clairsemé
+  lampropleurocystides: nombreuses, courtes, fusiformes, lagéniformes à claviformes, 35-60 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune
   lamprocaulocystides: 
   latex: 
   leptocystides: 

@@ -340,7 +340,7 @@ champs-description:
     label: Caulocystides médianes
   - name: caulocystides-sommitales
     label: Caulocystides sommitales
-  -name: cauloparacystides
+  - name: cauloparacystides
     label: Cauloparacystides
   - name: dermatocystides-caulocystides-et-pileipellis
     label: Dermatocystides (Caulocystides et Pileipellis)

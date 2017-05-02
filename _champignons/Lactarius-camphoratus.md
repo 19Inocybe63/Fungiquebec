@@ -1,6 +1,6 @@
 ---
 nom: Lactarius camphoratus
-date: 2017-03-25 00:00:00
+date: 2017-05-02 00:00:00
 image: https://c1.staticflickr.com/9/8554/30024166755_571409ee88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024166755/in/photolist-MK8GKv
 album-flickr:
@@ -18,7 +18,7 @@ collections:
   - fongarium: cKc0578
     date: 29 septembre 2016
     planche:
-      numero: 
+      numero: cKc0578-0166
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
@@ -46,7 +46,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes à claviformes ventrues, parfois en petite massue, tétrasporiques, non bouclées à la base, à paroi mince, avec granulations, 30-40 × 8-9 µm en moyenne
   basidiospores: 
   basidioles: 
   basidiome: 

@@ -244,6 +244,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
+    Potasse (KOH 10%) = olive sur la surface du chapeau
   receptacle: 
   remarques: 
   repartition: 

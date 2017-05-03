@@ -186,7 +186,7 @@ description:
   leptocystides: 
   leptopleurocystides: 
   macrocystides: 
-  macropleurocystides: 
+  macropleurocystides: occasionnelles à nombreuses, ± lancéolées avec apex aigu, 30-45 x 6-10 (15) µm
   marge: 
   marge-et-face-externe: 
   mediostrate: 

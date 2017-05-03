@@ -70,7 +70,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, ferme, cassante, brunâtre à concolore à la surface du chapeau, immuable à la coupe, cannelle pâle à blanchâtre
+  chair: mince, ferme, cassante, immuable à la coupe, brunâtre à concolore à la surface du chapeau, cannelle pâle à blanchâtre
   chancre: 
   chapeau: 24-35 mm Ø, convexe, puis étalé, déprimé, mamelonné, papillé, glabre, brun cannelle à brun pâle
   cheilochrysocystides:

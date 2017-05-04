@@ -46,7 +46,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à claviformes ventrues, parfois en petite massue, tétrasporiques, non bouclées à la base, à paroi mince, avec granulations, 30-40 × 8-9 µm en moyenne
+  basides: claviformes à claviformes ventrues, parfois en petite massue, tétrasporiques, non bouclées à la base, à paroi mince, avec granulations, 30 - 40 × 8 - 9 µm en moyenne
   basidiospores: |
     rarement subglobuleuses, largement elliptiques à elliptiques, finement à moyennement verruqueuses-épineuses, isolées, dont certaines sont reliées pour former des crêtes noduleuses, formant de rares réticulations, avec proéminences jusqu’à 1 (1,1) µm, à paroi mince, avec appendice hilaire prédominant, plage hilaire non distincte et non amyloïde ou irrégulièrement amyloïde dans la partie distale, à contenu uniguttulé, hyalines dans E.G. 20%, amyloïdes, non cyanophiles
     (7,1) 7,3 - 8,2 (8,6) × (5,5) 5,6 - 6,4 (6,6) µm

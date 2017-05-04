@@ -186,7 +186,7 @@ description:
   leptocystides: 
   leptopleurocystides: 
   macrocystides: 
-  macropleurocystides: occasionnelles à nombreuses, non projetées, ± lancéolées avec apex aigu, 49,6-82,1 × 7,6-9,5 µm en moyenne
+  macropleurocystides: 
   marge: 
   marge-et-face-externe: 
   mediostrate: 
@@ -219,7 +219,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: occasionnelles à nombreuses, non projetées, subfusiformes à ± lancéolées avec apex aigu, 49,6-82,1 × 7,6-9,5 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

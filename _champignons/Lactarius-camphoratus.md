@@ -74,7 +74,7 @@ description:
   chancre: 
   chapeau: 24-35 mm Ø, convexe, puis étalé, déprimé, mamelonné, papillé, glabre, brun cannelle à brun pâle
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: occasionnelles, non projetées, subfusiformes à ± lancéolées dont l’apex est submoniliforme 38,7 - 57,4 × 5,3 - 7,1 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

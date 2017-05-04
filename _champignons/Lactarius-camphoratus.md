@@ -214,7 +214,7 @@ description:
   pied: 39-49 x 4-7 mm Ø, cylindrique, creux, concolore au chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: en hyphoepithelium, 60-90 µm d'épaisseur; éléments dans le subpellis 15-40 x 12-25 µm, ± isodiamétrique et arrondi; éléments terminaux 12-35 x 4,5-7,5 µm, cylindriques, pas très visibles et souvent collapsés
+  pileipellis: en hyphoepithelium, 60 - 90 µm d'épaisseur; éléments dans le subpellis 15 - 40 x 12 - 25 µm, ± isodiamétrique et arrondi; éléments terminaux 12 - 35 x 4,5 - 7,5 µm, cylindriques, pas très visibles et souvent collapsés
   pileitrame: 
   pileocystides: 
   plasmode: 

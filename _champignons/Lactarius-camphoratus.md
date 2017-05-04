@@ -1,6 +1,6 @@
 ---
 nom: Lactarius camphoratus
-date: 2017-05-03 00:00:00
+date: 2017-05-04 00:00:00
 image: https://c1.staticflickr.com/9/8554/30024166755_571409ee88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024166755/in/photolist-MK8GKv
 album-flickr:
@@ -186,7 +186,7 @@ description:
   leptocystides: 
   leptopleurocystides: 
   macrocystides: 
-  macropleurocystides: occasionnelles à nombreuses, non projetées, ± lancéolées avec apex aigu, 30-45 x 6-10 (15) µm
+  macropleurocystides: occasionnelles à nombreuses, non projetées, ± lancéolées avec apex aigu, 49,6-82,1 × 7,6-9,5 µm en moyenne
   marge: 
   marge-et-face-externe: 
   mediostrate: 

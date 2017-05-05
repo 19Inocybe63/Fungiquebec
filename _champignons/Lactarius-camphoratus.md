@@ -1,6 +1,6 @@
 ---
 nom: Lactarius camphoratus
-date: 2017-05-04 00:00:00
+date: 2017-05-05 00:00:00
 image: https://c1.staticflickr.com/9/8554/30024166755_571409ee88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024166755/in/photolist-MK8GKv
 album-flickr:
@@ -74,7 +74,7 @@ description:
   chancre: 
   chapeau: 24-35 mm Ø, convexe, puis étalé, déprimé, mamelonné, papillé, glabre, brun cannelle à brun pâle
   cheilochrysocystides:
-  cheilocystides: occasionnelles, non projetées, subfusiformes à ± lancéolées dont l’apex est submoniliforme 38,7 - 57,4 × 5,3 - 7,1 µm en moyenne
+  cheilocystides: occasionnelles, non projetées, subfusiformes à ± lancéolées dont l’apex est subaigu, mucroné à submoniliforme 38,7 - 57,4 × 5,3 - 7,1 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -219,7 +219,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles à nombreuses, non projetées, subfusiformes à ± lancéolées avec apex aigu, 49,6 - 82,1 × 7,6 - 9,5 µm en moyenne
+  pleurocystides: occasionnelles à nombreuses, non projetées, subfusiformes à ± lancéolées avec apex subaigu, mucroné à submoniliforme, 49,6 - 82,1 × 7,6 - 9,5 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

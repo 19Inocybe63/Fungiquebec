@@ -23,8 +23,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/33626308874/in/photolist-TerC77-MK8GKv/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 

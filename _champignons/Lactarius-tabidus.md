@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus et conifères, en bordure de sentier
+  biotopes: pousse au sol, sous feuillus (<i>Betula</i>) et conifères, en bordure de sentier
   boucles: 
   brachybasidioles: 
   calicule: 

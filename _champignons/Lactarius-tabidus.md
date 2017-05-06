@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: Lactaire à lait soufré
+  nom-francais: Lactaire chiffonné ; Lactaire dépérissant ; Lactaire à lait soufré
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius

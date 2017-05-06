@@ -83,7 +83,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux: « Ton <i>L. camphoratus</i> n'a pas les lames assez foncées (à maturité, elles sont rouge vin très foncé chez <i>L. camphoratus</i>) et la couleur du chapeau me semble bien trop pâle également. Dès le jeune âge, <i>L. camphoratus</i> est nettement plus foncé. »
+  commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 

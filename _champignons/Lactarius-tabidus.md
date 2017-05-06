@@ -245,7 +245,6 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
-    Potasse 
   receptacle: 
   remarques: 
   repartition: 

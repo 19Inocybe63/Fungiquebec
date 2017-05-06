@@ -268,7 +268,7 @@ description:
     <i>Lactarius subdulcis var. tabidus</i> (Fr.) Quél., Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:131 (1886)
     <i>Lactarius mitissimus var. tabidus</i> (Fr.) Quél., Flore mycologique de la France et des pays limitrophes:360 (1888)
     <i>Lactifluus tabidus</i> (Fr.) Kuntze, Revisio generum plantarum 3 (2): 857 (1891)
-    <i>Lactarius theiogalus sensu Neuhoff</i>
+    <i>Lactarius theiogalus</i> sensu Neuhoff
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -45,6 +45,16 @@ collections:
     elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0579
+    date: 29 septembre 2016
+    planche:
+      numero: cKc0579-0167
+      miniature: 
+      originale: 
+    geolocalisation: 
+    elevation: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

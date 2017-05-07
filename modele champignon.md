@@ -74,7 +74,6 @@ description:
   chapeau: 
   cheilochrysocystides:
   cheilocystides: 
-  cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -183,6 +182,7 @@ description:
   lamprocaulocystides: 
   latex: 
   leptocystides: 
+  leptocheilocystides: 
   leptopleurocystides: 
   macrocystides: 
   macropleurocystides: 

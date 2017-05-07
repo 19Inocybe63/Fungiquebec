@@ -234,7 +234,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: mai à août
+  phenologie: de mai à août
   phialoconidies: 
   pied: 41-70 x 3-7,3 mm Ø, cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre
   pieds-steriles: 

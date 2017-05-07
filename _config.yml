@@ -308,8 +308,8 @@ champs-description:
     label: Cheilocystides intermédiaires
   - name: cheiloleptocystides
     label: Cheiloleptocystides
-  - name: pleuroleptocystides
-    label: Pleuroleptocystides
+  - name: leptocheilocystides
+    label: Leptocheilocystides
   - name: leptopleurocystides
     label: Leptopleurocystides
   - name: cheilomacrocystides

@@ -103,7 +103,6 @@ description:
   chancre: 
   chapeau: 17,5-49,3 mm Ø, hémisphérique au début à conique-campanulé, puis campanulé convexe à étalé à maturité, collant, terne et fibrilleux au sec, non distinctement hygrophane, appendiculé de restes vélaires, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracé, jaune à orange ochracé
   cheilocystides: 
-  cheiloleptocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capitées 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: absentes
@@ -209,6 +208,7 @@ description:
   lamprocaulocystides: 
   latex: 
   leptocystides: 
+  leptocheilocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capitées 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
   macrocystides: 
   macropleurocystides: 
   marge: 

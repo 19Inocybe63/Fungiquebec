@@ -75,7 +75,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur souche de feuillu pourri, <i>Betula</i>, <i>Fagus</i>, <i>Quercus</i>
+  biotopes: pousse sur souche de feuillu pourri, ou au sol sur bois enfoui <i>Betula</i>, <i>Fagus</i>, <i>Quercus</i>
   boucles: observées dans la trame lamellaire et dans le stipe
   brachybasidioles: 
   calicule: 

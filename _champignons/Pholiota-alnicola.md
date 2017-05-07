@@ -214,7 +214,7 @@ description:
   lamprocaulocystides: 
   latex: 
   leptocystides: 
-  leptocheilocystides: abondantes polymorphes, cylindriques, subclavées, sublageniformes, subflexueuses, parfois avec apex déformé ; à paroi mince, vide optique, 32 [34,2; 38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
+  leptocheilocystides: abondantes, polymorphes, cylindriques, subclavées, sublageniformes, subflexueuses, parfois avec apex déformé ; à paroi mince, vide optique, 32 [34,2; 38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
   leptopleurocystides: absentes
   macrocystides: 
   macropleurocystides: 

@@ -316,8 +316,8 @@ champs-description:
     label: Cheilomacrocystides
   - name: chrysocystides
     label: Chrysocystides
-  - name: pleurochrysocystides
-    label: Pleurochrysocystides
+  - name: chrysopleurocystides
+    label: Chrysopleurocystides
   - name: pleurocystides
     label: Pleurocystides
   - name: pleuromacrocystides

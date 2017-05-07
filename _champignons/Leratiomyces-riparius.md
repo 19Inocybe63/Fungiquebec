@@ -110,7 +110,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: La collection cKc0305 fut étudiée sur matériel déshydraté
+  commentaires: De Claude Kaufholtz-Couture. « La collection cKc0305 fut étudiée sur matériel déshydraté. »
   conidies: 
   conidiome: 
   conidiophores: 

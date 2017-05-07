@@ -105,7 +105,7 @@ description:
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: rares
+  chrysocystides: absentes à très rares
   chrysopleurocystides: rares et à peine saillantes de l’hyménium, vues seulement sur de jeunes sujets (37) 42,6 [43,2; 46,3] 46,9 x 2 [5,3; 20,9] 24,1 µm en moyenne
   circumcystides: 
   clavules: 

@@ -1,6 +1,6 @@
 ---
 nom: Pholiota alnicola
-date: 2017-03-25 00:00:00
+date: 2017-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5598/15461831105_2fb25e98da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461831105/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
 album-flickr:
@@ -82,7 +82,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: occasionnelles, polymorphes, semblables aux cheiloleptocystides, 7-20 x 2-3 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 

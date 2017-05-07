@@ -7,7 +7,7 @@ album-flickr:
   - 72157679034984716
 
 details:
-  nom-francais: Flammule des aulnes
+  nom-francais: Pholiote des aulnes
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota

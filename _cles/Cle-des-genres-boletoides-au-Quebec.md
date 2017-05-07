@@ -1,7 +1,7 @@
 ---
 nom: Clé des genres bolétoïdes au Québec
 date: 2016-11-26 00:00:00
-author: Yves Lamoureux
+author: Inspiré d'une clé d'Yves Lamoureux, publiée circa 1996
 source: Édition à compte d'auteur
 famille: Boletaceae
 

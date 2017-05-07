@@ -112,6 +112,7 @@ description:
   clavules: 
   columelle: 
   commentaires: De Claude Kaufholtz-Couture. « Ces champignons, ceux de la collection cKc0286, sont à un stade avancé. On peut apercevoir des piqures d'insectes sur les chapeaux. L'époque de l'année où il fut cueilli joue aussi sur son aspect avancé, mais encore acceptable pour en faire un spécimen de fongarium. Habituellement, ce champignon est plutôt d'un beau jaune à jaune ferreux (voir la collection cKc0298). »
+  De A. H. Smith et L. R. Hesler. « Le pileus peut être visqueux ou simplement humide, selon les conditions météorologiques. Il existe également la possibilité que les hyphes du suprapellis, dans le gélin, puissent se répandre et laisser la surface sèche. Fries a décrit le pileus comme humide, mais pas visqueux, et plusieurs auteurs, après Fries, l'ont apparemment caractérisés. Notre concept repose principalement sur une étude des collections de Romell et Maas Geesteranus. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -271,7 +272,7 @@ description:
   publications: |
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R.</b> <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

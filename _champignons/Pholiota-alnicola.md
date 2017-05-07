@@ -95,7 +95,6 @@ description:
   chapeau: 20-70 mm Ø, convexe puis étalé, parfois umboné, subvisqueux, viscidule à légèrement humide, glabre, subhygrophane, jaune au début, puis jaune plus foncé à ferrugineux à maturité ou à l'humidité, parfois lavé de vert olive vers le pourtour et jaune rougeâtre au disque, jaune pâle au sec, à marge incurvée, unie, fibrilleuse-subécailleuse à appendiculée, glabrescente
   cheilochrysocystides:
   cheilocystides: 
-  cheiloleptocystides: abondantes polymorphes, cylindriques, subclavées, sublageniformes, subflexueuses, parfois avec apex déformé ; à paroi mince, vide optique, 32 [34,2; 38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: absentes
@@ -205,6 +204,7 @@ description:
   lamprocaulocystides: 
   latex: 
   leptocystides: 
+  leptocheilocystides: abondantes polymorphes, cylindriques, subclavées, sublageniformes, subflexueuses, parfois avec apex déformé ; à paroi mince, vide optique, 32 [34,2; 38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
   leptopleurocystides: absentes
   macrocystides: 
   macropleurocystides: 

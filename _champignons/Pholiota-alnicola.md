@@ -1,6 +1,6 @@
 ---
 nom: Pholiota alnicola
-date: 2017-05-07 00:00:00
+date: 2017-05-10 00:00:00
 image: https://c2.staticflickr.com/6/5171/29730093180_b63bc22a90_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29730093180/in/photolist-MK924p-Mi9uVs
 album-flickr:
@@ -49,8 +49,8 @@ collections:
     date: 29 septembre 2016
     planche:
       numero: cKc0579-0167
-      miniature: 
-      originale: 
+      miniature: https://c1.staticflickr.com/5/4168/33769162423_57f0b7e520_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/33769162423/in/dateposted/
     geolocalisation: 
     elevation: 
     determinee: 

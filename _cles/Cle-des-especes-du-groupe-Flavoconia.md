@@ -57,7 +57,7 @@ etapes:
     questions:
       -
         question: Poussant dans les pinèdes, basidiome jusqu’à 70-150 mm de hauteur, voile général blanc ou jaunâtre
-        reference: Amanita pinophila Y. Lamoureux nom. prov. (= Amanita morrisii ?)
+        reference: Amanita morrisii
       -
         question: Poussant dans les chênaies et hêtraies, basidiome jusqu’à 120-300 mm de hauteur, voile général blanc ou grisâtre
         reference: Amanita pseudobrunnescens Y. Lamoureux nom. prov.

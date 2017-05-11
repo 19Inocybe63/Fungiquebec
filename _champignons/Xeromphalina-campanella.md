@@ -23,8 +23,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/24131617093/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
     geolocalisation: 46°48'40.46"N 71°21'30.15"O
     elevation: 75 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Roland Labbé
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

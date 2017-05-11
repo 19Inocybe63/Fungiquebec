@@ -24,7 +24,7 @@ collections:
     geolocalisation: 46°47'56.1"N 71°14'33.3"O
     elevation: 80 m
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 

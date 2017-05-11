@@ -23,8 +23,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/8366320055/in/photolist-dKiztv-dJeNnK-dJeUGZ
     geolocalisation: 
     elevation: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Roland Labbé
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

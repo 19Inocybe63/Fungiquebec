@@ -1,6 +1,6 @@
 ---
 nom: Tricholomopsis sulphureoides
-date: 2017-03-13 00:00:00
+date: 2017-04-10 00:00:00
 image: https://c1.staticflickr.com/9/8164/29608929000_0859bae19b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29608929000/in/photolist-M7rv2S-Monoq9
 album-flickr:
@@ -18,9 +18,9 @@ collections:
   - fongarium: cKc0559
     date: 24 septembre 2016
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0559-0168
+      miniature: 
+      originale: 
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 

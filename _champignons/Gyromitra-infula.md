@@ -23,8 +23,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°57'01.25"N 71°17'51.46"O
     elevation: 222 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Roland Labbé
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

@@ -24,7 +24,7 @@ collections:
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m
     determinee: 
-    confirmee: Roland Labbé
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

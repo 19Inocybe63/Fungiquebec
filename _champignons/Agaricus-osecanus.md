@@ -1,18 +1,18 @@
 ---
-nom: Agaricus arvensis
-date: 2017-03-18 00:00:00
+nom: Agaricus osecanus
+date: 2017-05-11 00:00:00
 image: https://c2.staticflickr.com/6/5803/30152698222_912045cf23_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30152698222/in/photolist-MWupCd-MWusFh-MZ9gSK-M9YoGN
 album-flickr:
   - 72157672684509594
 
 details:
-  nom-francais: Agaric des jachères
+  nom-francais: Agaric neigeux ; Agaric boule de neige
   ordre: Agaricales
   famille: Agaricaceae
   genre: Agaricus
-  espece: <i>Agaricus arvensis</i> Schaeff.
-  litterature: Schaeffer, J. C. 1774. Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones. 4:1-136
+  espece: <i>Agaricus osecanus</i> Pilát
+  litterature: Pilát, A. 1951. The Bohemian species of the genus Agaricus. Acta Musei Nationalis Pragae. 7B(1):1-142
 
 collections:
   - fongarium: cKc0597
@@ -267,12 +267,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    <i>Psalliota arvensis</i> (Schaeff.) P. Kumm., Der Führer in die Pilzkunde:74 (1871)
-    <i>Pratella arvensis</i> (Schaeff.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France:563 (1878)
-    <i>Fungus arvensis</i> (Schaeff.) Kuntze, Revisio generum plantarum 3:479 (1898)
-    <i>Psalliota campestris</i> var. arvensis (Schaeff.) Cheel (1913)
-    <i>Psalliota fissurata</i> F.H. Møller, Friesia 4 (3):165 (1952)
-    <i>Psalliota leucotricha</i> F.H. Møller, Friesia 4 (3):159 (1952)
+    <i>Psalliota nivescens</i> F.H. Møller, Friesia 4 (3):155 (1952)
+    <i>Psalliota nivescens var. parkensis</i> F.H. Møller, Friesia 4 (3):158 (1952)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

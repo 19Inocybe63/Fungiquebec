@@ -24,5 +24,5 @@ etapes:
         reference: Amanita volvata
       -
         question: Chapeau nu, 2 ou 3 couches au plus de cellules arrondies présentes entre l'hyménium et les hyphes de la trame des lames, spores 11,5-15,5 x 5-6,5 µm
-        reference: Amanita canadensis Tulloss nom. prov.
+        reference: Amanita peckiana
 ---

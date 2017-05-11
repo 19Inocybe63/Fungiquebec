@@ -24,7 +24,7 @@ collections:
     geolocalisation: 46°51'19.0"N 71°06'38.2"O
     elevation: 60 m
     determinee: 
-    confirmee: Roland Labbé
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0130
     date: 1 septembre 2013
     planche:

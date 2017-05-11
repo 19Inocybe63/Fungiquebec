@@ -49,7 +49,7 @@ collections:
     date: 29 septembre 2016
     planche:
       numero: cKc0579-0167
-      miniature: https://c1.staticflickr.com/5/4168/33769162423_57f0b7e520_n.jpg
+      miniature: https://c1.staticflickr.com/5/4168/33769162423_01d44a9ff0_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/33769162423/in/dateposted/
     geolocalisation: 
     elevation: 

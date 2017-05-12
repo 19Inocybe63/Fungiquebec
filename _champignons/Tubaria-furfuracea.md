@@ -104,7 +104,7 @@ description:
   columelle: 
   commentaires: |
     De Claude Kaufholtz-Couture. « Ce sporophore aime particulièrement les températures froides. »
-    De Claude Kaufholtz-Couture. « Tubaria: (du latin tuba = trompette). »
+    De Claude Kaufholtz-Couture. « Tubaria: (du latin tuba = trompette). En général, le chapeau est plat, hygrophane, et les lames sont un peu décurrentes. »
   conidies: 
   conidiome: 
   conidiophores: 

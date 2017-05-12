@@ -102,7 +102,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Ce sporophore aime particulièrement les températures froides. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Ce sporophore aime particulièrement les températures froides. »
+    De Claude Kaufholtz-Couture. « Tubaria: (du latin tuba = trompette). »
   conidies: 
   conidiome: 
   conidiophores: 

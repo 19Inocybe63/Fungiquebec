@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: consistance coriace, mais le carpophore se dechire assez facilement
+  chair: consistance coriace, mais le sporocarpe se dechire assez facilement
   chancre: 
   chapeau: jusqu'à 10 mm de projection de quelques mm de largeur, parfois fusionnés latéralement, étalé, arrondi, puis confluent et ordinairement réflechi, coriace, mince, flasque, satiné, tomenteux, rouille clair à marron, zoné de fauve et bordé de jaune doré, surface pileique feutrée, orange-brun, puis gris-brun
   cheilochrysocystides:

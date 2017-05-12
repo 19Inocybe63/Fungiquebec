@@ -102,7 +102,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Ce sporophore aime particulièrement les températures froides. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -226,7 +226,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de mai à septembre
+  phenologie: de mai à octobre
   phialoconidies: 
   pied: 9-18 x 2-4 mm Ø, égal, creux, ± concolore au chapeau, à l'apex fibrilleux et blanchâtre, et ne se détache pas du chapeau
   pieds-steriles: 
@@ -264,7 +264,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Ce sporophore aime particulièrement les températures froides.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -195,7 +195,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à légèrement décurrentes, larges, subespacées, avec lamellules irrégulières à distribution symétrique, orange pâle, aux arêtes blanchâtres
+  lames: adnées à légèrement décurrentes, larges, subespacées, avec lamellules irrégulières à distribution symétrique, orange pâle, aux arêtes finement érodées et blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

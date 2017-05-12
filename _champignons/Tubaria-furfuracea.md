@@ -7,7 +7,7 @@ album-flickr:
   - 72157672900331914
 
 details:
-  nom-francais: Tubaire commune
+  nom-francais: Tubaire furfuracée ; Tubaire commune
   ordre: Agaricales
   famille: Tubariaceae
   genre: Tubaria

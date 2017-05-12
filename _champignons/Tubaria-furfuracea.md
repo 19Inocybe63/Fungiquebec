@@ -103,7 +103,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « <i>Tubaria</i>, vient du latin tuba qui signifie trompette. En général, le chapeau est plat, hygrophane, et les lames sont un peu décurrentes. »
+    De Claude Kaufholtz-Couture. « Le genre <i>Tubaria</i> vient du latin « tuba » et signifie « trompette ». En général, le chapeau est plat, hygrophane, et les lames sont un peu décurrentes. »
     De Claude Kaufholtz-Couture. « Ce sporocarpe aime particulièrement les températures froides. »
   conidies: 
   conidiome: 

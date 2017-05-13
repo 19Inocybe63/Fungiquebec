@@ -230,7 +230,7 @@ description:
   peritheces: 
   phenologie: de mai à octobre
   phialoconidies: 
-  pied: 9-18 x 2-4 mm Ø, égal, creux, ± concolore au chapeau, à l'apex fibrilleux et blanchâtre, et ne se détache pas du chapeau
+  pied: 9-18 x 2-4 mm Ø, cylindrique à égal, creux, ± concolore au chapeau, à l'apex fibrilleux et blanchâtre, ne se détache pas du chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis

@@ -228,7 +228,8 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    KOH 10% = instantanément rouge brun foncé sur la surface du chapeau
   receptacle: 
   remarques: 
   repartition: 

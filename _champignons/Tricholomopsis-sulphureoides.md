@@ -46,7 +46,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes à longuement claviformes, parfois cylindriques, tétrasporiques, bouclées à la base, à contenu vacuolaire, (29,8) 30,5 - 37,3 (41,3) × 5,5 - 6,6 (6,8) µm en moyenne
   basidiospores: |
     elliptiques à largement elliptiques, subpruniformes en vue frontal, subglobuleuses à largement elliptiques vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, partiellement cyanophiles
     (5,6) 5,9 - 7,1 (7,4) × (4,4) 4,7 - 5,5 (5,9) µm

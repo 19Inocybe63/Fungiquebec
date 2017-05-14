@@ -229,7 +229,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    KOH 10% = instantanément rouge brun foncé sur la surface du chapeau
+    Potasse (KOH 10%) = instantanément rouge brun foncé sur la surface du chapeau
   receptacle: 
   remarques: 
   repartition: 

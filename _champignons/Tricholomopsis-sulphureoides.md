@@ -57,7 +57,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse sur billot de bois pourri et moussu de conifères
-  boucles: 
+  boucles: présentes dans le pileipellis et la trame lamellaire
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -209,7 +209,7 @@ description:
   pied: 21-55 x 2-7 mm Ø, cylindrique, plein, courbé, concolore au chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, formé parfois d'hyphes agglomérées et dressées, lisses, brun orangé dans le KOH 5%, à cellules terminales subcylindriques et arrondies à l'apex
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -267,7 +267,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle avec subhyménium formé d'une zone étroite d’hyphes élancées, ramifiées, et pigmentées de brun-jaune
   trame-tubulaire: 
   type: 
   typique: 

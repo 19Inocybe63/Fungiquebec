@@ -113,7 +113,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Ces champignons, ceux de la collection cKc0286, sont à un stade avancé. On peut apercevoir des piqures d'insectes sur les chapeaux. L'époque de l'année où il fut cueilli joue aussi sur son aspect avancé, mais encore acceptable pour en faire un spécimen de fongarium. Habituellement, ce champignon est plutôt d'un beau jaune à jaune ferreux (voir la collection cKc0298). »
+    De Claude Kaufholtz-Couture. « Les champignons de la collection cKc0286 sont à un stade avancé. On peut apercevoir des piqures d'insectes sur les chapeaux. L'époque de l'année où il fut cueilli joue aussi sur son aspect trop matûre, mais encore acceptable pour en faire une collection de fongarium. Habituellement, ce champignon est plutôt d'un beau jaune à jaune ferreux (voir la collection cKc0298). »
     De A. H. Smith et L. R. Hesler. « Le pileus peut être visqueux ou simplement humide, selon les conditions météorologiques. »
   conidies: 
   conidiome: 

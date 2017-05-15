@@ -81,7 +81,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Je ne l'ai jamais vu ailleurs que sur la pruche. Il faisait partie de ma thèse de maîtrise comme addition aux macromycètes du QC, en 1992. »
   conidies: 
   conidiome: 
   conidiophores: 

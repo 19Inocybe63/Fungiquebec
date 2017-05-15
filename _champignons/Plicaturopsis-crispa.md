@@ -1,6 +1,6 @@
 ---
 nom: Plicaturopsis crispa
-date: 2017-03-25 00:00:00
+date: 2017-05-15 00:00:00
 image: https://c2.staticflickr.com/6/5754/22047993816_fd80d44ac8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/22047993816/in/photolist-CCLgNz-yFJm6a-zAiJqq
 album-flickr:
@@ -29,7 +29,7 @@ collections:
     date: 10 octobre 2015
     planche:
       numero: cKc0487-0110
-      miniature: https://c2.staticflickr.com/2/1638/24044875593_714396c227_n.jpg
+      miniature: https://c2.staticflickr.com/2/1638/24044875593_a56382caae_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/24044875593/in/photolist-CCLgNz-yFJm6a-zAiJqq
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
@@ -89,7 +89,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Au sujet des boucles de <i>Plicaturopsis</i>, il faut lire l'excellent chapitre <i>Clamp Connections and Pseudoclamps</i> de Heinz Clémençon, dont le titre complet figure dans Publication. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -243,6 +243,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+    <b>Clémençon, Heinz</b>. <i>Cytology and Plectology of the Hymenomycetes</i>, 2</SUB>nd revised edition, J. Cramer, 2012.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

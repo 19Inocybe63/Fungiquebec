@@ -243,7 +243,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
-    <b>Clémençon, Heinz</b>. <i>Cytology and Plectology of the Hymenomycetes</i>, 2</SUB>nd revised edition, J. Cramer, 2012.
+    <b>Clémençon, Heinz</b>. <i>Cytology and Plectology of the Hymenomycetes</i>, 2nd</SUP> revised edition, J. Cramer, 2012.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

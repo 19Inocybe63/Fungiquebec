@@ -57,7 +57,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse sur billot de bois pourri et moussu de conifères
-  boucles: présentes dans le pileipellis et la trame lamellaire
+  boucles: en anneaux ou en bagues, présentes dans le pileipellis et la trame lamellaire
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -81,7 +81,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Je ne l'ai jamais vu ailleurs que sur la pruche. Il faisait partie de ma thèse de maîtrise comme addition aux macromycètes du Québec, en 1992. »
+  commentaires: |
+    De Yves Lamoureux. « Je ne l'ai jamais vu ailleurs que sur la pruche. Il faisait partie de ma thèse de maîtrise comme addition aux macromycètes du Québec, en 1992. »
+    De Claude Kaufholtz-Couture. « Il partage la même caractéristique de boucles en anneaux ou en bague que <i>Plicaturopsis crispa</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -89,7 +89,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Au sujet des boucles de <i>Plicaturopsis</i>, il faut lire l'excellent chapitre <i>Clamp Connections and Pseudoclamps</i> de Heinz Clémençon, dont le titre complet figure dans Publication. »
+  commentaires: De Claude Kaufholtz-Couture. « Au sujet des boucles de <i>Plicaturopsis</i>, il faut lire l'excellent chapitre <i>Clamp Connections and Pseudoclamps</i> de Heinz Clémençon, dont le titre complet figure dans Publications. »
   conidies: 
   conidiome: 
   conidiophores: 

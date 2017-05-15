@@ -74,14 +74,14 @@ description:
   chair: mince, jaune pâle, immuable
   chancre: 
   chapeau: 11-55 mm Ø, convexe-campanulé, légèrement déprimé, mamelonné-umbonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche ; comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé
-  cheilocystides: 
+  cheilocystides: 40-75 x 5-7,5 μm, cylindriques avec apex arrondis à claviformes, lisses ou occasionnellement incrustées, à paroi mince, hyalines
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Je ne l'ai jamais vu ailleurs que sur la pruche. Il faisait partie de ma thèse de maîtrise comme addition aux macromycètes du QC, en 1992. »
+  commentaires: De Yves Lamoureux. « Je ne l'ai jamais vu ailleurs que sur la pruche. Il faisait partie de ma thèse de maîtrise comme addition aux macromycètes du Québec, en 1992. »
   conidies: 
   conidiome: 
   conidiophores: 

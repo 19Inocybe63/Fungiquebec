@@ -63,7 +63,7 @@ description:
   basidiome: flabelliforme, de structure anatomique en forme de coupe, grégaire, douce quand elle est fraîche, fragile lorsqu'il est sec, non stipité ou avec une zone plus ou moins rétréci à la base élaborant ainsi un semblant de stipe, surface au abord blanchâtre brun, puis ochracé, finement veloutée, hyménophore plié de façon irrégulière, anastomosé, blanc au premier abord, avec assombrissement des spécimens plus âgés ou sec, à marge lobée
   bibliographies: 
   biotopes: pousse sur bois de feuillus (<i>Fagus</i>) écorces et bois mort et vivant, branches et troncs tombés ou debout
-  boucles: 
+  boucles: en forme d'anneaux, ou de bagues, observées dans l'hyménium
   brachybasidioles: 
   calicule: 
   capillitium: 

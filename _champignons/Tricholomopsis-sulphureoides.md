@@ -154,7 +154,7 @@ description:
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
   hyphes-glebales: 
-  hyphes-gleopleres: 
+  hyphes-gleopleres: nombreuses, observées dans le médiostrate
   hyphes-hymeniales: 
   hyphes-ligatives: 
   hyphes-oleiferes: 

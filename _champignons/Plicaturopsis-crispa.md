@@ -90,7 +90,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Au sujet des boucles de <i>Plicaturopsis</i>, il faut lire l'excellent chapitre <i>Clamp Connections and Pseudoclamps</i> de Heinz Clémençon, dont le titre complet figure dans Publications. »
+    De Claude Kaufholtz-Couture. « Au sujet des boucles de <i>Plicaturopsis</i>, il faut lire le chapitre <i>Clamp Connections and Pseudoclamps</i> de Heinz Clémençon, dont le titre complet figure dans Publications. »
     De Claude Kaufholtz-Couture. « <i>Tricholomopsis sulphureoides</i> partage aussi ce genre de boucles. »
   conidies: 
   conidiome: 

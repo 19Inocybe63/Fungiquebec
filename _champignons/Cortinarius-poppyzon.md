@@ -19,8 +19,8 @@ collections:
     date: 24 septembre 2016
     planche:
       numero: cKc0569-0159
-      miniature: https://c1.staticflickr.com/3/2926/32302962514_992785be8e_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/32302962514/in/dateposted/
+      miniature: https://c1.staticflickr.com/3/2926/32302962514_1a4d22d6c5_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/32302962514/in/photolist-Rdv8ky-LCbcUN-MpxjQN
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)

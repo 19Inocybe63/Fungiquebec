@@ -24,7 +24,7 @@ baseurl: "" #important: start with /
 url: "https://www.fungiquebec.ca"
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Ce site liste l'étude mycologique et microscopique de Claude Kaufholtz-Couture."
+about: "Ce site liste l'étude morphologique et micrographique des champignons du Québec par Claude Kaufholtz-Couture."
 email: kaufholtzcoutureclaude@gmail.com
 
 # Build settings

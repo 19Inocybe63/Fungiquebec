@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2017-04-22 00:00:00
+date: 2017-05-18 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
@@ -257,7 +257,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi
+  sporee: ocrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; D-E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

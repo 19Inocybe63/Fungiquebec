@@ -73,7 +73,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 21-36 mm Ø, campanulé à campanulé-étalé, fibrilleux, ± hygrophane, beige à ocre pâle, avec centre brun foncé rougeâtre
+  chapeau: 21-36 mm Ø, campanulé à campanulé-étalé, fibrilleux, ± hygrophane, beige à ocre pâle, brun terre de sienne avec centre brun foncé rougeâtre
   cheilochrysocystides:
   cheilocystides: non observées
   cheiloleptocystides: 

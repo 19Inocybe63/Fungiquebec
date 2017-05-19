@@ -384,6 +384,8 @@ champs-description:
     label: Hyphes glébales
   - name: hyphes-gleopleres
     label: Hyphes gléoplères
+  - name: hyphes-gloeopleres
+    label: Hyphes gloéoplères
   - name: hyphes-hymeniales
     label: Hyphes hyméniales
   - name: hyphes-ligatives

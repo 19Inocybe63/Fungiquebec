@@ -48,7 +48,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, en palissade, tétrasporiques aux stérigmates 2,4-3,7 µm de longueur, non bouclées à la base, 14,4 - 20 × 3,7 - 4,3 µm en moyenne
   basidiospores: |
-    courtement elliptiques à subovoïdales en vue frontale, elliptiques-ovoïdales vues de profil, finement verruqueuses (criblées), à paroi mince, appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes, partiellement cyanophiles à cyanophiles
+    courtement elliptiques à ovoïdales en vue frontale, elliptiques-ovoïdales vues de profil, finement verruqueuses (criblées), à paroi mince, appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes, partiellement cyanophiles à cyanophiles
     (3,7) 4 - 4,6 (5) × 2,5 - 2,9 (3) µm
     Q = (1,4) 1,5 - 1,7 (1,9) ; N = 30
     Me = 4,3 × 2,7 µm ; Qe = 1,6

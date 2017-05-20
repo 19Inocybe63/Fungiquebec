@@ -280,7 +280,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: membraneux, laissant un anneau supère ou apical sur le pied, pendant, ample, épais, fragile, persistant, double, en roue dentée, lisse au-dessus, typiquement avec plaques cotonneuses blanches, puis teintées de jaunâtre, d'orangé ou de chamois, qui se brise en étoile ou en roue de bateau au-dessous, formé d'hyphes septées non bouclées, cylindriques caténulées, avec hyphes terminales claviformes à parfois largement claviformes (11,6) 13-40 (67,8) × (1,9) 2,4-4,1 (4,7) µm en moyenne.
+  voile-partiel: membraneux, laissant un anneau supère ou apical sur le pied, pendant, ample, épais, fragile, persistant, double, en roue dentée, lisse au-dessus, typiquement avec plaques cotonneuses blanches, puis teintées de jaunâtre, d'orangé ou de chamois, qui se brise en étoile ou en roue de bateau au-dessous, formé d'hyphes septées non bouclées, cylindriques caténulées, avec hyphes terminales claviformes à parfois largement claviformes (11,6) 13-40 (67,8) × (1,9) 2,4-4,1 (4,7) µm en moyenne
   volve: 
   zone-perihymeniale: 
 ---

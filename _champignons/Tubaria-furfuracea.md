@@ -1,6 +1,6 @@
 ---
 nom: Tubaria furfuracea
-date: 2017-05-12 00:00:00
+date: 2017-05-20 00:00:00
 image: https://c2.staticflickr.com/8/7368/8754529825_a47c6aa765_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8754529825/in/photolist-ekH1EC-ekBfHp-ekH1uQ-dhDPo1-dhDNwX/
 album-flickr:
@@ -38,7 +38,7 @@ collections:
   - fongarium: cKc0601
     date: 12 mai 2017
     planche:
-      numero: 
+      numero: cKc0601-0169
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O

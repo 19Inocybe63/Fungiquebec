@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius aff. poppyzon
-date: 2017-05-19 00:00:00
+date: 2017-05-21 00:00:00
 image: https://c2.staticflickr.com/6/5619/29289082834_c2f7203165_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29289082834/in/photolist-Rdv8ky-LCbcUN-MpxjQN
 album-flickr:
@@ -23,7 +23,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/32302962514/in/photolist-Rdv8ky-LCbcUN-MpxjQN
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
+    determinee: Claude Kaufholtz-Couture
     confirmee: 
 
 description:
@@ -48,7 +48,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à utriformes, tétrasporiques jusqu'à 4,5 µm de longueur, bouclées à la base, à contenu granuleux, (22,9) 25,8 - 30,7 (31,9) × (6,7) 7,2 - 8,4 (9,1) µm
   basidiospores: |
-    ovoïdes vue frontale, elliptiques à largement elliptiques vues de profil, modérément verruqueuses avec proéminences jusqu’à 5 µm de hauteur, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilaire, à contenu uniguttulé, brun rougeâtre pâle dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
+    ovoïdes vue frontale, elliptiques à largement elliptiques vues de profil, finement à modérément verruqueuses avec proéminences jusqu’à 5 µm de hauteur, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilaire, à contenu uniguttulé, brun rougeâtre pâle dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
     (6,1) 6,4 - 7,5 (8) × (4,6) 4,7 - 5,3 (5,5) µm
     Q = (1,3) 1,32 - 1,5 (1,6) ; N = 30
     Me = 7 × 5 µm ; Qe = 1,4

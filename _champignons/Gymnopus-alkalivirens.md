@@ -1,41 +1,40 @@
 ---
+title: Gymnopus Alkalivirens
+date: 2017-03-24 00:00:00 Z
 nom: Gymnopus alkalivirens
-date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/1/483/19122325155_2232868ca2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19122325155/in/photolist-v8LV4i-uRjJmt
 album-flickr:
-  - 72157673024168473
-
+- 72157673024168473
 details:
   nom-francais: Collybie pourprée ou Collybie obscure
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Gymnopus
-  espece: <i>Gymnopus alkalivirens</i> (Singer) Halling
-  litterature: Antonín, V., Halling, R.E., Noordeloos, M.E. 1997. Generic concepts within the groups Marasmius and Collybia sensu lato. Mycotaxon. 63:359-368
-
+  espece: "<i>Gymnopus alkalivirens</i> (Singer) Halling"
+  litterature: Antonín, V., Halling, R.E., Noordeloos, M.E. 1997. Generic concepts
+    within the groups Marasmius and Collybia sensu lato. Mycotaxon. 63:359-368
 collections:
-  - fongarium: cKc0059
-    date: 1 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°51'19.0"N 71°06'38.2"O
-    elevation: 60 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0324
-    date: 24 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0059
+  date: 1 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°51'19.0"N 71°06'38.2"O
+  elevation: 60 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0324
+  date: 24 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -78,8 +77,11 @@ description:
   cellules-stromatiques: 
   chair: mince, très mince à la marge piléique, blanchâtre lavé de roux
   chancre: 
-  chapeau: 10-45 mm, convexe, devenant largement convexe à presque plat, avec une bosse centrale, parfois légèrement largement umboné, hygrophane, graisseux, glabre, parfois quelque peu ridée, brun foncé à brun foncé violacé, développant une marge pâle et finissant par se faner
-  cheilochrysocystides:
+  chapeau: 10-45 mm, convexe, devenant largement convexe à presque plat, avec une
+    bosse centrale, parfois légèrement largement umboné, hygrophane, graisseux, glabre,
+    parfois quelque peu ridée, brun foncé à brun foncé violacé, développant une marge
+    pâle et finissant par se faner
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -214,7 +216,8 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-80 mm x 4-5 mm Ø, cylindriques, plus ou moins égales, avec parfois une base légèrement gonflée et parfois subradicant, sec, glabre, concolore au chapeau
+  pied: 30-80 mm x 4-5 mm Ø, cylindriques, plus ou moins égales, avec parfois une
+    base légèrement gonflée et parfois subradicant, sec, glabre, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -242,8 +245,9 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = devient vert sur toutes les surfaces
+  reactions-macrochimiques: 'Potasse (KOH 10%) = devient vert sur toutes les surfaces
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -263,8 +267,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Collybia alkalivirens</i> Singer, Sydowia 2 (1-6):27 (1948)
+  synonymie: "<i>Collybia alkalivirens</i> Singer, Sydowia 2 (1-6):27 (1948)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -280,3 +283,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

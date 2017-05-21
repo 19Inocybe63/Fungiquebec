@@ -1,31 +1,31 @@
 ---
+title: Retiboletus Griseus
+date: 2017-03-25 00:00:00 Z
 nom: Retiboletus griseus
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5721/20336173364_c4bc44ddd0_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20336173364/in/photolist-xW48aP-wZ3cQG
 album-flickr:
-  - 72157675987358775
-
+- 72157675987358775
 details:
   nom-francais: Bolet gris
   ordre: Boletales
   famille: Boletaceae
   genre: Retiboletus
-  espece: <i>Retiboletus griseus</i> (Frost) Manfr. Binder & Bresinsky
-  litterature: Binder, M.; Bresinsky, A. 2002. Retiboletus, a new genus for a species-complex in the Boletaceae producing retipolides. Feddes Repertorium Specierum Novarum Regni Vegetabilis. 113(1-2):30-40
-
+  espece: "<i>Retiboletus griseus</i> (Frost) Manfr. Binder & Bresinsky"
+  litterature: Binder, M.; Bresinsky, A. 2002. Retiboletus, a new genus for a species-complex
+    in the Boletaceae producing retipolides. Feddes Repertorium Specierum Novarum
+    Regni Vegetabilis. 113(1-2):30-40
 collections:
-  - fongarium: cKc0439
-    date: 28 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0439
+  date: 28 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -66,9 +66,14 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanche, immuable, parfois avec de légères colorations rosâtres lorsque coupée, devenant jaune dans le pied à maturité, jaune gris dans la base, très souvent parsemée de tunnels de larves
+  chair: blanche, immuable, parfois avec de légères colorations rosâtres lorsque coupée,
+    devenant jaune dans le pied à maturité, jaune gris dans la base, très souvent
+    parsemée de tunnels de larves
   chancre: 
-  chapeau: 20-90 mm Ø, convexe, à largement convexe, à presque étalé, sec, finement velouté au début, devenant glabre à maturité, brun grisâtre foncé au début, devient terne brun grisâtre à gris à maturité, striées de fibrilles apprimées plus foncées, à marge unie
+  chapeau: 20-90 mm Ø, convexe, à largement convexe, à presque étalé, sec, finement
+    velouté au début, devenant glabre à maturité, brun grisâtre foncé au début, devient
+    terne brun grisâtre à gris à maturité, striées de fibrilles apprimées plus foncées,
+    à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -130,7 +135,9 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: blanchâtre au début, devenant brunâtre à grisâtre, rares contusions légèrement brunes, 3-4 pores circulaires par mm, formé de tubes ayant ± 10 mm de profondeur
+  face-poroïde: blanchâtre au début, devenant brunâtre à grisâtre, rares contusions
+    légèrement brunes, 3-4 pores circulaires par mm, formé de tubes ayant ± 10 mm
+    de profondeur
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -201,7 +208,10 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-90 mm x 10-30 mm Ø, cylindrique ± égale, blanchâtre, devenant jaune gris à jaune orangé de la base vers le haut, réticulé en évidence sur toute la longueur, avec un gros réticulum blanc qui devient jaunâtre, puis brunâtre ou noirâtre à maturité ou lorsqu'il est manipulé, ferme, à la base parfois radicante
+  pied: 30-90 mm x 10-30 mm Ø, cylindrique ± égale, blanchâtre, devenant jaune gris
+    à jaune orangé de la base vers le haut, réticulé en évidence sur toute la longueur,
+    avec un gros réticulum blanc qui devient jaunâtre, puis brunâtre ou noirâtre à
+    maturité ou lorsqu'il est manipulé, ferme, à la base parfois radicante
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -263,7 +273,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 0,8-2 cm de longueur
+  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 0,8-2 cm
+    de longueur
   type: 
   typique: 
   voile: 
@@ -272,3 +283,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

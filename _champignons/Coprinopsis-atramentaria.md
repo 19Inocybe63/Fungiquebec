@@ -1,31 +1,31 @@
 ---
+title: Coprinopsis Atramentaria
+date: 2017-03-18 00:00:00 Z
 nom: Coprinopsis atramentaria
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/8/7323/10088573684_37c385249e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088573684/in/photolist-sTRAxX-gnuBKj-gnuztA
 album-flickr:
-  - 72157677114154496
-
+- 72157677114154496
 details:
   nom-francais: Coprin noir d'encre
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinopsis
-  espece: <i>Coprinopsis atramentaria</i> (Bull.) Redhead, Vilgalys & Moncalvo
-  litterature: Redhead, S. A., Vilgalys, R., Moncalvo, J. M., Johnson, J., Hopple, J. S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-
+  espece: "<i>Coprinopsis atramentaria</i> (Bull.) Redhead, Vilgalys & Moncalvo"
+  litterature: Redhead, S. A., Vilgalys, R., Moncalvo, J. M., Johnson, J., Hopple,
+    J. S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu
+    lato. Taxon. 50(1):203-241
 collections:
-  - fongarium: cKc0143
-    date: 4 octobre 2013
-    planche:
-      numero: cKc0143-0085
-      miniature: https://c2.staticflickr.com/8/7666/17652093981_fee5f4fca3_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/17652093981/in/dateposted-public/
-    geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0143
+  date: 4 octobre 2013
+  planche:
+    numero: cKc0143-0085
+    miniature: https://c2.staticflickr.com/8/7666/17652093981_fee5f4fca3_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/17652093981/in/dateposted-public/
+  geolocalisation: 46°46'21.6"N 71°10'29.3"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +46,10 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: trimorphiques, courtement piriformes à clavées 14,6 [15,5; 16,8] 17,7 x 7,1 [8; 9,2] 10,1 µm en moyenne, longuement piriformes à clavées 17,7 [20,6; 25,3] 28,3 x 8,1 [8,3; 8,6] 8,8 µm en moyenne, utriformes 21 [24,4; 29,8] 33,1 x 7,5 [7,9; 8,5] 8,9 µm en moyenne, tétrasporiques, non bouclées à la base
+  basides: trimorphiques, courtement piriformes à clavées 14,6 [15,5; 16,8] 17,7 x
+    7,1 [8; 9,2] 10,1 µm en moyenne, longuement piriformes à clavées 17,7 [20,6; 25,3]
+    28,3 x 8,1 [8,3; 8,6] 8,8 µm en moyenne, utriformes 21 [24,4; 29,8] 33,1 x 7,5
+    [7,9; 8,5] 8,9 µm en moyenne, tétrasporiques, non bouclées à la base
   basidiospores: |
     elliptiques à subovoïdes en vue frontale, elliptiques à presque largement elliptiques vues de profil, lisses, à paroi mince, avec petit appendice hilaire et pore germinatif centré 1,0-2,0 µm Ø, à contenu uniguttulé à variable, brunes à brun brique dans le NaCl iso 0,9%, gris pourpre dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     6,5 [7,5; 7,9] 8,8 x 4,4 [4,8; 5] 5,5 µm
@@ -55,7 +58,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse prés ou sur bois pourri des forêts ou des milieux herbeux, pelouses, jardins, etc., parfois apparaissant terrestre
+  biotopes: pousse prés ou sur bois pourri des forêts ou des milieux herbeux, pelouses,
+    jardins, etc., parfois apparaissant terrestre
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -72,8 +76,11 @@ description:
   cellules-stromatiques: 
   chair: mince et membraneuse dans le chapeau, blanc grisâtre
   chancre: 
-  chapeau: 40-80 x 30-60 mm Ø, lorsque fermé, 30-100 mm Ø, après expansion, subglobuleux, ellipsoïde à ovoïde puis campanulé, largement conique à convexe, squamuleux au centre à sublisse, gris-brun au début, puis gris, à marge striée à irrégulièrement plissée, se fendant et se déchirant souvent avec l'âge
-  cheilochrysocystides:
+  chapeau: 40-80 x 30-60 mm Ø, lorsque fermé, 30-100 mm Ø, après expansion, subglobuleux,
+    ellipsoïde à ovoïde puis campanulé, largement conique à convexe, squamuleux au
+    centre à sublisse, gris-brun au début, puis gris, à marge striée à irrégulièrement
+    plissée, se fendant et se déchirant souvent avec l'âge
+  cheilochrysocystides: 
   cheilocystides: fusiformes à subcylindriques, 57-200 x 35-50 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -122,7 +129,9 @@ description:
   elements-setoides: 
   elements-steriles: 
   elements-sur-les-cotes: 
-  elements-velaires: formés de cellules hyphoïdes, ramifiées et légèrement partiellement diverticulées, 50-100 x 2-10 µm, ceux de la base du pied avec hyphes à septa isolément bouclées, incrustées de brunâtre, 3-8 µm Ø
+  elements-velaires: formés de cellules hyphoïdes, ramifiées et légèrement partiellement
+    diverticulées, 50-100 x 2-10 µm, ceux de la base du pied avec hyphes à septa isolément
+    bouclées, incrustées de brunâtre, 3-8 µm Ø
   endoperidium: 
   especes-identification: 
   especes-semblables: 
@@ -175,7 +184,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, larges, très serrées, blanches puis grises à brun grisâtre, noires à la fin, rapidement déliquescentes
+  lames: libres, larges, très serrées, blanches puis grises à brun grisâtre, noires
+    à la fin, rapidement déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +218,8 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 70-150 x 8-20 mm Ø, égal ou élargi vers la base, soyeux-fibrilleux, blanchâtre, souvent avec une petite zone annuliforme marginée sur la partie inférieure
+  pied: 70-150 x 8-20 mm Ø, égal ou élargi vers la base, soyeux-fibrilleux, blanchâtre,
+    souvent avec une petite zone annuliforme marginée sur la partie inférieure
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis formé d'hyphes apprimées parallèles 4-20 µm Ø
@@ -234,8 +245,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+  publications: "<b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>.
+    <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of
+    agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005,
+    236 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -276,7 +289,10 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, évanescent ou laissant un anneau (ou zone annuliforme déchirée) médian ou basal sur le pied, formé d'éléments tubulaires plus larges de 10 µm
+  voile-partiel: fibrilleux, évanescent ou laissant un anneau (ou zone annuliforme
+    déchirée) médian ou basal sur le pied, formé d'éléments tubulaires plus larges
+    de 10 µm
   volve: 
   zone-perihymeniale: 
 ---
+

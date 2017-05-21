@@ -1,31 +1,29 @@
 ---
+title: Lactifluus Hygrophoroides
+date: 2017-03-25 00:00:00 Z
 nom: Lactifluus hygrophoroides
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3707/9368669824_b30939639b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9368669824/in/photolist-fgST95-fgSS7N
 album-flickr:
-  - 72157677404447085
-
+- 72157677404447085
 details:
   nom-francais: Lactaire hygrophore
   ordre: Agaricales
   famille: Russulaceae
   genre: Lactifluus
-  espece: <i>Lactifluus hygrophoroides</i> (Berk. & M.A. Curtis) Kuntze
+  espece: "<i>Lactifluus hygrophoroides</i> (Berk. & M.A. Curtis) Kuntze"
   litterature: Kuntze, O. 1898. Revisio generum plantarum. 3:1-576
-
 collections:
-  - fongarium: cKc0091
-    date: 25 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°18'05.3"N 73°05'41.8"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0091
+  date: 25 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°18'05.3"N 73°05'41.8"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +66,11 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, finement velouté, sec, dont la marge est légèrement incurvée au début ; souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
-  cheilochrysocystides:
+  chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en
+    forme de vase, finement velouté, sec, dont la marge est légèrement incurvée au
+    début ; souvent légèrement rugueux, uniformément coloré orange opaque à cannelle
+    orangé
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -171,12 +172,15 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, espacées à très espacées lorsque mature, larges, épaisses, non fourchues, interveinées, avec lamellules, blanchâtre devenant crème ou jaunâtre pâle, immuables au froissement, parfois avec un stade lavande
+  lames: adnées à subdécurrentes, espacées à très espacées lorsque mature, larges,
+    épaisses, non fourchues, interveinées, avec lamellules, blanchâtre devenant crème
+    ou jaunâtre pâle, immuables au froissement, parfois avec un stade lavande
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: abondant, blanc, immuable ou devenant lentement jaunâtre, tachant parfois les tissus de brun violacé
+  latex: abondant, blanc, immuable ou devenant lentement jaunâtre, tachant parfois
+    les tissus de brun violacé
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
@@ -204,7 +208,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-50 x 5-15 mm Ø, cylindrique, subégal, plein ou farci, sec, lisse à pruineux, concolore au chapeau ou plus pâle
+  pied: 30-50 x 5-15 mm Ø, cylindrique, subégal, plein ou farci, sec, lisse à pruineux,
+    concolore au chapeau ou plus pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -235,8 +240,9 @@ description:
     <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
     <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = olive pâle sur le chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = olive pâle sur le chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -256,8 +262,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Lactarius hygrophoroides</i> Berk. & M.A. Curtis, Annals and Magazine of Natural History 4:293 (1859)
+  synonymie: "<i>Lactarius hygrophoroides</i> Berk. & M.A. Curtis, Annals and Magazine
+    of Natural History 4:293 (1859)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -273,3 +279,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,7 +1,39 @@
-### GENERAL SETTINGS ###
-
-# Site settings
+---
 title: Fungiquebec
+timezone: UTC
+collections:
+  champignons:
+    title: Champignons
+    output: true
+  cles:
+    title: Cles
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author: Claude Kaufholtz-Couture
+    comments: true
+- scope:
+    path: _champignons
+  values:
+    layout: champignon
+    author: Claude Kaufholtz-Couture
+    comments: true
+- scope:
+    path: _cles
+  values:
+    layout: cle
+    author: Claude Kaufholtz-Couture
+    comments: true
 description: |
   Puisque tout projet naît d’un besoin, Fungiquebec n’échappe pas à cette règle et s’inscrit dans la démarche de l’entraide mycologique. Cette attitude est simple, mais primordiale pour le développement de la mycologie québécoise et favorise le partage des connaissances et le travail d’équipe dans la conception de travaux communs.
 
@@ -10,7 +42,7 @@ description: |
   Le volet Publications sera tout aussi important puisque nos études, nos travaux, ainsi que le résultat de certaines de nos recherches se retrouveront dans cette section. Aussi, pour la réalisation des planches micrographiques, je travaille essentiellement avec un microscope optique Primo star LED (Full-Köhler) de Zeiss. Les photos sont prises avec une caméra 9MP via ScopeImage 9, et les planches sont dressées avec PhotoShop (CC2017). La mesure des éléments est prise avec le logiciel de métrologie « Piximètre » réalisé par Alain Henriot.
 
   Les descriptions macroscopiques sont habituellement réalisées à partir de nos observations, ou bien de monographies. Les descriptions microscopiques sont essentiellement issues de mes observations. Tous les documents de référence sont mentionnés dans la rubrique « Publications » ou dans « Articles ».
-  
+
   De plus, il me paraît important de remercier le mycologue Yves Lamoureux de m’avoir soutenu et donné de nombreux conseils dans ma formation de mycologue amateur. Ce fut l’occasion d’acquérir de nouvelles connaissances et compétences. Celles-ci me seront fort précieuses pour la réalisation de mes projets à venir.
 
   ATTENTION: Il est très important de noter que le site Fungiquebec contient des informations générales sur la comestibilité, ou la toxicité des champignons. Alors, dans le doute, même minime, abstenez-vous de les consommer. Nous tenons surtout à informer les gens de façon globale sur le type de syndrome et les symptômes entourant la consommation des champignons sauvages. Si vous avez des doutes ou des questions sur les intoxications causées par les champignons, nous vous suggérons d'appeler le Centre antipoison du Québec au 1-800-463-5060.
@@ -18,646 +50,595 @@ description: |
   En conclusion, les données mycologiques mises à disposition sur le site Fungiquebec reflètent l'état d'avancement des connaissances dans le domaine et de nos travaux. En aucun cas elles ne sauraient être considérées comme exhaustives.
 
   « La science, qui n’est qu’une suite d’erreurs rectifiées, se résume à savoir ce qu’on sait même si demain il faudra le savoir autrement. » (Georges Becker, mycologue français, 1905-1994).
-analytics: UA-86495088-1 #Google analytics code in the format XX-nnnnnnnn-n
-disqus: fungiquebec # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-baseurl: "" #important: start with /
-url: "https://www.fungiquebec.ca"
-
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Ce site liste l'étude morphologique et micrographique des champignons du Québec par Claude Kaufholtz-Couture."
+analytics: UA-86495088-1
+disqus: fungiquebec
+baseurl: ''
+url: https://www.fungiquebec.ca
+about: Ce site liste l'étude morphologique et micrographique des champignons du Québec
+  par Claude Kaufholtz-Couture.
 email: kaufholtzcoutureclaude@gmail.com
-
-# Build settings
 markdown: kramdown
-permalink: /publications/:title
-excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+permalink: "/publications/:title"
+excerpt_separator: "<!--more-->"
 exclude:
-  - modele champignon.md
-
-# Default YAML values (more information on Jekyll's site)
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: Claude Kaufholtz-Couture
-      comments: true
-  -
-    scope:
-      path: "_champignons"
-    values:
-      layout: "champignon"
-      author: Claude Kaufholtz-Couture
-      comments: true
-  -
-    scope:
-      path: "_cles"
-    values:
-      layout: "cle"
-      author: Claude Kaufholtz-Couture
-      comments: true
-
-colors:  #in hex code if not noted else
-  primary: "#90805E" # brun pâle 2e entête
-  primary_rgb: "144,128,94" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#531E12" # rouge vin
-  link: "#90805E" # brun pâle 2e entête
-  link_hover: "#531E12" # rouge vin
-  footer_heading: "#ffffff" # blanc
-  footer_content: "#ffffff" # blanc
-
-### CONTACT SETTINGS ###
-
-# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+- modele champignon.md
+colors:
+  primary: "#90805E"
+  primary_rgb: '144,128,94'
+  secondary: "#531E12"
+  link: "#90805E"
+  link_hover: "#531E12"
+  footer_heading: "#ffffff"
+  footer_content: "#ffffff"
 social:
+- title: flickr
+  url: https://www.flickr.com/photos/kaufholtz/
+members:
+- name: Claude Kaufholtz-Couture
+  position: Mycologue amateur et microscopiste des champignons
+  text: |
+    Je m’appelle Claude Kaufholtz-Couture, je suis originaire de Québec où j’ai fait mes études au Conservatoire de musique de Québec et à l’Université Laval en classe de composition (M. Mus) de François Morel. Parallèlement à la musique, j’ai toujours eu une passion pour la recherche ; je me définis donc comme un chercheur. En 1998, j'entreprends des recherches sur l’histoire et la généalogie de la culture allemande et scandinave au Québec. Avec mon collègue Claude Crégheur, nous avons eu la chance de publier le résultat de nos recherches chez Septentrion en 2013: Dictionnaire des souches allemandes et scandinaves au Québec. En réalisant ce projet, je me suis pleinement découvert comme chercheur.
+
+    En 2012, une rencontre circonstancielle m’oriente vers la mycologie ; domaine que j’avais dû abandonner dans ma jeunesse. Ce rêve à demi enfoui a refait surface avec toutes ses possibilités. Alors, puisque la pomme ne tombe jamais bien loin de l’arbre, j’ai sauté sur cette nouvelle occasion de m’instruire, car je savais que cette expérience me permettrait de développer mes compétences de chercheur. Bien qu’autodidacte, je me suis entouré de quelques personnes compétentes pour m’instruire. Avec mon professeur Marcel Lecomte, mycologue et microscopiste belge, j’ai aussi développé tout le volet de la microscopie des champignons. Puisque c’est en forgeant que l’on devient forgeron, j’ai donc appliqué ce proverbe dans mon approche ; je demeure un mycologue amateur et un microscopiste des champignons émerveillé et passionné. J’espère que par ce site, je vous transmettrai un peu cette passion des champignons du Québec.
+
+    Membre de la North American Mycological association (NAMA).
+  img: https://c3.staticflickr.com/3/2936/buddyicons/123795580@N04_r.jpg%3F1398249315%23123795580@N04
+  social:
+  - title: envelope
+    url: mailto:kaufholtzcoutureclaude@gmail.com
   - title: flickr
     url: https://www.flickr.com/photos/kaufholtz/
-
-### GENERAL DATA FOR VARIOUS LOCATIONS ###
-
-collections:
-  champignons:
-    output: true
-  cles:
-    output: true
-
-# Author information. Shown on About page.
-members:
-  - name: Claude Kaufholtz-Couture
-    position: Mycologue amateur et microscopiste des champignons
-    text: |
-      Je m’appelle Claude Kaufholtz-Couture, je suis originaire de Québec où j’ai fait mes études au Conservatoire de musique de Québec et à l’Université Laval en classe de composition (M. Mus) de François Morel. Parallèlement à la musique, j’ai toujours eu une passion pour la recherche ; je me définis donc comme un chercheur. En 1998, j'entreprends des recherches sur l’histoire et la généalogie de la culture allemande et scandinave au Québec. Avec mon collègue Claude Crégheur, nous avons eu la chance de publier le résultat de nos recherches chez Septentrion en 2013: Dictionnaire des souches allemandes et scandinaves au Québec. En réalisant ce projet, je me suis pleinement découvert comme chercheur.
-
-      En 2012, une rencontre circonstancielle m’oriente vers la mycologie ; domaine que j’avais dû abandonner dans ma jeunesse. Ce rêve à demi enfoui a refait surface avec toutes ses possibilités. Alors, puisque la pomme ne tombe jamais bien loin de l’arbre, j’ai sauté sur cette nouvelle occasion de m’instruire, car je savais que cette expérience me permettrait de développer mes compétences de chercheur. Bien qu’autodidacte, je me suis entouré de quelques personnes compétentes pour m’instruire. Avec mon professeur Marcel Lecomte, mycologue et microscopiste belge, j’ai aussi développé tout le volet de la microscopie des champignons. Puisque c’est en forgeant que l’on devient forgeron, j’ai donc appliqué ce proverbe dans mon approche ; je demeure un mycologue amateur et un microscopiste des champignons émerveillé et passionné. J’espère que par ce site, je vous transmettrai un peu cette passion des champignons du Québec.
-
-      Membre de la North American Mycological association (NAMA).
-    img: https://c3.staticflickr.com/3/2936/buddyicons/123795580@N04_r.jpg%3F1398249315%23123795580@N04
-    social:
-      - title: envelope #use for email address
-        url: mailto:kaufholtzcoutureclaude@gmail.com
-      - title: flickr
-        url: https://www.flickr.com/photos/kaufholtz/
-
-#*****************************************************************************
-# IMPORTANT: Aucun accent, espace, caractère spéciaux ni majuscule dans les
-#            valeurs des attributs "name" des sections champs-details et
-#            champs-description.
-#*****************************************************************************
 champs-details:
-  - name: ordre
-    label: Ordre
-    search: facet
-    format: italique
-  - name: famille
-    label: Famille
-    search: facet
-    format: italique
-  - name: genre
-    label: Genre
-    search: facet
-    format: italique
-  - name: espece
-    label: Espèce
-  - name: litterature
-    label: Littérature
-
+- name: ordre
+  label: Ordre
+  search: facet
+  format: italique
+- name: famille
+  label: Famille
+  search: facet
+  format: italique
+- name: genre
+  label: Genre
+  search: facet
+  format: italique
+- name: espece
+  label: Espèce
+- name: litterature
+  label: Littérature
 champs-collections:
-  - name: fongarium
-    label: Fongarium
-  - name: date
-    label: Date de cueillette
+- name: fongarium
+  label: Fongarium
+- name: date
+  label: Date de cueillette
+  search: exclure
+- name: planche
+  label: Planche micrographique
+  format: planche
+  champs:
+  - name: numero
+    label: Numéro
+  - name: miniature
     search: exclure
-  - name: planche
-    label: Planche micrographique
-    format: planche
-    champs:
-      - name: numero
-        label: Numéro
-      - name: miniature
-        search: exclure
-      - name: originale
-        search: exclure
-  - name: geolocalisation
-    label: Géolocalisation
-    format: geo
+  - name: originale
     search: exclure
-  - name: elevation
-    label: Élévation
-    search: exclure
-  - name: determinee
-    label: Déterminée
-  - name: confirmee
-    label: Confirmée
-
+- name: geolocalisation
+  label: Géolocalisation
+  format: geo
+  search: exclure
+- name: elevation
+  label: Élévation
+  search: exclure
+- name: determinee
+  label: Déterminée
+- name: confirmee
+  label: Confirmée
 champs-description:
-  - name: apothecie
-    label: Apothécie
-  - name: hymenium
-    label: Hyménium
-  - name: basidiome
-    label: Basidiome
-  - name: peridiole
-    label: Péridiole
-  - name: sac-sporifere
-    label: Sac sporifère
-  - name: consistance
-    label: Consistance
-  - name: subiculum
-    label: Subiculum
-  - name: marge
-    label: Marge
-  - name: face-externe
-    label: Face externe
-  - name: ascome
-    label: Ascome
-  - name: capitule
-    label: Capitule
-  - name: peridium
-    label: Péridium
-  - name: glebe
-    label: Glèbe
-  - name: pseudocolumelle
-    label: Pseudocolumelle
-  - name: chapeau
-    label: Chapeau
-  - name: hymenophore
-    label: Hyménophore
-  - name: aiguillons
-    label: Aiguillons
-  - name: cuticule
-    label: Cuticule
-  - name: face-poroïde
-    label: Face poroïde
-  - name: pores
-    label: Pores
-  - name: tubes
-    label: Tubes
-  - name: contexte
-    label: Contexte
-  - name: lames
-    label: Lames
-  - name: rameaux
-    label: Rameaux
-  - name: pied
-    label: Pied
-  - name: voile-general
-    label: Voile général
-  - name: voile-partiel
-    label: Voile partiel
-  - name: velipellis
-    label: Velipellis
-  - name: volve
-    label: Volve
-  - name: anneau
-    label: Anneau
-  - name: cortine
-    label: Cortine
-  - name: chair
-    label: Chair
-  - name: exhalaison
-    label: Exhalaison
-  - name: exhalaison-de-la-chair
-    label: Exhalaison de la chair
-  - name: exhalaison-des-lames
-    label: Exhalaison des lames
-  - name: saveur
-    label: Saveur
-  - name: syndrome
-    label: Syndrome
-  - name: symptomes
-    label: Symptômes
-  - name: comestibilite
-    label: Comestibilité
-  - name: sclerote
-    label: Sclérote
-  - name: cortex
-    label: Cortex
-  - name: latex
-    label: Latex
-  - name: sporee
-    label: Sporée
-  - name: systeme-hyphal
-    label: Système hyphal
-  - name: asques
-    label: Asques
-  - name: paraphyses
-    label: Paraphyses
-  - name: ascospores
-    label: Ascospores
-  - name: excipulum
-    label: Excipulum
-  - name: excipulum-medullaire-superieur
-    label: Excipulum médullaire supérieur
-  - name: excipulum-medullaire-moyen
-    label: Excipulum médullaire moyen
-  - name: excipulum-medullaire-inferieur
-    label: Excipulum médullaire inférieur
-  - name: excipulum-ectal
-    label: Excipulum ectal
-  - name: poils
-    label: Poils
-  - name: poils-basaux
-    label: Poils basaux
-  - name: poils-caulinaires
-    label: Poils caulinaires
-  - name: poils-du-cortex
-    label: Poils du cortex
-  - name: poils-externes
-    label: Poils externes
-  - name: poils-lateraux-et-caulinaires
-    label: Poils latéraux et caulinaires
-  - name: poils-marginaux
-    label: Poils marginaux
-  - name: poils-mycelien-basaux
-    label: Poils mycélien basaux
-  - name: poils-peridiaux
-    label: Poils péridiaux
-  - name: poils-peritheciaux
-    label: Poils périthéciaux
-  - name: poils-pileiques
-    label: Poils piléiques
-  - name: soies
-    label: Soies
-  - name: basides
-    label: Basides
-  - name: basidiospores
-    label: Basidiospores
-  - name: capillitium
-    label: Capillitium
-  - name: paracapillitium
-    label: Paracapillitium
-  - name: exoperidium
-    label: Exoperidium
-  - name: conidiophores
-    label: Conidiophores
-  - name: conidies
-    label: Conidies
-  - name: hymenocystides
-    label: Hyménocystides
-  - name: arete-lamellaire
-    label: Arête lamellaire
-  - name: cellules-marginales-paracystides
-    label: Cellules marginales (Paracystides)
-  - name: cheilochrysocystides
-    label: Cheilochrysocystides
-  - name: cheilocystides
-    label: Cheilocystides
-  - name: cheilocystides-intermediaires
-    label: Cheilocystides intermédiaires
-  - name: cheiloleptocystides
-    label: Cheiloleptocystides
-  - name: leptocheilocystides
-    label: Leptocheilocystides
-  - name: leptopleurocystides
-    label: Leptopleurocystides
-  - name: cheilomacrocystides
-    label: Cheilomacrocystides
-  - name: chrysocystides
-    label: Chrysocystides
-  - name: chrysopleurocystides
-    label: Chrysopleurocystides
-  - name: pleurocystides
-    label: Pleurocystides
-  - name: pleuromacrocystides
-    label: Pleuromacrocystides
-  - name: lamprocheilocystides
-    label: Lamprocheilocystides
-  - name: lampropleurocystides
-    label: Lampropleurocystides
-  - name: cristaux-apicaux
-    label: Cristaux apicaux
-  - name: macropleurocystides
-    label: Macropleurocystides
-  - name: pseudocystides
-    label: Pseudocystides
-  - name: caulobasides
-    label: Caulobasides
-  - name: caulocystides
-    label: Caulocystides
-  - name: caulocystides-medianes
-    label: Caulocystides médianes
-  - name: caulocystides-sommitales
-    label: Caulocystides sommitales
-  - name: cauloparacystides
-    label: Cauloparacystides
-  - name: dermatocystides-caulocystides-et-pileipellis
-    label: Dermatocystides (Caulocystides et Pileipellis)
-  - name: stipitipellis
-    label: Stipitipellis
-  - name: stipititrame
-    label: Stipititrame
-  - name: extremites-hyphales
-    label: Extrémités hyphales
-  - name: acanthocytes
-    label: Acanthocytes
-  - name: trame-lamellaire
-    label: Trame lamellaire
-  - name: trame-tubulaire
-    label: Trame tubulaire
-  - name: pileitrame
-    label: Pileitrame
-  - name: pileipellis
-    label: Pileipellis
-  - name: elements-velaires
-    label: Éléments vélaires
-  - name: pigments
-    label: Pigments
-  - name: hypoderme
-    label: Hypoderme
-  - name: pileocystides
-    label: Pileocystides
-  - name: cystides
-    label: Cystides
-  - name: boucles
-    label: Boucles
-  - name: hyphes
-    label: Hyphes
-  - name: hyphes-de-la-chair
-    label: Hyphes de la chair
-  - name: hyphes-de-l-anneau
-    label: Hyphes de l’anneau
-  - name: hyphes-du-pied
-    label: Hyphes du pied
-  - name: hyphes-glebales
-    label: Hyphes glébales
-  - name: hyphes-gleopleres
-    label: Hyphes gléoplères
-  - name: hyphes-gloeopleres
-    label: Hyphes gloéoplères
-  - name: hyphes-hymeniales
-    label: Hyphes hyméniales
-  - name: hyphes-ligatives
-    label: Hyphes ligatives
-  - name: hyphes-oleiferes
-    label: Hyphes oléifères
-  - name: hyphes-pectinees
-    label: Hyphes pectinées
-  - name: hyphes-primordiales
-    label: Hyphes primordiales
-  - name: hyphes-setales
-    label: Hyphes sétales
-  - name: hyphes-squelettiques
-    label: Hyphes squelettiques
-  - name: hyphes-skeletoligative
-    label: Hyphes skeletoligative
-  - name: hyphes-subiculaires
-    label: Hyphes subiculaires
-  - name: hyphes-thrombopleres
-    label: Hyphes thromboplères
-  - name: hyphes-tramales
-    label: Hyphes tramales
-  - name: hyphes-vesiculaires
-    label: Hyphes vésiculaires
-  - name: mode-de-croissance
-    label: Mode de croissance
-  - name: biotopes
-    label: Biotopes
-  - name: phenologie
-    label: Phénologie
-  - name: distribution
-    label: Distribution
-  - name: reactions-chimiques-naturelles
-    label: Réactions chimiques naturelles
-  - name: reactions-macrochimiques
-    label: Réactions macrochimiques
-    format: liste
-  - name: articles
-    label: Articles
-    format: liste
-  - name: publications
-    label: Publications
-    format: liste
-  - name: publications-microscopiques
-    label: Publications microscopiques
-    format: liste
-  - name: synonymie
-    label: Synonymie
-    format: liste
-  - name: premiere-mention
-    label: Première mention
-  - name: nouvelle-espece
-    label: Nouvelle espèce
-  - name: commentaires
-    label: Commentaires
-  - name: remarques
-    label: Remarques
-  - name: acanthophyses
-    label: Acanthophyses
-  - name: aleurioconidies
-    label: Aleurioconidies
-  - name: anamorphe
-    label: Anamorphe
-  - name: anamorphe-conidien
-    label: Anamorphe conidien
-  - name: arthroconidies
-    label: Arthroconidies
-  - name: asterohyphidies
-    label: Astérohyphidies
-  - name: base-du-pied
-    label: Base du pied
-  - name: base-sterile
-    label: Base stérile
-  - name: base-stipitiforme
-    label: Base stipitiforme
-  - name: basidioles
-    label: Basidioles
-  - name: brachybasidioles
-    label: Brachybasidioles
-  - name: calicule
-    label: Calicule
-  - name: cellules-hymeniales-diverticulees
-    label: Cellules hyméniales diverticulées
-  - name: cellules-hymeniales-en-brosses
-    label: Cellules hyméniales en brosses
-  - name: cellules-peritheciales
-    label: Cellules périthéciales
-  - name: cellules-stromatiques
-    label: Cellules stromatiques
-  - name: chancre
-    label: Chancre
-  - name: chlamydospores
-    label: Chlamydospores
-  - name: circumcystides
-    label: Circumcystides
-  - name: clavules
-    label: Clavules
-  - name: columelle
-    label: Columelle
-  - name: conidiome
-    label: Conidiome
-  - name: cordons-myceliens
-    label: Cordons mycéliens
-  - name: cordons-rhizomorphiques
-    label: Cordons rhizomorphiques
-  - name: cortex-caulinaire
-    label: Cortex caulinaire
-  - name: cortex-du-pied-et-du-bulbe
-    label: Cortex du pied et du bulbe
-  - name: cortex-peridial
-    label: Cortex péridial
-  - name: cortex-sclerotial
-    label: Cortex sclérotial
-  - name: coupe-sterile
-    label: Coupe stérile
-  - name: cristaux
-    label: Cristaux
-  - name: cristaux-d-oxalate
-    label: Cristaux d’oxalate
-  - name: cutis
-    label: Cutis
-  - name: cycle
-    label: Cycle
-  - name: cystides-hymeniales
-    label: Cystides hyméniales
-  - name: cystides-intermediaires
-    label: Cystides intermédiaires
-  - name: cystidioles
-    label: Cystidioles
-  - name: dendrohyphydies
-    label: Dendrohyphydies
-  - name: depots-de-pigment-interhyphal
-    label: Dépôts de pigment interhyphal
-  - name: derniere-correction
-    label: Dernière correction
-  - name: dicaryophyses
-    label: Dicaryophyses
-  - name: dichophyses
-    label: Dichophyses
-  - name: disque-basal
-    label: Disque basal
-  - name: elateres
-    label: Élatères
-  - name: elements-acanthophyses
-    label: Éléments acanthophyses
-  - name: elements-cystidioides
-    label: Éléments cystidioïdes
-  - name: elements-hyphoides
-    label: Éléments hyphoïdes
-  - name: elements-setoides
-    label: Éléments sétoïdes
-  - name: elements-steriles
-    label: Éléments stériles
-  - name: elements-sur-les-cotes
-    label: Éléments sur les côtés
-  - name: endoperidium
-    label: Endopéridium
-  - name: especes-identification
-    label: Espèces Identification
-  - name: especes-semblables
-    label: Espèces semblables
-  - name: feutrage-basal
-    label: Feutrage basal
-  - name: fragments-sporaux
-    label: Fragments sporaux
-  - name: gleocystides
-    label: Gléocystides
-  - name: gleocystides-hymeniales
-    label: Gléocystides hyméniales
-  - name: gleocystides-subhymeniales
-    label: Gléocystides subhyméniales
-  - name: granules-calcaires
-    label: Granules calcaires
-  - name: groupe
-    label: Groupe
-  - name: hyphidies
-    label: Hyphidies
-  - name: hyphique
-    label: Hyphique
-  - name: hypobasides
-    label: Hypobasides
-  - name: hypoge
-    label: Hypogé
-  - name: hypophylle
-    label: Hypophylle
-  - name: hypothalle
-    label: Hypothalle
-  - name: hypothece
-    label: Hypothèce
-  - name: hysterothece
-    label: Hystérothèce
-  - name: lamprocystides
-    label: Lamprocystides
-  - name: lamprocaulocystides
-    label: Lamprocaulocystides
-  - name: leptocystides
-    label: Leptocystides
-  - name: macrocystides
-    label: Macrocystides
-  - name: marge-et-face-externe
-    label: Marge et face externe
-  - name: mediostrate
-    label: Médiostrate
-  - name: medulla
-    label: Medulla
-  - name: medulla-caulinaire
-    label: Medulla caulinaire
-  - name: medulla-clavariale
-    label: Medulla clavariale
-  - name: medulla-clavulaire
-    label: Medulla clavulaire
-  - name: microconidies
-    label: Microconidies
-  - name: mycelium-basal
-    label: Mycélium basal
-  - name: myxocarpe
-    label: Myxocarpe
-  - name: note-taxonomique
-    label: Note taxonomique
-  - name: oeuf
-    label: Oeuf
-  - name: parasite
-    label: Parasite
-  - name: paroi-peritheciale
-    label: Paroi périthéciale
-  - name: peridiopellis
-    label: Péridiopellis
-  - name: peritheces
-    label: Périthèces
-  - name: phialoconidies
-    label: Phialoconidies
-  - name: pieds-steriles
-    label: Pieds stériles
-  - name: plasmode
-    label: Plasmode
-  - name: pseudocapillitium
-    label: Pseudocapillitium
-  - name: pseudo-peridioles
-    label: Pseudo péridioles
-  - name: receptacle
-    label: Réceptacle
-  - name: rhizomorphes
-    label: Rhizomorphes
-  - name: sclerocystides
-    label: Sclérocystides
-  - name: soies-hymeniales
-    label: Soies hyméniales
-  - name: spherocytes
-    label: Sphérocytes
-  - name: sporocystes
-    label: Sporocystes
-  - name: stroma
-    label: Stroma
-  - name: subhymenium
-    label: Subhyménium
-  - name: substrat
-    label: Substrat
-  - name: textura
-    label: Textura
-  - name: tomentum-caulinaire
-    label: Tomentum caulinaire
-  - name: tomentum-pileique
-    label: Tomentum piléique
-  - name: trame-hymenophorale
-    label: Trame hyménophorale
-  - name: type
-    label: Type
-  - name: typique
-    label: Typique
-  - name: vial
-    label: Vial
-  - name: voile
-    label: Voile
-  - name: zone-perihymeniale
-    label: Zone périhyméniale
+- name: apothecie
+  label: Apothécie
+- name: hymenium
+  label: Hyménium
+- name: basidiome
+  label: Basidiome
+- name: peridiole
+  label: Péridiole
+- name: sac-sporifere
+  label: Sac sporifère
+- name: consistance
+  label: Consistance
+- name: subiculum
+  label: Subiculum
+- name: marge
+  label: Marge
+- name: face-externe
+  label: Face externe
+- name: ascome
+  label: Ascome
+- name: capitule
+  label: Capitule
+- name: peridium
+  label: Péridium
+- name: glebe
+  label: Glèbe
+- name: pseudocolumelle
+  label: Pseudocolumelle
+- name: chapeau
+  label: Chapeau
+- name: hymenophore
+  label: Hyménophore
+- name: aiguillons
+  label: Aiguillons
+- name: cuticule
+  label: Cuticule
+- name: face-poroïde
+  label: Face poroïde
+- name: pores
+  label: Pores
+- name: tubes
+  label: Tubes
+- name: contexte
+  label: Contexte
+- name: lames
+  label: Lames
+- name: rameaux
+  label: Rameaux
+- name: pied
+  label: Pied
+- name: voile-general
+  label: Voile général
+- name: voile-partiel
+  label: Voile partiel
+- name: velipellis
+  label: Velipellis
+- name: volve
+  label: Volve
+- name: anneau
+  label: Anneau
+- name: cortine
+  label: Cortine
+- name: chair
+  label: Chair
+- name: exhalaison
+  label: Exhalaison
+- name: exhalaison-de-la-chair
+  label: Exhalaison de la chair
+- name: exhalaison-des-lames
+  label: Exhalaison des lames
+- name: saveur
+  label: Saveur
+- name: syndrome
+  label: Syndrome
+- name: symptomes
+  label: Symptômes
+- name: comestibilite
+  label: Comestibilité
+- name: sclerote
+  label: Sclérote
+- name: cortex
+  label: Cortex
+- name: latex
+  label: Latex
+- name: sporee
+  label: Sporée
+- name: systeme-hyphal
+  label: Système hyphal
+- name: asques
+  label: Asques
+- name: paraphyses
+  label: Paraphyses
+- name: ascospores
+  label: Ascospores
+- name: excipulum
+  label: Excipulum
+- name: excipulum-medullaire-superieur
+  label: Excipulum médullaire supérieur
+- name: excipulum-medullaire-moyen
+  label: Excipulum médullaire moyen
+- name: excipulum-medullaire-inferieur
+  label: Excipulum médullaire inférieur
+- name: excipulum-ectal
+  label: Excipulum ectal
+- name: poils
+  label: Poils
+- name: poils-basaux
+  label: Poils basaux
+- name: poils-caulinaires
+  label: Poils caulinaires
+- name: poils-du-cortex
+  label: Poils du cortex
+- name: poils-externes
+  label: Poils externes
+- name: poils-lateraux-et-caulinaires
+  label: Poils latéraux et caulinaires
+- name: poils-marginaux
+  label: Poils marginaux
+- name: poils-mycelien-basaux
+  label: Poils mycélien basaux
+- name: poils-peridiaux
+  label: Poils péridiaux
+- name: poils-peritheciaux
+  label: Poils périthéciaux
+- name: poils-pileiques
+  label: Poils piléiques
+- name: soies
+  label: Soies
+- name: basides
+  label: Basides
+- name: basidiospores
+  label: Basidiospores
+- name: capillitium
+  label: Capillitium
+- name: paracapillitium
+  label: Paracapillitium
+- name: exoperidium
+  label: Exoperidium
+- name: conidiophores
+  label: Conidiophores
+- name: conidies
+  label: Conidies
+- name: hymenocystides
+  label: Hyménocystides
+- name: arete-lamellaire
+  label: Arête lamellaire
+- name: cellules-marginales-paracystides
+  label: Cellules marginales (Paracystides)
+- name: cheilochrysocystides
+  label: Cheilochrysocystides
+- name: cheilocystides
+  label: Cheilocystides
+- name: cheilocystides-intermediaires
+  label: Cheilocystides intermédiaires
+- name: cheiloleptocystides
+  label: Cheiloleptocystides
+- name: leptocheilocystides
+  label: Leptocheilocystides
+- name: leptopleurocystides
+  label: Leptopleurocystides
+- name: cheilomacrocystides
+  label: Cheilomacrocystides
+- name: chrysocystides
+  label: Chrysocystides
+- name: chrysopleurocystides
+  label: Chrysopleurocystides
+- name: pleurocystides
+  label: Pleurocystides
+- name: pleuromacrocystides
+  label: Pleuromacrocystides
+- name: lamprocheilocystides
+  label: Lamprocheilocystides
+- name: lampropleurocystides
+  label: Lampropleurocystides
+- name: cristaux-apicaux
+  label: Cristaux apicaux
+- name: macropleurocystides
+  label: Macropleurocystides
+- name: pseudocystides
+  label: Pseudocystides
+- name: caulobasides
+  label: Caulobasides
+- name: caulocystides
+  label: Caulocystides
+- name: caulocystides-medianes
+  label: Caulocystides médianes
+- name: caulocystides-sommitales
+  label: Caulocystides sommitales
+- name: cauloparacystides
+  label: Cauloparacystides
+- name: dermatocystides-caulocystides-et-pileipellis
+  label: Dermatocystides (Caulocystides et Pileipellis)
+- name: stipitipellis
+  label: Stipitipellis
+- name: stipititrame
+  label: Stipititrame
+- name: extremites-hyphales
+  label: Extrémités hyphales
+- name: acanthocytes
+  label: Acanthocytes
+- name: trame-lamellaire
+  label: Trame lamellaire
+- name: trame-tubulaire
+  label: Trame tubulaire
+- name: pileitrame
+  label: Pileitrame
+- name: pileipellis
+  label: Pileipellis
+- name: elements-velaires
+  label: Éléments vélaires
+- name: pigments
+  label: Pigments
+- name: hypoderme
+  label: Hypoderme
+- name: pileocystides
+  label: Pileocystides
+- name: cystides
+  label: Cystides
+- name: boucles
+  label: Boucles
+- name: hyphes
+  label: Hyphes
+- name: hyphes-de-la-chair
+  label: Hyphes de la chair
+- name: hyphes-de-l-anneau
+  label: Hyphes de l’anneau
+- name: hyphes-du-pied
+  label: Hyphes du pied
+- name: hyphes-glebales
+  label: Hyphes glébales
+- name: hyphes-gleopleres
+  label: Hyphes gléoplères
+- name: hyphes-gloeopleres
+  label: Hyphes gloéoplères
+- name: hyphes-hymeniales
+  label: Hyphes hyméniales
+- name: hyphes-ligatives
+  label: Hyphes ligatives
+- name: hyphes-oleiferes
+  label: Hyphes oléifères
+- name: hyphes-pectinees
+  label: Hyphes pectinées
+- name: hyphes-primordiales
+  label: Hyphes primordiales
+- name: hyphes-setales
+  label: Hyphes sétales
+- name: hyphes-squelettiques
+  label: Hyphes squelettiques
+- name: hyphes-skeletoligative
+  label: Hyphes skeletoligative
+- name: hyphes-subiculaires
+  label: Hyphes subiculaires
+- name: hyphes-thrombopleres
+  label: Hyphes thromboplères
+- name: hyphes-tramales
+  label: Hyphes tramales
+- name: hyphes-vesiculaires
+  label: Hyphes vésiculaires
+- name: mode-de-croissance
+  label: Mode de croissance
+- name: biotopes
+  label: Biotopes
+- name: phenologie
+  label: Phénologie
+- name: distribution
+  label: Distribution
+- name: reactions-chimiques-naturelles
+  label: Réactions chimiques naturelles
+- name: reactions-macrochimiques
+  label: Réactions macrochimiques
+  format: liste
+- name: articles
+  label: Articles
+  format: liste
+- name: publications
+  label: Publications
+  format: liste
+- name: publications-microscopiques
+  label: Publications microscopiques
+  format: liste
+- name: synonymie
+  label: Synonymie
+  format: liste
+- name: premiere-mention
+  label: Première mention
+- name: nouvelle-espece
+  label: Nouvelle espèce
+- name: commentaires
+  label: Commentaires
+- name: remarques
+  label: Remarques
+- name: acanthophyses
+  label: Acanthophyses
+- name: aleurioconidies
+  label: Aleurioconidies
+- name: anamorphe
+  label: Anamorphe
+- name: anamorphe-conidien
+  label: Anamorphe conidien
+- name: arthroconidies
+  label: Arthroconidies
+- name: asterohyphidies
+  label: Astérohyphidies
+- name: base-du-pied
+  label: Base du pied
+- name: base-sterile
+  label: Base stérile
+- name: base-stipitiforme
+  label: Base stipitiforme
+- name: basidioles
+  label: Basidioles
+- name: brachybasidioles
+  label: Brachybasidioles
+- name: calicule
+  label: Calicule
+- name: cellules-hymeniales-diverticulees
+  label: Cellules hyméniales diverticulées
+- name: cellules-hymeniales-en-brosses
+  label: Cellules hyméniales en brosses
+- name: cellules-peritheciales
+  label: Cellules périthéciales
+- name: cellules-stromatiques
+  label: Cellules stromatiques
+- name: chancre
+  label: Chancre
+- name: chlamydospores
+  label: Chlamydospores
+- name: circumcystides
+  label: Circumcystides
+- name: clavules
+  label: Clavules
+- name: columelle
+  label: Columelle
+- name: conidiome
+  label: Conidiome
+- name: cordons-myceliens
+  label: Cordons mycéliens
+- name: cordons-rhizomorphiques
+  label: Cordons rhizomorphiques
+- name: cortex-caulinaire
+  label: Cortex caulinaire
+- name: cortex-du-pied-et-du-bulbe
+  label: Cortex du pied et du bulbe
+- name: cortex-peridial
+  label: Cortex péridial
+- name: cortex-sclerotial
+  label: Cortex sclérotial
+- name: coupe-sterile
+  label: Coupe stérile
+- name: cristaux
+  label: Cristaux
+- name: cristaux-d-oxalate
+  label: Cristaux d’oxalate
+- name: cutis
+  label: Cutis
+- name: cycle
+  label: Cycle
+- name: cystides-hymeniales
+  label: Cystides hyméniales
+- name: cystides-intermediaires
+  label: Cystides intermédiaires
+- name: cystidioles
+  label: Cystidioles
+- name: dendrohyphydies
+  label: Dendrohyphydies
+- name: depots-de-pigment-interhyphal
+  label: Dépôts de pigment interhyphal
+- name: derniere-correction
+  label: Dernière correction
+- name: dicaryophyses
+  label: Dicaryophyses
+- name: dichophyses
+  label: Dichophyses
+- name: disque-basal
+  label: Disque basal
+- name: elateres
+  label: Élatères
+- name: elements-acanthophyses
+  label: Éléments acanthophyses
+- name: elements-cystidioides
+  label: Éléments cystidioïdes
+- name: elements-hyphoides
+  label: Éléments hyphoïdes
+- name: elements-setoides
+  label: Éléments sétoïdes
+- name: elements-steriles
+  label: Éléments stériles
+- name: elements-sur-les-cotes
+  label: Éléments sur les côtés
+- name: endoperidium
+  label: Endopéridium
+- name: especes-identification
+  label: Espèces Identification
+- name: especes-semblables
+  label: Espèces semblables
+- name: feutrage-basal
+  label: Feutrage basal
+- name: fragments-sporaux
+  label: Fragments sporaux
+- name: gleocystides
+  label: Gléocystides
+- name: gleocystides-hymeniales
+  label: Gléocystides hyméniales
+- name: gleocystides-subhymeniales
+  label: Gléocystides subhyméniales
+- name: granules-calcaires
+  label: Granules calcaires
+- name: groupe
+  label: Groupe
+- name: hyphidies
+  label: Hyphidies
+- name: hyphique
+  label: Hyphique
+- name: hypobasides
+  label: Hypobasides
+- name: hypoge
+  label: Hypogé
+- name: hypophylle
+  label: Hypophylle
+- name: hypothalle
+  label: Hypothalle
+- name: hypothece
+  label: Hypothèce
+- name: hysterothece
+  label: Hystérothèce
+- name: lamprocystides
+  label: Lamprocystides
+- name: lamprocaulocystides
+  label: Lamprocaulocystides
+- name: leptocystides
+  label: Leptocystides
+- name: macrocystides
+  label: Macrocystides
+- name: marge-et-face-externe
+  label: Marge et face externe
+- name: mediostrate
+  label: Médiostrate
+- name: medulla
+  label: Medulla
+- name: medulla-caulinaire
+  label: Medulla caulinaire
+- name: medulla-clavariale
+  label: Medulla clavariale
+- name: medulla-clavulaire
+  label: Medulla clavulaire
+- name: microconidies
+  label: Microconidies
+- name: mycelium-basal
+  label: Mycélium basal
+- name: myxocarpe
+  label: Myxocarpe
+- name: note-taxonomique
+  label: Note taxonomique
+- name: oeuf
+  label: Oeuf
+- name: parasite
+  label: Parasite
+- name: paroi-peritheciale
+  label: Paroi périthéciale
+- name: peridiopellis
+  label: Péridiopellis
+- name: peritheces
+  label: Périthèces
+- name: phialoconidies
+  label: Phialoconidies
+- name: pieds-steriles
+  label: Pieds stériles
+- name: plasmode
+  label: Plasmode
+- name: pseudocapillitium
+  label: Pseudocapillitium
+- name: pseudo-peridioles
+  label: Pseudo péridioles
+- name: receptacle
+  label: Réceptacle
+- name: rhizomorphes
+  label: Rhizomorphes
+- name: sclerocystides
+  label: Sclérocystides
+- name: soies-hymeniales
+  label: Soies hyméniales
+- name: spherocytes
+  label: Sphérocytes
+- name: sporocystes
+  label: Sporocystes
+- name: stroma
+  label: Stroma
+- name: subhymenium
+  label: Subhyménium
+- name: substrat
+  label: Substrat
+- name: textura
+  label: Textura
+- name: tomentum-caulinaire
+  label: Tomentum caulinaire
+- name: tomentum-pileique
+  label: Tomentum piléique
+- name: trame-hymenophorale
+  label: Trame hyménophorale
+- name: type
+  label: Type
+- name: typique
+  label: Typique
+- name: vial
+  label: Vial
+- name: voile
+  label: Voile
+- name: zone-perihymeniale
+  label: Zone périhyméniale

@@ -1,61 +1,59 @@
 ---
+title: Pholiota Alnicola
+date: 2017-05-10 00:00:00 Z
 nom: Pholiota alnicola
-date: 2017-05-10 00:00:00
 image: https://c2.staticflickr.com/6/5171/29730093180_b63bc22a90_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29730093180/in/photolist-MK924p-Mi9uVs
 album-flickr:
-  - 72157679034984716
-
+- 72157679034984716
 details:
   nom-francais: Pholiote des aulnes
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: <i>Pholiota alnicola</i> (Fr.) Singer
+  espece: "<i>Pholiota alnicola</i> (Fr.) Singer"
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
-
 collections:
-  - fongarium: cKc0142
-    date: 27 septembre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0286
-    date: 3 octobre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0298
-    date: 6 octobre 2014
-    planche:
-      numero: cKc0298-0071
-      miniature: https://c2.staticflickr.com/8/7367/16534533606_985a2663a6_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16534533606/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0579
-    date: 29 septembre 2016
-    planche:
-      numero: cKc0579-0167
-      miniature: https://c1.staticflickr.com/5/4168/33769162423_01d44a9ff0_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/33769162423/in/dateposted/
-    geolocalisation: 
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0142
+  date: 27 septembre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0286
+  date: 3 octobre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0298
+  date: 6 octobre 2014
+  planche:
+    numero: cKc0298-0071
+    miniature: https://c2.staticflickr.com/8/7367/16534533606_985a2663a6_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16534533606/in/photolist-rc6NMC-pgPqsN-pyiVGV-pe4tEG-pe4bjP
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0579
+  date: 29 septembre 2016
+  planche:
+    numero: cKc0579-0167
+    miniature: https://c1.staticflickr.com/5/4168/33769162423_01d44a9ff0_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/33769162423/in/dateposted/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -76,7 +74,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, parfois utriformes, tétrasporiques, bouclées à la base, 26,8 [30,4; 34,8] 38,4 x 6,6 [7,2; 8,1] 8,8 µm en moyenne
+  basides: claviformes, parfois utriformes, tétrasporiques, bouclées à la base, 26,8
+    [30,4; 34,8] 38,4 x 6,6 [7,2; 8,1] 8,8 µm en moyenne
   basidiospores: |
     ovoïdes en vue frontale, elliptiques-oblongues à subamygdaliformes vues de profil, souvent tronquées, lisses, à paroi mince à légèrement épaissie 0,2-0,3 μm, appendice hilaire bien apparent, avec pore germinatif indistinct, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     8,4 [9,3; 9,7] 10,6 x 4,5 [4,9; 5,1] 5,5 µm
@@ -86,14 +85,16 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur souche de feuillu pourri, ou au sol sur bois enfoui <i>Betula</i>, <i>Fagus</i>, <i>Quercus</i>
+  biotopes: pousse sur souche de feuillu pourri, ou au sol sur bois enfoui <i>Betula</i>,
+    <i>Fagus</i>, <i>Quercus</i>
   boucles: observées dans la trame lamellaire et dans le stipe
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: occasionnelles, polymorphes, similaires aux leptocheilocystides, typiquement plus allongées, 7-20 x 2-3 µm en moyenne
+  caulocystides: occasionnelles, polymorphes, similaires aux leptocheilocystides,
+    typiquement plus allongées, 7-20 x 2-3 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -103,8 +104,12 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, ferme, jaunâtre
   chancre: 
-  chapeau: 20-70 mm Ø, convexe puis étalé, parfois umboné, subvisqueux, viscidule à légèrement humide, glabre, subhygrophane, jaune au début, puis jaune plus foncé à ferrugineux à maturité ou à l'humidité, parfois lavé de vert olive vers le pourtour et jaune rougeâtre au disque, jaune pâle au sec, à marge incurvée, unie, fibrilleuse-subécailleuse à appendiculée, glabrescente
-  cheilochrysocystides:
+  chapeau: 20-70 mm Ø, convexe puis étalé, parfois umboné, subvisqueux, viscidule
+    à légèrement humide, glabre, subhygrophane, jaune au début, puis jaune plus foncé
+    à ferrugineux à maturité ou à l'humidité, parfois lavé de vert olive vers le pourtour
+    et jaune rougeâtre au disque, jaune pâle au sec, à marge incurvée, unie, fibrilleuse-subécailleuse
+    à appendiculée, glabrescente
+  cheilochrysocystides: 
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -210,14 +215,17 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, larges, serrées, blanchâtres à jaune pâle puis ferrugineuses ou fauve ochracé
+  lames: adnées à adnexées, larges, serrées, blanchâtres à jaune pâle puis ferrugineuses
+    ou fauve ochracé
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
   leptocystides: 
-  leptocheilocystides: abondantes, polymorphes, cylindriques, subclavées, sublageniformes, subflexueuses, parfois avec apex déformé ; à paroi mince, vide optique, 32 [34,2; 38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
+  leptocheilocystides: abondantes, polymorphes, cylindriques, subclavées, sublageniformes,
+    subflexueuses, parfois avec apex déformé ; à paroi mince, vide optique, 32 [34,2;
+    38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
   leptopleurocystides: absentes
   macrocystides: 
   macropleurocystides: 
@@ -245,7 +253,9 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 40-120 x 4-15 mm Ø, égal à atténué vers la base, flexueux, farci puis fistuleux, fibrilleux-strié, crème vers l'apex, jaunâtre puis devenant graduellement brunâtre depuis la base
+  pied: 40-120 x 4-15 mm Ø, égal à atténué vers la base, flexueux, farci puis fistuleux,
+    fibrilleux-strié, crème vers l'apex, jaunâtre puis devenant graduellement brunâtre
+    depuis la base
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (avec mince ixocutis)
@@ -326,7 +336,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: presque membraneux, blanchâtre à jaune pâle, laissant souvent une zone annuliforme sur le pied
+  voile-partiel: presque membraneux, blanchâtre à jaune pâle, laissant souvent une
+    zone annuliforme sur le pied
   volve: 
   zone-perihymeniale: 
 ---
+

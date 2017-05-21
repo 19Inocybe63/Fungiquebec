@@ -1,31 +1,29 @@
 ---
+title: Laccaria Tortilis
+date: 2017-03-25 00:00:00 Z
 nom: Laccaria tortilis
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7242/27918087042_822955bf7f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27918087042/in/photolist-Jx2uCj
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Laccaire tortueux
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
-  espece: <i>Laccaria tortilis</i> (Bolton) Cooke
+  espece: "<i>Laccaria tortilis</i> (Bolton) Cooke"
   litterature: Cooke, M.C. 1884. New British fungi. Grevillea. 12(63):65-70
-
 collections:
-  - fongarium: cKc0503
-    date: 1 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0503
+  date: 1 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +66,10 @@ description:
   cellules-stromatiques: 
   chair: mince, presque absente, concolore au chapeau
   chancre: 
-  chapeau: 6-16 mm Ø, convexe à étalé, déprimé, parfois ondulé, strié, subglabre, hygrophane, saumon ou brunâtre à crème-rosé à orange-roux au frais, beige à chamois au sec, marge ondulée et parfois très ondulée
-  cheilochrysocystides:
+  chapeau: 6-16 mm Ø, convexe à étalé, déprimé, parfois ondulé, strié, subglabre,
+    hygrophane, saumon ou brunâtre à crème-rosé à orange-roux au frais, beige à chamois
+    au sec, marge ondulée et parfois très ondulée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -173,7 +173,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à sinuées, larges, épaisses, espacées à très espacées, peu nombreuses, rosé carné à légèrement vineuses
+  lames: adnées à sinuées, larges, épaisses, espacées à très espacées, peu nombreuses,
+    rosé carné à légèrement vineuses
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +208,8 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 8-12 x 1 mm Ø, cylindrique, égal à subbulbeux, sec, glabre ou finement fibrilleux, non strié, concolore au chapeau, avec mycélium basal blanc
+  pied: 8-12 x 1 mm Ø, cylindrique, égal à subbulbeux, sec, glabre ou finement fibrilleux,
+    non strié, concolore au chapeau, avec mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,8 +235,11 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
+  publications: "<b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales)
+    in the Continental United States and Canada, with Discussions on Extralimital
+    Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30,
+    Published by Field Museum of Natural History, June 1992, Publication 1435, 180
+    p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -282,3 +287,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

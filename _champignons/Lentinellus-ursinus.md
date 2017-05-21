@@ -1,31 +1,30 @@
 ---
+title: Lentinellus Ursinus
+date: 2017-03-25 00:00:00 Z
 nom: Lentinellus ursinus
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8526/8597213435_f7c55bce91_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8597213435/in/photolist-e8Fsch-e6GY2R/
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Lentin couleur d'ours
   ordre: Russulales
   famille: Auriscalpiaceae
   genre: Lentinellus
-  espece: <i>Lentinellus ursinus</i> (Fr.) Kühner
-  litterature: Kühner, R. 1926. Contribution à l’Étude des Hyménomycètes et spécialement des agaricacées. Le Botaniste. 17:1-224
-
+  espece: "<i>Lentinellus ursinus</i> (Fr.) Kühner"
+  litterature: Kühner, R. 1926. Contribution à l’Étude des Hyménomycètes et spécialement
+    des agaricacées. Le Botaniste. 17:1-224
 collections:
-  - fongarium: cKc0018
-    date: 20 octobre 2012
-    planche:
-      numero: cKc0018-0022
-      miniature: https://c1.staticflickr.com/9/8537/8619550942_816d04704a_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8619550942/in/photolist-e8Fsch-e6GY2R/
-    geolocalisation: 46°48'40.46"N 71°21'30.15"O
-    elevation: 75 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0018
+  date: 20 octobre 2012
+  planche:
+    numero: cKc0018-0022
+    miniature: https://c1.staticflickr.com/9/8537/8619550942_816d04704a_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8619550942/in/photolist-e8Fsch-e6GY2R/
+  geolocalisation: 46°48'40.46"N 71°21'30.15"O
+  elevation: 75 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à légèrement clavées, parfois sphéropédonculées, tétrasporiques, bouclées à la base, hyalines et parfois avec gouttelettes, de 17-23 x 4-5 µm
+  basides: cylindriques à légèrement clavées, parfois sphéropédonculées, tétrasporiques,
+    bouclées à la base, hyalines et parfois avec gouttelettes, de 17-23 x 4-5 µm
   basidiospores: |
     subglobuleuses à largement ellipsoïdes, finement échinulées ou ponctuées, à paroi mince à légèrement épaissie 0,1 x 0,3 µm, apparaissant lisses, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans le NH<sub>4</sub>OH 2%, fortement amyloïdes, non cyanophiles
     3,6 [4,1; 4,2] 4,7 x 3,1 [3,5; 3,6] 4 µm
@@ -55,7 +55,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois pourri de feuillus, parfois de conifères, souvent en milieux ombragés humides des forêts denses
+  biotopes: pousse sur bois pourri de feuillus, parfois de conifères, souvent en milieux
+    ombragés humides des forêts denses
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -70,11 +71,22 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, sauf au point d'attache, ferme, 1-3 mm, blanchâtre, chamois rosâtre à brunâtre, souvent à effet duplexe, avec ligne noire délimitant le pileipellis densément laineux
+  chair: mince, sauf au point d'attache, ferme, 1-3 mm, blanchâtre, chamois rosâtre
+    à brunâtre, souvent à effet duplexe, avec ligne noire délimitant le pileipellis
+    densément laineux
   chancre: 
-  chapeau: 30-120 mm Ø, 20-60 mm de projection, irrégulièrement conchoïde, flabelliforme à réniforme, convexe à subétalé, souvent déprimé au centre ou vers le point d'attache, sec, souvent hygrophane, sublisse, laineux à suède et devenant ridé ou finement ruguleux radialement vers la marge, couvert d'un tomentum velouté ou densément hispide souvent plus pâle puis ± concolore et brun noirâtre au point d'attache avec l'âge, lisse sur les chapeaux du dessous des amas imbriqués, sur fond beige, brun olive, brun roux à ambre, plus pâle vers la marge, finement taché ou plaqué de brun foncé à cannelle, entièrement chamois fauve au sec, à marge enroulée à incurvée et souvent appendiculée au début, puis subétalée, entière à lobée
-  cheilochrysocystides:
-  cheilocystides: nombreuses cylindriques à fusiformes, parfois flexueuses, dépassant les 30 µm de longueur
+  chapeau: 30-120 mm Ø, 20-60 mm de projection, irrégulièrement conchoïde, flabelliforme
+    à réniforme, convexe à subétalé, souvent déprimé au centre ou vers le point d'attache,
+    sec, souvent hygrophane, sublisse, laineux à suède et devenant ridé ou finement
+    ruguleux radialement vers la marge, couvert d'un tomentum velouté ou densément
+    hispide souvent plus pâle puis ± concolore et brun noirâtre au point d'attache
+    avec l'âge, lisse sur les chapeaux du dessous des amas imbriqués, sur fond beige,
+    brun olive, brun roux à ambre, plus pâle vers la marge, finement taché ou plaqué
+    de brun foncé à cannelle, entièrement chamois fauve au sec, à marge enroulée à
+    incurvée et souvent appendiculée au début, puis subétalée, entière à lobée
+  cheilochrysocystides: 
+  cheilocystides: nombreuses cylindriques à fusiformes, parfois flexueuses, dépassant
+    les 30 µm de longueur
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -131,7 +143,8 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte ou assez forte, légèrement à modérément aromatique ou acide-poivrée, souvent fruitée, parfois fongique
+  exhalaison: indistincte ou assez forte, légèrement à modérément aromatique ou acide-poivrée,
+    souvent fruitée, parfois fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -149,7 +162,8 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: de longueurs variables, sur 5-6 µm de largeur avec contenu huileux forment des gouttelettes rondes et oblongues
+  hyphes: de longueurs variables, sur 5-6 µm de largeur avec contenu huileux forment
+    des gouttelettes rondes et oblongues
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -175,7 +189,11 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: radiantes à partir d'un point d'attache, souvent décurrentes lorsque la base est large, adnées à adnexées, larges, jusqu'à 5 mm, subespacées à serrées, blanchâtres, crème à brunâtres, parfois avec petites taches brun orangé, brun pâle à brun rougeâtre au sec, à arêtes entièrement légèrement à grossièrement serrulées, parfois lacérées avec l'âge
+  lames: radiantes à partir d'un point d'attache, souvent décurrentes lorsque la base
+    est large, adnées à adnexées, larges, jusqu'à 5 mm, subespacées à serrées, blanchâtres,
+    crème à brunâtres, parfois avec petites taches brun orangé, brun pâle à brun rougeâtre
+    au sec, à arêtes entièrement légèrement à grossièrement serrulées, parfois lacérées
+    avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -234,8 +252,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -248,7 +266,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: ± poivrée à amère
+  saveur: "± poivrée à amère"
   sclerocystides: 
   sclerote: 
   soies: 
@@ -288,3 +306,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

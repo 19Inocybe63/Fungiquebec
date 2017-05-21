@@ -1,41 +1,40 @@
 ---
+title: Amanita Velatipes
+date: 2017-03-17 00:00:00 Z
 nom: Amanita velatipes
-date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/1/374/19870908390_0f8aa788a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19870908390/in/photolist-vBwq3S-wwdsTb-wgVALN-nensEd-fbph4T-f5orUR-f5oWAF
 album-flickr:
-  - 72157673203579943
-
+- 72157673203579943
 details:
   nom-francais: Amanite à pied voilé
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita velatipes</i> G. F. Atk.
-  litterature: Atkinson, G.F. 1900. Studies of American fungi. Mushrooms, edible, poisonous, etc. :1-275
-
+  espece: "<i>Amanita velatipes</i> G. F. Atk."
+  litterature: Atkinson, G.F. 1900. Studies of American fungi. Mushrooms, edible,
+    poisonous, etc. :1-275
 collections:
-  - fongarium: cKc0072
-    date: 8 juillet 2013
-    planche:
-      numero: cKc0072-0033
-      miniature: https://c1.staticflickr.com/3/2914/13934793608_c2e411d432_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/13934793608/in/photolist-vBwq3S-wwdsTb-wgVALN-nensEd-fbph4T-f5orUR-f5oWAF/
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0383
-    date: 27 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0072
+  date: 8 juillet 2013
+  planche:
+    numero: cKc0072-0033
+    miniature: https://c1.staticflickr.com/3/2914/13934793608_c2e411d432_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/13934793608/in/photolist-vBwq3S-wwdsTb-wgVALN-nensEd-fbph4T-f5orUR-f5oWAF/
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0383
+  date: 27 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +55,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à claviformes, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire, 32-44 x 9-15 µm
+  basides: piriformes à claviformes, bisporiques à tétrasporiques, non bouclées à
+    la base, à contenu vacuolaire, 32-44 x 9-15 µm
   basidiospores: |
     elliptiques allongées en vue frontale, elliptiques à largement elliptiques vues de profil, lisses, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     9,1 [10,2; 10,7] 11,7 x 6,5 [7; 7,2] 7,7 µm
@@ -82,8 +82,9 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 80-200 mm Ø, globuleux, hémisphérique à convexe puis étalé, orné de flocons vélaires blanchâtres sur fond beige à jaune brunâtre, à marge sillonnée à maturité
-  cheilochrysocystides:
+  chapeau: 80-200 mm Ø, globuleux, hémisphérique à convexe puis étalé, orné de flocons
+    vélaires blanchâtres sur fond beige à jaune brunâtre, à marge sillonnée à maturité
+  cheilochrysocystides: 
   cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -218,7 +219,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 120-250 x 10-25 mm Ø, cylindrique, ferme, glabre à finement fibrilleux, avec bulbe orné d'une ou de plusieurs bandelettes, blanc, avec anneau ample et denté
+  pied: 120-250 x 10-25 mm Ø, cylindrique, ferme, glabre à finement fibrilleux, avec
+    bulbe orné d'une ou de plusieurs bandelettes, blanc, avec anneau ample et denté
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -244,8 +246,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications: "<b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>,
+    Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -285,8 +287,13 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: friable, blanchâtre, laissant des flocons sur le chapeau et une ou quelques bandelettes à la base du pied
-  voile-partiel: blanc, laissant sur le pied un anneau denté et ample, en chaînette dont les hyphes terminales sont polymorphes (75% filamenteuses, et 25% elliptiques allongées à ovoïdes) cylindriques, claviformes, utriformes, elliptiques allongées, ovoïdes, 22-54 x 5,5 x 9 µm
+  voile-general: friable, blanchâtre, laissant des flocons sur le chapeau et une ou
+    quelques bandelettes à la base du pied
+  voile-partiel: blanc, laissant sur le pied un anneau denté et ample, en chaînette
+    dont les hyphes terminales sont polymorphes (75% filamenteuses, et 25% elliptiques
+    allongées à ovoïdes) cylindriques, claviformes, utriformes, elliptiques allongées,
+    ovoïdes, 22-54 x 5,5 x 9 µm
   volve: 
   zone-perihymeniale: 
 ---
+

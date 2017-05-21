@@ -1,31 +1,30 @@
 ---
+title: Crucibulum Laeve
+date: 2017-03-20 00:00:00 Z
 nom: Crucibulum laeve
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5511/18901284261_bd2582ee2a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18901284261/in/photolist-tQYTAJ-uNf2ip
 album-flickr:
-  - 72157677731821592
-
+- 72157677731821592
 details:
   nom-francais: Crucibule lisse
   ordre: Agaricales
   famille: Agaricaceae
   genre: Crucibulum
-  espece: <i>Crucibulum laeve</i> (Huds.) Kambly
-  litterature: Kambly, P.E.; Lee, R.E. 1936. The Gasteromycetes of Iowa. University of Iowa Studies in Natural History. 17(4):121-185
-
+  espece: "<i>Crucibulum laeve</i> (Huds.) Kambly"
+  litterature: Kambly, P.E.; Lee, R.E. 1936. The Gasteromycetes of Iowa. University
+    of Iowa Studies in Natural History. 17(4):121-185
 collections:
-  - fongarium: cKc0318
-    date: 17 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0318
+  date: 17 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,9 +48,19 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 5-10 mm de largeur à l'apex et hauteur, 3-5 mm à la base, subglobuleux puis en petit baril ou ± courtement cylindrique, en coupe évasée vers l'apex à la fin, ressemblant à un nid d'oiseau miniature, sessile, recouvert d'une membrane fibrilleuse à duveteuse (épiphragme), fragile, orangée au début, puis jaune ocre tachetée de brun, se rompant, disparaissant et exposant les péridioles à maturité, avec péridium mince, formé d'une seule couche, tenace, persistante, à face externe fibrilleuse à veloutée, blanchâtre puis ocre, cannelle et lisse à la fin, à face interne lisse, un peu luisante, vitreuse, blanchâtre à gris argenté puis brun cannelle pâle, à marge dressée ou légèrement évasée, entière, épaisse, parfois légèrement contractée
+  basidiome: 5-10 mm de largeur à l'apex et hauteur, 3-5 mm à la base, subglobuleux
+    puis en petit baril ou ± courtement cylindrique, en coupe évasée vers l'apex à
+    la fin, ressemblant à un nid d'oiseau miniature, sessile, recouvert d'une membrane
+    fibrilleuse à duveteuse (épiphragme), fragile, orangée au début, puis jaune ocre
+    tachetée de brun, se rompant, disparaissant et exposant les péridioles à maturité,
+    avec péridium mince, formé d'une seule couche, tenace, persistante, à face externe
+    fibrilleuse à veloutée, blanchâtre puis ocre, cannelle et lisse à la fin, à face
+    interne lisse, un peu luisante, vitreuse, blanchâtre à gris argenté puis brun
+    cannelle pâle, à marge dressée ou légèrement évasée, entière, épaisse, parfois
+    légèrement contractée
   bibliographies: 
-  biotopes: pousse au sol, sur divers substrats, sur débris ligneux, ou au travers des copeaux de bois, végétaux en décomposition
+  biotopes: pousse au sol, sur divers substrats, sur débris ligneux, ou au travers
+    des copeaux de bois, végétaux en décomposition
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +78,7 @@ description:
   chair: 
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -200,7 +209,14 @@ description:
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
-  peridiole: ressemblent à de petites lentilles de 1-2 mm Ø, au nombre de 15 environ, avec une tunique distincte, dure, plissée au sec, blanchâtre à beige argenté puis ocre pâle, chacun retenu à la coupe par un minuscule cordonnet élastique spiralé (funicule) et renfermant une glèbe dans laquelle sont formées les basidiospores, expulsées par les éclaboussures des gouttes de pluie tombant dans le basidiome, s'attachant aux brindilles environnantes grâce à leur cordonnet qui s'enroule à la manière d'un fouet, puis l'enveloppe extérieure du péridiole se désagrège graduellement et libère les basidiospores
+  peridiole: ressemblent à de petites lentilles de 1-2 mm Ø, au nombre de 15 environ,
+    avec une tunique distincte, dure, plissée au sec, blanchâtre à beige argenté puis
+    ocre pâle, chacun retenu à la coupe par un minuscule cordonnet élastique spiralé
+    (funicule) et renfermant une glèbe dans laquelle sont formées les basidiospores,
+    expulsées par les éclaboussures des gouttes de pluie tombant dans le basidiome,
+    s'attachant aux brindilles environnantes grâce à leur cordonnet qui s'enroule
+    à la manière d'un fouet, puis l'enveloppe extérieure du péridiole se désagrège
+    graduellement et libère les basidiospores
   peridiopellis: 
   peridium: 
   peritheces: 
@@ -289,3 +305,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Tricholomopsis Sulphureoides
+date: 2017-05-16 00:00:00 Z
 nom: Tricholomopsis sulphureoides
-date: 2017-05-16 00:00:00
 image: https://c1.staticflickr.com/9/8164/29608929000_0859bae19b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29608929000/in/photolist-M7rv2S-Monoq9
 album-flickr:
-  - 72157675206317355
-
+- 72157675206317355
 details:
   nom-francais: Tricholome faux-sulphureum
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholomopsis
-  espece: <i>Tricholomopsis sulphureoides</i> (Peck) Singer
-  litterature: Singer, R. 1943. Das System der Agaricales. III. Annales Mycologici. 41:1-189
-
+  espece: "<i>Tricholomopsis sulphureoides</i> (Peck) Singer"
+  litterature: Singer, R. 1943. Das System der Agaricales. III. Annales Mycologici.
+    41:1-189
 collections:
-  - fongarium: cKc0559
-    date: 24 septembre 2016
-    planche:
-      numero: cKc0559-0168
-      miniature: https://c1.staticflickr.com/5/4166/34568343761_163ec731ba_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/34568343761/in/photolist-UEFNfV-M7rv2S-Monoq9/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0559
+  date: 24 septembre 2016
+  planche:
+    numero: cKc0559-0168
+    miniature: https://c1.staticflickr.com/5/4166/34568343761_163ec731ba_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/34568343761/in/photolist-UEFNfV-M7rv2S-Monoq9/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à longuement claviformes, parfois cylindriques, tétrasporiques, bouclées à la base, à contenu vacuolaire, (29,8) 30,5 - 37,3 (41,3) × 5,5 - 6,6 (6,8) µm en moyenne
+  basides: claviformes à longuement claviformes, parfois cylindriques, tétrasporiques,
+    bouclées à la base, à contenu vacuolaire, (29,8) 30,5 - 37,3 (41,3) × 5,5 - 6,6
+    (6,8) µm en moyenne
   basidiospores: |
     elliptiques à largement elliptiques, subpruniformes en vue frontal, subglobuleuses à largement elliptiques vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, partiellement cyanophiles
     (5,6) 5,9 - 7,1 (7,4) × (4,4) 4,7 - 5,5 (5,9) µm
@@ -73,8 +74,12 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune pâle, immuable
   chancre: 
-  chapeau: 11-55 mm Ø, convexe-campanulé, légèrement déprimé, mamelonné-umbonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche ; comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé
-  cheilocystides: occasionnelles, cylindriques à claviformes, parfois flexueuses, avec apex arrondis, lisses ou occasionnellement incrustées, à paroi mince, hyalines, (35) 40-75 x (3,3) 5-7,5 μm,
+  chapeau: 11-55 mm Ø, convexe-campanulé, légèrement déprimé, mamelonné-umbonné, vergeté
+    ?, dont la marge est légèrement fibrilleuse blanche ; comme légèrement appendiculé,
+    jaunâtre avec reflet beige-brunâtre, centre plus foncé
+  cheilocystides: occasionnelles, cylindriques à claviformes, parfois flexueuses,
+    avec apex arrondis, lisses ou occasionnellement incrustées, à paroi mince, hyalines,
+    (35) 40-75 x (3,3) 5-7,5 μm,
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -175,7 +180,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, serrées, concolores au chapeau, dont l'arêtes lamellaires semblent givrées, fimbriées, présence de lamelles et de lamellules
+  lames: adnexées, serrées, concolores au chapeau, dont l'arêtes lamellaires semblent
+    givrées, fimbriées, présence de lamelles et de lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,7 +217,8 @@ description:
   pied: 21-55 x 2-7 mm Ø, cylindrique, plein, courbé, concolore au chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, formé parfois d'hyphes agglomérées et dressées, lisses, brun orangé dans le KOH 5%, à cellules terminales subcylindriques et arrondies à l'apex
+  pileipellis: en cutis, formé parfois d'hyphes agglomérées et dressées, lisses, brun
+    orangé dans le KOH 5%, à cellules terminales subcylindriques et arrondies à l'apex
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -235,8 +242,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = instantanément rouge brun foncé sur la surface du chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = instantanément rouge brun foncé sur
+    la surface du chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -269,13 +278,16 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: parallèle avec subhyménium formé d'une zone étroite d’hyphes élancées, ramifiées, et pigmentées de brun-jaune
+  trame-lamellaire: parallèle avec subhyménium formé d'une zone étroite d’hyphes élancées,
+    ramifiées, et pigmentées de brun-jaune
   trame-tubulaire: 
   type: 
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fugace, blanc, présent à la marge du chapeau, où il forme de petites pointes
+  voile-partiel: fugace, blanc, présent à la marge du chapeau, où il forme de petites
+    pointes
   volve: 
   zone-perihymeniale: 
 ---
+

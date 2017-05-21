@@ -1,31 +1,29 @@
 ---
+title: Amanita Fuscozonata Y Lamoureux Nom Prov
+date: 2017-03-17 00:00:00 Z
 nom: Amanita fuscozonata Y. Lamoureux nom. prov.
-date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/3/2825/9331711293_e30710d682_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9331711293/in/photolist-fdBtyn-fdBsE2
 album-flickr:
-  - 72157674099755753
-
+- 72157674099755753
 details:
   nom-francais: Amanite zonée
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita fuscozonata Y. Lamoureux nom. prov.</i>
+  espece: "<i>Amanita fuscozonata Y. Lamoureux nom. prov.</i>"
   litterature: 
-
 collections:
-  - fongarium: cKc0085
-    date: 20 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0085
+  date: 20 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +66,10 @@ description:
   cellules-stromatiques: 
   chair: blanche
   chancre: 
-  chapeau: 40-90 mm Ø, ovoïde, conique-arrondi puis étalé-mamelonné, souvent sans restes vélaires, gris moyen à gris-brun, plus foncé au centre et dans la zone antémarginale, à marge longuement sillonnée
-  cheilochrysocystides:
+  chapeau: 40-90 mm Ø, ovoïde, conique-arrondi puis étalé-mamelonné, souvent sans
+    restes vélaires, gris moyen à gris-brun, plus foncé au centre et dans la zone
+    antémarginale, à marge longuement sillonnée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -204,7 +204,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 70-170 x 5-12 mm Ø, cylindrique à claviforme, finement floconneux puis glabre, non bulbeux, blanc à grisâtre pâle, non annelé, émergeant d'une volve bien développée
+  pied: 70-170 x 5-12 mm Ø, cylindrique à claviforme, finement floconneux puis glabre,
+    non bulbeux, blanc à grisâtre pâle, non annelé, émergeant d'une volve bien développée
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,8 +231,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications: "<b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>,
+    Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -264,8 +265,10 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: membraneux, blanc, parfois grisâtre par endroits, laissant une volve à la base du pied
+  voile-general: membraneux, blanc, parfois grisâtre par endroits, laissant une volve
+    à la base du pied
   voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---
+

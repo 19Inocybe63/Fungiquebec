@@ -1,31 +1,30 @@
 ---
+title: Conocybe Apala
+date: 2017-03-18 00:00:00 Z
 nom: Conocybe apala
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/556/20294391061_b3d85acf00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20294391061/in/photolist-wVm4qa-wCkeW2
 album-flickr:
-  - 72157676881590234
-
+- 72157676881590234
 details:
   nom-francais: Conocybe à pied blanc
   ordre: Agaricales
   famille: Bolbitiaceae
   genre: Conocybe
-  espece: <i>Conocybe apala</i> (Fr.) Arnolds
-  litterature: Arnolds, E. 2003. Notulae ad floram agaricinam neerlandicam, XL. New combinations in Conocybe and Pholiotina. Persoonia. 18(2):225-230
-
+  espece: "<i>Conocybe apala</i> (Fr.) Arnolds"
+  litterature: Arnolds, E. 2003. Notulae ad floram agaricinam neerlandicam, XL. New
+    combinations in Conocybe and Pholiotina. Persoonia. 18(2):225-230
 collections:
-  - fongarium: cKc0394
-    date: 4 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'47.52"N 71°14'35.60"O
-    elevation: 77 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0394
+  date: 4 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'47.52"N 71°14'35.60"O
+  elevation: 77 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,9 @@ description:
   cellules-stromatiques: 
   chair: très mince, fragile, molle, blanchâtre ou concolore à la surface du chapeau
   chancre: 
-  chapeau: 15-23 mm Ø, hémisphérique à conique, parfois subcampanulé, lisse à ruguleux, umboné, crème pâle, et plus foncé au centre
-  cheilochrysocystides:
+  chapeau: 15-23 mm Ø, hémisphérique à conique, parfois subcampanulé, lisse à ruguleux,
+    umboné, crème pâle, et plus foncé au centre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -173,7 +173,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres à adnexées, étroites, subventrues, très serrées, blanchâtres à crème au début, déliquescentes à la fin, jaune-brun à brun orangé, brun rouille à brun cannelle à la fin, à arêtes floconneuses blanches
+  lames: libres à adnexées, étroites, subventrues, très serrées, blanchâtres à crème
+    au début, déliquescentes à la fin, jaune-brun à brun orangé, brun rouille à brun
+    cannelle à la fin, à arêtes floconneuses blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +209,8 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 53-85 x 1-2 mm Ø, cylindrique, légèrement élargi du milieu vers la base ; légèrement strié, blanchâtre
+  pied: 53-85 x 1-2 mm Ø, cylindrique, légèrement élargi du milieu vers la base ;
+    légèrement strié, blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -281,3 +284,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

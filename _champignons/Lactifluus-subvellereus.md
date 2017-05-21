@@ -1,31 +1,30 @@
 ---
+title: Lactifluus Subvellereus
+date: 2017-03-25 00:00:00 Z
 nom: Lactifluus subvellereus
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8351/28651501954_d36f8d1517_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28651501954/in/photolist-KDQrk1-KDZWbi/
 album-flickr:
-  - 72157677287111181
-
+- 72157677287111181
 details:
   nom-francais: Lactaire velouteux
   ordre: Russulales
   famille: Russulaceae
   genre: Lactifluus
-  espece: <i>Lactifluus subvellereus</i> (Peck) Nuytinck
-  litterature: Verbeken, A.; Buyck, B.; Nuytinck, J. 2011. New combinations in Lactifluus. 1. L. subgenera Edules, Lactariopsis, and Russulopsis. Mycotaxon. 118:447-453
-
+  espece: "<i>Lactifluus subvellereus</i> (Peck) Nuytinck"
+  litterature: Verbeken, A.; Buyck, B.; Nuytinck, J. 2011. New combinations in Lactifluus.
+    1. L. subgenera Edules, Lactariopsis, and Russulopsis. Mycotaxon. 118:447-453
 collections:
-  - fongarium: cKc0550
-    date: 27 août 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0550
+  date: 27 août 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,10 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanchâtre-crème à jaunâtre
   chancre: 
-  chapeau: 83 mm Ø, convexe puis déprimé à subinfundibuliforme, ferme, sec, finement tomenteux, velouté, blanchâtre, jaunâtre brunâtre par endroits, à marge fortement enroulée au début
-  cheilochrysocystides:
+  chapeau: 83 mm Ø, convexe puis déprimé à subinfundibuliforme, ferme, sec, finement
+    tomenteux, velouté, blanchâtre, jaunâtre brunâtre par endroits, à marge fortement
+    enroulée au début
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -173,12 +174,15 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, serrées à subserrées, étroites, avec lamellules, parfois fourchues, crème jaunâtre, souvent avec gouttelettes crème jaunâtre, devenant fauve brunâtre au froissement et cannelle au sec
+  lames: adnées à subdécurrentes, serrées à subserrées, étroites, avec lamellules,
+    parfois fourchues, crème jaunâtre, souvent avec gouttelettes crème jaunâtre, devenant
+    fauve brunâtre au froissement et cannelle au sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: abondant, blanc à la coupe, devenant crème jaunâtre, immuable, tachant les lames de brunâtre rouille, à saveur très âcre
+  latex: abondant, blanc à la coupe, devenant crème jaunâtre, immuable, tachant les
+    lames de brunâtre rouille, à saveur très âcre
   leptocystides: 
   macrocystides: 
   macropleurocystides: 
@@ -206,7 +210,8 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 30 x 22 mm Ø, égal, atténué vers la base à courtement cylindrique, trapu, ferme, plein, sec, finement velouté, duveteux, concolore au chapeau
+  pied: 30 x 22 mm Ø, égal, atténué vers la base à courtement cylindrique, trapu,
+    ferme, plein, sec, finement velouté, duveteux, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -238,11 +243,13 @@ description:
     <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = la chair du chapeau devient orangé
+  reactions-macrochimiques: 'Potasse (KOH 10%) = la chair du chapeau devient orangé
+
+'
   receptacle: 
-  remarques: |
-    Latex très âcre (une gouttelette suffit pour brûler)
+  remarques: 'Latex très âcre (une gouttelette suffit pour brûler)
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -260,8 +267,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Lactarius subvellereus</i> Peck, Bulletin of the Torrey Botanical Club 25:369 (1898)
+  synonymie: "<i>Lactarius subvellereus</i> Peck, Bulletin of the Torrey Botanical
+    Club 25:369 (1898)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -277,3 +284,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

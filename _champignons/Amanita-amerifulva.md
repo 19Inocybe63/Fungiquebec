@@ -1,51 +1,49 @@
 ---
+title: Amanita Amerifulva
+date: 2017-03-16 00:00:00 Z
 nom: Amanita amerifulva nom. prov.
-date: 2017-03-16 00:00:00
 image: https://c2.staticflickr.com/4/3842/14598644206_0d2a0c205a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14598644206/in/photolist-of2Sjb-ogTp9m/
 album-flickr:
-  - 72157673576461843
-
+- 72157673576461843
 details:
   nom-francais: Amanite fauve d'Amérique
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita amerifulva nom. prov.</i>
+  espece: "<i>Amanita amerifulva nom. prov.</i>"
   litterature: Persoon, C.H. 1818. Traité sur les Champignons Comestibles. :1-276
-  
 collections:
-  - fongarium: sans numéro
-    date: 14 juillet 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 45°33'36.2"N 75°29'23.7"O
-    elevation: 195 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: sans numéro
-    date: 4 août 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0183
-    date: 10 juillet 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 14 juillet 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 45°33'36.2"N 75°29'23.7"O
+  elevation: 195 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: sans numéro
+  date: 4 août 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0183
+  date: 10 juillet 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -88,8 +86,9 @@ description:
   cellules-stromatiques: 
   chair: blanche
   chancre: 
-  chapeau: 40-90 mm Ø, ovoïde, conique-arrondi puis étalé mamelonné, fauve ou brun orangé, dépourvu de restes vélaires, à marge longuement sillonnée
-  cheilochrysocystides:
+  chapeau: 40-90 mm Ø, ovoïde, conique-arrondi puis étalé mamelonné, fauve ou brun
+    orangé, dépourvu de restes vélaires, à marge longuement sillonnée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -224,7 +223,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 60-150 x 5-12 mm Ø, non bulbeux, lisse ou finement fibrilleux, blanc ou teinté de brun orangé, sans anneau, émergeant d'une volve blanche tachée de brun rouille
+  pied: 60-150 x 5-12 mm Ø, non bulbeux, lisse ou finement fibrilleux, blanc ou teinté
+    de brun orangé, sans anneau, émergeant d'une volve blanche tachée de brun rouille
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -250,11 +250,12 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Lamoureux, Yves.</b> Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications: "<b>Lamoureux, Yves.</b> Champignons du Québec, Tome 2, <i>Les Amanites</i>,
+    Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques\n"
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Phénol = la chair devient rouge brun terne
+  reactions-macrochimiques: 'Phénol = la chair devient rouge brun terne
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -291,8 +292,10 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: membraneux, blanc, taché de brun rouille par endroits, laissant une volve à la base du pied
+  voile-general: membraneux, blanc, taché de brun rouille par endroits, laissant une
+    volve à la base du pied
   voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---
+

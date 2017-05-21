@@ -1,41 +1,40 @@
 ---
+title: Cortinarius Flexipes Var Flabellus
+date: 2017-03-20 00:00:00 Z
 nom: Cortinarius flexipes var. flabellus
-date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/9/8549/30168238602_c1ee598a97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30168238602/in/photolist-MXS7hS-MboHve-MboCkz-LCbgH9-MsfcAn-MwvDPL
 album-flickr:
-  - 72157677623325925
-
+- 72157677623325925
 details:
   nom-francais: Cortinaire à pied tortueux
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius flexipes var. flabellus</i> (Fr.) H. Lindstr. & Melot
-  litterature: Brandrud, T.E.; Lindström, H.; Marklund, H.; Melot, J.; Muskos, S. 1998. Cortinarius. Flora photographica. 4:1-31
-
+  espece: "<i>Cortinarius flexipes var. flabellus</i> (Fr.) H. Lindstr. & Melot"
+  litterature: Brandrud, T.E.; Lindström, H.; Marklund, H.; Melot, J.; Muskos, S.
+    1998. Cortinarius. Flora photographica. 4:1-31
 collections:
-  - fongarium: cKc0562
-    date: 24 septembre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0598
-    date: 12 octobre 2016
-    planche:
-      numero: cKc0598-0148
-      miniature: https://c1.staticflickr.com/1/394/31607899955_db9303aa24_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/31607899955/in/photostream/
-    geolocalisation: 
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0562
+  date: 24 septembre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0598
+  date: 12 octobre 2016
+  planche:
+    numero: cKc0598-0148
+    miniature: https://c1.staticflickr.com/1/394/31607899955_db9303aa24_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31607899955/in/photostream/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -86,8 +85,9 @@ description:
   cellules-stromatiques: 
   chair: subconcolore aux surfaces
   chancre: 
-  chapeau: 21-34 mm Ø, convexe, étalé, mamelonné, fibrilleux, hygrophane, brun à brun-jaune teinté d'olivâtre, plus foncé et brun-jaune olivacé au sec
-  cheilochrysocystides:
+  chapeau: 21-34 mm Ø, convexe, étalé, mamelonné, fibrilleux, hygrophane, brun à brun-jaune
+    teinté d'olivâtre, plus foncé et brun-jaune olivacé au sec
+  cheilochrysocystides: 
   cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -191,7 +191,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées, sinuées à subdécurrentes, serrées, présence parfois de furcations, avec lamelles et lamellules
+  lames: échancrées, sinuées à subdécurrentes, serrées, présence parfois de furcations,
+    avec lamelles et lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -224,10 +225,15 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 29-39 x 2-5 mm Ø, cylindrique, égal, courbe vers la base, creux, couvert de fibrilles pâles sur fond brun, brun foncé teinté d'orangé vers la base, avec mycélium basal cotonneux ; orné d'une zone annuliforme blanchâtre distincte
+  pied: 29-39 x 2-5 mm Ø, cylindrique, égal, courbe vers la base, creux, couvert de
+    fibrilles pâles sur fond brun, brun foncé teinté d'orangé vers la base, avec mycélium
+    basal cotonneux ; orné d'une zone annuliforme blanchâtre distincte
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches distinctes ; 1) un suprapellis en cutis formé d’hyphes avec pigmentation brun pâle à brune, à paroi mince, avec inclusion brun rouille, 3,2- 9,5 µm de largeur en moyenne ; 2) un subpellis formé d’hyphes en chaînes, à paroi mince, hyalines, 31,7 - 52,4 × (10,7) 15,2 - 21,6 (27,4) µm en moyenne
+  pileipellis: en deux couches distinctes ; 1) un suprapellis en cutis formé d’hyphes
+    avec pigmentation brun pâle à brune, à paroi mince, avec inclusion brun rouille,
+    3,2- 9,5 µm de largeur en moyenne ; 2) un subpellis formé d’hyphes en chaînes,
+    à paroi mince, hyalines, 31,7 - 52,4 × (10,7) 15,2 - 21,6 (27,4) µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -300,3 +306,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

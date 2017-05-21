@@ -1,31 +1,30 @@
 ---
+title: Inocybe Rennyi
+date: 2017-04-13 00:00:00 Z
 nom: Inocybe aff. rennyi
-date: 2017-04-13 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
-  - 72157678323069856
-
+- 72157678323069856
 details:
   nom-francais: Inocybe de Renny
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe aff. rennyi</i> (Berk. & Broome) Sacc.
-  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
-
+  espece: "<i>Inocybe aff. rennyi</i> (Berk. & Broome) Sacc."
+  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge
+    Fungorum. 5:1-1146
 collections:
-  - fongarium: cKc0556
-    date: 9 septembre 2016
-    planche:
-      numero: cKc0556-0151
-      miniature: https://c1.staticflickr.com/1/752/31075700664_ec9eda465f_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0556
+  date: 9 septembre 2016
+  planche:
+    numero: cKc0556-0151
+    miniature: https://c1.staticflickr.com/1/752/31075700664_ec9eda465f_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -52,7 +51,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques, tétrasporiques, non bouclées à la base, 31,0 - 35,0 × 9,5 - 11,0 µm en moyenne
+  basides: claviformes à cylindriques, tétrasporiques, non bouclées à la base, 31,0
+    - 35,0 × 9,5 - 11,0 µm en moyenne
   basidiospores: |
     subrectangulaires à rectangulaires, parfois avec apex subconiques en vue frontale, à noduleuses-anguleuses vues de profil, majoritairement pentagone rarement hexagone, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (9,5) 10,4 - 13 (15,5) × (5,8) 6 - 6,9 (7,1) µm
@@ -62,7 +62,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, pauvre, sablonneux, perturbé, sentier forestier, sous feuillus <i>Betula</i>, <i>Fagus</i>
+  biotopes: pousse au sol, pauvre, sablonneux, perturbé, sentier forestier, sous feuillus
+    <i>Betula</i>, <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -71,17 +72,26 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: ressemblent davantage à des hyphes
-  caulocystides-sommitales: occasionnelles à subabondantes, de deux types; 1° type métuloïdes, fusiformes à fusiformes ventrues, avec peu ou sans cristaux d’oxalates de calcium, 38,5 - 45,6 × 12 - 16,9 µm en moyenne, 2° type cylindriques claviformes, dont l’apex est parfois subcapité, parfois en faisceaux, ressemblent davantage à des hyphes, (32,6) 39,1 - 52 (58,7) × (6,2) 6,4 - 8,4 (9,2) µm en moyenne
+  caulocystides-sommitales: occasionnelles à subabondantes, de deux types; 1° type
+    métuloïdes, fusiformes à fusiformes ventrues, avec peu ou sans cristaux d’oxalates
+    de calcium, 38,5 - 45,6 × 12 - 16,9 µm en moyenne, 2° type cylindriques claviformes,
+    dont l’apex est parfois subcapité, parfois en faisceaux, ressemblent davantage
+    à des hyphes, (32,6) 39,1 - 52 (58,7) × (6,2) 6,4 - 8,4 (9,2) µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: elliptiques à ovoïdes, courtement piriformes à piriformes, subcylindriques, (14) 15,7 - 20,1 (25) × (6,1) 6,7 - 10,6 (11,4) µm en moyenne
+  cellules-marginales-paracystides: elliptiques à ovoïdes, courtement piriformes à
+    piriformes, subcylindriques, (14) 15,7 - 20,1 (25) × (6,1) 6,7 - 10,6 (11,4) µm
+    en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: brun rougeâtre
   chancre: 
-  chapeau: 8-15 mm Ø, convexe à étalé, légèrement déprimé, submamelonné, densément couvert d'écailles, méchuleux vers le centre
-  cheilochrysocystides:
-  cheilocystides: nombreuses, métuloïdes, largement fusiformes, à paroi fine à épaisse 1,0-4,0 μm, dont les cristaux d’oxalates de calcium sont très peu nombreux à l’apex, parfois absent, (35,6) 37,8 - 46 (53,6) × (15,6) 15,8 - 18,7 (21,3) µm en moyenne
+  chapeau: 8-15 mm Ø, convexe à étalé, légèrement déprimé, submamelonné, densément
+    couvert d'écailles, méchuleux vers le centre
+  cheilochrysocystides: 
+  cheilocystides: nombreuses, métuloïdes, largement fusiformes, à paroi fine à épaisse
+    1,0-4,0 μm, dont les cristaux d’oxalates de calcium sont très peu nombreux à l’apex,
+    parfois absent, (35,6) 37,8 - 46 (53,6) × (15,6) 15,8 - 18,7 (21,3) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -90,7 +100,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Il s'agit ici d'<i>Inocybe aff. rennyi</i>. »
+  commentaires: De Claude Kaufholtz-Couture. « Il s'agit ici d'<i>Inocybe aff. rennyi</i>.
+    »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -183,10 +194,14 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, larges à subventrues, crème jaunâtre, au liseré blanchâtre
+  lames: échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules,
+    larges à subventrues, crème jaunâtre, au liseré blanchâtre
   lamprocystides: 
   lamprocheilocystides: 
-  lampropleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 μm, Ammoniaco -, dont les cristaux d’oxalates de calcium sont plus présent à l’apex, (55,6) 55,8 - 59,2 (59,6) × (16,1) 16,3 - 19,4 (22) µm en moyenne
+  lampropleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi
+    moyenne à épaisse 2,0-3,7 μm, Ammoniaco -, dont les cristaux d’oxalates de calcium
+    sont plus présent à l’apex, (55,6) 55,8 - 59,2 (59,6) × (16,1) 16,3 - 19,4 (22)
+    µm en moyenne
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -216,10 +231,14 @@ description:
   peritheces: 
   phenologie: en septembre
   phialoconidies: 
-  pied: 13-19 x 1-2 mm Ø, cylindrique, plein, avec petites fibrilles blanchâtres à l'apex, brun rougeâtre, courbant légèrement à la base, subbulbeuse
+  pied: 13-19 x 1-2 mm Ø, cylindrique, plein, avec petites fibrilles blanchâtres à
+    l'apex, brun rougeâtre, courbant légèrement à la base, subbulbeuse
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'un suprapellis en cutis, avec des éléments trichodermiques, avec hyphes septées et bouclées agglomérés au sommet, hyphes terminales cylindriques formant une chaîne, avec pigmentation brun rouille à brun rougeâtre, 9,8 - 55,1 × 2,0 - 10,3 µm en moyenne
+  pileipellis: formé d'un suprapellis en cutis, avec des éléments trichodermiques,
+    avec hyphes septées et bouclées agglomérés au sommet, hyphes terminales cylindriques
+    formant une chaîne, avec pigmentation brun rouille à brun rougeâtre, 9,8 - 55,1
+    × 2,0 - 10,3 µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -255,8 +274,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 12, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
+  reactions-macrochimiques: 'Réactif d''Ehrlich (Paradiméthylaminobenzaldéhyde ou
+    P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
+
+'
   receptacle: 
   remarques: Sous section Cortinatae ; Clé de Fatto, B C E I K L O Q
   repartition: 
@@ -300,3 +321,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

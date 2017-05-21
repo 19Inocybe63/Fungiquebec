@@ -1,31 +1,30 @@
 ---
+title: Russula Grata
+date: 2017-03-27 00:00:00 Z
 nom: Russula grata
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/6/5522/9582361213_0814e6f2a2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9582361213/in/photolist-r4pXqm-fAL79n
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: 
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula grata</i> Britzelm.
-  litterature: Britzelmayr, M. 1893. Materialien zur Beschreibung der Hymenomyceten 3. Botanisches Centralblatt. 54(4):97-105
-
+  espece: "<i>Russula grata</i> Britzelm."
+  litterature: Britzelmayr, M. 1893. Materialien zur Beschreibung der Hymenomyceten
+    3. Botanisches Centralblatt. 54(4):97-105
 collections:
-  - fongarium: cKc0108
-    date: 24 août 2013
-    planche:
-      numero: cKc0108-0069
-      miniature: https://c2.staticflickr.com/8/7378/16447542696_5c26dcdb53_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16447542696/in/photolist-r4pXqm-fAL79n
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0108
+  date: 24 août 2013
+  planche:
+    numero: cKc0108-0069
+    miniature: https://c2.staticflickr.com/8/7378/16447542696_5c26dcdb53_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16447542696/in/photolist-r4pXqm-fAL79n
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: largement fusiformes à elliptiques-ovoïdes, plus rarement subutriformes, tétrasporiques, non bouclées à la base, 26,7 [36,5; 63,6] 73,5 x 9 [11,4; 18] 20,4 µm en moyenne
+  basides: largement fusiformes à elliptiques-ovoïdes, plus rarement subutriformes,
+    tétrasporiques, non bouclées à la base, 26,7 [36,5; 63,6] 73,5 x 9 [11,4; 18]
+    20,4 µm en moyenne
   basidiospores: |
     globuleuses à subglobuleuses, majoritairement verruqueuses, munies de hautes crêtes ailées et partiellement réticulées, avec proéminences jusqu'à 2,4 µm de hauteur, à paroi mince, avec appendice hilaire, plage hilaire subamyloïde pas toujours bien visible, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
     8 [8,7; 9] 9,7 x 7,5 [8,3; 8,7] 9,5 µm
@@ -72,7 +73,9 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 40-100 mm Ø, globuleux à convexe, puis étalé, visqueux au début, lisse, jaune ocré pâle, jaune-brun, à marge striée, tuberculée et cuticule pelant jusqu’au ¾ du rayon
+  chapeau: 40-100 mm Ø, globuleux à convexe, puis étalé, visqueux au début, lisse,
+    jaune ocré pâle, jaune-brun, à marge striée, tuberculée et cuticule pelant jusqu’au
+    ¾ du rayon
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -173,7 +176,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, larges, subespacées à serrées, crème à grisâtres, souvent tachées de brun pâle ocré
+  lames: adnées, larges, subespacées à serrées, crème à grisâtres, souvent tachées
+    de brun pâle ocré
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,14 +210,16 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-100 x 10-30 mm Ø, cylindrique, égal, ferme, lisse, blanchâtre à blanc jaunâtre, se tachant parfois de brun jaunâtre
+  pied: 30-100 x 10-30 mm Ø, cylindrique, égal, ferme, lisse, blanchâtre à blanc jaunâtre,
+    se tachant parfois de brun jaunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis surmonté d'une partie en ixocutis
   pileitrame: 
   pileocystides: peu nombreuses, cylindriques, sulfopipéronal positif (SP+)
   plasmode: 
-  pleurocystides: nombreuses, fragiles, cylindriques avec apex moniliformes, à cylindriques avec étranglement et se terminant souvent mucronées
+  pleurocystides: nombreuses, fragiles, cylindriques avec apex moniliformes, à cylindriques
+    avec étranglement et se terminant souvent mucronées
   poils: septés
   poils-basaux: 
   poils-caulinaires: 
@@ -255,7 +261,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée IIc-IId, crème ocre, d’après la charte de couleur de Romagnesi ; C-D d’après la charte de couleur de Kibby
+  sporee: pallidosporée IIc-IId, crème ocre, d’après la charte de couleur de Romagnesi
+    ; C-D d’après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -284,3 +291,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

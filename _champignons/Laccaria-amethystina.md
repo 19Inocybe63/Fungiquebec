@@ -1,31 +1,29 @@
 ---
+title: Laccaria Amethystina
+date: 2017-03-25 00:00:00 Z
 nom: Laccaria amethystina
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3677/19729624453_57b5fb126c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19729624453/in/photolist-w4rtYR-wHGdyw
 album-flickr:
-  - 72157675957495435
-
+- 72157675957495435
 details:
   nom-francais: 
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
-  espece: <i>Laccaria amethystina</i> Cooke
+  espece: "<i>Laccaria amethystina</i> Cooke"
   litterature: Cooke, M.C. 1884. New British fungi. Grevillea. 12(63):65-70
-
 collections:
-  - fongarium: cKc0397
-    date: 6 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0397
+  date: 6 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,7 +66,9 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau ou plus pâle
   chancre: 
-  chapeau: 21 mm Ø, convexe à étalé, puis déprimé, à marge égale ou légèrement enroulée ; non plissé ou légèrement à maturité, finement squameux à presque glabre, pourpre grisâtre, changeant de couleur en séchant.
+  chapeau: 21 mm Ø, convexe à étalé, puis déprimé, à marge égale ou légèrement enroulée
+    ; non plissé ou légèrement à maturité, finement squameux à presque glabre, pourpre
+    grisâtre, changeant de couleur en séchant.
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -202,7 +202,9 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 66 x 2 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à grossièrement strié à écailleux, concolore au chapeau, avec mycélium basal lilas à blanchâtre.
+  pied: 66 x 2 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à
+    grossièrement strié à écailleux, concolore au chapeau, avec mycélium basal lilas
+    à blanchâtre.
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -227,11 +229,15 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
+  publications: "<b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales)
+    in the Continental United States and Canada, with Discussions on Extralimital
+    Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30,
+    Published by Field Museum of Natural History, June 1992, Publication 1435, 180
+    p.\n"
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = surface du chapeau devenant brunâtre
+  reactions-macrochimiques: 'Potasse (KOH 10%) = surface du chapeau devenant brunâtre
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -274,3 +280,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

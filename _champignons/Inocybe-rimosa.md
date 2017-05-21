@@ -1,31 +1,29 @@
 ---
+title: Inocybe Rimosa
+date: 2017-03-26 00:00:00 Z
 nom: Inocybe rimosa
-date: 2017-03-26 00:00:00
 image: https://c2.staticflickr.com/6/5831/19949912134_a097b3d209_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19949912134/in/photolist-AYH9DB-woUvQj-x4iWC5/
 album-flickr:
-  - 72157676790172411
-
+- 72157676790172411
 details:
   nom-francais: Inocybe rimeux
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe rimosa</i> (Bull.) P. Kumm.
+  espece: "<i>Inocybe rimosa</i> (Bull.) P. Kumm."
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-
 collections:
-  - fongarium: cKc0405
-    date: 14 août 2015
-    planche:
-      numero: cKc0405-0103
-      miniature: https://c2.staticflickr.com/6/5666/22957882573_3ff7c20644_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/22957882573/in/photolist-AYH9DB-woUvQj-x4iWC5/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0405
+  date: 14 août 2015
+  planche:
+    numero: cKc0405-0103
+    miniature: https://c2.staticflickr.com/6/5666/22957882573_3ff7c20644_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/22957882573/in/photolist-AYH9DB-woUvQj-x4iWC5/
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -52,7 +50,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: de deux types, claviformes à largement claviformes et capitées, tétrasporiques, bouclées à la base, 25,6 [30,6; 34,5] 39,6 x 7,6 [9,6; 11,2] 13,2 µm
+  basides: de deux types, claviformes à largement claviformes et capitées, tétrasporiques,
+    bouclées à la base, 25,6 [30,6; 34,5] 39,6 x 7,6 [9,6; 11,2] 13,2 µm
   basidiospores: |
     ovoïdes en vue frontale, ovoïdes à phaséolées ou réniformes vues de profil, lisse, à paroi mince, avec un petit appendice hilaire, à contenu uniguttulé, brun pâle à rougeâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     8,9 [9,8; 10,2] 11 x 4,8 [5,3; 5,5] 6 µm
@@ -79,9 +78,11 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 33 mm Ø, subconique à campanulé, rimeux, jaune paille, à jaune brun-rougeâtre, blanchâtre au centre (velipellis)
-  cheilochrysocystides:
-  cheilocystides: abondantes, piriformes à largement clavées 25,6 [30,6; 34,5] 39,6 x 7,6 [9,6; 11,2] 13,2 µm
+  chapeau: 33 mm Ø, subconique à campanulé, rimeux, jaune paille, à jaune brun-rougeâtre,
+    blanchâtre au centre (velipellis)
+  cheilochrysocystides: 
+  cheilocystides: abondantes, piriformes à largement clavées 25,6 [30,6; 34,5] 39,6
+    x 7,6 [9,6; 11,2] 13,2 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -90,7 +91,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Une fois déshydraté, cette collection sent un mélange de sueur et d'urine. »
+  commentaires: De Claude Kaufholtz-Couture. « Une fois déshydraté, cette collection
+    sent un mélange de sueur et d'urine. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -183,7 +185,10 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à souvent sublibres, jusqu’à 7-8 mm de large, gris pâle à gris beige, ocres lorsque jeune, brunâtre sal à brunâtre pâle lorsque mature, parfois avec teinte olive ou jaunâtre, sur le bord supérieur, un peu ondulées, blanchâtres, ciliées lorsque mature
+  lames: adnées à souvent sublibres, jusqu’à 7-8 mm de large, gris pâle à gris beige,
+    ocres lorsque jeune, brunâtre sal à brunâtre pâle lorsque mature, parfois avec
+    teinte olive ou jaunâtre, sur le bord supérieur, un peu ondulées, blanchâtres,
+    ciliées lorsque mature
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -216,7 +221,8 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 39 x 5 mm Ø, cylindrique, subbulbeux à napiforme, lisse, blanchâtre ou se tachant légèrement
+  pied: 39 x 5 mm Ø, cylindrique, subbulbeux à napiforme, lisse, blanchâtre ou se
+    tachant légèrement
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -255,8 +261,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 12, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
+  reactions-macrochimiques: 'Réactif d''Ehrlich (Paradiméthylaminobenzaldéhyde ou
+    P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
+
+'
   receptacle: 
   remarques: Sous genre Rimosae ; Clé de Fatto, A D F I K L N Q
   repartition: 
@@ -319,3 +327,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

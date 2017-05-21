@@ -1,31 +1,29 @@
 ---
+title: Lentinellus Flabelliformis
+date: 2017-03-25 00:00:00 Z
 nom: Lentinellus flabelliformis
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8192/8084204057_9ff65926da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084204057/in/photolist-dwGgDp-djnDe7-djnEdz
 album-flickr:
-  - 72157675222116356
-
+- 72157675222116356
 details:
   nom-francais: Lentin en éventail
   ordre: Russulales
   famille: Auriscalpiaceae
   genre: Lentinellus
-  espece: <i>Lentinellus flabelliformis</i> (Bolton) S. Ito 
+  espece: "<i>Lentinellus flabelliformis</i> (Bolton) S. Ito"
   litterature: Ito, S. 1955. Mycological Flora of Japan. Basidiomycetes. 2(4):1-450
-
 collections:
-  - fongarium: cKc0021
-    date: 13 octobre 2012
-    planche:
-      numero: cKc0021-0002
-      miniature: https://c1.staticflickr.com/9/8058/8223633205_b17927e549_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8223633205/in/photolist-dwGgDp-djnDe7-djnEdz
-    geolocalisation: 46°54'03.96"N 71°10'40.83"O
-    elevation: 145 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0021
+  date: 13 octobre 2012
+  planche:
+    numero: cKc0021-0002
+    miniature: https://c1.staticflickr.com/9/8058/8223633205_b17927e549_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8223633205/in/photolist-dwGgDp-djnDe7-djnEdz
+  geolocalisation: 46°54'03.96"N 71°10'40.83"O
+  elevation: 145 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -69,10 +67,19 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, ± tenace, flexible, blanchâtre, concolore à la surface du chapeau ou parfois brun foncé
+  chair: mince, ± tenace, flexible, blanchâtre, concolore à la surface du chapeau
+    ou parfois brun foncé
   chancre: 
-  chapeau: 27 mm Ø, polymorphe, pétaloïde-arrondi, flabelliforme, à infundibuliforme, convexe puis convexe-étalé, ± circulaire, mince, lisse, subglabre, finement strié radialement vers l'intérieur et parfois fendu, hygrophane, rosâtre-vineux à cannelle brunâtre au frais, parfois avec plaques peu définies et stries radiales brun foncé à cannelle orangé, puis blanchâtre et gris jaunâtre à brun vers le pourtour, tan à brun foncé au sec, à marge enroulée à incurvée au début, puis droite, légèrement striée, souvent légèrement crénelée
-  cheilocystides: dispersées à nombreuses, fusiformes, souvent atténuées vers l'apex, à paroi mince, hyalines, (25) 30-42 (55) x (4) 5-7 µm, émergentes sur 1/3-1/2 de leur longueur totale
+  chapeau: 27 mm Ø, polymorphe, pétaloïde-arrondi, flabelliforme, à infundibuliforme,
+    convexe puis convexe-étalé, ± circulaire, mince, lisse, subglabre, finement strié
+    radialement vers l'intérieur et parfois fendu, hygrophane, rosâtre-vineux à cannelle
+    brunâtre au frais, parfois avec plaques peu définies et stries radiales brun foncé
+    à cannelle orangé, puis blanchâtre et gris jaunâtre à brun vers le pourtour, tan
+    à brun foncé au sec, à marge enroulée à incurvée au début, puis droite, légèrement
+    striée, souvent légèrement crénelée
+  cheilocystides: dispersées à nombreuses, fusiformes, souvent atténuées vers l'apex,
+    à paroi mince, hyalines, (25) 30-42 (55) x (4) 5-7 µm, émergentes sur 1/3-1/2
+    de leur longueur totale
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -205,7 +212,11 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: < 1 mm de largeur, 11 mm de longueur, absent ou très court, centré, excentré à latéral, à obclavé, lisse à subglabre, côtelé par les lames décurrentes, chamois rosé, brun grisâtre, brun foncé, brun pourpré foncé à brun-noir, parfois avec fin mycélium basal cotonneux à laineux brun grisâtre à vineux et/ou délicats rhizomorphes aplatis, palmés aux ramifications
+  pied: "< 1 mm de largeur, 11 mm de longueur, absent ou très court, centré, excentré
+    à latéral, à obclavé, lisse à subglabre, côtelé par les lames décurrentes, chamois
+    rosé, brun grisâtre, brun foncé, brun pourpré foncé à brun-noir, parfois avec
+    fin mycélium basal cotonneux à laineux brun grisâtre à vineux et/ou délicats rhizomorphes
+    aplatis, palmés aux ramifications"
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -283,3 +294,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

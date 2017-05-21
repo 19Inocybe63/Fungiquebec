@@ -1,31 +1,30 @@
 ---
+title: Laccaria Striatula
+date: 2017-03-25 00:00:00 Z
 nom: Laccaria striatula
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7412/9146599462_fb7a75f103_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9146599462/in/photolist-eW4mtk-eWfHmJ
 album-flickr:
-  - 72157679270615846
-
+- 72157679270615846
 details:
   nom-francais: Laccaire strié
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
-  espece: <i>Laccaria striatula</i> (Peck) Peck
-  litterature: Peck, C.H. 1912. Report of the State Botanist 1911. Bulletin of the New York State Museum. 157:1-139
-
+  espece: "<i>Laccaria striatula</i> (Peck) Peck"
+  litterature: Peck, C.H. 1912. Report of the State Botanist 1911. Bulletin of the
+    New York State Museum. 157:1-139
 collections:
-  - fongarium: cKc0051
-    date: 26 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0051
+  date: 26 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +50,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, parmi les sphaignes des milieux humides, sous conifères et feuillus
+  biotopes: pousse au sol, parmi les sphaignes des milieux humides, sous conifères
+    et feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +68,9 @@ description:
   cellules-stromatiques: 
   chair: très mince, concolore au chapeau
   chancre: 
-  chapeau: 28 mm Ø, convexe puis étalé-déprimé, conique tronqué, ombiliqué, lisse, hygrophane, brun rougeâtre à orange brun, à marge longuement translucide-striée
-  cheilochrysocystides:
+  chapeau: 28 mm Ø, convexe puis étalé-déprimé, conique tronqué, ombiliqué, lisse,
+    hygrophane, brun rougeâtre à orange brun, à marge longuement translucide-striée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -207,7 +208,8 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 20-70 x 1-4 mm Ø, égal, farci, glabre, parfois un peu strié, concolore au chapeau, ou plus foncé
+  pied: 20-70 x 1-4 mm Ø, égal, farci, glabre, parfois un peu strié, concolore au
+    chapeau, ou plus foncé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,8 +235,11 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
+  publications: "<b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales)
+    in the Continental United States and Canada, with Discussions on Extralimital
+    Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30,
+    Published by Field Museum of Natural History, June 1992, Publication 1435, 180
+    p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -257,8 +262,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Clitocybe laccata var. striatula</i> Peck, Annual Report on the New York State Museum of Natural History 48:274 (1897)
+  synonymie: "<i>Clitocybe laccata var. striatula</i> Peck, Annual Report on the New
+    York State Museum of Natural History 48:274 (1897)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -274,3 +279,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

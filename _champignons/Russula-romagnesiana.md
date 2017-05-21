@@ -1,31 +1,30 @@
 ---
+title: Russula Romagnesiana
+date: 2017-03-27 00:00:00 Z
 nom: Russula romagnesiana
-date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/1/485/19540518869_9cc363d8bc_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19540518869/in/photolist-FubZvg-vLJgtK-vLJm7x
 album-flickr:
-  - 72157676693996480
-
+- 72157676693996480
 details:
   nom-francais: 
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula romagnesiana</i> Shaffer
-  litterature: Shaffer, R.L. 1964. The subsection Lactarioideae of Russula. Mycologia. 56(2):202-231
-
+  espece: "<i>Russula romagnesiana</i> Shaffer"
+  litterature: Shaffer, R.L. 1964. The subsection Lactarioideae of Russula. Mycologia.
+    56(2):202-231
 collections:
-  - fongarium: cKc0347
-    date: 15 juillet 2015
-    planche:
-      numero: cKc0347-0117
-      miniature: https://c2.staticflickr.com/2/1582/25916920405_4a0b61cda0_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/25916920405/in/photolist-FubZvg-vLJgtK-vLJm7x
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0347
+  date: 15 juillet 2015
+  planche:
+    numero: cKc0347-0117
+    miniature: https://c2.staticflickr.com/2/1582/25916920405_4a0b61cda0_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/25916920405/in/photolist-FubZvg-vLJgtK-vLJm7x
+  geolocalisation: 
+  elevation: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -48,7 +47,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: longuement claviformes, tétrasporiques, non bouclées à la base, 47,2 - 61,0(61,2) × 10,6 - 12,6 µm
+  basides: longuement claviformes, tétrasporiques, non bouclées à la base, 47,2 -
+    61,0(61,2) × 10,6 - 12,6 µm
   basidiospores: |
     globuleuses à subglobuleuses, verruqueuses-échinulées moyennes et isolées, ne formant pas de zones proprement réticulées, peu aculéolées avec proéminences jusqu'à 1,5 µm de hauteur, à paroi mince, appendice hilaire petit, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (6,8) 7 - 7,8 (7,9) × (6,2) 6,4 - 7,1 (7,3) µm
@@ -75,9 +75,12 @@ description:
   cellules-stromatiques: 
   chair: épaisse, cassante, blanche, immuable
   chancre: 
-  chapeau: 90-100 mm Ø, convexe à déprimé, graduellement infundibuliforme, glabre, blanchâtre avec une teinte jaune terne à rouille au centre et légèrement sur le pourtour
-  cheilochrysocystides:
-  cheilocystides: abondantes, claviformes, au contenu pailleté hyalin, (36) 47,4 - 61,5 (68,2) × (6,5) 6,9 - 8,6 (8,7) µm
+  chapeau: 90-100 mm Ø, convexe à déprimé, graduellement infundibuliforme, glabre,
+    blanchâtre avec une teinte jaune terne à rouille au centre et légèrement sur le
+    pourtour
+  cheilochrysocystides: 
+  cheilocystides: abondantes, claviformes, au contenu pailleté hyalin, (36) 47,4 -
+    61,5 (68,2) × (6,5) 6,9 - 8,6 (8,7) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -180,7 +183,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, étroites, avec nombreuses lamellules, serrées, crème à chamois, aucune furcations
+  lames: adnées à subdécurrentes, étroites, avec nombreuses lamellules, serrées, crème
+    à chamois, aucune furcations
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -213,12 +217,14 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 40-50 x 20-30 mm Ø, cylindrique, égal, souvent court et trapu, ferme, lisse à subvelouté, blanc, avec zone vert cyan à l'apex, immuable
+  pied: 40-50 x 20-30 mm Ø, cylindrique, égal, souvent court et trapu, ferme, lisse
+    à subvelouté, blanc, avec zone vert cyan à l'apex, immuable
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: atypiques, cylindriques à clavées, septées, réaction sulfoaldéhyde négatif (SA-)
+  pileocystides: atypiques, cylindriques à clavées, septées, réaction sulfoaldéhyde
+    négatif (SA-)
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: semblables aux cheilocystides
@@ -265,7 +271,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée à pallidosporée, Ib-IIa, blanchâtre à crème pâle, d'après la charte de couleur de Romagnesi ; B-C d'après la charte de couleur de Kibby
+  sporee: leucosporée à pallidosporée, Ib-IIa, blanchâtre à crème pâle, d'après la
+    charte de couleur de Romagnesi ; B-C d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -290,3 +297,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Cortinarius Distans
+date: 2017-03-18 00:00:00 Z
 nom: Cortinarius distans
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/8/7072/27942307491_0d2d8e1b9c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27942307491/in/photolist-JLhYc9-JzaCwg
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Cortinaire à lames espacées
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius distans</i> Peck
-  litterature: Peck, C.H. 1873. Report of the Botanist (1869). Annual Report on the New York State Museum of Natural History. 23:27-135
-
+  espece: "<i>Cortinarius distans</i> Peck"
+  litterature: Peck, C.H. 1873. Report of the Botanist (1869). Annual Report on the
+    New York State Museum of Natural History. 23:27-135
 collections:
-  - fongarium: cKc0504
-    date: 1 juillet 2016
-    planche:
-      numero: cKc0504-0135
-      miniature: https://c2.staticflickr.com/8/7782/28068220902_36dc4f123c_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/28068220902/in/dateposted/
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0504
+  date: 1 juillet 2016
+  planche:
+    numero: cKc0504-0135
+    miniature: https://c2.staticflickr.com/8/7782/28068220902_36dc4f123c_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/28068220902/in/dateposted/
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,7 +48,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, rarement ventrues, tétrasporiques, bouclées à la base, hyalines, avec contenu vacuolaire, 32,5 - 40,8 × 9 - 10,2 µm en moyenne
+  basides: claviformes, rarement ventrues, tétrasporiques, bouclées à la base, hyalines,
+    avec contenu vacuolaire, 32,5 - 40,8 × 9 - 10,2 µm en moyenne
   basidiospores: |
     ellipsoïdes à courtement ellipsoïdes, parfois subcitriformes en vue frontale, ellipsoïdes à largement ellipsoïdes, avec parfois un angle adaxial supra-hilaire « ou avec une extrémité subfusoïdes » (M. Kuo) vues de profil, finement à moyennement verruqueuses, à paroi mince, appendice hilaire visible, à contenu uniguttulé, brun cannelle à brun foncé dans E.G. 20%, dextrinoïdes, non cyanophiles
     (7,4) 7,8 - 8,6 (9) × (5,3) 5,4 - 6 (6,2) µm
@@ -71,13 +71,16 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, polymorphes, bouclées, piriformes, claviformes, cylindriques, étroitement utriformes, ± 16,5 - 34,5 × ± 4,3 - 9,8 µm en moyenne
+  cellules-marginales-paracystides: nombreuses, polymorphes, bouclées, piriformes,
+    claviformes, cylindriques, étroitement utriformes, ± 16,5 - 34,5 × ± 4,3 - 9,8
+    µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 8-22 mm Ø, convexe, conique-campanulé, umboné, hygrophane, fibrilleux-squamuleux, brun cannelle imbu, brun beige à orangé sec
-  cheilochrysocystides:
+  chapeau: 8-22 mm Ø, convexe, conique-campanulé, umboné, hygrophane, fibrilleux-squamuleux,
+    brun cannelle imbu, brun beige à orangé sec
+  cheilochrysocystides: 
   cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -212,10 +215,15 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 20-35 x 5-6 mm Ø, cylindrique avec cortine formant une zone annuliforme ; creux, chiné, parfois avec bandes annulaires ; fibrilleux, légèrement concolore à plus foncé
+  pied: 20-35 x 5-6 mm Ø, cylindrique avec cortine formant une zone annuliforme ;
+    creux, chiné, parfois avec bandes annulaires ; fibrilleux, légèrement concolore
+    à plus foncé
   pieds-steriles: 
   pigments: 
-  pileipellis: formé de deux couches, 1) suprapellis en cutis, constitué d'hyphes cylindriques, avec hyphes terminales obtuses, souvent en biseau, 24,1 - 59,7 × 4,7 - 8,4 µm en moyenne, 2) médiopellis formé de cellules plus grandes, ellipsoïdes à largement ellipsoïdes, ovoïdales, 23 - 52,9 × 10,5 - 19,7 µm en moyenne
+  pileipellis: formé de deux couches, 1) suprapellis en cutis, constitué d'hyphes
+    cylindriques, avec hyphes terminales obtuses, souvent en biseau, 24,1 - 59,7 ×
+    4,7 - 8,4 µm en moyenne, 2) médiopellis formé de cellules plus grandes, ellipsoïdes
+    à largement ellipsoïdes, ovoïdales, 23 - 52,9 × 10,5 - 19,7 µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -249,10 +257,12 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Tl4 = -
+  reactions-macrochimiques: 'Tl4 = -
+
+'
   receptacle: 
-  remarques: Le gélin présent sur l'arête lamellaire en couvrait une bonne partie, englobant ainsi les cellules marginales
+  remarques: Le gélin présent sur l'arête lamellaire en couvrait une bonne partie,
+    englobant ainsi les cellules marginales
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -270,8 +280,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Phaeomarasmius distans</i> (Peck) Singer, Lilloa 13:83 (1947)
+  synonymie: "<i>Phaeomarasmius distans</i> (Peck) Singer, Lilloa 13:83 (1947)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -287,3 +296,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

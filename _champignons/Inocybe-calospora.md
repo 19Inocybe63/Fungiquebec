@@ -1,71 +1,69 @@
 ---
+title: Inocybe Calospora
+date: 2017-03-26 00:00:00 Z
 nom: Inocybe calospora
-date: 2017-03-26 00:00:00
 image: https://c1.staticflickr.com/1/527/20002235135_b8e49c6294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20002235135/in/photolist-Ajog3r-wtwKDr-wtwFD2
 album-flickr:
-  - 72157678499858696
-
+- 72157678499858696
 details:
   nom-francais: Inocybe à jolies basidiospores
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe calospora</i> Quél.
+  espece: "<i>Inocybe calospora</i> Quél."
   litterature: Bresadola, G. 1882. Fungi tridentini. Fungi Tridentini. 1(2):15-26
-
 collections:
-  - fongarium: cKc0330
-    date: 7 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0335
-    date: 13 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0343
-    date: 19 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0345
-    date: 15 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0375
-    date: 25 juillet 2015
-    planche:
-      numero: cKc0375-0100
-      miniature: https://c1.staticflickr.com/1/644/22524170105_2e41373db9_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/22524170105/in/photolist-Ajog3r-wtwKDr-wtwFD2
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0330
+  date: 7 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0335
+  date: 13 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0343
+  date: 19 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0345
+  date: 15 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0375
+  date: 25 juillet 2015
+  planche:
+    numero: cKc0375-0100
+    miniature: https://c1.staticflickr.com/1/644/22524170105_2e41373db9_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/22524170105/in/photolist-Ajog3r-wtwKDr-wtwFD2
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -92,7 +90,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, rarement utriformes, tétrasporiques, 24,9 [30,6; 39,7] 45,4 x 9,9 [10,4; 11,3] 11,9 µm
+  basides: claviformes, rarement utriformes, tétrasporiques, 24,9 [30,6; 39,7] 45,4
+    x 9,9 [10,4; 11,3] 11,9 µm
   basidiospores: |
     globuleuses à subglobuleuses, aculéolées (digitéolées) dont l’apex est obtus mesurant entre 1,3 [1,9; 2,5] 3,3 x 0,8 [1,3; 1,8] 2,3 µm, à paroi mince à légèrement épaissie, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, légèrement rougeâtre dans le melzer, non cyanophiles
     (7,7) 8,2 [9,4; 9,9] 11,2 x (7) 7,6 [8,8; 9,4] 10,6 µm
@@ -102,14 +101,18 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, sol sablonneux, sous feuillus et conifères ; <i>Pinus</i>, <i>Quercus</i>
+  biotopes: pousse au sol, dans la mousse, sol sablonneux, sous feuillus et conifères
+    ; <i>Pinus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: présentes du centre vers l’apex, nombreuses, diversiformes, claviformes cylindriques à subcylindriques 10,6 [26; 56,8] 72,2 x 7,3 [9,4; 13,6] 15,7 µm, subglobuleux 14,6 [15; 16,9] 17,3 x 12,8 [12,9; 13,4] 13,5 µm, lagéniformes 57,3 x 11,6 µm en moyenne
+  caulocystides: présentes du centre vers l’apex, nombreuses, diversiformes, claviformes
+    cylindriques à subcylindriques 10,6 [26; 56,8] 72,2 x 7,3 [9,4; 13,6] 15,7 µm,
+    subglobuleux 14,6 [15; 16,9] 17,3 x 12,8 [12,9; 13,4] 13,5 µm, lagéniformes 57,3
+    x 11,6 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -119,8 +122,9 @@ description:
   cellules-stromatiques: 
   chair: légèrement jaunâtre à brunâtre, mais plus blanche dans le stipe
   chancre: 
-  chapeau: 11 x 18 mm Ø, campanulé, conique à étalé, légèrement mamelonné, tomenteux, méchuleux-écailleux, brun foncé à brun rougeâtre
-  cheilochrysocystides:
+  chapeau: 11 x 18 mm Ø, campanulé, conique à étalé, légèrement mamelonné, tomenteux,
+    méchuleux-écailleux, brun foncé à brun rougeâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -130,7 +134,10 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Dans les mesures des basidiospores, Kauffman (North American Flora, vol. 10, Part 4, <i>Inocybe</i>, 1924, p. 233) inclut les digitations dans la mesure. Pour ma part, je ne les inclus pas, elles sont mesurées à part. »
+  commentaires: De Claude Kaufholtz-Couture. « Dans les mesures des basidiospores,
+    Kauffman (North American Flora, vol. 10, Part 4, <i>Inocybe</i>, 1924, p. 233)
+    inclut les digitations dans la mesure. Pour ma part, je ne les inclus pas, elles
+    sont mesurées à part. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -225,8 +232,11 @@ description:
   hysterothece: 
   lames: adnées, cunéiformes, légèrement veinées, brun pâle
   lamprocystides: 
-  lamprocheilocystides: abondantes, diversiformes, métuloïdes, rarement avec un long col, lagéniformes, fusiformes légèrement ventrues à subcylindriques, avec paroi jusqu'à 3-4 µm, hyalines, 27 [32,8; 38,3] 42,1 x 9,5 [14,1; 16,6] 17,9 µm
-  lampropleurocystides: peu nombreuses, dispersées, lagéniformes à subfusiformes, à paroi jusqu'à 3-4 µm, hyalines, 29,5-51,2 x 10-15 µm
+  lamprocheilocystides: abondantes, diversiformes, métuloïdes, rarement avec un long
+    col, lagéniformes, fusiformes légèrement ventrues à subcylindriques, avec paroi
+    jusqu'à 3-4 µm, hyalines, 27 [32,8; 38,3] 42,1 x 9,5 [14,1; 16,6] 17,9 µm
+  lampropleurocystides: peu nombreuses, dispersées, lagéniformes à subfusiformes,
+    à paroi jusqu'à 3-4 µm, hyalines, 29,5-51,2 x 10-15 µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -256,10 +266,13 @@ description:
   peritheces: 
   phenologie: en juillet
   phialoconidies: 
-  pied: 20-42 x 1-2 mm Ø, cylindrique, égal, pruineux à l'apex blanchâtre, légèrement radicant à la base, avec de petites taches blanchâtres, qui s'effiloche à la coupe, brun foncé aux reflets rougeâtre, bulbillé
+  pied: 20-42 x 1-2 mm Ø, cylindrique, égal, pruineux à l'apex blanchâtre, légèrement
+    radicant à la base, avec de petites taches blanchâtres, qui s'effiloche à la coupe,
+    brun foncé aux reflets rougeâtre, bulbillé
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis formé d'hyphes articulées parfois en faisceaux, avec pigment incrustant
+  pileipellis: en cutis formé d'hyphes articulées parfois en faisceaux, avec pigment
+    incrustant
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -343,3 +356,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,29 @@
 ---
+title: Inocybe Stirpe Mixtilis
+date: 2017-03-26 00:00:00 Z
 nom: Inocybe stirpe mixtilis
-date: 2017-03-26 00:00:00
 image: https://c2.staticflickr.com/6/5769/20824170299_f2ac300786_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20824170299/in/photolist-HtmErz-xJajjX-x4MHWH
 album-flickr:
-  - 72157678432576090
-
+- 72157678432576090
 details:
   nom-francais: 
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe stirpe mixtilis</i>
+  espece: "<i>Inocybe stirpe mixtilis</i>"
   litterature: 
-
 collections:
-  - fongarium: cKc0444
-    date: 30 août 2015
-    planche:
-      numero: cKc0444-0127
-      miniature: https://c2.staticflickr.com/8/7659/27220204435_b477c21568_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/27220204435/in/dateposted/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0444
+  date: 30 août 2015
+  planche:
+    numero: cKc0444-0127
+    miniature: https://c2.staticflickr.com/8/7659/27220204435_b477c21568_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/27220204435/in/dateposted/
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -62,7 +60,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans un sol sablonneux, sous <i>Pinus</i>, <i>Quercus</i>, en milieu ouvert, au potentiel hydrogène (pH) 4-6
+  biotopes: pousse dans un sol sablonneux, sous <i>Pinus</i>, <i>Quercus</i>, en milieu
+    ouvert, au potentiel hydrogène (pH) 4-6
   boucles: observées dans le pileipellis
   brachybasidioles: 
   calicule: 
@@ -70,17 +69,24 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: présentes, de type lamprocaulocystides, sensiblement comme les sommitales
-  caulocystides-sommitales: présentes, de type lamprocaulocystides, fusiformes à largement fusiformes (41,8) 46,6 - 56,3 (59,7) × (13,3) 16,4 - 22,6 (23,8) µm, à piriformes, (13,4) 13,45 - 23,2 × (5,1) 5,15 - 11,8 µm en moyenne
+  caulocystides-medianes: présentes, de type lamprocaulocystides, sensiblement comme
+    les sommitales
+  caulocystides-sommitales: présentes, de type lamprocaulocystides, fusiformes à largement
+    fusiformes (41,8) 46,6 - 56,3 (59,7) × (13,3) 16,4 - 22,6 (23,8) µm, à piriformes,
+    (13,4) 13,45 - 23,2 × (5,1) 5,15 - 11,8 µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, piriformes, (16,9) 16,91 - 22,3 × (8,9) 8,94 - 9,6 µm en moyenne
+  cellules-marginales-paracystides: nombreuses, piriformes, (16,9) 16,91 - 22,3 ×
+    (8,9) 8,94 - 9,6 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 23-25 mm Ø, conique-convexe, conique, campanulé, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
-  cheilochrysocystides:
+  chapeau: 23-25 mm Ø, conique-convexe, conique, campanulé, soyeux-viscidule, vite
+    sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune
+    ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du
+    velipellis
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -90,7 +96,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Peut-être s'agit-il de <i>I. mixtilis</i>, mais j'ai des doutes. L'analyse d'ADN nous apportera plus de précisions. »
+  commentaires: De Claude Kaufholtz-Couture. « Peut-être s'agit-il de <i>I. mixtilis</i>,
+    mais j'ai des doutes. L'analyse d'ADN nous apportera plus de précisions. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -185,10 +192,15 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crèmes à gris pâle puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
+  lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crèmes
+    à gris pâle puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes
+    ciliées, concolores aux faces
   lamprocystides: 
-  lamprocheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, parfois ovoïdes, (39,8) 46,3 - 56,2 (56,8) × (16,6) 19,5 - 21,3 (26,4) µm
-  lampropleurocystides: nombreuses, polymorphes, largement fusiformes, ellipsoïdes à ovoïdes à largement ovoïdes, (44) 50,8 - 53,6 (55,9) × (24,2) 25,5 - 29,6 (33,2) µm
+  lamprocheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes,
+    parfois ovoïdes, (39,8) 46,3 - 56,2 (56,8) × (16,6) 19,5 - 21,3 (26,4) µm
+  lampropleurocystides: nombreuses, polymorphes, largement fusiformes, ellipsoïdes
+    à ovoïdes à largement ovoïdes, (44) 50,8 - 53,6 (55,9) × (24,2) 25,5 - 29,6 (33,2)
+    µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -219,7 +231,8 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 48-50 x 3-4 mm Ø, cylindrique, avec bulbe ± marginé, pruineux, blanchâtre au début, puis crème, jaune pâle à teinté de jaune ocre
+  pied: 48-50 x 3-4 mm Ø, cylindrique, avec bulbe ± marginé, pruineux, blanchâtre
+    au début, puis crème, jaune pâle à teinté de jaune ocre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -261,8 +274,9 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Collection étudiée sur matériel déshydraté
+  remarques: 'Collection étudiée sur matériel déshydraté
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -302,3 +316,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

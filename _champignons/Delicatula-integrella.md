@@ -1,31 +1,30 @@
 ---
+title: Delicatula Integrella
+date: 2017-03-20 00:00:00 Z
 nom: Delicatula integrella
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5584/14981972960_cd66ec9e93_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981972960/in/photolist-oPUwAC
 album-flickr:
-  - 72157675846416715
-
+- 72157675846416715
 details:
   nom-francais: Mycène délicate
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Delicatula
-  espece: <i>Delicatula integrella</i> (Pers.) Fayod
-  litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
-
+  espece: "<i>Delicatula integrella</i> (Pers.) Fayod"
+  litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés.
+    Annales des Sciences Naturelles Botanique. 9:181-411
 collections:
-  - fongarium: cKc0241
-    date: 7 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0241
+  date: 7 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,7 +67,8 @@ description:
   cellules-stromatiques: 
   chair: membraneuse, molle, blanche
   chancre: 
-  chapeau: 3-12 mm Ø, campanulé puis convexe-étalé et ombiliqué, lisse, blanc, à marge crénelée à sinueuse et légèrement récurvée avec l’âge, translucide-striée à l'humidité
+  chapeau: 3-12 mm Ø, campanulé puis convexe-étalé et ombiliqué, lisse, blanc, à marge
+    crénelée à sinueuse et légèrement récurvée avec l’âge, translucide-striée à l'humidité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -169,7 +169,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: réduites à des veines ou des plis émarginés à subdécurrents ; en partie fourchues, anastomosées, espacées, blanches, à arêtes entières
+  lames: réduites à des veines ou des plis émarginés à subdécurrents ; en partie fourchues,
+    anastomosées, espacées, blanches, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -202,7 +203,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 5-15 (25) x 5-7 mm Ø, cylindrique filiforme, égal, bulbilleux, cassant, lisse à finement velouté, transparent, blanc
+  pied: 5-15 (25) x 5-7 mm Ø, cylindrique filiforme, égal, bulbilleux, cassant, lisse
+    à finement velouté, transparent, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -269,3 +271,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

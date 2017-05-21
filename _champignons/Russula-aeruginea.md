@@ -1,41 +1,39 @@
 ---
+title: Russula Aeruginea
+date: 2017-03-27 00:00:00 Z
 nom: Russula aeruginea
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/4/3928/15457643411_fb0e938895_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15457643411/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
 album-flickr:
-  - 72157675077209080
-
+- 72157675077209080
 details:
   nom-francais: Russule vert-de-gris
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula aeruginea</i> Lindbl. ex Fr.
+  espece: "<i>Russula aeruginea</i> Lindbl. ex Fr."
   litterature: Fries, E.M. 1863. Monographia Hymenomycetum Sueciae. 2:1-355
-
 collections:
-  - fongarium: cKc0292
-    date: 6 octobre 2014
-    planche:
-      numero: cKc0292-0044
-      miniature: https://c2.staticflickr.com/8/7523/15466442337_86e36f97a9_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15466442337/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0470
-    date: 20 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0292
+  date: 6 octobre 2014
+  planche:
+    numero: cKc0292-0044
+    miniature: https://c2.staticflickr.com/8/7523/15466442337_86e36f97a9_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15466442337/in/photolist-pyHysV-yA9JsQ-yA9DUm-pgHkaM-pxWsRi
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0470
+  date: 20 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +54,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées, uniguttulées à pluriguttulées, 40-49 x 8-9 μm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées, uniguttulées à pluriguttulées,
+    40-49 x 8-9 μm en moyenne
   basidiospores: |
     globuleuses à subglobuleuses en vue frontale, elliptiques à largement elliptiques vues de profil, verrues isolées avec de rares connexifs, à paroi mince, avec appendice hilaire, proéminences jusqu'à 0,8 µm de hauteur, hyalines dans le NaCl iso 0,9%, amyloïdes
     6,1 [7; 7,4] 8,3 x 4,9 [5,5; 5,8] 6,3 µm
@@ -82,7 +81,8 @@ description:
   cellules-stromatiques: 
   chair: ferme, immuable, blanche
   chancre: 
-  chapeau: 47-86 mm Ø, blanc, crème, viscidule à glutineux lorsque mouillé, puis collant au sec, cuticule se pèle jusqu'au ½-⅔ du rayon ;
+  chapeau: 47-86 mm Ø, blanc, crème, viscidule à glutineux lorsque mouillé, puis collant
+    au sec, cuticule se pèle jusqu'au ½-⅔ du rayon ;
   cheilocystides: nombreuses, 54-55 x 10-13 µm, sulfobenzaldéhyde positif (SBA+)
   cheilomacrocystides: 
   chlamydospores: 
@@ -183,7 +183,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, souvent fourchues près du pied, cassantes, serrées, crème à chamois pâle, pas de lamellules, tachées de brunâtre par endroits à maturité
+  lames: adnées à subdécurrentes, souvent fourchues près du pied, cassantes, serrées,
+    crème à chamois pâle, pas de lamellules, tachées de brunâtre par endroits à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -216,12 +217,14 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 40-80 x 13-17 mm Ø, égal, plein, dont la base est atténuée, se tache légèrement de brun jaunâtre à maturité ou au froissement
+  pied: 40-80 x 13-17 mm Ø, égal, plein, dont la base est atténuée, se tache légèrement
+    de brun jaunâtre à maturité ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: abondantes 61-105 x 4-7 µm, faiblement sulfobenzaldéhyde positif (SBA+)
+  pileocystides: abondantes 61-105 x 4-7 µm, faiblement sulfobenzaldéhyde positif
+    (SBA+)
   plasmode: 
   pleurocystides: abondantes, 60-78 x 10-16 µm, sulfobenzaldéhyde positif (SBA+)
   poils: 
@@ -267,7 +270,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée IIIa, crème pâle, d'après la charte de couleur de Romagnesi ; E d'après la charte de couleur de Kibby
+  sporee: ocrosporée IIIa, crème pâle, d'après la charte de couleur de Romagnesi ;
+    E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -292,3 +296,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

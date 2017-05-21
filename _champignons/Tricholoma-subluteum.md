@@ -1,31 +1,30 @@
 ---
+title: Tricholoma Subluteum
+date: 2017-03-13 00:00:00 Z
 nom: Tricholoma subluteum
-date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3924/15348923981_4dd795fa5e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15348923981/in/photolist-pokdzX-pokfmn
 album-flickr:
-  - 72157672645720714
-
+- 72157672645720714
 details:
   nom-francais: Tricholome jaune
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholoma
-  espece: <i>Tricholoma subluteum</i> Peck
-  litterature: Peck, C.H. 1904. Report of the State Botanist 1903. Bulletin of the New York State Museum. 75:1-68 
-
+  espece: "<i>Tricholoma subluteum</i> Peck"
+  litterature: Peck, C.H. 1904. Report of the State Botanist 1903. Bulletin of the
+    New York State Museum. 75:1-68
 collections:
-  - fongarium: cKc0272
-    date: 25 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0272
+  date: 25 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,10 @@ description:
   cellules-stromatiques: 
   chair: blanche, jaunâtre sous la cuticule
   chancre: 
-  chapeau: 40-100 mm Ø, conique-arrondi puis convexe-étalé, parfois avec mamelon proéminent, viscidule, vite sec, orné de fibrilles innées, jaune verdâtre à jaune doré, se tachant lentement d'orange roux au froissement
-  cheilochrysocystides:
+  chapeau: 40-100 mm Ø, conique-arrondi puis convexe-étalé, parfois avec mamelon proéminent,
+    viscidule, vite sec, orné de fibrilles innées, jaune verdâtre à jaune doré, se
+    tachant lentement d'orange roux au froissement
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -78,7 +79,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Regarde le chapeau, s'il avait été sec, tu aurais pu supprimer facilement tout grain de terre. Mais là, ils sont incrustées car <i>T. subluteum</i> est viscidule... mais vite sec. »
+  commentaires: De Yves Lamoureux. « Regarde le chapeau, s'il avait été sec, tu aurais
+    pu supprimer facilement tout grain de terre. Mais là, ils sont incrustées car
+    <i>T. subluteum</i> est viscidule... mais vite sec. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -204,7 +207,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 50-100 x 10-20 mm Ø, égal à légèrement élargi vers la base, un peu fibrilleux, blanc, jaune par endroits
+  pied: 50-100 x 10-20 mm Ø, égal à légèrement élargi vers la base, un peu fibrilleux,
+    blanc, jaune par endroits
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,8 +234,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C. ; Trudell, Steven A.</b> <i>Tricholomas of North America</i>, A Mushroom field Guide, University of Texas Press, 2013, 208 p.
+  publications: "<b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C. ;
+    Trudell, Steven A.</b> <i>Tricholomas of North America</i>, A Mushroom field Guide,
+    University of Texas Press, 2013, 208 p.\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -253,8 +258,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Melanoleuca sublutea</i> (Peck) Murrill, North American Flora 10 (1):13 (1914)
+  synonymie: "<i>Melanoleuca sublutea</i> (Peck) Murrill, North American Flora 10
+    (1):13 (1914)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -270,3 +275,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

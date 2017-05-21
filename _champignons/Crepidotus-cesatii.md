@@ -1,31 +1,30 @@
 ---
+title: Crepidotus Cesatii
+date: 2017-03-20 00:00:00 Z
 nom: Crepidotus cesatii var. subsphaerosporus
-date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/9/8467/8084202795_cc78c9e611_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084202795/in/photolist-dxUEnx-djnDQP-dxXe3x
 album-flickr:
-  - 72157675223253036
-
+- 72157675223253036
 details:
   nom-francais: Crepidote à basidiospores sphériques
   ordre: Agaricales
   famille: Inocybaceae
   genre: Crepidotus
-  espece: <i>Crepidotus cesatii var. subsphaerosporus</i> (J.E. Lange) Senn-Irlet
-  litterature: Senn-Irlet, B. 1995. The genus Crepidotus (Fr.) Staude in Europe. Persoonia. 16(1):1-80
-
+  espece: "<i>Crepidotus cesatii var. subsphaerosporus</i> (J.E. Lange) Senn-Irlet"
+  litterature: Senn-Irlet, B. 1995. The genus Crepidotus (Fr.) Staude in Europe. Persoonia.
+    16(1):1-80
 collections:
-  - fongarium: cKc0035
-    date: 13 octobre 2012
-    planche:
-      numero: cKc0035-0003
-      miniature: https://c1.staticflickr.com/9/8490/8237367497_fec07817ff_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8237367497/in/photolist-dxUEnx-djnDQP-dxXe3x
-    geolocalisation: 46°54'03.96"N 71°10'40.83"O
-    elevation: 145 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0035
+  date: 13 octobre 2012
+  planche:
+    numero: cKc0035-0003
+    miniature: https://c1.staticflickr.com/9/8490/8237367497_fec07817ff_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8237367497/in/photolist-dxUEnx-djnDQP-dxXe3x
+  geolocalisation: 46°54'03.96"N 71°10'40.83"O
+  elevation: 145 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -71,7 +70,9 @@ description:
   cellules-stromatiques: 
   chair: plus épaisse au centre, amincie vers la marge, sans couche gélatinisée, blanche
   chancre: 
-  chapeau: 18 mm Ø, campanulé-convexe puis conchoïde, réniforme à étalé, velouté-feutré depuis une zone médiane au point d'attache, blanc, à marge longtemps enroulée, lobée
+  chapeau: 18 mm Ø, campanulé-convexe puis conchoïde, réniforme à étalé, velouté-feutré
+    depuis une zone médiane au point d'attache, blanc, à marge longtemps enroulée,
+    lobée
   cheilocystides: subcylindriques, fourchues, contournées, en bois de cerf
   cheilomacrocystides: 
   chlamydospores: 
@@ -171,7 +172,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: étroitement adnées, convergentes vers un point excentré, larges, épaisses, ventrues, subespacées, blanchâtres à rose carné au début, puis brunâtres, à arêtes fimbriées, blanchâtres
+  lames: étroitement adnées, convergentes vers un point excentré, larges, épaisses,
+    ventrues, subespacées, blanchâtres à rose carné au début, puis brunâtres, à arêtes
+    fimbriées, blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -278,3 +281,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

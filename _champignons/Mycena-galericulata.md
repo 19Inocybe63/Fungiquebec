@@ -1,31 +1,29 @@
 ---
+title: Mycena Galericulata
+date: 2017-03-25 00:00:00 Z
 nom: Mycena galericulata
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3827/19116582812_309bc0247f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19116582812/in/photolist-v8gu4o-uRbuMb-v7UN4S
 album-flickr:
-  - 72157675173497026
-
+- 72157675173497026
 details:
   nom-francais: Mycène en casque
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
-  espece: <i>Mycena galericulata</i> (Scop.) Gray
+  espece: "<i>Mycena galericulata</i> (Scop.) Gray"
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
-
 collections:
-  - fongarium: cKc0323
-    date: 24 juin 2015
-    planche:
-      numero: cKc0323-0091
-      miniature: https://c1.staticflickr.com/1/496/19112546040_a326d36a7f_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/19112546040/in/photolist-v8gu4o-uRbuMb-v7UN4S
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0323
+  date: 24 juin 2015
+  planche:
+    numero: cKc0323-0091
+    miniature: https://c1.staticflickr.com/1/496/19112546040_a326d36a7f_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/19112546040/in/photolist-v8gu4o-uRbuMb-v7UN4S
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: étroitement claviformes à longuement claviformes, bisporiques à tétrasporiques, non bouclées à la base 27,1 [34,8; 41,9] 49,6 x 5,2 [6,4; 7,6] 8,8 µm
+  basides: étroitement claviformes à longuement claviformes, bisporiques à tétrasporiques,
+    non bouclées à la base 27,1 [34,8; 41,9] 49,6 x 5,2 [6,4; 7,6] 8,8 µm
   basidiospores: |
     ovoïdales en vue frontale, elliptiques à largement elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, pore germinatif non visible, à contenu uniguttulé, hyaline dans le NaCl iso 0,9%, amyloïdes, cyanophiles
     7,5 [9,3; 10,1] 11,9 x 5,6 [6,9; 7,5] 8,8 µm
@@ -70,10 +69,18 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse au disque, uniformément atténuée jusqu'à la marge, très cartilagineuse, gris aqueux puis pâle
+  chair: épaisse au disque, uniformément atténuée jusqu'à la marge, très cartilagineuse,
+    gris aqueux puis pâle
   chancre: 
-  chapeau: 20-45 mm Ø, conique-obtus puis largement campanulé-conique, viscidule, ± ruguleux radialement, d'apparence cartilagineuse, non hygrophane, gris foncé à brun grisâtre, légèrement brun chamois vers la marge, graduellement tan pâle à brun cannelle, à marge ± incurvée au début, légèrement translucide-striée, se fendant souvent radialement jusqu'au disque
-  cheilocystides: abondantes, courtement piriformes à longuement piriformes, claviformes, subutriformes, parfois avec des ramifications du milieu à la base de la cheilocystide, 28,8 [36,4; 40,3] 47,8 x 3,6 [11,3; 15,3] 23 µm, avec de nombreuses diverticules du centre vers l’apex entre 1,0-5,0 µm de longueur
+  chapeau: 20-45 mm Ø, conique-obtus puis largement campanulé-conique, viscidule,
+    ± ruguleux radialement, d'apparence cartilagineuse, non hygrophane, gris foncé
+    à brun grisâtre, légèrement brun chamois vers la marge, graduellement tan pâle
+    à brun cannelle, à marge ± incurvée au début, légèrement translucide-striée, se
+    fendant souvent radialement jusqu'au disque
+  cheilocystides: abondantes, courtement piriformes à longuement piriformes, claviformes,
+    subutriformes, parfois avec des ramifications du milieu à la base de la cheilocystide,
+    28,8 [36,4; 40,3] 47,8 x 3,6 [11,3; 15,3] 23 µm, avec de nombreuses diverticules
+    du centre vers l’apex entre 1,0-5,0 µm de longueur
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -133,7 +140,8 @@ description:
   exhalaison-de-la-chair: indistincte
   exhalaison-des-lames: indistincte
   exoperidium: 
-  extremites-hyphales: verruqueuses et de petites diverticules entre 0,5-2,5 µm de longueur, du milieu à l'apex du cortex du stipe
+  extremites-hyphales: verruqueuses et de petites diverticules entre 0,5-2,5 µm de
+    longueur, du milieu à l'apex du cortex du stipe
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
@@ -173,7 +181,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, adnexées-sinuées, ± larges, 5-7 mm, fortement interveinées, subespacées à serrées, blanches à blanc grisâtre, parfois rose pâle, non tachées de rougeâtre, à arêtes entières, pâles
+  lames: adnées, adnexées-sinuées, ± larges, 5-7 mm, fortement interveinées, subespacées
+    à serrées, blanches à blanc grisâtre, parfois rose pâle, non tachées de rougeâtre,
+    à arêtes entières, pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,10 +216,14 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 45-90 (120) x 1-4 (6) mm Ø, cylindrique, égal, souvent longuement radicant, cartilagineux, creux, glabre, lisse ou strié-tordu, blanc grisâtre vers l'apex, fuligineux pâle vers la base, légèrement brunâtre à la base avec l'âge, ne tachant pas de rougeâtre
+  pied: 45-90 (120) x 1-4 (6) mm Ø, cylindrique, égal, souvent longuement radicant,
+    cartilagineux, creux, glabre, lisse ou strié-tordu, blanc grisâtre vers l'apex,
+    fuligineux pâle vers la base, légèrement brunâtre à la base avec l'âge, ne tachant
+    pas de rougeâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'hyphes ± parallèles, non bouclées, diverticulées entre 1-3 µm de longueur
+  pileipellis: formé d'hyphes ± parallèles, non bouclées, diverticulées entre 1-3
+    µm de longueur
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -279,3 +293,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

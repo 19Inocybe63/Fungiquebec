@@ -1,41 +1,41 @@
 ---
+title: Coprinopsis Lagopus
+date: 2017-03-18 00:00:00 Z
 nom: Coprinopsis lagopus
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/389/18517728959_f7543e0d50_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18517728959/in/photolist-udm81B-udmcEX
 album-flickr:
-  - 72157679422242935
-
+- 72157679422242935
 details:
   nom-francais: Coprin pied-de-lièvre
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinopsis
-  espece: <i>Coprinopsis lagopus</i> (Fr.) Redhead, Vilgalys & Moncalvo
-  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-
+  espece: "<i>Coprinopsis lagopus</i> (Fr.) Redhead, Vilgalys & Moncalvo"
+  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple,
+    J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu
+    lato. Taxon. 50(1):203-241
 collections:
-  - fongarium: sans numéro
-    date: 31 mai 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0310
-    date: 10 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 31 mai 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0310
+  date: 10 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -78,8 +78,13 @@ description:
   cellules-stromatiques: 
   chair: mince, gris pâle
   chancre: 
-  chapeau: jusqu'à 40 mm de hauteur x 20 mm Ø lorsque fermé, 50 mm Ø après expansion, elliptique, ovale et minuscule lorsqu'il est jeune, devenant large convexe ou en forme de cloche et finalement plus ou moins étalé, gris à noir, d'abord couvert d'un voile universel dense de poils argentés qui se décomposent en plaques au fur et à mesure que le spécimen grandit et peut finir par disparaître, dont la marge finement bordée se divise alors que les lames se dissolvent par déliquescence
-  cheilochrysocystides:
+  chapeau: jusqu'à 40 mm de hauteur x 20 mm Ø lorsque fermé, 50 mm Ø après expansion,
+    elliptique, ovale et minuscule lorsqu'il est jeune, devenant large convexe ou
+    en forme de cloche et finalement plus ou moins étalé, gris à noir, d'abord couvert
+    d'un voile universel dense de poils argentés qui se décomposent en plaques au
+    fur et à mesure que le spécimen grandit et peut finir par disparaître, dont la
+    marge finement bordée se divise alors que les lames se dissolvent par déliquescence
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -183,7 +188,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, étroites, modérément serrées, blanches au début, puis vite brun grisâtre à noirâtres, déliquescentes
+  lames: libres, étroites, modérément serrées, blanches au début, puis vite brun grisâtre
+    à noirâtres, déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -217,7 +223,9 @@ description:
   peritheces: 
   phenologie: de mai à juillet
   phialoconidies: 
-  pied: 50-100 x 2-5 mm Ø, légèrement atténué vers l'apex, clavé vers la base à bulbeux jusqu'à 8 mm Ø, creux, floconneux, hirsute, plus densément sur la partie inférieure, glabrescent, blanchâtre
+  pied: 50-100 x 2-5 mm Ø, légèrement atténué vers l'apex, clavé vers la base à bulbeux
+    jusqu'à 8 mm Ø, creux, floconneux, hirsute, plus densément sur la partie inférieure,
+    glabrescent, blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,8 +251,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+  publications: "<b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>.
+    <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of
+    agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005,
+    236 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -285,3 +295,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Gymnopus Dryophilus
+date: 2017-03-24 00:00:00 Z
 nom: Gymnopus dryophilus
-date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/3/2933/14435276209_1066824e4c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14435276209/in/photolist-nZAyGz-of43KE-nS6rBm-o9hkft/
 album-flickr:
-  - 72157672789138363
-
+- 72157672789138363
 details:
   nom-francais: Collybie du chêne
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Gymnopus
-  espece: <i>Gymnopus dryophilus</i> (Bull.) Murrill
-  litterature: Murrill, W.A. 1916. Agaricaceae Tribe Agariceae. North American Flora. 9(5):297-374
-
+  espece: "<i>Gymnopus dryophilus</i> (Bull.) Murrill"
+  litterature: Murrill, W.A. 1916. Agaricaceae Tribe Agariceae. North American Flora.
+    9(5):297-374
 collections:
-  - fongarium: cKc0184
-    date: 10 juillet 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0184
+  date: 10 juillet 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +50,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur litière ou brindilles, débris ligneux, sous feuillus et conifères
+  biotopes: pousse au sol, sur litière ou brindilles, débris ligneux, sous feuillus
+    et conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +68,10 @@ description:
   cellules-stromatiques: 
   chair: mince, blanchâtre à jaune-brun ou ocrée à maturité
   chancre: 
-  chapeau: 10-75 mm Ø, convexe avec une marge incurvée lorsque jeune, devenant largement convexe à plat, humide, glabre, brun rougeâtre foncé à brun lorsque jeune, devenant brun orangé, parfois pâle
-  cheilochrysocystides:
+  chapeau: 10-75 mm Ø, convexe avec une marge incurvée lorsque jeune, devenant largement
+    convexe à plat, humide, glabre, brun rougeâtre foncé à brun lorsque jeune, devenant
+    brun orangé, parfois pâle
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -171,7 +173,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées à sublibres, serrées, blanchâtres à rosâtres, devenant chamois, larges, à arêtes entières, souvent érodées avec l'âge
+  lames: adnexées à sublibres, serrées, blanchâtres à rosâtres, devenant chamois,
+    larges, à arêtes entières, souvent érodées avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -204,7 +207,10 @@ description:
   peritheces: 
   phenologie: de mai à octobre
   phialoconidies: 
-  pied: 10-100 x 2-7 mm Ø, cylindrique, égale, parfois légèrement évasé à la base, sec, flexibles et fibreux, glabre, blanchâtre au-dessus, grisâtre pâle en dessous, devenant plus foncé, creux à maturité, généralement avec de fins rhizomorphes blanchâtres attachés à la base
+  pied: 10-100 x 2-7 mm Ø, cylindrique, égale, parfois légèrement évasé à la base,
+    sec, flexibles et fibreux, glabre, blanchâtre au-dessus, grisâtre pâle en dessous,
+    devenant plus foncé, creux à maturité, généralement avec de fins rhizomorphes
+    blanchâtres attachés à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -232,8 +238,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = absence à faiblement jaunâtre-olive sur la surface du chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = absence à faiblement jaunâtre-olive
+    sur la surface du chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -275,3 +283,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,35 +1,35 @@
 ---
+title: Hericium Americanum
+date: 2017-04-04 00:00:00 Z
 nom: Hericium americanum
-date: 2017-04-04 00:00:00
 image: https://c2.staticflickr.com/6/5573/15127426101_04bd07380a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15127426101/in/photolist-p3L1Kp
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Hydne d'Amérique
   ordre: Russulales
   famille: Hericiaceae
   genre: Hericium
-  espece: <i>Hericium americanum</i> Ginns
-  litterature: Ginns, J. 1984. Hericium coralloides N. Amer. auct. (= H. americanum sp. nov.) and the European H. alpestre and H. coralloides. Mycotaxon. 20(1):39-43
-
+  espece: "<i>Hericium americanum</i> Ginns"
+  litterature: Ginns, J. 1984. Hericium coralloides N. Amer. auct. (= H. americanum
+    sp. nov.) and the European H. alpestre and H. coralloides. Mycotaxon. 20(1):39-43
 collections:
-  - fongarium: cKc0233
-    date: 3 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0233
+  date: 3 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
-  aiguillons: 5-20 (40) mm de longueur, blanchâtres au début, se décolorant de jaunâtre, rosâtre à brunâtre avec l'âge
+  aiguillons: 5-20 (40) mm de longueur, blanchâtres au début, se décolorant de jaunâtre,
+    rosâtre à brunâtre avec l'âge
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
@@ -49,7 +49,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 120-300 mm de hauteur, 100-200 (300) mm de largeur, formé d'une structure de rameaux denses, fourchus, arrivant d'une base commune et radicante, portant plusieurs grappes d'aiguillons pendants, en amas ou en rangées, blanchâtre
+  basidiome: 120-300 mm de hauteur, 100-200 (300) mm de largeur, formé d'une structure
+    de rameaux denses, fourchus, arrivant d'une base commune et radicante, portant
+    plusieurs grappes d'aiguillons pendants, en amas ou en rangées, blanchâtre
   bibliographies: 
   biotopes: pousse sur bois mort de feuillus, billes et souches
   boucles: 
@@ -69,7 +71,7 @@ description:
   chair: ferme, blanche, immuable
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -268,3 +270,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

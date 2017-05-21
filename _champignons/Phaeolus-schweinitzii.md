@@ -1,31 +1,30 @@
 ---
+title: Phaeolus Schweinitzii
+date: 2017-03-25 00:00:00 Z
 nom: Phaeolus schweinitzii
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8572/28194357805_f133399607_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28194357805/in/photolist-JUqUMo-JXrsik
 album-flickr:
-  - 72157678028591561
-
+- 72157678028591561
 details:
   nom-francais: Polypore de Schweinitz
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Phaeolus
-  espece: <i>Phaeolus schweinitzii</i> (Fr.) Pat.
-  litterature: Patouillard, N. 1900. Essai taxonomique sur les familles et les genres des Hyménomycètes. :1-184
-
+  espece: "<i>Phaeolus schweinitzii</i> (Fr.) Pat."
+  litterature: Patouillard, N. 1900. Essai taxonomique sur les familles et les genres
+    des Hyménomycètes. :1-184
 collections:
-  - fongarium: cKc0514
-    date: 9 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0514
+  date: 9 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,7 +48,8 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: annuel, piléé, stipité sur le sol de racines ou parfois effusé-réfléchi à sessile sur la base d'arbres vivants, les billes ou souches
+  basidiome: annuel, piléé, stipité sur le sol de racines ou parfois effusé-réfléchi
+    à sessile sur la base d'arbres vivants, les billes ou souches
   bibliographies: 
   biotopes: pousse au pied de souche de conifère
   boucles: 
@@ -68,8 +68,11 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 250 mm Ø, circulaire, irrégulièrement lobé, dimidié, tomenteux à hirsute, noduleux-bosselé, légèrement zoné, orangé au début, brun jaunâtre à maturité, brun rougeâtre foncé au sec, à marge jaune soufre à vert-jaune au frais, brun-rouge à noire avec l'âge
-  cheilochrysocystides:
+  chapeau: jusqu'à 250 mm Ø, circulaire, irrégulièrement lobé, dimidié, tomenteux
+    à hirsute, noduleux-bosselé, légèrement zoné, orangé au début, brun jaunâtre à
+    maturité, brun rougeâtre foncé au sec, à marge jaune soufre à vert-jaune au frais,
+    brun-rouge à noire avec l'âge
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -83,7 +86,8 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: mou-fibreux, azoné, brun jaunâtre au début, brun rouille foncé avec l'âge, jusqu'à 15 mm d'épaisseur
+  contexte: mou-fibreux, azoné, brun jaunâtre au début, brun rouille foncé avec l'âge,
+    jusqu'à 15 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -133,7 +137,8 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: orangée au début, brun verdâtre et brun jaunâtre à brun rouille à maturité
+  face-poroïde: orangée au début, brun verdâtre et brun jaunâtre à brun rouille à
+    maturité
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -190,7 +195,8 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: solitaire ou en amas imbriqués, souvent concrescent et englobant des branches ou plantes herbacées
+  mode-de-croissance: solitaire ou en amas imbriqués, souvent concrescent et englobant
+    des branches ou plantes herbacées
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -226,7 +232,9 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: décurrents, distincts du contexte, verdâtres à brun rouille, jusqu'à 1,5 mm de longueur, anguleux à labyrinthiques, 1-2 par mm, à dissépiments épais, puis lacérés
+  pores: décurrents, distincts du contexte, verdâtres à brun rouille, jusqu'à 1,5
+    mm de longueur, anguleux à labyrinthiques, 1-2 par mm, à dissépiments épais, puis
+    lacérés
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -235,8 +243,10 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = devient noir sur le chapeau et le contexte ; sur jeunes sujets, il passe au rouge vin avant de noircir
+  reactions-macrochimiques: 'Potasse (KOH 10%) = devient noir sur le chapeau et le
+    contexte ; sur jeunes sujets, il passe au rouge vin avant de noircir
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -299,3 +309,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

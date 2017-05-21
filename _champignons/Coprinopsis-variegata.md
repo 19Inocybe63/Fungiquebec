@@ -1,31 +1,31 @@
 ---
+title: Coprinopsis Variegata
+date: 2017-03-18 00:00:00 Z
 nom: Coprinopsis variegata
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8008/7426245136_1209367d96_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7426245136/in/photolist-cmbCTq-cjerXf/
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Coprin écailleux
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinopsis
-  espece: <i>Coprinopsis variegata</i> (Peck) Redhead, Vilgalys & Moncalvo
-  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-
+  espece: "<i>Coprinopsis variegata</i> (Peck) Redhead, Vilgalys & Moncalvo"
+  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple,
+    J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu
+    lato. Taxon. 50(1):203-241
 collections:
-  - fongarium: sans numéro
-    date: 23 juillet 2012
-    planche:
-      numero: ÉTUDE0001
-      miniature: https://c2.staticflickr.com/8/7253/7448329574_d3626fa303_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/7448329574/in/photolist-cmbCTq-cjerXf/
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 23 juillet 2012
+  planche:
+    numero: ÉTUDE0001
+    miniature: https://c2.staticflickr.com/8/7253/7448329574_d3626fa303_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/7448329574/in/photolist-cmbCTq-cjerXf/
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -47,8 +47,10 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: |
-    brun foncé, ellipsoïdes, lisses, avec pore germinatif centré, 7,5-10 X 4-5 µm
+  basidiospores: 'brun foncé, ellipsoïdes, lisses, avec pore germinatif centré, 7,5-10
+    X 4-5 µm
+
+'
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -69,8 +71,11 @@ description:
   cellules-stromatiques: 
   chair: fragile, mince, blanchâtre
   chancre: 
-  chapeau: 40-80 de hauteur x 20-70 mm Ø, ovoïde puis conique à campanulé, couvert d'une couche feutrée blanchâtre au début, puis fragmenté en gros flocons et plaques lâches et fugaces, brunes sur fond blanchâtre à beige puis gris ou gris-brun, à marge profondément striée
-  cheilochrysocystides:
+  chapeau: 40-80 de hauteur x 20-70 mm Ø, ovoïde puis conique à campanulé, couvert
+    d'une couche feutrée blanchâtre au début, puis fragmenté en gros flocons et plaques
+    lâches et fugaces, brunes sur fond blanchâtre à beige puis gris ou gris-brun,
+    à marge profondément striée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -173,7 +178,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres à adnexées, larges, très serrées, blanches, vite grisâtres à gris pourpré, noires à la fin, déliquescentes
+  lames: libres à adnexées, larges, très serrées, blanches, vite grisâtres à gris
+    pourpré, noires à la fin, déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +213,9 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 40-120 x 5-12 mm Ø, cylindrique, subégal, subbulbeux, creux, feutré, écailleux à laineux, strié blanchâtre, parfois avec restes de voile partiel ou d'aspect engainé, plus rarement avec anneau, avec rhizomorphes brunâtres à la base
+  pied: 40-120 x 5-12 mm Ø, cylindrique, subégal, subbulbeux, creux, feutré, écailleux
+    à laineux, strié blanchâtre, parfois avec restes de voile partiel ou d'aspect
+    engainé, plus rarement avec anneau, avec rhizomorphes brunâtres à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,10 +241,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E.  Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
-  publications-microscopiques: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+  publications: "<b>Noordeloos, Machiel E.  Kuyper, Th. W. ; Vellinger, E. C</b>.
+    <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of
+    agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005,
+    236 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -245,8 +253,9 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Première planche micrographique !
+  remarques: 'Première planche micrographique !
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -279,7 +288,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: laissant parfois un anneau fugace, formé d'éléments véliques en sphérocystes jusqu'à 10 µm Ø
+  voile-partiel: laissant parfois un anneau fugace, formé d'éléments véliques en sphérocystes
+    jusqu'à 10 µm Ø
   volve: 
   zone-perihymeniale: 
 ---
+

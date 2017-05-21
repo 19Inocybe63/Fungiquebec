@@ -1,31 +1,30 @@
 ---
+title: Clavaria Zollingeri
+date: 2017-03-18 00:00:00 Z
 nom: Clavaria zollingeri
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3820/9342634870_f7bdf1a814_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9342634870/in/photolist-fezrRy
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Clavaire violette
   ordre: Agaricales
   famille: Clavariaceae
   genre: Clavaria
-  espece: <i>Clavaria zollingeri</i> Lév.
-  litterature: Léveillé, J.H. 1846. Descriptions des champignons de l'herbier du Muséum de Paris. Annales des Sciences Naturelles Botanique. 5:111-167
-
+  espece: "<i>Clavaria zollingeri</i> Lév."
+  litterature: Léveillé, J.H. 1846. Descriptions des champignons de l'herbier du Muséum
+    de Paris. Annales des Sciences Naturelles Botanique. 5:111-167
 collections:
-  - fongarium: cKc0086
-    date: 21 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°51'19.0"N 71°06'38.2"O
-    elevation: 83 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0086
+  date: 21 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°51'19.0"N 71°06'38.2"O
+  elevation: 83 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,7 +48,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 15-100 mm de hauteur, jusqu'à 20-70 mm Ø, dressé, coralloïde, formé de ramifications arrivant d'une même base, lisse, pourpre, améthyste foncé, violet, pourpre rougeâtre à pourpre rosâtre, plus foncé vers les bouts, pâlissant légèrement
+  basidiome: 15-100 mm de hauteur, jusqu'à 20-70 mm Ø, dressé, coralloïde, formé de
+    ramifications arrivant d'une même base, lisse, pourpre, améthyste foncé, violet,
+    pourpre rougeâtre à pourpre rosâtre, plus foncé vers les bouts, pâlissant légèrement
   bibliographies: 
   biotopes: pousse au sol, milieu herbeux, humus des forêts de feuillus
   boucles: 
@@ -69,7 +70,7 @@ description:
   chair: mince, cassante, pourprée
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -204,7 +205,9 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: jusqu'à 30 mm de longueur, 2-4 mm de largeur, variable, plus pâle, tan violacé terne, brun violacé grisâtre à grisâtre, jaunâtre avec l'âge, avec feutrage subiculaire blanc et parfois mycélien blanc à la base
+  pied: jusqu'à 30 mm de longueur, 2-4 mm de largeur, variable, plus pâle, tan violacé
+    terne, brun violacé grisâtre à grisâtre, jaunâtre avec l'âge, avec feutrage subiculaire
+    blanc et parfois mycélien blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -232,9 +235,14 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  rameaux: 2-6 mm Ø, abondants ou non, débutant près du sol, ± régulièrement dichotomiques en 2-4 fois, souvent divergents dans les derniers rangs, arrondis à légèrement aplatis, à aisselle étroitement arrondie et angle aigu au-dessus, puis alignés, arrondis, subhémisphériques, atténués à irréguliers à l'apex, brun violacé
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration sur toutes les surfaces
+  rameaux: 2-6 mm Ø, abondants ou non, débutant près du sol, ± régulièrement dichotomiques
+    en 2-4 fois, souvent divergents dans les derniers rangs, arrondis à légèrement
+    aplatis, à aisselle étroitement arrondie et angle aigu au-dessus, puis alignés,
+    arrondis, subhémisphériques, atténués à irréguliers à l'apex, brun violacé
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration
+    sur toutes les surfaces
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -270,3 +278,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

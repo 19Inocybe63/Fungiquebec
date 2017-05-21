@@ -1,31 +1,29 @@
 ---
+title: Mycena Filopes
+date: 2017-03-25 00:00:00 Z
 nom: Mycena filopes
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3887/15267237871_896b88bcc8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15267237871/in/photolist-pg7zVa
 album-flickr:
-  - # Exemple: 72157672806318152
-
+- 
 details:
   nom-francais: Mycène à pied filiforme
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
-  espece: <i>Mycena filopes</i> (Bull.) P. Kumm.
+  espece: "<i>Mycena filopes</i> (Bull.) P. Kumm."
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-
 collections:
-  - fongarium: cKc0263
-    date: 17 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0263
+  date: 17 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +49,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, au travers des aiguilles de conifères et dans l'humus, dans les zones moussues des forêts de feuillus
+  biotopes: pousse au sol, au travers des aiguilles de conifères et dans l'humus,
+    dans les zones moussues des forêts de feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +67,11 @@ description:
   cellules-stromatiques: 
   chair: mince, assez fragile, immuable
   chancre: 
-  chapeau: 5-25 mm Ø, conique à largement conique, campanulé ou avec long ombon obtus, légèrement pruineux-velouté au début, vite glabre et humide, translucide-strié à l'humidité, parfois sillonné avec l'âge, brun gris pâle, grisâtre avec un centre légèrement plus foncé, la marge bordée près du centre
-  cheilochrysocystides:
+  chapeau: 5-25 mm Ø, conique à largement conique, campanulé ou avec long ombon obtus,
+    légèrement pruineux-velouté au début, vite glabre et humide, translucide-strié
+    à l'humidité, parfois sillonné avec l'âge, brun gris pâle, grisâtre avec un centre
+    légèrement plus foncé, la marge bordée près du centre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -207,7 +209,10 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 50-120 x 1-3 mm Ø, cylindrique, égal, cassant, creux-tubuleux, finement pruineux au début, mais devient vite glabre, pâle au-dessus et brunâtre à grisâtre en-dessous, mais parfois avec de légères nuances bleuâtres ou lilas, mycélium basal poilu et blanc
+  pied: 50-120 x 1-3 mm Ø, cylindrique, égal, cassant, creux-tubuleux, finement pruineux
+    au début, mais devient vite glabre, pâle au-dessus et brunâtre à grisâtre en-dessous,
+    mais parfois avec de légères nuances bleuâtres ou lilas, mycélium basal poilu
+    et blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -278,3 +283,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

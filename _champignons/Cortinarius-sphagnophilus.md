@@ -1,31 +1,30 @@
 ---
+title: Cortinarius Sphagnophilus
+date: 2017-03-20 00:00:00 Z
 nom: Cortinarius sphagnophilus
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/4/3847/15248257151_723d4f11bd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15248257151/in/photolist-periBn
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Cortinaire des sphaignes
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius sphagnophilus</i> Peck
-  litterature: Peck, C.H. 1878. Report of the Botanist (1875). Annual Report on the New York State Museum of Natural History. 29:29-82
-
+  espece: "<i>Cortinarius sphagnophilus</i> Peck"
+  litterature: Peck, C.H. 1878. Report of the Botanist (1875). Annual Report on the
+    New York State Museum of Natural History. 29:29-82
 collections:
-  - fongarium: cKc0259
-    date: 15 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0259
+  date: 15 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,9 @@ description:
   cellules-stromatiques: 
   chair: violacée
   chancre: 
-  chapeau: 30-80 mm Ø, convexe puis étalé, viscidule, glabre, brun foncé à brun-jaune pâle, parfois olivâtre à la marge, orné de taches plus foncées vers la marge
-  cheilochrysocystides:
+  chapeau: 30-80 mm Ø, convexe puis étalé, viscidule, glabre, brun foncé à brun-jaune
+    pâle, parfois olivâtre à la marge, orné de taches plus foncées vers la marge
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -78,8 +78,11 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: |
-    De Yves Lamoureux. « Son pied peut-être nettement plus long quand il vient parmi les sphaignes ; et <i>C. scaurus</i> est son sosie, mais il s’en différencie par des lames vert olive. »
+  commentaires: 'De Yves Lamoureux. « Son pied peut-être nettement plus long quand
+    il vient parmi les sphaignes ; et <i>C. scaurus</i> est son sosie, mais il s’en
+    différencie par des lames vert olive. »
+
+'
   conidies: 
   conidiome: 
   conidiophores: 
@@ -208,7 +211,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 50-150 x 10-20 mm Ø, cylindrique, égal, bulbeux marginé, strié-fibrilleux, violacé au début, brunissant avec l'âge, avec mycélium basal olive
+  pied: 50-150 x 10-20 mm Ø, cylindrique, égal, bulbeux marginé, strié-fibrilleux,
+    violacé au début, brunissant avec l'âge, avec mycélium basal olive
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -278,3 +282,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

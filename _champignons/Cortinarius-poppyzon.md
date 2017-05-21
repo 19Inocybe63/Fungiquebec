@@ -1,31 +1,30 @@
 ---
+title: Cortinarius Poppyzon
+date: 2017-05-21 00:00:00 Z
 nom: Cortinarius aff. poppyzon
-date: 2017-05-21 00:00:00
 image: https://c2.staticflickr.com/6/5619/29289082834_c2f7203165_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29289082834/in/photolist-Rdv8ky-LCbcUN-MpxjQN
 album-flickr:
-  - 72157681215661825
-
+- 72157681215661825
 details:
   nom-francais: 
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius aff. poppyzon</i> Melot
-  litterature: Melot, J. 1989. Novitates - Combinationes et taxa nova. Documents Mycologiques. 20(77):93-100
-
+  espece: "<i>Cortinarius aff. poppyzon</i> Melot"
+  litterature: Melot, J. 1989. Novitates - Combinationes et taxa nova. Documents Mycologiques.
+    20(77):93-100
 collections:
-  - fongarium: cKc0569
-    date: 24 septembre 2016
-    planche:
-      numero: cKc0569-0159
-      miniature: https://c1.staticflickr.com/3/2926/32302962514_1a4d22d6c5_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/32302962514/in/photolist-Rdv8ky-LCbcUN-MpxjQN
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: 
-
+- fongarium: cKc0569
+  date: 24 septembre 2016
+  planche:
+    numero: cKc0569-0159
+    miniature: https://c1.staticflickr.com/3/2926/32302962514_1a4d22d6c5_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/32302962514/in/photolist-Rdv8ky-LCbcUN-MpxjQN
+  geolocalisation: 
+  elevation: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à utriformes, tétrasporiques jusqu'à 4,5 µm de longueur, bouclées à la base, à contenu granuleux, (22,9) 25,8 - 30,7 (31,9) × (6,7) 7,2 - 8,4 (9,1) µm
+  basides: claviformes à utriformes, tétrasporiques jusqu'à 4,5 µm de longueur, bouclées
+    à la base, à contenu granuleux, (22,9) 25,8 - 30,7 (31,9) × (6,7) 7,2 - 8,4 (9,1)
+    µm
   basidiospores: |
     ovoïdes vue frontale, elliptiques à largement elliptiques vues de profil, finement à modérément verruqueuses avec proéminences jusqu’à 5 µm de hauteur, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilaire, à contenu uniguttulé, brun rougeâtre pâle dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
     (6,1) 6,4 - 7,5 (8) × (4,6) 4,7 - 5,3 (5,5) µm
@@ -73,8 +74,9 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 21-36 mm Ø, campanulé à campanulé-étalé, fibrilleux, ± hygrophane, beige à ocre pâle, brun terre de sienne avec centre brun foncé rougeâtre
-  cheilochrysocystides:
+  chapeau: 21-36 mm Ø, campanulé à campanulé-étalé, fibrilleux, ± hygrophane, beige
+    à ocre pâle, brun terre de sienne avec centre brun foncé rougeâtre
+  cheilochrysocystides: 
   cheilocystides: non observées
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -179,7 +181,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, serrées, avec lamelles et lamellules, à arêtes lamellaires plus pâles, brun beige
+  lames: adnées à adnexées, serrées, avec lamelles et lamellules, à arêtes lamellaires
+    plus pâles, brun beige
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -213,10 +216,12 @@ description:
   peritheces: 
   phenologie: septembre
   phialoconidies: 
-  pied: 43-53 x 4-7 mm Ø, cylindrique, courbe, flexueux, soyeux-fibrilleux, avec guirlandes, ± bulbeux, beige avec reflets violacés, avec mycélium basal blanc
+  pied: 43-53 x 4-7 mm Ø, cylindrique, courbe, flexueux, soyeux-fibrilleux, avec guirlandes,
+    ± bulbeux, beige avec reflets violacés, avec mycélium basal blanc
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, formé d'hyphes cylindriques avec pigmentation brun pâle, 2,2 - 5,2 µm Ø en moyenne
+  pileipellis: en cutis, formé d'hyphes cylindriques avec pigmentation brun pâle,
+    2,2 - 5,2 µm Ø en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -254,7 +259,7 @@ description:
   remarques: |
     Remerciements à Karl Soop.
     Sous-genre Sericeocybe (ou Telamonia ?), Section Malachii
-  repartition:
+  repartition: 
   rhizomorphes: 
   sac-sporifere: 
   saveur: fongique, raphanoïde
@@ -288,3 +293,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

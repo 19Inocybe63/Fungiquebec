@@ -1,61 +1,60 @@
 ---
+title: Agrocybe Praecox
+date: 2017-03-14 00:00:00 Z
 nom: Agrocybe praecox
-date: 2017-03-14 00:00:00
 image: https://c2.staticflickr.com/4/3821/8780672969_b12aa3654b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8780672969/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY
 album-flickr:
-  - 72157672106373984
-
+- 72157672106373984
 details:
   nom-francais: Agrocybe précoce
   ordre: Agaricales
   famille: Strophariaceae
   genre: Agrocybe
-  espece: <i>Agrocybe praecox</i> (Pers.) Fayod
-  litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
-
+  espece: "<i>Agrocybe praecox</i> (Pers.) Fayod"
+  litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés.
+    Annales des Sciences Naturelles Botanique. 9:181-411
 collections:
-  - fongarium: cKc0062
-    date: 22 mai 2013
-    planche:
-      numero: cKc0062-0076
-      miniature: https://c2.staticflickr.com/8/7284/16873429661_a18b1021d7_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16873429661/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0306
-    date: 31 mai 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0307
-    date: 4 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0308
-    date: 4 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0062
+  date: 22 mai 2013
+  planche:
+    numero: cKc0062-0076
+    miniature: https://c2.staticflickr.com/8/7284/16873429661_a18b1021d7_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16873429661/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
+- fongarium: cKc0306
+  date: 31 mai 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0307
+  date: 4 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0308
+  date: 4 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -85,7 +84,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol tourné, débris ligneux, plate-bande, copeaux de bois enfouis, sous <i>Syringa vulgaris</i>
+  biotopes: pousse sur sol tourné, débris ligneux, plate-bande, copeaux de bois enfouis,
+    sous <i>Syringa vulgaris</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -102,8 +102,12 @@ description:
   cellules-stromatiques: 
   chair: moyennement épaisse à épaisse en son centre, blanchâtre à crème
   chancre: 
-  chapeau: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plissé finement dans un petit rayon concentrique à la marge.
-  cheilocystides: nombreuses, ventrues avec col absent ou avec col allongé 46-54 x 22-26 µm en moyenne, fusiformes-ventrues 55-70 x 23-24 µm en moyenne, claviformes, rares utriformes au sens de Romagnesi, à paroi mince, lisses, hyalines
+  chapeau: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et
+    lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plissé
+    finement dans un petit rayon concentrique à la marge.
+  cheilocystides: nombreuses, ventrues avec col absent ou avec col allongé 46-54 x
+    22-26 µm en moyenne, fusiformes-ventrues 55-70 x 23-24 µm en moyenne, claviformes,
+    rares utriformes au sens de Romagnesi, à paroi mince, lisses, hyalines
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -203,7 +207,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées à échancrées, sublarges à larges, serrées et très finement érodées, lamellules, beige à crème, à arêtes rouille
+  lames: sinuées à échancrées, sublarges à larges, serrées et très finement érodées,
+    lamellules, beige à crème, à arêtes rouille
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -236,14 +241,19 @@ description:
   peritheces: 
   phenologie: de mai à juillet
   phialoconidies: 
-  pied: 14-68 x 3-12 mm Ø, légèrement aplati, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strié longitudinalement, crème à brun, brun pâle à la base, bulbe plein et plutôt blanchâtre à crème, avec mycélium basal
+  pied: 14-68 x 3-12 mm Ø, légèrement aplati, plus large à l'apex, avec rétrécissement
+    à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun
+    pâle à la base, strié longitudinalement, crème à brun, brun pâle à la base, bulbe
+    plein et plutôt blanchâtre à crème, avec mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme à ixohyménoderme
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: nombreuses, fusiformes-ventrues 55 x 23,7 µm en moyenne, ventrues avec col absent ou avec col allongé 54 x 24 µm en moyenne, rares utriformes au sens de Romagnesi 32,5 x 13 µm, à paroi mince, lisses, hyalines
+  pleurocystides: nombreuses, fusiformes-ventrues 55 x 23,7 µm en moyenne, ventrues
+    avec col absent ou avec col allongé 54 x 24 µm en moyenne, rares utriformes au
+    sens de Romagnesi 32,5 x 13 µm, à paroi mince, lisses, hyalines
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -321,7 +331,10 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: présent, laissant un anneau membraneux longtemps persistant sur le pied, fragile, se déchirant, laissant parfois des restes appendiculés à la marge piléique
+  voile-partiel: présent, laissant un anneau membraneux longtemps persistant sur le
+    pied, fragile, se déchirant, laissant parfois des restes appendiculés à la marge
+    piléique
   volve: 
   zone-perihymeniale: 
 ---
+

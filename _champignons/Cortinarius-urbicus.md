@@ -1,31 +1,29 @@
 ---
+title: Cortinarius Urbicus
+date: 2017-03-20 00:00:00 Z
 nom: Cortinarius urbicus
-date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/9/8133/29510867143_38fbd3d847_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29510867143/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc
 album-flickr:
-  - 72157678828769065
-
+- 72157678828769065
 details:
   nom-francais: Cortinaire citadin
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius urbicus</i> (Fr.) Fr.
+  espece: "<i>Cortinarius urbicus</i> (Fr.) Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-
 collections:
-  - fongarium: cKc0586
-    date: 5 octobre 2016
-    planche:
-      numero: cKc0586-0142
-      miniature: https://c2.staticflickr.com/6/5495/30616014810_1d98b904a7_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/30616014810/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc/
-    geolocalisation: 
-    elevation: 
-    determinee: 
-    confirmee: Karl Soop
-
+- fongarium: cKc0586
+  date: 5 octobre 2016
+  planche:
+    numero: cKc0586-0142
+    miniature: https://c2.staticflickr.com/6/5495/30616014810_1d98b904a7_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/30616014810/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Karl Soop
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +54,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous conifères (<i>Picea</i>) et feuillus (<i>Betula</i>, <i>Fagus</i>), en bordure de sentier
+  biotopes: pousse au sol, sous conifères (<i>Picea</i>) et feuillus (<i>Betula</i>,
+    <i>Fagus</i>), en bordure de sentier
   boucles: observées dans le médiostrate et le stipitipellis
   brachybasidioles: 
   calicule: 
@@ -68,13 +67,16 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, septées, piriformes à largement claviformes, hyalines, à paroi mince, (13,1) 13,7 - 17,1 (20,6) × (5,9) 7,1 - 8 (10,2) µm
+  cellules-marginales-paracystides: nombreuses, septées, piriformes à largement claviformes,
+    hyalines, à paroi mince, (13,1) 13,7 - 17,1 (20,6) × (5,9) 7,1 - 8 (10,2) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: blanc crème à violet par endroits
   chancre: 
-  chapeau: 30-45 mm Ø, subcampanulé à campanulé, dont le centre une légèrement déprimé, glabre à ± méchuleux, marge blanchâtre et fibrilleuse (à cause des restes vélaires ?), brun à brun rougeâtre, beige grisâtre au sec
-  cheilochrysocystides:
+  chapeau: 30-45 mm Ø, subcampanulé à campanulé, dont le centre une légèrement déprimé,
+    glabre à ± méchuleux, marge blanchâtre et fibrilleuse (à cause des restes vélaires
+    ?), brun à brun rougeâtre, beige grisâtre au sec
+  cheilochrysocystides: 
   cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -178,7 +180,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées, subespacées, avec lamellules, violacées au début, brun ocre, arêtes lamellaires plus pâles et crènelées
+  lames: échancrées, subespacées, avec lamellules, violacées au début, brun ocre,
+    arêtes lamellaires plus pâles et crènelées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,10 +214,13 @@ description:
   peritheces: 
   phenologie: de mi-septembre à mi-octobre
   phialoconidies: 
-  pied: 40-75 x 20-35 mm Ø, cylindrique à claviforme, plein, ferme, base bulbeuse, blanc violacé jeune, devenant blanc crème à brunâtre dont l'apex est violacé à maturité
+  pied: 40-75 x 20-35 mm Ø, cylindrique à claviforme, plein, ferme, base bulbeuse,
+    blanc violacé jeune, devenant blanc crème à brunâtre dont l'apex est violacé à
+    maturité
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches distinctes ; suprapellis en cutis et médiopellis constitué d'hyphes cylindriques entremêlées
+  pileipellis: en deux couches distinctes ; suprapellis en cutis et médiopellis constitué
+    d'hyphes cylindriques entremêlées
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -288,3 +294,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

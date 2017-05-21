@@ -1,31 +1,30 @@
 ---
+title: Pholiota Limonella
+date: 2017-03-25 00:00:00 Z
 nom: Pholiota limonella
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8185/8443643369_21c095bedf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8443643369/in/photolist-dSzgU3-dSetnA-dSdVfD-dS8T3P-dS8T16
 album-flickr:
-  - 72157673087172874
-
+- 72157673087172874
 details:
   nom-francais: Pholiote adipo-squarreuse
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: <i>Pholiota limonella</i> (Peck) Sacc.
-  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
-
+  espece: "<i>Pholiota limonella</i> (Peck) Sacc."
+  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge
+    Fungorum. 5:1-1146
 collections:
-  - fongarium: cKc0026
-    date: 20 septembre 2012
-    planche:
-      numero: cKc0026-0014
-      miniature: https://c1.staticflickr.com/9/8044/8448598190_e5301d824f_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8448598190/in/photolist-dSzgU3-dSdVfD-dSetnA-dS8T3P-dS8T16
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0026
+  date: 20 septembre 2012
+  planche:
+    numero: cKc0026-0014
+    miniature: https://c1.staticflickr.com/9/8044/8448598190_e5301d824f_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8448598190/in/photolist-dSzgU3-dSdVfD-dSetnA-dS8T3P-dS8T16
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à l’apex légèrement piriforme, tétrasporiques, bouclées à la base, 23,2 x 7,4 µm en moyenne
+  basides: cylindriques à l’apex légèrement piriforme, tétrasporiques, bouclées à
+    la base, 23,2 x 7,4 µm en moyenne
   basidiospores: |
     obovoïdes, ellipsoïdes à oblongues, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, très finement apiculé, pore germinatif indistinct, à contenu uniguttulé à variable, jaunâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     6,7 [7,4; 7,6] 8,3 x 4,3 [4,6; 4,7] 5 µm
@@ -56,7 +56,8 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse sur bois vivant ou pourri de feuillus, parfois dans les blessures
-  boucles: observées dans la chair du pileipellis, la trame lamellaire et dans la chair du stipitipellis
+  boucles: observées dans la chair du pileipellis, la trame lamellaire et dans la
+    chair du stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -72,9 +73,16 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune
   chancre: 
-  chapeau: 10-85 mm Ø, campanulé convexe à subétalé, parfois légèrement umboné, avec marge incurvée ; visqueux lorsque humide et à peine visqueux lorsque sec, lisse ou avec de fines méchules dispersées à subdressées ; jaunâtre-gris au centre, vert jaunâtre vers la marge, avec des flocons orange-brun concentriquement alignés, squamules plus ou moins triangulaires, qui contrastent avec le fond jaunâtre, avec la marge appendiculée de fines taches du voile, blanchâtre à jaune brun
-  cheilochrysocystides:
-  cheilocystides: polymorphes, piriformes à largement clavées, lagéniformes, parfois cylindriques dont l’apex est courbé et légèrement diverticulé à déformé, rarement cylindriques à l’apex capité
+  chapeau: 10-85 mm Ø, campanulé convexe à subétalé, parfois légèrement umboné, avec
+    marge incurvée ; visqueux lorsque humide et à peine visqueux lorsque sec, lisse
+    ou avec de fines méchules dispersées à subdressées ; jaunâtre-gris au centre,
+    vert jaunâtre vers la marge, avec des flocons orange-brun concentriquement alignés,
+    squamules plus ou moins triangulaires, qui contrastent avec le fond jaunâtre,
+    avec la marge appendiculée de fines taches du voile, blanchâtre à jaune brun
+  cheilochrysocystides: 
+  cheilocystides: polymorphes, piriformes à largement clavées, lagéniformes, parfois
+    cylindriques dont l’apex est courbé et légèrement diverticulé à déformé, rarement
+    cylindriques à l’apex capité
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -175,7 +183,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: étroitement adnées à émarginées, étroites, 2-6 mm de large, beige jaune à jaunes au début, puis jaune cannelle à brun, avec bord ondulé irrégulier, arêtes finement pruineuses, blanchâtres
+  lames: étroitement adnées à émarginées, étroites, 2-6 mm de large, beige jaune à
+    jaunes au début, puis jaune cannelle à brun, avec bord ondulé irrégulier, arêtes
+    finement pruineuses, blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +218,10 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 10-80 x 2-6 mm Ø, cylindrique, parfois élargi vers l'apex et la base, avec zone annuliforme à environ 15-20 mm de l'apex, sec, blanchâtre à l'apex, jaunâtre à brun orange pâle vers la base, grossièrement fibrilleux au-dessus de la zone annuliforme, finement squamuleux, d'abord blanc, puis brun roux à cause des basidiospores
+  pied: 10-80 x 2-6 mm Ø, cylindrique, parfois élargi vers l'apex et la base, avec
+    zone annuliforme à environ 15-20 mm de l'apex, sec, blanchâtre à l'apex, jaunâtre
+    à brun orange pâle vers la base, grossièrement fibrilleux au-dessus de la zone
+    annuliforme, finement squamuleux, d'abord blanc, puis brun roux à cause des basidiospores
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -216,7 +229,9 @@ description:
   pileocystides: absentes
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: polymorphes, largement fusoïdes, mucronées, souvent comme chrysocystides ou partiellement à entièrement remplies de pigments et déformées, piriformes à clavées, 31,6 x 8,9 µm en moyenne, souvent légèrement émergentes
+  pleurocystides: polymorphes, largement fusoïdes, mucronées, souvent comme chrysocystides
+    ou partiellement à entièrement remplies de pigments et déformées, piriformes à
+    clavées, 31,6 x 8,9 µm en moyenne, souvent légèrement émergentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -243,8 +258,9 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = rouge orangé sur la surface du chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = rouge orangé sur la surface du chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -286,3 +302,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

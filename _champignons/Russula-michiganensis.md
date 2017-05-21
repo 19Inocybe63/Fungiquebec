@@ -1,51 +1,50 @@
 ---
+title: Russula Michiganensis
+date: 2017-03-27 00:00:00 Z
 nom: Russula michiganensis
-date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/1/457/19437139763_3d6cc665ec_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19437139763/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
 album-flickr:
-  - 72157675601005415
-
+- 72157675601005415
 details:
   nom-francais: Russule du Michigan
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula michiganensis</i> Shaffer
-  litterature: Shaffer, R.L. 1962. The subsection Compactae of Russula. Brittonia. 14(3):254-284
-
+  espece: "<i>Russula michiganensis</i> Shaffer"
+  litterature: Shaffer, R.L. 1962. The subsection Compactae of Russula. Brittonia.
+    14(3):254-284
 collections:
-  - fongarium: cKc0385
-    date: 27 juillet 2015
-    planche:
-      numero: cKc0385-0107
-      miniature: https://c2.staticflickr.com/2/1602/24171767671_6474f1f7ac_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/24171767671/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0387
-    date: 1 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0389
-    date: 3 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0385
+  date: 27 juillet 2015
+  planche:
+    numero: cKc0385-0107
+    miniature: https://c2.staticflickr.com/2/1602/24171767671_6474f1f7ac_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/24171767671/in/photolist-CPYCp2-ECcbeY-ECcfMq-wLsNEQ-vBAqtn-wJdT1M-whhKDA
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0387
+  date: 1 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0389
+  date: 3 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -90,18 +89,25 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ferme, même très dure, épaisse, cassante, blanche, rougeâtre-grisâtre et noircissant à la coupe
+  chair: ferme, même très dure, épaisse, cassante, blanche, rougeâtre-grisâtre et
+    noircissant à la coupe
   chancre: 
-  chapeau: 60-100 mm Ø, convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement
-  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, sulfoaldéhyde positif (SA+) ; 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
+  chapeau: 60-100 mm Ø, convexe à déprimé, blanc à brun beige, cuticule ne se pèle
+    pas, ou bien très difficilement
+  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont
+    les apex diffèrent de capités, mucronés à moniliformes, sulfoaldéhyde positif
+    (SA+) ; 2e type, cellules marginales piriformes à largement clavées, utriformes,
+    vide optique à paroi mince
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: |
-    De Claude Kaufholtz-Couture. « À la coupe, la chair est blanche, puis elle devient rougeâtre-grisâtre, et finalement noircit. »
+  commentaires: 'De Claude Kaufholtz-Couture. « À la coupe, la chair est blanche,
+    puis elle devient rougeâtre-grisâtre, et finalement noircit. »
+
+'
   conidies: 
   conidiome: 
   conidiophores: 
@@ -194,7 +200,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: très serrées, avec lamelles et lamellules abondantes, blanchâtres, se tachent de noir au froissement
+  lames: très serrées, avec lamelles et lamellules abondantes, blanchâtres, se tachent
+    de noir au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -234,7 +241,8 @@ description:
   pileitrame: 
   pileocystides: absentes
   plasmode: 
-  pleurocystides: nombreuses, semblable au 1er types des cheilocystides, sulfoaldéhyde positif (SA+)
+  pleurocystides: nombreuses, semblable au 1er types des cheilocystides, sulfoaldéhyde
+    positif (SA+)
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -265,8 +273,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<SUB>4</SUB>) = lames rosées ; pas de coloration sur le stipe
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<SUB>4</SUB>) = lames rosées ; pas
+    de coloration sur le stipe
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -277,7 +287,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ib, blanchâtre, d'après la charte de couleur de Romagnesi ; B d'après la charte de couleur de Kibby
+  sporee: leucosporée Ib, blanchâtre, d'après la charte de couleur de Romagnesi ;
+    B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -302,3 +313,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

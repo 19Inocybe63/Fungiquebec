@@ -1,31 +1,30 @@
 ---
+title: Geoglossum Glabrum
+date: 2017-03-24 00:00:00 Z
 nom: Geoglossum glabrum
-date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/6/5643/20515863236_f2374fa141_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20515863236/in/photolist-x767Dr-xfVanW
 album-flickr:
-  - 72157674182903280
-
+- 72157674182903280
 details:
   nom-francais: Géoglosse glabre
   ordre: Geoglossales
   famille: Geoglossaceae
   genre: Geoglossum
-  espece: <i>Geoglossum glabrum</i> Pers.
-  litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung der Schwämme. Neues Magazin für die Botanik. 1:63-80
-
+  espece: "<i>Geoglossum glabrum</i> Pers."
+  litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung
+    der Schwämme. Neues Magazin für die Botanik. 1:63-80
 collections:
-  - fongarium: cKc0402
-    date: 13 août 2015
-    planche:
-      numero: cKc0402-0097
-      miniature: https://c2.staticflickr.com/6/5727/20415956699_f1a5bd7c13_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/20415956699/in/photolist-x767Dr-xfVanW
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0402
+  date: 13 août 2015
+  planche:
+    numero: cKc0402-0097
+    miniature: https://c2.staticflickr.com/6/5727/20415956699_f1a5bd7c13_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/20415956699/in/photolist-x767Dr-xfVanW
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -64,7 +63,8 @@ description:
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 20-35 x 3-12 mm large, cylindrique, spatulé ou linguiforme, souvent comprimé au centre
+  capitule: 20-35 x 3-12 mm large, cylindrique, spatulé ou linguiforme, souvent comprimé
+    au centre
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 
@@ -201,7 +201,8 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: ± droite, courbées, multi septées, moniliformes, clavées, arrondies à obovoïdes, jusqu'à 9 µm de large à l'apex
+  paraphyses: "± droite, courbées, multi septées, moniliformes, clavées, arrondies
+    à obovoïdes, jusqu'à 9 µm de large à l'apex"
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -283,3 +284,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

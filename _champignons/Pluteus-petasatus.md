@@ -1,31 +1,30 @@
 ---
+title: Pluteus Petasatus
+date: 2017-03-25 00:00:00 Z
 nom: Pluteus petasatus
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8630/28131978620_09c0705734_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28131978620/in/photolist-JRVK99
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Plutée en Parasol
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
-  espece: <i>Pluteus petasatus</i> (Fr.) Gillet
-  litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. :177-560
-
+  espece: "<i>Pluteus petasatus</i> (Fr.) Gillet"
+  litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons
+    qui Croissent en France. :177-560
 collections:
-  - fongarium: cKc0520
-    date: 19 juillet 2016
-    planche:
-      numero: cKc0520-0150
-      miniature: https://c1.staticflickr.com/1/702/31773219746_111b97d030_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/31773219746/in/photostream/
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0520
+  date: 19 juillet 2016
+  planche:
+    numero: cKc0520-0150
+    miniature: https://c1.staticflickr.com/1/702/31773219746_111b97d030_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31773219746/in/photostream/
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +36,9 @@ description:
   apothecie: 
   arete-lamellaire: stérile
   arthroconidies: 
-  articles: |
-    <b>Justo, Alfredo et al</b>. <i>Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species</i>, Phytotaxa 180 (1):001-085, (2014) 85 p.
+  articles: "<b>Justo, Alfredo et al</b>. <i>Molecular phylogeny and phylogeography
+    of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with
+    description of twelve new species</i>, Phytotaxa 180 (1):001-085, (2014) 85 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -47,7 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire ou bien carminophile, (26,1) 26,5 - 28,4 (29,1) × (6,8) 7,4 - 8 (9) µm, en moyenne
+  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est
+    subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire
+    ou bien carminophile, (26,1) 26,5 - 28,4 (29,1) × (6,8) 7,4 - 8 (9) µm, en moyenne
   basidiospores: |
     ovoïdes à subtriangulaires en vue frontale, elliptiques à largement elliptiques vues de profil, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu parfois uniguttulé à granulations, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6,2) 6,5 - 7,4 (8) × (4,4) 4,6 - 5,2 (5,4) µm
@@ -69,14 +71,21 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: abondantes, polymorphes, courtement claviformes à claviformes, elliptiques à ovoïdes, piriformes, 21,4 - 40,6 × 12 - 18,8 µm en moyenne
+  cellules-marginales-paracystides: abondantes, polymorphes, courtement claviformes
+    à claviformes, elliptiques à ovoïdes, piriformes, 21,4 - 40,6 × 12 - 18,8 µm en
+    moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: blanche
   chancre: 
-  chapeau: 30-200 mm Ø, hémisphérique à campanulé au début, convexe à étalé à maturité, avec ou sans ombon, surface lisse, squamuleux-fibrilleux seulement autour du centre, ou avec des squamules bruns distincts partout, avec ou sans fibrilles radiales ; blanc pur, gris pâle brun à brun pâle, plus rarement avec des couleurs plus foncées, secs ou nettement visqueux quand humide, marge lisse ou translucide-strié
-  cheilochrysocystides:
-  cheilocystides: nombreuses, polymorphes, obclaviformes, 34,8 - 57,8 × 11,8 - 13,3 µm en moyenne, plusieurs cylindriques dont l’apex est acuminé
+  chapeau: 30-200 mm Ø, hémisphérique à campanulé au début, convexe à étalé à maturité,
+    avec ou sans ombon, surface lisse, squamuleux-fibrilleux seulement autour du centre,
+    ou avec des squamules bruns distincts partout, avec ou sans fibrilles radiales
+    ; blanc pur, gris pâle brun à brun pâle, plus rarement avec des couleurs plus
+    foncées, secs ou nettement visqueux quand humide, marge lisse ou translucide-strié
+  cheilochrysocystides: 
+  cheilocystides: nombreuses, polymorphes, obclaviformes, 34,8 - 57,8 × 11,8 - 13,3
+    µm en moyenne, plusieurs cylindriques dont l’apex est acuminé
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -177,10 +186,17 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, ventrues, jusqu'à 15 (20) mm de large, blanches au début, roses à maturité, avec arêtes lamellaire blanches, ou floconneuses
+  lames: libres, ventrues, jusqu'à 15 (20) mm de large, blanches au début, roses à
+    maturité, avec arêtes lamellaire blanches, ou floconneuses
   lamprocystides: 
-  lamprocheilocystides: présentes, cylindriques métuloïdes, dont l’apex couronné comporte entre 1 et 3 crochets souvent difformes, parfois avec apex en biseaux, 20,9 - 54,4 × 12,4 - 15,6 µm, en moyenne, dont l’épaisseur de la paroi est fine 0,5-1,5 μm
-  lampropleurocystides: abondantes, métuloïdes, dont l’apex est en couronne, avec (2) 3–4 crochets apicaux majoritairement entiers, parfois peu développés, 58,4 - 81,7 × 17,2 - 23,4 µm en moyenne, dont l’épaisseur de la paroi est fine à moyenne 1,4-2,1 μm
+  lamprocheilocystides: présentes, cylindriques métuloïdes, dont l’apex couronné comporte
+    entre 1 et 3 crochets souvent difformes, parfois avec apex en biseaux, 20,9 -
+    54,4 × 12,4 - 15,6 µm, en moyenne, dont l’épaisseur de la paroi est fine 0,5-1,5
+    μm
+  lampropleurocystides: abondantes, métuloïdes, dont l’apex est en couronne, avec
+    (2) 3–4 crochets apicaux majoritairement entiers, parfois peu développés, 58,4
+    - 81,7 × 17,2 - 23,4 µm en moyenne, dont l’épaisseur de la paroi est fine à moyenne
+    1,4-2,1 μm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -210,10 +226,16 @@ description:
   peritheces: 
   phenologie: juillet
   phialoconidies: 
-  pied: 30-200 × 5-20 mm Ø, cylindrique, légèrement élargi à la base, surface blanche, lisse ou avec fibrilles longitudinales, marron à gris brun, en particulier près de la base
+  pied: 30-200 × 5-20 mm Ø, cylindrique, légèrement élargi à la base, surface blanche,
+    lisse ou avec fibrilles longitudinales, marron à gris brun, en particulier près
+    de la base
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis formé d’éléments cylindriques, certains fortement atténués vers l’apex, à paroi mince, lisses, hyalines ou remplis de pigment intracellulaire brun, avec éléments terminaux de 80-135 x 6-15 μm, avec matrice gélin présente chez la plupart des collections, au moins sur la partie la plus externe, intégrant des hyphes de 2-5 μm Ø, certaines de contour irrégulier
+  pileipellis: en cutis formé d’éléments cylindriques, certains fortement atténués
+    vers l’apex, à paroi mince, lisses, hyalines ou remplis de pigment intracellulaire
+    brun, avec éléments terminaux de 80-135 x 6-15 μm, avec matrice gélin présente
+    chez la plupart des collections, au moins sur la partie la plus externe, intégrant
+    des hyphes de 2-5 μm Ø, certaines de contour irrégulier
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -282,3 +304,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

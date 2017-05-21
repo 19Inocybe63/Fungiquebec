@@ -1,5 +1,6 @@
 ---
 ---
+
 var indexChampignons = elasticlunr(function () {
     this.use(elasticlunr.fr);
     this.saveDocument(false);

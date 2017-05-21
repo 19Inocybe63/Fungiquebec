@@ -1,31 +1,29 @@
 ---
+title: Lactarius Tabidus
+date: 2017-05-07 00:00:00 Z
 nom: Lactarius tabidus
-date: 2017-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8554/30024166755_571409ee88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024166755/in/photolist-MK8GKv
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Lactaire chiffonné ; Lactaire dépérissant ; Lactaire à lait soufré
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: <i>Lactarius tabidus</i> Fr.
+  espece: "<i>Lactarius tabidus</i> Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-
 collections:
-  - fongarium: cKc0578
-    date: 29 septembre 2016
-    planche:
-      numero: cKc0578-0166
-      miniature: https://c1.staticflickr.com/5/4168/33626308874_07d1c52442_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/33626308874/in/photolist-TerC77-MK8GKv/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0578
+  date: 29 septembre 2016
+  planche:
+    numero: cKc0578-0166
+    miniature: https://c1.staticflickr.com/5/4168/33626308874_07d1c52442_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/33626308874/in/photolist-TerC77-MK8GKv/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à claviformes ventrues, parfois en petite massue, tétrasporiques, non bouclées à la base, à paroi mince, avec granulations, 30 - 40 × 8 - 9 µm en moyenne
+  basides: claviformes à claviformes ventrues, parfois en petite massue, tétrasporiques,
+    non bouclées à la base, à paroi mince, avec granulations, 30 - 40 × 8 - 9 µm en
+    moyenne
   basidiospores: |
     rarement subglobuleuses, largement elliptiques à elliptiques, finement à moyennement verruqueuses-épineuses, isolées, dont certaines sont reliées pour former des crêtes noduleuses, formant de rares réticulations, avec proéminences jusqu’à 1 (1,1) µm, à paroi mince, avec appendice hilaire prédominant, plage hilaire non distincte et non amyloïde ou irrégulièrement amyloïde dans la partie distale, à contenu uniguttulé, hyalines dans E.G. 20%, amyloïdes, non cyanophiles
     (7,1) 7,3 - 8,2 (8,6) × (5,5) 5,6 - 6,4 (6,6) µm
@@ -56,7 +56,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus (<i>Betula</i>) et conifères, en bordure de sentier
+  biotopes: pousse au sol, sous feuillus (<i>Betula</i>) et conifères, en bordure
+    de sentier
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -71,11 +72,14 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, ferme, cassante, immuable à la coupe, brunâtre à concolore à la surface du chapeau, cannelle pâle à blanchâtre
+  chair: mince, ferme, cassante, immuable à la coupe, brunâtre à concolore à la surface
+    du chapeau, cannelle pâle à blanchâtre
   chancre: 
-  chapeau: 24-35 mm Ø, convexe, puis étalé, déprimé, mamelonné, papillé, glabre, brun cannelle à brun pâle
-  cheilochrysocystides:
-  cheilocystides: occasionnelles, peu projetées, subfusiformes à ± lancéolées dont l’apex est subaigu, mucroné à submoniliforme 38,7 - 57,4 × 5,3 - 7,1 µm en moyenne
+  chapeau: 24-35 mm Ø, convexe, puis étalé, déprimé, mamelonné, papillé, glabre, brun
+    cannelle à brun pâle
+  cheilochrysocystides: 
+  cheilocystides: occasionnelles, peu projetées, subfusiformes à ± lancéolées dont
+    l’apex est subaigu, mucroné à submoniliforme 38,7 - 57,4 × 5,3 - 7,1 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -83,7 +87,14 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux.  « Ton <i>L. camphoratus</i> n'a pas les lames assez foncées, à maturité, elles sont rouge vin très foncé et la couleur du chapeau me semble bien trop pâle également. Dès le jeune âge, <i>L. camphoratus</i> est nettement plus foncé. Dans ta photo, je vois <i>L. theiogalus</i> ss. Hesler & A. H. Sm. (1979), nommé maintenant <i>L. tabidus</i>, mais chez nous, le lait ne jaunit qu'à la base du pied, si l'on est un bon observateur. Le nôtre est peut-être différent. Il est possible que le bon nom de <i>L. tabidus</i> ici soit <i>L. oculatus</i> Peck, mais cela reste à démontrer. »
+  commentaires: De Yves Lamoureux.  « Ton <i>L. camphoratus</i> n'a pas les lames
+    assez foncées, à maturité, elles sont rouge vin très foncé et la couleur du chapeau
+    me semble bien trop pâle également. Dès le jeune âge, <i>L. camphoratus</i> est
+    nettement plus foncé. Dans ta photo, je vois <i>L. theiogalus</i> ss. Hesler &
+    A. H. Sm. (1979), nommé maintenant <i>L. tabidus</i>, mais chez nous, le lait
+    ne jaunit qu'à la base du pied, si l'on est un bon observateur. Le nôtre est peut-être
+    différent. Il est possible que le bon nom de <i>L. tabidus</i> ici soit <i>L.
+    oculatus</i> Peck, mais cela reste à démontrer. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -215,12 +226,16 @@ description:
   pied: 39-49 x 4-7 mm Ø, cylindrique, creux, concolore au chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: en hyphoépithelium, 60 - 90 µm d'épaisseur; éléments dans le subpellis 15 - 40 x 12 - 25 µm, ± isodiamétrique et arrondi; éléments terminaux 12 - 35 x 4,5 - 7,5 µm, cylindriques, pas très visibles et souvent collapsés
+  pileipellis: en hyphoépithelium, 60 - 90 µm d'épaisseur; éléments dans le subpellis
+    15 - 40 x 12 - 25 µm, ± isodiamétrique et arrondi; éléments terminaux 12 - 35
+    x 4,5 - 7,5 µm, cylindriques, pas très visibles et souvent collapsés
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles à nombreuses, peu projetées ou de la moitié, subfusiformes à ± lancéolées avec apex subaigu, mucroné à submoniliforme, 49,6 - 82,1 × 7,6 - 9,5 µm en moyenne
+  pleurocystides: occasionnelles à nombreuses, peu projetées ou de la moitié, subfusiformes
+    à ± lancéolées avec apex subaigu, mucroné à submoniliforme, 49,6 - 82,1 × 7,6
+    - 9,5 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -250,12 +265,13 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: ± sucrée, douce à légèrement âcre, s'atténuant
+  saveur: "± sucrée, douce à légèrement âcre, s'atténuant"
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée, IIa-IIb, crème pâle, taché parfois de jaunâtre d'après la charte de couleur de Romagnesi et C d'après la charte de couleur de Kibby
+  sporee: pallidosporée, IIa-IIb, crème pâle, taché parfois de jaunâtre d'après la
+    charte de couleur de Romagnesi et C d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -284,3 +300,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

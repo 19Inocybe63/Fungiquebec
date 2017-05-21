@@ -1,31 +1,30 @@
 ---
+title: Stropharia Caerulea
+date: 2017-03-13 00:00:00 Z
 nom: Stropharia caerulea
-date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8191/8122273690_424d6d5230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8122273690/in/photolist-dnJMnf-dnJFjn-dDwhHj-dnJLZy
 album-flickr:
-  - 72157671660314714
-
+- 72157671660314714
 details:
   nom-francais: Strophaire bleutée
   ordre: Agaricales
   famille: Strophariaceae
   genre: Stropharia
-  espece: <i>Stropharia caerulea</i> Kreisel
-  litterature: Kreisel, H. 1979. Zur Taxonomie von Stropharia aeruginosa sensu lato. Beihefte zur Sydowia. 8:228-232
-
+  espece: "<i>Stropharia caerulea</i> Kreisel"
+  litterature: Kreisel, H. 1979. Zur Taxonomie von Stropharia aeruginosa sensu lato.
+    Beihefte zur Sydowia. 8:228-232
 collections:
-  - fongarium: cKc0034
-    date: 25 octobre 2012
-    planche:
-      numero: cKc0034-0006
-      miniature: https://c1.staticflickr.com/9/8500/8300901148_838da0606d_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8300901148/in/photolist-dDwhHj-dnJMnf-dnJFjn-dnJLZy
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0034
+  date: 25 octobre 2012
+  planche:
+    numero: cKc0034-0006
+    miniature: https://c1.staticflickr.com/9/8500/8300901148_838da0606d_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8300901148/in/photolist-dDwhHj-dnJMnf-dnJFjn-dnJLZy
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: présents dans le mycélium à la base du pied
   acanthophyses: 
@@ -72,11 +71,15 @@ description:
   cellules-stromatiques: 
   chair: mince, bleuâtre au début, puis paille, bleu-vert vers la base du pied
   chancre: 
-  chapeau: 20-70 mm Ø, hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtres décolorées par endroits, muni de petites méchules blanches au pourtour
+  chapeau: 20-70 mm Ø, hémsphérique à convexe au début à légèrement étalé à maturité,
+    avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à
+    la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtres décolorées
+    par endroits, muni de petites méchules blanches au pourtour
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: abondantes, clavées à largement fusiformes, mucronées, de 40 µm x 14 µm en moyenne
+  chrysocystides: abondantes, clavées à largement fusiformes, mucronées, de 40 µm
+    x 14 µm en moyenne
   circumcystides: 
   clavules: 
   columelle: 
@@ -132,7 +135,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -173,7 +175,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, décurrentes par une dent, échancrées, modérément serrées à très serrées, ventrues, brun pâle ou gris-brun au début, avec reflets violet gris puis violacés, violet-gris
+  lames: adnées, décurrentes par une dent, échancrées, modérément serrées à très serrées,
+    ventrues, brun pâle ou gris-brun au début, avec reflets violet gris puis violacés,
+    violet-gris
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +209,11 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 4-11 x 3-15 mm Ø, égal à légèrement élargi vers la base, ferme, fragile, plein au début puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous, glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc
+  pied: 4-11 x 3-15 mm Ø, égal à légèrement élargi vers la base, ferme, fragile, plein
+    au début puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement
+    et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses
+    cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous,
+    glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -213,7 +221,8 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  pleurochrysocystides: assez abondantes, clavées à largement fusiformes, mucronées, de 39,8 x 12,8 µm en moyenne
+  pleurochrysocystides: assez abondantes, clavées à largement fusiformes, mucronées,
+    de 39,8 x 12,8 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -230,8 +239,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E.</b> <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+  publications: "<b>Noordeloos, Machiel E.</b> <i>Strophariaceae s.l.</i>, Fungi Europaei
+    Edizioni Candusso, N° 13, 2011, 648 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -271,7 +280,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: membraneux, blanc, laissant un anneau fragmentaire à incomplet même lorsque jeune, fragile, fugace, presque réduit à une zone annuliforme à maturirté
+  voile-partiel: membraneux, blanc, laissant un anneau fragmentaire à incomplet même
+    lorsque jeune, fragile, fugace, presque réduit à une zone annuliforme à maturirté
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,51 +1,49 @@
 ---
+title: Leccinum Scabrum
+date: 2017-01-25 00:00:00 Z
 nom: Leccinum scabrum
-date: 2017-01-25 00:00:00
 image: https://c1.staticflickr.com/9/8405/30103944306_f590dd4289_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30103944306/in/photolist-MKa8td-MSbzQw-zh9iiC-zipnKU-ziqiVN-ynrGC5-zjtkWT
 album-flickr:
-  - 72157676778041812
-
+- 72157676778041812
 details:
   nom-francais: Bolet rude
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinum
-  espece: <i>Leccinum scabrum</i> (Bull.) Gray
+  espece: "<i>Leccinum scabrum</i> (Bull.) Gray"
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
-
 collections:
-  - fongarium: cKc0483
-    date: 1 octobre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0484
-    date: 1 octobre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0583
-    date: 27 septembre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0483
+  date: 1 octobre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0484
+  date: 1 octobre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0583
+  date: 27 septembre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -88,8 +86,11 @@ description:
   cellules-stromatiques: 
   chair: chamois, très pâle lorsque exposé, immuable
   chancre: 
-  chapeau: 40-100 mm Ø, obtus à largement convexe, sec à humide, subfibrilleux vers la marge, parfois entièrement craquelé à l'humidité, dans divers tons de brun, brun foncé à brun jaunâtre, jamais gris-brun, parfois teinté d'olivâtre à maturité, à marge unie
-  cheilochrysocystides:
+  chapeau: 40-100 mm Ø, obtus à largement convexe, sec à humide, subfibrilleux vers
+    la marge, parfois entièrement craquelé à l'humidité, dans divers tons de brun,
+    brun foncé à brun jaunâtre, jamais gris-brun, parfois teinté d'olivâtre à maturité,
+    à marge unie
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -224,7 +225,8 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 60-120 x 10-15 mm, élargi vers la base, plein, sec, parfois légèrement vert à la base, orné de rugosités brun-gris sur fond blanchâtre
+  pied: 60-120 x 10-15 mm, élargi vers la base, plein, sec, parfois légèrement vert
+    à la base, orné de rugosités brun-gris sur fond blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -303,7 +305,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: circulaires et petits, 2-3 par mm, concolore à la face poroïde, 7-16 mm de longueur
+  tubes: circulaires et petits, 2-3 par mm, concolore à la face poroïde, 7-16 mm de
+    longueur
   type: 
   typique: 
   voile: 
@@ -312,3 +315,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,31 @@
 ---
+title: Picipes Tubaeformis
+date: 2017-03-25 00:00:00 Z
 nom: Picipes tubaeformis
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5577/14847991983_e3567bb968_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14847991983/in/photolist-oC4QHM
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Polypore en entonnoir
   ordre: Polyporales
   famille: Polyporaceae
   genre: Picipes
-  espece: <i>Picipes tubaeformis</i> (P. Karst.) Zmitr. & Kovalenko
-  litterature: Zmitrovich, I.V; Kovalenko, A.E. 2016. Lentinoid and polyporoid fungi, two generic conglomerates containing important medicinal mushrooms in molecular perspective. International Journal of Medicinal Mushrooms. 18(1):23-38
-
+  espece: "<i>Picipes tubaeformis</i> (P. Karst.) Zmitr. & Kovalenko"
+  litterature: Zmitrovich, I.V; Kovalenko, A.E. 2016. Lentinoid and polyporoid fungi,
+    two generic conglomerates containing important medicinal mushrooms in molecular
+    perspective. International Journal of Medicinal Mushrooms. 18(1):23-38
 collections:
-  - fongarium: cKc0193
-    date: 4 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0193
+  date: 4 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +68,14 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 60 mm Ø, souvent profondément infundibuliforme au début, étalé-déprimé avec l'âge, finement velouté et blanc grisâtre au début, puis gris et vite brun rougeâtre à brun orangé surtout vers le centre, avec fines lignes radiales et restes dispersés de tomentum, devenant rouge baie foncé et glabre avec l'âge, lisse au frais, finement plissé radialement avec l'âge, dense et dur au sec et alors avec une très mince mais distincte cuticule (loupe), à marge incurvée et mince au sec
-  cheilochrysocystides:
+  chapeau: jusqu'à 60 mm Ø, souvent profondément infundibuliforme au début, étalé-déprimé
+    avec l'âge, finement velouté et blanc grisâtre au début, puis gris et vite brun
+    rougeâtre à brun orangé surtout vers le centre, avec fines lignes radiales et
+    restes dispersés de tomentum, devenant rouge baie foncé et glabre avec l'âge,
+    lisse au frais, finement plissé radialement avec l'âge, dense et dur au sec et
+    alors avec une très mince mais distincte cuticule (loupe), à marge incurvée et
+    mince au sec
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -206,7 +212,10 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 10-60 mm de longueur, rarement > 5 mm Ø, souvent ± centré, élancé, finement velouté et brun sépia au début, glabre et noir avec l'âge, avec pores superficiels vers l'apex, finement plissé au sec (loupe), dense, à centre homogène blanc et mince cuticule noire sous le tomentum à la coupe
+  pied: 10-60 mm de longueur, rarement > 5 mm Ø, souvent ± centré, élancé, finement
+    velouté et brun sépia au début, glabre et noir avec l'âge, avec pores superficiels
+    vers l'apex, finement plissé au sec (loupe), dense, à centre homogène blanc et
+    mince cuticule noire sous le tomentum à la coupe
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,14 +235,15 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: dense et subcartilagineux au sec, concolore à la face poroïde, 1-2 mm de longueur ; ronds à légèrement anguleux, 5-7 par mm, à dissépiments entiers
+  pores: dense et subcartilagineux au sec, concolore à la face poroïde, 1-2 mm de
+    longueur ; ronds à légèrement anguleux, 5-7 par mm, à dissépiments entiers
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -276,3 +286,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

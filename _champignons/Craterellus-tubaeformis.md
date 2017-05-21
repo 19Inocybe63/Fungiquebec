@@ -1,31 +1,30 @@
 ---
+title: Craterellus Tubaeformis
+date: 2017-03-20 00:00:00 Z
 nom: Craterellus tubaeformis
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5787/20473498400_6ca4264095_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20473498400/in/photolist-xcb2MJ
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Craterelle en tube
   ordre: Cantharellales
   famille: Cantharellaceae
   genre: Craterellus
-  espece: <i>Craterellus tubaeformis</i> (Fr.) Quél.
-  litterature: Quélet, L. 1888. Flore mycologique de la France et des pays limitrophes. :1-492
-
+  espece: "<i>Craterellus tubaeformis</i> (Fr.) Quél."
+  litterature: Quélet, L. 1888. Flore mycologique de la France et des pays limitrophes.
+    :1-492
 collections:
-  - fongarium: cKc0411
-    date: 17 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0411
+  date: 17 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,11 @@ description:
   cellules-stromatiques: 
   chair: mince, brunâtre à jaunâtre
   chancre: 
-  chapeau: 20-70 mm Ø, ± convexe-ombiliqué puis infundibuliforme, vite perforé au centre, avec une marge ondulée et irrégulière à maturité, glabre, collant ou cireux à l'état frais, à face interne lisse à rugueuse, avec fines squamules fibreuses, brun jaunâtre à brun noirâtre
-  cheilochrysocystides:
+  chapeau: 20-70 mm Ø, ± convexe-ombiliqué puis infundibuliforme, vite perforé au
+    centre, avec une marge ondulée et irrégulière à maturité, glabre, collant ou cireux
+    à l'état frais, à face interne lisse à rugueuse, avec fines squamules fibreuses,
+    brun jaunâtre à brun noirâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -145,7 +147,8 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: formé de plis lamelliformes, fourchus, interveinés, espacés, décurrents, jaunâtres puis grisâtres, gris violacé à violacés
+  hymenophore: formé de plis lamelliformes, fourchus, interveinés, espacés, décurrents,
+    jaunâtres puis grisâtres, gris violacé à violacés
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -207,7 +210,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-100 x 3-10 mm Ø, cylindrique, à ± égal, souvent comprimé, farci puis creux, lisse, parfois cireux, jaune orangé à brun orangé vers l'apex, jaune vers la base, brunissant avec l'âge, parfois blanchâtre à la base, avec ou sans mycélium basal
+  pied: 30-100 x 3-10 mm Ø, cylindrique, à ± égal, souvent comprimé, farci puis creux,
+    lisse, parfois cireux, jaune orangé à brun orangé vers l'apex, jaune vers la base,
+    brunissant avec l'âge, parfois blanchâtre à la base, avec ou sans mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -282,3 +287,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

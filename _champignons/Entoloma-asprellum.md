@@ -1,51 +1,50 @@
 ---
+title: Entoloma Asprellum
+date: 2017-03-21 00:00:00 Z
 nom: Entoloma asprellum
-date: 2017-03-21 00:00:00
 image: https://c1.staticflickr.com/1/490/20065281211_140025cb40_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20065281211/in/photolist-KnAmT8-LjcCoe-wxW9Bh-wz6P3k
 album-flickr:
-  - 72157672484253594
-
+- 72157672484253594
 details:
   nom-francais: Entolome à pied bleuté
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: <i>Entoloma asprellum</i> (Fr.) Fayod
-  litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
-
+  espece: "<i>Entoloma asprellum</i> (Fr.) Fayod"
+  litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés.
+    Annales des Sciences Naturelles Botanique. 9:181-411
 collections:
-  - fongarium: cKc0379
-    date: 26 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0380
-    date: 27 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0543
-    date: 18 août 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0379
+  date: 26 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0380
+  date: 27 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0543
+  date: 18 août 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -71,7 +70,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol de forêt mixte, souvent parmi les sphaignes et dans les milieux humides
+  biotopes: pousse au sol de forêt mixte, souvent parmi les sphaignes et dans les
+    milieux humides
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -88,7 +88,9 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile
   chancre: 
-  chapeau: 8-30 mm Ø, conique à convexe puis étalé à maturité, et faiblement ombiliqué au centre, finement squamuleux, subhygrophane, brun foncé à brun-rouge, gris-noir au centre, pâlissant avec l'âge et au sec
+  chapeau: 8-30 mm Ø, conique à convexe puis étalé à maturité, et faiblement ombiliqué
+    au centre, finement squamuleux, subhygrophane, brun foncé à brun-rouge, gris-noir
+    au centre, pâlissant avec l'âge et au sec
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -189,7 +191,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à émarginées, larges, subespacées, blanchâtres à gris-rosées, à arêtes érodées, concolores aux faces
+  lames: adnées à émarginées, larges, subespacées, blanchâtres à gris-rosées, à arêtes
+    érodées, concolores aux faces
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -222,7 +225,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-80 x 10-40 mm Ø, longuement cylindrique, égal, creux, pruineux vers l'apex, glabre vers la base, gris bleuté, brun, tomenteux blanc à la base
+  pied: 30-80 x 10-40 mm Ø, longuement cylindrique, égal, creux, pruineux vers l'apex,
+    glabre vers la base, gris bleuté, brun, tomenteux blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -288,3 +292,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

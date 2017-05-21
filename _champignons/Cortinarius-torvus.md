@@ -1,31 +1,29 @@
 ---
+title: Cortinarius Torvus
+date: 2017-03-20 00:00:00 Z
 nom: Cortinarius torvus
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/8/7380/9412517132_cc0b5e615b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9412517132/in/photolist-fkKyDo-fkKBq9
 album-flickr:
-  - 72157676020185384
-
+- 72157676020185384
 details:
   nom-francais: Cortinaire odorant
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius torvus</i> (Fr.) Fr.
+  espece: "<i>Cortinarius torvus</i> (Fr.) Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-
 collections:
-  - fongarium: cKc0100
-    date: 31 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    elevation: 90 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0100
+  date: 31 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°46'21.6"N 71°10'29.3"O
+  elevation: 90 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +66,10 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanchâtre, ou avec des nuances de pourpre à gris dans le stipe
   chancre: 
-  chapeau: 30-90 mm Ø, convexe puis convexe-étalé, parfois bossu, subhygrophane, brun pourpré à brun grisâtre pâle, parfois avec des stries plus foncées, à marge souvent appendiculée
-  cheilochrysocystides:
+  chapeau: 30-90 mm Ø, convexe puis convexe-étalé, parfois bossu, subhygrophane, brun
+    pourpré à brun grisâtre pâle, parfois avec des stries plus foncées, à marge souvent
+    appendiculée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -173,7 +173,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, subespacées à espacées, larges, brunâtre pourpre au début, devenant brun rouille à maturité, à arêtes plus pâle ou concolores aux faces
+  lames: adnées, subespacées à espacées, larges, brunâtre pourpre au début, devenant
+    brun rouille à maturité, à arêtes plus pâle ou concolores aux faces
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +208,10 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 40-100 x 8-15 mm Ø, cylindrique à claviforme, parfois radicant, sec, violet pâle au début, devenant argenté à blanchâtre ou faiblement brunâtre, avec armille à partir de la base, muni d'un voile gris blanchâtre à gris lilas qui se termine souvent par un anneau fragile et replié
+  pied: 40-100 x 8-15 mm Ø, cylindrique à claviforme, parfois radicant, sec, violet
+    pâle au début, devenant argenté à blanchâtre ou faiblement brunâtre, avec armille
+    à partir de la base, muni d'un voile gris blanchâtre à gris lilas qui se termine
+    souvent par un anneau fragile et replié
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,8 +243,10 @@ description:
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration à gris sur le chapeau ; grisâtre à gris sur la chair
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration à gris sur le chapeau
+    ; grisâtre à gris sur la chair
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -279,3 +285,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

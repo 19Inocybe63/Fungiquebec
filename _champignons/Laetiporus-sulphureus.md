@@ -1,31 +1,30 @@
 ---
+title: Laetiporus Sulphureus
+date: 2017-03-25 00:00:00 Z
 nom: Laetiporus sulphureus
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3887/14711090926_794090957f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14711090926/in/photolist-owP4KZ-os11Bz-orZZwi-opYbNJ
 album-flickr:
-  - 72157676158837095
-
+- 72157676158837095
 details:
   nom-francais: Polypore soufré
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Laetiporus
-  espece: <i>Laetiporus sulphureus</i> (Bull.) Murrill
-  litterature: Murrill, W.A. 1920. Corrections and additions to the polypores of temperate North America. Mycologia. 12(1):6-24
-
+  espece: "<i>Laetiporus sulphureus</i> (Bull.) Murrill"
+  litterature: Murrill, W.A. 1920. Corrections and additions to the polypores of temperate
+    North America. Mycologia. 12(1):6-24
 collections:
-  - fongarium: cKc0188
-    date: 24 juillet 2014
-    planche:
-      numero: cKc0188-0040
-      miniature: https://c2.staticflickr.com/4/3857/14788526683_7801f149bf_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/14788526683/in/photolist-owP4KZ-os11Bz-orZZwi-opYbNJ
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0188
+  date: 24 juillet 2014
+  planche:
+    numero: cKc0188-0040
+    miniature: https://c2.staticflickr.com/4/3857/14788526683_7801f149bf_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/14788526683/in/photolist-owP4KZ-os11Bz-orZZwi-opYbNJ
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +50,8 @@ description:
     elliptiques, ovoïdes à largement ovoïdes, lisses, à paroi mince, à contenu variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer
     5,5-7 x 3,5-5 μm
   basidioles: 
-  basidiome: annuel, sessile, stipité, charnu-mou au début, fibreux-tenace à maturité, imbue au frais, friable et cassant au sec
+  basidiome: annuel, sessile, stipité, charnu-mou au début, fibreux-tenace à maturité,
+    imbue au frais, friable et cassant au sec
   bibliographies: 
   biotopes: pousse sur bois pourri et moussu de feuillus, <i>Quercus</i>
   boucles: absentes
@@ -68,9 +68,13 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, aqueuse au début, devenant dure à maturité et finit par s'effriter, blanche à jaune pâle
+  chair: épaisse, aqueuse au début, devenant dure à maturité et finit par s'effriter,
+    blanche à jaune pâle
   chancre: 
-  chapeau: 50-300 mm de largeur et jusqu'à 200 mm de profondeur, jusqu'à 30 mm d'épaisseur, en forme d'éventail à semi-circulaire ou irrégulière, ± plano à convexe, lisse à finement ridé, feutré, jaune vif à orange au début, suivant une décoloration à maturité
+  chapeau: 50-300 mm de largeur et jusqu'à 200 mm de profondeur, jusqu'à 30 mm d'épaisseur,
+    en forme d'éventail à semi-circulaire ou irrégulière, ± plano à convexe, lisse
+    à finement ridé, feutré, jaune vif à orange au début, suivant une décoloration
+    à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -229,16 +233,17 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 6, <i>les polyporales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Rouge Congo SDS = la chair devient noire
+  reactions-macrochimiques: 'Rouge Congo SDS = la chair devient noire
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -304,3 +309,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

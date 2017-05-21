@@ -1,51 +1,50 @@
 ---
+title: Ganoderma Megaloma
+date: 2017-03-24 00:00:00 Z
 nom: Ganoderma megaloma
-date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/9/8283/29076192640_686dda6d42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29076192640/in/photolist-Lin65d-LFMgRj
 album-flickr:
-  - 72157672219854874
-
+- 72157672219854874
 details:
   nom-francais: 
   ordre: Polyporales
   famille: Ganodermataceae
   genre: Ganoderma
-  espece: <i>Ganoderma megaloma</i> (Lév.) Bres.
-  litterature: Bresadola, G. 1913. Basidiomycetes philippinenses. Series II. Hedwigia. 53:44-80
-
+  espece: "<i>Ganoderma megaloma</i> (Lév.) Bres."
+  litterature: Bresadola, G. 1913. Basidiomycetes philippinenses. Series II. Hedwigia.
+    53:44-80
 collections:
-  - fongarium: sans numéro
-    date: 14 juillet 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 45°33'36.2"N 75°29'23.7"O
-    elevation: 195 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: sans numéro
-    date: 18 août 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0554
-    date: 31 août 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Herbert Baker
-
+- fongarium: sans numéro
+  date: 14 juillet 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 45°33'36.2"N 75°29'23.7"O
+  elevation: 195 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: sans numéro
+  date: 18 août 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0554
+  date: 31 août 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Herbert Baker
 description:
   acanthocytes: 
   acanthophyses: 
@@ -69,9 +68,11 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: pérenne, sessile, forme un groupe de 2 à 3 chapeaux imbriqués, de formes bistournées et fortement relié au support
+  basidiome: pérenne, sessile, forme un groupe de 2 à 3 chapeaux imbriqués, de formes
+    bistournées et fortement relié au support
   bibliographies: 
-  biotopes: pousse au pied d'un bouleau, sur tronc des arbres ou chicots et au sol sur débris ligneux
+  biotopes: pousse au pied d'un bouleau, sur tronc des arbres ou chicots et au sol
+    sur débris ligneux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -88,7 +89,8 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 30-300 mm en surplomb x 60-500 mm de largeur, plat et semi-circulaire, convexe à unguiforme, à la bordure droite à légèrement arrondie et lisse au-dessous
+  chapeau: 30-300 mm en surplomb x 60-500 mm de largeur, plat et semi-circulaire,
+    convexe à unguiforme, à la bordure droite à légèrement arrondie et lisse au-dessous
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -96,7 +98,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Alan Rockefeller. « <i>G. applanatum</i> est un nom européen, tandis que <i>G. megaloma</i> est un nom de la partie nord-est des États-Unis. »
+  commentaires: De Alan Rockefeller. « <i>G. applanatum</i> est un nom européen, tandis
+    que <i>G. megaloma</i> est un nom de la partie nord-est des États-Unis. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -247,8 +250,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -290,3 +293,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

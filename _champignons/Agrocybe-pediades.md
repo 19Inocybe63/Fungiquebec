@@ -1,31 +1,30 @@
 ---
+title: Agrocybe Pediades
+date: 2017-03-18 00:00:00 Z
 nom: Agrocybe pediades
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/8/7351/27376363195_4f178bde92_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27376363195/in/photolist-HHa1ZZ-HAV7A8-nTpic6-nTLDni/
 album-flickr:
-  - 72157676010869483
-
+- 72157676010869483
 details:
   nom-francais: Agrocybe des pelouses
   ordre: Agaricales
   famille: Strophariaceae
   genre: Agrocybe
-  espece: <i>Agrocybe pediades</i> (Fr.) Fayod
-  litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés. Annales des Sciences Naturelles Botanique. 9:181-411
-
+  espece: "<i>Agrocybe pediades</i> (Fr.) Fayod"
+  litterature: Fayod, M.V. 1889. Prodrome d'une histoire naturelle des Agaricinés.
+    Annales des Sciences Naturelles Botanique. 9:181-411
 collections:
-  - fongarium: cKc0492
-    date: 31 mai 2016
-    planche:
-      numero: cKc0492-0155
-      miniature: https://c1.staticflickr.com/1/465/32403505402_b56066ca05_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/32403505402/in/photolist-RnoreC-HHa1ZZ-HAV7A8/
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0492
+  date: 31 mai 2016
+  planche:
+    numero: cKc0492-0155
+    miniature: https://c1.staticflickr.com/1/465/32403505402_b56066ca05_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/32403505402/in/photolist-RnoreC-HHa1ZZ-HAV7A8/
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à largement claviformes, parfois largement cylindriques, tétrasporiques jusqu'à 2,1-5,4 µm de long, non bouclées à la base, (27,4) 27,9 - 30,9 (33,2) × (8,7) 9 - 9,9 (10,7) µm
+  basides: claviformes à largement claviformes, parfois largement cylindriques, tétrasporiques
+    jusqu'à 2,1-5,4 µm de long, non bouclées à la base, (27,4) 27,9 - 30,9 (33,2)
+    × (8,7) 9 - 9,9 (10,7) µm
   basidiospores: |
     elliptiques, subovales à ovales, parfois subhexagonales en vue frontale, largement elliptiques à elliptiques vues de profil, parfois avec rétrécissement à l’apex, tronquées, avec petit pore germinatif centré parfois bien visible, lisses, à paroi mince à légèrement épaissie, avec petit appendice hilaire pas toujours bien visible, à contenu guttulé à variable, brun pâle dans E.G. 20%, brun rougeâtre dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     (10,1) 10,4 - 11,7 (13,5) × (6) 6,1 - 6,9 (7,6) µm
@@ -56,14 +57,17 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, au travers de débris ligneux, copeaux de bois, sol tourné, plate-bande
+  biotopes: pousse au sol, au travers de débris ligneux, copeaux de bois, sol tourné,
+    plate-bande
   boucles: observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes à l'apex, polymorphes, claviformes, rarement avec des digitations, capitulées à subcapitulées, parfois avec des cristaux à l'apex, piriformes, (16,7) 25,4 - 40,5 (50,9) × (4,4) 5 - 11,8 (13,6) µm en moyenne
+  caulocystides: abondantes à l'apex, polymorphes, claviformes, rarement avec des
+    digitations, capitulées à subcapitulées, parfois avec des cristaux à l'apex, piriformes,
+    (16,7) 25,4 - 40,5 (50,9) × (4,4) 5 - 11,8 (13,6) µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -73,9 +77,12 @@ description:
   cellules-stromatiques: 
   chair: mince, blanchâtre à ivoire puis chamois pâle
   chancre: 
-  chapeau: 18-36 mm Ø, hémisphérique à convexe, avec rayon brun plus foncé à la marge, visqueux, avec le centre orangée ocre.
-  cheilochrysocystides:
-  cheilocystides: abondantes, polymorphes, claviformes à largement claviformes (26) 30 - 40,4 (47,3) × (13,8) 14,1 - 20,8 (21,4) µm en moyenne, subglobuleuses, lécythiformes 25,9 - 32,9 × 10,4 - 14 µm en moyenne
+  chapeau: 18-36 mm Ø, hémisphérique à convexe, avec rayon brun plus foncé à la marge,
+    visqueux, avec le centre orangée ocre.
+  cheilochrysocystides: 
+  cheilocystides: abondantes, polymorphes, claviformes à largement claviformes (26)
+    30 - 40,4 (47,3) × (13,8) 14,1 - 20,8 (21,4) µm en moyenne, subglobuleuses, lécythiformes
+    25,9 - 32,9 × 10,4 - 14 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -177,7 +184,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, larges, subespacées, blanchâtres au début devenant crème beige à brun pâle à maturité.
+  lames: adnées à adnexées, larges, subespacées, blanchâtres au début devenant crème
+    beige à brun pâle à maturité.
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -211,15 +219,19 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 38-57 x 4-5 mm Ø, cylindrique devenant bulbeux à la base, creux, brun tan à brun crème.
+  pied: 38-57 x 4-5 mm Ø, cylindrique devenant bulbeux à la base, creux, brun tan
+    à brun crème.
   pieds-steriles: 
   pigments: 
-  pileipellis: en hyménoderme, avec mince couche superficielle gélatinisée (ixo), formé de cellules claviformes à piriformes, non bouclées 24 - 35,6 × (8,2) 8,21 - 12,56 (12,6) µm en moyenne
+  pileipellis: en hyménoderme, avec mince couche superficielle gélatinisée (ixo),
+    formé de cellules claviformes à piriformes, non bouclées 24 - 35,6 × (8,2) 8,21
+    - 12,56 (12,6) µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: rares, largement claviformes (36,7) 36,74 - 39,46 (39,5) × (21,9) 21,94 - 22,78 (22,8) µm en moyenne
+  pleurocystides: rares, largement claviformes (36,7) 36,74 - 39,46 (39,5) × (21,9)
+    21,94 - 22,78 (22,8) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -255,7 +267,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: ± amère avec une finale nettement amère
+  saveur: "± amère avec une finale nettement amère"
   sclerocystides: 
   sclerote: 
   soies: 
@@ -294,7 +306,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, fin, fugace, ne laissant pas d'anneau ni de zone annuliforme sur le pied.
+  voile-partiel: fibrilleux, fin, fugace, ne laissant pas d'anneau ni de zone annuliforme
+    sur le pied.
   volve: 
   zone-perihymeniale: 
 ---
+

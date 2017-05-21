@@ -1,31 +1,31 @@
 ---
+title: Mycena Mackinawensis
+date: 2017-03-25 00:00:00 Z
 nom: Mycena mackinawensis
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8269/30187682516_dd519e3805_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30187682516/in/photostream/
 album-flickr:
-  - 72157676762763596
-
+- 72157676762763596
 details:
   nom-francais: 
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
-  espece: <i>Mycena mackinawensis</i> A.H. Sm.
-  litterature: Smith, A.H. 1953. New and rare agarics from the Douglas Lake region and Tahquamenon Falls State Park, Michigan, and an account of the North American species of Xeromphalina. Papers of the Michigan Academy of Sciences. 38:53-87
-
+  espece: "<i>Mycena mackinawensis</i> A.H. Sm."
+  litterature: Smith, A.H. 1953. New and rare agarics from the Douglas Lake region
+    and Tahquamenon Falls State Park, Michigan, and an account of the North American
+    species of Xeromphalina. Papers of the Michigan Academy of Sciences. 38:53-87
 collections:
-  - fongarium: cKc0589
-    date: 9 octobre 2016
-    planche:
-      numero: cKc0589-0143
-      miniature: https://c2.staticflickr.com/6/5772/31027116291_4d63602e40_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/31027116291/in/photostream/
-    geolocalisation: 
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0589
+  date: 9 octobre 2016
+  planche:
+    numero: cKc0589-0143
+    miniature: https://c2.staticflickr.com/6/5772/31027116291_4d63602e40_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31027116291/in/photostream/
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +46,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes dont l'apex est parfois subcapité, bisporiques à tétrasporiques, non bouclées à la base (22,3) 23,7 - 29 (29,9) × (4,5) 5,6 - 6,6 (6,7) µm
+  basides: claviformes dont l'apex est parfois subcapité, bisporiques à tétrasporiques,
+    non bouclées à la base (22,3) 23,7 - 29 (29,9) × (4,5) 5,6 - 6,6 (6,7) µm
   basidiospores: |
     elliptiques à étroitement elliptiques en vue frontale, elliptiques-larmiformes vues de profil, lisses, à paroi mince, avec appendice hilaire bien visible, à contenu granulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, fortement cyanophiles
     (7,2) 7,6 - 9 (9,5) × (3,6) 3,7 - 4,1 (4,6) µm
@@ -63,7 +64,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: nombreuses, sous la forme de diverticules, 2,1 - 5,27 (5,3) × 0,8 - 1,39 (1,4) µm en moyenne
+  caulocystides: nombreuses, sous la forme de diverticules, 2,1 - 5,27 (5,3) × 0,8
+    - 1,39 (1,4) µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -73,9 +75,15 @@ description:
   cellules-stromatiques: 
   chair: ferme
   chancre: 
-  chapeau: 14 mm Ø, campanulé, brun noirâtre lorsque imbu, hygrophane, brun beige terne, marge ± translucide
-  cheilochrysocystides:
-  cheilocystides: de 3 types ; 1re type occasionnelles, cylindriques à étroitement claviformes parfois subcapitées (13,4) 14,5 - 26 (26,4) × (2,5) 2,6 - 5,1 (6) µm en moyenne, 2e type, rares, cylindriques dont l'apex est subcapité, ornées de nombreuses excroissances flexueuses 23 - 25,4 × (6,1) 6,14 - 6,5 µm en moyenne, 3e type, coralliformes, dont l'apex est orné de multiple excroissances 14 - 17,2 × 4,8 - 6,4 µm en moyenne
+  chapeau: 14 mm Ø, campanulé, brun noirâtre lorsque imbu, hygrophane, brun beige
+    terne, marge ± translucide
+  cheilochrysocystides: 
+  cheilocystides: de 3 types ; 1re type occasionnelles, cylindriques à étroitement
+    claviformes parfois subcapitées (13,4) 14,5 - 26 (26,4) × (2,5) 2,6 - 5,1 (6)
+    µm en moyenne, 2e type, rares, cylindriques dont l'apex est subcapité, ornées
+    de nombreuses excroissances flexueuses 23 - 25,4 × (6,1) 6,14 - 6,5 µm en moyenne,
+    3e type, coralliformes, dont l'apex est orné de multiple excroissances 14 - 17,2
+    × 4,8 - 6,4 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -83,8 +91,11 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: |
-    De Arne Aronsen. « I suspect it could be a member of sect. Fuliginellae. The cap is probably covered with a separable, gelatinous pellicle, and the gill edge should be covered by a gelatinous, elastic thread. »
+  commentaires: 'De Arne Aronsen. « I suspect it could be a member of sect. Fuliginellae.
+    The cap is probably covered with a separable, gelatinous pellicle, and the gill
+    edge should be covered by a gelatinous, elastic thread. »
+
+'
   conidies: 
   conidiome: 
   conidiophores: 
@@ -210,15 +221,19 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 28 x 1 mm Ø, cylindrique, pruineux, dont le pied est radicant, crème avec reflets verdâtres, dont la base est plus foncée, reflets jaunâtres, non bulbeux
+  pied: 28 x 1 mm Ø, cylindrique, pruineux, dont le pied est radicant, crème avec
+    reflets verdâtres, dont la base est plus foncée, reflets jaunâtres, non bulbeux
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, dont le suprapellis est formé d'hyphes ornées d'excroissances plus ou moins courtes (diverticules), et d'un subpellis formé d'hyphes cylindriques
+  pileipellis: en cutis, dont le suprapellis est formé d'hyphes ornées d'excroissances
+    plus ou moins courtes (diverticules), et d'un subpellis formé d'hyphes cylindriques
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: semblables au cheilocystides du 1er type, occasionnelles, cylindriques à étroitement claviformes dont l'apex est parfois subcapitées, rarement bifides, (17,1) 20,4 - 23,9 (26,1) × (2,4) 2,9 - 4,4 (6,6) µm en moyenne
+  pleurocystides: semblables au cheilocystides du 1er type, occasionnelles, cylindriques
+    à étroitement claviformes dont l'apex est parfois subcapitées, rarement bifides,
+    (17,1) 20,4 - 23,9 (26,1) × (2,4) 2,9 - 4,4 (6,6) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -247,7 +262,9 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Consultation du site de <b>Arne Aronsen</b>. <i>The Mycenas of Northern Europe ; A key to the Mycenas of Norway ; Key to the European members of section Fuliginellae</i> ; http://www.mycena.no/
+  remarques: Consultation du site de <b>Arne Aronsen</b>. <i>The Mycenas of Northern
+    Europe ; A key to the Mycenas of Norway ; Key to the European members of section
+    Fuliginellae</i> ; http://www.mycena.no/
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -281,3 +298,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Hygrocybe Coccineocrenata
+date: 2017-03-25 00:00:00 Z
 nom: Hygrocybe coccineocrenata
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5487/9532550164_cff4d0ea25_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9532550164/in/photolist-s7WLut-fwmP4b-fw7w6p
 album-flickr:
-  - 72157676756043636
-
+- 72157676756043636
 details:
   nom-francais: Hygrophore crête-de-coq
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
-  espece: <i>Hygrocybe coccineocrenata</i> (P.D. Orton) M.M. Moser
-  litterature: Moser, M. 1967. Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes). IIb/2:1-443
-
+  espece: "<i>Hygrocybe coccineocrenata</i> (P.D. Orton) M.M. Moser"
+  litterature: Moser, M. 1967. Kleine Kryptogamenflora von Mitteleuropa - Die Blätter-
+    und Baupilze (Agaricales und Gastromycetes). IIb/2:1-443
 collections:
-  - fongarium: cKc0113
-    date: 17 août 2013
-    planche:
-      numero: cKc0113-0083
-      miniature: https://c2.staticflickr.com/8/7706/17143860659_9c3d93042b_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/17143860659/in/photolist-s7WLut-fw7w6p-fwmP4b
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 90 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0113
+  date: 17 août 2013
+  planche:
+    numero: cKc0113-0083
+    miniature: https://c2.staticflickr.com/8/7706/17143860659_9c3d93042b_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/17143860659/in/photolist-s7WLut-fw7w6p-fwmP4b
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 90 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: subpiriformes à claviformes élancées, tétrasporiques, avec stérigmates jusqu'à 10 µm de longueur, bouclées à la base, 39,7 [49,9; 64] 74,2 x 12,3 [13,4; 14,9] 15,9 µm
+  basides: subpiriformes à claviformes élancées, tétrasporiques, avec stérigmates
+    jusqu'à 10 µm de longueur, bouclées à la base, 39,7 [49,9; 64] 74,2 x 12,3 [13,4;
+    14,9] 15,9 µm
   basidiospores: |
     elliptiques-ovoïdales en vue frontale, largement elliptiques à elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, sans pore germinatif, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     9,1 [10,1; 10,5] 11,4 x 6 [6,7; 6,9] 7,6 µm
@@ -72,8 +73,9 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 3-25 mm Ø, convexe puis déprimé au centre, sec, orné de fines squamules brunâtres sur fond rouge à rouge orangé
-  cheilochrysocystides:
+  chapeau: 3-25 mm Ø, convexe puis déprimé au centre, sec, orné de fines squamules
+    brunâtres sur fond rouge à rouge orangé
+  cheilochrysocystides: 
   cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -211,7 +213,8 @@ description:
   pied: 30-50 x 1-4 mm Ø, cylindrique, égal, légèrement radicant, concolore au chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, occasionnellement formé d'hyphes apprimées ± dressées, sans subpellis différencié
+  pileipellis: en cutis, occasionnellement formé d'hyphes apprimées ± dressées, sans
+    subpellis différencié
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -234,8 +237,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boertmann, David</b>. <i>The genus Hygrocybe</i>, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
+  publications: "<b>Boertmann, David</b>. <i>The genus Hygrocybe</i>, Fungi of Northern
+    Europe vol. 1, 2nd revised edition, 2010, 103 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -279,3 +282,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

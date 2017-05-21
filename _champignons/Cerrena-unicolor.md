@@ -1,31 +1,30 @@
 ---
+title: Cerrena Unicolor
+date: 2017-03-18 00:00:00 Z
 nom: Cerrena unicolor
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3876/14783725081_686bf42dfe_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14783725081/in/photolist-ofb36w-ofb1ZJ-owCLCw-owospK
 album-flickr:
-  - 72157676876968056
-
+- 72157676876968056
 details:
   nom-francais: Tramète unicolore
   ordre: Polyporales
   famille: Polyporaceae
   genre: Cerrena
-  espece: <i>Cerrena unicolor</i> (Bull.) Murrill
-  litterature: Murrill, W.A. 1903. A historical review of the genera of the Polyporaceae. Journal of Mycology. 9(2):87-102
-
+  espece: "<i>Cerrena unicolor</i> (Bull.) Murrill"
+  litterature: Murrill, W.A. 1903. A historical review of the genera of the Polyporaceae.
+    Journal of Mycology. 9(2):87-102
 collections:
-  - fongarium: cKc0189
-    date: 30 juillet 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0189
+  date: 30 juillet 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,7 +48,8 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: annuel, sessile ou avec une base atténuée, effusé-réfléchi, rarement résupiné, tenace et flexible au frais, subcoriace au sec
+  basidiome: annuel, sessile ou avec une base atténuée, effusé-réfléchi, rarement
+    résupiné, tenace et flexible au frais, subcoriace au sec
   bibliographies: 
   biotopes: 
   boucles: 
@@ -68,22 +68,27 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 100 mm de longueur, 20-50 mm de largeur, 5-10 mm d'épaisseur, dimidié, conchoïde à flabelliforme, hirsute à subglabre, zoné et sillonné concentriquement, blanchâtre, gris à brunâtre pâle, souvent coloré de verdâtre à brun verdâtre par les algues, à marge aiguë à obtuse, parfois ondulée à brisée, souvent pâle
-  cheilochrysocystides:
+  chapeau: jusqu'à 100 mm de longueur, 20-50 mm de largeur, 5-10 mm d'épaisseur, dimidié,
+    conchoïde à flabelliforme, hirsute à subglabre, zoné et sillonné concentriquement,
+    blanchâtre, gris à brunâtre pâle, souvent coloré de verdâtre à brun verdâtre par
+    les algues, à marge aiguë à obtuse, parfois ondulée à brisée, souvent pâle
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
-  clavules:  
+  clavules: 
   columelle: 
   commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: double ; 1) zone foncée séparant le tomentum piléique, mince, molle et spongieuse ; 2) partie inférieure subéreuse, brunâtre pâle jusqu'à 3 mm d'épaisseur au total
+  contexte: double ; 1) zone foncée séparant le tomentum piléique, mince, molle et
+    spongieuse ; 2) partie inférieure subéreuse, brunâtre pâle jusqu'à 3 mm d'épaisseur
+    au total
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -223,14 +228,17 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: continus et concolores au contexte inférieur, jusqu'à 10 mm de longueur ; variables, ronds à la marge ; allongés, sinueux, vite dédaloïdes et irpicoïdes vers la base, 3-4 par mm ; plus grands par endroits, à dissépiments épais et fimbriés au début, minces et lacérés avec l'âge
+  pores: continus et concolores au contexte inférieur, jusqu'à 10 mm de longueur ;
+    variables, ronds à la marge ; allongés, sinueux, vite dédaloïdes et irpicoïdes
+    vers la base, 3-4 par mm ; plus grands par endroits, à dissépiments épais et fimbriés
+    au début, minces et lacérés avec l'âge
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -289,3 +297,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

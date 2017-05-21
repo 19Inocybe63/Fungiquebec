@@ -1,41 +1,40 @@
 ---
+title: Amanita Sinicoflava
+date: 2017-03-17 00:00:00 Z
 nom: Amanita sinicoflava
-date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/4/3859/15083082127_e0523fc7f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15083082127/in/photolist-pntRkJ-oYQJQ8-pgjSSr
 album-flickr:
-  - 72157675735274651
-
+- 72157675735274651
 details:
   nom-francais: Amanite jaune paille
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita sinicoflava</i> Tulloss
-  litterature: Tulloss, R.E. 1988. Amanita sinicoflava; a new species from eastern North America. Mycotaxon. 32:421-431
-
+  espece: "<i>Amanita sinicoflava</i> Tulloss"
+  litterature: Tulloss, R.E. 1988. Amanita sinicoflava; a new species from eastern
+    North America. Mycotaxon. 32:421-431
 collections:
-  - fongarium: sans numéro
-    date: 16 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°56'53.7"N 71°16'59.4"O
-    elevation: 260 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0256
-    date: 17 septembre 2014
-    planche:
-      numero: cKc0256-0055
-      miniature: https://c2.staticflickr.com/8/7491/15339286084_f072e79895_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15339286084/in/photostream
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Rod E. Tulloss
-
+- fongarium: sans numéro
+  date: 16 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°56'53.7"N 71°16'59.4"O
+  elevation: 260 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0256
+  date: 17 septembre 2014
+  planche:
+    numero: cKc0256-0055
+    miniature: https://c2.staticflickr.com/8/7491/15339286084_f072e79895_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15339286084/in/photostream
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Rod E. Tulloss
 description:
   acanthocytes: 
   acanthophyses: 
@@ -82,8 +81,10 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 30-80 mm Ø, ovoïde, conique-arrondi puis étalé-mamelonné, jaune olive, jaune paille ou olive brunâtre, parfois plus foncé au centre et dans la zone antémarginale, dépourvu de restes vélaires, à marge longuement sillonnée
-  cheilochrysocystides:
+  chapeau: 30-80 mm Ø, ovoïde, conique-arrondi puis étalé-mamelonné, jaune olive,
+    jaune paille ou olive brunâtre, parfois plus foncé au centre et dans la zone antémarginale,
+    dépourvu de restes vélaires, à marge longuement sillonnée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -218,7 +219,8 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 70-150 x 7-13 mm Ø, non bulbeux, lisse ou finement fibrilleux, blanchâtre, grisâtre ou brunâtre, sans anneau, émergeant d'une volve grise par endroits
+  pied: 70-150 x 7-13 mm Ø, non bulbeux, lisse ou finement fibrilleux, blanchâtre,
+    grisâtre ou brunâtre, sans anneau, émergeant d'une volve grise par endroits
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -244,15 +246,17 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications: "<b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>,
+    Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration ou de décoloration
+    sur le chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -288,3 +292,4 @@ description:
   volve: grise par endroits
   zone-perihymeniale: 
 ---
+

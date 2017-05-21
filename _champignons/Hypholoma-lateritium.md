@@ -1,71 +1,69 @@
 ---
+title: Hypholoma Lateritium
+date: 2017-03-25 00:00:00 Z
 nom: Hypholoma lateritium
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8523/8486240695_ea46252827_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8486240695/in/photolist-dXpeui-dVZNbq-dVUcTK-dVUcGK/
 album-flickr:
-  - 72157677988523192
-
+- 72157677988523192
 details:
   nom-francais: Hypholome couleur de briques
   ordre: Agaricales
   famille: Strophariaceae
   genre: Hypholoma
-  espece: <i>Hypholoma lateritium</i> (Schaeff.) P. Kumm.
+  espece: "<i>Hypholoma lateritium</i> (Schaeff.) P. Kumm."
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-
 collections:
-  - fongarium: cKc0008
-    date: 20 octobre 2012
-    planche:
-      numero: cKc0008-0017
-      miniature: https://c1.staticflickr.com/9/8099/8503221445_2f427d05ab_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8503221445/in/photolist-dXpeui-dVZNbq-dVUcTK-dVUcGK
-    geolocalisation: 46°48'40.46"N 71°21'30.15"O
-    elevation: 75 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0150
-    date: 1 octobre 2013
-    planche:
-      numero: 
-      miniature: 
-      originale: 
-    geolocalisation: 46°57'47.71"N 70°57'06.06"O
-    elevation: 83 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0226
-    date: 29 août 2014
-    planche:
-      numero: 
-      miniature: 
-      originale: 
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0257
-    date: 15 septembre 2014
-    planche:
-      numero: 
-      miniature: 
-      originale: 
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0278
-    date: 2 octobre 2014
-    planche:
-      numero: 
-      miniature: 
-      originale: 
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0008
+  date: 20 octobre 2012
+  planche:
+    numero: cKc0008-0017
+    miniature: https://c1.staticflickr.com/9/8099/8503221445_2f427d05ab_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8503221445/in/photolist-dXpeui-dVZNbq-dVUcTK-dVUcGK
+  geolocalisation: 46°48'40.46"N 71°21'30.15"O
+  elevation: 75 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0150
+  date: 1 octobre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°57'47.71"N 70°57'06.06"O
+  elevation: 83 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
+- fongarium: cKc0226
+  date: 29 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0257
+  date: 15 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0278
+  date: 2 octobre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -96,7 +94,8 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse sur souches et troncs morts de feuillus
-  boucles: nombreuses, observées dans le pileipellis, 8,7 µm de longueur, le médiostrate, 3,2 µm de longueur, le stipitipellis, 4,06 µm de longueur
+  boucles: nombreuses, observées dans le pileipellis, 8,7 µm de longueur, le médiostrate,
+    3,2 µm de longueur, le stipitipellis, 4,06 µm de longueur
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -112,9 +111,12 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, crème
   chancre: 
-  chapeau: 40-100 mm Ø, convexe puis étalé, lisse, rouge brique, plus pâle au pourtour, à marge souvent ornée de vestiges du voile partiel
-  cheilochrysocystides:
-  cheilocystides: abondantes, polymorphes, lécythiformes,  parfois lagéniformes, cylindriques, capitées, rarement largement fusiformes, rarement en cheilochrysocystides, 29,1 x 6,4 µm en moyenne
+  chapeau: 40-100 mm Ø, convexe puis étalé, lisse, rouge brique, plus pâle au pourtour,
+    à marge souvent ornée de vestiges du voile partiel
+  cheilochrysocystides: 
+  cheilocystides: abondantes, polymorphes, lécythiformes,  parfois lagéniformes, cylindriques,
+    capitées, rarement largement fusiformes, rarement en cheilochrysocystides, 29,1
+    x 6,4 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -122,8 +124,11 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: |
-    De Claude Kaufholtz-Couture. « Les boucles du pileipellis sont plus grosses (au double) que celles trouvées dans le médiostrate et le stipitipellis. »
+  commentaires: 'De Claude Kaufholtz-Couture. « Les boucles du pileipellis sont plus
+    grosses (au double) que celles trouvées dans le médiostrate et le stipitipellis.
+    »
+
+'
   conidies: 
   conidiome: 
   conidiophores: 
@@ -252,10 +257,12 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-100 x 5-15 mm Ø, égal, crème à l'apex, vineux vers la base, parfois teinté de jaune par endroits
+  pied: 50-100 x 5-15 mm Ø, égal, crème à l'apex, vineux vers la base, parfois teinté
+    de jaune par endroits
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches distinctes, suprapellis formé d’hyphes en rectocutis et subpellis celluleux
+  pileipellis: en deux couches distinctes, suprapellis formé d’hyphes en rectocutis
+    et subpellis celluleux
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -278,8 +285,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+  publications: "<b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei
+    Edizioni Candusso, N° 13, 2011, 648 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -331,7 +338,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: presque membraneux, blanchâtre, laissant une zone annuliforme, abondamment bouclées
+  voile-partiel: presque membraneux, blanchâtre, laissant une zone annuliforme, abondamment
+    bouclées
   volve: 
   zone-perihymeniale: 
 ---
+

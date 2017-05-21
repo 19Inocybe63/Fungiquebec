@@ -1,31 +1,30 @@
 ---
+title: Phyllotopsis Nidulans
+date: 2017-03-25 00:00:00 Z
 nom: Phyllotopsis nidulans
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3891/14674164427_314106bc38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14674164427/in/photolist-omGujh-omGVQX/
 album-flickr:
-  - 72157675237900963
-
+- 72157675237900963
 details:
   nom-francais: Pleurote en forme de nid
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Phyllotopsis
-  espece: <i>Phyllotopsis nidulans</i> (Pers.) Singer
-  litterature: Singer, R. 1936. Studien zur Systematik der Basidiomyceten. I. Beihefte zum Botanischen Zentralblatt. 56:137-156
-
+  espece: "<i>Phyllotopsis nidulans</i> (Pers.) Singer"
+  litterature: Singer, R. 1936. Studien zur Systematik der Basidiomyceten. I. Beihefte
+    zum Botanischen Zentralblatt. 56:137-156
 collections:
-  - fongarium: cKc0200
-    date: 8 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0200
+  date: 8 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,12 @@ description:
   cellules-stromatiques: 
   chair: mince, coriace, juteuse, élastique, jaunâtre à orange pâle
   chancre: 
-  chapeau: 20-80 mm Ø, pleurotoïde, ± flabelliforme, conchoïde, circulaire à réniforme, souvent attaché latéralement, largement convexe à étalé, hygrophane, recouvert d'un tomentum feutré blanchâtre à chamois au début, sec, jaune orangé à chamois orangé à l'humidité, orangé brunâtre à jaune ocre au sec, feutré, tomenteux, hirsute vers la marge qui et nettement enroulée
-  cheilochrysocystides:
+  chapeau: 20-80 mm Ø, pleurotoïde, ± flabelliforme, conchoïde, circulaire à réniforme,
+    souvent attaché latéralement, largement convexe à étalé, hygrophane, recouvert
+    d'un tomentum feutré blanchâtre à chamois au début, sec, jaune orangé à chamois
+    orangé à l'humidité, orangé brunâtre à jaune ocre au sec, feutré, tomenteux, hirsute
+    vers la marge qui et nettement enroulée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -173,7 +176,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: arquées, étroites à larges, avec lamellules, subserrées, chamois orangé, jaune orangé à jaune rouille, arête concolore
+  lames: arquées, étroites à larges, avec lamellules, subserrées, chamois orangé,
+    jaune orangé à jaune rouille, arête concolore
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +210,8 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: absent ou rudimentaire, parfois fixé latéralement sur le support, tomenteux-strigueux blanc vers la base
+  pied: absent ou rudimentaire, parfois fixé latéralement sur le support, tomenteux-strigueux
+    blanc vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -235,8 +240,10 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration ou de décoloration
+    sur le chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -281,3 +288,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

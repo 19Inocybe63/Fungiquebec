@@ -1,31 +1,32 @@
 ---
+title: Harrya Chromapes
+date: 2017-03-24 00:00:00 Z
 nom: Harrya chromapes
-date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/6/5671/20335858794_361bbf8904_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20335858794/in/photolist-wZ1Ak5
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Bolet à pied jaune vif
   ordre: Boletales
   famille: Boletaceae
   genre: Harrya
-  espece: <i>Harrya chromapes</i> (Frost) Halling, Nuhn, Osmundson & Manfr. Binder
-  litterature: Halling, R.E.; Nuhn, M.; Osmundson, T.; Fechner, N.; Trappe, J.m.; Soytong, K.; Arora, D.; Hibbett, D.; Binder, M. 2012. Affinities of the Boletus chromapes group to Royoungia and the description of two new genera, Harrya and Australopilus. Australian Systematic Botany. 25(6):418-431
-
+  espece: "<i>Harrya chromapes</i> (Frost) Halling, Nuhn, Osmundson & Manfr. Binder"
+  litterature: Halling, R.E.; Nuhn, M.; Osmundson, T.; Fechner, N.; Trappe, J.m.;
+    Soytong, K.; Arora, D.; Hibbett, D.; Binder, M. 2012. Affinities of the Boletus
+    chromapes group to Royoungia and the description of two new genera, Harrya and
+    Australopilus. Australian Systematic Botany. 25(6):418-431
 collections:
-  - fongarium: cKc0440
-    date: 28 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0440
+  date: 28 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -66,9 +67,13 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanchâtre à légèrement rosé, souvent rosâtre sous la cuticule, immuable, envahi rapidement par les larves, souvent brun et caverneuse dans la partie inférieure à maturité
+  chair: blanchâtre à légèrement rosé, souvent rosâtre sous la cuticule, immuable,
+    envahi rapidement par les larves, souvent brun et caverneuse dans la partie inférieure
+    à maturité
   chancre: 
-  chapeau: 30-110 mm Ø, convexe à presque plane, sec ou un peu collante, finement veloutée à presque glabre, rose à rose brunâtre, rouge pâle lorsque jeune, se décolorant à rosâtre tan, à jaunâtre terne
+  chapeau: 30-110 mm Ø, convexe à presque plane, sec ou un peu collante, finement
+    veloutée à presque glabre, rose à rose brunâtre, rouge pâle lorsque jeune, se
+    décolorant à rosâtre tan, à jaunâtre terne
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -201,7 +206,9 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 40-170 x 10-25 mm Ø, cylindrique subégal, se rétrécissant vers le sommet, avec base radicante, blanchâtre à rosâtre, finement orné d’écailles rose-rouges, jaune vif à la base
+  pied: 40-170 x 10-25 mm Ø, cylindrique subégal, se rétrécissant vers le sommet,
+    avec base radicante, blanchâtre à rosâtre, finement orné d’écailles rose-rouges,
+    jaune vif à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -266,7 +273,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: blanc crème, devenant rose, puis brunâtre à brun rougeâtre, déprimé à la tige, 1-3 pores par mm, tubes de 13-14 mm de profondeur
+  tubes: blanc crème, devenant rose, puis brunâtre à brun rougeâtre, déprimé à la
+    tige, 1-3 pores par mm, tubes de 13-14 mm de profondeur
   type: 
   typique: 
   voile: 
@@ -275,3 +283,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

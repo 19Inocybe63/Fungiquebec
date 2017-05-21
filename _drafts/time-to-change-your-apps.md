@@ -1,7 +1,7 @@
 ---
-title: "Time to change your apps"
-date: 2014-04-25 16:54:46
-categories: 
+title: Time to change your apps
+date: 2014-04-25 16:54:46 Z
+categories:
 - Wordpress
 - Photoshop
 ---

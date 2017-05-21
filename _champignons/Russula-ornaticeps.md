@@ -1,41 +1,39 @@
 ---
+title: Russula Ornaticeps
+date: 2017-04-06 00:00:00 Z
 nom: Russula ornaticeps
-date: 2017-04-06 00:00:00
 image: https://c1.staticflickr.com/1/317/19538550198_bebce9b492_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19538550198/in/photolist-C6vQDR-vLybg9-w4b2ea
 album-flickr:
-  - 72157677124822605
-
+- 72157677124822605
 details:
   nom-francais: Russule à chapeau orné
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula ornaticeps</i> Burl.
+  espece: "<i>Russula ornaticeps</i> Burl."
   litterature: Burlingham, G.S. 1921. Some new species of Russula. Mycologia. 13(3):129-134
-
 collections:
-  - fongarium: cKc0346
-    date: 15 juillet 2015
-    planche:
-      numero: cKc0346-0108
-      miniature: https://c2.staticflickr.com/2/1616/23691248043_a4821991e8_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/23691248043/in/photolist-C6vQDR-vLybg9-w4b2ea
-    geolocalisation: 
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0553
-    date: 31 août 2016
-    planche:
-      numero: cKc0553-0163
-      miniature: https://c2.staticflickr.com/4/3804/33061250593_d4e8b9199d_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/33061250593/in/photolist-SnvxXX-LzaAnG-LzaMxh/
-    geolocalisation: 
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0346
+  date: 15 juillet 2015
+  planche:
+    numero: cKc0346-0108
+    miniature: https://c2.staticflickr.com/2/1616/23691248043_a4821991e8_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/23691248043/in/photolist-C6vQDR-vLybg9-w4b2ea
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0553
+  date: 31 août 2016
+  planche:
+    numero: cKc0553-0163
+    miniature: https://c2.staticflickr.com/4/3804/33061250593_d4e8b9199d_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/33061250593/in/photolist-SnvxXX-LzaAnG-LzaMxh/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -47,8 +45,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+  articles: "<b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées
+    par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de
+    gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -57,7 +56,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: largement cylindriques à claviformes, tétrasporiques, stérigmates jusqu'à 4,2 (5) µm de longueur, non bouclées à la base, à contenu vacuolaire, 37-40 (50) x 7-9 (11,5) µm en moyenne
+  basides: largement cylindriques à claviformes, tétrasporiques, stérigmates jusqu'à
+    4,2 (5) µm de longueur, non bouclées à la base, à contenu vacuolaire, 37-40 (50)
+    x 7-9 (11,5) µm en moyenne
   basidiospores: |
     subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses, partiellement à rarement réticulé, avec proéminences jusqu'à 0,7 µm de hauteur, à paroi mince, avec appendice hilaire moyen à proéminent, plage hilaire faiblement amyloïde, pore germinatif rarement visible jusqu’à 1 µm Ø, à contenu uniguttulé, hyalines dans E.G. 20%, faiblement amyloïdes
     (5,3) 5,8-6,4 (7,7) x (4,2) 4,6-5,7 (6,5) µm
@@ -66,7 +67,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol argileux des vieilles forêts, feuillus et conifères, <i>Fagus</i>, <i>Quercus</i>
+  biotopes: pousse au sol argileux des vieilles forêts, feuillus et conifères, <i>Fagus</i>,
+    <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -83,9 +85,12 @@ description:
   cellules-stromatiques: 
   chair: épaisse, cassante, blanche
   chancre: 
-  chapeau: 40-100 mm Ø, convexe puis déprimé, à cuticule finement rompue et collante, se pèle jusqu'au ½-¾ du rayon, mauve, lilas
-  cheilochrysocystides:
-  cheilocystides: nombreuses, sensiblement de la même forme que les pleurocystides, sulfovanilline positive (SV+), (51,8) 59,1 - 69,1 (70) × (9,2) 9,8 - 11,49 (11,5) µm
+  chapeau: 40-100 mm Ø, convexe puis déprimé, à cuticule finement rompue et collante,
+    se pèle jusqu'au ½-¾ du rayon, mauve, lilas
+  cheilochrysocystides: 
+  cheilocystides: nombreuses, sensiblement de la même forme que les pleurocystides,
+    sulfovanilline positive (SV+), (51,8) 59,1 - 69,1 (70) × (9,2) 9,8 - 11,49 (11,5)
+    µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -188,7 +193,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées-échancrées à subéchancrées à sinuées, serrées, molles, graisseuses, avec lamelles, mais pas de lamellules, blanchâtres à crème avec arêtes violettes sur une bonne partie de sa longueur, nombreuses furcations à la base du pied 
+  lames: adnées-échancrées à subéchancrées à sinuées, serrées, molles, graisseuses,
+    avec lamelles, mais pas de lamellules, blanchâtres à crème avec arêtes violettes
+    sur une bonne partie de sa longueur, nombreuses furcations à la base du pied
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -221,16 +228,23 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 47–70 x 15–20 mm Ø, cylindrique à claviforme, subégal à abruptement atténué vers la base, parfois pruineux vers l'apex, irrégulièrement strié, ferme, plein, farci puis caverneux, blanchâtre, parfois légèrement lavé de bleu violet
+  pied: 47–70 x 15–20 mm Ø, cylindrique à claviforme, subégal à abruptement atténué
+    vers la base, parfois pruineux vers l'apex, irrégulièrement strié, ferme, plein,
+    farci puis caverneux, blanchâtre, parfois légèrement lavé de bleu violet
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (à subixocutis)
   pileitrame: 
-  pileocystides: nombreuses, cylindriques à claviformes, plus ou moins renflées, souvent avec apex mucronés, à contenu pailleté réfringent, sulfopipéronal positif (SP+) , 45-70 ± x 8-11 µm
+  pileocystides: nombreuses, cylindriques à claviformes, plus ou moins renflées, souvent
+    avec apex mucronés, à contenu pailleté réfringent, sulfopipéronal positif (SP+)
+    , 45-70 ± x 8-11 µm
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, à contenu pailleté réfringent dans le R.C.Sds, sulfovanilline positive (SV+), 65-78 x 10-12,5 µm en moyenne
-  poils: septés, en chaîne dont les cellules font de 12-21,5 x 3-8 (10) µm en moyenne, avec la cellule finale qui se termine atténuée 70-80 ± de longueur
+  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus,
+    mucronés, moniliformes, à contenu pailleté réfringent dans le R.C.Sds, sulfovanilline
+    positive (SV+), 65-78 x 10-12,5 µm en moyenne
+  poils: septés, en chaîne dont les cellules font de 12-21,5 x 3-8 (10) µm en moyenne,
+    avec la cellule finale qui se termine atténuée 70-80 ± de longueur
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -275,7 +289,9 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: IIb-IId pallidosporée, crème pâle à crème foncé, à ocrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; C-E d'après la charte de couleur de Kibby
+  sporee: IIb-IId pallidosporée, crème pâle à crème foncé, à ocrosporée IIIa-IIIc,
+    ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; C-E d'après
+    la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -300,3 +316,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

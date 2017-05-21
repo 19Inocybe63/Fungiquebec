@@ -1,41 +1,40 @@
 ---
+title: Cortinarius Semisanguineus
+date: 2017-03-20 00:00:00 Z
 nom: Cortinarius semisanguineus
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5706/21371299261_55b7c1ef07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21371299261/in/photolist-yxM8R4-yyvuGV
 album-flickr:
-  - 72157677518558332
-
+- 72157677518558332
 details:
   nom-francais: Cortinaire semi-sanguin
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius semisanguineus</i> (Fr.) Gillet
-  litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. :177-560
-
+  espece: "<i>Cortinarius semisanguineus</i> (Fr.) Gillet"
+  litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons
+    qui Croissent en France. :177-560
 collections:
-  - fongarium: cKc0456
-    date: 10 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0461
-    date: 12 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0456
+  date: 10 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
+- fongarium: cKc0461
+  date: 12 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -78,8 +77,9 @@ description:
   cellules-stromatiques: 
   chair: ocre
   chancre: 
-  chapeau: 20-80 mm Ø, conique-campanulé puis étalé, parfois mamelonné, soyeux, à fibrilles innées, parfois subluisant, uniformément brun-jaune à ocré olivâtre
-  cheilochrysocystides:
+  chapeau: 20-80 mm Ø, conique-campanulé puis étalé, parfois mamelonné, soyeux, à
+    fibrilles innées, parfois subluisant, uniformément brun-jaune à ocré olivâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -138,7 +138,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison:  indistincte, faible
+  exhalaison: indistincte, faible
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -183,7 +183,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à adnexées, larges, serrées, avec lamelles et lamellules, rouge sang puis brun-rouge, à arêtes souvent plus jaunes
+  lames: échancrées à adnexées, larges, serrées, avec lamelles et lamellules, rouge
+    sang puis brun-rouge, à arêtes souvent plus jaunes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -217,7 +218,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-100 x 3-10 mm Ø, cylindrique, égal ou un peu renflé vers la base, fibrilleux, jaunâtre, plus rarement jaune laiton plus foncé, souvent avec mycélium basal carminé pâle
+  pied: 30-100 x 3-10 mm Ø, cylindrique, égal ou un peu renflé vers la base, fibrilleux,
+    jaunâtre, plus rarement jaune laiton plus foncé, souvent avec mycélium basal carminé
+    pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -288,3 +291,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

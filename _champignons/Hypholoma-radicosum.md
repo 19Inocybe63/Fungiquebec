@@ -1,31 +1,31 @@
 ---
+title: Hypholoma Radicosum
+date: 2017-03-25 00:00:00 Z
 nom: Hypholoma radicosum
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3898/14579980651_218188fc9e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14579980651/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
 album-flickr:
-  - 72157675098869386
-
+- 72157675098869386
 details:
   nom-francais: Hypholome radicant
   ordre: Agaricales
   famille: Strophariaceae
   genre: Hypholoma
-  espece: <i>Hypholoma radicosum</i> J.E. Lange
-  litterature: Lange, J.E. 1923. Studies in the Agarics of Denmark. V. Ecological notes. The Hygrophorei, Stropharia and Hypholoma. Supplementary notes to Parts I-III. Dansk botanisk Arkiv. 4(4):1-55
-
+  espece: "<i>Hypholoma radicosum</i> J.E. Lange"
+  litterature: Lange, J.E. 1923. Studies in the Agarics of Denmark. V. Ecological
+    notes. The Hygrophorei, Stropharia and Hypholoma. Supplementary notes to Parts
+    I-III. Dansk botanisk Arkiv. 4(4):1-55
 collections:
-  - fongarium: cKc0175
-    date: 3 juillet 2014
-    planche:
-      numero: cKc0175-0074
-      miniature: https://c2.staticflickr.com/8/7595/16616933670_e13aed0080_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16616933670/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
-    geolocalisation: 45°58’40.33"N 70°57’40.76"O
-    elevation: 334 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0175
+  date: 3 juillet 2014
+  planche:
+    numero: cKc0175-0074
+    miniature: https://c2.staticflickr.com/8/7595/16616933670_e13aed0080_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16616933670/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK
+  geolocalisation: 45°58’40.33"N 70°57’40.76"O
+  elevation: 334 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -73,10 +73,12 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre
   chancre: 
-  chapeau: 20-50 mm Ø, convexe puis étalé, lisse, crème à jaunâtre, fauve au disque, orné de fibrilles blanches vers la marge
+  chapeau: 20-50 mm Ø, convexe puis étalé, lisse, crème à jaunâtre, fauve au disque,
+    orné de fibrilles blanches vers la marge
   cheilochrysocystides: absentes
   cheilocystides: 
-  cheiloleptocystides: abondantes, cylindriques à étroitement clavées, avec parfois un apex subcapité 29 x 6 µm en moyenne
+  cheiloleptocystides: abondantes, cylindriques à étroitement clavées, avec parfois
+    un apex subcapité 29 x 6 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -208,10 +210,13 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 60-120 x 4-8 mm Ø, cylindrique, égal, renflé et radicant à la base, parfois longuement, chiné ou squamuleux, avec pseudorhize bien développée, blanc vers l'apex, brun rouille vers la base
+  pied: 60-120 x 4-8 mm Ø, cylindrique, égal, renflé et radicant à la base, parfois
+    longuement, chiné ou squamuleux, avec pseudorhize bien développée, blanc vers
+    l'apex, brun rouille vers la base
   pieds-steriles: 
   pigments: 
-  pileipellis: en ixocutis constitué d’un suprapellis entre 10-20 µm et un subpellis entre 40-50 µm
+  pileipellis: en ixocutis constitué d’un suprapellis entre 10-20 µm et un subpellis
+    entre 40-50 µm
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -234,8 +239,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+  publications: "<b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei
+    Edizioni Candusso, N° 13, 2011, 648 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -283,3 +288,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,31 @@
 ---
+title: Elaphomyces Verruculosus
+date: 2017-03-22 00:00:00 Z
 nom: Elaphomyces verruculosus
-date: 2017-03-22 00:00:00
 image: https://c2.staticflickr.com/6/5659/21247990934_8e04b18b66_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21247990934/in/photolist-ynBvrh-z38wYn
 album-flickr:
-  - 72157675718500205
-
+- 72157675718500205
 details:
   nom-francais: 
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: <i>Elaphomyces verruculosus</i> Castellano
-  litterature: Castellano, M.A.; Guerrero, G.G.; Jimenez, J.G.; Trappe, J.M. 2012. Elaphomyces appalachiensis Linder and E. verruculosus sp. nov. (Ascomycota, Eurotiales, Elaphomycetaceae) from eastern North America. 35:17-22
-
+  espece: "<i>Elaphomyces verruculosus</i> Castellano"
+  litterature: Castellano, M.A.; Guerrero, G.G.; Jimenez, J.G.; Trappe, J.M. 2012.
+    Elaphomyces appalachiensis Linder and E. verruculosus sp. nov. (Ascomycota, Eurotiales,
+    Elaphomycetaceae) from eastern North America. 35:17-22
 collections:
-  - fongarium: cKc0480
-    date: 1 octobre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Michael Castellano
-
+- fongarium: cKc0480
+  date: 1 octobre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Michael Castellano
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +37,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Michael A. Castellano</b>. <i>Elaphomyces appalachiensis and E. verruculosus sp. nov. (Ascomycota Eurotiales, Elaphomycetaceae) from eastern North America</i>, Revista Mexicana de Micologia 35:17-22, 2012, 6 p.
+  articles: "<b>Michael A. Castellano</b>. <i>Elaphomyces appalachiensis and E. verruculosus
+    sp. nov. (Ascomycota Eurotiales, Elaphomycetaceae) from eastern North America</i>,
+    Revista Mexicana de Micologia 35:17-22, 2012, 6 p.\n"
   ascome: irrégulièrement subglobuleux à réniformes, jusqu'à 22 x 27 mm
   ascospores: 
   asques: 
@@ -77,7 +78,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Michael Castellano. « <i>E. verruculosus</i> Castellano wide spread across the east coast. »
+  commentaires: De Michael Castellano. « <i>E. verruculosus</i> Castellano wide spread
+    across the east coast. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -163,7 +165,11 @@ description:
   hyphidies: 
   hyphique: 
   hypobasides: 
-  hypoderme: jusqu'à 2000 µm de large, blanc gris à gris pâle, parfois zoné blanc gris au-dessus et gris pâle ou gris pâle-tan au-dessous, plus évident sur des spécimens matures, souvent, une couche brune distincte à ± 100 µm d'épaisseur à l'interface avec la glèbe. Cette couche est contiguë et concolores avec les cloisons qui est repliée sur elle-même dans la glèbe
+  hypoderme: jusqu'à 2000 µm de large, blanc gris à gris pâle, parfois zoné blanc
+    gris au-dessus et gris pâle ou gris pâle-tan au-dessous, plus évident sur des
+    spécimens matures, souvent, une couche brune distincte à ± 100 µm d'épaisseur
+    à l'interface avec la glèbe. Cette couche est contiguë et concolores avec les
+    cloisons qui est repliée sur elle-même dans la glèbe
   hypoge: 
   hypophylle: 
   hypothalle: 
@@ -198,7 +204,14 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: semi-arrondi à verrues angulaires ou allongées, jusqu'à 500 µm de large et de 300 µm de haut, arrondi à aigu ou même aplati à l'apex, contigu à l'autre à la base, jaune-brun pâle quand il est jeune, puis brun marbré, jaune-brun lorsque mature, avec brun pâle dominant, verrues souvent masqués par des structures d'hyphes mêlés pour rendre l'aspect de la surface presque lisse ou papilleux, avec couche ± 140 µm d'épaisseur, rouge-brun à cellules rouge-brun foncé superposée à jaune-brun pâle, au tissu blanc gris, 300-350 µm d'épaisseur, à la base des verrues, il y a une couche de blanc gris, parfois teinté de gris-bleu pâle
+  peridium: semi-arrondi à verrues angulaires ou allongées, jusqu'à 500 µm de large
+    et de 300 µm de haut, arrondi à aigu ou même aplati à l'apex, contigu à l'autre
+    à la base, jaune-brun pâle quand il est jeune, puis brun marbré, jaune-brun lorsque
+    mature, avec brun pâle dominant, verrues souvent masqués par des structures d'hyphes
+    mêlés pour rendre l'aspect de la surface presque lisse ou papilleux, avec couche
+    ± 140 µm d'épaisseur, rouge-brun à cellules rouge-brun foncé superposée à jaune-brun
+    pâle, au tissu blanc gris, 300-350 µm d'épaisseur, à la base des verrues, il y
+    a une couche de blanc gris, parfois teinté de gris-bleu pâle
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
@@ -222,7 +235,8 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: Cette espèce fut étudiée (ADN) et confirmée par Michael Castellano ; une première pour le Québec.
+  premiere-mention: Cette espèce fut étudiée (ADN) et confirmée par Michael Castellano
+    ; une première pour le Québec.
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
@@ -266,3 +280,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

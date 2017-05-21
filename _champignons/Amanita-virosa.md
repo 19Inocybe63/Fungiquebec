@@ -1,61 +1,59 @@
 ---
+title: Amanita Virosa
+date: 2017-03-17 00:00:00 Z
 nom: Amanita virosa
-date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/1/678/20665354231_ac839dd947_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665354231/in/photolist-xu8kQT-xtwWYn
 album-flickr:
-  - 72157675454825250
-
+- 72157675454825250
 details:
   nom-francais: Amanite vireuse
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita virosa</i> Bertill.
+  espece: "<i>Amanita virosa</i> Bertill."
   litterature: 1866. Dictionnaire encyclopédique des sciences médicales. 1(3):491-511
-
 collections:
-  - fongarium: cKc0121
-    date: 25 août 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0400
-    date: 13 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0407
-    date: 17 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0542
-    date: 18 août 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0121
+  date: 25 août 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0400
+  date: 13 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0407
+  date: 17 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0542
+  date: 18 août 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -98,8 +96,10 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 50-157 mm Ø, conique arrondi, convexe ou campanulé, puis étalé, parfois largement mamelonné, blanc, dépourvu de restes vélaires, à marge non sillonnée et parfois appendiculée
-  cheilochrysocystides:
+  chapeau: 50-157 mm Ø, conique arrondi, convexe ou campanulé, puis étalé, parfois
+    largement mamelonné, blanc, dépourvu de restes vélaires, à marge non sillonnée
+    et parfois appendiculée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -235,7 +235,9 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 80-280 x 8-24 mm Ø, blanc, terminé par un gros bulbe habituellement plat et marginé, finement fibrilleux à pelucheux, muni d'un anneau parfois fugace, émergeant d'une volve blanche
+  pied: 80-280 x 8-24 mm Ø, blanc, terminé par un gros bulbe habituellement plat et
+    marginé, finement fibrilleux à pelucheux, muni d'un anneau parfois fugace, émergeant
+    d'une volve blanche
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -261,11 +263,12 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications: "<b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>,
+    Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques\n"
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = le chapeau devient rapidement jaune
+  reactions-macrochimiques: 'Potasse (KOH 10%) = le chapeau devient rapidement jaune
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -306,7 +309,9 @@ description:
   typique: 
   voile: 
   voile-general: membraneux, blanc, laissant une volve à la base du pied
-  voile-partiel: jusqu'à 44 mm de hauteur, membraneux, blanc, laissant un anneau parfois fugace dans le haut du pied et parfois des lambeaux au pourtour du chapeau
+  voile-partiel: jusqu'à 44 mm de hauteur, membraneux, blanc, laissant un anneau parfois
+    fugace dans le haut du pied et parfois des lambeaux au pourtour du chapeau
   volve: blanche
   zone-perihymeniale: 
 ---
+

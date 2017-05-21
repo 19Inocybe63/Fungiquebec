@@ -1,61 +1,59 @@
 ---
+title: Elaphomyces Vernesii
+date: 2017-03-22 00:00:00 Z
 nom: Elaphomyces vernesii sp. nov.
-date: 2017-03-22 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
 album-flickr:
-  - 72157673772975951
-
+- 72157673772975951
 details:
   nom-francais: 
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: <i>Elaphomyces vernesii sp. nov.</i> Castellano
+  espece: "<i>Elaphomyces vernesii sp. nov.</i> Castellano"
   litterature: nouvelle espèce
-
 collections:
-  - fongarium: cKc0429
-    date: 22 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Michael Castellano
-  - fongarium: cKc0442
-    date: 22 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Michael Castellano
-  - fongarium: cKc0462
-    date: 12 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Michael Castellano
-  - fongarium: cKc0517
-    date: 14 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Michael Castellano
-
+- fongarium: cKc0429
+  date: 22 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Michael Castellano
+- fongarium: cKc0442
+  date: 22 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Michael Castellano
+- fongarium: cKc0462
+  date: 12 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Michael Castellano
+- fongarium: cKc0517
+  date: 14 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Michael Castellano
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,7 +66,8 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 13-21 x 14-22 mm Ø, subglobuleux à globuleux, mais jamais aplati, à cortex noir
+  ascome: 13-21 x 14-22 mm Ø, subglobuleux à globuleux, mais jamais aplati, à cortex
+    noir
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -116,7 +115,10 @@ description:
   contexte: 
   cordons-myceliens: 
   cordons-rhizomorphiques: 
-  cortex: jusqu'à 250 µm d'épaisseur, souvent lisse ou avec verrues larges et aplaties et partie en saillie jusqu'à 100 µm de hauteur et 200 µm de largeur, formé d'un tissu pseudoparenchymateux brun foncé, avec hyphes subparallèles entre les verrues, à paroi jusqu'à 1-2 µm d'épaisseur, légèrement brun plus pâle, 4-5 µm Ø
+  cortex: jusqu'à 250 µm d'épaisseur, souvent lisse ou avec verrues larges et aplaties
+    et partie en saillie jusqu'à 100 µm de hauteur et 200 µm de largeur, formé d'un
+    tissu pseudoparenchymateux brun foncé, avec hyphes subparallèles entre les verrues,
+    à paroi jusqu'à 1-2 µm d'épaisseur, légèrement brun plus pâle, 4-5 µm Ø
   cortex-caulinaire: 
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
@@ -160,7 +162,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -175,7 +176,8 @@ description:
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
   hymenophore: 
-  hyphes: de la glèbe, à paroi mince, bosselées, ramifiès, incrustées, septées et non bouclées, parfois formant comme des bois de cerf aux extrémités, à contenu
+  hyphes: de la glèbe, à paroi mince, bosselées, ramifiès, incrustées, septées et
+    non bouclées, parfois formant comme des bois de cerf aux extrémités, à contenu
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -221,7 +223,7 @@ description:
   mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
-  nouvelle-espece: <i>Elaphomyces vernesii sp. nov.</i>, d'après Michael Castellano.
+  nouvelle-espece: "<i>Elaphomyces vernesii sp. nov.</i>, d'après Michael Castellano."
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
@@ -230,7 +232,9 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: distinct du cortex, formé d'hyphes à paroi épaissie, hyalines à brun pâle et 3-4 µm Ø sur la partie externe, plus lâchement emmêlées et 6-7 µm Ø sur la partie interne
+  peridium: distinct du cortex, formé d'hyphes à paroi épaissie, hyalines à brun pâle
+    et 3-4 µm Ø sur la partie externe, plus lâchement emmêlées et 6-7 µm Ø sur la
+    partie interne
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
@@ -298,3 +302,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

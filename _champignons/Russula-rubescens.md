@@ -1,51 +1,49 @@
 ---
+title: Russula Rubescens
+date: 2017-03-27 00:00:00 Z
 nom: Russula rubescens ss. Kauffman
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/6/5554/14870132589_cb7cdb3cb0_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14870132589/in/photolist-qXocf1-oE2jmn-oE42XA-oViEmY-oXkBBT-oCV5qB-omGoTC
 album-flickr:
-  - 72157675422287630
-
+- 72157675422287630
 details:
   nom-francais: 
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula rubescens</i> ss. Kauffman
+  espece: "<i>Russula rubescens</i> ss. Kauffman"
   litterature: Kauffman
-
 collections:
-  - fongarium: cKc0198
-    date: 8 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0218
-    date: 27 août 2014
-    planche:
-      numero: cKc0218-0066
-      miniature: https://c2.staticflickr.com/8/7426/16379299992_3134ceb66e_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16379299992/in/photolist-qXocf1-oE2jmn-oE42XA-oXkBBT-oViEmY-oCV5qB-omGoTC
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0223
-    date: 27 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0198
+  date: 8 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0218
+  date: 27 août 2014
+  planche:
+    numero: cKc0218-0066
+    miniature: https://c2.staticflickr.com/8/7426/16379299992_3134ceb66e_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16379299992/in/photolist-qXocf1-oE2jmn-oE42XA-oXkBBT-oViEmY-oCV5qB-omGoTC
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0223
+  date: 27 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -66,7 +64,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base, 34,5 [37; 42,1] 44,6 x 9,3 [10,2; 12,2] 13,2 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 34,5 [37; 42,1] 44,6
+    x 9,3 [10,2; 12,2] 13,2 µm en moyenne
   basidiospores: |
     subglobuleuses à largement elliptiques, verruqueuses-échinulées, avec quelques rares connexifs, avec proéminence jusqu'à 1 µm (1,3) de hauteur, à paroi mince, appendice hilaire pas toujours bien visible, ainsi que la plage hilaire 2,4-3,1 en moyenne, à contenu uniguttulé, subhyalines dans le NaCl iso 0,9%, amyloïdes
     7 [7,9; 8,3] 9,2 x 6,1 [6,8; 7,1] 7,7 µm
@@ -82,7 +81,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: subfusiformes à flexueuses, 22,2 [25,2; 33,4] 36,4 x 3,5 [3,9; 4,9] 5,3 µm en moyenne
+  caulocystides: subfusiformes à flexueuses, 22,2 [25,2; 33,4] 36,4 x 3,5 [3,9; 4,9]
+    5,3 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -93,7 +93,7 @@ description:
   chair: 
   chancre: 
   chapeau: 22-107 mm Ø, convexe à étalé, cuticule se pèle au 2/3 du rayon ½-¾
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: peu abondantes et peu émergentes, semblables aux pleurocystides
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -195,7 +195,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, plutôt larges, cassantes, non fourchues, serrées, blanchâtres, jaunissantes à maturité, lamellules très rares ou absentes
+  lames: adnées, plutôt larges, cassantes, non fourchues, serrées, blanchâtres, jaunissantes
+    à maturité, lamellules très rares ou absentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -236,7 +237,11 @@ description:
   pileocystides: remplies de pigments
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes, polymorphes, cylindriques mucronées 52,9 [59,7; 78,2] 84,9 x 6,1 [7; 9,5] 10,3 µm en moyenne, lagéniformes à sublagéniformes 50,2 [51,8; 54,8] 56,3 x 6,1 [6,9; 8,3] 9 µm en moyenne, claviformes dont l’apex est acéré, rostré à submoniliforme 52,3 [53,3; 57,9] 58,8 x 12,1 [12,2; 12,5] 12,6 µm en moyenne
+  pleurocystides: abondantes, polymorphes, cylindriques mucronées 52,9 [59,7; 78,2]
+    84,9 x 6,1 [7; 9,5] 10,3 µm en moyenne, lagéniformes à sublagéniformes 50,2 [51,8;
+    54,8] 56,3 x 6,1 [6,9; 8,3] 9 µm en moyenne, claviformes dont l’apex est acéré,
+    rostré à submoniliforme 52,3 [53,3; 57,9] 58,8 x 12,1 [12,2; 12,5] 12,6 µm en
+    moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -267,8 +272,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<SUB>4</SUB>) = stipe et lames légèrement rosés
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<SUB>4</SUB>) = stipe et lames légèrement
+    rosés
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -279,7 +286,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur Romagnesi ; E d'après la charte de couleur de Kibby
+  sporee: ocrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur
+    Romagnesi ; E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -304,3 +312,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,31 @@
 ---
+title: Bisporella Citrina
+date: 2017-03-18 00:00:00 Z
 nom: Bisporella citrina
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15397943256/in/photolist-oTnnJF-psEu5h
 album-flickr:
-  - 72157675579407806
-
+- 72157675579407806
 details:
   nom-francais: Pézize citrine
   ordre: Helotiales
   famille: Helotiaceae
   genre: Bisporella
-  espece: <i>Bisporella citrina</i> (Batsch) Korf & S.E. Carp.
-  litterature: Korf, R.P.; Carpenter, S.E. 1974. Bisporella, a generic name for Helotium citrinum and its allies, and the generic names Calycella and Calycina. Mycotaxon. 1(1):51-62
-
+  espece: "<i>Bisporella citrina</i> (Batsch) Korf & S.E. Carp."
+  litterature: Korf, R.P.; Carpenter, S.E. 1974. Bisporella, a generic name for Helotium
+    citrinum and its allies, and the generic names Calycella and Calycina. Mycotaxon.
+    1(1):51-62
 collections:
-  - fongarium: cKc0279
-    date: 2 octobre 2014
-    planche:
-      numero: cKc0279-0043
-      miniature: https://c2.staticflickr.com/4/3947/15021160663_3d254619a7_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15021160663/in/photolist-oTnnJF-psEu5h
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Hans-Otto Baral
-
+- fongarium: cKc0279
+  date: 2 octobre 2014
+  planche:
+    numero: cKc0279-0043
+    miniature: https://c2.staticflickr.com/4/3947/15021160663_3d254619a7_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15021160663/in/photolist-oTnnJF-psEu5h
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Hans-Otto Baral
 description:
   acanthocytes: 
   acanthophyses: 
@@ -34,7 +34,8 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: jusqu'à 1 x 3 mm Ø, globuleuse et fermée au début, puis cupuliforme, allantoïde ou étalée et convexe au disque, souvent sessile
+  apothecie: jusqu'à 1 x 3 mm Ø, globuleuse et fermée au début, puis cupuliforme,
+    allantoïde ou étalée et convexe au disque, souvent sessile
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -46,7 +47,8 @@ description:
     7,4 [8,8; 9,4] 10,7 x 2,7 [3,1; 3,2] 3,5 µm
     Q = 2,3 [2,8; 3] 3,5; N = 30; C = 95%
     Me = 9,1 x 3,1 µm; Qe = 2,9
-  asques: cylindriques-clavés, à 8 ascospores irrégulièrement bisériées, à pore apical indistinctement amyloïde, 100-135 x 7-8 (10) µm
+  asques: cylindriques-clavés, à 8 ascospores irrégulièrement bisériées, à pore apical
+    indistinctement amyloïde, 100-135 x 7-8 (10) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -82,7 +84,16 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Hans-Otto Baral. « Maybe you expected to see septate ascospores? The septum is formed in <i>Bisporella citrina</i> only on overmature ascospores, so don't be worry. If the excipulum is gelatinized I am quite sure it is this species. You can also look at the ascus apex in IKI, but you need dead asci for that. The apical ring is a bit like a T, while for instance in <i>Bisporella subpallida</i> it is only reactive in the lower part of the wall thickeningl like two short thin lines. Also the contents of the paraphyses are worth to look at. The difference in apical ring and genetic data led me to say <i>Calycina citrina</i> for the present fungus, so I restrict <i>Bisporella</i> to <i>B. subpallida</i> and <i>B. pallescens</i>. »
+  commentaires: De Hans-Otto Baral. « Maybe you expected to see septate ascospores?
+    The septum is formed in <i>Bisporella citrina</i> only on overmature ascospores,
+    so don't be worry. If the excipulum is gelatinized I am quite sure it is this
+    species. You can also look at the ascus apex in IKI, but you need dead asci for
+    that. The apical ring is a bit like a T, while for instance in <i>Bisporella subpallida</i>
+    it is only reactive in the lower part of the wall thickeningl like two short thin
+    lines. Also the contents of the paraphyses are worth to look at. The difference
+    in apical ring and genetic data led me to say <i>Calycina citrina</i> for the
+    present fungus, so I restrict <i>Bisporella</i> to <i>B. subpallida</i> and <i>B.
+    pallescens</i>. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -148,7 +159,8 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: lisse, jaune citron brillant, jaune d'oeuf à jaune d'or, plissé et jaune orangé terne avec l'âge ou au sec, à marge souvent légèrement plus foncée
+  hymenophore: lisse, jaune citron brillant, jaune d'oeuf à jaune d'or, plissé et
+    jaune orangé terne avec l'âge ou au sec, à marge souvent légèrement plus foncée
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -199,7 +211,8 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: filiformes, avec grosses guttules jaunes, arrondies à légèrement clavées à l'apex, jusqu'à 1,5 µm Ø
+  paraphyses: filiformes, avec grosses guttules jaunes, arrondies à légèrement clavées
+    à l'apex, jusqu'à 1,5 µm Ø
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -208,7 +221,8 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: presque absent ou rudimentaire, très court et large, rarement > 1 mm, jaune pâle
+  pied: presque absent ou rudimentaire, très court et large, rarement > 1 mm, jaune
+    pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -278,3 +292,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

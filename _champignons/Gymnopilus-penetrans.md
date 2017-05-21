@@ -1,31 +1,30 @@
 ---
+title: Gymnopilus Penetrans
+date: 2017-03-24 00:00:00 Z
 nom: Gymnopilus penetrans
-date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/6/5535/9240759913_21ee91ef3b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9240759913/in/photolist-f5ziYM-f5zmMt
 album-flickr:
-  - 72157677358029345
-
+- 72157677358029345
 details:
   nom-francais: Gymnopile pénétrant
   ordre: Agaricales
   famille: Strophariaceae
   genre: Gymnopilus
-  espece: <i>Gymnopilus penetrans</i> (Fr.) Murrill
-  litterature: Murrill, W.A. 1912. The Agaricaceae of the Pacific Coast - II. White and ochre-spored genera. Mycologia. 4(5):231-262
-
+  espece: "<i>Gymnopilus penetrans</i> (Fr.) Murrill"
+  litterature: Murrill, W.A. 1912. The Agaricaceae of the Pacific Coast - II. White
+    and ochre-spored genera. Mycologia. 4(5):231-262
 collections:
-  - fongarium: cKc0073
-    date: 7 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°49'45.3"N 71°27'20.9"O
-    elevation: 230 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0073
+  date: 7 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°49'45.3"N 71°27'20.9"O
+  elevation: 230 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +50,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois pourri de feuillus et de conifères, parfois sur bran de scie
+  biotopes: pousse sur bois pourri de feuillus et de conifères, parfois sur bran de
+    scie
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +68,10 @@ description:
   cellules-stromatiques: 
   chair: blanc à blanchâtre
   chancre: 
-  chapeau: 20-50 mm Ø, large, campanulé convexe à convexe, puis subétalé, glabre, non visqueux, jaune orangé à doré, orange brunâtre à rouille puis jaunâtre, à marge souvent ondulée
-  cheilochrysocystides:
+  chapeau: 20-50 mm Ø, large, campanulé convexe à convexe, puis subétalé, glabre,
+    non visqueux, jaune orangé à doré, orange brunâtre à rouille puis jaunâtre, à
+    marge souvent ondulée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -171,7 +173,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à sinuées, de largeur moyenne, étroites, d'abord jaune pâle à ± blanc jaunâtre, devenant rouilles à maturité
+  lames: adnées à sinuées, de largeur moyenne, étroites, d'abord jaune pâle à ± blanc
+    jaunâtre, devenant rouilles à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -204,7 +207,9 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 30-60 x 2-7 mm Ø, cylindrique, égal à parfois élargi vers la base, farci ou creux, avec fibrilles blanches sur fond jaunâtre puis fauve orangé, avec duvet blanc à la base
+  pied: 30-60 x 2-7 mm Ø, cylindrique, égal à parfois élargi vers la base, farci ou
+    creux, avec fibrilles blanches sur fond jaunâtre puis fauve orangé, avec duvet
+    blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -279,7 +284,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, blanc à blanchâtre, évanescent, ne laissant pas d'anneau sur le pied
+  voile-partiel: fibrilleux, blanc à blanchâtre, évanescent, ne laissant pas d'anneau
+    sur le pied
   volve: 
   zone-perihymeniale: 
 ---
+

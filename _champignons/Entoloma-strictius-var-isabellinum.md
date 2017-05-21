@@ -1,51 +1,49 @@
 ---
+title: Entoloma Strictius Var Isabellinum
+date: 2017-03-23 00:00:00 Z
 nom: Entoloma strictius var. isabellinum
-date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/3/2938/14027433237_c891b5ecb3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14027433237/in/photolist-nFqWq4-nnygcc
 album-flickr:
-  - 72157675134140831
-
+- 72157675134140831
 details:
   nom-francais: 
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: <i>Entoloma strictius var. isabellinum</i> Peck
+  espece: "<i>Entoloma strictius var. isabellinum</i> Peck"
   litterature: Peck, Bull. N.Y. St. Mus. nat. Hist., 1(no. 2), 27, 1887
-
 collections:
-  - fongarium: cKc0047
-    date: 18 mai 2014
-    planche:
-      numero: cKc0047-0035
-      miniature: https://c2.staticflickr.com/6/5584/14229701211_2199c3e745_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/14229701211/in/album-72157630299294190/
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0195
-    date: 6 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0466
-    date: 22 mai 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0047
+  date: 18 mai 2014
+  planche:
+    numero: cKc0047-0035
+    miniature: https://c2.staticflickr.com/6/5584/14229701211_2199c3e745_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/14229701211/in/album-72157630299294190/
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0195
+  date: 6 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0466
+  date: 22 mai 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -66,7 +64,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base, 43-44 x 13-15 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 43-44 x 13-15 µm en
+    moyenne
   basidiospores: |
     hétérodiamétriques à 5 angles (anguleuses), aussi parfois entre 4-6 côtés, lisses, à paroi mince 0,2 µm, avec appendice hilaire, à contenu uniguttulé à plus rarement biguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     10,4 [11,7; 12,3] 13,7 x 7,4 [8,3; 8,7] 9,7 µm
@@ -92,8 +91,10 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, blanchâtre à beige, immuable
   chancre: 
-  chapeau: 16-57 mm Ø, port mycenoïd, conique campanulé et mamelonné, non visqueux, soyeux à glabre, hygrophane, beige brun lorsque imbu, beige brun devenant isabelline au sec, à marge unie
-  cheilochrysocystides:
+  chapeau: 16-57 mm Ø, port mycenoïd, conique campanulé et mamelonné, non visqueux,
+    soyeux à glabre, hygrophane, beige brun lorsque imbu, beige brun devenant isabelline
+    au sec, à marge unie
+  cheilochrysocystides: 
   cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -169,7 +170,8 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: intracellulaires, avec pigments granulaires et hyphes vacuolaires à contenu dilué
+  hyphes: intracellulaires, avec pigments granulaires et hyphes vacuolaires à contenu
+    dilué
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -195,7 +197,10 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, obtuses en avant, ascendantes au début, larges, cunéiformes, élastiques et très légèrement friables, serrées à très serrées, avec lamelles et lamellules, légèrement atténuées sur le rebord proximal, blanchâtres avec reflet rosé à maturité, avec arêtes légèrement érodées, largement arrondies
+  lames: libres, obtuses en avant, ascendantes au début, larges, cunéiformes, élastiques
+    et très légèrement friables, serrées à très serrées, avec lamelles et lamellules,
+    légèrement atténuées sur le rebord proximal, blanchâtres avec reflet rosé à maturité,
+    avec arêtes légèrement érodées, largement arrondies
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -228,7 +233,9 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 64-92 x 4-16 mm Ø, cylindrique, égal, atténué à l’apex, torsadé, farci à creux, strié à fibrilleux longitudinalement, crème à brunâtre, dont la base est élargie, parfois avec du mycélium basale blanc à la base
+  pied: 64-92 x 4-16 mm Ø, cylindrique, égal, atténué à l’apex, torsadé, farci à creux,
+    strié à fibrilleux longitudinalement, crème à brunâtre, dont la base est élargie,
+    parfois avec du mycélium basale blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -305,3 +312,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

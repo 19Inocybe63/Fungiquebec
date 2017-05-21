@@ -1,31 +1,30 @@
 ---
+title: Helvella Macropus
+date: 2017-03-24 00:00:00 Z
 nom: Helvella macropus
-date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/4/3930/15340706368_d0b67296f3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15340706368/in/photolist-pnAFAq-pnB8xo-pnC8tT
 album-flickr:
-  - 72157674658595462
-
+- 72157674658595462
 details:
   nom-francais: Helvelle à long pied
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
-  espece: <i>Helvella macropus</i> (Pers.) P. Karst.
-  litterature: Karsten, P.A. 1871. Mycologia fennica. Pars prima. Discomycetes. Bidrag till Kännedom av Finlands Natur och Folk. 19:1-264
-
+  espece: "<i>Helvella macropus</i> (Pers.) P. Karst."
+  litterature: Karsten, P.A. 1871. Mycologia fennica. Pars prima. Discomycetes. Bidrag
+    till Kännedom av Finlands Natur och Folk. 19:1-264
 collections:
-  - fongarium: cKc0291
-    date: 13 octobre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0291
+  date: 13 octobre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -34,7 +33,8 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 5-55 mm Ø, 4-12 mm de haut, profondément cupulée, cupuliforme à discoïde avec l'âge, souvent latéralement comprimé
+  apothecie: 5-55 mm Ø, 4-12 mm de haut, profondément cupulée, cupuliforme à discoïde
+    avec l'âge, souvent latéralement comprimé
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -130,7 +130,8 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: glabre, granuleuse-veloutée, surtout vers la marge, plus pâle que l'hyménophore, brun grisâtre pâle à moyen
+  face-externe: glabre, granuleuse-veloutée, surtout vers la marge, plus pâle que
+    l'hyménophore, brun grisâtre pâle à moyen
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -142,7 +143,8 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: brun foncé, au sec, lisse, dont la surface de l'excipulum est brun pâle à gris brun
+  hymenophore: brun foncé, au sec, lisse, dont la surface de l'excipulum est brun
+    pâle à gris brun
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -202,7 +204,8 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 4-65 x 2-9 mm Ø, cylindrique, égal à élargie à la base, apex typiquement conique, brun gris clair, densément pubescent à villeux
+  pied: 4-65 x 2-9 mm Ø, cylindrique, égal à élargie à la base, apex typiquement conique,
+    brun gris clair, densément pubescent à villeux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -279,3 +282,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

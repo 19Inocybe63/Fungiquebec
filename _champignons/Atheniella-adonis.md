@@ -1,31 +1,30 @@
 ---
+title: Atheniella Adonis
+date: 2017-03-17 00:00:00 Z
 nom: Atheniella adonis
-date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/3/2950/15438576082_0bcaf7f0bb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15438576082/in/photolist-q6dPYf-peNjeP-pwfJNf
 album-flickr:
-  - 72157672380570044
-
+- 72157672380570044
 details:
   nom-francais: Mycene adonis ou Mycene jolie
   ordre: Agaricales
   famille: Marasmiaceae
   genre: Atheniella
-  espece: <i>Atheniella adonis</i> (Bull.) Redhead, Moncalvo, Vilgalys, Desjardin & B.A. Perry
+  espece: "<i>Atheniella adonis</i> (Bull.) Redhead, Moncalvo, Vilgalys, Desjardin
+    & B.A. Perry"
   litterature: Index Fungorum, 14, 1, 2012
-  
 collections:
-  - fongarium: cKc0289
-    date: 4 octobre 2014
-    planche:
-      numero: cKc0289-0048
-      miniature: https://c2.staticflickr.com/8/7511/15811647626_cc8cc39170_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15811647626/in/photolist-q6dPYf-peNjeP-pwfJNf
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Debbie Viess
-
+- fongarium: cKc0289
+  date: 4 octobre 2014
+  planche:
+    numero: cKc0289-0048
+    miniature: https://c2.staticflickr.com/8/7511/15811647626_cc8cc39170_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15811647626/in/photolist-q6dPYf-peNjeP-pwfJNf
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Debbie Viess
 description:
   acanthocytes: 
   acanthophyses: 
@@ -73,7 +72,8 @@ description:
   chair: mince, fragile, rosâtre puis blanchâtre
   chancre: 
   chapeau: 2-6 mm Ø, conique campanulé, rouge orangé
-  cheilocystides: abondantes, fusiformes à lagéniformes, souvent avec un long col, lisses, 34-60 x 8-14 µm
+  cheilocystides: abondantes, fusiformes à lagéniformes, souvent avec un long col,
+    lisses, 34-60 x 8-14 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -173,7 +173,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, avec de nombreuses lamellules, étroites, espacées à subespacées, blanches, roses à rougeâtres
+  lames: adnées à adnexées, avec de nombreuses lamellules, étroites, espacées à subespacées,
+    blanches, roses à rougeâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +207,8 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 27-28 x 1 mm Ø, cylindrique, égal, fragile, pruineux au début puis glabre et lisse, translucide, rougeâtre orangé
+  pied: 27-28 x 1 mm Ø, cylindrique, égal, fragile, pruineux au début puis glabre
+    et lisse, translucide, rougeâtre orangé
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'hyphes parallèles et superficielles, avec excroissances diverticulées
@@ -273,3 +275,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Lycoperdon Pyriforme
+date: 2017-03-25 00:00:00 Z
 nom: Lycoperdon pyriforme
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5081/29319616244_6847877804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29319616244/in/photolist-LESGqU-Msekd9
 album-flickr:
-  - 72157676894618835
-
+- 72157676894618835
 details:
   nom-francais: Vesse-de-loup piriforme
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lycoperdon
-  espece: <i>Lycoperdon pyriforme</i> Schaeff.
-  litterature: Schaeffer, J.C. 1774. Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones. 4:1-136
-
+  espece: "<i>Lycoperdon pyriforme</i> Schaeff."
+  litterature: Schaeffer, J.C. 1774. Fungorum qui in Bavaria et Palatinatu circa Ratisbonam
+    nascuntur Icones. 4:1-136
 collections:
-  - fongarium: cKc0581
-    date: 26 septembre 2016
-    planche:
-      numero: cKc0581-0144
-      miniature: https://c2.staticflickr.com/6/5684/31218707835_7d444d5f9a_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/31218707835/in/dateposted/
-    geolocalisation: 
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0581
+  date: 26 septembre 2016
+  planche:
+    numero: cKc0581-0144
+    miniature: https://c2.staticflickr.com/6/5684/31218707835_7d444d5f9a_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31218707835/in/dateposted/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -54,13 +53,22 @@ description:
     Me = 3,8 × 3,7 µm ; Qe = 1
     (Piximètre formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
-  basidiome: 20-50 mm de hauteur, 15-45 mm Ø, piriforme, subglobuleux, ovoïde, ogival à submamelonné au-dessus, parfois plissé à la jonction de la partie élargie et la base stipitiforme atténuée qui est petite à proéminente selon la forme du basidiome, avec nombreux rhizomorphes distincts, tenaces et blancs, souvent radiants d'une base à l'autre, à exopéridium pâle puis brun fauvâtre, typiquement brun rouille plus foncé avec l'âge, parfois jaunâtre, lisse ou avec quelques petites épines dispersées au-dessus au début, puis se brisant par plaques aréolées plus foncées qui se divisent en plus petites unités qui deviennent de fins granules ou écailles polygonales au sec, relativement rugueux et persistants
+  basidiome: 20-50 mm de hauteur, 15-45 mm Ø, piriforme, subglobuleux, ovoïde, ogival
+    à submamelonné au-dessus, parfois plissé à la jonction de la partie élargie et
+    la base stipitiforme atténuée qui est petite à proéminente selon la forme du basidiome,
+    avec nombreux rhizomorphes distincts, tenaces et blancs, souvent radiants d'une
+    base à l'autre, à exopéridium pâle puis brun fauvâtre, typiquement brun rouille
+    plus foncé avec l'âge, parfois jaunâtre, lisse ou avec quelques petites épines
+    dispersées au-dessus au début, puis se brisant par plaques aréolées plus foncées
+    qui se divisent en plus petites unités qui deviennent de fins granules ou écailles
+    polygonales au sec, relativement rugueux et persistants
   bibliographies: 
   biotopes: pousse sur bois pourri, débris ligneux
   boucles: 
   brachybasidioles: 
   calicule: 
-  capillitium: réseau d'hyphes stériles non septé, à paroi épaisse, parfois bosselé, ramifié, hyalines dans E.G. 10%, se colore dans la Phloxine B, 3-5 µm Ø
+  capillitium: réseau d'hyphes stériles non septé, à paroi épaisse, parfois bosselé,
+    ramifié, hyalines dans E.G. 10%, se colore dans la Phloxine B, 3-5 µm Ø
   capitule: 
   caulobasides: 
   caulocystides: 
@@ -74,7 +82,7 @@ description:
   chair: 
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -137,13 +145,15 @@ description:
   exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
-  exoperidium: formé de sphérocystes (sphérocytes) irrégulièrement arrondis, bosselés, fusiformes à polygonales épineux
+  exoperidium: formé de sphérocystes (sphérocytes) irrégulièrement arrondis, bosselés,
+    fusiformes à polygonales épineux
   extremites-hyphales: 
   face-externe: 
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
-  glebe: blanche et ferme au début, puis jaune verdâtre et spongieuse, brun olive et poudreuse à maturité
+  glebe: blanche et ferme au début, puis jaune verdâtre et spongieuse, brun olive
+    et poudreuse à maturité
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -201,7 +211,8 @@ description:
   nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
-  paracapillitium: souvent abondant, non bouclé, septé, à paroi mince, hyalines dans E.G. 10%, ne se colore pas dans la Phloxine B, 2-5 µm Ø
+  paracapillitium: souvent abondant, non bouclé, septé, à paroi mince, hyalines dans
+    E.G. 10%, ne se colore pas dans la Phloxine B, 2-5 µm Ø
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
@@ -250,7 +261,9 @@ description:
   remarques: 
   repartition: 
   rhizomorphes: 
-  sac-sporifere: à endopéridium papyracé, ferme, lisse, blanchâtre puis brun-jaune, s'ouvrant par un grand pore apical souvent irrégulier et tardif, avec sous-glèbe spongieuse, constamment blanche à maturité, à chambres très petites
+  sac-sporifere: à endopéridium papyracé, ferme, lisse, blanchâtre puis brun-jaune,
+    s'ouvrant par un grand pore apical souvent irrégulier et tardif, avec sous-glèbe
+    spongieuse, constamment blanche à maturité, à chambres très petites
   saveur: indistincte à fongique
   sclerocystides: 
   sclerote: 
@@ -287,3 +300,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

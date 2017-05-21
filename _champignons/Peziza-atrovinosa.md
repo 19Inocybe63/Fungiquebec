@@ -1,41 +1,40 @@
 ---
+title: Peziza Atrovinosa
+date: 2017-04-10 00:00:00 Z
 nom: Peziza atrovinosa
-date: 2017-04-10 00:00:00
 image: https://c2.staticflickr.com/2/1606/24672563904_69f71fc804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/24672563904/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
 album-flickr:
-  - 72157673970680130
-
+- 72157673970680130
 details:
   nom-francais: 
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
-  espece: <i>Peziza atrovinosa</i> Cooke & W.R. Gerard
-  litterature: Cooke, M.C. 1875. Synopsis of the discomycetous fungi of the United States. 1. Bulletin of the Buffalo Society of Natural Sciences. 2(36):285-288
-
+  espece: "<i>Peziza atrovinosa</i> Cooke & W.R. Gerard"
+  litterature: Cooke, M.C. 1875. Synopsis of the discomycetous fungi of the United
+    States. 1. Bulletin of the Buffalo Society of Natural Sciences. 2(36):285-288
 collections:
-  - fongarium: cKc0331
-    date: 7 juillet 2015
-    planche:
-      numero: cKc0331-0123
-      miniature: https://c2.staticflickr.com/2/1617/26612029266_5e2bebfa84_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/26612029266/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
-    geolocalisation: 
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0523
-    date: 24 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0331
+  date: 7 juillet 2015
+  planche:
+    numero: cKc0331-0123
+    miniature: https://c2.staticflickr.com/2/1617/26612029266_5e2bebfa84_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/26612029266/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0523
+  date: 24 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -44,7 +43,8 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 12-50 mm Ø, cupuliforme, assez profonde, devenant crispé à plissé avec l'âge ou par la pression et le chevauchement des autres pézizes
+  apothecie: 12-50 mm Ø, cupuliforme, assez profonde, devenant crispé à plissé avec
+    l'âge ou par la pression et le chevauchement des autres pézizes
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -98,8 +98,11 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: |
-    De Claude Kaufholtz-Couture. « Exhalaison spermatique et légèrement de chlore une fois réhydraté. Remerciements à René Dougoud pour son aide dans l'étude microscopique. »
+  commentaires: 'De Claude Kaufholtz-Couture. « Exhalaison spermatique et légèrement
+    de chlore une fois réhydraté. Remerciements à René Dougoud pour son aide dans
+    l''étude microscopique. »
+
+'
   conidies: 
   conidiome: 
   conidiophores: 
@@ -151,7 +154,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: de textura globulosa-angularis
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: finement granuleuse, face externe cannelle surface brun fumé
   face-poroide: 
@@ -165,7 +167,8 @@ description:
   groupe: 
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
-  hymenophore: lisse, brun, surface intérieure devenant presque noir avec une teinte olivâtre d'un saupoudrage d'ascospores
+  hymenophore: lisse, brun, surface intérieure devenant presque noir avec une teinte
+    olivâtre d'un saupoudrage d'ascospores
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -209,13 +212,15 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: pousse en groupes ou en grappes parfois denses sur le sol ou parmi la mousse
+  mode-de-croissance: pousse en groupes ou en grappes parfois denses sur le sol ou
+    parmi la mousse
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques à claviformes, parfois subcapitées, droites, septées, 100-140 x 4-5 µm en moyenne
+  paraphyses: cylindriques à claviformes, parfois subcapitées, droites, septées, 100-140
+    x 4-5 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -293,3 +298,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

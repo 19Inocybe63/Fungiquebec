@@ -1,31 +1,29 @@
 ---
+title: Cortinarius Caperatus
+date: 2017-03-18 00:00:00 Z
 nom: Cortinarius caperatus
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8461/8038502020_3d777ea34d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8038502020/in/photolist-edZ8GF-dfkqAq
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Cortinaire ridé
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius caperatus</i> (Pers.) Fr.
+  espece: "<i>Cortinarius caperatus</i> (Pers.) Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-  
 collections:
-  - fongarium: cKc0017
-    date: 29 septembre 2012
-    planche:
-      numero: cKc0017-0027
-      miniature: https://c1.staticflickr.com/9/8382/8679583227_2f5e0c516f_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8679583227/in/photolist-edZ8GF-dfkqAq
-    geolocalisation: 46°56'39.7"N 71°18'14.0"O
-    elevation: 212 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0017
+  date: 29 septembre 2012
+  planche:
+    numero: cKc0017-0027
+    miniature: https://c1.staticflickr.com/9/8382/8679583227_2f5e0c516f_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8679583227/in/photolist-edZ8GF-dfkqAq
+  geolocalisation: 46°56'39.7"N 71°18'14.0"O
+  elevation: 212 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à clavées, tétrasporiques, bouclées à la base, 36-45 x 11-12 µm
+  basides: claviformes à clavées, tétrasporiques, bouclées à la base, 36-45 x 11-12
+    µm
   basidiospores: |
     citriformes en vue frontale, amygdaliformes vues de profil, modérément verruqueuses, à paroi légèrement épaissie 05-06 µm, avec appendice hilaire, plus rarement avec un pore germinatif tronqué, à contenu uniguttulé, brunâtres à rougeâtres dans le NH<SUB>4</SUB>OH 10% = 2%, dextrinoïdes, non cyanophiles
     9,9 [11,1; 11,6] 12,7 x 6,7 [7,4; 7,8] 8,5 µm
@@ -72,9 +71,11 @@ description:
   cellules-stromatiques: 
   chair: épaisse, blanchâtre à jaunâtre-brunâtre pâle
   chancre: 
-  chapeau: 50-140 mm Ø, convexe ovoïdale puis étalé, largement mamelonné, sec, glabre, plissé-ridé, beige fauve à jaune ocré, souvent pruineux et blanchâtre au centre
-  cheilochrysocystides:
-  cheilocystides: absentes, avec des hyphes claviformes émergentes, rarement subfusiformes, jusqu’à 64-68 µm de long
+  chapeau: 50-140 mm Ø, convexe ovoïdale puis étalé, largement mamelonné, sec, glabre,
+    plissé-ridé, beige fauve à jaune ocré, souvent pruineux et blanchâtre au centre
+  cheilochrysocystides: 
+  cheilocystides: absentes, avec des hyphes claviformes émergentes, rarement subfusiformes,
+    jusqu’à 64-68 µm de long
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,7 +209,8 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 50-120 x 10-20 mm Ø, cylindrique, égal, parfois élargi vers la base, ferme, sec, lisse ou strié, furfuracé à l'apex, blanchâtre à brunâtre
+  pied: 50-120 x 10-20 mm Ø, cylindrique, égal, parfois élargi vers la base, ferme,
+    sec, lisse ou strié, furfuracé à l'apex, blanchâtre à brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, avec un subpellis celluleux
@@ -282,7 +284,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: membraneux, blanc, laissant un anneau médian, saillant et blanchâtre, facilement fugace
+  voile-partiel: membraneux, blanc, laissant un anneau médian, saillant et blanchâtre,
+    facilement fugace
   volve: 
   zone-perihymeniale: 
 ---
+

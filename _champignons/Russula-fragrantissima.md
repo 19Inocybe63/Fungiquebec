@@ -1,31 +1,29 @@
 ---
+title: Russula Fragrantissima
+date: 2017-03-27 00:00:00 Z
 nom: Russula fragrantissima
-date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/9/8514/8593889828_e811faf521_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8593889828/in/photolist-e6rQx2-e6pW3h-e7hgUS
 album-flickr:
-  - 72157676714106640
-
+- 72157676714106640
 details:
   nom-francais: Russule fragrante
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula fragrantissima</i> Romagn.
+  espece: "<i>Russula fragrantissima</i> Romagn."
   litterature: Romagnesi, H. 1967. Les Russules d'Europe et d'Afrique du Nord. :1-998
-
 collections:
-  - fongarium: cKc0012
-    date: 29 septembre 2012
-    planche:
-      numero: cKc0012-0021
-      miniature: https://c1.staticflickr.com/9/8111/8594261535_f29626cebb_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8594261535/in/photolist-e6rQx2-e7hgUS-e6pW3h
-    geolocalisation: 46°56'39.7"N 71°18'14.0"O
-    elevation: 212 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0012
+  date: 29 septembre 2012
+  planche:
+    numero: cKc0012-0021
+    miniature: https://c1.staticflickr.com/9/8111/8594261535_f29626cebb_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8594261535/in/photolist-e6rQx2-e7hgUS-e6pW3h
+  geolocalisation: 46°56'39.7"N 71°18'14.0"O
+  elevation: 212 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement clavées, tétrasporiques, bouclées à la base, 46-58 x 7-13 µm
+  basides: piriformes à largement clavées, tétrasporiques, bouclées à la base, 46-58
+    x 7-13 µm
   basidiospores: |
     globuleuses à subglobuleuses, zébrées ou plurizébrées, ailées, avec quelques verrues isolées, souvent petites, à crêtes ± épaisses à très épaisses, avec proéminences jusqu’à 1 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, amyloïde en périphérie, hyalines dans le NaCl iso 0,9%, amyloïdes
     8 [8,5; 8,9] 9,5 x 7,5 [7,9; 8,2] 8,7 µm
@@ -55,7 +54,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus, parfois des forêts mixtes, <i>Betula</i>, <i>Fagus</i>, <i>Quercus</i>
+  biotopes: pousse au sol, sous feuillus, parfois des forêts mixtes, <i>Betula</i>,
+    <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -72,9 +72,12 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 40-100 mm Ø, globuleux, convexe puis étalé, visqueux au début, lisse, jaune ocré pâle, jaune-brun, jaune grisâtre à brun soutenu, à marge striée-tuberculée et cuticule pelant jusqu'aux 3/4 du rayon
-  cheilochrysocystides:
-  cheilocystides: comme les pleurocystides, moins émergentes et plus souvent tordues, ou couchées, sulfovanilline positive (SV+)
+  chapeau: 40-100 mm Ø, globuleux, convexe puis étalé, visqueux au début, lisse, jaune
+    ocré pâle, jaune-brun, jaune grisâtre à brun soutenu, à marge striée-tuberculée
+    et cuticule pelant jusqu'aux 3/4 du rayon
+  cheilochrysocystides: 
+  cheilocystides: comme les pleurocystides, moins émergentes et plus souvent tordues,
+    ou couchées, sulfovanilline positive (SV+)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -131,7 +134,8 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: forte d'amande amère, de cerise ou de massepain (benzaldéhyde), parfois avec composante vaguement fétide
+  exhalaison: forte d'amande amère, de cerise ou de massepain (benzaldéhyde), parfois
+    avec composante vaguement fétide
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -175,7 +179,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, larges, serrées à subespacées, crème à jaunâtres-grisâtres, souvent tachées de brun pâle
+  lames: adnées, larges, serrées à subespacées, crème à jaunâtres-grisâtres, souvent
+    tachées de brun pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,15 +213,19 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-100 x 10-30 mm Ø, souvent long, égal, ferme, lisse, blanchâtre, blanc jaunâtre à jaune orangé terne, se tachant de brun jaunâtre sur la moitié inférieure
+  pied: 30-100 x 10-30 mm Ø, souvent long, égal, ferme, lisse, blanchâtre, blanc jaunâtre
+    à jaune orangé terne, se tachant de brun jaunâtre sur la moitié inférieure
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: cylindriques, capitées, diverticulées rares, 87 x 5 µm, d'aspect mucronées rare, sulfovanilline positive (SV+)
+  pileocystides: cylindriques, capitées, diverticulées rares, 87 x 5 µm, d'aspect
+    mucronées rare, sulfovanilline positive (SV+)
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes en ogives à apex moniliformes, avec à l’intérieur des guttules jaunâtres, ou des masses huileuse éparses de la même couleur, 63-63,5 (80) x 7-10 µm, sulfovanilline positive (SV+)
+  pleurocystides: abondantes en ogives à apex moniliformes, avec à l’intérieur des
+    guttules jaunâtres, ou des masses huileuse éparses de la même couleur, 63-63,5
+    (80) x 7-10 µm, sulfovanilline positive (SV+)
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -260,7 +269,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi ; C-D d'après la charte de couleur de Kibby
+  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur
+    de Romagnesi ; C-D d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -269,8 +279,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Russula laurocerasi var. fragrantissima</i> (Romagn.) Bon, Documents Mycologiques 17 (65):56 (1986)
+  synonymie: "<i>Russula laurocerasi var. fragrantissima</i> (Romagn.) Bon, Documents
+    Mycologiques 17 (65):56 (1986)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -286,3 +296,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

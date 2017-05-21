@@ -1,10 +1,12 @@
 ---
-title: Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac
-date: 2017-04-08 00:00:00
-categories: 
+title: Les différentes intensités causées par la réaction au soluté alcoolique officinal
+  de résine de gaïac
+date: 2017-04-08 00:00:00 Z
+categories:
 - Colorants et réactifs
 - Réactions macrochimiques
 ---
+
 adaptation d’un article
 de Jacques Charbonnel
 <p>&nbsp; </p>

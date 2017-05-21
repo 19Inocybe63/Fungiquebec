@@ -1,31 +1,30 @@
 ---
+title: Artomyces Pyxidatus
+date: 2017-05-18 00:00:00 Z
 nom: Artomyces pyxidatus
-date: 2017-05-18 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Clavaire couronnée
   ordre: Russulales
   famille: Auriscalpiaceae
   genre: Artomyces
-  espece: <i>Artomyces pyxidatus</i> (Pers.) Jülich
-  litterature: Jülich, W. 1981. Higher taxa of Basidiomycetes. Bibliotheca Mycologica. 85:1-485
-
+  espece: "<i>Artomyces pyxidatus</i> (Pers.) Jülich"
+  litterature: Jülich, W. 1981. Higher taxa of Basidiomycetes. Bibliotheca Mycologica.
+    85:1-485
 collections:
-  - fongarium: cKc0053
-    date: 26 juin 2013
-    planche:
-      numero: cKc0053-0149
-      miniature: https://c1.staticflickr.com/1/489/30879637394_4981ceee8e_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/30879637394/in/photolist-P3Jdnh-eW4HFv
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0053
+  date: 26 juin 2013
+  planche:
+    numero: cKc0053-0149
+    miniature: https://c1.staticflickr.com/1/489/30879637394_4981ceee8e_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/30879637394/in/photolist-P3Jdnh-eW4HFv
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, en palissade, tétrasporiques aux stérigmates 2,4-3,7 µm de longueur, non bouclées à la base, 14,4 - 20 × 3,7 - 4,3 µm en moyenne
+  basides: claviformes, en palissade, tétrasporiques aux stérigmates 2,4-3,7 µm de
+    longueur, non bouclées à la base, 14,4 - 20 × 3,7 - 4,3 µm en moyenne
   basidiospores: |
     courtement elliptiques à ovoïdales en vue frontale, elliptiques-ovoïdales vues de profil, finement verruqueuses (criblées), à paroi mince, appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes, partiellement cyanophiles à cyanophiles
     (3,7) 4 - 4,6 (5) × 2,5 - 2,9 (3) µm
@@ -54,7 +54,11 @@ description:
     Me = 4,3 × 2,7 µm ; Qe = 1,6
     (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
-  basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, ramifié à plusieurs reprises, aux extrémités en forme de petites couronnes ; branches 1-5 mm Ø, lisses, blanchâtres à jaune pâle au début, parfois foncées à pâle aux teintes rosâtres en développement, apex couronné d'une dépression peu profonde et de 3-6 pointes, dont les extrémités sont concolores aux branches ou deviennent brunâtres
+  basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, ramifié à plusieurs reprises,
+    aux extrémités en forme de petites couronnes ; branches 1-5 mm Ø, lisses, blanchâtres
+    à jaune pâle au début, parfois foncées à pâle aux teintes rosâtres en développement,
+    apex couronné d'une dépression peu profonde et de 3-6 pointes, dont les extrémités
+    sont concolores aux branches ou deviennent brunâtres
   bibliographies: 
   biotopes: pousse sur bois pourri de feuillus
   boucles: facilement observables
@@ -74,7 +78,7 @@ description:
   chair: assez dure, flexible, blanchâtre
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -150,7 +154,9 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: occasionnelles, polymorphes, cylindriques, fusiformes à longuement fusiformes, lagéniformes à rostrées, avec contenu granuleux, souvent peu émergentes ou émergentes de moitié (24,2) 26,7 - 28,2 (32,7) × (3,3) 3,31 - 4,2 µm en moyenne
+  hymenocystides: occasionnelles, polymorphes, cylindriques, fusiformes à longuement
+    fusiformes, lagéniformes à rostrées, avec contenu granuleux, souvent peu émergentes
+    ou émergentes de moitié (24,2) 26,7 - 28,2 (32,7) × (3,3) 3,31 - 4,2 µm en moyenne
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -211,7 +217,8 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: base de 10-30 mm de long, < 10 mm Ø, blanchâtre, rosâtre ou brunâtre, finement duveteux
+  pied: base de 10-30 mm de long, < 10 mm Ø, blanchâtre, rosâtre ou brunâtre, finement
+    duveteux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -247,8 +254,10 @@ description:
     Potasse (KOH 10%) = jaune brunâtre pâle sur chair et rameaux
     Sulfate de fer (FeSO<SUB>4</SUB>) = pas de coloration à légèrement grisâtre ou brunâtre sur les branches et la base
   receptacle: 
-  remarques: |
-    Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes.
+  remarques: 'Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l''aspect
+    de petites couronnes.
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -257,7 +266,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; D-E d'après la charte de couleur de Kibby
+  sporee: ocrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur
+    de Romagnesi ; D-E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -288,3 +298,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

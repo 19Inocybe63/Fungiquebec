@@ -1,51 +1,50 @@
 ---
+title: Tubaria Furfuracea
+date: 2017-05-20 00:00:00 Z
 nom: Tubaria furfuracea
-date: 2017-05-20 00:00:00
 image: https://c2.staticflickr.com/8/7368/8754529825_a47c6aa765_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8754529825/in/photolist-ekH1EC-ekBfHp-ekH1uQ-dhDPo1-dhDNwX/
 album-flickr:
-  - 72157672900331914
-
+- 72157672900331914
 details:
   nom-francais: Tubaire furfuracée ; Tubaire commune
   ordre: Agaricales
   famille: Tubariaceae
   genre: Tubaria
-  espece: <i>Tubaria furfuracea</i> (Pers.) Gillet
-  litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. :177-560
-
+  espece: "<i>Tubaria furfuracea</i> (Pers.) Gillet"
+  litterature: Gillet, C.C. 1876. Les Hyménomycètes ou Description de tous les Champignons
+    qui Croissent en France. :177-560
 collections:
-  - fongarium: sans numéro
-    date: 7 octobre 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'43.6"N 71°41'39.1"O
-    elevation: 105 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0039
-    date: 18 mai 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0601
-    date: 12 mai 2017
-    planche:
-      numero: cKc0601-0169
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 7 octobre 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'43.6"N 71°41'39.1"O
+  elevation: 105 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0039
+  date: 18 mai 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0601
+  date: 12 mai 2017
+  planche:
+    numero: cKc0601-0169
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -66,7 +65,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques-claviformes, tétrasporiques, bouclées à la base, 22-27 x 6-8 µm
+  basides: claviformes à cylindriques-claviformes, tétrasporiques, bouclées à la base,
+    22-27 x 6-8 µm
   basidiospores: |
     ellipsoïdes à ellipsoïdes-subcylindriques, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, parfois biguttulé, avec granulations, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer
     6,9 [7,6; 7,9] 8,6 x 4,1 [4,6; 4,9] 5,5 µm
@@ -75,8 +75,10 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur débris ligneux de feuillus, en milieux humides des forêts ou des parcs
-  boucles: très petites, et observées dans le pileipellis, dans le voile partiel et dans la trame lamellaire
+  biotopes: pousse au sol, sur débris ligneux de feuillus, en milieux humides des
+    forêts ou des parcs
+  boucles: très petites, et observées dans le pileipellis, dans le voile partiel et
+    dans la trame lamellaire
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -92,9 +94,11 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau
   chancre: 
-  chapeau: 4-24 mm Ø, convexe à étalé, ombiliqué, avec légères fibrilles, hygrophane, brun rouge à fauve au frais, à marge (reste du voile partiel) blanchâtre
-  cheilochrysocystides:
-  cheilocystides: polymorphes, abondantes, cylindriques, flexueuses, parfois subcapitées, rarement lécythiformes, 33-46 x 4-8 µm
+  chapeau: 4-24 mm Ø, convexe à étalé, ombiliqué, avec légères fibrilles, hygrophane,
+    brun rouge à fauve au frais, à marge (reste du voile partiel) blanchâtre
+  cheilochrysocystides: 
+  cheilocystides: polymorphes, abondantes, cylindriques, flexueuses, parfois subcapitées,
+    rarement lécythiformes, 33-46 x 4-8 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -197,7 +201,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à légèrement décurrentes, larges, subespacées, avec lamellules irrégulières à distribution symétrique, orange pâle, aux arêtes finement érodées et blanchâtres
+  lames: adnées à légèrement décurrentes, larges, subespacées, avec lamellules irrégulières
+    à distribution symétrique, orange pâle, aux arêtes finement érodées et blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -230,7 +235,8 @@ description:
   peritheces: 
   phenologie: de mai à octobre
   phialoconidies: 
-  pied: 9-18 x 2-4 mm Ø, cylindrique à égal, creux, ± concolore au chapeau, à l'apex fibrilleux et blanchâtre, ne se détache pas du chapeau
+  pied: 9-18 x 2-4 mm Ø, cylindrique à égal, creux, ± concolore au chapeau, à l'apex
+    fibrilleux et blanchâtre, ne se détache pas du chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -304,7 +310,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, blanchâtre, évanescent, formé d’hyphes bouclées qui semblent reliées par un cordonnet entre lesdits hyphes
+  voile-partiel: fibrilleux, blanchâtre, évanescent, formé d’hyphes bouclées qui semblent
+    reliées par un cordonnet entre lesdits hyphes
   volve: 
   zone-perihymeniale: 
 ---
+

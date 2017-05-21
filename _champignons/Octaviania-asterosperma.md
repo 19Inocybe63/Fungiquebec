@@ -1,31 +1,29 @@
 ---
+title: Octaviania Asterosperma
+date: 2017-03-23 00:00:00 Z
 nom: Octaviania asterosperma
-date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/1/642/20814861412_c73fe12056_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20814861412/in/photolist-xtpr2s-xJ3sDc-xHkB7U
 album-flickr:
-  - 72157674612351426
-
+- 72157674612351426
 details:
   nom-francais: 
   ordre: Boletales
   famille: Boletaceae
   genre: Octaviania
-  espece: <i>Octaviania asterosperma</i> Vittad.
+  espece: "<i>Octaviania asterosperma</i> Vittad."
   litterature: Vittadini, C. 1831. Monographia Tuberacearum. :1-88
-
 collections:
-  - fongarium: cKc0430
-    date: 23 août 2015
-    planche:
-      numero: cKc0430-0098
-      miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/20657176960/in/photolist-xtpr2s-xJ3sDc-xHkB7U
-    geolocalisation: 
-    altitude: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Paco Sáinz et Pedro M. Pasaban
-
+- fongarium: cKc0430
+  date: 23 août 2015
+  planche:
+    numero: cKc0430-0098
+    miniature: https://c2.staticflickr.com/6/5780/20657176960_bb283f80d6_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/20657176960/in/photolist-xtpr2s-xJ3sDc-xHkB7U
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Paco Sáinz et Pedro M. Pasaban
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +35,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Lenne, Mireille</b>. <i>Octaviania asterosperma, un champignon hypogé retrouvé au Bois de la Cambre</i>, Revue du Cercle de Mycologie de Bruxelles, n°5 (2005) p. 55-64
+  articles: "<b>Lenne, Mireille</b>. <i>Octaviania asterosperma, un champignon hypogé
+    retrouvé au Bois de la Cambre</i>, Revue du Cercle de Mycologie de Bruxelles,
+    n°5 (2005) p. 55-64\n"
   ascome: 
   ascospores: 
   asques: 
@@ -47,7 +46,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement clavées, tétrasporiques avec pédicelles 4-9 µm de long, avec granulations, mais aussi vide optique, 22,6 [27,1; 33,3] 37,8 x 11,9 [13,3; 15,2] 16,6 µm
+  basides: piriformes à largement clavées, tétrasporiques avec pédicelles 4-9 µm de
+    long, avec granulations, mais aussi vide optique, 22,6 [27,1; 33,3] 37,8 x 11,9
+    [13,3; 15,2] 16,6 µm
   basidiospores: |
     globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl iso 0,9%, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
     11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
@@ -55,7 +56,8 @@ description:
     Me = 12,5 x 11,9 µm; Qe = 1,1
     (Piximètre, formule statistique ; mesures dans le NaCl iso 0,9%, sans les ornements)
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniformes, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: gastéroïdes, hypogés à subhypogés, réniformes, subglobuleux à allongés,
+    glabre, blanc gris, 10-30 (50) mm Ø
   bibliographies: 
   biotopes: pousse dans le sol, sous conifères
   boucles: 
@@ -137,7 +139,8 @@ description:
   face-poroide: 
   feutrage-basal: 
   fragments-sporaux: 
-  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc épar et entremêlé
+  glebe: brun fauve, collante, apparence comme de petites pulpes, et un duvet blanc
+    épar et entremêlé
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -229,8 +232,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Montecchi, Amer, ; Sarasini, Mario</b>. <i>Funghi ipogei d'Europa</i>, Associazione Micologica Bresadola, 2000, 714 p.
+  publications: "<b>Montecchi, Amer, ; Sarasini, Mario</b>. <i>Funghi ipogei d'Europa</i>,
+    Associazione Micologica Bresadola, 2000, 714 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -238,11 +241,12 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
+  remarques: La glèbe ressemble à de la pulpe d'orange, mais plus petite. Consulter
+    le site de Paco Sáinz et de Pedro M. Pasaban, Hongos hipogeos.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur:  fraîche, acidulée
+  saveur: fraîche, acidulée
   sclerocystides: 
   sclerote: 
   soies: 
@@ -277,3 +281,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

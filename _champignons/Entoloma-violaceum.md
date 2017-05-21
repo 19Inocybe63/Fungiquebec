@@ -1,31 +1,30 @@
 ---
+title: Entoloma Violaceum
+date: 2017-03-23 00:00:00 Z
 nom: Entoloma violaceum
-date: 2017-03-23 00:00:00
 image: https://c2.staticflickr.com/4/3877/14967804121_d118d38839_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14967804121/in/photolist-qhmCJe-owGghB-oNDUGi
 album-flickr:
-  - 72157674905397211
-
+- 72157674905397211
 details:
   nom-francais: Entolome violet
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: <i>Entoloma violaceum</i> Murrill
-  litterature: Murrill, W.A. 1917. Agaricaceae subtribe Pluteanae. North American Flora. 10(2):77-144
-
+  espece: "<i>Entoloma violaceum</i> Murrill"
+  litterature: Murrill, W.A. 1917. Agaricaceae subtribe Pluteanae. North American
+    Flora. 10(2):77-144
 collections:
-  - fongarium: cKc0208
-    date: 19 août 2014
-    planche:
-      numero: cKc0208-0053
-      miniature: https://c2.staticflickr.com/8/7467/15937652161_3835d1f584_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15937652161/in/photolist-qhmCJe-owGghB-oNDUGi
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0208
+  date: 19 août 2014
+  planche:
+    numero: cKc0208-0053
+    miniature: https://c2.staticflickr.com/8/7467/15937652161_3835d1f584_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15937652161/in/photolist-qhmCJe-owGghB-oNDUGi
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -72,9 +71,12 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à grisâtre, mince
   chancre: 
-  chapeau: 20-50 mm Ø, conique-convexe puis étalé, souvent mamelonné, velouté à fibrilleux-méchuleux, violet foncé à pourpre foncé, brunissant avec l'âge, parfois brun à légèrement pourpré au sec
-  cheilochrysocystides:
-  cheilocystides: piriformes à largement clavées et dont l'apex est souvent mucronés, sphéropédonculées, en éperons
+  chapeau: 20-50 mm Ø, conique-convexe puis étalé, souvent mamelonné, velouté à fibrilleux-méchuleux,
+    violet foncé à pourpre foncé, brunissant avec l'âge, parfois brun à légèrement
+    pourpré au sec
+  cheilochrysocystides: 
+  cheilocystides: piriformes à largement clavées et dont l'apex est souvent mucronés,
+    sphéropédonculées, en éperons
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -175,7 +177,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: émarginées à sinuées, légèrement lilas au début, devenant roses à maturité, arêtes souvent dentelées et blanchâtres, fimbriées
+  lames: émarginées à sinuées, légèrement lilas au début, devenant roses à maturité,
+    arêtes souvent dentelées et blanchâtres, fimbriées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +211,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-80 mm x 3-5 mm Ø, cylindrique, égal, sec, glabre à finement soyeux ou parsemé de petites écailles, pourpre près de l'apex lorsque frais et jeune, blanchâtre à brunâtre, mycélium basal blanc
+  pied: 30-80 mm x 3-5 mm Ø, cylindrique, égal, sec, glabre à finement soyeux ou parsemé
+    de petites écailles, pourpre près de l'apex lorsque frais et jeune, blanchâtre
+    à brunâtre, mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -283,3 +288,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

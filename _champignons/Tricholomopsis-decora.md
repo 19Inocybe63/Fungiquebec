@@ -1,31 +1,30 @@
 ---
+title: Tricholomopsis Decora
+date: 2017-03-13 00:00:00 Z
 nom: Tricholomopsis decora
-date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8520/8635746662_876994de16_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8635746662/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
 album-flickr:
-  - 72157672076237783
-
+- 72157672076237783
 details:
   nom-francais: Tricholome décoré
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholomopsis
-  espece: <i>Tricholomopsis decora</i> (Fr.) Singer
-  litterature: Singer, R. 1939. Phylogenie und Taxonomie der Agaricales. Schweizerische Zeitschrift für Pilzkunde. 17:52-57
-
+  espece: "<i>Tricholomopsis decora</i> (Fr.) Singer"
+  litterature: Singer, R. 1939. Phylogenie und Taxonomie der Agaricales. Schweizerische
+    Zeitschrift für Pilzkunde. 17:52-57
 collections:
-  - fongarium: cKc0020
-    date: 14 octobre 2012
-    planche:
-      numero: cKc0020-0024
-      miniature: https://c1.staticflickr.com/9/8545/8644268445_ecaccb931c_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8644268445/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
-    geolocalisation: 46°57'05.82"N 71°17'45.00"O
-    elevation: 225 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0020
+  date: 14 octobre 2012
+  planche:
+    numero: cKc0020-0024
+    miniature: https://c1.staticflickr.com/9/8545/8644268445_ecaccb931c_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8644268445/in/photolist-ea1Mxc-eaS8R8-ea7sBQ
+  geolocalisation: 46°57'05.82"N 71°17'45.00"O
+  elevation: 225 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: étroitement clavées à claviformes, parfois à contenu guttuleux, granulaires, bisporiques à tétrasporiques, bouclées à la base, 22-39 x 6-7,5 µm
+  basides: étroitement clavées à claviformes, parfois à contenu guttuleux, granulaires,
+    bisporiques à tétrasporiques, bouclées à la base, 22-39 x 6-7,5 µm
   basidiospores: |
     largement ellipsoïdes à ellipsoïdes, lisses, à paroi légèrement épaissie entre 05-06 µm, avec petit appendice hilaire, à contenu uniguttulé ou à granulations, hyalines dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer, partiellement cyanophiles
     5,5 [6,4; 7] 7,8 x 4,2 [4,9; 5,4] 6,2 µm
@@ -72,8 +72,13 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, mince vers la marge, ferme puis flaccide, jaune
   chancre: 
-  chapeau: 30-80 mm Ø, conique-convexe puis convexe à étalé, subumboné, déprimé au centre, avec fines écailles fibrilleuses brun foncé, brun noirâtre à brun olive, disposées concentriquement et surtout au centre, sur fond jaune à jaune doré foncé, à marge incurvée au début
-  cheilocystides: polymorphes abondantes en touffes, cylindriques à largement cylindriques, piriformes à largement clavées, sphéropédonculées, parfois subrostrées dont la base est plutôt cylindriques, parfois subfusiformes, parfois subcapitées
+  chapeau: 30-80 mm Ø, conique-convexe puis convexe à étalé, subumboné, déprimé au
+    centre, avec fines écailles fibrilleuses brun foncé, brun noirâtre à brun olive,
+    disposées concentriquement et surtout au centre, sur fond jaune à jaune doré foncé,
+    à marge incurvée au début
+  cheilocystides: polymorphes abondantes en touffes, cylindriques à largement cylindriques,
+    piriformes à largement clavées, sphéropédonculées, parfois subrostrées dont la
+    base est plutôt cylindriques, parfois subfusiformes, parfois subcapitées
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -173,7 +178,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, adnexées, larges, avec lamelles et lamellules, serrées à très serrées, jaunes à jaune doré, à arêtes entières ou devenant légèrement crénelées, parfois brunes
+  lames: adnées, adnexées, larges, avec lamelles et lamellules, serrées à très serrées,
+    jaunes à jaune doré, à arêtes entières ou devenant légèrement crénelées, parfois
+    brunes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +213,8 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 20-70 x 3-10 mm Ø, cylindrique, parfois excentré, parfois flexueux, plein puis creux, fibrilleux à squamuleux, jaune pâle, jaune à jaune soufre
+  pied: 20-70 x 3-10 mm Ø, cylindrique, parfois excentré, parfois flexueux, plein
+    puis creux, fibrilleux à squamuleux, jaune pâle, jaune à jaune soufre
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, formé d'hyphes apprimées à légèrement emmêlées
@@ -281,3 +289,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

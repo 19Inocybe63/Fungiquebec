@@ -1,51 +1,50 @@
 ---
+title: Stropharia Rugosoannulata
+date: 2017-03-13 00:00:00 Z
 nom: Stropharia rugosoannulata
-date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3766/9169017888_13dd353b07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9169017888/in/photolist-eYeErh-eYeBzj
 album-flickr:
-  - 72157676456121516
-
+- 72157676456121516
 details:
   nom-francais: Strophaire à anneau rugueux
   ordre: Agaricales
   famille: Strophariaceae
   genre: Stropharia
-  espece: <i>Stropharia rugosoannulata</i> Farl. ex Murrill
-  litterature: Murrill, W.A. 1922. Dark-spored agarics - II. Gomphidius ands Stropharia. Mycologia. 14(3):121-142
-
+  espece: "<i>Stropharia rugosoannulata</i> Farl. ex Murrill"
+  litterature: Murrill, W.A. 1922. Dark-spored agarics - II. Gomphidius ands Stropharia.
+    Mycologia. 14(3):121-142
 collections:
-  - fongarium: cKc0057
-    date: 29 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0316
-    date: 17 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0317
-    date: 17 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0057
+  date: 29 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0316
+  date: 17 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0317
+  date: 17 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -53,7 +52,8 @@ description:
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
-  anneau: membraneux, pendant, distinctement strié sur le côté supérieur, avec un bord un peu floconneux, se désintégrant avec l'âge
+  anneau: membraneux, pendant, distinctement strié sur le côté supérieur, avec un
+    bord un peu floconneux, se désintégrant avec l'âge
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
@@ -88,8 +88,14 @@ description:
   cellules-stromatiques: 
   chair: épaisse, assez ferme, blanche, teinté de gris brun dans la couche corticale
   chancre: 
-  chapeau: 60-175 mm Ø, conique à convexe, devenant convexe étalé à subétalé, largement umboné, à marge fortement involutée puis étalée ; non hygrophane, non translucide, brun pâle à brun assez foncé, gris brun ou jaune, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
-  cheilochrysocystides:
+  chapeau: 60-175 mm Ø, conique à convexe, devenant convexe étalé à subétalé, largement
+    umboné, à marge fortement involutée puis étalée ; non hygrophane, non translucide,
+    brun pâle à brun assez foncé, gris brun ou jaune, généralement avec une teinte
+    pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais,
+    subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs,
+    avec présence du voile général en particulier dans la zone marginale et adhérant
+    à la marge, glabrescent avec l'âge
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -98,7 +104,10 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « <i>Stropharia rugosoannulata</i> est la plus grande espèce du genre. Il existe une grande variété de couleur de son chapeau. Habituellement, on le retrouve dans les teintes violacées, mais des formes plus pâles existent aussi. »
+  commentaires: De Claude Kaufholtz-Couture. « <i>Stropharia rugosoannulata</i> est
+    la plus grande espèce du genre. Il existe une grande variété de couleur de son
+    chapeau. Habituellement, on le retrouve dans les teintes violacées, mais des formes
+    plus pâles existent aussi. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -146,7 +155,8 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: assez distinct, difficile à décrire, plus ou moins métallique, ou rappelant vaguement les croustilles de maïs
+  exhalaison: assez distinct, difficile à décrire, plus ou moins métallique, ou rappelant
+    vaguement les croustilles de maïs
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -190,7 +200,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées ou adnées-émarginées,  minces, jusqu'à 20 mm de large, gris pâle d'abord, puis tacheté de violet, grisâtre, finement noir violacé, avec arêtes blanches fimbriées
+  lames: adnexées ou adnées-émarginées,  minces, jusqu'à 20 mm de large, gris pâle
+    d'abord, puis tacheté de violet, grisâtre, finement noir violacé, avec arêtes
+    blanches fimbriées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -223,7 +235,9 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 50-130 x 7-40 (65) mm Ø, généralement progressivement élargi vers la base, parfois avec base subbulbeuse, ferme, avec anneau, jaune ocre dans la partie médiane, blanche et fibrilleuse à l'apex et base
+  pied: 50-130 x 7-40 (65) mm Ø, généralement progressivement élargi vers la base,
+    parfois avec base subbulbeuse, ferme, avec anneau, jaune ocre dans la partie médiane,
+    blanche et fibrilleuse à l'apex et base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -249,8 +263,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E.</b> <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+  publications: "<b>Noordeloos, Machiel E.</b> <i>Strophariaceae s.l.</i>, Fungi Europaei
+    Edizioni Candusso, N° 13, 2011, 648 p.\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -297,3 +311,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

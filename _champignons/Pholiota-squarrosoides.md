@@ -1,51 +1,50 @@
 ---
+title: Pholiota Squarrosoides
+date: 2017-03-25 00:00:00 Z
 nom: Pholiota squarrosoides
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7295/9591960483_a32eab764b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9591960483/in/photolist-xt3tBS-wwZ7Ct-fBBuHa-fBBiF2-dKPZEc-dKVtSm/
 album-flickr:
-  - 72157676289059033
-
+- 72157676289059033
 details:
   nom-francais: Pholiote squarreuse
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: <i>Pholiota squarrosoides</i> (Peck) Sacc.
-  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
-
+  espece: "<i>Pholiota squarrosoides</i> (Peck) Sacc."
+  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge
+    Fungorum. 5:1-1146
 collections:
-  - fongarium: Sans numéro
-    date: 9 septembre 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0117
-    date: 25 août 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'09.22"N 71°19'46.98"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0409
-    date: 17 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: Sans numéro
+  date: 9 septembre 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°46'21.6"N 71°10'29.3"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0117
+  date: 25 août 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'09.22"N 71°19'46.98"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0409
+  date: 17 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -88,8 +87,11 @@ description:
   cellules-stromatiques: 
   chair: épaisse, plutôt flexible, blanchâtre
   chancre: 
-  chapeau: 30-80 (100) mm Ø, convexe, orné d'un large ombon à étalé, non hygrophane, non translucide, plutôt jaune pâle au début, puis brun rougeâtre à maturité, visqueux lorsque humide, densément recouvert de fibrilles et de fines écailles sèches, récurvées ou squarreuses brun ocre à brun rougeâtre
-  cheilochrysocystides:
+  chapeau: 30-80 (100) mm Ø, convexe, orné d'un large ombon à étalé, non hygrophane,
+    non translucide, plutôt jaune pâle au début, puis brun rougeâtre à maturité, visqueux
+    lorsque humide, densément recouvert de fibrilles et de fines écailles sèches,
+    récurvées ou squarreuses brun ocre à brun rougeâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -226,7 +228,9 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-120 x 5-12 mm Ø, cylindrique, parfois claviforme à la base, avec zone annuliforme fibrilleuse ; sec, ocre pâle à brun rougeâtre, densément fibrilleux-squarreux sous la zone annuliforme
+  pied: 50-120 x 5-12 mm Ø, cylindrique, parfois claviforme à la base, avec zone annuliforme
+    fibrilleuse ; sec, ocre pâle à brun rougeâtre, densément fibrilleux-squarreux
+    sous la zone annuliforme
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -294,7 +298,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: presque membraneux laissant un anneau supère, blanchâtre, souvent évanescent
+  voile-partiel: presque membraneux laissant un anneau supère, blanchâtre, souvent
+    évanescent
   volve: 
   zone-perihymeniale: 
 ---
+

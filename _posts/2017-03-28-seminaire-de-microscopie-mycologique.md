@@ -1,6 +1,6 @@
 ---
 title: Séminaire de microscopie de mycologie
-date: 2017-03-28 00:00:00
+date: 2017-03-28 00:00:00 Z
 categories:
 - Formation
 - Microscopie

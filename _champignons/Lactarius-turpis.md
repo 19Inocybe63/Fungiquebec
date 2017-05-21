@@ -1,31 +1,29 @@
 ---
+title: Lactarius Turpis
+date: 2017-03-25 00:00:00 Z
 nom: Lactarius turpis
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8364/28809911693_d4176fcf69_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28809911693/in/photolist-KTQk2p-LphUVN
 album-flickr:
-  - 72157660672410068
-
+- 72157660672410068
 details:
   nom-francais: Lactaire plombé
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: <i>Lactarius turpis</i> (Weinm.) Fr.
+  espece: "<i>Lactarius turpis</i> (Weinm.) Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-
 collections:
-  - fongarium: cKc0557
-    date: 3 septembre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0557
+  date: 3 septembre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +35,7 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Kolar, Jan, Ph.D.</b>. Faculté de l'Université UK ; http://www.enviweb.cz/clanek/priroda/106781/jake-latky-zpusobuji-zelene-zbarveni-hub
+  articles: "<b>Kolar, Jan, Ph.D.</b>. Faculté de l'Université UK ; http://www.enviweb.cz/clanek/priroda/106781/jake-latky-zpusobuji-zelene-zbarveni-hub\n"
   ascome: 
   ascospores: 
   asques: 
@@ -69,8 +66,14 @@ description:
   cellules-stromatiques: 
   chair: plutôt ferme
   chancre: 
-  chapeau: 40-130 mm Ø, d'abord convexe devenant légèrement à nettement déprimé, avec marge enroulée se déroulant à maturité, parfois crènelée au début ; surface finement veloutée à veinée ; légèrement visqueux autour du centre, sec et plus nettement velouté, squamuleux près de la marge chez les jeunes spécimens, à surface devenant ± brillante lorsque mature, avec centre brun olivâtre à noirâtre, gris-olivâtre vers la marge et olivâtre à gris olivâtre pâle, chrome pâle ou jaune paille chez les jeunes spécimens
-  cheilochrysocystides:
+  chapeau: 40-130 mm Ø, d'abord convexe devenant légèrement à nettement déprimé, avec
+    marge enroulée se déroulant à maturité, parfois crènelée au début ; surface finement
+    veloutée à veinée ; légèrement visqueux autour du centre, sec et plus nettement
+    velouté, squamuleux près de la marge chez les jeunes spécimens, à surface devenant
+    ± brillante lorsque mature, avec centre brun olivâtre à noirâtre, gris-olivâtre
+    vers la marge et olivâtre à gris olivâtre pâle, chrome pâle ou jaune paille chez
+    les jeunes spécimens
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -79,7 +82,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Littéralement, son nom signifie le Lactaire laid ! »
+  commentaires: De Claude Kaufholtz-Couture. « Littéralement, son nom signifie le
+    Lactaire laid ! »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -172,7 +176,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à ± décurrentes, étroites à sublarges, serrées, un peu bifurquées, blanchâtres puis crème pâle à crème grisâtre
+  lames: adnées à ± décurrentes, étroites à sublarges, serrées, un peu bifurquées,
+    blanchâtres puis crème pâle à crème grisâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +210,10 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 16-65 x 9-30 mm Ø, cylindrique, épais-trapu et court, parfois légèrement comprimé ; surface lisse, légèrement visqueuse, ensuite sèche ; s'affinant vers la base, scrobiculé, gris pâle à olivâtre à gris-olivâtre, plus pâle à l'apex, devenant brun-olivâtre
+  pied: 16-65 x 9-30 mm Ø, cylindrique, épais-trapu et court, parfois légèrement comprimé
+    ; surface lisse, légèrement visqueuse, ensuite sèche ; s'affinant vers la base,
+    scrobiculé, gris pâle à olivâtre à gris-olivâtre, plus pâle à l'apex, devenant
+    brun-olivâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,8 +244,10 @@ description:
     <b>Heilmann-Clausen, J. ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
     <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = le chapeau et le stipe se colorent améthyste, violet
+  reactions-macrochimiques: 'Potasse (KOH 10%) = le chapeau et le stipe se colorent
+    améthyste, violet
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -276,3 +286,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

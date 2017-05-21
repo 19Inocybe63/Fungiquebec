@@ -1,41 +1,39 @@
 ---
+title: Lycoperdon Perlatum
+date: 2017-03-25 00:00:00 Z
 nom: Lycoperdon perlatum
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/3/2946/15165489459_e68be80594_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15165489459/in/photolist-p786Ec-poACwf/
 album-flickr:
-  - 72157675570525760
-
+- 72157675570525760
 details:
   nom-francais: Vesse-de-loup perlée
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lycoperdon
-  espece: <i>Lycoperdon perlatum</i> Pers.
+  espece: "<i>Lycoperdon perlatum</i> Pers."
   litterature: Persoon, C.H. 1796. Observationes mycologicae. 1:1-116
-
 collections:
-  - fongarium: cKc0270
-    date: 25 septembre 2014
-    planche:
-      numero: cKc0270-0145
-      miniature: https://c2.staticflickr.com/6/5692/31184857081_a0f987d95d_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/31184857081/in/photostream/
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0566
-    date: 24 septembre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0270
+  date: 25 septembre 2014
+  planche:
+    numero: cKc0270-0145
+    miniature: https://c2.staticflickr.com/6/5692/31184857081_a0f987d95d_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31184857081/in/photostream/
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0566
+  date: 24 septembre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +54,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, bisporiques à tétrasporiques, non bouclées, vide optique, 7-10 x 4-5 µm
+  basides: claviformes, bisporiques à tétrasporiques, non bouclées, vide optique,
+    7-10 x 4-5 µm
   basidiospores: |
     globuleuses, finement verruqueuses, formant parfois des petites plaques verruqueuses allant entre 0,3-0,6 µm Ø, à paroi mince à légèrement épaissie, avec pédicelle, à contenu uniguttulé à variable, hyalines à grisâtre pâle dans E.G. 20%, dextrinoïdes, cyanophiles
     (3,5) 3,6 - 4,1 (4,2) × (3,4) 3,5 - 4 (4,1) µm
@@ -64,13 +63,22 @@ description:
     Me = 3,9 × 3,8 µm ; Qe = 1
     (Piximètre formule classique ; mesures non issues d'une sporée, dans E.G. 20%)
   basidioles: 
-  basidiome: 20-100 mm Ø, 15-90 mm Ø, subglobuleux, piriforme à turbiné, ± mamelonné au sommet, avec base stipitiforme bien développée, abruptement atténuée, occupant la demi ou plus du basidiome, souvent persistant, souvent plissé à sillonné sous la tête, à exopéridium avec épines de deux types, coniques-obtuses, 1-2 mm de hauteur, solitaires, plus grosses et nombreuses vers l'apex, molles, labiles et laissant des cicatrices rondes et pâles à la disparition, espacées de nombreuses épines, verrues ou granules plus petits, peu visibles, persistantes, la base étant ornée de plus petits aiguillons encore, blancs puis crème, jaune-brun ou brun foncé
+  basidiome: 20-100 mm Ø, 15-90 mm Ø, subglobuleux, piriforme à turbiné, ± mamelonné
+    au sommet, avec base stipitiforme bien développée, abruptement atténuée, occupant
+    la demi ou plus du basidiome, souvent persistant, souvent plissé à sillonné sous
+    la tête, à exopéridium avec épines de deux types, coniques-obtuses, 1-2 mm de
+    hauteur, solitaires, plus grosses et nombreuses vers l'apex, molles, labiles et
+    laissant des cicatrices rondes et pâles à la disparition, espacées de nombreuses
+    épines, verrues ou granules plus petits, peu visibles, persistantes, la base étant
+    ornée de plus petits aiguillons encore, blancs puis crème, jaune-brun ou brun
+    foncé
   bibliographies: 
   biotopes: pousse au sol, humus et litière des forêts de feuillus ou conifères
   boucles: 
   brachybasidioles: 
   calicule: 
-  capillitium: réseau d'hyphes stériles non septé, à paroi épaisse, parfois bosselé, ramifié, hyalines dans E.G. 10%, se colore dans la Phloxine B, 2-7 µm Ø
+  capillitium: réseau d'hyphes stériles non septé, à paroi épaisse, parfois bosselé,
+    ramifié, hyalines dans E.G. 10%, se colore dans la Phloxine B, 2-7 µm Ø
   capitule: 
   caulobasides: 
   caulocystides: 
@@ -84,7 +92,7 @@ description:
   chair: 
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -93,7 +101,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Le carmin acétique de Sémichon fait ressortir davantage les petites plaques verruqueuses des basidiospores. »
+  commentaires: De Claude Kaufholtz-Couture. « Le carmin acétique de Sémichon fait
+    ressortir davantage les petites plaques verruqueuses des basidiospores. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -145,7 +154,8 @@ description:
   exhalaison: 
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
-  exoperidium: formé de sphérocytes irrégulièrement arrondies à anguleuses, (9,3) 12,2 - 18,6 (21,9) × (9,3) 11,7 - 15,9 (16,4) µm en moyenne
+  exoperidium: formé de sphérocytes irrégulièrement arrondies à anguleuses, (9,3)
+    12,2 - 18,6 (21,9) × (9,3) 11,7 - 15,9 (16,4) µm en moyenne
   extremites-hyphales: 
   face-externe: 
   face-poroïde: 
@@ -209,7 +219,8 @@ description:
   nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
-  paracapillitium: abondant, non bouclé, septé, à paroi mince, hyalines dans E.G. 10%, ne se colore pas dans la Phloxine B, 2-5 µm Ø
+  paracapillitium: abondant, non bouclé, septé, à paroi mince, hyalines dans E.G.
+    10%, ne se colore pas dans la Phloxine B, 2-5 µm Ø
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
@@ -258,7 +269,11 @@ description:
   remarques: 
   repartition: 
   rhizomorphes: 
-  sac-sporifere: à endopéridium irrégulièrement aréolé-réticulé après la perte des aiguillons, puis sublisse, membraneux, tenace, surtout vers l'apex, crème puis brunâtre, s'ouvrant par un grand pore apical irrégulier et étoilé, avec sous-glèbe brun olive ou brun chocolat à maturité, avec logettes assez grandes, jusqu'à 1 mm de largeur
+  sac-sporifere: à endopéridium irrégulièrement aréolé-réticulé après la perte des
+    aiguillons, puis sublisse, membraneux, tenace, surtout vers l'apex, crème puis
+    brunâtre, s'ouvrant par un grand pore apical irrégulier et étoilé, avec sous-glèbe
+    brun olive ou brun chocolat à maturité, avec logettes assez grandes, jusqu'à 1
+    mm de largeur
   saveur: 
   sclerocystides: 
   sclerote: 
@@ -273,8 +288,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Lycoperdon gemmatum var. perlatum</i> (Pers.) Fr., Systema Mycologicum 3:37 (1829)
+  synonymie: "<i>Lycoperdon gemmatum var. perlatum</i> (Pers.) Fr., Systema Mycologicum
+    3:37 (1829)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -290,3 +305,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

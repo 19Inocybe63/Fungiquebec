@@ -1,81 +1,80 @@
 ---
+title: Pholiota Marginella
+date: 2017-03-25 00:00:00 Z
 nom: Pholiota marginella
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/3/2936/14229296896_c8eebbe971_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14229296896/in/photolist-rYoUD4-nHeZ4S-nFoSe7
 album-flickr:
-  - 72157677390708211
-
+- 72157677390708211
 details:
   nom-francais: Pholiote marginée
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: <i>Pholiota marginella</i> Peck
-  litterature: Peck, C.H. 1898. Report of the State Botanist (1897). Annual Report on the New York State Museum of Natural History. 51:265-321
-
+  espece: "<i>Pholiota marginella</i> Peck"
+  litterature: Peck, C.H. 1898. Report of the State Botanist (1897). Annual Report
+    on the New York State Museum of Natural History. 51:265-321
 collections:
-  - fongarium: sans numéro
-    date: 3 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0137
-    date: 23 mai 2014
-    planche:
-      numero: cKc0137-0082
-      miniature: https://c2.staticflickr.com/8/7626/17047112517_7b379b404d_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/17047112517/in/photolist-rYoUD4-nHeZ4S-nFoSe7
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0156
-    date: 29 mai 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0157
-    date: 1 juin 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0158
-    date: 1 juin 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: sans numéro
-    date: 28 mai 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 3 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0137
+  date: 23 mai 2014
+  planche:
+    numero: cKc0137-0082
+    miniature: https://c2.staticflickr.com/8/7626/17047112517_7b379b404d_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/17047112517/in/photolist-rYoUD4-nHeZ4S-nFoSe7
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0156
+  date: 29 mai 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0157
+  date: 1 juin 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0158
+  date: 1 juin 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: sans numéro
+  date: 28 mai 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -96,7 +95,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à claviformes, bisporiques à tétrasporiques, non bouclées à la base 16,7 [18,9; 21,7] 24 x 6,9 [7,2; 7,6] 7,9 µm
+  basides: piriformes à claviformes, bisporiques à tétrasporiques, non bouclées à
+    la base 16,7 [18,9; 21,7] 24 x 6,9 [7,2; 7,6] 7,9 µm
   basidiospores: |
     elliptiques à ovoïdales en vue frontale, largement elliptiques à elliptiques vues de profil, quelque peu tronquées, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilare et pore germinatif pas toujours bien visible 0,9-1,2 µm Ø, à contenu homogène, brun pâle dans le NaCl iso 0,9%, brun rougeâtre dans le melzer, non cyanophiles
     6,4 [7,1; 7,5] 8,2 x 3,8 [4,2; 4,4] 4,7 µm
@@ -112,7 +112,9 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: présentes surtout à l’apex du stipe, en faisceaux ou isolées, en générales semblables aux cheilocystides, mais parfois cylindriques septées, subfusiformes, sublagéniformes à subtibiformes
+  caulocystides: présentes surtout à l’apex du stipe, en faisceaux ou isolées, en
+    générales semblables aux cheilocystides, mais parfois cylindriques septées, subfusiformes,
+    sublagéniformes à subtibiformes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -122,9 +124,13 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau
   chancre: 
-  chapeau: 10-25 mm Ø, convexe puis étalé, visqueux lorsque humide, glabre, hygrophane du centre vers la marge, fauve à brun orangé frais, beige pâle au sec, à marge parfois un peu translucide-striée ; orné de fibrilles blanchâtres au début
-  cheilochrysocystides:
-  cheilocystides: abondantes, subulati avec long col, à base ampullacée, lagéniformes avec apex cylindriques à subcapitées et parfois avec des granulations 32,9 [40; 43,9] 51 x 6,2 [7,7; 8,5] 10 µm
+  chapeau: 10-25 mm Ø, convexe puis étalé, visqueux lorsque humide, glabre, hygrophane
+    du centre vers la marge, fauve à brun orangé frais, beige pâle au sec, à marge
+    parfois un peu translucide-striée ; orné de fibrilles blanchâtres au début
+  cheilochrysocystides: 
+  cheilocystides: abondantes, subulati avec long col, à base ampullacée, lagéniformes
+    avec apex cylindriques à subcapitées et parfois avec des granulations 32,9 [40;
+    43,9] 51 x 6,2 [7,7; 8,5] 10 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -228,7 +234,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à sinuées, subserrées, avec lamelles et de lamellules, brunâtres au début, puis brun rouille à maturité
+  lames: adnées à sinuées, subserrées, avec lamelles et de lamellules, brunâtres au
+    début, puis brun rouille à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -261,7 +268,8 @@ description:
   peritheces: 
   phenologie: de mai à juin
   phialoconidies: 
-  pied: 38 x 4 mm Ø, cylindrique, égal, farci puis creux, fibrilleux, crème ou brunâtre, parfois avec un mycélium basal blanc
+  pied: 38 x 4 mm Ø, cylindrique, égal, farci puis creux, fibrilleux, crème ou brunâtre,
+    parfois avec un mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -338,3 +346,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

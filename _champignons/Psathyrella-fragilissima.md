@@ -1,31 +1,30 @@
 ---
+title: Psathyrella Fragilissima
+date: 2017-03-25 00:00:00 Z
 nom: Psathyrella fragilissima
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5680/20383173670_09a3b14d86_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20383173670/in/photolist-xiuhow-x4c6Mm-x4c6oN/
 album-flickr:
-  - 72157677417297456
-
+- 72157677417297456
 details:
   nom-francais: 
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
-  espece: <i>Psathyrella fragilissima</i> (Kauffman) A.H. Sm.
-  litterature: Smith, A.H. 1972. The North American species of Psathyrella. Memoirs of the New York Botanical Garden. 24:1-633
-
+  espece: "<i>Psathyrella fragilissima</i> (Kauffman) A.H. Sm."
+  litterature: Smith, A.H. 1972. The North American species of Psathyrella. Memoirs
+    of the New York Botanical Garden. 24:1-633
 collections:
-  - fongarium: cKc0404
-    date: 14 août 2015
-    planche:
-      numero: cKc0404-0099
-      miniature: https://c1.staticflickr.com/1/621/22412667285_e1a52acfe4_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/22412667285/in/photolist-A9wM92-xiuhow-x4c6Mm-x4c6oN
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0404
+  date: 14 août 2015
+  planche:
+    numero: cKc0404-0099
+    miniature: https://c1.staticflickr.com/1/621/22412667285_e1a52acfe4_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/22412667285/in/photolist-A9wM92-xiuhow-x4c6Mm-x4c6oN
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, bouclées à la base, à contenu granuleux, 27 [30; 34] 36 x 11 [12; 13,5] 14 µm
+  basides: claviformes, tétrasporiques, bouclées à la base, à contenu granuleux, 27
+    [30; 34] 36 x 11 [12; 13,5] 14 µm
   basidiospores: |
     elliptiques en vue frontale, elliptiques à oblongues allongées vues de profil, tronquées, lisses, à paroi mince à légèrement épaissie, avec petit appendice hilaire, pore germinatif central distinct entre 2,0-2,5 µm Ø, à contenu homogène [majoritairement uniguttulé à biguttulé, à variable avec technique à chaud dans le NH<sub>4</sub>OH 2%], brun à brun foncé dans le NaCl iso 0,9%, brun rougeâtre dans le melzer, gris pourpre dans l’acide sulfurique 80%, gris noirâtre dans le KOH 5%, non cyanophiles
     12,5 [13,5; 13,9] 14,9 x 6,3 [7; 7,3] 7,9 µm
@@ -62,7 +62,9 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: peu abondantes, surtout en amas, souvent difformes à sublagéniformes 35,4 x 10,4 µm en  moyenne, subfusiformes 26,3 [26,4; 27] 27,1 x 8,2 [8,5; 10,3] 10,7 µm
+  caulocystides: peu abondantes, surtout en amas, souvent difformes à sublagéniformes
+    35,4 x 10,4 µm en  moyenne, subfusiformes 26,3 [26,4; 27] 27,1 x 8,2 [8,5; 10,3]
+    10,7 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -72,9 +74,12 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 6-40 mm Ø, conique-campanulé, mamelonné, glabre, crème, grisâtre avec des teintes rosâtres, hygrophane
-  cheilochrysocystides:
-  cheilocystides: abondantes, versiformes, difformes, sublagéniformes à lagéniformes avec parfois un col légèrement flexueux, rarement fusiformes, 26,4 [42,2; 58] 60,8 x 10 [13,9; 17,8] 21,7 µm
+  chapeau: 6-40 mm Ø, conique-campanulé, mamelonné, glabre, crème, grisâtre avec des
+    teintes rosâtres, hygrophane
+  cheilochrysocystides: 
+  cheilocystides: abondantes, versiformes, difformes, sublagéniformes à lagéniformes
+    avec parfois un col légèrement flexueux, rarement fusiformes, 26,4 [42,2; 58]
+    60,8 x 10 [13,9; 17,8] 21,7 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,7 +213,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 10-81 x 1-5 mm Ø, cylindrique et parfois légèrement flexueux vers la base, beige pâle, cotonneux blanchâtre par endroit, semble avoir un petit bulbe à la base, dont le mycélium basale est attaché fermement au substrat
+  pied: 10-81 x 1-5 mm Ø, cylindrique et parfois légèrement flexueux vers la base,
+    beige pâle, cotonneux blanchâtre par endroit, semble avoir un petit bulbe à la
+    base, dont le mycélium basale est attaché fermement au substrat
   pieds-steriles: 
   pigments: 
   pileipellis: formé de 2 à 3 couches de cellules vésiculeuses
@@ -216,7 +223,8 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles, lagéniformes, 45,6 [51,6; 63,5] 69,4 x 14,6 [16,1; 19,1] 20,6 µm
+  pleurocystides: occasionnelles, lagéniformes, 45,6 [51,6; 63,5] 69,4 x 14,6 [16,1;
+    19,1] 20,6 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -281,3 +289,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,51 +1,49 @@
 ---
+title: Lepiota Cristata
+date: 2017-03-25 00:00:00 Z
 nom: Lepiota cristata
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7403/9126745733_af90e42d4e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9126745733/in/photolist-BJxJfm-wMd74K-eUuXx4-eUGkvN-eUF9pL-eUEToS-dfHuSE
 album-flickr:
-  - 72157675908715850
-
+- 72157675908715850
 details:
   nom-francais: Lepiote cretée
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lepiota
-  espece: <i>Lepiota cristata</i> (Bolton) P. Kumm.
+  espece: "<i>Lepiota cristata</i> (Bolton) P. Kumm."
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-
 collections:
-  - fongarium: sans numéro
-    date: 30 septembre 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°54'03.96"N 71°10'40.83"O
-    elevation: 145 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0050
-    date: 24 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0388
-    date: 1 août 2015
-    planche:
-      numero: cKc0388-0106
-      miniature: https://c2.staticflickr.com/6/5650/23453970304_0fd268d4c9_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/23453970304/in/photolist-BJxJfm-wMd74K-eUuXx4-eUGkvN-eUF9pL-eUEToS-dfHuSE
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 30 septembre 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°54'03.96"N 71°10'40.83"O
+  elevation: 145 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0050
+  date: 24 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0388
+  date: 1 août 2015
+  planche:
+    numero: cKc0388-0106
+    miniature: https://c2.staticflickr.com/6/5650/23453970304_0fd268d4c9_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/23453970304/in/photolist-BJxJfm-wMd74K-eUuXx4-eUGkvN-eUF9pL-eUEToS-dfHuSE
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -66,7 +64,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à trapus ovoïdes, tétrasporiques, bouclées à la base, hyalines dans le NaCl iso 0,9%, 13-18 x 5-7 µm en moyenne
+  basides: claviformes à trapus ovoïdes, tétrasporiques, bouclées à la base, hyalines
+    dans le NaCl iso 0,9%, 13-18 x 5-7 µm en moyenne
   basidiospores: |
     elliptiques en vue frontale, subtriangulaires à en éperons ou en forme d’obus vues de profil, tronquées, lisses, à paroi mince, avec appendice hilaire latéral proéminent, sans pore germinatif distinct, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, partiellement cyanophiles à cyanophiles
     (5,3) 5,9-7,3 (8,2) x (2,8) 2,8-3,3 (3,8) µm
@@ -92,9 +91,15 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, blanche, immuable, rosâtre dans le pied
   chancre: 
-  chapeau: 15-50 mm Ø, ovoïde, conique-convexe à campanulé puis étalé, légèrement umboné, sec, lisse au début ; à cuticule vite rompue en petites écailles ± concentriques ochracées ; roussâtres, brun foncé, brun rougeâtre ou rouge vin, plus pâles vers la marge et à disque brun orangé à brun, sur fond blanchâtre à crème pâle ; à marge longtemps incurvée, aiguë, parfois frangée de restes vélaires, légèrement ondulée avec l'âge ; souvent sans cuticule
-  cheilochrysocystides:
-  cheilocystides: abondantes, polymorphes, claviformes, piriformes à turbinées, à paroi mince, lisses, hyalines dans le NaCl iso 0,9%, 14,5-37 x 7-13 µm en moyenne
+  chapeau: 15-50 mm Ø, ovoïde, conique-convexe à campanulé puis étalé, légèrement
+    umboné, sec, lisse au début ; à cuticule vite rompue en petites écailles ± concentriques
+    ochracées ; roussâtres, brun foncé, brun rougeâtre ou rouge vin, plus pâles vers
+    la marge et à disque brun orangé à brun, sur fond blanchâtre à crème pâle ; à
+    marge longtemps incurvée, aiguë, parfois frangée de restes vélaires, légèrement
+    ondulée avec l'âge ; souvent sans cuticule
+  cheilochrysocystides: 
+  cheilocystides: abondantes, polymorphes, claviformes, piriformes à turbinées, à
+    paroi mince, lisses, hyalines dans le NaCl iso 0,9%, 14,5-37 x 7-13 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -151,7 +156,8 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: forte, désagréable, ± d'oignon pourri ou de caoutchouc, parfois agréable et fragrante
+  exhalaison: forte, désagréable, ± d'oignon pourri ou de caoutchouc, parfois agréable
+    et fragrante
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -195,7 +201,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, étroites à subventrues, 3-4 mm de largeur, avec lamellules, serrées, blanches ou chamois, à arêtes finement crénelées
+  lames: libres, étroites à subventrues, 3-4 mm de largeur, avec lamellules, serrées,
+    blanches ou chamois, à arêtes finement crénelées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -228,7 +235,10 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 20-70 x 2-5 mm Ø, élancé, égal ou élargi vers la base, droit ou légèrement flexueux, fragile, lâchement farci à creux, lisse et brillant ou finement fibrilleux-soyeux, blanchâtre vers l'apex, tan rosâtre pâle, lavande sombre à brun rougeâtre vers la base, avec mycélium basal blanc
+  pied: 20-70 x 2-5 mm Ø, élancé, égal ou élargi vers la base, droit ou légèrement
+    flexueux, fragile, lâchement farci à creux, lisse et brillant ou finement fibrilleux-soyeux,
+    blanchâtre vers l'apex, tan rosâtre pâle, lavande sombre à brun rougeâtre vers
+    la base, avec mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -300,7 +310,10 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: membraneux, blanc, laissant un petit anneau supère, fragile, déchiré, blanchâtre, parfois fugace, formé d'hyphes bouclées, avec présence parfois de cheilocystides (je crois...)
+  voile-partiel: membraneux, blanc, laissant un petit anneau supère, fragile, déchiré,
+    blanchâtre, parfois fugace, formé d'hyphes bouclées, avec présence parfois de
+    cheilocystides (je crois...)
   volve: 
   zone-perihymeniale: 
 ---
+

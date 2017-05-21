@@ -1,51 +1,51 @@
 ---
+title: Laccaria Bicolor
+date: 2017-03-25 00:00:00 Z
 nom: Laccaria bicolor
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5557/15198063431_dcaedc9351_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15198063431/in/photolist-pa13Lp-oSMn45
 album-flickr:
-  - 72157679350037855
-
+- 72157679350037855
 details:
   nom-francais: Laccaire bicolore
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
-  espece: <i>Laccaria bicolor</i> (Maire) P.D. Orton
-  litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
-
+  espece: "<i>Laccaria bicolor</i> (Maire) P.D. Orton"
+  litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part
+    III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus
+    and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
 collections:
-  - fongarium: sans numéro
-    date: 24 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-  - fongarium: sans numéro
-    date: 27 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0247
-    date: 10 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 24 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
+- fongarium: sans numéro
+  date: 27 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
+- fongarium: cKc0247
+  date: 10 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -88,8 +88,11 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 20-60 mm Ø, convexe puis étalé, légèrement umboné et parfois légèrement déprimé, pruineux à micacé, squamuleux, hygrophane, orangé à brun orangé, beige rosé pâle au sec, à marge blanchâtre, à marge incurvée à droite, entière à ondulée, souvent érodée
-  cheilochrysocystides:
+  chapeau: 20-60 mm Ø, convexe puis étalé, légèrement umboné et parfois légèrement
+    déprimé, pruineux à micacé, squamuleux, hygrophane, orangé à brun orangé, beige
+    rosé pâle au sec, à marge blanchâtre, à marge incurvée à droite, entière à ondulée,
+    souvent érodée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -193,7 +196,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, larges, espacées, avec plusieurs lamellules, lilacées au début, puis rose pâle, à arêtes légèrement érodées
+  lames: adnées à subdécurrentes, larges, espacées, avec plusieurs lamellules, lilacées
+    au début, puis rose pâle, à arêtes légèrement érodées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -227,7 +231,9 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-90 x 2-10 mm Ø, cylindrique, égal à légèrement élargi vers la base, légèrement flexueux, creux, torsadé à fibrilleux, tenace, concolore au chapeau, avec mycélium basal abondant, lilas au début et au frais
+  pied: 30-90 x 2-10 mm Ø, cylindrique, égal à légèrement élargi vers la base, légèrement
+    flexueux, creux, torsadé à fibrilleux, tenace, concolore au chapeau, avec mycélium
+    basal abondant, lilas au début et au frais
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -253,8 +259,11 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales) in the Continental United States and Canada, with Discussions on Extralimital Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30, Published by Field Museum of Natural History, June 1992, Publication 1435, 180 p.
+  publications: "<b>Mueller, Gregory M</b>. <i>Systematics of Laccaria (Agaricales)
+    in the Continental United States and Canada, with Discussions on Extralimital
+    Taxa and Descriptions of Extant Types</i>, Fieldiana, Botany New Series N° 30,
+    Published by Field Museum of Natural History, June 1992, Publication 1435, 180
+    p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -296,3 +305,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

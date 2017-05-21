@@ -1,41 +1,40 @@
 ---
+title: Plicaturopsis Crispa
+date: 2017-05-16 00:00:00 Z
 nom: Plicaturopsis crispa
-date: 2017-05-16 00:00:00
 image: https://c2.staticflickr.com/6/5754/22047993816_fd80d44ac8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/22047993816/in/photolist-CCLgNz-yFJm6a-zAiJqq
 album-flickr:
-  - 72157674433576544
-
+- 72157674433576544
 details:
   nom-francais: Plicature crispée
   ordre: Agaricales
   famille: Incertae sedis
   genre: Plicaturopsis
-  espece: <i>Plicaturopsis crispa</i> (Pers.) D.A. Reid
-  litterature: Reid, D.A. 1964. Notes on some fungi of Michigan-I. Cyphellaceae. Persoonia. 3:97-154
-
+  espece: "<i>Plicaturopsis crispa</i> (Pers.) D.A. Reid"
+  litterature: Reid, D.A. 1964. Notes on some fungi of Michigan-I. Cyphellaceae. Persoonia.
+    3:97-154
 collections:
-  - fongarium: sans numéro
-    date: 20 octobre 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°56'39.7"N 71°18'14.0"O
-    elevation: 212 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0487
-    date: 10 octobre 2015
-    planche:
-      numero: cKc0487-0110
-      miniature: https://c2.staticflickr.com/2/1638/24044875593_a56382caae_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/24044875593/in/photolist-CCLgNz-yFJm6a-zAiJqq
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 20 octobre 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°56'39.7"N 71°18'14.0"O
+  elevation: 212 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0487
+  date: 10 octobre 2015
+  planche:
+    numero: cKc0487-0110
+    miniature: https://c2.staticflickr.com/2/1638/24044875593_a56382caae_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/24044875593/in/photolist-CCLgNz-yFJm6a-zAiJqq
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,13 +55,22 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: formant une palissade dense, cylindriques à subcylindriques, claviformes à subclaviformes, tétrasporiques, bouclées à la base, 19,5-28 x 4-5 µm en moyenne
-  basidiospores: |
-    cylindriques, allantoïdes, lisses, à paroi mince, à contenu biguttulé, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes, 3-5 x 1-1,5 µm
+  basides: formant une palissade dense, cylindriques à subcylindriques, claviformes
+    à subclaviformes, tétrasporiques, bouclées à la base, 19,5-28 x 4-5 µm en moyenne
+  basidiospores: 'cylindriques, allantoïdes, lisses, à paroi mince, à contenu biguttulé,
+    hyalines dans le NaCl iso 0,9%, faiblement amyloïdes, 3-5 x 1-1,5 µm
+
+'
   basidioles: 
-  basidiome: flabelliforme, de structure anatomique en forme de coupe, grégaire, douce quand elle est fraîche, fragile lorsqu'il est sec, non stipité ou avec une zone plus ou moins rétréci à la base élaborant ainsi un semblant de stipe, surface au abord blanchâtre brun, puis ochracé, finement veloutée, hyménophore plié de façon irrégulière, anastomosé, blanc au premier abord, avec assombrissement des spécimens plus âgés ou sec, à marge lobée
+  basidiome: flabelliforme, de structure anatomique en forme de coupe, grégaire, douce
+    quand elle est fraîche, fragile lorsqu'il est sec, non stipité ou avec une zone
+    plus ou moins rétréci à la base élaborant ainsi un semblant de stipe, surface
+    au abord blanchâtre brun, puis ochracé, finement veloutée, hyménophore plié de
+    façon irrégulière, anastomosé, blanc au premier abord, avec assombrissement des
+    spécimens plus âgés ou sec, à marge lobée
   bibliographies: 
-  biotopes: pousse sur bois de feuillus (<i>Fagus</i>) écorces et bois mort et vivant, branches et troncs tombés ou debout
+  biotopes: pousse sur bois de feuillus (<i>Fagus</i>) écorces et bois mort et vivant,
+    branches et troncs tombés ou debout
   boucles: en forme d'anneaux, ou de bagues, observées dans l'hyménium
   brachybasidioles: 
   calicule: 
@@ -77,10 +85,11 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, membranaire, molle, élastique et flexible au frais et au début, dure et cassante au sec
+  chair: mince, membranaire, molle, élastique et flexible au frais et au début, dure
+    et cassante au sec
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -157,7 +166,9 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: absentes
-  hymenophore: lamellé-veiné, plissé radialement, à rides ou côtes fortement sinueuses, fourchues et anastomosées, ramifiées dichotomiquement, blanc glauque, blanc sombre, grisâtres à gris ocré, à marge inégale-crispée
+  hymenophore: lamellé-veiné, plissé radialement, à rides ou côtes fortement sinueuses,
+    fourchues et anastomosées, ramifiées dichotomiquement, blanc glauque, blanc sombre,
+    grisâtres à gris ocré, à marge inégale-crispée
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -281,7 +292,9 @@ description:
     <i>Scytinotus crispus</i> (Pers.) Spirin & Zmitr., Folia Cryptogamica Petropolitana 1:108 (2004)
     <i>Merulius fagineus</i> Schrad., Spicilegium Florae Germanicae:137 (1794)
     <i>Lentinus unduletellus</i> Britzelm., Botanisches Centralblatt 54 (4):101, pl. 19 (1893)
-  systeme-hyphal: monomitique, minces à paroi épaisse, 3-7 µm de large, certaines avec septa, brunes se terminant parfois densément, agglomérés au sommet, surtout chez les sujets âgés
+  systeme-hyphal: monomitique, minces à paroi épaisse, 3-7 µm de large, certaines
+    avec septa, brunes se terminant parfois densément, agglomérés au sommet, surtout
+    chez les sujets âgés
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 
@@ -296,3 +309,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,51 +1,50 @@
 ---
+title: Boletus Separans
+date: 2017-03-18 00:00:00 Z
 nom: Boletus separans
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/420/20356478421_2ed6c3bb97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20356478421/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA
 album-flickr:
-  - 72157674646281881
-
+- 72157674646281881
 details:
   nom-francais: Bolet à tubes détachés
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
-  espece: <i>Boletus separans</i> Peck
-  litterature: Peck, C.H. 1873. Descriptions of new species of fungi. Bulletin of the Buffalo Society of Natural Sciences. 1:41-72
-  
+  espece: "<i>Boletus separans</i> Peck"
+  litterature: Peck, C.H. 1873. Descriptions of new species of fungi. Bulletin of
+    the Buffalo Society of Natural Sciences. 1:41-72
 collections:
-  - fongarium: cKc0210
-    date: 18 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0215
-    date: 25 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0395
-    date: 6 août 2015
-    planche:
-      numero: cKc0395-0119
-      miniature: https://c2.staticflickr.com/2/1684/25452062963_74b7a5b3be_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/25452062963/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0210
+  date: 18 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0215
+  date: 25 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0395
+  date: 6 août 2015
+  planche:
+    numero: cKc0395-0119
+    miniature: https://c2.staticflickr.com/2/1684/25452062963_74b7a5b3be_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/25452062963/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -83,7 +82,9 @@ description:
   capillitium: 
   capitule: 
   caulobasides: présentes sur toute la longueur du stipe
-  caulocystides: abondantes sur toute la longueur du stipe, digitées à pluridigitées, rostrées, fusiformes à largement fusiformes, 40 - 90 × (5,2) 5,25 - 24,88 (24,9) µm
+  caulocystides: abondantes sur toute la longueur du stipe, digitées à pluridigitées,
+    rostrées, fusiformes à largement fusiformes, 40 - 90 × (5,2) 5,25 - 24,88 (24,9)
+    µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -93,7 +94,9 @@ description:
   cellules-stromatiques: 
   chair: crème pâle, immuable, rougeâtre près de la cuticule
   chancre: 
-  chapeau: 60-180 mm Ø, convexe, convexe à étalé à maturité, cuticule un peu collante lorsque imbue, glabre avec l'âge rouge foncé mat virant au brun, ou bai-brun, avec une voile ochracé près de la marge
+  chapeau: 60-180 mm Ø, convexe, convexe à étalé à maturité, cuticule un peu collante
+    lorsque imbue, glabre avec l'âge rouge foncé mat virant au brun, ou bai-brun,
+    avec une voile ochracé près de la marge
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -226,10 +229,13 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 100-240 x 6-20 mm Ø, cylindrique, élargi vers le bas, finement réticulé, ± concolore avec ou plus pâle que le chapeau, glabre, blanchâtre, chair blanche
+  pied: 100-240 x 6-20 mm Ø, cylindrique, élargi vers le bas, finement réticulé, ±
+    concolore avec ou plus pâle que le chapeau, glabre, blanchâtre, chair blanche
   pieds-steriles: 
   pigments: 
-  pileipellis: en épithélium formant une palissade de cellules terminales emmêlées fusiformes à ventrues, (17) 18,7 - 24 (28,8) × (6,7) 7,9 - 12,7 (17,7) µm en moyenne, d'où émerge de longues hyphes 43-47,7 × 4-4,7 µm en moyenne
+  pileipellis: en épithélium formant une palissade de cellules terminales emmêlées
+    fusiformes à ventrues, (17) 18,7 - 24 (28,8) × (6,7) 7,9 - 12,7 (17,7) µm en moyenne,
+    d'où émerge de longues hyphes 43-47,7 × 4-4,7 µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -292,7 +298,9 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: adnés devenant déprimés, blanchâtres, jaunâtres lentement ternes à ochracé terne (non olivacé), immuables, blancs au début, devenant jaune pâle, mais pas de coloration bleue, 1-2 mm, rond ou presque
+  tubes: adnés devenant déprimés, blanchâtres, jaunâtres lentement ternes à ochracé
+    terne (non olivacé), immuables, blancs au début, devenant jaune pâle, mais pas
+    de coloration bleue, 1-2 mm, rond ou presque
   type: 
   typique: 
   voile: 
@@ -301,3 +309,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,29 @@
 ---
+title: Hymenopellis Megalospora
+date: 2017-03-25 00:00:00 Z
 nom: Hymenopellis megalospora
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8238/8354287809_dd005d69e3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8354287809/in/photolist-dKiztv-dJeNnK-dJeUGZ
 album-flickr:
-  - 72157676407457940
-
+- 72157676407457940
 details:
   nom-francais: Collybie à grandes spores
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Hymenopellis
-  espece: <i>Hymenopellis megalospora</i> (Clem.) R.H. Petersen
-  litterature: (Clem.) R.H. Petersen, Nova Hedwigia, 137, 181, 2010
-
+  espece: "<i>Hymenopellis megalospora</i> (Clem.) R.H. Petersen"
+  litterature: "(Clem.) R.H. Petersen, Nova Hedwigia, 137, 181, 2010"
 collections:
-  - fongarium: cKc0038
-    date: 26 août 2012
-    planche:
-      numero: cKc0038-0011
-      miniature: https://c1.staticflickr.com/9/8056/8366320055_6474236d7e_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8366320055/in/photolist-dKiztv-dJeNnK-dJeUGZ
-    geolocalisation: 
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0038
+  date: 26 août 2012
+  planche:
+    numero: cKc0038-0011
+    miniature: https://c1.staticflickr.com/9/8056/8366320055_6474236d7e_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8366320055/in/photolist-dKiztv-dJeNnK-dJeUGZ
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à légèrement piriformes, tétrasporiques, bouclées à la base, 55-60(61,5) x 13-14(15,2) µm en moyenne
+  basides: cylindriques à légèrement piriformes, tétrasporiques, bouclées à la base,
+    55-60(61,5) x 13-14(15,2) µm en moyenne
   basidiospores: |
     ellipsoïdes à amygdaliformes, ridulées, à paroi légèrement épaissie, avec appendice hilaire proéminent, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     16,6 [18,5; 19,2] 21 x 10,7 [11,6; 12] 12,9 µm
@@ -55,14 +54,16 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, pelouse, sur bois de feuillus enfouis, près des souches ou sur racines vivantes enfuies
+  biotopes: pousse au sol, pelouse, sur bois de feuillus enfouis, près des souches
+    ou sur racines vivantes enfuies
   boucles: abondantes, observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: cylindriques à largement cylindriques, parfois lécythiformes, rarement mucronées, 69,2 x 54,3 µm en moyenne
+  caulocystides: cylindriques à largement cylindriques, parfois lécythiformes, rarement
+    mucronées, 69,2 x 54,3 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -73,8 +74,11 @@ description:
   chair: 
   chancre: 
   chapeau: 83 mm Ø, conique, convexe, visqueux, ridé plissé, brunâtre
-  cheilochrysocystides:
-  cheilocystides: polymorphes et abondantes, lécythiformes à largement clavées et 93,1 x 30,1 µm en moyenne, fusiformes et 52,3 x 8,1 µm en moyenne, à largement fusiformes, parfois cylindriques et parfois cylindriques et élargies vers l'apex, rarement rostrées
+  cheilochrysocystides: 
+  cheilocystides: polymorphes et abondantes, lécythiformes à largement clavées et
+    93,1 x 30,1 µm en moyenne, fusiformes et 52,3 x 8,1 µm en moyenne, à largement
+    fusiformes, parfois cylindriques et parfois cylindriques et élargies vers l'apex,
+    rarement rostrées
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -82,7 +86,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « L'espèce <i>H. megalospora</i> diffère de <i>H. limonispora</i> par la présence de piléocystides. »
+  commentaires: De Claude Kaufholtz-Couture. « L'espèce <i>H. megalospora</i> diffère
+    de <i>H. limonispora</i> par la présence de piléocystides. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -175,7 +180,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, larges, espacées, avec lamellules irrégulières à distribution symétrique, blanches
+  lames: adnées, larges, espacées, avec lamellules irrégulières à distribution symétrique,
+    blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +214,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 103 x 13 mm Ø, élargi un peu vers la base, longuement radicant, avec pseudorhize de 31 mm de long, lisse ou finement strié, blanc
+  pied: 103 x 13 mm Ø, élargi un peu vers la base, longuement radicant, avec pseudorhize
+    de 31 mm de long, lisse ou finement strié, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme
@@ -276,3 +283,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

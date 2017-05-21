@@ -1,31 +1,31 @@
 ---
+title: Parasola Leiocephala
+date: 2017-03-25 00:00:00 Z
 nom: Parasola leiocephala
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/377/18588563623_6dabc39644_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18588563623/in/photolist-un4yyL-ujBfmg
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Coprin glabre
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Parasola
-  espece: <i>Parasola leiocephala</i> (P.D. Orton) Redhead, Vilgalys & Hopple
-  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-
+  espece: "<i>Parasola leiocephala</i> (P.D. Orton) Redhead, Vilgalys & Hopple"
+  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple,
+    J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu
+    lato. Taxon. 50(1):203-241
 collections:
-  - fongarium: cKc0328
-    date: 27 juin 2015
-    planche:
-      numero: cKc0328-0090
-      miniature: https://c1.staticflickr.com/1/456/18616330804_e5f448a919_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/18616330804/in/photostream/
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0328
+  date: 27 juin 2015
+  planche:
+    numero: cKc0328-0090
+    miniature: https://c1.staticflickr.com/1/456/18616330804_e5f448a919_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/18616330804/in/photostream/
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +46,10 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: bimorphiques, longuement clavées, bisporiques à tétrasporiques, non bouclées à la base 28,7 [30,6; 39,6] 41,4 x 8,8 [9,1; 10,7] 11,1 µm en moyenne; courtement clavées, bisporiques à tétrasporiques, non bouclées à la base 21,6 [24,2; 31,1] 33,6 x 11 [11,3; 12] 12,3 µm en moyenne
+  basides: bimorphiques, longuement clavées, bisporiques à tétrasporiques, non bouclées
+    à la base 28,7 [30,6; 39,6] 41,4 x 8,8 [9,1; 10,7] 11,1 µm en moyenne; courtement
+    clavées, bisporiques à tétrasporiques, non bouclées à la base 21,6 [24,2; 31,1]
+    33,6 x 11 [11,3; 12] 12,3 µm en moyenne
   basidiospores: |
     cordiformes à ± à 5 angles en vue frontale, ellipsoïdes vues de profil, lisses, à paroi mince, avec pore germinatif excentré, à contenu uniguttulé
     8,9 [9,8; 10,3] 11,2 x 5,3 [6,3; 6,9] 7,8 µm
@@ -72,9 +75,14 @@ description:
   cellules-stromatiques: 
   chair: membraneuse, fragile
   chancre: 
-  chapeau: 10-35 mm Ø, étroitement ovoïde à ellipsoïde puis convexe à subétalé, parfois légèrement déprimé au disque, chamois jaunâtre, brun fauve à brun rougeâtre au centre, plus pâle et plus gris à chamois grisâtre pâle vers le pourtour, à marge incurvée au début, puis droite et relevée, striée-sillonnée presque jusqu'au centre avec l'âge
-  cheilochrysocystides:
-  cheilocystides: elliptiques à largement elliptiques, ovoïdes à largement ovoïdes, subutriformes,  29,1 [35,2; 43,6] 49,7 x 9,9 [12,4; 15,9] 18,4 µm
+  chapeau: 10-35 mm Ø, étroitement ovoïde à ellipsoïde puis convexe à subétalé, parfois
+    légèrement déprimé au disque, chamois jaunâtre, brun fauve à brun rougeâtre au
+    centre, plus pâle et plus gris à chamois grisâtre pâle vers le pourtour, à marge
+    incurvée au début, puis droite et relevée, striée-sillonnée presque jusqu'au centre
+    avec l'âge
+  cheilochrysocystides: 
+  cheilocystides: elliptiques à largement elliptiques, ovoïdes à largement ovoïdes,
+    subutriformes,  29,1 [35,2; 43,6] 49,7 x 9,9 [12,4; 15,9] 18,4 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,7 +216,8 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 40-120 x 1-2 mm Ø, cylindrique, égal, subbulbeux, fragile, glabre, translucide, blanchâtre à brun jaunâtre pâle
+  pied: 40-120 x 1-2 mm Ø, cylindrique, égal, subbulbeux, fragile, glabre, translucide,
+    blanchâtre à brun jaunâtre pâle
   pieds-steriles: 
   pigments: 
   pileipellis: celluleux
@@ -216,7 +225,8 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: largement elliptiques à largement ovoïdes, subutriformes, 46,6 [57,1; 74,2] 84,8 x 18,8 [22,7; 29] 32,9 µm
+  pleurocystides: largement elliptiques à largement ovoïdes, subutriformes, 46,6 [57,1;
+    74,2] 84,8 x 18,8 [22,7; 29] 32,9 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -278,3 +288,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

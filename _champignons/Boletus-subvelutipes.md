@@ -1,51 +1,49 @@
 ---
+title: Boletus Subvelutipes
+date: 2017-03-18 00:00:00 Z
 nom: Boletus subvelutipes
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8111/28596715912_ffdf32245e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28596715912/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
 album-flickr:
-  - 72157675843042745
-
+- 72157675843042745
 details:
   nom-francais: Bolet à pied velu
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
-  espece: <i>Boletus subvelutipes</i> Peck
+  espece: "<i>Boletus subvelutipes</i> Peck"
   litterature: Peck 1889, Bull. N.Y. State Mus. 8:142-143
-
 collections:
-  - fongarium: cKc0221
-    date: 27 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0235
-    date: 4 septembre 2014
-    planche:
-      numero: cKc0235-0065
-      miniature: https://c2.staticflickr.com/8/7473/15651872123_54099e4445_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15651872123/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0528
-    date: 1 août 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0221
+  date: 27 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0235
+  date: 4 septembre 2014
+  planche:
+    numero: cKc0235-0065
+    miniature: https://c2.staticflickr.com/8/7473/15651872123_54099e4445_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15651872123/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
+- fongarium: cKc0528
+  date: 1 août 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -66,7 +64,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subutriformes, tétrasporiques, non bouclées à la base, 17,6 [22,8; 29,2] 34,5 x 5,1 [6,9; 9,1] 11 µm
+  basides: claviformes à subutriformes, tétrasporiques, non bouclées à la base, 17,6
+    [22,8; 29,2] 34,5 x 5,1 [6,9; 9,1] 11 µm
   basidiospores: |
     fusiformes et parfois légèrement subventrues en vue frontale, cylindriques à subfusiformes vues de profil, lisses, à paroi mince jusqu’à 0,2 µm, avec appendice hilaire et dépression supra apiculaire, à contenu variable, brun pâle dans le NaCl isotonique 0,9%, dextrinoïdes, non cyanophiles
     13,9 [15,1; 15,6] 16,8 x 5,1 [5,5; 5,6] 6 µm
@@ -83,7 +82,9 @@ description:
   capillitium: 
   capitule: 
   caulobasides: présentes
-  caulocystides: cylindriques à fusiformes, flexueuses, 16,7 [21,9; 32,1] 37,3 x 4,6 [5,4; 6,8] 7,6 µm, piriformes 22,8 x 9,1 µm en moyenne, rarement cylindriques mucronées
+  caulocystides: cylindriques à fusiformes, flexueuses, 16,7 [21,9; 32,1] 37,3 x 4,6
+    [5,4; 6,8] 7,6 µm, piriformes 22,8 x 9,1 µm en moyenne, rarement cylindriques
+    mucronées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -93,7 +94,9 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 77 mm Ø, convexe à largement convexe, sec, finement velouté, glabre à maturité, orange brunâtre à brun rougeâtre, devenant bleu foncé puis noir au froissement, à marge unie
+  chapeau: 77 mm Ø, convexe à largement convexe, sec, finement velouté, glabre à maturité,
+    orange brunâtre à brun rougeâtre, devenant bleu foncé puis noir au froissement,
+    à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -165,7 +168,9 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: abondantes, polymorphes, parfois saillantes, cylindriques, fusiformes simples à fusiformes à long col, lagéniformes, flexueuses, 21,6 [34; 51,1] 63,5 x 3,7 [5,8; 8,7] 10,7 µm
+  hymenocystides: abondantes, polymorphes, parfois saillantes, cylindriques, fusiformes
+    simples à fusiformes à long col, lagéniformes, flexueuses, 21,6 [34; 51,1] 63,5
+    x 3,7 [5,8; 8,7] 10,7 µm
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -226,10 +231,13 @@ description:
   peritheces: 
   phenologie: de la fin juillet à septembre
   phialoconidies: 
-  pied: 85 x 20 mm Ø, égal à subégal, plein, sec, finement velouté, orange rougeâtre sur fond jaune, devenant plus rouge avec l’âge, bleuissant au froissement
+  pied: 85 x 20 mm Ø, égal à subégal, plein, sec, finement velouté, orange rougeâtre
+    sur fond jaune, devenant plus rouge avec l’âge, bleuissant au froissement
   pieds-steriles: 
   pigments: 
-  pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droites, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
+  pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2
+    µm de largeur, plus ou moins entrelacées à subparallèles et droites, avec des
+    faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -280,8 +288,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Suillellus subvelutipes</i> (Peck) Murrill, Lloydia 11:29 (1948)
+  synonymie: "<i>Suillellus subvelutipes</i> (Peck) Murrill, Lloydia 11:29 (1948)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -298,3 +305,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

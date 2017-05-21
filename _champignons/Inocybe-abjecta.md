@@ -1,41 +1,41 @@
 ---
+title: Inocybe Abjecta
+date: 2017-03-26 00:00:00 Z
 nom: Inocybe abjecta
-date: 2017-03-26 00:00:00
 image: https://c1.staticflickr.com/1/517/19736553568_86546edb7c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19736553568/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
 album-flickr:
-  - 72157674804662134
-
+- 72157674804662134
 details:
   nom-francais: Inocybe négligé
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe abjecta</i> P. Karst.
-  litterature: Karsten, P.A. 1879. Rysslands, Finlands och den Skandinaviska halföns Hattsvampar. Förra Delen, Skifsvampar. Bidrag till Kännedom av Finlands Natur och Folk. 32:1-571
-
+  espece: "<i>Inocybe abjecta</i> P. Karst."
+  litterature: Karsten, P.A. 1879. Rysslands, Finlands och den Skandinaviska halföns
+    Hattsvampar. Förra Delen, Skifsvampar. Bidrag till Kännedom av Finlands Natur
+    och Folk. 32:1-571
 collections:
-  - fongarium: cKc0367
-    date: 22 juillet 2015
-    planche:
-      numero: cKc0367-0126
-      miniature: https://c2.staticflickr.com/8/7556/26887464776_bbe04751a8_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/26887464776/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-  - fongarium: cKc0377
-    date: 25 juillet 2015
-    planche:
-      numero: cKc0377-0121
-      miniature: https://c2.staticflickr.com/2/1529/25685634394_72d31bc539_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/25685634394/in/photolist-F8KAeq-wsNBUQ-wraQZS
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0367
+  date: 22 juillet 2015
+  planche:
+    numero: cKc0367-0126
+    miniature: https://c2.staticflickr.com/8/7556/26887464776_bbe04751a8_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/26887464776/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
+- fongarium: cKc0377
+  date: 25 juillet 2015
+  planche:
+    numero: cKc0377-0121
+    miniature: https://c2.staticflickr.com/2/1529/25685634394_72d31bc539_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/25685634394/in/photolist-F8KAeq-wsNBUQ-wraQZS
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -62,7 +62,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à étroitement claviformes, tétrasporiques, bouclées à la base, 25,0-38,0 × 6,5-10,0 µm
+  basides: claviformes à étroitement claviformes, tétrasporiques, bouclées à la base,
+    25,0-38,0 × 6,5-10,0 µm
   basidiospores: |
     léiosporées, elliptiques citriformes à sommet subtronqué en vue frontale, amygdaliformes à citriformes avec apex coniques à ± ogives, parfois subtronquées vues de profil, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire, parfois avec pore germinatif 0,6-0,8 µm Ø, à contenu uniguttulé, brun pâle à rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (7,5) 8 - 9,3 (10,7) × (4,5) 4,8 - 5,5 (6,7) µm
@@ -72,7 +73,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans un sol sablonneux, sous <i>Pinus</i>, <i>Quercus</i>, dans un habitat ouvert, au potentiel hydrogène (pH) 4-6
+  biotopes: pousse dans un sol sablonneux, sous <i>Pinus</i>, <i>Quercus</i>, dans
+    un habitat ouvert, au potentiel hydrogène (pH) 4-6
   boucles: observées dans le stipe
   brachybasidioles: 
   calicule: 
@@ -81,16 +83,20 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes
-  caulocystides-sommitales: rares à occasionnelles, surtout cylindriques, éparses, ou en faisceaux, ressemblent à des hyphes terminales, cylindriques et bouclées, 40-70 x 6-8 µm
+  caulocystides-sommitales: rares à occasionnelles, surtout cylindriques, éparses,
+    ou en faisceaux, ressemblent à des hyphes terminales, cylindriques et bouclées,
+    40-70 x 6-8 µm
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: abondantes, piriformes à clavées (18,3) 18,33 - 23,3 × 7,1 - 9,47 (9,5) µm
+  cellules-marginales-paracystides: abondantes, piriformes à clavées (18,3) 18,33
+    - 23,3 × 7,1 - 9,47 (9,5) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 13-21 mm Ø, convexe à étalé, campanulé, mamelonné, fibrilleux, brun avec centre brun foncé, à la marge blanchâtre
-  cheilochrysocystides:
+  chapeau: 13-21 mm Ø, convexe à étalé, campanulé, mamelonné, fibrilleux, brun avec
+    centre brun foncé, à la marge blanchâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -100,7 +106,10 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « D'après l'article de Grund et Stuntz (<i>Nova Scotian Inocybe</i>, vol. II, pp. 925-927), <i>I. abjecta</i> a de rares caulocystides sommitales non métuloïdes. Elles se présentent comme des hyphes terminales et ne sont présentes qu'à l'apex du stipe. »
+  commentaires: De Claude Kaufholtz-Couture. « D'après l'article de Grund et Stuntz
+    (<i>Nova Scotian Inocybe</i>, vol. II, pp. 925-927), <i>I. abjecta</i> a de rares
+    caulocystides sommitales non métuloïdes. Elles se présentent comme des hyphes
+    terminales et ne sont présentes qu'à l'apex du stipe. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -118,7 +127,10 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux-apicaux: Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des Lamprocystides (Lamprocheilocystides et Lampropleurocystides) possède entre 1 et 2 (3) très petits subcrochets, plutôt une masse de cristaux
+  cristaux-apicaux: Dans l'observation des cristaux apicaux, j'ai relevé, avec une
+    observation au 40x, que le sommet des Lamprocystides (Lamprocheilocystides et
+    Lampropleurocystides) possède entre 1 et 2 (3) très petits subcrochets, plutôt
+    une masse de cristaux
   cuticule: 
   cutis: 
   cycle: 
@@ -194,10 +206,17 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, avec lamelles et lamellules, larges, à arêtes érodée, crèmes à brun pâle
+  lames: adnées à adnexées, avec lamelles et lamellules, larges, à arêtes érodée,
+    crèmes à brun pâle
   lamprocystides: 
-  lamprocheilocystides: nombreuses, polymorphes, métuloïdes, fusiformes à subfusiformes, lagéniformes, cylindriques, (50,0) 59,6 - 72 × (10) 11,8 - 15,5 (18,2) µm, à paroi fine à moyenne 1,0-2,4 µm
-  lampropleurocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, atténué au sommet-obclavée, lagéniformes à cylindriques à paroi fine à moyenne 1,0-2,4 µm, (50,1) 60,3 - 64,7 (70,0) × (11) 16 - 17,5 (18,5) µm, parfois avec col tortueux, largement ovoïdes à piriformes, (20,5) 42,8 - 50,8 (51,4) × (17,5) 18,4 - 20,3 (24) µm, à paroi fine à moyenne (1,0) 1,4-2,5 (2,7) µm
+  lamprocheilocystides: nombreuses, polymorphes, métuloïdes, fusiformes à subfusiformes,
+    lagéniformes, cylindriques, (50,0) 59,6 - 72 × (10) 11,8 - 15,5 (18,2) µm, à paroi
+    fine à moyenne 1,0-2,4 µm
+  lampropleurocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement
+    fusiformes, atténué au sommet-obclavée, lagéniformes à cylindriques à paroi fine
+    à moyenne 1,0-2,4 µm, (50,1) 60,3 - 64,7 (70,0) × (11) 16 - 17,5 (18,5) µm, parfois
+    avec col tortueux, largement ovoïdes à piriformes, (20,5) 42,8 - 50,8 (51,4) ×
+    (17,5) 18,4 - 20,3 (24) µm, à paroi fine à moyenne (1,0) 1,4-2,5 (2,7) µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -227,10 +246,12 @@ description:
   peritheces: 
   phenologie: en juillet
   phialoconidies: 
-  pied: 20-32 x 2-3 mm Ø, cylindrique, égal, avec teinte brun rougeâtre, légèrement bulbeux
+  pied: 20-32 x 2-3 mm Ø, cylindrique, égal, avec teinte brun rougeâtre, légèrement
+    bulbeux
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis dont les hyphes terminales sont un peu emmêlées, subtrichodermiques, avec pigments
+  pileipellis: en cutis dont les hyphes terminales sont un peu emmêlées, subtrichodermiques,
+    avec pigments
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -268,8 +289,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 12, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    D'après la Clé des Inocybes de Ray Fatto: Code = A C E H K L N Q - (<i>I. abjecta</i>)  ;  A C F H K L N Q - (<i>I. fuscidula</i>)
+  remarques: 'D''après la Clé des Inocybes de Ray Fatto: Code = A C E H K L N Q -
+    (<i>I. abjecta</i>)  ;  A C F H K L N Q - (<i>I. fuscidula</i>)
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -314,3 +337,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

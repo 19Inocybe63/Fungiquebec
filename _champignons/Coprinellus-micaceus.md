@@ -1,31 +1,31 @@
 ---
+title: Coprinellus Micaceus
+date: 2017-03-18 00:00:00 Z
 nom: Coprinellus micaceus
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3902/14496677944_a47634fdd8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14311334720/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
 album-flickr:
-  - 72157675676637055
-
+- 72157675676637055
 details:
   nom-francais: Coprin micacé
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinellus
-  espece: <i>Coprinellus micaceus</i> (Bull.) Vilgalys, Hopple & Jacq. Johnson
-  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-
+  espece: "<i>Coprinellus micaceus</i> (Bull.) Vilgalys, Hopple & Jacq. Johnson"
+  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple,
+    J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu
+    lato. Taxon. 50(1):203-241
 collections:
-  - fongarium: cKc0172
-    date: 24 juin 2014
-    planche:
-      numero: cKc0172-0038
-      miniature: https://c2.staticflickr.com/4/3838/14325215908_5abefd5379_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/14325215908/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0172
+  date: 24 juin 2014
+  planche:
+    numero: cKc0172-0038
+    miniature: https://c2.staticflickr.com/4/3838/14325215908_5abefd5379_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/14325215908/in/photolist-nPStBb-nNDkdm-o7V51R-o62gib-nUWw6s-nCxYFg-ekBb2z-bWSKtc
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -55,7 +55,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, près ou sur bois pourri, autour des souches, sur débris ligneux
+  biotopes: pousse au sol, près ou sur bois pourri, autour des souches, sur débris
+    ligneux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -72,7 +73,11 @@ description:
   cellules-stromatiques: 
   chair: très mince, molle, blanchâtre
   chancre: 
-  chapeau: jusqu'à 40 mm de hauteur x 30 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique, campanulé à convexe, beige à brun miel ou ocre foncé à rouille au centre et plus pâle vers la marge, couvert de fins flocons vélaires granuleux blanchâtres, vite fugaces, lisse avec l'âge, à marge longuement sillonnée
+  chapeau: jusqu'à 40 mm de hauteur x 30 mm Ø lorsque fermé, 50 mm Ø après expansion,
+    subglobuleux, ovoïde à ellipsoïde puis conique, campanulé à convexe, beige à brun
+    miel ou ocre foncé à rouille au centre et plus pâle vers la marge, couvert de
+    fins flocons vélaires granuleux blanchâtres, vite fugaces, lisse avec l'âge, à
+    marge longuement sillonnée
   cheilocystides: elliptiques à ovoïdes
   cheilomacrocystides: 
   chlamydospores: 
@@ -80,7 +85,14 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Dans la littérature, il est indique, Basidia 4-spored ; surrounded by 3-6 brachybasidia (Phylogeny and character evolution of the coprinoid mushroom genus Parasola as infered from LSU and ITS nrDNA Sequence data, by Nagy, Kocsubé, Papp, and Vágvölgyi ; Persoonia Jun 2009; 22:28-37) ; mais il s'agit plutôt de brachycystidia. Voir l'article suivant, The mushroom family Psathyrellaceae, Evidence for large-scale polyphyly of the genus Psathyrella, by Padamsee, Matheny, Dentinger, and McLaughlin. Science Direct, Molecular Phylogenetics and Evolution, 46 (2008) 415-429. Remerciements à Pierre-Arthur Moreau. »
+  commentaires: De Claude Kaufholtz-Couture. « Dans la littérature, il est indique,
+    Basidia 4-spored ; surrounded by 3-6 brachybasidia (Phylogeny and character evolution
+    of the coprinoid mushroom genus Parasola as infered from LSU and ITS nrDNA Sequence
+    data, by Nagy, Kocsubé, Papp, and Vágvölgyi ; Persoonia Jun 2009; 22:28-37) ;
+    mais il s'agit plutôt de brachycystidia. Voir l'article suivant, The mushroom
+    family Psathyrellaceae, Evidence for large-scale polyphyly of the genus Psathyrella,
+    by Padamsee, Matheny, Dentinger, and McLaughlin. Science Direct, Molecular Phylogenetics
+    and Evolution, 46 (2008) 415-429. Remerciements à Pierre-Arthur Moreau. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -173,7 +185,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sublibres, 3-8 mm de largeur, serrées, blanches puis gris-brun, noires à la fin, déliquescentes
+  lames: sublibres, 3-8 mm de largeur, serrées, blanches puis gris-brun, noires à
+    la fin, déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +219,8 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 25-100 x 2-6 mm Ø, égal, élargi vers la base ou bulbeux, fragile, lisse à entièrement pubescent, blanc, souvent avec col en forme de volve
+  pied: 25-100 x 2-6 mm Ø, égal, élargi vers la base ou bulbeux, fragile, lisse à
+    entièrement pubescent, blanc, souvent avec col en forme de volve
   pieds-steriles: 
   pigments: 
   pileipellis: en épithélium
@@ -231,8 +245,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+  publications: "<b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>.
+    <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of
+    agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005,
+    236 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -276,3 +292,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

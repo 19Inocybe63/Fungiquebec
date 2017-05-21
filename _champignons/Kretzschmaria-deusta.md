@@ -1,41 +1,40 @@
 ---
+title: Kretzschmaria Deusta
+date: 2017-03-22 00:00:00 Z
 nom: Kretzschmaria deusta
-date: 2017-03-22 00:00:00
 image: https://c1.staticflickr.com/1/439/18809605881_84a527218e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18809605881/in/photolist-unstDz-unjxuY-cfNfNb-uE99vF
 album-flickr:
-  - 72157675766389235
-
+- 72157675766389235
 details:
   nom-francais: Ustuline brûlée
   ordre: Xylariales
   famille: Xylariaceae
   genre: Kretzschmaria
-  espece: <i>Kretzschmaria deusta</i> (Hoffm.) P.M.D. Martin
-  litterature: Martin, P. 1970. Studies in the Xylariaceae:VIII. Xylaria and its allies. South African Journal of Botany. 36(2):73-138
-
+  espece: "<i>Kretzschmaria deusta</i> (Hoffm.) P.M.D. Martin"
+  litterature: Martin, P. 1970. Studies in the Xylariaceae:VIII. Xylaria and its allies.
+    South African Journal of Botany. 36(2):73-138
 collections:
-  - fongarium: sans numéro
-    date: 17 juin 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0314
-    date: 14 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 17 juin 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0314
+  date: 14 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -78,7 +77,9 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: de 20 à 100 mm et +, d'abord résupiné et bosselé irrégulierement par des boursouflures en forme de coussinets, de couleur grise à marge blanche à blanchâtre, devenant noirâtre puis noir à maturité
+  chapeau: de 20 à 100 mm et +, d'abord résupiné et bosselé irrégulierement par des
+    boursouflures en forme de coussinets, de couleur grise à marge blanche à blanchâtre,
+    devenant noirâtre puis noir à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -285,3 +286,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

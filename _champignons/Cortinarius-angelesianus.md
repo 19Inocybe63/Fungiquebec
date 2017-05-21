@@ -1,31 +1,30 @@
 ---
+title: Cortinarius Angelesianus
+date: 2017-03-18 00:00:00 Z
 nom: Cortinarius angelesianus
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3929/15417912301_99e8c4201e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15417912301/in/photolist-psEZ9Q-pddKms-puqQba-pddWKt
 album-flickr:
-  - 72157677943698490
-
+- 72157677943698490
 details:
   nom-francais: Cortinaire à tête velue
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius angelesianus</i> A.H. Sm.
-  litterature: Smith, A.H. 1944. New and interesting Cortinarii from North America. Lloydia. 7(3):163-235
-
+  espece: "<i>Cortinarius angelesianus</i> A.H. Sm."
+  litterature: Smith, A.H. 1944. New and interesting Cortinarii from North America.
+    Lloydia. 7(3):163-235
 collections:
-  - fongarium: cKc0280
-    date: 2 octobre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0280
+  date: 2 octobre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +50,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans les débris ligneux, sous conifères, <i>Abies</i>, <i>Picea</i>, <i>Pinus</i>
+  biotopes: pousse au sol, dans les débris ligneux, sous conifères, <i>Abies</i>,
+    <i>Picea</i>, <i>Pinus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +68,10 @@ description:
   cellules-stromatiques: 
   chair: crème à brun foncé
   chancre: 
-  chapeau: 20-50 mm Ø, conique-campanulé, puis étalé, mamelonné, hygrophane, méchuleux, brun foncé à l'humidité, brun orangé pâle ou jaune brunâtre terne au sec, orné de fines squamules plus pâles
-  cheilochrysocystides:
+  chapeau: 20-50 mm Ø, conique-campanulé, puis étalé, mamelonné, hygrophane, méchuleux,
+    brun foncé à l'humidité, brun orangé pâle ou jaune brunâtre terne au sec, orné
+    de fines squamules plus pâles
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -78,7 +80,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Les bandelettes orangées sur le pied ne résultent pas du dépôt de basidiospores ; c'est la couleur du voile général de cette espèce. »
+  commentaires: De Yves Lamoureux. « Les bandelettes orangées sur le pied ne résultent
+    pas du dépôt de basidiospores ; c'est la couleur du voile général de cette espèce.
+    »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -173,7 +177,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, larges, espacées, avec lamelles et lamellules, brun foncé, à arêtes plus pâles
+  lames: adnées, larges, espacées, avec lamelles et lamellules, brun foncé, à arêtes
+    plus pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +212,8 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 30-100 x 3-8 mm Ø, cylindrique, égal, crème brunâtre, plus foncé à l'humidité, orné de fibrilles ocrées, parfois ± disposées en bandelettes orangées
+  pied: 30-100 x 3-8 mm Ø, cylindrique, égal, crème brunâtre, plus foncé à l'humidité,
+    orné de fibrilles ocrées, parfois ± disposées en bandelettes orangées
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,8 +245,9 @@ description:
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = toutes les parties deviennent noires
+  reactions-macrochimiques: 'Potasse (KOH 10%) = toutes les parties deviennent noires
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -276,3 +283,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

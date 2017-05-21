@@ -1,41 +1,40 @@
 ---
+title: Mycena Leaiana
+date: 2017-03-25 00:00:00 Z
 nom: Mycena leaiana
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7702/27786798991_80faf1d330_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27786798991/in/photolist-JkqBge-Hw4bwF-eW5sug-eW5pRM/
 album-flickr:
-  - 72157676223305045
-
+- 72157676223305045
 details:
   nom-francais: Mycène de Léa
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
-  espece: <i>Mycena leaiana</i> (Berk.) Sacc.
-  litterature: Saccardo, P.A. 1891. Supplementum Universale, Pars I. Agaricaceae-Laboulbeniaceae. Sylloge Fungorum. 9:1-1141
-
+  espece: "<i>Mycena leaiana</i> (Berk.) Sacc."
+  litterature: Saccardo, P.A. 1891. Supplementum Universale, Pars I. Agaricaceae-Laboulbeniaceae.
+    Sylloge Fungorum. 9:1-1141
 collections:
-  - fongarium: cKc0054
-    date: 26 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0501
-    date: 23 juin 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0054
+  date: 26 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0501
+  date: 23 juin 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -78,7 +77,9 @@ description:
   cellules-stromatiques: 
   chair: assez épaisse, molle, flexible, blanchâtre à orangée
   chancre: 
-  chapeau: 10-40 mm Ø, campanulé au début, devenant campanulé-convexe, cuticule collante, visqueux lorsqu'imbu, glabre, orange vif, à orange plus foncé, pâlissant parfois avec l'âge, développant occasionnellement des taches vert olive à maturité
+  chapeau: 10-40 mm Ø, campanulé au début, devenant campanulé-convexe, cuticule collante,
+    visqueux lorsqu'imbu, glabre, orange vif, à orange plus foncé, pâlissant parfois
+    avec l'âge, développant occasionnellement des taches vert olive à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -179,7 +180,10 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, sinuées, larges puis ventrues, avec de nombreuses lamelles et lamellules, serrées à espacées, saumon ochracé pâle à orangées, se tachant facilement de jaune orangé au froissement, à arêtes entières, orange rougeâtre brillant
+  lames: adnées à adnexées, sinuées, larges puis ventrues, avec de nombreuses lamelles
+    et lamellules, serrées à espacées, saumon ochracé pâle à orangées, se tachant
+    facilement de jaune orangé au froissement, à arêtes entières, orange rougeâtre
+    brillant
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -212,7 +216,9 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-70 x 2-4 mm Ø, cylindrique, égal, creux, lisse, assez dur et cartilagineux, collant lorsqu'il est imbu, pruineux à la base, orange ou jaune orangé, mais plus pâle près de l'apex, parfois exsudant un liquide orange lorsque pressé
+  pied: 30-70 x 2-4 mm Ø, cylindrique, égal, creux, lisse, assez dur et cartilagineux,
+    collant lorsqu'il est imbu, pruineux à la base, orange ou jaune orangé, mais plus
+    pâle près de l'apex, parfois exsudant un liquide orange lorsque pressé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -280,3 +286,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

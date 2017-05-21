@@ -1,51 +1,50 @@
 ---
+title: Trichoglossum Walteri
+date: 2017-03-13 00:00:00 Z
 nom: Trichoglossum walteri
-date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/6/5831/21330589130_0e890b0721_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21330589130/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
 album-flickr:
-  - 72157671662254364
-
+- 72157671662254364
 details:
   nom-francais: Trichoglosse de Walter
   ordre: Geoglossales
   famille: Geoglossaceae
   genre: Trichoglossum
-  espece: <i>Trichoglossum walteri</i> (Berk.) E.J. Durand
-  litterature: Durand, E.J. 1908. The Geoglossaceae of North America. Annales Mycologici. 6:387-477
-
+  espece: "<i>Trichoglossum walteri</i> (Berk.) E.J. Durand"
+  litterature: Durand, E.J. 1908. The Geoglossaceae of North America. Annales Mycologici.
+    6:387-477
 collections:
-  - fongarium: cKc0458
-    date: 9 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0468
-    date: 18 septembre 2015
-    planche:
-      numero: cKc0468-0122
-      miniature: https://c2.staticflickr.com/2/1692/26474496531_9722a15703_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/26474496531/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0472
-    date: 20 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0458
+  date: 9 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0468
+  date: 18 septembre 2015
+  planche:
+    numero: cKc0468-0122
+    miniature: https://c2.staticflickr.com/2/1692/26474496531_9722a15703_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/26474496531/in/photolist-GksHsK-yuUR17-ykePPG-yg92nC
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0472
+  date: 20 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,7 +67,9 @@ description:
     Q = (14,5) 14,8 - 17,9 (18,3) ; N = 30
     Me = 92,7 × 5,6 µm ; Qe = 16,5
     (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
-  asques: fusiformes à clavés, atténués vers l'apex, à 8 ascospores parallèles, avec l'anneau apical amyloïde (bleu dans le melzer), jusqu'à (162,4) 162,43 - 195,8 × (17,2) 17,22 - 21 µm
+  asques: fusiformes à clavés, atténués vers l'apex, à 8 ascospores parallèles, avec
+    l'anneau apical amyloïde (bleu dans le melzer), jusqu'à (162,4) 162,43 - 195,8
+    × (17,2) 17,22 - 21 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -84,7 +85,9 @@ description:
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 10-20 mm de hauteur, 3-5 mm Ø, occupant ⅓-½ de l'ascome total, étroitement ellipsoïde à lancéolé, parfois comprimé avec un sillon vertical distinct descendant vers la base, noir brunâtre
+  capitule: 10-20 mm de hauteur, 3-5 mm Ø, occupant ⅓-½ de l'ascome total, étroitement
+    ellipsoïde à lancéolé, parfois comprimé avec un sillon vertical distinct descendant
+    vers la base, noir brunâtre
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 
@@ -104,7 +107,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « L'utilisation d'un microscope est essentielle pour détecter la présence de poils ; une loupe 10x est insuffisante. »
+  commentaires: De Claude Kaufholtz-Couture. « L'utilisation d'un microscope est essentielle
+    pour détecter la présence de poils ; une loupe 10x est insuffisante. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -156,7 +160,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -220,7 +223,8 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques-filiformes, septées, brunes, légèrement clavées et courbes à spiralées à l'apex
+  paraphyses: cylindriques-filiformes, septées, brunes, légèrement clavées et courbes
+    à spiralées à l'apex
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -229,7 +233,8 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: jusqu'à 2 mm Ø, cylindrique, aplati à comprimé, densément velouté, concolore au capitule à brunâtre, avec des poils noirs et émergents
+  pied: jusqu'à 2 mm Ø, cylindrique, aplati à comprimé, densément velouté, concolore
+    au capitule à brunâtre, avec des poils noirs et émergents
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -237,7 +242,8 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: nombreux, droits, distinctifs, acuminés, non fourchus à la base, brun foncé, noirs, (214,8) 217 - 248,4 (254) × (5,8) 6 - 8,5 (9,4) µm
+  poils: nombreux, droits, distinctifs, acuminés, non fourchus à la base, brun foncé,
+    noirs, (214,8) 217 - 248,4 (254) × (5,8) 6 - 8,5 (9,4) µm
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -280,8 +286,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Geoglossum walteri</i> Berk., Hedwigia, 39 (1875)
+  synonymie: "<i>Geoglossum walteri</i> Berk., Hedwigia, 39 (1875)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -297,3 +302,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

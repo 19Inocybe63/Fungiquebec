@@ -1,31 +1,30 @@
 ---
+title: Cyptotrama Chrysopepla
+date: 2017-03-20 00:00:00 Z
 nom: Cyptotrama chrysopepla
-date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/9/8181/8064645462_423d37e499_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8064645462/in/photolist-dhDq8q
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Collybie drapée d'or
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Cyptotrama
-  espece: <i>Cyptotrama chrysopepla</i> (Berk. & M.A. Curtis) Singer
-  litterature: Singer, R. 1973. Diagnoses fungorum novorum Agaricalium III. Beihefte zur Sydowia. 7:1-106
-
+  espece: "<i>Cyptotrama chrysopepla</i> (Berk. & M.A. Curtis) Singer"
+  litterature: Singer, R. 1973. Diagnoses fungorum novorum Agaricalium III. Beihefte
+    zur Sydowia. 7:1-106
 collections:
-  - fongarium: sans numéro
-    date: 7 octobre 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 7 octobre 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°46'21.6"N 71°10'29.3"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,11 @@ description:
   cellules-stromatiques: 
   chair: très mince, blanche à jaunâtre pâle, dure et cassante
   chancre: 
-  chapeau: 5-30 mm Ø, hémisphérique, convexe à pulviné puis étalé, sec, densément finement granuleux-squamuleux au début, plus laineux à velu avec l'âge, lisse à la fin, devenant parfois plissé, jaune brillant ou pâle à jaune orangé, parfois plus foncé au centre, à marge enroulée au début, puis droite, striée
-  cheilochrysocystides:
+  chapeau: 5-30 mm Ø, hémisphérique, convexe à pulviné puis étalé, sec, densément
+    finement granuleux-squamuleux au début, plus laineux à velu avec l'âge, lisse
+    à la fin, devenant parfois plissé, jaune brillant ou pâle à jaune orangé, parfois
+    plus foncé au centre, à marge enroulée au début, puis droite, striée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -78,7 +80,10 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Mycodb. « Les squames épineuses sont caractéristiques sur les spécimens jeunes. Remarquable couleur jaune plus ou moins orange, mêlé de vermillon au disque, hérisse de squamules dressées, allure de <i>Pholiota squarrosa</i>, mais chapeau vite plan. »
+  commentaires: De Mycodb. « Les squames épineuses sont caractéristiques sur les spécimens
+    jeunes. Remarquable couleur jaune plus ou moins orange, mêlé de vermillon au disque,
+    hérisse de squamules dressées, allure de <i>Pholiota squarrosa</i>, mais chapeau
+    vite plan. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -173,7 +178,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, parfois fourchues et interveinées, avec lamellules, de texture graisseuse au sec, espacées à subespacées, blanches, crèmes à jaune pâle au frais, orangé pâle au sec
+  lames: adnées à subdécurrentes, parfois fourchues et interveinées, avec lamellules,
+    de texture graisseuse au sec, espacées à subespacées, blanches, crèmes à jaune
+    pâle au frais, orangé pâle au sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +214,9 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 15-50 x 2-5 mm Ø, égal à légèrement atténué ou légèrement élargi vers la base, plein, finement granuleux-floconneux à fibrilleux, écailleux surtout vers la base, concolore au chapeau
+  pied: 15-50 x 2-5 mm Ø, égal à légèrement atténué ou légèrement élargi vers la base,
+    plein, finement granuleux-floconneux à fibrilleux, écailleux surtout vers la base,
+    concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -279,3 +288,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,29 @@
 ---
+title: Russula Fulvescens
+date: 2017-04-07 00:00:00 Z
 nom: Russula fulvescens
-date: 2017-04-07 00:00:00
 image: https://c1.staticflickr.com/9/8214/29040518066_72b46c7929_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29040518066/in/photolist-Lfdfgm
 album-flickr:
-  - 72157680283137691
-
+- 72157680283137691
 details:
   nom-francais: Russule fauvâtre
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula fulvescens</i> Burl.
+  espece: "<i>Russula fulvescens</i> Burl."
   litterature: Burlingham, G.S. 1915. Russula. North American Flora. 9:201-236
-
 collections:
-  - fongarium: cKc0539
-    date: 18 août 2016
-    planche:
-      numero: cKc0539-0160
-      miniature: https://c2.staticflickr.com/4/3860/33188329162_2d1f12d79a_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/33188329162/in/photostream/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0539
+  date: 18 août 2016
+  planche:
+    numero: cKc0539-0160
+    miniature: https://c2.staticflickr.com/4/3860/33188329162_2d1f12d79a_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/33188329162/in/photostream/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +35,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac</i> ; (<i>soluté de gaïac</i>), Éditions Fungiquebec, Québec 2014, 3 p.
+  articles: "<b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées
+    par la réaction au soluté alcoolique officinal de résine de gaïac</i> ; (<i>soluté
+    de gaïac</i>), Éditions Fungiquebec, Québec 2014, 3 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -47,7 +46,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base, 38 - 50 × 12,5 - 15 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 38 - 50 × 12,5 - 15
+    µm en moyenne
   basidiospores: |
     ovoïdales en vue frontale, largement elliptiques à elliptiques vues de profil, verrues isolées avec réticulum partiel, à paroi mince, plage supra hilaire relativement petite (2 - 2,4 µm Ø en moyenne) et distinctement amyloïde, à contenu uniguttulé, avec proéminences jusqu'à 1,2 µm de hauteur, hyalines dans E.G. 20%, amyloïdes
     (8,2) 8,7 - 9,6 (10) × (6,9) 6,94 - 7,4 (7,7) µm
@@ -57,7 +57,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol sous sapins et épinettes mélangés de bouleaux et de trembles, en milieux plutôt sablonneux
+  biotopes: pousse au sol sous sapins et épinettes mélangés de bouleaux et de trembles,
+    en milieux plutôt sablonneux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -72,11 +73,15 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanche immuable au grattage, mis à part à la coupe du pied, et sous la cuticule, la chair est orangée
+  chair: blanche immuable au grattage, mis à part à la coupe du pied, et sous la cuticule,
+    la chair est orangée
   chancre: 
-  chapeau: 83 mm Ø, convexe à étalé, puis déprimé, jaune orangé, la cuticule collante, pèle presque entièrement
-  cheilochrysocystides:
-  cheilocystides: occasionnelles, peu émergentes, cylindriques à fusiformes, parfois avec apex mucroné, à contenu pailleté, sulfovanilline négative (SV-), 60 - 65 × 8 - 10 µm en moyenne
+  chapeau: 83 mm Ø, convexe à étalé, puis déprimé, jaune orangé, la cuticule collante,
+    pèle presque entièrement
+  cheilochrysocystides: 
+  cheilocystides: occasionnelles, peu émergentes, cylindriques à fusiformes, parfois
+    avec apex mucroné, à contenu pailleté, sulfovanilline négative (SV-), 60 - 65
+    × 8 - 10 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -211,16 +216,22 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 84 x 18 mm Ø, cylindrique, farci, blanc, l'intérieur se tâche légèrement de brun rougeâtre très pâle à la coupe
+  pied: 84 x 18 mm Ø, cylindrique, farci, blanc, l'intérieur se tâche légèrement de
+    brun rougeâtre très pâle à la coupe
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis, formé d'hyphes non incrustées et de pileocystides occasionnelles
   pileitrame: 
-  pileocystides: occasionnelles, cylindriques, dont l’apex se termine souvent spatulé à subspatulé, à rarement bidigitée, septées, sulfovanilline négative (SV-), 37 - 87,5 × 4,5 - 6 µm en moyenne
+  pileocystides: occasionnelles, cylindriques, dont l’apex se termine souvent spatulé
+    à subspatulé, à rarement bidigitée, septées, sulfovanilline négative (SV-), 37
+    - 87,5 × 4,5 - 6 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, cylindriques à fusiformes, souvent avec apex mucroné, à contenu pailleté, sulfovanilline négative (SV-), 68,3 - 78,5 × 11 - 13,7 µm en moyenne
-  poils: cylindriques, vide optique, septées, (17,4) 19,5 - 48,7 (55,8) × (1,8) 2,1 - 3,6 (3,9) µm en moyenne
+  pleurocystides: nombreuses, cylindriques à fusiformes, souvent avec apex mucroné,
+    à contenu pailleté, sulfovanilline négative (SV-), 68,3 - 78,5 × 11 - 13,7 µm
+    en moyenne
+  poils: cylindriques, vide optique, septées, (17,4) 19,5 - 48,7 (55,8) × (1,8) 2,1
+    - 3,6 (3,9) µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -263,7 +274,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée IIIa-IIIb, d'après la charte de couleur de Romagnesi et D-E d'après la charte de couleur de Kibby
+  sporee: ocrosporée IIIa-IIIb, d'après la charte de couleur de Romagnesi et D-E d'après
+    la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -288,3 +300,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

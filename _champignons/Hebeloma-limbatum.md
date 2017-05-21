@@ -1,31 +1,32 @@
 ---
+title: Hebeloma Limbatum
+date: 2017-03-24 00:00:00 Z
 nom: Hebeloma limbatum
-date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/9/8742/29622268270_22ca218709_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29622268270/in/photolist-NdgqNj-MwxnQN-M8BSkh
 album-flickr:
-  - 72157674148893871
-
+- 72157674148893871
 details:
   nom-francais: 
   ordre: Agaricales
   famille: Hymenogastraceae
   genre: Hebeloma
-  espece: <i>Hebeloma limbatum</i> Beker, Vesterh. & U. Eberh.
-  litterature: Eberhardt, U.; Beker, H.J.; Vesterholt, J.; Schütz,N. 2016. The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. and five new species. Fungal Biology. 120(1):72-103
-
+  espece: "<i>Hebeloma limbatum</i> Beker, Vesterh. & U. Eberh."
+  litterature: Eberhardt, U.; Beker, H.J.; Vesterholt, J.; Schütz,N. 2016. The taxonomy
+    of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora
+    subsect. nov. and Clepsydroida subsect. nov. and five new species. Fungal Biology.
+    120(1):72-103
 collections:
-  - fongarium: cKc0563
-    date: 24 septembre 2016
-    planche:
-      numero: cKc0563-0138
-      miniature: https://c2.staticflickr.com/6/5620/30331219382_dcca2f4de6_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/30331219382/in/photolist-NdgqNj-MwxnQN-M8BSkh
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Henry J. Beker (provisoire)
-    confirmee: 
-
+- fongarium: cKc0563
+  date: 24 septembre 2016
+  planche:
+    numero: cKc0563-0138
+    miniature: https://c2.staticflickr.com/6/5620/30331219382_dcca2f4de6_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/30331219382/in/photolist-NdgqNj-MwxnQN-M8BSkh
+  geolocalisation: 
+  elevation: 
+  determinee: Henry J. Beker (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +38,10 @@ description:
   apothecie: 
   arete-lamellaire: fertile
   arthroconidies: 
-  articles: |
-    <b>Eberhardt, Ursula. ; Beker, Henry J. ; Vesterholt, Jan. ; Schütz, Nicole</b>. <i>The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. And five new species</i>, Fungal Biology 120 (2016) 72-103, 32 p.
+  articles: "<b>Eberhardt, Ursula. ; Beker, Henry J. ; Vesterholt, Jan. ; Schütz,
+    Nicole</b>. <i>The taxonomy of the European species of Hebeloma section Denudata
+    subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov.
+    And five new species</i>, Fungal Biology 120 (2016) 72-103, 32 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -47,7 +50,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement claviformes, largement cylindriques, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations),  23 [27,3 ; 32,5] 36,7 × 8,5 [9,5 ; 10,8] 11,8 µm en moyenne
+  basides: piriformes à largement claviformes, largement cylindriques, tétrasporiques,
+    bouclées à la base, à contenu vacuolaire (et granulations),  23 [27,3 ; 32,5]
+    36,7 × 8,5 [9,5 ; 10,8] 11,8 µm en moyenne
   basidiospores: |
     citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, sublisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, hyalines dans E.G. 20%, moyennement dextrinoïdes (D2), non cyanophiles
     (9,6) 10,2 - 11,9 (13,8) × (5,2) 5,4 - 6,1 (6,7) µm
@@ -64,7 +69,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: assez abondantes, semblables aux cheilocystides, présentes à l’apex du stipe
+  caulocystides: assez abondantes, semblables aux cheilocystides, présentes à l’apex
+    du stipe
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -72,10 +78,15 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse au disque, abruptement amincie vers la marge, ferme, blanchâtre à crème
+  chair: épaisse au disque, abruptement amincie vers la marge, ferme, blanchâtre à
+    crème
   chancre: 
-  chapeau: 16-37 mm Ø, conique à campanulé puis convexe à étalé, parfois mamelonné-obtus, visqueux à l'humidité, lisse, beige à crème ochracé, à marge longtemps incurvée, puis droite ou relevée, unie
-  cheilocystides: abondantes formant une palissade, longuement claviformes, rarement flexueuses à tortueuses, à paroi mince, hyalines, bouclées, 51,6 [59,1 ; 69,5] 77 × 5,5 [5,9 ; 6,5] 7 µm en moyenne
+  chapeau: 16-37 mm Ø, conique à campanulé puis convexe à étalé, parfois mamelonné-obtus,
+    visqueux à l'humidité, lisse, beige à crème ochracé, à marge longtemps incurvée,
+    puis droite ou relevée, unie
+  cheilocystides: abondantes formant une palissade, longuement claviformes, rarement
+    flexueuses à tortueuses, à paroi mince, hyalines, bouclées, 51,6 [59,1 ; 69,5]
+    77 × 5,5 [5,9 ; 6,5] 7 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -175,7 +186,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à sinuées, larges, très serrées, blanchâtres puis brunes, exsudant des gouttelettes laiteuses opalescentes au frais et à l'humidité, tachetées de brun ou de brun-rouge au sec, à arêtes crénelées et floconneuses, blanches
+  lames: adnées à sinuées, larges, très serrées, blanchâtres puis brunes, exsudant
+    des gouttelettes laiteuses opalescentes au frais et à l'humidité, tachetées de
+    brun ou de brun-rouge au sec, à arêtes crénelées et floconneuses, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,10 +221,14 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 24-30 x 4-13 mm Ø, égal, parfois élargi-clavé vers la base à subbulbeux, cassant, farci puis creux, entièrement furfuracé à finement fibrilleux blanc sur fond blanchâtre ou concolore au chapeau
+  pied: 24-30 x 4-13 mm Ø, égal, parfois élargi-clavé vers la base à subbulbeux, cassant,
+    farci puis creux, entièrement furfuracé à finement fibrilleux blanc sur fond blanchâtre
+    ou concolore au chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: en 2 couches, suprapellis allant de l'ixocutis à l'ixotrichoderme de 180-218 µm d'épaisseur, formé d'hyphes gélatinisées, rarement ruguleuses, bouclées, hyalines, et le subpellis formé d'hyphes
+  pileipellis: en 2 couches, suprapellis allant de l'ixocutis à l'ixotrichoderme de
+    180-218 µm d'épaisseur, formé d'hyphes gélatinisées, rarement ruguleuses, bouclées,
+    hyalines, et le subpellis formé d'hyphes
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -244,7 +261,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Des études d'ADN seront réalisées prochainement par Henry J. Beker sur trois collections.
+  remarques: Des études d'ADN seront réalisées prochainement par Henry J. Beker sur
+    trois collections.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -278,3 +296,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

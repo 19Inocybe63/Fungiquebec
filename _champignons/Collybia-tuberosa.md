@@ -1,31 +1,29 @@
 ---
+title: Collybia Tuberosa
+date: 2017-03-18 00:00:00 Z
 nom: Collybia tuberosa
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/639/21886192929_4753e592aa_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21886192929/in/photolist-zm1sDX
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Collybie à sclérote noir
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Collybia
-  espece: <i>Collybia tuberosa</i> (Bull.) P. Kumm.
+  espece: "<i>Collybia tuberosa</i> (Bull.) P. Kumm."
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-
 collections:
-  - fongarium: cKc0486
-    date: 10 octobre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0486
+  date: 10 octobre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +49,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur de la matière en décomposition, sur l'humus des forêts de feuillus et conifères, ou sur un autre champignon (<i>Russula</i>)
+  biotopes: pousse sur de la matière en décomposition, sur l'humus des forêts de feuillus
+    et conifères, ou sur un autre champignon (<i>Russula</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +67,9 @@ description:
   cellules-stromatiques: 
   chair: mince, blanchâtre
   chancre: 
-  chapeau: 2-10 mm, convexe avec une marge quelque peu enroulée lorsque jeune, devenant largement convexe à étalé, déprimé, sec ou humide, plus ou moins glabre, blanchâtre
-  cheilochrysocystides:
+  chapeau: 2-10 mm, convexe avec une marge quelque peu enroulée lorsque jeune, devenant
+    largement convexe à étalé, déprimé, sec ou humide, plus ou moins glabre, blanchâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -171,7 +171,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, serrées à subserrées, à arêtes entières et droites, blanchâtres à rose pâle
+  lames: adnées à subdécurrentes, serrées à subserrées, à arêtes entières et droites,
+    blanchâtres à rose pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -240,7 +241,9 @@ description:
   sac-sporifere: 
   saveur: indistincte
   sclerocystides: 
-  sclerote: lacrymoïde à fusoïde ventru, parfois subellipsoïde à subglobuleux, rouge brunâtre foncé, dur, uni au début, plissé à sillonné avec l'âge, à intérieur plein, blanc, 3-12 x 2-5 mm
+  sclerote: lacrymoïde à fusoïde ventru, parfois subellipsoïde à subglobuleux, rouge
+    brunâtre foncé, dur, uni au début, plissé à sillonné avec l'âge, à intérieur plein,
+    blanc, 3-12 x 2-5 mm
   soies: 
   soies-hymeniales: 
   sporee: blanche
@@ -273,3 +276,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

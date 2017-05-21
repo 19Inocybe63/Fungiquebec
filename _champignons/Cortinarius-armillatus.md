@@ -1,41 +1,39 @@
 ---
+title: Cortinarius Armillatus
+date: 2017-03-18 00:00:00 Z
 nom: Cortinarius armillatus
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3927/15372671292_724ac95746_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15372671292/in/photolist-pqqVWd-pqqXAL
 album-flickr:
-  - 72157675049819164
-
+- 72157675049819164
 details:
   nom-francais: Cortinaire armillé ou Cortinaire à bracelets
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius armillatus</i> (Fr.) Fr.
+  espece: "<i>Cortinarius armillatus</i> (Fr.) Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-
 collections:
-  - fongarium: cKc0128
-    date: 1 septembre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0274
-    date: 27 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0128
+  date: 1 septembre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0274
+  date: 27 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -78,8 +76,11 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à brun pâle
   chancre: 
-  chapeau: 40-150 mm Ø, hémisphérique campanulé à convexe puis étalé, devenant souvent largement convexe, mamelonné, sec, glabre, finement fibrilleux à squamuleux, ou très finement écailleux sur le centre à maturité, brun-jaune à brun rougeâtre, souvent avec un centre plus foncé, rouge brique, parfois plus pâle à la marge
-  cheilochrysocystides:
+  chapeau: 40-150 mm Ø, hémisphérique campanulé à convexe puis étalé, devenant souvent
+    largement convexe, mamelonné, sec, glabre, finement fibrilleux à squamuleux, ou
+    très finement écailleux sur le centre à maturité, brun-jaune à brun rougeâtre,
+    souvent avec un centre plus foncé, rouge brique, parfois plus pâle à la marge
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -183,7 +184,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, larges, serrées à subserrées, jaune pâle à cannelle pâle lorsque jeunes, devenant brun rouille à maturité, couvertes d'une cortine blanchâtre dès leur jeunesse, aux arêtes plus pâles
+  lames: adnexées, larges, serrées à subserrées, jaune pâle à cannelle pâle lorsque
+    jeunes, devenant brun rouille à maturité, couvertes d'une cortine blanchâtre dès
+    leur jeunesse, aux arêtes plus pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -216,7 +219,9 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 70-150 x 7-20 mm, bulbeux à la base, sec, glabre ou finement soyeux, blanchâtre à brun pâle, entouré de 2 à 4 bandelettes concentriques orange-rouge, avec une zone annulaire rouille au-dessus des bandes, mycélium basal blanchâtre
+  pied: 70-150 x 7-20 mm, bulbeux à la base, sec, glabre ou finement soyeux, blanchâtre
+    à brun pâle, entouré de 2 à 4 bandelettes concentriques orange-rouge, avec une
+    zone annulaire rouille au-dessus des bandes, mycélium basal blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -248,8 +253,8 @@ description:
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
-    Potasse (KOH 10%) = devient noir sur la surface du chapeau et violet sur les zones orange du stipe
+  reactions-macrochimiques: Potasse (KOH 10%) = devient noir sur la surface du chapeau
+    et violet sur les zones orange du stipe
   receptacle: 
   remarques: 
   repartition: 
@@ -289,3 +294,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

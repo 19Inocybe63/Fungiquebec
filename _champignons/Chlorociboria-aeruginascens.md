@@ -1,31 +1,31 @@
 ---
+title: Chlorociboria Aeruginascens
+date: 2017-03-18 00:00:00 Z
 nom: Chlorociboria aeruginascens
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8231/29832790142_9e39b52477_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832790142/in/photolist-MsdR9J-MzfAsC
 album-flickr:
-  - 72157676600802536
-
+- 72157676600802536
 details:
   nom-francais: Pézize verdissante
   ordre: Helotiales
   famille: Chlorociboriaceae
   genre: Chlorociboria
-  espece: <i>Chlorociboria aeruginascens</i> (Nyl.) Kanouse ex C.S. Ramamurthi et al.
-  litterature: Ramamurthi, C.S.; Korf, R.P.; Batra, L.R. 1957. A revision of the North American species of Chlorociboria (Sclerotiniaceae). Mycologia. 49:854-863
-
+  espece: "<i>Chlorociboria aeruginascens</i> (Nyl.) Kanouse ex C.S. Ramamurthi et
+    al."
+  litterature: Ramamurthi, C.S.; Korf, R.P.; Batra, L.R. 1957. A revision of the North
+    American species of Chlorociboria (Sclerotiniaceae). Mycologia. 49:854-863
 collections:
-  - fongarium: cKc0571
-    date: 26 septembre 2016
-    planche:
-      numero: cKc0571-0146
-      miniature: https://c2.staticflickr.com/6/5599/31426576536_5a776bf5e8_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/31426576536/in/photostream/
-    geolocalisation: 
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0571
+  date: 26 septembre 2016
+  planche:
+    numero: cKc0571-0146
+    miniature: https://c2.staticflickr.com/6/5599/31426576536_5a776bf5e8_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31426576536/in/photostream/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -34,7 +34,8 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 1-7 mm Ø, cupuliforme, spatulée puis étalée et infundibuliforme à la fin, d'asymétrie souvent très prononcée, stipitée, à marge ondulée
+  apothecie: 1-7 mm Ø, cupuliforme, spatulée puis étalée et infundibuliforme à la
+    fin, d'asymétrie souvent très prononcée, stipitée, à marge ondulée
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -45,7 +46,8 @@ description:
     Q = (3,5) 3,6 - 4,7 (4,9) ; N = 30
     Me = 11,7 × 2,8 µm ; Qe = 4,2
     (Piximètre formule classique ; mesures issues d'une sporée, dans E.G. 20%)
-  asques: cylindriques fusiformes, octosporés et ± bisériés, apex IKI +b, (63,7) 64,5 - 66,4 (84,5) × (5,8) 5,9 - 6,4 (6,5) µm
+  asques: cylindriques fusiformes, octosporés et ± bisériés, apex IKI +b, (63,7) 64,5
+    - 66,4 (84,5) × (5,8) 5,9 - 6,4 (6,5) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -56,7 +58,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois décortiqué, décomposé, colorant le substrat de bleu vert par son mycélium
+  biotopes: pousse sur bois décortiqué, décomposé, colorant le substrat de bleu vert
+    par son mycélium
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -71,10 +74,11 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: très mince, concolore à la face extérieure dans le chapeau, vert-de-gris bleuâtre dans le pied
+  chair: très mince, concolore à la face extérieure dans le chapeau, vert-de-gris
+    bleuâtre dans le pied
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -136,7 +140,8 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: glabre à finement tomenteuse, sillonnée et finement rugueuse sur la partie inférieure, surtout au sec, blanchâtre puis concolore à l'hyménophore
+  face-externe: glabre à finement tomenteuse, sillonnée et finement rugueuse sur la
+    partie inférieure, surtout au sec, blanchâtre puis concolore à l'hyménophore
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -148,7 +153,8 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: concolore à la face externe, vert-de-gris-bleuâtre, turquoise à olivacé, parfois vert blanchâtre pâle à jaune orangé pâle, tendant à blanchir au sec
+  hymenophore: concolore à la face externe, vert-de-gris-bleuâtre, turquoise à olivacé,
+    parfois vert blanchâtre pâle à jaune orangé pâle, tendant à blanchir au sec
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -199,7 +205,8 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques à claviformes, à contenu granuleux, hyalines dans E.G. 10%, 55 - 78,6 × 1,4 - 2 µm en moyenne
+  paraphyses: cylindriques à claviformes, à contenu granuleux, hyalines dans E.G.
+    10%, 55 - 78,6 × 1,4 - 2 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -208,7 +215,8 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 1 à 2 mm de long, minuscule, central ou excentré, égal, concolore à la face externe
+  pied: 1 à 2 mm de long, minuscule, central ou excentré, égal, concolore à la face
+    externe
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,8 +242,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Dougoud, René</b>. <i>Contribution à la connaissance de quelques Discomycètes operculés rares ou méconnus</i>, Fungi non Delineati, Pars XVIII Edizioni Candusso, 2002, 37 p.
+  publications: "<b>Dougoud, René</b>. <i>Contribution à la connaissance de quelques
+    Discomycètes operculés rares ou méconnus</i>, Fungi non Delineati, Pars XVIII
+    Edizioni Candusso, 2002, 37 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiosporres</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -283,3 +292,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

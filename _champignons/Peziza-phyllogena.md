@@ -1,31 +1,29 @@
 ---
+title: Peziza Phyllogena
+date: 2017-03-25 00:00:00 Z
 nom: Peziza phyllogena
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8114/8913089084_307ed0993a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8913089084
 album-flickr:
-  - 72157679694964561
-
+- 72157679694964561
 details:
   nom-francais: Pézize olivâtre
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
-  espece: <i>Peziza phyllogena</i> Cooke
+  espece: "<i>Peziza phyllogena</i> Cooke"
   litterature: Cooke, M.C. 1877. Mycographia, seu Icones fungorum. 1(4):137-178
-
 collections:
-  - fongarium: sans numéro
-    date: 1 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 1 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -72,7 +70,7 @@ description:
   chair: mince, cassante, violacée
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -136,7 +134,8 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: formée de petites méchules (comme finement granuleuse), beige à reflets jaunâtres ; violacée à la base et près du centre
+  face-externe: formée de petites méchules (comme finement granuleuse), beige à reflets
+    jaunâtres ; violacée à la base et près du centre
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -280,3 +279,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

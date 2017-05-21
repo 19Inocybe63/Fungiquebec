@@ -1,31 +1,32 @@
 ---
+title: Morchella Prava
+date: 2017-03-08 00:00:00 Z
 nom: Morchella prava
-date: 2017-03-08 00:00:00
 image: https://c2.staticflickr.com/8/7239/7234066596_1238f17e4c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7234066596/in/photolist-c2i38s-c2ftY9
 album-flickr:
-  - 72157675331655494
-
+- 72157675331655494
 details:
   nom-francais: 
   ordre: Pezizales
   famille: Morchellaceae
   genre: Morchella
-  espece: <i>Morchella prava</i> Dewsbury, Moncalvo, J.D. Moore & M. Kuo
-  litterature: Kuo, M.; Dewsbury, D.R.; O'Donnell, K.; Carter, M.C.; Rehner, S.A.; Moore, J. D.; Moncalvo, J.-M.; Canfield, S.A.; Stephenson, S.L.; Methven, A.S.; Volk, T.J. 2012. Taxonomic revision of true morels (Morchella) in Canada and the United States. Mycologia. 104(5):1159-1177
-
+  espece: "<i>Morchella prava</i> Dewsbury, Moncalvo, J.D. Moore & M. Kuo"
+  litterature: Kuo, M.; Dewsbury, D.R.; O'Donnell, K.; Carter, M.C.; Rehner, S.A.;
+    Moore, J. D.; Moncalvo, J.-M.; Canfield, S.A.; Stephenson, S.L.; Methven, A.S.;
+    Volk, T.J. 2012. Taxonomic revision of true morels (Morchella) in Canada and the
+    United States. Mycologia. 104(5):1159-1177
 collections:
-  - fongarium: sans numéro
-    date: 20 mai 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Philippe Clowez
-
+- fongarium: sans numéro
+  date: 20 mai 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Philippe Clowez
 description:
   acanthocytes: 
   acanthophyses: 
@@ -38,7 +39,15 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 30-60 mm de haut et 20-50 mm de large, de forme irrégulière, mais souvent plus ou moins en forme d'œuf avec un sommet légèrement rétréci ou largement conique, les fosses disposées et orientées aléatoirement et de forme irrégulière lorsqu'ils sont jeunes, avec une crête chauve ou finement veloutée, aplatie ou largement arrondie, pâle, jaunâtre à blanchâtre, et des fosses grises moyennes à foncées ou noires lorsqu'elles sont matures, avec des arêtes arrondies à des arêtes tranchées ou érodées, brunâtres jaunes à brun jaunâtre et des fosses de même couleur (mais restant souvent dans le stade gris pendant une période prolongée et apparemment ne vieillissent jamais), attaché à la tige directement, sans rainure, creux
+  ascome: 30-60 mm de haut et 20-50 mm de large, de forme irrégulière, mais souvent
+    plus ou moins en forme d'œuf avec un sommet légèrement rétréci ou largement conique,
+    les fosses disposées et orientées aléatoirement et de forme irrégulière lorsqu'ils
+    sont jeunes, avec une crête chauve ou finement veloutée, aplatie ou largement
+    arrondie, pâle, jaunâtre à blanchâtre, et des fosses grises moyennes à foncées
+    ou noires lorsqu'elles sont matures, avec des arêtes arrondies à des arêtes tranchées
+    ou érodées, brunâtres jaunes à brun jaunâtre et des fosses de même couleur (mais
+    restant souvent dans le stade gris pendant une période prolongée et apparemment
+    ne vieillissent jamais), attaché à la tige directement, sans rainure, creux
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -69,7 +78,7 @@ description:
   chair: 
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -206,7 +215,9 @@ description:
   peritheces: 
   phenologie: de mi-mai à début juin
   phialoconidies: 
-  pied: 25-40 x 10-30 mm Ø, égal au-dessus d'une base légèrement gonflée, blanchâtre à jaunâtre crèmre, souvent avec décoloration brun rougeâtre, glabre à subglabre, creux
+  pied: 25-40 x 10-30 mm Ø, égal au-dessus d'une base légèrement gonflée, blanchâtre
+    à jaunâtre crèmre, souvent avec décoloration brun rougeâtre, glabre à subglabre,
+    creux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -271,3 +282,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

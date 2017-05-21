@@ -1,31 +1,31 @@
 ---
+title: Coprinellus Disseminatus
+date: 2017-03-18 00:00:00 Z
 nom: Coprinellus disseminatus
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3900/14280968558_e1ee06d97a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14280968558/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
 album-flickr:
-  - 72157674940658376
-
+- 72157674940658376
 details:
   nom-francais: Coprin disséminé ou Coprin grégaire
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinellus
-  espece: <i>Coprinellus disseminatus</i> (Pers.) J.E. Lange
-  litterature: Lange, J.E. 1938. Studies in the Agarics of Denmark. Part XII. Hebeloma, Naucoria, Tubaria, Galera, Bolbitius, Pluteolus, Crepidotus, Pseudopaxillus, Paxillus. Dansk botanisk Arkiv. 9(6), 1-104
-
+  espece: "<i>Coprinellus disseminatus</i> (Pers.) J.E. Lange"
+  litterature: Lange, J.E. 1938. Studies in the Agarics of Denmark. Part XII. Hebeloma,
+    Naucoria, Tubaria, Galera, Bolbitius, Pluteolus, Crepidotus, Pseudopaxillus, Paxillus.
+    Dansk botanisk Arkiv. 9(6), 1-104
 collections:
-  - fongarium: cKc0170
-    date: 20 juin 2014
-    planche:
-      numero: cKc0170-0037
-      miniature: https://c2.staticflickr.com/6/5508/14472358361_7ec92a30e2_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/14472358361/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
-    geolocalisation: 46°47'01.8"N 71°16'04.1"O
-    elevation: 100 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: R. A. Powers
-
+- fongarium: cKc0170
+  date: 20 juin 2014
+  planche:
+    numero: cKc0170-0037
+    miniature: https://c2.staticflickr.com/6/5508/14472358361_7ec92a30e2_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/14472358361/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
+  geolocalisation: 46°47'01.8"N 71°16'04.1"O
+  elevation: 100 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: R. A. Powers
 description:
   acanthocytes: 
   acanthophyses: 
@@ -45,7 +45,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement clavées, tétrasporiques, 11,2 [14,4; 17,7] 20,9 × 6,8 [7,6; 8,3] 9 µm
+  basides: piriformes à largement clavées, tétrasporiques, 11,2 [14,4; 17,7] 20,9
+    × 6,8 [7,6; 8,3] 9 µm
   basidiospores: |
     elliptiques-ovoïdes en vue frontale à elliptiques vues de profil, tronquées, lisses, à paroi mince, avec appendice hilaire et pore germinatif distinct et centré jaunâtre 1,2-1,9 µm Ø, à contenu homogène, brun foncé à brun tabac dans le NaCl isotonique 0,9%, gris lilas dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     7 [7,5; 7,7] 8,2 × 4,2 [4,6; 4,7] 5,1 µm
@@ -71,7 +72,11 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, immuable, blanche grisâtre
   chancre: 
-  chapeau: jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après expansion, ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge, qui porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement blanc à crème
+  chapeau: jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après
+    expansion, ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent
+    brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge, qui
+    porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement
+    blanc à crème
   cheilocystides: cylindriques à subcapitées 70 × 15 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -79,7 +84,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « L'ADN de cette collection fut étudié par R. A. Powers (<i>MyCoPortal</i>) et les résultats furent déposés sur le site http://mycoportal.org/portal/collections/individual/index.php?occid=2416327 »
+  commentaires: De Claude Kaufholtz-Couture. « L'ADN de cette collection fut étudié
+    par R. A. Powers (<i>MyCoPortal</i>) et les résultats furent déposés sur le site
+    http://mycoportal.org/portal/collections/individual/index.php?occid=2416327 »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -129,7 +136,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exhalaison-de-la-chair: indistincte
   exhalaison-des-lames: indistincte
   exoperidium: 
@@ -172,7 +178,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: étroitement à assez largement adnées, larges, subespacées, blanches au début puis noirâtres, non déliquescentes
+  lames: étroitement à assez largement adnées, larges, subespacées, blanches au début
+    puis noirâtres, non déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -189,7 +196,8 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: densément grégaire ou fasciculé, souvent en grand nombre (+ 200)
+  mode-de-croissance: densément grégaire ou fasciculé, souvent en grand nombre (+
+    200)
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -204,7 +212,8 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 15-40 (60) x 1-3 mm Ø, cylindrique, égal, fragile, creux, lisse à pubescent, blanc à blanc grisâtre, souvent légèrement vitreux
+  pied: 15-40 (60) x 1-3 mm Ø, cylindrique, égal, fragile, creux, lisse à pubescent,
+    blanc à blanc grisâtre, souvent légèrement vitreux
   pieds-steriles: 
   pigments: 
   pileipellis: en épithélium
@@ -228,8 +237,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+  publications: "<b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>.
+    <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of
+    agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005,
+    236 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -290,3 +301,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

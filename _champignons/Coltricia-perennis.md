@@ -1,41 +1,40 @@
 ---
+title: Coltricia Perennis
+date: 2017-03-18 00:00:00 Z
 nom: Coltricia perennis
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/418/18780670846_4faaec4ac8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18780670846/in/photolist-tGTTF1-uBzR8L
 album-flickr:
-  - 72157680512643965
-
+- 72157680512643965
 details:
   nom-francais: Polypore vivace
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Coltricia
-  espece: <i>Coltricia perennis</i> (L.) Murrill
-  litterature: Murrill, W.A. 1903. A historical review of the genera of the Polyporaceae. Journal of Mycology. 9(2):87-102
-
+  espece: "<i>Coltricia perennis</i> (L.) Murrill"
+  litterature: Murrill, W.A. 1903. A historical review of the genera of the Polyporaceae.
+    Journal of Mycology. 9(2):87-102
 collections:
-  - fongarium: cKc0313
-    date: 14 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0530
-    date: 1 août 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 
-    elevation: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: 
-
+- fongarium: cKc0313
+  date: 14 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0530
+  date: 1 août 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -59,9 +58,12 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: annuel, piléé, stipité, subéreux, tenace-coriace au frais, cassant et dur au sec
+  basidiome: annuel, piléé, stipité, subéreux, tenace-coriace au frais, cassant et
+    dur au sec
   bibliographies: 
-  biotopes: pousse au sol, en milieux sablonneux et exposé des forêts de conifères, souvent en milieux perturbés, rarement sur bois pourri, bord de sentier, sous <i>Pinus</i>
+  biotopes: pousse au sol, en milieux sablonneux et exposé des forêts de conifères,
+    souvent en milieux perturbés, rarement sur bois pourri, bord de sentier, sous
+    <i>Pinus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -78,8 +80,11 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 15-30 (50) mm Ø, arrondi, plat à infundibuliforme ou ombiliqué, un peu ondulé, tissu épais de 0,5-2 mm, surface piléique étroitement zonée concentriquement, veloutée, jaune-brun, rouille ou gris-brun, à marge ondulée-sinueuse, parfois incisée
-  cheilochrysocystides:
+  chapeau: 15-30 (50) mm Ø, arrondi, plat à infundibuliforme ou ombiliqué, un peu
+    ondulé, tissu épais de 0,5-2 mm, surface piléique étroitement zonée concentriquement,
+    veloutée, jaune-brun, rouille ou gris-brun, à marge ondulée-sinueuse, parfois
+    incisée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -93,7 +98,8 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: compact, brun à brun rouille, devenant plus pâle vers la face supérieure, 1-2 mm d'épaisseur
+  contexte: compact, brun à brun rouille, devenant plus pâle vers la face supérieure,
+    1-2 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -143,7 +149,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: ± brun doré au début, cannelle à brun foncé avec l'âge
+  face-poroïde: "± brun doré au début, cannelle à brun foncé avec l'âge"
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -216,7 +222,8 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 20-50 x 2-10 mm Ø, centré, parfois excentré, cylindrique, égal à ± aplati, souvent élargi vers la base, feutré vers la base, brun foncé à brun rouille
+  pied: 20-50 x 2-10 mm Ø, centré, parfois excentré, cylindrique, égal à ± aplati,
+    souvent élargi vers la base, feutré vers la base, brun foncé à brun rouille
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,14 +243,16 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: subdécurrents, brun rouille à cannelle, jusqu'à 3 mm de longueur ; ronds-anguleux, devenant inégaux, 2-4 par mm, à dissépiments minces, parfois légèrement incisés ou dentés avec l'âge
+  pores: subdécurrents, brun rouille à cannelle, jusqu'à 3 mm de longueur ; ronds-anguleux,
+    devenant inégaux, 2-4 par mm, à dissépiments minces, parfois légèrement incisés
+    ou dentés avec l'âge
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -307,3 +316,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

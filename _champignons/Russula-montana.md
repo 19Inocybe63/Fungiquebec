@@ -1,31 +1,30 @@
 ---
+title: Russula Montana
+date: 2017-03-27 00:00:00 Z
 nom: Russula montana
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/4/3892/14520440129_c3a194f4b7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14520440129/in/photolist-ouvxsk-o8854t-o883Y2-orny4z
 album-flickr:
-  - 72157673735320544
-
+- 72157673735320544
 details:
   nom-francais: 
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula montana</i> Shaffer
-  litterature: Shaffer, R.L. 1975. Some common North American species of Russula subsect. Emeticinae. Beihefte zur Nova Hedwigia. 51:207-237
-
+  espece: "<i>Russula montana</i> Shaffer"
+  litterature: Shaffer, R.L. 1975. Some common North American species of Russula subsect.
+    Emeticinae. Beihefte zur Nova Hedwigia. 51:207-237
 collections:
-  - fongarium: cKc0185
-    date: 12 juillet 2014
-    planche:
-      numero: cKc0185-0039
-      miniature: https://c2.staticflickr.com/4/3842/14762474843_f9fc3aae57_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/14762474843/in/photolist-ouvxsk-o8854t-o883Y2-orny4z
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0185
+  date: 12 juillet 2014
+  planche:
+    numero: cKc0185-0039
+    miniature: https://c2.staticflickr.com/4/3842/14762474843_f9fc3aae57_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/14762474843/in/photolist-ouvxsk-o8854t-o883Y2-orny4z
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -72,8 +71,10 @@ description:
   cellules-stromatiques: 
   chair: fragile, blanche
   chancre: 
-  chapeau: 35-70 mm Ø, convexe-étalé, rouge foncé à rouge grisâtre ou brun rougeâtre, parfois avec des zones décolorées ; lisse, cuticule se pelant jusqu'au ⅔ du rayon, marge rarement striée
-  cheilochrysocystides:
+  chapeau: 35-70 mm Ø, convexe-étalé, rouge foncé à rouge grisâtre ou brun rougeâtre,
+    parfois avec des zones décolorées ; lisse, cuticule se pelant jusqu'au ⅔ du rayon,
+    marge rarement striée
+  cheilochrysocystides: 
   cheilocystides: mucronées, sulfobenzaldéhyde positif (SBA+)
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -82,7 +83,16 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « <i>R. silvicola</i> vient surtout avec le chêne et le hêtre (pruche ?) ; pour être honnête, je n'ai jamais surveillé <i>montana</i> ; elle m'est peut-être passée sous le nez... plus d'une fois ! Il est possible que tous ici aient confondu <i>R. montana</i> et <i>R. aquosa</i> ss. Shaffer sans distinction. La difficulté est que ces espèces sont variables, et qu'on se tanne de les récolter encore et encore, et d'arriver toujours au même nom. C'est là que devient l'utilité du spécialiste. Après tout, il n'y a pas de raison que l'on ne trouve pas ici ces deux espèces de Shaffer... Certaines de nos grisescens sont probablement des <i>montana</i>. Cette semaine j'ai vu <i>R. aquosa</i> ss. Shaffer, son aspect graisseux ne trompe pas. »
+  commentaires: De Yves Lamoureux. « <i>R. silvicola</i> vient surtout avec le chêne
+    et le hêtre (pruche ?) ; pour être honnête, je n'ai jamais surveillé <i>montana</i>
+    ; elle m'est peut-être passée sous le nez... plus d'une fois ! Il est possible
+    que tous ici aient confondu <i>R. montana</i> et <i>R. aquosa</i> ss. Shaffer
+    sans distinction. La difficulté est que ces espèces sont variables, et qu'on se
+    tanne de les récolter encore et encore, et d'arriver toujours au même nom. C'est
+    là que devient l'utilité du spécialiste. Après tout, il n'y a pas de raison que
+    l'on ne trouve pas ici ces deux espèces de Shaffer... Certaines de nos grisescens
+    sont probablement des <i>montana</i>. Cette semaine j'ai vu <i>R. aquosa</i> ss.
+    Shaffer, son aspect graisseux ne trompe pas. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -229,7 +239,8 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: Cette espèce est déterminée provisoirement. Il en faudra davantage pour mieux la connaitre, la décrire et la mesurer.
+  premiere-mention: Cette espèce est déterminée provisoirement. Il en faudra davantage
+    pour mieux la connaitre, la décrire et la mesurer.
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
@@ -258,7 +269,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ia à pallidosporée IIa, blanche à crème pâle, d'après la charte de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
+  sporee: leucosporée Ia à pallidosporée IIa, blanche à crème pâle, d'après la charte
+    de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -283,3 +295,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

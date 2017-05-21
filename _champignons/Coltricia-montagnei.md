@@ -1,31 +1,30 @@
 ---
+title: Coltricia Montagnei
+date: 2017-03-18 00:00:00 Z
 nom: Coltricia montagnei
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3897/14842437391_8660812a9e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14842437391/in/photolist-oBznwX
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Polypore de Montagne
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Coltricia
-  espece: <i>Coltricia montagnei</i> (Fr.) Murrill
-  litterature: Murrill, W.A. 1920. Corrections and additions to the polypores of temperate North America. Mycologia. 12(1):6-24
-
+  espece: "<i>Coltricia montagnei</i> (Fr.) Murrill"
+  litterature: Murrill, W.A. 1920. Corrections and additions to the polypores of temperate
+    North America. Mycologia. 12(1):6-24
 collections:
-  - fongarium: cKc0197
-    date: 6 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0197
+  date: 6 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,7 +48,8 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: annuel, piléé, stipité, mou au frais, plus cassant au sec, souvent il se soude à un autre par la marge
+  basidiome: annuel, piléé, stipité, mou au frais, plus cassant au sec, souvent il
+    se soude à un autre par la marge
   bibliographies: 
   biotopes: pousse sur souche enfouie de conifères ou de feuillus
   boucles: 
@@ -68,8 +68,12 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du chapeau, circulaire à convexe, plat ou en entonnoir dont la bordure est mince et aiguë, droite ou légèrement onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou fibreux-écailleux à maturité, surtout vers le centre, généralement non zoné, légèrement zoné dans de rares cas, cannelle à brun rouille foncé
-  cheilochrysocystides:
+  chapeau: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du chapeau, circulaire à convexe,
+    plat ou en entonnoir dont la bordure est mince et aiguë, droite ou légèrement
+    onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou
+    fibreux-écailleux à maturité, surtout vers le centre, généralement non zoné, légèrement
+    zoné dans de rares cas, cannelle à brun rouille foncé
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -83,7 +87,9 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: indistinctement duplexe, 1) partie inférieure nettement plus dense ; 2) partie supérieure molle à subéreuse, concolore à la face poroïde jusqu'à 20 mm d'épaisseur au centre
+  contexte: indistinctement duplexe, 1) partie inférieure nettement plus dense ; 2)
+    partie supérieure molle à subéreuse, concolore à la face poroïde jusqu'à 20 mm
+    d'épaisseur au centre
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -203,7 +209,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 10-40 x 3-20 mm Ø, centré ou à peine excentré, massif, souvent élargi vers la base, homogène, tomenteux à verruqueux, glabre par endroits avec l'âge, cannelle à brun rouille foncé
+  pied: 10-40 x 3-20 mm Ø, centré ou à peine excentré, massif, souvent élargi vers
+    la base, homogène, tomenteux à verruqueux, glabre par endroits avec l'âge, cannelle
+    à brun rouille foncé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -223,18 +231,21 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: décurrents, 4-5 mm de profondeur ; anguleux au début, irréguliers et légèrement étirés près du pied, ensuite ils deviennent dédaléens par endroits, lacérés, 5-1,5 mm Ø
+  pores: décurrents, 4-5 mm de profondeur ; anguleux au début, irréguliers et légèrement
+    étirés près du pied, ensuite ils deviennent dédaléens par endroits, lacérés, 5-1,5
+    mm Ø
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Ce polypore fut nommé à la mémoire du mycologue français <b>Pierre François Camille Montagne</b> (1784-1866)
+  remarques: Ce polypore fut nommé à la mémoire du mycologue français <b>Pierre François
+    Camille Montagne</b> (1784-1866)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -288,3 +299,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

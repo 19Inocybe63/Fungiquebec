@@ -1,31 +1,29 @@
 ---
+title: Scleroderma Cepa
+date: 2017-03-26 00:00:00 Z
 nom: Scleroderma cepa
-date: 2017-03-26 00:00:00
 image: https://c1.staticflickr.com/1/394/20272518041_035dfb297c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20272518041/in/photolist-wApzri-wTpXk8
 album-flickr:
-  - 72157674632221620
-
+- 72157674632221620
 details:
   nom-francais: Scléroderme oignon
   ordre: Boletales
   famille: Sclerodermataceae
   genre: Scleroderma
-  espece: <i>Scleroderma cepa</i> Pers.
-  litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706 
-
+  espece: "<i>Scleroderma cepa</i> Pers."
+  litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
 collections:
-  - fongarium: cKc0390
-    date: 3 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0390
+  date: 3 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,7 +47,12 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 20-60 (80) mm Ø, subglobuleux à distinctement aplati ou pulviné au-dessus, sessile ou relié par un faisceau mycélien en pseudopied agglomérant des débris, à péridium épais, de 1-3 mm, tenace, lisse à finement écailleux puis craquelé-aréolé, surtout au-dessus, pâle, vite chamois, paille, jaune orangé brunâtre, brun rosâtre à brun ochracé, rougissant au froissement, s'ouvrant par un fente irrégulière ou cratère au sommet, en formant parfois des lobes
+  basidiome: 20-60 (80) mm Ø, subglobuleux à distinctement aplati ou pulviné au-dessus,
+    sessile ou relié par un faisceau mycélien en pseudopied agglomérant des débris,
+    à péridium épais, de 1-3 mm, tenace, lisse à finement écailleux puis craquelé-aréolé,
+    surtout au-dessus, pâle, vite chamois, paille, jaune orangé brunâtre, brun rosâtre
+    à brun ochracé, rougissant au froissement, s'ouvrant par un fente irrégulière
+    ou cratère au sommet, en formant parfois des lobes
   bibliographies: 
   biotopes: pousse au sol, sablonneux, mousse
   boucles: 
@@ -134,7 +137,8 @@ description:
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
-  glebe: longtemps blanche et très ferme au début, devenant rose rougeâtre à vineuse à la coupe, noir pourpré à noire, marbrée de blanchâtre, et poudreuse à maturité
+  glebe: longtemps blanche et très ferme au début, devenant rose rougeâtre à vineuse
+    à la coupe, noir pourpré à noire, marbrée de blanchâtre, et poudreuse à maturité
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -271,3 +275,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

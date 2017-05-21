@@ -1,31 +1,29 @@
 ---
+title: Russula Albonigra
+date: 2017-03-27 00:00:00 Z
 nom: Russula albonigra
-date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/9/8242/28826395870_8327d25997_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28826395870/in/photolist-LcknHf-LeNzMD-KVhPcm
 album-flickr:
-  - 72157671696496014
-
+- 72157671696496014
 details:
   nom-francais: Russule noire et blanche
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula albonigra</i> (Krombh.) Fr.
+  espece: "<i>Russula albonigra</i> (Krombh.) Fr."
   litterature: Fries, E.M. 1874. Hymenomycetes europaei., 1-755
-
 collections:
-  - fongarium: cKc0546
-    date: 20 août 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0546
+  date: 20 août 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,9 +66,12 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, cassante, blanche, grisonnant puis noircissant à la coupe ou au grattage
+  chair: épaisse, cassante, blanche, grisonnant puis noircissant à la coupe ou au
+    grattage
   chancre: 
-  chapeau: 22 x 42 mm Ø, convexe puis étalé-déprimé, infundibuliforme à maturité, ferme, glabre, mat, blanchâtre au début, puis brun grisâtre ou noirâtre, finalement entièrement noir, à marge unie
+  chapeau: 22 x 42 mm Ø, convexe puis étalé-déprimé, infundibuliforme à maturité,
+    ferme, glabre, mat, blanchâtre au début, puis brun grisâtre ou noirâtre, finalement
+    entièrement noir, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -131,7 +132,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -172,7 +172,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, étroites, avec nombreuses lamellules, serrées, blanc crème à chamois, noircissant au froissement
+  lames: adnées à subdécurrentes, étroites, avec nombreuses lamellules, serrées, blanc
+    crème à chamois, noircissant au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +206,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 19-29 x 7-11 mm Ø, subégal, dur, glabre, blanc, devenant grisâtre ou gris brunâtre au froissement
+  pied: 19-29 x 7-11 mm Ø, subégal, dur, glabre, blanc, devenant grisâtre ou gris
+    brunâtre au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -238,10 +240,13 @@ description:
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
     <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Soluté de gaïac = < 5" stipe ++ b (3, moyenne) ; > 5" lames ++ b (3, moyenne)
+  reactions-macrochimiques: 'Soluté de gaïac = < 5" stipe ++ b (3, moyenne) ; > 5"
+    lames ++ b (3, moyenne)
+
+'
   receptacle: 
-  remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement, elle noircit.
+  remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement,
+    elle noircit.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -250,7 +255,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ia-Ib, blanche à blanchâtre, d'après la charte de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
+  sporee: leucosporée Ia-Ib, blanche à blanchâtre, d'après la charte de couleur de
+    Romagnesi ; A-B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -280,3 +286,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

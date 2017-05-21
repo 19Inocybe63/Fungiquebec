@@ -1,31 +1,29 @@
 ---
+title: Flammulina Velutipes
+date: 2017-03-23 00:00:00 Z
 nom: Flammulina velutipes
-date: 2017-03-23 00:00:00
 image: https://c2.staticflickr.com/8/7303/8787825572_72e4f87309_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8787825572/in/photolist-enYcQc-euNGm8-eoxUo1
 album-flickr:
-  - 72157673778467321
-
+- 72157673778467321
 details:
   nom-francais: Collybie à pied velouté
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Flammulina
-  espece: <i>Flammulina velutipes</i> (Curtis) Singer
+  espece: "<i>Flammulina velutipes</i> (Curtis) Singer"
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
-
 collections:
-  - fongarium: cKc0002
-    date: 22 mai 2013
-    planche:
-      numero: cKc0002-0028
-      miniature: https://c2.staticflickr.com/4/3685/8858610751_b051e6e37f_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8858610751/in/photolist-enYcQc-euNGm8-eoxUo1
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0002
+  date: 22 mai 2013
+  planche:
+    numero: cKc0002-0028
+    miniature: https://c2.staticflickr.com/4/3685/8858610751_b051e6e37f_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8858610751/in/photolist-enYcQc-euNGm8-eoxUo1
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques, tétrasporiques, bouclées à la base, peu émergentes à maturité, 27-29 x 4-5 µm
+  basides: claviformes à cylindriques, tétrasporiques, bouclées à la base, peu émergentes
+    à maturité, 27-29 x 4-5 µm
   basidiospores: |
     ellipsoïdes à cylindriques, lisses, à paroi légèrement épaissie, de 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines dans le NH<SUB>4</SUB>OH 2%, pas de réaction dans le melzer, cyanophiles
     5,2 [6,2; 6,6] 7,7 x 3 [3,5; 3,6] 4,1 µm
@@ -62,7 +61,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: polymorphes, abondantes, cylindriques à claviformes, parfois flexueuses, ± 50-80 x 3-5 µm
+  caulocystides: polymorphes, abondantes, cylindriques à claviformes, parfois flexueuses,
+    ± 50-80 x 3-5 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -72,8 +72,12 @@ description:
   cellules-stromatiques: 
   chair: mince, blanchâtre, souvent aqueuse
   chancre: 
-  chapeau: 20-60 mm Ø, convexe puis étalé, collant à visqueux, lisse, orange brunâtre à brun jaunâtre, plus foncé vers le centre, à marge parfois translucide-striée
-  cheilocystides: polymorphes, abondantes, lagéniformes à fusiformes, 29-39 x 7-10 µm, lagéniformes à apex étroit, 33 x 9 µm, parfois largement fusiformes, 41-52 x 13-17 µm, rarement utriformes, 43 x 10-11 µm, rarement étroitement utriformes, 58 x 18-19 µm
+  chapeau: 20-60 mm Ø, convexe puis étalé, collant à visqueux, lisse, orange brunâtre
+    à brun jaunâtre, plus foncé vers le centre, à marge parfois translucide-striée
+  cheilocystides: polymorphes, abondantes, lagéniformes à fusiformes, 29-39 x 7-10
+    µm, lagéniformes à apex étroit, 33 x 9 µm, parfois largement fusiformes, 41-52
+    x 13-17 µm, rarement utriformes, 43 x 10-11 µm, rarement étroitement utriformes,
+    58 x 18-19 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -132,7 +136,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -205,12 +208,14 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 30-70 x 3-8 mm Ø, égal, tenace, velouté, souvent strié, crème au début, puis brun rougeâtre foncé depuis la base, parfois noir à maturité
+  pied: 30-70 x 3-8 mm Ø, égal, tenace, velouté, souvent strié, crème au début, puis
+    brun rougeâtre foncé depuis la base, parfois noir à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: en ixotrichoderme
   pileitrame: 
-  pileocystides: polymorphes, abondantes, fusiformes, ± 100 µm x 4-5 µm, capitées, ± 70 x 8-9 µm, utriformes
+  pileocystides: polymorphes, abondantes, fusiformes, ± 100 µm x 4-5 µm, capitées,
+    ± 70 x 8-9 µm, utriformes
   plasmode: 
   pleurocystides: absentes
   poils: 
@@ -280,3 +285,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

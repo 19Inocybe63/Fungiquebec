@@ -1,41 +1,39 @@
 ---
+title: Psathyrella Candolleana
+date: 2017-03-25 00:00:00 Z
 nom: Psathyrella candolleana
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7425/9000085449_fc6ec93855_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9000085449/in/photolist-eSj7PH-eHiPdx-eHiMR4
 album-flickr:
-  - 72157677434424756
-
+- 72157677434424756
 details:
   nom-francais: Psathyrelle de Candolle
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
-  espece: <i>Psathyrella candolleana</i> (Fr.) Maire
+  espece: "<i>Psathyrella candolleana</i> (Fr.) Maire"
   litterature: Maire 1913, Bull. Soc. Mycol. France 29:185
-
 collections:
-  - fongarium: cKc0046
-    date: 9 juin 2013
-    planche:
-      numero: cKc0046-0030
-      miniature: https://c2.staticflickr.com/6/5532/9101997751_d77b62e351_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/9101997751/in/album-72157630299294190/
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0332
-    date: 7 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0046
+  date: 9 juin 2013
+  planche:
+    numero: cKc0046-0030
+    miniature: https://c2.staticflickr.com/6/5532/9101997751_d77b62e351_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/9101997751/in/album-72157630299294190/
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0332
+  date: 7 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +54,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à subclavées, tétrasporiques, non bouclées à la base, 20-24 x 8-10 µm
+  basides: piriformes à subclavées, tétrasporiques, non bouclées à la base, 20-24
+    x 8-10 µm
   basidiospores: |
     ellipsoïdes à ovoïdes, lisses, avec petit pore germinatif et tronquées à l'apex, à paroi mince, avec petit appendice hilaire, à contenu homogènes, pas de réaction dans le melzer, non cyanophiles
     6,4 [7,4; 7,8] 8,8 x 3,8 [4,3; 4,5] 5 µm
@@ -72,7 +71,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: polymorphes, abondantes, cylindriques 50-94 x 9-11 µm, cylindriques à légèrement capitées
+  caulocystides: polymorphes, abondantes, cylindriques 50-94 x 9-11 µm, cylindriques
+    à légèrement capitées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -82,9 +82,16 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, humide, blanchâtre à jaune pâle, pâle au sec
   chancre: 
-  chapeau: 20-110 mm Ø, conique-obtus, ovoïde à convexe puis largement convexe, étalé à umboné-obtus, demeurant parfois largement conique, humide, lisse à rugueux, souvent avec plaques de fibrilles ou de squamules vers la marge au début, hygrophane, beige, chamois à miel foncé au début, graduellement brun date à brun pourpré sombre, au moins vers le pourtour, blanchâtre ou demeurant chamois fauve au disque au sec, à marge blanche, droite avec l'âge, translucide-striée, frangée de restes vélaires au début
-  cheilochrysocystides:
-  cheilocystides: en faisceaux, abondantes, utriformes, cylindriques à subcylindriques, largement lagéniformes, parfois cylindriques à l’apex capités
+  chapeau: 20-110 mm Ø, conique-obtus, ovoïde à convexe puis largement convexe, étalé
+    à umboné-obtus, demeurant parfois largement conique, humide, lisse à rugueux,
+    souvent avec plaques de fibrilles ou de squamules vers la marge au début, hygrophane,
+    beige, chamois à miel foncé au début, graduellement brun date à brun pourpré sombre,
+    au moins vers le pourtour, blanchâtre ou demeurant chamois fauve au disque au
+    sec, à marge blanche, droite avec l'âge, translucide-striée, frangée de restes
+    vélaires au début
+  cheilochrysocystides: 
+  cheilocystides: en faisceaux, abondantes, utriformes, cylindriques à subcylindriques,
+    largement lagéniformes, parfois cylindriques à l’apex capités
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -185,7 +192,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées puis étroitement adnexées, étroites, 2-5 mm de largeur, avec lamellules, serrées à très serrées, blanches à blanchâtres puis brun grisâtre ± teintées de violet ou de gris beige, à arêtes crénelées, blanchâtres
+  lames: adnées puis étroitement adnexées, étroites, 2-5 mm de largeur, avec lamellules,
+    serrées à très serrées, blanches à blanchâtres puis brun grisâtre ± teintées de
+    violet ou de gris beige, à arêtes crénelées, blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -218,7 +227,11 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 40-130 x 3-10 mm Ø, subégal à atténué vers la base, très fragile, creux, fibrilleux-soyeux et légèrement furfuracé vers l'apex, parfois strié, ± fibrilleux-écailleux à fibrilleux-apprimé vers la base, avec restes vélaires fibrilleux à submembraneux blancs et mous, souvent vite évanescents, formant parfois un anneau membraneux persistent, blanc à blanchâtre
+  pied: 40-130 x 3-10 mm Ø, subégal à atténué vers la base, très fragile, creux, fibrilleux-soyeux
+    et légèrement furfuracé vers l'apex, parfois strié, ± fibrilleux-écailleux à fibrilleux-apprimé
+    vers la base, avec restes vélaires fibrilleux à submembraneux blancs et mous,
+    souvent vite évanescents, formant parfois un anneau membraneux persistent, blanc
+    à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: celluleux, formé de 1-3 couches de cellules vésiculeuses
@@ -296,3 +309,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,41 +1,41 @@
 ---
+title: Deconica Montana
+date: 2017-03-20 00:00:00 Z
 nom: Deconica montana
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/4/3918/14248225929_dbab7946e2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14248225929/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
 album-flickr:
-  - 72157671577563914
-
+- 72157671577563914
 details:
   nom-francais: Psilocybe des montagnes
   ordre: Agaricales
   famille: Strophariaceae
   genre: Deconica
-  espece: <i>Deconica montana</i> (Pers.) P.D. Orton
-  litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
-
+  espece: "<i>Deconica montana</i> (Pers.) P.D. Orton"
+  litterature: Orton, P.D. 1960. New check list of British Agarics and Boleti, part
+    III (keys to Crepidotus, Deconica, Flocculina, Hygrophorus, Naucoria, Pluteus
+    and Volvaria). Transactions of the British Mycological Society. 43(2):159-439
 collections:
-  - fongarium: cKc0164
-    date: 11 juin 2014
-    planche:
-      numero: cKc0164-0072
-      miniature: https://c1.staticflickr.com/9/8640/16508644648_9e1a9b4e1b_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16508644648/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
-    geolocalisation: 45°58’40.33"N 70°57’40.76"O
-    elevation: 334 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0169
-    date: 15 juin 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°00’06.05"N 70°56’10.08"O
-    elevation: 315 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0164
+  date: 11 juin 2014
+  planche:
+    numero: cKc0164-0072
+    miniature: https://c1.staticflickr.com/9/8640/16508644648_9e1a9b4e1b_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16508644648/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
+  geolocalisation: 45°58’40.33"N 70°57’40.76"O
+  elevation: 334 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0169
+  date: 15 juin 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°00’06.05"N 70°56’10.08"O
+  elevation: 315 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -47,8 +47,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Guzmán, Gastón, ; Ott, Jonathan</b>. <i>Description and Chemical Analysis of a New Species of Hallucinogenic Psilocybe from the Pacific Northwest</i>, Mycologia, Vol. 68, No. 6 (Nov.-Dec., 1976), pp. 1261-1267, 8 p.
+  articles: "<b>Guzmán, Gastón, ; Ott, Jonathan</b>. <i>Description and Chemical Analysis
+    of a New Species of Hallucinogenic Psilocybe from the Pacific Northwest</i>, Mycologia,
+    Vol. 68, No. 6 (Nov.-Dec., 1976), pp. 1261-1267, 8 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -83,7 +84,11 @@ description:
   cellules-stromatiques: 
   chair: mince, assez fragile
   chancre: 
-  chapeau: 4-12 mm Ø, hémisphérique, convexe à subcampanulé, parfois légèrement umboné, glabre, parfois fibrilleux vers la marge, lisse, hygrophane, luisant, brun rougeâtre à marron à l'humidité et ochracé terne à chamois au sec ou couleur isabelle au centre et couleur isabelle ombré vers le pourtour, à marge enroulée au début, puis droite, striée-sillonnée à l'humidité
+  chapeau: 4-12 mm Ø, hémisphérique, convexe à subcampanulé, parfois légèrement umboné,
+    glabre, parfois fibrilleux vers la marge, lisse, hygrophane, luisant, brun rougeâtre
+    à marron à l'humidité et ochracé terne à chamois au sec ou couleur isabelle au
+    centre et couleur isabelle ombré vers le pourtour, à marge enroulée au début,
+    puis droite, striée-sillonnée à l'humidité
   cheilocystides: abondantes, lagéniformes à claviformes
   cheilomacrocystides: 
   chlamydospores: 
@@ -91,7 +96,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Au printemps, il n'est pas rare de voir <i>D. montana</i> pousser au travers les bryophytes et les mousses. »
+  commentaires: De Claude Kaufholtz-Couture. « Au printemps, il n'est pas rare de
+    voir <i>D. montana</i> pousser au travers les bryophytes et les mousses. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -141,7 +147,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exhalaison-de-la-chair: 
   exhalaison-des-lames: indistincte à fongique
   exoperidium: 
@@ -184,7 +189,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées décurrentes et légèrement arquées, larges, horizontales, espacées à subespacées, subconcolores au chapeau, brunes à brun pourpre
+  lames: adnées décurrentes et légèrement arquées, larges, horizontales, espacées
+    à subespacées, subconcolores au chapeau, brunes à brun pourpre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -216,7 +222,9 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 20-50 x 1-2 mm, élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau, brun marron à ochracé
+  pied: 20-50 x 1-2 mm, élancé, filiforme, égal, subflexueux, creux, pruineux vers
+    l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau,
+    brun marron à ochracé
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -289,3 +297,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Omphalotus Illudens
+date: 2017-03-23 00:00:00 Z
 nom: Omphalotus illudens
-date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/9/8431/7710718004_d5e8a9582b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7710718004/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
 album-flickr:
-  - 72157671763938194
-
+- 72157671763938194
 details:
   nom-francais: Clitocybe lumineux
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Omphalotus
-  espece: <i>Omphalotus illudens</i> (Schwein.) Bresinsky & Besl
-  litterature: Bresinsky, A.; Besl, H. 1979. Zum verwandtschaftlichen Anschluss von Omphalotus. Beihefte zur Sydowia. 8:98-109
-
+  espece: "<i>Omphalotus illudens</i> (Schwein.) Bresinsky & Besl"
+  litterature: Bresinsky, A.; Besl, H. 1979. Zum verwandtschaftlichen Anschluss von
+    Omphalotus. Beihefte zur Sydowia. 8:98-109
 collections:
-  - fongarium: cKc0007
-    date: 4 août 2012
-    planche:
-      numero: cKc0007-0007
-      miniature: https://c1.staticflickr.com/9/8358/8303542541_4758fa8d5b_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8303542541/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0007
+  date: 4 août 2012
+  planche:
+    numero: cKc0007-0007
+    miniature: https://c1.staticflickr.com/9/8358/8303542541_4758fa8d5b_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8303542541/in/photolist-dDKPUz-cMtJhE-cMtHPQ-cKwAw9-cKnrPS-cKnvws-cKnw2m
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -72,8 +71,14 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 40-150 mm Ø, non détachable du pied, glabre au début, puis très finement fibrilleux, convexe, étalé-déprimé, légèrement en entonnoir, parfois à la marge enroulée, orange à roux, plus foncé au centre, se craquelant en vieillissant, et se pelant comme une écorce, laissant entrevoir les lames, cuticule séparable jusqu'à la moitié du chapeau lorsque jeune, et séparable jusqu'au ¼ lorsqu'il est à maturité, laissant voir une chair ferme, orangé pâle
-  cheilocystides: fusiformes courbées, cylindriques, ramifiées à l’apex, irrégulières, et parfois diverticulées
+  chapeau: 40-150 mm Ø, non détachable du pied, glabre au début, puis très finement
+    fibrilleux, convexe, étalé-déprimé, légèrement en entonnoir, parfois à la marge
+    enroulée, orange à roux, plus foncé au centre, se craquelant en vieillissant,
+    et se pelant comme une écorce, laissant entrevoir les lames, cuticule séparable
+    jusqu'à la moitié du chapeau lorsque jeune, et séparable jusqu'au ¼ lorsqu'il
+    est à maturité, laissant voir une chair ferme, orangé pâle
+  cheilocystides: fusiformes courbées, cylindriques, ramifiées à l’apex, irrégulières,
+    et parfois diverticulées
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -173,7 +178,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: étroites, orangées, serrées, décurrentes, fourchues près du pied, lamellules, arêtes légèrement plus foncées
+  lames: étroites, orangées, serrées, décurrentes, fourchues près du pied, lamellules,
+    arêtes légèrement plus foncées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +212,11 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 30-70 x 10-20 mm Ø, blanchâtre à grisâtre, orangé à concolore, plus pâle que le chapeau, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement, finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du pied, ou presque, d'où l'on peut observer un léger suintement du pied, cespiteux
+  pied: 30-70 x 10-20 mm Ø, blanchâtre à grisâtre, orangé à concolore, plus pâle que
+    le chapeau, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement,
+    finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux
+    [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du
+    pied, ou presque, d'où l'on peut observer un léger suintement du pied, cespiteux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -287,3 +297,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

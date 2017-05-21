@@ -1,31 +1,30 @@
 ---
+title: Craterellus Fallax
+date: 2017-03-20 00:00:00 Z
 nom: Craterellus fallax
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5689/20978286609_8c2f1879e9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20978286609/in/photolist-xXMcJH
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Craterelle trompeuse
   ordre: Cantharellales
   famille: Cantharellaceae
   genre: Craterellus
-  espece: <i>Craterellus fallax</i> A.H. Sm.
-  litterature: Smith, A.H. 1968. The Cantharellaceae of Michigan. The Michigan Botanist. 7:143-183 
-
+  espece: "<i>Craterellus fallax</i> A.H. Sm."
+  litterature: Smith, A.H. 1968. The Cantharellaceae of Michigan. The Michigan Botanist.
+    7:143-183
 collections:
-  - fongarium: cKc0448
-    date: 5 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0448
+  date: 5 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,7 +48,10 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 30-90 x 10-50 mm Ø, tubulaire initialement, devenant profondément infundibuliforme, à face interne ruguleuse, avec fibrilles foncées, et dont la marge supérieure est enroulée puis arquée lorsque jeune et souvent partiellement roulé en maturité, ondulée
+  basidiome: 30-90 x 10-50 mm Ø, tubulaire initialement, devenant profondément infundibuliforme,
+    à face interne ruguleuse, avec fibrilles foncées, et dont la marge supérieure
+    est enroulée puis arquée lorsque jeune et souvent partiellement roulé en maturité,
+    ondulée
   bibliographies: 
   biotopes: pousse au sol, sous feuillus, dans les vieilles hêtraies
   boucles: 
@@ -69,7 +71,7 @@ description:
   chair: mince et fragile, grise à noirâtre
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -145,7 +147,8 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: lisse à plissé-ridé, décurrent, gris bleuté à gris-brun puis saumoné à ocre orangé avec l'âge, devenant noirâtre au froissement
+  hymenophore: lisse à plissé-ridé, décurrent, gris bleuté à gris-brun puis saumoné
+    à ocre orangé avec l'âge, devenant noirâtre au froissement
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -206,7 +209,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: indistinct, comme une courte extension de l'hyménophore, souvent creux, brun foncé à noirâtre
+  pied: indistinct, comme une courte extension de l'hyménophore, souvent creux, brun
+    foncé à noirâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -235,8 +239,10 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur toutes les parties
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration ou de décoloration
+    sur toutes les parties
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -272,3 +278,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

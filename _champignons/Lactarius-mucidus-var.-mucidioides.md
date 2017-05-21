@@ -1,31 +1,30 @@
 ---
+title: Lactarius Mucidus Var. Mucidioides
+date: 2017-03-25 00:00:00 Z
 nom: Lactarius mucidus var. mucidioides
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8178/7996919806_53f97e1310_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996919806/in/photolist-e9JUKB-dbEiDG
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Lactaire muqueux
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: <i>Lactarius mucidus var. mucidioides</i> Hesler & A.H. Sm.
-  litterature: Hesler, L.R.; Smith, A.H. 1979. North American species of Lactarius. :1-841
-
+  espece: "<i>Lactarius mucidus var. mucidioides</i> Hesler & A.H. Sm."
+  litterature: Hesler, L.R.; Smith, A.H. 1979. North American species of Lactarius.
+    :1-841
 collections:
-  - fongarium: cKc0015
-    date: 16 septembre 2012
-    planche:
-      numero: cKc0015-0023
-      miniature: https://c1.staticflickr.com/9/8104/8631542113_1917e45b33_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8631542113/in/photolist-e9JUKB-dbEiDG
-    geolocalisation: 46°57'01.25"N 71°17'51.46"O
-    elevation: 222 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Walt Sturgeon
-
+- fongarium: cKc0015
+  date: 16 septembre 2012
+  planche:
+    numero: cKc0015-0023
+    miniature: https://c1.staticflickr.com/9/8104/8631542113_1917e45b33_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8631542113/in/photolist-e9JUKB-dbEiDG
+  geolocalisation: 46°57'01.25"N 71°17'51.46"O
+  elevation: 222 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Walt Sturgeon
 description:
   acanthocytes: 
   acanthophyses: 
@@ -72,8 +71,10 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre
   chancre: 
-  chapeau: 30-90 mm Ø, convexe puis étalé-déprimé, visqueux, lisse, brun rougeâtre foncé au centre, rosâtre vers la marge
-  cheilocystides: polymorphes abondantes en ogives, moniliformes, fusiformes, subcylindriques, parfois largement cylindriques se terminant en éperon
+  chapeau: 30-90 mm Ø, convexe puis étalé-déprimé, visqueux, lisse, brun rougeâtre
+    foncé au centre, rosâtre vers la marge
+  cheilocystides: polymorphes abondantes en ogives, moniliformes, fusiformes, subcylindriques,
+    parfois largement cylindriques se terminant en éperon
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -181,7 +182,8 @@ description:
   latex: blanc, immuable au goût brûlant
   leptocystides: 
   macrocystides: 
-  macropleurocystides: peu abondantes clavées se terminant par un petit éperon, sulfovanilline positive (SV+), 40-50 x 10-12 µm
+  macropleurocystides: peu abondantes clavées se terminant par un petit éperon, sulfovanilline
+    positive (SV+), 40-50 x 10-12 µm
   marge: 
   marge-et-face-externe: 
   mediostrate: 
@@ -206,7 +208,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 50-90 x 10-17 mm Ø, égal, creux, viscidule, blanchâtre au sommet, beige rosé plus bas, souvent orné de fossettes brun rougeâtre
+  pied: 50-90 x 10-17 mm Ø, égal, creux, viscidule, blanchâtre au sommet, beige rosé
+    plus bas, souvent orné de fossettes brun rougeâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en ixotricoderme
@@ -276,3 +279,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

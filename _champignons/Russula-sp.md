@@ -1,31 +1,29 @@
 ---
+title: Russula Sp
+date: 2017-03-27 00:00:00 Z
 nom: Russula sp.
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/4/3864/15251402335_29cb990693_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15251402335
 album-flickr:
-  - 72157676583083691
-
+- 72157676583083691
 details:
   nom-francais: 
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula sp.</i>
+  espece: "<i>Russula sp.</i>"
   litterature: 
-
 collections:
-  - fongarium: cKc0254
-    date: 15 septembre 2014
-    planche:
-      numero: cKc0254-0041
-      miniature: https://c2.staticflickr.com/6/5602/15423190950_c0cc7db6c3_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15423190950/in/photolist-puTTkm-peHqyF-peHoGp/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: 
-
+- fongarium: cKc0254
+  date: 15 septembre 2014
+  planche:
+    numero: cKc0254-0041
+    miniature: https://c2.staticflickr.com/6/5602/15423190950_c0cc7db6c3_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15423190950/in/photolist-puTTkm-peHqyF-peHoGp/
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,10 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes élancées, avec granulations mais souvent avec contenu vacuolaire situé à la base puis gravitant au sommet avec l’âge devenant guttulées à pluriguttulées verdâtre dans le R.C.Am., tétrasporiques entre 6-9 µm de longueur, non bouclées à la base, 43-50 x 9-10 µm
+  basides: claviformes élancées, avec granulations mais souvent avec contenu vacuolaire
+    situé à la base puis gravitant au sommet avec l’âge devenant guttulées à pluriguttulées
+    verdâtre dans le R.C.Am., tétrasporiques entre 6-9 µm de longueur, non bouclées
+    à la base, 43-50 x 9-10 µm
   basidiospores: |
     globuleuses à subglobuleuses en vue frontale, largement elliptiques à elliptiques, parfois subréniformes vues de profil, verruqueuses avec verrues isolées et de rares connexifs, à paroi mince, avec proéminences jusqu'à 0,6 µm de hauteur, avec appendice hilaire, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,2 [8,3; 8,9] 10 x 5,9 [6,3; 6,6] 7,1 µm
@@ -62,7 +63,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: occasionnelles, souvent en faisceaux, longuement aciculaires, souvent peu ou largement pédicellées, 21,1-53,7 x 1,6-2,2 µm
+  caulocystides: occasionnelles, souvent en faisceaux, longuement aciculaires, souvent
+    peu ou largement pédicellées, 21,1-53,7 x 1,6-2,2 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -72,9 +74,12 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche, immuable
   chancre: 
-  chapeau: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon, avec couche supérieure de la cuticule finement rompue à la marge ; mauve violacé avec de petites plaques rosâtres vers le centre
-  cheilochrysocystides:
-  cheilocystides: peu abondantes, cylindriques, parfois submucronées, avec nécropigments, 38-65 x 7-9 µm, réaction sulfovanilline négative (SV-)
+  chapeau: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon,
+    avec couche supérieure de la cuticule finement rompue à la marge ; mauve violacé
+    avec de petites plaques rosâtres vers le centre
+  cheilochrysocystides: 
+  cheilocystides: peu abondantes, cylindriques, parfois submucronées, avec nécropigments,
+    38-65 x 7-9 µm, réaction sulfovanilline négative (SV-)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -82,8 +87,19 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: |
-    De Claude Kaufholtz-Couture. « Si je me fie aux critères de la sporée qui indique que <i>R. cyanoxantha</i> et <i>R. variata</i> ont une sporée blanche (A, d'après Kibby), je peux affirmer aujourd'hui que, pour le moment, je n'ai jamais vu ces espèces au Québec. Pour ma part, la sporée de mes collections est toujours pallidosporée IIa-IIb, crème pâle à crème moyen d'après la charte de couleur de Romagnesi et B-C d'après la charte de couleur de Kibby. De plus, l'utilisation du sulfate de fer (FeSO<sub>4</sub>) devient très importante, car pour deux espèces semblables, la chair du stipe devient soit légèrement verdâtre à verdâtre, ou orangé. En conclusion, je pense que la couleur sporale de <i>R. cyanoxantha</i> et de <i>R. variata</i> (celles du Québec seulement) a un spectre plus large que celui connu. Il faudra envisager sérieusement à étudier cet aspect. »
+  commentaires: 'De Claude Kaufholtz-Couture. « Si je me fie aux critères de la sporée
+    qui indique que <i>R. cyanoxantha</i> et <i>R. variata</i> ont une sporée blanche
+    (A, d''après Kibby), je peux affirmer aujourd''hui que, pour le moment, je n''ai
+    jamais vu ces espèces au Québec. Pour ma part, la sporée de mes collections est
+    toujours pallidosporée IIa-IIb, crème pâle à crème moyen d''après la charte de
+    couleur de Romagnesi et B-C d''après la charte de couleur de Kibby. De plus, l''utilisation
+    du sulfate de fer (FeSO<sub>4</sub>) devient très importante, car pour deux espèces
+    semblables, la chair du stipe devient soit légèrement verdâtre à verdâtre, ou
+    orangé. En conclusion, je pense que la couleur sporale de <i>R. cyanoxantha</i>
+    et de <i>R. variata</i> (celles du Québec seulement) a un spectre plus large que
+    celui connu. Il faudra envisager sérieusement à étudier cet aspect. »
+
+'
   conidies: 
   conidiome: 
   conidiophores: 
@@ -175,7 +191,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: légèrement élastiques, mais pas aussi lardacées que <i>R. cyanoxantha</i> et <i>R. variata</i>, lamellules nombreuses 14+, bifurcations concentrées près du pied, blanches
+  lames: légèrement élastiques, mais pas aussi lardacées que <i>R. cyanoxantha</i>
+    et <i>R. variata</i>, lamellules nombreuses 14+, bifurcations concentrées près
+    du pied, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -216,7 +234,9 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes, cylindriques mucronées à largement mucronées, parfois avec apex moniliformes, avec nécropigments, 58-70 x 8-11 µm, sulfovanilline négative (SV-), très faiblement sulfobenzaldéhyde ± positif (SBA±)
+  pleurocystides: abondantes, cylindriques mucronées à largement mucronées, parfois
+    avec apex moniliformes, avec nécropigments, 58-70 x 8-11 µm, sulfovanilline négative
+    (SV-), très faiblement sulfobenzaldéhyde ± positif (SBA±)
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -247,11 +267,14 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = aucune coloration sur les lames ; légèrement verdâtre sur le stipe
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<sub>4</sub>) = aucune coloration
+    sur les lames ; légèrement verdâtre sur le stipe
+
+'
   receptacle: 
-  remarques: |
-    Code de Kibby: D I K M(N) / P T
+  remarques: 'Code de Kibby: D I K M(N) / P T
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -260,7 +283,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi ; C d'après la charte de couleur de Kibby
+  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur
+    de Romagnesi ; C d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -286,3 +310,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Tuber Gardneri
+date: 2017-03-25 00:00:00 Z
 nom: Tuber gardneri
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/360/19748538615_4f93219236_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19748538615/in/photostream/
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: 
   ordre: Pezizales
   famille: Tuberaceae
   genre: Tuber
-  espece: <i>Tuber gardneri</i> Gilkey
-  litterature: Gilkey, H.M. 1916. A revision of the Tuberales of California. University of California Publications in Botany. 6:275-356
-
+  espece: "<i>Tuber gardneri</i> Gilkey"
+  litterature: Gilkey, H.M. 1916. A revision of the Tuberales of California. University
+    of California Publications in Botany. 6:275-356
 collections:
-  - fongarium: cKc0348
-    date: 14 juillet 2015
-    planche:
-      numero: cKc0348-0092
-      miniature: https://c1.staticflickr.com/1/366/19797225815_91ec6199aa_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/19797225815/in/photostream/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0348
+  date: 14 juillet 2015
+  planche:
+    numero: cKc0348-0092
+    miniature: https://c1.staticflickr.com/1/366/19797225815_91ec6199aa_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/19797225815/in/photostream/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -44,7 +43,9 @@ description:
     20,5 [28,7; 35] 43,1 × 15,7 [20,5; 24,2] 29 µm
     Q = 1,1 [1,3; 1,5] 1,7; N = 13; C = 95%
     Me = 31,8 × 22,4 µm; Qe = 1,4
-  asques: globuleux, piriformes, à paroi épaisse, contenant 1 à 3 ascospores (2 ascospores par asque, la norme ; une ascospore par asque, plus rare) 50,8 [71,5; 104,9] 125,5 × 28,7 [38,5; 54,3] 64,1 µm
+  asques: globuleux, piriformes, à paroi épaisse, contenant 1 à 3 ascospores (2 ascospores
+    par asque, la norme ; une ascospore par asque, plus rare) 50,8 [71,5; 104,9] 125,5
+    × 28,7 [38,5; 54,3] 64,1 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -55,7 +56,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous <i>Quercus rubra</i>, <i>Betula papyrifera</i>, <i>Pinus resinosa</i>, <i>Pinus strobus</i>, <i>Acer saccharum</i>
+  biotopes: pousse dans le sol, sous <i>Quercus rubra</i>, <i>Betula papyrifera</i>,
+    <i>Pinus resinosa</i>, <i>Pinus strobus</i>, <i>Acer saccharum</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -73,7 +75,7 @@ description:
   chair: 
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -140,7 +142,8 @@ description:
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
-  glebe: brun très foncé, rouge brique à brun rougeâtre à maturité, marbrée de veines blanches
+  glebe: brun très foncé, rouge brique à brun rougeâtre à maturité, marbrée de veines
+    blanches
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -234,8 +237,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Trappe, Matt ; Evans, Frank ; Trappe, James</b>. <i>Field Guide to North American Truffles</i> ; Hunting, Identifying, and Enjoying the World’s most Prized Fungi, 2007, 230 pp.
+  publications: "<b>Trappe, Matt ; Evans, Frank ; Trappe, James</b>. <i>Field Guide
+    to North American Truffles</i> ; Hunting, Identifying, and Enjoying the World’s
+    most Prized Fungi, 2007, 230 pp.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -261,8 +265,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Tuber gardnerii</i> Gilkey (1916)
+  synonymie: "<i>Tuber gardnerii</i> Gilkey (1916)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -278,3 +281,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

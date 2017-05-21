@@ -1,31 +1,30 @@
 ---
+title: Cantharellus Cibarius Var. Pallidifolius
+date: 2017-05-21 00:00:00 Z
 nom: Cantharellus cibarius var. pallidifolius
-date: 2017-05-21 00:00:00
 image: https://c2.staticflickr.com/6/5486/9411661930_199db756a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9411661930/in/photolist-fkFfmJ-fkFech
 album-flickr:
-  - 72157681243916122
-
+- 72157681243916122
 details:
   nom-francais: Chanterelle commune var. à plis pâles
   ordre: Cantharellales
   famille: Cantharellaceae
   genre: Cantharellus
-  espece: <i>Cantharellus cibarius var. pallidifolius</i>
-  litterature: Smith, A.H. 1968. The Cantharellaceae of Michigan. The Michigan Botanist. 7:143-183
-
+  espece: "<i>Cantharellus cibarius var. pallidifolius</i>"
+  litterature: Smith, A.H. 1968. The Cantharellaceae of Michigan. The Michigan Botanist.
+    7:143-183
 collections:
-  - fongarium: sans numéro
-    date: 31 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 31 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -69,8 +68,11 @@ description:
   cellules-stromatiques: 
   chair: ferme, épaisse, blanche
   chancre: 
-  chapeau: 40-140 mm Ø, largement convexe devenant largement convexe à légèrement déprimé à maturité, sec, amati par de fines fibrilles, non hygrophane, jaune chamois à jaune d'œuf au frais, se tachant rapidement de brun ochracé au froissement, à marge incurvée à ondulée
-  cheilochrysocystides:
+  chapeau: 40-140 mm Ø, largement convexe devenant largement convexe à légèrement
+    déprimé à maturité, sec, amati par de fines fibrilles, non hygrophane, jaune chamois
+    à jaune d'œuf au frais, se tachant rapidement de brun ochracé au froissement,
+    à marge incurvée à ondulée
+  cheilochrysocystides: 
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -145,7 +147,9 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: formé de plis lamelliformes, décurrents, étroits, souvent fourchus ou anastomosés, espacés à serrés, à arêtes obtuses, pâles au début, jaunâtre très pâle presque tout au long du développement, puis graduellement plus foncés
+  hymenophore: formé de plis lamelliformes, décurrents, étroits, souvent fourchus
+    ou anastomosés, espacés à serrés, à arêtes obtuses, pâles au début, jaunâtre très
+    pâle presque tout au long du développement, puis graduellement plus foncés
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -208,7 +212,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 35-80 x 10-30 mm Ø, cylindrique, égal à atténué vers la base, plein, blanc, devenant rouille ochracé au froissement
+  pied: 35-80 x 10-30 mm Ø, cylindrique, égal à atténué vers la base, plein, blanc,
+    devenant rouille ochracé au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -237,8 +242,10 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = brun rougeâtre sur le chapeau
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<sub>4</sub>) = brun rougeâtre sur
+    le chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -278,3 +285,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Cortinarius Iodes
+date: 2017-03-20 00:00:00 Z
 nom: Cortinarius iodes
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5323/9516208641_61f8abeb80_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9516208641/in/photolist-fuV4hM
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Cortinaire violacé
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius iodes</i> Berk. & M.A. Curtis
-  litterature: Berkeley, M.J.; Curtis, M.A. 1853. Centuries of North American fungi. Annals and Magazine of Natural History. 12:417-435
-
+  espece: "<i>Cortinarius iodes</i> Berk. & M.A. Curtis"
+  litterature: Berkeley, M.J.; Curtis, M.A. 1853. Centuries of North American fungi.
+    Annals and Magazine of Natural History. 12:417-435
 collections:
-  - fongarium: cKc0109
-    date: 15 août 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0109
+  date: 15 août 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,11 @@ description:
   cellules-stromatiques: 
   chair: douce, molle, immuable, blanchâtre à lilas pâle
   chancre: 
-  chapeau: 20-70 mm Ø, convexe, devenant largement convexe à campanulé, visqueux à gluant lorsque frais, glabre, violet à lavande lorsque jeune, développant des taches jaunâtres à brunâtres, particulièrement près du centre et finalement devenant jaunâtre à grisâtre
-  cheilochrysocystides:
+  chapeau: 20-70 mm Ø, convexe, devenant largement convexe à campanulé, visqueux à
+    gluant lorsque frais, glabre, violet à lavande lorsque jeune, développant des
+    taches jaunâtres à brunâtres, particulièrement près du centre et finalement devenant
+    jaunâtre à grisâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -173,7 +175,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées à subserrées, violet pâle devenant cannelle à brun rouille ; couvertes par la cortine lorsque jeune
+  lames: adnées, serrées à subserrées, violet pâle devenant cannelle à brun rouille
+    ; couvertes par la cortine lorsque jeune
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +210,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent élargi à la base, devenant plus égal à maturité, visqueux, blanchâtre à lilas violacé ou argenté, souvent avec une zone annuliforme rouille, mycélium basal blanc et abondant
+  pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent élargi à la base, devenant
+    plus égal à maturité, visqueux, blanchâtre à lilas violacé ou argenté, souvent
+    avec une zone annuliforme rouille, mycélium basal blanc et abondant
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,8 +244,10 @@ description:
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration, ou rosâtre sur la surface du chapeau ; brunâtre sur la chair
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration, ou rosâtre sur
+    la surface du chapeau ; brunâtre sur la chair
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -276,3 +283,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

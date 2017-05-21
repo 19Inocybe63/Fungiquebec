@@ -1,41 +1,39 @@
 ---
+title: Russula Brunneoviolacea
+date: 2017-03-27 00:00:00 Z
 nom: Russula brunneoviolacea
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/4/3910/15251215762_2c74fa0dfe_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15251215762/in/photolist-pMgKKQ-oXf7BF-peGt6U
 album-flickr:
-  - 72157673786196243
-
+- 72157673786196243
 details:
   nom-francais: Russule brun violacé
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula brunneoviolacea</i> Crawshay
+  espece: "<i>Russula brunneoviolacea</i> Crawshay"
   litterature: Crawshay, S. 1930. The Spore Ornamentation of the Russulas. :1-188
-
 collections:
-  - fongarium: cKc0061
-    date: 1 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°51'19.0"N 71°06'38.2"O
-    elevation: 60 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0255
-    date: 15 septembre 2014
-    planche:
-      numero: cKc0255-0045
-      miniature: https://c2.staticflickr.com/8/7510/15608521858_d3848785a1_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15608521858/in/photolist-peGt6U-oXf7BF-pMgKKQ
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0061
+  date: 1 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°51'19.0"N 71°06'38.2"O
+  elevation: 60 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0255
+  date: 15 septembre 2014
+  planche:
+    numero: cKc0255-0045
+    miniature: https://c2.staticflickr.com/8/7510/15608521858_d3848785a1_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15608521858/in/photolist-peGt6U-oXf7BF-pMgKKQ
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -82,8 +80,10 @@ description:
   cellules-stromatiques: 
   chair: cassante, blanche
   chancre: 
-  chapeau: 46-80 mm Ø, convexe à étalé déprimé, charnu, cuticule se pèle jusqu'au ½ du rayon, cuticule collante, violet, gris pourpre, brun violet à brun rougeâtre, à pigment toujours granuleux
-  cheilochrysocystides:
+  chapeau: 46-80 mm Ø, convexe à étalé déprimé, charnu, cuticule se pèle jusqu'au
+    ½ du rayon, cuticule collante, violet, gris pourpre, brun violet à brun rougeâtre,
+    à pigment toujours granuleux
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -218,7 +218,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 47-70 x 1-11 mm Ø, cylindrique à subclaviforme, égal, plein à légèrement farci, blanc, souvent taché de brunâtre
+  pied: 47-70 x 1-11 mm Ø, cylindrique à subclaviforme, égal, plein à légèrement farci,
+    blanc, souvent taché de brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -257,8 +258,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<SUB>4</SUB>) = lames deviennent rosé à saumon ; stipe devient légèrement rosé
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<SUB>4</SUB>) = lames deviennent
+    rosé à saumon ; stipe devient légèrement rosé
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -269,7 +272,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; C-D d'après la charte de couleur de Kibby
+  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur
+    Romagnesi ; C-D d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -299,3 +303,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

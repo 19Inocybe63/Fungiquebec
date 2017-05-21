@@ -1,41 +1,40 @@
 ---
+title: Gyroporus Cyanescens
+date: 2017-03-17 00:00:00 Z
 nom: Gyroporus cyanescens
-date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/9/8441/28995578361_e4c677dbe9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28995578361/in/photolist-L8FwLE-LbeVfR-z8SLYU-ySoPCV-ycT6no
 album-flickr:
-  - 72157675737892515
-
+- 72157675737892515
 details:
   nom-francais: Bolet indogotier
   ordre: Boletales
   famille: Gyroporaceae
   genre: Gyroporus
-  espece: <i>Gyroporus cyanescens</i> (Bull.) Quél.
-  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
-
+  espece: "<i>Gyroporus cyanescens</i> (Bull.) Quél."
+  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim
+    in Gallia Vigentium. :1-352
 collections:
-  - fongarium: cKc0478
-    date: 27 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0540
-    date: 18 août 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0478
+  date: 27 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0540
+  date: 18 août 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -61,7 +60,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, bien drainé, souvent au bord des sentiers, toujours lié aux bouleaux
+  biotopes: pousse au sol, bien drainé, souvent au bord des sentiers, toujours lié
+    aux bouleaux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -78,7 +78,9 @@ description:
   cellules-stromatiques: 
   chair: cassante, blanchâtre à jaune pâle, devenant rapidement bleu foncé à la coupe
   chancre: 
-  chapeau: 125 mm Ø, convexe à largement convexe, subétalé, sec, fibrilleux-méchuleux, grossièrement rugueux, crème, jaune paille à jaune brunâtre pâle, bleuissant fortement au froissement, à marge incurvée au début, unie
+  chapeau: 125 mm Ø, convexe à largement convexe, subétalé, sec, fibrilleux-méchuleux,
+    grossièrement rugueux, crème, jaune paille à jaune brunâtre pâle, bleuissant fortement
+    au froissement, à marge incurvée au début, unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -212,7 +214,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 85 x 32 mm Ø, subégal à renflé au milieu ou vers la base, cassant, sec, farci au début, devenant creux à maturité, subtomenteux-fibrilleux, concolore au chapeau, bleuissant au froissement
+  pied: 85 x 32 mm Ø, subégal à renflé au milieu ou vers la base, cassant, sec, farci
+    au début, devenant creux à maturité, subtomenteux-fibrilleux, concolore au chapeau,
+    bleuissant au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -275,7 +279,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 5-10 mm de longueur
+  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 5-10 mm
+    de longueur
   type: 
   typique: 
   voile: 
@@ -284,3 +289,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

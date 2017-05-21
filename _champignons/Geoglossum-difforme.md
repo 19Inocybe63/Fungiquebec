@@ -1,31 +1,29 @@
 ---
+title: Geoglossum Difforme
+date: 2017-03-24 00:00:00 Z
 nom: Geoglossum difforme
-date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/4/3697/19666230344_580e9cd6e7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19666230344/in/photostream/
 album-flickr:
-  - 72157675365108575
-
+- 72157675365108575
 details:
   nom-francais: Géoglosse difforme
   ordre: Geoglossales
   famille: Geoglossaceae
   genre: Geoglossum
-  espece: <i>Geoglossum difforme</i> Fr.
+  espece: "<i>Geoglossum difforme</i> Fr."
   litterature: Fries, E.M. 1815. Observationes mycologicae. 1:1-230
-
 collections:
-  - fongarium: cKc0393
-    date: 4 août 2015
-    planche:
-      numero: cKc0393-0095
-      miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/19912097704/in/dateposted/
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0393
+  date: 4 août 2015
+  planche:
+    numero: cKc0393-0095
+    miniature: https://c2.staticflickr.com/6/5762/19912097704_64314fe438_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/19912097704/in/dateposted/
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -60,12 +58,13 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol des forêts de feuillus ou de conifères, parfois sur débris ligneux pourri
+  biotopes: pousse au sol des forêts de feuillus ou de conifères, parfois sur débris
+    ligneux pourri
   boucles: 
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: ± cylindriques à longuement fusiformes, 7-11 mm Ø à l'apex, noir
+  capitule: "± cylindriques à longuement fusiformes, 7-11 mm Ø à l'apex, noir"
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 
@@ -202,7 +201,8 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: grêles, septées, brunes, tordues-noueuses à l'apex (semblable à une tête de violon)
+  paraphyses: grêles, septées, brunes, tordues-noueuses à l'apex (semblable à une
+    tête de violon)
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -281,3 +281,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,29 @@
 ---
+title: Russula Luteispora
+date: 2017-03-27 00:00:00 Z
 nom: Russula luteispora
-date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/1/300/20000728785_173a5c29df_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20000728785/in/photolist-wtoXRt-wtp2DD
 album-flickr:
-  - 72157677592462810
-
+- 72157677592462810
 details:
   nom-francais: 
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula luteispora</i> Murrill
+  espece: "<i>Russula luteispora</i> Murrill"
   litterature: Murrill, W.A. 1944. More fungi from Florida. Lloydia. 7(4):303-327
-
 collections:
-  - fongarium: cKc0372
-    date: 25 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0372
+  date: 25 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +66,10 @@ description:
   cellules-stromatiques: 
   chair: mince, immuable, blanche
   chancre: 
-  chapeau: 20 mm Ø, convexe, rougeâtre à plus pâle vers la marge, plus foncé au centre, cuticule collante se pèle facilement jusqu'au ¾ du rayon, rouge, avec centre rouge noirâtre
-  cheilochrysocystides:
+  chapeau: 20 mm Ø, convexe, rougeâtre à plus pâle vers la marge, plus foncé au centre,
+    cuticule collante se pèle facilement jusqu'au ¾ du rayon, rouge, avec centre rouge
+    noirâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -241,8 +241,10 @@ description:
     <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = lames légèrement rosées, orangées ; stipe légèrement rosé, orangé
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<sub>4</sub>) = lames légèrement
+    rosées, orangées ; stipe légèrement rosé, orangé
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -253,7 +255,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: xanthosporée, IVa-IVc, jaune pâle à jaune moyen, d'après la charte de couleur de Romagnesi ; F-G d'après la charte de couleur de Kibby
+  sporee: xanthosporée, IVa-IVc, jaune pâle à jaune moyen, d'après la charte de couleur
+    de Romagnesi ; F-G d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -278,3 +281,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

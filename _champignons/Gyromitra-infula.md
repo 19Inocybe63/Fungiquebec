@@ -1,31 +1,30 @@
 ---
+title: Gyromitra Infula
+date: 2017-03-24 00:00:00 Z
 nom: Gyromitra infula
-date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/9/8455/7996468533_a6a0aa7ab9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996468533/in/photolist-dbC215-dbBZv8-dbBZ9e
 album-flickr:
-  - 72157676477017940
-
+- 72157676477017940
 details:
   nom-francais: Gyromitre en turban
   ordre: Pezizales
   famille: Discinaceae
   genre: Gyromitra
-  espece: <i>Gyromitra infula</i> (Schaeff.) Quél.
-  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
-
+  espece: "<i>Gyromitra infula</i> (Schaeff.) Quél."
+  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim
+    in Gallia Vigentium. :1-352
 collections:
-  - fongarium: cKc0016
-    date: 16 septembre 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°57'01.25"N 71°17'51.46"O
-    elevation: 222 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0016
+  date: 16 septembre 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°57'01.25"N 71°17'51.46"O
+  elevation: 222 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -34,7 +33,9 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 20-100 x 25-100 mm Ø, souvent en forme de selle ou de mitre, parfois à 2-4 lobes pointus irréguliers ou en forme de corne, creuse ou chambrée, stipitée, à marge incurvée, ± soudée au pied
+  apothecie: 20-100 x 25-100 mm Ø, souvent en forme de selle ou de mitre, parfois
+    à 2-4 lobes pointus irréguliers ou en forme de corne, creuse ou chambrée, stipitée,
+    à marge incurvée, ± soudée au pied
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -51,7 +52,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, souvent près et même sur des débris ligneux (sur vieux <i>Fomes</i>), ou sur bois pourri de conifères
+  biotopes: pousse au sol, souvent près et même sur des débris ligneux (sur vieux
+    <i>Fomes</i>), ou sur bois pourri de conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +71,7 @@ description:
   chair: mince, cassante, blanchâtre
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -128,12 +130,13 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: ± fongique
+  exhalaison: "± fongique"
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: irrégulièrement plissée, ou un peu convolutée, pubescente, parfois sublisse
+  face-externe: irrégulièrement plissée, ou un peu convolutée, pubescente, parfois
+    sublisse
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -145,7 +148,9 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: typiquement ondulé-rugueux, parfois convoluté-plissé à sublisse, brun jaunâtre, brun orangé à tan au frais, souvent taché de brun noirâtre, brun rougeâtre à brun foncé teinté de pourpré avec l'âge
+  hymenophore: typiquement ondulé-rugueux, parfois convoluté-plissé à sublisse, brun
+    jaunâtre, brun orangé à tan au frais, souvent taché de brun noirâtre, brun rougeâtre
+    à brun foncé teinté de pourpré avec l'âge
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -205,7 +210,9 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 20-80 x 20-30 mm Ø, égal ou élargi vers la base, comprimé ou souvent cannelé vers la base, creux ou farci, lisse ou légèrement irrégulier, pubescent, finement granuleux, blanchâtre, crème rosé à brun rougeâtre terne
+  pied: 20-80 x 20-30 mm Ø, égal ou élargi vers la base, comprimé ou souvent cannelé
+    vers la base, creux ou farci, lisse ou légèrement irrégulier, pubescent, finement
+    granuleux, blanchâtre, crème rosé à brun rougeâtre terne
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -282,3 +289,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

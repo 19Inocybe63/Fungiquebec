@@ -1,31 +1,30 @@
 ---
+title: Dacrymyces Chrysospermus
+date: 2017-03-20 00:00:00 Z
 nom: Dacrymyces chrysospermus
-date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/9/8493/8330888434_22bb5d7a01_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8330888434/in/photolist-dG9Y65-dGaYTu
 album-flickr:
-  - 72157674177774881
-
+- 72157674177774881
 details:
   nom-francais: Trémelle à basidiospores jaunes
   ordre: Dacrymycetales
   famille: Dacrymycetaceae
   genre: Dacrymyces
-  espece: <i>Dacrymyces chrysospermus</i> Berk. & M.A. Curtis
-  litterature: Berkeley, M.J. 1873. Notices of North American fungi (cont.). Grevillea. 2(14):17-20
-
+  espece: "<i>Dacrymyces chrysospermus</i> Berk. & M.A. Curtis"
+  litterature: Berkeley, M.J. 1873. Notices of North American fungi (cont.). Grevillea.
+    2(14):17-20
 collections:
-  - fongarium: cKc0019
-    date: 13 octobre 2012
-    planche:
-      numero: cKc0019-0009
-      miniature: https://c1.staticflickr.com/9/8363/8330690630_e8af73e9a4_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8330690630/in/photolist-dG9Y65-dGaYTu
-    geolocalisation: 46°54'03.96"N 71°10'40.83"O
-    elevation: 145 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0019
+  date: 13 octobre 2012
+  planche:
+    numero: cKc0019-0009
+    miniature: https://c1.staticflickr.com/9/8363/8330690630_e8af73e9a4_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8330690630/in/photolist-dG9Y65-dGaYTu
+  geolocalisation: 46°54'03.96"N 71°10'40.83"O
+  elevation: 145 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -52,7 +51,11 @@ description:
     Q = 2,3 [2,7; 2,8] 3,2; N = 33; C = 95%
     Me = 19,9 x 7,3 µm; Q moyen = 2,7
   basidioles: 
-  basidiome: 10-25 mm de hauteur, 10-60 mm Ø, de forme très variable, pulviné, en masse ± cérébriforme, multilobé, obconique, discoïde à étalé sur le substrat, lisse mais couvert de poils blanchâtres lâchement disposés au-dessus, jaune brillant à orangé au frais, rouge orangé à rougeâtre au sec, avec base réduite ± distincte ou radicante près du point d'attache, blanchâtre, à marge enroulée
+  basidiome: 10-25 mm de hauteur, 10-60 mm Ø, de forme très variable, pulviné, en
+    masse ± cérébriforme, multilobé, obconique, discoïde à étalé sur le substrat,
+    lisse mais couvert de poils blanchâtres lâchement disposés au-dessus, jaune brillant
+    à orangé au frais, rouge orangé à rougeâtre au sec, avec base réduite ± distincte
+    ou radicante près du point d'attache, blanchâtre, à marge enroulée
   biotopes: pousse sur bois pourri de conifères
   boucles: 
   brachybasidioles: 
@@ -78,7 +81,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Le Rouge Congo SDS a été utilisé dans l'étude des basidiospores afin d’obtenir une meilleure observation des parois et des septa. »
+  commentaires: De Claude Kaufholtz-Couture. « Le Rouge Congo SDS a été utilisé dans
+    l'étude des basidiospores afin d’obtenir une meilleure observation des parois
+    et des septa. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -229,8 +234,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -272,3 +277,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

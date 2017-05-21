@@ -1,41 +1,39 @@
 ---
+title: Leotia Lubrica
+date: 2017-03-25 00:00:00 Z
 nom: Leotia lubrica
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3901/15031724019_326fe183c6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15031724019/in/photolist-oUivRv-oUiuqe
 album-flickr:
-  - 72157678365821741
-
+- 72157678365821741
 details:
   nom-francais: Léotie lubrifiée
   ordre: Helotiales
   famille: Leotiaceae
   genre: Leotia
-  espece: <i>Leotia lubrica</i> (Scop.) Pers.
+  espece: "<i>Leotia lubrica</i> (Scop.) Pers."
   litterature: Persoon, C.H. 1797. Commentatio de Fungis Clavaeformibus. :1-124
-
 collections:
-  - fongarium: sans numéro
-    date: 14 octobre 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°57'05.82"N 71°17'45.00"O
-    elevation: 225 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0249
-    date: 12 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 14 octobre 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°57'05.82"N 71°17'45.00"O
+  elevation: 225 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0249
+  date: 12 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -48,7 +46,8 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un pied distincts, ± visqueux-gélifié, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
+  ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un pied distincts,
+    ± visqueux-gélifié, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -66,7 +65,10 @@ description:
   brachybasidioles: 
   calicule: 
   capillitium: 
-  capitule: 7-40 mm Ø, de forme variable mais plus ou moins convexe, convoluté, chauve, avec une surface lisse ou légèrement froissée, ridée, collant, gluant losque frais, la marge est incurvée, translucide, jaune brunâtre, jaune ou olive, tournant rarement au vert foncé à presque noir avec l'âge, plus pâle et stérile au-dessous
+  capitule: 7-40 mm Ø, de forme variable mais plus ou moins convexe, convoluté, chauve,
+    avec une surface lisse ou légèrement froissée, ridée, collant, gluant losque frais,
+    la marge est incurvée, translucide, jaune brunâtre, jaune ou olive, tournant rarement
+    au vert foncé à presque noir avec l'âge, plus pâle et stérile au-dessous
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: 
@@ -76,10 +78,11 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: matière gélifiée dans le capitule et au moins dans le noyau central, souvent translucide
+  chair: matière gélifiée dans le capitule et au moins dans le noyau central, souvent
+    translucide
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -217,7 +220,10 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 20-80 x 3-10 mm Ø, cylindrique, égal à ± légèrement élargi vers la base, glabre, souvent coalescent à d'autres pieds sur la partie inférieure, souvent ornée de petits flocons pâles, collant ou gluant lorsque frais, concolore au chapeau ou plus pâle, creux ou rempli de matière gélifiée
+  pied: 20-80 x 3-10 mm Ø, cylindrique, égal à ± légèrement élargi vers la base, glabre,
+    souvent coalescent à d'autres pieds sur la partie inférieure, souvent ornée de
+    petits flocons pâles, collant ou gluant lorsque frais, concolore au chapeau ou
+    plus pâle, creux ou rempli de matière gélifiée
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -284,3 +290,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,29 @@
 ---
+title: Entoloma Incarnatofuscescens
+date: 2017-03-23 00:00:00 Z
 nom: Entoloma cf. incarnatofuscescens
-date: 2017-03-23 00:00:00
 image: https://c2.staticflickr.com/8/7260/7808924042_8d013e0dc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7808924042/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
 album-flickr:
-  - 72157675189299225
-
+- 72157675189299225
 details:
   nom-francais: Entolome bleu pourpre
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: <i>Entoloma cf. incarnatofuscescens</i> (Britzelm.) Noordel.
+  espece: "<i>Entoloma cf. incarnatofuscescens</i> (Britzelm.) Noordel."
   litterature: 
-
 collections:
-  - fongarium: 2012M_240 (DAOM)
-    date: 18 août 2012
-    planche:
-      numero: cKc-ÉTUDE0005
-      miniature: https://c1.staticflickr.com/9/8216/8274763429_74d0d295f7_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8274763429/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: Machiel Noordeloos (provisoire)
-    confirmee: 
-
+- fongarium: 2012M_240 (DAOM)
+  date: 18 août 2012
+  planche:
+    numero: cKc-ÉTUDE0005
+    miniature: https://c1.staticflickr.com/9/8216/8274763429_74d0d295f7_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8274763429/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: Machiel Noordeloos (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement clavées, bisporiques à tétrasporiques, non bouclées à la base
+  basides: piriformes à largement clavées, bisporiques à tétrasporiques, non bouclées
+    à la base
   basidiospores: |
     isodiamétriques à 5-6 côtés, à contenu uniguttulé à pluriguttulé, hyalines dans le NaCl iso 0,9%
     7,7 [8,3; 8,7] 9,4 x 6,2 [6,8; 7,2] 7,9 µm
@@ -81,7 +80,10 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Machiel Noordeloos. « This is a nice little Entoloma, which may come near <i>E. incarnatofuscescens</i> from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.</i>
+  commentaires: De Machiel Noordeloos. « This is a nice little Entoloma, which may
+    come near <i>E. incarnatofuscescens</i> from Europe, but is different is several
+    details. As I not a specialist in Canadian name fungi, I cannot name this fungus,
+    unfortunately.</i>
   conidies: 
   conidiome: 
   conidiophores: 
@@ -133,7 +135,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -207,7 +208,8 @@ description:
   peritheces: 
   phenologie: août
   phialoconidies: 
-  pied: 20-30 x 1-2 mm Ø, cylindrique, égal, légèrement plus pâle à l'apex, concolore au chapeau, glabre, avec bulbe blanchâtre à la base
+  pied: 20-30 x 1-2 mm Ø, cylindrique, égal, légèrement plus pâle à l'apex, concolore
+    au chapeau, glabre, avec bulbe blanchâtre à la base
   pieds-steriles: 
   pigments: 
   pileipellis: avec hyphes ascendant en trichoderme
@@ -245,7 +247,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 9, <i>les Entoloma</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Il s'agit de la collection <i>Entoloma cf. incarnatofuscescens</i>, 2012M_240, <i>Canadian National Mycological Herbarium</i> (DAOM).
+  remarques: Il s'agit de la collection <i>Entoloma cf. incarnatofuscescens</i>, 2012M_240,
+    <i>Canadian National Mycological Herbarium</i> (DAOM).
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -279,3 +282,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

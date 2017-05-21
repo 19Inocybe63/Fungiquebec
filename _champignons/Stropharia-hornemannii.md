@@ -1,61 +1,59 @@
 ---
+title: Stropharia Hornemannii
+date: 2017-03-13 00:00:00 Z
 nom: Stropharia hornemannii
-date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3829/10003933046_13d4943085_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10003933046/in/photolist-rbEmaB-pgNHt4-pgQhaT-pe4V44-pvxYwx-pe3JYP-gf1PUE-gf1LLf
 album-flickr:
-  - 72157674802092762 
-
+- 72157674802092762
 details:
   nom-francais: Strophaire de Hornemann
   ordre: Agaricales
   famille: Strophariaceae
   genre: Stropharia
-  espece: <i>Stropharia hornemannii</i> (Fr.) S. Lundell & Nannf.
+  espece: "<i>Stropharia hornemannii</i> (Fr.) S. Lundell & Nannf."
   litterature: Lundell, S.; Nannfeldt, J.A. 1934. Fungi Exsiccati Suecici. Fasc. 1-2:1-100
-
 collections:
-  - fongarium: cKc0148
-    date: 29 septembre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0283
-    date: 3 octobre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0295
-    date: 6 octobre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0297
-    date: 6 octobre 2014
-    planche:
-      numero: cKc0297-0081
-      miniature: https://c2.staticflickr.com/8/7719/16529566253_f10987f389_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16529566253/in/photolist-rbEmaB-pgNHt4
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0148
+  date: 29 septembre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0283
+  date: 3 octobre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0295
+  date: 6 octobre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0297
+  date: 6 octobre 2014
+  planche:
+    numero: cKc0297-0081
+    miniature: https://c2.staticflickr.com/8/7719/16529566253_f10987f389_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16529566253/in/photolist-rbEmaB-pgNHt4
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -76,7 +74,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques, tétrasporiques, non bouclées à la base 25,3 [33,4; 37,6] 40,7 x 8,4 [9,6; 11,4] 12,6 µm
+  basides: claviformes à cylindriques, tétrasporiques, non bouclées à la base 25,3
+    [33,4; 37,6] 40,7 x 8,4 [9,6; 11,4] 12,6 µm
   basidiospores: |
     ovoïdales en vue frontale, elliptiques à subamygdaliformes vues de profil, lisses, à paroi légèrement épaissie à épaissie, avec appendice hilaire, et pore germinatif large centré jusqu'à 1,9 µm Ø, à contenu homogène, brun avec de légers reflets rougeâtres dans le NaCl iso 0,9%, uniguttulé et rougeâtre dans le melzer (dextrinoïdes ?), ferrugineuses dans le KOH 5%, non cyanophiles
     12,2 [13; 13,3] 14,1 x 6 [6,5; 6,7] 7,2 µm
@@ -85,7 +84,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, au travers des débris ligneux, dans la mousse près ou sur bois pourri, sous conifères et feuillus
+  biotopes: pousse au sol, au travers des débris ligneux, dans la mousse près ou sur
+    bois pourri, sous conifères et feuillus
   boucles: abondantes dans toutes les parties
   brachybasidioles: 
   calicule: 
@@ -102,10 +102,15 @@ description:
   cellules-stromatiques: 
   chair: blanc à blanc crème à jaune pâle
   chancre: 
-  chapeau: 30-70 mm Ø, convexe à convexe étalé, parfois umboné, à marge droite, non distinctement hygrophane, blanc humide à brun gris pâle, souvent avec légère teinte jaune au centre, blanc quand sec, lisse, glabre, voile pratiquement absent
+  chapeau: 30-70 mm Ø, convexe à convexe étalé, parfois umboné, à marge droite, non
+    distinctement hygrophane, blanc humide à brun gris pâle, souvent avec légère teinte
+    jaune au centre, blanc quand sec, lisse, glabre, voile pratiquement absent
   cheilochrysocystides: absentes
   cheilocystides: 
-  cheiloleptocystides: polymorphes, utriformes à subutriformes 39,2 [45,4; 57,9] 64,1 x 14,8 [16,4; 19,7] 21,4 µm en moyenne, lagéniformes 53,2 x 17,8 µm en moyenne, fusiformes à fusiformes ventrues 35,8 [39,3; 55,7] 59,1 x 15,9 [16,5; 19,7] 20,4 µm
+  cheiloleptocystides: polymorphes, utriformes à subutriformes 39,2 [45,4; 57,9] 64,1
+    x 14,8 [16,4; 19,7] 21,4 µm en moyenne, lagéniformes 53,2 x 17,8 µm en moyenne,
+    fusiformes à fusiformes ventrues 35,8 [39,3; 55,7] 59,1 x 15,9 [16,5; 19,7] 20,4
+    µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -204,7 +209,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: étroitement adnées, subespacées, fimbriées, gris pâle, puis noir verdâtre, à arêtes blanches au début, puis ± concolores aux faces
+  lames: étroitement adnées, subespacées, fimbriées, gris pâle, puis noir verdâtre,
+    à arêtes blanches au début, puis ± concolores aux faces
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -237,15 +243,22 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 40-100 x 5-13 mm Ø, cylindrique à progressivement élargi vers la base, blanc à jaune pâle, avec anneau, finement pruineux au-dessus de l'anneau, strié en partie inférieure
+  pied: 40-100 x 5-13 mm Ø, cylindrique à progressivement élargi vers la base, blanc
+    à jaune pâle, avec anneau, finement pruineux au-dessus de l'anneau, strié en partie
+    inférieure
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches ; suprapellis en ixocutis étroit avec un subpellis constitué d'hyphes cylindriques incorporées dans une couche épaisse de gélin
+  pileipellis: en deux couches ; suprapellis en ixocutis étroit avec un subpellis
+    constitué d'hyphes cylindriques incorporées dans une couche épaisse de gélin
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurochrysocystides: clavées à l'apex mucronées 38 [42,4; 46] 50,4 x 10,8 [12,4; 13,8] 15,4 µm
-  pleurocystides: polymorphes, lagéniformes, utriformes à utriformes allongées 44,6 [53,8; 72,1] 81,3 x 15,8 [16,3; 17,5] 18,1 µm en moyenne, fusiformes à largement fusiformes 52 [55,3; 71,4] 74,8 x 17,6 [18,8; 24,7] 25,9 µm en moyenne, plus rarement ovoïdales 33,9 x 18,4 µm en moyenne
+  pleurochrysocystides: clavées à l'apex mucronées 38 [42,4; 46] 50,4 x 10,8 [12,4;
+    13,8] 15,4 µm
+  pleurocystides: polymorphes, lagéniformes, utriformes à utriformes allongées 44,6
+    [53,8; 72,1] 81,3 x 15,8 [16,3; 17,5] 18,1 µm en moyenne, fusiformes à largement
+    fusiformes 52 [55,3; 71,4] 74,8 x 17,6 [18,8; 24,7] 25,9 µm en moyenne, plus rarement
+    ovoïdales 33,9 x 18,4 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -263,8 +276,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E.</b> <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+  publications: "<b>Noordeloos, Machiel E.</b> <i>Strophariaceae s.l.</i>, Fungi Europaei
+    Edizioni Candusso, N° 13, 2011, 648 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -314,3 +327,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,51 +1,49 @@
 ---
+title: Elaphomyces Sp
+date: 2017-03-22 00:00:00 Z
 nom: Elaphomyces sp. nov. not
-date: 2017-03-22 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 album-flickr:
-  - 72157676875072761
-
+- 72157676875072761
 details:
   nom-francais: Elaphomyces nouvelle espèce
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: <i>Elaphomyces sp. nov. not</i> Castellano
+  espece: "<i>Elaphomyces sp. nov. not</i> Castellano"
   litterature: 
-
 collections:
-  - fongarium: cKc0396
-    date: 6 août 2015
-    planche:
-      numero: cKc0396-0094
-      miniature: https://c1.staticflickr.com/1/340/20440587051_defdc4b556_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/20440587051/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Michael Castellano (provisoire)
-    confirmee: 
-  - fongarium: cKc0428
-    date: 22 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Michael Castellano (provisoire)
-    confirmee: 
-  - fongarium: cKc0463
-    date: 16 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Michael Castellano (provisoire)
-    confirmee: 
-
+- fongarium: cKc0396
+  date: 6 août 2015
+  planche:
+    numero: cKc0396-0094
+    miniature: https://c1.staticflickr.com/1/340/20440587051_defdc4b556_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/20440587051/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
+  geolocalisation: 
+  elevation: 
+  determinee: Michael Castellano (provisoire)
+  confirmee: 
+- fongarium: cKc0428
+  date: 22 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: Michael Castellano (provisoire)
+  confirmee: 
+- fongarium: cKc0463
+  date: 16 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: Michael Castellano (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -64,7 +62,8 @@ description:
     18,1 [21,6; 24,9] 28,4 x 17,7 [21,3; 24,7] 28,3 µm
     Q = 1 [1,0] 1; N = 10; C = 95%
     Me = 23,2 x 23 µm; Qe = 1
-  asques: globuleuses, contenant en moyenne (5) 6 à 7 ascospores globuleuses, 51,6 [61,6; 71] 81,1 x 40,5 [46,7; 52,5] 58,8 µm
+  asques: globuleuses, contenant en moyenne (5) 6 à 7 ascospores globuleuses, 51,6
+    [61,6; 71] 81,1 x 40,5 [46,7; 52,5] 58,8 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -93,7 +92,7 @@ description:
   chair: 
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -162,7 +161,8 @@ description:
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
-  glebe: intérieur blanc à la coupe, qui devient rougeâtre avec le temps avec en son centre une masse noirâtre
+  glebe: intérieur blanc à la coupe, qui devient rougeâtre avec le temps avec en son
+    centre une masse noirâtre
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -294,3 +294,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,29 @@
 ---
+title: Clavaria Fragilis
+date: 2017-03-18 00:00:00 Z
 nom: Clavaria fragilis
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8843/28240406722_244345c4a1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28240406722/in/photolist-K2vt3b
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Clavaire fragile
   ordre: Agaricales
   famille: Clavariaceae
   genre: Clavaria
-  espece: <i>Clavaria fragilis</i> Holmsk.
+  espece: "<i>Clavaria fragilis</i> Holmsk."
   litterature: Holmskjold, T. 1790. Beata ruris otia fungis danicis. 1:1-118
-
 collections:
-  - fongarium: cKc0518
-    date: 16 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0518
+  date: 16 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,9 +47,14 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 60-150 x, 3-5 mm Ø, cylindrique à cylindrique élancé, puis longuement fusiforme, légèrement aplati, courbe à flexueux, parfois fourchu vers l'apex, aigu puis trapu et souvent tordu vers l'apex, plein puis souvent creux, lisse ou parfois sillonné, blanc à crème, presque translucide à l'humidité, souvent jaunâtre vers l'apex, entièrement jaune pâle depuis l'apex avec l'âge
+  basidiome: 60-150 x, 3-5 mm Ø, cylindrique à cylindrique élancé, puis longuement
+    fusiforme, légèrement aplati, courbe à flexueux, parfois fourchu vers l'apex,
+    aigu puis trapu et souvent tordu vers l'apex, plein puis souvent creux, lisse
+    ou parfois sillonné, blanc à crème, presque translucide à l'humidité, souvent
+    jaunâtre vers l'apex, entièrement jaune pâle depuis l'apex avec l'âge
   bibliographies: 
-  biotopes: pousse sur sol humide, moussu ou herbeux, sur litière de feuilles tombées, de débris ligneux, en forêts et milieux ouverts
+  biotopes: pousse sur sol humide, moussu ou herbeux, sur litière de feuilles tombées,
+    de débris ligneux, en forêts et milieux ouverts
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +72,7 @@ description:
   chair: mince, très fragile, cassante, blanche
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -283,3 +286,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

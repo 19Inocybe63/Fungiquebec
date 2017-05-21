@@ -1,31 +1,29 @@
 ---
+title: Callistosporium Luteo Olivaceum
+date: 2017-03-18 00:00:00 Z
 nom: Callistosporium luteo-olivaceum
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/4/3808/9366140251_6a8ff08cf5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9366140251/in/photolist-fgDW6g-fgDVbK
 album-flickr:
-  - 72157672287368324
-
+- 72157672287368324
 details:
   nom-francais: Collybie jaune olivacé
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Callistosporium
-  espece: <i>Callistosporium luteo-olivaceum</i> (Berk. & M. A. Curtis) Singer
+  espece: "<i>Callistosporium luteo-olivaceum</i> (Berk. & M. A. Curtis) Singer"
   litterature: Lloydia, 89, 117, 1946
-
 collections:
-  - fongarium: cKc0093
-    date: 25 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°18'05.3"N 73°05'41.8"O
-    elevation: 341 m
-    determinee: 
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0093
+  date: 25 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°18'05.3"N 73°05'41.8"O
+  elevation: 341 m
+  determinee: 
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,7 +66,10 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau ou plus pâle
   chancre: 
-  chapeau: 10-40 mm Ø, parfois plus grand, convexe puis étalé, parfois déprimé, légèrement humide au frais, finement poudreux au début, vite glabre, lisse ou presque, hygrophane, jaune olive à olive foncé, plus jaune avec l'âge, remarquablement jaunâtre, cannelle à brun rougeâtre au sec
+  chapeau: 10-40 mm Ø, parfois plus grand, convexe puis étalé, parfois déprimé, légèrement
+    humide au frais, finement poudreux au début, vite glabre, lisse ou presque, hygrophane,
+    jaune olive à olive foncé, plus jaune avec l'âge, remarquablement jaunâtre, cannelle
+    à brun rougeâtre au sec
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -76,7 +77,11 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Ce qu'il y a de particulièrement intéressant avec ce « PCJ » est qu'une goutte de KOH 10% le fait virer au rouge vif presque instantannément (sur le chapeau ou sur les lames). Pas besoin de colorant au microscope non plus ; tout est rouge ! Alors si on a de la potasse, c'est une espèce facile à identifier, même si elle est très peu commune ! »
+  commentaires: De Yves Lamoureux. « Ce qu'il y a de particulièrement intéressant
+    avec ce « PCJ » est qu'une goutte de KOH 10% le fait virer au rouge vif presque
+    instantannément (sur le chapeau ou sur les lames). Pas besoin de colorant au microscope
+    non plus ; tout est rouge ! Alors si on a de la potasse, c'est une espèce facile
+    à identifier, même si elle est très peu commune ! »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -169,7 +174,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, larges, serrées, jaune citrin à jaune doré au frais, brun rougeâtre au sec
+  lames: adnexées, larges, serrées, jaune citrin à jaune doré au frais, brun rougeâtre
+    au sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -202,7 +208,9 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 20-50 x 2-6 mm Ø, égal ou élargi vers la base, creux avec l'âge, entièrement finement poudreux au début, puis glabre sur la moitié supérieure, lisse, concolore au chapeau, avec mycélium basal blanc
+  pied: 20-50 x 2-6 mm Ø, égal ou élargi vers la base, creux avec l'âge, entièrement
+    finement poudreux au début, puis glabre sur la moitié supérieure, lisse, concolore
+    au chapeau, avec mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -229,8 +237,10 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = chapeau et lames deviennent rouge vif presque instantanément
+  reactions-macrochimiques: 'Potasse (KOH 10%) = chapeau et lames deviennent rouge
+    vif presque instantanément
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -266,3 +276,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,31 @@
 ---
+title: Xeromphalina Kauffmanii
+date: 2017-03-23 00:00:00 Z
 nom: Xeromphalina kauffmanii
-date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/1/758/21351416242_15fbc668f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21351416242/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
 album-flickr:
-  - 72157675062059436
-
+- 72157675062059436
 details:
   nom-francais: Omphale de Kauffman
   ordre: Agaricales
   famille: Mycenaceae
   genre: Xeromphalina
-  espece: <i>Xeromphalina kauffmanii</i> A.H. Sm.
-  litterature: Smith, A.H. 1953. New and rare agarics from the Douglas Lake region and Tahquamenon Falls State Park, Michigan, and an account of the North American species of Xeromphalina. Papers of the Michigan Academy of Sciences. 38:53-87
-
+  espece: "<i>Xeromphalina kauffmanii</i> A.H. Sm."
+  litterature: Smith, A.H. 1953. New and rare agarics from the Douglas Lake region
+    and Tahquamenon Falls State Park, Michigan, and an account of the North American
+    species of Xeromphalina. Papers of the Michigan Academy of Sciences. 38:53-87
 collections:
-  - fongarium: cKc0460
-    date: 12 septembre 2015
-    planche:
-      numero: cKc0460-0111
-      miniature: https://c2.staticflickr.com/2/1614/24702242666_282e8ab4c6_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/24702242666/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0460
+  date: 12 septembre 2015
+  planche:
+    numero: cKc0460-0111
+    miniature: https://c2.staticflickr.com/2/1614/24702242666_282e8ab4c6_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/24702242666/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +37,9 @@ description:
   apothecie: 
   arete-lamellaire: fertile
   arthroconidies: 
-  articles: |
-    <b>Aldrovandi, Matthew S. P. ; Johnson, James E. et al</b>. <i>Xeromphalina campanella-kauffmanii complex</i>, The Mycological Society of America, 2015, 44 p.
+  articles: "<b>Aldrovandi, Matthew S. P. ; Johnson, James E. et al</b>. <i>Xeromphalina
+    campanella-kauffmanii complex</i>, The Mycological Society of America, 2015, 44
+    p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -63,7 +64,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: souvent en faisceaux, clavées à fusiformes, à paroi mince, hyalines, 19-38 x 6-13 µm
+  caulocystides: souvent en faisceaux, clavées à fusiformes, à paroi mince, hyalines,
+    19-38 x 6-13 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -73,8 +75,10 @@ description:
   cellules-stromatiques: 
   chair: mince, ferme, crème à concolore à la surface du chapeau
   chancre: 
-  chapeau: 8-17 mm Ø, convexe déprimé, étalé et ombiliqué, glabre, lisse, jaunâtre à orangé, orangé plus foncé au centre, marge parfois ondulée et blanchâtre
-  cheilocystides: abondantes, polymorphes, lagéniformes, cylindriques à largement cylindriques, fusiformes à largement fusiformes, 22-50 x 9-10 µm
+  chapeau: 8-17 mm Ø, convexe déprimé, étalé et ombiliqué, glabre, lisse, jaunâtre
+    à orangé, orangé plus foncé au centre, marge parfois ondulée et blanchâtre
+  cheilocystides: abondantes, polymorphes, lagéniformes, cylindriques à largement
+    cylindriques, fusiformes à largement fusiformes, 22-50 x 9-10 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -133,7 +137,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -191,7 +194,8 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: densément grégaire, parfois densément cespiteux, in n'est pas rare de voir des centaines d'individus sur un même billot
+  mode-de-croissance: densément grégaire, parfois densément cespiteux, in n'est pas
+    rare de voir des centaines d'individus sur un même billot
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -206,7 +210,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 7-10 mm Ø, cylindrique, égal, légèrement élargi à la base, finement velouté, jaune à l'apex, brun bourgogne jusqu'à la base, avec mycélium basal cannelle
+  pied: 7-10 mm Ø, cylindrique, égal, légèrement élargi à la base, finement velouté,
+    jaune à l'apex, brun bourgogne jusqu'à la base, avec mycélium basal cannelle
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -230,8 +235,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>AntonÍn, Vladimir, ; Noordeloos, Machiel E</b>. <i>A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in Europe with 65 figures and 57 colored plates</i>, IHW Verlag, 2004, 279 p.
+  publications: "<b>AntonÍn, Vladimir, ; Noordeloos, Machiel E</b>. <i>A monograph
+    of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena,
+    Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in
+    Europe with 65 figures and 57 colored plates</i>, IHW Verlag, 2004, 279 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -239,7 +246,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: <i>X. kauffmanii</i> peut facilement se distinguer de <i>X. campanella</i> qui pousse sur du bois mort de conifères
+  remarques: "<i>X. kauffmanii</i> peut facilement se distinguer de <i>X. campanella</i>
+    qui pousse sur du bois mort de conifères"
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -273,3 +281,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

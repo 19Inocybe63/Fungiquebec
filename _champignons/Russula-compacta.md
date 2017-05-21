@@ -1,41 +1,40 @@
 ---
+title: Russula Compacta
+date: 2017-03-27 00:00:00 Z
 nom: Russula compacta
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/4/3911/14982459949_433e4650ba_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14982459949/in/photolist-pQLeB8-oPX2mZ
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Russule compacte ou Russule fauve rougeatre
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula compacta</i> Frost
-  litterature: Peck, C.H. 1879. Report of the Botanist (1878). Annual Report on the New York State Museum of Natural History. 32:17-72
-
+  espece: "<i>Russula compacta</i> Frost"
+  litterature: Peck, C.H. 1879. Report of the Botanist (1878). Annual Report on the
+    New York State Museum of Natural History. 32:17-72
 collections:
-  - fongarium: cKc0132
-    date: 1 septembre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0242
-    date: 7 septembre 2014
-    planche:
-      numero: cKc0242-0047
-      miniature: https://c2.staticflickr.com/8/7526/15648028169_4db198dd91_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15648028169/
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0132
+  date: 1 septembre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0242
+  date: 7 septembre 2014
+  planche:
+    numero: cKc0242-0047
+    miniature: https://c2.staticflickr.com/8/7526/15648028169_4db198dd91_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15648028169/
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -47,8 +46,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+  articles: "<b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées
+    par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de
+    gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -83,9 +83,12 @@ description:
   cellules-stromatiques: 
   chair: ferme, compacte, cassante, blanche, brunissant avec l'âge ou à la coupe
   chancre: 
-  chapeau: 50-150 mm Ø, convexe puis étalé-déprimé, viscidule, vite mat et un peu granuleux, blanc, crème à ivoire, brunissant avec l'âge ou au froissement, entièrement brun rouille à la fin, à marge unie et cuticule pelant jusqu'à 1/2 du rayon
-  cheilochrysocystides:
-  cheilocystides: claviformes dont l'apex est largement mucronés à moniliformes, sulfopipéronal négatif (SP-)
+  chapeau: 50-150 mm Ø, convexe puis étalé-déprimé, viscidule, vite mat et un peu
+    granuleux, blanc, crème à ivoire, brunissant avec l'âge ou au froissement, entièrement
+    brun rouille à la fin, à marge unie et cuticule pelant jusqu'à 1/2 du rayon
+  cheilochrysocystides: 
+  cheilocystides: claviformes dont l'apex est largement mucronés à moniliformes, sulfopipéronal
+    négatif (SP-)
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -186,7 +189,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, avec lamellules peu nombreuses, serrées à subespacées, blanches à crème pâle, devenant brun rouille au froissement
+  lames: adnées, avec lamellules peu nombreuses, serrées à subespacées, blanches à
+    crème pâle, devenant brun rouille au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -219,7 +223,8 @@ description:
   peritheces: 
   phenologie: commun
   phialoconidies: 
-  pied: 20-100 x 12-30 mm Ø, égal, ferme, concolore au chapeau, brun rougeâtre au froissement
+  pied: 20-100 x 12-30 mm Ø, égal, ferme, concolore au chapeau, brun rougeâtre au
+    froissement
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -258,10 +263,12 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Soluté de Gaïac = > 5" stipe +++ b (5, forte) ; > 5" lames +++ b (5, forte)
+  reactions-macrochimiques: 'Soluté de Gaïac = > 5" stipe +++ b (5, forte) ; > 5"
+    lames +++ b (5, forte)
+
+'
   receptacle: 
-  remarques: Code de Kibby, E/F I K M / P T V 
+  remarques: Code de Kibby, E/F I K M / P T V
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -270,7 +277,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; C-D d'après la charte de couleur de Kibby
+  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur
+    Romagnesi ; C-D d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -295,3 +303,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

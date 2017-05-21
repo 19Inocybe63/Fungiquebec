@@ -1,51 +1,50 @@
 ---
+title: Pulvinula Carbonaria
+date: 2017-03-25 00:00:00 Z
 nom: Pulvinula carbonaria
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5783/20542097725_4860e5477f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20542097725/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
 album-flickr:
-  - 72157675162860642
-
+- 72157675162860642
 details:
   nom-francais: 
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Pulvinula
-  espece: <i>Pulvinula carbonaria</i> (Fuckel) Boud.
-  litterature: Boudier, J.L.É. 1885. Nouvelle classification naturelle des Discomycètes charnus. Bulletin de la Société Mycologique de France. 1:97-120
-
+  espece: "<i>Pulvinula carbonaria</i> (Fuckel) Boud."
+  litterature: Boudier, J.L.É. 1885. Nouvelle classification naturelle des Discomycètes
+    charnus. Bulletin de la Société Mycologique de France. 1:97-120
 collections:
-  - fongarium: cKc0401
-    date: 13 août 2015
-    planche:
-      numero: cKc0401-0096
-      miniature: https://c1.staticflickr.com/1/764/20590422485_709c7b6954_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/20590422485/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0412
-    date: 18 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0496
-    date: 23 juin 2016
-    planche:
-      numero: cKc0496-0131
-      miniature: https://c2.staticflickr.com/8/7314/27292419723_2f3d096a04_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/27292419723/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0401
+  date: 13 août 2015
+  planche:
+    numero: cKc0401-0096
+    miniature: https://c1.staticflickr.com/1/764/20590422485_709c7b6954_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/20590422485/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0412
+  date: 18 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0496
+  date: 23 juin 2016
+  planche:
+    numero: cKc0496-0131
+    miniature: https://c2.staticflickr.com/8/7314/27292419723_2f3d096a04_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/27292419723/in/photolist-HzJMwK-J2yytS-xnvife-xieBYH
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -54,7 +53,8 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: cupuliformes au début, puis discoïde à pulvinée, à marge ondulée à maturité, sessile
+  apothecie: cupuliformes au début, puis discoïde à pulvinée, à marge ondulée à maturité,
+    sessile
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -67,7 +67,8 @@ description:
     Q = 1 [1,0] 1; N = 17; C = 95%
     Me = 14,8 x 14,6 µm; Qe = 1
     (Piximètre, formule statistique ; mesures issues d'ascospores immatures, dans le NaCl iso 0,9%)
-  asques: longuement claviformes, octosporés, unisériés, iodonégatifs, 195-235 x 17-21 µm
+  asques: longuement claviformes, octosporés, unisériés, iodonégatifs, 195-235 x 17-21
+    µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -96,7 +97,7 @@ description:
   chair: cassante, orangée, orangé-rouge
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -222,7 +223,8 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: filiformes dont l'apex est incurvé, avec pigments caroténoïdes devenant bleu-vert foncé dans le lugol
+  paraphyses: filiformes dont l'apex est incurvé, avec pigments caroténoïdes devenant
+    bleu-vert foncé dans le lugol
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -305,3 +307,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

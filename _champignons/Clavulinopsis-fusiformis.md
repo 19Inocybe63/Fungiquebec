@@ -1,51 +1,50 @@
 ---
+title: Clavulinopsis Fusiformis
+date: 2017-03-18 00:00:00 Z
 nom: Clavulinopsis fusiformis
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/685/20665078175_836e5968f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665078175/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
 album-flickr:
-  - 72157674065319940
-
+- 72157674065319940
 details:
   nom-francais: Clavaire en fuseau
   ordre: Agaricales
   famille: Clavariaceae
   genre: Clavulinopsis
-  espece: <i>Clavulinopsis fusiformis</i> (Sowerby) Corner
-  litterature: Corner, E.J.H. 1950. A monograph of Clavaria and allied genera. Annals of Botany Memoirs. 1:1-740
-
+  espece: "<i>Clavulinopsis fusiformis</i> (Sowerby) Corner"
+  litterature: Corner, E.J.H. 1950. A monograph of Clavaria and allied genera. Annals
+    of Botany Memoirs. 1:1-740
 collections:
-  - fongarium: cKc0386
-    date: 21 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0416
-    date: 17 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0464
-    date: 16 septembre 2015
-    planche:
-      numero: cKc0464-0128
-      miniature: https://c2.staticflickr.com/8/7482/27074039690_b05cfc1997_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/27074039690/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0386
+  date: 21 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0416
+  date: 17 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0464
+  date: 16 septembre 2015
+  planche:
+    numero: cKc0464-0128
+    miniature: https://c2.staticflickr.com/8/7482/27074039690_b05cfc1997_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/27074039690/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -66,7 +65,10 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à claviformes élancées, rarement utriformes, sinueuses, dont le sommet est tronqué, longuement et étroitement pédicellées, tétrasporiques avec stérigmates jusqu'à 8 µm de longueur, bouclées à la base, avec contenu vacuolaire, (40,9) 48 - 60,6 (63,1) × (6,7) 7 - 8,9 (9,3) µm en moyenne
+  basides: cylindriques à claviformes élancées, rarement utriformes, sinueuses, dont
+    le sommet est tronqué, longuement et étroitement pédicellées, tétrasporiques avec
+    stérigmates jusqu'à 8 µm de longueur, bouclées à la base, avec contenu vacuolaire,
+    (40,9) 48 - 60,6 (63,1) × (6,7) 7 - 8,9 (9,3) µm en moyenne
   basidiospores: |
     globuleuses à subglobuleuses en vue frontale à subglobuleuses à largement ovoïdes vues de profil, lisses, à paroi légèrement épaissie, avec appendice hilaire proéminent jusqu'à 1,0-1,5 µm de longueur, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, cyanophiles
     (5,3) 5,34 - 6,6 (6,9) × (4,2) 5,1 - 6,1 (6,2) µm
@@ -74,7 +76,11 @@ description:
     Me = 6,1 × 5,6 µm ; Qe = 1,1
     (Piximètre, formule classique)
   basidioles: 
-  basidiome: 60-120 (150) mm de hauteur, 2-10 mm de largeur, clavulé, cylindrique, rarement ramifié une ou deux fois vers l'apex, souvent ± aplati, avec axe luné ou en croissant, plein puis creux, aigu à étroitement arrondi à l'apex, rarement trapu à tronqué, jaune brillant, jaune citron à orangé vif, souvent plus foncé vers l'apex, brunâtre à rougeâtre, surtout avec l'âge
+  basidiome: 60-120 (150) mm de hauteur, 2-10 mm de largeur, clavulé, cylindrique,
+    rarement ramifié une ou deux fois vers l'apex, souvent ± aplati, avec axe luné
+    ou en croissant, plein puis creux, aigu à étroitement arrondi à l'apex, rarement
+    trapu à tronqué, jaune brillant, jaune citron à orangé vif, souvent plus foncé
+    vers l'apex, brunâtre à rougeâtre, surtout avec l'âge
   bibliographies: 
   biotopes: pousse au sol des forêts mixtes
   boucles: 
@@ -101,7 +107,15 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Belle planche ! Mais les basidiomes sont trop jeunes pour une planche parfaite ; cela prendrait une autre grappe à côté illustrant des basidiomes une fois rendus fusiformes, donc à maturité. À la limite, tu aurais pu cueillir juste une langue et laisser les autres pousser une semaine (ou rarement deux ?) de plus et revenir les photographier et les cueillir pour les joindre à ton premier champignon étudié (le seul que tu aurais cueilli. Et ne pas oublier que lorsque les pointes sont brunes, c'est parce qu'elles sont collapsées, généralement par le soleil et le vent. Cela donne parfois même une touche de beauté à l'espèce, mais il ne faut jamais étudier les cellules brunies pour quoi que ce soit. »
+  commentaires: De Yves Lamoureux. « Belle planche ! Mais les basidiomes sont trop
+    jeunes pour une planche parfaite ; cela prendrait une autre grappe à côté illustrant
+    des basidiomes une fois rendus fusiformes, donc à maturité. À la limite, tu aurais
+    pu cueillir juste une langue et laisser les autres pousser une semaine (ou rarement
+    deux ?) de plus et revenir les photographier et les cueillir pour les joindre
+    à ton premier champignon étudié (le seul que tu aurais cueilli. Et ne pas oublier
+    que lorsque les pointes sont brunes, c'est parce qu'elles sont collapsées, généralement
+    par le soleil et le vent. Cela donne parfois même une touche de beauté à l'espèce,
+    mais il ne faut jamais étudier les cellules brunies pour quoi que ce soit. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -226,7 +240,8 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: indistinct, fusionnant rapidement avec la clavule, glabre, finement sillonné, blanc à blanchâtre
+  pied: indistinct, fusionnant rapidement avec la clavule, glabre, finement sillonné,
+    blanc à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -257,8 +272,9 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration ou de décoloration
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -299,3 +315,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

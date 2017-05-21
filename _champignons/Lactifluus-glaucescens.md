@@ -1,31 +1,30 @@
 ---
+title: Lactifluus Glaucescens
+date: 2017-03-25 00:00:00 Z
 nom: Lactifluus glaucescens
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5742/20784652632_8c14559e56_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20784652632/in/photolist-xEEM6S-xp12Tn
 album-flickr:
-  - 72157677319225921
-
+- 72157677319225921
 details:
   nom-francais: Lactaire à lait verdissant
   ordre: Russulales
   famille: Russulaceae
   genre: Lactifluus
-  espece: <i>Lactifluus glaucescens</i> (Crossl.) Verbeken
-  litterature: Verbeken, A.; Van de Putte, K.; De Crop, E. 2012. New combinations in Lactifluus. 3. L. subgenera Lactifluus and Piperati. Mycotaxon. 120:443-450
-
+  espece: "<i>Lactifluus glaucescens</i> (Crossl.) Verbeken"
+  litterature: Verbeken, A.; Van de Putte, K.; De Crop, E. 2012. New combinations
+    in Lactifluus. 3. L. subgenera Lactifluus and Piperati. Mycotaxon. 120:443-450
 collections:
-  - fongarium: cKc0426
-    date: 22 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0426
+  date: 22 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,10 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, blanche
   chancre: 
-  chapeau: 41 mm Ø, largement convexe, devenant étalé, peu déprimé, mais plutôt en forme de vase, sec, glabre, blanchâtre, parfois se décolorant de jaunâtre ou brunâtre à maturité
-  cheilochrysocystides:
+  chapeau: 41 mm Ø, largement convexe, devenant étalé, peu déprimé, mais plutôt en
+    forme de vase, sec, glabre, blanchâtre, parfois se décolorant de jaunâtre ou brunâtre
+    à maturité
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -173,7 +174,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, très serrées, avec de nombreuses furcations à tous les niveaux, blanchâtre à crème pâle
+  lames: adnées à subdécurrentes, très serrées, avec de nombreuses furcations à tous
+    les niveaux, blanchâtre à crème pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +208,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 36 x 11 mm Ø, cylindrique, subégal, plein, ferme, glabre, atténué à la base, blanc à blanchâtre, se tachant de brun rouille à maturité
+  pied: 36 x 11 mm Ø, cylindrique, subégal, plein, ferme, glabre, atténué à la base,
+    blanc à blanchâtre, se tachant de brun rouille à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -238,8 +241,9 @@ description:
     <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = devient jaune or sur le latex
+  reactions-macrochimiques: 'Potasse (KOH 10%) = devient jaune or sur le latex
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -277,3 +281,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

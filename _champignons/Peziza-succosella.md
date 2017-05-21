@@ -1,51 +1,51 @@
 ---
+title: Peziza Succosella
+date: 2017-03-25 00:00:00 Z
 nom: Peziza succosella
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7549/28260902725_d9f5ba7e38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28260902725/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
 album-flickr:
-  - 72157674044898010
-
+- 72157674044898010
 details:
   nom-francais: Pezize fausse-succosa
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
-  espece: <i>Peziza succosella</i> (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich
-  litterature: Avizohar-Hershenzon, Z.; Nemlich, H. 1974. Pezizales of Israel II. Pezizaceae. Israel Journal of Botany. 23:151-163
-
+  espece: "<i>Peziza succosella</i> (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh.
+    & Nemlich"
+  litterature: Avizohar-Hershenzon, Z.; Nemlich, H. 1974. Pezizales of Israel II.
+    Pezizaceae. Israel Journal of Botany. 23:151-163
 collections:
-  - fongarium: cKc0505
-    date: 3 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: René Dougoud
-  - fongarium: cKc0512
-    date: 4 juillet 2016
-    planche:
-      numero:  cKc0512-0134
-      miniature: https://c2.staticflickr.com/8/7539/28130157805_8bbab0ab88_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/28130157805/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: René Dougoud
-  - fongarium: cKc0516
-    date: 11 juillet 2016
-    planche:
-      numero: cKc0516-0137
-      miniature: https://c1.staticflickr.com/9/8820/28186682002_2974394338_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/28186682002/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0505
+  date: 3 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: René Dougoud
+- fongarium: cKc0512
+  date: 4 juillet 2016
+  planche:
+    numero: cKc0512-0134
+    miniature: https://c2.staticflickr.com/8/7539/28130157805_8bbab0ab88_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/28130157805/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: René Dougoud
+- fongarium: cKc0516
+  date: 11 juillet 2016
+  planche:
+    numero: cKc0516-0137
+    miniature: https://c1.staticflickr.com/9/8820/28186682002_2974394338_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/28186682002/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -54,7 +54,8 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 8-20 mm Ø, discoïdes à légèrement cupuliformes entre 4-7 mm de profondeur, hygrophane, beige imbu, beige pâle opaque au sec, non épigé
+  apothecie: 8-20 mm Ø, discoïdes à légèrement cupuliformes entre 4-7 mm de profondeur,
+    hygrophane, beige imbu, beige pâle opaque au sec, non épigé
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -65,7 +66,8 @@ description:
     Q = (1,6) 1,7 - 2 (2,1) ; N = 30
     Me = 16 × 8,6 µm ; Qe = 1,9
     (Piximètre, formule classique ; mesures issues d’une sporée dans le bleu lactique, sans les ornements)
-  asques: claviformes dont l'apex est tronqué, octosporés, IKI +b, operculé, avec base de type acrorhynque, ± 250 - 270 × 12 - 13,5 µm en moyenne
+  asques: claviformes dont l'apex est tronqué, octosporés, IKI +b, operculé, avec
+    base de type acrorhynque, ± 250 - 270 × 12 - 13,5 µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -219,7 +221,10 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: simples, cylindriques-filiformes, hyalines dans l'eau, à contenu brun rouille sur toute la longueur dans le Lugol, dont parfois le contenu est discontinu et forme des plaques (gouttelettes) éparses, septées, à apex parfois égal à subégal, arrondis, rarement subcapité, + 180 - 245 × 4,5 - 6,3 (8,2) µm en moyenne
+  paraphyses: simples, cylindriques-filiformes, hyalines dans l'eau, à contenu brun
+    rouille sur toute la longueur dans le Lugol, dont parfois le contenu est discontinu
+    et forme des plaques (gouttelettes) éparses, septées, à apex parfois égal à subégal,
+    arrondis, rarement subcapité, + 180 - 245 × 4,5 - 6,3 (8,2) µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -303,3 +308,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

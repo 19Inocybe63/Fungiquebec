@@ -1,31 +1,30 @@
 ---
+title: Amanita Porphyria
+date: 2017-03-17 00:00:00 Z
 nom: Amanita porphyria
-date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/4/3928/15243769398_3a8366c102_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15243769398/in/photolist-pvuPJA-pe3iyj-pvwDBR-pe3vM6
 album-flickr:
-  - 72157676298649241
-
+- 72157676298649241
 details:
   nom-francais: Amanite porphyre
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita porphyria</i> Alb. & Schwein.
-  litterature: Albertini, J.B.; Schweinitz, L.D. von. 1805. Conspectus Fungorum in Lusatiae superioris. :1-376
-
+  espece: "<i>Amanita porphyria</i> Alb. & Schwein."
+  litterature: Albertini, J.B.; Schweinitz, L.D. von. 1805. Conspectus Fungorum in
+    Lusatiae superioris. :1-376
 collections:
-  - fongarium: cKc0284
-    date: 3 octobre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0284
+  date: 3 octobre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,10 @@ description:
   cellules-stromatiques: 
   chair: entièrement blanchâtre
   chancre: 
-  chapeau: 40-100 mm Ø, conique arrondi, campanulé ou convexe, puis étalé, brun foncé, parfois subtilement teinté de violet, habituellement orné de quelques flocons vélaires gris, à marge non sillonnée
-  cheilochrysocystides:
+  chapeau: 40-100 mm Ø, conique arrondi, campanulé ou convexe, puis étalé, brun foncé,
+    parfois subtilement teinté de violet, habituellement orné de quelques flocons
+    vélaires gris, à marge non sillonnée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -78,8 +79,14 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: |
-    De Yves Lamoureux. « On reconnaît facilement cette amanite aux traits suivants ; chapeau foncé, anneau gris et pied très bulbeux. <i>A. lignophila</i> en diffère par sa petite taille, son pied blanc et son anneau blanc ou jaune. L’épithète « porphyria » désigne une couleur teintée de pourpre. Toutefois, cette coloration est rarement présente chez l’espèce, du moins au Québec. Il ne faut donc pas accorder d’importance à la signification de ce nom. »
+  commentaires: 'De Yves Lamoureux. « On reconnaît facilement cette amanite aux traits
+    suivants ; chapeau foncé, anneau gris et pied très bulbeux. <i>A. lignophila</i>
+    en diffère par sa petite taille, son pied blanc et son anneau blanc ou jaune.
+    L’épithète « porphyria » désigne une couleur teintée de pourpre. Toutefois, cette
+    coloration est rarement présente chez l’espèce, du moins au Québec. Il ne faut
+    donc pas accorder d’importance à la signification de ce nom. »
+
+'
   conidies: 
   conidiome: 
   conidiophores: 
@@ -172,7 +179,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres à adnexées, avec nombreuses lamellules atténuées, serrées, blanchâtres à grisâtres, se tachant de gris au froissement
+  lames: libres à adnexées, avec nombreuses lamellules atténuées, serrées, blanchâtres
+    à grisâtres, se tachant de gris au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -205,7 +213,9 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-150 x 7-15 mm Ø, largement bulbeux-marginé, à bulbe parfois napiforme avec l'âge, rarement fendu, souvent chiné de fibrilles gris-brun sur fond blanchâtre, avec anneau gris, émergeant d'une volve membraneuse soudée au pied
+  pied: 50-150 x 7-15 mm Ø, largement bulbeux-marginé, à bulbe parfois napiforme avec
+    l'âge, rarement fendu, souvent chiné de fibrilles gris-brun sur fond blanchâtre,
+    avec anneau gris, émergeant d'une volve membraneuse soudée au pied
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -231,8 +241,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications: "<b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>,
+    Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -271,8 +281,10 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: membraneux ou friable, gris, laissant quelques flocons sur le chapeau et une volve (en grande partie soudée) à la base du pied
+  voile-general: membraneux ou friable, gris, laissant quelques flocons sur le chapeau
+    et une volve (en grande partie soudée) à la base du pied
   voile-partiel: membraneux, gris, laissant un anneau dans le haut du pied
   volve: 
   zone-perihymeniale: 
 ---
+

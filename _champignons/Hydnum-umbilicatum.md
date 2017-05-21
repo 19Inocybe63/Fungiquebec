@@ -1,35 +1,35 @@
 ---
+title: Hydnum Umbilicatum
+date: 2017-03-24 00:00:00 Z
 nom: Hydnum umbilicatum
-date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/3/2950/15275249687_1af927425b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15275249687/in/photolist-pgPDxV
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Hydne ombiliqué
   ordre: Cantharellales
   famille: Hydnaceae
   genre: Hydnum
-  espece: <i>Hydnum umbilicatum</i> Peck
-  litterature: Peck, C.H. 1902. Report of the State Botanist (1901). Annual Report on the New York State Museum of Natural History. 54:929-984
-
+  espece: "<i>Hydnum umbilicatum</i> Peck"
+  litterature: Peck, C.H. 1902. Report of the State Botanist (1901). Annual Report
+    on the New York State Museum of Natural History. 54:929-984
 collections:
-  - fongarium: cKc0296
-    date: 6 octobre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0296
+  date: 6 octobre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
-  aiguillons: 2-7 mm de longueur, adnés à adnexés, blanc crème à crème orangé pâle, devenant plus foncé au froissement
+  aiguillons: 2-7 mm de longueur, adnés à adnexés, blanc crème à crème orangé pâle,
+    devenant plus foncé au froissement
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
@@ -66,10 +66,12 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, ferme, cassante, blanche à orangé pâle, se tachant d'orange puis de brun à la coupe
+  chair: épaisse, ferme, cassante, blanche à orangé pâle, se tachant d'orange puis
+    de brun à la coupe
   chancre: 
-  chapeau: 20-60 mm Ø, convexe à étalé, ombiliqué au centre et perforé jusque dans le pied, finement tomenteux, orange rouille à orange brunâtre
-  cheilochrysocystides:
+  chapeau: 20-60 mm Ø, convexe à étalé, ombiliqué au centre et perforé jusque dans
+    le pied, finement tomenteux, orange rouille à orange brunâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -210,7 +212,8 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 20-100 x 5-10 mm Ø, cylindrique, égal et centré, légèrement élargi vers la base, orangé ou concolore au chapeau, se tachant d'orange puis de brun au froissement
+  pied: 20-100 x 5-10 mm Ø, cylindrique, égal et centré, légèrement élargi vers la
+    base, orangé ou concolore au chapeau, se tachant d'orange puis de brun au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -259,8 +262,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Dentinum umbilicatum</i> (Peck) Pouzar, Ceská Mykologie 10 (2):76 (1956)
+  synonymie: "<i>Dentinum umbilicatum</i> (Peck) Pouzar, Ceská Mykologie 10 (2):76
+    (1956)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -276,3 +279,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

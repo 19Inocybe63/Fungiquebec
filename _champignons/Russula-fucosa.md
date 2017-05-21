@@ -1,61 +1,59 @@
 ---
+title: Russula Fucosa
+date: 2017-04-07 00:00:00 Z
 nom: Russula fucosa
-date: 2017-04-07 00:00:00
 image: https://c1.staticflickr.com/1/718/20475447168_2094b83b00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20475447168/in/photolist-xcm26b
 album-flickr:
-  - 72157675103008824
-
+- 72157675103008824
 details:
   nom-francais: Russule fardée
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula fucosa</i> Burl.
+  espece: "<i>Russula fucosa</i> Burl."
   litterature: Burlingham, G.S. 1924. Notes on species of Russula. Mycologia. 16(1):16-23
-
 collections:
-  - fongarium: cKc0217
-    date: 25 août 2014
-    planche:
-      numero: cKc0217-0056
-      miniature: https://c2.staticflickr.com/8/7496/15991135571_d47c9bd456_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15991135571/in/photolist-qn5KtZ-oSwUbo-oUyEuZ-oUyGrz
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0236
-    date: 4 septembre 2014
-    planche:
-      numero: cKc0236-0162
-      miniature: https://c2.staticflickr.com/4/3938/33659171526_5a5b7565d8_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/33659171526/in/photolist-Thm42y-qn5KtZ-K8Gpx7-Jmp9D5-JRWN1j-xcm26b-oMu8uA-p4WfZw-p4Ychk-oSwUbo-oUyEuZ-oUyGrz-LeQtsF-LiMrm3
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0408
-    date: 17 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0519
-    date: 19 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0217
+  date: 25 août 2014
+  planche:
+    numero: cKc0217-0056
+    miniature: https://c2.staticflickr.com/8/7496/15991135571_d47c9bd456_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15991135571/in/photolist-qn5KtZ-oSwUbo-oUyEuZ-oUyGrz
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0236
+  date: 4 septembre 2014
+  planche:
+    numero: cKc0236-0162
+    miniature: https://c2.staticflickr.com/4/3938/33659171526_5a5b7565d8_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/33659171526/in/photolist-Thm42y-qn5KtZ-K8Gpx7-Jmp9D5-JRWN1j-xcm26b-oMu8uA-p4WfZw-p4Ychk-oSwUbo-oUyEuZ-oUyGrz-LeQtsF-LiMrm3
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
+- fongarium: cKc0408
+  date: 17 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0519
+  date: 19 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -67,8 +65,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac</i> ; (soluté de gaïac), 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+  articles: "<b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées
+    par la réaction au soluté alcoolique officinal de résine de gaïac</i> ; (soluté
+    de gaïac), 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -77,7 +76,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base, 40-45 x 11,5-13 μm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 40-45 x 11,5-13 μm
+    en moyenne
   basidiospores: |
     largement elliptiques en vue frontale, subglobuleuses vues de profil, largement échinulées avec de rares réticulations, avec proéminences jusqu’à 1,7 µm de hauteur, à paroi mince, l’appendice hilaire pas toujours bien visible, hyalines dans le NaCl iso 0,9%, amyloïdes
     8,4 [9,2; 9,6] 10,3 x 7,4 [7,9; 8,2] 8,7 µm
@@ -103,9 +103,12 @@ description:
   cellules-stromatiques: 
   chair: blanche et rougeâtre sous la cuticule
   chancre: 
-  chapeau: 40-65 mm Ø, convexe à étalé, déprimé, pruineux, rosâtre à rouge plus foncé en son centre, légèrement feutré en son centre, cuticule pelant au ¼-¾ du rayon
-  cheilochrysocystides:
-  cheilocystides: nombreuses non proéminentes, cylindriques flexueuses, rostrées, parfois cylindriques avec apex moniliformes, sulfobenzaldéhyde négatif (SBA-), 31,5 [34,8; 38,3] 41,5 x 5,8 [7,9; 10,3] 12,4 µm en moyenne
+  chapeau: 40-65 mm Ø, convexe à étalé, déprimé, pruineux, rosâtre à rouge plus foncé
+    en son centre, légèrement feutré en son centre, cuticule pelant au ¼-¾ du rayon
+  cheilochrysocystides: 
+  cheilocystides: nombreuses non proéminentes, cylindriques flexueuses, rostrées,
+    parfois cylindriques avec apex moniliformes, sulfobenzaldéhyde négatif (SBA-),
+    31,5 [34,8; 38,3] 41,5 x 5,8 [7,9; 10,3] 12,4 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -113,7 +116,13 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Cette xérampéline varie peu en couleurs. As-tu remarqué que son odeur est faible pour une xérampéline, sauf dans la vétusté ? Concernant l’odeur, il y a des règles générales. L'odeur est plus forte dans les lames, et toujours avec l'âge, mais celle de la chair est parfois différente, surtout chez les <i>Cortinarius</i>, la pluie ou le froid (frigo, mois d'octobre) peuvent masquer une odeur ; l'odeur des xérampélines et des bolets s'accentuent au séchage. »
+  commentaires: De Yves Lamoureux. « Cette xérampéline varie peu en couleurs. As-tu
+    remarqué que son odeur est faible pour une xérampéline, sauf dans la vétusté ?
+    Concernant l’odeur, il y a des règles générales. L'odeur est plus forte dans les
+    lames, et toujours avec l'âge, mais celle de la chair est parfois différente,
+    surtout chez les <i>Cortinarius</i>, la pluie ou le froid (frigo, mois d'octobre)
+    peuvent masquer une odeur ; l'odeur des xérampélines et des bolets s'accentuent
+    au séchage. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -208,7 +217,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, serrées, larges, cunéiformes, blanches, pas de lamelles ni de lamellules
+  lames: adnées à adnexées, serrées, larges, cunéiformes, blanches, pas de lamelles
+    ni de lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -241,15 +251,19 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 37-71 x 12-14 mm Ø, claviforme à subcylindrique, farcie, blanc avec des zones rougeâtres, l'intérieur se tachant de rougeâtre-brunâtre à la coupe ou au froissement
+  pied: 37-71 x 12-14 mm Ø, claviforme à subcylindrique, farcie, blanc avec des zones
+    rougeâtres, l'intérieur se tachant de rougeâtre-brunâtre à la coupe ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: nombreuses, cylindriques, septées, faiblement sulfobenzaldéhyde positif (SBA+)
+  pileocystides: nombreuses, cylindriques, septées, faiblement sulfobenzaldéhyde positif
+    (SBA+)
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, proéminentes, cylindriques avec apex mucroné, parfois avec apex largement mucroné, à baguette de tambour, 48,7 [58,6; 70,7] 80,7 x 10,5 [11,3; 12,3] 13,1 µm en moyenne
+  pleurocystides: nombreuses, proéminentes, cylindriques avec apex mucroné, parfois
+    avec apex largement mucroné, à baguette de tambour, 48,7 [58,6; 70,7] 80,7 x 10,5
+    [11,3; 12,3] 13,1 µm en moyenne
   poils: nombreux, cylindriques, septées
   poils-basaux: 
   poils-caulinaires: 
@@ -297,7 +311,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; D-E d'après la charte de couleur de Kibby
+  sporee: ocrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur
+    de Romagnesi ; D-E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -322,3 +337,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

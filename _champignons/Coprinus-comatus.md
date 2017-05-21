@@ -1,31 +1,29 @@
 ---
+title: Coprinus Comatus
+date: 2017-03-18 00:00:00 Z
 nom: Coprinus comatus
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8463/8122208811_c0a46004cc_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8122208811/in/photolist-dnJrGX
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Coprin chevelu
   ordre: Agaricales
   famille: Agaricaceae
   genre: Coprinus
-  espece: <i>Coprinus comatus</i> (O.F. Müll.) Pers.
+  espece: "<i>Coprinus comatus</i> (O.F. Müll.) Pers."
   litterature: Persoon, C.H. 1797. Tentamen dispositionis methodicae Fungorum. :1-76
-
 collections:
-  - fongarium: Sans numéro
-    date: 25 octobre 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: Sans numéro
+  date: 25 octobre 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -66,10 +64,15 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, fibreuse, fragile, légèrement cassante, blanche au début, puis noire par déliquescence avec l'âge
+  chair: mince, fibreuse, fragile, légèrement cassante, blanche au début, puis noire
+    par déliquescence avec l'âge
   chancre: 
-  chapeau: 40-200 x 25-70 mm Ø, lorsque fermé, 50-80 (100) mm Ø, après expansion, ellipsoïde, oblong à subcylindrique au début, puis largement conique à étalé, fragile, avec écailles vélaires apprimées persistantes, se brisant en écailles récurvées ou méchules à bouts brun foncé avec l'âge, sauf au centre qui demeure lisse, blanc au début, brunâtre, gris pâle à modéré ou brun ocre au centre, déliquescent
-  cheilochrysocystides:
+  chapeau: 40-200 x 25-70 mm Ø, lorsque fermé, 50-80 (100) mm Ø, après expansion,
+    ellipsoïde, oblong à subcylindrique au début, puis largement conique à étalé,
+    fragile, avec écailles vélaires apprimées persistantes, se brisant en écailles
+    récurvées ou méchules à bouts brun foncé avec l'âge, sauf au centre qui demeure
+    lisse, blanc au début, brunâtre, gris pâle à modéré ou brun ocre au centre, déliquescent
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -173,7 +176,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées puis libres, très serrées, blanches puis rosâtres et grises, noires à la fin, entièrement déliquescentes
+  lames: adnées puis libres, très serrées, blanches puis rosâtres et grises, noires
+    à la fin, entièrement déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +211,9 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 70-300 x 10-25 mm Ø, élargi vers la base jusqu'à 30 mm, subbulbeux, parfois radicant, fragile, creux, glabre à soyeux-fibrilleux, blanc opaque, muni d'un petit anneau mobile blanc souvent sur la partie inférieure
+  pied: 70-300 x 10-25 mm Ø, élargi vers la base jusqu'à 30 mm, subbulbeux, parfois
+    radicant, fragile, creux, glabre à soyeux-fibrilleux, blanc opaque, muni d'un
+    petit anneau mobile blanc souvent sur la partie inférieure
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,8 +239,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+  publications: "<b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>.
+    <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of
+    agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005,
+    236 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -272,7 +280,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: présent, laissant un épais anneau cotonneux évanescent ou tombant le plus souvent sur la base du pied comme une pseudo volve
+  voile-partiel: présent, laissant un épais anneau cotonneux évanescent ou tombant
+    le plus souvent sur la base du pied comme une pseudo volve
   volve: 
   zone-perihymeniale: 
 ---
+

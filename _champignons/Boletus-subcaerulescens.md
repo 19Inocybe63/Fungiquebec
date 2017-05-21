@@ -1,31 +1,31 @@
 ---
+title: Boletus Subcaerulescens
+date: 2017-03-18 00:00:00 Z
 nom: Boletus subcaerulescens
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/6/5657/20677827014_5ccdd426a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20677827014/in/photolist-yaCLKE-xvegyS
 album-flickr:
-  - 72157674653889111
-
+- 72157674653889111
 details:
   nom-francais: Cèpe à pores bleuissants
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
-  espece: <i>Boletus subcaerulescens</i> (E. A. Dick & Snell) Both, Bessette & A.R. Bessette
-  litterature: Bessette, A.E.; Roody, W.C.; Bessette, A.R. 2000. North American Boletes, A Color Guide to the Fleshy Pored Mushrooms. :1-399
-
+  espece: "<i>Boletus subcaerulescens</i> (E. A. Dick & Snell) Both, Bessette & A.R.
+    Bessette"
+  litterature: Bessette, A.E.; Roody, W.C.; Bessette, A.R. 2000. North American Boletes,
+    A Color Guide to the Fleshy Pored Mushrooms. :1-399
 collections:
-  - fongarium: cKc0457
-    date: 10 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0457
+  date: 10 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -76,7 +76,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Avec cette couleur de sporée, et la macroréaction verte aux bases, il n'y a qu'une seule espèce! »
+  commentaires: De Yves Lamoureux. « Avec cette couleur de sporée, et la macroréaction
+    verte aux bases, il n'y a qu'une seule espèce! »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -278,3 +279,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

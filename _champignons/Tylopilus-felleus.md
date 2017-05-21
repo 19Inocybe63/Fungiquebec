@@ -1,31 +1,30 @@
 ---
+title: Tylopilus Felleus
+date: 2017-03-25 00:00:00 Z
 nom: Tylopilus felleus
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8443/29399041486_35070c7c15_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29399041486/in/photolist-LMTLMC-LHT5Tt
 album-flickr:
-  - 72157677322106245
-
+- 72157677322106245
 details:
   nom-francais: Bolet amer
   ordre: Boletales
   famille: Boletaceae
   genre: Tylopilus
-  espece: <i>Tylopilus felleus</i> (Bull.) P. Karst.
-  litterature: Karsten, P.A. 1881. Enumeratio Boletinearum et Polyporearum Fennicarum, systemate novo dispositarum. Revue Mycologique Toulouse. 3(9):16-19
-
+  espece: "<i>Tylopilus felleus</i> (Bull.) P. Karst."
+  litterature: Karsten, P.A. 1881. Enumeratio Boletinearum et Polyporearum Fennicarum,
+    systemate novo dispositarum. Revue Mycologique Toulouse. 3(9):16-19
 collections:
-  - fongarium: cKc0558
-    date: 3 septembre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0558
+  date: 3 septembre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,11 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable ou brunissant un peu à la coupe
   chancre: 
-  chapeau: 40-250 mm, convexe devenant largement convexe à presque étalé à maturité, sec, glabre, parfois visqueux lorsqu'humide, rosâtre à pourpre rougeâtre au début, développant une certaine nuance de brun avec ou sans teintes violacées et finalement brun foncé à maturité  
-  cheilochrysocystides:
+  chapeau: 40-250 mm, convexe devenant largement convexe à presque étalé à maturité,
+    sec, glabre, parfois visqueux lorsqu'humide, rosâtre à pourpre rougeâtre au début,
+    développant une certaine nuance de brun avec ou sans teintes violacées et finalement
+    brun foncé à maturité
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -203,7 +205,11 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 40-170 mm x 10-35 mm Ø, claviforme, épais, ferme, agrandissant vers le bas, bulbeux, entièrement brun ou blanc vers l'apex et brun vers le bas, développant souvent des taches olive ou brun olive lorsque meurtri, fortement réticulé avec un réticulum brun, à mailles larges, au moins sur le tiers supérieur, mycélium basal blanc
+  pied: 40-170 mm x 10-35 mm Ø, claviforme, épais, ferme, agrandissant vers le bas,
+    bulbeux, entièrement brun ou blanc vers l'apex et brun vers le bas, développant
+    souvent des taches olive ou brun olive lorsque meurtri, fortement réticulé avec
+    un réticulum brun, à mailles larges, au moins sur le tiers supérieur, mycélium
+    basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -256,8 +262,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Boletus felleus</i> Bull., Herbier de la France 8, t. 379 (1788)
+  synonymie: "<i>Boletus felleus</i> Bull., Herbier de la France 8, t. 379 (1788)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -265,7 +270,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 1-2 cm de longueur
+  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 1-2 cm de
+    longueur
   type: 
   typique: 
   voile: 
@@ -274,3 +280,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

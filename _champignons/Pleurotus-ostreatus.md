@@ -1,41 +1,39 @@
 ---
+title: Pleurotus Ostreatus
+date: 2017-03-25 00:00:00 Z
 nom: Pleurotus ostreatus
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5602/15527961875_63c2792900_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15527961875/in/photolist-pE7NaU-pE9S5B-pE9TUZ
 album-flickr:
-  - 72157680329039965
-
+- 72157680329039965
 details:
   nom-francais: Pleurote en huître
   ordre: Agaricales
   famille: Pleurotaceae
   genre: Pleurotus
-  espece: <i>Pleurotus ostreatus</i> (Jacq.) P. Kumm.
+  espece: "<i>Pleurotus ostreatus</i> (Jacq.) P. Kumm."
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
-
 collections:
-  - fongarium: cKc0134
-    date: 27 septembre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0301
-    date: 13 octobre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0134
+  date: 27 septembre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0301
+  date: 13 octobre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -61,7 +59,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois vivant ou mort de feuillus, <i>Acer</i>, <i>Fagus</i>, <i>Quercus</i>
+  biotopes: pousse sur bois vivant ou mort de feuillus, <i>Acer</i>, <i>Fagus</i>,
+    <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -78,8 +77,10 @@ description:
   cellules-stromatiques: 
   chair: jusqu'à 8-20 mm d'épaisseur, ferme, légèrement fibreuse, blanche
   chancre: 
-  chapeau: 40-150 mm Ø, conchoïde, convexe, plat à quelque peu déprimé, flabelliforme, finement duveteux ou pubescent, lisse sur les autres parties, brun pâle à brun foncé, à marge fortement enroulée au début, puis légèrement enroulée à maturité
-  cheilochrysocystides:
+  chapeau: 40-150 mm Ø, conchoïde, convexe, plat à quelque peu déprimé, flabelliforme,
+    finement duveteux ou pubescent, lisse sur les autres parties, brun pâle à brun
+    foncé, à marge fortement enroulée au début, puis légèrement enroulée à maturité
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -183,7 +184,10 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: convergentes vers un point d'attache, adnées à souvent décurrentes, larges, 5-15 mm, parfois anastomosées et formant parfois un réticulum au point d'attache, avec lamellules, serrées à très serrées, blanchâtre terne à chamois rosâtre pâle, teintées de gris, à arêtes entières au début, puis érodées avec l'âge
+  lames: convergentes vers un point d'attache, adnées à souvent décurrentes, larges,
+    5-15 mm, parfois anastomosées et formant parfois un réticulum au point d'attache,
+    avec lamellules, serrées à très serrées, blanchâtre terne à chamois rosâtre pâle,
+    teintées de gris, à arêtes entières au début, puis érodées avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -217,7 +221,9 @@ description:
   peritheces: 
   phenologie: de mai à octobre
   phialoconidies: 
-  pied: absent, rudimentaire ou bien développé, 10-40 x 3-35 mm Ø, excentré à latéral ou même centré, subégal ou élargi aux deux extrémités, trapu, ferme, plein, sec, blanchâtre à jaune sombre, pubescent à strigueux blanc à la base
+  pied: absent, rudimentaire ou bien développé, 10-40 x 3-35 mm Ø, excentré à latéral
+    ou même centré, subégal ou élargi aux deux extrémités, trapu, ferme, plein, sec,
+    blanchâtre à jaune sombre, pubescent à strigueux blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -288,3 +294,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

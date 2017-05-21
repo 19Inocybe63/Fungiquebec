@@ -1,41 +1,40 @@
 ---
+title: Inocybe Mixtilis
+date: 2017-03-26 00:00:00 Z
 nom: Inocybe mixtilis
-date: 2017-03-26 00:00:00
 image: https://c1.staticflickr.com/1/320/19646769673_3aa100cc36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19646769673/in/photolist-FW6AsL-vW7Q9a-w4hTQt-w3DWcd/
 album-flickr:
-  - 72157676370496063
-
+- 72157676370496063
 details:
   nom-francais: Inocybe à bulbe marginé
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe mixtilis</i> (Britzelm.) Sacc.
-  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
-
+  espece: "<i>Inocybe mixtilis</i> (Britzelm.) Sacc."
+  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge
+    Fungorum. 5:1-1146
 collections:
-  - fongarium: cKc0341
-    date: 15 juillet 2015
-    planche:
-      numero: cKc0341-0124
-      miniature: https://c2.staticflickr.com/8/7751/26210096224_a6d4bbf451_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/26210096224/in/photolist-FW6AsL-vW7Q9a-w4hTQt-w3DWcd
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Y. Lamoureux et E. Ferrari
-  - fongarium: cKc0391
-    date: 3 août 2015
-    planche:
-      numero: cKc0391-0125
-      miniature: https://c2.staticflickr.com/8/7399/26815855246_88194bc3f9_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/26815855246/in/photolist-GRCgvQ-vW7Q9a-w4hTQt-w3DWcd/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0341
+  date: 15 juillet 2015
+  planche:
+    numero: cKc0341-0124
+    miniature: https://c2.staticflickr.com/8/7751/26210096224_a6d4bbf451_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/26210096224/in/photolist-FW6AsL-vW7Q9a-w4hTQt-w3DWcd
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Y. Lamoureux et E. Ferrari
+- fongarium: cKc0391
+  date: 3 août 2015
+  planche:
+    numero: cKc0391-0125
+    miniature: https://c2.staticflickr.com/8/7399/26815855246_88194bc3f9_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/26815855246/in/photolist-GRCgvQ-vW7Q9a-w4hTQt-w3DWcd/
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -62,7 +61,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement claviformes-piriformes, à très légèrement déformées-flexueuses, bisporiques à tétrasporiques jusqu'à 4 µm de longueur, bouclées à la base, avec contenu granuleux, 21,7 - 34 × (9,4) 9,45 - 12,9 µm en moyenne
+  basides: courtement claviformes-piriformes, à très légèrement déformées-flexueuses,
+    bisporiques à tétrasporiques jusqu'à 4 µm de longueur, bouclées à la base, avec
+    contenu granuleux, 21,7 - 34 × (9,4) 9,45 - 12,9 µm en moyenne
   basidiospores: |
     gibbosporées noduleuses-anguleuses (goniospores) avec 8-10 bosses assez haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6,3) 6,7 - 8,7 (9,1) × (4,4) 5,6 - 7 (7,4) µm
@@ -71,7 +72,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans un sol sablonneux, sous chêne, pin, en milieu ouvert, au potentiel hydrogène (pH) 4-6
+  biotopes: pousse dans un sol sablonneux, sous chêne, pin, en milieu ouvert, au potentiel
+    hydrogène (pH) 4-6
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -79,17 +81,27 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: polymorphes, de type métuloïdes fusiformes à lagéniformes, à paroi fine à épaissie 1-3 µm, (44,7) 59,9 - 77 (82,7) × (16,1) 18,5 - 23,2 (23,5) µm, ellipsoïdes ovoïdes 27,1 - 31,76 (31,8) × 8,4 - 11,4 µm en moyenne, en faisceaux
-  caulocystides-sommitales: polymorphes, de type métuloïdes fusiformes à lagéniformes, à paroi moyenne à épaissie 2-3 µm, (53,5) 56,7 - 88,3 (89,4) × (18,9) 19,9 - 27,4 (35,2) µm en moyenne, clavées 29,8 - 30,8 × 8,9 - 9,9 µm en moyenne, et ovoïdes 30,9 - 34,7 × 15,6 - 16,5 µm en moyenne, en faisceaux, rarement solitaire
+  caulocystides-medianes: polymorphes, de type métuloïdes fusiformes à lagéniformes,
+    à paroi fine à épaissie 1-3 µm, (44,7) 59,9 - 77 (82,7) × (16,1) 18,5 - 23,2 (23,5)
+    µm, ellipsoïdes ovoïdes 27,1 - 31,76 (31,8) × 8,4 - 11,4 µm en moyenne, en faisceaux
+  caulocystides-sommitales: polymorphes, de type métuloïdes fusiformes à lagéniformes,
+    à paroi moyenne à épaissie 2-3 µm, (53,5) 56,7 - 88,3 (89,4) × (18,9) 19,9 - 27,4
+    (35,2) µm en moyenne, clavées 29,8 - 30,8 × 8,9 - 9,9 µm en moyenne, et ovoïdes
+    30,9 - 34,7 × 15,6 - 16,5 µm en moyenne, en faisceaux, rarement solitaire
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: abondantes, piriformes, clavées, sphéropédonculées, à paroi fine, situées sur l'arête lamellaire, 17,6 - 28,4 × 8,2 - 10,25 (10,3) µm en moyenne
+  cellules-marginales-paracystides: abondantes, piriformes, clavées, sphéropédonculées,
+    à paroi fine, situées sur l'arête lamellaire, 17,6 - 28,4 × 8,2 - 10,25 (10,3)
+    µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: mince, blanche, immuable
   chancre: 
-  chapeau: 10-40 mm Ø, conique-convexe, conique, campanulé à subétalé, avec papille arrondie ou ombon indistinct, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
-  cheilochrysocystides:
+  chapeau: 10-40 mm Ø, conique-convexe, conique, campanulé à subétalé, avec papille
+    arrondie ou ombon indistinct, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux
+    avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré,
+    parfois couvert de restes blancs du velipellis
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -197,10 +209,16 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crème à gris pâle, puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
+  lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crème
+    à gris pâle, puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes
+    ciliées, concolores aux faces
   lamprocystides: 
-  lamprocheilocystides: de type métuloïdes, nombreuses, fusiformes à largement fusiformes (± ventrues), lagéniformes, à paroi fine à moyenne 1,5-2,4 µm, (52,2) 64,2 - 74,5 (74,6) × (13,4) 19,4 - 21,2 (24,0) µm  
-  lampropleurocystides: de type métuloïdes, abondantes, fusiformes à largement fusiformes (± ventrues), lagéniformes, à paroi épaisse 3-4 µm, (53,2) 67,1 - 74,5 (90,8) × (15,5) 19,7 - 22,3 (29,2) µm
+  lamprocheilocystides: de type métuloïdes, nombreuses, fusiformes à largement fusiformes
+    (± ventrues), lagéniformes, à paroi fine à moyenne 1,5-2,4 µm, (52,2) 64,2 - 74,5
+    (74,6) × (13,4) 19,4 - 21,2 (24,0) µm
+  lampropleurocystides: de type métuloïdes, abondantes, fusiformes à largement fusiformes
+    (± ventrues), lagéniformes, à paroi épaisse 3-4 µm, (53,2) 67,1 - 74,5 (90,8)
+    × (15,5) 19,7 - 22,3 (29,2) µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -231,10 +249,16 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 20-70 x 3-5 mm Ø, cylindrique, ± égal à flexueux, avec bulbe marginé, pruineux sur toute sa longueur, blanchâtre au début, puis crème, jaune pâle à teinté de jaune ocre
+  pied: 20-70 x 3-5 mm Ø, cylindrique, ± égal à flexueux, avec bulbe marginé, pruineux
+    sur toute sa longueur, blanchâtre au début, puis crème, jaune pâle à teinté de
+    jaune ocre
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis (ixocutis) avec suprapellis d'environ 50-55 µm de profondeur, parallèle à hyaline entrelacées, avec hyphes agglutinées 2-3,5 µm de Ø, avec granulations hyalines, le subpellis est composé d’une couche d’environ 65 µm de profondeur, compacts, avec des hyphes entrelacées entre 5.5-13 µm de Ø, avec des hyphes à pigmentations incrustées brun foncé à brun pâles
+  pileipellis: en cutis (ixocutis) avec suprapellis d'environ 50-55 µm de profondeur,
+    parallèle à hyaline entrelacées, avec hyphes agglutinées 2-3,5 µm de Ø, avec granulations
+    hyalines, le subpellis est composé d’une couche d’environ 65 µm de profondeur,
+    compacts, avec des hyphes entrelacées entre 5.5-13 µm de Ø, avec des hyphes à
+    pigmentations incrustées brun foncé à brun pâles
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -271,8 +295,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 12, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
+  reactions-macrochimiques: 'Réactif d''Ehrlich (Paradiméthylaminobenzaldéhyde ou
+    P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
+
+'
   receptacle: 
   remarques: |
     Sous-genre Inocybe, Section Marginatae, Sous-section Praetervisae
@@ -300,8 +326,8 @@ description:
   syndrome: |
     muscarinien ou sudorien
     La toxine responsable est la muscarine.
-  synonymie: |
-    <i>Agaricus mixtilis</i> Britzelm., Berichte des Naturhistorischen Vereins Augsburg 28:152 (1885)
+  synonymie: "<i>Agaricus mixtilis</i> Britzelm., Berichte des Naturhistorischen Vereins
+    Augsburg 28:152 (1885)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -318,3 +344,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

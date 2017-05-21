@@ -1,51 +1,50 @@
 ---
+title: Conocybe Rugosa
+date: 2017-03-18 00:00:00 Z
 nom: Conocybe rugosa
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/9/8662/29878980946_7e40363052_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29878980946
 album-flickr:
-  - 72157675151844994
-
+- 72157675151844994
 details:
   nom-francais: Conocybe rugueux
   ordre: Agaricales
   famille: Bolbitiaceae
   genre: Conocybe
-  espece: <i>Conocybe rugosa</i> (Peck) Watling
-  litterature: Watling, R.; Gregory, N.M. 1981. Census catalogue of world members of the Bolbitiaceae. Bibliotheca Mycologica. 82:1-224
-
+  espece: "<i>Conocybe rugosa</i> (Peck) Watling"
+  litterature: Watling, R.; Gregory, N.M. 1981. Census catalogue of world members
+    of the Bolbitiaceae. Bibliotheca Mycologica. 82:1-224
 collections:
-  - fongarium: cKc0036
-    date: 28 septembre 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0333
-    date: 10 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0568
-    date: 24 septembre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0036
+  date: 28 septembre 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0333
+  date: 10 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0568
+  date: 24 septembre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -57,8 +56,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Watling, R. ; Gregory, N. M</b>. <i>Census catalogue of world members of the Bolbitiaceae</i>. Bibliotheca Mycologica, 1981, 82:1-224
+  articles: "<b>Watling, R. ; Gregory, N. M</b>. <i>Census catalogue of world members
+    of the Bolbitiaceae</i>. Bibliotheca Mycologica, 1981, 82:1-224\n"
   ascome: 
   ascospores: 
   asques: 
@@ -72,7 +71,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, débris ligneux, sous feuillus, plate-bande, copeaux de bois, sol retourné, bords de chemin
+  biotopes: pousse au sol, débris ligneux, sous feuillus, plate-bande, copeaux de
+    bois, sol retourné, bords de chemin
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -89,8 +89,11 @@ description:
   cellules-stromatiques: 
   chair: chamois à brunâtre, plus foncée vers la base du pied
   chancre: 
-  chapeau: 9-16 mm Ø, hémisphérique au début, puis conique, ombonné obtus à conique-campanulé puis convexe, légèrement à fortement ridé-veiné, hygrophane, brun-jaune à fauve rouille avec ou sans teinte de marron, beige, fauve à sienne au sec, à marge translucide-striée au frais
-  cheilochrysocystides:
+  chapeau: 9-16 mm Ø, hémisphérique au début, puis conique, ombonné obtus à conique-campanulé
+    puis convexe, légèrement à fortement ridé-veiné, hygrophane, brun-jaune à fauve
+    rouille avec ou sans teinte de marron, beige, fauve à sienne au sec, à marge translucide-striée
+    au frais
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -194,7 +197,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, ventrues, serrées, crèmes à ochracées puis brun ocre à brun rouille, à arêtes denticulées blanchâtres
+  lames: adnexées, ventrues, serrées, crèmes à ochracées puis brun ocre à brun rouille,
+    à arêtes denticulées blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -227,7 +231,9 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 25-43 x 1-2 mm Ø, égal ou parfois légèrement élargi vers la base, pruineux et crème vers l'apex, fibrilleux-floconneux, teinté de jaune pâle, paille à brunâtre vers la base, fonçant depuis la base
+  pied: 25-43 x 1-2 mm Ø, égal ou parfois légèrement élargi vers la base, pruineux
+    et crème vers l'apex, fibrilleux-floconneux, teinté de jaune pâle, paille à brunâtre
+    vers la base, fonçant depuis la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -293,7 +299,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: distinct, laissant un anneau ample, blanchâtre à brun pâle, feutré et grossièrement strié-plissé au-dessus, persistant
+  voile-partiel: distinct, laissant un anneau ample, blanchâtre à brun pâle, feutré
+    et grossièrement strié-plissé au-dessus, persistant
   volve: 
   zone-perihymeniale: 
 ---
+

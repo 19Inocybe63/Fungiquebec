@@ -1,51 +1,51 @@
 ---
+title: Lentinus Brumalis
+date: 2017-03-25 00:00:00 Z
 nom: Lentinus brumalis
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5577/30024934032_7af1fb303f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024934032/in/photolist-MKcCQq-MKcJKG
 album-flickr:
-  - 72157679275601306
-
+- 72157679275601306
 details:
   nom-francais: Polypore d'hiver
   ordre: Polyporales
   famille: Polyporaceae
   genre: Lentinus
-  espece: <i>Lentinus brumalis</i> (Pers.) Zmitr.
-  litterature: Zmitrovich, I.V. 2010. The taxonomical and nomenclatural characteristics of medicinal mushrooms in some genera of Polyporaceae. International Journal of Medicinal Mushrooms. 12(1):87-89
-
+  espece: "<i>Lentinus brumalis</i> (Pers.) Zmitr."
+  litterature: Zmitrovich, I.V. 2010. The taxonomical and nomenclatural characteristics
+    of medicinal mushrooms in some genera of Polyporaceae. International Journal of
+    Medicinal Mushrooms. 12(1):87-89
 collections:
-  - fongarium: sans numéro
-    date: 7 octobre 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'43.6"N 71°41'39.1"O
-    elevation: 105 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0567
-    date: 24 septembre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0585
-    date: 5 octobre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 7 octobre 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'43.6"N 71°41'39.1"O
+  elevation: 105 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0567
+  date: 24 septembre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0585
+  date: 5 octobre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -88,8 +88,13 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 7-23 mm Ø, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire, tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts poils raides et foncés au début, puis sublisse ou velouté, non zoné, luisant, bronzé, brun pourpré, brun grisâtre à presque noir ; à marge enroulée au début, réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée à ciliée, concolore
-  cheilochrysocystides:
+  chapeau: 7-23 mm Ø, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire,
+    tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts
+    poils raides et foncés au début, puis sublisse ou velouté, non zoné, luisant,
+    bronzé, brun pourpré, brun grisâtre à presque noir ; à marge enroulée au début,
+    réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée
+    à ciliée, concolore
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -226,7 +231,8 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 7-12 x 1-2 mm Ø, centré à excentré, égal, droit à courbe, parfois légèrement élargi vers avec base, solide, finement velouté à lisse, blanc grisâtre à brunâtre
+  pied: 7-12 x 1-2 mm Ø, centré à excentré, égal, droit à courbe, parfois légèrement
+    élargi vers avec base, solide, finement velouté à lisse, blanc grisâtre à brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -246,14 +252,15 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds, puis anguleux, souvent librement disposés, (1) 2-4 par mm, à dissépiments minces, devenant lacérés, subdécurrents, blancs à ivoire, 1-3 mm de longueur
+  pores: ronds, puis anguleux, souvent librement disposés, (1) 2-4 par mm, à dissépiments
+    minces, devenant lacérés, subdécurrents, blancs à ivoire, 1-3 mm de longueur
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -313,3 +320,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

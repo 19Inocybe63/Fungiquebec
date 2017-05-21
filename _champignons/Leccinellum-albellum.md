@@ -1,31 +1,31 @@
 ---
+title: Leccinellum Albellum
+date: 2017-03-25 00:00:00 Z
 nom: Leccinellum albellum
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5567/15033475346_6db9feaa38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15033475346/in/photolist-qzgfEY-oUsusN
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Bolet blanchâtre
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinellum
-  espece: <i>Leccinellum albellum</i> (Peck) Bresinsky & Manfr. Binder
-  litterature: Bresinsky, A.; Besl, H. 2003. Beiträge zu einer Mykoflora Deutschlands - Schlüssel zur Gattungsbestimmung der Blätter-, Leisten- und Röhrenpilze mit Literaturhinweisen zur Artbestimmung. Regensburger Mykologische Schriften. 11:1-236
-
+  espece: "<i>Leccinellum albellum</i> (Peck) Bresinsky & Manfr. Binder"
+  litterature: Bresinsky, A.; Besl, H. 2003. Beiträge zu einer Mykoflora Deutschlands
+    - Schlüssel zur Gattungsbestimmung der Blätter-, Leisten- und Röhrenpilze mit
+    Literaturhinweisen zur Artbestimmung. Regensburger Mykologische Schriften. 11:1-236
 collections:
-  - fongarium: cKc0222
-    date: 27 août 2014
-    planche:
-      numero: cKc0222-0062
-      miniature: https://c1.staticflickr.com/9/8673/16128982836_54334949ef_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16128982836/in/photolist-qzgfEY-oUsusN
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0222
+  date: 27 août 2014
+  planche:
+    numero: cKc0222-0062
+    miniature: https://c1.staticflickr.com/9/8673/16128982836_54334949ef_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16128982836/in/photolist-qzgfEY-oUsusN
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +46,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base, 20,8 [28,6; 35,7] 43,5 x 9 [11,1; 13] 15,1 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 20,8 [28,6; 35,7]
+    43,5 x 9 [11,1; 13] 15,1 µm en moyenne
   basidiospores: |
     fusiformes en vue frontale, cylindriques à bacilliformes vues de profil, lisses, à paroi mince entre 0,1-0,2 µm, avec appendice hilaire et une dépression supra apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     14,1 [15,6; 16,2] 17,6 x 4,7 [5; 5,1] 5,4 µm
@@ -62,7 +63,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: présentes
-  caulocystides: semblables aux hyménocystides, parfois longuement mucronées, 30 [33,3; 39,8] 43,1 x 5,9 [8,7; 14,4] 17,3 µm
+  caulocystides: semblables aux hyménocystides, parfois longuement mucronées, 30 [33,3;
+    39,8] 43,1 x 5,9 [8,7; 14,4] 17,3 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -72,7 +74,9 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 20-75 mm Ø, convexe à largement convexe, subétalé, sec, finement tomenteux à glabre, finement craquelé-aréolé à maturité, blanchâtre à gris pâle, rosâtre, jaunâtre, bronzé ou olive, à marge unie
+  chapeau: 20-75 mm Ø, convexe à largement convexe, subétalé, sec, finement tomenteux
+    à glabre, finement craquelé-aréolé à maturité, blanchâtre à gris pâle, rosâtre,
+    jaunâtre, bronzé ou olive, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -146,7 +150,9 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: nombreuses, fusiformes à fusiformes digitées ou fusiformes avec long col, parfois avec apex moniliforme, 37,8 [45,7; 61,4] 69,2 x 6,3 [7,5; 10,1] 11,3 µm
+  hymenocystides: nombreuses, fusiformes à fusiformes digitées ou fusiformes avec
+    long col, parfois avec apex moniliforme, 37,8 [45,7; 61,4] 69,2 x 6,3 [7,5; 10,1]
+    11,3 µm
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -207,10 +213,15 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 40-115 x 5-12 mm Ø, claviforme, subégal à légèrement élargi vers la base et conique vers le sommet, plein, sec, blanchâtre, orné de fines rugosités devenant brun-noir avec l'âge, une tache jaune dans la chair est localisée juste à la base, mycélium basal blanchâtre
+  pied: 40-115 x 5-12 mm Ø, claviforme, subégal à légèrement élargi vers la base et
+    conique vers le sommet, plein, sec, blanchâtre, orné de fines rugosités devenant
+    brun-noir avec l'âge, une tache jaune dans la chair est localisée juste à la base,
+    mycélium basal blanchâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'éléments celluleux en chaîne, subglobuleux à clavées ressemblant à un trichoderme, entre 19,5 [29,2; 44,8] 54,4 x 6,4 [11,3; 19,2] 24,2 µm; ressemble parfois à un pileipellis de type virescens
+  pileipellis: formé d'éléments celluleux en chaîne, subglobuleux à clavées ressemblant
+    à un trichoderme, entre 19,5 [29,2; 44,8] 54,4 x 6,4 [11,3; 19,2] 24,2 µm; ressemble
+    parfois à un pileipellis de type virescens
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -285,3 +296,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Amanita Abrupta
+date: 2017-04-07 00:00:00 Z
 nom: Amanita abrupta
-date: 2017-04-07 00:00:00
 image: https://c1.staticflickr.com/1/713/21329672180_4f938a431f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21329672180/in/photolist-yuQ9qC-yuQdej
 album-flickr:
-  - 72157675311790892
-
+- 72157675311790892
 details:
   nom-francais: Amanite à bulbe abrupt
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita abrupta</i> Peck
-  litterature: Peck, C.H. 1897. New species of fungi. Bulletin of the Torrey Botanical Club. 24:137-147
-  
+  espece: "<i>Amanita abrupta</i> Peck"
+  litterature: Peck, C.H. 1897. New species of fungi. Bulletin of the Torrey Botanical
+    Club. 24:137-147
 collections:
-  - fongarium: cKc0465
-    date: 18 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'23.55"N 71°19'19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0465
+  date: 18 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'23.55"N 71°19'19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +50,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, souvent sous chêne rouge, plus rarement dans les forêts mixtes de conifères et feuillus
+  biotopes: pousse au sol, souvent sous chêne rouge, plus rarement dans les forêts
+    mixtes de conifères et feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +68,11 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 40-140 mm Ø, globuleux à convexe puis étalé, blanc, orné de nombreuses petites verrues coniques, à marge incurvée, unie, souvent appendiculée de restes vélaires fibrilleux blancs au début, s'étendant comme une bande étroite au au-delà des lames
-  cheilochrysocystides:
+  chapeau: 40-140 mm Ø, globuleux à convexe puis étalé, blanc, orné de nombreuses
+    petites verrues coniques, à marge incurvée, unie, souvent appendiculée de restes
+    vélaires fibrilleux blancs au début, s'étendant comme une bande étroite au au-delà
+    des lames
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -171,7 +174,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, 5-8,5 mm de largeur, plus larges vers la marge piléique, avec lamellules atténuées, serrées, blanches à crème rosé, à arêtes finement fimbriées, jaunissant légèrement avec l'âge
+  lames: libres, 5-8,5 mm de largeur, plus larges vers la marge piléique, avec lamellules
+    atténuées, serrées, blanches à crème rosé, à arêtes finement fimbriées, jaunissant
+    légèrement avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -204,7 +209,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 60-160 x 7-20 mm Ø, largement bulbeux-marginé, ± fibrilleux-squamuleux, blanc, souvent orné de bandelettes écailleuses, annelé
+  pied: 60-160 x 7-20 mm Ø, largement bulbeux-marginé, ± fibrilleux-squamuleux, blanc,
+    souvent orné de bandelettes écailleuses, annelé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,11 +236,13 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications: "<b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>,
+    Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques\n"
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration à légèrement rosâtre sur le chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration à légèrement rosâtre
+    sur le chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -267,8 +275,14 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: friable, blanc, laissant des verrues coniques sur le chapeau et parfois des squamules à la base du pied, facilement laissées dans le substrat lors de la récolte, et/ou de minces crêtes et cercles sur le bord supérieur du bulbe
-  voile-partiel: membraneux, blanc, laissant un anneau subapical à supère sur le pied, ample, pendant, assez épais, à marge épaissie, striée au-dessus, feutré et souvent relié à la surface inférieure du pied par de nombreuses fibrilles blanches au-dessous, et parfois des lambeaux à la marge du chapeau
+  voile-general: friable, blanc, laissant des verrues coniques sur le chapeau et parfois
+    des squamules à la base du pied, facilement laissées dans le substrat lors de
+    la récolte, et/ou de minces crêtes et cercles sur le bord supérieur du bulbe
+  voile-partiel: membraneux, blanc, laissant un anneau subapical à supère sur le pied,
+    ample, pendant, assez épais, à marge épaissie, striée au-dessus, feutré et souvent
+    relié à la surface inférieure du pied par de nombreuses fibrilles blanches au-dessous,
+    et parfois des lambeaux à la marge du chapeau
   volve: 
   zone-perihymeniale: 
 ---
+

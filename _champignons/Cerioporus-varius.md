@@ -1,31 +1,31 @@
 ---
+title: Cerioporus Varius
+date: 2017-03-18 00:00:00 Z
 nom: Cerioporus varius
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/8/7324/28090576492_0e3d9edeaa_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28090576492/in/photolist-JUr2Z9-JNgxJm
 album-flickr:
-  - 72157676846412564
-
+- 72157676846412564
 details:
   nom-francais: Polypore vergeté
   ordre: Polyporales
   famille: Polyporaceae
   genre: Cerioporus
-  espece: <i>Cerioporus varius</i> (Pers.) Zmitr. & Kovalenko
-  litterature: Zmitrovich, I.V; Kovalenko, A.E. 2016. Lentinoid and polyporoid fungi, two generic conglomerates containing important medicinal mushrooms in molecular perspective. International Journal of Medicinal Mushrooms. 18(1):23-38
-
+  espece: "<i>Cerioporus varius</i> (Pers.) Zmitr. & Kovalenko"
+  litterature: Zmitrovich, I.V; Kovalenko, A.E. 2016. Lentinoid and polyporoid fungi,
+    two generic conglomerates containing important medicinal mushrooms in molecular
+    perspective. International Journal of Medicinal Mushrooms. 18(1):23-38
 collections:
-  - fongarium: cKc0513
-    date: 9 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0513
+  date: 9 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +68,12 @@ description:
   cellules-stromatiques: 
   chair: mince, immuable, coriace, blanchâtre à jaunâtre
   chancre: 
-  chapeau: 20-80 mm Ø, 3-10 mm d’épaisseur, largement convexe à plat, développant une dépression centrale, généralement rond en contour, mais parfois fendu ou quelque peu en forme de rein, sec, glabre, parfois légèrement rayé, surtout vers la marge, jaunâtre, cannelle, ou plus pâle, parfois avec de vagues zones concentriques de couleur
-  cheilochrysocystides:
+  chapeau: 20-80 mm Ø, 3-10 mm d’épaisseur, largement convexe à plat, développant
+    une dépression centrale, généralement rond en contour, mais parfois fendu ou quelque
+    peu en forme de rein, sec, glabre, parfois légèrement rayé, surtout vers la marge,
+    jaunâtre, cannelle, ou plus pâle, parfois avec de vagues zones concentriques de
+    couleur
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -83,7 +87,8 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: subéreux, non zoné, blanc, chamois à brun pâle, jusqu'à 5 mm d'épaisseur, parfois jusqu'à 15 mm
+  contexte: subéreux, non zoné, blanc, chamois à brun pâle, jusqu'à 5 mm d'épaisseur,
+    parfois jusqu'à 15 mm
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -206,7 +211,9 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 10-20 x 4-7 mm Ø, central ou décentré à latéral, conique légèrement à la base, souvent courbé, sec, glabre et pâle à l'apex, devenant velouté et brun foncé à noir de la base vers le haut, coriace, dur
+  pied: 10-20 x 4-7 mm Ø, central ou décentré à latéral, conique légèrement à la base,
+    souvent courbé, sec, glabre et pâle à l'apex, devenant velouté et brun foncé à
+    noir de la base vers le haut, coriace, dur
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,18 +233,21 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: souvent décurrents jusque sur la portion noire du pied, blanches à crème, 1-5 mm de longueur ; ronds à anguleux, 6-9 par mm, à dissépiments entiers
+  pores: souvent décurrents jusque sur la portion noire du pied, blanches à crème,
+    1-5 mm de longueur ; ronds à anguleux, 6-9 par mm, à dissépiments entiers
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = orange brunâtre sur la surface de la chair et du chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = orange brunâtre sur la surface de
+    la chair et du chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -281,3 +291,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

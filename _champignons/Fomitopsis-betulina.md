@@ -1,31 +1,29 @@
 ---
+title: Fomitopsis Betulina
+date: 2017-03-23 00:00:00 Z
 nom: Fomitopsis betulina
-date: 2017-03-23 00:00:00
 image: https://c2.staticflickr.com/4/3905/15064383809_0d95a73134_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064383809/in/photolist-oXcgnL-oXbUtk
 album-flickr:
-  - 72157673981498392
-
+- 72157673981498392
 details:
   nom-francais: Polypore du bouleau
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Fomitopsis
-  espece: <i>Fomitopsis betulina</i> (Bull.) B.K. Cui, M.L. Han & Y.C. Dai
+  espece: "<i>Fomitopsis betulina</i> (Bull.) B.K. Cui, M.L. Han & Y.C. Dai"
   litterature: Fries, E.M. 1821. Systema Mycologicum. 1:1-520
-
 collections:
-  - fongarium: cKc0250
-    date: 15 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0250
+  date: 15 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,7 +66,10 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 150 x 250 x 60 mm, simple, souvent pendant, dimidié à réniforme ou suborbiculaire, aplani, convexe à la base, anormalement pulviné, blanchâtre, murin ou brunâtre, souvent à cuticule qui se brise pour donner un aspect troué ou écailleux, azoné, glabre, à marge souvent recourbée sur la face poroïde, concolore
+  chapeau: jusqu'à 150 x 250 x 60 mm, simple, souvent pendant, dimidié à réniforme
+    ou suborbiculaire, aplani, convexe à la base, anormalement pulviné, blanchâtre,
+    murin ou brunâtre, souvent à cuticule qui se brise pour donner un aspect troué
+    ou écailleux, azoné, glabre, à marge souvent recourbée sur la face poroïde, concolore
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -76,7 +77,12 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: L'homme des glaces (<b>Ötzi</b> = <a href="http://www.hominides.com/html/ancetres/otzi2.php" rel="nofollow">www.hominides.com/html/ancetres/otzi2.php</a>) avait sur lui le même type de champignon. En effet, dans sa bourse en cuir, il y avait des <i>Fomitopsis betulina</i>. Le polypore du bouleau est un champignon parasite typiquement et exclusivement lié aux bouleaux <i>Betula</i>. Il a des propriétés antibiotiques et contient des huiles toxiques pour les vers intestinaux.
+  commentaires: L'homme des glaces (<b>Ötzi</b> = <a href="http://www.hominides.com/html/ancetres/otzi2.php"
+    rel="nofollow">www.hominides.com/html/ancetres/otzi2.php</a>) avait sur lui le
+    même type de champignon. En effet, dans sa bourse en cuir, il y avait des <i>Fomitopsis
+    betulina</i>. Le polypore du bouleau est un champignon parasite typiquement et
+    exclusivement lié aux bouleaux <i>Betula</i>. Il a des propriétés antibiotiques
+    et contient des huiles toxiques pour les vers intestinaux.
   conidies: 
   conidiome: 
   conidiophores: 
@@ -202,7 +208,8 @@ description:
   peritheces: 
   phenologie: toute l'année
   phialoconidies: 
-  pied: jusqu'à 60 x 50 mm, latéral, court, trapu, glabre, souvent résineux, blanchâtre à brun
+  pied: jusqu'à 60 x 50 mm, latéral, court, trapu, glabre, souvent résineux, blanchâtre
+    à brun
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -221,14 +228,15 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds à anguleux, 3-5 par mm, à dissépiments épais et entiers au début, fendus, agglutinés ensemble et devenant hydnoïdes avec l'âge
+  pores: ronds à anguleux, 3-5 par mm, à dissépiments épais et entiers au début, fendus,
+    agglutinés ensemble et devenant hydnoïdes avec l'âge
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -274,3 +282,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,35 +1,36 @@
 ---
+title: Hericium Coralloides
+date: 2017-03-24 00:00:00 Z
 nom: Hericium coralloides
-date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/4/3858/15199843732_698468a2be_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15199843732/in/photolist-paaaZf
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Hydne corail
   ordre: Russulales
   famille: Hericiaceae
   genre: Hericium
-  espece: <i>Hericium coralloides</i> (Scop.) Pers.
-  litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung der Schwämme. Neues Magazin für die Botanik. 1:63-80
-
+  espece: "<i>Hericium coralloides</i> (Scop.) Pers."
+  litterature: Persoon, C.H. 1794. Neuer Versuch einer systematischen Eintheilung
+    der Schwämme. Neues Magazin für die Botanik. 1:63-80
 collections:
-  - fongarium: cKc0246
-    date: 10 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0246
+  date: 10 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
-  aiguillons: 5-10 mm de longueur, courts, nombreux, en rangées, distribués assez également sur les côtés des rameaux, blancs à crème au début, se décolorant de jaunâtre à brunâtre
+  aiguillons: 5-10 mm de longueur, courts, nombreux, en rangées, distribués assez
+    également sur les côtés des rameaux, blancs à crème au début, se décolorant de
+    jaunâtre à brunâtre
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
@@ -49,7 +50,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 90-200 mm de hauteur, 100-250 mm de largeur, formé d'une structure de longs et multiples rameaux arrivant d'une base commune ± centrée, portant plusieurs petits aiguillons pendants, blanchâtre, parfois rosâtre à saumon
+  basidiome: 90-200 mm de hauteur, 100-250 mm de largeur, formé d'une structure de
+    longs et multiples rameaux arrivant d'une base commune ± centrée, portant plusieurs
+    petits aiguillons pendants, blanchâtre, parfois rosâtre à saumon
   bibliographies: 
   biotopes: pousse sur bois mort ou vivant de feuillus
   boucles: 
@@ -284,3 +287,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

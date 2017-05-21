@@ -1,31 +1,30 @@
 ---
+title: Armillaria Ostoyae
+date: 2017-03-17 00:00:00 Z
 nom: Armillaria ostoyae
-date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/6/5598/15505206645_8151e39b28_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15505206645/in/photolist-pLEhxV-pBRYht-pkCiBH-pC9eK4-pkDsTA
 album-flickr:
-  - 72157672412541764
-
+- 72157672412541764
 details:
   nom-francais: Armillaire obscure ou Armillaire d'Ostoya
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Armillaria
-  espece: <i>Armillaria ostoyae</i> (Romagn.) Herink
-  litterature: Hásek 1973, Sympozium o Václavce Obecné Armillaria mellea (Vahl ex Fr.) Kumm.:42
-
+  espece: "<i>Armillaria ostoyae</i> (Romagn.) Herink"
+  litterature: Hásek 1973, Sympozium o Václavce Obecné Armillaria mellea (Vahl ex
+    Fr.) Kumm.:42
 collections:
-  - fongarium: cKc0300
-    date: 11 octobre 2014
-    planche:
-      numero: cKc0300-0046
-      miniature: https://c2.staticflickr.com/8/7468/15601601419_36a198295a_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15601601419/in/photolist-pLEhxV-pBRYht-pkCiBH-pC9eK4-pkDsTA
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0300
+  date: 11 octobre 2014
+  planche:
+    numero: cKc0300-0046
+    miniature: https://c2.staticflickr.com/8/7468/15601601419_36a198295a_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15601601419/in/photolist-pLEhxV-pBRYht-pkCiBH-pC9eK4-pkDsTA
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -55,7 +54,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur bois ou racines de conifères, moins souvent de feuillus (agent de carie des racines)
+  biotopes: pousse au sol, sur bois ou racines de conifères, moins souvent de feuillus
+    (agent de carie des racines)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -72,7 +72,8 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre, parfois brun rosâtre avec l'âge
   chancre: 
-  chapeau: 40-150 mm Ø, convexe puis étalé, orné d'écailles brunes sur fond crème brunâtre à brun rougeâtre
+  chapeau: 40-150 mm Ø, convexe puis étalé, orné d'écailles brunes sur fond crème
+    brunâtre à brun rougeâtre
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -173,7 +174,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, serrées, blanchâtres à crème rosé, souvent teintées de rosâtre ou se décolorant ou se tachant de brun rougeâtre avec l'âge
+  lames: adnées à subdécurrentes, serrées, blanchâtres à crème rosé, souvent teintées
+    de rosâtre ou se décolorant ou se tachant de brun rougeâtre avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +208,9 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-150 mm x 8-30 mm Ø, subégal à atténué vers la base, fibrilleux-strié, blanchâtre vers l'apex, devenant brunâtre à presque noir vers la base, souvent avec mycélium basal jaunâtre à jaune olive et longs rhizomorphes noirs qui parcourent le bois
+  pied: 50-150 mm x 8-30 mm Ø, subégal à atténué vers la base, fibrilleux-strié, blanchâtre
+    vers l'apex, devenant brunâtre à presque noir vers la base, souvent avec mycélium
+    basal jaunâtre à jaune olive et longs rhizomorphes noirs qui parcourent le bois
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis avec faisceaux trichodermiques
@@ -237,8 +241,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-macrochimiques: 
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
+  reactions-macrochimiques: Potasse (KOH 10%) = pas de coloration ou de décoloration
+    sur le chapeau
   receptacle: 
   remarques: 
   repartition: 
@@ -274,7 +278,9 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: laissant un anneau bien formé, blanchâtre, maculé de brun à la marge (typique de l’espèce)
+  voile-partiel: laissant un anneau bien formé, blanchâtre, maculé de brun à la marge
+    (typique de l’espèce)
   volve: 
   zone-perihymeniale: 
 ---
+

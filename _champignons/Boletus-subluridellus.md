@@ -1,41 +1,39 @@
 ---
+title: Boletus Subluridellus
+date: 2017-03-18 00:00:00 Z
 nom: Boletus subluridellus
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19726150815/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
 album-flickr:
-  - 72157674035673532
-
+- 72157674035673532
 details:
   nom-francais: Bolet brun rougeâtre
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
-  espece: <i>Boletus subluridellus</i> A. H. Sm. & Thiers
+  espece: "<i>Boletus subluridellus</i> A. H. Sm. & Thiers"
   litterature: Smith, A.H.; Thiers, H.D. 1971. The Boletes of Michigan. :1-428
-
 collections:
-  - fongarium: cKc0339
-    date: 15 juillet 2015
-    planche:
-      numero: cKc0339-0118
-      miniature: https://c2.staticflickr.com/2/1530/26008609925_b7a2ce2d14_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/26008609925/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0431
-    date: 23 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0339
+  date: 15 juillet 2015
+  planche:
+    numero: cKc0339-0118
+    miniature: https://c2.staticflickr.com/2/1530/26008609925_b7a2ce2d14_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/26008609925/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0431
+  date: 23 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +54,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subutriformes, tétrasporiques, non bouclées à la base, 33,4 - 36,5 × 9,7 - 11 µm
+  basides: claviformes à subutriformes, tétrasporiques, non bouclées à la base, 33,4
+    - 36,5 × 9,7 - 11 µm
   basidiospores: |
     subfusiformes à fusiformes en vue frontale, cylindriques à légèrement inéquilatérales vues de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     (13,4) 13,8 - 15,8 (16,9) × (4,3) 4,4 - 5 (6) µm
@@ -72,8 +71,11 @@ description:
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: abondantes, claviformes, bisporiques à tétrasporiques, non bouclées à la base, 27,5 - 36,2 × 8,8 - 12,5 µm
-  caulocystides: sur toute la longueur du stipe, cylindriques à fusiformes, flexueuses, dont l’apex de plusieurs est biseauté 16,7 [21,9; 32,1] 37,3 x 4,6 [5,4; 6,8] 7,6 µm, piriformes 22,8 x 9,1 µm en moyenne, rarement cylindriques mucronées
+  caulobasides: abondantes, claviformes, bisporiques à tétrasporiques, non bouclées
+    à la base, 27,5 - 36,2 × 8,8 - 12,5 µm
+  caulocystides: sur toute la longueur du stipe, cylindriques à fusiformes, flexueuses,
+    dont l’apex de plusieurs est biseauté 16,7 [21,9; 32,1] 37,3 x 4,6 [5,4; 6,8]
+    7,6 µm, piriformes 22,8 x 9,1 µm en moyenne, rarement cylindriques mucronées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -83,15 +85,32 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 50-100 mm Ø, large, convexe à contour irrégulier, devenant globalement convexe, avec une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuse, également vermillon rouge à baie, ou à des moments orange, violet instantanément sombre au touché, la surface souvent grêlée
-  cheilocystides: abondantes, polymorphes, parfois saillantes, cylindriques, fusiformes simples à fusiformes à long col, lagéniformes, flexueuses, dont l’apex de plusieurs est biseauté 21,6 [34; 51] 63,5 x 3,7 [5,8; 8,7] 10,7 µm
+  chapeau: 50-100 mm Ø, large, convexe à contour irrégulier, devenant globalement
+    convexe, avec une bande stérile très étroite à la marge, surface sèche et résineux
+    au toucher, velouté mat, pas vraiment visqueuse, également vermillon rouge à baie,
+    ou à des moments orange, violet instantanément sombre au touché, la surface souvent
+    grêlée
+  cheilocystides: abondantes, polymorphes, parfois saillantes, cylindriques, fusiformes
+    simples à fusiformes à long col, lagéniformes, flexueuses, dont l’apex de plusieurs
+    est biseauté 21,6 [34; 51] 63,5 x 3,7 [5,8; 8,7] 10,7 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Le pied jaune vif qui contraste avec le chapeau d'un beau rouge profond ne ment pas. Chez <i>B. subvelutipes</i>, il n'y a pas un tel contraste entre le pied et le chapeau. S'il a plu sur les basidiomes et qu'ils ne sont pas jeunes et frais, ou bien qu'ils ont roulé dans un panier, ont été tripotés, etc., les choses peuvent se compliquer ! Caractère distinctif ici, <i>B. subvelutipes</i> n'a jamais le pied jaune vif. Il sera jaune roussâtre, roux, voire presque entièrement rouge vineux dans la vétusté, mais jamais d'un beau jaune clair. Par ailleurs, les jeunes <i>B. subluridellus</i> ont le chapeau nettement plus velouté. Cela s'évalue bien quand on a les deux espèces en même temps, côte à côte. En général, quand <i>B. subluridellus</i> est sorti dans les chênaies, il y aura des <i>B. subvelutipes</i> dans les prucheraies avoisinantes. »
+  commentaires: De Yves Lamoureux. « Le pied jaune vif qui contraste avec le chapeau
+    d'un beau rouge profond ne ment pas. Chez <i>B. subvelutipes</i>, il n'y a pas
+    un tel contraste entre le pied et le chapeau. S'il a plu sur les basidiomes et
+    qu'ils ne sont pas jeunes et frais, ou bien qu'ils ont roulé dans un panier, ont
+    été tripotés, etc., les choses peuvent se compliquer ! Caractère distinctif ici,
+    <i>B. subvelutipes</i> n'a jamais le pied jaune vif. Il sera jaune roussâtre,
+    roux, voire presque entièrement rouge vineux dans la vétusté, mais jamais d'un
+    beau jaune clair. Par ailleurs, les jeunes <i>B. subluridellus</i> ont le chapeau
+    nettement plus velouté. Cela s'évalue bien quand on a les deux espèces en même
+    temps, côte à côte. En général, quand <i>B. subluridellus</i> est sorti dans les
+    chênaies, il y aura des <i>B. subvelutipes</i> dans les prucheraies avoisinantes.
+    »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -216,10 +235,15 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 15-23 x 4-9 mm Ø, long, solide, égal, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, revêtu sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracé globalement, pas du tout réticulé
+  pied: 15-23 x 4-9 mm Ø, long, solide, égal, pâle citron jaune, changeant au bleu
+    verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex,
+    revêtu sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracé
+    globalement, pas du tout réticulé
   pieds-steriles: 
   pigments: 
-  pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droites, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
+  pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2
+    µm de largeur, plus ou moins entrelacées à subparallèles et droites, avec des
+    faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -281,7 +305,9 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: 6-9 mm de long, jaunes devenant bleus instantanément lorsqu'ils sont coupés, déprimés autour du stipe, à peu près libres, 2-3 par mm, ronds, carmins ou rouge foncé, instantanément bleu lorsque meurtris
+  tubes: 6-9 mm de long, jaunes devenant bleus instantanément lorsqu'ils sont coupés,
+    déprimés autour du stipe, à peu près libres, 2-3 par mm, ronds, carmins ou rouge
+    foncé, instantanément bleu lorsque meurtris
   type: 
   typique: 
   voile: 
@@ -290,3 +316,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

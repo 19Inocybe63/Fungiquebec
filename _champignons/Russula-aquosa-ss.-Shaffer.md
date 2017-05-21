@@ -1,51 +1,49 @@
 ---
+title: Russula Aquosa Ss. Shaffer
+date: 2017-03-27 00:00:00 Z
 nom: Russula aquosa ss. Shaffer
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/4/3840/15156170348_692c211acb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15156170348/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
 album-flickr:
-  - 72157675704726796
-
+- 72157675704726796
 details:
   nom-francais: Russule aqueuse
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula aquosa ss. Shaffer</i> ss. Shaffer
+  espece: "<i>Russula aquosa ss. Shaffer</i> ss. Shaffer"
   litterature: 
-
 collections:
-  - fongarium: cKc0224
-    date: 27 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0244
-    date: 10 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0268
-    date: 24 septembre 2014
-    planche:
-      numero: cKc0268-0068
-      miniature: https://c1.staticflickr.com/9/8591/16249172970_6f72387b2d_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16249172970/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0224
+  date: 27 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0244
+  date: 10 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0268
+  date: 24 septembre 2014
+  planche:
+    numero: cKc0268-0068
+    miniature: https://c1.staticflickr.com/9/8591/16249172970_6f72387b2d_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16249172970/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -57,8 +55,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+  articles: "<b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées
+    par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de
+    gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -67,7 +66,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, avec stérigmates jusqu'à 10 μm de longueur, non bouclées à la base, 45 [45,7; 47,1] 47,8 x 11 [12,4; 15,3] 16,7 µm
+  basides: claviformes, tétrasporiques, avec stérigmates jusqu'à 10 μm de longueur,
+    non bouclées à la base, 45 [45,7; 47,1] 47,8 x 11 [12,4; 15,3] 16,7 µm
   basidiospores: |
     subglobuleuses en vue frontale, largement ellipsoïdales vues de profil, verruqueuses-subcrêtées à rarement échinulées, partiellement réticulées, avec proéminences jusqu’à 1,2 μm de hauteur, à paroi mince, appendice hilaire bien visible dans le NaCl iso 0,9%, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,9 [8,8; 9,2] 10,1 x 6,8 [7,5; 7,8] 8,4 µm
@@ -76,7 +76,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sphaignes et bas de pentes humides, ou parfois sur supprt ligneux en décompsition, feuillus, <i>Fagus</i>
+  biotopes: pousse au sol, sphaignes et bas de pentes humides, ou parfois sur supprt
+    ligneux en décompsition, feuillus, <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -93,7 +94,8 @@ description:
   cellules-stromatiques: 
   chair: blanche, légèrement rosé sous la cuticule
   chancre: 
-  chapeau: 29-52 mm Ø, convexe à étalé, déprimé, dont la cuticule est grasse et collante, se pèle jusqu'au ½-¾ du rayon, rouge à rosé, parfois taché de jaune en son centre
+  chapeau: 29-52 mm Ø, convexe à étalé, déprimé, dont la cuticule est grasse et collante,
+    se pèle jusqu'au ½-¾ du rayon, rouge à rosé, parfois taché de jaune en son centre
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -101,7 +103,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « En Europe, <i>R. grisescens</i> est le taxon le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce. »
+  commentaires: De Yves Lamoureux. « En Europe, <i>R. grisescens</i> est le taxon
+    le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce.
+    »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -166,7 +170,9 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: nombreuses, fusiformes, cylindriques mucronées à apiculées-acuminées, rarement avec apex subrostrées ou moniliformes, Sulfopipéronal positif (sp+) 46,6 [63,3; 80] 96,6 x 9,7 [12,4; 15,1] 17,8 µm
+  hymenocystides: nombreuses, fusiformes, cylindriques mucronées à apiculées-acuminées,
+    rarement avec apex subrostrées ou moniliformes, Sulfopipéronal positif (sp+) 46,6
+    [63,3; 80] 96,6 x 9,7 [12,4; 15,1] 17,8 µm
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -194,7 +200,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, subserrées, avec furcations près du pied, sans lamelles ni lamellules, blanches
+  lames: adnées, subserrées, avec furcations près du pied, sans lamelles ni lamellules,
+    blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -232,7 +239,9 @@ description:
   pigments: 
   pileipellis: en ixocutis
   pileitrame: 
-  pileocystides: très nombreuses, de 2 types ; claviformes septées entre 6-8 µm de large, et l’autres plus étroites, le plus souvent capitulées à l’apex entre 3,8-6 µm de large, à contenu granuleux, sulfopipéronal positif (SP+)
+  pileocystides: très nombreuses, de 2 types ; claviformes septées entre 6-8 µm de
+    large, et l’autres plus étroites, le plus souvent capitulées à l’apex entre 3,8-6
+    µm de large, à contenu granuleux, sulfopipéronal positif (SP+)
   plasmode: 
   pleurocystides: 
   poils: cylindriques, septés
@@ -280,7 +289,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée à pallidosporée Ib-IIa, blanchâtre-crème, d'après la charte de couleur de Romagnesi, A-B d'après la charte de couleur de Kibby
+  sporee: leucosporée à pallidosporée Ib-IIa, blanchâtre-crème, d'après la charte
+    de couleur de Romagnesi, A-B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -305,3 +315,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

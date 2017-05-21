@@ -1,41 +1,40 @@
 ---
+title: Hymenopellis Furfuracea
+date: 2017-03-25 00:00:00 Z
 nom: Hymenopellis furfuracea
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8076/8389201215_7ee93b2516_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8389201215/in/photolist-KZZ5kK-L7KXRa-dMqqb1-dKiztv-dJeNnK-dJeUGZ-dMjRfg-dMjRhX-cvkwvb-cvkwk5
 album-flickr:
-  - 72157673831072554
-
+- 72157673831072554
 details:
   nom-francais: Collybie furfuracée
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Hymenopellis
-  espece: <i>Hymenopellis furfuracea</i> (Peck) R.H. Petersen
-  litterature: Petersen, R.H.; Hughes, K.W. 2010. The Xerula/Oudemansiella complex (Agaricales). Beihefte zur Nova Hedwigia. 137:1-625
-
+  espece: "<i>Hymenopellis furfuracea</i> (Peck) R.H. Petersen"
+  litterature: Petersen, R.H.; Hughes, K.W. 2010. The Xerula/Oudemansiella complex
+    (Agaricales). Beihefte zur Nova Hedwigia. 137:1-625
 collections:
-  - fongarium: sans mnuméro
-    date: 11 juillet 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0006
-    date: 22 juillet 2012
-    planche:
-      numero: cKc0006-0012
-      miniature: https://c1.staticflickr.com/9/8469/8390287540_de371bbed1_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8390287540/in/photostream/
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans mnuméro
+  date: 11 juillet 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0006
+  date: 22 juillet 2012
+  planche:
+    numero: cKc0006-0012
+    miniature: https://c1.staticflickr.com/9/8469/8390287540_de371bbed1_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8390287540/in/photostream/
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -65,14 +64,17 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, pelouse, sur bois de feuillus enfouis, près des souches ou sur racines vivantes enfuies
+  biotopes: pousse au sol, pelouse, sur bois de feuillus enfouis, près des souches
+    ou sur racines vivantes enfuies
   boucles: abondantes, observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes sur toute la surface du pied, fasciculées, cylindriques, étroitement fusoïdes à ventrues, à paroi mince, lisses, hyalines ou à contenu bistre, 50-155 x 13-19 µm
+  caulocystides: abondantes sur toute la surface du pied, fasciculées, cylindriques,
+    étroitement fusoïdes à ventrues, à paroi mince, lisses, hyalines ou à contenu
+    bistre, 50-155 x 13-19 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -82,9 +84,14 @@ description:
   cellules-stromatiques: 
   chair: mince, blanche, immuable
   chancre: 
-  chapeau: 20-100 mm Ø, campanulé à convexe puis étalé-mamelonné, sec et très finement velouté au début, puis lubrique et glabre avec l'âge, ridé-plissé, brun foncé puis brun pâle à brun jaunâtre
-  cheilochrysocystides:
-  cheilocystides: abondantes et formant une arête lamellaire stérile, subgélatinisée et renflée, étroitement fusoïdes à ventrues, ± pédicellées, à paroi mince, hyalines ou à contenu bistré, collapsant facilement au sec, reposant sur une matrice gélatinisée formée d'hyphes de 2-4(5) µm Ø
+  chapeau: 20-100 mm Ø, campanulé à convexe puis étalé-mamelonné, sec et très finement
+    velouté au début, puis lubrique et glabre avec l'âge, ridé-plissé, brun foncé
+    puis brun pâle à brun jaunâtre
+  cheilochrysocystides: 
+  cheilocystides: abondantes et formant une arête lamellaire stérile, subgélatinisée
+    et renflée, étroitement fusoïdes à ventrues, ± pédicellées, à paroi mince, hyalines
+    ou à contenu bistré, collapsant facilement au sec, reposant sur une matrice gélatinisée
+    formée d'hyphes de 2-4(5) µm Ø
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -184,7 +191,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: largement adnées à uncinées, vite sécédentes, largement ventrues à maturité, subespacées, avec lamellules irrégulières à distribution symétrique, blanches, à arêtes parfois brunes vers le pourtour du chapeau
+  lames: largement adnées à uncinées, vite sécédentes, largement ventrues à maturité,
+    subespacées, avec lamellules irrégulières à distribution symétrique, blanches,
+    à arêtes parfois brunes vers le pourtour du chapeau
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -217,15 +226,29 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 80-400 x 3-10 mm Ø, légèrement élargi vers la base, avec pseudorhize enfouie dans le substrat, rigide, subcartilagineux, sec, souvent strié, furfuracé de brun sur fond blanchâtre, avec pseudorhize blanche, devenant teinté de cannelle à rouille au froissement
+  pied: 80-400 x 3-10 mm Ø, légèrement élargi vers la base, avec pseudorhize enfouie
+    dans le substrat, rigide, subcartilagineux, sec, souvent strié, furfuracé de brun
+    sur fond blanchâtre, avec pseudorhize blanche, devenant teinté de cannelle à rouille
+    au froissement
   pieds-steriles: 
   pigments: 
-  pileipellis: en ixocutis, formé d'une couche subhyménodermique de cellules clavées, piriformes à ± pédicellées, gélatinisées, bouclées, à paroi légèrement épaissie, lisses, hyalines, souvent à contenu bistre, 36-55 x 15-22 µm, mélangées à des cellules géantes, profondément radicantes, à paroi légèrement épaissie à la base, 85-35 µm, avec piléocystides dispersées, souvent concentrée au disque et dans les régions marginales, cylindriques à maturité, ventrues à la base, à paroi épaissie jusqu'à 1,5 µm de largeur, hyalines, 120-150 x 10-13 µm, avec subpellis formé d'hyphes emmêlées, subgélatinisées, 3-5 µm Ø
+  pileipellis: en ixocutis, formé d'une couche subhyménodermique de cellules clavées,
+    piriformes à ± pédicellées, gélatinisées, bouclées, à paroi légèrement épaissie,
+    lisses, hyalines, souvent à contenu bistre, 36-55 x 15-22 µm, mélangées à des
+    cellules géantes, profondément radicantes, à paroi légèrement épaissie à la base,
+    85-35 µm, avec piléocystides dispersées, souvent concentrée au disque et dans
+    les régions marginales, cylindriques à maturité, ventrues à la base, à paroi épaissie
+    jusqu'à 1,5 µm de largeur, hyalines, 120-150 x 10-13 µm, avec subpellis formé
+    d'hyphes emmêlées, subgélatinisées, 3-5 µm Ø
   pileitrame: 
-  pileocystides: subsétiformes, longuement fusiformes et parfois courbées, à paroi épaissie, concentrées au disque, 98,7 x 11,4 µm en moyenne
+  pileocystides: subsétiformes, longuement fusiformes et parfois courbées, à paroi
+    épaissie, concentrées au disque, 98,7 x 11,4 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes, dispersées, largement cylindriques, atténuées vers la base et tronquées-arrondies vers l'apex, à paroi légèrement et uniformément épaissie, hyalines, exsudant une substance huileuse qui peut devenir jaunâtre à brun jaunâtre chez les vieux spécimens, mais non orangée, 110-132 x 24-34 µm
+  pleurocystides: abondantes, dispersées, largement cylindriques, atténuées vers la
+    base et tronquées-arrondies vers l'apex, à paroi légèrement et uniformément épaissie,
+    hyalines, exsudant une substance huileuse qui peut devenir jaunâtre à brun jaunâtre
+    chez les vieux spécimens, mais non orangée, 110-132 x 24-34 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -280,7 +303,8 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: sarcodimitique, formée de cellules fusoïdes descendantes, jusqu'à 30-100 µm, reliées par des hyphes 4-5 µm Ø
+  trame-lamellaire: sarcodimitique, formée de cellules fusoïdes descendantes, jusqu'à
+    30-100 µm, reliées par des hyphes 4-5 µm Ø
   trame-tubulaire: 
   tube: 
   type: 
@@ -291,3 +315,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Suillus Granulatus
+date: 2017-03-13 00:00:00 Z
 nom: Suillus aff. granulatus
-date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/1/481/18934767368_1d12186c12_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18934767368/in/photolist-uRcCEm-uRcy7J
 album-flickr:
-  - 72157677607585761
-
+- 72157677607585761
 details:
   nom-francais: Bolet granulé
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
-  espece: <i>Suillus aff. granulatus</i> (L.) Roussel
-  litterature: Roussel, H.F.A. 1796. Flore du Calvados et terrains adjacents, composée suivant la méthode de Jussieu. :1-268
-
+  espece: "<i>Suillus aff. granulatus</i> (L.) Roussel"
+  litterature: Roussel, H.F.A. 1796. Flore du Calvados et terrains adjacents, composée
+    suivant la méthode de Jussieu. :1-268
 collections:
-  - fongarium: cKc0325
-    date: 24 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0325
+  date: 24 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,10 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre, jaunissant avec l'âge, immuable à la coupe
   chancre: 
-  chapeau: 20-90 (100) mm Ø, convexe à largement convexe, visqueux à glutineux, glabre, brun-jaune ou brun rougeâtre, parfois taché de brun foncé par le gluten séché, à marge unie
-  cheilochrysocystides:
+  chapeau: 20-90 (100) mm Ø, convexe à largement convexe, visqueux à glutineux, glabre,
+    brun-jaune ou brun rougeâtre, parfois taché de brun foncé par le gluten séché,
+    à marge unie
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -78,7 +79,13 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « En Europe, <i>S. granulatus</i> ne pousse qu'avec les pins à deux aiguilles. Ici, il ne pousse pas avec les pins à deux aiguilles, mais avec le pin blanc ou la pruche. D'où le <i>Suillus aff. granulatus</i> que j'ai instauré en attendant qu'il soit renommé. J'avais signalé cela à Both dans les années 90, et il était d'accord que le <i>granulatus</i> européen ressemble plus à notre <i>brevipes</i>. C'est toujours la même chanson, euro et ameri en même temps, ça fausse souvent. »
+  commentaires: De Yves Lamoureux. « En Europe, <i>S. granulatus</i> ne pousse qu'avec
+    les pins à deux aiguilles. Ici, il ne pousse pas avec les pins à deux aiguilles,
+    mais avec le pin blanc ou la pruche. D'où le <i>Suillus aff. granulatus</i> que
+    j'ai instauré en attendant qu'il soit renommé. J'avais signalé cela à Both dans
+    les années 90, et il était d'accord que le <i>granulatus</i> européen ressemble
+    plus à notre <i>brevipes</i>. C'est toujours la même chanson, euro et ameri en
+    même temps, ça fausse souvent. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -206,7 +213,8 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 35-48 x 7-16 mm Ø, cylindrique, plein, orné de glandules brunâtres et d'une base jaune
+  pied: 35-48 x 7-16 mm Ø, cylindrique, plein, orné de glandules brunâtres et d'une
+    base jaune
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -275,7 +283,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: ronds à légèrement déformés au début, devenant anguleux à maturité, concolores à la face poroïde, 4-10 mm de longueur
+  tubes: ronds à légèrement déformés au début, devenant anguleux à maturité, concolores
+    à la face poroïde, 4-10 mm de longueur
   type: 
   typique: 
   voile: 
@@ -284,3 +293,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

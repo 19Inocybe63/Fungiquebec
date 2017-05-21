@@ -1,31 +1,30 @@
 ---
+title: Polyporus Radicatus
+date: 2017-03-25 00:00:00 Z
 nom: Polyporus radicatus
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8147/7545022948_2da26f1e36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7545022948/in/photolist-cuJdWS-cuJdsy
 album-flickr:
-  - 72157678571401211
-
+- 72157678571401211
 details:
   nom-francais: Polypore radicant
   ordre: Polyporales
   famille: Polyporaceae
   genre: Polyporus
-  espece: <i>Polyporus radicatus</i> Schwein.
-  litterature: Schweinitz, L.D. von. 1832. Synopsis fungorum in America boreali media degentium. Transactions of the American Philosophical Society. 4(2):141-316
-
+  espece: "<i>Polyporus radicatus</i> Schwein."
+  litterature: Schweinitz, L.D. von. 1832. Synopsis fungorum in America boreali media
+    degentium. Transactions of the American Philosophical Society. 4(2):141-316
 collections:
-  - fongarium: cKc0005
-    date: 25 août 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0005
+  date: 25 août 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +50,8 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: pousse au sol, sur racines enfouies ou autour des souches de feuillus, agent de carie blanche
+  biotopes: pousse au sol, sur racines enfouies ou autour des souches de feuillus,
+    agent de carie blanche
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +68,10 @@ description:
   cellules-stromatiques: 
   chair: très dure, blanche
   chancre: 
-  chapeau: 30-100 mm Ø, largement convexe à étalé à maturité, ± profondément enfoncé, généralement arrondis mais parfois lobés, sec, veloutés ou avec fibrilles à finement écailleux, brun jaunâtre foncé à brun rougeâtre
-  cheilochrysocystides:
+  chapeau: 30-100 mm Ø, largement convexe à étalé à maturité, ± profondément enfoncé,
+    généralement arrondis mais parfois lobés, sec, veloutés ou avec fibrilles à finement
+    écailleux, brun jaunâtre foncé à brun rougeâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -133,7 +135,8 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: blanche, crème à jaunâtre au frais, ochracée à brun jaunâtre pâle au sec
+  face-poroïde: blanche, crème à jaunâtre au frais, ochracée à brun jaunâtre pâle
+    au sec
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -206,7 +209,10 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 30-100 x 5-10 mm Ø, centré à légèrement excentré, ± égale, ou légèrement élargi vers la base, sec, finement pubescent près de l'apex, orangé à légèrement brunâtre au-dessus du sol, avec une pseudorhize noire de 40 à 100 mm qui se rétrécit et se prolonge sous terre
+  pied: 30-100 x 5-10 mm Ø, centré à légèrement excentré, ± égale, ou légèrement élargi
+    vers la base, sec, finement pubescent près de l'apex, orangé à légèrement brunâtre
+    au-dessus du sol, avec une pseudorhize noire de 40 à 100 mm qui se rétrécit et
+    se prolonge sous terre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,14 +232,15 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: décurrents, cartilagineux et cassants au sec, plus foncés que le contexte, 1-5 mm de longueur ; ronds à anguleux, 1-3 par mm
+  pores: décurrents, cartilagineux et cassants au sec, plus foncés que le contexte,
+    1-5 mm de longueur ; ronds à anguleux, 1-3 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -278,3 +285,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

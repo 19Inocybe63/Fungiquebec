@@ -1,31 +1,29 @@
 ---
+title: Russula Claroflavoides
+date: 2017-03-27 00:00:00 Z
 nom: Russula claroflavoides Y. Lamoureux nom. prov.
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/4/3844/14981506665_cb3fc4848b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981506665/in/photolist-q8FJRj-oPS8Z4-oxn6NB-oPPpW7
 album-flickr:
-  - 72157673817941932
-
+- 72157673817941932
 details:
   nom-francais: Russule fausse-claroflava
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula claroflavoides Y. Lamoureux nom. prov.</i> 
+  espece: "<i>Russula claroflavoides Y. Lamoureux nom. prov.</i>"
   litterature: 
-
 collections:
-  - fongarium: cKc0212
-    date: 20 août 2014
-    planche:
-      numero: cKc0212-0058
-      miniature: https://c1.staticflickr.com/9/8600/15839531420_f5708512d3_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15839531420/in/photolist-q8FJRj-oPS8Z4-oxn6NB-oPPpW7
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0212
+  date: 20 août 2014
+  planche:
+    numero: cKc0212-0058
+    miniature: https://c1.staticflickr.com/9/8600/15839531420_f5708512d3_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15839531420/in/photolist-q8FJRj-oPS8Z4-oxn6NB-oPPpW7
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes élancées, tétrasporiques, non bouclées à la base, à contenu vacuolaires, 42 [44,4; 51] 53,4 x 12,1 [12,2; 12,6] 12,8 µm en moyenne
+  basides: claviformes élancées, tétrasporiques, non bouclées à la base, à contenu
+    vacuolaires, 42 [44,4; 51] 53,4 x 12,1 [12,2; 12,6] 12,8 µm en moyenne
   basidiospores: |
     elliptiques en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses à échinulées et rarement réticulées, avec proéminences jusqu’à 0,9 µm de hauteur, à paroi mince, avec appendice hilaire et plage hilaire pas toujours bien visible jusqu’à 2,1 x 2,6 µm Ø en moyenne, à contenu uniguttulé dans le NaCl iso 0,9%, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,8 [8,7; 9] 9,9 x 6,7 [7,3; 7,6] 8,2 µm
@@ -72,8 +71,10 @@ description:
   cellules-stromatiques: 
   chair: friable, blanche, rougissant puis grisonnant au grattage
   chancre: 
-  chapeau: 54 mm Ø, convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon, non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge
-  cheilocystides: peu abondantes et non proéminentes, cylindriques, sulfobenzaldéhyde négatif (SBA-)
+  chapeau: 54 mm Ø, convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon,
+    non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge
+  cheilocystides: peu abondantes et non proéminentes, cylindriques, sulfobenzaldéhyde
+    négatif (SBA-)
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -132,7 +133,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -205,14 +205,17 @@ description:
   peritheces: 
   phenologie: août
   phialoconidies: 
-  pied: 52 x 12 mm Ø, cylindique à subclaviforme, farci, blanc, rougissant puis grisonnant au grattage
+  pied: 52 x 12 mm Ø, cylindique à subclaviforme, farci, blanc, rougissant puis grisonnant
+    au grattage
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
   pileitrame: 
   pileocystides: rares, petits, sulfobenzaldéhyde négatif (SBA-)
   plasmode: 
-  pleurocystides: abondantes, cylindriques avec apex rostrées, mucronées, fusiformes et plus rarement moniliformes, sulfobenzaldéhyde négatif (SBA-), 42,9 [54,9; 78,8] 90,8 x 7,1 [9,3; 13,6] 15,7 µm en moyenne
+  pleurocystides: abondantes, cylindriques avec apex rostrées, mucronées, fusiformes
+    et plus rarement moniliformes, sulfobenzaldéhyde négatif (SBA-), 42,9 [54,9; 78,8]
+    90,8 x 7,1 [9,3; 13,6] 15,7 µm en moyenne
   poils: cylindriques, septées
   poils-basaux: 
   poils-caulinaires: 
@@ -256,7 +259,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée à xanthosporée IIIc-IVe, ocre foncé à jaune, ocre-orange, d'après la charte de couleur de Romagnesi ; F-H d’après la charte de couleur de Kibby
+  sporee: ocrosporée à xanthosporée IIIc-IVe, ocre foncé à jaune, ocre-orange, d'après
+    la charte de couleur de Romagnesi ; F-H d’après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -281,3 +285,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

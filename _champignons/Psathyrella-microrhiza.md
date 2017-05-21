@@ -1,31 +1,30 @@
 ---
+title: Psathyrella Microrhiza
+date: 2017-03-25 00:00:00 Z
 nom: Psathyrella microrhiza
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8035/8056863941_c1af63bc37_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8056863941/in/photolist-dHFWbh-dgXwXg-dgXx4z/
 album-flickr:
-  - 72157675812783512
-
+- 72157675812783512
 details:
   nom-francais: 
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
-  espece: <i>Psathyrella microrhiza</i> (Lasch) Konrad & Maubl.
-  litterature: Konrad, P.; Maublanc, A. 1948. Les Agaricales. Encyclopédie Mycologique. 14:1-464
-
+  espece: "<i>Psathyrella microrhiza</i> (Lasch) Konrad & Maubl."
+  litterature: Konrad, P.; Maublanc, A. 1948. Les Agaricales. Encyclopédie Mycologique.
+    14:1-464
 collections:
-  - fongarium: cKc0027
-    date: 5 octobre 2012
-    planche:
-      numero: cKc0027-0010
-      miniature: https://c1.staticflickr.com/9/8230/8348049172_0abd75b9e5_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8348049172/in/photolist-dHFWbh-dgXx4z-dgXwXg
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: Francis Fouchier (provisoire)
-    confirmee: 
-
+- fongarium: cKc0027
+  date: 5 octobre 2012
+  planche:
+    numero: cKc0027-0010
+    miniature: https://c1.staticflickr.com/9/8230/8348049172_0abd75b9e5_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8348049172/in/photolist-dHFWbh-dgXx4z-dgXwXg
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: Francis Fouchier (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -62,7 +61,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: en touffes abondantes, polymorphes, lagéniformes, fusiformes, parfois flexueuses ou courbes, rarement en éperons et légèrement déformées
+  caulocystides: en touffes abondantes, polymorphes, lagéniformes, fusiformes, parfois
+    flexueuses ou courbes, rarement en éperons et légèrement déformées
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -72,9 +72,12 @@ description:
   cellules-stromatiques: 
   chair: très mince, modérément fragile, brun cannelle à l'humidité puis tan sordide
   chancre: 
-  chapeau: 20-27 mm Ø, subconique à campanulé, glabre, hygrophane, brun pâle à brun foncé, bistre, à la marge plus pâle et finement striée
-  cheilochrysocystides:
-  cheilocystides: en touffes abondantes, polymorphes, fusiformes à largement fusiformes, lagéniformes à lagéniformes et subcapitées à l’apex, parfois clavées, rarement subventrues
+  chapeau: 20-27 mm Ø, subconique à campanulé, glabre, hygrophane, brun pâle à brun
+    foncé, bistre, à la marge plus pâle et finement striée
+  cheilochrysocystides: 
+  cheilocystides: en touffes abondantes, polymorphes, fusiformes à largement fusiformes,
+    lagéniformes à lagéniformes et subcapitées à l’apex, parfois clavées, rarement
+    subventrues
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -174,7 +177,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, serrées, avec lamellules irrégulières à distribution symétrique, larges à subventrues, brun foncé, avec arêtes blanchâtres fimbrillées
+  lames: libres, serrées, avec lamellules irrégulières à distribution symétrique,
+    larges à subventrues, brun foncé, avec arêtes blanchâtres fimbrillées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +211,8 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 40-44 x 1-3 mm Ø, cylindrique, plein, floconneux à l'apex, ocre pâle, plus pâle à l'apex, légèrement radicant, s'effiloche comme du céleri
+  pied: 40-44 x 1-3 mm Ø, cylindrique, plein, floconneux à l'apex, ocre pâle, plus
+    pâle à l'apex, légèrement radicant, s'effiloche comme du céleri
   pieds-steriles: 
   pigments: 
   pileipellis: en épithélium, avec une couche superficielle hyménodermique
@@ -215,7 +220,8 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: rares, lagéniformes avec apex légèrement en crochet, fusiformes à largement fusiformes, 53,8 x 14,5 µm en moyenne
+  pleurocystides: rares, lagéniformes avec apex légèrement en crochet, fusiformes
+    à largement fusiformes, 53,8 x 14,5 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -241,8 +247,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Melzer = pas de coloration ou de décoloration sur toutes les parties des tissus
+  reactions-macrochimiques: 'Melzer = pas de coloration ou de décoloration sur toutes
+    les parties des tissus
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -290,3 +298,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

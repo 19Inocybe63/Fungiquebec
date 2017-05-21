@@ -1,41 +1,40 @@
 ---
+title: Cerioporus Squamosus
+date: 2017-03-18 00:00:00 Z
 nom: Cerioporus squamosus
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/6/5232/7228311120_e6dc452112_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7228311120/in/photolist-sZ547m-tgpfUu-c1JZ4N
 album-flickr:
-  - 72157680075298706
-
+- 72157680075298706
 details:
   nom-francais: Polypore écailleux
   ordre: Polyporales
   famille: Polyporaceae
   genre: Cerioporus
-  espece: <i>Cerioporus squamosus</i> (Huds.) Quél.
-  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
-
+  espece: "<i>Cerioporus squamosus</i> (Huds.) Quél."
+  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim
+    in Gallia Vigentium. :1-352
 collections:
-  - fongarium: sans numéro
-    date: 19 mai 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0303
-    date: 20 mai 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 19 mai 2012
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0303
+  date: 20 mai 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -76,9 +75,15 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, immuable, blanchâtre, douce lorsque jeune, mais coriace lorsque mature
+  chair: épaisse, immuable, blanchâtre, douce lorsque jeune, mais coriace lorsque
+    mature
   chancre: 
-  chapeau: 50-300 mm Ø, 10-40 mm d'épaisseur, assez variable dans ses formes, mais généralement semi-circulaire, en forme de rein, ou en éventail, convexe, devenant plat, faiblement ou profondément déprimé, sec, pâle tan à jaunâtre crème, avec écailles noirâtres qui sont vaguement disposées radialement, avec développement d'une zone noire au centre, dont la marge mince initialement incurvée, même lorsque mature
+  chapeau: 50-300 mm Ø, 10-40 mm d'épaisseur, assez variable dans ses formes, mais
+    généralement semi-circulaire, en forme de rein, ou en éventail, convexe, devenant
+    plat, faiblement ou profondément déprimé, sec, pâle tan à jaunâtre crème, avec
+    écailles noirâtres qui sont vaguement disposées radialement, avec développement
+    d'une zone noire au centre, dont la marge mince initialement incurvée, même lorsque
+    mature
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -211,7 +216,8 @@ description:
   peritheces: 
   phenologie: par période ; de la mi-mai et à l'automne
   phialoconidies: 
-  pied: 20-80 mm de long x 10-40 mm d'épaisseur, ferme, plein, habituellement excentré, latéral, crème blanchâtre, se couvrant d’un fin velouté brun foncé à noir
+  pied: 20-80 mm de long x 10-40 mm d'épaisseur, ferme, plein, habituellement excentré,
+    latéral, crème blanchâtre, se couvrant d’un fin velouté brun foncé à noir
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,14 +236,15 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: larges à maturité, angulaires et souvent irréguliers ; crème blanchâtre, devenant jaunâtre ; jusqu'à 15 mm de profondeur, non facilement séparables
+  pores: larges à maturité, angulaires et souvent irréguliers ; crème blanchâtre,
+    devenant jaunâtre ; jusqu'à 15 mm de profondeur, non facilement séparables
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -319,3 +326,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

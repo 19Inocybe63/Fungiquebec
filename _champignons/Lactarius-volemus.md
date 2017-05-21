@@ -1,31 +1,30 @@
 ---
+title: Lactarius Volemus
+date: 2017-03-25 00:00:00 Z
 nom: Lactarius volemus
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5625/20783082342_8d61a139c2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20783082342/in/photolist-xD3Hn1-xEwJiU/
 album-flickr:
-  - 72157679268660725
-
+- 72157679268660725
 details:
   nom-francais: Lactaire à lait abondant
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: <i>Lactarius volemus</i> ss. Hesler & A. H. Sm.
-  litterature: Hesler, L.R.; Smith, A.H. 1979. North American species of Lactarius. :1-841
-
+  espece: "<i>Lactarius volemus</i> ss. Hesler & A. H. Sm."
+  litterature: Hesler, L.R.; Smith, A.H. 1979. North American species of Lactarius.
+    :1-841
 collections:
-  - fongarium: cKc0425
-    date: 22 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0425
+  date: 22 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,12 @@ description:
   cellules-stromatiques: 
   chair: épaisse, cassante, crème
   chancre: 
-  chapeau: 30-103 mm Ø, convexe au début devenant étalé, à marge enroulée, avec dépression centrale ; avec ombon au disque, lisses ou légèrement craquelé, mais généralement finement veloutés, du moins lorsqu'ils sont jeunes, orange brunâtre, brun orangé, ou parfois plus léger, ou parfois plus foncé s'approchant ± du rouge brun foncé ; sans zones concentriques de couleur, mais souvent plus foncée vers le centre
-  cheilochrysocystides:
+  chapeau: 30-103 mm Ø, convexe au début devenant étalé, à marge enroulée, avec dépression
+    centrale ; avec ombon au disque, lisses ou légèrement craquelé, mais généralement
+    finement veloutés, du moins lorsqu'ils sont jeunes, orange brunâtre, brun orangé,
+    ou parfois plus léger, ou parfois plus foncé s'approchant ± du rouge brun foncé
+    ; sans zones concentriques de couleur, mais souvent plus foncée vers le centre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -81,7 +84,10 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Comme nous ne sommes pas en Europe, notre <i>L. volemus</i> devient donc à ce jour <i>Lactarius volemus ss. Hesler</i> & A. H. Sm., puisque ces auteurs ont réécrit l'espèce uniquement à partir de récoltes américaines dans leur monographie (1979). »
+  commentaires: De Yves Lamoureux. « Comme nous ne sommes pas en Europe, notre <i>L.
+    volemus</i> devient donc à ce jour <i>Lactarius volemus ss. Hesler</i> & A. H.
+    Sm., puisque ces auteurs ont réécrit l'espèce uniquement à partir de récoltes
+    américaines dans leur monographie (1979). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -176,12 +182,14 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, sublarges, souvent fourchues près de la marge piléique, serrées, blanc crème, se tachant lentement de brun fauve
+  lames: adnées à subdécurrentes, sublarges, souvent fourchues près de la marge piléique,
+    serrées, blanc crème, se tachant lentement de brun fauve
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: copieux, résineux, blanc, devenant parfois brunâtre à la coupe, tachant les tissus et le papier blanc de brun, à saveur douce
+  latex: copieux, résineux, blanc, devenant parfois brunâtre à la coupe, tachant les
+    tissus et le papier blanc de brun, à saveur douce
   leptocystides: 
   leptopleurocystides: 
   macrocystides: 
@@ -210,7 +218,9 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 50-100 x 8-25 mm Ø, cylindrique, égal, atténué vers la base, plein au début puis creux à maturité, lisse, parfois pruineux à vaguement côtelé longitudinalement, concolore au chapeau ou plus pâle
+  pied: 50-100 x 8-25 mm Ø, cylindrique, égal, atténué vers la base, plein au début
+    puis creux à maturité, lisse, parfois pruineux à vaguement côtelé longitudinalement,
+    concolore au chapeau ou plus pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -280,3 +290,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

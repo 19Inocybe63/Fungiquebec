@@ -1,41 +1,40 @@
 ---
+title: Russula Rugulosa
+date: 2017-03-27 00:00:00 Z
 nom: Russula rugulosa
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/6/5521/9969248856_bb1a51c6a9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9969248856/in/photolist-gbX1mY-gbWHfT
 album-flickr:
-  - 72157677247370390
-
+- 72157677247370390
 details:
   nom-francais: Russule rugueuse
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula rugulosa</i> Peck
-  litterature: Peck, C.H. 1902. Report of the State Botanist (1900). Annual Report on the New York State Museum of Natural History. 54:131-199
-
+  espece: "<i>Russula rugulosa</i> Peck"
+  litterature: Peck, C.H. 1902. Report of the State Botanist (1900). Annual Report
+    on the New York State Museum of Natural History. 54:131-199
 collections:
-  - fongarium: cKc0140
-    date: 27 septembre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-  - fongarium: cKc0525
-    date: 30 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0140
+  date: 27 septembre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
+- fongarium: cKc0525
+  date: 30 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -47,8 +46,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, Éditions Fungiquebec, Québec 2014, 3 p.
+  articles: "<b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées
+    par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de
+    gaïac)</i>, Éditions Fungiquebec, Québec 2014, 3 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -62,7 +62,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous conifères, <i>Abies</i>, <i>Larix</i>, et tout près <i>Fagus grandifolia</i>
+  biotopes: pousse au sol, sous conifères, <i>Abies</i>, <i>Larix</i>, et tout près
+    <i>Fagus grandifolia</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -77,10 +78,13 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ferme, blanche, mais fragile lorsque le spécimen est mature, immuable au grattage ou à la coupe, rouge sous la cuticule
+  chair: ferme, blanche, mais fragile lorsque le spécimen est mature, immuable au
+    grattage ou à la coupe, rouge sous la cuticule
   chancre: 
-  chapeau: 23-99 mm Ø, convexe à étalé puis légèrement déprimé, à cuticule collante qui se pèle jusqu'au ¾ du rayon ; rouge à rouge pâle avec centre parfois jaunâtre, ou ± plus foncé, s'atténuant vers la marge
-  cheilochrysocystides:
+  chapeau: 23-99 mm Ø, convexe à étalé puis légèrement déprimé, à cuticule collante
+    qui se pèle jusqu'au ¾ du rayon ; rouge à rouge pâle avec centre parfois jaunâtre,
+    ou ± plus foncé, s'atténuant vers la marge
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -183,7 +187,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, rarement fourchues, étroites, serrées à subserrées, une lamellule par spécimen environ, très peu de lamelles (entre 4 et 7), sans vraiment de furcations, blanches devenant légèrement ocres
+  lames: adnées à adnexées, rarement fourchues, étroites, serrées à subserrées, une
+    lamellule par spécimen environ, très peu de lamelles (entre 4 et 7), sans vraiment
+    de furcations, blanches devenant légèrement ocres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -216,7 +222,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 38-70 x 7-20 mm Ø, cylindrique à claviforme, élargie vers la base, plein puis farci, blanc, immuable au grattage
+  pied: 38-70 x 7-20 mm Ø, cylindrique à claviforme, élargie vers la base, plein puis
+    farci, blanc, immuable au grattage
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -264,7 +271,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée, IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; E d'après la charte de couleur de Kibby
+  sporee: ocrosporée, IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur
+    de Romagnesi ; E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -289,3 +297,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,41 +1,39 @@
 ---
+title: Helvella Corium
+date: 2017-03-24 00:00:00 Z
 nom: Helvella corium
-date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/1/723/20522852470_aca2a0fe2c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20522852470/in/album-72157675892972545/
 album-flickr:
-  - 72157675892972545
-
+- 72157675892972545
 details:
   nom-francais: Helvelle coriace
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
-  espece: <i>Helvella corium</i> (O. Weberb.) Massee
+  espece: "<i>Helvella corium</i> (O. Weberb.) Massee"
   litterature: Massee, G.E. 1895. British Fungus-Flora. 4:1-522
-
 collections:
-  - fongarium: cKc0406
-    date: 14 août 2015
-    planche:
-      numero: cKc0406-0132
-      miniature: https://c2.staticflickr.com/8/7288/27309797164_6f96ed1b45_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/27309797164/in/album-72157675892972545/
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0419
-    date: 19 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0406
+  date: 14 août 2015
+  planche:
+    numero: cKc0406-0132
+    miniature: https://c2.staticflickr.com/8/7288/27309797164_6f96ed1b45_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/27309797164/in/album-72157675892972545/
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0419
+  date: 19 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -44,7 +42,10 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: (2) 5-12 mm de hauteur, (30) 10-40 (50) mm Ø, légèrement à profondément cupuliforme, stipitée, densément pubescent à villeux vers le pourtour, à marge enroulée au début puis étalée, souvent avec pubescence blanchâtre à blanc grisâtre, unie, crénelée à lobée ou rarement avec côtes s'étalant jusque sur le quart inférieur
+  apothecie: "(2) 5-12 mm de hauteur, (30) 10-40 (50) mm Ø, légèrement à profondément
+    cupuliforme, stipitée, densément pubescent à villeux vers le pourtour, à marge
+    enroulée au début puis étalée, souvent avec pubescence blanchâtre à blanc grisâtre,
+    unie, crénelée à lobée ou rarement avec côtes s'étalant jusque sur le quart inférieur"
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -58,7 +59,8 @@ description:
     Q = (1,4) 1,43 - 1,56 (1,6) ; N = 30
     Me = 17,3 × 11,6 µm ; Qe = 1,5
     (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
-  asques: cylindriques, operculés, octosporés, iodonégatifs, 225-250 x 12,2-17 µm Ø
+  asques: cylindriques, operculés, octosporés, iodonégatifs, 225-250 x 12,2-17 µm
+    Ø
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -139,7 +141,7 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   excipulum: 
@@ -147,7 +149,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte
   exoperidium: 
   face-externe: duveteuse à écailleuse, brun noirâtre à noire
   face-poroide: 
@@ -211,7 +212,9 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques avec apex claviformes, devient progressivement élargi à l'apex, hyalines dans l'eau glycérinée 10 %, ou brun, à contenu finement granuleux, 3,5-8,5 µm Ø
+  paraphyses: cylindriques avec apex claviformes, devient progressivement élargi à
+    l'apex, hyalines dans l'eau glycérinée 10 %, ou brun, à contenu finement granuleux,
+    3,5-8,5 µm Ø
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -220,7 +223,10 @@ description:
   peritheces: 
   phenologie: de juin, à août (septembre)
   phialoconidies: 
-  pied: (2) 5-30 (40) x 5-8 mm, court, égal ou élargi vers la base, rond, légèrement comprimé à légèrement côtelé surtout à la base à la coupe, rarement fortement côtelé, plein, brun très foncé à noir vers l'apex, souvent blanc à gris pâle à la base, couvert d'un duvet gris-brun
+  pied: "(2) 5-30 (40) x 5-8 mm, court, égal ou élargi vers la base, rond, légèrement
+    comprimé à légèrement côtelé surtout à la base à la coupe, rarement fortement
+    côtelé, plein, brun très foncé à noir vers l'apex, souvent blanc à gris pâle à
+    la base, couvert d'un duvet gris-brun"
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -244,8 +250,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Dissing, Henry</b>. <i>The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden</i>, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
+  publications: "<b>Dissing, Henry</b>. <i>The Genus Helvella in Europe with Special
+    Emphasis on the Species Found in Norden</i>, Dansk Botanisk Arkiv Udoivbt ap Dansk
+    Botanisk Forening, København, 1966, 171 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -254,7 +261,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Ascospores finement rugueuses au microscope à balayage électronique, (<i>Scanning electron microscope</i> (SEM))
+  remarques: Ascospores finement rugueuses au microscope à balayage électronique,
+    (<i>Scanning electron microscope</i> (SEM))
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -303,3 +311,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

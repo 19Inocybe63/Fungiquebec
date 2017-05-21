@@ -1,31 +1,30 @@
 ---
+title: Antrodiella Semisupina
+date: 2017-03-17 00:00:00 Z
 nom: Antrodiella semisupina
-date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/6/5564/14658395437_928c323f9a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14658395437/in/photolist-okj7gP
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Polypore retroussé
   ordre: Polyporales
   famille: Phanerochaetaceae
   genre: Antrodiella
-  espece: <i>Antrodiella semisupina</i> (Berk. & M.A. Curtis) Ryvarden
-  litterature: Ryvarden, L.; Johansen, I. 1980. A preliminary polypore flora of East Africa. :1-636
-
+  espece: "<i>Antrodiella semisupina</i> (Berk. & M.A. Curtis) Ryvarden"
+  litterature: Ryvarden, L.; Johansen, I. 1980. A preliminary polypore flora of East
+    Africa. :1-636
 collections:
-  - fongarium: cKc0196
-    date: 6 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0196
+  date: 6 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,7 +48,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: annuel, réfléchi à sessile, rarement résupiné, chair tenace au frais, dense, cartilagineux à résineux, souvent subtranslucide et en partie défait à la marge au sec
+  basidiome: annuel, réfléchi à sessile, rarement résupiné, chair tenace au frais,
+    dense, cartilagineux à résineux, souvent subtranslucide et en partie défait à
+    la marge au sec
   bibliographies: 
   biotopes: pousse sur bois pourri de feuillu
   boucles: 
@@ -68,8 +69,14 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 4-6 mm de projection, 1-5 mm d'épaisseur à la base, avec zone résupinée 10 x 20 mm environ, étroit, plus développé sur le bord supérieur du basidiome, en forme d'ongle, largement attaché, incurvé, azoné et velouté-apprimé au début, plus foncé, blanc, dans les tons d'ochracé à paille pâle, légèrement zoné et parfois avec lignes radiales et glabre avec l'âge, à marge aiguë, incurvée et dure chez les basidiomes piléés au sec, blanche à crème et souvent légèrement fimbriée sur les parties résupinées
-  cheilochrysocystides:
+  chapeau: 4-6 mm de projection, 1-5 mm d'épaisseur à la base, avec zone résupinée
+    10 x 20 mm environ, étroit, plus développé sur le bord supérieur du basidiome,
+    en forme d'ongle, largement attaché, incurvé, azoné et velouté-apprimé au début,
+    plus foncé, blanc, dans les tons d'ochracé à paille pâle, légèrement zoné et parfois
+    avec lignes radiales et glabre avec l'âge, à marge aiguë, incurvée et dure chez
+    les basidiomes piléés au sec, blanche à crème et souvent légèrement fimbriée sur
+    les parties résupinées
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -226,14 +233,17 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ronds à anguleux, (5) 6-8 (9) par mm, à dissépiments entiers ou finement denticulés, fusionnés, se fendant, et devenant plus grand dans les parties les plus vieilles (centrales), dense, semi-translucide, concolores à la face poroïde, jusqu'à 3 mm de longueur
+  pores: ronds à anguleux, (5) 6-8 (9) par mm, à dissépiments entiers ou finement
+    denticulés, fusionnés, se fendant, et devenant plus grand dans les parties les
+    plus vieilles (centrales), dense, semi-translucide, concolores à la face poroïde,
+    jusqu'à 3 mm de longueur
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -280,3 +290,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

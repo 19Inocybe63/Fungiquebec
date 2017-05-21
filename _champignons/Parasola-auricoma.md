@@ -1,31 +1,31 @@
 ---
+title: Parasola Auricoma
+date: 2017-03-25 00:00:00 Z
 nom: Parasola auricoma
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3779/9166933169_e1819108df_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9166933169/in/photolist-eY3VRT
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Coprin doré ou Coprin à soies brunes
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Parasola
-  espece: <i>Parasola auricoma</i> (Pat.) Redhead, Vilgalys & Hopple
-  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-
+  espece: "<i>Parasola auricoma</i> (Pat.) Redhead, Vilgalys & Hopple"
+  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple,
+    J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu
+    lato. Taxon. 50(1):203-241
 collections:
-  - fongarium: cKc0060
-    date: 28 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0060
+  date: 28 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -47,8 +47,10 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: |
-    10-16 x 6-9 μm, ellipsoïdes, lisses, avec un pore germinatif centré proéminent, brunes dans le NaCl iso 0,9%, brun foncé dans le KOH 5%
+  basidiospores: '10-16 x 6-9 μm, ellipsoïdes, lisses, avec un pore germinatif centré
+    proéminent, brunes dans le NaCl iso 0,9%, brun foncé dans le KOH 5%
+
+'
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -69,8 +71,12 @@ description:
   cellules-stromatiques: 
   chair: gris brun, mince à membraneuse
   chancre: 
-  chapeau: 10-25 x 15-45 mm Ø, d'abord ovoide, puis campanulé et finalement aplani étalé, dépourvu de voile déliquescent dans la vieillesse ; surface sèche, mate, brillante à l'état humide et striée cannelée, presque jusqu'au centre ; rosé au debut, puis gris brun à brun noir, orné de fins poils dressés, disque brun rouge foncé et lisse, marge crenelée
-  cheilochrysocystides:
+  chapeau: 10-25 x 15-45 mm Ø, d'abord ovoide, puis campanulé et finalement aplani
+    étalé, dépourvu de voile déliquescent dans la vieillesse ; surface sèche, mate,
+    brillante à l'état humide et striée cannelée, presque jusqu'au centre ; rosé au
+    debut, puis gris brun à brun noir, orné de fins poils dressés, disque brun rouge
+    foncé et lisse, marge crenelée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -79,7 +85,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « La description de ce champignon fut prise sur le site MycoDB = http://www.mycodb.fr/quicksearch.php »
+  commentaires: De Claude Kaufholtz-Couture. « La description de ce champignon fut
+    prise sur le site MycoDB = http://www.mycodb.fr/quicksearch.php »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -174,7 +181,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: blanchâtres, gris beige par la suite, brun noir à maturité, larges, étroitement adnées à libres, arêtes entières blanchâtres
+  lames: blanchâtres, gris beige par la suite, brun noir à maturité, larges, étroitement
+    adnées à libres, arêtes entières blanchâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +216,9 @@ description:
   peritheces: 
   phenologie: de juin à juillet
   phialoconidies: 
-  pied: 50-110 x 2-5 mm Ø, cylindrique, aminci vers le sommet, creux, cassant ; surface lisse, blanche ornée de fines fibrilles longitudinales, base parfois faiblement feutrée blanche
+  pied: 50-110 x 2-5 mm Ø, cylindrique, aminci vers le sommet, creux, cassant ; surface
+    lisse, blanche ornée de fines fibrilles longitudinales, base parfois faiblement
+    feutrée blanche
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -237,8 +247,10 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration ou de décoloration
+    sur le chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -276,3 +288,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

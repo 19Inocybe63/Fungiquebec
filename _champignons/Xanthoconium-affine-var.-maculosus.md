@@ -1,41 +1,40 @@
 ---
+title: Xanthoconium Affine Var. Maculosus
+date: 2017-03-23 00:00:00 Z
 nom: Xanthoconium affine var. maculosus
-date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/9/8769/28037429074_2cd09ed90b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28037429074/in/photolist-JHz9Ry
 album-flickr:
-  - 72157676306656305
-
+- 72157676306656305
 details:
   nom-francais: Bolet affine var. maculosus
   ordre: Boletales
   famille: Boletaceae
   genre: Xanthoconium
-  espece: <i>Xanthoconium affine var. maculosus</i> (Peck) Singer
-  litterature: Singer, R. 1947. The Boletoideae of Florida. The Boletineae of Florida with notes on extralimital species III. The American Midland Naturalist. 37:1-135
-
+  espece: "<i>Xanthoconium affine var. maculosus</i> (Peck) Singer"
+  litterature: Singer, R. 1947. The Boletoideae of Florida. The Boletineae of Florida
+    with notes on extralimital species III. The American Midland Naturalist. 37:1-135
 collections:
-  - fongarium: cKc0526
-    date: 30 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0527
-    date: 30 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0526
+  date: 30 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0527
+  date: 30 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -78,8 +77,10 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 65-70 mm Ø, convexe puis largement convexe à subétalé, sec, finement velouté, parfois craquelé-aréolé, brun foncé, brun-jaune ou brun orangé pâle, souvent avec de petites taches jaunes à blanchâtres, à marge unie
-  cheilochrysocystides:
+  chapeau: 65-70 mm Ø, convexe puis largement convexe à subétalé, sec, finement velouté,
+    parfois craquelé-aréolé, brun foncé, brun-jaune ou brun orangé pâle, souvent avec
+    de petites taches jaunes à blanchâtres, à marge unie
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -142,7 +143,8 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: blanche crème puis jaune brunâtre avec l'âge, brunissant un peu au froissement
+  face-poroïde: blanche crème puis jaune brunâtre avec l'âge, brunissant un peu au
+    froissement
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -213,7 +215,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 40-100 x 10-20 mm Ø, subégal, atténué ou élargi à l'un ou l'autre bout, plein, sec, lisse ou strié, rarement légèrement réticulé à l'apex, blanchâtre, jaunâtre ou brunâtre
+  pied: 40-100 x 10-20 mm Ø, subégal, atténué ou élargi à l'un ou l'autre bout, plein,
+    sec, lisse ou strié, rarement légèrement réticulé à l'apex, blanchâtre, jaunâtre
+    ou brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -266,8 +270,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Boletus affinis var. maculosus</i> Peck, Annual Report on the New York State Museum of Natural History 32:57 (1880)
+  synonymie: "<i>Boletus affinis var. maculosus</i> Peck, Annual Report on the New
+    York State Museum of Natural History 32:57 (1880)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -275,7 +279,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: circulaires, 1-2 par mm, déprimés ou non près du pied, concolore à la face poroïde, 8-20 mm de longueur
+  tubes: circulaires, 1-2 par mm, déprimés ou non près du pied, concolore à la face
+    poroïde, 8-20 mm de longueur
   type: 
   typique: 
   voile: 
@@ -284,3 +289,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

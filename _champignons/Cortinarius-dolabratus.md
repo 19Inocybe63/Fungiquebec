@@ -1,31 +1,29 @@
 ---
+title: Cortinarius Dolabratus
+date: 2017-03-18 00:00:00 Z
 nom: Cortinarius dolabratus
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/6/5559/15290852396_0d53a784d8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15290852396/in/photolist-QHjS1s-picBG9-p3JGhy
 album-flickr:
-  - 72157674959267104
-
+- 72157674959267104
 details:
   nom-francais: Cortinaire en forme de dolabre
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius dolabratus</i> Fr.
+  espece: "<i>Cortinarius dolabratus</i> Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-
 collections:
-  - fongarium: cKc0252
-    date: 20 septembre 2014
-    planche:
-      numero: cKc0252-0152
-      miniature: https://c1.staticflickr.com/1/765/31972781442_f4d6b51e59_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/31972781442/in/photolist-QHjS1s-picBG9-p3JGhy/
-    geolocalisation: 45°57'27.0"N 70°56'00.8"O
-    elevation: 329 m
-    determinee: 
-    confirmee: Karl Soop
-
+- fongarium: cKc0252
+  date: 20 septembre 2014
+  planche:
+    numero: cKc0252-0152
+    miniature: https://c1.staticflickr.com/1/765/31972781442_f4d6b51e59_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31972781442/in/photolist-QHjS1s-picBG9-p3JGhy/
+  geolocalisation: 45°57'27.0"N 70°56'00.8"O
+  elevation: 329 m
+  determinee: 
+  confirmee: Karl Soop
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: utriformes à claviformes, tétrasporiques, bouclées à la base, 3,0-4,8 µm de longueur en moyenne, à contenu granuleux, 26,1- 30,2 × 6,4-7 µm en moyenne
+  basides: utriformes à claviformes, tétrasporiques, bouclées à la base, 3,0-4,8 µm
+    de longueur en moyenne, à contenu granuleux, 26,1- 30,2 × 6,4-7 µm en moyenne
   basidiospores: |
     elliptiques en vue frontale, largement elliptiques, elliptiques à amygdaliformes vues de profil, faiblement à moyennement verruqueuses, à paroi mince entre 0,2-0,3 μm, appendice hilaire bien formé, à contenu uniguttulé, brun pâle dans E.G. 20%, faiblement dextrinoïdes, non cyanophiles
     (6,7) 6,9 - 8,5 (9,4) × (4,1) 4,2 - 4,8 (5,2) µm
@@ -56,7 +55,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse, milieux ouverts, en présence de <i>Larix</i>, <i>Populus tremuloïdes</i>, <i>Quercus rubra</i>
+  biotopes: pousse au sol, sur pelouse, milieux ouverts, en présence de <i>Larix</i>,
+    <i>Populus tremuloïdes</i>, <i>Quercus rubra</i>
   boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 
@@ -73,8 +73,9 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 30-60 mm Ø, convexe, à étalé, campanulé à étalé, hygrophane, glabre à finement fibrilleux, cortine blanche à la marge, brun rougeâtre à brun chocolat
-  cheilochrysocystides:
+  chapeau: 30-60 mm Ø, convexe, à étalé, campanulé à étalé, hygrophane, glabre à finement
+    fibrilleux, cortine blanche à la marge, brun rougeâtre à brun chocolat
+  cheilochrysocystides: 
   cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -211,10 +212,13 @@ description:
   peritheces: 
   phenologie: septembre
   phialoconidies: 
-  pied: 40-60 x 7-13 mm Ø, cylindrique, égal à claviforme, blanc avec des restes de cortine brun rougeâtre à l'apex, et des reflets violacés, base claviforme avec du mycélium basal blanc
+  pied: 40-60 x 7-13 mm Ø, cylindrique, égal à claviforme, blanc avec des restes de
+    cortine brun rougeâtre à l'apex, et des reflets violacés, base claviforme avec
+    du mycélium basal blanc
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis (ixocutis), formé d'hyphes cylindriques à fusiformes 3-11 µm de largeur en moyenne
+  pileipellis: en cutis (ixocutis), formé d'hyphes cylindriques à fusiformes 3-11
+    µm de largeur en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -249,8 +253,9 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = devient noir sur le chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = devient noir sur le chapeau
+
+'
   receptacle: 
   remarques: |
     Sous-genre Telamonia, section Duracini
@@ -289,3 +294,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

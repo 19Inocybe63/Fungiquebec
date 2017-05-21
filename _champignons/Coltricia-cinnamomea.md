@@ -1,31 +1,31 @@
 ---
+title: Coltricia Cinnamomea
+date: 2017-03-18 00:00:00 Z
 nom: Coltricia cinnamomea
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/320/19728812658_fe09f8de71_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19728812658/in/photolist-vp7x2F-vp7BKt-w4nCVS-voYd5E-w4njEo
 album-flickr:
-  - 72157679537246456
-
+- 72157679537246456
 details:
   nom-francais: Polypore cannelle
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Coltricia
-  espece: <i>Coltricia cinnamomea</i> (Jacq.) Murrill
-  litterature: Murrill, W.A. 1904. The Polyporaceae of North America, VII. The genera Hexagona, Grifola, Romellia, Coltricia and Coltriciella. Bulletin of the Torrey Botanical Club. 31(6):325-348
-
+  espece: "<i>Coltricia cinnamomea</i> (Jacq.) Murrill"
+  litterature: Murrill, W.A. 1904. The Polyporaceae of North America, VII. The genera
+    Hexagona, Grifola, Romellia, Coltricia and Coltriciella. Bulletin of the Torrey
+    Botanical Club. 31(6):325-348
 collections:
-  - fongarium: cKc0364
-    date: 22 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0364
+  date: 22 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +51,9 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: pousse au sol compact, dans la mousse le long des sentiers forestiers, rarement sur bois mort, forêt de feuillus (Quercus) ; champignon ne causant pas de carie du bois
+  biotopes: pousse au sol compact, dans la mousse le long des sentiers forestiers,
+    rarement sur bois mort, forêt de feuillus (Quercus) ; champignon ne causant pas
+    de carie du bois
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +70,12 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 20-40 mm Ø, jusqu'à 5 mm d'épaisseur au centre, suborbiculaire, aplani, déprimé au centre à infundibuliforme, finement velouté, non fibrilleux jusqu'à la marge, satiné ou lustré, avec nombreuses zones concentriques indistinctes à distinctes, brun foncé lorsque imbu, brun cannelle à brun rougeâtre foncé, à marge distincte, incurvée, mince, aiguë, entière, incisée à lobée
-  cheilochrysocystides:
+  chapeau: 20-40 mm Ø, jusqu'à 5 mm d'épaisseur au centre, suborbiculaire, aplani,
+    déprimé au centre à infundibuliforme, finement velouté, non fibrilleux jusqu'à
+    la marge, satiné ou lustré, avec nombreuses zones concentriques indistinctes à
+    distinctes, brun foncé lorsque imbu, brun cannelle à brun rougeâtre foncé, à marge
+    distincte, incurvée, mince, aiguë, entière, incisée à lobée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -83,7 +89,8 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: fibreux, tenace et coriace, brun rouille à brun rougeâtre et même orangé, mince, jusqu'à 1 mm d'épaisseur
+  contexte: fibreux, tenace et coriace, brun rouille à brun rougeâtre et même orangé,
+    mince, jusqu'à 1 mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -206,7 +213,8 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 20-40 x 2-6 mm Ø, presque centré, égal à aplati, souvent élargi à la base, finement velouté, ocre
+  pied: 20-40 x 2-6 mm Ø, presque centré, égal à aplati, souvent élargi à la base,
+    finement velouté, ocre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,14 +234,15 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ± concolores à la face poroïde ; jusqu'à 2 mm de longueur ; ronds à anguleux, distinctement plus petits que 2 par mm, à dissépiments minces
+  pores: "± concolores à la face poroïde ; jusqu'à 2 mm de longueur ; ronds à anguleux,
+    distinctement plus petits que 2 par mm, à dissépiments minces"
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -293,3 +302,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

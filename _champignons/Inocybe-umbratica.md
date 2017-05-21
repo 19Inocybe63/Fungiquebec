@@ -1,41 +1,41 @@
 ---
+title: Inocybe Umbratica
+date: 2017-04-30 00:00:00 Z
 nom: Inocybe umbratica
-date: 2017-04-30 00:00:00
 image: https://c1.staticflickr.com/9/8538/29384903204_af06e7da2d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29384903204/in/photolist-LLDiY9-MAKDsr
 album-flickr:
-  - 72157680455620352
-
+- 72157680455620352
 details:
   nom-francais: Inocybe sciaphile
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe umbratica</i> Quél.
-  litterature: Quélet, L. 1884. Quelques especes critiques ou nouvelles de la Flore Mycologique de France. Comptes Rendus de l´Association Française pour l´Avancement des Sciences. 12:498-512
-
+  espece: "<i>Inocybe umbratica</i> Quél."
+  litterature: Quélet, L. 1884. Quelques especes critiques ou nouvelles de la Flore
+    Mycologique de France. Comptes Rendus de l´Association Française pour l´Avancement
+    des Sciences. 12:498-512
 collections:
-  - fongarium: cKc0529
-    date: 1 août 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0574
-    date: 29 septembre 2016
-    planche:
-      numero: cKc0574-0165
-      miniature: https://c1.staticflickr.com/3/2812/33918807850_c2e79a0c4c_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/33918807850/in/dateposted/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0529
+  date: 1 août 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0574
+  date: 29 septembre 2016
+  planche:
+    numero: cKc0574-0165
+    miniature: https://c1.staticflickr.com/3/2812/33918807850_c2e79a0c4c_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/33918807850/in/dateposted/
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +56,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques-claviformes, tétrasporiques, boucles non observées à la base, 24-33 x 8-10 µm ;
+  basides: claviformes à cylindriques-claviformes, tétrasporiques, boucles non observées
+    à la base, 24-33 x 8-10 µm ;
   basidiospores: |
     goniosporées, largement elliptiques à elliptiques, parfois subrectangulaires, 8-10 bosses relativement bien dénombrables, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6,3) 6,6 - 8 (9,3) × (4,9) 5 - 6,3 (6,9) µm
@@ -73,19 +74,27 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes sur toute la longueur du pied, en amas, de formes similaires aux lamprocheilocystides, à paroi épaisse, avec cauloparacystides plus petites, clavées, à paroi mince, celles médianes similaires, mais avec moins de cauloparacystides
-  caulocystides-medianes: abondantes, métuloïdes, fusiformes à lagéniformes, 44,3-57,1 × 13,7-17,1 µm
-  caulocystides-sommitales: abondantes, métuloïdes, lagéniformes, ovoïdes à subovoïdes, 27,7-57 × 14,5-19,4 µm
+  caulocystides: abondantes sur toute la longueur du pied, en amas, de formes similaires
+    aux lamprocheilocystides, à paroi épaisse, avec cauloparacystides plus petites,
+    clavées, à paroi mince, celles médianes similaires, mais avec moins de cauloparacystides
+  caulocystides-medianes: abondantes, métuloïdes, fusiformes à lagéniformes, 44,3-57,1
+    × 13,7-17,1 µm
+  caulocystides-sommitales: abondantes, métuloïdes, lagéniformes, ovoïdes à subovoïdes,
+    27,7-57 × 14,5-19,4 µm
   cauloparacystides: présentes
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, parmi les lamprocheilocystides, claviformes à piriformes, à paroi mince, (10,4) 12,8-15,4 (16,1) × (5,5) 6,7-8,4 (9,2) µm
+  cellules-marginales-paracystides: nombreuses, parmi les lamprocheilocystides, claviformes
+    à piriformes, à paroi mince, (10,4) 12,8-15,4 (16,1) × (5,5) 6,7-8,4 (9,2) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, 1-2 mm d'épaisseur au disque, blanchâtre dans le chapeau, pâle dans le pied, immuable
+  chair: mince, 1-2 mm d'épaisseur au disque, blanchâtre dans le chapeau, pâle dans
+    le pied, immuable
   chancre: 
-  chapeau: 15-40 (50) mm Ø, campanulé-conique puis largement mamelonné, au revêtement fibrilleux, couvert de fibrilles blanches par endroits (restes du velipellis), blanc puis un peu crème terne ou ± grisâtre à maturité
-  cheilochrysocystides:
+  chapeau: 15-40 (50) mm Ø, campanulé-conique puis largement mamelonné, au revêtement
+    fibrilleux, couvert de fibrilles blanches par endroits (restes du velipellis),
+    blanc puis un peu crème terne ou ± grisâtre à maturité
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -95,7 +104,9 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Le chapeau de <i>I. umbratica</i> est de dimension plus importante que <i>I. geophylla</i>. De plus, ce dernier a des basidiospores lisses et un pied non bulbeux. »
+  commentaires: De Claude Kaufholtz-Couture. « Le chapeau de <i>I. umbratica</i> est
+    de dimension plus importante que <i>I. geophylla</i>. De plus, ce dernier a des
+    basidiospores lisses et un pied non bulbeux. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -189,10 +200,15 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, adnexées à étroitement adnées, ± larges, serrées à très serrées, blanches puis beiges pâle à brun sombre à la fin, à arêtes finement fimbriées, plus pâles
+  lames: libres, adnexées à étroitement adnées, ± larges, serrées à très serrées,
+    blanches puis beiges pâle à brun sombre à la fin, à arêtes finement fimbriées,
+    plus pâles
   lamprocystides: 
-  lamprocheilocystides: abondantes, courtes, fusiformes, lagéniformes à claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans oxalate de calcium, ou clairsemé
-  lampropleurocystides: nombreuses, courtes, fusiformes, lagéniformes à claviformes, 35-60 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune
+  lamprocheilocystides: abondantes, courtes, fusiformes, lagéniformes à claviformes,
+    30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans oxalate de
+    calcium, ou clairsemé
+  lampropleurocystides: nombreuses, courtes, fusiformes, lagéniformes à claviformes,
+    35-60 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -223,10 +239,15 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-80 x 3-8 mm Ø, cylindrique, égal à subégal, légèrement atténué vers la base, légèrement à ± bulbeux à bulbeux turbiné à la base, plein, finement pruineux, blanc puis teinté de jaunâtre, ± brun terne à maturité, blanc terne au sec
+  pied: 30-80 x 3-8 mm Ø, cylindrique, égal à subégal, légèrement atténué vers la
+    base, légèrement à ± bulbeux à bulbeux turbiné à la base, plein, finement pruineux,
+    blanc puis teinté de jaunâtre, ± brun terne à maturité, blanc terne au sec
   pieds-steriles: 
   pigments: 
-  pileipellis: formé de 2 couches. 1) suprapellis en cutis formé d'une couche compacte d'hyphes apprimées ± 80-120 µm d'épaisseur, bouclées, hyalines, légèrement incrustées, 4-15 µm Ø ; 2) subpellis ± 120-200 µm d'épaisseur, formé d'hyphes similaires, légèrement pigmentées et moins compacte
+  pileipellis: formé de 2 couches. 1) suprapellis en cutis formé d'une couche compacte
+    d'hyphes apprimées ± 80-120 µm d'épaisseur, bouclées, hyalines, légèrement incrustées,
+    4-15 µm Ø ; 2) subpellis ± 120-200 µm d'épaisseur, formé d'hyphes similaires,
+    légèrement pigmentées et moins compacte
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -289,14 +310,15 @@ description:
   syndrome: |
     muscarinien ou sudorien
     La toxine responsable est la muscarine.
-  synonymie: |
-    <i>Inocybe paludinella var. umbratica</i> (Quélet) Gminder, Die Großpilze Baden-Württembergs, Band 5:650 (2010)
+  synonymie: "<i>Inocybe paludinella var. umbratica</i> (Quélet) Gminder, Die Großpilze
+    Baden-Württembergs, Band 5:650 (2010)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: parallèle à subparallèle, formée d'hyphes compactes, à cellules cylindriques, fusiformes à clavées 5-21 µm Ø
+  trame-lamellaire: parallèle à subparallèle, formée d'hyphes compactes, à cellules
+    cylindriques, fusiformes à clavées 5-21 µm Ø
   trame-tubulaire: 
   tubes: 
   type: 
@@ -308,3 +330,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,41 +1,40 @@
 ---
+title: Pulveroboletus ravenelii
+date: 2017-03-25 00:00:00 Z
 nom: Pulveroboletus ravenelii
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/571/20495491838_2c8f61ca8f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20495491838/in/photolist-xe7KEW-oPXq4J
 album-flickr:
-  - 72157674494104903
-
+- 72157674494104903
 details:
   nom-francais: Bolet de Ravenel
   ordre: Boletales
   famille: Boletaceae
   genre: Pulveroboletus
-  espece: <i>Pulveroboletus ravenelii</i> (Berk. & M.A. Curtis) Murrill
-  litterature: Murrill, W.A. 1909. The Boletaceae of North America - 1. Mycologia. 1(1):4-18
-
+  espece: "<i>Pulveroboletus ravenelii</i> (Berk. & M.A. Curtis) Murrill"
+  litterature: Murrill, W.A. 1909. The Boletaceae of North America - 1. Mycologia.
+    1(1):4-18
 collections:
-  - fongarium: cKc0240
-    date: 7 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0410
-    date: 17 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0240
+  date: 7 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0410
+  date: 17 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -61,7 +60,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol de forêts mixtes, surtout sous pruches, bouleaux et peupliers, souvent à la base des souches
+  biotopes: pousse au sol de forêts mixtes, surtout sous pruches, bouleaux et peupliers,
+    souvent à la base des souches
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -76,10 +76,14 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanchâtre ou jaune, bleuissant légèrement à la coupe, surtout au-dessus des tubes
+  chair: blanchâtre ou jaune, bleuissant légèrement à la coupe, surtout au-dessus
+    des tubes
   chancre: 
-  chapeau: 20-120 mm Ø, convexe à largement convexe ou presque plat, d'abord couvert d'un voile partiel jaune vif, devenant assez vite rouge brique à orangé, rougeâtre à brun rougeâtre au centre et jaune sur le bord, sec ou un peu collant après que le voile jaune a disparu, lisse, souvent avec marge appendiculée
-  cheilochrysocystides:
+  chapeau: 20-120 mm Ø, convexe à largement convexe ou presque plat, d'abord couvert
+    d'un voile partiel jaune vif, devenant assez vite rouge brique à orangé, rougeâtre
+    à brun rougeâtre au centre et jaune sur le bord, sec ou un peu collant après que
+    le voile jaune a disparu, lisse, souvent avec marge appendiculée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -213,7 +217,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 4-15 x 10-50 mm Ø, cylindrique, égale à conique à la base, jaune à blanchâtre, parfois avec un anneau fragile, mycélium basal blanchâtre ou jaunâtre
+  pied: 4-15 x 10-50 mm Ø, cylindrique, égale à conique à la base, jaune à blanchâtre,
+    parfois avec un anneau fragile, mycélium basal blanchâtre ou jaunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -266,8 +271,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Boletus ravenelii</i> Berk. & M.A. Curtis, Annals and Magazine of Natural History 12:429 (1853)
+  synonymie: "<i>Boletus ravenelii</i> Berk. & M.A. Curtis, Annals and Magazine of
+    Natural History 12:429 (1853)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -275,12 +280,15 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: concolores à la face poroïde, 5-8 mm de longueur ; subcirculaires à anguleux, petits, 1-3 par mm
+  tubes: concolores à la face poroïde, 5-8 mm de longueur ; subcirculaires à anguleux,
+    petits, 1-3 par mm
   type: 
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: finement fibrilleux, poudreux, jaune soufre brillant, laissant une zone annuliforme sur le pied
+  voile-partiel: finement fibrilleux, poudreux, jaune soufre brillant, laissant une
+    zone annuliforme sur le pied
   volve: 
   zone-perihymeniale: 
 ---
+

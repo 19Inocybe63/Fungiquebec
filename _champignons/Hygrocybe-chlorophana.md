@@ -1,31 +1,30 @@
 ---
+title: Hygrocybe Chlorophana
+date: 2017-03-25 00:00:00 Z
 nom: Hygrocybe chlorophana
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5467/9331277074_be19b687dd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9331277074/in/photolist-suxWc1-fdzezu-fdzh7E-fdjVZX/
 album-flickr:
-  - 72157675476872411
-
+- 72157675476872411
 details:
   nom-francais: Hygrophore jaune soufre
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
-  espece: <i>Hygrocybe chlorophana</i> (Fr.) Wünsche
-  litterature: Wünsche, O. 1877. Die Pilze. Eine Anleitung zur Kenntniss derselben. :1-324
-
+  espece: "<i>Hygrocybe chlorophana</i> (Fr.) Wünsche"
+  litterature: Wünsche, O. 1877. Die Pilze. Eine Anleitung zur Kenntniss derselben.
+    :1-324
 collections:
-  - fongarium: cKc0078
-    date: 20 juillet 2013
-    planche:
-      numero: cKc0078-0084
-      miniature: https://c2.staticflickr.com/8/7729/17388368622_ed9d956b7a_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/17388368622/in/photolist-suxWc1-fdzh7E-fdjVZX-fdzezu
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0078
+  date: 20 juillet 2013
+  planche:
+    numero: cKc0078-0084
+    miniature: https://c2.staticflickr.com/8/7729/17388368622_ed9d956b7a_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/17388368622/in/photolist-suxWc1-fdzh7E-fdjVZX-fdzezu
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à claviformes, tétrasporiques 3,3-5,8 µm de longueur en moyenne, bouclées à la base 33,1 [38,3; 41,9] 47,1 x 6,6 [8,2; 9,3] 10,9 µm
+  basides: piriformes à claviformes, tétrasporiques 3,3-5,8 µm de longueur en moyenne,
+    bouclées à la base 33,1 [38,3; 41,9] 47,1 x 6,6 [8,2; 9,3] 10,9 µm
   basidiospores: |
     elliptiques-ovoïdales en vue frontale, largement elliptiques à elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, sans pore germinatif, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     7,6 [8,1; 8,3] 8,8 x 4,5 [5; 5,3] 5,8 µm
@@ -72,8 +72,10 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, jaunâtre
   chancre: 
-  chapeau: 20-60 mm Ø, convexe puis étalé, viscidule, lisse, jaune citron foncé à orange vif, parfois plus jaune orangé au centre, demeurant jaune foncé avec l'âge et au sec, à marge parfois translucide-striée
-  cheilochrysocystides:
+  chapeau: 20-60 mm Ø, convexe puis étalé, viscidule, lisse, jaune citron foncé à
+    orange vif, parfois plus jaune orangé au centre, demeurant jaune foncé avec l'âge
+    et au sec, à marge parfois translucide-striée
+  cheilochrysocystides: 
   cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -175,7 +177,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées puis émarginées, étroites vers la marge piléique, subespacées, blanchâtres à jaunâtres
+  lames: adnexées puis émarginées, étroites vers la marge piléique, subespacées, blanchâtres
+    à jaunâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,7 +211,8 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 20-70 x 3-10 nm Ø, égal, parmi comprimé, creux, lisse, viscidule, vite sec, concolore au chapeau
+  pied: 20-70 x 3-10 nm Ø, égal, parmi comprimé, creux, lisse, viscidule, vite sec,
+    concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en trichoderme avec subpellis non différencié
@@ -234,8 +238,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boertmann, David</b>. <i>The genus Hygrocybe</i>, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
+  publications: "<b>Boertmann, David</b>. <i>The genus Hygrocybe</i>, Fungi of Northern
+    Europe vol. 1, 2nd revised edition, 2010, 103 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -280,3 +284,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

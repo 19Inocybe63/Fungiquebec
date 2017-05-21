@@ -1,31 +1,31 @@
 ---
+title: Russula Pseudolepida
+date: 2017-03-27 00:00:00 Z
 nom: Russula pseudolepida
-date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/9/8508/8452247883_0a41a31a34_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8452247883/in/photostream/
 album-flickr:
-  - 72157673870143573
-
+- 72157673870143573
 details:
   nom-francais: 
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula pseudolepida</i> Singer
-  litterature: Singer, R. 1939. Contribution à l'étude des Russules. IV. Quelques Russules américaines et asiatiques (suite). Bulletin de la Société Mycologique de France. 55:226-283
-
+  espece: "<i>Russula pseudolepida</i> Singer"
+  litterature: Singer, R. 1939. Contribution à l'étude des Russules. IV. Quelques
+    Russules américaines et asiatiques (suite). Bulletin de la Société Mycologique
+    de France. 55:226-283
 collections:
-  - fongarium: cKc0003
-    date: 8 juillet 2012
-    planche:
-      numero: cKc0003-0015
-      miniature: https://c1.staticflickr.com/9/8373/8467687001_b78d935da1_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8467687001/
-    geolocalisation: 46°51'19.0"N 71°06'38.2"O
-    elevation: 60 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0003
+  date: 8 juillet 2012
+  planche:
+    numero: cKc0003-0015
+    miniature: https://c1.staticflickr.com/9/8373/8467687001_b78d935da1_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8467687001/
+  geolocalisation: 46°51'19.0"N 71°06'38.2"O
+  elevation: 60 m
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +46,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement claviformes, tétrasporiques, boucles non observées à la base, 36,2 x 11,2 µm en moyenne
+  basides: piriformes à largement claviformes, tétrasporiques, boucles non observées
+    à la base, 36,2 x 11,2 µm en moyenne
   basidiospores: |
     globuleuses à subglobuleuses, verruqueuses, avec verrues isolées, quelques crêtes et connexifs, avec proéminences jusqu’à 1,1 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, amyloïdes en périphérie, hyalines, amyloïdes
     6,5 [7,3; 7,6] 8,4 x 5,8 [6,2; 6,3] 6,7 µm
@@ -72,8 +73,9 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche et qui ne brunit pas
   chancre: 
-  chapeau: 67 mm Ø, hémisphérique, convexe à étalé, finement velouté, pruineux à la marge, unie à légèrement sillonnée
-  cheilochrysocystides:
+  chapeau: 67 mm Ø, hémisphérique, convexe à étalé, finement velouté, pruineux à la
+    marge, unie à légèrement sillonnée
+  cheilochrysocystides: 
   cheilocystides: cylindriques, mucronées, 51,6 x 9,9 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -183,7 +185,8 @@ description:
   latex: 
   leptocystides: 
   macrocystides: 
-  macropleurocystides: fusiformes à cylindriques, réaction sulfovanilline positive (SV+)
+  macropleurocystides: fusiformes à cylindriques, réaction sulfovanilline positive
+    (SV+)
   marge: 
   marge-et-face-externe: 
   mediostrate: 
@@ -211,9 +214,11 @@ description:
   pied: 35 x 17 mm Ø, cylindrique à claviforme, plein, blanc
   pieds-steriles: 
   pigments: 
-  pileipellis: en trichoderme, formé d'hyphes dressées, avec terminaisons hyphales en forme de poils, sans hyphes incrustées
+  pileipellis: en trichoderme, formé d'hyphes dressées, avec terminaisons hyphales
+    en forme de poils, sans hyphes incrustées
   pileitrame: 
-  pileocystides: cylindriques-clavées à fusiformes, parfois ± capitées, réaction sulfovanilline positive (SV+), 65 x 7,2 µm en moyenne
+  pileocystides: cylindriques-clavées à fusiformes, parfois ± capitées, réaction sulfovanilline
+    positive (SV+), 65 x 7,2 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: semblables aux macropleurocystides
@@ -258,7 +263,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi ; C d'après la charte de couleur de Kibby
+  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur
+    de Romagnesi ; C d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -283,3 +289,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

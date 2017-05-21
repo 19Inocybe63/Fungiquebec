@@ -1,31 +1,30 @@
 ---
+title: Pluteus Hongoi
+date: 2017-03-25 00:00:00 Z
 nom: Pluteus hongoi
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7308/27250982564_dd1c4e21c2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27250982564/in/photolist-JtAhvm-Hw61aV-Hw5pGY
 album-flickr:
-  - 72157672153165794
-
+- 72157672153165794
 details:
   nom-francais: Plutée de Hongō
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
-  espece: <i>Pluteus hongoi</i> Singer
-  litterature: Singer, R. 1989. New taxa and new combinations of Agaricales (Diagnoses fungorum novorum Agaricalium 4). Fieldiana Botany. 21:1-133
-
+  espece: "<i>Pluteus hongoi</i> Singer"
+  litterature: Singer, R. 1989. New taxa and new combinations of Agaricales (Diagnoses
+    fungorum novorum Agaricalium 4). Fieldiana Botany. 21:1-133
 collections:
-  - fongarium: cKc0500
-    date: 23 juin 2016
-    planche:
-      numero: cKc0500-0133
-      miniature: https://c2.staticflickr.com/8/7457/27879218982_0eb08ae404_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/27879218982/in/photolist-JtAhvm-Hw61aV-Hw5pGY
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Alfredo Justo (provisoire)
-    confirmee: 
-
+- fongarium: cKc0500
+  date: 23 juin 2016
+  planche:
+    numero: cKc0500-0133
+    miniature: https://c2.staticflickr.com/8/7457/27879218982_0eb08ae404_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/27879218982/in/photolist-JtAhvm-Hw61aV-Hw5pGY
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Alfredo Justo (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +36,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Justo, Alfredo et al</b>. <i>Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with description of twelve new species</i>, Phytotaxa 180 (1):001-085, (2014) 85 p.
+  articles: "<b>Justo, Alfredo et al</b>. <i>Molecular phylogeny and phylogeography
+    of Holarctic species of Pluteus section Pluteus (Agaricales, Pluteaceae), with
+    description of twelve new species</i>, Phytotaxa 180 (1):001-085, (2014) 85 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -47,7 +47,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire ou bien carminophile, (25,1 - 35,2 × 7,1 - 8,5 µm en moyenne
+  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est
+    subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire
+    ou bien carminophile, (25,1 - 35,2 × 7,1 - 8,5 µm en moyenne
   basidiospores: |
     ovoïdes à subtriangulaires en vue frontale, elliptiques à largement elliptiques vues de profil, ou légèrement resserré au milieu, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu uniguttulé à granulations, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6,4) 6,7 - 7,7 (7,9) × (4,5) 4,7 - 5,4 (5,5) µm
@@ -57,7 +59,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois décomposé de feuillus (<i>Acer</i>, <i>Betula</i>, <i>Fagus</i>, <i>Quercus</i>)
+  biotopes: pousse sur bois décomposé de feuillus (<i>Acer</i>, <i>Betula</i>, <i>Fagus</i>,
+    <i>Quercus</i>)
   boucles: absentes du pileipellis et non observées dans aucune autre partie du basidiome
   brachybasidioles: 
   calicule: 
@@ -69,13 +72,20 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, polymorphes, claviformes, piriformes à subpiriformes 37,7 - 59,3 × 15,7 - 18,9 µm en moyenne, subglobuleuses 20,7 - 27 × 20,2 - 20,3 µm en moyenne, sphéropédonculées 39,5 - 56,5 × 15,4 - 20,8 µm en moyenne
+  cellules-marginales-paracystides: nombreuses, polymorphes, claviformes, piriformes
+    à subpiriformes 37,7 - 59,3 × 15,7 - 18,9 µm en moyenne, subglobuleuses 20,7 -
+    27 × 20,2 - 20,3 µm en moyenne, sphéropédonculées 39,5 - 56,5 × 15,4 - 20,8 µm
+    en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 84 mm Ø, étalé, umboné, légèrement déprimé, viscidule, brun-gris à olivâtre foncé à noirâtre vers le centre
-  cheilocystides: occasionnelles (plus nombreuses à l'arête lamellaire) plus petites et moins bien développées que les lampropleurocystides, fusiformes à cylindriques, souvent avec crochets difformes ou avec un seul crochet, 52,7 - 59,6 × 10,7 - 15,9 µm en moyenne
+  chapeau: 84 mm Ø, étalé, umboné, légèrement déprimé, viscidule, brun-gris à olivâtre
+    foncé à noirâtre vers le centre
+  cheilocystides: occasionnelles (plus nombreuses à l'arête lamellaire) plus petites
+    et moins bien développées que les lampropleurocystides, fusiformes à cylindriques,
+    souvent avec crochets difformes ou avec un seul crochet, 52,7 - 59,6 × 10,7 -
+    15,9 µm en moyenne
   cheilocystides-intermediaires: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -179,7 +189,10 @@ description:
   lames: libres, gris beige devenant légèrement rosâtres à maturité
   lamprocystides: 
   lamprocheilocystides: 
-  lampropleurocystides: abondantes, métuloïdes, fusiformes (70,4) 72,3 - 84,1 (89,6) × 16,5 - 23,7 µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la moitié sont entiers, et l'autre moitié sont bifides, à paroi jusqu'à 2,5 (2,7 µm) µm d’épaisseur
+  lampropleurocystides: abondantes, métuloïdes, fusiformes (70,4) 72,3 - 84,1 (89,6)
+    × 16,5 - 23,7 µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés
+    dont la moitié sont entiers, et l'autre moitié sont bifides, à paroi jusqu'à 2,5
+    (2,7 µm) µm d’épaisseur
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -209,10 +222,13 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 58 x 7 mm Ø, cylindrique arqué, fibrilles longitudinales brunes à brun-gris pâle, squamuleux vers la base, bulbeux
+  pied: 58 x 7 mm Ø, cylindrique arqué, fibrilles longitudinales brunes à brun-gris
+    pâle, squamuleux vers la base, bulbeux
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou remplis de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41 - 70,1 (80) × (6) 8,5 - 13,5 (16,7) µm en moyenne
+  pileipellis: en cutis formé d’éléments cylindriques emmêlées, lisses, à paroi mince,
+    hyalines ou remplis de pigment intracellulaire brun, avec extrémités subfusiformes
+    à claviformes (38,3) 41 - 70,1 (80) × (6) 8,5 - 13,5 (16,7) µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -242,7 +258,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Sur 60 sommets apicaux de lampropleurocystides, nous obtenons exactement 30 sommets avec crochets entiers, et 30 sommets avec crochets bifides
+  remarques: Sur 60 sommets apicaux de lampropleurocystides, nous obtenons exactement
+    30 sommets avec crochets entiers, et 30 sommets avec crochets bifides
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -276,3 +293,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

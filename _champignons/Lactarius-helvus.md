@@ -1,51 +1,49 @@
 ---
+title: Lactarius Helvus
+date: 2017-03-25 00:00:00 Z
 nom: Lactarius helvus
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/694/21586852311_e226e1987d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21586852311/in/photolist-yTyg7P-p1ZDNU-p1ZFAG-oL159Y-ovx8s3-oMKXmR
 album-flickr:
-  - 72157676095317202
-
+- 72157676095317202
 details:
   nom-francais: Lactaire à odeur d’érable
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: <i>Lactarius helvus</i> (Fr.) Fr.
+  espece: "<i>Lactarius helvus</i> (Fr.) Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-
 collections:
-  - fongarium: cKc0205
-    date: 18 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0232
-    date: 3 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0471
-    date: 20 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0205
+  date: 18 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0232
+  date: 3 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0471
+  date: 20 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -86,10 +84,12 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ± concolore au chapeau
+  chair: "± concolore au chapeau"
   chancre: 
-  chapeau: 30-130 mm Ø, convexe, devenant largement convexe, plane à légèrement déprimé, avec une marge enroulée au début, puis égale ; sec, lisse à finement velouté au début, devenant rugueux à subécailleux, brun pâle à ± variable
-  cheilochrysocystides:
+  chapeau: 30-130 mm Ø, convexe, devenant largement convexe, plane à légèrement déprimé,
+    avec une marge enroulée au début, puis égale ; sec, lisse à finement velouté au
+    début, devenant rugueux à subécailleux, brun pâle à ± variable
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -191,7 +191,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées au début puis subdécurrentes à maturité, serrées, étroites à ± larges, souvent fourchues près du pied, blanchâtres au début devenant crème à ± jaunâtre
+  lames: adnées au début puis subdécurrentes à maturité, serrées, étroites à ± larges,
+    souvent fourchues près du pied, blanchâtres au début devenant crème à ± jaunâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -224,7 +225,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-120 x 10-20 mm Ø, cylindrique plus ou moins égal, farci puis creux, sec, lisse ou très finement veloutée au début, concolore au chapeau à orangée pâle, rosâtre à brun orangé
+  pied: 30-120 x 10-20 mm Ø, cylindrique plus ou moins égal, farci puis creux, sec,
+    lisse ou très finement veloutée au début, concolore au chapeau à orangée pâle,
+    rosâtre à brun orangé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -294,3 +297,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

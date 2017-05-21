@@ -1,41 +1,41 @@
 ---
+title: Coprinellus Truncorum
+date: 2017-03-18 00:00:00 Z
 nom: Coprinellus truncorum
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/3/2922/14221760856_2a6067ffc5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14221760856/in/photolist-sXpQiS-s1P2ep-nGNyqX-nEJf2o
 album-flickr:
-  - 72157672468519353
-
+- 72157672468519353
 details:
   nom-francais: Coprin micacé à pied lisse
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinellus
-  espece: <i>Coprinellus truncorum</i> (Scop.) Redhead, Vilgalys & Moncalvo
-  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple, J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu lato. Taxon. 50(1):203-241
-
+  espece: "<i>Coprinellus truncorum</i> (Scop.) Redhead, Vilgalys & Moncalvo"
+  litterature: Redhead, S.A.; Vilgalys, R.; Moncalvo, J.-M.; Johnson, J.; Hopple,
+    J.S. Jr. 2001. Coprinus Persoon and the disposition of Coprinus species sensu
+    lato. Taxon. 50(1):203-241
 collections:
-  - fongarium: cKc0154
-    date: 21 mai 2014
-    planche:
-      numero: cKc0154-0036
-      miniature: https://c1.staticflickr.com/3/2902/14245236215_f0bc68e2b4_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/14245236215/in/photolist-sXpQiS-s1P2ep-nGNyqX-nEJf2o
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0302
-    date: 15 mai 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0154
+  date: 21 mai 2014
+  planche:
+    numero: cKc0154-0036
+    miniature: https://c1.staticflickr.com/3/2902/14245236215_f0bc68e2b4_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/14245236215/in/photolist-sXpQiS-s1P2ep-nGNyqX-nEJf2o
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0302
+  date: 15 mai 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +56,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: polymorphes, utriformes selon Romagnesi, tétrasporiques, 30-35 x 6 µm en moyenne
+  basides: polymorphes, utriformes selon Romagnesi, tétrasporiques, 30-35 x 6 µm en
+    moyenne
   basidiospores: |
     elliptiques à ovoïdes en vue frontale, elliptiques à largement elliptiques vues de profil, à l’apex légèrement tronquées, lisses, à paroi mince, avec appendice hilaire, et pore germinatif distinct et centré 1,7 [1,8; 2] 2,1 x 1,2 [1,4; 1,9] 2,1 µm, à contenu homogène, brun foncé à brun rougeâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     7,1 [7,9; 8,3] 9,1 x 4,8 [5,1; 5,3] 5,6 µm
@@ -82,8 +83,13 @@ description:
   cellules-stromatiques: 
   chair: mince
   chancre: 
-  chapeau: jusqu'à 35 mm de hauteur x 3 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique à convexe, ocre au début, vite ocre pâle vers la marge et ocre au centre, couvert de fins flocons granuleux vélaires blanchâtres mais légèrement concolores au fond au centre, vite fugaces, à marge incurvée au début, puis droite, striée
-  cheilocystides: abondantes, cylindriques à largement cylindriques, 77-120 x 43-53 μm en moyenne
+  chapeau: jusqu'à 35 mm de hauteur x 3 mm Ø lorsque fermé, 50 mm Ø après expansion,
+    subglobuleux, ovoïde à ellipsoïde puis conique à convexe, ocre au début, vite
+    ocre pâle vers la marge et ocre au centre, couvert de fins flocons granuleux vélaires
+    blanchâtres mais légèrement concolores au fond au centre, vite fugaces, à marge
+    incurvée au début, puis droite, striée
+  cheilocystides: abondantes, cylindriques à largement cylindriques, 77-120 x 43-53
+    μm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -130,7 +136,8 @@ description:
   elements-setoides: 
   elements-steriles: 
   elements-sur-les-cotes: 
-  elements-velaires: formés de cellules subglobuleuses, à paroi mince, 15-40 µm Ø, reliées à des hyphes légèrement diverticulées
+  elements-velaires: formés de cellules subglobuleuses, à paroi mince, 15-40 µm Ø,
+    reliées à des hyphes légèrement diverticulées
   endoperidium: 
   especes-identification: 
   especes-semblables: 
@@ -183,7 +190,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, 3-8 mm de largeur, serrées, blanches au début, puis gris-brun à noires, déliquescentes
+  lames: libres, 3-8 mm de largeur, serrées, blanches au début, puis gris-brun à noires,
+    déliquescentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -216,14 +224,16 @@ description:
   peritheces: 
   phenologie: de mai à août
   phialoconidies: 
-  pied: 40-140 x 2-7 mm Ø, clavé vers la base, lisse ou très finement fibrilleux, blanc, avec un col en forme de volve
+  pied: 40-140 x 2-7 mm Ø, clavé vers la base, lisse ou très finement fibrilleux,
+    blanc, avec un col en forme de volve
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme épithéloïde
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: occasionnelles, elliptiques larges à elliptiques allongées 74-125 x 45-62 μm en moyenne
+  pleurocystides: occasionnelles, elliptiques larges à elliptiques allongées 74-125
+    x 45-62 μm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -241,8 +251,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+  publications: "<b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>.
+    <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of
+    agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005,
+    236 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -287,3 +299,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,41 +1,39 @@
 ---
+title: Russula Flavoxerampelina Y Lamoureux Nom Prov
+date: 2017-03-27 00:00:00 Z
 nom: Russula flavoxerampelina Y. Lamoureux nom. prov.
-date: 2017-03-27 00:00:00Corr
 image: https://c1.staticflickr.com/1/312/19210870652_2bb2944cd4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19210870652/in/photolist-ENZRuc-vgAJxN-uZxrV7
 album-flickr:
-  - 72157676444128910
-
+- 72157676444128910
 details:
   nom-francais: 
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula flavoxerampelina Y. Lamoureux nom. prov.</i>
+  espece: "<i>Russula flavoxerampelina Y. Lamoureux nom. prov.</i>"
   litterature: 
-
 collections:
-  - fongarium: cKc0327
-    date: 26 juin 2015
-    planche:
-      numero: cKc0327-0116
-      miniature: https://c2.staticflickr.com/2/1665/25473403855_1c9559c8e3_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/25473403855/in/photolist-ENZRuc-vgAJxN-uZxrV7
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-  - fongarium: cKc0355
-    date: 19 juillet 2015
-    planche:
-      numero: cKc0355-0115
-      miniature: https://c2.staticflickr.com/2/1534/25052648230_44297c9d70_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/25052648230/in/photolist-EaPnuS-vWnGUh-vWuP4r-vWuYnX
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0327
+  date: 26 juin 2015
+  planche:
+    numero: cKc0327-0116
+    miniature: https://c2.staticflickr.com/2/1665/25473403855_1c9559c8e3_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/25473403855/in/photolist-ENZRuc-vgAJxN-uZxrV7
+  geolocalisation: 
+  elevation: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
+- fongarium: cKc0355
+  date: 19 juillet 2015
+  planche:
+    numero: cKc0355-0115
+    miniature: https://c2.staticflickr.com/2/1534/25052648230_44297c9d70_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/25052648230/in/photolist-EaPnuS-vWnGUh-vWuP4r-vWuYnX
+  geolocalisation: 
+  elevation: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +54,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base, (39,3) 39,31 - 48,79 (48,8) × (12,4) 12,44 - 13,17 (13,2) µm
+  basides: claviformes, tétrasporiques, non bouclées à la base, (39,3) 39,31 - 48,79
+    (48,8) × (12,4) 12,44 - 13,17 (13,2) µm
   basidiospores: |
     globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verrues médiums et isolées, réunies par de rares connexions, plus souvent avec verrues caténulées, avec des proéminences jusqu'à 1 µm de hauteur, à paroi mince, appendice hilaire proéminent, petite plage hilaire amyloïde, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (7,2) 7,6 - 8,8 (9,2) × (6,3) 6,6 - 7,5 (7,7) µm
@@ -83,8 +82,10 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 63-94 mm Ø, convexe, étalé déprimé, glabre à légèrement pruineux, dont la cuticule se pèle sur ¼-¾ du rayon, crème jaunâtre à parfois avec des taches de vin (schrimps bigarrées)
-  cheilochrysocystides:
+  chapeau: 63-94 mm Ø, convexe, étalé déprimé, glabre à légèrement pruineux, dont
+    la cuticule se pèle sur ¼-¾ du rayon, crème jaunâtre à parfois avec des taches
+    de vin (schrimps bigarrées)
+  cheilochrysocystides: 
   cheilocystides: sensiblement de la même forme que les pleurocystides
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -219,16 +220,22 @@ description:
   peritheces: 
   phenologie: de juin à juillet
   phialoconidies: 
-  pied: 55-61 x 15-16 mm Ø, cylindrique claviforme, farci, se tache de brun rougeâtre au froissement
+  pied: 55-61 x 15-16 mm Ø, cylindrique claviforme, farci, se tache de brun rougeâtre
+    au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: épicuticulaires, claviformes, fusiformes à largement fusiformes, cystidioïdes, septées, faiblement sulfoaldéhyde, 50 - 85 (90) × (5) 7 - 15 (16) µm ; piléocystides atypiques, cylindriques et septées, 10-30 x 2-4 µm en moyenne, 15-17 x 4-6 µm en moyenne
+  pileocystides: épicuticulaires, claviformes, fusiformes à largement fusiformes,
+    cystidioïdes, septées, faiblement sulfoaldéhyde, 50 - 85 (90) × (5) 7 - 15 (16)
+    µm ; piléocystides atypiques, cylindriques et septées, 10-30 x 2-4 µm en moyenne,
+    15-17 x 4-6 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, au contenu pailleté hyalin et réfringent dans le R.C.Sds  
-  poils: septés, 10-30 x 2-4 µm en moyenne, avec cellule finale qui se termine atténuée ou obtuse 15-17 x 4-6 µm en moyenne
+  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus,
+    mucronés, moniliformes, au contenu pailleté hyalin et réfringent dans le R.C.Sds
+  poils: septés, 10-30 x 2-4 µm en moyenne, avec cellule finale qui se termine atténuée
+    ou obtuse 15-17 x 4-6 µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -258,11 +265,14 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<SUB>4</SUB>) = absence de coloration sur le chapeau ; verdâtre sur le stipe
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<SUB>4</SUB>) = absence de coloration
+    sur le chapeau ; verdâtre sur le stipe
+
+'
   receptacle: 
-  remarques: |
-    Exhalaison prononcée de sardines une fois le spécimen déshydraté
+  remarques: 'Exhalaison prononcée de sardines une fois le spécimen déshydraté
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -271,7 +281,9 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporées à xanthosporées, IIIc-IVa, ocre foncé à jaune, ocre-orange, d'après la charte de couleur de Romagnesi ; F-H d’après la charte de couleur de Kibby
+  sporee: ocrosporées à xanthosporées, IIIc-IVa, ocre foncé à jaune, ocre-orange,
+    d'après la charte de couleur de Romagnesi ; F-H d’après la charte de couleur de
+    Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -296,3 +308,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

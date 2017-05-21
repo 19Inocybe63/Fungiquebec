@@ -1,41 +1,39 @@
 ---
+title: Paxillus Involutus
+date: 2017-03-25 00:00:00 Z
 nom: Paxillus involutus
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5710/21493893579_e5509540a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21493893579/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
 album-flickr:
-  - 72157675289305110
-
+- 72157675289305110
 details:
   nom-francais: Paxille enroulé
   ordre: Boletales
   famille: Paxillaceae
   genre: Paxillus
-  espece: <i>Paxillus involutus</i> (Batsch) Fr.
+  espece: "<i>Paxillus involutus</i> (Batsch) Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-
 collections:
-  - fongarium: cKc0475
-    date: 24 septembre 2015
-    planche:
-      numero: cKc0475-0113
-      miniature: https://c2.staticflickr.com/2/1474/24821637815_ed31e7688a_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/24821637815/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
-    geolocalisation: 
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0592
-    date: 9 octobre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0475
+  date: 24 septembre 2015
+  planche:
+    numero: cKc0475-0113
+    miniature: https://c2.staticflickr.com/2/1474/24821637815_ed31e7688a_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/24821637815/in/photolist-MBzqYG-DPpo9F-yKkPJ4-yKfFxJ
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0592
+  date: 9 octobre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -65,7 +63,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus ou conifères, parfois sur gazons, près des arbres, souvent sous <i>Betula</i>, <i>Tilia</i>
+  biotopes: pousse au sol, sous feuillus ou conifères, parfois sur gazons, près des
+    arbres, souvent sous <i>Betula</i>, <i>Tilia</i>
   boucles: observées dans la trame lamellaire et dans le stipitipellis
   brachybasidioles: 
   calicule: 
@@ -80,11 +79,15 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, ferme, jaunâtre, chamois pâle à ochracée, se tachant souvent de brun à rougeâtre à la coupe
+  chair: épaisse, ferme, jaunâtre, chamois pâle à ochracée, se tachant souvent de
+    brun à rougeâtre à la coupe
   chancre: 
-  chapeau: 60-88 mm Ø, convexe à largement convexe, étalé et mamelonné, déprimé, en entonnoir, visqueux, à cuticule collante à l'humidité puis sec ; marge veloutée et enroulée ; brun, brun olive
-  cheilochrysocystides:
-  cheilocystides: abondantes, subfusiformes, dont l'apex est souvent acuminé ou ± long ; rarement rostrées, 40-90 µm de long
+  chapeau: 60-88 mm Ø, convexe à largement convexe, étalé et mamelonné, déprimé, en
+    entonnoir, visqueux, à cuticule collante à l'humidité puis sec ; marge veloutée
+    et enroulée ; brun, brun olive
+  cheilochrysocystides: 
+  cheilocystides: abondantes, subfusiformes, dont l'apex est souvent acuminé ou ±
+    long ; rarement rostrées, 40-90 µm de long
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -184,7 +187,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: décurrentes, très serrées, avec de nombreuses fourches, olive, jaune-brun à brunâtres, se tachant de brun foncé à brun rougeâtre à maturité ou au froissement
+  lames: décurrentes, très serrées, avec de nombreuses fourches, olive, jaune-brun
+    à brunâtres, se tachant de brun foncé à brun rougeâtre à maturité ou au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -217,10 +221,13 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 30-42 x 9-11 mm Ø, cylindrique, égal, plein, ferme, glabre à légèrement fibrilleux, lisse, sec, crème ou beige, souvent taché de rougeâtre ou de brun foncé, brunissant à maturité ou au froissement
+  pied: 30-42 x 9-11 mm Ø, cylindrique, égal, plein, ferme, glabre à légèrement fibrilleux,
+    lisse, sec, crème ou beige, souvent taché de rougeâtre ou de brun foncé, brunissant
+    à maturité ou au froissement
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis (ixocutis) avec des éléments en trichoderme (ixotrichoderme) formé d'hyphes au contenu brunâtre
+  pileipellis: en cutis (ixocutis) avec des éléments en trichoderme (ixotrichoderme)
+    formé d'hyphes au contenu brunâtre
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -280,7 +287,7 @@ description:
   tomentum-pileique: 
   trame-hymenophorale: 
   trame-lamellaire: bilatérale
-  trame-tubulaire:
+  trame-tubulaire: 
   tube: 
   type: 
   typique: 
@@ -290,3 +297,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

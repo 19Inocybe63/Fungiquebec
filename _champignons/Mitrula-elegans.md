@@ -1,31 +1,29 @@
 ---
+title: Mitrula Elegans
+date: 2017-03-25 00:00:00 Z
 nom: Mitrula elegans
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7309/8937592313_9fb6943bef_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8937592313/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
 album-flickr:
-  - 72157673827899631
-
+- 72157673827899631
 details:
   nom-francais: Mitrule élégante
   ordre: Helotiales
   famille: Helotiaceae
   genre: Mitrula
-  espece: <i>Mitrula elegans</i> Berkeley
+  espece: "<i>Mitrula elegans</i> Berkeley"
   litterature: Berkeley, M.J. 1875. Notices of North American fungi. Grevillea. 3(28):145-160
-
 collections:
-  - fongarium: cKc0045
-    date: 3 juin 2013
-    planche:
-      numero: cKc0045-0087
-      miniature: https://c2.staticflickr.com/6/5466/17645661958_7e54d295cb_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/17645661958/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0045
+  date: 3 juin 2013
+  planche:
+    numero: cKc0045-0087
+    miniature: https://c2.staticflickr.com/6/5466/17645661958_7e54d295cb_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/17645661958/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -55,7 +53,10 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur feuilles, aiguilles, écailles, ramilles ou fruits, débris, billes, boues, tapis d'algues, etc., pourrissant dans les eaux peu profondes des forêts (1 dm concernant le sujet ci-dessus), mares, eaux en voie d'assèchement ou fossés
+  biotopes: pousse sur feuilles, aiguilles, écailles, ramilles ou fruits, débris,
+    billes, boues, tapis d'algues, etc., pourrissant dans les eaux peu profondes des
+    forêts (1 dm concernant le sujet ci-dessus), mares, eaux en voie d'assèchement
+    ou fossés
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -132,7 +133,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -190,13 +190,15 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: solitaire à dispersé, grégaire, cespiteux, parfois en grand nombre
+  mode-de-croissance: solitaire à dispersé, grégaire, cespiteux, parfois en grand
+    nombre
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: filiformes, septées, souvent ramifiées, légèrement élargies à l'apex, 110-130 x 1,5-3 µm
+  paraphyses: filiformes, septées, souvent ramifiées, légèrement élargies à l'apex,
+    110-130 x 1,5-3 µm
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -251,7 +253,9 @@ description:
   spherocytes: 
   sporocystes: 
   stipitipellis: avec terminaisons hyphales, parfois isolées, en faisceaux ou emmêlées
-  stipititrame: constitué de trois grosseurs d’hyphes ; filiformes entre 15 x 6 µm en moyenne, fusiformes entre 35-46 x 18-20 µm en moyenne, et largement fusiformes entre 50-60 x 25-27 µm en moyenne
+  stipititrame: constitué de trois grosseurs d’hyphes ; filiformes entre 15 x 6 µm
+    en moyenne, fusiformes entre 35-46 x 18-20 µm en moyenne, et largement fusiformes
+    entre 50-60 x 25-27 µm en moyenne
   stroma: 
   subhymenium: 
   subiculum: 
@@ -272,3 +276,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

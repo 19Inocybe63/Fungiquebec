@@ -1,31 +1,30 @@
 ---
+title: Entoloma Formosum
+date: 2017-03-21 00:00:00 Z
 nom: Entoloma formosum
-date: 2017-03-21 00:00:00
 image: https://c2.staticflickr.com/6/5553/14864698956_e8a7930466_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14864698956/in/photolist-qepDS2-oDxt83-oDxrA5
 album-flickr:
-  - 72157674673516460
-
+- 72157674673516460
 details:
   nom-francais: Entolome superbe
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: <i>Entoloma formosum</i> (Fr.) Noordel.
-  litterature: Noordeloos, M.E. 1985. Notulae ad floram Agaricinam Neerlandicam X-XI. Entoloma. Persoonia. 12(4):457-462
-
+  espece: "<i>Entoloma formosum</i> (Fr.) Noordel."
+  litterature: Noordeloos, M.E. 1985. Notulae ad floram Agaricinam Neerlandicam X-XI.
+    Entoloma. Persoonia. 12(4):457-462
 collections:
-  - fongarium: cKc0202
-    date: 11 août 2014
-    planche:
-      numero: cKc0202-0051
-      miniature: https://c2.staticflickr.com/8/7543/15904291825_9ab832e1c5_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15904291825/in/photolist-qepDS2-oDxt83-oDxrA5
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0202
+  date: 11 août 2014
+  planche:
+    numero: cKc0202-0051
+    miniature: https://c2.staticflickr.com/8/7543/15904291825_9ab832e1c5_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15904291825/in/photolist-qepDS2-oDxt83-oDxrA5
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -55,14 +54,16 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur humus en milieux humides, souvent sur des débris ligneux, ou bois pourri, sur le bord des sentiers forestiers, sphaignes
+  biotopes: pousse au sol, sur humus en milieux humides, souvent sur des débris ligneux,
+    ou bois pourri, sur le bord des sentiers forestiers, sphaignes
   boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: parfois en forme d'hyphes terminales, mais aussi lagéniformes avec contenu de type négropigment
+  caulocystides: parfois en forme d'hyphes terminales, mais aussi lagéniformes avec
+    contenu de type négropigment
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -72,7 +73,12 @@ description:
   cellules-stromatiques: 
   chair: mince, jusqu'à 3 mm au disque, jaunâtre, jaune chamois à concolore à la surface
   chancre: 
-  chapeau: 10-40 mm Ø, conique-convexe à largement convexe, tronqué puis convexe à étalé, légèrement déprimé au centre, ombiliqué à rarement papillé, sec, subhygrophane, entièrement tomenteux au début, puis avec squamules brunes dressées au centre et fibrilleux-subsquamuleux radialement vers la marge, sur fond jaune, orangé, fauve à jaune rougeâtre, souvent plus foncé au centre, plus pâle vers le pourtour, pâlissant à orangé pâle, orange grisâtre à orange brunâtre au sec
+  chapeau: 10-40 mm Ø, conique-convexe à largement convexe, tronqué puis convexe à
+    étalé, légèrement déprimé au centre, ombiliqué à rarement papillé, sec, subhygrophane,
+    entièrement tomenteux au début, puis avec squamules brunes dressées au centre
+    et fibrilleux-subsquamuleux radialement vers la marge, sur fond jaune, orangé,
+    fauve à jaune rougeâtre, souvent plus foncé au centre, plus pâle vers le pourtour,
+    pâlissant à orangé pâle, orange grisâtre à orange brunâtre au sec
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -173,7 +179,10 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, adnexées à uncinées, souvent légèrement émarginées, étroites à larges, 2-6 mm, segmentiformes à rarement ventrues, serrées à subespacées, blanchâtres à jaunâtre pâle puis rosées, à arêtes entières puis érodées à ± fimbriées, concolores aux faces ou parfois brunâtres avec l'âge
+  lames: adnées, adnexées à uncinées, souvent légèrement émarginées, étroites à larges,
+    2-6 mm, segmentiformes à rarement ventrues, serrées à subespacées, blanchâtres
+    à jaunâtre pâle puis rosées, à arêtes entières puis érodées à ± fimbriées, concolores
+    aux faces ou parfois brunâtres avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +215,10 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 40-70 x 2-4 mm Ø, cylindrique, égal, souvent légèrement élargi vers la base, souvent arrondi à la coupe, sillonné longitudinalement, creux, lisse à substrié par des fibrilles argentées dispersées, concolore au chapeau ou plus jaune à plus pâle au début, orange rougeâtre à orange brunâtre avec l'âge et au sec
+  pied: 40-70 x 2-4 mm Ø, cylindrique, égal, souvent légèrement élargi vers la base,
+    souvent arrondi à la coupe, sillonné longitudinalement, creux, lisse à substrié
+    par des fibrilles argentées dispersées, concolore au chapeau ou plus jaune à plus
+    pâle au début, orange rougeâtre à orange brunâtre avec l'âge et au sec
   pieds-steriles: 
   pigments: vacuolaires et observés dans le stipe
   pileipellis: en cutis avec éléments trichodermiques
@@ -280,3 +292,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

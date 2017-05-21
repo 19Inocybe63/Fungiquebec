@@ -1,31 +1,30 @@
 ---
+title: Gyroporus Castaneus
+date: 2017-03-17 00:00:00 Z
 nom: Gyroporus castaneus
-date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/6/5809/29291388773_577f7734f6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29291388773/in/photolist-LCo2on-MzKYGP
 album-flickr:
-  - 72157675902731870
-
+- 72157675902731870
 details:
   nom-francais: Bolet châtain
   ordre: Boletales
   famille: Gyroporaceae
   genre: Gyroporus
-  espece: <i>Gyroporus castaneus</i> (Bull.) Quél.
-  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
-
+  espece: "<i>Gyroporus castaneus</i> (Bull.) Quél."
+  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim
+    in Gallia Vigentium. :1-352
 collections:
-  - fongarium: cKc564
-    date: 24 septembre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc564
+  date: 24 septembre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,10 @@ description:
   cellules-stromatiques: 
   chair: cassante, blanchâtre, immuable à la coupe
   chancre: 
-  chapeau: 69-72 mm Ø, convexe à largement convexe puis subétalé à étalé, parfois légèrement déprimé, sec, finement tomenteux-velouté, brun rougeâtre, brun orangé à brun-jaune pâle, à marge droite, mais souvent fendue par endroits avec l'âge
-  cheilochrysocystides:
+  chapeau: 69-72 mm Ø, convexe à largement convexe puis subétalé à étalé, parfois
+    légèrement déprimé, sec, finement tomenteux-velouté, brun rougeâtre, brun orangé
+    à brun-jaune pâle, à marge droite, mais souvent fendue par endroits avec l'âge
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -133,7 +134,8 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: blanche à crème blanchâtre au début, jaunissant à maturité, immuable au froissement
+  face-poroïde: blanche à crème blanchâtre au début, jaunissant à maturité, immuable
+    au froissement
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -204,7 +206,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 48-50 x 14-15 mm Ø, subégal à souvent renflé au milieu ou vers la base ou étranglé à l'apex et à la base, inégal, cassant, farci au début, devenant creux à maturité, finement velouté, concolore au chapeau ou plus pâle
+  pied: 48-50 x 14-15 mm Ø, subégal à souvent renflé au milieu ou vers la base ou
+    étranglé à l'apex et à la base, inégal, cassant, farci au début, devenant creux
+    à maturité, finement velouté, concolore au chapeau ou plus pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -268,7 +272,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: circulaires à subanguleux et petits, 1-3 par mm, concolores à la face poroïde, 5-8 mm de longueur
+  tubes: circulaires à subanguleux et petits, 1-3 par mm, concolores à la face poroïde,
+    5-8 mm de longueur
   type: 
   typique: 
   voile: 
@@ -277,3 +282,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

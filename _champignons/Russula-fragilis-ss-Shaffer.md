@@ -1,31 +1,29 @@
 ---
+title: Russula Fragilis Ss Shaffer
+date: 2017-03-27 00:00:00 Z
 nom: Russula fragilis
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/6/5589/15034624325_0cd9367c27_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15034624325/in/photolist-oUypVP-oUyo1M-oC4HTw
 album-flickr:
-  - 72157679238481866
-
+- 72157679238481866
 details:
   nom-francais: Russule fragile
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula fragilis</i> ss Shaffer
+  espece: "<i>Russula fragilis</i> ss Shaffer"
   litterature: Fries, E.M. 1825. Stirpes agri Femsionensis.
-
 collections:
-  - fongarium: cKc0214
-    date: 25 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0214
+  date: 25 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +49,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, ou bois très pourri, sous feuillus, <i>Betula</i>, <i>Fagus</i>, <i>Quercus</i>
+  biotopes: pousse au sol, dans la mousse, ou bois très pourri, sous feuillus, <i>Betula</i>,
+    <i>Fagus</i>, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +67,12 @@ description:
   cellules-stromatiques: 
   chair: ferme, fragile, immuable, blanche
   chancre: 
-  chapeau: 27-67 mm Ø, convexe puis étalé, parfois déprimé au centre, fragile, de couleur très variable, rouge pourpré, vineux, violacé, rouge à rouge rosâtre, souvent plus foncé au centre, presque noir, brun à olive, plus pâle vers le pourtour, parfois très pâle et délavé, avec taches pâles ou entièrement blanc, à marge mince, unie à striatulée, et cuticule pelant jusqu'aux 3/4 du rayon ou plus
-  cheilochrysocystides:
+  chapeau: 27-67 mm Ø, convexe puis étalé, parfois déprimé au centre, fragile, de
+    couleur très variable, rouge pourpré, vineux, violacé, rouge à rouge rosâtre,
+    souvent plus foncé au centre, presque noir, brun à olive, plus pâle vers le pourtour,
+    parfois très pâle et délavé, avec taches pâles ou entièrement blanc, à marge mince,
+    unie à striatulée, et cuticule pelant jusqu'aux 3/4 du rayon ou plus
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -207,7 +210,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 48-70 x 9-16 mm Ø, subclaviforme, plein, fragile, immuable, blanc à légèrement jaune à maturité
+  pied: 48-70 x 9-16 mm Ø, subclaviforme, plein, fragile, immuable, blanc à légèrement
+    jaune à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -242,11 +246,14 @@ description:
     <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration sur le stipe
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration
+    sur le stipe
+
+'
   receptacle: 
-  remarques: |
-    Code de Kibby, A I K N / P (Q?) S
+  remarques: 'Code de Kibby, A I K N / P (Q?) S
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -255,7 +262,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ib, blanchâtre, à pallidosporée, IIa, crème pâle, d'après la charte de couleur de Romagnesi ; B d'après la charte de couleur de Kibby
+  sporee: leucosporée Ib, blanchâtre, à pallidosporée, IIa, crème pâle, d'après la
+    charte de couleur de Romagnesi ; B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -288,3 +296,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,41 +1,39 @@
 ---
+title: Trametes Versicolor
+date: 2017-03-13 00:00:00 Z
 nom: Trametes versicolor
-date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3857/14880591843_754fdb0487_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14880591843/in/photolist-oDagSs-oEWVwk/
 album-flickr:
-  - 72157674814039630
-
+- 72157674814039630
 details:
   nom-francais: Tramète versicolore
   ordre: Polyporales
   famille: Polyporaceae
   genre: Trametes
-  espece: <i>Trametes versicolor</i> (L.) Lloyd
+  espece: "<i>Trametes versicolor</i> (L.) Lloyd"
   litterature: Lloyd, C.G. 1921. Mycological Notes 65. Mycological Writings. 6(65):1029-1101
-
 collections:
-  - fongarium: cKc0201
-    date: 8 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0489
-    date: 12 octobre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0201
+  date: 8 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0489
+  date: 12 octobre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -61,7 +59,8 @@ description:
   basidioles: 
   basidiome: annuel
   bibliographies: 
-  biotopes: pousse sur chicots, arbres renversés, souches, branches, débris ligneux, sur feuillus, parfois sur conifères, <i>Abies</i>, <i>Picea</i>
+  biotopes: pousse sur chicots, arbres renversés, souches, branches, débris ligneux,
+    sur feuillus, parfois sur conifères, <i>Abies</i>, <i>Picea</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -78,7 +77,10 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 10-50 mm en surplomb, dont la largeur varie de 10-60 mm, l'épaisseur varie généralement de 2-5 mm à la base du chapeau, convexe, ou plat, généralement dimidié, semi-circulaire, réniforme ou parfois presque orbiculaire, à marge poreuse, mince, légèrement onduleuse, lobée et partiellement effritée à maturité
+  chapeau: 10-50 mm en surplomb, dont la largeur varie de 10-60 mm, l'épaisseur varie
+    généralement de 2-5 mm à la base du chapeau, convexe, ou plat, généralement dimidié,
+    semi-circulaire, réniforme ou parfois presque orbiculaire, à marge poreuse, mince,
+    légèrement onduleuse, lobée et partiellement effritée à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -195,7 +197,9 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: se développe rarement seul, sauf sur conifères, sur les feuillus, il forme d'innombrables chapeaux imbriqués latéralement soudés, ou disposés en rosette
+  mode-de-croissance: se développe rarement seul, sauf sur conifères, sur les feuillus,
+    il forme d'innombrables chapeaux imbriqués latéralement soudés, ou disposés en
+    rosette
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -230,14 +234,15 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: réguliers, ronds, 4-6 pores par mm, parfois décurrents sur le support et mesurent 4 mm ou moins de profondeur
+  pores: réguliers, ronds, 4-6 pores par mm, parfois décurrents sur le support et
+    mesurent 4 mm ou moins de profondeur
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -320,3 +325,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

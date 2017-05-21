@@ -1,31 +1,30 @@
 ---
+title: Panellus Serotinus
+date: 2017-03-25 00:00:00 Z
 nom: Panellus serotinus
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7419/10088858635_e499dc1285_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088858635/in/photolist-gnw3bx-gnvHw7
 album-flickr:
-  - 72157672456112613
-
+- 72157672456112613
 details:
   nom-francais: Pleurote tardif
   ordre: Agaricales
   famille: Mycenaceae
   genre: Panellus
-  espece: <i>Panellus serotinus</i> (Pers.) Kühner
-  litterature: Kühner 1950, Compte rendu hebdomadaire des Sciences de l'Academie des sciences, Paris 230:1889
-
+  espece: "<i>Panellus serotinus</i> (Pers.) Kühner"
+  litterature: Kühner 1950, Compte rendu hebdomadaire des Sciences de l'Academie des
+    sciences, Paris 230:1889
 collections:
-  - fongarium: sans numéro
-    date: 4 octobre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 4 octobre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°46'21.6"N 71°10'29.3"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -66,9 +65,16 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse près du pied, amincie vers la marge, ferme, spongieuse, blanchâtre, légèrement verdâtre sous la cuticule
+  chair: épaisse près du pied, amincie vers la marge, ferme, spongieuse, blanchâtre,
+    légèrement verdâtre sous la cuticule
   chancre: 
-  chapeau: 25-100 (135) mm Ø, semi-circulaire, flabelliforme, conchoïde à réniforme, pulviné au début, puis arrondi, convexe à étalé ou ondulé, viscidule à visqueux au début et à l'humidité, puis sec, lisse, glabre puis typiquement velouté ou duveteux avec l'âge ou au sec, fibrilleux-écailleux-apprimé, plus squamuleux vers la marge, brun ou jaune olive, brun olive, vert olive, jaune orangé, ochracé, olive rougeâtre, brun terne, gris bleuâtre, parfois orangé ou teinté de violacé, à marge enroulée à incurvée au début, puis aiguë, lobée à crénelée, striatulée
+  chapeau: 25-100 (135) mm Ø, semi-circulaire, flabelliforme, conchoïde à réniforme,
+    pulviné au début, puis arrondi, convexe à étalé ou ondulé, viscidule à visqueux
+    au début et à l'humidité, puis sec, lisse, glabre puis typiquement velouté ou
+    duveteux avec l'âge ou au sec, fibrilleux-écailleux-apprimé, plus squamuleux vers
+    la marge, brun ou jaune olive, brun olive, vert olive, jaune orangé, ochracé,
+    olive rougeâtre, brun terne, gris bleuâtre, parfois orangé ou teinté de violacé,
+    à marge enroulée à incurvée au début, puis aiguë, lobée à crénelée, striatulée
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -169,7 +175,10 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, larges vers la marge piléique, étroites vers le pied, fourchues, avec lamelles et lamellules, serrées à très serrées, crème, ochracées, orangées à fauvâtres, à arêtes entières, légèrement floconneuses, jaune ocre ou parfois légèrement violacées
+  lames: adnées à subdécurrentes, larges vers la marge piléique, étroites vers le
+    pied, fourchues, avec lamelles et lamellules, serrées à très serrées, crème, ochracées,
+    orangées à fauvâtres, à arêtes entières, légèrement floconneuses, jaune ocre ou
+    parfois légèrement violacées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -202,7 +211,8 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 5-25 x 5-20 mm Ø, rudimentaire, excentré, courbe, ferme, plein, velouté, ponctué de flocons foncés sur fond jaune safran, ochracé, orange brunâtre à brunâtre
+  pied: 5-25 x 5-20 mm Ø, rudimentaire, excentré, courbe, ferme, plein, velouté, ponctué
+    de flocons foncés sur fond jaune safran, ochracé, orange brunâtre à brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -271,3 +281,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

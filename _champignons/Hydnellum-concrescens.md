@@ -1,35 +1,35 @@
 ---
+title: Hydnellum Concrescens
+date: 2017-03-24 00:00:00 Z
 nom: Hydnellum concrescens
-date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/4/3869/15064369687_1d8ea59157_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064369687/in/photolist-pUJXXk-oXbQgR-oXbNkB
 album-flickr:
-  - 72157676753895536
-
+- 72157676753895536
 details:
   nom-francais: Hydne concrescent
   ordre: Thelephorales
   famille: Bankeraceae
   genre: Hydnellum
-  espece: <i>Hydnellum concrescens</i> (Pers.) Banker
-  litterature: Banker, H.J. 1906. A contribution to a revision of the North American Hydnaceae. Memoirs of the Torrey Botanical Club. 12:99-194
-
+  espece: "<i>Hydnellum concrescens</i> (Pers.) Banker"
+  litterature: Banker, H.J. 1906. A contribution to a revision of the North American
+    Hydnaceae. Memoirs of the Torrey Botanical Club. 12:99-194
 collections:
-  - fongarium: cKc0258
-    date: 19 septembre 2014
-    planche:
-      numero: cKc0258-0050
-      miniature: https://c2.staticflickr.com/8/7544/15693046389_522bf2a4ec_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15693046389/in/photolist-pUJXXk-oXbQgR-oXbNkB
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0258
+  date: 19 septembre 2014
+  planche:
+    numero: cKc0258-0050
+    miniature: https://c2.staticflickr.com/8/7544/15693046389_522bf2a4ec_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15693046389/in/photolist-pUJXXk-oXbQgR-oXbNkB
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
-  aiguillons: descendant sur le pied, recouvert d'aiguillons de 1-3 mm de long, d'abord blanchâtre, devenant brunâtres à brun à maturité
+  aiguillons: descendant sur le pied, recouvert d'aiguillons de 1-3 mm de long, d'abord
+    blanchâtre, devenant brunâtres à brun à maturité
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
@@ -46,7 +46,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques 3-5,5 µm de longueur, non bouclées à la base, 15-40 x 6-7 µm en moyenne
+  basides: claviformes, tétrasporiques 3-5,5 µm de longueur, non bouclées à la base,
+    15-40 x 6-7 µm en moyenne
   basidiospores: |
     globuleuses à irrégulièrement subglobuleuses, gibbeuses en étoiles (noduleuses), à paroi mince, avec appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%
     4-7 x 4-4,5 µm
@@ -70,8 +71,12 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 20-100 mm Ø, souvent fusionné avec d'autres chapeaux, plano-convex, devenant plat, souvent déprimé ou infundibuliforme, finement velouté à presque glabre, parsemé d'alvéoles et de squamules dressées, brun brunâtre à brun rosâtre, parfois pâle à presque blanchâtre, avec des zones concentriques de texture et/ou de couleur, la marge brun foncé à noir, se tachant de brun-pourpre, brun-noir à noir au froissement
-  cheilochrysocystides:
+  chapeau: 20-100 mm Ø, souvent fusionné avec d'autres chapeaux, plano-convex, devenant
+    plat, souvent déprimé ou infundibuliforme, finement velouté à presque glabre,
+    parsemé d'alvéoles et de squamules dressées, brun brunâtre à brun rosâtre, parfois
+    pâle à presque blanchâtre, avec des zones concentriques de texture et/ou de couleur,
+    la marge brun foncé à noir, se tachant de brun-pourpre, brun-noir à noir au froissement
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -80,12 +85,16 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Auparavant, quand cette espèce venait sous conifères, on la nommait <i>zonatum</i> et sous feuillius, <i>scrobiculatum</i>. Là, j'ai vu que IF les mettent synonymes, mais jusqu'à quand ? Les <i>Hydnaceae</i> semblent stricts quant à leurs partenaires symbiotiques. »
+  commentaires: De Yves Lamoureux. « Auparavant, quand cette espèce venait sous conifères,
+    on la nommait <i>zonatum</i> et sous feuillius, <i>scrobiculatum</i>. Là, j'ai
+    vu que IF les mettent synonymes, mais jusqu'à quand ? Les <i>Hydnaceae</i> semblent
+    stricts quant à leurs partenaires symbiotiques. »
   conidies: 
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: épais, rosâtre à brunâtre, souvent zoné d'orange brunâtre à brun rougeâtre foncé, coriace-fibreux, mais souple
+  contexte: épais, rosâtre à brunâtre, souvent zoné d'orange brunâtre à brun rougeâtre
+    foncé, coriace-fibreux, mais souple
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -206,7 +215,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 20-40 mm x 5-20 mm Ø à l'apex, souvent gonflé et velouté ou spongieux, surtout vers la base
+  pied: 20-40 mm x 5-20 mm Ø à l'apex, souvent gonflé et velouté ou spongieux, surtout
+    vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -232,8 +242,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -270,7 +280,12 @@ description:
     <i>Hydnellum parvum</i> Banker, Mycologia 5 (4):200 (1913)
     <i>Hydnum spathulatum</i> Lloyd, Mycological Writings 6 (61):878 (1919)
     <i>Hydnellum subsuccosum</i> K.A. Harrison, Canadian Journal of Botany 42 (9):1228 (1964)
-  systeme-hyphal: monomitique, hyphes génératrices du contexte piléique emmêlées sous la surface, parallèles plus en profondeur, non renflées, septées-simples, jusqu'à 5 µm Ø, avec hyphes gléoplères jusqu'à 6,3 µm Ø, hyphes du contexte caulinaire emmêlées sous la surface, parallèles au centre, septées-simples, jusqu'à 6,3 µm Ø, avec hyphes gléoplères jusqu'à 6,3 µm Ø, hyphes de la trame des aiguillons non renflées, septées-simples, jusqu'à 5 µm Ø
+  systeme-hyphal: monomitique, hyphes génératrices du contexte piléique emmêlées sous
+    la surface, parallèles plus en profondeur, non renflées, septées-simples, jusqu'à
+    5 µm Ø, avec hyphes gléoplères jusqu'à 6,3 µm Ø, hyphes du contexte caulinaire
+    emmêlées sous la surface, parallèles au centre, septées-simples, jusqu'à 6,3 µm
+    Ø, avec hyphes gléoplères jusqu'à 6,3 µm Ø, hyphes de la trame des aiguillons
+    non renflées, septées-simples, jusqu'à 5 µm Ø
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 
@@ -285,3 +300,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

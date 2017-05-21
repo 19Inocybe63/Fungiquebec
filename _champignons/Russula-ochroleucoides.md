@@ -1,31 +1,29 @@
 ---
+title: Russula Ochroleucoides
+date: 2017-03-27 00:00:00 Z
 nom: Russula ochroleucoides
-date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
-  - 72157675938639090
-
+- 72157675938639090
 details:
   nom-francais: Russule fausse-ochroleuca
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula ochroleucoides</i> Kauffman
+  espece: "<i>Russula ochroleucoides</i> Kauffman"
   litterature: Kauffman, C.H. 1917. Tennessee and Kentucky fungi. Mycologia. 9(3):159-166
-
 collections:
-  - fongarium: cKc0535
-    date: 10 août 2016
-    planche:
-      numero: cKc0535-0161
-      miniature: https://c2.staticflickr.com/4/3776/33380044122_960b8841a6_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/33380044122/in/photolist-SRFsb7-L2hbRK-K5Jnyo-K5JcvN/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0535
+  date: 10 août 2016
+  planche:
+    numero: cKc0535-0161
+    miniature: https://c2.staticflickr.com/4/3776/33380044122_960b8841a6_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/33380044122/in/photolist-SRFsb7-L2hbRK-K5Jnyo-K5JcvN/
+  geolocalisation: 
+  elevation: 
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +35,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac</i> ; (<i>soluté de gaïac</i>), 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+  articles: "<b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées
+    par la réaction au soluté alcoolique officinal de résine de gaïac</i> ; (<i>soluté
+    de gaïac</i>), 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -47,7 +46,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à largement claviformes, tétrasporiques, avec stérigmates jusqu'à 9 (9,2) µm de longueur, non bouclées à la base, (40,5) 44,5 - 48,5 (49) × (9,9) 10,3 - 13,2 (14,7) µm en moyenne
+  basides: claviformes à largement claviformes, tétrasporiques, avec stérigmates jusqu'à
+    9 (9,2) µm de longueur, non bouclées à la base, (40,5) 44,5 - 48,5 (49) × (9,9)
+    10,3 - 13,2 (14,7) µm en moyenne
   basidiospores: |
     globuleuses en vue frontale, subglobuleuses vues de profil, finement à moyennement verruqueuses, avec réticulum partiel sur 80% de la surface environ, à paroi mince, à contenu uniguttulé, avec proéminences jusqu’à 1,0 (1,3) µm de hauteur, hyalines dans E.G. 20%, amyloïdes
     (6,8) 7,2 - 8,3 (9,1) × (5,9) 6,3 - 7,8 (8) µm
@@ -74,9 +75,12 @@ description:
   cellules-stromatiques: 
   chair: ferme et immuable au grattage ou à la coupe
   chancre: 
-  chapeau: 102 mm Ø, pruineux, sec, jaune à jaune orangé, cuticule inséparable de la chair
-  cheilochrysocystides:
-  cheilocystides: nombreuses, cylindriques à longuement fusiformes, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-), (61,5) 70,7 - 92 (93,2) × (7,4) 7,7 - 10,1 (10,8) µm en moyenne
+  chapeau: 102 mm Ø, pruineux, sec, jaune à jaune orangé, cuticule inséparable de
+    la chair
+  cheilochrysocystides: 
+  cheilocystides: nombreuses, cylindriques à longuement fusiformes, à contenu pailleté,
+    sulfobenzaldéhyde négatif (SBA-), (61,5) 70,7 - 92 (93,2) × (7,4) 7,7 - 10,1 (10,8)
+    µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -84,7 +88,10 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Kibby indique (dans <i>Keys to the species of Russula in Northeastern North America</i>) que les piléocystides sont faiblement sulfovanillines (SV+). Pour ma part, les hyménocystides et les dermatocystides sont sulfovanillines négatives (SV-) et sulfobenzaldéhydes négatifs (SBA-). »
+  commentaires: De Claude Kaufholtz-Couture. « Kibby indique (dans <i>Keys to the
+    species of Russula in Northeastern North America</i>) que les piléocystides sont
+    faiblement sulfovanillines (SV+). Pour ma part, les hyménocystides et les dermatocystides
+    sont sulfovanillines négatives (SV-) et sulfobenzaldéhydes négatifs (SBA-). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -177,7 +184,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, cunéiformes, dont les sinus sont interveinés (voir remarque) ; blanches à crème, sans lamelles ni lamellules, avec quelques furcations à la base du pied
+  lames: adnées, serrées, cunéiformes, dont les sinus sont interveinés (voir remarque)
+    ; blanches à crème, sans lamelles ni lamellules, avec quelques furcations à la
+    base du pied
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -213,12 +222,18 @@ description:
   pied: 60 x 21 mm Ø, égal, très ferme, plein, blanc avec des teintes jaunes
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches ; 1e) couche supérieure en tomentum formé d'éléments dressés, arrondis à subaigus à l'apex, certains flexueux, hyalins, et de piléocystides ; 2e) couche formé d’hyphes en cutis
+  pileipellis: en deux couches ; 1e) couche supérieure en tomentum formé d'éléments
+    dressés, arrondis à subaigus à l'apex, certains flexueux, hyalins, et de piléocystides
+    ; 2e) couche formé d’hyphes en cutis
   pileitrame: 
-  pileocystides: peu nombreuses, cylindriques, claviformes à subclaviformes, ochracées, réfringentes dans le KOH 5%, sulfobenzaldéhyde négatif (SBA-), jusqu'à 100-130 x 7-8 µm en moyenne
+  pileocystides: peu nombreuses, cylindriques, claviformes à subclaviformes, ochracées,
+    réfringentes dans le KOH 5%, sulfobenzaldéhyde négatif (SBA-), jusqu'à 100-130
+    x 7-8 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, longuement fusiformes, parfois avec apex mucroné à rarement rostrés, lancéolées à sublancéolées, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-) (84,3) 90,7 - 142,2 (154,1) × (9,7) 10,1 - 11,7 (14,1) µm en moyenne
+  pleurocystides: nombreuses, longuement fusiformes, parfois avec apex mucroné à rarement
+    rostrés, lancéolées à sublancéolées, à contenu pailleté, sulfobenzaldéhyde négatif
+    (SBA-) (84,3) 90,7 - 142,2 (154,1) × (9,7) 10,1 - 11,7 (14,1) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -254,8 +269,10 @@ description:
     Soluté de gaïac = > 5" stipe + b (1, faible) ; > 5" lames + b (1, faible)
     Sulfate de fer (FeSO<SUB>4</SUB>) = chair rosé très pâle
   receptacle: 
-  remarques: |
-    Veines ou bourrelets formés au niveau des sinus, au fond des vallécules interlamellaires et reliant les lames au niveau de leur base.
+  remarques: 'Veines ou bourrelets formés au niveau des sinus, au fond des vallécules
+    interlamellaires et reliant les lames au niveau de leur base.
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -264,7 +281,9 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ib à pallidosporée IIa, (en tas), blanchâtre à crème pâle, d'après la charte de couleurs de Romagnesi ; A-B (C) d'après la charte de couleurs de Kibby
+  sporee: leucosporée Ib à pallidosporée IIa, (en tas), blanchâtre à crème pâle, d'après
+    la charte de couleurs de Romagnesi ; A-B (C) d'après la charte de couleurs de
+    Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -289,3 +308,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,30 @@
 ---
+title: Melanoleuca Brevipes
+date: 2017-03-25 00:00:00 Z
 nom: Melanoleuca brevipes
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7783/29832926531_677fe9d14b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832926531/in/photolist-MwuSm1-MwuPD7-MsexGg
 album-flickr:
-  - 72157675684849236
-
+- 72157675684849236
 details:
   nom-francais: Mélanoleuque à pied court
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Melanoleuca
-  espece: <i>Melanoleuca brevipes</i> (Bull.) Pat.
-  litterature: Patouillard, N. 1900. Essai taxonomique sur les familles et les genres des Hyménomycètes. :1-184
-
+  espece: "<i>Melanoleuca brevipes</i> (Bull.) Pat."
+  litterature: Patouillard, N. 1900. Essai taxonomique sur les familles et les genres
+    des Hyménomycètes. :1-184
 collections:
-  - fongarium: cKc0560
-    date: 24 septembre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0560
+  date: 24 septembre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -271,3 +270,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

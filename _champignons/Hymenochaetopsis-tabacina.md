@@ -1,31 +1,31 @@
 ---
+title: Hymenochaetopsis Tabacina
+date: 2017-03-25 00:00:00 Z
 nom: Hymenochaetopsis tabacina
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/713/20474978959_f2ee0c486a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20474978959/in/photolist-xciBUB-xsZTzN
 album-flickr:
-  - 72157674431474104
-
+- 72157674431474104
 details:
   nom-francais: Stérée tabac
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Hymenochaetopsis
-  espece: <i>Hymenochaetopsis tabacina</i> S. H. He & Jiao Yang
-  litterature: Yang, J; Dai L.D; He, S.H. 2016. Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China. Mycological Progress. 15(2/13):1-8
-
+  espece: "<i>Hymenochaetopsis tabacina</i> S. H. He & Jiao Yang"
+  litterature: Yang, J; Dai L.D; He, S.H. 2016. Hymenochaetopsis nom. nov. proposed
+    to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of
+    H. laricicola sp. nov and H. gigasetosa new to China. Mycological Progress. 15(2/13):1-8
 collections:
-  - fongarium: cKc0413
-    date: 17 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0413
+  date: 17 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +37,10 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Yang, Jiao ; Dai, Li-Dan ; He, Shuang-Hui</b>. <i>Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China</i>, Mycological Progress, February 2016
+  articles: "<b>Yang, Jiao ; Dai, Li-Dan ; He, Shuang-Hui</b>. <i>Hymenochaetopsis
+    nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with
+    descriptions of H. laricicola sp. nov and H. gigasetosa new to China</i>, Mycological
+    Progress, February 2016\n"
   ascome: 
   ascospores: 
   asques: 
@@ -50,7 +52,10 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: annuel, résupiné lorsque croissant sous un substrat horizontal, formant alors des croûtes minces, coriaces d'un à plusieurs mm Ø, au début constitué d'une tache arrondie qui se fusionne ensuite aux voisines pour former de grandes plaques ± discontinues, semipiléé ou piléé sur support vertical
+  basidiome: annuel, résupiné lorsque croissant sous un substrat horizontal, formant
+    alors des croûtes minces, coriaces d'un à plusieurs mm Ø, au début constitué d'une
+    tache arrondie qui se fusionne ensuite aux voisines pour former de grandes plaques
+    ± discontinues, semipiléé ou piléé sur support vertical
   bibliographies: 
   biotopes: pousse sur bois mort de feuillus
   boucles: 
@@ -69,8 +74,11 @@ description:
   cellules-stromatiques: 
   chair: consistance coriace, mais le sporocarpe se dechire assez facilement
   chancre: 
-  chapeau: jusqu'à 10 mm de projection de quelques mm de largeur, parfois fusionnés latéralement, étalé, arrondi, puis confluent et ordinairement réflechi, coriace, mince, flasque, satiné, tomenteux, rouille clair à marron, zoné de fauve et bordé de jaune doré, surface pileique feutrée, orange-brun, puis gris-brun
-  cheilochrysocystides:
+  chapeau: jusqu'à 10 mm de projection de quelques mm de largeur, parfois fusionnés
+    latéralement, étalé, arrondi, puis confluent et ordinairement réflechi, coriace,
+    mince, flasque, satiné, tomenteux, rouille clair à marron, zoné de fauve et bordé
+    de jaune doré, surface pileique feutrée, orange-brun, puis gris-brun
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -145,7 +153,10 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: lisse, irrégulièrement tuberculée, verruqueuse à finement craquelée mat, finement feutré, couvert de soies émergentes visibles (loupe), ± zoné circulairement par rapport au point d'attache, brun tabac à brun rouille, brun café en séchant, blanchâtre à jaune pâle à la marge
+  hymenophore: lisse, irrégulièrement tuberculée, verruqueuse à finement craquelée
+    mat, finement feutré, couvert de soies émergentes visibles (loupe), ± zoné circulairement
+    par rapport au point d'attache, brun tabac à brun rouille, brun café en séchant,
+    blanchâtre à jaune pâle à la marge
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -231,11 +242,12 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = noire sur toutes les parties
+  reactions-macrochimiques: 'Potasse (KOH 10%) = noire sur toutes les parties
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -276,3 +288,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

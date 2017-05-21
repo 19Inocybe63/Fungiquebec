@@ -1,31 +1,30 @@
 ---
+title: Xeromphalina Campanella
+date: 2017-03-23 00:00:00 Z
 nom: Xeromphalina campanella
-date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/9/8379/8613638912_3aa70ccb99_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8613638912/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
 album-flickr:
-  - 72157671696579223
-
+- 72157671696579223
 details:
   nom-francais: Omphale en clochette
   ordre: Agaricales
   famille: Mycenaceae
   genre: Xeromphalina
-  espece: <i>Xeromphalina campanella</i> (Batsch) Kühner & Maire
-  litterature: Konrad & Maublanc, Icones selectae Fungorum, 6 Texte general 6, 284 (1934)
-
+  espece: "<i>Xeromphalina campanella</i> (Batsch) Kühner & Maire"
+  litterature: Konrad & Maublanc, Icones selectae Fungorum, 6 Texte general 6, 284
+    (1934)
 collections:
-  - fongarium: cKc0030
-    date: 20 octobre 2012
-    planche:
-      numero: cKc0030-0112
-      miniature: https://c2.staticflickr.com/2/1717/24131617093_209d92450f_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/24131617093/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
-    geolocalisation: 46°48'40.46"N 71°21'30.15"O
-    elevation: 75 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0030
+  date: 20 octobre 2012
+  planche:
+    numero: cKc0030-0112
+    miniature: https://c2.staticflickr.com/2/1717/24131617093_209d92450f_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/24131617093/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
+  geolocalisation: 46°48'40.46"N 71°21'30.15"O
+  elevation: 75 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -65,7 +64,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: clavées, fusiformes rarement difformes, à paroi mince, 25-40 (75) x (8.5) 11-15 µm
+  caulocystides: clavées, fusiformes rarement difformes, à paroi mince, 25-40 (75)
+    x (8.5) 11-15 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -75,8 +75,12 @@ description:
   cellules-stromatiques: 
   chair: mince, flexible, jaunâtre orangée à brunâtre
   chancre: 
-  chapeau: 3-25 mm Ø, convexe à largement convexe, déprimé au centre, ombiliqué, graisseux, lisse, subhygrophane, jaune-brun, brun orangé à rouille orangé vers le centre au début, puis brun orangé à brun cannelle, jaunâtre à jaune ocre vers le bord, à marge enroulée au début, translucide-striée jusqu'aux ¾ du rayon à l'humidité
-  cheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, cylindriques à largement cylindriques, lagéniformes, à paroi mince, 2 9-55 X 6.0-13,5 µm
+  chapeau: 3-25 mm Ø, convexe à largement convexe, déprimé au centre, ombiliqué, graisseux,
+    lisse, subhygrophane, jaune-brun, brun orangé à rouille orangé vers le centre
+    au début, puis brun orangé à brun cannelle, jaunâtre à jaune ocre vers le bord,
+    à marge enroulée au début, translucide-striée jusqu'aux ¾ du rayon à l'humidité
+  cheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, cylindriques
+    à largement cylindriques, lagéniformes, à paroi mince, 2 9-55 X 6.0-13,5 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -135,7 +139,6 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -176,7 +179,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: arquées, décurrentes, parfois fourchues, interveinées, avec lamelles et lamellules, subespacées à serrées, crème jaunâtre, orangé à ocre brunâtre, à arêtes entières
+  lames: arquées, décurrentes, parfois fourchues, interveinées, avec lamelles et lamellules,
+    subespacées à serrées, crème jaunâtre, orangé à ocre brunâtre, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -208,14 +212,18 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 10-50 x 1-3 mm Ø, cylindrique, légèrement élargi vers la base, parfois subbulbeux, souvent courbe, cartilagineux, creux, pruineux puis glabre, lisse, souvent luisant, jaunâtre vers l'apex, brun foncé à brun rougeâtre vers la base, tomenteux fauve brillant, orangé à rouille à la base
+  pied: 10-50 x 1-3 mm Ø, cylindrique, légèrement élargi vers la base, parfois subbulbeux,
+    souvent courbe, cartilagineux, creux, pruineux puis glabre, lisse, souvent luisant,
+    jaunâtre vers l'apex, brun foncé à brun rougeâtre vers la base, tomenteux fauve
+    brillant, orangé à rouille à la base
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: occasionnelles à rares, présentes surtout près de l'arête lamellaire, semblable aux cheilocystides
+  pleurocystides: occasionnelles à rares, présentes surtout près de l'arête lamellaire,
+    semblable aux cheilocystides
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -232,8 +240,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>AntonÍn, Vladimir, ; Noordeloos, Machiel E</b>. <i>A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in Europe with 65 figures and 57 colored plates</i>, IHW Verlag, 2004, 279 p.
+  publications: "<b>AntonÍn, Vladimir, ; Noordeloos, Machiel E</b>. <i>A monograph
+    of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena,
+    Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in
+    Europe with 65 figures and 57 colored plates</i>, IHW Verlag, 2004, 279 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -241,7 +251,9 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Miller indique la présence occasionnelle de piléocystides pour <i>X. campanella</i>, (Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188) ; pour ma part, je n'en ai pas observé dans cette collection.
+  remarques: Miller indique la présence occasionnelle de piléocystides pour <i>X.
+    campanella</i>, (Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188) ; pour
+    ma part, je n'en ai pas observé dans cette collection.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -275,3 +287,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

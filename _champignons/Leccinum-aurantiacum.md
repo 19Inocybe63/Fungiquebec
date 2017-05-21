@@ -1,31 +1,29 @@
 ---
+title: Leccinum Aurantiacum
+date: 2017-03-25 00:00:00 Z
 nom: Leccinum aurantiacum
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5714/20740537014_8d15c5fb89_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20740537014/in/photolist-ywQRi9-xALF4L
 album-flickr:
-  - 72157676777053822
-
+- 72157676777053822
 details:
   nom-francais: Bolet orangé
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinum
-  espece: <i>Leccinum aurantiacum</i> (Bull.) Gray
+  espece: "<i>Leccinum aurantiacum</i> (Bull.) Gray"
   litterature: Gray, S.F. 1821. A natural arrangement of British plants. 1:1-824
-
 collections:
-  - fongarium: cKc0459
-    date: 12 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0459
+  date: 12 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +66,9 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche devenant rosé gris puis noirâtre à la coupe
   chancre: 
-  chapeau: 86 mm Ø, convexe, dans les teintes d'orangé terne, pâle, avec une bande étroite à large de tissu débordant de la marge
-  cheilochrysocystides:
+  chapeau: 86 mm Ø, convexe, dans les teintes d'orangé terne, pâle, avec une bande
+    étroite à large de tissu débordant de la marge
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -204,7 +203,8 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 138 x 23 mm Ø, cylindrique à claviforme, ferme, plein, sec, orné de rugosités brun rougeâtre à noirâtres, avec des reflets bleu vert à la base
+  pied: 138 x 23 mm Ø, cylindrique à claviforme, ferme, plein, sec, orné de rugosités
+    brun rougeâtre à noirâtres, avec des reflets bleu vert à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,8 +239,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = bleu très pâle sur la chair
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<sub>4</sub>) = bleu très pâle sur
+    la chair
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -277,7 +279,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: adnés puis déprimés autour du pied, blanchâtre, brunissant à maturité, assez long
+  tubes: adnés puis déprimés autour du pied, blanchâtre, brunissant à maturité, assez
+    long
   type: 
   typique: 
   voile: 
@@ -286,3 +289,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

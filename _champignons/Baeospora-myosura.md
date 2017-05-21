@@ -1,31 +1,30 @@
 ---
+title: Baeospora Myosura
+date: 2017-03-17 00:00:00 Z
 nom: Baeospora myosura
-date: 2017-03-17 00:00:00
 image: https://c1.staticflickr.com/9/8453/8042774343_50f59b2d29_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8042774343/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
 album-flickr:
-  - 72157673847377150
-
+- 72157673847377150
 details:
   nom-francais: Collybie queue de souris
   ordre: Agaricales
   famille: Marasmiaceae
   genre: Baeospora
-  espece: <i>Baeospora myosura</i> (Fr.) Singer
-  litterature: Singer, R. 1938. Notes sur quelques Basidiomycetes. Revue de Mycologie. 3, 187-199
-
+  espece: "<i>Baeospora myosura</i> (Fr.) Singer"
+  litterature: Singer, R. 1938. Notes sur quelques Basidiomycetes. Revue de Mycologie.
+    3, 187-199
 collections:
-  - fongarium: cKc0022
-    date: 30 septembre 2012
-    planche:
-      numero: cKc0022-0026
-      miniature: https://c1.staticflickr.com/9/8542/8676927112_d96e74b518_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8676927112/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
-    geolocalisation: 46°54'03.96"N 71°10'40.83"O
-    elevation: 145 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0022
+  date: 30 septembre 2012
+  planche:
+    numero: cKc0022-0026
+    miniature: https://c1.staticflickr.com/9/8542/8676927112_d96e74b518_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8676927112/in/photolist-dfHiQR-e89wmC-edKw8A-dfHjBa
+  geolocalisation: 46°54'03.96"N 71°10'40.83"O
+  elevation: 145 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -44,7 +43,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à claviformes, bisporiques à tétrasporiques, bouclées à la base, 12-14 x 3-4 µm
+  basides: cylindriques à claviformes, bisporiques à tétrasporiques, bouclées à la
+    base, 12-14 x 3-4 µm
   basidiospores: |
     ellipsoïdes à ovoïdes, lisses, à paroi légèrement épaissie, entre 0,4-0,5 µm, avec appendice hilaire, à contenu homogène, hyalines dans le NH<SUB>4</SUB>OH 2%, faiblement amyloïdes, faiblement cyanophiles
     3,3 [3,7; 3,8] 4,1 x 2 [2,5; 2,7] 3,1 µm
@@ -69,8 +69,12 @@ description:
   cellules-stromatiques: 
   chair: très mince, blanchâtre
   chancre: 
-  chapeau: 5-20 (30) mm Ø, convexe puis étalé-mamelonné, sec à légèrement humide, glabre à très légèrement soyeux, lisse, hygrophane, brun ou beige, un peu plus foncé au centre, pâlissant remarquablement à chamois depuis le pourtour, à marge unie à très légèrement sillonnée à maturité
-  cheilocystides: polymorphes, abondantes, cylindriques, lagéniformes, fusiformes à largement fusiformes, parfois piriformes, 19-30 x 5-9 µm
+  chapeau: 5-20 (30) mm Ø, convexe puis étalé-mamelonné, sec à légèrement humide,
+    glabre à très légèrement soyeux, lisse, hygrophane, brun ou beige, un peu plus
+    foncé au centre, pâlissant remarquablement à chamois depuis le pourtour, à marge
+    unie à très légèrement sillonnée à maturité
+  cheilocystides: polymorphes, abondantes, cylindriques, lagéniformes, fusiformes
+    à largement fusiformes, parfois piriformes, 19-30 x 5-9 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -121,13 +125,12 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
-  exhalaison: 
+  exhalaison: indistincte
   excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -168,7 +171,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, étroites, très serrées, blanchâtres à beige pâle, tachant parfois de brunâtres
+  lames: adnexées, étroites, très serrées, blanchâtres à beige pâle, tachant parfois
+    de brunâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -200,10 +204,12 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 10-50 x 1-2 mm Ø, égal, finement poudreux à pubescent, blanchâtre à brunâtre, avec rhizomorphes basaux distincts
+  pied: 10-50 x 1-2 mm Ø, égal, finement poudreux à pubescent, blanchâtre à brunâtre,
+    avec rhizomorphes basaux distincts
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis mince, formé d'éléments cylindriques bouclés, 4-14 µm Ø, et d'un subpellis subcellulaire
+  pileipellis: en cutis mince, formé d'éléments cylindriques bouclés, 4-14 µm Ø, et
+    d'un subpellis subcellulaire
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -274,3 +280,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

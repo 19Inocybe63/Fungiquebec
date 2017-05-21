@@ -1,41 +1,40 @@
 ---
+title: Marasmius Pulcherripes
+date: 2017-03-25 00:00:00 Z
 nom: Marasmius pulcherripes
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3898/14937584416_30a6aeecf8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14937584416/in/photolist-ovww45-fdnUT4-fdC9HL-oKZ2qU
 album-flickr:
-  - 72157675493594446
-
+- 72157675493594446
 details:
   nom-francais: Marasme à beau pied
   ordre: Agaricales
   famille: Marasmiaceae
   genre: Marasmius
-  espece: <i>Marasmius pulcherripes</i> Peck
-  litterature: Peck, C.H. 1872. Report of the Botanist (1870). Annual Report on the New York State Museum of Natural History. 24:41-108
-
+  espece: "<i>Marasmius pulcherripes</i> Peck"
+  litterature: Peck, C.H. 1872. Report of the Botanist (1870). Annual Report on the
+    New York State Museum of Natural History. 24:41-108
 collections:
-  - fongarium: cKc0089
-    date: 20 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0204
-    date: 18 août 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0089
+  date: 20 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0204
+  date: 18 août 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -47,8 +46,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Gilliam, Martina S</b>. <i>The genus Marasmius in the Northeastern United States and adjacent Canada</i>, Mycotaxon, vol. IV, No. 1, pp. 1-144, July-Sep., 1976, 73 p.
+  articles: "<b>Gilliam, Martina S</b>. <i>The genus Marasmius in the Northeastern
+    United States and adjacent Canada</i>, Mycotaxon, vol. IV, No. 1, pp. 1-144, July-Sep.,
+    1976, 73 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -79,7 +79,11 @@ description:
   cellules-stromatiques: 
   chair: très mince, fragile, blanche
   chancre: 
-  chapeau: 3-20 mm Ø, conique-obtus à campanulé à conique-convexe à campanulé jeune, papillé à umboné, largement convexe-umboné, étalé-umboné à convexe-étalé, membraneux, délicat, sec, finement granuleux-rugueux, vite strié, finement velouté, rose jaunâtre modéré ou foncé, orange rougeâtre-grisâtre, orange brunâtre, souvent plus foncé au disque, à marge droite ou non, entière à crénelée
+  chapeau: 3-20 mm Ø, conique-obtus à campanulé à conique-convexe à campanulé jeune,
+    papillé à umboné, largement convexe-umboné, étalé-umboné à convexe-étalé, membraneux,
+    délicat, sec, finement granuleux-rugueux, vite strié, finement velouté, rose jaunâtre
+    modéré ou foncé, orange rougeâtre-grisâtre, orange brunâtre, souvent plus foncé
+    au disque, à marge droite ou non, entière à crénelée
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -87,7 +91,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Le pied pourpré à l'apex est une caratéristique de l'espèce. »
+  commentaires: De Yves Lamoureux. « Le pied pourpré à l'apex est une caratéristique
+    de l'espèce. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -119,7 +124,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnel à commun 
+  distribution: occasionnel à commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -180,7 +185,10 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à libres, rarement avec un collarium, espacées, blanches ou rosâtres, minces, non fourchues ni interveinées, souvent rose jaunâtre pâle ou gris rosâtre au début, vite blanches ou presque, à arêtes entières ou parfois serrulées à dentées, parfois finement tachées de brun
+  lames: adnées à libres, rarement avec un collarium, espacées, blanches ou rosâtres,
+    minces, non fourchues ni interveinées, souvent rose jaunâtre pâle ou gris rosâtre
+    au début, vite blanches ou presque, à arêtes entières ou parfois serrulées à dentées,
+    parfois finement tachées de brun
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -213,7 +221,14 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 16-63 x 2-6 mm Ø, cylindrique, centré, égal à légèrement élargi vers l'apex, comprimé, droit ou courbe, souvent flexueux, rigide, creux, sec, glabre, brillant, opaque, entièrement rose modéré ou foncé, rouge grisâtre, rose jaunâtre-grisâtre ou brun jaunâtre pâle au début et plus tard à l'apex seulement, devenant jaune grisâtre, jaune orangé foncé, brun jaunâtre pâle, brun rougeâtre modéré ou foncé ou brun noirâtre vers la base, progressivement puis foncé depuis la base, avec mycélium basal feutré, blanc ou parfois blanc grisâtre, s'étendant rarement autour du substrat, sans rhizomorphes
+  pied: 16-63 x 2-6 mm Ø, cylindrique, centré, égal à légèrement élargi vers l'apex,
+    comprimé, droit ou courbe, souvent flexueux, rigide, creux, sec, glabre, brillant,
+    opaque, entièrement rose modéré ou foncé, rouge grisâtre, rose jaunâtre-grisâtre
+    ou brun jaunâtre pâle au début et plus tard à l'apex seulement, devenant jaune
+    grisâtre, jaune orangé foncé, brun jaunâtre pâle, brun rougeâtre modéré ou foncé
+    ou brun noirâtre vers la base, progressivement puis foncé depuis la base, avec
+    mycélium basal feutré, blanc ou parfois blanc grisâtre, s'étendant rarement autour
+    du substrat, sans rhizomorphes
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -238,8 +253,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Noordeloos, Machiel E</b>. <i>Marasmius: Key to the sections in Europe</i>.
+  publications: "<b>Noordeloos, Machiel E</b>. <i>Marasmius: Key to the sections in
+    Europe</i>.\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -261,8 +276,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Chamaeceras pulcherripes</i> (Peck) Kuntze, Revisio generum plantarum 3:456 (1898)
+  synonymie: "<i>Chamaeceras pulcherripes</i> (Peck) Kuntze, Revisio generum plantarum
+    3:456 (1898)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -278,3 +293,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

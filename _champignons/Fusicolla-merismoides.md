@@ -1,31 +1,32 @@
 ---
+title: Fusicolla Merismoides
+date: 2017-03-23 00:00:00 Z
 nom: Fusicolla merismoides
-date: 2017-03-23 00:00:00
 image: https://c1.staticflickr.com/9/8535/8870357399_d0722d4a0f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8870357399/in/photolist-eQTXzm-evQUdx-evUfJY
 album-flickr:
-  - 72157672191005783
-
+- 72157672191005783
 details:
   nom-francais: 
   ordre: Hypocreales
   famille: Nectriaceae
   genre: Fusicolla
-  espece: <i>Fusicolla merismoides</i> (Corda) Gräfenhan, Seifert & Schroers
-  litterature: Gräfenhan, T.; Schroers, H.-J.; Nirenberg, H.I.; Seifert, K.A. 2011. An overview of the taxonomy, phylogeny and typification of some nectriaceous fungi classifed in Cosmospora, Acremonium, Fusarium, Stilbella and Volutella. Studies in Mycology. 68:79-113
-
+  espece: "<i>Fusicolla merismoides</i> (Corda) Gräfenhan, Seifert & Schroers"
+  litterature: Gräfenhan, T.; Schroers, H.-J.; Nirenberg, H.I.; Seifert, K.A. 2011.
+    An overview of the taxonomy, phylogeny and typification of some nectriaceous fungi
+    classifed in Cosmospora, Acremonium, Fusarium, Stilbella and Volutella. Studies
+    in Mycology. 68:79-113
 collections:
-  - fongarium: sans numéro
-    date: 28 mai 2013
-    planche:
-      numero: cKcÉTUDE0029
-      miniature: https://c2.staticflickr.com/6/5458/9085967458_0a71f89d94_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/9085967458/in/photolist-eQTXzm-evQUdx-evUfJY
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 28 mai 2013
+  planche:
+    numero: cKcÉTUDE0029
+    miniature: https://c2.staticflickr.com/6/5458/9085967458_0a71f89d94_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/9085967458/in/photolist-eQTXzm-evQUdx-evUfJY
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -76,13 +77,18 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Le champignon produit une gaine visqueuse blanche puis rose à orangée sur le substrat dans laquelle les périthèces peuvent être entièrement ou partiellement immergés. <i>F. merismoides</i>, de la famille des Nectriaceae, est souvent considéré comme le champignon visqueux orange des arbres. Il fait partie d'un complexe de nombreuses espèces phylogénétiques. »
+  commentaires: De Claude Kaufholtz-Couture. « Le champignon produit une gaine visqueuse
+    blanche puis rose à orangée sur le substrat dans laquelle les périthèces peuvent
+    être entièrement ou partiellement immergés. <i>F. merismoides</i>, de la famille
+    des Nectriaceae, est souvent considéré comme le champignon visqueux orange des
+    arbres. Il fait partie d'un complexe de nombreuses espèces phylogénétiques. »
   conidies: |
     de deux types ;
     1) macroconidies falciformes, de type Fusarium, septées, formées sur les phialides
     2) microconidies ellipsoïdes à allantoïdes, formées directement sur les hyphes
   conidiome: 
-  conidiophores: phialides cylindriques à subulées, formant des macroconidies aux extrémités
+  conidiophores: phialides cylindriques à subulées, formant des macroconidies aux
+    extrémités
   consistance: 
   contexte: 
   cordons-myceliens: 
@@ -238,8 +244,9 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Pas de collection de ce spécimen, seulement une étude, cKcÉtude0029.
+  remarques: 'Pas de collection de ce spécimen, seulement une étude, cKcÉtude0029.
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -257,8 +264,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Fusarium merismoides</i> Corda, Icones fungorum hucusque cognitorum 2:4, t. 8:16 (1838)
+  synonymie: "<i>Fusarium merismoides</i> Corda, Icones fungorum hucusque cognitorum
+    2:4, t. 8:16 (1838)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -274,3 +281,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

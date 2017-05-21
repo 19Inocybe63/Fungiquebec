@@ -1,41 +1,39 @@
 ---
+title: Daedalea Quercina
+date: 2017-03-20 00:00:00 Z
 nom: Daedalea quercina
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/4/3930/15461315042_c12164c798_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461315042/in/photolist-pK1eva-pyghih-pwfJKU
 album-flickr:
-  - 72157673932255201
-
+- 72157673932255201
 details:
   nom-francais: Dédalée du chêne ou Lenzite du chêne
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Daedalea
-  espece: <i>Daedalea quercina</i> (L.) Pers.
+  espece: "<i>Daedalea quercina</i> (L.) Pers."
   litterature: Persoon, C.H. 1801. Synopsis methodica fungorum. :1-706
-
 collections:
-  - fongarium: cKc0294
-    date: 6 octobre 2014
-    planche:
-      numero: cKc0294-0042
-      miniature: https://c2.staticflickr.com/4/3952/15582860415_52b76245e9_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15582860415/in/photolist-pK1eva-pyghih-pwfJKU
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0494
-    date: 3 juin 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0294
+  date: 6 octobre 2014
+  planche:
+    numero: cKc0294-0042
+    miniature: https://c2.staticflickr.com/4/3952/15582860415_52b76245e9_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15582860415/in/photolist-pK1eva-pyghih-pwfJKU
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0494
+  date: 3 juin 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -65,7 +63,8 @@ description:
   basidioles: 
   basidiome: pérenne, sessile, tenace, subéreux à ligneux-dur, fortement adné
   bibliographies: 
-  biotopes: pousse sur bois vivant de feuillus, <i>Quercus</i> surtout, souvent sur bois très dur
+  biotopes: pousse sur bois vivant de feuillus, <i>Quercus</i> surtout, souvent sur
+    bois très dur
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -82,7 +81,14 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 200 mm de longueur, 150 mm de largeur, 80 mm d'épaisseur à la base, largement attaché à dimidié, semi-circulaire à ongulé, aplani à triquètre, légèrement convexe, souvent légèrement bombée vers la base, amincie vers la marge, finement velouté à glabre, parfois avec touffes d'hyphes dressées, nodules, verrues dispersées et excroissances aiguës nouvellement formées, zoné et sillonné concentriquement, chamois à brun pâle, brunâtre plus foncé à grisâtre vers la base avec l'âge, verdâtre chez les vieux spécimens, ochracé pâle, depuis la base, à marge épaisse, obtuse, souvent lisse, ochracée
+  chapeau: jusqu'à 200 mm de longueur, 150 mm de largeur, 80 mm d'épaisseur à la base,
+    largement attaché à dimidié, semi-circulaire à ongulé, aplani à triquètre, légèrement
+    convexe, souvent légèrement bombée vers la base, amincie vers la marge, finement
+    velouté à glabre, parfois avec touffes d'hyphes dressées, nodules, verrues dispersées
+    et excroissances aiguës nouvellement formées, zoné et sillonné concentriquement,
+    chamois à brun pâle, brunâtre plus foncé à grisâtre vers la base avec l'âge, verdâtre
+    chez les vieux spécimens, ochracé pâle, depuis la base, à marge épaisse, obtuse,
+    souvent lisse, ochracée
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -106,7 +112,8 @@ description:
   cortex-peridial: 
   cortex-sclerotial: 
   cortine: 
-  couches-de-tubes: indistinctement stratifiées, ochracé pâle, à trame distinctement plus foncée, jusqu'à 40 mm de longueur
+  couches-de-tubes: indistinctement stratifiées, ochracé pâle, à trame distinctement
+    plus foncée, jusqu'à 40 mm de longueur
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -201,7 +208,8 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: solitaire à grégaire, en petits amas imbriqués et fusionnés latéralement
+  mode-de-croissance: solitaire à grégaire, en petits amas imbriqués et fusionnés
+    latéralement
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -236,14 +244,16 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: irréguliers, sinueux, dédaloïdes, labyrinthiques, allongés à presque lamellés-furqués vers la marge, souvent 1-4 mm de largeur mesurés tangentiellement, à dissépiments larges, 1-3 mm, profondément lacérés sur les parties obliques
+  pores: irréguliers, sinueux, dédaloïdes, labyrinthiques, allongés à presque lamellés-furqués
+    vers la marge, souvent 1-4 mm de largeur mesurés tangentiellement, à dissépiments
+    larges, 1-3 mm, profondément lacérés sur les parties obliques
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -302,3 +312,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,29 @@
 ---
+title: Helvella Crispa
+date: 2017-03-24 00:00:00 Z
 nom: Helvella crispa
-date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/1/613/20718058281_8d69dbff88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20718058281/in/photolist-xgFeBn-xyMsVp
 album-flickr:
-  - 72157673462347923
-
+- 72157673462347923
 details:
   nom-francais: Helvelle crépue
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
-  espece: <i>Helvella crispa</i> Bull.
+  espece: "<i>Helvella crispa</i> Bull."
   litterature: Bulliard, J. B. F. 1790. Herbier de la France. 10:433-480
-
 collections:
-  - fongarium: cKc0423
-    date: 19 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0423
+  date: 19 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -34,7 +32,13 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 5-50 mm Ø, 5-50 mm de haut (jusqu'à 70 x 55 mm frais), irrégulièrement lobulaire, occasionnellement bilobé, à marge enroulée au début, puis étalée à maturité, entière à légèrement lacérée, hyménium blanc à crème lorsque jeune, souvent brun jaunâtre lorsque sec, rugueux, excipulum crème à beige, légèrement plus foncée que l'hyménium, finement pubescent à pubescent, parfois avec peu de petites nervures s'étendant sur le tiers basal de la surface de l’excipulum à partir du stipe
+  apothecie: 5-50 mm Ø, 5-50 mm de haut (jusqu'à 70 x 55 mm frais), irrégulièrement
+    lobulaire, occasionnellement bilobé, à marge enroulée au début, puis étalée à
+    maturité, entière à légèrement lacérée, hyménium blanc à crème lorsque jeune,
+    souvent brun jaunâtre lorsque sec, rugueux, excipulum crème à beige, légèrement
+    plus foncée que l'hyménium, finement pubescent à pubescent, parfois avec peu de
+    petites nervures s'étendant sur le tiers basal de la surface de l’excipulum à
+    partir du stipe
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -51,7 +55,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse et litière des forêts de feuillus ou mixtes, surtout dans les pinèdes
+  biotopes: pousse au sol, sur pelouse et litière des forêts de feuillus ou mixtes,
+    surtout dans les pinèdes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +74,7 @@ description:
   chair: mince, cassante
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -205,7 +210,9 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 4-130 x 2-35 mm Ø, égale à agrandie, typiquement élargi au milieu, creux, fortement nervuré et profondément alvéolé, finement pubescent, à la base blanche à crème à brun pâle grisâtre
+  pied: 4-130 x 2-35 mm Ø, égale à agrandie, typiquement élargi au milieu, creux,
+    fortement nervuré et profondément alvéolé, finement pubescent, à la base blanche
+    à crème à brun pâle grisâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -284,3 +291,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

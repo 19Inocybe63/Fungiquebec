@@ -1,41 +1,40 @@
 ---
+title: Crepidotus Malachius
+date: 2017-03-20 00:00:00 Z
 nom: Crepidotus malachius
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/8/7392/9359067501_2638ed78b1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9359067501/in/photolist-fg2EGM
 album-flickr:
-  - 72157676114444764
-
+- 72157676114444764
 details:
   nom-francais: Crépidote mollet
   ordre: Agaricales
   famille: Inocybaceae
   genre: Crepidotus
-  espece: <i>Crepidotus malachius</i> Sacc.
-  litterature: Peck, C.H. 1886. Report of the Botanist (1885). Annual Report on the New York State Museum of Natural History. 39:30-73
-
+  espece: "<i>Crepidotus malachius</i> Sacc."
+  litterature: Peck, C.H. 1886. Report of the Botanist (1885). Annual Report on the
+    New York State Museum of Natural History. 39:30-73
 collections:
-  - fongarium: cKc0081
-    date: 24 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0192
-    date: 4 août 2014
-    planche:
-      numero: cKc0192-0156
-      miniature: https://c1.staticflickr.com/1/643/31942065784_02001a25d7_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/31942065784/in/photostream/
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0081
+  date: 24 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0192
+  date: 4 août 2014
+  planche:
+    numero: cKc0192-0156
+    miniature: https://c1.staticflickr.com/1/643/31942065784_02001a25d7_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/31942065784/in/photostream/
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +55,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à claviformes élancées, bisporiques à tétrasporiques, bouclées à la base, (11,9) 15-27,3 (27,9) × (4,5) 5,1-8 µm en moyenne
+  basides: claviformes à claviformes élancées, bisporiques à tétrasporiques, bouclées
+    à la base, (11,9) 15-27,3 (27,9) × (4,5) 5,1-8 µm en moyenne
   basidiospores: |
     globuleuses, finement verruqueuses, à paroi mince, petit appendice hilaire, petit pore germinatif centré parfois bien visible dans le Bleu crésyl 0,4-0,8 µm Ø, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (5,4) 5,7 - 6,2 (6,5) × (5,4) 5,5 - 6 (6,4) µm
@@ -83,9 +83,14 @@ description:
   cellules-stromatiques: 
   chair: molle, flexible, blanche
   chancre: 
-  chapeau: 10-65 mm Ø, convexe puis subétalé, plutôt réniforme, semiorbiculaire, flabelliforme, légèrement déprimé à la base, glabre, souvent légèrement villeux ou tomenteux à la base, hygrophane, blanc aqueux, blanc à blanc grisâtre à l'humidité, chamois pâle au sec, à marge striatulée à l'humidité
-  cheilochrysocystides:
-  cheilocystides: abondantes, polymorphes, peu émergentes, claviformes à cylindriques, piriformes, utriformes, epistylia pedes (19,7) 20,1-30,9 (31,7) × (5,9) 6,5-8,7 (10,3) µm en moyenne
+  chapeau: 10-65 mm Ø, convexe puis subétalé, plutôt réniforme, semiorbiculaire, flabelliforme,
+    légèrement déprimé à la base, glabre, souvent légèrement villeux ou tomenteux
+    à la base, hygrophane, blanc aqueux, blanc à blanc grisâtre à l'humidité, chamois
+    pâle au sec, à marge striatulée à l'humidité
+  cheilochrysocystides: 
+  cheilocystides: abondantes, polymorphes, peu émergentes, claviformes à cylindriques,
+    piriformes, utriformes, epistylia pedes (19,7) 20,1-30,9 (31,7) × (5,9) 6,5-8,7
+    (10,3) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -93,7 +98,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Maria Teresa Basso. « Les pleurocystides sont absentes, cependant chez certaines espèces, il est possible de trouver des éléments définis comme pleurocistidioïdes, de forme similaire aux basides avec une longue annexe. »
+  commentaires: De Maria Teresa Basso. « Les pleurocystides sont absentes, cependant
+    chez certaines espèces, il est possible de trouver des éléments définis comme
+    pleurocistidioïdes, de forme similaire aux basides avec une longue annexe. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -187,7 +194,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: radiantes d'un point basal latéral, arrondies près du pied, larges, avec lamelles et lamellules, serrées à subserrées, blanches au début, puis brun rouille à maturité
+  lames: radiantes d'un point basal latéral, arrondies près du pied, larges, avec
+    lamelles et lamellules, serrées à subserrées, blanches au début, puis brun rouille
+    à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -224,12 +233,16 @@ description:
   pied: absent ou pseudopied parfois présent
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, avec hyphes émergentes lisses à ± incrustées, dont le subpellis est non différencié, composé d'hyphes cylindriques, entrelacée, parfois ± immergées dans une couche gélifiée
+  pileipellis: en cutis, avec hyphes émergentes lisses à ± incrustées, dont le subpellis
+    est non différencié, composé d'hyphes cylindriques, entrelacée, parfois ± immergées
+    dans une couche gélifiée
   pileitrame: 
   pileocystides: absentes
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes, polymorphes, largement fusiformes, cylindriques-mucronées, subrostrées, piriformes, bidigitées, apex rarement moniliformes (18,7) 20,3-33,5 (49) × (3,2) 7-10,1 µm en moyenne
+  pleurocystides: abondantes, polymorphes, largement fusiformes, cylindriques-mucronées,
+    subrostrées, piriformes, bidigitées, apex rarement moniliformes (18,7) 20,3-33,5
+    (49) × (3,2) 7-10,1 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -296,3 +309,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

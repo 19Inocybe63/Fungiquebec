@@ -1,31 +1,30 @@
 ---
+title: Phylloporus Leucomycelinus
+date: 2017-03-25 00:00:00 Z
 nom: Phylloporus leucomycelinus
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/1/618/20171022673_3a523b2c21_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20171022673/in/photolist-CAxxCb-wJrLhZ-wJtepT
 album-flickr:
-  - 72157672609989183
-
+- 72157672609989183
 details:
   nom-francais: Phyllopore à base blanche
   ordre: Boletales
   famille: Boletaceae
   genre: Phylloporus
-  espece: <i>Phylloporus leucomycelinus</i> Singer
-  litterature: Singer, R. 1978. Die Kernteilung in den Basidien und die Phylogenie der Basidiomyceten. Persoonia. 9(4):421-438
-
+  espece: "<i>Phylloporus leucomycelinus</i> Singer"
+  litterature: Singer, R. 1978. Die Kernteilung in den Basidien und die Phylogenie
+    der Basidiomyceten. Persoonia. 9(4):421-438
 collections:
-  - fongarium: cKc0427
-    date: 22 août 2015
-    planche:
-      numero: cKc0427-0105
-      miniature: https://c2.staticflickr.com/2/1716/24019759366_30a8ab98dd_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/24019759366/in/dateposted/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0427
+  date: 22 août 2015
+  planche:
+    numero: cKc0427-0105
+    miniature: https://c2.staticflickr.com/2/1716/24019759366_30a8ab98dd_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/24019759366/in/dateposted/
+  geolocalisation: 
+  altitude: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +36,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Neves, Maria Alice. ; Halling, Roy E</b>. <i>Study on species of Phylloporus I: Neotropics and North America</i>, Mycologia, 102(4), 2010, pp. 923–943
+  articles: "<b>Neves, Maria Alice. ; Halling, Roy E</b>. <i>Study on species of Phylloporus
+    I: Neotropics and North America</i>, Mycologia, 102(4), 2010, pp. 923–943\n"
   ascome: 
   ascospores: 
   asques: 
@@ -47,7 +46,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base 29,74-30,49 x 6,7 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base 29,74-30,49 x 6,7 µm
+    en moyenne
   basidiospores: |
     elliptiques à subcylindriques, lisses, à paroi mince, avec petit appendice hilaire et une petite dépression supra hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     (9,4) 9,6 - 10,9 (11,6) x (3,3) 3,5 - 3,9 (4,4) µm
@@ -64,7 +64,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: isolé et en faisceaux ± en amas, clavées, hyalines, 45-54 x 8-12 µm
+  caulocystides: isolé et en faisceaux ± en amas, clavées, hyalines, 45-54 x 8-12
+    µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -74,8 +75,10 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à jaune pâle, se tache de bleue
   chancre: 
-  chapeau: 20-65 mm Ø, pulviné puis convexe à étalé, sec, subvelouté, devenant rivuleux-craquelé, rouge vin, brun rouge à brun olivâtre
-  cheilocystides: assez nombreuses, cylindriques à cylindriques-fusiformes, subclaviformes à subfusiformes, hyalines, à paroi mince, vide optique, 45-80 x 7-13 µm
+  chapeau: 20-65 mm Ø, pulviné puis convexe à étalé, sec, subvelouté, devenant rivuleux-craquelé,
+    rouge vin, brun rouge à brun olivâtre
+  cheilocystides: assez nombreuses, cylindriques à cylindriques-fusiformes, subclaviformes
+    à subfusiformes, hyalines, à paroi mince, vide optique, 45-80 x 7-13 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -174,7 +177,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, décurrentes, interveinées, espacées, jaunes à jaune brunâtre au début, olivâtres à brun jaunâtre à maturité, immuables au froissement, à arêtes entières
+  lames: adnées, décurrentes, interveinées, espacées, jaunes à jaune brunâtre au début,
+    olivâtres à brun jaunâtre à maturité, immuables au froissement, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,10 +211,14 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 20-70 x 3-10 mm Ø, cylindrique, subégal, atténué vers la base, droit à courbe, plein, sec, pruineux sur la partie supérieure du stipe au début, ponctué de brun vineux, brun rouge puis de brun pâle, à pâle à la base, immuable, avec mycélium basal blanc à blanchâtre
+  pied: 20-70 x 3-10 mm Ø, cylindrique, subégal, atténué vers la base, droit à courbe,
+    plein, sec, pruineux sur la partie supérieure du stipe au début, ponctué de brun
+    vineux, brun rouge puis de brun pâle, à pâle à la base, immuable, avec mycélium
+    basal blanc à blanchâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: en trichoderme formé d'hyphes cylindriques, en chaîne, lisses, à paroi mince
+  pileipellis: en trichoderme formé d'hyphes cylindriques, en chaîne, lisses, à paroi
+    mince
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -241,8 +249,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient bleu vert
+  reactions-macrochimiques: 'Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient
+    bleu vert
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -279,3 +289,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

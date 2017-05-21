@@ -1,61 +1,60 @@
 ---
+title: Psilocybe Fuscofulva
+date: 2017-03-25 00:00:00 Z
 nom: Psilocybe fuscofulva
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/3/2943/15155802299_c6032f05d7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15155802299/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
 album-flickr:
-  - 72157676547571471
-
+- 72157676547571471
 details:
   nom-francais: Psilocybe fauve sombre
   ordre: Agaricales
   famille: Strophariaceae
   genre: Psilocybe
-  espece: <i>Psilocybe fuscofulva</i> Peck
-  litterature: Peck, C.H. 1887. Descriptions of new species of New York fungi. Bulletin of the New York State Museum. 1(2):5-24
-
+  espece: "<i>Psilocybe fuscofulva</i> Peck"
+  litterature: Peck, C.H. 1887. Descriptions of new species of New York fungi. Bulletin
+    of the New York State Museum. 1(2):5-24
 collections:
-  - fongarium: sans numéro
-    date: 27 septembre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Alan Rockefeller
-  - fongarium: cKc0144
-    date: 29 septembre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0266
-    date: 25 septembre 2014
-    planche:
-      numero: cKc0266-0073
-      miniature: https://c1.staticflickr.com/9/8648/16758290556_2df479a4ed_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16758290556/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0490
-    date: 12 octobre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: sans numéro
+  date: 27 septembre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Alan Rockefeller
+- fongarium: cKc0144
+  date: 29 septembre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0266
+  date: 25 septembre 2014
+  planche:
+    numero: cKc0266-0073
+    miniature: https://c1.staticflickr.com/9/8648/16758290556_2df479a4ed_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16758290556/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0490
+  date: 12 octobre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -102,9 +101,12 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau
   chancre: 
-  chapeau: 5-27 mm Ø, conique campanulé, hygrophane, glabre, brun à brun pâle vers la marge, la cuticule collante et gélifiée qui se détache difficilement
-  cheilochrysocystides:
-  cheilocystides: abondantes, lagéniformes à tibiformes, plus rarement ellipsoïdes à oblongues, plus rarement bidigitées 41,2 [47,7; 65,2] 71,6 x 4,7 [5,5; 6,9] 7,7 µm
+  chapeau: 5-27 mm Ø, conique campanulé, hygrophane, glabre, brun à brun pâle vers
+    la marge, la cuticule collante et gélifiée qui se détache difficilement
+  cheilochrysocystides: 
+  cheilocystides: abondantes, lagéniformes à tibiformes, plus rarement ellipsoïdes
+    à oblongues, plus rarement bidigitées 41,2 [47,7; 65,2] 71,6 x 4,7 [5,5; 6,9]
+    7,7 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -205,7 +207,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à adnexées, larges, à arête érodées, blanchâtres, serrées, parfois sinuées à décurrentes en filet, cunéiforme, lamellules arrondies sur le bord proximal et aussi atténuées sur le rebord proximal
+  lames: échancrées à adnexées, larges, à arête érodées, blanchâtres, serrées, parfois
+    sinuées à décurrentes en filet, cunéiforme, lamellules arrondies sur le bord proximal
+    et aussi atténuées sur le rebord proximal
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -238,7 +242,9 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-98 x 2-3 mm Ø, creux, fibrilleux, radicant, blanchâtre à brun pâle, plus foncé à la base, strié longitudinalement avec de légère fibrille sur l'écorce, flexueux, parfois, central, égal, cylindrique, radicant
+  pied: 50-98 x 2-3 mm Ø, creux, fibrilleux, radicant, blanchâtre à brun pâle, plus
+    foncé à la base, strié longitudinalement avec de légère fibrille sur l'écorce,
+    flexueux, parfois, central, égal, cylindrique, radicant
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -283,7 +289,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun violet foncé 
+  sporee: brun violet foncé
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -308,3 +314,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

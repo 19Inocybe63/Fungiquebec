@@ -1,31 +1,31 @@
 ---
+title: Strobilomyces Floccopus
+date: 2017-03-13 00:00:00 Z
 nom: Strobilomyces floccopus
-date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3780/9411670398_b43ab1cd36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9411670398/in/photolist-fkFz8J-fkFgHh
 album-flickr:
-  - 72157676645474105
-
+- 72157676645474105
 details:
   nom-francais: Bolet pomme de pin
   ordre: Boletales
   famille: Boletaceae
   genre: Strobilomyces
-  espece: <i>Strobilomyces floccopus</i> (Vahl) P. Karst.
-  litterature: Karsten, P.A. 1882. Rysslands, Finlans och den Skandinaviska halföns Hattsvampar. Sednare Delen, Pip-, Tagg-, Hud-, Klubb- och Gelésvampar. Bidrag till Kännedom av Finlands Natur och Folk. 37:1-257
-
+  espece: "<i>Strobilomyces floccopus</i> (Vahl) P. Karst."
+  litterature: Karsten, P.A. 1882. Rysslands, Finlans och den Skandinaviska halföns
+    Hattsvampar. Sednare Delen, Pip-, Tagg-, Hud-, Klubb- och Gelésvampar. Bidrag
+    till Kännedom av Finlands Natur och Folk. 37:1-257
 collections:
-  - fongarium: cKc0095
-    date: 31 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0095
+  date: 31 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°46'21.6"N 71°10'29.3"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +68,11 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre, rougissante puis noircissant rapidement lorsque coupée ou meurtrie
   chancre: 
-  chapeau: 30-155 mm Ø, large, convexe, devenant largement convexe à subétalé à maturité, marge appendiculée de reste du voile partiel cotonneux et grisâtre ; sec, blanchâtre à grisâtre, recouvert de laine grossière ou cotonneuse, aplati ou dressé, de gris à gris violacé ou noirâtre
-  cheilochrysocystides:
+  chapeau: 30-155 mm Ø, large, convexe, devenant largement convexe à subétalé à maturité,
+    marge appendiculée de reste du voile partiel cotonneux et grisâtre ; sec, blanchâtre
+    à grisâtre, recouvert de laine grossière ou cotonneuse, aplati ou dressé, de gris
+    à gris violacé ou noirâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -203,7 +206,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 40-120 mm Ø, épais, ferme, presque égal, parfois agrandi à la base, grisâtre, réticulé au sommet au-dessus de l'anneau
+  pied: 40-120 mm Ø, épais, ferme, presque égal, parfois agrandi à la base, grisâtre,
+    réticulé au sommet au-dessus de l'anneau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -270,12 +274,15 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: angulaires 1-2 mm de large, blancs au début, puis gris, enfin noirs, se tachant de rougeâtre, puis noir lorsque brisés, 10-15 mm de profondeur
+  tubes: angulaires 1-2 mm de large, blancs au début, puis gris, enfin noirs, se tachant
+    de rougeâtre, puis noir lorsque brisés, 10-15 mm de profondeur
   type: 
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: cotonneux à laineux, grisâtre, laissant une zone annulaire sur le stipe
+  voile-partiel: cotonneux à laineux, grisâtre, laissant une zone annulaire sur le
+    stipe
   volve: 
   zone-perihymeniale: 
 ---
+

@@ -1,31 +1,29 @@
 ---
+title: Amanita Sp Que04
+date: 2017-03-06 00:00:00 Z
 nom: Amanita sp-QUE04
-date: 2017-03-06 00:00:00
 image: https://c2.staticflickr.com/6/5582/14981967220_f12992b12a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981967220/in/photolist-p5H4RU-oPUuTE-p5o6dE
 album-flickr:
-  - 72157674266084922
-
+- 72157674266084922
 details:
   nom-francais: 
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>sp-QUE04</i> Tulloss sp. nov.
+  espece: "<i>sp-QUE04</i> Tulloss sp. nov."
   litterature: 
-
 collections:
-  - fongarium: cKc0243
-    date: 7 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Rod Tulloss (provisoire)
-    confirmee: 
-
+- fongarium: cKc0243
+  date: 7 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Rod Tulloss (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +49,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, forêt mixte ; pour la présente collection, pousse sous <i>Tsuga canadensis</i>
+  biotopes: pousse au sol, forêt mixte ; pour la présente collection, pousse sous
+    <i>Tsuga canadensis</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -260,8 +259,10 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: membraneux, blanc, taché de brun rouille par endroits, laissant une volve à la base du pied
+  voile-general: membraneux, blanc, taché de brun rouille par endroits, laissant une
+    volve à la base du pied
   voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---
+

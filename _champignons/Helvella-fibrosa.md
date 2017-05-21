@@ -1,31 +1,30 @@
 ---
+title: Helvella Fibrosa
+date: 2017-03-24 00:00:00 Z
 nom: Helvella fibrosa
-date: 2017-03-24 00:00:00
 image: https://c1.staticflickr.com/9/8825/28444177671_0372fd8c51_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28444177671/in/photolist-KkvR3p
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Helvelle fibreuse
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
-  espece: <i>Helvella fibrosa</i> (Wallr.) Korf
-  litterature: Korf, R.P. 2008. Nomenclatural notes. 12. Untangling Hedwig's Octospora villosa; Helvella fibrosa comb. nov. Mycotaxon. 103:307-311
-
+  espece: "<i>Helvella fibrosa</i> (Wallr.) Korf"
+  litterature: Korf, R.P. 2008. Nomenclatural notes. 12. Untangling Hedwig's Octospora
+    villosa; Helvella fibrosa comb. nov. Mycotaxon. 103:307-311
 collections:
-  - fongarium: cKc0522
-    date: 24 juillet 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0522
+  date: 24 juillet 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -34,7 +33,8 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 12 mm de hauteur, 15 mm Ø, comprimée latéralement au début, puis légèrement cupuliforme à étalée, à marge ondulée, stipitée
+  apothecie: 12 mm de hauteur, 15 mm Ø, comprimée latéralement au début, puis légèrement
+    cupuliforme à étalée, à marge ondulée, stipitée
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -71,7 +71,7 @@ description:
   chair: 
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -206,7 +206,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 10-40 x 1-5 mm Ø, subégal, arrondi à la coupe, plein, densément pubescent, gris brun
+  pied: 10-40 x 1-5 mm Ø, subégal, arrondi à la coupe, plein, densément pubescent,
+    gris brun
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -282,3 +283,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

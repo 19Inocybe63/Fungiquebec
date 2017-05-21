@@ -1,31 +1,29 @@
 ---
+title: Daedaleopsis Confragosa
+date: 2017-03-20 00:00:00 Z
 nom: Daedaleopsis confragosa
-date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/1/729/21681354819_68688b6f57_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21681354819/in/photolist-z2UBqp-zkgMqH-zh7uJN
 album-flickr:
-  - 72157674314547241
-
+- 72157674314547241
 details:
   nom-francais: Tramète rougissante
   ordre: Polyporales
   famille: Polyporaceae
   genre: Daedaleopsis
-  espece: <i>Daedaleopsis confragosa</i> (Bolton) J. Schröt.
+  espece: "<i>Daedaleopsis confragosa</i> (Bolton) J. Schröt."
   litterature: Schröter, J. 1888. Kryptogamen-Flora von Schlesien. 3-1(4):385-512
-
 collections:
-  - fongarium: cKc0482
-    date: 1 octobre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0482
+  date: 1 octobre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,7 +66,10 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 200 mm de longueur, 100 mm de largeur, 20-50 mm d'épaisseur, globalement convexe à plus ou moins plat, en forme d'éventail à presque ronde, sec, lisse ou finement hirsute, pâle à brun grisâtre ou brun rougeâtre, généralement avec des zones de couleur
+  chapeau: jusqu'à 200 mm de longueur, 100 mm de largeur, 20-50 mm d'épaisseur, globalement
+    convexe à plus ou moins plat, en forme d'éventail à presque ronde, sec, lisse
+    ou finement hirsute, pâle à brun grisâtre ou brun rougeâtre, généralement avec
+    des zones de couleur
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -131,7 +132,8 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: chamois pâle au début, devenant rose à rouge au froissement, brun plus foncé avec l'âge
+  face-poroïde: chamois pâle au début, devenant rose à rouge au froissement, brun
+    plus foncé avec l'âge
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -221,17 +223,20 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: variables, ronds ou allongés radialement et jusqu'à 1 mm Ø, dédaloïdes ou à dissépiments lacérés formant une face hyméniale lamellée et fourchue radialement
+  pores: variables, ronds ou allongés radialement et jusqu'à 1 mm Ø, dédaloïdes ou
+    à dissépiments lacérés formant une face hyméniale lamellée et fourchue radialement
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = toutes les parties deviennent gris foncé, noir
+  reactions-macrochimiques: 'Potasse (KOH 10%) = toutes les parties deviennent gris
+    foncé, noir
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -300,3 +305,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

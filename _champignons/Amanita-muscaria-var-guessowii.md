@@ -1,31 +1,30 @@
 ---
+title: Amanita Muscaria Var Guessowii
+date: 2017-03-17 00:00:00 Z
 nom: Amanita muscaria var. guessowii
-date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/4/3804/9383558688_c77720140f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9383558688/in/photolist-ficc5C
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Amanite tue-mouches, variété de Güssow
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita muscaria var. guessowii</i> Veselý
-  litterature: Veselý, R. 1933. Revisio critica Amanitarum euopaearum. Annales Mycologici. 31(4):209-298
-
+  espece: "<i>Amanita muscaria var. guessowii</i> Veselý"
+  litterature: Veselý, R. 1933. Revisio critica Amanitarum euopaearum. Annales Mycologici.
+    31(4):209-298
 collections:
-  - fongarium: cKc0096
-    date: 27 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°37'45.9"N 70°28'03.0"O
-    elevation: 450 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0096
+  date: 27 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°37'45.9"N 70°28'03.0"O
+  elevation: 450 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +50,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous conifères, surtout dans les plantations d'épinettes et les bosquets de bouleaux et de peupliers
+  biotopes: pousse au sol, sous conifères, surtout dans les plantations d'épinettes
+    et les bosquets de bouleaux et de peupliers
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +68,10 @@ description:
   cellules-stromatiques: 
   chair: blanche ou jaunâtre, immuable
   chancre: 
-  chapeau: 70-250 mm Ø, globuleux à convexe puis étalé, orné de flocons vélaires blancs à jaunâtres sur fond jaune vif, jaune orangé à orange rougeâtre, parfois rouge au centre, à marge sillonnée à maturité
-  cheilochrysocystides:
+  chapeau: 70-250 mm Ø, globuleux à convexe puis étalé, orné de flocons vélaires blancs
+    à jaunâtres sur fond jaune vif, jaune orangé à orange rougeâtre, parfois rouge
+    au centre, à marge sillonnée à maturité
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -171,7 +173,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, avec nombreuses lamellules tronquées, blanchâtres, parfois jaunâtres à l'arête
+  lames: adnées, avec nombreuses lamellules tronquées, blanchâtres, parfois jaunâtres
+    à l'arête
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -204,7 +207,9 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 120-250 x 10-25 mm Ø, cylindrique, égal ou atténué vers l'apex, bulbeux-arrondi, poudreux, fibrilleux à squamuleux, orné de petites écailles ± disposées en cercles au dessus du bulbe, blanc à jaune pâle, annelé
+  pied: 120-250 x 10-25 mm Ø, cylindrique, égal ou atténué vers l'apex, bulbeux-arrondi,
+    poudreux, fibrilleux à squamuleux, orné de petites écailles ± disposées en cercles
+    au dessus du bulbe, blanc à jaune pâle, annelé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,11 +235,13 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications: "<b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>,
+    Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques\n"
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration ou de décoloration
+    sur le chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -268,8 +275,11 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: friable, blanc ou jaune pâle, laissant des flocons sur le chapeau et des bourrelets écailleux concentriques au-dessus du bulbe du pied
-  voile-partiel: membraneux, blanc à jaune pâle, laissant un anneau dans le haut du pied, ample, pendant, flasque
+  voile-general: friable, blanc ou jaune pâle, laissant des flocons sur le chapeau
+    et des bourrelets écailleux concentriques au-dessus du bulbe du pied
+  voile-partiel: membraneux, blanc à jaune pâle, laissant un anneau dans le haut du
+    pied, ample, pendant, flasque
   volve: 
   zone-perihymeniale: 
 ---
+

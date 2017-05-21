@@ -1,31 +1,30 @@
 ---
+title: Peziza Boltonii
+date: 2017-03-25 00:00:00 Z
 nom: Peziza boltonii
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7347/27589360352_cb34fe68a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27589360352/in/photolist-Je2nvb-HfVs48-J2YFCL
 album-flickr:
-  - 72157675161308592
-
+- 72157675161308592
 details:
   nom-francais: Pézize de Bolton
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
-  espece: <i>Peziza boltonii</i> Quél.
-  litterature: Quélet, L. 1878. Quelques especes nouvelles de Champignons. Bulletin de la Société Botanique de France. 25(4):287-292
-
+  espece: "<i>Peziza boltonii</i> Quél."
+  litterature: Quélet, L. 1878. Quelques especes nouvelles de Champignons. Bulletin
+    de la Société Botanique de France. 25(4):287-292
 collections:
-  - fongarium: cKc0497
-    date: 15 juin 2016
-    planche:
-      numero:  cKc0497-0130
-      miniature: https://c2.staticflickr.com/8/7336/27714366152_99f809b25e_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/27714366152/in/photolist-Je2nvb-HfVs48-J2YFCL
-    geolocalisation: 
-    altitude: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0497
+  date: 15 juin 2016
+  planche:
+    numero: cKc0497-0130
+    miniature: https://c2.staticflickr.com/8/7336/27714366152_99f809b25e_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/27714366152/in/photolist-Je2nvb-HfVs48-J2YFCL
+  geolocalisation: 
+  altitude: 
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -34,7 +33,8 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 31-120(130) mm Ø, cupuliforme, entre 60-100 mm de profondeur, à marge légèrement crénelée
+  apothecie: 31-120(130) mm Ø, cupuliforme, entre 60-100 mm de profondeur, à marge
+    légèrement crénelée
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -49,7 +49,8 @@ description:
     Q = (2) 2,1 - 2,4 (2,5) ; N = 30
     Me = 17,2 × 7,8 µm ; Qe = 2,2
     (Piximètre, formule classique ; mesures issues d'une sporée, dans le bleu lactique)
-  asques: claviformes, octosporés, à apex IKI +, operculé, (220,5) 238,1 - 246,8 (256,6) × (10,4) 10,6 - 11,9 (12,4) µm en moyenne
+  asques: claviformes, octosporés, à apex IKI +, operculé, (220,5) 238,1 - 246,8 (256,6)
+    × (10,4) 10,6 - 11,9 (12,4) µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -78,7 +79,7 @@ description:
   chair: mince, fragile, cassante, violette
   chancre: 
   chapeau: 
-  cheilochrysocystides:
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -87,7 +88,10 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Collection étudiée sur matériel frais. Les spécimens étaient très matures, mais j'ai obtenu une belle sporée. Les photos macro ne sont pas représentatives, mais l'étude microscopique en valait vraiment le coup. »
+  commentaires: De Claude Kaufholtz-Couture. « Collection étudiée sur matériel frais.
+    Les spécimens étaient très matures, mais j'ai obtenu une belle sporée. Les photos
+    macro ne sont pas représentatives, mais l'étude microscopique en valait vraiment
+    le coup. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -204,7 +208,8 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques-filiformes avec parfois de petites excroissances, septées, à apex égal à subégal, + 150-200 × 3,5 - 4,5 µm en moyenne
+  paraphyses: cylindriques-filiformes avec parfois de petites excroissances, septées,
+    à apex égal à subégal, + 150-200 × 3,5 - 4,5 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -248,8 +253,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Sur 100-150 ascospores observées, 4 seulement étaient uniguttulées, les autres semblent avoir un contenu granulaire.
+  remarques: 'Sur 100-150 ascospores observées, 4 seulement étaient uniguttulées,
+    les autres semblent avoir un contenu granulaire.
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -267,8 +274,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Galactinia boltonii</i> (Quél.) Boud., Bulletin de la Société Mycologique de France 15:20 (1899)
+  synonymie: "<i>Galactinia boltonii</i> (Quél.) Boud., Bulletin de la Société Mycologique
+    de France 15:20 (1899)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -284,3 +291,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

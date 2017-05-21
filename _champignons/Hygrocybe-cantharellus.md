@@ -1,31 +1,30 @@
 ---
+title: Hygrocybe Cantharellus
+date: 2017-03-25 00:00:00 Z
 nom: Hygrocybe cantharellus
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/3/2817/9438005957_e509607329_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9438005957/in/photolist-fo1fmD-fofxis/
 album-flickr:
-  - 72157678433302206
-
+- 72157678433302206
 details:
   nom-francais: Hygrophore chanterelle
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
-  espece: <i>Hygrocybe cantharellus</i> (Fr.) Murrill
-  litterature: Murrill, W.A. 1911. The Agaricaceae of tropical North America III. Mycologia. 3(4):189-199
-
+  espece: "<i>Hygrocybe cantharellus</i> (Fr.) Murrill"
+  litterature: Murrill, W.A. 1911. The Agaricaceae of tropical North America III.
+    Mycologia. 3(4):189-199
 collections:
-  - fongarium: cKc0098
-    date: 31 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0098
+  date: 31 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°46'21.6"N 71°10'29.3"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -51,7 +50,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans l'humus et sur les sols riches, bois pourri et moussu des forêts, parfois parmi les sphaignes
+  biotopes: pousse dans l'humus et sur les sols riches, bois pourri et moussu des
+    forêts, parfois parmi les sphaignes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +68,11 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune, blanchâtre, orangée à orange rougeâtre
   chancre: 
-  chapeau: 6-30 mm Ø, largement convexe, avec une marge incrustée et finement festonnée, sec ou légèrement collant, mais non gluant, glabre ou très finement fibrillose au début, écarlate à orange rougeâtre lorsque jeune, avec une marge jaunâtre, décoloration à orange ou orange pâle
-  cheilochrysocystides:
+  chapeau: 6-30 mm Ø, largement convexe, avec une marge incrustée et finement festonnée,
+    sec ou légèrement collant, mais non gluant, glabre ou très finement fibrillose
+    au début, écarlate à orange rougeâtre lorsque jeune, avec une marge jaunâtre,
+    décoloration à orange ou orange pâle
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -171,7 +174,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: longuement arquées-décurrentes, larges, souvent triangulaires, subespacées à très espacées, jaune orangé à jaune pâle, souvent plus pâles que la surface du chapeau, à arêtes entières
+  lames: longuement arquées-décurrentes, larges, souvent triangulaires, subespacées
+    à très espacées, jaune orangé à jaune pâle, souvent plus pâles que la surface
+    du chapeau, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -204,7 +209,9 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 3-11 x 1-5 mm Ø, longuement élancé, cylindrique à égal ou légèrement atténué vers la base, parfois comprimé, fragile, farci à creux, lisse, sec, concolore au chapeau, jaunâtre pâle à blanchâtre à la base
+  pied: 3-11 x 1-5 mm Ø, longuement élancé, cylindrique à égal ou légèrement atténué
+    vers la base, parfois comprimé, fragile, farci à creux, lisse, sec, concolore
+    au chapeau, jaunâtre pâle à blanchâtre à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,11 +237,13 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boertmann, David</b>. <i>The genus Hygrocybe</i>, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
+  publications: "<b>Boertmann, David</b>. <i>The genus Hygrocybe</i>, Fungi of Northern
+    Europe vol. 1, 2nd revised edition, 2010, 103 p.\n"
   publications-microscopiques: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration ou de décoloration
+    sur le chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -276,3 +285,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

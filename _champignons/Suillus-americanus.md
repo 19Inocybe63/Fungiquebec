@@ -1,31 +1,30 @@
 ---
+title: Suillus Americanus
+date: 2017-03-13 00:00:00 Z
 nom: Suillus americanus
-date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/1/281/19260307573_8863d5b233_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19260307573/in/photolist-vkPhpN-vkY7qv
 album-flickr:
-  - 72157679317553425
-
+- 72157679317553425
 details:
   nom-francais: Bolet d'Amérique
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
-  espece: <i>Suillus americanus</i> (Peck) Snell
-  litterature: Snell, W.H.; Singer, R.; Dick, E.A. 1959. Notes on boletes. XI. Mycologia. 51:564-577
-
+  espece: "<i>Suillus americanus</i> (Peck) Snell"
+  litterature: Snell, W.H.; Singer, R.; Dick, E.A. 1959. Notes on boletes. XI. Mycologia.
+    51:564-577
 collections:
-  - fongarium: cKc0363
-    date: 20 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0363
+  date: 20 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,11 @@ description:
   cellules-stromatiques: 
   chair: jaune moutarde, devenant brun rougeâtre à la coupe
   chancre: 
-  chapeau: 30-100 mm, convexe à largement convexe, à marge enroulée au début, avec restes vélaires suspendus à la marge, blanc à jaune brunâtre, visqueux à glutineux à l’humidité, jaune vif, parfois jaune plus foncé, souvent avec des taches brun marron à rougeâtre
-  cheilochrysocystides:
+  chapeau: 30-100 mm, convexe à largement convexe, à marge enroulée au début, avec
+    restes vélaires suspendus à la marge, blanc à jaune brunâtre, visqueux à glutineux
+    à l’humidité, jaune vif, parfois jaune plus foncé, souvent avec des taches brun
+    marron à rougeâtre
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -207,7 +209,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent courbe, creux avec l'âge, concolore au chapeau, à glandules brunes sur toute la longueur
+  pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent courbe, creux avec l'âge,
+    concolore au chapeau, à glandules brunes sur toute la longueur
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -272,12 +275,15 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: anguleux et parfois allongés radialement, larges, 1-2 mm de largeur, souvent décurrents, concolores à la face poroïde, 7-10 mm de longueur
+  tubes: anguleux et parfois allongés radialement, larges, 1-2 mm de largeur, souvent
+    décurrents, concolores à la face poroïde, 7-10 mm de longueur
   type: 
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: jaunâtre, ne laissant pas d'anneau sur le pied, demeurant typiquement attaché à la marge piléique
+  voile-partiel: jaunâtre, ne laissant pas d'anneau sur le pied, demeurant typiquement
+    attaché à la marge piléique
   volve: 
   zone-perihymeniale: 
 ---
+

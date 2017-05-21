@@ -1,41 +1,39 @@
 ---
+title: Cortinarius Pholideus
+date: 2017-03-20 00:00:00 Z
 nom: Cortinarius pholideus
-date: 2017-03-20 00:00:00
 image: https://c1.staticflickr.com/1/609/21586158261_ab26f267bf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21586158261/in/photolist-yA7MiG-yTuGNr
 album-flickr:
-  - 72157679526968885
-
+- 72157679526968885
 details:
   nom-francais: Cortinaire écailleux
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius pholideus</i> (Lilj.) Fr.
+  espece: "<i>Cortinarius pholideus</i> (Lilj.) Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-
 collections:
-  - fongarium: cKc0135
-    date: 6 septembre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 45°58’40.33"N 70°57’40.76"O
-    elevation: 334 m
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0473
-    date: 20 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0135
+  date: 6 septembre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 45°58’40.33"N 70°57’40.76"O
+  elevation: 334 m
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0473
+  date: 20 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -76,10 +74,13 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanchâtre à brunâtre dans le chapeau, violacée à l'apex du pied, brun-jaune à sa base
+  chair: blanchâtre à brunâtre dans le chapeau, violacée à l'apex du pied, brun-jaune
+    à sa base
   chancre: 
-  chapeau: 20-80 mm Ø, convexe à campanulé, puis étalé, souvent avec petit mamelon conique à pointu, parfois entouré de dépressions circulaires concentriques, mat, non hygrophane, entièrement recouvert de squamules gris-brun foncé sur fond jaune-brun
-  cheilochrysocystides:
+  chapeau: 20-80 mm Ø, convexe à campanulé, puis étalé, souvent avec petit mamelon
+    conique à pointu, parfois entouré de dépressions circulaires concentriques, mat,
+    non hygrophane, entièrement recouvert de squamules gris-brun foncé sur fond jaune-brun
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -88,7 +89,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Lui avait des lames violettes dans le jeune âge. »
+  commentaires: De Yves Lamoureux. « Lui avait des lames violettes dans le jeune âge.
+    »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -183,7 +185,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées à subdécurrentes, serrées, larges, gris-brun ou violettes au début, avec lamelles et lamellules, brun rouille avec l'âge, aux arêtes plus pâles et ± denticulées
+  lames: sinuées à subdécurrentes, serrées, larges, gris-brun ou violettes au début,
+    avec lamelles et lamellules, brun rouille avec l'âge, aux arêtes plus pâles et
+    ± denticulées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -217,7 +221,9 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 40-100 x 5-15 mm Ø, ± cylindrique, subégal, plein, grisâtre avec des squamules gris-brun, formant des bandelettes en zigzag, dont l’apex est gris pâle avec reflet violet
+  pied: 40-100 x 5-15 mm Ø, ± cylindrique, subégal, plein, grisâtre avec des squamules
+    gris-brun, formant des bandelettes en zigzag, dont l’apex est gris pâle avec reflet
+    violet
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -269,8 +275,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Agaricus pholideus</i> Lilj., Utkast Svensk Fl. ed.3:645 (1816)
+  synonymie: "<i>Agaricus pholideus</i> Lilj., Utkast Svensk Fl. ed.3:645 (1816)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -286,3 +291,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

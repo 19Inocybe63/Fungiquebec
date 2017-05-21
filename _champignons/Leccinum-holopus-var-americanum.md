@@ -1,41 +1,39 @@
 ---
+title: Leccinum Holopus Var Americanum
+date: 2017-03-25 00:00:00 Z
 nom: Leccinum holopus var. americanum
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3894/15353097812_268277f7f5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15353097812/in/photolist-pmGdss-poGD5Y
 album-flickr:
-  - 72157675717994590
-
+- 72157675717994590
 details:
   nom-francais: Bolet blanc des marais ou Bolet blanc de neige
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinum
-  espece: <i>Leccinum holopus var. americanum</i> A.H. Smith & Thiers
+  espece: "<i>Leccinum holopus var. americanum</i> A.H. Smith & Thiers"
   litterature: Smith, A.H.; Thiers, H.D. 1971. The Boletes of Michigan. :1-428
-
 collections:
-  - fongarium: cKc0271
-    date: 25 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0275
-    date: 27 septembre 2014
-    planche:
-      numero: cKc0275-0063
-      miniature: https://c1.staticflickr.com/9/8681/16008432500_8bcd687ec5_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16008432500/in/photolist-qoBpfU-p8YGN4-pqsjxJ
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0271
+  date: 25 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0275
+  date: 27 septembre 2014
+  planche:
+    numero: cKc0275-0063
+    miniature: https://c1.staticflickr.com/9/8681/16008432500_8bcd687ec5_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16008432500/in/photolist-qoBpfU-p8YGN4-pqsjxJ
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -56,7 +54,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement clavées, tétrasporiques, non bouclées à la base, 18,1 [24,8; 30,5] 37,2 x 8,1 [10; 11,7] 13,6 µm en moyenne
+  basides: piriformes à largement clavées, tétrasporiques, non bouclées à la base,
+    18,1 [24,8; 30,5] 37,2 x 8,1 [10; 11,7] 13,6 µm en moyenne
   basidiospores: |
     fusiformes en vue frontale, cylindriques à bacilliformes vues de profil, lisses, à paroi mince jusqu’à 0,2 µm d'épaisseur, avec appendice hilaire et une dépression supra-apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
     14,9 [16,9; 17,8] 19,8 x 5,1 [5,5; 5,7] 6,2 µm
@@ -72,7 +71,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: présentes
-  caulocystides: fusiformes, clavées à cylindriques, avec parfois un apex flexueux, 23,3 [23,6; 24,4] 24,7 x 6 [6,7; 8,8] 9,6 µm
+  caulocystides: fusiformes, clavées à cylindriques, avec parfois un apex flexueux,
+    23,3 [23,6; 24,4] 24,7 x 6 [6,7; 8,8] 9,6 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -80,10 +80,13 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanche, rougissant lentement à la coupe, surtout à l'apex du pied, parfois aussi grisonnante
+  chair: blanche, rougissant lentement à la coupe, surtout à l'apex du pied, parfois
+    aussi grisonnante
   chancre: 
-  chapeau: 40-100 mm Ø, convexe puis largement convexe à subétalé, souvent visqueux avec l'âge ou à l'humidité, glabre ou presque, blanchâtre ou brunâtre, devenant souvent verdâtre avec l'âge
-  cheilochrysocystides:
+  chapeau: 40-100 mm Ø, convexe puis largement convexe à subétalé, souvent visqueux
+    avec l'âge ou à l'humidité, glabre ou presque, blanchâtre ou brunâtre, devenant
+    souvent verdâtre avec l'âge
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -92,7 +95,11 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « <i>Leccinum holopus</i> ne rougirait pas à la coupe en Europe, ou tout au plus il rosit un peu ; au Québec, en coupe transversale, il rougit vivement puis devient noir en quinze minutes ; aucun noircissement n'est mentionné pour l'Europe, à ma connaissance. Par ailleurs, il n'est pas prouvé hors de tout doute qu'un seul bolet d'Europe pousse chez nous. »
+  commentaires: De Yves Lamoureux. « <i>Leccinum holopus</i> ne rougirait pas à la
+    coupe en Europe, ou tout au plus il rosit un peu ; au Québec, en coupe transversale,
+    il rougit vivement puis devient noir en quinze minutes ; aucun noircissement n'est
+    mentionné pour l'Europe, à ma connaissance. Par ailleurs, il n'est pas prouvé
+    hors de tout doute qu'un seul bolet d'Europe pousse chez nous. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -146,7 +153,8 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: blanchâtre, brunissant à maturité, parfois ornée de minuscules taches bleu-vert, brunissant au froissement
+  face-poroïde: blanchâtre, brunissant à maturité, parfois ornée de minuscules taches
+    bleu-vert, brunissant au froissement
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -156,7 +164,8 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: abondantes, lagéniformes à fusiformes, 33,6 [39; 49,7] 55,1 x 6 [6,7; 7,9] 8,5 µm, en moyenne
+  hymenocystides: abondantes, lagéniformes à fusiformes, 33,6 [39; 49,7] 55,1 x 6
+    [6,7; 7,9] 8,5 µm, en moyenne
   hymenophore: 
   hyphes: du pileipellis à pigmentation brunâtre
   hyphes-de-la-chair: 
@@ -217,10 +226,13 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 60-140 mm x 10-23 mm Ø, cylindrique, égal à subclaviforme, blanchâtre, scabreux avec de fines rugosités blanchâtres qui deviennent brun grisâtre à noirâtre
+  pied: 60-140 mm x 10-23 mm Ø, cylindrique, égal à subclaviforme, blanchâtre, scabreux
+    avec de fines rugosités blanchâtres qui deviennent brun grisâtre à noirâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, parfois même en ixocutis, formé d’éléments cylindriques, 14,5 [26; 81,9] 93,4 (100+) x 3 [3,3; 4,6] 4,9 µm, parfois avec des hyphes pigmentées brunâtres, 5-7 µm de largeur en moyenne, de longueur variable 69,1 μm et +
+  pileipellis: en cutis, parfois même en ixocutis, formé d’éléments cylindriques,
+    14,5 [26; 81,9] 93,4 (100+) x 3 [3,3; 4,6] 4,9 µm, parfois avec des hyphes pigmentées
+    brunâtres, 5-7 µm de largeur en moyenne, de longueur variable 69,1 μm et +
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -275,8 +287,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Krombholziella americana</i> (A.H. Sm. & Thiers) utara, Ceská Mykologie 36 (2):81 (1982)
+  synonymie: "<i>Krombholziella americana</i> (A.H. Sm. & Thiers) utara, Ceská Mykologie
+    36 (2):81 (1982)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -293,3 +305,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

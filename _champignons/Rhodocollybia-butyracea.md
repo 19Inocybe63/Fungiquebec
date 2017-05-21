@@ -1,31 +1,30 @@
 ---
+title: Rhodocollybia Butyracea
+date: 2017-03-25 00:00:00 Z
 nom: Rhodocollybia butyracea
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3903/15064668488_052b6a0e2e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064668488/in/photolist-oXdn6A-oXch8n
 album-flickr:
-  - 72157675843334431
-
+- 72157675843334431
 details:
   nom-francais: Collybie beurrée
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Rhodocollybia
-  espece: <i>Rhodocollybia butyracea</i> (Bull.) Lennox
-  litterature: Lennox, J.W. 1979. Collybioid genera in the Pacific Northwest. Mycotaxon. 9(1):117-231 
-
+  espece: "<i>Rhodocollybia butyracea</i> (Bull.) Lennox"
+  litterature: Lennox, J.W. 1979. Collybioid genera in the Pacific Northwest. Mycotaxon.
+    9(1):117-231
 collections:
-  - fongarium: cKc0251
-    date: 15 septembre 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0251
+  date: 15 septembre 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,9 @@ description:
   cellules-stromatiques: 
   chair: 5-14 mm d'épaisseur, blanche à gris aqueux pâle, blanche dans le pied
   chancre: 
-  chapeau: 20-100 mm Ø, convexe, devenant largement convexe à subétalé, humide et graisseux au toucher lorsque frais, glabre, brun rougeâtre, à cannelle
-  cheilochrysocystides:
+  chapeau: 20-100 mm Ø, convexe, devenant largement convexe à subétalé, humide et
+    graisseux au toucher lorsque frais, glabre, brun rougeâtre, à cannelle
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -171,7 +171,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées à sublibres, minces, serrées à très serrées, blanches, puis teintées légèrement de rosâtre à maturité, à arêtes droites à inégales ou ondulées au début, rarement pubescentes, érodées ou laciniées à maturité
+  lames: adnexées à sublibres, minces, serrées à très serrées, blanches, puis teintées
+    légèrement de rosâtre à maturité, à arêtes droites à inégales ou ondulées au début,
+    rarement pubescentes, érodées ou laciniées à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -204,7 +206,11 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-100 x 4-10 mm Ø, claviforme, radicant  et parfois comprimé vers la base, fibreux, sec, glabre, farci puis creux et spongieux, distinctement strié à sillonné, blanchâtre à la base, chamois à chamois rosâtre ou pâle vers l'apex et concolore au chapeau vers la base au début, brun cannelle à maturité, blanchâtre à la base sous le niveau de substrat
+  pied: 30-100 x 4-10 mm Ø, claviforme, radicant  et parfois comprimé vers la base,
+    fibreux, sec, glabre, farci puis creux et spongieux, distinctement strié à sillonné,
+    blanchâtre à la base, chamois à chamois rosâtre ou pâle vers l'apex et concolore
+    au chapeau vers la base au début, brun cannelle à maturité, blanchâtre à la base
+    sous le niveau de substrat
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -273,3 +279,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

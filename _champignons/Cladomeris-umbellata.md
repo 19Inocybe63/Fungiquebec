@@ -1,31 +1,30 @@
 ---
+title: Cladomeris Umbellata
+date: 2017-03-18 00:00:00 Z
 nom: Cladomeris umbellata
-date: 2017-03-18 00:00:00
 image: https://c1.staticflickr.com/1/382/18933921856_c849d27f0b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18933921856/in/photolist-uR8inE-uR8ims-uR8ijy
 album-flickr:
-  - 72157676460493054
-
+- 72157676460493054
 details:
   nom-francais: Polypore en ombelle
   ordre: Polyporales
   famille: Meripilaceae
   genre: Cladomeris
-  espece: <i>Cladomeris umbellata</i> (Pers.) Quél.
-  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium. :1-352
-
+  espece: "<i>Cladomeris umbellata</i> (Pers.) Quél."
+  litterature: Quélet, L. 1886. Enchiridion Fungorum in Europa media et praesertim
+    in Gallia Vigentium. :1-352
 collections:
-  - fongarium: cKc0319
-    date: 19 juin 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0319
+  date: 19 juin 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,9 +48,12 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: annuel, piléé, stipité, hémisphérique, en forme de chou-fleur, formé de nombreux petits chapeaux stipités, en partie imbriqués et arrivant d'une base commune ± centrée et très ramifiée, d'un diamètre maximal de 70-200 (500) mm Ø
+  basidiome: annuel, piléé, stipité, hémisphérique, en forme de chou-fleur, formé
+    de nombreux petits chapeaux stipités, en partie imbriqués et arrivant d'une base
+    commune ± centrée et très ramifiée, d'un diamètre maximal de 70-200 (500) mm Ø
   bibliographies: 
-  biotopes: pousse au sol, sur bois mort, ou près des souches à partir d'un sclérote, agent de carie blanche, Fagus, Quercus, parfois rapporté sur Picea et Pinus
+  biotopes: pousse au sol, sur bois mort, ou près des souches à partir d'un sclérote,
+    agent de carie blanche, Fagus, Quercus, parfois rapporté sur Picea et Pinus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -68,8 +70,13 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 10-30 (40) mm Ø, jusqu'à 30 mm d'épaisseur au centre, aplani, concave au centre, suborbiculaire, ombiliqué à légèrement infundibuliforme, charnu au frais, dur et cassant au sec, sec, glabre ou avec très minuscules écailles apprimées donnant un aspect finement tacheté (loupe), lisse à fibreux au frais, plissé au sec, blanc, ocré, grisâtre pâle à brun pâle, à marge mince, ondulée, entière à légèrement lobée ou crénelée, incurvée au sec
-  cheilochrysocystides:
+  chapeau: 10-30 (40) mm Ø, jusqu'à 30 mm d'épaisseur au centre, aplani, concave au
+    centre, suborbiculaire, ombiliqué à légèrement infundibuliforme, charnu au frais,
+    dur et cassant au sec, sec, glabre ou avec très minuscules écailles apprimées
+    donnant un aspect finement tacheté (loupe), lisse à fibreux au frais, plissé au
+    sec, blanc, ocré, grisâtre pâle à brun pâle, à marge mince, ondulée, entière à
+    légèrement lobée ou crénelée, incurvée au sec
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -206,7 +213,11 @@ description:
   peritheces: 
   phenologie: de juin à octobre, poussant souvent au même endroit les années subséquentes
   phialoconidies: 
-  pied: centré, blanc à crème ou paille pâle, couvert de pores vers l'apex, plus lisse vers la base, élargi à la base, atténué vers le chapeau, ramifiant d'un tronc commun ± centré, égal, court et noduleux, jusqu'à 30 mm Ø, arrivant d'un sclérote noirâtre, dur, irrégulier, noduleux, avec courtes ramifications difformes, blanc à l'intérieur
+  pied: centré, blanc à crème ou paille pâle, couvert de pores vers l'apex, plus lisse
+    vers la base, élargi à la base, atténué vers le chapeau, ramifiant d'un tronc
+    commun ± centré, égal, court et noduleux, jusqu'à 30 mm Ø, arrivant d'un sclérote
+    noirâtre, dur, irrégulier, noduleux, avec courtes ramifications difformes, blanc
+    à l'intérieur
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,18 +237,22 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: subdécurrents, concolores à la face poroïde, 1-2 mm de longueur ; anguleux sur le chapeau, allongés près du pied, 1-3 par mm, plus irréguliers sur le pied ; fendus et en partie sinueux, jusqu'à 2 mm Ø
+  pores: subdécurrents, concolores à la face poroïde, 1-2 mm de longueur ; anguleux
+    sur le chapeau, allongés près du pied, 1-3 par mm, plus irréguliers sur le pied
+    ; fendus et en partie sinueux, jusqu'à 2 mm Ø
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur la chair du chapeau
+  reactions-macrochimiques: 'Potasse (KOH 10%) = pas de coloration ou de décoloration
+    sur la chair du chapeau
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -286,3 +301,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

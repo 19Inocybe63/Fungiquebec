@@ -1,31 +1,29 @@
 ---
+title: Hygrophoropsis Rufa
+date: 2017-03-25 00:00:00 Z
 nom: Hygrophoropsis rufa
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5312/29609987530_ac7ec97005_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29609987530/in/photolist-M7wVGo
 album-flickr:
-  - 72157675763230615
-
+- 72157675763230615
 details:
   nom-francais: Clitocybe roux
   ordre: Boletales
   famille: Hygrophoropsidaceae
   genre: Hygrophoropsis
-  espece: <i>Hygrophoropsis rufa</i> (D.A. Reid) Knudsen
+  espece: "<i>Hygrophoropsis rufa</i> (D.A. Reid) Knudsen"
   litterature: Knudsen H.; Vesterhold, J. 2008. Funga Nordica. :1-965
-
 collections:
-  - fongarium: cKc0561
-    date: 24 septembre 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0561
+  date: 24 septembre 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -37,8 +35,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Holec, Jan. ; Kolarik, Miroslav</b>. <i>Notes on the identity of Hygrophoropsis rufa (Basidiomycota, Boletales)</i>, Czech Mycology 65(1):15–24, June 10, 2013
+  articles: "<b>Holec, Jan. ; Kolarik, Miroslav</b>. <i>Notes on the identity of Hygrophoropsis
+    rufa (Basidiomycota, Boletales)</i>, Czech Mycology 65(1):15–24, June 10, 2013\n"
   ascome: 
   ascospores: 
   asques: 
@@ -69,7 +67,8 @@ description:
   cellules-stromatiques: 
   chair: soyeuse, légèrement élastique, orangée, immuable
   chancre: 
-  chapeau: 42-56 mm Ø, convexe, déprimé, orange, avec centre brun rougeâtre foncé, avec zones annulaires, feutré
+  chapeau: 42-56 mm Ø, convexe, déprimé, orange, avec centre brun rougeâtre foncé,
+    avec zones annulaires, feutré
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -169,7 +168,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: longuement décurrentes, orangées, serrées, avec des furcations à tout les niveaux
+  lames: longuement décurrentes, orangées, serrées, avec des furcations à tout les
+    niveaux
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -202,7 +202,8 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 33-36 x 7-8 mm Ø, cylindrique court, égal, atténué à élargi vers la base, robuste, sec, mat, tomenteux-granuleux sur la moitié supérieure, brun ocre
+  pied: 33-36 x 7-8 mm Ø, cylindrique court, égal, atténué à élargi vers la base,
+    robuste, sec, mat, tomenteux-granuleux sur la moitié supérieure, brun ocre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -249,8 +250,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Hygrophoropsis aurantiaca var. rufa</i> D.A. Reid, Fungorum rariorum Icones coloratae 6:5 (1972)
+  synonymie: "<i>Hygrophoropsis aurantiaca var. rufa</i> D.A. Reid, Fungorum rariorum
+    Icones coloratae 6:5 (1972)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -267,3 +268,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

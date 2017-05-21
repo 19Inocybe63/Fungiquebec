@@ -1,51 +1,49 @@
 ---
+title: Scutellinia Scutellata
+date: 2017-03-13 00:00:00 Z
 nom: Scutellinia scutellata
-date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/1/558/18379166100_42fb1239d5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18379166100/in/photolist-tt4ZcL-tkzuXN-u172L9
 album-flickr:
-  - 72157676168367036
-
+- 72157676168367036
 details:
   nom-francais: Pézize en bouclier
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Scutellinia
-  espece: <i>Scutellinia scutellata</i> (L.) Lambotte
+  espece: "<i>Scutellinia scutellata</i> (L.) Lambotte"
   litterature: Lambotte 1887, Mém. Soc. roy. Sci. Liège, Série 2 14:299
-
 collections:
-  - fongarium: cKc0309
-    date: 7 juin 2015
-    planche:
-      numero: cKc0309-0088
-      miniature: https://c1.staticflickr.com/1/421/18027955894_2ed046cb52_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/18027955894/in/photolist-tt4ZcL-tkzuXN-u172L9
-    geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0441
-    date: 28 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0515
-    date: 9 juillet 2016
-    planche:
-      numero: cKc0515-0136
-      miniature: https://c1.staticflickr.com/9/8695/27655385133_e8b0bfd61b_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/27655385133/in/photolist-J8P5v4-tt4ZcL-wZ5tPm-tkzuXN-u172L9-f15aCR-JUpWWq
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0309
+  date: 7 juin 2015
+  planche:
+    numero: cKc0309-0088
+    miniature: https://c1.staticflickr.com/1/421/18027955894_2ed046cb52_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/18027955894/in/photolist-tt4ZcL-tkzuXN-u172L9
+  geolocalisation: 46°47'22.4"N 71°14'14.8"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0441
+  date: 28 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0515
+  date: 9 juillet 2016
+  planche:
+    numero: cKc0515-0136
+    miniature: https://c1.staticflickr.com/9/8695/27655385133_e8b0bfd61b_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/27655385133/in/photolist-J8P5v4-tt4ZcL-wZ5tPm-tkzuXN-u172L9-f15aCR-JUpWWq
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -54,7 +52,8 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 1-9 mm Ø, sphérique à arrondie puis cupuliforme, discoïdes, sessile, stipitée
+  apothecie: 1-9 mm Ø, sphérique à arrondie puis cupuliforme, discoïdes, sessile,
+    stipitée
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -67,7 +66,8 @@ description:
     Q = (1,4) 1,6 - 1,8 (1,9) ; N = 30
     Me = 18,6 × 10,9 µm ; Qe = 1,7
     (Piximètre, formule classique ; mesures issues d’une sporée, dans le bleu lactique)
-  asques: cylindriques octosporées, à apex arrondi, IKI -, non operculé, dont la base est acrorhynque
+  asques: cylindriques octosporées, à apex arrondi, IKI -, non operculé, dont la base
+    est acrorhynque
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -78,7 +78,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois ou branche pourris de feuillu, parfois au travers des copeaux de bois
+  biotopes: pousse sur bois ou branche pourris de feuillu, parfois au travers des
+    copeaux de bois
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -103,8 +104,10 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: |
-    De Claude Kaufholtz-Couture. « En réaction microchimique, non réactive dans le Soudan III. »
+  commentaires: 'De Claude Kaufholtz-Couture. « En réaction microchimique, non réactive
+    dans le Soudan III. »
+
+'
   conidies: 
   conidiome: 
   conidiophores: 
@@ -158,7 +161,9 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: couverte modérément à généreusement de poils bruns noirs, bordant la marge comme des cils, 1-2 mm de longueur, formant une palissade autour de la marge comme des cils
+  face-externe: couverte modérément à généreusement de poils bruns noirs, bordant
+    la marge comme des cils, 1-2 mm de longueur, formant une palissade autour de la
+    marge comme des cils
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -221,7 +226,11 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: nombreuses, simples, septées, dichotomiquement ramifiées, de deux types; 1) cylindriques, dont l'apex est claviforme jusqu'à 7 µm de largeur, avec contenu pailleté jaune or dans l'eau devenant rosâtre dans le Soudan, 200 - 207 × 6,3 - 7,1) µm en moyenne ; 2) cylindriques, dont l'apex forme une truelle (utriformes) jusqu'à 30-38 × 8-8,8 (9) µm de largeur
+  paraphyses: nombreuses, simples, septées, dichotomiquement ramifiées, de deux types;
+    1) cylindriques, dont l'apex est claviforme jusqu'à 7 µm de largeur, avec contenu
+    pailleté jaune or dans l'eau devenant rosâtre dans le Soudan, 200 - 207 × 6,3
+    - 7,1) µm en moyenne ; 2) cylindriques, dont l'apex forme une truelle (utriformes)
+    jusqu'à 30-38 × 8-8,8 (9) µm de largeur
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -238,7 +247,8 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: atténués à l'apex, à la base bifide, à paroi épaissie, avec plusieurs septa fins, brun très foncé 434,6 x 849,8 µm en moyenne
+  poils: atténués à l'apex, à la base bifide, à paroi épaissie, avec plusieurs septa
+    fins, brun très foncé 434,6 x 849,8 µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -255,8 +265,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Hohmeyer, H</b>. <i>Une clé pour les espèces d'Europe du genre Peziza L.</i>, extraite de Zeitschrift für Mykologie, Band. 52 (1), 1-248, April 1986, traduction par P. A. Renaud en collaboration avec R. Dougoud, Fribourg, 1988.
+  publications: "<b>Hohmeyer, H</b>. <i>Une clé pour les espèces d'Europe du genre
+    Peziza L.</i>, extraite de Zeitschrift für Mykologie, Band. 52 (1), 1-248, April
+    1986, traduction par P. A. Renaud en collaboration avec R. Dougoud, Fribourg,
+    1988.\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -310,3 +322,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

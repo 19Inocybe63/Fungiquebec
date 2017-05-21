@@ -1,51 +1,50 @@
 ---
+title: Amanita Farinosa
+date: 2017-03-13 00:00:00 Z
 nom: Amanita farinosa
-date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9648424458/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
 album-flickr:
-  - 72157672806318152
-
+- 72157672806318152
 details:
   nom-francais: Amanite farineuse ou Amanite poudrée de gris
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita farinosa</i> Schweinitz
-  litterature: Schweinitz, L.D. von. 1822. Synopsis fungorum Carolinae superioris. Schriften der Naturforschenden Gesellschaft zu Leipzig. 1:20-131
-
+  espece: "<i>Amanita farinosa</i> Schweinitz"
+  litterature: Schweinitz, L.D. von. 1822. Synopsis fungorum Carolinae superioris.
+    Schriften der Naturforschenden Gesellschaft zu Leipzig. 1:20-131
 collections:
-  - fongarium: cKc0092
-    date: 21 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°51'19.0"N 71°06'38.2"O
-    elevation: 60 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0130
-    date: 1 septembre 2013
-    planche:
-      numero: cKc0130-0034
-      miniature: https://c2.staticflickr.com/8/7376/14182055182_1200988e37_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/14182055182/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
-    geolocalisation: 46°45'23.55"N 71°19'19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0424
-    date: 20 août 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0092
+  date: 21 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°51'19.0"N 71°06'38.2"O
+  elevation: 60 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0130
+  date: 1 septembre 2013
+  planche:
+    numero: cKc0130-0034
+    miniature: https://c2.staticflickr.com/8/7376/14182055182_1200988e37_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/14182055182/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
+  geolocalisation: 46°45'23.55"N 71°19'19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0424
+  date: 20 août 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -64,7 +63,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base, 30-33 x 8-10 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, 30-33 x 8-10 µm en
+    moyenne
   basidiospores: |
     largement elliptiques en vue frontale, subglobuleuses à elliptiques vues de profil, lisses, à paroi mince, avec appendice hilaire, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, cyanophiles
     7,6 [8,2; 8,5] 9,1 x 5,9 [6,3; 6,5] 6,9 µm
@@ -73,7 +73,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus et conifères, apparaissant parfois dans des zones herbeuses urbaines à proximité des arbres
+  biotopes: pousse au sol, sous feuillus et conifères, apparaissant parfois dans des
+    zones herbeuses urbaines à proximité des arbres
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -90,7 +91,9 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 25-65 mm Ø, hémisphérique au début, devenant convexe à presque étalé, sec, gris, couvert à la surface d’une couche poudreuse de restes vélaires brun grisâtre, glabre
+  chapeau: 25-65 mm Ø, hémisphérique au début, devenant convexe à presque étalé, sec,
+    gris, couvert à la surface d’une couche poudreuse de restes vélaires brun grisâtre,
+    glabre
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -98,7 +101,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Rod Tulloss. « Also, I’d like to point out the thin, spike-like volval remnants around the top of the bulb. This is only the second time that I have seen this character in more than 35 years. An interesting phenomenon. »
+  commentaires: De Rod Tulloss. « Also, I’d like to point out the thin, spike-like
+    volval remnants around the top of the bulb. This is only the second time that
+    I have seen this character in more than 35 years. An interesting phenomenon. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -146,7 +151,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exoperidium: 
   face-externe: 
   face-poroide: 
@@ -208,7 +213,6 @@ description:
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
-  exhalaison: indistincte
   oeuf: 
   paracapillitium: 
   paraphyses: 
@@ -220,7 +224,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-90 x 3-10 mm Ø, cylindrique à ± égal, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
+  pied: 30-90 x 3-10 mm Ø, cylindrique à ± égal, bulbeux non marginé, glabre à poudreux,
+    blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis et parfois en ixocutis, formé d’hyphes de 2-8 µm Ø
@@ -244,8 +249,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications: "<b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>,
+    Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques\n"
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -254,8 +259,12 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   references: 
-  remarques: |
-    C'est la première fois que je vois un groupe aussi fourni de cette espèce. Habituellement, on la voit en petits groupes de 3 à 8 spécimens, mais pas en groupe de 20 et plus. Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
+  remarques: 'C''est la première fois que je vois un groupe aussi fourni de cette
+    espèce. Habituellement, on la voit en petits groupes de 3 à 8 spécimens, mais
+    pas en groupe de 20 et plus. Plusieurs spécimens furent envoyés à Rod Tulloss
+    aux fins d''analyses d''ADN.
+
+'
   rhizomorphes: 
   sac-sporifere: 
   saveur: indistincte
@@ -293,3 +302,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

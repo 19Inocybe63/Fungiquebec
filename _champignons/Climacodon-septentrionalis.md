@@ -1,31 +1,30 @@
 ---
+title: Climacodon Septentrionalis
+date: 2017-03-18 00:00:00 Z
 nom: Climacodon septentrionalis
-date: 2017-03-18 00:00:00
 image: https://c2.staticflickr.com/6/5666/20983721528_ec61923f61_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20983721528/in/photolist-yeXCLo-xYg4md-yeXHQS
 album-flickr:
-  - 72157679409777656
-
+- 72157679409777656
 details:
   nom-francais: Hydne septentrional
   ordre: Polyporales
   famille: Phanerochaetaceae
   genre: Climacodon
-  espece: <i>Climacodon septentrionalis</i> (Fr.) P. Karst.
-  litterature: Karsten, P.A. 1881. Enumeratio Hydnearum Fr. Fennicarum, systemate novo dispositarum. Revue Mycologique Toulouse. 3(9):19-21
-
+  espece: "<i>Climacodon septentrionalis</i> (Fr.) P. Karst."
+  litterature: Karsten, P.A. 1881. Enumeratio Hydnearum Fr. Fennicarum, systemate
+    novo dispositarum. Revue Mycologique Toulouse. 3(9):19-21
 collections:
-  - fongarium: cKc0450
-    date: 5 septembre 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°47'58.89"N 71°14'15.15"O
-    elevation: 88 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0450
+  date: 5 septembre 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°47'58.89"N 71°14'15.15"O
+  elevation: 88 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,11 @@ description:
   cellules-stromatiques: 
   chair: épaisse, fibreuse, coriace, immuable à la coupe
   chancre: 
-  chapeau: 100-150 (300) mm de largeur, 20-50 mm d'épaisseur à la base, en console, convexe, étalé à légèrement déprimé, atténué vers la marge, à contour semi-circulaire, collant à sec, tomenteux-rugueux, blanchâtre, puis crème jaunâtre, en amas imbriqués jusqu'à 100-400 mm de hauteur au total
-  cheilochrysocystides:
+  chapeau: 100-150 (300) mm de largeur, 20-50 mm d'épaisseur à la base, en console,
+    convexe, étalé à légèrement déprimé, atténué vers la marge, à contour semi-circulaire,
+    collant à sec, tomenteux-rugueux, blanchâtre, puis crème jaunâtre, en amas imbriqués
+    jusqu'à 100-400 mm de hauteur au total
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -232,14 +234,17 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+  publications: "<b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique
+    du Nord</i>, Les Publications du Québec, 2003, 727 p.\n"
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    L'arbre portait 3 spécimens, tout situés sur de longues fissures ; deux étaient à un mètre et demi du sol, un troisième spécimen à près de trois mètres du sol.
+  remarques: 'L''arbre portait 3 spécimens, tout situés sur de longues fissures ;
+    deux étaient à un mètre et demi du sol, un troisième spécimen à près de trois
+    mètres du sol.
+
+'
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -277,3 +282,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

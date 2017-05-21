@@ -1,31 +1,29 @@
 ---
+title: Lacrymaria Lacrymabunda
+date: 2017-03-25 00:00:00 Z
 nom: Lacrymaria lacrymabunda
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/6/5511/9147119220_73d737a9c6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9147119220/in/photolist-eWivmy-eWiz5w-eWinS5-eW79M6/
 album-flickr:
-  - 72157676250932573
-
+- 72157676250932573
 details:
   nom-francais: Psathyrelle pleureuse
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Lacrymaria
-  espece: <i>Lacrymaria lacrymabunda</i> (Bull.) Pat.
+  espece: "<i>Lacrymaria lacrymabunda</i> (Bull.) Pat."
   litterature: Patouillard, N. 1887. Les Hyménomycètes d'Europe. :1-166
-
 collections:
-  - fongarium: cKc0052
-    date: 26 juin 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45'28.7"N 71°19'37.0"O
-    elevation: 100 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0052
+  date: 26 juin 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45'28.7"N 71°19'37.0"O
+  elevation: 100 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +66,12 @@ description:
   cellules-stromatiques: 
   chair: épaisse, blanchâtre à brunâtre
   chancre: 
-  chapeau: 14-87 mm Ø, hémisphérique à convexe puis campanulé, étalé à subétalé à la fin, tomenteux, non hygrophane, brun tan au début, avec fibrilles laineuses innées radiales ou groupées pour former des écailles imbriquées brun grisâtre à brun-jaune, plus nombreuses vers la marge, reflet olivâtre du milieu jusqu'à la marge
-  cheilochrysocystides:
+  chapeau: 14-87 mm Ø, hémisphérique à convexe puis campanulé, étalé à subétalé à
+    la fin, tomenteux, non hygrophane, brun tan au début, avec fibrilles laineuses
+    innées radiales ou groupées pour former des écailles imbriquées brun grisâtre
+    à brun-jaune, plus nombreuses vers la marge, reflet olivâtre du milieu jusqu'à
+    la marge
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -173,7 +175,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, larges, serrées à très serrées, avec lamellules, ± concolores au chapeau à brun foncé, arêtes blanchâtres, fimbriées
+  lames: adnées, larges, serrées à très serrées, avec lamellules, ± concolores au
+    chapeau à brun foncé, arêtes blanchâtres, fimbriées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +210,12 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 50-150 x 5-20 mm Ø, égal à subégal, creux, glabre, soyeux et blanchâtre vers l'apex, engainé de fibrilles vélaires depuis la base jusqu'à une zone annuliforme au début, évanescente, à zone parfois basale ou gaine se brisant en écailles ou plaques fugaces sur la partie inférieure, entièrement blanc, devenant sordide, brun jaunâtre à brun ocre vers la base, parfois teinté de jaunâtre avec l'âge, avec mycélium basal jaune pâle
+  pied: 50-150 x 5-20 mm Ø, égal à subégal, creux, glabre, soyeux et blanchâtre vers
+    l'apex, engainé de fibrilles vélaires depuis la base jusqu'à une zone annuliforme
+    au début, évanescente, à zone parfois basale ou gaine se brisant en écailles ou
+    plaques fugaces sur la partie inférieure, entièrement blanc, devenant sordide,
+    brun jaunâtre à brun ocre vers la base, parfois teinté de jaunâtre avec l'âge,
+    avec mycélium basal jaune pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -282,3 +290,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

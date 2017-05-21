@@ -1,31 +1,30 @@
 ---
+title: Entoloma Conicum
+date: 2017-03-21 00:00:00 Z
 nom: Entoloma conicum
-date: 2017-03-21 00:00:00
 image: https://c2.staticflickr.com/6/5575/14701084889_7123cd3564_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14701084889/in/photolist-op5SWB-op5UmR-qfrG8V
 album-flickr:
-  - 72157675481738046
-
+- 72157675481738046
 details:
   nom-francais: Entolome conique
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: <i>Entoloma conicum</i> (Sacc.) Hesler
-  litterature: Hesler, L.R. 1967. Entoloma (Rhodophyllus) in Southeastern North America. Beihefte zur Nova Hedwigia. 23:1-220
-
+  espece: "<i>Entoloma conicum</i> (Sacc.) Hesler"
+  litterature: Hesler, L.R. 1967. Entoloma (Rhodophyllus) in Southeastern North America.
+    Beihefte zur Nova Hedwigia. 23:1-220
 collections:
-  - fongarium: cKc0203
-    date: 11 août 2014
-    planche:
-      numero: cKc0203-0052
-      miniature: https://c1.staticflickr.com/9/8616/15916006195_f3137a12bd_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15916006195/in/photolist-op5SWB-op5UmR-qfrG8V
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0203
+  date: 11 août 2014
+  planche:
+    numero: cKc0203-0052
+    miniature: https://c1.staticflickr.com/9/8616/15916006195_f3137a12bd_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15916006195/in/photolist-op5SWB-op5UmR-qfrG8V
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base, 26,2 [32,1; 39,3] 45,2 x 8,1 [8,6; 9,2] 9,7 µm
+  basides: claviformes, tétrasporiques, non bouclées à la base, 26,2 [32,1; 39,3]
+    45,2 x 8,1 [8,6; 9,2] 9,7 µm
   basidiospores: |
     hétérodiamétriques à prédominance de 5 angles rarement 6 angles, à très rarement cubique à subcubiques, lisses, à paroi mince, avec appendice hilaire, à contenu dominant uniguttulé à occasionnellement biguttulé, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     7,7 [8,7; 9,1] 10,1 x 5,6 [6,5; 6,9] 7,7 µm
@@ -72,7 +72,9 @@ description:
   cellules-stromatiques: 
   chair: mince, brunâtre
   chancre: 
-  chapeau: 19 mm Ø, conique-campanulé puis étalé, papillé, subhygrophane, fibrilleux argenté, puis glabre, zoné et canescent, gris-brun foncé à brun, crème grisâtre pâle et luisant au sec, à cuticule dépassant les lames au pourtour
+  chapeau: 19 mm Ø, conique-campanulé puis étalé, papillé, subhygrophane, fibrilleux
+    argenté, puis glabre, zoné et canescent, gris-brun foncé à brun, crème grisâtre
+    pâle et luisant au sec, à cuticule dépassant les lames au pourtour
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -80,7 +82,15 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Il est le seul petit entolome à avoir cet aspect étrange, subhygrophane, fribrilleux-argenté sous la loupe, allure typique ici, mais difficile parfois sous la pluie. Dans ma galerie, <i>E. speciosissimum</i> (de mémoire, pas sûr du nom) et <i>E. pseudocelatum</i> sont parfois nommés <i>E. conicum</i>, par des lumpers (lumpers = ceux qui regroupent les espèces semblables sous un même taxon ; il y a aussi les splitters = ceux qui séparent les espèces d'après des caractères variables, selon le climat, p. ex.). <i>E. conicum</i> en est un facile dans le dédale des petits entolomes. Il a de belles petites basidiospores à 5 côtés, fascinant ! »
+  commentaires: De Yves Lamoureux. « Il est le seul petit entolome à avoir cet aspect
+    étrange, subhygrophane, fribrilleux-argenté sous la loupe, allure typique ici,
+    mais difficile parfois sous la pluie. Dans ma galerie, <i>E. speciosissimum</i>
+    (de mémoire, pas sûr du nom) et <i>E. pseudocelatum</i> sont parfois nommés <i>E.
+    conicum</i>, par des lumpers (lumpers = ceux qui regroupent les espèces semblables
+    sous un même taxon ; il y a aussi les splitters = ceux qui séparent les espèces
+    d'après des caractères variables, selon le climat, p. ex.). <i>E. conicum</i>
+    en est un facile dans le dédale des petits entolomes. Il a de belles petites basidiospores
+    à 5 côtés, fascinant ! »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -206,7 +216,9 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 50-65 x 1-3 mm Ø, cylindrique, élancé, égal, creux, lisse, avec fibrilles argentées fugaces, vite glabre sauf l'apex, brun à gris, parfois avec mycélium basal
+  pied: 50-65 x 1-3 mm Ø, cylindrique, élancé, égal, creux, lisse, avec fibrilles
+    argentées fugaces, vite glabre sauf l'apex, brun à gris, parfois avec mycélium
+    basal
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -280,3 +292,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

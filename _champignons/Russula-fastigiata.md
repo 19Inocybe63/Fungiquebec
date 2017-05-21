@@ -1,61 +1,60 @@
 ---
+title: Russula Fastigiata
+date: 2017-03-27 00:00:00 Z
 nom: Russula fastigiata
-date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/1/376/19393008420_da3416cf4f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19393008420/in/photolist-CzJihz-wh2GQt-wwcNoW-vY1Eiy-wdj9TQ-v1RKbo-v1RCjs-vxGeL9-uTie5N-vxPT5H
 album-flickr:
-  - 72157673767811843
-
+- 72157673767811843
 details:
   nom-francais: Russule fastigiée
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula fastigiata</i> Fatto
-  litterature: Fatto, R.M. 2002. Some Russulas of the subsection Urentinae. Mycotaxon. 84:229-244
-
+  espece: "<i>Russula fastigiata</i> Fatto"
+  litterature: Fatto, R.M. 2002. Some Russulas of the subsection Urentinae. Mycotaxon.
+    84:229-244
 collections:
-  - fongarium: cKc0334
-    date: 10 juillet 2015
-    planche:
-      numero: cKc0334-0109
-      miniature: https://c2.staticflickr.com/2/1698/24010540869_e8268168c2_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/24010540869/in/photolist-CzJihz-wh2GQt-wwcNoW-vY1Eiy-wdj9TQ-v1RKbo-v1RCjs-vxPT5H-vxGeL9-uTie5N
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Yves Lamoureux
-  - fongarium: cKc0338
-    date: 13 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0354
-    date: 19 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0384
-    date: 27 juillet 2015
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0334
+  date: 10 juillet 2015
+  planche:
+    numero: cKc0334-0109
+    miniature: https://c2.staticflickr.com/2/1698/24010540869_e8268168c2_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/24010540869/in/photolist-CzJihz-wh2GQt-wwcNoW-vY1Eiy-wdj9TQ-v1RKbo-v1RCjs-vxPT5H-vxGeL9-uTie5N
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Yves Lamoureux
+- fongarium: cKc0338
+  date: 13 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0354
+  date: 19 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0384
+  date: 27 juillet 2015
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -67,8 +66,9 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+  articles: "<b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées
+    par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de
+    gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.\n"
   ascome: 
   ascospores: 
   asques: 
@@ -77,7 +77,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à largement claviformes, tétrasporiques, non bouclées à la base, à paroi mince à légèrement épaissie, à contenu vacuolaire, à apex tronquée, 39-44 x 12,5-14 µm en moyenne
+  basides: claviformes à largement claviformes, tétrasporiques, non bouclées à la
+    base, à paroi mince à légèrement épaissie, à contenu vacuolaire, à apex tronquée,
+    39-44 x 12,5-14 µm en moyenne
   basidiospores: |
     elliptiques en vue frontale, subglobuleuses à largement elliptiques vues de profil, moyennement verruqueuses-échinulées, munies de rares caténulations, avec des proéminences jusqu'à 1,5 µm de hauteur, à paroi mince à légèrement épaissie, appendice hilaire proéminent, plage hilaire amyloïde, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (8,1) 8,2-9 (9,3) x (6,7) 7-8 (8,3) µm
@@ -87,7 +89,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous chêne rouge et hêtre à grandes feuillues, <i>Fagus</i>, <i>Quercus</i>
+  biotopes: pousse au sol, sous chêne rouge et hêtre à grandes feuillues, <i>Fagus</i>,
+    <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -104,8 +107,9 @@ description:
   cellules-stromatiques: 
   chair: blanche, rose à rouge sous la cuticule
   chancre: 
-  chapeau: 31-100 mm Ø, convexe puis étalé déprimé, viscidule à l’humidité, rouge, sec et pruineux, cuticule se pèle du ⅓ jusqu'au ½ du rayon
-  cheilochrysocystides:
+  chapeau: 31-100 mm Ø, convexe puis étalé déprimé, viscidule à l’humidité, rouge,
+    sec et pruineux, cuticule se pèle du ⅓ jusqu'au ½ du rayon
+  cheilochrysocystides: 
   cheilocystides: nombreuses, semblables aux pleurocystides
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -207,7 +211,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, blanche crème puis jaunâtres, avec lamelles et lamellules, rares (1-3), furcations près du pied
+  lames: adnées, serrées, blanche crème puis jaunâtres, avec lamelles et lamellules,
+    rares (1-3), furcations près du pied
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -240,16 +245,21 @@ description:
   peritheces: 
   phenologie: juillet à août
   phialoconidies: 
-  pied: 31-34 x 7-17 mm Ø, blanc, plein lorsque jeune, farci à maturité, immuable à la coupe
+  pied: 31-34 x 7-17 mm Ø, blanc, plein lorsque jeune, farci à maturité, immuable
+    à la coupe
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: nombreuses à occasionnelles, cylindriques-clavées, à 1-2 septa, sulfovanilline positive (SV+), (46) 50-92 (95) x (6) 6,5-10,5 (11) µm en moyenne
+  pileocystides: nombreuses à occasionnelles, cylindriques-clavées, à 1-2 septa, sulfovanilline
+    positive (SV+), (46) 50-92 (95) x (6) 6,5-10,5 (11) µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, avec contenu pailleté hyalin et réfringent dans le R.C.Sds, sulfovanilline positive (SV+) 70-80 x 8,5-11 µm en moyenne
-  poils: abondants, septés, en chaîne, 11-31 x 2,5-6,5 µm en moyenne, avec la cellule finale qui se termine atténué 20-45 ± de long
+  pleurocystides: abondantes, longuement cylindriques à claviformes, avec apex obtus,
+    mucronés, moniliformes, avec contenu pailleté hyalin et réfringent dans le R.C.Sds,
+    sulfovanilline positive (SV+) 70-80 x 8,5-11 µm en moyenne
+  poils: abondants, septés, en chaîne, 11-31 x 2,5-6,5 µm en moyenne, avec la cellule
+    finale qui se termine atténué 20-45 ± de long
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -292,7 +302,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: xanthosporée, IVa-IVc, jaune clair à jaune moyen, d'après la charte de couleur de Romagnesi ; F-G d'après la charte de couleur de Kibby
+  sporee: xanthosporée, IVa-IVc, jaune clair à jaune moyen, d'après la charte de couleur
+    de Romagnesi ; F-G d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -317,3 +328,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

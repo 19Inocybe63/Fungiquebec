@@ -1,31 +1,37 @@
 ---
+title: Gloioxanthomyces Nitidus
+date: 2017-03-24 00:00:00 Z
 nom: Gloioxanthomyces nitidus
-date: 2017-03-24 00:00:00
 image: https://c2.staticflickr.com/8/7343/9268009925_e956b6717f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9268009925/in/photolist-f7Z1Yi-f7YYsz-f8egtd
 album-flickr:
-  - 72157672736344694
-
+- 72157672736344694
 details:
   nom-francais: Hygrophore luisant
   ordre: Agaricales
   famille: Incertae sedis
   genre: Gloioxanthomyces
-  espece: <i>Gloioxanthomyces nitidus</i> (Berk. & M.A. Curtis) Lodge, Vizzini, Ercole & Boertm.,
-  litterature: Lodge, D.J.; Padamsee, M.; Matheny, P.B., Aime, M.C.; Cantrell, S.A.; Boertmann, D.; Kovalenko, A.; Moncalvo, J.-M.; Vilgalys, R.; Vizzini, A.; Larsson, E.; Lücking, R.; Griffith, G.; Smith, M.; Norvell, L.; Desjardin, D.E.; Redhead, S.; Ovrebo, C.L.; Lickey, E.B.; Ercole, E.; Hughes, K.W.; Courtecuisse, Young, A.; Binder, M.; Minnis, A.; Lindner, D.L.; Ortiz-Santana, B.; Haight, J.;Læssøe, T.; Baroni, T.J., Geml, J., Hattori, T.R. 2013. Molecular phylogeny, morphology, pigment chemistry and ecology in Hygrophoraceae (Agaricales). Fungal Diversity. 64:1-99
-
+  espece: "<i>Gloioxanthomyces nitidus</i> (Berk. & M.A. Curtis) Lodge, Vizzini, Ercole
+    & Boertm.,"
+  litterature: Lodge, D.J.; Padamsee, M.; Matheny, P.B., Aime, M.C.; Cantrell, S.A.;
+    Boertmann, D.; Kovalenko, A.; Moncalvo, J.-M.; Vilgalys, R.; Vizzini, A.; Larsson,
+    E.; Lücking, R.; Griffith, G.; Smith, M.; Norvell, L.; Desjardin, D.E.; Redhead,
+    S.; Ovrebo, C.L.; Lickey, E.B.; Ercole, E.; Hughes, K.W.; Courtecuisse, Young,
+    A.; Binder, M.; Minnis, A.; Lindner, D.L.; Ortiz-Santana, B.; Haight, J.;Læssøe,
+    T.; Baroni, T.J., Geml, J., Hattori, T.R. 2013. Molecular phylogeny, morphology,
+    pigment chemistry and ecology in Hygrophoraceae (Agaricales). Fungal Diversity.
+    64:1-99
 collections:
-  - fongarium: cKc0075
-    date: 12 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0075
+  date: 12 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -50,7 +56,8 @@ description:
   basidiospores: 
   basidioles: 
   basidiome: 
-  biotopes: pousse souvent sur bois pourri, en milieux humides des forêts de conifères ou mixtes
+  biotopes: pousse souvent sur bois pourri, en milieux humides des forêts de conifères
+    ou mixtes
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,8 +74,10 @@ description:
   cellules-stromatiques: 
   chair: fragile, très mince, jaunâtre puis blanchâtre
   chancre: 
-  chapeau: 10-40 mm Ø, convexe-ombiliqué, puis étalé et légèrement déprimé au centre, visqueux, glabre, hygrophane, jaune brillant, jaune orangé à jaune pâle au frais, puis crème pâle à blanchâtre, à marge incurvée, translucide-striée à l'humidité
-  cheilochrysocystides:
+  chapeau: 10-40 mm Ø, convexe-ombiliqué, puis étalé et légèrement déprimé au centre,
+    visqueux, glabre, hygrophane, jaune brillant, jaune orangé à jaune pâle au frais,
+    puis crème pâle à blanchâtre, à marge incurvée, translucide-striée à l'humidité
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -170,7 +179,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: arquées, puis longuement décurrentes, assez larges, interveinées, ± espacées, concolores au chapeau, à arêtes entières, visqueuses
+  lames: arquées, puis longuement décurrentes, assez larges, interveinées, ± espacées,
+    concolores au chapeau, à arêtes entières, visqueuses
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -203,7 +213,8 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 20-80 x 2-5 mm Ø, cylindrique, égal à légèrement élargi vers l'apex, parfois flexueux, creux, lisse, visqueux, luisant au sec, concolore au chapeau
+  pied: 20-80 x 2-5 mm Ø, cylindrique, égal à légèrement élargi vers l'apex, parfois
+    flexueux, creux, lisse, visqueux, luisant au sec, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -272,3 +283,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

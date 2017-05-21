@@ -1,31 +1,29 @@
 ---
+title: Suillus Spraguei
+date: 2017-03-13 00:00:00 Z
 nom: Suillus spraguei
-date: 2017-03-13 00:00:00
 image: https://c2.staticflickr.com/4/3868/14774195389_5de782aa3c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14774195389/in/photolist-ovxzgY-ovxByH-prxbdT
 album-flickr:
-  - 72157675629317475
-
+- 72157675629317475
 details:
   nom-francais: 
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
-  espece: <i>Suillus spraguei</i> (Berk. & M.A. Curtis) Kuntze
-  litterature: (Berk. & M.A. Curtis) Kuntze, Revis. gen. pl., 3(2), 536, 1898
-
+  espece: "<i>Suillus spraguei</i> (Berk. & M.A. Curtis) Kuntze"
+  litterature: "(Berk. & M.A. Curtis) Kuntze, Revis. gen. pl., 3(2), 536, 1898"
 collections:
-  - fongarium: cKc0209
-    date: 18 août 2014
-    planche:
-      numero: cKc0209-0057
-      miniature: https://c2.staticflickr.com/8/7526/15385200923_da10196b1b_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15385200923/in/photolist-ovxzgY-ovxByH-prxbdT
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0209
+  date: 18 août 2014
+  planche:
+    numero: cKc0209-0057
+    miniature: https://c2.staticflickr.com/8/7526/15385200923_da10196b1b_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15385200923/in/photolist-ovxzgY-ovxByH-prxbdT
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -61,7 +59,8 @@ description:
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: cylindriques, bisporiques, non bouclées à la base, de 30,7 x 6,9 µm en moyenne
+  caulobasides: cylindriques, bisporiques, non bouclées à la base, de 30,7 x 6,9 µm
+    en moyenne
   caulocystides: 
   caulocystides-medianes: 
   caulocystides-sommitales: 
@@ -70,9 +69,12 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: jaunâtre, brunâtre dans le pied, rougissant puis brunissant légèrement à la coupe
+  chair: jaunâtre, brunâtre dans le pied, rougissant puis brunissant légèrement à
+    la coupe
   chancre: 
-  chapeau: 30-100 mm Ø, convexe puis largement convexe à subétalé, parfois déprimé, sec, méchuleux, rouge vin, parfois noirâtre au pourtour, à marge souvent appendiculée de restes vélaires blanchâtres
+  chapeau: 30-100 mm Ø, convexe puis largement convexe à subétalé, parfois déprimé,
+    sec, méchuleux, rouge vin, parfois noirâtre au pourtour, à marge souvent appendiculée
+    de restes vélaires blanchâtres
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -205,14 +207,16 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 40-100 x 8-20 mm Ø, égal à élargi vers la base, plein, chiné-fibrilleux, rouge vineux sur fond jaunâtre
+  pied: 40-100 x 8-20 mm Ø, égal à élargi vers la base, plein, chiné-fibrilleux, rouge
+    vineux sur fond jaunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurocystides: abondantes, proéminentes, lagéniformes, assez souvent avec des incrustations, rarement capitées, 33,6 [41,7; 51,5] 59,7 x 7 [8,3; 9,9] 11,3 µm
+  pleurocystides: abondantes, proéminentes, lagéniformes, assez souvent avec des incrustations,
+    rarement capitées, 33,6 [41,7; 51,5] 59,7 x 7 [8,3; 9,9] 11,3 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -274,12 +278,16 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: anguleux et un peu disposés radialement, larges, 3-5 mm de largeur, souvent subdécurrents, non facilement détachable de la chair du chapeau, jaune ocré pâle, brunissant avec l'âge, 4-8 mm de longueur
+  tubes: anguleux et un peu disposés radialement, larges, 3-5 mm de largeur, souvent
+    subdécurrents, non facilement détachable de la chair du chapeau, jaune ocré pâle,
+    brunissant avec l'âge, 4-8 mm de longueur
   type: 
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: blanchâtre ou rosé, fibrilleux-membraneux, laissant un petit anneau fibrilleux ou une zone annuliforme sur le pied
+  voile-partiel: blanchâtre ou rosé, fibrilleux-membraneux, laissant un petit anneau
+    fibrilleux ou une zone annuliforme sur le pied
   volve: 
   zone-perihymeniale: 
 ---
+

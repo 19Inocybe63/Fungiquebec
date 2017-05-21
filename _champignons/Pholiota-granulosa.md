@@ -1,71 +1,70 @@
 ---
+title: Pholiota Granulosa
+date: 2017-03-25 00:00:00 Z
 nom: Pholiota granulosa
-date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7250/7661083404_364b14e24a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7661083404/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
 album-flickr:
-  - 72157673298001334
-
+- 72157673298001334
 details:
   nom-francais: Pholiote granuleuse
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
-  espece: <i>Pholiota granulosa</i> (Peck) A.H. Sm. & Hesler
-  litterature: Smith, A.H.; Hesler, L.R. 1968. The North American species of Pholiota. :1-402
-
+  espece: "<i>Pholiota granulosa</i> (Peck) A.H. Sm. & Hesler"
+  litterature: Smith, A.H.; Hesler, L.R. 1968. The North American species of Pholiota.
+    :1-402
 collections:
-  - fongarium: cKc0009
-    date: 27 juillet 2012
-    planche:
-      numero: cKc0009-0020
-      miniature: https://c1.staticflickr.com/9/8391/8577717910_39dd75c396_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8577717910/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
-    geolocalisation: 46°53'35.73"N 71°15'01.04"O
-    elevation: 210 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0099
-    date: 31 juillet 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°46'21.6"N 71°10'29.3"O
-    elevation: 90 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0174
-    date: 29 juin 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0186
-    date: 12 juillet 2014
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-  - fongarium: cKc0194
-    date: 6 août 2014
-    planche:
-      numero: cKc0194-0078
-      miniature: https://c1.staticflickr.com/9/8692/16843365459_e7dc03e1aa_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16843365459/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0009
+  date: 27 juillet 2012
+  planche:
+    numero: cKc0009-0020
+    miniature: https://c1.staticflickr.com/9/8391/8577717910_39dd75c396_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8577717910/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
+  geolocalisation: 46°53'35.73"N 71°15'01.04"O
+  elevation: 210 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0099
+  date: 31 juillet 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°46'21.6"N 71°10'29.3"O
+  elevation: 90 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0174
+  date: 29 juin 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0186
+  date: 12 juillet 2014
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
+- fongarium: cKc0194
+  date: 6 août 2014
+  planche:
+    numero: cKc0194-0078
+    miniature: https://c1.staticflickr.com/9/8692/16843365459_e7dc03e1aa_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16843365459/in/photolist-rEoDJK-e4Z3G7-oktKv2-ozK5ps-nS7wGj-nS8akP-fkEcqL-cEZ4bU
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -86,7 +85,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à largement cylindriques, claviformes, parfois lagéniformes, bisporiques à tétrasporiques, bouclées à la base, 24-33 x 6-8 µm
+  basides: cylindriques à largement cylindriques, claviformes, parfois lagéniformes,
+    bisporiques à tétrasporiques, bouclées à la base, 24-33 x 6-8 µm
   basidiospores: |
     elliptiques à subovoïdes en vue frontale, elliptiques à subphaséoliformes (en haricot) vues de profil, avec parfois une ligne ventrale plus droite que la ligne dorsale, lisses, à paroi mince, avec appendice hilaire et pore germinatif petit entre 0,5-0,6 µm, à contenu uniguttulé, brun pâle dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     7,8 [8,4; 8,7] 11,3 x 4 [4,4; 4,5] 6,7 µm
@@ -102,7 +102,8 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: rares, présentes surtout à l’apex, subclavées, ressemblent plus à des hyphes terminales
+  caulocystides: rares, présentes surtout à l’apex, subclavées, ressemblent plus à
+    des hyphes terminales
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -112,9 +113,14 @@ description:
   cellules-stromatiques: 
   chair: mince, ochracé-aqueux, immuable à la coupe
   chancre: 
-  chapeau: 10-35 mm Ø, convexe puis largement convexe, sec, densément couvert de fines squamules fibrilleuses dressées au disque, ± granuleuses et plus apprimées vers la marge ; jaune-brun riche brillant, brun ambre ou brun soudan sur fond jaunâtre entre les squamules, à marge longtemps incurvée, appendiculée de délicats restes véliques jaunes au début
-  cheilochrysocystides:
-  cheilocystides: abondantes en touffes, piriformes à largement clavées, subcylindriques, rarement subbecquées
+  chapeau: 10-35 mm Ø, convexe puis largement convexe, sec, densément couvert de fines
+    squamules fibrilleuses dressées au disque, ± granuleuses et plus apprimées vers
+    la marge ; jaune-brun riche brillant, brun ambre ou brun soudan sur fond jaunâtre
+    entre les squamules, à marge longtemps incurvée, appendiculée de délicats restes
+    véliques jaunes au début
+  cheilochrysocystides: 
+  cheilocystides: abondantes en touffes, piriformes à largement clavées, subcylindriques,
+    rarement subbecquées
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -122,7 +128,14 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De A. H. Smith. « La distribution de cette espèce en Amérique du Nord est demeurée incertaine à cause de sa grande confusion avec <i>Flammulaster erinaceellus</i>, <i>P. limulata</i> et <i>P. muricata</i>. <i>Naucoria muricata</i> a déjà été différenciée seulement par ses cheilocystides, mais se définit mieux actuellement comme une <i>P. erinaceella</i> à lames jaunes. <i>Flammula limulata</i>, très proche de <i>P. granulosa</i>, a un pileipellis trichodermique formé d’hyphes plus lourdement ornementées et une trame lamellaire plus fortement colorée. Les deux poussent sur conifères et ne sont pas considérées comme synonymes. »
+  commentaires: De A. H. Smith. « La distribution de cette espèce en Amérique du Nord
+    est demeurée incertaine à cause de sa grande confusion avec <i>Flammulaster erinaceellus</i>,
+    <i>P. limulata</i> et <i>P. muricata</i>. <i>Naucoria muricata</i> a déjà été
+    différenciée seulement par ses cheilocystides, mais se définit mieux actuellement
+    comme une <i>P. erinaceella</i> à lames jaunes. <i>Flammula limulata</i>, très
+    proche de <i>P. granulosa</i>, a un pileipellis trichodermique formé d’hyphes
+    plus lourdement ornementées et une trame lamellaire plus fortement colorée. Les
+    deux poussent sur conifères et ne sont pas considérées comme synonymes. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -215,7 +228,9 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées trapues, plutôt étroites (3-4 mm chez les grands basidiomes), plus larges près du pied, atténuées vers la marge, serrées à très serrées, demeurant jaune pâle, chamois ou jaune antimoine, ne devenant pas tachées, à arêtes entières
+  lames: adnées trapues, plutôt étroites (3-4 mm chez les grands basidiomes), plus
+    larges près du pied, atténuées vers la marge, serrées à très serrées, demeurant
+    jaune pâle, chamois ou jaune antimoine, ne devenant pas tachées, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -248,10 +263,17 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-50 x 2-3 (4) mm Ø, égal, vite tubuleux ou creux, jaune pâle vers l’apex, finement fibrileux-furfuracé jaune ou concolore aux squamules du chapeau sous la zone annuliforme, devenant brun rouille foncé depuis la base, avec feutrage de mycélium pâle à la base
+  pied: 30-50 x 2-3 (4) mm Ø, égal, vite tubuleux ou creux, jaune pâle vers l’apex,
+    finement fibrileux-furfuracé jaune ou concolore aux squamules du chapeau sous
+    la zone annuliforme, devenant brun rouille foncé depuis la base, avec feutrage
+    de mycélium pâle à la base
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, formé d’hyphes superficielles agrégées en faisceaux, bouclées, à paroi mince, presque lisses, aspérulées ou finement rugueuses, 8-18 µm de long, à cellule terminale un peu cystidioïde, ou légèrement ellipsoïde, avec subcutis formés d’hyphes apprimées, lisses, parfois incrustées, rouille cannelle, plus étroites que celles des faisceaux
+  pileipellis: en cutis, formé d’hyphes superficielles agrégées en faisceaux, bouclées,
+    à paroi mince, presque lisses, aspérulées ou finement rugueuses, 8-18 µm de long,
+    à cellule terminale un peu cystidioïde, ou légèrement ellipsoïde, avec subcutis
+    formés d’hyphes apprimées, lisses, parfois incrustées, rouille cannelle, plus
+    étroites que celles des faisceaux
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -323,3 +345,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

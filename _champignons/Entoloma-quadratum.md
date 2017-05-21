@@ -1,31 +1,30 @@
 ---
+title: Entoloma Quadratum
+date: 2017-03-23 00:00:00 Z
 nom: Entoloma quadratum
-date: 2017-03-23 00:00:00
 image: https://c2.staticflickr.com/6/5569/14774140147_24ec6dfe42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14774140147/in/photolist-q1NzQF-oKZuMC-ovxk9g
 album-flickr:
-  - 72157674940068240
-
+- 72157674940068240
 details:
   nom-francais: Entolome saumon
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
-  espece: <i>Entoloma quadratum</i> (Berk. & M.A. Curtis) E. Horak
-  litterature: Horak, E. 1976. On cuboid-spored species of Entoloma (Agaricales). Sydowia. 28(1-6):171-237
-
+  espece: "<i>Entoloma quadratum</i> (Berk. & M.A. Curtis) E. Horak"
+  litterature: Horak, E. 1976. On cuboid-spored species of Entoloma (Agaricales).
+    Sydowia. 28(1-6):171-237
 collections:
-  - fongarium: cKc0206
-    date: 18 août 2014
-    planche:
-      numero: cKc0206-0054
-      miniature: https://c2.staticflickr.com/8/7583/15761651419_03508decf5_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15761651419/in/photolist-q1NzQF-oKZuMC-ovxk9g
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0206
+  date: 18 août 2014
+  planche:
+    numero: cKc0206-0054
+    miniature: https://c2.staticflickr.com/8/7583/15761651419_03508decf5_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/15761651419/in/photolist-q1NzQF-oKZuMC-ovxk9g
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -72,7 +71,8 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, concolore au chapeau à blanchâtre
   chancre: 
-  chapeau: 8-40 mm Ø, conique à campanulé, papillé, lisse à finement squamuleux, hygrophane, saumon à orange saumon à marge serrulée, translucide-striée à l'humidité
+  chapeau: 8-40 mm Ø, conique à campanulé, papillé, lisse à finement squamuleux, hygrophane,
+    saumon à orange saumon à marge serrulée, translucide-striée à l'humidité
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -173,7 +173,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées-émarginées à adnexées, larges, ventrues, subespacées, rose saumon à orange saumon, à arêtes concolores aux faces ou plus pâles
+  lames: adnées-émarginées à adnexées, larges, ventrues, subespacées, rose saumon
+    à orange saumon, à arêtes concolores aux faces ou plus pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -206,7 +207,9 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 40-130 x 2-6 mm Ø, longuement cylindrique, égal à légèrement élargi vers la base, tordu, creux, lisse, pruineux vers l'apex, strié longitudinalement, concolore au chapeau
+  pied: 40-130 x 2-6 mm Ø, longuement cylindrique, égal à légèrement élargi vers la
+    base, tordu, creux, lisse, pruineux vers l'apex, strié longitudinalement, concolore
+    au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -279,3 +282,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

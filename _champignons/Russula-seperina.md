@@ -1,31 +1,29 @@
 ---
+title: Russula Seperina
+date: 2017-03-27 00:00:00 Z
 nom: Russula seperina
-date: 2017-03-27 00:00:00
 image: https://c2.staticflickr.com/6/5583/15011778666_ffc8af6d78_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15011778666/in/photolist-qF7LLH-oSxhN7-oC5sZm
 album-flickr:
-  - 72157674244776193
-
+- 72157674244776193
 details:
   nom-francais: Russule noircie ou Russule de la Sevre
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula seperina</i> Dupain
+  espece: "<i>Russula seperina</i> Dupain"
   litterature: Dupain 1913, Bull. Soc. Mycol. France 28:181, t. 7:1-6
-
 collections:
-  - fongarium: cKc0216
-    date: 25 août 2014
-    planche:
-      numero: cKc0216-0067
-      miniature: https://c1.staticflickr.com/9/8626/16195227057_5278c8405a_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16195227057/in/photolist-qF7LLH-oSxhN7-oC5sZm
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
-
+- fongarium: cKc0216
+  date: 25 août 2014
+  planche:
+    numero: cKc0216-0067
+    miniature: https://c1.staticflickr.com/9/8626/16195227057_5278c8405a_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16195227057/in/photolist-qF7LLH-oSxhN7-oC5sZm
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: Claude Kaufholtz-Couture (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +44,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à claviformes élancées, tétrasporiques, non bouclées à la base, 37,7 [45,2; 51] 58,5 x 10,3 [11,6; 12,6] 13,9 µm en moyenne
+  basides: claviformes à claviformes élancées, tétrasporiques, non bouclées à la base,
+    37,7 [45,2; 51] 58,5 x 10,3 [11,6; 12,6] 13,9 µm en moyenne
   basidiospores: |
     globuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verruqueuses-échinulées, avec quelques rares connexifs, avec proéminences jusqu’à 1,0 µm de hauteur, à paroi mince, appendice hilaire pas toujours bien visible, ainsi que la plage hilaire 2,2-3,5 µm, à contenu uniguttulé, subhyalines dans le NaCl iso 0,9%, amyloïdes
     7,6 [8,7; 9,2] 10,4 x 6,5 [7,2; 7,5] 8,3 µm
@@ -72,8 +71,9 @@ description:
   cellules-stromatiques: 
   chair: blanche, rougit puis grisonne à la coupe, ou au grattage
   chancre: 
-  chapeau: 47 mm Ø, convexe puis étalé, pruineux, cuticule se pèle du ¼-¾ du rayon, rouge à rouge vin
-  cheilochrysocystides:
+  chapeau: 47 mm Ø, convexe puis étalé, pruineux, cuticule se pèle du ¼-¾ du rayon,
+    rouge à rouge vin
+  cheilochrysocystides: 
   cheilocystides: peu nombreuses et non projetées, semblables aux pleurocystides
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -82,7 +82,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Il semble y avoir des hyphes partiellement incrustées par endroits. »
+  commentaires: De Claude Kaufholtz-Couture. « Il semble y avoir des hyphes partiellement
+    incrustées par endroits. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -208,15 +209,21 @@ description:
   peritheces: 
   phenologie: de juillet août
   phialoconidies: 
-  pied: 45 x 11 mm Ø, cylindrique claviforme, farci, rougit puis grisonne au grattage, la chair est gris cendre après dessiccation
+  pied: 45 x 11 mm Ø, cylindrique claviforme, farci, rougit puis grisonne au grattage,
+    la chair est gris cendre après dessiccation
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: abondantes, remplies de pigments, 45-100 x 5-6 µm, sulfobenzaldéhyde positif (SBA+)
+  pileocystides: abondantes, remplies de pigments, 45-100 x 5-6 µm, sulfobenzaldéhyde
+    positif (SBA+)
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: abondantes, polymorphes, claviformes, cylindriques, à apex pointu, cylindriques-claviformes, cylindriques mucronées, cylindriques avec apex subrostrés, lagéniformes à lagéniformes dont l’apex est souvent moniliformes, réaction pourpre dans le sulfobenzaldéhyde positif (SBA+) 43,5 [55,8; 67,2] 79,5 x 6,6 [9,7; 12,6] 15,7 µm en moyenne
+  pleurocystides: abondantes, polymorphes, claviformes, cylindriques, à apex pointu,
+    cylindriques-claviformes, cylindriques mucronées, cylindriques avec apex subrostrés,
+    lagéniformes à lagéniformes dont l’apex est souvent moniliformes, réaction pourpre
+    dans le sulfobenzaldéhyde positif (SBA+) 43,5 [55,8; 67,2] 79,5 x 6,6 [9,7; 12,6]
+    15,7 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -249,8 +256,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Code de Kibby: A I K N / R T V 
+  remarques: "Code de Kibby: A I K N / R T V \n"
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -259,7 +265,8 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée à xantosporée, IIIc-IVa, ocre foncé à jaune pâle, d'après la charte de couleur de Romagnesi ; E-F- d'après la charte de couleur de Kibby
+  sporee: ocrosporée à xantosporée, IIIc-IVa, ocre foncé à jaune pâle, d'après la
+    charte de couleur de Romagnesi ; E-F- d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -268,8 +275,8 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Russula punctata var. gaminii</i> (Dupain) Melzer & Zvara, Archiv pro Pírodovdecký Výzkum Cech 17 (4):62 (1927)
+  synonymie: "<i>Russula punctata var. gaminii</i> (Dupain) Melzer & Zvara, Archiv
+    pro Pírodovdecký Výzkum Cech 17 (4):62 (1927)\n"
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -285,3 +292,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

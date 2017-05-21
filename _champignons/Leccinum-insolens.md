@@ -1,31 +1,30 @@
 ---
+title: Leccinum Insolens
+date: 2017-03-25 00:00:00 Z
 nom: Leccinum insolens
-date: 2017-03-25 00:00:00
 image: https://c1.staticflickr.com/9/8309/7996768584_cf8f588230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996768584/in/photolist-dWueXc-dbDwGq-dbDukK
 album-flickr:
-  - 72157678504766025
-
+- 72157678504766025
 details:
   nom-francais: Bolet insolite
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinum
-  espece: <i>Leccinum insolens</i> A.H. Sm., Thiers & Watling
-  litterature: Smith, A.H.; Thiers, H.D.; Watling, R. 1968. Notes on species of Leccinum. I., Additions to Section Leccinum. Lloydia. 31(3):252-267
-
+  espece: "<i>Leccinum insolens</i> A.H. Sm., Thiers & Watling"
+  litterature: Smith, A.H.; Thiers, H.D.; Watling, R. 1968. Notes on species of Leccinum.
+    I., Additions to Section Leccinum. Lloydia. 31(3):252-267
 collections:
-  - fongarium: cKc0011
-    date: 16 septembre 2012
-    planche:
-      numero: cKc0011-0016
-      miniature: https://c1.staticflickr.com/9/8237/8492882069_100cdc0535_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/8492882069/in/photolist-dWueXc-dbDukK-dbDwGq
-    geolocalisation: 46°57'01.25"N 71°17'51.46"O
-    elevation: 222 m
-    determinee: Geoffrey Kibby (provisoire)
-    confirmee: 
-
+- fongarium: cKc0011
+  date: 16 septembre 2012
+  planche:
+    numero: cKc0011-0016
+    miniature: https://c1.staticflickr.com/9/8237/8492882069_100cdc0535_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/8492882069/in/photolist-dWueXc-dbDukK-dbDwGq
+  geolocalisation: 46°57'01.25"N 71°17'51.46"O
+  elevation: 222 m
+  determinee: Geoffrey Kibby (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +45,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes, tétrasporiques, non bouclées à la base, de 23-26 x 9-10 µm en moyenne
+  basides: piriformes, tétrasporiques, non bouclées à la base, de 23-26 x 9-10 µm
+    en moyenne
   basidiospores: |
     subellipsoïdes à subfusiformes, lisses, à paroi mince de 0,2-0,3 µm, à contenu souvent uniguttulé parfois granuleux, avec appendice hilaire, et dépression suprahilaire, hyalines en NH<sub>4</sub>OH 2%, pas de réaction dans le melzer
     11,6 [13,9; 14,8] 17,1 x 3,5 [4,1; 4,4] 5,1 µm
@@ -61,7 +61,8 @@ description:
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: légèrement piriformes, bistérigmates, non bouclées à la base, de 20,9 x 9,3 µm en moyenne
+  caulobasides: légèrement piriformes, bistérigmates, non bouclées à la base, de 20,9
+    x 9,3 µm en moyenne
   caulocystides: clavées-mucronées
   caulocystides-medianes: 
   caulocystides-sommitales: 
@@ -70,10 +71,13 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanche, devenant violet-gris à la coupe, souvent rougeâtre seulement dans la base du pied
+  chair: blanche, devenant violet-gris à la coupe, souvent rougeâtre seulement dans
+    la base du pied
   chancre: 
-  chapeau: 118 mm Ø, convexe puis largement convexe à subétalé, sec, brun tanne pâle, puis orné de fibrilles et de méchules brunes sur fond pâle, cuticule dépassant la couche de tubes à la marge
-  cheilochrysocystides:
+  chapeau: 118 mm Ø, convexe puis largement convexe à subétalé, sec, brun tanne pâle,
+    puis orné de fibrilles et de méchules brunes sur fond pâle, cuticule dépassant
+    la couche de tubes à la marge
+  cheilochrysocystides: 
   cheilocystides: abondamment rostrées, rarement capitées 52,7 x 12,6 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -82,7 +86,10 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « La marge débordante ainsi que la couleur du chapeau dans les teintes de brun sont deux des caractéristiques fiables. La face poroïde blanchâtre brunissant à maturité et au froissement est un autre caractère important. »
+  commentaires: De Claude Kaufholtz-Couture. « La marge débordante ainsi que la couleur
+    du chapeau dans les teintes de brun sont deux des caractéristiques fiables. La
+    face poroïde blanchâtre brunissant à maturité et au froissement est un autre caractère
+    important. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -207,7 +214,9 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 84 x 19 mm Ø, élargi vers la base, plein, sec, orné de rugosités brun noirâtre sur fond blanchâtre. Il brunit lentement à la coupe. La chaire dans l'apex est lilas pâle à gris pâle
+  pied: 84 x 19 mm Ø, élargi vers la base, plein, sec, orné de rugosités brun noirâtre
+    sur fond blanchâtre. Il brunit lentement à la coupe. La chaire dans l'apex est
+    lilas pâle à gris pâle
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis terminé par des extrémités hyphales
@@ -215,7 +224,8 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: semblables aux cheilocystides, parfois largement ventrues, l’apex se collapse facilement, 40,9 x 14,8 µm en moyenne
+  pleurocystides: semblables aux cheilocystides, parfois largement ventrues, l’apex
+    se collapse facilement, 40,9 x 14,8 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -242,8 +252,9 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
-  reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = bleue sur la chair
+  reactions-macrochimiques: 'Sulfate de fer (FeSO<sub>4</sub>) = bleue sur la chair
+
+'
   receptacle: 
   remarques: 
   repartition: 
@@ -271,7 +282,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: formée d'hyphes parallèles à subparallèles de 3-9 µm de largeur
-  tubes: circulaires et petits, 1-4 par mm, déprimés près du pied, concolore à la face poroïde, 8-20 mm de longueur
+  tubes: circulaires et petits, 1-4 par mm, déprimés près du pied, concolore à la
+    face poroïde, 8-20 mm de longueur
   type: 
   typique: 
   voile: 
@@ -280,3 +292,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

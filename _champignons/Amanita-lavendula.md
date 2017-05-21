@@ -1,31 +1,32 @@
 ---
+title: Amanita Lavendula
+date: 2017-04-20 00:00:00 Z
 nom: Amanita lavendula
-date: 2017-04-20 00:00:00
 image: https://c2.staticflickr.com/6/5651/30199932386_91347b7511_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30199932386/in/photolist-N1EqdS-N1ExKq
 album-flickr:
-  - 72157680535230566
-
+- 72157680535230566
 details:
   nom-francais: 
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita lavendula</i> (Coker) Tulloss, K.W. Hughes, Rodrig. Cayc. & Kudzma
-  litterature: Rodham E. Tulloss, Cristina Rodríguez Caycedo, Karen W. Hughes, József Geml, Linas V. Kudzma, Benjamin E. Wolfe, and David Arora. 2015. Nomenclatural changes in Amanita. II. Amanitaceae. 1(2):1-6
-
+  espece: "<i>Amanita lavendula</i> (Coker) Tulloss, K.W. Hughes, Rodrig. Cayc. &
+    Kudzma"
+  litterature: Rodham E. Tulloss, Cristina Rodríguez Caycedo, Karen W. Hughes, József
+    Geml, Linas V. Kudzma, Benjamin E. Wolfe, and David Arora. 2015. Nomenclatural
+    changes in Amanita. II. Amanitaceae. 1(2):1-6
 collections:
-  - fongarium: cKc0594
-    date: 9 octobre 2016
-    planche:
-      numero: cKc0594-0164
-      miniature: https://c2.staticflickr.com/4/3948/34119826375_d439567d4c_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/34119826375/in/dateposted/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Rod E. Tulloss (provisoire)
-    confirmee: 
-
+- fongarium: cKc0594
+  date: 9 octobre 2016
+  planche:
+    numero: cKc0594-0164
+    miniature: https://c2.staticflickr.com/4/3948/34119826375_d439567d4c_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/34119826375/in/dateposted/
+  geolocalisation: 
+  elevation: 
+  determinee: Rod E. Tulloss (provisoire)
+  confirmee: 
 description:
   acanthocytes: 
   acanthophyses: 
@@ -46,7 +47,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à largement claviformes, tétrasporiques, non bouclées à la base, 37,2 - 40,7 × 10,7 - 11,4 µm en moyenne
+  basides: claviformes à largement claviformes, tétrasporiques, non bouclées à la
+    base, 37,2 - 40,7 × 10,7 - 11,4 µm en moyenne
   basidiospores: |
     globuleuses à 73,3% à subglobuleuses à 26,7%, très finement sablées à très finement verruqueuses, à paroi mince, avec appendice hilaire moyen, à contenu uniguttulé, hyalines dans E.G. 20%, amyloïdes, cyanophiles
     (7,5) 8 - 9,2 (9,8) × (7,4) 7,5 - 9 (9,7) µm
@@ -73,9 +75,12 @@ description:
   cellules-stromatiques: 
   chair: entièrement blanchâtre, immuable
   chancre: 
-  chapeau: 40-100 mm Ø, globuleux à convexe puis étalé, nu ou orné de quelques flocons vélaires blanchâtres, jaunâtres à gris violacé sur fond jaune pâle à jaune verdâtre, à marge unie
-  cheilochrysocystides:
-  cheilocystides: abondantes, subglobuleuses, piriformes, claviformes, sphéropédonculées, rarement fusiformes (21,1) 22,3 - 36,2 (38,6) × (15,2 17,1 - 21,1 (22,1) µm
+  chapeau: 40-100 mm Ø, globuleux à convexe puis étalé, nu ou orné de quelques flocons
+    vélaires blanchâtres, jaunâtres à gris violacé sur fond jaune pâle à jaune verdâtre,
+    à marge unie
+  cheilochrysocystides: 
+  cheilocystides: abondantes, subglobuleuses, piriformes, claviformes, sphéropédonculées,
+    rarement fusiformes (21,1) 22,3 - 36,2 (38,6) × (15,2 17,1 - 21,1 (22,1) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -214,10 +219,13 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 50-150 x 7-15 mm Ø, largement bulbeux-marginé et parfois fendu, glabre à finement fibrilleux, blanc à jaunâtre, annelé, souvent muni d'une volve membraneuse soudée
+  pied: 50-150 x 7-15 mm Ø, largement bulbeux-marginé et parfois fendu, glabre à finement
+    fibrilleux, blanc à jaunâtre, annelé, souvent muni d'une volve membraneuse soudée
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'un suprapellis en ixocutis, avec des d’hyphes lâches dans le gélin, et d’un subpellis formé d’hyphes avec pigments intracellulaires, septées et non bouclées, 3,3 x 6,8 µm Ø en moyenne
+  pileipellis: formé d'un suprapellis en ixocutis, avec des d’hyphes lâches dans le
+    gélin, et d’un subpellis formé d’hyphes avec pigments intracellulaires, septées
+    et non bouclées, 3,3 x 6,8 µm Ø en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -278,8 +286,15 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: membraneux à friable, blanc, jaunâtre à gris violacé, laissant souvent quelques flocons sur le chapeau et une volve (en grande partie soudée) à la base du pied
-  voile-partiel: membraneux, blanc à jaunâtre, parfois gris violacé par endroits, laissant un anneau sur le pied ; formé d'hyphes cylindriques 2-5 µm Ø en moyenne, à terminaisons largement cylindriques, sinueuses, en serpes ou comme un bâton pastoral (crosse) à l'extrémité recourbée, (22) 26,2-54,8 (62,5) × (6,5) 6,52-12,3 (13) µm en moyenne
+  voile-general: membraneux à friable, blanc, jaunâtre à gris violacé, laissant souvent
+    quelques flocons sur le chapeau et une volve (en grande partie soudée) à la base
+    du pied
+  voile-partiel: membraneux, blanc à jaunâtre, parfois gris violacé par endroits,
+    laissant un anneau sur le pied ; formé d'hyphes cylindriques 2-5 µm Ø en moyenne,
+    à terminaisons largement cylindriques, sinueuses, en serpes ou comme un bâton
+    pastoral (crosse) à l'extrémité recourbée, (22) 26,2-54,8 (62,5) × (6,5) 6,52-12,3
+    (13) µm en moyenne
   volve: 
   zone-perihymeniale: 
 ---
+

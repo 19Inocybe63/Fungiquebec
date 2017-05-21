@@ -1,31 +1,29 @@
 ---
+title: Cortinarius Flexipes
+date: 2017-03-20 00:00:00 Z
 nom: Cortinarius flexipes
-date: 2017-03-20 00:00:00
 image: https://c2.staticflickr.com/6/5556/15313456612_cc49d74b37_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15313456612/in/photolist-qxLoFM-pkct91
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Cortinaire à pied tortueux
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius flexipes</i> (Pers.) Fr.
+  espece: "<i>Cortinarius flexipes</i> (Pers.) Fr."
   litterature: Fries, E. 1838. Epicrisis Systematis Mycologici. :1-610
-
 collections:
-  - fongarium: cKc0265
-    date: 20 septembre 2014
-    planche:
-      numero: cKc0265-0060
-      miniature: https://c1.staticflickr.com/9/8614/16112035051_e875992960_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/16112035051/in/photolist-pkct91-qxLoFM/
-    geolocalisation: 45°58’40.33"N 70°57’40.76"O
-    elevation: 334 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
-
+- fongarium: cKc0265
+  date: 20 septembre 2014
+  planche:
+    numero: cKc0265-0060
+    miniature: https://c1.staticflickr.com/9/8614/16112035051_e875992960_n.jpg
+    originale: https://www.flickr.com/photos/kaufholtz/16112035051/in/photolist-pkct91-qxLoFM/
+  geolocalisation: 45°58’40.33"N 70°57’40.76"O
+  elevation: 334 m
+  determinee: Claude Kaufholtz-Couture
+  confirmee: Yves Lamoureux
 description:
   acanthocytes: 
   acanthophyses: 
@@ -49,7 +47,8 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à utriformes, parfois élancées, tétrasporiques, bouclées à la base, 27-39 x 8 µm en moyenne
+  basides: cylindriques à utriformes, parfois élancées, tétrasporiques, bouclées à
+    la base, 27-39 x 8 µm en moyenne
   basidiospores: |
     courtement elliptiques à subovales en vue frontale, largement elliptiques à elliptiques, parfois subamygdaliformes vues de profil, pointillées à faiblement verruqueuses, à paroi mince jusqu’à 0,1-0,2 µm d’épaisseur, avec appendice hilaire, à contenu uniguttulé, brun pâle à brun rougeâtre dans le NaCl isotonique 0,9%, dextrinoïdes, non cyanophiles
     7,4 [8,3; 8,7] 9,5 x 5 [5,4; 5,6] 6,1 µm
@@ -58,7 +57,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, terrain pauvre et humide, sous conifères, épinettes et sapins, souvent parmi les mousses profondes ou les tapis de feuilles
+  biotopes: pousse au sol, terrain pauvre et humide, sous conifères, épinettes et
+    sapins, souvent parmi les mousses profondes ou les tapis de feuilles
   boucles: observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
@@ -73,10 +73,13 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: brun violet foncé à jaune-brun, violet très foncé à l'apex du pied, même au sec
+  chair: brun violet foncé à jaune-brun, violet très foncé à l'apex du pied, même
+    au sec
   chancre: 
-  chapeau: 10-40 mm Ø, conique, puis largement campanulé, à mamelon plus ou moins marqué, parfois pointu, entièrement couvert de squamules, mat, hygrophane, violet puis brun foncé à brun-violet (brun gris au sec)
-  cheilochrysocystides:
+  chapeau: 10-40 mm Ø, conique, puis largement campanulé, à mamelon plus ou moins
+    marqué, parfois pointu, entièrement couvert de squamules, mat, hygrophane, violet
+    puis brun foncé à brun-violet (brun gris au sec)
+  cheilochrysocystides: 
   cheilocystides: absentes
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -134,7 +137,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: ± prononcée à fortement prononcée de pélargonium (Géranium)
+  exhalaison: "± prononcée à fortement prononcée de pélargonium (Géranium)"
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -211,7 +214,11 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 40-100 x 3-7 mm Ø, égal, souvent courbé ou flexueux à la base, acuminé, raide, souvent creux, revêtu de fibrilles claires, brun, habituellement violet au sommet, brun foncé avec une nuance orangée à la base. Coton mycélien parfois violet. Voile blanc ou un peu ochracé, copieux, laissant des flocons manifestes surmontés d'un anneau
+  pied: 40-100 x 3-7 mm Ø, égal, souvent courbé ou flexueux à la base, acuminé, raide,
+    souvent creux, revêtu de fibrilles claires, brun, habituellement violet au sommet,
+    brun foncé avec une nuance orangée à la base. Coton mycélien parfois violet. Voile
+    blanc ou un peu ochracé, copieux, laissant des flocons manifestes surmontés d'un
+    anneau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -287,3 +294,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

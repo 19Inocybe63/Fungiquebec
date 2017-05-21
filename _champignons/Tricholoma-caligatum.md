@@ -1,31 +1,29 @@
 ---
+title: Tricholoma Caligatum
+date: 2017-03-13 00:00:00 Z
 nom: Tricholoma caligatum
-date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/3/2854/9967543876_3dc771a34b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9967543876/in/photolist-gbMWp6-gbNgwL
 album-flickr:
-  - 72157676207264646
-
+- 72157676207264646
 details:
   nom-francais: Tricholome guêtré ou Tricholome chaussé
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholoma
-  espece: <i>Tricholoma caligatum</i> (Viviani) Ricken
-  litterature: Ricken, A. 1915. Die Blätterpilze. 1:1-480 
-
+  espece: "<i>Tricholoma caligatum</i> (Viviani) Ricken"
+  litterature: Ricken, A. 1915. Die Blätterpilze. 1:1-480
 collections:
-  - fongarium: cKc0123
-    date: 27 septembre 2013
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0123
+  date: 27 septembre 2013
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 46°45’23.55"N 71°19’19.47"O
+  elevation: 95 m
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +66,10 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 50-150 mm Ø, convexe puis étalé, mamelonné à déprimé, sec, brun rougeâtre ou brun foncé, se rompant en écailles ou en mèches apprimées sur fond blanchâtre, à marge parfois appendiculée
-  cheilochrysocystides:
+  chapeau: 50-150 mm Ø, convexe puis étalé, mamelonné à déprimé, sec, brun rougeâtre
+    ou brun foncé, se rompant en écailles ou en mèches apprimées sur fond blanchâtre,
+    à marge parfois appendiculée
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -171,7 +171,8 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, larges, serrées, blanches, se tachant de brun avec l'âge, surtout à l'arête
+  lames: adnées, larges, serrées, blanches, se tachant de brun avec l'âge, surtout
+    à l'arête
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -204,7 +205,10 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-120 x 20-30 mm Ø, subégal ou atténué à la base, plein, sec, lisse et blanchâtre vers l'apex, guêtré plus bas d'une armille se réduisant avec l'âge en écailles brunes sur fond blanc, et s'ouvrant au sommet en un anneau membraneux, blanc sur le dessus, brun en dessous, parfois très petit
+  pied: 50-120 x 20-30 mm Ø, subégal ou atténué à la base, plein, sec, lisse et blanchâtre
+    vers l'apex, guêtré plus bas d'une armille se réduisant avec l'âge en écailles
+    brunes sur fond blanc, et s'ouvrant au sommet en un anneau membraneux, blanc sur
+    le dessus, brun en dessous, parfois très petit
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,8 +234,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C. ; Trudell, Steven A.</b> <i>Tricholomas of North America</i>, A Mushroom field Guide, University of Texas Press, 2013, 208 p.
+  publications: "<b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C. ;
+    Trudell, Steven A.</b> <i>Tricholomas of North America</i>, A Mushroom field Guide,
+    University of Texas Press, 2013, 208 p.\n"
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -273,3 +278,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

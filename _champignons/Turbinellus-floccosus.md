@@ -1,31 +1,30 @@
 ---
+title: Turbinellus Floccosus
+date: 2017-03-13 00:00:00 Z
 nom: Turbinellus floccosus
-date: 2017-03-13 00:00:00
 image: https://c1.staticflickr.com/9/8474/29042223936_e6c819caf1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29042223936/in/photolist-LfmZmU
 album-flickr:
-  - 
-
+- 
 details:
   nom-francais: Chanterelle à flocons
   ordre: Gomphales
   famille: Gomphaceae
   genre: Turbinellus
-  espece: <i>Turbinellus floccosus</i> (Schwein.) Earle ex Giachini & Castellano
-  litterature: Giachini, A.J; Castellano, M.A. 2011. A new taxonomic classification for species in Gomphus sensu lato. Mycotaxon. 115:183-201
-
+  espece: "<i>Turbinellus floccosus</i> (Schwein.) Earle ex Giachini & Castellano"
+  litterature: Giachini, A.J; Castellano, M.A. 2011. A new taxonomic classification
+    for species in Gomphus sensu lato. Mycotaxon. 115:183-201
 collections:
-  - fongarium: cKc0544
-    date: 18 août 2016
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
-
+- fongarium: cKc0544
+  date: 18 août 2016
+  planche:
+    numero: 
+    miniature: 
+    originale: 
+  geolocalisation: 
+  elevation: 
+  determinee: 
+  confirmee: Claude Kaufholtz-Couture
 description:
   acanthocytes: 
   acanthophyses: 
@@ -68,8 +67,9 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanchâtre
   chancre: 
-  chapeau: 50-150 mm de hauteur, 30-120 mm Ø, en entonnoir, à face interne ornée de grosses mèches ou d'écailles orange à orange rougeâtre sur fond pâle
-  cheilochrysocystides:
+  chapeau: 50-150 mm de hauteur, 30-120 mm Ø, en entonnoir, à face interne ornée de
+    grosses mèches ou d'écailles orange à orange rougeâtre sur fond pâle
+  cheilochrysocystides: 
   cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -144,7 +144,8 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: formé de plis et de rides fourchus, décurrent, interveiné, crème ou beige
+  hymenophore: formé de plis et de rides fourchus, décurrent, interveiné, crème ou
+    beige
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -204,7 +205,8 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 10-50 x 10-30 mm Ø, peu distinct, atténué vers la base, plein puis creux avec l'âge, sublisse, blanchâtre ou crème
+  pied: 10-50 x 10-30 mm Ø, peu distinct, atténué vers la base, plein puis creux avec
+    l'âge, sublisse, blanchâtre ou crème
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -303,3 +305,4 @@ description:
   volve: 
   zone-perihymeniale: 
 ---
+

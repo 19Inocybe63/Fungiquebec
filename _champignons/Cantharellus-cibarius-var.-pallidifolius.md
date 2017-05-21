@@ -145,7 +145,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: formé de plis lamelliformes, décurrents, étroits, souvent fourchus ou anastomosés, espacés à serrés, à arêtes obtuses, pâles au début, jaunâtre très pâle presque tout au long du développement, puis graduellement plus foncés
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 

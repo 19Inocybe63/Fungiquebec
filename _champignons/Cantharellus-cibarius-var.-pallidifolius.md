@@ -7,9 +7,9 @@ album-flickr:
   - 72157681243916122
 
 details:
-  nom-francais: 
-  ordre: Cantharellaceae
-  famille: Cantharellales
+  nom-francais: Chanterelle commune var. à plis pâles
+  ordre: Cantharellales
+  famille: Cantharellaceae
   genre: Cantharellus
   espece: <i>Cantharellus cibarius var. pallidifolius</i>
   litterature: Smith, A.H. 1968. The Cantharellaceae of Michigan. The Michigan Botanist. 7:143-183

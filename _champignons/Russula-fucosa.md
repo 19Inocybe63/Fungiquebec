@@ -283,7 +283,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
     Ammoniaque (NH<sub>4</sub>OH 10%) = reflet jaunâtre très léger sur le stipe
-    Soluté de gaïac = < 5" stipe +++ b (5, forte) ; < 5" lames +++ b (5, forte)
+    Soluté de gaïac = &lt; 5" stipe +++ b (5, forte) ; &lt; 5" lames +++ b (5, forte)
     Sulfate de fer (FeSO<sub>4</sub>) = verdâtre à vert ± intense après 5 minutes sur le stipe
   receptacle: 
   remarques: |

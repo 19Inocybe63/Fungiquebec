@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous conifères, en bordure de chemin
+  biotopes: pousse sur sol calcaire, sous conifères, <i>Picea</i>, <i>Pinus</i>
   boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 
@@ -71,7 +71,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: grise à gris pâle, marbré de violet
   chancre: 
   chapeau: 21-36 mm Ø, campanulé à campanulé-étalé, fibrilleux, ± hygrophane, beige à ocre pâle, brun terre de sienne avec centre brun foncé rougeâtre
   cheilochrysocystides:
@@ -284,7 +284,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: copieux, blanc, parfois légèrement teinté de violet
   volve: 
   zone-perihymeniale: 
 ---

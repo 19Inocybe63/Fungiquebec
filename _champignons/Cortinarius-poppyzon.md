@@ -98,7 +98,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: blanchâtre
+  cortine: blanche
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 

@@ -85,7 +85,7 @@ description:
   columelle: 
   commentaires: |
     De Karl Soop. « Les Telamonia sont très proches l’un à l’autre, aussi bien sur le plan morpho que génétique. Souvent deux récoltes ± pareilles à vue diffèrent dans la région ITS d’un nucléotide ou deux. Est-ce deux espèces ou une ? C’est une question d’opinion et rien d’autre. Le concept d’espèce n’est jamais absolu, et il est plus “vague” ou plus douteux dans les Telamonia qu'ailleurs dans la systématique mycologique. Il s’ensuit que beaucoup “d’espèces” restent à découvrir, surtout en Amérique du Nord, où assez peu ont été étudiés. Les chances (ou risques ?) que ta récolte soit une espèce non décrite sont considérables, je dirais plus que 50%. »
-    De Claude Kaufholtz-Couture. « Il ne peut s'agir ici de <i>Cortinarius betuletorum</i> (<i>C. raphanoides</i>), car la cortine de ce dernier est grise. »
+    De Claude Kaufholtz-Couture. « Il ne peut s'agir ici de <i>Cortinarius betuletorum</i> (<i>C. raphanoides</i>), car la cortine de ce dernier est brunâtre. »
   conidies: 
   conidiome: 
   conidiophores: 

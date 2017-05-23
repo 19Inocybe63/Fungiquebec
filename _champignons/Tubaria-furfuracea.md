@@ -72,7 +72,7 @@ description:
     (7) 7,6 - 9 (9,4) × (4,3) 4,4 - 5 (5,3) µm
     Q = (1,6) 1,7 - 1,8 (1,9) ; N = 30
     Me = 8,3 × 4,7 µm ; Qe = 1,8
-(Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+  (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

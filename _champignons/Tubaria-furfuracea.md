@@ -95,7 +95,7 @@ description:
   chancre: 
   chapeau: 4-24 mm Ø, convexe à étalé, ombiliqué, avec légères fibrilles, hygrophane, brun rouge à fauve au frais, à marge (reste du voile partiel) blanchâtre
   cheilochrysocystides:
-  cheilocystides: abondantes et formant une palissade, polymorphes, cylindriques à claviformes, flexueuses, à apex subcapité, obtus, difforme, 20-55 x 4-10 µm
+  cheilocystides: abondantes, formant une palissade, polymorphes, cylindriques à claviformes, flexueuses, à apex subcapité, obtus, difforme, 20-55 x 4-10 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -234,7 +234,7 @@ description:
   pied: 9-18 x 2-4 mm Ø, cylindrique à égal, creux, ± concolore au chapeau, à l'apex fibrilleux et blanchâtre, ne se détache pas du chapeau
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis
+  pileipellis: en cutis, formé d'hyphes 9-13 µm Ø, avec cellules terminales piriformes à ovoïdes, 3-10 µm Ø, avec pigmentations jaune orangé
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -299,7 +299,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle, formée d'hyphes en chaîne, (30) 37,5-92,5 x 10-27,5 µm Ø
   trame-tubulaire: 
   type: 
   typique: 

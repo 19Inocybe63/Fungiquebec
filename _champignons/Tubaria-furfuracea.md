@@ -95,7 +95,7 @@ description:
   chancre: 
   chapeau: 4-24 mm Ø, convexe à étalé, ombiliqué, avec légères fibrilles, hygrophane, brun rouge à fauve au frais, à marge (reste du voile partiel) blanchâtre
   cheilochrysocystides:
-  cheilocystides: polymorphes
+  cheilocystides: abondantes et formant une palissade, polymorphes, cylindriques à claviformes, flexueuses, à apex subcapité, obtus, difforme, 20-55 x 4-10 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

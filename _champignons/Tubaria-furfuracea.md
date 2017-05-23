@@ -83,7 +83,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -95,7 +95,7 @@ description:
   chancre: 
   chapeau: 4-24 mm Ø, convexe à étalé, ombiliqué, avec légères fibrilles, hygrophane, brun rouge à fauve au frais, à marge (reste du voile partiel) blanchâtre
   cheilochrysocystides:
-  cheilocystides: polymorphes, abondantes, cylindriques, flexueuses, parfois subcapitées, rarement lécythiformes, 33-46 x 4-8 µm
+  cheilocystides: polymorphes
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -239,7 +239,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: rares, capitées à subcapitées, 46 x 4-6 µm (observée une fois)
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

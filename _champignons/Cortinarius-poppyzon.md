@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius aff. poppyzon
-date: 2017-05-22 00:00:00
+date: 2017-05-25 00:00:00
 image: https://c2.staticflickr.com/6/5619/29289082834_c2f7203165_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29289082834/in/photolist-Rdv8ky-LCbcUN-MpxjQN
 album-flickr:
@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol calcaire, sous conifères, <i>Picea</i>, <i>Pinus</i>
+  biotopes: pousse sur sol calcaire, sous conifères et feuillus, <i>Picea</i>, <i>Pinus</i> et <i>Betula</i>
   boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 

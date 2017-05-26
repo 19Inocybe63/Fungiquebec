@@ -213,7 +213,7 @@ description:
   peritheces: 
   phenologie: septembre
   phialoconidies: 
-  pied: 43-53 x 4-7 mm Ø, cylindrique, courbe, flexueux, soyeux-fibrilleux, avec guirlandes, ± bulbeux, beige avec reflets violacés, avec mycélium basal blanc
+  pied: 43-53 x 4-7 mm Ø, cylindrique, courbe, flexueux, soyeux-fibrilleux, guirlandes, ± bulbeux, beige avec reflets violacés, et mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, formé d'hyphes cylindriques avec pigmentation brun pâle, 2,2 - 5,2 µm Ø en moyenne

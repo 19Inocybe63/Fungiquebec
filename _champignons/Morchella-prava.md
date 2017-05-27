@@ -78,6 +78,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
+  comestibilite: OUI, mais bien cuite!
   commentaires: 
   conidies: 
   conidiome: 

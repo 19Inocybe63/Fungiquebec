@@ -73,7 +73,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes sur toute la longueur du pied, en amas, de formes similaires aux lamprocheilocystides, à paroi épaisse, avec cauloparacystides plus petites, clavées, à paroi mince, celles médianes similaires, mais avec moins de cauloparacystides
+  caulocystides: abondantes sur toute la longueur du pied, en amas, de formes similaires aux lamprocheilocystides, à paroi épaisse, avec cauloparacystides plus petites, clavées, à paroi mince, celles médianes similaires, mais avec moins de cauloparacystides 35-60 (70) x 13-16 µm
   caulocystides-medianes: abondantes, métuloïdes, fusiformes à lagéniformes, 44,3-57,1 × 13,7-17,1 µm
   caulocystides-sommitales: abondantes, métuloïdes, lagéniformes, ovoïdes à subovoïdes, 27,7-57 × 14,5-19,4 µm
   cauloparacystides: présentes

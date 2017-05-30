@@ -150,7 +150,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: occasionnelles, polymorphes, cylindriques, fusiformes à longuement fusiformes, lagéniformes à rostrées, avec contenu granuleux, souvent peu émergentes ou émergentes de moitié (24,2) 26,7 - 28,2 (32,7) × (3,3) 3,31 - 4,2 µm en moyenne
+  hymenocystides: occasionnelles, polymorphes, cylindriques, fusiformes à longuement fusiformes, lagéniformes à rostrées, avec contenu granuleux, souvent peu émergentes ou émergentes de moitié (24,2) 26,7 - 28,2 (32,7) × 3,3 - 4,2 µm en moyenne
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 

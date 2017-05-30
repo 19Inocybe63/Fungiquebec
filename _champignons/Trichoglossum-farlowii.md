@@ -90,7 +90,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Dans les mots composés, tricho- signifie velu. »
   conidies: 
   conidiome: 
   conidiophores: 

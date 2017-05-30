@@ -105,7 +105,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « L'utilisation d'un microscope est essentielle pour détecter la présence de poils ; une loupe 10x est insuffisante. »
+    De Claude Kaufholtz-Couture. « L'utilisation d'un microscope est essentielle pour détecter la présence de poils; une loupe 10x est insuffisante. »
     De Claude Kaufholtz-Couture. « Dans les mots composés, tricho- signifie velu. »
   conidies: 
   conidiome: 

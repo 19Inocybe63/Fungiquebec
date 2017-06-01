@@ -1,8 +1,8 @@
 ---
 nom: Morchella prava
-date: 2017-03-08 00:00:00
-image: https://c2.staticflickr.com/8/7239/7234066596_1238f17e4c_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/7234066596/in/photolist-c2i38s-c2ftY9
+date: 2017-06-01 00:00:00
+image: https://c1.staticflickr.com/5/4224/34761396682_117098b465_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/34761396682/in/dateposted/
 album-flickr:
   - 72157675331655494
 
@@ -25,6 +25,16 @@ collections:
     altitude: 
     determinee: Claude Kaufholtz-Couture
     confirmee: Philippe Clowez
+  - fongarium: cKc0602
+    date: 27 mai 2017
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Michael Kuo (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -79,7 +89,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: OUI, mais bien cuite!
-  commentaires: 
+  commentaires: |
+    De Michael Kuo. « Those look like Morchella prava to me, but only DNA testing would make a certain identification. »
   conidies: 
   conidiome: 
   conidiophores: 

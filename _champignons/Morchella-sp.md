@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous chêne à gros fruits <i>Quercus</i>
+  biotopes: pousse au sol, sous chêne à gros fruits, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

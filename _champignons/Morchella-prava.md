@@ -15,16 +15,6 @@ details:
   litterature: Kuo, M.; Dewsbury, D.R.; O'Donnell, K.; Carter, M.C.; Rehner, S.A.; Moore, J. D.; Moncalvo, J.-M.; Canfield, S.A.; Stephenson, S.L.; Methven, A.S.; Volk, T.J. 2012. Taxonomic revision of true morels (Morchella) in Canada and the United States. Mycologia. 104(5):1159-1177
 
 collections:
-  - fongarium: sans numéro
-    date: 20 mai 2012
-    planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: Philippe Clowez
   - fongarium: cKc0602
     date: 27 mai 2017
     planche:
@@ -61,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous chêne à gros fruits (<i>Quercus</i>)
+  biotopes: pousse au sol, sous <i>Fraxinus nigra</i>, <i>Acer spp.</i>
   boucles: 
   brachybasidioles: 
   calicule: 

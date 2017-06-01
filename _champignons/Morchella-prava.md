@@ -38,7 +38,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 30-60 mm de haut et 20-50 mm de large, de forme irrégulière, mais souvent plus ou moins en forme d'œuf avec un sommet légèrement rétréci ou largement conique, les fosses disposées et orientées aléatoirement et de forme irrégulière lorsqu'ils sont jeunes, avec une crête chauve ou finement veloutée, aplatie ou largement arrondie, pâle, jaunâtre à blanchâtre, et des fosses grises moyennes à foncées ou noires lorsqu'elles sont matures, avec des arêtes arrondies à des arêtes tranchées ou érodées, brunâtres jaunes à brun jaunâtre et des fosses de même couleur (mais restant souvent dans le stade gris pendant une période prolongée et apparemment ne vieillissent jamais), attaché à la tige directement, sans rainure, creux
+  ascome: 32-54 mm de haut et 32-50 mm de large, de forme irrégulière, mais souvent plus ou moins en forme d'œuf et même hémisphérique avec un sommet légèrement rétréci ou largement conique, les fosses disposées et orientées aléatoirement
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: douce
+  exhalaison: spermatique à herbeuse, persil
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -206,9 +206,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de mi-mai à début juin
+  phenologie: de mai à juin
   phialoconidies: 
-  pied: 25-40 x 10-30 mm Ø, égal au-dessus d'une base légèrement gonflée, blanchâtre à jaunâtre crème, souvent avec décoloration brun rougeâtre, glabre à subglabre, creux
+  pied: 14-40 x 10-20 mm Ø, égal au-dessus d'une base légèrement gonflée, blanchâtre à jaunâtre crème, souvent avec décoloration brun rougeâtre, glabre à subglabre, creux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,7 +243,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: spermatique à herbeuse, persil
   sclerocystides: 
   sclerote: 
   soies: 

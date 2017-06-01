@@ -205,7 +205,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de mi-mai à début juin
+  phenologie: de mai à juin
   phialoconidies: 
   pied: 25-40 x 10-30 mm Ø, égal au-dessus d'une base légèrement gonflée, blanchâtre à jaunâtre crème, souvent avec décoloration brun rougeâtre, glabre à subglabre, creux
   pieds-steriles: 

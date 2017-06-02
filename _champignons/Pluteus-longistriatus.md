@@ -15,16 +15,16 @@ details:
   litterature: Peck, C.H. 1885. Report of the Botanist (1884). Annual Report on the New York State Museum of Natural History. 38:77-138
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: sans numéro
+    date: 18 juillet 2014
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
-    confirmee: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 

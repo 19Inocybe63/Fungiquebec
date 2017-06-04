@@ -84,7 +84,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « La sporée fut mise en tas pour une meilleure concentration de la couleur. À ma grande surprise, la couleur de cette sporée n'est pas blanche comme indiqué dans les monographies, mais bien ocrosporée, ocre pâle à ocre moyen. »
+    De Claude Kaufholtz-Couture. « La sporée fut mise en masse pour une meilleure concentration de la couleur. À ma grande surprise, la couleur de cette sporée n'était pas blanche comme indiqué dans les monographies, mais bien ocrosporée, ocre pâle à ocre moyen. »
     De Claude Kaufholtz-Couture. « Puisque les basidiospores de <i>A. pyxidatus</i> sont petites, hyalines et mal définies dans l'eau glycérinée 20% et dans le NaCl iso 0,9%, elles se prêtent parfaitement à une préparation dans le permanganate de potassium (KMnO<sub>4</sub>) qui en détermine mieux les contours. »
   conidies: 
   conidiome: 

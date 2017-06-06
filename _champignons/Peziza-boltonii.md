@@ -1,6 +1,6 @@
 ---
 nom: Peziza boltonii
-date: 2017-03-25 00:00:00
+date: 2017-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7347/27589360352_cb34fe68a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27589360352/in/photolist-Je2nvb-HfVs48-J2YFCL
 album-flickr:
@@ -18,7 +18,7 @@ collections:
   - fongarium: cKc0497
     date: 15 juin 2016
     planche:
-      numero:  cKc0497-0130
+      numero: cKc0497-0130
       miniature: https://c2.staticflickr.com/8/7336/27714366152_99f809b25e_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/27714366152/in/photolist-Je2nvb-HfVs48-J2YFCL
     geolocalisation: 
@@ -136,7 +136,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: spermatique
+  exhalaison: acidulée à spermatique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -253,7 +253,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: spermatique
+  saveur: acidulée, fongique à spermatique
   sclerocystides: 
   sclerote: 
   soies: 

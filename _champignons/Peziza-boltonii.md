@@ -34,7 +34,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 31-120(130) mm Ø, cupuliforme, entre 60-100 mm de profondeur, à marge légèrement crénelée
+  apothecie: 31-120 (130) mm Ø, cupuliforme, entre 60-100 mm de profondeur, à marge légèrement crénelée
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -48,7 +48,7 @@ description:
     (15,8) 16,3 - 17,9 (18,9) × (7) 7,5 - 8,3 (8,4) µm
     Q = (2) 2,1 - 2,4 (2,5) ; N = 30
     Me = 17,2 × 7,8 µm ; Qe = 2,2
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans le bleu lactique)
+    (Piximètre, formule classique ; mesures issues d'une sporée, dans le bleu coton lactique)
   asques: claviformes, octosporés, à apex IKI +, operculé, (220,5) 238,1 - 246,8 (256,6) × (10,4) 10,6 - 11,9 (12,4) µm en moyenne
   asterohyphidies: 
   avertissement: 

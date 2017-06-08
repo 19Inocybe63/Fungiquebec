@@ -34,7 +34,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 31-120 (130) mm Ø, cupuliforme, entre 60-100 mm de profondeur, à marge légèrement crénelée
+  apothecie: 31-120 (130) mm Ø, cupuliforme, entre 60-100 mm de profondeur, grossièrement furfuracée de flocons violet noir, à marge légèrement crénelée
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -60,7 +60,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans un ancien feu de camp (carbonicole)
+  biotopes: pousse sur d'anciens feux de camp (carbonicole)
   boucles: 
   brachybasidioles: 
   calicule: 

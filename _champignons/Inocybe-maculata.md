@@ -99,7 +99,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, immuable, blanche
   chancre: 
-  chapeau: 14-51 mm Ø, subcylindrique-campanulé jeune à convexe puis étalé à maturité, mamelonné, fibrilleux, avec marge unie puis fendillée avec l’âge, brun cannelle avec un centre plus foncé, et présence de fibrilles blanches sur le disque lorsque jeune
+  chapeau: 14-51 mm Ø, subcylindrique-campanulé jeune à convexe puis étalé à maturité, mamelonné, fibrilleux, avec marge unie puis fendillée avec l’âge, brun cannelle avec un centre plus foncé, avec présence de fibrilles blanches sur le disque lorsque jeune
   cheilocystides: abondantes, parfois en faisceaux, subutriformes au sens de Romagnesi, piriformes à clavées et largement clavées, cylindriques, 43-59 x 11-18 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 

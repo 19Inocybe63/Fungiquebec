@@ -72,7 +72,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, bisporiques à tétrasporiques, bouclées à la base, 32-40 x 9-11 µm
+  basides: claviformes, bisporiques, mais généralement tétrasporiques, bouclées à la base, 32-40 x 9-11 µm
   basidiospores: |
     leiospore ovoïdales en vue frontale, ellipsoïdes à phaséoliformes vues de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec petit appendice hilaire, à contenu granulaire et parfois uniguttulé (surtout dans le Bleu crésyl), hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     8,4 [9,4; 9,8] 10,8 x 5,1 [5,8; 6,2] 6,9 µm

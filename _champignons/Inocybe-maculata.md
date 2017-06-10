@@ -108,7 +108,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Yves Lamoureux. « Les fibrilles blanches sur le disque sont des restes du velipellis, voile général des inocybes. Il est très peu développé chez certaines espèces, donc apparemment absent. »
+  commentaires: |
+    De Yves Lamoureux. « Les fibrilles blanches sur le disque sont des restes du velipellis, voile général des inocybes. Il est très peu développé chez certaines espèces, donc apparemment absent. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -201,7 +202,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées à échancrées, serrées, avec lamelles et lamellules, crème pâle dont l’arêtes est légèrement ± crème foncé
+  lames: adnées à adnexées, serrées, avec lamelles et lamellules, crème pâle dont l’arêtes est légèrement ± crème foncé
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -233,7 +234,7 @@ description:
   peritheces: 
   phenologie: d'août à septembre (octobre)
   phialoconidies: 
-  pied: 66 x 7-10 mm Ø, cylindrique, plein, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe
+  pied: 30-66 x 5-10 mm Ø, cylindrique, plein, s'élargissant à la base, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -277,7 +278,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: légèrement raphanoïde
+  saveur: légèrement raphanoïde, spermatique
   sclerocystides: 
   sclerote: 
   soies: 

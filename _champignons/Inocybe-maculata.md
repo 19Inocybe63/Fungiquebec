@@ -1,6 +1,6 @@
 ---
 nom: Inocybe maculata
-date: 2017-04-29 00:00:00
+date: 2017-06-10 00:00:00
 image: https://c2.staticflickr.com/4/3736/9537628135_495f242585_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9537628135/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
 album-flickr:
@@ -25,6 +25,26 @@ collections:
     altitude: 
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
+  - fongarium: cKc0510
+    date: 3 juillet 2016
+    planche:
+      numero: cKc0510-0170
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0511
+    date: 3 juillet 2016
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

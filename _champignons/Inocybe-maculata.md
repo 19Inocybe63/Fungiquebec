@@ -82,7 +82,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans un sol sablonneux, en milieux ouverts, sous divers conifères (épinettes de Norvège)
+  biotopes: pousse sur sol sablonneux, en milieux ouverts, sous divers conifères <i>Picea abies</i>
   boucles: observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
@@ -237,7 +237,7 @@ description:
   pied: 30-66 x 5-10 mm Ø, cylindrique, plein, s'élargissant à la base, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis; suprapellis 60-70 µm d'épaisseur, formé d'hyphes cylindriques, bouclées, avec pigmentations brun rougeâtre, 5-20 µm
+  pileipellis: en cutis; suprapellis 60-70 µm d'épaisseur, formé d'hyphes cylindriques, bouclées, avec pigmentations brun rougeâtre, 5-20 µm Ø
   pileitrame: formé de sphérocystes
   pileocystides: 
   plasmode: 

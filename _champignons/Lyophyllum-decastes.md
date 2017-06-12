@@ -11,7 +11,7 @@ details:
   ordre: Agaricales
   famille: Lyophyllaceae
   genre: Lyophyllum
-  espece: Lyophyllum decastes (Fr.) Singer
+  espece: <i>Lyophyllum decastes</i> (Fr.) Singer
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
 
 collections:

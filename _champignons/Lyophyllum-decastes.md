@@ -15,8 +15,8 @@ details:
   litterature: Singer, R. 1949. The Agaricales in modern taxonomy. Lilloa. 22:1-832
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0606
+    date: 10 juin 2017
     planche:
       numero: 
       miniature: # Largeur 320px. ici
@@ -24,7 +24,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

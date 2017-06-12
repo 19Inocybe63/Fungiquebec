@@ -1,6 +1,6 @@
 ---
 nom: Inocybe maculata
-date: 2017-06-11 00:00:00
+date: 2017-06-12 00:00:00
 image: https://c2.staticflickr.com/4/3736/9537628135_495f242585_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9537628135/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
 album-flickr:
@@ -89,9 +89,9 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: peu nombreuses et présentes seulement à l'apex du pied, ± similaires aux cheilocystides ou plus cylindriques et plus petites
+  caulocystides: 
   caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-sommitales: pourraient davantage être considérés comme des terminaisons hyphales; peu nombreuses et présentes seulement à l'apex du pied, ± similaires aux cheilocystides ou plus cylindriques et plus petites
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 

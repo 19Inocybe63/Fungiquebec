@@ -88,7 +88,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Collection (cKc0497) étudiée sur matériel frais. Les spécimens étaient très matures, mais j'ai obtenu une belle sporée. Les photos macro ne sont pas représentatives, mais l'étude microscopique en valait vraiment le coup. »
+    De Claude Kaufholtz-Couture. « Collection (cKc0497) étudiée sur matériel frais. Les spécimens étaient très matures, et j'ai obtenu une belle sporée. Cependant, les photos macro ne sont pas représentatives. »
   conidies: 
   conidiome: 
   conidiophores: 

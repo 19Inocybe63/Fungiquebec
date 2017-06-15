@@ -142,7 +142,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: sublisse à finement granuleuse, parfois avec des veinures, brun rougeâtre
+  face-externe: ± lisse à finement granuleuse, parfois avec des veinures, brun rougeâtre
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 

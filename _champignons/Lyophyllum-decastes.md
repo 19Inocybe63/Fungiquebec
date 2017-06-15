@@ -1,8 +1,8 @@
 ---
 nom: Lyophyllum decastes
 date: 2017-06-15 00:00:00
-image: https://c1.staticflickr.com/5/4217/35221645525_a7caed5d44_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/35221645525/in/dateposted/
+image: https://c1.staticflickr.com/5/4262/35286859136_8ff15994e2_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/35286859136/in/photostream/
 album-flickr:
   - 72157684868834706
 

@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: mince à la marge et plus épaisse au centre, ferme, immuable, blanche
   chancre: 
-  chapeau: 30-120 mm Ø, hémisphérique à convexe, devenant globalement convexe à étalé, non visqueux, ± graisseux lorsqu'humide, glabre, brun grisâtre à brun jaunâtre ou brun, généralement plus sombre lorsque jeune, souvent un peu rayé en apparence, à marge lobée et unie à maturité
+  chapeau: 27-120 mm Ø, hémisphérique à convexe, devenant globalement convexe à étalé, non visqueux, ± graisseux lorsqu'humide, glabre, brun grisâtre à brun jaunâtre ou brun, généralement plus sombre lorsque jeune, souvent un peu rayé en apparence, à marge lobée et unie à maturité
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 

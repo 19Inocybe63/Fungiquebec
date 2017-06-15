@@ -186,7 +186,7 @@ description:
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: non
   leptocystides: 
   macrocystides: 
   macropleurocystides: 

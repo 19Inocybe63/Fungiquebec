@@ -25,6 +25,16 @@ collections:
     elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0607
+    date: 15 juin 2017
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

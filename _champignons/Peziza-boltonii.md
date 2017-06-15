@@ -34,7 +34,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 31-120 (130) mm Ø, cupuliforme, entre 60-100 mm de profondeur, grossièrement furfuracée de flocons violet noir, à marge légèrement crénelée
+  apothecie: 31-80 (85) mm Ø, cupuliforme, entre 10-40 mm de profondeur, grossièrement furfuracée de flocons violet noir, à marge légèrement crénelée
   arete-lamellaire: 
   arthroconidies: 
   articles: |

@@ -89,6 +89,7 @@ description:
   columelle: 
   commentaires: |
     De Claude Kaufholtz-Couture. « Collection (cKc0497) étudiée sur matériel frais. Les spécimens étaient très matures, et j'ai obtenu une belle sporée. Cependant, les photos macro ne sont pas représentatives. »
+    De Claude Kaufholtz-Couture. « Il est possible de voir cette espèce poussée en très grand nombre (+ 100) sur de très anciens feux. »
   conidies: 
   conidiome: 
   conidiophores: 

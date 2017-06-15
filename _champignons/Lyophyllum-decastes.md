@@ -1,6 +1,6 @@
 ---
 nom: Lyophyllum decastes
-date: 2017-06-12 00:00:00
+date: 2017-06-15 00:00:00
 image: https://c1.staticflickr.com/5/4217/35221645525_a7caed5d44_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35221645525/in/dateposted/
 album-flickr:
@@ -239,6 +239,10 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
+    Ammoniaque (NH<sub>4</sub>OH 10%) = pas de coloration ou de décoloration
+    Gaïacol = améthyste sur les lames et la chair du stipe après 10 min
+    Potasse (KOH 10%) = pas de coloration ou de décoloration
+    Sulfate de fer (FeSO<sub>4</sub>) = légèrement orangée sur les lames et la chair du stipe après 5 min
   receptacle: 
   remarques: 
   repartition: 

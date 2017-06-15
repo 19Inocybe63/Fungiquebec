@@ -238,7 +238,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
     Ammoniaque (NH<sub>4</sub>OH 10%) = pas de coloration ou de décoloration
     Gaïacol = améthyste sur les lames et la chair du stipe après 10 min
     Potasse (KOH 10%) = pas de coloration ou de décoloration

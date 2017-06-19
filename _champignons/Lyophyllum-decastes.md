@@ -227,7 +227,7 @@ description:
   pied: 30-100 x 8-20 (25) mm Ø, ± cylindrique, ± égal, lisse, légèrement torsadé, parfois aplati, sec, blanchâtre, cespiteux-ramifié, devenant parfois brunâtre vers la base
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, formé d'hyphes ± parallèles à emmêlées, bouclées, à pigmentations brunâtres, 3-10 µm Ø
+  pileipellis: suprapellis en cutis, formé d'hyphes ± parallèles à emmêlées, bouclées, à pigmentations brunâtres, 3-10 µm Ø
   pileitrame: 
   pileocystides: 
   plasmode: 

@@ -67,13 +67,13 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, dans les endroits herbeux et perturbés, pelouses, jardins
-  boucles: 
+  boucles: non observées
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -86,7 +86,7 @@ description:
   chancre: 
   chapeau: 27-120 mm Ø, hémisphérique à convexe, devenant globalement convexe à étalé, non visqueux, ± graisseux lorsqu'humide, glabre, brun grisâtre à brun jaunâtre ou brun, généralement plus sombre lorsque jeune, souvent un peu rayé en apparence, à marge lobée et unie à maturité
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -227,12 +227,12 @@ description:
   pied: 30-100 x 8-20 (25) mm Ø, ± cylindrique, ± égal, lisse, légèrement torsadé, parfois aplati, sec, blanchâtre, cespiteux-ramifié, devenant parfois brunâtre vers la base
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, formé d'hyphes ± parallèles à emmêlées, bouclées, pigmentées de brunâtres, 3-10 µm Ø
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -289,7 +289,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   tubes: 
   type: 

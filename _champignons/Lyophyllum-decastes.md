@@ -57,7 +57,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    globuleuses, lisses, à paroi mince, avec petit appendice hilaire parfois difficilement observable, à contenu uniguttulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    (6) 6,3 - 7,1 (7,6) × (5,9) 6,2 - 6,9 (7,3) µm
+    Q = 1 - 1,05 (1,1) ; N = 30
+    Me = 6,8 × 6,6 µm ; Qe = 1
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

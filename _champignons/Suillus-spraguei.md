@@ -7,7 +7,7 @@ album-flickr:
   - 72157675629317475
 
 details:
-  nom-francais: 
+  nom-francais: Bolet peint
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus

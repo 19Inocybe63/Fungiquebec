@@ -146,7 +146,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: de concombre
+  exhalaison-des-lames: non distinctive ou agréable
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -263,7 +263,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: agréable à légèrement de concombre
+  saveur: douce à légèrement de radis
   sclerocystides: 
   sclerote: 
   soies: 

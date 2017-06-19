@@ -56,7 +56,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes, tétrasporiques, bouclée à la base, à granulations sidérophiles, 31,4 - 39,8 × 8,1 - 9,3 µm
   basidiospores: |
     globuleuses, lisses, à paroi mince, avec petit appendice hilaire parfois difficilement observable, à contenu uniguttulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6) 6,3 - 7,1 (7,6) × (5,9) 6,2 - 6,9 (7,3) µm

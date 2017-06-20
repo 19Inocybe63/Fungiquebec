@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: gélatineuse
+  chair: gélatineuse, flasque-élastique, sèche
   chancre: 
   chapeau: 
   cheilochrysocystides:

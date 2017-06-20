@@ -59,7 +59,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 5-20 mm de hauteur, 5-35 mm de largeur, pulviné à tronconique au début, puis irrégulièrement conique-discoïde, conchoïde-lobé, irrégulièrement lobé, foliacé, cérébriforme ou parfois auricularioïde, un peu dressé, courtement pédicellé, formant des amas irréguliers peu fusionnés jusqu'à 100 mm ou plus, à face supérieure rugueuse, typiquement avec minuscules plaques verruciformes ou projections dispersées et noirâtres, mate, à face infère hyméniale sublisse, un peu rugueuse-écailleuse, ondulée à ridulée-alvéolée, sans pustule, translucide, légèrement brillante, brun jaunâtre, brun fumée, ambrée, brun foncé, brun rougeâtre foncé, brun cannelle à brun pourpré, en film indistinct noir et cassant au sec, à marge légèrement épaissie et irrégulière, remarquablement plissée
+  basidiome: large de 5-30 mm, 5-15 (20) mm de haut, brièvement stipité en bouton, puis irrégulièrement obconique, ou conique discoïde, ou conchoïde lobée; surface hymeniale presque lisse ou ondulée à ridulée-alvéolée, parfois grossièrement plissée ridée, légèrement brillante, sans pustule; face stérile rugueuse et mate; ambrée à brun foncé ou rouge brun, noir brillant sur le sec
   bibliographies: 
   biotopes: pousse sur le bois vivant ou mort de feuillus, surtout sur les branches
   boucles: 
@@ -89,7 +89,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Description prise sur http://www.mycodb.fr/quicksearch.php. »
   conidies: 
   conidiome: 
   conidiophores: 

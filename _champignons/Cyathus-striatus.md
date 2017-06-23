@@ -260,7 +260,7 @@ description:
   symptomes: 
   syndrome: 
   synonymie: |
-    <>Pieziza lentifera</i> L., Species Plantarum:1180 (1753)
+    <i>Pieziza lentifera</i> L., Species Plantarum:1180 (1753)
     <i>Peziza hirsuta</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:124, t. 178 (1774)
     <i>Peziza striata</i> Huds., Flora anglica:634 (1778)
     <i>Cyathus laevis</i> Willd., Florae Berolinensis Prodromus:399 (1787)

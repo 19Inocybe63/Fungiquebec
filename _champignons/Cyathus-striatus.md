@@ -202,7 +202,7 @@ description:
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
-  peridiole: 2 mm de large; ellipsoïde, ou souvent grossièrement triangulaire; enveloppé; attaché au nid par un filament élastique spiralé (funicule)
+  peridiole: 2 (3) mm de large, ellipsoïde, ou souvent grossièrement triangulaire, attaché au nid par un filament élastique spiralé (funicule)
   peridiopellis: 
   peridium: 
   peritheces: 

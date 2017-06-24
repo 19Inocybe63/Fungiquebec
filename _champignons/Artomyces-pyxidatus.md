@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2017-05-27 00:00:00
+date: 2017-06-24 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
@@ -86,6 +86,7 @@ description:
   commentaires: |
     De Claude Kaufholtz-Couture. « La sporée fut mise en masse pour une meilleure concentration de la couleur. À ma grande surprise, la couleur de cette sporée n'était pas blanche comme indiqué dans les monographies, mais bien ocrosporée, ocre pâle à ocre moyen. »
     De Claude Kaufholtz-Couture. « Puisque les basidiospores de <i>A. pyxidatus</i> sont petites, hyalines et mal définies dans l'eau glycérinée 20% et dans le NaCl iso 0,9%, elles se prêtent parfaitement à une préparation dans le permanganate de potassium (KMnO<sub>4</sub>) qui en détermine mieux les contours. »
+    De Claude Kaufholtz-Couture. « La couleur de la sporée de cette collection est atypique. Présentement, la collection cKc0053 est en étude d'ADN par Edgar Lickey; les résultats seront publiés sur Fungiquebec le moment venu. »
   conidies: 
   conidiome: 
   conidiophores: 

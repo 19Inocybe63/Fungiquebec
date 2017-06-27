@@ -88,7 +88,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre dans le chapeau, carnée dans le pied, blanche dans le bulbe
   chancre: 
-  chapeau: 10-35 (40) mm Ø, conique-convexe à campanulé, d'abord lisse puis fibrilleux-rimeux, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre
+  chapeau: 10-40 (45) mm Ø, conique-convexe à campanulé, d'abord lisse puis fibrilleux-rimeux, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre
   cheilochrysocystides:
   cheilocystides: métuloïdes, 60,3 [61,6; 67,7] 68,9 x 17,2 [17,8; 20,2] 20,8 µm en moyenne
   cheiloleptocystides: 

@@ -84,7 +84,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: De Claude Kaufholtz-Couture. « Sous-genre Inocybe = Inocybium (Earle Sing.); Section Inocybe = Lacerae; Sous-section Lacerinae. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -97,7 +97,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: blanc crème, vite fugace
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -133,7 +133,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à légèrement spermatique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -248,12 +248,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à légèrement spermatique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rouille à brun cannelle
   spherocytes: 
   sporocystes: 
   stipitipellis: 
@@ -290,7 +290,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: présent, blanc crème, vite fugace
   volve: 
   zone-perihymeniale: 
 ---

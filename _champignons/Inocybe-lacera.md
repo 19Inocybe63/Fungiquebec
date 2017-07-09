@@ -76,7 +76,7 @@ description:
   chancre: 
   chapeau: 12-33 mm Ø, convexe, étalé, fibrilleux, à crevasses pâles, mamelonné, brun jaunâtre à brun beige, brun foncé en son centre, à marge blanche à crème pâle
   cheilochrysocystides:
-  cheilocystides: nombreuses, sublagéniformes, fusiformes à fusiformes ventrues, dont l'apex est parfois ± obtus, rarement ovoïdales, longuement pédicellées, émergentes au ⅔, lorsque présent, les cristaux d'oxalate sont très peu nombreux, à paroi fine 1-1,5 µm, (31,5) 40,3 - 56,1 (76,7) × (15,5) 17,7 - 21,3 (21,4) µm
+  cheilocystides: nombreuses, sublagéniformes, fusiformes à fusiformes ventrues, dont l'apex est parfois ± obtus, rarement ovoïdales, longuement pédicellées, émergentes au ⅔, lorsque présent, les cristaux d'oxalate sont très peu nombreux, à paroi fine 1-1,5 µm; (31,5) 40,3 - 56,1 (76,7) × (15,5) 17,7 - 21,3 (21,4) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

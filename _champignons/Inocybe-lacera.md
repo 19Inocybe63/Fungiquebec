@@ -83,7 +83,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: NON
   commentaires: De Claude Kaufholtz-Couture. « Sous-genre Inocybe = Inocybium (Earle Sing.); Section Inocybe = Lacerae; Sous-section Lacerinae. »
   conidies: 
   conidiome: 
@@ -262,8 +262,10 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  symptomes: 
-  syndrome: 
+  symptomes: Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
+Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: muscarinien ou sudorien
+La toxine responsable est la muscarine
   synonymie: |
     <i>Agaricus lacer</i> Fr., Systema Mycologicum 1:257 (1821)
     <i>Agaricus lacerus</i> Fr., Systema Mycologicum 1:257 (1821)

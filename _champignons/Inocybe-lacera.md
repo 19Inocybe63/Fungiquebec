@@ -15,6 +15,16 @@ details:
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:
+  - fongarium: cKc0541
+    date: 18 août 2016
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0552
     date: 27 août 2016
     planche:

@@ -65,7 +65,7 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes
-  caulocystides-sommitales: 
+  caulocystides-sommitales: absentes, ± présentes; plutôt des poils caulocystidioïdes présent à l'extrême apex du pied
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 

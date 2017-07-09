@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sablonneux, sur le bord d'un sentier, sous feuillus et conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 12-33 mm Ø, convexe, étalé, fibrilleux, à crevasses pâles, mamelonné, brun jaunâtre à brun beige, brun foncé en son centre, à marge blanche à crème pâle
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -173,7 +173,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, espacées à serrées, à reflets sales ou sombres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

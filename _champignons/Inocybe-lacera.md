@@ -11,7 +11,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: Inocybe lacera (Fr.) P. Kumm
+  espece: <i>Inocybe lacera</i> (Fr.) P. Kumm
   litterature: Kummer, P. 1871. Der Führer in die Pilzkunde. :1-146
 
 collections:

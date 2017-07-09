@@ -47,7 +47,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    typiquement fusiformes à subcylindracées, à sommet un peu conique, mais obtus ou étiré et base tronquée ou trapézoïdales, parfois à aspect pentagonal allongé, ± étranglé à subgibbeux, à paroi mince 0,1-0,2 μm, avec un petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    (12,4) 13,8 - 16,1 (17,4) × (4,4) 4,9 - 5,6 (6,2) µm
+    Q = (2,5) 2,7 - 3,4 (3,6) ; N = 30
+    Me = 15 × 5,2 µm ; Qe = 2,9
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -208,7 +213,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
+  pied: 16-75 x 2-5 mm Ø, cylindrique, égal, légèrement tortueux, creux, cortine à l'apex, subbulbeux, beige pâle de l'apex au centre et brun rougeâtre du centre vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 

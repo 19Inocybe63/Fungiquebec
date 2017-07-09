@@ -221,7 +221,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles, sublagéniformes, fusiformes à fusiformes ventrues dont l'apex est parfois ± obtus, rarement ovoïdales 42 - 44 × 19 - 23 µm en moyenne, longuement pédicellées, émergentes au ⅔, lorsque présent, les cristaux d'oxalate sont très peu nombreux, à paroi fine à moyenne 1,2 - 2,1 µm, 48,9 - 81,2 × 14,1 - 25,6 µm en moyenne
+  pleurocystides: occasionnelles, sublagéniformes, fusiformes à fusiformes ventrues dont l'apex est parfois ± obtus, rarement ovoïdales 42 - 44 × 19 - 23 µm en moyenne; longuement pédicellées, émergentes au ⅔, lorsque présentes, les cristaux d'oxalate sont très peu nombreux, à paroi fine à moyenne 1,2 - 2,1 µm; (48,9 - 81,2 × 14,1 - 25,6 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

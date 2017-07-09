@@ -143,7 +143,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte à légèrement spermatique
+  exhalaison: indistincte à légèrement spermatique (pipéridine)
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -269,7 +269,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: indistincte à légèrement spermatique
+  saveur: indistincte à légèrement spermatique (pipéridine)
   sclerocystides: 
   sclerote: 
   soies: 

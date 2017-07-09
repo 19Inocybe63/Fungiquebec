@@ -69,7 +69,7 @@ description:
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: nombreuses, clavées à piriformes, à paroi mince, hyalines
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: pâle, subconcolore surtout en surface ou vers le bas, parfois à reflets rosés à vineux
@@ -116,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commune
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -197,7 +197,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire à grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -211,7 +211,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de mai à octobre
   phialoconidies: 
   pied: 16-75 x 2-5 mm Ø, cylindrique, égal, légèrement tortueux, creux, cortine à l'apex, subbulbeux, beige pâle de l'apex au centre et brun rougeâtre du centre vers la base
   pieds-steriles: 

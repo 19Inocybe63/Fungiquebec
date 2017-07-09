@@ -265,18 +265,18 @@ description:
   symptomes: 
   syndrome: 
   synonymie: |
-    <b>Agaricus lacer</b> Fr., Systema Mycologicum 1:257 (1821)
-    <b>Agaricus lacerus</b> Fr., Systema Mycologicum 1:257 (1821)
-    <b>Inocybe deglubens var. trivialis</b> P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 9:43 (1882)
-    <b>Agaricus deflectens</b> Britzelm., Berichte des Naturhistorischen Vereins Augsburg 27:158 (1883)
-    <b>Agaricus observabilis</b> Britzelm., Berichte des Naturwissenschaftlichen Vereins Schwaben Neuburg 30: 19 (1890)
-    <b>Agaricus oblongisporus</b> Britzelm., Botanisches Centralblatt 62:278 (1895)
-    <b>Inocybe carbonaria</b> Velen., Ceske Houby 2:379 (1920)
-    <b>Inocybe demitrata</b> Velen., Ceske Houby 2:380 (1920)
-    <b>Inocybe mammosa</b> Velen., Ceske Houby 2:381 (1920)
-    <b>Inocybe pallescens</b> Velen., Ceske Houby 2:377 (1920)
-    <b>Inocybe minima</b> Killerm., Denkschriften der Bayerischen Botanischen Gesellschaft in Regensburg 16:105 (1925)
-    <b>Inocybe moravica</b> Hruby, Hedwigia 70:279 (1930)
+    <i>Agaricus lacer</i> Fr., Systema Mycologicum 1:257 (1821)
+    <i>Agaricus lacerus</i> Fr., Systema Mycologicum 1:257 (1821)
+    <i>Inocybe deglubens var. trivialis</i> P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 9:43 (1882)
+    <i>Agaricus deflectens</i> Britzelm., Berichte des Naturhistorischen Vereins Augsburg 27:158 (1883)
+    <i>Agaricus observabilis</i> Britzelm., Berichte des Naturwissenschaftlichen Vereins Schwaben Neuburg 30: 19 (1890)
+    <i>Agaricus oblongisporus</i> Britzelm., Botanisches Centralblatt 62:278 (1895)
+    <i>Inocybe carbonaria</i> Velen., Ceske Houby 2:379 (1920)
+    <i>Inocybe demitrata</i> Velen., Ceske Houby 2:380 (1920)
+    <i>Inocybe mammosa</i> Velen., Ceske Houby 2:381 (1920)
+    <i>Inocybe pallescens</i> Velen., Ceske Houby 2:377 (1920)
+    <i>Inocybe minima</i> Killerm., Denkschriften der Bayerischen Botanischen Gesellschaft in Regensburg 16:105 (1925)
+    <i>Inocybe moravica</i> Hruby, Hedwigia 70:279 (1930)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

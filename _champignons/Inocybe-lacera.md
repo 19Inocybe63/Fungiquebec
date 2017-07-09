@@ -35,7 +35,7 @@ description:
   anamorphe-conidien: 
   anneau: 
   apothecie: 
-  arete-lamellaire: 
+  arete-lamellaire: fertile
   arthroconidies: 
   articles: 
   ascome: 
@@ -64,7 +64,7 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
+  caulocystides-medianes: absentes
   caulocystides-sommitales: 
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
@@ -72,11 +72,11 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: pâle, subconcolore surtout en surface ou vers le bas, parfois à reflets rosés à vineux
   chancre: 
   chapeau: 12-33 mm Ø, convexe, étalé, fibrilleux, à crevasses pâles, mamelonné, brun jaunâtre à brun beige, brun foncé en son centre, à marge blanche à crème pâle
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: nombreuses, sublagéniformes, fusiformes à fusiformes ventrues, dont l'apex est parfois ± obtus, rarement ovoïdales, longuement pédicellées, émergentes au ⅔, lorsque présent, les cristaux d'oxalate sont très peu nombreux, à paroi fine 1-1,5 µm, (59,7) 64,6 - 71 (76,6) × 16,1 - 19,4 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

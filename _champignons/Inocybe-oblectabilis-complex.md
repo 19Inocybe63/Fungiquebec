@@ -24,7 +24,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture
-    confirmee: Thomas W. Kuyper et Alain Ferville
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -84,7 +84,9 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: De Claude Kaufholtz-Couture. « Sous-genre Clypeus, Section Marginatae, Sous-section Oblectabiles. »
+  commentaires: |
+    De Thomas W. Kuyper. « From the picture and description I would agree that it is not I. grammata, but likely a taxon of the I. oblectabilis complex. However, there could be species in North America that have not been reported from Europe. »
+    De Claude Kaufholtz-Couture. « Sous-genre Clypeus, Section Marginatae, Sous-section Oblectabiles. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -118,7 +118,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: inconnu
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -199,7 +199,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -213,7 +213,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: octobre
   phialoconidies: 
   pied: 45-57 x 7-11 mm Ø, cylindrique, égal, plein et ferme, rougeâtre à l'apex, blanc à la base, bulbeux (en oignon)
   pieds-steriles: 

@@ -83,7 +83,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: NON
   commentaires: |
     De Thomas W. Kuyper. « From the picture and description I would agree that it is not <i>I. grammata</i>, but likely a taxon of the <i>I. oblectabilis</i> complex. However, there could be species in North America that have not been reported from Europe. »
     De Claude Kaufholtz-Couture. « Sous-genre Clypeus, Section Marginatae, Sous-section Oblectabiles. »
@@ -276,8 +276,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  symptomes: 
-  syndrome: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: |
+    muscarinien ou sudorien
+    La toxine responsable est la muscarine
   synonymie: |
     <i>Clypeus oblectabilis</i> (Britzelm.)
     <i>Agaricus oblectabilis</i> Britzelm., Berichte des Naturwissenschaftlichen Vereins Schwaben Neuburg 30:23 (1890)

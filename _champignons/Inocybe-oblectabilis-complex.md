@@ -276,10 +276,7 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: |
-   	<i>Clypeus oblectabilis</i> (Britzelm.)
-    <i>Agaricus oblectabilis</i> Britzelm., Berichte des Naturwissenschaftlichen Vereins Schwaben Neuburg 30:23 (1890)
-    <i>Astrosporina oblectabilis</i> (Britzelm.) Zerova, Viznachnik gribiv Ukraini. T. 5. Basidiomycetes:343 (1979)
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

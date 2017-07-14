@@ -85,7 +85,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Thomas W. Kuyper. « From the picture and description I would agree that it is not I. grammata, but likely a taxon of the I. oblectabilis complex. However, there could be species in North America that have not been reported from Europe. »
+    De Thomas W. Kuyper. « From the picture and description I would agree that it is not <i>I. grammata</i>, but likely a taxon of the <i>I. oblectabilis</i> complex. However, there could be species in North America that have not been reported from Europe. »
     De Claude Kaufholtz-Couture. « Sous-genre Clypeus, Section Marginatae, Sous-section Oblectabiles. »
   conidies: 
   conidiome: 

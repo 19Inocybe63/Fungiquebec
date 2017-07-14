@@ -74,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre, ferme, devient rougeâtre à la coupe
   chancre: 
-  chapeau: 38-56 mm Ø, conique à campanulé, fibrilleux-rimeux, brun tan dont la marge est plus pâle
+  chapeau: 38-56 mm Ø, convexe à campanulé, fibrilleux-rimeux, brun tan dont la marge est plus pâle
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -213,7 +213,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: octobre
+  phenologie: de septembre à octobre
   phialoconidies: 
   pied: 45-57 x 7-11 mm Ø, cylindrique, égal, plein et ferme, rougeâtre à l'apex, blanc à la base, bulbeux (en oignon)
   pieds-steriles: 

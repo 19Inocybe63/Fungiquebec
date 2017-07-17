@@ -55,7 +55,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à cylindriques, tétrasporiques, non bouclées à la base, 31,0 - 35,0 × 9,5 - 11,0 µm en moyenne
   basidiospores: |
-    subrectangulaires à rectangulaires, parfois avec apex subconiques en vue frontale, à noduleuses-anguleuses vues de profil, majoritairement pentagone rarement hexagone, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    subrectangulaires à rectangulaires, parfois avec apex subconiques en vue frontale, à noduleuses-anguleuses vues de profil, majoritairement pentagone rarement hexagone, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (9,5) 10,4 - 13 (15,5) × (5,8) 6 - 6,9 (7,1) µm
     Q = (1,6) 1,7 - 2 (2,6) ; N = 30
     Me = 11,9 × 6,4 µm ; Qe = 1,9

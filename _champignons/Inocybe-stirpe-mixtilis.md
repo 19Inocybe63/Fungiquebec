@@ -55,7 +55,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    gibbosporées (noduleuses)-anguleuses (goniospores) avec 8-10 bosses moyennement haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    gibbosporées (noduleuses)-anguleuses (goniospores) avec 8-10 bosses moyennement haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6,7) 7,3 - 8,8 (9,4) × (5,3) 5,5 - 7,1 (7,5) µm
     Q = (1) 1,1 - 1,5 (1,7) ; N = 30
     Me = 8 × 6,3 µm ; Qe = 1,3

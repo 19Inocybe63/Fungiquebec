@@ -65,7 +65,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à cylindriques-claviformes, tétrasporiques, boucles non observées à la base, 24-33 x 8-10 µm ;
   basidiospores: |
-    goniosporées, largement elliptiques à elliptiques, parfois subrectangulaires, 8-10 bosses relativement bien dénombrables, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    goniosporées, largement elliptiques à elliptiques, parfois subrectangulaires, 8-10 bosses relativement bien dénombrables, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6,3) 6,6 - 8 (9,3) × (4,9) 5 - 6,3 (6,9) µm
     Q = (1) 1,2 - 1,5 (1,6) ; N = 30
     Me = 7,5 × 5,6 µm ; Qe = 1,3

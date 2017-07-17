@@ -93,7 +93,7 @@ description:
   comestibilite: NON
   commentaires: |
     De Claude Kaufholtz-Couture. « Il s'agit ici d'<i>Inocybe aff. rennyi</i>. »
-    De Claude Kaufholtz-Couture. « Sous-genre Clypeus; Section Cortinatae; Sous section Cortinatae. »
+    De Claude Kaufholtz-Couture. « Sous-genre Clypeus; Section Cortinatae; Sous section-Cortinatae. »
   conidies: 
   conidiome: 
   conidiophores: 

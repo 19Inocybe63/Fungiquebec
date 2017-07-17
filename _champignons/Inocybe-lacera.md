@@ -64,7 +64,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à piriformes, bisporiques, généralement tétrasporiques, non bouclées à la base, (22,2) 28 - 35,6 (36,1) × (9,6) 10,5 - 12,9 (13,2) µm
   basidiospores: |
-    léiosporées, typiquement fusiformes à subcylindracées, à sommet un peu conique, mais obtus ou étiré et base tronquée ou trapézoïdales, parfois à aspect pentagonal allongé, ± étranglé à subgibbeux, à paroi mince 0,1-0,2 µm, avec un petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    léiosporées, typiquement fusiformes à subcylindracées, à sommet un peu conique, mais obtus ou étiré et base tronquée ou trapézoïdales, parfois à aspect pentagonal allongé, ± étranglé à subgibbeux, à paroi mince 0,1-0,2 µm, avec un petit appendice hilaire, à contenu uniguttulé, brun pâle ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (12,4) 13,8 - 16,1 (17,4) × (4,4) 4,9 - 5,6 (6,2) µm
     Q = (2,5) 2,7 - 3,4 (3,6) ; N = 30
     Me = 15 × 5,2 µm ; Qe = 2,9

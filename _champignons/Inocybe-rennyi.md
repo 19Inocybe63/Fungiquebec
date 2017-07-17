@@ -91,7 +91,9 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Il s'agit ici d'<i>Inocybe aff. rennyi</i>. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Il s'agit ici d'<i>Inocybe aff. rennyi</i>. »
+    De Claude Kaufholtz-Couture. « Sous-genre Clypeus; Section Cortinatae; Sous section Cortinatae. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -260,7 +262,7 @@ description:
   reactions-macrochimiques: |
     Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 
-  remarques: Sous section Cortinatae ; Clé de Fatto, B C E I K L O Q
+  remarques: Clé de Fatto, B C E I K L O Q
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

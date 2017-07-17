@@ -53,7 +53,7 @@ description:
     11 [12,3; 12,8] 14,1 x 10,6 [11,7; 12,2] 13,3 µm
     Q = [1; 1,1] 1,2; N = 30; C = 95%
     Me = 12,5 x 11,9 µm; Qe = 1,1
-    (Piximètre, formule statistique ; mesures dans le NaCl iso 0,9%, sans les ornements)
+    (Piximètre, formule statistique; mesures dans le NaCl iso 0,9%, sans les ornements)
   basidioles: 
   basidiome: gastéroïdes, hypogés à subhypogés, réniformes, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
   bibliographies: 
@@ -230,7 +230,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Montecchi, Amer, ; Sarasini, Mario</b>. <i>Funghi ipogei d'Europa</i>, Associazione Micologica Bresadola, 2000, 714 p.
+    <b>Montecchi, Amer,; Sarasini, Mario</b>. <i>Funghi ipogei d'Europa</i>, Associazione Micologica Bresadola, 2000, 714 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

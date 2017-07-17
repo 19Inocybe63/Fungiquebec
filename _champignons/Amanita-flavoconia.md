@@ -1,6 +1,6 @@
 ---
 nom: Amanita flavoconia
-date: 2017-03-16 00:00:00
+date: 2017-07-17 00:00:00
 image: https://c1.staticflickr.com/3/2828/9378730585_17f076277c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9378730585/in/photolist-fhLrRt
 album-flickr:

@@ -88,7 +88,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: Claude Kaufholtz-Couture. « La collection cKc0619 pousse sous feuillus, <i>Fagus</i>, <i>Quercus</i>. »
+  commentaires: Claude Kaufholtz-Couture. « La collection cKc0619 poussait sous feuillus, <i>Fagus</i>, <i>Quercus</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -64,7 +64,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à étroitement claviformes, tétrasporiques, bouclées à la base, 25,0-38,0 × 6,5-10,0 µm
   basidiospores: |
-    léiosporées, elliptiques citriformes à sommet subtronqué en vue frontale, amygdaliformes à citriformes avec apex coniques à ± ogives, parfois subtronquées vues de profil, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire, parfois avec pore germinatif 0,6-0,8 µm Ø, à contenu uniguttulé, brun pâle à rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    léiosporées, elliptiques citriformes à sommet subtronqué en vue frontale, amygdaliformes à citriformes avec apex coniques à ± ogives, parfois subtronquées vues de profil, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire, parfois avec pore germinatif 0,6-0,8 µm Ø, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (7,5) 8 - 9,3 (10,7) × (4,5) 4,8 - 5,5 (6,7) µm
     Q = (1,5) 1,6 - 1,8 (2) ; N = 30
     Me = 8,8 × 5,2 µm ; Qe = 1,7

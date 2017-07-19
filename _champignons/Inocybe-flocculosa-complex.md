@@ -122,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -203,7 +203,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -217,7 +217,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 16-42 x 2-4 mm Ø, cylindrique, égal, creux, cortine à l'apex, subbulbeux, crème jaunâtre avec des zones faiblement rougeâtres
   pieds-steriles: 
@@ -271,7 +271,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brune à brun ocre
   spherocytes: 
   sporocystes: 
   stipitipellis: 

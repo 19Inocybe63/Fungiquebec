@@ -46,32 +46,37 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, majoritairement tétrasporiques, bouclées à la base, 21-24 × 6-7 µm en moyenne
+  basidiospores: |
+    leiosporées, ovoïdales à elliptiques en vue frontale, elliptiques à amygdaliformes vues de profil, souvent à sommet ogival, parfois obtus, lisse, à paroi mince à légèrement épaissie, avec petit appendice hilaire, à contenu uniguttulé, brun à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    (7,8) 8,1 - 9,1 (9,5) × (4,7) 5,1 - 5,6 (5,9) µm
+    Q = (1,5) 1,52 - 1,7 (1,8) ; N = 30
+    Me = 8,6 × 5,4 µm ; Qe = 1,6
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sablonneux, sur le bord d'un sentier
-  boucles: 
+  boucles: observées dans le stipe et sur le pileipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: absentes, surtout des terminaisons hyphales
+  caulocystides-sommitales: peu abondantes, métuloïdes, (56) 64 - 84,5 (89,9) × (9,1) 11,1 - 12,5 (13,4) µm, majoritairement avec très peu de cristaux d'oxalate
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: piriformes, 12,8 - 17,6 × 6,8 - 8,5 µm, ovoïdales (16,5) 19,8 - 24,8 (29,2) × 12,8 - 14,8 (15) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
   chapeau: 12-33 mm Ø, campanulé au début, puis convexe à étalé, fibrilleux, avec squamules apprimées, déprimé et mamelonné, brun pâle à brun rougeâtre, au centre, à la marge blanchâtre
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, métuloïdes, formant une palissade, majoritairement fusiformes à largement fusiformes, rarement sphéropédonculées, dont l’apex est obtus, lagéniformes à largement lagéniformes, dont la paroi est fine à épaisse 1,5 - 2,7 (3), Ammoniaco -, (44,6) 47,3 - 63 (77,1) × (15,7) 15,9 - 19,8 (20,7) µm, majoritairement avec très peu de cristaux d'oxalate
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -216,7 +221,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: nombreuses, métuloïdes, majoritairement fusiformes à largement fusiformes dont l’apex est obtus, lagéniformes à largement lagéniformes, rarement ovoïdes, dont la paroi est fine à épaisse 2,4 - 3,9 (4) µm, Ammoniaco -, (43,5) 47,7 - 67 (74) × (14,7) 15,3 - 19,6 (20,9) µm, majoritairement avec très peu de cristaux d'oxalate
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -239,7 +244,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Les boucles observées dans le pileipellis appartiennent davantage au reste du velipellis
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

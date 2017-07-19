@@ -90,7 +90,9 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Sous-genre Inocybe; Section Tardae; Sous-section Gausapatinae. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Sous-genre Inocybe; Section Tardae; Sous-section Gausapatinae. »
+    De Thomas W. Kuyper. « ... From the picture I would guess that it is in the complex of I. flocculosa, however to my knowledge no species have been reported with lamellae that turn reddish on damage... »
   conidies: 
   conidiome: 
   conidiophores: 

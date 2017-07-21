@@ -95,7 +95,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, rarement utriformes, tétrasporiques, 24,9 [30,6; 39,7] 45,4 x 9,9 [10,4; 11,3] 11,9 µm
   basidiospores: |
-    globuleuses à subglobuleuses, aculéolées (digitéolées) dont l’apex est obtus mesurant entre 1,3 [1,9; 2,5] 3,3 x 0,8 [1,3; 1,8] 2,3 µm, à paroi mince à légèrement épaissie, à contenu uniguttulé, brun ± brun rougeâtre dans le NaCl iso 0,9%, légèrement rougeâtre dans le melzer, non cyanophiles
+    goniosprées, globuleuses à subglobuleuses, aculéolées (digitéolées) dont l’apex est obtus mesurant entre 1,3 [1,9; 2,5] 3,3 x 0,8 [1,3; 1,8] 2,3 µm, à paroi mince à légèrement épaissie, à contenu uniguttulé, brun ± brun rougeâtre dans le NaCl iso 0,9%, légèrement rougeâtre dans le melzer, non cyanophiles
     (7,7) 8,2 [9,4; 9,9] 11,2 x (7) 7,6 [8,8; 9,4] 10,6 µm
     Q = 1,0 [1,1-1,2] 1,3; N = 30; C = 95%
     Me = 9,7 x 9,1 µm; Qe = 1,1

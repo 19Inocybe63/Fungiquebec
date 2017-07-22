@@ -21,9 +21,6 @@ collections:
       numero: cKc0115-0101
       miniature: https://c1.staticflickr.com/1/592/22914526952_12722fa6c6_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/22914526952/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
-      numero: cKc-étude-0176
-      miniature: https://c1.staticflickr.com/5/4294/35677076050_549032788f_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: Claude Kaufholtz-Couture

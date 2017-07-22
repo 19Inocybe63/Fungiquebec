@@ -1,6 +1,6 @@
 ---
 nom: Inocybe aff. rennyi
-date: 2017-04-13 00:00:00
+date: 2017-07-22 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -21,6 +21,16 @@ collections:
       numero: cKc0556-0151
       miniature: https://c1.staticflickr.com/1/752/31075700664_ec9eda465f_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0556
+    date: 9 septembre 2016
+    planche:
+      numero: cKc-étude-0176
+      miniature: https://c1.staticflickr.com/5/4294/35677076050_549032788f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: Claude Kaufholtz-Couture (provisoire)

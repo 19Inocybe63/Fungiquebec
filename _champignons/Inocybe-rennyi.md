@@ -35,6 +35,16 @@ collections:
     altitude: 
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
+  - fongarium: cKc0624
+    date: 20 juillet 2017
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -227,7 +237,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: en septembre
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 13-19 x 1-2 mm Ø, cylindrique, plein, avec petites fibrilles blanchâtres à l'apex, brun rougeâtre, courbant légèrement à la base, subbulbeuse
   pieds-steriles: 

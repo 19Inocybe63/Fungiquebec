@@ -25,6 +25,16 @@ collections:
     altitude: 
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
+  - fongarium: cKc0115
+    date: 18 août 2013
+    planche:
+      numero: cKc-étude-0176
+      miniature: https://c1.staticflickr.com/5/4294/35677076050_549032788f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/dateposted/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux
   - fongarium: cKc0510
     date: 3 juillet 2016
     planche:

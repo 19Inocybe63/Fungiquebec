@@ -1,6 +1,6 @@
 ---
 nom: Inocybe calospora
-date: 2017-03-26 00:00:00
+date: 2017-07-22 00:00:00
 image: https://c1.staticflickr.com/1/527/20002235135_b8e49c6294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20002235135/in/photolist-Ajog3r-wtwKDr-wtwFD2
 album-flickr:
@@ -61,6 +61,16 @@ collections:
       numero: cKc0375-0100
       miniature: https://c1.staticflickr.com/1/644/22524170105_2e41373db9_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/22524170105/in/photolist-Ajog3r-wtwKDr-wtwFD2
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0375
+    date: 25 juillet 2015
+    planche:
+      numero: cKc-étude-0176
+      miniature: https://c1.staticflickr.com/5/4294/35677076050_549032788f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 

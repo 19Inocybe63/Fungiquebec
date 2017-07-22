@@ -1,6 +1,6 @@
 ---
 nom: Inocybe oblectabilis complex
-date: 2017-07-14 00:00:00
+date: 2017-07-22 00:00:00
 image: https://c1.staticflickr.com/9/8605/29988376396_44041bb0a6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29988376396/in/photolist-Wakmqv-MFYgwm-MJZ2Gr
 album-flickr:
@@ -21,6 +21,16 @@ collections:
       numero: cKc0576-0172
       miniature: https://c1.staticflickr.com/5/4234/35548889765_b5fe7f7048_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/35548889765/in/photolist-Wakmqv-MJZ2Gr-MFYgwm/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: 
+  - fongarium: cKc0576
+    date: 29 septembre 2016
+    planche:
+      numero: cKc-étude-0176
+      miniature: https://c1.staticflickr.com/5/4294/35677076050_549032788f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture

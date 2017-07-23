@@ -1,6 +1,6 @@
 ---
 nom: Inocybe mixtilis
-date: 2017-03-26 00:00:00
+date: 2017-07-22 00:00:00
 image: https://c1.staticflickr.com/1/320/19646769673_3aa100cc36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19646769673/in/photolist-FW6AsL-vW7Q9a-w4hTQt-w3DWcd/
 album-flickr:
@@ -154,7 +154,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: fongique à spermatique
+  exhalaison: fongique à spermatique (pipéridine)
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -283,7 +283,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: fongique à spermatique
+  saveur: fongique à spermatique (pipéridine)
   sclerocystides: 
   sclerote: 
   soies: 

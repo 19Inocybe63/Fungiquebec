@@ -232,7 +232,7 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 45-57 x 7-11 mm Ø, cylindrique, égal, plein et ferme, rougeâtre à l'apex, blanc à la base, bulbeux (en oignon)
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -287,6 +287,7 @@ description:
   sporee: brun foncé à brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 45-57 x 7-11 mm Ø, cylindrique, égal, plein et ferme, rougeâtre à l'apex, blanc à la base, bulbeux (en oignon)
   stipitipellis: 
   stipititrame: 
   stroma: 

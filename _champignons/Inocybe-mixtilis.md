@@ -233,7 +233,7 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 20-70 x 3-5 mm Ø, cylindrique, ± égal à flexueux, avec bulbe marginé, pruineux sur toute sa longueur, blanchâtre au début, puis crème, jaune pâle à teinté de jaune ocre
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (ixocutis) avec suprapellis d'environ 50-55 µm de profondeur, parallèle à hyaline entrelacées, avec hyphes agglutinées 2-3,5 µm de Ø, avec granulations hyalines, le subpellis est composé d’une couche d’environ 65 µm de profondeur, compacts, avec des hyphes entrelacées entre 5.5-13 µm de Ø, avec des hyphes à pigmentations incrustées brun foncé à brun pâles
@@ -291,6 +291,7 @@ description:
   sporee: brune à brun-rouge foncé
   spherocytes: 
   sporocystes: 
+  stipe: 20-70 x 3-5 mm Ø, cylindrique, ± égal à flexueux, avec bulbe marginé, pruineux sur toute sa longueur, blanchâtre au début, puis crème, jaune pâle à teinté de jaune ocre
   stipitipellis: 
   stipititrame: 
   stroma: 

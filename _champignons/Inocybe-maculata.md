@@ -244,7 +244,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-66 x 5-10 mm Ø, cylindrique, plein, s'élargissant à la base, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis; suprapellis 60-70 µm d'épaisseur, formé d'hyphes cylindriques, bouclées, avec pigmentations brun rougeâtre, 5-20 µm Ø
@@ -297,6 +297,7 @@ description:
   sporee: brun à brun cannelle
   spherocytes: 
   sporocystes: 
+  stipe: 30-66 x 5-10 mm Ø, cylindrique, plein, s'élargissant à la base, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -140,7 +140,7 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: spermatique (pipéridine)
+  exhalaison-de-la-chair: 
   exhalaison-des-lames: spermatique (pipéridine)
   exoperidium: 
   extremites-hyphales: 

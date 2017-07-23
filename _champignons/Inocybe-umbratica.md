@@ -162,8 +162,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: subnulle ou vaguement farino-spermatique (pipéridine)
-  exhalaison-des-lames: spermatique (pipéridine), légèrement herbeux à persiller
+  exhalaison-de-la-chair: indistincte, spermatique (pipéridine)
+  exhalaison-des-lames: légèrement herbeux à persiller, spermatique (pipéridine)
   exoperidium: 
   extremites-hyphales: 
   face-externe: 

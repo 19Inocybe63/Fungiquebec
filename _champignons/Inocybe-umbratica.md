@@ -162,8 +162,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: subnulle ou vaguement farino-spermatique
-  exhalaison-des-lames: spermatique, légèrement herbeux à persiller
+  exhalaison-de-la-chair: subnulle ou vaguement farino-spermatique (pipéridine)
+  exhalaison-des-lames: spermatique (pipéridine), légèrement herbeux à persiller
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -240,7 +240,7 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-80 x 3-8 mm Ø, cylindrique, égal à subégal, légèrement atténué vers la base, légèrement à ± bulbeux à bulbeux turbiné à la base, plein, finement pruineux, blanc puis teinté de jaunâtre, ± brun terne à maturité, blanc terne au sec
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: formé de 2 couches. 1) suprapellis en cutis formé d'une couche compacte d'hyphes apprimées ± 80-120 µm d'épaisseur, bouclées, hyalines, légèrement incrustées, 4-15 µm Ø ; 2) subpellis ± 120-200 µm d'épaisseur, formé d'hyphes similaires, légèrement pigmentées et moins compacte
@@ -287,7 +287,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: douce, spermatique
+  saveur: douce, spermatique (pipéridine)
   sclerocystides: 
   sclerote: 
   soies: 
@@ -295,6 +295,7 @@ description:
   sporee: brune
   spherocytes: 
   sporocystes: 
+  stipe: 30-80 x 3-8 mm Ø, cylindrique, égal à subégal, légèrement atténué vers la base, légèrement à ± bulbeux à bulbeux turbiné à la base, plein, finement pruineux, blanc puis teinté de jaunâtre, ± brun terne à maturité, blanc terne au sec
   stipitipellis: 
   stipititrame: 
   stroma: 

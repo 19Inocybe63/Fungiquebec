@@ -164,7 +164,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: pipéridine (spermatique)
+  exhalaison-des-lames: spermatique (pipéridine)
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -286,7 +286,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: pipéridine (spermatique)
+  saveur: spermatique (pipéridine)
   sclerocystides: 
   sclerote: 
   soies: 

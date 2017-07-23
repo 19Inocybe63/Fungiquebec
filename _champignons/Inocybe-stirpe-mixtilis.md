@@ -1,6 +1,6 @@
 ---
 nom: Inocybe stirpe mixtilis
-date: 2017-03-26 00:00:00
+date: 2017-07-22 00:00:00
 image: https://c2.staticflickr.com/6/5769/20824170299_f2ac300786_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20824170299/in/photolist-HtmErz-xJajjX-x4MHWH
 album-flickr:
@@ -143,7 +143,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: fongique à spermatique
+  exhalaison-des-lames: fongique à spermatique (pipéridine)
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -220,7 +220,7 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 48-50 x 3-4 mm Ø, cylindrique, avec bulbe ± marginé, pruineux, blanchâtre au début, puis crème, jaune pâle à teinté de jaune ocre
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -268,7 +268,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: fongique à spermatique
+  saveur: fongique à spermatique (pipéridine)
   sclerocystides: 
   sclerote: 
   soies: 
@@ -276,6 +276,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
+  stipe: 48-50 x 3-4 mm Ø, cylindrique, avec bulbe ± marginé, pruineux, blanchâtre au début, puis crème, jaune pâle à teinté de jaune ocre
   stipitipellis: 
   stipititrame: 
   stroma: 

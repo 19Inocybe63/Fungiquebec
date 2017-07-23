@@ -1,6 +1,6 @@
 ---
 nom: Inocybe rimosa
-date: 2017-03-26 00:00:00
+date: 2017-07-22 00:00:00
 image: https://c2.staticflickr.com/6/5831/19949912134_a097b3d209_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19949912134/in/photolist-AYH9DB-woUvQj-x4iWC5/
 album-flickr:
@@ -216,7 +216,7 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 39 x 5 mm Ø, cylindrique, subbulbeux à napiforme, lisse, blanchâtre ou se tachant légèrement
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -271,6 +271,7 @@ description:
   sporee: brune
   spherocytes: 
   sporocystes: 
+  stipe: 39 x 5 mm Ø, cylindrique, subbulbeux à napiforme, lisse, blanchâtre ou se tachant légèrement
   stipitipellis: 
   stipititrame: 
   stroma: 

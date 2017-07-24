@@ -100,7 +100,7 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
+  caulocystides-medianes: absentes
   caulocystides-sommitales: pourraient davantage être considérés comme des terminaisons hyphales; peu nombreuses et présentes seulement à l'apex du pied, ± similaires aux cheilocystides ou plus cylindriques et plus petites
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
@@ -132,7 +132,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: absente
+  cortine: blanchâtre et fugace
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 

@@ -132,7 +132,7 @@ description:
   chancre: 
   chapeau: 11 x 18 mm Ø, campanulé, conique à étalé, légèrement mamelonné, tomenteux, méchuleux-écailleux, brun foncé à brun rougeâtre
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, diversiformes, métuloïdes, rarement avec un long col, lagéniformes, fusiformes légèrement ventrues à subcylindriques, avec paroi jusqu'à 3-4 µm, hyalines, 27 [32,8; 38,3] 42,1 x 9,5 [14,1; 16,6] 17,9 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -154,7 +154,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: absente
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -236,8 +236,8 @@ description:
   hysterothece: 
   lames: adnées, cunéiformes, légèrement veinées, brun pâle
   lamprocystides: 
-  lamprocheilocystides: abondantes, diversiformes, métuloïdes, rarement avec un long col, lagéniformes, fusiformes légèrement ventrues à subcylindriques, avec paroi jusqu'à 3-4 µm, hyalines, 27 [32,8; 38,3] 42,1 x 9,5 [14,1; 16,6] 17,9 µm
-  lampropleurocystides: peu nombreuses, dispersées, lagéniformes à subfusiformes, à paroi jusqu'à 3-4 µm, hyalines, 29,5-51,2 x 10-15 µm
+  lamprocheilocystides: 
+  lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -275,7 +275,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: peu nombreuses, métuloïdes, dispersées, lagéniformes à subfusiformes, à paroi jusqu'à 3-4 µm, hyalines, 29,5-51,2 x 10-15 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

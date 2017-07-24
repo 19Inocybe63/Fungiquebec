@@ -91,7 +91,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: présentes, en faisceaux, semblables aux leptocheilocystides
+  caulocystides: présentes, en faisceaux, semblables aux cheilocystides
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -102,7 +102,7 @@ description:
   chair: épaisse, ferme, immuable, blanche
   chancre: 
   chapeau: 17,5-49,3 mm Ø, hémisphérique au début à conique-campanulé, puis campanulé convexe à étalé à maturité, collant, terne et fibrilleux au sec, non distinctement hygrophane, appendiculé de restes vélaires, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracé, jaune à orange ochracé
-  cheilocystides: 
+  cheilocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capitées 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: absentes à très rares
@@ -209,7 +209,7 @@ description:
   lamprocaulocystides: 
   latex: 
   leptocystides: 
-  leptocheilocystides: en palissade, très abondantes, polymorphes, flexueuses, cylindriques à subcylindriques, dont l'apex est le plus souvent clavées, subcapitées à capitées 25,9 [43,1; 49,2] 70 (90) x 2,5 [4; 5,3] 6,8 (9,0) µm
+  leptocheilocystides: 
   macrocystides: 
   macropleurocystides: 
   marge: 

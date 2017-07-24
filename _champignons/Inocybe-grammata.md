@@ -23,7 +23,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/18867028808/in/photolist-uKdsm9-uvp2YK-tR1ag8
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
-    determinee: 
+    determinee: Claude Kaufholtz-Couture
     confirmee: Erminio Ferrari
   - fongarium: cKc0322
     date: 22 juin 2015
@@ -197,7 +197,7 @@ description:
   lames: adnées à adnexées, arquées lorsque jeune, ventrues, serrées, gris-beige clair, puis brun ocracé à brun olivâtre
   lamprocystides: 
   lamprocheilocystides: 
-  lampropleurocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, 52,2 [59,1; 68,5] 75,4 x 15 [17,4; 20,7] 23,1 µm en moyenne
+  lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -235,7 +235,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, 52,2 [59,1; 68,5] 75,4 x 15 [17,4; 20,7] 23,1 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

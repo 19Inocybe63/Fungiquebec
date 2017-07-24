@@ -102,8 +102,8 @@ description:
   columelle: 
   comestibilite: NON
   commentaires: |
-    De Claude Kaufholtz-Couture. « Les cristaux apicaux de la collection cKc0341 et cKc0391. Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des Lamprocystides (Lamprocheilocystides et Lampropleurocystides) possède entre 5 et 10 crochets. Chaque sommet se compose de 5 à 10 (11) crochets, dont 2 (3) sont bifides et les autres entiers. C'est avec le temps que l'on pourra tirer une conclusion de cette observation. »
-    « La Nigrosine donne de beaux contrastes aux lamprocystides et colore leur contenu. »
+    De Claude Kaufholtz-Couture. « Les cristaux apicaux de la collection cKc0341 et cKc0391. Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des cystides (cheilocystides et pleurocystides) possède entre 5 et 10 crochets. Chaque sommet se compose de 5 à 10 (11) crochets, dont 2 (3) sont bifides et les autres entiers. C'est avec le temps que l'on pourra tirer une conclusion de cette observation. »
+    « La Nigrosine donne de beaux contrastes aux cystides et colore leur contenu. »
     « Collection étudiée sur matériel déshydraté. »
     De Yves Lamoureux. « Il s'agit d'un bulbe marginé typique des Inocybes dits bulbeux. Ici le bulbe est bien visible, même s'il est petit, d'où l'importance de cette photo. La marge du bulbe est bien visible. Dans de tels cas, il faut parfois vérifier la base du pied par une coupe longitudinale du basidiome, c'est préférable. La base est souvent si enrobée dans de la terre dense qu'on la voit mieux en coupe. De plus, cette terre très adhérente est difficile à décoller complètement du pied sans le briser ; des petits morceaux du bulbe se brisent inévitablement. »
   conidies: 

@@ -101,7 +101,7 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes
-  caulocystides-sommitales: pourraient davantage être considérés comme des terminaisons hyphales; peu nombreuses et présentes seulement à l'apex du pied, ± similaires aux cheilocystides ou plus cylindriques et plus petites
+  caulocystides-sommitales: pourraient davantage être considérés comme des terminaisons hyphales; peu nombreuses et présentes seulement à l'apex du stipe, ± similaires aux cheilocystides ou plus cylindriques et plus petites
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 

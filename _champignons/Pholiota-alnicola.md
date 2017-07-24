@@ -93,7 +93,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: occasionnelles, polymorphes, similaires aux leptocheilocystides, typiquement plus allongées, 7-20 x 2-3 µm en moyenne
+  caulocystides: occasionnelles, polymorphes, similaires aux cheilocystides, typiquement plus allongées, 7-20 x 2-3 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 

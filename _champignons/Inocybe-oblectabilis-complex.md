@@ -93,7 +93,7 @@ description:
   chancre: 
   chapeau: 38-56 mm Ø, convexe à campanulé, fibrilleux-rimeux, brun tan dont la marge est plus pâle
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: métuloïdes, ± nombreuses, lagéniformes, fusiformes à largement fusiformes, Ammoniaco -, (40,2) 45,1 - 57,8 (66,5) × (16,5) 17 - 28,5 (35,8) µm, à paroi 1,5 - 4,2 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -199,8 +199,8 @@ description:
   hysterothece: 
   lames: adnées, larges, serrées, avec lamelles et lamellules, crème grisâtre
   lamprocystides: 
-  lamprocheilocystides: métuloïdes, ± nombreuses, lagéniformes, fusiformes à largement fusiformes, Ammoniaco -, (40,2) 45,1 - 57,8 (66,5) × (16,5) 17 - 28,5 (35,8) µm, à paroi 1,5 - 4,2 µm
-  lampropleurocystides: ± nombreuses, fusiformes à largement fusiformes, lagéniformes,  Ammoniaco -, 47,3 - 60,7 × 16,6 - 24,5 µm, à paroi 2,13 - 3,6 µm
+  lamprocheilocystides: 
+  lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -240,7 +240,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: ± nombreuses, fusiformes à largement fusiformes, lagéniformes,  Ammoniaco -, 47,3 - 60,7 × 16,6 - 24,5 µm, à paroi 2,13 - 3,6 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

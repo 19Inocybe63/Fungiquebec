@@ -209,7 +209,7 @@ description:
   lames: échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, larges à subventrues, crème jaunâtre, au liseré blanchâtre
   lamprocystides: 
   lamprocheilocystides: 
-  lampropleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 µm, Ammoniaco -, dont les cristaux d’oxalates de calcium sont plus présent à l’apex, (55,6) 55,8 - 59,2 (59,6) × (16,1) 16,3 - 19,4 (22) µm en moyenne
+  lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -247,7 +247,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 µm, Ammoniaco -, dont les cristaux d’oxalates de calcium sont plus présent à l’apex, (55,6) 55,8 - 59,2 (59,6) × (16,1) 16,3 - 19,4 (22) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

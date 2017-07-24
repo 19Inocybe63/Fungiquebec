@@ -71,8 +71,8 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: présentes, de type métuloïdes, sensiblement comme les sommitales
-  caulocystides-sommitales: présentes, de type métuloïdes, fusiformes à largement fusiformes (41,8) 46,6 - 56,3 (59,7) × (13,3) 16,4 - 22,6 (23,8) µm, à piriformes, (13,4) 13,45 - 23,2 × (5,1) 5,15 - 11,8 µm en moyenne
+  caulocystides-medianes: de type métuloïdes, sensiblement comme les sommitales
+  caulocystides-sommitales: de type métuloïdes, fusiformes à largement fusiformes (41,8) 46,6 - 56,3 (59,7) × (13,3) 16,4 - 22,6 (23,8) µm, à piriformes, (13,4) 13,45 - 23,2 × (5,1) 5,15 - 11,8 µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: nombreuses, piriformes, (16,9) 16,91 - 22,3 × (8,9) 8,94 - 9,6 µm en moyenne

@@ -71,8 +71,8 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: présentes, de type lamprocaulocystides, sensiblement comme les sommitales
-  caulocystides-sommitales: présentes, de type lamprocaulocystides, fusiformes à largement fusiformes (41,8) 46,6 - 56,3 (59,7) × (13,3) 16,4 - 22,6 (23,8) µm, à piriformes, (13,4) 13,45 - 23,2 × (5,1) 5,15 - 11,8 µm en moyenne
+  caulocystides-medianes: présentes, de type métuloïdes, sensiblement comme les sommitales
+  caulocystides-sommitales: présentes, de type métuloïdes, fusiformes à largement fusiformes (41,8) 46,6 - 56,3 (59,7) × (13,3) 16,4 - 22,6 (23,8) µm, à piriformes, (13,4) 13,45 - 23,2 × (5,1) 5,15 - 11,8 µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: nombreuses, piriformes, (16,9) 16,91 - 22,3 × (8,9) 8,94 - 9,6 µm en moyenne
@@ -82,7 +82,7 @@ description:
   chancre: 
   chapeau: 23-25 mm Ø, conique-convexe, conique, campanulé, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, parfois ovoïdes, (39,8) 46,3 - 56,2 (56,8) × (16,6) 19,5 - 21,3 (26,4) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -104,7 +104,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: absente
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -188,8 +188,8 @@ description:
   hysterothece: 
   lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crèmes à gris pâle puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
   lamprocystides: 
-  lamprocheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, parfois ovoïdes, (39,8) 46,3 - 56,2 (56,8) × (16,6) 19,5 - 21,3 (26,4) µm
-  lampropleurocystides: nombreuses, polymorphes, largement fusiformes, ellipsoïdes à ovoïdes à largement ovoïdes, (44) 50,8 - 53,6 (55,9) × (24,2) 25,5 - 29,6 (33,2) µm
+  lamprocheilocystides: 
+  lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -228,7 +228,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: nombreuses, polymorphes, largement fusiformes, ellipsoïdes à ovoïdes à largement ovoïdes, (44) 50,8 - 53,6 (55,9) × (24,2) 25,5 - 29,6 (33,2) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

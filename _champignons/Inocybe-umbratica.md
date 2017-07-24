@@ -103,7 +103,7 @@ description:
   chancre: 
   chapeau: 15-40 (50) mm Ø, campanulé-conique puis largement mamelonné, au revêtement fibrilleux, couvert de fibrilles blanches par endroits (restes du velipellis), blanc puis un peu crème terne ou ± grisâtre à maturité
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, courtes, fusiformes, lagéniformes à claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans oxalate de calcium, ou clairsemé
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,8 +208,8 @@ description:
   hysterothece: 
   lames: libres, adnexées à étroitement adnées, ± larges, serrées à très serrées, blanches puis beiges pâle à brun sombre à la fin, à arêtes finement fimbriées, plus pâles
   lamprocystides: 
-  lamprocheilocystides: abondantes, courtes, fusiformes, lagéniformes à claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans oxalate de calcium, ou clairsemé
-  lampropleurocystides: nombreuses, courtes, fusiformes, lagéniformes à claviformes, 35-60 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune
+  lamprocheilocystides: 
+  lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -248,7 +248,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: nombreuses, courtes, fusiformes, lagéniformes à claviformes, 35-60 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune
   poils: 
   poils-basaux: 
   poils-caulinaires: 

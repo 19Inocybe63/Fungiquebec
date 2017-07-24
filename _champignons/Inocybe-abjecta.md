@@ -128,7 +128,7 @@ description:
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
-  cristaux-apicaux: Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des Lamprocystides (Lamprocheilocystides et Lampropleurocystides) possède entre 1 et 2 (3) très petits subcrochets, plutôt une masse de cristaux
+  cristaux-apicaux: Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des cystides (cheilocystides et pleurocystides) possède entre 1 et 2 (3) très petits subcrochets, plutôt une masse de cristaux
   cuticule: 
   cutis: 
   cycle: 

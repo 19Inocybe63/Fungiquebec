@@ -1,6 +1,6 @@
 ---
 nom: Polyporus radicatus
-date: 2017-03-25 00:00:00
+date: 2017-07-25 00:00:00
 image: https://c1.staticflickr.com/9/8147/7545022948_2da26f1e36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7545022948/in/photolist-cuJdWS-cuJdsy
 album-flickr:
@@ -23,6 +23,16 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0632
+    date: 22 juillet 2017
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -51,7 +61,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: pousse au sol, sur racines enfouies ou autour des souches de feuillus, agent de carie blanche
+  biotopes: pousse au sol, sur racines enfouies, ou autour des souches de feuillus, agent de carie blanche
   boucles: 
   brachybasidioles: 
   calicule: 

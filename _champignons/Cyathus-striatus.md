@@ -1,8 +1,8 @@
 ---
 nom: Cyathus striatus
-date: 2017-06-22 00:00:00
-image: https://c1.staticflickr.com/5/4264/35080275750_2ccc0d0efd_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/35080275750/in/dateposted/
+date: 2017-07-25 00:00:00
+image: https://c1.staticflickr.com/5/4306/35600619560_8c2d6fcabd_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/35600619560/in/dateposted/
 album-flickr:
   - 72157682329515582
 

@@ -26,7 +26,7 @@ collections:
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0622
-    date:17 juillet 2017
+    date: 17 juillet 2017
     planche:
       numero: 
       miniature: # Largeur 320px. ici

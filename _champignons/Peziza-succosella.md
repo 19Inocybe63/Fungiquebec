@@ -1,6 +1,6 @@
 ---
 nom: Peziza succosella
-date: 2017-03-25 00:00:00
+date: 2017-07-25 00:00:00
 image: https://c2.staticflickr.com/8/7549/28260902725_d9f5ba7e38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28260902725/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
 album-flickr:
@@ -41,6 +41,16 @@ collections:
       numero: cKc0516-0137
       miniature: https://c1.staticflickr.com/9/8820/28186682002_2974394338_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/28186682002/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0631
+    date: 22 juillet 2017
+    planche:
+      numero: 
+      miniature: https://c1.staticflickr.com/5/4295/35920109552_a8deac78b0_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/35920109552/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 

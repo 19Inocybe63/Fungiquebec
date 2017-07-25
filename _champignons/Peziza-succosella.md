@@ -49,8 +49,8 @@ collections:
     date: 22 juillet 2017
     planche:
       numero: 
-      miniature: https://c1.staticflickr.com/5/4295/35920109552_a8deac78b0_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/35920109552/in/dateposted/
+      miniature: 
+      originale: 
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 

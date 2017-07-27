@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: jaune pâle, immuable à la coupe ou au grattage
   chancre: 
-  chapeau: 
+  chapeau: 33-97 mm Ø, convexe à largement convexe, étalé, parfois avec ombon, glabre, brun à brun légèrement jaunâtre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -128,13 +128,13 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: jaune avec reflets jaune olivacé à maturité, concolore aux tubes, immuable, ne bleuissant pas au froissement
   feutrage-basal: 
   fragments-sporaux: 
   glebe: 
@@ -237,21 +237,23 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Ammoniaque (NH<sub>4</sub>OH 10%) = absence de réaction
+    Sulfate de fer (FeSO<sub>4</sub>) = légèrement verdâtre sur la chair; rouille sur les tubes;
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce à légèrement acidulée
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun olive
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 51-65 x 16-23 mm Ø, cylindrique, subégal, parfois ventru ou aplani, plein, orné de fines rugosités brun-noir vers l'apex, et finement squamuleux, jaune, rougissant avec l'âge, vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -260,7 +262,15 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: 
+  synonymie: |
+    <i>Boletus subscabripes</i> Peck (?)
+    <i>Boletus flavipes</i> Peck, Annual Report on the New York State Museum of Natural History 39:42 (1886)
+    <i>Boletus subglabripes</i> Peck, Annual Report on the New York State Museum of Natural History 39:42 (1887)
+    <i>Suillus subglabripes</i> (Peck) Kuntze:536 (1898)
+    <i>Ceriomyces subglabripes</i> (Peck) Murrill, Mycologia 1 (4):153 (1909)
+    <i>Krombholzia subscabripes</i> (Peck) Singer, Revue de Mycologie 3:188 (1938)
+    <i>Krombholzia subglabripes</i> (Peck) Singer, Annales Mycologici 40:34 (1942)
+    <i>Leccinum subglabripes</i> (Peck) Singer, Mycologia 37:799 (1945)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
@@ -268,13 +278,13 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: 
+  tubes: circulaires et petits, 2 par mm; concolore à la face poroïde, 5-16 mm de longueur
   type: 
   typique: 
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

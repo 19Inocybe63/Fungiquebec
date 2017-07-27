@@ -253,6 +253,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
+  stipe: 
   stipitipellis: 
   stipititrame: 
   stroma: 

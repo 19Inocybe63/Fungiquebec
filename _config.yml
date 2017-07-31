@@ -162,6 +162,8 @@ champs-description:
     label: Péridiole
   - name: funicule
     label: Funicule
+  - name: peridiopellis
+    label: Peridiopellis
   - name: sac-sporifere
     label: Sac sporifère
   - name: consistance

@@ -28,9 +28,9 @@ collections:
   - fongarium: cKc0622
     date: 17 juillet 2017
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0622-0177
+      miniature: https://c1.staticflickr.com/5/4303/35485429193_66997442d7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/35485429193/in/photostream/
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m
     determinee: 

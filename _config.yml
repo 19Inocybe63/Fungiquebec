@@ -617,8 +617,6 @@ champs-description:
     label: Parasite
   - name: paroi-peritheciale
     label: Paroi périthéciale
-  - name: peridiopellis
-    label: Péridiopellis
   - name: peritheces
     label: Périthèces
   - name: phialoconidies

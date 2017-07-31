@@ -160,6 +160,8 @@ champs-description:
     label: Basidiome
   - name: peridiole
     label: Péridiole
+  - name: funicule
+    label: Funicule
   - name: sac-sporifere
     label: Sac sporifère
   - name: consistance

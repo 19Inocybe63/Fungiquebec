@@ -147,6 +147,7 @@ description:
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
+  funicule: 
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

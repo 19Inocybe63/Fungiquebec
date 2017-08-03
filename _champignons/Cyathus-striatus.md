@@ -94,7 +94,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Alexander H. Smith. « This is a very interesting little fungus easily recognized in the field by the brown, shaggy-fibrillose covering of the exterior and the conspicuously striate, glabrous interior. In drying, however, the striations often become obscured so that tiley are not conspicuous in herbarium specimens. »
   conidies: 
   conidiome: 
   conidiophores: 

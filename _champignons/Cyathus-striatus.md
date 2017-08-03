@@ -162,7 +162,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: allongées du funicule, avec des hyphes torsadées du funicule; hyphes épineuses du tomemtum
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -174,7 +174,7 @@ description:
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 
-  hyphes-squelettiques: 
+  hyphes-squelettiques: du peridiopellis, brun rougeâtre
   hyphes-skeletoligative: 
   hyphes-subiculaires: 
   hyphes-thrombopleres: 
@@ -241,7 +241,7 @@ description:
   poils-lateraux-et-caulinaires: 
   poils-marginaux: 
   poils-mycelien-basaux: 
-  poils-peridiaux: 
+  poils-peridiaux: cylindriques, avec cellules terminales fusiformes, septés
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 

@@ -114,7 +114,7 @@ description:
   commentaires: |
     De Claude Kaufholtz-Couture. « Il s'agit ici d'<i>Inocybe aff. rennyi</i>. »
     De Claude Kaufholtz-Couture. « Sous-genre Clypeus; Section Cortinatae; Sous-section Cortinatae. »
-    De Claude Kaufholtz-Couture. « Observation sur de très petits spécimens, démontrant une cortine blanche et fugace. »
+    De Claude Kaufholtz-Couture. « Observation sur de très petits spécimens, démontrant clairement une cortine blanche, fugace. »
   conidies: 
   conidiome: 
   conidiophores: 

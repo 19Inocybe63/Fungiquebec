@@ -1,6 +1,6 @@
 ---
 nom: Inocybe aff. rennyi
-date: 2017-07-22 00:00:00
+date: 2017-08-04 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -114,6 +114,7 @@ description:
   commentaires: |
     De Claude Kaufholtz-Couture. « Il s'agit ici d'<i>Inocybe aff. rennyi</i>. »
     De Claude Kaufholtz-Couture. « Sous-genre Clypeus; Section Cortinatae; Sous-section Cortinatae. »
+    De Claude Kaufholtz-Couture. « Observation sur de très petits spécimens, démontrant une cortine blanche et fugace. »
   conidies: 
   conidiome: 
   conidiophores: 

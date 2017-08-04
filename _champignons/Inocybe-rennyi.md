@@ -127,7 +127,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: blanche et fugace
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 

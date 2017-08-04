@@ -18,7 +18,7 @@ collections:
   - fongarium: sans numéro
     date: 28 mai 2013
     planche:
-      numero: cKcÉTUDE0029
+      numero: cKc-étude-0029
       miniature: https://c2.staticflickr.com/6/5458/9085967458_0a71f89d94_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/9085967458/in/photolist-eQTXzm-evQUdx-evUfJY
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
@@ -77,10 +77,7 @@ description:
   clavules: 
   columelle: 
   commentaires: De Claude Kaufholtz-Couture. « Le champignon produit une gaine visqueuse blanche puis rose à orangée sur le substrat dans laquelle les périthèces peuvent être entièrement ou partiellement immergés. <i>F. merismoides</i>, de la famille des Nectriaceae, est souvent considéré comme le champignon visqueux orange des arbres. Il fait partie d'un complexe de nombreuses espèces phylogénétiques. »
-  conidies: |
-    de deux types ;
-    1) macroconidies falciformes, de type Fusarium, septées, formées sur les phialides
-    2) microconidies ellipsoïdes à allantoïdes, formées directement sur les hyphes
+  conidies: de deux types; 1) macroconidies falciformes, de type Fusarium, septées, formées sur les phialides; 2) microconidies ellipsoïdes à allantoïdes, formées directement sur les hyphes
   conidiome: 
   conidiophores: phialides cylindriques à subulées, formant des macroconidies aux extrémités
   consistance: 
@@ -239,7 +236,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    Pas de collection de ce spécimen, seulement une étude, cKcÉtude0029.
+    Pas de collection de fongarium pour ce spécimen, seulement une étude, cKc-étude-0029
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

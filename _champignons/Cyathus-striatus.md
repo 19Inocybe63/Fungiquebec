@@ -153,7 +153,7 @@ description:
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
-  funicule: constitué d'hyphes allongées et d'hyphes torsadées
+  funicule: de deux types; 1) formé d'hyphes allongées munies de nodules; 2) et d'hyphes torsadées
   glebe: 
   gleocystides: 
   gleocystides-hymeniales: 

@@ -45,6 +45,16 @@ collections:
     altitude: 
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
+  - fongarium: cKc0638
+    date: 4 août 2017
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 

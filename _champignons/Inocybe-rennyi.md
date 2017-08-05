@@ -102,7 +102,7 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes; ce sont davantage des hyphes terminales
-  caulocystides-sommitales: occasionnelles, de deux types; 1° type métuloïdes, fusiformes à fusiformes ventrues, avec peu ou sans cristaux d’oxalate, 38,5 - 45,6 × 12 - 16,9 µm en moyenne, 2° type cylindriques claviformes, dont l’apex est parfois subcapité, parfois en faisceaux, ressemblent davantage à des hyphes terminales, (32,6) 39,1 - 52 (58,7) × (6,2) 6,4 - 8,4 (9,2) µm en moyenne
+  caulocystides-sommitales: occasionnelles, de deux types; 1° type métuloïdes, fusiformes à fusiformes ventrues, avec peu ou sans cristaux d’oxalate de calcium, 38,5 - 45,6 × 12 - 16,9 µm en moyenne, 2° type cylindriques claviformes, dont l’apex est parfois subcapité, parfois en faisceaux, ressemblent davantage à des hyphes terminales, (32,6) 39,1 - 52 (58,7) × (6,2) 6,4 - 8,4 (9,2) µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: elliptiques à ovoïdes, courtement piriformes à piriformes, subcylindriques, (14) 15,7 - 20,1 (25) × (6,1) 6,7 - 10,6 (11,4) µm en moyenne

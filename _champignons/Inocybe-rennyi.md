@@ -258,7 +258,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 µm, Ammoniaco -, dont les cristaux d’oxalate de calcium sont plus présent à l’apex, (55,6) 55,8 - 59,2 (59,6) × (16,1) 16,3 - 19,4 (22) µm en moyenne
+  pleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 µm, Ammoniaco -, dont les cristaux d’oxalate de calcium sont plus présent, (55,6) 55,8 - 59,2 (59,6) × (16,1) 16,3 - 19,4 (22) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

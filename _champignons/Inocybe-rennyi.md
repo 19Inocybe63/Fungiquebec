@@ -112,7 +112,7 @@ description:
   chancre: 
   chapeau: 8-15 mm Ø, convexe à étalé, légèrement déprimé, submamelonné, densément couvert d'écailles, méchuleux vers le centre
   cheilochrysocystides:
-  cheilocystides: nombreuses, métuloïdes, largement fusiformes, à paroi fine à épaisse 1,0-4,0 µm, dont les cristaux d’oxalates de calcium sont très peu nombreux à l’apex, parfois absent, (35,6) 37,8 - 46 (53,6) × (15,6) 15,8 - 18,7 (21,3) µm en moyenne
+  cheilocystides: nombreuses, métuloïdes, largement fusiformes, à paroi fine à épaisse 1,0-4,0 µm, dont les cristaux d’oxalate de calcium sont très peu nombreux à l’apex, parfois absent, (35,6) 37,8 - 46 (53,6) × (15,6) 15,8 - 18,7 (21,3) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

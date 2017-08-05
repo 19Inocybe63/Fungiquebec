@@ -103,7 +103,7 @@ description:
   chancre: 
   chapeau: 15-40 (50) mm Ø, campanulé-conique puis largement mamelonné, au revêtement fibrilleux, couvert de fibrilles blanches par endroits (restes du velipellis), blanc puis un peu crème terne ou ± grisâtre à maturité
   cheilochrysocystides:
-  cheilocystides: abondantes, courtes, fusiformes, lagéniformes à claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans oxalate de calcium, ou clairsemé
+  cheilocystides: abondantes, courtes, fusiformes, lagéniformes à claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans cristaux d'oxalate de calcium, ou clairsemé
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

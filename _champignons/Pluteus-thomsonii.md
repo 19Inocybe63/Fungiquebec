@@ -76,7 +76,7 @@ description:
   chancre: 
   chapeau: 12-18 mm Ø, convexe à étalé, très veiné, réticulé au disque, hygrophane, brun rosâtre avec centre plus foncé
   cheilochrysocystides:
-  cheilocystides: nombreuses, polymorphes, fusiformes à fusiformes ventrues, cylindriques à claviformes, ovoïdes, souvent avec une projection apicale simple pouvant mesurer jusqu’à 35 µm de long, plus rarement acuminées, hyalines dans E.G. 10%, à paroi mince, 35-63 x 10-18 µm
+  cheilocystides: nombreuses, polymorphes, fusiformes à fusiformes ventrues, cylindriques à claviformes, ovoïdes, souvent avec une projection apicale simple (digitation) pouvant mesurer jusqu’à 35 µm de long, plus rarement acuminées, hyalines dans E.G. 10%, à paroi mince, 35-63 x 10-18 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

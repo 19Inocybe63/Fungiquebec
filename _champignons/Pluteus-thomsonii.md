@@ -63,7 +63,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: nombreuses, en faisceaux, claviformes cylindriques à fusiformes, fusiformes ventrues, parfois avec court ou long mucron, certaines avec de ± longue projection apicale, ovoïdes, hyalines dans E.G. 10%, à paroi mince, (21,7) 27,4 - 50,6 (81,1) × (8,5) 9,1 - 19,8 (20,1) µm
+  caulocystides: nombreuses, en faisceaux, claviformes cylindriques à fusiformes, fusiformes ventrues, parfois avec une projection apicale simple (digitation), certaines avec de ± longue projection apicale, ovoïdes, hyalines dans E.G. 10%, à paroi mince, (21,7) 27,4 - 50,6 (81,1) × (8,5) 9,1 - 19,8 (20,1) µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 

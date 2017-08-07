@@ -223,7 +223,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles et dispersées, largement piriformes à fusiformes ventrues, hyalines dans E.G. 20%, à paroi mince, 29,3 - 35,4 × 12,9 - 17,3 µm en moyenne
+  pleurocystides: occasionnelles et dispersées, largement piriformes à fusiformes ventrues, hyalines dans E.G. 10%, à paroi mince, 29,3 - 35,4 × 12,9 - 17,3 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

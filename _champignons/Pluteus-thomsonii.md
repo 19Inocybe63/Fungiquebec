@@ -8,11 +8,11 @@ album-flickr:
 
 details:
   nom-francais: Pluteus cendrée / Plutée de Thomson
-  ordre: 
-  famille: 
-  genre: 
+  ordre: Agaricales
+  famille: Pluteaceae
+  genre: Pluteus
   espece: <i>Pluteus thomsonii</i> (Berk. & Broome) Dennis
-  litterature: 
+  litterature: Dennis, R.W.G. 1948. Some little-known British species of Agaricaceae. I. Leucosporae and Rhodosporae. Transactions of the British Mycological Society. 31(3-4):191-209
 
 collections:
   - fongarium: cKc0628
@@ -24,7 +24,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -46,19 +46,24 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, parfois avec léger pédicelles, tétrasporiques, non bouclées à la base, 24,5 - 37,5 × 8,5 - 10,0 µm en moyenne
+  basidiospores: |
+    elliptiques à courtement elliptiques en vue frontale, obtusément ellipsoïdes, largement elliptiques à elliptiques vues de profil, lisses, à paroi mince 1,5-2,5 µm, petit appendice hilaire, à contenu uniguttulé à variable, légèrement rosâtres dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+        (6,4) 6,6 - 8 (8,4) × 5,1 - 6,1 (6,3) µm
+        Q = (1,1) 1,2 - 1,3 (1,4) ; N = 30
+        Me = 7,2 × 5,6 µm ; Qe = 1,3
+        (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
-  boucles: 
+  biotopes: pousse au sol, sablonneux, dans la mousse, vraisemblablement sur débris ligneux probablement enfoui
+  boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: nombreuses, en faisceaux, claviformes cylindriques à fusiformes, fusiformes ventrues, parfois avec court ou long mucron, certaines avec de ± longue projection apicale, ovoïdes, hyalines dans E.G. 10%, à paroi mince, (21,7) 27,4 - 50,6 (81,1) × (8,5) 9,1 - 19,8 (20,1) µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -69,9 +74,9 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 12-18 mm Ø, convexe à étalé, très veiné, réticulé au disque, hygrophane, brun rosâtre avec centre plus foncé
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: nombreuses, polymorphes, fusiformes à fusiformes ventrues, cylindriques à claviformes, ovoïdes, parfois rostrées avec un court ou un long mucron pouvant mesurer jusqu’à 35 µm de long, plus rarement acuminées, hyalines dans E.G. 10%, à paroi mince, 35-63 x 10-18 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -128,7 +133,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, larges, serrées, avec lamelles et lamellules, rosâtre pâle au début puis roses plus foncé à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -212,12 +217,12 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en hyménoderme, formé de cellules polymorphes, courtement claviformes à longuement claviformes, fusiformes à fusiformes ventrues, parfois avec courte papille apicale, non bouclées, hyalines et avec pigment vacuolaire brun pâle à brun ± foncé dans E.G. 10%, à paroi mince, (34,2) 40,4 - 49,9 (70,6) × (8,6) 13,3 - 18,5 (20,9) µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: occasionnelles et dispersées, largement piriformes à fusiformes ventrues, hyalines dans E.G. 20%, à paroi mince, 29,3 - 35,4 × 12,9 - 17,3 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -244,15 +249,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce, légèrement raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: rose
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 21-24 x 1-2 mm Ø, cylindrique, égal, pruineux, blanchâtre du milieu vers l'apex, verdâtre du milieu vers la base, avec bulbille
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -261,13 +266,20 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: 
+  synonymie: |
+    <i>Agaricus thomsonii</i> Berk. & Broome, Annals and Magazine of Natural History 17:131 (1876)
+    <i>Agaricus thompsonii</i> Berk. & Broome (1876)
+    <i>Entoloma thomsonii</i> (Berk. & Broome) Sacc., Sylloge Fungorum 5:693 (1887)
+    <i>Pluteus thonsoni</i> (Berk. & Broome) Dennis (1948)
+    <i>Pluteus cinereus</i> Quél., Annls Sci. nat. Bordeaux:3 (1884)
+    <i>Pluteus cinereus var. venosus</i> Vacek, Studia Bot. Cechosl.:47 (1948)
+    <i>Pluteus cinereus f. evenosus</i> Kühner, Bulletin de la Société Mycologique de France 72 (3):181 (1956)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: bilatérale inversée, formée d'hyphes cylindriques à longuement cylindriques, longuement sublagéniformes, parfois flexueuses (36,3) 40,5 - 77,3 (99,1) × (6) 7,3 - 12,6 (13,5) µm en moyenne
   trame-tubulaire: 
   tubes: 
   type: 

@@ -85,7 +85,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Michael Kuo. « There may be several species passing as Pluteus thomsonii; according to Minnis & Sundberg (2010), "[a] critical re-evaluation of <i>Pluteus thomsonii</i> is needed on a worldwide basis to determine if cryptic species are present." »; (Kuo, M. (2015, June). Pluteus thomsonii. Retrieved from the MushroomExpert.Com Web site: http://www.mushroomexpert.com/pluteus_thomsonii.html)
+    De Michael Kuo. « There may be several species passing as <i>Pluteus thomsonii</i>; according to Minnis & Sundberg (2010), "[a] critical re-evaluation of <i>Pluteus thomsonii</i> is needed on a worldwide basis to determine if cryptic species are present." »; (Kuo, M. (2015, June). Pluteus thomsonii. Retrieved from the MushroomExpert.Com Web site: http://www.mushroomexpert.com/pluteus_thomsonii.html)
   conidies: 
   conidiome: 
   conidiophores: 

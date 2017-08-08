@@ -7,7 +7,7 @@ album-flickr:
   - 72157684650227401
 
 details:
-  nom-francais: 
+  nom-francais: Russule belette ; Russule couleur de belette
   ordre: Russulaes
   famille: Russulaceae
   genre: Russula

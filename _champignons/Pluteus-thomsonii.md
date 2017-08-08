@@ -7,7 +7,7 @@ album-flickr:
   - 72157684742543893
 
 details:
-  nom-francais: Plutée cendrée / Plutée de Thomson
+  nom-francais: Plutée cendrée ; Plutée de Thomson
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus

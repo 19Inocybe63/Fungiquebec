@@ -241,8 +241,8 @@ description:
   reactions-macrochimiques: |
     Ammoniaque (NH<sub>4</sub>OH 10%) = pas de réaction
     Potasse (KOH 10%) = pas de réaction
-    Sulfate de fer (FeSO<sub>4</sub>) = saumon sur le stipe et les lames
     Soluté de gaïac = < 5" stipe +++ b (5, forte) ; < 5" lames +++ b (5, forte)
+    Sulfate de fer (FeSO<sub>4</sub>) = saumon sur le stipe et les lames
   receptacle: 
   remarques: 
   repartition: 

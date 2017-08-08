@@ -79,7 +79,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: De Yves Lamoureux. « Comme pour plusieurs espèces, dans divers groupes, certaines parties brunissent lentement dans les piqures d'insectes, mais cela n'est pas considéré comme un "réel" changement de couleur à la coupe ou au froissement. Je connais quelques Griseinae douces qui font cela, et bien sûr le groupe vesca/brunneola. Jamais on ne dirait de ces espèces qu'elles changent de couleur à la meurtrissure. Des espèces âcres le font aussi, surtout la stirpe maculata/betuletorum nom. prov. Pour elles, cela peut être considéré comme un caractère d'identification, mais pas comme un changement de couleur à la coupe, du moins à ce que je sache. »
   conidies: 
   conidiome: 
   conidiophores: 

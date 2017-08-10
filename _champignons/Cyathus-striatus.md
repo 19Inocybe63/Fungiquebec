@@ -47,7 +47,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    <b>Hassett, Maribeth O.; Fischer, Mark William F.</b> <i>Splash and grab; Biomechanics of peridiole ejection and function of the funicular cord in bird's nest fungi</i>, Fungal Biology 117 (2013) 708-714, 8 p.
   ascome: 
   ascospores: 
   asques: 

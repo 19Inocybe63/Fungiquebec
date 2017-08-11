@@ -79,7 +79,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Alexander H. Smith. « Observations. This species is very distinct from <i>P. velutina</i> in the features of the spores; These are more inequilateral in profile, the ornamentation is less distinct, and the apex is typically rather broadly truncate. »
   conidies: 
   conidiome: 
   conidiophores: 

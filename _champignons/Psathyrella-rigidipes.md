@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanchâtre
+  chair: blanchâtre au début
   chancre: 
-  chapeau: 19-50 mm Ø, campanulé conique à hémisphérique lorsque jeune, convexe, fibrilleux, sillonné, brun beige à brun ocre plus au centre
+  chapeau: 19-50 mm Ø, campanulé conique à hémisphérique lorsque jeune, convexe à largement convexe à maturité, sec, fibrilleux squamuleux, marron foncé, souvent rougeâtre au centre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées, noirâtre et marbrées
+  lames: adnexées, étroites, serrées, légèrement sinueuses, rouge brunâtre, devenant brun foncé à noir violacé
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -250,7 +250,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: indistincte à fongique
+  saveur: douce, ± fongique
   sclerocystides: 
   sclerote: 
   soies: 
@@ -258,7 +258,7 @@ description:
   sporee: pourpre, noirâtre
   spherocytes: 
   sporocystes: 
-  stipe: 38-67 x 2-5 mm Ø, cylindrique, égal, rigide, présentant des chinures, bulbeux
+  stipe: 38-67 x 2-5 mm Ø, mince, cylindrique, égal, rigide, creux, fibrilleux et squamuleux, ± concolore au chapeau ou un peu plus pâle que ce dernier, avec bulbille
   stipitipellis: 
   stipititrame: 
   stroma: 

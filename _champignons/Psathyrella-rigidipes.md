@@ -46,7 +46,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: de 2 types, utriformes, tétrasporiques, dont les stérigmates mesurent entre 6-7 µm de longueur, non bouclées à la base, hyalines à légèrement brunâtres à la base avec l'âge dans le KOH 5%, à paroi mince, (24,1) 24,5 - 28,1 (31,4) × (7,4) 7,5 - 7,9 (8,2) µm; de type claviformes à largement claviformes, tétrasporiques, non bouclées à la base, hyalines à légèrement brunâtres à la base avec l'âge dans le KOH 5%, à paroi mince, 23,5 - 26,4 × 7,9 - 10,5 µm en moyenne
   basidiospores: 
   basidioles: 
   basidiome: 

@@ -63,7 +63,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: nombreuses, souvent en faisceaux ou dispersées, cylindriques à cylindriques subcapitées, aciculaires, hyalines, à paroi mince, (47,2) 53,4 - 81,5 (81,9) × (4,9) 6,1 - 7,9 (8) µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 

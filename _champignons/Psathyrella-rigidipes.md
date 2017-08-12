@@ -223,7 +223,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: rares à occasionnelles, polymorphes, cylindriques à cylindriques utriformes, subfusiformes, dont l’apex varie entre obtus fusiformes à légèrement mucronées ou en ogives, rarement lagéniformes, hyalines, à paroi mince, 33,1 - 61,3 × 11,1 - 15,7 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

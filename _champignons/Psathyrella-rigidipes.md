@@ -282,7 +282,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée d'hyphes parallèles, aux cellules considérablement agrandies et allongées, brun jaunâtre
   trame-tubulaire: 
   tubes: 
   type: 

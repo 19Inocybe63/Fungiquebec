@@ -76,7 +76,7 @@ description:
   chancre: 
   chapeau: 19-50 mm Ø, campanulé conique à hémisphérique lorsque jeune, convexe à largement convexe à maturité, sec, fibrilleux squamuleux, marron foncé, souvent rougeâtre au centre
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: claviformes filamenteuses à cylindriques, subcapitées, dont parfois l’apex rappelle vaguement la tête d’un serpent, hyalines, à parois minces; (42) 60,8 - 69,1 (6,4) 6,8 - 10 (13,6) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

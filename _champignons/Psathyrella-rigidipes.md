@@ -48,7 +48,7 @@ description:
   base-stipitiforme: 
   basides: de 2 types, utriformes, tétrasporiques, dont les stérigmates mesurent entre 6-7 µm de longueur, hyalines à légèrement brunâtres à la base avec l'âge dans le KOH 5%, à paroi mince, (24,1) 24,5 - 28,1 (31,4) × (7,4) 7,5 - 7,9 (8,2) µm; de type claviformes à largement claviformes, tétrasporiques, hyalines à légèrement brunâtres à la base avec l'âge dans le KOH 5%, à paroi mince, 23,5 - 26,4 × 7,9 - 10,5 µm en moyenne
   basidiospores: |
-    ovoïdes tronquées à elliptiques tronquées en vue frontale, plus pointu à l’extrémité basale, ± allongé, inéquilatérales à amygdaliformes en raison d’une dépression supra-hilaire vues de profil, l'apex tronqué d'un large pore germinatif 1,9 - 2,2 µm Ø, faiblement à distinctement orné de petites verrues, à paroi mince à légèrement épaissie ± 0,2 µm d’épaisseur, avec appendice hilaire très petit, à contenu variable, brun foncé dans E.G. 20%, brun à bistre grisâtre dans le KOH 5%, baie rouge terne dans le melzer
+    ovoïdes tronquées à elliptiques tronquées en vue frontale, plus pointu à l’extrémité basale, ± allongé, inéquilatérales à amygdaliformes en raison d’une dépression supra-hilaire vues de profil, l'apex tronqué d'un large pore germinatif 1,9 - 2,2 µm Ø, faiblement à distinctement orné de petites verrues, à paroi mince à légèrement épaissie ± 0,2 µm d’épaisseur, avec appendice hilaire très petit, à contenu variable, brun foncé dans E.G. 20%, brun à bistre grisâtre dans le KOH 5%, baie rouge terne dans le melzer, non cyanophiles
     (9,3) 9,6 - 10,7 (10,9) × (5) 5,4 - 6,3 (6,5) µm
     Q = (1,6) 1,63 - 1,9 (2,2) ; N = 30
     Me = 10,2 × 5,7 µm ; Qe = 1,8

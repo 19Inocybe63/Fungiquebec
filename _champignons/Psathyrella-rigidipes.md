@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sablonneux en bordure d'un sentier
+  biotopes: pousse au sol, sableux, graveleux, en bordure d'un sentier
   boucles: 
   brachybasidioles: 
   calicule: 

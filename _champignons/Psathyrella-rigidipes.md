@@ -218,7 +218,7 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: celluleux à vésiculeuses, à paroi mince, formé de plusieurs couches, jaunâtre en KOH 5%; les hyphes filamenteuses émergentes forme les fibrilles à la surface du pileipellis, bouclées, serrées, à paroi lisse à finement rugueuse, hyaline à ochracée dans le KOH 5%
+  pileipellis: celluleux à vésiculeux, à paroi mince, formé de plusieurs couches, jaunâtre en KOH 5%; les hyphes filamenteuses émergentes forme les fibrilles à la surface du pileipellis, bouclées, serrées, à paroi lisse à finement rugueuse, hyaline à ochracée dans le KOH 5%
   pileitrame: 
   pileocystides: 
   plasmode: 

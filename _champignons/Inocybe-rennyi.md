@@ -1,6 +1,6 @@
 ---
 nom: Inocybe aff. rennyi
-date: 2017-08-04 00:00:00
+date: 2017-08-13 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -110,7 +110,7 @@ description:
   cellules-stromatiques: 
   chair: brun rougeâtre
   chancre: 
-  chapeau: 8-15 mm Ø, convexe à étalé, légèrement déprimé, submamelonné, densément couvert d'écailles, méchuleux vers le centre
+  chapeau: 8-15 mm Ø, ± conique au début, convexe à étalé, légèrement déprimé, submamelonné, densément couvert d'écailles, méchuleux vers le centre
   cheilochrysocystides:
   cheilocystides: nombreuses, métuloïdes, largement fusiformes, à paroi fine à épaisse 1,0-4,0 µm, dont les cristaux d’oxalate de calcium sont très peu nombreux à l’apex, parfois absent, (35,6) 37,8 - 46 (53,6) × (15,6) 15,8 - 18,7 (21,3) µm en moyenne
   cheiloleptocystides: 

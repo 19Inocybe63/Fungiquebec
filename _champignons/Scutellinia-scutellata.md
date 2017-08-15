@@ -105,6 +105,7 @@ description:
   columelle: 
   commentaires: |
     De Claude Kaufholtz-Couture. « En réaction microchimique, non réactive dans le Soudan III. »
+    De Claude Kaufholtz-Couture. « cKc0515, collection étudiée sur matériel frais. »
   conidies: 
   conidiome: 
   conidiophores: 

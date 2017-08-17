@@ -1,8 +1,8 @@
 ---
 nom: Inocybe flocculosa complex
-date: 2017-07-19 00:00:00
+date: 2017-08-17 00:00:00
 image: https://c1.staticflickr.com/9/8228/29251989106_086d8ea6e5_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/29251989106/in/photolist-VzJan5-LuW68i-LyU6eL
+image-originale: https://www.flickr.com/photos/kaufholtz/29251989106/in/photolist-VzJan5-LyU6eL-LuW68i/
 album-flickr:
   - 72157684212400920
 
@@ -20,7 +20,7 @@ collections:
     planche:
       numero: cKc0551-0175
       miniature: https://c1.staticflickr.com/5/4329/35168579274_c5de40486f_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/35168579274/in/photolist-VzJan5-LuW68i-LyU6eL/
+      originale: https://www.flickr.com/photos/kaufholtz/35168579274/in/photolist-VzJan5-LyU6eL-LuW68i/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture

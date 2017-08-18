@@ -66,7 +66,7 @@ description:
     13,6 [14,5; 15,1] 16 x 13,3 [14,3; 15] 15,9 µm
     Q = 1 [1,0] 1; N = 17; C = 95%
     Me = 14,8 x 14,6 µm; Qe = 1
-    (Piximètre, formule statistique ; mesures issues d'ascospores immatures, dans le NaCl iso 0,9%)
+    (Piximètre, formule statistique; mesures non issues d'une sporée, dans le NaCl iso 0,9%)
   asques: longuement claviformes, octosporés, unisériés, iodonégatifs, 195-235 x 17-21 µm
   asterohyphidies: 
   avertissement: 

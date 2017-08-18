@@ -54,7 +54,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: pulvinée, cupuliformes au début, puis discoïde à pulvinée, à marge ondulée à maturité, sessile
+  apothecie: cupuliformes au début, puis discoïde à pulvinée, à marge ondulée à maturité, sessile
   arete-lamellaire: 
   arthroconidies: 
   articles: |

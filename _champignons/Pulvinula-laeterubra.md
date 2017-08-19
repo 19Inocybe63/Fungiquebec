@@ -19,7 +19,7 @@ collections:
     date: 14 août 2017
     planche:
       numero: cKc0645-0180
-      miniature: https://c1.staticflickr.com/5/4413/35832225664_8cd2d0eb70_n.jpg
+      miniature: https://c1.staticflickr.com/5/4413/35832225664_b7d0ff1005_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/35832225664/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 

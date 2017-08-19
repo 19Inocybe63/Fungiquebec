@@ -47,7 +47,7 @@ description:
     Q = 1 ; N = 30
     Me = 13,6 × 13,5 µm ; Qe = 1
     (Piximètre, formule classique; mesures issues d'une sporée, dans l'Eau glycérinée 20%)
-  asques: longuement claviformes, octosporés, unisériés, iodonégatifs, 212-250 x 13,7-19 µm en moyenne
+  asques: longuement claviformes, octosporés, unisériés, iodonégatifs, 190-200 x 10-12 µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

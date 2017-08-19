@@ -42,7 +42,7 @@ description:
     <b>Dougoud, René</b>. <i>Clé des Discomycètes carbonicoles</i>, 14 p.
   ascome: 
   ascospores: |
-    globuleuses, lisses, à paroi mince à légèrement épaissie, 0,2-0,4 µm d’épaisseur, à contenu guttulé 10-12 µm à pluriguttulé, hyalines dans E.G. 20%, iodonégatifs, non cyanophiles
+    globuleuses, lisses, à paroi mince à légèrement épaissie, 0,2-0,4 µm d’épaisseur, à contenu guttulé 11-12 µm à pluriguttulé, hyalines dans E.G. 20%, iodonégatifs, non cyanophiles
     (12,7) 12,9 - 14,4 (14,7) × (12,6) 12,8 - 14,3 (14,7) µm
     Q = 1 ; N = 30
     Me = 13,6 × 13,5 µm ; Qe = 1

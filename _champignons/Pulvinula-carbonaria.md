@@ -7,7 +7,7 @@ album-flickr:
   - 72157675162860642
 
 details:
-  nom-francais: 
+  nom-francais: Pézize charbonnière
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Pulvinula

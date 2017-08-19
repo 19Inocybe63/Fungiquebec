@@ -15,12 +15,12 @@ details:
   litterature: Pfister, D.H. 1976. A synopsis of the genus Pulvinula. Occasional Papers of the Farlow Herbarium of Cryptogamic Botany. 9:1-19
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0645
+    date: 14 août 2017
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0645-0180
+      miniature: 
+      originale: 
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Nicolas van Vooren (provisoire)

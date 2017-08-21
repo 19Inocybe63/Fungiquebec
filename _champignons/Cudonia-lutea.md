@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur des feuilles de feuillus en décomposition
+  biotopes: pousse sur des feuilles en décomposition
   boucles: 
   brachybasidioles: 
   calicule: 

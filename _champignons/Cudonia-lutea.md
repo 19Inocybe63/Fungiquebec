@@ -123,12 +123,12 @@ description:
   endoperidium: 
   especes-identification: 
   especes-semblables: 
-  excipulum: indistincte
+  excipulum: 
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -249,7 +249,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanchâtre
   spherocytes: 
   sporocystes: 
   stipe: 15-45 x 3-6 mm Ø, subcylindrique, creux, parfois un peu renflé à la base, aplati ou légèrement comprimé, souvent flexueux, lisse à finement granuleux, jaune

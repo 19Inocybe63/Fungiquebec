@@ -61,7 +61,7 @@ description:
   basidioles: 
   basidiome: annuel, sessile ou avec une base atténuée, effusé-réfléchi, rarement résupiné, tenace et flexible au frais, subcoriace au sec
   bibliographies: 
-  biotopes: pousse sur feuillus, <i>Acer rubrum</i> L.
+  biotopes: pousse sur feuillus, <i>Acer rubrum</i> communément appelé Plaine rouge
   boucles: 
   brachybasidioles: 
   calicule: 

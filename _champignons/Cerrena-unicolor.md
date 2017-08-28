@@ -89,7 +89,8 @@ description:
   clavules:  
   columelle: 
   comestibilite : non, sans intérêt
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « La collection cKc0660 vient de chez DAAN. »
   conidies: 
   conidiome: 
   conidiophores: 

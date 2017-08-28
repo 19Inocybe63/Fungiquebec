@@ -1,6 +1,6 @@
 ---
 nom: Cerrena unicolor
-date: 2017-03-18 00:00:00
+date: 2017-08-28 00:00:00
 image: https://c2.staticflickr.com/4/3876/14783725081_686bf42dfe_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14783725081/in/photolist-ofb36w-ofb1ZJ-owCLCw-owospK
 album-flickr:
@@ -23,6 +23,16 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45'28.7"N 71°19'37.0"O
     elevation: 100 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0660
+    date: 23 août 2017
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -51,7 +61,7 @@ description:
   basidioles: 
   basidiome: annuel, sessile ou avec une base atténuée, effusé-réfléchi, rarement résupiné, tenace et flexible au frais, subcoriace au sec
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur feuillus, <i>Acer rubrum</i> L.
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -78,6 +88,7 @@ description:
   circumcystides: 
   clavules:  
   columelle: 
+  comestibilite : non, sans intérêt
   commentaires: 
   conidies: 
   conidiome: 
@@ -126,7 +137,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fugace à indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -238,7 +249,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 

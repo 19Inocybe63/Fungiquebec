@@ -1,8 +1,8 @@
 ---
 nom: Cerrena unicolor
 date: 2017-08-28 00:00:00
-image: https://c2.staticflickr.com/4/3876/14783725081_686bf42dfe_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/14783725081/in/photolist-ofb36w-ofb1ZJ-owCLCw-owospK
+image: https://c1.staticflickr.com/5/4335/36737313931_023d4ac519_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/36737313931/in/dateposted/
 album-flickr:
   - 72157676876968056
 

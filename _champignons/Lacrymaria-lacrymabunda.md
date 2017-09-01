@@ -7,7 +7,7 @@ album-flickr:
   - 72157676250932573
 
 details:
-  nom-francais: Psathyrelle pleureuse / Psathyrelle veloutée
+  nom-francais: Lacrimaire pleureuse / Psathyrelle veloutée
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Lacrymaria

@@ -83,7 +83,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Michael Kuo. « <i>Psathyrella velutina</i> is a former name. <i>Psathyrella</i>/<i>Lacrymaria lacrymabunda</i> is seen as a synonym by some authors, but is separated by others on the basis of its smoother spores. A recent molecular study (Padamsee and collaborators, 2008) found specimens labeled <i>Lacrymaria velutina</i> to be genetically separated, suggesting that species concepts in <i>Lacrymaria</i> may need to be modified. » (http://www.mushroomexpert.com/lacrymaria_velutina.html)
   conidies: 
   conidiome: 
   conidiophores: 

@@ -57,13 +57,13 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, en milieux herbeux, sur sols riches des milieux ouverts
-  boucles: 
+  boucles: présentes
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: abondantes, en faisceaux à parfois isolées, longuement subcapitulées à capitulées, à l’apex capitée à subcapitée, rarement à apex fourchu, piriformes à subvésiculeuses, à paroi mince, lisses, (73,7) 74,5 – 101 (+) × (7,4) 9 - 12,2 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 

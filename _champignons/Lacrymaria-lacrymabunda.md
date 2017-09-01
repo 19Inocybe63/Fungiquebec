@@ -75,7 +75,7 @@ description:
   chancre: 
   chapeau: 14-87 mm Ø, hémisphérique à convexe puis campanulé, étalé à subétalé à la fin, tomenteux, non hygrophane, brun tan au début, avec fibrilles laineuses innées radiales ou groupées pour former des écailles imbriquées brun grisâtre à brun-jaune, plus nombreuses vers la marge, reflet olivâtre du milieu jusqu'à la marge
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: utriformes à largement utriformes, subutriformes, longuement utriformes, parfois avec pédicelle, parfois largement claviformes, à l'apex subcapité, à paroi mince, (38,1) 43,6 - 52,9 (59,4) × (8,9) 9,7 - 11,5 (12,4) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -220,7 +220,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: occasionnelles, similaires aux cheilocystides, plus souvent en faisceaux, parfois isolées
   poils: 
   poils-basaux: 
   poils-caulinaires: 

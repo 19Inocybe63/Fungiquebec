@@ -215,7 +215,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: duplexe; un suprapellis formé d'hyphes apprimées, ± parallèles, bouclées, 2-6 (7) µm Ø; et d’un hyménoderme de 2-4 couches de cellules vésiculeuses, bouclées, à paroi mince, lisses, hyalines dans E.G. 10%, à pigmentation brune, 13-30 (32) x 3-9 µm;
   pileitrame: formée d'hyphes lisses, étroites, hyalines, à contenu indistinct
   pileocystides: 
   plasmode: 

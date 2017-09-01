@@ -19,8 +19,8 @@ collections:
     date: 26 juin 2013
     planche:
       numero: cKc0052-0181
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: 
+      originale: 
     geolocalisation: 46°45'28.7"N 71°19'37.0"O
     elevation: 100 m
     determinee: 
@@ -46,7 +46,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes à subutriformes, bisporiques à tétrasporiques, bouclées à la base, 23,1 - 27,2 (27,5) × (9,1) 9,3 - 10,4 (11,2) µm en moyenne
   basidiospores: |
     elliptiques citriformes en vue frontale, elliptiques à amygdaliformes vues de profil, avec pore germinatif prédominant à parfois ± tronqué entre 1,3-1,7 µm de Ø, moyennement à grossièrement verruqueuses, à paroi entre 0,1-0,2 µm d'épaisseur, avec appendice hilaire dominant, à contenu uniguttulé, brun rougeâtre dans E.G. 20%, noirâtres dans le KOH 5%, non cyanophiles
     (9,1) 9,4 - 10,7 (12,3) × (5,7) 6 - 6,9 (7,2) µm

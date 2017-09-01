@@ -216,7 +216,7 @@ description:
   pieds-steriles: 
   pigments: 
   pileipellis: 
-  pileitrame: formée d'hyphes lisses, hyalines, à contenu indistinct, étroites
+  pileitrame: formée d'hyphes lisses, étroites, hyalines, à contenu indistinct
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 

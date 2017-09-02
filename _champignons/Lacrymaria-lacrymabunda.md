@@ -1,6 +1,6 @@
 ---
 nom: Lacrymaria lacrymabunda
-date: 2017-03-25 00:00:00
+date: 2017-09-02 00:00:00
 image: https://c2.staticflickr.com/6/5511/9147119220_73d737a9c6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9147119220/in/photolist-eWivmy-eWiz5w-eWinS5-eW79M6/
 album-flickr:
@@ -19,8 +19,8 @@ collections:
     date: 26 juin 2013
     planche:
       numero: cKc0052-0181
-      miniature: 
-      originale: 
+      miniature: https://c1.staticflickr.com/5/4438/36983328785_131f88f271_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/36983328785/in/dateposted/
     geolocalisation: 46°45'28.7"N 71°19'37.0"O
     elevation: 100 m
     determinee: 

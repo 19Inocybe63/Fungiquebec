@@ -19,7 +19,7 @@ collections:
     date: 26 juin 2013
     planche:
       numero: cKc0052-0181
-      miniature: https://c1.staticflickr.com/5/4438/36983328785_131f88f271_n.jpg
+      miniature: https://c1.staticflickr.com/5/4438/36983328785_257dc6e91e_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/36983328785/in/dateposted/
     geolocalisation: 46°45'28.7"N 71°19'37.0"O
     elevation: 100 m

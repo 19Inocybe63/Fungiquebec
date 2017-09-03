@@ -18,7 +18,7 @@ collections:
   - fongarium: cKc0648
     date: 22 août 2017
     planche:
-      numero: 
+      numero: cKc0648-0182
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O

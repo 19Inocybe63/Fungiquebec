@@ -55,7 +55,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans le crottin, en milieu herbeux
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -71,9 +71,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse au disque, puis amincie vers la marge, cassante, crème à subconcolore à la surface piléique
   chancre: 
-  chapeau: 
+  chapeau: 7-15 mm Ø, conique campanulé au début, brun rougeâtre, centre brun rougeâtre plus foncé à tan, restes vélaire à la marge
   cheilochrysocystides:
   cheilocystides: abondantes, cylindriques claviformes à cylindriques-flexueuses, souvent avec apex subcapité à capité, (18,2) 19,4 - 29,3 (29,8) × (4,7) 5,1 - 6,4 (7,1) µm
   cheilomacrocystides: 
@@ -132,7 +132,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: légèrement fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -178,7 +178,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: arquées, espacées à serrées, grisâtres au début puis noirâtres, marbrées, à arête lamellaire blanche
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -242,21 +242,22 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Potasse (KOH 10%) = orangé terne sur la surface du chapeau
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce à fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: noire
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 65-127 x 1-6 mm Ø, cylindrique, égal, brun à brun rougeâtre, ± pâle vers l'apex, pruineux
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -288,7 +289,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: ne laissant pas d'anneau
   volve: 
   zone-perihymeniale: 
 ---

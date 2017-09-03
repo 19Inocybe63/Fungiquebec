@@ -47,10 +47,11 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: citriformes à largement citriformes, hexagonales à subhexagonales en vue frontale, elliptiques à largement elliptiques vues de profil, pore germinatif proéminent 1,4 - 1,9 (2,0) µm Ø, lisses, à paroi légèrement épaissie, avec petit appendice hilaire, à contenu homogène, brun foncé à brun olivâtre dans E.G. 20%, aucune altération dans l’acide sulfurique 80%, non cyanophiles
-  (15,3) 15,6 - 16,9 (17,3) × (8) 8,4 - 9,9 (10,3) µm
-  Q = (1,5) 1,7 - 2 ; N = 25
-  Me = 16,3 × 9 µm ; Qe = 1,8 
+  basidiospores: |
+    citriformes à largement citriformes, hexagonales à subhexagonales en vue frontale, elliptiques à largement elliptiques vues de profil, pore germinatif proéminent 1,4 - 1,9 (2,0) µm Ø, lisses, à paroi légèrement épaissie, avec petit appendice hilaire, à contenu homogène, brun foncé à brun olivâtre dans E.G. 20%, aucune altération dans l’acide sulfurique 80%, non cyanophiles
+    (15,3) 15,6 - 16,9 (17,3) × (8) 8,4 - 9,9 (10,3) µm
+    Q = (1,5) 1,7 - 2 ; N = 25
+    Me = 16,3 × 9 µm ; Qe = 1,8 
   basidioles: 
   basidiome: 
   bibliographies: 

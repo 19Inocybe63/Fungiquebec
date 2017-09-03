@@ -46,7 +46,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: largement cylindriques, tétrasporiques, stérigmates 4,4 - 6,4 µm de longueur en moyenne, non bouclées à la base, (21,7) 23,6 - 27,2 (30) × (11,9) 12,3 - 13,7 (15) µm
   basidiospores: |
     citriformes à largement citriformes, hexagonales à subhexagonales en vue frontale, elliptiques à largement elliptiques vues de profil, pore germinatif proéminent 1,4 - 1,9 (2,0) µm Ø, lisses, à paroi légèrement épaissie, avec petit appendice hilaire, à contenu homogène, brun foncé à brun olivâtre dans E.G. 20%, aucune altération dans l’acide sulfurique 80%, non cyanophiles
     (15,3) 15,6 - 16,9 (17,3) × (8) 8,4 - 9,9 (10,3) µm

@@ -219,7 +219,7 @@ description:
   pigments: 
   pileipellis: de type épithélium-hyménoforme, composé d’hyphes subglobuleuses, sphéropédonculées à piriformes, à paroi mince, 28-50 (52) x (8) 10-20 (22) µm Ø
   pileitrame: 
-  pileocystides: 
+  pileocystides: occasionnelles, cylindriques à lagéniformes, lisses, à paroi mince, 30,6 - 40,5 × 6,2 - 11 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

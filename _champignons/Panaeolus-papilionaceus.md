@@ -63,7 +63,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: abondantes à l’apex du stipe, formant presque une palissade, cylindriques claviformes à cylindriques-flexueuses, souvent avec apex subcapité à capité
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 

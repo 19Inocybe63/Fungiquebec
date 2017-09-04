@@ -1,6 +1,6 @@
 ---
 nom: Panaeolus papilionaceus
-date: 2017-09-03 00:00:00
+date: 2017-09-04 00:00:00
 image: https://c1.staticflickr.com/5/4416/36422629110_eaeae3f940_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36422629110/in/dateposted/
 album-flickr:
@@ -19,8 +19,8 @@ collections:
     date: 22 août 2017
     planche:
       numero: cKc0648-0182
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c1.staticflickr.com/5/4340/37028920805_18b6c320a1_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/37028920805/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 

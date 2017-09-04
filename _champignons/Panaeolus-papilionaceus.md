@@ -74,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, puis amincie vers la marge, cassante, crème à subconcolore à la surface piléique
   chancre: 
-  chapeau: 7-15 mm Ø, conique campanulé au début, brun rougeâtre, centre brun rougeâtre plus foncé à tan, restes vélaire à la marge
+  chapeau: 7-15 mm Ø, ovoïde, conique campanulé au début, lisse ou craquelé, parfois ruguleux, gris pâle à jaune-gris-brun, brun rougeâtre, centre brun rougeâtre plus foncé à tan, restes vélaire à la marge
   cheilochrysocystides:
   cheilocystides: abondantes, cylindriques claviformes à cylindriques-flexueuses, souvent avec apex subcapité à capité, (18,2) 19,4 - 29,3 (29,8) × (4,7) 5,1 - 6,4 (7,1) µm
   cheilomacrocystides: 
@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: arquées, espacées à serrées, grisâtres au début puis noirâtres, marbrées, à arête lamellaire blanche
+  lames: arquées, espacées à serrées, ventrues, grisâtres au début puis noirâtres, marbrées, à arête lamellaire blanche
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

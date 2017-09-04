@@ -217,7 +217,7 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: de type épithélium-hyménoforme, composé d’hyphes subglobuleuses, sphéropédonculées à piriformes, à paroi mince, 28-50 (52) x (8) 10-20 (22) µm Ø
   pileitrame: 
   pileocystides: 
   plasmode: 

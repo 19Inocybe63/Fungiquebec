@@ -38,7 +38,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 32-54 mm de haut et 32-50 mm de large, de forme irrégulière, mais souvent plus ou moins en forme d'œuf et même hémisphérique avec un sommet légèrement rétréci ou largement conique, les fosses disposées et orientées aléatoirement
+  ascome: 30-60 mm de haut et 20-50 mm de large, de forme irrégulière, mais souvent plus ou moins en forme d'œuf avec un sommet légèrement rétréci ou largement conique, les fosses disposées et orientées aléatoirement et de forme irrégulière lorsqu'ils sont jeunes, avec une crête chauve ou finement veloutée, aplatie ou largement arrondie, pâle, jaunâtre à blanchâtre, et des fosses grises moyennes à foncées ou noires lorsqu'elles sont matures, avec des arêtes arrondies à des arêtes tranchées ou érodées, brunâtres jaunes à brun jaunâtre et des fosses de même couleur (mais restant souvent dans le stade gris pendant une période prolongée et apparemment ne vieillissent jamais), attaché à la tige directement, sans rainure, creux
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous <i>Fraxinus nigra</i>, <i>Acer spp.</i>
+  biotopes: pousse au sol, sous <i>Fraxinus nigra</i>, <i>Acer spp.</i>, sous chêne à gros fruits, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -130,7 +130,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: spermatique à herbeuse, persil
+  exhalaison: douce, spermatique à herbeuse, persil
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: de mai à juin
   phialoconidies: 
-  pied: 14-40 x 10-20 mm Ø, égal au-dessus d'une base légèrement gonflée, blanchâtre à jaunâtre crème, souvent avec décoloration brun rougeâtre, glabre à subglabre, creux
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -251,6 +251,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
+  stipe: 14-40 x 10-30 mm Ø, égal au-dessus d'une base légèrement gonflée, blanchâtre à jaunâtre crème, souvent avec décoloration brun rougeâtre, glabre à subglabre, creux
   stipitipellis: 
   stipititrame: 
   stroma: 

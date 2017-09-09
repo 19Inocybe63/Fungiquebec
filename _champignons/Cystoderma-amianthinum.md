@@ -217,7 +217,7 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en double couche : Suprapellis en conioderme formé de chaînes de sphérocytes sphériques, elliptiques à subcylindriques, se brisant facilement en éléments celluleux, lisses à très légèrement ruguleuses, à paroi brune, issus du voile général, (12) 15,7 - 34,9 (40) × (9,1) 10,8 - 17,8 (25) µm; et un subpellis formé d'hyphes filamenteuses, hyalines à légèrement pigmentées
+  pileipellis: en double couche; Suprapellis en conioderme formé de chaînes de sphérocytes sphériques, elliptiques à subcylindriques, se brisant facilement en éléments celluleux, lisses à très légèrement ruguleuses, à paroi brune, issus du voile général, (12) 15,7 - 34,9 (40) × (9,1) 10,8 - 17,8 (25) µm; et un subpellis formé d'hyphes filamenteuses, hyalines à légèrement pigmentées
   pileitrame: formée d'hyphes hyalines, lâchement emmêlées
   pileocystides: 
   plasmode: 

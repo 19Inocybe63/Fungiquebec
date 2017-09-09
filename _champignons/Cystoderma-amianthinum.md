@@ -286,7 +286,7 @@ description:
   typique: 
   velipellis: 
   voile: 
-  voile-general: fragile, laissant un semblant d'anneau (voile partiel) floconneux sur le pied
+  voile-general: fragile, laissant un semblant d'anneau floconneux sur le pied
   voile-partiel: aucun; le déchirement du voile général laisse un anneau floconneux détersile, laissant penser à un voile partiel
   volve: 
   zone-perihymeniale: 

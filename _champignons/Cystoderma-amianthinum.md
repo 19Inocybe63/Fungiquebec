@@ -74,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: mince, blanche
   chancre: 
-  chapeau: 7-19 mm Ø, conique à convexe, couvert de granules farineux à poudreux, jaunâtre, beige, chamois ochracé
+  chapeau: 7-19 mm Ø, conique à convexe-campanulé à étalé-mamelonné, sec, couvert de granules farineux à poudreux issus du voile général, jaunâtre, beige, chamois ochracé, à marge souvent appendiculée de restes vélaires un peu triangulaires
   cheilochrysocystides:
   cheilocystides: absentes
   cheilomacrocystides: 

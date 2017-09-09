@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à sinuées, serrées, avec lamellules, larges, blanche à crème pâle, à arêtes entières
+  lames: adnées à sinuées, serrées, avec lamellules, larges, blanches à crème pâle, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

@@ -290,6 +290,8 @@ champs-description:
     label: Basides
   - name: basidiospores
     label: Basidiospores
+  - name: arthroconidies
+    label: Arthroconidies
   - name: capillitium
     label: Capillitium
   - name: paracapillitium
@@ -457,8 +459,6 @@ champs-description:
     label: Anamorphe
   - name: anamorphe-conidien
     label: Anamorphe conidien
-  - name: arthroconidies
-    label: Arthroconidies
   - name: asterohyphidies
     label: Astérohyphidies
   - name: base-du-pied

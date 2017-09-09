@@ -84,7 +84,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Michael Kuo. « Perhaps the most widespread and common <i>Cystoderma</i> species worldwide, <i>Cystoderma amianthinum</i> is found with some regularity in northern and montane (including Appalachian) regions of North America. It is usually found growing in moss, under conifers. (Kuo, M. (2007, February). Cystoderma amianthinum. Retrieved from the MushroomExpert.Com Web site:http://www.mushroomexpert.com/cystoderma_amianthinum.html) »
   conidies: 
   conidiome: 
   conidiophores: 

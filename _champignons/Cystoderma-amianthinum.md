@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans la mousse, milieu humide, sous conifères
   boucles: présentes
   brachybasidioles: 
   calicule: 
@@ -72,9 +72,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, blanche
   chancre: 
-  chapeau: 
+  chapeau: 7-19 mm Ø, conique à convexe, couvert de granules farineux à poudreux, jaunâtre, beige, chamois ochracé
   cheilochrysocystides:
   cheilocystides: absentes
   cheilomacrocystides: 
@@ -133,7 +133,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: faible à désagréable, aigre
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à sinuées, serrées, larges, blanche à crème pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -249,15 +249,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 25-44 x 2-3 mm Ø, cylindrique, égal, parsemé de granules ou d'écailles granuleuses, chamois ochracé plus foncé que le chapeau
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -284,7 +284,7 @@ description:
   typique: 
   velipellis: 
   voile: 
-  voile-general: 
+  voile-general: fragile, laissant un semblant d'anneau (voile partiel) floconneux sur le pied
   voile-partiel: 
   volve: 
   zone-perihymeniale: 

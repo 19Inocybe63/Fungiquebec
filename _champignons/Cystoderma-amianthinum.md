@@ -36,7 +36,7 @@ description:
   anneau: 
   apothecie: 
   arete-lamellaire: 
-  arthroconidies: 
+  arthroconidies: occasionnelles, dans la chair du chapeau, sous le suprapellis
   articles: 
   ascome: 
   ascospores: 

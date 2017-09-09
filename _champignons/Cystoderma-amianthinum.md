@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à sinuées, serrées, larges, blanche à crème pâle
+  lames: adnées à sinuées, serrées, avec lamellules, larges, blanche à crème pâle, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -258,7 +258,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 25-44 x 2-3 mm Ø, cylindrique, égal, parsemé de granules ou d'écailles granuleuses, chamois ochracé plus foncé que le chapeau
+  stipe: 25-44 x 2-3 mm Ø, cylindrique, égal, guêtré, plein plein, farci puis creux, parsemé de granules à ± d'écailles granuleuses, blanchâtre à crème à l'apex, chamois ochracé plus foncé que le chapeau, avec mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -286,7 +286,7 @@ description:
   velipellis: 
   voile: 
   voile-general: fragile, laissant un semblant d'anneau (voile partiel) floconneux sur le pied
-  voile-partiel: 
+  voile-partiel: aucun; le déchirement du voile général laisse un anneau floconneux détersile, laissant penser à un voile partiel
   volve: 
   zone-perihymeniale: 
 ---

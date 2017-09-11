@@ -1,8 +1,8 @@
 ---
 nom: Leotia lubrica
 date: 2017-03-25 00:00:00
-image: https://c2.staticflickr.com/4/3901/15031724019_326fe183c6_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/15031724019/in/photolist-oUivRv-oUiuqe
+image: https://c1.staticflickr.com/5/4396/37024715491_f78b40f922_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/37024715491/in/photolist-YpKkZD-oUiuqe-oUivRv-djGL2k-djGA1m/
 album-flickr:
   - 72157678365821741
 
@@ -33,6 +33,16 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0671
+    date: 11 septembre 2017
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

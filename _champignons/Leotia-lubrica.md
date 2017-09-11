@@ -1,8 +1,8 @@
 ---
 nom: Leotia lubrica
-date: 2017-03-25 00:00:00
+date: 2017-09-11 00:00:00
 image: https://c1.staticflickr.com/5/4396/37024715491_f78b40f922_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/37024715491/in/photolist-YpKkZD-oUiuqe-oUivRv-djGL2k-djGA1m/
+image-originale: https://www.flickr.com/photos/kaufholtz/37024715491/in/dateposted/
 album-flickr:
   - 72157678365821741
 

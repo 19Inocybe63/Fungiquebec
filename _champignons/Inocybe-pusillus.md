@@ -165,7 +165,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: une station connue
+  distribution: une seule station connue
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

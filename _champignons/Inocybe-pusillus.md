@@ -133,6 +133,7 @@ description:
   commentaires: |
     De Claude Kaufholtz-Couture. « Sous-genre Clypeus; Section Cortinatae; Sous-section Cortinatae. »
     De Claude Kaufholtz-Couture. « Observation sur de très petits spécimens, démontrant clairement une cortine blanche, fugace. »
+    De Claude Kaufholtz-Couture. « Je suis dans l'attente de l'étude d'ADN de la collection cKc0556 par le http://mathenylab.utk.edu/Site/Home.html »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -279,7 +280,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: 
+  premiere-mention: première étude de cette espèce au Québec
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

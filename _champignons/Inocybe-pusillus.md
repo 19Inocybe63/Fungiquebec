@@ -1,6 +1,6 @@
 ---
 nom: Inocybe pusillus C. Kaufholtz-Couture nom. prov.
-date: 2017-08-13 00:00:00
+date: 2017-09-15 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -243,7 +243,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolé à grégaire
+  mode-de-croissance: isolé, dispersé à grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -327,9 +327,7 @@ description:
   syndrome: |
     muscarinien ou sudorien
     La toxine responsable est la muscarine.
-  synonymie: |
-    <i>Agaricus rennyi</i> Berk. & Broome, Annals and Magazine of Natural History 3:205 (1879)
-    <i>Astrosporina rennyi</i> (Berk. & Broome) Rea, British Basidiomycetae: A handbook to the larger British fungi:212 (1922)
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

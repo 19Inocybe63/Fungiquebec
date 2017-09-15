@@ -7,11 +7,11 @@ album-flickr:
   - 72157678323069856
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe sale
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: 
+  espece: <i>Inocybe squalida</i> C. Kaufholtz-Couture nom. prov.
 
 collections:
   - fongarium: cKc0556

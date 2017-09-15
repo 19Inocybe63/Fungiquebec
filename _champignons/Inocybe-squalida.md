@@ -1,5 +1,5 @@
 ---
-nom: Inocybe pusillus C. Kaufholtz-Couture nom. prov.
+nom: Inocybe squalida C. Kaufholtz-Couture nom. prov.
 date: 2017-09-15 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/

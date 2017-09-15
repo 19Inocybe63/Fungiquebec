@@ -301,7 +301,7 @@ description:
   reactions-macrochimiques: |
     Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0 ; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 
-  remarques: Clé de Fatto, B C E I K L O Q
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

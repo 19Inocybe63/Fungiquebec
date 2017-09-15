@@ -1,5 +1,5 @@
 ---
-nom: Inocybe aff. rennyi
+nom: Inocybe pusillus C. Kaufholtz-Couture nom. prov.
 date: 2017-08-13 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
@@ -7,12 +7,11 @@ album-flickr:
   - 72157678323069856
 
 details:
-  nom-francais: Inocybe de Renny
+  nom-francais: 
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe aff. rennyi</i> (Berk. & Broome) Sacc.
-  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
+  espece: 
 
 collections:
   - fongarium: cKc0556
@@ -47,6 +46,16 @@ collections:
     confirmee: 
   - fongarium: cKc0638
     date: 4 août 2017
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0641
+    date: 14 août 2017
     planche:
       numero: 
       miniature: 
@@ -156,7 +165,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare
+  distribution: une station connue
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

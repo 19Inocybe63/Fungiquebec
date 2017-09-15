@@ -262,7 +262,7 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'un suprapellis en cutis, avec des éléments trichodermiques, avec hyphes septées et bouclées agglomérés au sommet, hyphes terminales cylindriques formant une chaîne, avec pigmentation brun rouille à brun rougeâtre, 9,8 - 55,1 × 2,0 - 10,3 µm en moyenne
+  pileipellis: formé d'un suprapellis en cutis, avec des éléments trichodermiques, avec hyphes septées et bouclées agglomérées au sommet, hyphes terminales cylindriques formant une chaîne, avec pigmentation brun rouille à brun rougeâtre, 9,8 - 55,1 × 2,0 - 10,3 µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 

@@ -134,6 +134,7 @@ description:
     De Claude Kaufholtz-Couture. « Sous-genre Clypeus; Section Cortinatae; Sous-section Cortinatae. »
     De Claude Kaufholtz-Couture. « Observation sur de très petits spécimens, démontrant clairement une cortine blanche, fugace. »
     De Claude Kaufholtz-Couture. « Je suis dans l'attente de l'étude d'ADN de la collection cKc0556 par le http://mathenylab.utk.edu/Site/Home.html »
+    De Claude Kaufholtz-Couture. « Initialement, j'ai donné le nom <i>I. pusillus</i> comme nom provisoire à la collection cKc0556, mais B. Matheny m'a dit qu'il était nouvellement utilisé. Comme autre réaction lors de la découverte de cette collection (cKc0556), je le trouvais sale; illusion. J'ai donc opté pour <i>I. squalida</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -1,6 +1,6 @@
 ---
 nom: Pholiota squarrosoides
-date: 2017-03-25 00:00:00
+date: 2017-09-25 00:00:00
 image: https://c2.staticflickr.com/8/7295/9591960483_a32eab764b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9591960483/in/photolist-xt3tBS-wwZ7Ct-fBBuHa-fBBiF2-dKPZEc-dKVtSm/
 album-flickr:
@@ -43,6 +43,16 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0701
+    date: 20 septembre 2017
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

@@ -90,7 +90,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Yves Lamoureux. « <i>Russula subterfurcata</i> compte parmi les espèces qui possèdent des petites spores pour le genre. C’est d’ailleurs ce caractère qui la distingue avec certitude de <i>R. basifurcata</i>, son sosie. »
   conidies: 
   conidiome: 
   conidiophores: 

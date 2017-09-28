@@ -1,6 +1,6 @@
 ---
 nom: Inocybe squalida C. Kaufholtz-Couture nom. prov.
-date: 2017-09-15 00:00:00
+date: 2017-09-28 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -134,7 +134,7 @@ description:
     De Claude Kaufholtz-Couture. « Sous-genre Clypeus; Section Cortinatae; Sous-section Cortinatae. »
     De Claude Kaufholtz-Couture. « Observation sur de très petits spécimens, démontrant clairement une cortine blanche, fugace. »
     De Claude Kaufholtz-Couture. « Je suis dans l'attente de l'étude d'ADN de la collection cKc0556 par le http://mathenylab.utk.edu/Site/Home.html »
-    De Claude Kaufholtz-Couture. « Initialement, j'ai donné le nom <i>I. pusillus</i> comme nom provisoire à la collection cKc0556, mais B. Matheny m'a dit qu'il était nouvellement utilisé. Comme autre réaction lors de la découverte de cette collection (cKc0556), je le trouvais sale; illusion. J'ai donc opté pour <i>I. squalida</i>. »
+    De Claude Kaufholtz-Couture. « Cette collection fut comparée à <i>Inocybe curvipes</i>, mais la macromorphologie ne correspond pas. »
   conidies: 
   conidiome: 
   conidiophores: 

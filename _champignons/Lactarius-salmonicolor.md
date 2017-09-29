@@ -235,7 +235,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J.,; Verbeken, A.; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |

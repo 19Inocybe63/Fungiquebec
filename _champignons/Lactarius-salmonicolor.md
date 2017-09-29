@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 30-90 mm Ø; d'abord convexe, devenant plat, avec une dépression centrale peu profonde ou en forme de vase; visqueuse lorsque fraîche; à marge arquée; glabre; zoné avec de bandes concentriques orange carotte à orange plus pâle
+  chapeau: 30-100 (120) mm Ø; d'abord convexe, devenant plat, avec une dépression centrale peu profonde ou en forme de vase; visqueuse lorsque fraîche; à marge arquée; glabre; ± zoné de bandes concentriques orange carotte à orange plus pâle
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: agréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: légèrement décurrentes, parfois décurrentes par une dent, ± larges, subespacées, avec lamellules, orange carotte, crème orangé avec l'âge
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -244,12 +244,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: jaune pâle à rose pâle
   spherocytes: 
   sporocystes: 
   stipe: 

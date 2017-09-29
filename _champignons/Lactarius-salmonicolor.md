@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol sous conifères, en milieux humides
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -78,7 +78,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: excellent comestible
   commentaires: 
   conidies: 
   conidiome: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé à densément grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -252,7 +252,7 @@ description:
   sporee: jaune pâle à rose pâle
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 10-70 x 5-25 mm Ø, cylindrique à atténué vers la base, surface lisse, brillante, saumon pâle à saumon, pêche à rose argileux, parfois avec un éclat argenté, parfois avec des taches plus foncées allongées sur des spécimens plus anciens, orné de scrobicules plus foncés, parfois avec des teintes verdâtres à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

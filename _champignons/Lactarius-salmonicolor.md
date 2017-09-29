@@ -238,7 +238,8 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Potasse (KOH 10%) = pas de réaction sur le chapeau
   receptacle: 
   remarques: 
   repartition: 

@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse au centre, mince vers la marge, crème, devient immédiatement orange à la coupe puis orange-marron à corail brunâtre
   chancre: 
   chapeau: 30-100 (120) mm Ø; d'abord convexe, devenant plat, avec une dépression centrale peu profonde ou en forme de vase; visqueuse lorsque fraîche; à marge arquée; glabre; ± zoné de bandes concentriques orange carotte à orange plus pâle
   cheilochrysocystides:
@@ -179,7 +179,7 @@ description:
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: abondant, orange carotte, tachant lentement la chair de rouge vin, ne verdissant pas, à saveur douce puis astringente à désagréable
   leptocystides: 
   leptocheilocystides: 
   leptopleurocystides: 

@@ -1,6 +1,6 @@
 ---
 nom: Lactarius salmonicolor
-date: 2017-09-29 00:00:00
+date: 2017-09-30 00:00:00
 image: https://c1.staticflickr.com/5/4447/36573844134_8722d07ed9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36573844134/in/dateposted/
 album-flickr:
@@ -253,7 +253,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: jaune pâle à rose pâle
+  sporee: xanthosporée IVa-IVc, jaune pâle à jaune moyen, d'après la charte de couleur de Romagnesi; F-G d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipe: 10-70 x 5-25 mm Ø, cylindrique à atténué vers la base, surface lisse, brillante, saumon pâle à saumon, pêche à rose argileux, parfois avec un éclat argenté, parfois avec des taches plus foncées allongées sur des spécimens plus anciens, orné de scrobicules plus foncés, parfois avec des teintes verdâtres à la base

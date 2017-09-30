@@ -79,7 +79,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: excellent comestible
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Pour ma part, j'aurais nommé cette collection <i>L. thyinos</i>, mais Index Fungorum indique que <i>L. salmonicolor</i> est le nom actuel. Aussi, il m'apparait que <i>L. salmonicolor</i> a des lames plus serrées que <i>L. thyinos</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

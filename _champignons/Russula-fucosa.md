@@ -297,7 +297,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; D-E d'après la charte de couleur de Kibby
+  sporee: ocrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi; D-E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipitipellis: 

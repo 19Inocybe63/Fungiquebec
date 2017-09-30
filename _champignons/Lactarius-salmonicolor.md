@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol sous conifères, en milieux humides
+  biotopes: pousse au sol sous conifères, en milieux humides; espèce associée au <i>Thuja occidentalis</i>
   boucles: 
   brachybasidioles: 
   calicule: 

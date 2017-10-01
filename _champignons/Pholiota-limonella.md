@@ -7,7 +7,7 @@ album-flickr:
   - 72157673087172874
 
 details:
-  nom-francais: Pholiote adipo-squarreuse
+  nom-francais: 
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota

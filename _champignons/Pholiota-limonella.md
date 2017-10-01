@@ -1,6 +1,6 @@
 ---
 nom: Pholiota limonella
-date: 2017-03-25 00:00:00
+date: 2017-10-01 00:00:00
 image: https://c1.staticflickr.com/9/8185/8443643369_21c095bedf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8443643369/in/photolist-dSzgU3-dSetnA-dSdVfD-dS8T3P-dS8T16
 album-flickr:
@@ -49,13 +49,13 @@ description:
   basides: cylindriques à l’apex légèrement piriforme, tétrasporiques, bouclées à la base, 23,2 x 7,4 µm en moyenne
   basidiospores: |
     obovoïdes, ellipsoïdes à oblongues, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, très finement apiculé, pore germinatif indistinct, à contenu uniguttulé à variable, jaunâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
-    6,7 [7,4; 7,6] 8,3 x 4,3 [4,6; 4,7] 5 µm
-    Q = 1,4 [1,6; 1,7] 1,8; N = 38; C = 95%
-    Me = 7,5 x 4,6 µm; Qe = 1,6
+    6,7 [7,4 ; 7,6] 8,3 x 4,3 [4,6 ; 4,7] 5 µm
+    Q = 1,4 [1,6 ; 1,7] 1,8 ; N = 38 ; C = 95%
+    Me = 7,5 x 4,6 µm ; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois vivant ou pourri de feuillus, parfois dans les blessures
+  biotopes: pousse sur bois mort de feuillus, sur <i>Fagus grandifolia</i>
   boucles: observées dans la chair du pileipellis, la trame lamellaire et dans la chair du stipitipellis
   brachybasidioles: 
   calicule: 

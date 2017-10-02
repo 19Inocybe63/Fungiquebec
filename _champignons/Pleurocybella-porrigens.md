@@ -78,7 +78,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: Prudence; lire l'article sur le site de MycoDB : http://www.mycodb.fr/quicksearch.php
+  comestibilite: Prudence; lire l'article sur le site de MycoDB, http://www.mycodb.fr/quicksearch.php
   commentaires: 
   conidies: 
   conidiome: 

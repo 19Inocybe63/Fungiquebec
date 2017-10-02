@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: convergentes vers un point d'attache à décurrentes lorsque le stipe est présent, étroites, certaines fourchues, très serrées, blanchâtres puis jaunâtres à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

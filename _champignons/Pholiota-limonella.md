@@ -83,7 +83,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Aujourd'hui, je doute que cette collection soit <i>P. limonella</i>. Les raisons et les nouveaux résultats suivront bientôt. »
+    De Claude Kaufholtz-Couture. « En octobre 2017, je doute que cette collection soit <i>P. limonella</i>. Les raisons et les nouveaux résultats suivront bientôt. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -46,19 +46,24 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à étroitement claviformes, bisporiques et tétrasporiques, bouclées à la base, (22,5) 22,7 - 26,4 (27) × (6,2) 6,5 - 6,9 (7) µm
+  basidiospores: |
+    ovoïdes à elliptiques en vue frontale, elliptiques à phaséoliformes vues de profil, jamais tronquées, pore germinatif discret et pas toujours, visible, lisses, à paroi mince 0,21 x 0,29 µm  d’épaisseur, appendice hilaire discret et pas toujours visible, à contenu rarement uniguttulé, plus souvent variable, brun pâle dans le NaCl isotonique 0,9%,  fauve terne dans le KOH 5%, ocre dans le melzer, non cyanophiles
+    (6,4) 7 - 7,6 (8,1) × (4) 4,4 - 4,9 (5) µm
+    Q = (1,4) 1,5 - 1,7 (1,8) ; N = 30
+    Me = 7,3 × 4,6 µm ; Qe = 1,6
+    (Piximètre, formule classique; mesures issues d'une sporée, dans NaCl isotonique 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: présentes
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: occasionnelles, présentes à l'apex, isolées, parfois en faisceaux, claviformes à cylindriques, 14,8 - 39,5 × 4,4 - 6,5 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -71,7 +76,7 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, polymorphes, cylindriques à étroitement claviformes, largement fusiformes, lagéniformes, piriformes, dont l'apex est souvent déformé, tortueux; parfois subcapité, vide optique, (10,4) 12 - 20,1 (25,9) × (5) 5,6 - 7 (7,8) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -212,11 +217,11 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: suprapellis en ixocutis, avec hyphes cylindriques gélatinisés entre 1,0 à 5,0 μm de largeur avec parois incolores ou jaune pâle; avec des éléments terminaux cylindriques et claviformes dispersés entre 4,0 à 12 μm de largeur; subpellis compact, composé d'hyphes cylindriques entre 8,0-12,0 μm de largeur, aux parois brunes et incrustées de pigments interhyphales
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurochrysocystides: 
+  pleurochrysocystides: rares, largement fusiformes à largement  fusiformes et mucronées, à inclusion réfringente dans le KOH 5%, 23 - 39,6 × 6,8 - 9,4 µm en moyenne
   pleurocystides: 
   poils: 
   poils-basaux: 

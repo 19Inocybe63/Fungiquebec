@@ -7,7 +7,7 @@ album-flickr:
   - 72157673087172874
 
 details:
-  nom-francais: 
+  nom-francais: Pholiote citrine / Pholiote jaune citron
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota

@@ -193,7 +193,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: sinuées à adnexées, serrées, étroites, 2-4 mm de largeur, crèmes à jaunâtres puis ferrugineuses
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

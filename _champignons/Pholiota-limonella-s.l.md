@@ -74,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 30-60 (80) mm Ø, large, conique obtus à convexe, à marge incurvée au début; devenant globalement conique à presque étalé, parfois avec un large ombo, ou plus rarement simplement convexe, viscidule, orné de squamules (3-4 mm de long) triangulaires recourbées brun rougeâtre surtout sur les jeunes, les écailles disparaissent ou s’agglutine à maturité, de couleurs variables chez de jeune boutons, foncés rouille devenant plus pâle, ± ocre avec une zone marginale jaunes pâle, et devient progressivement dominante à mesure que la couche visciduleuse disparaît
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: abondantes, polymorphes, cylindriques à étroitement claviformes, largement fusiformes, lagéniformes, piriformes, dont l'apex est souvent déformé, tortueux; parfois subcapité, vide optique, (10,4) 12 - 20,1 (25,9) × (5) 5,6 - 7 (7,8) µm en moyenne

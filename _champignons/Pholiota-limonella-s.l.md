@@ -7,7 +7,7 @@ album-flickr:
   - 72157686989777630
 
 details:
-  nom-francais: Pholiote adipo-squarreuse
+  nom-francais: Pholiote citrine / Pholiote jaune citron
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota

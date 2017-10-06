@@ -19,8 +19,8 @@ collections:
     date: 20 septembre 2017
     planche:
       numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c1.staticflickr.com/5/4462/37501197042_24fc318858_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/37501197042/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)

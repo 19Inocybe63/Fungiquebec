@@ -85,7 +85,20 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Cette collection est à la fois proche et éloignée de <i>P. limonella</i>, en voici les raisons (toujours en comparaison avec <i>P. limonella</i> versus la collection cKc0701).
+    Proche par
+- grandeur des basidiospores
+- grandeur des basides
+- réactions (couleurs) du melzer et du KOH sur les basidiospores
+- aspect macromorphologique général
+    Éloignée par
+- basidiospores tronquées à subtronquées
+- basides pédicellées
+- pleurocystides abondantes
+- caulocystides abondantes
+- cheiloleptocystides beaucoup trop grandes (25-55 x 7-12 µm)
+- caulocystides abondantes 20-50 x 3-6,5 µm »
   conidies: 
   conidiome: 
   conidiophores: 

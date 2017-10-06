@@ -56,7 +56,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois mort d'Érable rouge, Plaine rouge; Acer rubrum
   boucles: présentes
   brachybasidioles: 
   calicule: 

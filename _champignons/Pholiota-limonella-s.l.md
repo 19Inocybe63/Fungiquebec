@@ -76,7 +76,8 @@ description:
   chancre: 
   chapeau: 
   cheilochrysocystides:
-  cheilocystides: abondantes, polymorphes, cylindriques à étroitement claviformes, largement fusiformes, lagéniformes, piriformes, dont l'apex est souvent déformé, tortueux; parfois subcapité, vide optique, (10,4) 12 - 20,1 (25,9) × (5) 5,6 - 7 (7,8) µm en moyenne
+  cheilocystides: 
+  cheiloleptocystides: abondantes, polymorphes, cylindriques à étroitement claviformes, largement fusiformes, lagéniformes, piriformes, dont l'apex est souvent déformé, tortueux; parfois subcapité, vide optique, (10,4) 12 - 20,1 (25,9) × (5) 5,6 - 7 (7,8) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

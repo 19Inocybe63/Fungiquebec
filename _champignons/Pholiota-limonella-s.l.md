@@ -271,7 +271,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 40-80 X 5-10 (13) mm Ø, cylindrique, égal, d'abord plein, puis creux avec l'âge, rigide, lisse, crème jaunâtre à blanchâtre au-dessous de la zone annuliforme; souvent fasciculé; surface recouverte de fines squamules parfois dressées, rouge brunâtre sur fond jaune jusqu'à la zone annuliforme
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -294,7 +294,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: fibrilleux, jaune, laissant une zone annuliforme distincte, évanescente
   volve: 
   zone-perihymeniale: 
 ---

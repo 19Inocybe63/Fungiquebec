@@ -1,6 +1,6 @@
 ---
 nom: Pholiota limonella s.l.
-date: 2017-10-06 00:00:00
+date: 2017-10-07 00:00:00
 image: https://c1.staticflickr.com/5/4413/37193883880_31ac0d4a5f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37193883880/in/photostream/
 album-flickr:

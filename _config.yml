@@ -338,6 +338,8 @@ champs-description:
     label: Cristaux apicaux
   - name: macropleurocystides
     label: Macropleurocystides
+  - name: pleurochrysocystides
+    label: Pleurochrysocystides
   - name: pseudocystides
     label: Pseudocystides
   - name: caulobasides

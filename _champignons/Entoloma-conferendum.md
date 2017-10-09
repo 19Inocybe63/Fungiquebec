@@ -18,9 +18,9 @@ collections:
   - fongarium: cKc0686
     date: 18 septembre 2017
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0686-0185
+      miniature: 
+      originale: 
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)

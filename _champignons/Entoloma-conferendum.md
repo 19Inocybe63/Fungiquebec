@@ -49,18 +49,23 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: claviformes à largement claviformes, parfois pédicellées, bisporiques et tétrasporiques, non bouclées à la base, (30) 32,5 - 36,5 × (11,3) 11,7 - 14,5 (15,1) µm en moyenne
-  basidiospores: 
+  basidiospores: |
+    hétérodiamétriques, cruciformes en vue frontale, très souvent cubiques vues de profil, polygonales noduleuses, entre ± 4-6 ± 7 angles, à paroi mince, avec appendice hilaire dominant, à contenu uniguttulé à biguttulé, hyalines dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, non cyanophiles
+    (7,9) 8,2 - 9,8 (10) × (6) 6,5 - 8,2 (9,5) µm
+    Q = (1) 1,1 - 1,4 (1,5) ; N = 30
+    Me = 9 × 7,4 µm ; Qe = 1,2
+    (Piximètre, formule classique; mesures issues d'une sporée, dans NaCl isotonique 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, dans la mousse, sous conifères et feuillus
-  boucles: 
+  boucles: non observées
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -73,7 +78,7 @@ description:
   chancre: 
   chapeau: 13-26 mm Ø, port mycenoïde, conique, glabre, brun beige à brun légèrement rougeâtre, noirâtre en son centre
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -81,7 +86,9 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Section Staurospora »
+    De Yves Lamoureux. « Déterminée <i>Nolanea</i> »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -154,10 +161,10 @@ description:
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
   hyphes-glebales: 
-  hyphes-gleopleres: 
+  hyphes-gleopleres: observées dans la chair du chapeau
   hyphes-hymeniales: 
   hyphes-ligatives: 
-  hyphes-oleiferes: 
+  hyphes-oleiferes: observées dans la chair du chapeau
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 
@@ -214,12 +221,12 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis (ixocutis), formé d'hyphes à pigments vacuolaires dilués avec contenu, uniformes; trame piléique régulière avec éléments amples à largement fusiformes
   pileitrame: 
-  pileocystides: 
+  pileocystides: absentes
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

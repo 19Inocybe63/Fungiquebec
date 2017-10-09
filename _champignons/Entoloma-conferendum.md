@@ -1,0 +1,286 @@
+---
+nom: Entoloma conferendum
+date: 2017-10-09 00:00:00
+image: https://c1.staticflickr.com/5/4349/37195664396_a586895bb2_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/37195664396/in/photolist-YERv9y
+album-flickr:
+  - 
+
+details:
+  nom-francais: Entolome à spores étoilées
+  ordre: Agaricales
+  famille: Entolomataceae
+  genre: Entoloma
+  espece: <i>Entoloma conferendum</i> (Britzelm.) Noordel.
+  litterature: Noordeloos, M.E. 1980. Entoloma subgenus Nolanea in the Netherlands and adjacent regions with a reconnaissance of its remaining taxa in Europe. Persoonia. 10(4):427-534
+
+collections:
+  - fongarium: cKc0686
+    date: 18 septembre 2017
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+
+description:
+  acanthocytes: 
+  acanthophyses: 
+  aiguillons: 
+  aleurioconidies: 
+  anamorphe: 
+  anamorphe-conidien: 
+  anneau: 
+  apothecie: 
+  arete-lamellaire: 
+  arthroconidies: 
+  articles: 
+  ascome: 
+  ascospores: 
+  asques: 
+  asterohyphidies: 
+  avertissement: 
+  base-du-pied: 
+  base-sterile: 
+  base-stipitiforme: 
+  basides: claviformes à largement claviformes, parfois pédicellées, bisporiques et tétrasporiques, non bouclées à la base, (30) 32,5 - 36,5 × (11,3) 11,7 - 14,5 (15,1) µm en moyenne
+  basidiospores: 
+  basidioles: 
+  basidiome: 
+  bibliographies: 
+  biotopes: pousse au sol, dans la mousse, sous conifères et feuillus
+  boucles: 
+  brachybasidioles: 
+  calicule: 
+  capillitium: 
+  capitule: 
+  caulobasides: 
+  caulocystides: 
+  caulocystides-medianes: 
+  caulocystides-sommitales: 
+  cauloparacystides: 
+  cellules-hymeniales-diverticulees: 
+  cellules-hymeniales-en-brosses: 
+  cellules-marginales-paracystides: 
+  cellules-peritheciales: 
+  cellules-stromatiques: 
+  chair: mince à ± transparente de la marge à mi-rayon, un peu plus épaisse au disque
+  chancre: 
+  chapeau: 13-26 mm Ø, port mycenoïde, conique, glabre, brun beige à brun légèrement rougeâtre, noirâtre en son centre
+  cheilochrysocystides:
+  cheilocystides: 
+  cheilomacrocystides: 
+  chlamydospores: 
+  chrysocystides: 
+  circumcystides: 
+  clavules: 
+  columelle: 
+  comestibilite: 
+  commentaires: 
+  conidies: 
+  conidiome: 
+  conidiophores: 
+  consistance: 
+  contexte: 
+  cordons-myceliens: 
+  cordons-rhizomorphiques: 
+  cortex: 
+  cortex-caulinaire: 
+  cortex-du-pied-et-du-bulbe: 
+  cortex-peridial: 
+  cortex-sclerotial: 
+  cortine: 
+  coupe-sterile: 
+  cristaux: 
+  cristaux-d-oxalate: 
+  cristaux-apicaux: 
+  cuticule: 
+  cutis: 
+  cycle: 
+  cystides: 
+  cystides-hymeniales: 
+  cystides-intermediaires: 
+  cystidioles: 
+  dendrohyphydies: 
+  depots-de-pigment-interhyphal: 
+  dermatocystides-caulocystides-et-pileipellis: 
+  derniere-correction: 
+  dicaryophyses: 
+  dichophyses: 
+  disque-basal: 
+  distribution: 
+  elateres: 
+  elements-acanthophyses: 
+  elements-cystidioides: 
+  elements-hyphoides: 
+  elements-setoides: 
+  elements-steriles: 
+  elements-sur-les-cotes: 
+  elements-velaires: 
+  endoperidium: 
+  especes-identification: 
+  especes-semblables: 
+  excipulum: 
+  excipulum-medullaire-superieur: 
+  excipulum-medullaire-moyen: 
+  excipulum-medullaire-inferieur: 
+  excipulum-ectal: 
+  exhalaison: non vérifiée
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
+  exoperidium: 
+  extremites-hyphales: 
+  face-externe: 
+  face-poroïde: 
+  feutrage-basal: 
+  fragments-sporaux: 
+  funicule: 
+  glebe: 
+  gleocystides: 
+  gleocystides-hymeniales: 
+  gleocystides-subhymeniales: 
+  granules-calcaires: 
+  groupe: 
+  hymenium: 
+  hymenocystides: 
+  hymenophore: 
+  hyphes: 
+  hyphes-de-la-chair: 
+  hyphes-de-l-anneau: 
+  hyphes-du-pied: 
+  hyphes-glebales: 
+  hyphes-gleopleres: 
+  hyphes-hymeniales: 
+  hyphes-ligatives: 
+  hyphes-oleiferes: 
+  hyphes-pectinees: 
+  hyphes-primordiales: 
+  hyphes-setales: 
+  hyphes-squelettiques: 
+  hyphes-skeletoligative: 
+  hyphes-subiculaires: 
+  hyphes-thrombopleres: 
+  hyphes-tramales: 
+  hyphes-vesiculaires: 
+  hyphidies: 
+  hyphique: 
+  hypobasides: 
+  hypoderme: 
+  hypoge: 
+  hypophylle: 
+  hypothalle: 
+  hypothece: 
+  hysterothece: 
+  lames: adnées, serrées, larges, avec lamelles et lamellules, crème jaunâtre au début, puis saumonnées
+  lamprocystides: 
+  lamprocheilocystides: 
+  lampropleurocystides: 
+  lamprocaulocystides: 
+  latex: 
+  leptocystides: 
+  leptocheilocystides: 
+  leptopleurocystides: 
+  macrocystides: 
+  macropleurocystides: 
+  marge: 
+  marge-et-face-externe: 
+  mediostrate: 
+  medulla: 
+  medulla-caulinaire: 
+  medulla-clavariale: 
+  medulla-clavulaire: 
+  microconidies: 
+  mode-de-croissance: 
+  mycelium-basal: 
+  myxocarpe: 
+  nouvelle-espece: 
+  note-taxonomique: 
+  oeuf: 
+  paracapillitium: 
+  paraphyses: 
+  parasite: 
+  paroi-peritheciale: 
+  peridiole: 
+  peridiopellis: 
+  peridium: 
+  peritheces: 
+  phenologie: 
+  phialoconidies: 
+  pied: 
+  pieds-steriles: 
+  pigments: 
+  pileipellis: 
+  pileitrame: 
+  pileocystides: 
+  plasmode: 
+  pleurochrysocystides: 
+  pleurocystides: 
+  poils: 
+  poils-basaux: 
+  poils-caulinaires: 
+  poils-du-cortex: 
+  poils-externes: 
+  poils-lateraux-et-caulinaires: 
+  poils-marginaux: 
+  poils-mycelien-basaux: 
+  poils-peridiaux: 
+  poils-peritheciaux: 
+  poils-pileiques: 
+  pores: 
+  premiere-mention: 
+  pseudocapillitium: 
+  pseudocolumelle: 
+  pseudocystides: 
+  pseudo-peridioles: 
+  publications: 
+  publications-microscopiques: 
+  reactions-chimiques-naturelles: 
+  reactions-macrochimiques: 
+  receptacle: 
+  remarques: 
+  repartition: 
+  rhizomorphes: 
+  sac-sporifere: 
+  saveur: non vérifiée
+  sclerocystides: 
+  sclerote: 
+  soies: 
+  soies-hymeniales: 
+  sporee: saumon
+  spherocytes: 
+  sporocystes: 
+  stipe: 42-75 x 2-3 mm Ø, cylindrique, égal, torsadé, strié longitudinalement, blanchâtre à crème jaunâtre
+  stipitipellis: 
+  stipititrame: 
+  stroma: 
+  subhymenium: 
+  subiculum: 
+  substrat: 
+  symptomes: 
+  syndrome: 
+  synonymie: |
+    <i>Agaricus conferendus</i> Britzelm., Berichte des Naturhistorischen Vereins Augsburg 26:140 (1882)
+    <i>Nolanea conferenda</i> (Britzelm.) Sacc., Sylloge Fungorum 5:723 (1887)
+    <i>Nolanea staurospora</i> Bres., Fungi Tridentini 1 (2):18 (1882)
+    <i>Agaricus postumus</i> Britzelm., Berichte des Naturhistorischen Vereins Augsburg 26:140 (1882)
+    <i>Agaricus dissidens</i> Britzelm., Berichte des Naturhistorischen Vereins Augsburg 26:140 (1882)
+  systeme-hyphal: 
+  textura: 
+  tomentum-caulinaire: 
+  tomentum-pileique: 
+  trame-hymenophorale: 
+  trame-lamellaire: 
+  trame-tubulaire: 
+  tubes: 
+  type: 
+  typique: 
+  velipellis: 
+  voile: 
+  voile-general: 
+  voile-partiel: 
+  volve: 
+  zone-perihymeniale: 
+---

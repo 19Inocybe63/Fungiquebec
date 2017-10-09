@@ -38,8 +38,8 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Noordeloos, Machiel E</i>. <i>Entoloma subgenus Nolanea in The Netherlands and adjacent regions with a reconnaissance of its remaining taxa in Europe</i>. Persoonia, vol. 10, Part 4, 1980, p. 427-534
-    <b>Noordeloos, Machiel E</i>. <i>Entoloma in North America 2; the species described by C. H. Peck, type studies and comments</i>, Mycologische Gesellschaft, Austria, Österr. Z. Pilzk. 17 (2008)
+    <b>Noordeloos, Machiel E</b>. <i>Entoloma subgenus Nolanea in The Netherlands and adjacent regions with a reconnaissance of its remaining taxa in Europe</i>. Persoonia, vol. 10, Part 4, 1980, p. 427-534
+    <b>Noordeloos, Machiel E</b>. <i>Entoloma in North America 2; the species described by C. H. Peck, type studies and comments</i>, Mycologische Gesellschaft, Austria, Österr. Z. Pilzk. 17 (2008)
   ascome: 
   ascospores: 
   asques: 

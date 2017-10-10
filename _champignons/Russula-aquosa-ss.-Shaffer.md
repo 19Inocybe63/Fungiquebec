@@ -11,7 +11,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula aquosa ss. Shaffer</i> ss. Shaffer
+  espece: <i>Russula aquosa</i> ss. Shaffer
   litterature: 
 
 collections:

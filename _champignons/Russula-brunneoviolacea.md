@@ -218,7 +218,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 47-70 x 1-11 mm Ø, cylindrique à subclaviforme, égal, plein à légèrement farci, blanc, souvent taché de brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -258,7 +257,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Sulfate de fer (FeSO<SUB>4</SUB>) = lames deviennent rosé à saumon ; stipe devient légèrement rosé
+    Sulfate de fer (FeSO<SUB>4</SUB>) = lames deviennent rosé à saumon; stipe devient légèrement rosé
   receptacle: 
   remarques: 
   repartition: 
@@ -269,9 +268,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi ; C-D d'après la charte de couleur de Kibby
+  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi; C-D d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 47-70 x 1-11 mm Ø, cylindrique à subclaviforme, égal, plein à légèrement farci, blanc, souvent taché de brunâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

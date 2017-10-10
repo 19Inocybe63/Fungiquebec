@@ -241,7 +241,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = lames légèrement rosées, orangées ; stipe légèrement rosé, orangé
+    Sulfate de fer (FeSO<sub>4</sub>) = lames légèrement rosées, orangées; stipe légèrement rosé, orangé
   receptacle: 
   remarques: 
   repartition: 

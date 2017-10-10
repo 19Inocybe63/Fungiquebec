@@ -82,7 +82,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, immuable, blanche
   chancre: 
-  chapeau: 47-86 mm Ø, blanc, crème, viscidule à glutineux lorsque mouillé, puis collant au sec, cuticule se pèle jusqu'au ½-⅔ du rayon ;
+  chapeau: 47-86 mm Ø, blanc, crème, viscidule à glutineux lorsque mouillé, puis collant au sec, cuticule se pèle jusqu'au ½-⅔ du rayon
   cheilocystides: nombreuses, 54-55 x 10-13 µm, sulfobenzaldéhyde positif (SBA+)
   cheilomacrocystides: 
   chlamydospores: 
@@ -217,7 +217,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 40-80 x 13-17 mm Ø, égal, plein, dont la base est atténuée, se tache légèrement de brun jaunâtre à maturité ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -268,9 +267,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée IIIa, crème pâle, d'après la charte de couleur de Romagnesi ; E d'après la charte de couleur de Kibby
+  sporee: ocrosporée IIIa, crème pâle, d'après la charte de couleur de Romagnesi; E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 40-80 x 13-17 mm Ø, égal, plein, dont la base est atténuée, se tache légèrement de brun jaunâtre à maturité ou au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

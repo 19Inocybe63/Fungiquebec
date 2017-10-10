@@ -1,6 +1,6 @@
 ---
 nom: Entoloma conferendum
-date: 2017-10-09 00:00:00
+date: 2017-10-10 00:00:00
 image: https://c1.staticflickr.com/5/4349/37195664396_a586895bb2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37195664396/in/photolist-YERv9y
 album-flickr:
@@ -252,7 +252,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 9, <i>les Entoloma</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 9, <i>les Entoloma</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2017.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

@@ -7,7 +7,7 @@ album-flickr:
   - 72157677592462810
 
 details:
-  nom-francais: 
+  nom-francais: Russule à spores orangées
   ordre: Russulales
   famille: Russulaceae
   genre: Russula

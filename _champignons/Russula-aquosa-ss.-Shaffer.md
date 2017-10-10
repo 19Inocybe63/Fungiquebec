@@ -58,7 +58,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
   ascome: 
   ascospores: 
   asques: 
@@ -101,7 +101,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « En Europe, <i>R. grisescens</i> est le taxon le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce. »
+  commentaires: |
+    De Yves Lamoureux. « En Europe, <i>R. grisescens</i> est le taxon le plus proche, mais il est loin d'être sûr qu'il s'agit bien de notre espèce. »
+    De Claude Kaufholtz-Couture. « Cette collection, cKc0244, poussait sur un chicot pourri. La cuticule de cette espèce est grasse, c'est d'ailleurs un caractère important. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -227,12 +229,11 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 28-67 x 6-14 mm Ø, cylindrique à subclaviforme, plein puis farci, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
   pileitrame: 
-  pileocystides: très nombreuses, de 2 types ; claviformes septées entre 6-8 µm de large, et l’autres plus étroites, le plus souvent capitulées à l’apex entre 3,8-6 µm de large, à contenu granuleux, sulfopipéronal positif (SP+)
+  pileocystides: très nombreuses, de 2 types; claviformes septées entre 6-8 µm de large, et l’autres plus étroites, le plus souvent capitulées à l’apex entre 3,8-6 µm de large, à contenu granuleux, sulfopipéronal positif (SP+)
   plasmode: 
   pleurocystides: 
   poils: cylindriques, septés
@@ -266,12 +267,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Soluté de Gaïac = &lt; 5" stipe +++ b (5, forte) ; &lt; 5" lames +++ b (5, forte)
-    Sulfate de fer (FeSO<SUB>4</SUB>) = Lames légèrement saumoné ; Stipe ± saumoné
+    Soluté de Gaïac = &lt; 5" stipe +++ b (5, forte); &lt; 5" lames +++ b (5, forte)
+    Sulfate de fer (FeSO<SUB>4</SUB>) = Lames légèrement saumoné; Stipe ± saumoné
   receptacle: 
-  remarques: |
-    Cette collection poussait sur un chicot pourri.
-    La cuticule de cette espèce est grasse, c'est d'ailleurs un caractère important.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -280,9 +279,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée à pallidosporée Ib-IIa, blanchâtre-crème, d'après la charte de couleur de Romagnesi, A-B d'après la charte de couleur de Kibby
+  sporee: leucosporée à pallidosporée Ib-IIa, blanchâtre-crème, d'après la charte de couleur de Romagnesi; A-B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 28-67 x 6-14 mm Ø, cylindrique à subclaviforme, plein puis farci, blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

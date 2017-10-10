@@ -206,7 +206,6 @@ description:
   peritheces: 
   phenologie: juillet
   phialoconidies: 
-  pied: 33 x 5 mm Ø, cylindrique à subégal, subclaviforme, blanc, sans teinte rosée
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -253,9 +252,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: xanthosporée, IVa-IVc, jaune pâle à jaune moyen, d'après la charte de couleur de Romagnesi ; F-G d'après la charte de couleur de Kibby
+  sporee: xanthosporée, IVa-IVc, jaune pâle à jaune moyen, d'après la charte de couleur de Romagnesi; F-G d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 33 x 5 mm Ø, cylindrique à subégal, subclaviforme, blanc, sans teinte rosée
   stipitipellis: 
   stipititrame: 
   stroma: 

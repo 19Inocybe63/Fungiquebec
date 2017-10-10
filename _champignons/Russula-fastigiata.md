@@ -68,7 +68,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
   ascome: 
   ascospores: 
   asques: 
@@ -83,7 +83,7 @@ description:
     (8,1) 8,2-9 (9,3) x (6,7) 7-8 (8,3) µm
     Q = (1,1) 1,11-1,2 (1,3); N = 30
     Me = 8,6 x 7,5 µm; Qe = 1,1
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -240,7 +240,6 @@ description:
   peritheces: 
   phenologie: juillet à août
   phialoconidies: 
-  pied: 31-34 x 7-17 mm Ø, blanc, plein lorsque jeune, farci à maturité, immuable à la coupe
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -280,8 +279,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Soluté de gaïac = &gt; 5" stipe ++ b (3, moyenne) ; &gt; 5" lames + b (1, faible)
-    Sulfate de fer (FeSO<SUB>4</SUB>) = absence de réaction sur le chapeau ; &gt; 4' très légèrement de rose-rouge, orangé sur le stipe
+    Soluté de gaïac = &gt; 5" stipe ++ b (3, moyenne); &gt; 5" lames + b (1, faible)
+    Sulfate de fer (FeSO<SUB>4</SUB>) = absence de réaction sur le chapeau; &gt; 4' très légèrement de rose-rouge, orangé sur le stipe
   receptacle: 
   remarques: Code de Kibby, A H K N R S
   repartition: 
@@ -292,9 +291,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: xanthosporée, IVa-IVc, jaune clair à jaune moyen, d'après la charte de couleur de Romagnesi ; F-G d'après la charte de couleur de Kibby
+  sporee: xanthosporée, IVa-IVc, jaune clair à jaune moyen, d'après la charte de couleur de Romagnesi; F-G d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 31-34 x 7-17 mm Ø, blanc, plein lorsque jeune, farci à maturité, immuable à la coupe
   stipitipellis: 
   stipititrame: 
   stroma: 

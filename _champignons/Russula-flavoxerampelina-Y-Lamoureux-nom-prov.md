@@ -1,6 +1,6 @@
 ---
 nom: Russula flavoxerampelina Y. Lamoureux nom. prov.
-date: 2017-03-27 00:00:00Corr
+date: 2017-03-27 00:00:00
 image: https://c1.staticflickr.com/1/312/19210870652_2bb2944cd4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19210870652/in/photolist-ENZRuc-vgAJxN-uZxrV7
 album-flickr:
@@ -219,12 +219,11 @@ description:
   peritheces: 
   phenologie: de juin à juillet
   phialoconidies: 
-  pied: 55-61 x 15-16 mm Ø, cylindrique claviforme, farci, se tache de brun rougeâtre au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: épicuticulaires, claviformes, fusiformes à largement fusiformes, cystidioïdes, septées, faiblement sulfoaldéhyde, 50 - 85 (90) × (5) 7 - 15 (16) µm ; piléocystides atypiques, cylindriques et septées, 10-30 x 2-4 µm en moyenne, 15-17 x 4-6 µm en moyenne
+  pileocystides: épicuticulaires, claviformes, fusiformes à largement fusiformes, cystidioïdes, septées, faiblement sulfoaldéhyde, 50 -85 (90) × (5) 7-15 (16) µm; piléocystides atypiques, cylindriques et septées, 10-30 x 2-4 µm en moyenne, 15-17 x 4-6 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, au contenu pailleté hyalin et réfringent dans le R.C.Sds  
@@ -247,7 +246,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey,; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
@@ -259,7 +258,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Sulfate de fer (FeSO<SUB>4</SUB>) = absence de coloration sur le chapeau ; verdâtre sur le stipe
+    Sulfate de fer (FeSO<SUB>4</SUB>) = absence de coloration sur le chapeau; verdâtre sur le stipe
   receptacle: 
   remarques: |
     Exhalaison prononcée de sardines une fois le spécimen déshydraté
@@ -271,9 +270,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporées à xanthosporées, IIIc-IVa, ocre foncé à jaune, ocre-orange, d'après la charte de couleur de Romagnesi ; F-H d’après la charte de couleur de Kibby
+  sporee: ocrosporées à xanthosporées, IIIc-IVa, ocre foncé à jaune, ocre-orange, d'après la charte de couleur de Romagnesi; F-H d’après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 55-61 x 15-16 mm Ø, cylindrique claviforme, farci, se tache de brun rougeâtre au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

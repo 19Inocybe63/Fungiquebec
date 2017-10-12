@@ -68,7 +68,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac</i> ; (soluté de gaïac), 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac</i>; (soluté de gaïac), 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
   ascome: 
   ascospores: 
   asques: 
@@ -113,7 +113,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Cette xérampéline varie peu en couleurs. As-tu remarqué que son odeur est faible pour une xérampéline, sauf dans la vétusté ? Concernant l’odeur, il y a des règles générales. L'odeur est plus forte dans les lames, et toujours avec l'âge, mais celle de la chair est parfois différente, surtout chez les <i>Cortinarius</i>, la pluie ou le froid (frigo, mois d'octobre) peuvent masquer une odeur ; l'odeur des xérampélines et des bolets s'accentuent au séchage. »
+  commentaires: De Yves Lamoureux. « Cette xérampéline varie peu en couleurs. As-tu remarqué que son odeur est faible pour une xérampéline, sauf dans la vétusté? Concernant l’odeur, il y a des règles générales. L'odeur est plus forte dans les lames, et toujours avec l'âge, mais celle de la chair est parfois différente, surtout chez les <i>Cortinarius</i>, la pluie ou le froid (frigo, mois d'octobre) peuvent masquer une odeur ; l'odeur des xérampélines et des bolets s'accentuent au séchage. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -241,7 +241,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 37-71 x 12-14 mm Ø, claviforme à subcylindrique, farcie, blanc avec des zones rougeâtres, l'intérieur se tachant de rougeâtre-brunâtre à la coupe ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -283,7 +282,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
     Ammoniaque (NH<sub>4</sub>OH 10%) = reflet jaunâtre très léger sur le stipe
-    Soluté de gaïac = &lt; 5" stipe +++ b (5, forte) ; &lt; 5" lames +++ b (5, forte)
+    Soluté de gaïac = &lt; 5" stipe +++ b (5, forte); &lt; 5" lames +++ b (5, forte)
     Sulfate de fer (FeSO<sub>4</sub>) = verdâtre à vert ± intense après 5 minutes sur le stipe
   receptacle: 
   remarques: |
@@ -300,6 +299,7 @@ description:
   sporee: ocrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi; D-E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 37-71 x 12-14 mm Ø, claviforme à subcylindrique, farcie, blanc avec des zones rougeâtres, l'intérieur se tachant de rougeâtre-brunâtre à la coupe ou au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

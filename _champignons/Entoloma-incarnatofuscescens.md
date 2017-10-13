@@ -81,7 +81,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Machiel Noordeloos. « This is a nice little Entoloma, which may come near <i>E. incarnatofuscescens</i> from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.</i>
+  commentaires: |
+    De Machiel Noordeloos. « This is a nice little Entoloma, which may come near <i>E. incarnatofuscescens</i> from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.</i>
+    De Claude Kaufholtz-Couture. «  Première mention, Collection Yves Lamoureux, 1905, Cercle des mycologues de Montréal (CMM). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -227,9 +229,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: |
-    Collection Yves Lamoureux, 1905, Cercle des mycologues de Montréal (CMM).
-    Espèce cueillie et étudiée pour la deuxième fois au Québec (<i>Entoloma cf. incarnatofuscescens</i>, 2012M_240)
+  premiere-mention: Espèce vue et étudiée pour la deuxième fois au Québec; <i>Entoloma cf. incarnatofuscescens</i>, 2012M_240
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

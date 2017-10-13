@@ -72,7 +72,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche, immuable
   chancre: 
-  chapeau: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon, avec couche supérieure de la cuticule finement rompue à la marge ; mauve violacé avec de petites plaques rosâtres vers le centre
+  chapeau: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon, avec couche supérieure de la cuticule finement rompue à la marge; mauve violacé avec de petites plaques rosâtres vers le centre
   cheilochrysocystides:
   cheilocystides: peu abondantes, cylindriques, parfois submucronées, avec nécropigments, 38-65 x 7-9 µm, réaction sulfovanilline négative (SV-)
   cheiloleptocystides: 
@@ -208,7 +208,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 58 x 22 mm Ø, cylindrique, caverneux, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,7 +235,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey,; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
@@ -248,7 +247,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = aucune coloration sur les lames ; légèrement verdâtre sur le stipe
+    Sulfate de fer (FeSO<sub>4</sub>) = aucune coloration sur les lames; légèrement verdâtre sur le stipe
   receptacle: 
   remarques: |
     Code de Kibby: D I K M(N) / P T
@@ -260,9 +259,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi ; C d'après la charte de couleur de Kibby
+  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi; C d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 58 x 22 mm Ø, cylindrique, caverneux, blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

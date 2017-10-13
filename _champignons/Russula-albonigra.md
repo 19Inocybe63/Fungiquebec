@@ -38,7 +38,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
     <b>Kibby, Geoffrey</b>. <i>Key to blackening species of Russula of section Compactae</i>, Field Mycology Volume 2(3), July 2001, pp. 95-97, 3 p.
   ascome: 
   ascospores: 
@@ -205,7 +205,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 19-29 x 7-11 mm Ø, subégal, dur, glabre, blanc, devenant grisâtre ou gris brunâtre au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -232,14 +231,14 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey,; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
     <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula</i>, établis en 1932.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Soluté de gaïac = &lt; 5" stipe ++ b (3, moyenne) ; &gt; 5" lames ++ b (3, moyenne)
+    Soluté de gaïac = &lt; 5" stipe ++ b (3, moyenne); &gt; 5" lames ++ b (3, moyenne)
   receptacle: 
   remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement, elle noircit.
   repartition: 
@@ -250,9 +249,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ia-Ib, blanche à blanchâtre, d'après la charte de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
+  sporee: leucosporée Ia-Ib, blanche à blanchâtre, d'après la charte de couleur de Romagnesi; A-B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 19-29 x 7-11 mm Ø, subégal, dur, glabre, blanc, devenant grisâtre ou gris brunâtre au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

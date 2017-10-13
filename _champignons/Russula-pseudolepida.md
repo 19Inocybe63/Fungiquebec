@@ -208,7 +208,6 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 35 x 17 mm Ø, cylindrique à claviforme, plein, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en trichoderme, formé d'hyphes dressées, avec terminaisons hyphales en forme de poils, sans hyphes incrustées
@@ -236,7 +235,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey,; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
@@ -258,9 +257,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi ; C d'après la charte de couleur de Kibby
+  sporee: pallidosporée, IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur de Romagnesi; C d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 35 x 17 mm Ø, cylindrique à claviforme, plein, blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -222,7 +222,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: Cette espèce fut étudiée (ADN) et confirmée par Michael Castellano ; une première pour le Québec.
+  premiere-mention: Espèce vue et étudiée pour la première fois au Québec; cette espèce fut étudiée (ADN) et confirmée par Michael Castellano
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

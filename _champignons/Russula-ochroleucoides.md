@@ -38,7 +38,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac</i> ; (<i>soluté de gaïac</i>), 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac</i>; (<i>soluté de gaïac</i>), 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
   ascome: 
   ascospores: 
   asques: 
@@ -53,7 +53,7 @@ description:
     (6,8) 7,2 - 8,3 (9,1) × (5,9) 6,3 - 7,8 (8) µm
     Q = (1) 1,1 - 1,17 (1,2) ; N = 30
     Me = 7,7 × 6,9 µm ; Qe = 1,1
-    (Piximètre, formule classique ; mesures issues d’une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d’une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -85,7 +85,7 @@ description:
   clavules: 
   columelle: 
   commentaires: De Claude Kaufholtz-Couture. « Kibby indique (dans <i>Keys to the species of Russula in Northeastern North America</i>) que les piléocystides sont faiblement sulfovanillines (SV+). Pour ma part, les hyménocystides et les dermatocystides sont sulfovanillines négatives (SV-) et sulfobenzaldéhydes négatifs (SBA-). »
-  conidies: 
+  conidies:  
   conidiome: 
   conidiophores: 
   consistance: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, cunéiformes, dont les sinus sont interveinés (voir remarque) ; blanches à crème, sans lamelles ni lamellules, avec quelques furcations à la base du pied
+  lames: adnées, serrées, cunéiformes, dont les sinus sont interveinés (voir remarque); blanches à crème, sans lamelles ni lamellules, avec quelques furcations à la base du pied
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -210,10 +210,9 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 60 x 21 mm Ø, égal, très ferme, plein, blanc avec des teintes jaunes
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches ; 1e) couche supérieure en tomentum formé d'éléments dressés, arrondis à subaigus à l'apex, certains flexueux, hyalins, et de piléocystides ; 2e) couche formé d’hyphes en cutis
+  pileipellis: en deux couches; 1e) couche supérieure en tomentum formé d'éléments dressés, arrondis à subaigus à l'apex, certains flexueux, hyalins, et de piléocystides; 2e) couche formé d’hyphes en cutis
   pileitrame: 
   pileocystides: peu nombreuses, cylindriques, claviformes à subclaviformes, ochracées, réfringentes dans le KOH 5%, sulfobenzaldéhyde négatif (SBA-), jusqu'à 100-130 x 7-8 µm en moyenne
   plasmode: 
@@ -238,7 +237,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    <b>Kibby, Geoffrey ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey.; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa</i>, Tomo Primo, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa</i>, Tomo Secondo, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
@@ -251,7 +250,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
-    Soluté de gaïac = &gt; 5" stipe + b (1, faible) ; &gt; 5" lames + b (1, faible)
+    Soluté de gaïac = &gt; 5" stipe + b (1, faible); &gt; 5" lames + b (1, faible)
     Sulfate de fer (FeSO<SUB>4</SUB>) = chair rosé très pâle
   receptacle: 
   remarques: |
@@ -264,9 +263,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ib à pallidosporée IIa, (en tas), blanchâtre à crème pâle, d'après la charte de couleurs de Romagnesi ; A-B (C) d'après la charte de couleurs de Kibby
+  sporee: leucosporée Ib à pallidosporée IIa, (en tas), blanchâtre à crème pâle, d'après la charte de couleurs de Romagnesi; A-B (C) d'après la charte de couleurs de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 60 x 21 mm Ø, égal, très ferme, plein, blanc avec des teintes jaunes
   stipitipellis: 
   stipititrame: 
   stroma: 

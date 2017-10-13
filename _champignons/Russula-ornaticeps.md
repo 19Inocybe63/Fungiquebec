@@ -48,7 +48,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac ; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Les différentes intensités causées par la réaction au soluté alcoolique officinal de résine de gaïac; (soluté de gaïac)</i>, 1er édition, Éditions Fungiquebec, Québec 2014, 4 p.
   ascome: 
   ascospores: 
   asques: 
@@ -221,7 +221,6 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 47–70 x 15–20 mm Ø, cylindrique à claviforme, subégal à abruptement atténué vers la base, parfois pruineux vers l'apex, irrégulièrement strié, ferme, plein, farci puis caverneux, blanchâtre, parfois légèrement lavé de bleu violet
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (à subixocutis)
@@ -249,7 +248,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey,; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
@@ -261,7 +260,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Soluté de gaïac = &gt; "5 stipe (0, absence) ; &gt; "5 lames (0, absence)
+    Soluté de gaïac = &gt; "5 stipe (0, absence); &gt; "5 lames (0, absence)
     Sulfate de fer (FeSO<SUB>4</SUB>) = saumon à légèrement rosé sur le stipe
   receptacle: 
   remarques: |
@@ -275,9 +274,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: IIb-IId pallidosporée, crème pâle à crème foncé, à ocrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; C-E d'après la charte de couleur de Kibby
+  sporee: IIb-IId pallidosporée, crème pâle à crème foncé, à ocrosporée IIIa-IIIc, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi; C-E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 47–70 x 15–20 mm Ø, cylindrique à claviforme, subégal à abruptement atténué vers la base, parfois pruineux vers l'apex, irrégulièrement strié, ferme, plein, farci puis caverneux, blanchâtre, parfois légèrement lavé de bleu violet
   stipitipellis: 
   stipititrame: 
   stroma: 

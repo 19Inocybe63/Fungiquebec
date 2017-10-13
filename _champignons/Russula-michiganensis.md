@@ -93,7 +93,7 @@ description:
   chair: ferme, même très dure, épaisse, cassante, blanche, rougeâtre-grisâtre et noircissant à la coupe
   chancre: 
   chapeau: 60-100 mm Ø, convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement
-  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, sulfoaldéhyde positif (SA+) ; 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
+  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, sulfoaldéhyde positif (SA+); 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -227,7 +227,6 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 30-40 x 20-25 mm Ø, court, robuste, plein, blanc qui se tache de noir au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis avec de nombreuses hyphes vacuolaires
@@ -254,7 +253,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey,; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
@@ -266,7 +265,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Sulfate de fer (FeSO<SUB>4</SUB>) = lames rosées ; pas de coloration sur le stipe
+    Sulfate de fer (FeSO<SUB>4</SUB>) = lames rosées; pas de coloration sur le stipe
   receptacle: 
   remarques: 
   repartition: 
@@ -277,9 +276,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ib, blanchâtre, d'après la charte de couleur de Romagnesi ; B d'après la charte de couleur de Kibby
+  sporee: leucosporée Ib, blanchâtre, d'après la charte de couleur de Romagnesi; B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 30-40 x 20-25 mm Ø, court, robuste, plein, blanc qui se tache de noir au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

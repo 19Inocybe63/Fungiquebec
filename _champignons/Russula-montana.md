@@ -72,7 +72,7 @@ description:
   cellules-stromatiques: 
   chair: fragile, blanche
   chancre: 
-  chapeau: 35-70 mm Ø, convexe-étalé, rouge foncé à rouge grisâtre ou brun rougeâtre, parfois avec des zones décolorées ; lisse, cuticule se pelant jusqu'au ⅔ du rayon, marge rarement striée
+  chapeau: 35-70 mm Ø, convexe-étalé, rouge foncé à rouge grisâtre ou brun rougeâtre, parfois avec des zones décolorées; lisse, cuticule se pelant jusqu'au ⅔ du rayon, marge rarement striée
   cheilochrysocystides:
   cheilocystides: mucronées, sulfobenzaldéhyde positif (SBA+)
   cheiloleptocystides: 
@@ -82,7 +82,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « <i>R. silvicola</i> vient surtout avec le chêne et le hêtre (pruche ?) ; pour être honnête, je n'ai jamais surveillé <i>montana</i> ; elle m'est peut-être passée sous le nez... plus d'une fois ! Il est possible que tous ici aient confondu <i>R. montana</i> et <i>R. aquosa</i> ss. Shaffer sans distinction. La difficulté est que ces espèces sont variables, et qu'on se tanne de les récolter encore et encore, et d'arriver toujours au même nom. C'est là que devient l'utilité du spécialiste. Après tout, il n'y a pas de raison que l'on ne trouve pas ici ces deux espèces de Shaffer... Certaines de nos grisescens sont probablement des <i>montana</i>. Cette semaine j'ai vu <i>R. aquosa</i> ss. Shaffer, son aspect graisseux ne trompe pas. »
+  commentaires: |
+    De Yves Lamoureux. « <i>R. silvicola</i> vient surtout avec le chêne et le hêtre (pruche ?); pour être honnête, je n'ai jamais surveillé <i>montana</i>; elle m'est peut-être passée sous le nez... plus d'une fois! Il est possible que tous ici aient confondu <i>R. montana</i> et <i>R. aquosa</i> ss. Shaffer sans distinction. La difficulté est que ces espèces sont variables, et qu'on se tanne de les récolter encore et encore, et d'arriver toujours au même nom. C'est là que devient l'utilité du spécialiste. Après tout, il n'y a pas de raison que l'on ne trouve pas ici ces deux espèces de Shaffer... Certaines de nos grisescens sont probablement des <i>montana</i>. Cette semaine j'ai vu <i>R. aquosa</i> ss. Shaffer, son aspect graisseux ne trompe pas. »
+    De Claude Kaufholtz-Couture. « Cette espèce est déterminée provisoirement. Il faudra la cueillir davantage pour mieux la connaitre, la décrire et la mesurer. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -208,7 +210,6 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 25-50 x 10-35 mm Ø, cylindrique, égal à claviforme, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -229,14 +230,14 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: Cette espèce est déterminée provisoirement. Il en faudra davantage pour mieux la connaitre, la décrire et la mesurer.
+  premiere-mention: Espèce vue et étudiée pour la première fois au Québec
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey,; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
@@ -258,9 +259,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée Ia à pallidosporée IIa, blanche à crème pâle, d'après la charte de couleur de Romagnesi ; A-B d'après la charte de couleur de Kibby
+  sporee: leucosporée Ia à pallidosporée IIa, blanche à crème pâle, d'après la charte de couleur de Romagnesi; A-B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 25-50 x 10-35 mm Ø, cylindrique, égal à claviforme, blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

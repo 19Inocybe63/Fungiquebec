@@ -175,7 +175,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, larges, avec lamelles et lamellules, crème jaune
+  lames: adnées, serrées, larges, avec lamelles et lamellules, crème jaunâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

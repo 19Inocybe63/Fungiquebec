@@ -72,7 +72,7 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune
   chancre: 
-  chapeau: 10-85 mm Ø, campanulé convexe à subétalé, parfois légèrement umboné, avec marge incurvée ; visqueux lorsque humide et à peine visqueux lorsque sec, lisse ou avec de fines méchules dispersées à subdressées ; jaunâtre-gris au centre, vert jaunâtre vers la marge, avec des flocons orange-brun concentriquement alignés, squamules plus ou moins triangulaires, qui contrastent avec le fond jaunâtre, avec la marge appendiculée de fines taches du voile, blanchâtre à jaune brun
+  chapeau: 10-85 mm Ø, campanulé convexe à subétalé, parfois légèrement umboné, avec marge incurvée; visqueux lorsque humide et à peine visqueux lorsque sec, lisse ou avec de fines méchules dispersées à subdressées; jaunâtre-gris au centre, vert jaunâtre vers la marge, avec des flocons orange-brun concentriquement alignés, squamules plus ou moins triangulaires, qui contrastent avec le fond jaunâtre, avec la marge appendiculée de fines taches du voile, blanchâtre à jaune brun
   cheilochrysocystides:
   cheilocystides: polymorphes, piriformes à largement clavées, lagéniformes, parfois cylindriques dont l’apex est courbé et légèrement diverticulé à déformé, rarement cylindriques à l’apex capité
   cheiloleptocystides: 
@@ -209,7 +209,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 10-80 x 2-6 mm Ø, cylindrique, parfois élargi vers l'apex et la base, avec zone annuliforme à environ 15-20 mm de l'apex, sec, blanchâtre à l'apex, jaunâtre à brun orange pâle vers la base, grossièrement fibrilleux au-dessus de la zone annuliforme, finement squamuleux, d'abord blanc, puis brun roux à cause des basidiospores
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -238,7 +237,7 @@ description:
   publications: |
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -259,6 +258,7 @@ description:
   sporee: brun à brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 10-80 x 2-6 mm Ø, cylindrique, parfois élargi vers l'apex et la base, avec zone annuliforme à environ 15-20 mm de l'apex, sec, blanchâtre à l'apex, jaunâtre à brun orange pâle vers la base, grossièrement fibrilleux au-dessus de la zone annuliforme, finement squamuleux, d'abord blanc, puis brun roux à cause des basidiospores
   stipitipellis: 
   stipititrame: 
   stroma: 

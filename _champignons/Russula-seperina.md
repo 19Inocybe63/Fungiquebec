@@ -208,7 +208,6 @@ description:
   peritheces: 
   phenologie: de juillet août
   phialoconidies: 
-  pied: 45 x 11 mm Ø, cylindrique claviforme, farci, rougit puis grisonne au grattage, la chair est gris cendre après dessiccation
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,7 +235,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey,; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
@@ -259,9 +258,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée à xantosporée, IIIc-IVa, ocre foncé à jaune pâle, d'après la charte de couleur de Romagnesi ; E-F- d'après la charte de couleur de Kibby
+  sporee: ocrosporée à xantosporée, IIIc-IVa, ocre foncé à jaune pâle, d'après la charte de couleur de Romagnesi; E-F- d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 45 x 11 mm Ø, cylindrique claviforme, farci, rougit puis grisonne au grattage, la chair est gris cendre après dessiccation
   stipitipellis: 
   stipititrame: 
   stroma: 

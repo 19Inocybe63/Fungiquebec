@@ -109,6 +109,7 @@ description:
   commentaires: |
     De Michael Castellano. « All <i>E. vernesii sp. nov.</i> known only from Canada. »
     De Kaufholtz-Couture. « Faire attention, car dans les nombreuses récoltes de <i>E. vernesii</i>, une autre espèce la côtoie et vit à proximité. »
+    De Claude Kaufholtz-Couture. « Ces collections ont été séquencées (ADN) par Michael Castellano; espèce connue qu'au Canada pour le moment. Les hyphes sont parfaitement visibles dans le Bleu crésyl alcoolique selon Clémençon. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -254,7 +255,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: de cette espèce au Québec
+  premiere-mention: Espèce vue et étudiée pour la première fois au Québec
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 
@@ -262,9 +263,7 @@ description:
   publications: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Il s'agit d'une nouvelle espèce ; <i>E. vernesii sp. nov.</i> Ces collections ont été séquencées (ADN) par Michael Castellano ; espèce connue qu'au Canada pour le moment.
-    Les hyphes sont parfaitement visibles dans le Bleu crésyl alcoolique selon Clémençon.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

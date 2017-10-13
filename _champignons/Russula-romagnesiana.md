@@ -38,7 +38,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Buyck, B. ; Adamčík, S.</b> <i>Type Studies in Russula Subsection Lactarioideae from North America and a Tentative Key to North American Species</i>, Cryptogamie Mycol, 2013, 34:259-279.
+    <b>Buyck, B.; Adamčík, S.</b> <i>Type Studies in Russula Subsection Lactarioideae from North America and a Tentative Key to North American Species</i>, Cryptogamie Mycol, 2013, 34:259-279.
     <b>Shaffer, Robert L</b>. <i>The Subsection Lactarioideae of Russula</i>, Mycologia, vol. 56, No. 2 (Mar.-Apr., 1964), pp. 202-231.
   ascome: 
   ascospores: 
@@ -54,7 +54,7 @@ description:
     (6,8) 7 - 7,8 (7,9) × (6,2) 6,4 - 7,1 (7,3) µm
     Q = 1 - 1,1 (1,2) ; N = 30
     Me = 7,4 × 6,8 µm ; Qe = 1,1
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -213,7 +213,6 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 40-50 x 20-30 mm Ø, cylindrique, égal, souvent court et trapu, ferme, lisse à subvelouté, blanc, avec zone vert cyan à l'apex, immuable
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -241,7 +240,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Beenken, Ludwig</b>. <i>Die Gattung Russula Untersuchungen zu ihrer Systematik anhand von Ektomykorrhizen</i>, Dissertation zur Erlangung des Grades eines Doktors der Naturwissenschaften der Fakultät Biologie der Ludwig-Maximilians-Universität München, 2004, 414 p.
-    <b>Kibby, Geoffrey, ; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
+    <b>Kibby, Geoffrey,; Fatto, Raymond</b>. <i>Keys to the species of Russula in Northeastern North America</i>, Kibby-Fatto Enterprises, 3rd edition, April 1990, 71 p.
     <b>Kibby, Geoffrey</b>. <i>The Genus Russula in Great Britain, with Synoptic keys to species</i>, Édition Geoffrey Kibby, 2011, 132 p.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Primo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 1998 (2007), 799 pp.
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa, Tomo Secondo</i>, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
@@ -265,9 +264,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: leucosporée à pallidosporée, Ib-IIa, blanchâtre à crème pâle, d'après la charte de couleur de Romagnesi ; B-C d'après la charte de couleur de Kibby
+  sporee: leucosporée à pallidosporée, Ib-IIa, blanchâtre à crème pâle, d'après la charte de couleur de Romagnesi; B-C d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 40-50 x 20-30 mm Ø, cylindrique, égal, souvent court et trapu, ferme, lisse à subvelouté, blanc, avec zone vert cyan à l'apex, immuable
   stipitipellis: 
   stipititrame: 
   stroma: 

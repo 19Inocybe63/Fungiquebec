@@ -244,7 +244,7 @@ description:
   reactions-macrochimiques: |
     Gaïacol = la chair du chapeau devient rose-rouge après plusieurs minutes
     Potasse (KOH 10%) = le chapeau devient jaune
-    Schaeffer = +; voir la photo démontrant la réaction en croix de Schaeffer
+    Schaeffer = +; voir la photo ci-dessous qui démontre la réaction en croix de Schaeffer
     Soluté de gaïac = pas de coloration ou de décoloration sur la chair
     Tl4 = +, le chapeau devient rose pâle
   receptacle: 

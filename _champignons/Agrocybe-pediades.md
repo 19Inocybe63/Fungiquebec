@@ -73,7 +73,7 @@ description:
   cellules-stromatiques: 
   chair: mince, blanchâtre à ivoire puis chamois pâle
   chancre: 
-  chapeau: 18-36 mm Ø, hémisphérique à convexe, avec rayon brun plus foncé à la marge, visqueux, avec le centre orangée ocre.
+  chapeau: 18-36 mm Ø, hémisphérique à convexe, avec rayon brun plus foncé à la marge, visqueux, avec le centre orangée ocre
   cheilochrysocystides:
   cheilocystides: abondantes, polymorphes, claviformes à largement claviformes (26) 30 - 40,4 (47,3) × (13,8) 14,1 - 20,8 (21,4) µm en moyenne, subglobuleuses, lécythiformes 25,9 - 32,9 × 10,4 - 14 µm en moyenne
   cheiloleptocystides: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, larges, subespacées, blanchâtres au début devenant crème beige à brun pâle à maturité.
+  lames: adnées à adnexées, larges, subespacées, blanchâtres au début devenant crème beige à brun pâle à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -294,7 +294,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, fin, fugace, ne laissant pas d'anneau ni de zone annuliforme sur le pied.
+  voile-partiel: fibrilleux, fin, fugace, ne laissant pas d'anneau ni de zone annuliforme sur le pied
   volve: 
   zone-perihymeniale: 
 ---

@@ -82,7 +82,7 @@ description:
   cellules-stromatiques: 
   chair: mince, immuable, hyaline à blanchâtre
   chancre: 
-  chapeau: 11 x 53 mm Ø, convexe à campanulé, puis étalé, mamelonné, non visqueux, non hygrophane, glabre, zoné de couleurs différentes du disque vers la marge, ocre foncé au centre et crème pâle vers la marge au frais, uniformément ocre foncé au sec ; à marge unie, droite à relevée avec l'âge, crème au début, devenant plus foncée à maturité, légèrement récurvée avec l’âge.
+  chapeau: 11 x 53 mm Ø, convexe à campanulé, puis étalé, mamelonné, non visqueux, non hygrophane, glabre, zoné de couleurs différentes du disque vers la marge, ocre foncé au centre et crème pâle vers la marge au frais, uniformément ocre foncé au sec ; à marge unie, droite à relevée avec l'âge, crème au début, devenant plus foncée à maturité, légèrement récurvée avec l’âge
   cheilocystides: 
   cheiloleptocystides: abondantes, polymorphes ; parfois en petites touffes, lagéniformes 41,3 [46,5; 60,9] 66,1 x 10,5 [13 ; 20] 22,6 µm en moyenne, parfois avec inclusions apicales ; suboblongues 45,6 [47,9; 58,9] 61,2 x 17,2 [18; 22,1] 22,9 µm en moyenne, utriformes 40,1 [42,4; 53,5] 55,8 x 19,3 [19,6; 21,4] 21,8 µm en moyenne
   cheilomacrocystides: 
@@ -91,7 +91,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Il faut préciser que les collections cKc0029 et cKc0114 se réfèrent surtout à Singer et non à celle de Heim, R.; Romagnesi, H. 1934. Notes systématiques sur quelques Agarics de la flore française. Première série. Bulletin de la Société Mycologique de France, 50:162-192. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -183,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées à libres, larges, minces, cunéiformes, serrées, avec lamelles et lamellules, dont l’arête est sérulée, ocre à ocre foncé presque concolore au chapeau, à arêtes plus foncées.
+  lames: adnexées à libres, larges, minces, cunéiformes, serrées, avec lamelles et lamellules, dont l’arête est sérulée, ocre à ocre foncé presque concolore au chapeau, à arêtes plus foncées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -250,7 +251,7 @@ description:
   reactions-macrochimiques: |
     Potasse (KOH 10%) = chapeau et lames grisonnant légèrement
   receptacle: 
-  remarques: Concernant la littérature, il faut préciser que les collections cKc0029 et cKc0114 se réfèrent surtout à Singer et non à celle de Heim, R.; Romagnesi, H. 1934. Notes systématiques sur quelques Agarics de la flore française. Première série. Bulletin de la Société Mycologique de France, 50:162-192. Je n'ai pas encore trouvé la notice de Singer.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -73,7 +73,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse, sous Picea
+  biotopes: pousse au sol, sur pelouse, sous <i>Picea</i>
   boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 

@@ -84,7 +84,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Avec la taille des spores que tu as obtenue, il devrait plutôt s'agir d'<i>Agaricus osecanus</i>, <i>A. arvensis</i> a des spores plus grandes en moyenne. »
+    De Yves Lamoureux. « Avec la taille des spores que tu as obtenue, il devrait plutôt s'agir d'<i>Agaricus osecanus</i>; <i>A. arvensis</i> a des spores plus grandes en moyenne. »
   conidies: 
   conidiome: 
   conidiophores: 

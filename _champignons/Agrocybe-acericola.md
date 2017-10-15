@@ -72,6 +72,7 @@ description:
     8,8 [9,7; 10,1] 11 x 5,2 [5,7; 5,9] 6,4 µm
     Q = 1,6 [1,7] 1,8; N = 30; C = 95%
     Me = 9,9 x 5,8 µm; Qe = 1,7
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -92,7 +93,7 @@ description:
   cellules-stromatiques: 
   chair: mince, blanche
   chancre: 
-  chapeau: 30-70 (100) mm Ø, obtus à convexe puis largement convexe à étalé, souvent légèrement umboné, sec à humide, lisse à souvent plissé au centre, hygrophane, brun foncé, jaune ocre, cannelle jaunâtre à jaune-brun foncé au début, puis beige brunâtre, tan jaunâtre à tan avec l'âge, chamois pâle au sec ; à marge unie, opaque, souvent appendiculée de restes vélaires.
+  chapeau: 30-70 (100) mm Ø, obtus à convexe puis largement convexe à étalé, souvent légèrement umboné, sec à humide, lisse à souvent plissé au centre, hygrophane, brun foncé, jaune ocre, cannelle jaunâtre à jaune-brun foncé au début, puis beige brunâtre, tan jaunâtre à tan avec l'âge, chamois pâle au sec ; à marge unie, opaque, souvent appendiculée de restes vélaires
   cheilocystides: semblables aux pleurocystides, mais plus petites 43,3 [46; 53,4] 56,1 x 17,6 [18,8; 22] 23,2 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -194,7 +195,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées et uncinées ou distantes du pied, serrées à très serrées, blanchâtres à chamois au début, puis brunes à brun-gris pâle.
+  lames: adnées et uncinées ou distantes du pied, serrées à très serrées, blanchâtres à chamois au début, puis brunes à brun-gris pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -227,7 +228,6 @@ description:
   peritheces: 
   phenologie: fin mai à septembre
   phialoconidies: 
-  pied: 50-100 (125) x 4-10 (20) mm Ø, subégal à légèrement élargi vers la base, fibreux, creux, strié-fibrilleux et pâle vers l'apex, blanchâtre à chamois pâle, puis grisâtre foncé, brun noirâtre pâle depuis la base, avec rhizomorphes basals blancs.
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme
@@ -274,6 +274,7 @@ description:
   sporee: brun à brun foncé, brun cannelle
   spherocytes: 
   sporocystes: 
+  stipe: 50-100 (125) x 4-10 (20) mm Ø, subégal à légèrement élargi vers la base, fibreux, creux, strié-fibrilleux et pâle vers l'apex, blanchâtre à chamois pâle, puis grisâtre foncé, brun noirâtre pâle depuis la base, avec rhizomorphes basals blancs
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -294,7 +295,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: membraneux, laissant un anneau supère sur le pied ; large, pendant, typiquement persistant, strié au-dessus, blanchâtre à crème avant sporulation, puis coloré de brun par les basidiospores.
+  voile-partiel: membraneux, laissant un anneau supère sur le pied ; large, pendant, typiquement persistant, strié au-dessus, blanchâtre à crème avant sporulation, puis coloré de brun par les basidiospores
   volve: 
   zone-perihymeniale: 
 ---

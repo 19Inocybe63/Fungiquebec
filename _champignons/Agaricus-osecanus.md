@@ -52,7 +52,7 @@ description:
     (6) 6,3-7,4 (7,9) × (4,2) 4,4-5,1 (5,4) µm
     Q = (1,3) 1,34-1,5 (1,6) ; N = 30
     Me = 6,8 × 4,7 µm ; Qe = 1,4
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -71,9 +71,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ferme, immuable, blanche, jusqu'à 25 mm d'épaisseur.
+  chair: ferme, immuable, blanche, jusqu'à 25 mm d'épaisseur
   chancre: 
-  chapeau: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, à marge appendiculée de restes vélaires.
+  chapeau: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, à marge appendiculée de restes vélaires
   cheilochrysocystides:
   cheilocystides: abondantes, peu émergentes, formées de cellules cylindriques à globuleuses, oblongues à piriformes, caténulées, (8,2) 10,5-15,1 (22,3) × (4,1) 5,5-8,1 (8,6) µm
   cheiloleptocystides: 
@@ -83,7 +83,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Avec la taille des spores que tu as obtenue, il devrait plutôt s'agir d'<i>Agaricus osecanus</i>, <i>A. arvensis</i> a des spores plus grandes en moyenne. »
+  commentaires: |
+    De Yves Lamoureux. « Avec la taille des spores que tu as obtenue, il devrait plutôt s'agir d'<i>Agaricus osecanus</i>, <i>A. arvensis</i> a des spores plus grandes en moyenne. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -134,7 +135,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: agréable ; d'amandes ou d'anis
+  exhalaison-des-lames: agréable, d'amandes ou d'anis
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -176,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: libres, larges, serrées à très serrées, blanches à grisâtres, brun grisâtre à brun rosâtre, à arêtes entières, pâles.
+  lames: libres, larges, serrées à très serrées, blanches à grisâtres, brun grisâtre à brun rosâtre, à arêtes entières, pâles
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -243,7 +244,7 @@ description:
   reactions-macrochimiques: |
     Gaïacol = la chair du chapeau devient rose-rouge après plusieurs minutes
     Potasse (KOH 10%) = le chapeau devient jaune
-    Schaeffer = + ; voir la photo démontrant la réaction en croix de Schaeffer
+    Schaeffer = +; voir la photo démontrant la réaction en croix de Schaeffer
     Soluté de gaïac = pas de coloration ou de décoloration sur la chair
     Tl4 = +, le chapeau devient rose pâle
   receptacle: 

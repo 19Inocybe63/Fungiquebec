@@ -82,6 +82,7 @@ description:
     7,3 [8; 8,3] 9 x 4,8 [5,1; 5,3] 5,6 µm
     Q = 1,5 [1,54; 1,6] 1,7; N = 27; C = 95%
     Me = 8,1 x 5,2 µm; Qe = 1,6
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -102,7 +103,7 @@ description:
   cellules-stromatiques: 
   chair: moyennement épaisse à épaisse en son centre, blanchâtre à crème
   chancre: 
-  chapeau: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plissé finement dans un petit rayon concentrique à la marge.
+  chapeau: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plissé finement dans un petit rayon concentrique à la marge
   cheilocystides: nombreuses, ventrues avec col absent ou avec col allongé 46-54 x 22-26 µm en moyenne, fusiformes-ventrues 55-70 x 23-24 µm en moyenne, claviformes, rares utriformes au sens de Romagnesi, à paroi mince, lisses, hyalines
   cheilomacrocystides: 
   chlamydospores: 
@@ -236,7 +237,6 @@ description:
   peritheces: 
   phenologie: de mai à juillet
   phialoconidies: 
-  pied: 14-68 x 3-12 mm Ø, légèrement aplati, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strié longitudinalement, crème à brun, brun pâle à la base, bulbe plein et plutôt blanchâtre à crème, avec mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme à ixohyménoderme
@@ -283,6 +283,7 @@ description:
   sporee: brun rouille à brun tabac
   spherocytes: 
   sporocystes: 
+  stipe: 14-68 x 3-12 mm Ø, légèrement aplati, plus large à l'apex, avec rétrécissement à la base, radicant et légèrement bulbeux, creux, blanchâtre à l'apex et brun pâle à la base, strié longitudinalement, crème à brun, brun pâle à la base, bulbe plein et plutôt blanchâtre à crème, avec mycélium basal
   stipitipellis: 
   stipititrame: 
   stroma: 

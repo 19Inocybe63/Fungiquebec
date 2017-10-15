@@ -20,7 +20,7 @@ collections:
     planche:
       numero: cKc0576-0172
       miniature: https://c1.staticflickr.com/5/4234/35548889765_b5fe7f7048_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/35548889765/in/photolist-Wakmqv-MJZ2Gr-MFYgwm/
+      originale: https://www.flickr.com/photos/kaufholtz/35548889765/in/photolist-Wakmqv-MFYgwm-MJZ2Gr
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture

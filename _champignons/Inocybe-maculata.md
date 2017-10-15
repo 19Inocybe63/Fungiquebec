@@ -29,8 +29,8 @@ collections:
     date: 18 août 2013
     planche:
       numero: cKc-étude-0176
-      miniature: https://c1.staticflickr.com/5/4294/35677076050_3fa5500bf4_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/dateposted/
+      miniature: https://c1.staticflickr.com/5/4294/35677076050_022cac7c08_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/photolist-WmEkJS
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: Claude Kaufholtz-Couture

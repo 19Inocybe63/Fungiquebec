@@ -16,7 +16,7 @@ details:
 
 collections:
   - fongarium: sans numéro
-    date: 1 octobre 2013
+    date: 11 octobre 2013
     planche:
       numero: 
       miniature: # Largeur 320px. ici

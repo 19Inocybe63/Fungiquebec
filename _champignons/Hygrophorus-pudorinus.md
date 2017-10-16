@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, ± épaisse, ± blanchâtre, rosâtre à saumon
   chancre: 
-  chapeau: 32-62 mm Ø, convexe à étalé, glabre, mamelonné, à marge enroulée et finement duveteuse au début, crème rosâtre à saumon, avec parfois des reflets verdâtres au centre
+  chapeau: 
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 

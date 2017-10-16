@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur sol, sous conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, cireuse, jaunâtre à jaune orangé
   chancre: 
-  chapeau: 
+  chapeau: 10-50 (60) mm Ø, conique à campanulé au début, puis convexe étalé et mamelloné à maturité, humide à viscidule, lisse au début, hygrophane, jaune orangé à orange vif plus au centre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -130,7 +130,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-des-lames: caoutchouc brûlé
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance:  solitaire, ou grégaire, en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -207,7 +207,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -244,15 +244,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fraîche au début, devenant astringente
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 40-100 (120) x 2-9 (10) mm Ø, cylindrique, égal à légèrement ventru, creux, lisse, effilé à la base, parfois flexueux, jaune orangé
   stipitipellis: 
   stipititrame: 
   stroma: 

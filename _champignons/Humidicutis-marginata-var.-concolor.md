@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: mince, cireuse, jaunâtre à jaune orangé
   chancre: 
-  chapeau: 10-50 (60) mm Ø, conique à campanulé au début, puis convexe étalé et mamelloné à maturité, humide à viscidule, lisse au début, hygrophane, jaune orangé à orange vif plus au centre
+  chapeau: 10-50 (60) mm Ø, conique à campanulé au début, puis convexe étalé et mamelonné à maturité, humide à viscidule, lisse au début, hygrophane, jaune orangé à orange vif plus au centre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 

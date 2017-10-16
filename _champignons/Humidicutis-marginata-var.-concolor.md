@@ -12,7 +12,7 @@ details:
   famille: Hygrophoraceae
   genre: Humidicutis
   espece: <i>Humidicutis marginata var. concolor</i> (A.H. Sm.) Malloch
-  litterature: Malloch, D. 2010. Fleshy fungi, Basidiomycota, of the Atlantic Maritime Ecozone. :107-151
+  litterature: 
 
 collections:
   - fongarium: sans numéro
@@ -21,7 +21,7 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: 
+    geolocalisation: 46°57'47.71"N 70°57'06.06"O
     elevation: 83 m
     determinee: 
     confirmee: Yves Lamoureux

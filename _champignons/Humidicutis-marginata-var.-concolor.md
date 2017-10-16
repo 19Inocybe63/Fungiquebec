@@ -7,7 +7,7 @@ album-flickr:
   - 72157687147969821
 
 details:
-  nom-francais: Hygrophore à lames marginées variété concolore
+  nom-francais: Hygrophore à lames marginées, variété concolore
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Humidicutis

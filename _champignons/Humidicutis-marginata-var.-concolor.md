@@ -79,7 +79,9 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Yves Lamoureux. « Note que les lames, en séchant, deviennent orange plus foncées à l'arête, c'est pour ça que Peck l'a nommé <i>H. marginatus</i>. »
+    De Yves Lamoureux. « Les <i>Humidicutis</i> ont tous les deux une petite odeur étrange, normalement forte chez <i>H. auratocephala</i>, normalement faible chez <i>H. marginata</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

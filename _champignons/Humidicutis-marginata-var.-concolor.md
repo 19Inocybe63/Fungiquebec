@@ -15,7 +15,7 @@ details:
   litterature: Malloch, D. 2010. Fleshy fungi (Basidiomycota) of the Atlantic Maritime Ecozone. :107-151
 
 collections:
-  - fongarium: sans numéro de fongarium
+  - fongarium: sans numéro
     date: 1 octobre 2013
     planche:
       numero: 

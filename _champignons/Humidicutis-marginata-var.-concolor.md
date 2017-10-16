@@ -15,16 +15,16 @@ details:
   litterature: Malloch, D. 2010. Fleshy fungi (Basidiomycota) of the Atlantic Maritime Ecozone. :107-151
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: sans numéro de fongarium
+    date: 1 octobre 2013
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°57'47.71"N 70°57'06.06"O
+    elevation: 83 m
     determinee: 
-    confirmee: 
+    confirmee: Yves Lamoureux
 
 description:
   acanthocytes: 

@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à émarginées, larges, ventrues, interveinées, espacées, jaune orangé, à arêtes entières, orangées persistant, devenant rouge orangé au sec
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

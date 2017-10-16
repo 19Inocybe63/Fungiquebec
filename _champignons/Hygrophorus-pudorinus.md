@@ -262,7 +262,10 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: 
+  synonymie: |
+    <i>Agaricus pudorinus</i> Fr., Systema Mycologicum 1:33 (1821)
+    <i>Limacium eburneum var. pudorinum</i> (Fr.) P. Kumm., Der Führer in die Pilzkunde:119 (1871)
+    <i>Limacium pudorinum</i> (Fr.) Wünsche, Die Pilze. Eine Anleitung zur Kenntniss derselben:117 (1877)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

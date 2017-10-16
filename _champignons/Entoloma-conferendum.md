@@ -268,7 +268,7 @@ description:
   sporee: saumon
   spherocytes: 
   sporocystes: 
-  stipe: 42-75 x 2-3 mm Ø, cylindrique, égal, torsadé, strié longitudinalement, blanchâtre à crème jaunâtre
+  stipe: 42-75 x 2-3 mm Ø, cylindrique, égal, torsadé, strié longitudinalement; dont la base est radicante et parfois spatulée; blanchâtre à crème jaunâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

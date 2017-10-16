@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à ± décurrentes, subespacées, étroites, molles, cireuses, avec lamelles et lamellules, crème à saumon
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

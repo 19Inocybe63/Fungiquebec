@@ -1,6 +1,6 @@
 ---
 nom: Entoloma conferendum
-date: 2017-10-10 00:00:00
+date: 2017-10-17 00:00:00
 image: https://c1.staticflickr.com/5/4349/37195664396_a586895bb2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37195664396/in/photolist-YERv9y
 album-flickr:

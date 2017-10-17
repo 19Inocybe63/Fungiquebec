@@ -203,6 +203,7 @@ description:
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
+  partie-apicale: parfois subdivisée en bois de cerf, parfois simple, couverte d’une poudre de blanche de conidies au début, finement papillée et noire à maturité
   peridiole: 
   peridiopellis: 
   peridium: 

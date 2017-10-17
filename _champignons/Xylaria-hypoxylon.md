@@ -252,10 +252,10 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: arrondi, avec côtes plates ou ovales, glabre à tomenteux, souvent blanchâtre à grisâtre vers l’apex, puis brun foncé à noir à la base
   stipitipellis: 
   stipititrame: 
-  stroma: 
+  stroma: (15) 20-80 (85) mm de hauteur x 2-6 (10) mm Ø, cylindrique à subcylindrique au début, élancé, claviforme, formant une partie apicale fertile parfois ramifiée et qui présente des divisions, souvent aplatie vers l’apex, parfois simple, avec une partie basale stipitée, tenace
   subhymenium: 
   subiculum: 
   substrat: 

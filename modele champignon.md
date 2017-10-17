@@ -205,6 +205,7 @@ description:
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
+  partie-apicale: 
   peridiole: 
   peridiopellis: 
   peridium: 

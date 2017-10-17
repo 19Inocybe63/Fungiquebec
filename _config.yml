@@ -645,6 +645,8 @@ champs-description:
     label: Sporocystes
   - name: stroma
     label: Stroma
+  - name: partie-apicale
+    label: Partie apicale
   - name: subhymenium
     label: Subhyménium
   - name: substrat

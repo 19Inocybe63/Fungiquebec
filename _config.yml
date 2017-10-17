@@ -206,12 +206,12 @@ champs-description:
     label: Rameaux
   - name: pied
     label: Pied
-  - name: stipe
-    label: Stipe
   - name: stroma
     label: Stroma
   - name: partie-apicale
     label: Partie apicale
+  - name: stipe
+    label: Stipe
   - name: voile-general
     label: Voile général
   - name: voile-partiel

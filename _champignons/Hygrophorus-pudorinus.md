@@ -19,8 +19,8 @@ collections:
     date: 20 septembre 2017
     planche:
       numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: 
+      originale: 
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture

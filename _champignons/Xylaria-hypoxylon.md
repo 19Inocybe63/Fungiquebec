@@ -1,6 +1,6 @@
 ---
 nom: Xylaria hypoxylon
-date: # Format: 2017-10-17 00:00:00
+date: 2017-10-17 00:00:00
 image: https://c1.staticflickr.com/3/2885/9190200515_17b8d39617_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9190200515/in/photolist-udaCbS-f17br2-e845zT/
 album-flickr:

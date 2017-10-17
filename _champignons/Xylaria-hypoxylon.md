@@ -79,7 +79,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Ces spécimens sont au stade anamorphe. »
   conidies: 
   conidiome: 
   conidiophores: 

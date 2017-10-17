@@ -12,7 +12,7 @@ details:
   famille: Xylariaceae
   genre: Xylaria
   espece: <i>Xylaria hypoxylon</i> (L.) Grev.
-  litterature: 
+  litterature: Greville, R.K. 1824. Flora Edinensis. :1-478
 
 collections:
   - fongarium: sans numéro
@@ -261,7 +261,10 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: 
+  synonymie: |
+    <i>Clavaria hypoxylon</i> L., Species Plantarum:1182 (1753)
+    <i>Sphaeria hypoxylon</i> (L.) Sowerby, Coloured Figures of English Fungi 1:t. 55 (1797)
+    <i>Xylosphaera hypoxylon</i> (L.) Dumort., Commentationes botanicae:91 (1822)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

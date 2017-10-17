@@ -1,5 +1,5 @@
 ---
-nom: Xylaria Hill ex Schrank
+nom: Xylaria hypoxylon
 date: # Format: 2017-10-17 00:00:00
 image: https://c1.staticflickr.com/3/2885/9190200515_17b8d39617_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9190200515/in/photolist-udaCbS-f17br2-e845zT/
@@ -7,23 +7,23 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: 
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
+  nom-francais: Xylaire du bois
+  ordre: Xylariales
+  famille: Xylariaceae
+  genre: Xylaria
+  espece: <i>Xylaria hypoxylon</i> (L.) Grev.
   litterature: 
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: sans numéro
+    date: 1 juillet 2013
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
+    geolocalisation: 46°57'47.71"N 70°57'06.06"O
+    elevation: 83 m
+    determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
 description:
@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: fibreuse, blanche
   chancre: 
   chapeau: 
   cheilochrysocystides:

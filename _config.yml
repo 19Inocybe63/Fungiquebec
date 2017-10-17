@@ -208,6 +208,10 @@ champs-description:
     label: Pied
   - name: stipe
     label: Stipe
+  - name: stroma
+    label: Stroma
+  - name: partie-apicale
+    label: Partie apicale
   - name: voile-general
     label: Voile général
   - name: voile-partiel
@@ -643,10 +647,6 @@ champs-description:
     label: Sphérocytes
   - name: sporocystes
     label: Sporocystes
-  - name: stroma
-    label: Stroma
-  - name: partie-apicale
-    label: Partie apicale
   - name: subhymenium
     label: Subhyménium
   - name: substrat

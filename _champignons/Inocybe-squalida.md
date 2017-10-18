@@ -12,6 +12,7 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe squalida</i> C. Kaufholtz-Couture nom. prov.
+  litterature: <i>Inocybe squalida</i> C. Kaufholtz-Couture nom. prov. (article en préparation)
 
 collections:
   - fongarium: cKc0556

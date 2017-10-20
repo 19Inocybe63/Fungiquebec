@@ -241,7 +241,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <B>Richard E. Sieger</b>. <i>Trial Key to Pacific Northwest Lepiota and Allies</i>; Prepared for the Pacific Northwest Key Council, Puget Sound Mycological Society; Copyright © October 25, 2002, 2003; Minor revision Mar 2003.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

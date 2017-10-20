@@ -78,7 +78,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: toxique
   commentaires: 
   conidies: 
   conidiome: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, grégaire en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,7 +208,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d’août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -253,7 +253,7 @@ description:
   sporee: en amoncèlement, pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi; C-D d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
-  stipe: 30-68 x 2-8 mm Ø, cylindrique, égal, creux, fibrilleux à contonneux, blanchâtre à l'apex, méchuleux à cotonneux du milieu vers la base, brun à brun rosâtre
+  stipe: 30-68 x 2-8 mm Ø, cylindrique, égal, creux, fibrilleux cotonneux, blanchâtre vers l'apex, avec des zones cotonneuses du milieu vers la base, brun à brun rosâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

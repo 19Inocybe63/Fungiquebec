@@ -46,19 +46,24 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes, tétrasporiques, stérigmates de 3,0-4,1 µm de longueur,  non bouclées à la base, à paroi mince, 22,4 - 24,9 (25,6) × (7,6) 7,9 - 8,3 µm en moyenne
+  basidiospores: |
+    ovoïdales, elliptiques à ± largement elliptiques en vue frontale, largement elliptiques à elliptiques allongées, parfois subamygdaliformes, lisses, à paroi mince de 0,15-0,25 µm d’épaisseur, avec appendice hilaire proéminent, sans pore germinatif, à contenu guttulé à variable, hyalines dans le NaCl isotonique 0,9%, dextrinoïdes dans le melzer, cyanophiles à faiblement cyanophiles, orthochromatique
+    (6,4) 6,6 - 7,7 (8,2) × (3,6) 3,9 - 4,2 (4,4) µm
+    Q = (1,5) 1,6 - 2 (2,1) ; N = 30
+    Me = 7,2 × 4,1 µm ; Qe = 1,8
+    (Piximètre, formule classique; mesures issues d'une sporée, dans NaCl isotonique 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sous conifères
-  boucles: 
+  boucles: non observées (absentes ?)
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: absentes
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -71,7 +76,7 @@ description:
   chancre: 
   chapeau: 17-78 mm Ø, légèrement conique au début, à convexe-mamelonné à étalé, puis déprimé, sec, fibreux, brun foncé à brun marron au disque, sur fond blanc, avec des zones d’écailles fibreuses à floconneuses ± concentriques concolores au disque, devenant plus pâles vers la marge, appendiculée de restes vélaires micacés
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, claviformes à ± largement claviformes, à paroi mince, (15,2) 18,4 - 31,1 (35,4) × (6,1) 7,7 - 9,1 (10,2) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -213,12 +218,12 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: de type trichoderme, composé d'hyphes allongées avec pigmentations intracellulaires, souvent avec des amoncèlements d'hyphes formant des sommets pointus
   pileitrame: 
-  pileocystides: 
+  pileocystides: absentes
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -269,7 +274,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: régulière
   trame-tubulaire: 
   tubes: 
   type: 

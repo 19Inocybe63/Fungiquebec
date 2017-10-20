@@ -262,7 +262,8 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: 
+  synonymie: |
+    <i>Agaricus fuscosquameus</i> Peck, Bulletin of the Buffalo Society of Natural Sciences 1:41 (1873)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

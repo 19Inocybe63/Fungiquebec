@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: 
+  nom-francais: Lépiote à squames foncées
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lepiota
@@ -15,16 +15,16 @@ details:
   litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0695
+    date: 20 septembre 2017
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0695-0186
+      miniature: 
+      originale: 
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, blanche, immuable
   chancre: 
-  chapeau: 
+  chapeau: 17-78 mm Ø, légèrement conique au début, à convexe-mamelonné à étalé, puis déprimé, sec, fibreux, brun foncé à brun marron au disque, sur fond blanc, avec des zones d’écailles fibreuses à floconneuses ± concentriques concolores au disque, devenant plus pâles vers la marge, appendiculée de restes vélaires micacés
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -129,8 +129,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-de-la-chair: indistincte à fongique
+  exhalaison-des-lames: indistincte à fongique
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: libres, serrées, larges, avec lamelles et lamellules, à arêtes finement érodées, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -245,15 +245,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: en amoncèlement, pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi; C-D d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 30-68 x 2-8 mm Ø, cylindrique, égal, creux, fibrilleux à contonneux, blanchâtre à l'apex, méchuleux à cotonneux du milieu vers la base, brun à brun rosâtre
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -277,7 +277,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: cortiniforme et fugace, laissant un petit anneau infère sur le pied
   volve: 
   zone-perihymeniale: 
 ---

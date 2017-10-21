@@ -19,8 +19,8 @@ collections:
     date: 20 septembre 2017
     planche:
       numero: cKc0695-0186
-      miniature: 
-      originale: 
+      miniature: https://c1.staticflickr.com/5/4472/23984435568_a4c0882424_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/23984435568/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 

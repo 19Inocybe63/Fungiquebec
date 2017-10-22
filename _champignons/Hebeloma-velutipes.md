@@ -12,7 +12,7 @@ details:
   famille: Hymenogastraceae
   genre: Hebeloma
   espece: <i>Hebeloma velutipes</i> Bruchet
-  litterature: 
+  litterature: Bruchet, G. 1970. Contribution à l'étude du genre Hebeloma. Bulletin Mensuel de la Société Linnéenne de Lyon. 39:1-132
 
 collections:
   - fongarium: 
@@ -236,8 +236,15 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
-  publications-microscopiques: 
+  publications: |
+    <b>Beker, H. J. ; Eberhardt, U. ; Vesterholt, J</b>. <i>Hebeloma (Fr.) P. Kumm.</i> Fungi Europaei vol. 14, Ed. Candusso Edizioni, 2016.
+    <b>Smith, Alexander H. ; Evenson, Vera Stuck ; Mitchel, Duane H</b>. <i>The Veiled Species of Hebeloma in the Western United States</i>, Ann Arbor the University of Michigan Press, 1983, 228 p.
+    <b>Vesterholt, Jan</b>. <i>The genus Hebeloma</i>, Fungi of Northern Europe, vol. 3, Danish Mycological Society, 2005, p. 76 p.
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
@@ -262,7 +269,12 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: 
+  synonymie: |
+    <i>Hebelomatis velutipes</i> (Bruchet) Locq., Flore mycologique 3:146 (1979)
+    <i>Hebeloma angustifolium</i> Romagn., Sydowia 36:258 (1983)
+    <i>Hebeloma bulbosum</i> Romagn., Sydowia 36:263 (1983)
+    <i>Hebeloma tenuifolium</i> Romagn., Documents Mycologiques:53 (1985)
+    <i>Hebeloma favrei</i> Romagn. & Quadr., Documents Mycologiques 14 (56):31 (1985)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

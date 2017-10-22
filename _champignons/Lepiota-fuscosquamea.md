@@ -48,7 +48,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, stérigmates de 3,0-4,1 µm de longueur,  non bouclées à la base, à paroi mince, 22,4 - 24,9 (25,6) × (7,6) 7,9 - 8,3 µm en moyenne
   basidiospores: |
-    ovoïdales, elliptiques à ± largement elliptiques en vue frontale, largement elliptiques à elliptiques allongées, parfois subamygdaliformes, lisses, à paroi mince de 0,15-0,25 µm d’épaisseur, avec appendice hilaire proéminent, sans pore germinatif, à contenu guttulé à variable, hyalines dans le NaCl isotonique 0,9%, dextrinoïdes dans le melzer, cyanophiles à faiblement cyanophiles, orthochromatique
+    ovoïdales, elliptiques à ± largement elliptiques en vue frontale, largement elliptiques à elliptiques allongées, parfois subamygdaliformes vues de profil, lisses, à paroi mince de 0,15-0,25 µm d’épaisseur, avec appendice hilaire proéminent, sans pore germinatif, à contenu guttulé à variable, hyalines dans le NaCl isotonique 0,9%, dextrinoïdes dans le melzer, cyanophiles à faiblement cyanophiles, orthochromatique
     (6,4) 6,6 - 7,7 (8,2) × (3,6) 3,9 - 4,2 (4,4) µm
     Q = (1,5) 1,6 - 2 (2,1) ; N = 30
     Me = 7,2 × 4,1 µm ; Qe = 1,8

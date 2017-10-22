@@ -262,7 +262,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun cannelle à brun ochracé
+  sporee: brun jaune rouille à brun foncé olivâtre
   spherocytes: 
   sporocystes: 
   stipe: cylindrique, bulbeux, avec de petites fibrilles sur le long, plus pâle à l'apex, brun cerf à la base, plein, 37-43 x 5-6 mm Ø

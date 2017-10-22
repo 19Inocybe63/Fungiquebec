@@ -49,10 +49,10 @@ description:
   basides: cylindriques-claviformes, parfois utriformes, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations carminophiles ?) 24,7 [26 ; 28,5] 29,7 × 6,7 [7,4 ; 8,8] 9,5 µm en moyenne
   basidiospores: |
     citriformes, fusiformes vue de front à ellipsoïdes, amigdaliformes vue de profil, parfois à sommet papillé, presque lisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à pluriguttulé (variable), hyalines dans E.G. 20 %, fortement dextrinoïdes (D4), non cyanophiles
-(8,6) 10 - 11,8 (12) × (5,5) 5,6 - 6,6 (6,7) µm
-Q = (1,6) 1,7 - 1,9 (2) ; N = 30
-Me = 10,9 × 6,1 µm ; Qe = 1,8
-(Piximètre, formule classique; mesures issues d'une sporée, dans Eau glycérinée 20%)
+    (8,6) 10 - 11,8 (12) × (5,5) 5,6 - 6,6 (6,7) µm
+    Q = (1,6) 1,7 - 1,9 (2) ; N = 30
+    Me = 10,9 × 6,1 µm ; Qe = 1,8
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

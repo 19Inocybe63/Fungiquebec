@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: 
+  nom-francais: Hébélome à pied duveteux
   ordre: Agaricales
   famille: Hymenogastraceae
   genre: Hebeloma

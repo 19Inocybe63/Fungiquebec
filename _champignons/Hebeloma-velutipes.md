@@ -15,12 +15,12 @@ details:
   litterature: Bruchet, G. 1970. Contribution à l'étude du genre Hebeloma. Bulletin Mensuel de la Société Linnéenne de Lyon. 39:1-132
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0575
+    date: 29 septembre 2016
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0575-0139
+      miniature: https://c2.staticflickr.com/6/5467/30417777636_c18d72b6b7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/30417777636/in/photolist-NkV4y1-MBDQJa-MyZd8o/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Henry Beker (provisoire)
@@ -46,19 +46,24 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: cylindriques-claviformes, parfois utriformes, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations carminophiles ?) 24,7 [26 ; 28,5] 29,7 × 6,7 [7,4 ; 8,8] 9,5 µm en moyenne
+  basidiospores: |
+    citriformes, fusiformes vue de front à ellipsoïdes, amigdaliformes vue de profil, parfois à sommet papillé, presque lisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à pluriguttulé (variable), hyalines dans E.G. 20 %, fortement dextrinoïdes (D4), non cyanophiles
+(8,6) 10 - 11,8 (12) × (5,5) 5,6 - 6,6 (6,7) µm
+Q = (1,6) 1,7 - 1,9 (2) ; N = 30
+Me = 10,9 × 6,1 µm ; Qe = 1,8
+(Piximètre, formule classique; mesures issues d'une sporée, dans Eau glycérinée 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sableux, sous feuillus et conifères
-  boucles: 
+  boucles: observées dans le stipitipellis et dans le médiostrate
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: nombreuses, présentent sur toute la longueur, semblables aux cheilocystides, cylindriques-claviformes à longuement cylindriques-claviformes, lagéniformes, 19,5 [62,8 ; 100,1] 143,4 × 3,4 [6,5 ; 9,2] 12,3 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -71,7 +76,7 @@ description:
   chancre: 
   chapeau: conique au début, convexe puis étalé à maturité, glabre, crème à brun pâle, brun tan, 22-44 mm Ø
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, polymorphes, cylindriques à claviformes, longuement claviformes, parfois avec apex subcapité, utriformes, parfois flexueuses, parfois tortueuses, à paroi mince, bouclées, 24,5 [48,9 ; 71,5] 95,9 × 6,3 [7,8 ; 9,2] 10,7 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -213,12 +218,12 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixocutis de 100-160 µm en moyenne d'épaisseur en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -248,7 +253,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Collection (cKc0575) étudiée sur matériel déshydraté
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -280,7 +285,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: parallèle
   trame-tubulaire: 
   tubes: 
   type: 

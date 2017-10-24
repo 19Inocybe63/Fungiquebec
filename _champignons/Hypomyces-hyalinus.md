@@ -80,7 +80,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Parasite sur basidiomes de divers amanites, le plus souvent <i>Amanita rubescens</i> Tulloss nom. prov. »
+    De Claude Kaufholtz-Couture. « Parasite sur basidiomes de divers amanites, le plus souvent <i>Amanita rubescens</i>; mais aussi documenté sur <i>Amanita frostiana</i>, <i>Amanita flavorubescens</i> et <i>Amanita muscaria</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

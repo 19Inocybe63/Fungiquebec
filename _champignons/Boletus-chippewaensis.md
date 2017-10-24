@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: parfois améthyste sous la cuticule, immuable à la coupe
   chancre: 
-  chapeau: 50-180 (200) mm Ø, convexe à largement convexe puis subétalé, viscidule à l'humidité puis sec, glabre, lisse, beige, brun jaunâtre, brun orangé, brun ocre, brun rougeâtre ou jaune taché de rouille vers le centre ou par endroits, à marge unie
+  chapeau: 60-150 (180) mm Ø, convexe à largement convexe, large, devenant subétalé, marge unie; surface lisse, sèche, légèrement visqueuse quand elle est mouillée, jaune citron pâle de façon irrégulière à brique au rouge, rouille clair, enfin rouge brique
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 

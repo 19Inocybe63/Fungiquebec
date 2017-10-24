@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères et feuillus; <i>Abies</i>, <i>Larix</i>, <i>Picea</i>, <i>Tsuga canadensis</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: parfois améthyste sous la cuticule, immuable à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 50-180 (200) mm Ø, convexe à largement convexe puis subétalé, viscidule à l'humidité puis sec, glabre, lisse, beige, brun jaunâtre, brun orangé, brun ocre, brun rougeâtre ou jaune taché de rouille vers le centre ou par endroits, à marge unie
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -78,7 +78,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: OUI; excellent
   commentaires: 
   conidies: 
   conidiome: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: douce, agréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance:  solitaire, dispersé en petit nombre
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,7 +208,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -245,12 +245,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce, d'amande
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun olive
   spherocytes: 
   sporocystes: 
   stipe: 
@@ -276,7 +276,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

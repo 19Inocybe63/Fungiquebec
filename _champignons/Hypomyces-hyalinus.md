@@ -80,7 +80,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Parasite sur basidiomes de divers amanites, le plus souvent <i>Amanita rubescens</i>; mais aussi documenté sur <i>Amanita frostiana</i>, <i>Amanita flavorubescens</i> et <i>Amanita muscaria</i>. »
+    De Michael Kuo. « Parasite sur basidiomes de divers amanites, le plus souvent <i>Amanita rubescens</i>; mais aussi documenté sur <i>Amanita frostiana</i>, <i>Amanita flavorubescens</i> et <i>Amanita muscaria</i>. (Kuo, M. (2003, October). <i>Hypomyces hyalinus</i>. Retrieved from the MushroomExpert.Com Web site: http://www.mushroomexpert.com/hypomyces_hyalinus.html) »
   conidies: 
   conidiome: 
   conidiophores: 

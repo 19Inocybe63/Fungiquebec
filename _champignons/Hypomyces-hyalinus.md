@@ -259,7 +259,7 @@ description:
   stipititrame: 
   stroma: 
   subhymenium: 
-  subiculum: 
+  subiculum: se présente comme une couverture dense et lisse, ferme et ± épaisse, qui attaque rapidement l'hôte en le déformant, blanchâtre à rosâtre au début, puis rugueuse par les ostioles, puis brunâtre terne à maturité
   substrat: 
   symptomes: 
   syndrome: 

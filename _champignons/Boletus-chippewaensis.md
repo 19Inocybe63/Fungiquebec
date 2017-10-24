@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: parfois améthyste sous la cuticule, immuable à la coupe
+  chair: blanche, immuable à la coupe
   chancre: 
   chapeau: 60-150 (180) mm Ø, convexe à largement convexe, large, devenant subétalé, marge unie; surface lisse, sèche, légèrement visqueuse quand elle est mouillée, jaune citron pâle de façon irrégulière à brique au rouge, rouille clair, enfin rouge brique
   cheilochrysocystides:
@@ -134,7 +134,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanche au début, devenant jaune citron, crème, enfin brun olive, ternissant à cannelle rosée, ou parfois olive grisâtre lorsqu'elle est meurtrie; pore circulaire, 2-3 par mm Ø; 10-20 mm de profondeur
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 

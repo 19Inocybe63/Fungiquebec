@@ -8,9 +8,9 @@ album-flickr:
 
 details:
   nom-francais: Dermatose des amanites
-  ordre: 
-  famille: 
-  genre: 
+  ordre: Hypocreales
+  famille: Hypocreaceae
+  genre: Hypomyces
   espece: <i>Hypomyces hyalinus</i> (Schwein.) Tul. & C. Tul.
   litterature: Tulasne, L.-R.; Tulasne, C. 1860. De quelques Sphéries fongicoles, à propos d'un mémoire de M. Antoine de Bary sur les Nyctalis. Annales des Sciences Naturelles Botanique. 13:5-19
 

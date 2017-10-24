@@ -79,7 +79,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: OUI; excellent
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Peut parfois être confondu avec <i>Tylopilus fellus</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

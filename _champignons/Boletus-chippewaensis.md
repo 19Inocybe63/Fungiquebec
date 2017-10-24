@@ -134,7 +134,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: blanche au début, devenant jaune citron, crème, enfin brun olive, ternissant à cannelle rosée, ou parfois olive grisâtre lorsqu'elle est meurtrie; pore circulaire, 2-3 par mm Ø; 10-20 mm de profondeur
+  face-poroïde: blanche au début, devenant jaune citron, crème, enfin brun olive ternissant à cannelle rosée, ou parfois olive grisâtre lorsqu'elle est meurtrie; pore circulaire, 2-3 par mm Ø, 10-20 mm de profondeur
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 
@@ -253,7 +253,7 @@ description:
   sporee: brun olive
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 50-150 x 25-35 mm Ø, cylindrique à claviforme, épais, égal ou élargi vers la base, parfois bulbeux, brun rosé à brun cannelle sous un réticulum blanc sur le tiers supérieur (apex), base blanchâtre, solide
   stipitipellis: 
   stipititrame: 
   stroma: 

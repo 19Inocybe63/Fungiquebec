@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: 
+  nom-francais: Dermatose des amanites
   ordre: 
   famille: 
   genre: 
@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères et feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -80,7 +80,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Parasite sur basidiomes de divers amanites, le plus souvent <i>Amanita amerirubescens</i> Tulloss nom. prov. »
+    De Claude Kaufholtz-Couture. « Parasite sur basidiomes de divers amanites, le plus souvent <i>Amanita rubescens</i> Tulloss nom. prov. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -112,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -209,7 +209,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 

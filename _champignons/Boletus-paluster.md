@@ -239,7 +239,8 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Ammoniaque (NH<sub>4</sub>OH 10%) = violet foncé, puis se décolore jaune sur le chapeau
   receptacle:
   remarques: 
   repartition: 
@@ -253,7 +254,7 @@ description:
   sporee: brun pourpre à brun rosé
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 20-50 x 3-7 mm Ø, cylindrique à ± égal, épais, sec, ferme, finement pruineux à fibrilleux, réticulé à poroïde, jaune à l'apex, violet rosâtre pâle à violet rougeâtre sous l'apex, avec un mycélium basal jaune, voile partiel violet rougeâtre, fibrillaire, laissant très rarement un anneau
   stipitipellis: 
   stipititrame: 
   stroma: 

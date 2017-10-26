@@ -80,7 +80,7 @@ description:
   columelle: 
   comestibilite: Oui
   commentaires: |
-    De Claude Kaufholtz-Couture. « Magnifique découverte; très attrayant par sa couleur vive sur fond vert. Nous avons dénombré plus de 300 spécimens à cet endroit. »
+    De Claude Kaufholtz-Couture. « Magnifique découverte; carpophore attrayant par sa couleur vive. Nous avons dénombré plus de 300 spécimens à cet endroit. »
   conidies: 
   conidiome: 
   conidiophores: 

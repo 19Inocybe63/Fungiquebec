@@ -79,8 +79,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Il est peu probable que l'identification soit bonne ici, car la sporée devrait être blanc pur (A).
- »
+    De Claude Kaufholtz-Couture. « Il est peu probable que l'identification soit bonne ici, car la sporée devrait être blanc pur (A). »
   conidies: 
   conidiome: 
   conidiophores: 

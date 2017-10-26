@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire, souvent en troupes nombreuses
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,7 +208,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -230,7 +230,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: grands, anguleux et disposés radialement au début, devenant lamellaires à maturité, fortement décurrents;
+  pores: 
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -276,7 +276,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: 1,5-3 mm de profondeur
+  tubes: 1,5-3 mm de profondeur; grands, anguleux et disposés radialement au début, devenant lamellaires à maturité, fortement décurrents
   type: 
   typique: 
   velipellis: 

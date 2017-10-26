@@ -78,8 +78,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
-  commentaires: 
+  comestibilite: Oui
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Magnifique découverte; très attrayant par sa couleur vive sur fond vert. Nous avons dénombré plus de 300 spécimens à cet endroit. Nous aurions pensé facilement à des coquelicots! »
   conidies: 
   conidiome: 
   conidiophores: 

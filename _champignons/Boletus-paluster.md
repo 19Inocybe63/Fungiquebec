@@ -128,13 +128,13 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: jaune pâle au début, devenant jaune or et finalement jaune brunâtre, ne bleuissant pas lorsqu'elle est meurtrie
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 
@@ -230,7 +230,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: grands, anguleux et disposés radialement au début, devenant lamellaires à maturité, fortement décurrents;
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -240,17 +240,17 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
-  receptacle: 
+  receptacle:
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à légèrement acide
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun pourpre à brun rosé
   spherocytes: 
   sporocystes: 
   stipe: 
@@ -275,7 +275,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: 
+  tubes: 1,5-3 mm de profondeur
   type: 
   typique: 
   velipellis: 

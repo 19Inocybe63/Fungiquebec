@@ -134,7 +134,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: jaune pâle à jaune olive, immuable lorsqu'il est coupé ou meurtri; pores anguleux, parfois rayonnants du stipe, de 0,5 à 1,5 mm ou plus larges
+  face-poroïde: jaune pâle à jaune olive, immuable lorsque coupé ou meurtri; pores anguleux, parfois rayonnants du stipe, de 0,5 à 1,5 mm ou plus larges
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 

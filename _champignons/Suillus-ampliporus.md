@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: jaune, épaisse, ferme, immuable à la coupe ou au froissement
+  chair: blanchâtre ou jaunâtre, épaisse, ferme, immuable à la coupe ou au froissement
   chancre: 
   chapeau: 41-137 mm Ø, arrondi à convexe à étalé, à marge appendiculée de restes vélaires, ondulée; parfois avec un umbo, sec, fibrilleux, orné de petites méchules, brun rougeâtre à brun orangé
   cheilochrysocystides:

@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: immuable à la coupe
+  chair: épaisse, ferme, immuable à la coupe, jaune
   chancre: 
-  chapeau: 28-155 mm Ø, convexe à étalé, à la marge ondulée; fibrilleux, orné de petites méchules, jaune clair au début devenant jaune orangé à maturité
+  chapeau: 28-155 mm Ø, arrondi à convexe à étalé, à marge appendiculée de restes vélaires, ondulée; parfois avec un umbo, sec, fibrilleux, orné de petites méchules, jaune clair au début devenant jaune orangé à maturité
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -281,7 +281,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: blanc
+  voile-partiel: blanc à blanchâtre
   volve: 
   zone-perihymeniale: 
 ---

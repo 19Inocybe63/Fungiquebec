@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous conifères (<i>Larix</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé, ou grégaire en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,7 +208,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -239,7 +239,10 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Ammoniaque (NH<sub>4</sub>OH 10%) = vert foncé à noir olive sur le chapeau; rosâtre à rouge puis bleu-vert sur la chair
+    Potasse (KOH 10%) = noir verdâtre sur le chapeau; flash rose puis instantanément bleu à noir bleuâtre sur la chair
+    Sulfate de fer (FeSO<sub>4</sub>) = brun olive à noir olive sur la chair
   receptacle: 
   remarques: 
   repartition: 
@@ -278,7 +281,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: jaunâtre avec des stries brun rougeâtre, cotonneux avec une couche gélatineuse, formant un anneau supérieur gélatineux
+  voile-partiel: cotonneux avec une couche gélatineuse, formant un anneau supérieur gélatineux, jaunâtre avec des stries brun rougeâtre
   volve: 
   zone-perihymeniale: 
 ---

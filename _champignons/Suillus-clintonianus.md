@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: jaune orangé pâle, meurtrissant brun rosâtre à la coupe ou au froissement
   chancre: 
-  chapeau: 
+  chapeau: 35-140 mm de Ø, convexe, devenant largement convexe à subétalé à maturité; à marge incurvée au début, appenticulée; surface glabre, brillante, visqueuse à glutineuse; couleurs variables, jaune orangé, rouge terne, brun rougeâtre, brun rougeâtre, brun rougeâtre foncé ou marron foncé
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -128,13 +128,13 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à acidulée
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: jaune au début puis jaune olive ou brun olive à maturité, devenant brunâtre lorsque meurtri, adné à déprimé; pores anguleux, 1-3 par mm
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 
@@ -245,12 +245,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun cannelle foncé
   spherocytes: 
   sporocystes: 
   stipe: 
@@ -272,7 +272,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: 
+  tubes: de 4-12 mm de profondeur
   type: 
   typique: 
   velipellis: 

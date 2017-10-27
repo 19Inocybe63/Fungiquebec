@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans la mousse, sous conifères (<i>Larix</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -253,7 +253,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun
   spherocytes: 
   sporocystes: 
   stipe: 30-70 (90) x (2) 11-17 (25) mm Ø, cylindrique à subclaviforme, ± égal à légèrement élargie vers le bas, typiquement creux dans la moitié inférieure à maturité, fibrilleux, jaune sur la partie supérieure, concolore au chapeau, plus ou moins réticulée à l'apex, immuable lorsque coupé ou au froissement, avec mycélium basal

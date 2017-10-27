@@ -10,7 +10,7 @@ details:
   nom-francais: Bolet à pied creux variété d'or
   ordre: Boletales
   famille: Suillaceae
-  genre: Suillkus
+  genre: Suillus
   espece: <i>Suillus cavipes var. aureus</i> (Rolland) Bellù
   litterature: Bellù, F.; Veroi, G.; collaboration Tartarotti S & F. Padovan. 2014. Per non confondere i funghi-Um die Pilze nicht zu verwechseln. :1-608
 

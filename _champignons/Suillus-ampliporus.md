@@ -25,7 +25,6 @@ collections:
     elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
-collections:
   - fongarium: cKc0672
     date: 16 septembre 2017
     planche:

@@ -80,7 +80,7 @@ description:
   cellules-stromatiques: 
   chair: jaune, épaisse, ferme, immuable à la coupe ou au froissement
   chancre: 
-  chapeau: 28-155 mm Ø, arrondi à convexe à étalé, à marge appendiculée de restes vélaires, ondulée; parfois avec un umbo, sec, fibrilleux, orné de petites méchules, jaune clair au début devenant jaune orangé à maturité
+  chapeau: 41-137 mm Ø, arrondi à convexe à étalé, à marge appendiculée de restes vélaires, ondulée; parfois avec un umbo, sec, fibrilleux, orné de petites méchules, brun rougeâtre à brun orangé
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -270,7 +270,7 @@ description:
   sporee: brun
   spherocytes: 
   sporocystes: 
-  stipe: 30-70 (90) x (2) 11-17 (25) mm Ø, cylindrique à subclaviforme, ± égal à légèrement élargie vers la base, typiquement creux dans la moitié inférieure à maturité, fibrilleux, jaune sur la partie supérieure, plus ou moins réticulée à l'apex, immuable lorsque coupé ou au froissement, avec mycélium basal
+  stipe: 50-70 (90) x 10-20 (22) mm Ø, cylindrique à subclaviforme, ± égal à légèrement élargie vers la base, typiquement creux dans la moitié inférieure à maturité, fibrilleux, plus ou moins réticulée à l'apex, immuable lorsque coupé ou au froissement, brun rougeâtre à brun orangé, avec mycélium basal
   stipitipellis: 
   stipititrame: 
   stroma: 

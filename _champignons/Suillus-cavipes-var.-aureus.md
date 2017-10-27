@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse, ferme, immuable à la coupe, jaune
+  chair: jaune, épaisse, ferme, immuable à la coupe ou au froissement
   chancre: 
   chapeau: 28-155 mm Ø, arrondi à convexe à étalé, à marge appendiculée de restes vélaires, ondulée; parfois avec un umbo, sec, fibrilleux, orné de petites méchules, jaune clair au début devenant jaune orangé à maturité
   cheilochrysocystides:
@@ -134,7 +134,7 @@ description:
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: jaune pâle
+  face-poroïde: jaune pâle à jaune olive, immuable lorsqu'il est coupé ou meurtri; pores anguleux, parfois rayonnants du stipe, de 0,5 à 1,5 mm ou plus larges
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 
@@ -256,7 +256,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 30-70 x 11-17 mm Ø, cylindrique à subclaviforme, ± égal, creux, fibrilleux, brun roux à l'apex (sporulation ?) avec mycélium basal
+  stipe: 30-70 (90) x (2) 11-17 (25) mm Ø, cylindrique à subclaviforme, ± égal à légèrement élargie vers le bas, typiquement creux dans la moitié inférieure à maturité, fibrilleux, jaune sur la partie supérieure, concolore au chapeau, plus ou moins réticulée à l'apex, immuable lorsque coupé ou au froissement, avec mycélium basal
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -275,7 +275,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: 
+  tubes: de 2 à 6 mm de profondeur
   type: 
   typique: 
   velipellis: 

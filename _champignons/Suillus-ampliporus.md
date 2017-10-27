@@ -89,7 +89,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « <i>Suillus ampliporus</i> et <i>Suillus cavipes</i> sont en synonymie. »
   conidies: 
   conidiome: 
   conidiophores: 

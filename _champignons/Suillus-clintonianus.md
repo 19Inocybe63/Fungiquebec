@@ -253,7 +253,7 @@ description:
   sporee: brun cannelle foncé
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 40-140 x 10-30 mm Ø, cylindrique à subégale ou légèrement élargie vers la base, épais, plein, jaune et lisse au-dessus de l'anneau; strié de brun rougeâtre à brunâtre et souvent blanchâtre près de la base; gluant à visqueux; chair jaunâtre, parfois tachée de vert, surtout près de la base lorsqu'il est coupé
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -278,7 +278,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: jaunâtre avec des stries brun rougeâtre, cotonneux avec une couche gélatineuse, formant un anneau supérieur gélatineux
   volve: 
   zone-perihymeniale: 
 ---

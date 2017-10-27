@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: immuable à la coupe
   chancre: 
-  chapeau: 
+  chapeau: 28-155 mm Ø, convexe à étalé, à la marge ondulée; fibrilleux, orné de petites méchules, jaune clair au début devenant jaune orangé à maturité
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -128,13 +128,13 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: agréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: jaune pâle
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 
@@ -239,13 +239,16 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Ammoniaque (NH<sub>4</sub>OH 10%) = orange sur le chapeau et le stipe; verdâtre sur la chair; orange sur les tubes
+    Potasse (KOH 10%) = rouge à rouge vin puis noirâtre sur le chapeau, les tubes et le stipe
+    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration ou de décoloration
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: acidulée
   sclerocystides: 
   sclerote: 
   soies: 
@@ -253,7 +256,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 30-70 x 11-17 mm Ø, cylindrique à subclaviforme, ± égal, creux, fibrilleux, brun roux à l'apex (sporulation ?) avec mycélium basal
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -278,7 +281,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: blanc
   volve: 
   zone-perihymeniale: 
 ---

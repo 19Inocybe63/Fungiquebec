@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous conifères (<i>Larix</i>)
+  biotopes: pousse au sol, sous conifères (<i>Larix laricina</i>)
   boucles: 
   brachybasidioles: 
   calicule: 

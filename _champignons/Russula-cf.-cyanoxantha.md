@@ -23,7 +23,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/15423190950/in/photolist-puTTkm-peHqyF-peHoGp
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
-    determinee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
 description:

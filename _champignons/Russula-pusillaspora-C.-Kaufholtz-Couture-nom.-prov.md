@@ -48,7 +48,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, stérigmates de 3,3-6,2 µm de longueur, non bouclées à la base, (26,8) 27,1 - 30,5 (32,9) × (7,7) 8,2 - 9 (9,6) µm
   basidiospores: |
-  elliptiques en vue frontale, obtusément ellipsoïdes à largement elliptiques vues de profil, verrues petites-moyennes, isolées, parfois se terminant en pointues, partiellement et finement réticulées, avec proéminences jusqu’à 1,0 µm de hauteur, à paroi mince, avec appendice hilaire dominant, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes dans le melzer
+    elliptiques en vue frontale, obtusément ellipsoïdes à largement elliptiques vues de profil, verrues petites-moyennes, isolées, parfois se terminant en pointues, partiellement et finement réticulées, avec proéminences jusqu’à 1,0 µm de hauteur, à paroi mince, avec appendice hilaire dominant, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes dans le melzer
     (5,7) 5,8 - 6,7 (7) × (4,8) 5 - 5,7 (5,9) µm
     Q = 1,1 - 1,2 (1,3) ; N = 30
     Me = 6,3 × 5,4 µm ; Qe = 1,2

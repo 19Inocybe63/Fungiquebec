@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans la mousse, milieu humde, sous conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 31-56 mm Ø, convexe à étalé, déprimé, cuticule collante lorsque imbue, se pèle au 3/4 ou complètement, à marge unie à ondulée, blanchâtre, pourtour rouge pâle à rosâtre, centre rouge à rouge noirâtre + foncé
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -79,7 +79,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Il est possible que cette collection soit un artéfact. Il faudra trouver la retrouver de nouveau dans le même lieu pour comparer la constance des caractères. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -130,7 +131,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-des-lames: indistincte à agréable
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -174,7 +175,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, larges, avec de rares lamelles et pas de lamellules, blanches au début, furcations près du stipe parfois au centre; devenant crème à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -245,15 +246,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: intensément âcre
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d’après la charte de couleur de Romagnesi; C d’après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 55-65 x 7-9 mm Ø, cylindrique à claviforme allongé, égal, farci, un peu translucide (imbu)
   stipitipellis: 
   stipititrame: 
   stroma: 

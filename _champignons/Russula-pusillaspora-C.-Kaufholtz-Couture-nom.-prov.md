@@ -259,7 +259,7 @@ description:
   sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d’après la charte de couleur de Romagnesi; C d’après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
-  stipe: 55-65 x 7-9 mm Ø, cylindrique à claviforme allongé, égal, farci, un peu translucide (imbu)
+  stipe: 55-65 x 7-9 mm Ø, cylindrique à claviforme allongé, égal, farci, ± translucide lorsqu'imbu
   stipitipellis: 
   stipititrame: 
   stroma: 

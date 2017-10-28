@@ -1,6 +1,6 @@
 ---
 nom: Lactarius helvus
-date: 2017-03-25 00:00:00
+date: 2017-10-28 00:00:00
 image: https://c1.staticflickr.com/1/694/21586852311_e226e1987d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21586852311/in/photolist-yTyg7P-p1ZDNU-p1ZFAG-oL159Y-ovx8s3-oMKXmR
 album-flickr:
@@ -43,6 +43,16 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0704
+    date: 21 septembre 2017
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 
+    elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

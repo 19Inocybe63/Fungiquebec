@@ -7,11 +7,11 @@ album-flickr:
   - 72157676583083691
 
 details:
-  nom-francais: 
+  nom-francais: Russule charbonnière
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula sp.</i>
+  espece: <i>Russula cf. cyanoxantha</i>
   litterature: 
 
 collections:

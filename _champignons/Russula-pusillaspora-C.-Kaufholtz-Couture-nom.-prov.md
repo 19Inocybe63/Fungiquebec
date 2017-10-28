@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Russule à très petites spores
+  nom-francais: Russule à spores très petites
   ordre: Russulales
   famille: Russulaceae
   genre: Russula

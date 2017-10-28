@@ -19,8 +19,8 @@ collections:
     date: 15 septembre 2014
     planche:
       numero: cKc0254-0041
-      miniature: https://c2.staticflickr.com/6/5602/15423190950_c0cc7db6c3_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/15423190950/in/photolist-puTTkm-peHqyF-peHoGp/
+      miniature: https://c2.staticflickr.com/6/5602/15423190950_47499aa323_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/15423190950/in/photolist-puTTkm-peHqyF-peHoGp
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: Claude Kaufholtz-Couture

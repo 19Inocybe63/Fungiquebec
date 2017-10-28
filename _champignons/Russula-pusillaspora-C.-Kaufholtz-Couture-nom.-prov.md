@@ -74,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 31-56 mm Ø, convexe à étalé, déprimé, cuticule collante lorsque imbue, se pèle au 3/4 ou complètement, à marge unie à ondulée, blanchâtre, pourtour rouge pâle à rosâtre, centre rouge à rouge noirâtre + foncé
+  chapeau: 31-56 mm Ø, convexe à étalé, déprimé, cuticule collante lorsqu'imbue, se pèle au 3/4 ou complètement, à marge unie à ondulée, blanchâtre, pourtour rouge pâle à rosâtre, centre rouge à rouge noirâtre + foncé
   cheilochrysocystides:
   cheilocystides: nombreuses, cylindriques à fusiformes, dont l'apex est obtus ou moniliforme, faiblement sulfovanilline (SV +), 29,8 - 55,2 × 5,9 - 8,9 µm en moyenne
   cheilomacrocystides: 

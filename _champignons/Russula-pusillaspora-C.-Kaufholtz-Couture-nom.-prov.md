@@ -85,7 +85,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Il est possible que cette collection soit un artéfact. Il faudra la retrouver dans le même lieu pour comparer la constance des caractères. »
+    De Yves Lamoureux. « Il est possible que cette collection soit un artéfact. Il faudra la retrouver dans le même lieu pour comparer la constance des caractères. »
   conidies: 
   conidiome: 
   conidiophores: 

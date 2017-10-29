@@ -86,7 +86,7 @@ description:
   comestibilite: 
   commentaires: |
     De Yves Lamoureux. « Il est possible que cette collection soit un artéfact. Il faudra la retrouver dans le même lieu pour comparer la constance des caractères. »
-    De Claude Kaufholtz-Couture. « Même si cette collection n'était qu'un artéfact, elle serait néanmoins importante en raison de son développement apparemment atypique et sa pousse tardive. »
+    De Claude Kaufholtz-Couture. « Même si cette collection n'était qu'un artéfact, elle serait néanmoins importante en raison de son développement apparemment atypique et de sa pousse tardive. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -19,8 +19,8 @@ collections:
     date: 19 septembre 2017
     planche:
       numero: cKc0688-0187
-      miniature: 
-      originale: 
+      miniature: https://c1.staticflickr.com/5/4505/24161026738_2a3c08ec4a_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/24161026738/in/photostream/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)

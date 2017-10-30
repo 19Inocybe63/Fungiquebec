@@ -53,7 +53,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: parasite sur feuilles d'érable de Norvège <i>Acer platanoides</i> <i>Acer pseudoplanatus</i>; agent de la tache goudronneuse
+  biotopes: parasite sur feuilles d'érable <i>Acer platanoides</i> <i>Acer pseudoplanatus</i>; agent de la tache goudronneuse
   boucles: 
   brachybasidioles: 
   calicule: 

@@ -37,7 +37,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    <b>Bevan, R.J.; Greenhalgh, G.N.</b> <i>Rhytisma acerinum as a biological indicator of pollution</i>, Elsevier, Volume 10, Issue 4, June 1976, Pages 271-285
   ascome: 
   ascospores: 
   asques: 
@@ -79,7 +80,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De R. J. Bevan & G. N. Greenhalgh. « The distribution of <i>Rhytisma acerinum</i>, the cause of tar spot disease of sycamore, is shown to be associated with the annual average concentration of atmospheric sulphur dioxide which can be estimated by calculating the number of tar spots per unit area of leaf surface. »
   conidies: 
   conidiome: 
   conidiophores: 

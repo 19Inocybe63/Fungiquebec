@@ -1,6 +1,6 @@
 ---
 nom: Deconica montana
-date: 2017-03-20 00:00:00
+date: 2017-10-30 00:00:00
 image: https://c2.staticflickr.com/4/3918/14248225929_dbab7946e2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14248225929/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
 album-flickr:
@@ -63,6 +63,7 @@ description:
     6 [6,6; 6,8] 8,7 x 4,4 [5; 5,3] 5,8 x 3,5 [4; 4,2] 4,6 µm
     Q = 1,5 [1,6; 1,7] 1,8; N = 30; C = 95%
     Me = 6,7 x 4,1 µm; Qe = 1,7
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl isotonique 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -120,6 +121,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: <i>Agaricus montanus; gregarius parvus, pileo hemisphaerico subalutaceo, lamellis planis latiusculis umbrinis; margine subalbicante, stipite brevi pileo concolore. Hab. in locis montosis sterilibus per totam fere hyemem</i>.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

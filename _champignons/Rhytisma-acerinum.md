@@ -15,8 +15,8 @@ details:
   litterature: Fries, E.M. 1818. Uppställning af de i Sverige funne Vårtsvampar (Scleromyci). Kongliga Svenska Vetenskapsakademiens Handlinger. 39:100-120
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0705
+    date: 29 octobre 2017
     planche:
       numero: 
       miniature: # Largeur 320px. ici
@@ -24,7 +24,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: parasite sur feuilles d'érable de Norvège; agent de la tache goudronneuse
   boucles: 
   brachybasidioles: 
   calicule: 

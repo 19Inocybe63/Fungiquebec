@@ -218,7 +218,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 20-50 x 1-2 mm, élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau, brun marron à ochracé
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -264,6 +264,7 @@ description:
   sporee: brun violacé foncé
   spherocytes: 
   sporocystes: 
+  stipe: 20-50 x 1-2 mm, élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau, brun marron à ochracé
   stipitipellis: 
   stipititrame: 
   stroma: 

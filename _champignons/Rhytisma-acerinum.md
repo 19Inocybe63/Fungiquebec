@@ -244,7 +244,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Pour réaliser la définition de cette collection, j'ai eu recours au site; http://www.champyves.fr/champignon/fichier_htm/autres/Rhytisma_acerinum.html
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -259,7 +259,7 @@ description:
   stipe: 
   stipitipellis: 
   stipititrame: 
-  stroma: 
+  stroma: net, noir brillant, en plaque peu saillante à la surface des feuilles, de forme plus ou moins ronde, de 10 à 20 mm Ø, contenant les apothécies (ou corps fructifères) s'ouvrant vers l'extérieur par fissuration en longueur de la croûte du stroma
   subhymenium: 
   subiculum: 
   substrat: 

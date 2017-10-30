@@ -205,7 +205,7 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 30-70 x 3-8 mm Ø, égal, tenace, velouté, souvent strié, crème au début, puis brun rougeâtre foncé depuis la base, parfois noir à maturité
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en ixotrichoderme
@@ -249,6 +249,7 @@ description:
   sporee: blanchâtre
   spherocytes: 
   sporocystes: 
+  stipe: 30-70 x 3-8 mm Ø, cylindrique, égal, tenace, velouté, souvent strié, crème au début, puis brun rougeâtre foncé depuis la base, parfois noir à maturité
   stipitipellis: 
   stipititrame: 
   stroma: 

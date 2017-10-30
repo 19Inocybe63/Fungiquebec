@@ -152,6 +152,8 @@ champs-collections:
     label: Confirmée
 
 champs-description:
+  - name: diagnose-originale
+    label: Diagnose originale
   - name: apothecie
     label: Apothécie
   - name: hymenium

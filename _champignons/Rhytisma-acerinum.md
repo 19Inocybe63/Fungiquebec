@@ -236,7 +236,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Cannon, P.F., & Minter, D.W</b>. <i>Rhytisma acerinum; Descriptions of Pathogenic Fungi and Bacteria</i>, Commonwealth Mycological Institute, No.Set 80 pp. Nos. 791-800, 1984.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

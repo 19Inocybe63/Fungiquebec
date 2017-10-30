@@ -39,6 +39,7 @@ description:
   arthroconidies: 
   articles: |
     <b>Bevan, R.J.; Greenhalgh, G.N.</b> <i>Rhytisma acerinum as a biological indicator of pollution</i>, Elsevier, Volume 10, Issue 4, June 1976, Pages 271-285
+    <b>Hsiang, Tom; Hsiang, Lynn Tom; Tian, Lynn</b>. <i>Tar spot of maple in Canada</i> Dept. Environmental Biology University of Guelph Guelph, Ontario, Canada.
   ascome: 
   ascospores: 
   asques: 

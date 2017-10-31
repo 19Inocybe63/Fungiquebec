@@ -144,7 +144,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
-  diagnose-originale: <i>Agaricus alnicola. Cæspitosus, pileo flavo, marginem versus fibrilloso, lamellis adnatis e pallidoferrugineis, stipite radicato squamuloso. Valde diversus ab A. aurivello etc., subsimilibus. Stipes farctus, demum cavus, 2-3 unc. longus, 3-5 lin. crassus, curvato-flexuosus, flavus, dein ferrugineus. Pileus obtusus, irregularis, subhumidus, neutiquam viscosus, 2-3 unc. et ultra. Lam. latæ, planæ. Velum neutiquam radiatum, ut in Pholiot. - A. velatus, Schum. h.l. Ad truncos alneos, passim. Sept-Nov. (v. v.)
+  diagnose-originale: <i>Agaricus alnicola. Cæspitosus, pileo flavo, marginem versus fibrilloso, lamellis adnatis e pallidoferrugineis, stipite radicato squamuloso. Valde diversus ab A. aurivello etc., subsimilibus. Stipes farctus, demum cavus, 2-3 unc. longus, 3-5 lin. crassus, curvato-flexuosus, flavus, dein ferrugineus. Pileus obtusus, irregularis, subhumidus, neutiquam viscosus, 2-3 unc. et ultra. Lam. latæ, planæ. Velum neutiquam radiatum, ut in Pholiot. - A. velatus, Schum. h.l. Ad truncos alneos, passim. Sept-Nov. (v. v.)</i>
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

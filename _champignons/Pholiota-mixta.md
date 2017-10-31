@@ -135,6 +135,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: Agaricus mixtus. Pileo carnoso, convexo-plano obtuso viscoso, disco obscuriori ruguloso, stipite cavo curvato pallido fusco-fibrilloso, deorsumque rufo-squamoso, lamellis subdecurrentibus confertis albido-argillaceis. Ad terram in pineto-mont. subcaesp. Inodorus, carne firmula aquosa. Stipes 1-3 unc. lat., 3-4 lin. cr., subflexuosus, basi subincrass. Pileus 1-2 unc. lat., crustallinus, margine pallidior. Bull. t. 562. f. F. O. hunc sat bene refert.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
@@ -234,7 +235,7 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 30-60 x 3-8 mm Ø, égal à légèrement graduellement atténué vers la base, finement fibrilleux, blanc à blanc-jaune au-dessus de la zone annuliforme, graduellement beige pâle, jaune ocré à brun ocré vers la base, brun rouille à la base
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'un mince ixocutis d'hyphes étroites, cylindriques de 2-5 μm ; subpellis compact, composé d'hyphes cylindriques de 3-10 μm Ø, avec des parois incrustées de pigment brun
@@ -285,6 +286,7 @@ description:
   sporee: brun à brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 30-60 x 3-8 mm Ø, égal à légèrement graduellement atténué vers la base, finement fibrilleux, blanc à blanc-jaune au-dessus de la zone annuliforme, graduellement beige pâle, jaune ocré à brun ocré vers la base, brun rouille à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

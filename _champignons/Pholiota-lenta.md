@@ -144,7 +144,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
-  diagnose-originale: Agaricus lentus. Subcespitosus pallescente-albus, pileo carnoso plano viscoso, lamellis confertis planiusculis, stipite solido fibroso-squamoso cortinato. Hab. ad truncos gregarie aut subcespitose. Stip. 2 unc. longus, 4-5 lin. crassus, minute squamosus. Lam. ¾ lin. latae, in adultis in stipitem lineatim decurrunt. Pil. 3 unc. latus, valde viscosus, ad marginem reliquiae cortinae adsunt.
+  diagnose-originale: <i>Agaricus lentus. Subcespitosus pallescente-albus, pileo carnoso plano viscoso, lamellis confertis planiusculis, stipite solido fibroso-squamoso cortinato. Hab. ad truncos gregarie aut subcespitose. Stip. 2 unc. longus, 4-5 lin. crassus, minute squamosus. Lam. ¾ lin. latae, in adultis in stipitem lineatim decurrunt. Pil. 3 unc. latus, valde viscosus, ad marginem reliquiae cortinae adsunt</i>.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

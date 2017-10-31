@@ -244,7 +244,7 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 30-80 (120) x 4-12 mm Ø, égal à subbulbeux, solide à spongieux, farineux blanc vers l'apex, fibrilleux et blanc vers la base, brunâtre à la base
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis, dans une épaisse couche de gélin (160-210 µm d'épaisseur en moyenne) d'hyphes étroites hyalines à jaunâtres de 1-3 μm Ø, avec des zones réfringentes, lisses et lâches dans la matrice de gélin
@@ -295,6 +295,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 30-80 (120) x 4-12 mm Ø, égal à subbulbeux, solide à spongieux, farineux blanc vers l'apex, fibrilleux et blanc vers la base, brunâtre à la base
   stipitipellis: 
   stipititrame: parallèle à subparallèle, formée d'hyphes bouclées à paroi mince, hyalines, 4,2-10,1 µm Ø
   stroma: 

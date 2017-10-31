@@ -108,7 +108,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Ce champignon sent le biscuit à l'érable. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -234,7 +235,7 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-120 x 10-20 mm Ø, cylindrique plus ou moins égal, farci puis creux, sec, lisse ou très finement veloutée au début, concolore au chapeau à orangée pâle, rosâtre à brun orangé
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -279,6 +280,7 @@ description:
   sporee: crème pâle
   spherocytes: 
   sporocystes: 
+  stipe: 30-120 x 10-20 mm Ø, cylindrique plus ou moins égal, farci puis creux, sec, lisse ou très finement veloutée au début, concolore au chapeau à orangée pâle, rosâtre à brun orangé
   stipitipellis: 
   stipititrame: 
   stroma: 

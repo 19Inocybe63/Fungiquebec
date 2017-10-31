@@ -109,7 +109,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Ce champignon sent les biscuits feuilles d'érable. »
+    De Claude Kaufholtz-Couture. « Ce sporophore sent les biscuits feuilles d'érable. »
   conidies: 
   conidiome: 
   conidiophores: 

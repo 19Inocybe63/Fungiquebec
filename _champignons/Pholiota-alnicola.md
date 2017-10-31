@@ -144,6 +144,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: <i>Agaricus alnicola. Cæspitosus, pileo flavo, marginem versus fibrilloso, lamellis adnatis e pallidoferrugineis, stipite radicato squamuloso. Valde diversus ab A. aurivello etc., subsimilibus. Stipes farctus, demum cavus, 2-3 unc. longus, 3-5 lin. crassus, curvato-flexuosus, flavus, dein ferrugineus. Pileus obtusus, irregularis, subhumidus, neutiquam viscosus, 2-3 unc. et ultra. Lam. latæ, planæ. Velum neutiquam radiatum, ut in Pholiot. - A. velatus, Schum. h.l. Ad truncos alneos, passim. Sept-Nov. (v. v.)
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
@@ -245,7 +246,7 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 40-120 x 4-15 mm Ø, égal à atténué vers la base, flexueux, farci puis fistuleux, fibrilleux-strié, crème vers l'apex, jaunâtre puis devenant graduellement brunâtre depuis la base
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (avec mince ixocutis)
@@ -297,6 +298,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 40-120 x 4-15 mm Ø, égal à atténué vers la base, flexueux, farci puis fistuleux, fibrilleux-strié, crème vers l'apex, jaunâtre puis devenant graduellement brunâtre depuis la base
   stipitipellis: 
   stipititrame: 
   stroma: 

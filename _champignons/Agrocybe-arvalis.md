@@ -121,7 +121,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
-  diagnose originale: <i>Agaricus arvalis pileo carnosulo, tenaci, convexo-plano, sicco expallente; stipite fistuloso, tenui, pulverulento, lutescente, radice longa filiformi; lamellis adnexis, subdistantibus, fusco-albis, dein ferrugineis. S. M. I. p. 263. Weinm. p. 234. Batt. t. 28. D. [Bull. t. 422. f. 2, ceterum aliena, staturam et radicem optime refert.] Ad terram cultam. Magnopere a prioribus diversus, ad A. antipodem accedens. Pileus udus luteo-fuscus, siccus ochraceus. (v. v.)</i>
+  diagnose-originale: <i>Agaricus arvalis pileo carnosulo, tenaci, convexo-plano, sicco expallente; stipite fistuloso, tenui, pulverulento, lutescente, radice longa filiformi; lamellis adnexis, subdistantibus, fusco-albis, dein ferrugineis. S. M. I. p. 263. Weinm. p. 234. Batt. t. 28. D. [Bull. t. 422. f. 2, ceterum aliena, staturam et radicem optime refert.] Ad terram cultam. Magnopere a prioribus diversus, ad A. antipodem accedens. Pileus udus luteo-fuscus, siccus ochraceus. (v. v.)</i>
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

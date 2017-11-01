@@ -1,6 +1,6 @@
 ---
 nom: Rhytisma acerinum
-date: 2017-10-30 00:00:00
+date: 2017-11-01 00:00:00
 image: https://c1.staticflickr.com/5/4489/26239934899_a265bd99bf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/26239934899/in/photostream/
 album-flickr:
@@ -242,6 +242,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Cannon, P.F., Minter, D.W</b>. <i>Rhytisma acerinum; Descriptions of Pathogenic Fungi and Bacteria</i>, Commonwealth Mycological Institute, No. Set 80 pp. Nos. 791-800, 1984.
+    <b>Persoon, Christiaan Hendrik</b>. <i>Synopsis methodica fungorum</i> [...] Pars prima (1801)
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

@@ -111,6 +111,10 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: <i>Xyloma acerinum; maculæforme tenue contiguum subrugosum. Disp. meth. fung. p. 6.
+  Sphæria maculæformis. Ehrh. Pl. crypt. Dec. 22. nr. 219.
+  Hab. in foliis Aceris Platanoidis et Aceris campestris frequens.
+  OBS. Etiam et in hac specie superficiem in labia flexuosa dehiscentem observaui. Margo nonnunquam eleganter et vario modo incisus inuenitur</i>.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

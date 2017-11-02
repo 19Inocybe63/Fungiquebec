@@ -113,6 +113,9 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: <i>Psalliota nivescens; pileus 10-15 cm, hemisphaericus, centro interdum applanato, dein expansus, sericeo-nitens, albus vel leviter sulphureus, tactu flavo-maculatus, nudus vel ambitu flocculosus, interdum tempestate sicco areolato-squamosus. Lamellae liberae, confertae, angustae, diu pallidae, dein dilute incarnatae, tandem obscure fuseae, acie sterili, pallida. Stipes curtus, 8-10 cm X 35-50 mm, cylindricus, basi tamen plerumque attenuata, interdum subfusiformis et cavus, ceterum
+dense medullatus, albus, tactu flavo-maculatus, sericeo-nitens, saepe minute furfuraceus, tandem nudus. Annulus superus, albus, 1-2 mm crassus, margine crassiore, latus, reflexus, supra levis, infra squamosus, squamis in orbem locatis, magnis, rotundatis, ex albis ochraceis</i>.
+Caro subcrassa, in medio pilei 2-3 mm crassa, marginem versus tenuis, alba, interdum sulphureo-vel flavo-maculata, praecipue in stipite, odore amygdalino.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
@@ -235,7 +238,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Møller, F. H</b>. <i>Friesia</i> Nordisk Mykologisk Tidsskrift, Bing IV, Hefte 3, København, 1951.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -268,8 +272,8 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    <i>Psalliota nivescens</i> F.H. Møller, Friesia 4 (3):155 (1952)
-    <i>Psalliota nivescens var. parkensis</i> F.H. Møller, Friesia 4 (3):158 (1952)
+    <i>Psalliota nivescens</i> F. H. Møller, Friesia 4 (3):155 (1952)
+    <i>Psalliota nivescens var. parkensis</i> F. H. Møller, Friesia 4 (3):158 (1952)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

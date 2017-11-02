@@ -121,7 +121,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
-  diagnose-originale: <i>Agaricus montanus; gregarius parvus, pileo hemisphærico subalutaceo, lamellis planis latiasculis umbrinis; margine subalbicante, stipite brevi pileo concolore. Hab in locis montofis sterilibus per totam fere hyemem. Desc. Stipes ¾ unc. longus, lin. I. crassus. Lamellæ demum subnigrescunt, in stipitem parum dentatum decurrunt. Pileus subcarnofus, 4 lin. ad ½ unc. latus, convexo planus, humectatus subspadiceus, margine substriatus. Ols. Ag. subhepatico (Batsch. El. Fung. Fig.211.) subaffinis, sed tamen diversus</i>.
+  diagnose-originale: <i>Agaricus montanus; gregarius parvus, pileo hemisphærico subalutaceo, lamellis planis latiusculis umbrinis; margine subalbicante, stipite brevi pileo concolore. Hab in locis montosis sterilibus per totam sere hyemem. Desc. Stipes ¾ unc. longus, lin. I. crassus. Lamellæ demum subnigrescunt, in stipitem parum dentatum decurrunt. Pileus subcarnosus, 4 lin. ad ½ unc. latus, convexo planus, humectatus subspadiceus, margine substriatus. Ols. Ag. subhepatico (Batsch. El. Fung. Fig.211.) subaffinis, sed tamen diversus.</i>.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

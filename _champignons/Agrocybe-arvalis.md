@@ -243,7 +243,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Fries, Elias Magnus</b>. <i>Hymenomycetes Europaei</i>; sive Epicriseos systematis Mycologici, Editio Altera, Upsalliæ, Typis Descripsit «ed. Berling, 1874; (p. 261, N° 975)
+    <b>Fries, Elias Magnus</b>. <i>Hymenomycetes Europaei</i>; sive Epicriseos systematis Mycologici, Editio Altera, Upsalliæ, Typis Descripsit Ed. Berling, 1874; (p. 261, N° 975)
     <b>Smith, Alexander H., Smith, Helen V., Weber, Nancy S</b>. <i>How to know the gilled mushrooms</i>, Publisher William C. Brown Pub; 2 edition (June 1979).
     <b>Watling, R.</b> <i>Bolbitiaceae, Agrocybe, Bolbitius and Conocybe</i>, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |

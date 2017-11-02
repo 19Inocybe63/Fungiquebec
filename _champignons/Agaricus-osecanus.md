@@ -237,7 +237,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Møller, F. H</b>. <i>Friesia</i> Nordisk Mykologisk Tidsskrift, Bing IV, Hefte 3, København, 1951.
+    <b>Møller, F. H</b>. <i>Friesia</i> Nordisk Mykologisk Tidsskrift, Bing IV, Hefte 3, København, 1951; p. 155-156
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

@@ -247,7 +247,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Pour réaliser la définition de cette collection, j'ai eu recours au site; http://www.champyves.fr/champignon/fichier_htm/autres/Rhytisma_acerinum.html
+  remarques: Pour réaliser la définition de cette collection, j'ai eu recours au site; http://www.champyves.fr/champignon/fichier_htm/autres/Rhytisma_acerinum.html; avec aimable autorisation.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

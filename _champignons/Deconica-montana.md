@@ -245,7 +245,7 @@ description:
   publications: |
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV, Mykoflora I, Alassio-(SV), 1998, 48 p.
-    <b>Persoon, Christiaan Hendrik</b>. <i>Observationes Mycologicæ</i>; seu Descriptiones tam novorum Exibitæ, Pars prima cum tabilis ul Æneis pictis, Lipsiæ, 1796, Apud Petrum Phillippum Wolf.
+    <b>Persoon, Christiaan Hendrik</b>. <i>Observationes Mycologicæ</i>; seu Descriptiones tam novorum quam notabilium Fungorum Exibitæ, Pars prima cum tabilis VI Æneis Pictis, Lipsiæ, 1796, Apud Petrum Phillippum Wolf.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

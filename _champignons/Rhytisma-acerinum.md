@@ -242,7 +242,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Cannon, P.F., Minter, D.W</b>. <i>Rhytisma acerinum; Descriptions of Pathogenic Fungi and Bacteria</i>, Commonwealth Mycological Institute, No. Set 80 pp. Nos. 791-800, 1984.
-    <b>Persoon, Christiaan Hendrik</b>. <i>Synopsis methodica fungorum</i> [...] Pars prima (1801)
+    <b>Persoon, Christiaan Hendrik</b>. <i>Synopsis methodica fungorum</i> [...] Pars prima, 1801; (p. 104, N° 3)
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

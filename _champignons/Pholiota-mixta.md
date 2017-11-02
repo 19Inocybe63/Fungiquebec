@@ -263,7 +263,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Fries, Elias Magnus</b>. <i>Epicrisis systematis Mycologici</i>, seu Synopsis Hymenomycetun, Upsaliæ, 1836-1838 (p. 185, N° 746)
+    <b>Fries, Elias Magnus</b>. <i>Epicrisis systematis Mycologici</i>, seu Synopsis Hymenomycetum, Upsaliæ, 1836-1838 (p. 185, N° 746)
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
     <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.

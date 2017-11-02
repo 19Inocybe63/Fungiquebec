@@ -135,7 +135,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
-  diagnose-originale: <i>Agaricus mixtus. Pileo carnoso, convexo-plano obtuso viscoso, disco obscuriori ruguloso, stipite cavo curvato pallido fusco-fibrilloso, deorsumque rufo-squamoso, lamellis subdecurrentibus confertis albido-argillaceis. Ad terram in pineto-mont. subcaesp. Inodorus, carne firmula aquosa. Stipes 1-3 unc. lat., 3-4 lin. cr., subflexuosus, basi subincrass. Pileus 1-2 unc. lat., crustallinus, margine pallidior. Bull. t. 562. f. F. O. hunc sat bene refert</i>.
+  diagnose-originale: <i>Agaricus mixtus; pileo carnoso, convexo-plano obtuso viscoso, disco obscuriori ruguloso, stipite cavo curvato pallido fusco-fibrilloso, deorsumque rufo-squamoso, lamellis subdecurrentibus confertis albido-argillaceis. Ad terram in pineto-mont. subcaesp. Inodorus, carne firmula aquosa. Stipes 1-3 unc. lat., 3-4 lin. cr., subflexuosus, basi subincrass. Pileus 1-2 unc. lat., crustallinus, margine pallidior. Bull. t. 562. f. F. O. hunc sat bene refert</i>.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

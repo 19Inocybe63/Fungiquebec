@@ -112,6 +112,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: <i>A. pediades; pileo obtuso sicco ochraceo-pallescente, lamellis subadnatis ferrugineis, stipite pallido. Gregarius, proximus A. vervacti, sed cresendi modo & statura A. oreadi similis. Stipes 2-3 unc. longus, 1-2 lin. crassus, obsoleta sericeus, tenax; basi sæpe bulbillo spurio. Pileus planus, 1-2 unc. latus, lævis. Lam. planæ, sporidiis ferrugineofuscis. Ad vias &c. regionum campestrium. Jul.-Sept. (v.v.)</i>
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
@@ -237,6 +238,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
+    <b>Fries, Elias Magnus</b>. <i>Systema Mycologicum</i>; sistens Fungorum, Ordines, Genera et Species... volumen I, Lundæ, 1821, Ex Officina Berlingiana; (p. 290, N° 2)
     <b>Smith, Alexander H., Smith, Helen V., Weber, Nancy S.</b> <i>How to know the gilled mushrooms</i>, Publisher William C. Brown Pub; 2 edition (June 1979).
     <b>Watling, R.</b> <i>Bolbitiaceae, Agrocybe, Bolbitius and Conocybe</i>, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |

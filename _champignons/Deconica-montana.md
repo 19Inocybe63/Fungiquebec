@@ -121,7 +121,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
-  diagnose-originale: <i>Agaricus montanus; gregarius parvus, pileo hemisphaerico subalutaceo, lamellis planis latiusculis umbrinis; margine subalbicante, stipite brevi pileo concolore. Hab. in locis montosis sterilibus per totam fere hyemem</i>.
+  diagnose-originale: <i>Agaricus montanus; gregarius parvus, pileo hemisphærico subalutaceo, lamellis planis latiasculis umbrinis; margine subalbicante, stipite brevi pileo concolore. Hab in locis montofis sterilibus per totam fere hyemem. Desc. Stipes ¾ unc. longus, lin. I. crassus. Lamellæ demum subnigrescunt, in stipitem parum dentatum decurrunt. Pileus subcarnofus, 4 lin. ad ½ unc. latus, convexo planus, humectatus subspadiceus, margine substriatus. Ols. Ag. subhepatico (Batsch. El. Fung. Fig.211.) subaffinis, sed tamen diversus</i>.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
@@ -245,6 +245,7 @@ description:
   publications: |
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV, Mykoflora I, Alassio-(SV), 1998, 48 p.
+    <b>Persoon, Christiaan Hendrik</b>. <i>Observationes Mycologicæ</i>; seu Descriptiones tam novorum Exibitæ, Pars prima cum tabilis ul Æneis pictis, Lipsiæ, 1796, Apud Petrum Phillippum Wolf.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

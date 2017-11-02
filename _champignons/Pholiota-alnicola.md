@@ -273,6 +273,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
+    <b>Fries, Elias Magnus</b>. <i>Systema Mycologicum</i>; sistens Fungorum, Ordines, Genera et Species... volumen I, Lundæ, 1821, Ex Officina Berlingiana; (p. 250, N° 1)
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
     <b>Smith, Alexander H. ; Hesler, Lexemuel R.</b> <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.

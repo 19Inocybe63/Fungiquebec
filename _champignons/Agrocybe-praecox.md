@@ -263,7 +263,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Schaeffer, Jacob Christian</b>. <i>Fungorum qui in Bavaria et Palatinu circa Ratisbonum nascuntur Icones</i>, tome 4, 1800, p. 50
+    <b>Schäffer, Jacob Christian</b>. <i>Fungorum qui in Bavaria et Palatinu circa Ratisbonum nascuntur Icones</i>, tome 4, 1800, p. 50
     <b>Smith, Alexander H., Smith, Helen V., Weber, Nancy, S.</b> <i>How to know the gilled mushrooms</i>, Publisher William C. Brown Pub; 2 edition (June 1979).
     <b>Watling, R.</b> <i>Bolbitiaceae, Agrocybe, Bolbitius and Conocybe</i>, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |

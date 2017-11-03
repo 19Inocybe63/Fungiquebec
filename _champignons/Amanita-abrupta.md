@@ -1,6 +1,6 @@
 ---
 nom: Amanita abrupta
-date: 2017-04-07 00:00:00
+date: 2017-10-03 00:00:00
 image: https://c1.staticflickr.com/1/713/21329672180_4f938a431f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21329672180/in/photolist-yuQ9qC-yuQdej
 album-flickr:
@@ -37,7 +37,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    <i>Bulletin of the Torrey Botanical Club</i>, New York, vol. XXIV, 1897, p. 138
   ascome: 
   ascospores: 
   asques: 
@@ -107,6 +108,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: <i>Pileus thin, broadly convex or nearly plane, verrucose with small angular or pyramidal erect somewhat evanescent warts, white, slightly striate on the margin, flesh white; lamellae moderately close, reaching the stem and sometimes terminating in slightly decurrent lines upon it, white; stem slender, glabrous, solid, bulbous, white, the bulb abrupt, subglobose, often coated below by the white persistent mycelium, the annulus membranous, persistent; spores broadly elliptical or subglobose, .0003-.0004 in, long, .00025-.0003 broad. Pileus 2-4 in. broad; stem 2.5-4 in. Long, 3-4 lines thick. Woods. Auburn, Alabama. July, Underwood</i>.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

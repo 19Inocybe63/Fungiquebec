@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe praecox
-date: 2017-03-14 00:00:00
+date: 2017-11-03 00:00:00
 image: https://c2.staticflickr.com/4/3821/8780672969_b12aa3654b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8780672969/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY
 album-flickr:
@@ -140,6 +140,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: <i>Agaricus candicans; agaricus caulescens, solitarius, carnosus; pileo conuexo, cum pauca flauedine albido, viseido; lamellis umbrinis; petiolo tereti, pleno, albido, basi crassiuseulo, velo filementoso ac annulo figæi albidis. Fungus esculentus, paruus, pileolo puluinato, albo, & limacino glutine infecto, lamellis murinis,  pediculo pariter albo, gemino & peangusto annulo. Mich. nou. gen. pl. p.172 ? In syluis, pratris & agris vere prouenit</i>. (p. 50-51, N° 105)
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
@@ -262,6 +263,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
+    <b>Schaeffer, Jacob Christian</b>. <i>Fungorum qui in Bavaria et Palatinu circa Ratisbonum nascuntur Icones</i>, tome 4, 1800, p. 50
     <b>Smith, Alexander H., Smith, Helen V., Weber, Nancy, S.</b> <i>How to know the gilled mushrooms</i>, Publisher William C. Brown Pub; 2 edition (June 1979).
     <b>Watling, R.</b> <i>Bolbitiaceae, Agrocybe, Bolbitius and Conocybe</i>, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |

@@ -1,6 +1,6 @@
 ---
 nom: Amanita farinosa
-date: 2017-03-13 00:00:00
+date: 2017-11-04 00:00:00
 image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9648424458/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq
 album-flickr:
@@ -70,6 +70,7 @@ description:
     7,6 [8,2; 8,5] 9,1 x 5,9 [6,3; 6,5] 6,9 µm
     Q = 1,2 [1,3] 1,4; N = 30; C = 95%
     Me = 8,3 x 6,4 µm; Qe = 1,3
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -98,7 +99,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Rod Tulloss. « Also, I’d like to point out the thin, spike-like volval remnants around the top of the bulb. This is only the second time that I have seen this character in more than 35 years. An interesting phenomenon. »
+  commentaires: |
+    De Rod Tulloss. « Also, I’d like to point out the thin, spike-like volval remnants around the top of the bulb. This is only the second time that I have seen this character in more than 35 years. An interesting phenomenon. »
+    De Claude Kaufholtz-Couture. « C'est la première fois que je vois un groupe aussi fourni de cette espèce. Habituellement, on la voit en petits groupes de 3 à 8 spécimens, mais pas en groupe de 20 et plus. Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -220,7 +223,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-90 x 3-10 mm Ø, cylindrique à ± égal, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis et parfois en ixocutis, formé d’hyphes de 2-8 µm Ø
@@ -254,8 +256,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   references: 
-  remarques: |
-    C'est la première fois que je vois un groupe aussi fourni de cette espèce. Habituellement, on la voit en petits groupes de 3 à 8 spécimens, mais pas en groupe de 20 et plus. Plusieurs spécimens furent envoyés à Rod Tulloss aux fins d'analyses d'ADN.
+  remarques: 
   rhizomorphes: 
   sac-sporifere: 
   saveur: indistincte
@@ -265,6 +266,7 @@ description:
   soies-hymeniales: 
   sporee: blanche
   sporocystes: 
+  stipe: 30-90 x 3-10 mm Ø, cylindrique à ± égal, bulbeux non marginé, glabre à poudreux, blanchâtre, glabre à légèrement soyeux, solide ou partiellement creux à maturité
   stipitipellis: 
   stipititrame: 
   stroma: 

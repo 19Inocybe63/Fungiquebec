@@ -224,7 +224,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 60-150 x 5-12 mm Ø, non bulbeux, lisse ou finement fibrilleux, blanc ou teinté de brun orangé, sans anneau, émergeant d'une volve blanche tachée de brun rouille
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -268,6 +267,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 60-150 x 5-12 mm Ø, non bulbeux, lisse ou finement fibrilleux, blanc ou teinté de brun orangé, sans anneau, émergeant d'une volve blanche tachée de brun rouille
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -275,7 +275,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    <i>Amanitopsis fulva</i> (Pers.) W.G. Sm.
+    <i>Amanitopsis fulva</i> (Pers.) W. G. Sm.
     <i>Agaricus fulvus</i> Schaeff., Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones 4:41, t. 95 (1774)
     <i>Amanita vaginata var. fulva</i> (Pers.) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France 1:51 (1874)
     <i>Amanitopsis vaginata var. fulva</i> (Pers.) Sacc., Sylloge Fungorum 5:21 (1887)

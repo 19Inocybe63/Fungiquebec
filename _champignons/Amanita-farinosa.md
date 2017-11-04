@@ -249,7 +249,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
-    <b>Schweinitz, Lewis David von</b>. <i>Synopsis Fungorum Carolinae superioris</i>; secundum observationes, Ed. Schwaegrichen, 1822 (p. 52, N° 553)
+    <b>Schweinitz, Ludwig David von</b>. <i>Synopsis Fungorum Carolinae superioris</i>; secundum observationes, Ed. Schwaegrichen, 1822 (p. 52, N° 553)
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

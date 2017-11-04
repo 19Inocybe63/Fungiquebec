@@ -82,7 +82,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Cette collection (cKc0112) a été étudiée par R. Tulloss, qui la classe pour le moment dans <i>Amanita amerirubescens groupe</i>. Elle était entourée de conifères (<i>Picea</i>) âgés, et d'un majestueux chêne rouge non loin (<i>Quercus</i>)».
   conidies: 
   conidiome: 
   conidiophores: 
@@ -208,7 +209,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 50-180 mm x 10-30 mm Ø, ± égales, ou quelquefois légèrement agrandies vers une base indistincte à bulbeuse, généralement sans restes de voile général, blanc puis devenant rosé à rouge gris, glabre à finement hirsute, avec un anneau fragile et persistant
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -244,9 +244,7 @@ description:
   reactions-macrochimiques: |
     Potasse (KOH 10%) = aucune coloration ou décoloration sur le chapeau
   receptacle: 
-  remarques: |
-    Cette collection a été étudiée par R. Tulloss, qui la classe pour le moment dans <i>Amanita amerirubescens groupe</i>.
-    Cette collection était entourée de conifères (<i>Picea</i>) âgés. Il y avait aussi un majestueux chêne rouge non loin (<i>Quercus</i>).
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -258,6 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 50-180 mm x 10-30 mm Ø, ± égales, ou quelquefois légèrement agrandies vers une base indistincte à bulbeuse, généralement sans restes de voile général, blanc puis devenant rosé à rouge gris, glabre à finement hirsute, avec un anneau fragile et persistant
   stipitipellis: 
   stipititrame: 
   stroma: 

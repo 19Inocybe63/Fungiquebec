@@ -88,7 +88,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Section Dermocybe »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,7 +218,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-100 x 3-10 mm Ø, cylindrique, égal ou un peu renflé vers la base, fibrilleux, jaunâtre, plus rarement jaune laiton plus foncé, souvent avec mycélium basal carminé pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -251,7 +251,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: de la section Dermocybe
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -263,6 +263,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 30-100 x 3-10 mm Ø, cylindrique, égal ou un peu renflé vers la base, fibrilleux, jaunâtre, plus rarement jaune laiton plus foncé, souvent avec mycélium basal carminé pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

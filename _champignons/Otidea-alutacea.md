@@ -253,7 +253,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: absent ou très court et étroit, blanchâtre, duveteux vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

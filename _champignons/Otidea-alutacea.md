@@ -34,7 +34,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: subsessile ou brièvement stipité, fendu d'un côté et dilaté en oreille arrondie avec la marge unie, 30 à 50 (60) x 20-40 mm Ø
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans la mousse, sous conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,7 +67,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince à ± épaisse, cassante, jaunâtre
   chancre: 
   chapeau: 
   cheilochrysocystides:
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -133,7 +133,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: un peu furfuracé à l'extérieur, villeux et blanc à la base
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -146,7 +146,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: lisse, fauve brunatre l'intérieur à gris brunâtre assez pâle, ou argile foncé à gris brun sale
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé, grégaire à cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,7 +208,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à septembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

@@ -7,7 +7,7 @@ album-flickr:
   - 72157662288669118
 
 details:
-  nom-francais: Lépiste nu / Lépiste pied-bleu
+  nom-francais: Lépiste pied-bleu / Lépiste nue
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Lepista

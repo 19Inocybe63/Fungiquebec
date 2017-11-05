@@ -236,7 +236,8 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Beug, Michael; Bessette, Arleen; Bessette, Alan. E.</b> <i>Ascomycete Fungi of North America; A Mushroom Reference Guide</i>, Serries Corrie Herring Hooks Endowment, 2014.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

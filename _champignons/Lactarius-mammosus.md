@@ -38,7 +38,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Moser, M</b>. <i>The Problem of Lactarius mammosus Fr.</i>, Kew Bulletin, Vol. 31, No. 3 (1977), pp. 529-532
+    <b>Moser, M</b>. <i>The Problem of Lactarius mammosus</i> Fr., Kew Bulletin, Vol. 31, No. 3 (1977), pp. 529-532
   ascome: 
   ascospores: 
   asques: 

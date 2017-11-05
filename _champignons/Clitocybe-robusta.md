@@ -7,7 +7,7 @@ album-flickr:
   - 72157665911724499
 
 details:
-  nom-francais: 
+  nom-francais: Clitocybe robuste
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Clitocybe
@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous <i>Thuja occidentalis</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, blanche
   chancre: 
-  chapeau: 
+  chapeau: 35-185 mm Ø, convexe à convexe étalé, faiblement déprimé, sec, satiné, à marge ondulée à lobée, glabre, blanc, avec un centre ± brun orangé
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun à occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: désagréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à subdécurrentes,  très serrées, minces, blanches à chamois
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, densément grégaire, parfois cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,7 +208,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -239,21 +239,22 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: acidulée à fongique, avec une finale amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: jaune pâle
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 36-54 x 14-40 mm Ø, cylindrique à largement claviforme, ± égal ou élargi vers la base; trapu, sec, lisse à finement fibrilleux, bulbeux, blanc à crème
   stipitipellis: 
   stipititrame: 
   stroma: 

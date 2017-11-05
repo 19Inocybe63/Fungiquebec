@@ -37,7 +37,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    <b>Moser, M</b>. <i>The Problem of Lactarius mammosus Fr.</i>, Kew Bulletin, Vol. 31, No. 3 (1977), pp. 529-532
   ascome: 
   ascospores: 
   asques: 
@@ -67,7 +68,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanchâtre
   chancre: 
   chapeau: 28-46 mm Ø, convexe à étalé, déprimé, zoné, papillé, finement fibrilleux, gris mauve à gris brunâtre
   cheilochrysocystides:
@@ -111,7 +112,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -193,7 +194,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,7 +209,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à octobre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -236,7 +237,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

@@ -7,7 +7,7 @@ album-flickr:
   - 72157662288669118
 
 details:
-  nom-francais: 
+  nom-francais: Lépiste nu / Lépiste pied-bleu
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Lepista
@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: épaisse, ± ferme, blanc bleuté
   chancre: 
-  chapeau: 
+  chapeau: 40-200 mm Ø, convexe à marge est enroulée au début, devenant largement convexe à étalé, avec ± une marge ondulée à maturité, glabre, légèrement collante à l'humidité, parfois finement fissuré au centre, habituellement pourpre mauve, ou pourpre avec des nuances brunes au frais, devenant brunâtre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -111,7 +111,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: légèrement fragrante au frais, agréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, parfois décurrentes par une dent, serrées à très serrées, étroites à larges, facilement détachables, lavande pâle à lilas, devenant chamois, chamois-rosâtre ou brunâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -193,7 +193,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé, dispersé, grégaire, ou en grappes dans les débris organiques
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -208,7 +208,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à octobre, parfois même novembre
   phialoconidies: 
   pied: 
   pieds-steriles: 
@@ -245,15 +245,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: agréable, douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: chamois rosâtre
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 30-100 x 10-30 mm Ø, cylindrique, égal à ± élargi à la base, sec, finement hirsute, ± farineux près de l'apex, violet pâle à concolore aux lames, devenant brunâtre à maturité, dont la base est souvent recouverte d'un mycélium basal lilas et duveteux
   stipitipellis: 
   stipititrame: 
   stroma: 

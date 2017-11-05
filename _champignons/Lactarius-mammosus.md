@@ -23,8 +23,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -51,7 +51,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, dans la mousse, en milieux humides, sous conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -69,7 +69,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
+  chapeau: 28-46 mm Ø, convexe à étalé, déprimé, zoné, papillé, finement fibrilleux, gris mauve à gris brunâtre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: agréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,12 +174,12 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: décurrentes, très serrées, avec lamelles et lamellules, crèmes à ± rosâtre saumon
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
-  latex: 
+  latex: blanchâtre crème
   leptocystides: 
   leptocheilocystides: 
   leptopleurocystides: 
@@ -245,15 +245,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce à ± acre, avec une finale légèrement amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d’après la charte de couleur de Romagnesi; C d’après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 46-68 x 10-12 mm Ø, cylindrique, égal, creux, avec base blanche, crème verdâtre pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

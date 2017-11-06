@@ -67,9 +67,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ± filamenteuse, pourprée-violacée
   chancre: 
-  chapeau: 
+  chapeau: 15-30 mm Ø, convexe, finement squamuleux-méchuleux, violet brunâtre foncé, brun noirâtre à maturité
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -128,7 +128,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, subespacées, pourprées, brunâtres à la fin, à arêtes violet-noir
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -245,15 +245,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brune
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 30-70 x 3-7 mm Ø, égal, plein, méchuleux-squamuleux, violet brunâtre foncé, brun noirâtre à maturité
   stipitipellis: 
   stipititrame: 
   stroma: 

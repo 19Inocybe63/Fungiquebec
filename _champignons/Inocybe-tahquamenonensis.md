@@ -15,7 +15,7 @@ details:
   litterature: Stuntz, D.E. 1954. Studies on the genus Inocybe. II. New and note worthy species from Michigan. Papers of the Michigan Academy of Sciences. 39:53-84
 
 collections:
-  - fongarium: cKc639
+  - fongarium: cKc0639
     date: 14 août 2017
     planche:
       numero: 

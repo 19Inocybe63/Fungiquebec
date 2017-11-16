@@ -10,7 +10,7 @@ details:
   nom-francais: Pleurote étalé / Pleurote en oreille
   ordre: Agaricales
   famille: Marasmiaceae
-  genre: Pleurocybella porrigens
+  genre: Pleurocybella
   espece: <i>Pleurocybella porrigens</i> (Pers.) Singer
   litterature: Singer, R. 1947. New genera of fungi. III. Mycologia. 39(1):77-89
 

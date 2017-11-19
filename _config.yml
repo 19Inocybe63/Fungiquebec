@@ -106,6 +106,10 @@ members:
 #            champs-description.
 #*****************************************************************************
 champs-details:
+  - name: classe
+    label: Classe
+    search: facet
+    format: italique
   - name: ordre
     label: Ordre
     search: facet

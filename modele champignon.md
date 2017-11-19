@@ -10,6 +10,7 @@ album-flickr:
 
 details:
   nom-francais: 
+  classe: 
   ordre: 
   famille: 
   genre: 

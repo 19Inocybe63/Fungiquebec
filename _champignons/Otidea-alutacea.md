@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Otidée couleur de cuir / Oreille alutacée
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Otidea

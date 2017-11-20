@@ -13,7 +13,7 @@ details:
   phylum: Basidiomycota
   sous-phylum: Agaricomycotina
   classe: Agaricomycetes
-  sous-classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Agaricaceae
   genre: Agaricus

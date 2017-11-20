@@ -8,7 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Agaric neigeux ; Agaric boule de neige
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Agaricomycotina
+  sous-phylum: Agaricomycotina
   classe: Agaricomycetes
+  sous-classe: Agaricomycetes
   ordre: Agaricales
   famille: Agaricaceae
   genre: Agaricus

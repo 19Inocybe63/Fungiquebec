@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Amanite farineuse ou Amanite poudrée de gris
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita

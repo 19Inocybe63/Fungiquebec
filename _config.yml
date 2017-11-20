@@ -106,8 +106,28 @@ members:
 #            champs-description.
 #*****************************************************************************
 champs-details:
+  - name: domaine
+    label: Domaine
+    search: facet
+    format: italique
+  - name: fungi
+    label: Fungi
+    search: facet
+    format: italique
+  - name: phylum
+    label: Phylum
+    search: facet
+    format: italique
+  - name: sous-phylum
+    label: Sous phylum
+    search: facet
+    format: italique
   - name: classe
     label: Classe
+    search: facet
+    format: italique
+  - name: sous-classe
+    label: Sous classe
     search: facet
     format: italique
   - name: ordre

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore retroussé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe:  Incertae sedis
   ordre: Polyporales
   famille: Phanerochaetaceae
   genre: Antrodiella

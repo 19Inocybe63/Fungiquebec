@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Armillaire obscure ou Armillaire d'Ostoya
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Armillaria

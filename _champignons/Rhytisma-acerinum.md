@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Tache goudronneuse de l'érable
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Leotiomycetes
+  sous-classe: Leotiomycetidae
   ordre: Rhytismatales
   famille: Rhytismataceae
   genre: Rhytisma

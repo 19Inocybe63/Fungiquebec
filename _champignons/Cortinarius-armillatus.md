@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire armillé ou Cortinaire à bracelets
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -216,7 +222,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 70-150 x 7-20 mm, bulbeux à la base, sec, glabre ou finement soyeux, blanchâtre à brun pâle, entouré de 2 à 4 bandelettes concentriques orange-rouge, avec une zone annulaire rouille au-dessus des bandes, mycélium basal blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -244,7 +249,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
@@ -263,6 +268,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 70-150 x 7-20 mm, bulbeux à la base, sec, glabre ou finement soyeux, blanchâtre à brun pâle, entouré de 2 à 4 bandelettes concentriques orange-rouge, avec une zone annulaire rouille au-dessus des bandes, mycélium basal blanchâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

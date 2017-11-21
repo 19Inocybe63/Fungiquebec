@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Clavaire fragile
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Clavariaceae
   genre: Clavaria
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: indistinct, court, légèrement atténué vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -248,6 +253,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: indistinct, court, légèrement atténué vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité, hémisphérique, en forme de chou-fleur, formé de nombreux petits chapeaux stipités, en partie imbriqués et arrivant d'une base commune ± centrée et très ramifiée, d'un diamètre maximal de 70-200 (500) mm Ø
   bibliographies: 
-  biotopes: pousse au sol, sur bois mort, ou près des souches à partir d'un sclérote, agent de carie blanche, Fagus, Quercus, parfois rapporté sur Picea et Pinus
+  biotopes: pousse au sol, sur bois mort, ou près des souches à partir d'un sclérote, agent de carie blanche, sous <i>Fagus</i>, <i>Quercus</i>, parfois rapporté sur <i>Picea</i> et <i>Pinus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

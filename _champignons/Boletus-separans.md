@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet à tubes détachés
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus

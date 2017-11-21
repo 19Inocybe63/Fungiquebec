@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Craterelle trompeuse
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Cantharellales
   famille: Cantharellaceae
   genre: Craterellus
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: indistinct, comme une courte extension de l'hyménophore, souvent creux, brun foncé à noirâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -250,6 +255,7 @@ description:
   sporee: rosé pâle à orange
   spherocytes: 
   sporocystes: 
+  stipe: indistinct, comme une courte extension de l'hyménophore, souvent creux, brun foncé à noirâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire odorant
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 40-100 x 8-15 mm Ø, cylindrique à claviforme, parfois radicant, sec, violet pâle au début, devenant argenté à blanchâtre ou faiblement brunâtre, avec armille à partir de la base, muni d'un voile gris blanchâtre à gris lilas qui se termine souvent par un anneau fragile et replié
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -235,12 +240,12 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration à gris sur le chapeau ; grisâtre à gris sur la chair
+    Potasse (KOH 10%) = pas de coloration à gris sur le chapeau; grisâtre à gris sur la chair
   receptacle: 
   remarques: 
   repartition: 
@@ -254,6 +259,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 40-100 x 8-15 mm Ø, cylindrique à claviforme, parfois radicant, sec, violet pâle au début, devenant argenté à blanchâtre ou faiblement brunâtre, avec armille à partir de la base, muni d'un voile gris blanchâtre à gris lilas qui se termine souvent par un anneau fragile et replié
   stipitipellis: 
   stipititrame: 
   stroma: 

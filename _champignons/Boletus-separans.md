@@ -232,7 +232,7 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 100-240 x 6-20 mm Ø, cylindrique, élargi vers le bas, finement réticulé, ± concolore avec ou plus pâle que le chapeau, glabre, blanchâtre, chair blanche
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en épithélium formant une palissade de cellules terminales emmêlées fusiformes à ventrues, (17) 18,7 - 24 (28,8) × (6,7) 7,9 - 12,7 (17,7) µm en moyenne, d'où émerge de longues hyphes 43-47,7 × 4-4,7 µm en moyenne
@@ -280,6 +280,7 @@ description:
   sporee: jaune brunâtre à ocre brunâtre
   spherocytes: 
   sporocystes: 
+  stipe: 100-240 x 6-20 mm Ø, cylindrique, élargi vers le bas, finement réticulé, ± concolore avec ou plus pâle que le chapeau, glabre, blanchâtre, chair blanche
   stipitipellis: 
   stipititrame: 
   stroma: 

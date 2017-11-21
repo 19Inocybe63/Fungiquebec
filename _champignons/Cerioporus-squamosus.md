@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore écailleux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Polyporaceae
   genre: Cerioporus
@@ -209,9 +215,9 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: par période ; de la mi-mai et à l'automne
+  phenologie: par période; de la mi-mai et à l'automne
   phialoconidies: 
-  pied: 20-80 mm de long x 10-40 mm d'épaisseur, ferme, plein, habituellement excentré, latéral, crème blanchâtre, se couvrant d’un fin velouté brun foncé à noir
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,7 +236,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: larges à maturité, angulaires et souvent irréguliers ; crème blanchâtre, devenant jaunâtre ; jusqu'à 15 mm de profondeur, non facilement séparables
+  pores: larges à maturité, angulaires et souvent irréguliers; crème blanchâtre, devenant jaunâtre; jusqu'à 15 mm de profondeur, non facilement séparables
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -253,6 +259,7 @@ description:
   sporee: blanche à jaune pâle
   spherocytes: 
   sporocystes: 
+  stipe: 20-80 mm de long x 10-40 mm d'épaisseur, ferme, plein, habituellement excentré, latéral, crème blanchâtre, se couvrant d’un fin velouté brun foncé à noir
   stipitipellis: 
   stipititrame: 
   stroma: 

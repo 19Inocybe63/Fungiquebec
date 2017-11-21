@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire ridé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 50-120 x 10-20 mm Ø, cylindrique, égal, parfois élargi vers la base, ferme, sec, lisse ou strié, furfuracé à l'apex, blanchâtre à brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, avec un subpellis celluleux
@@ -235,7 +240,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Liimatainen, Kare</b>. <i>Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America</i>, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
     <b>Niskanen, Tuula</b>. <i>Cortinarius subgenus Telamonia p.p. in North Europe</i>, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
     <b>Niskanen, Tuula, et al</b>. <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012), 12 p.
@@ -259,6 +264,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 50-120 x 10-20 mm Ø, cylindrique, égal, parfois élargi vers la base, ferme, sec, lisse ou strié, furfuracé à l'apex, blanchâtre à brunâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

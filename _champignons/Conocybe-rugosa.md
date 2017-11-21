@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Conocybe rugueux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Bolbitiaceae
   genre: Conocybe
@@ -58,7 +64,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Watling, R. ; Gregory, N. M</b>. <i>Census catalogue of world members of the Bolbitiaceae</i>. Bibliotheca Mycologica, 1981, 82:1-224
+    <b>Watling, R.; Gregory, N. M</b>. <i>Census catalogue of world members of the Bolbitiaceae</i>. Bibliotheca Mycologica, 1981, 82:1-224
   ascome: 
   ascospores: 
   asques: 
@@ -227,7 +233,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 25-43 x 1-2 mm Ø, égal ou parfois légèrement élargi vers la base, pruineux et crème vers l'apex, fibrilleux-floconneux, teinté de jaune pâle, paille à brunâtre vers la base, fonçant depuis la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -271,6 +276,7 @@ description:
   spherocytes: 
   sporocystes: 
   stipitipellis: 
+  stipe: 25-43 x 1-2 mm Ø, égal ou parfois légèrement élargi vers la base, pruineux et crème vers l'apex, fibrilleux-floconneux, teinté de jaune pâle, paille à brunâtre vers la base, fonçant depuis la base
   stipititrame: 
   stroma: 
   subhymenium: 

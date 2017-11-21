@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Crepidote à basidiospores sphériques
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Inocybaceae
   genre: Crepidotus
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: très court, latéral, en pseudopied
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -231,7 +236,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Bresadola, Ab. Dr. J</b>. Iconographia Mycologica, Vol. XVI (tab. 751-800), <i>Crepidotus, Flammula, Inocybe, Naucoria, Phylloporus</i>, Società Botanica Italiana, 1930, 124 p.
-    <b>Hesler, L. R. ; Smith, Alexander H</b>. <i>North American species of Crepidotus</i>, Hafner Publishing Company New York and London, 1965, 126 p. This reprint by Michael Wood & MykoWeb.com, June 2008
+    <b>Hesler, L. R.; Smith, Alexander H</b>. <i>North American species of Crepidotus</i>, Hafner Publishing Company New York and London, 1965, 126 p. This reprint by Michael Wood & MykoWeb.com, June 2008
     <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -252,6 +257,7 @@ description:
   sporee: brun rosâtre
   spherocytes: 
   sporocystes: 
+  stipe: très court, latéral, en pseudopied
   stipitipellis: 
   stipititrame: 
   stroma: 

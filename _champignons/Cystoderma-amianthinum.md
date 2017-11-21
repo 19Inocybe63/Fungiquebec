@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cystoderme furfuracé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Agaricaceae
   genre: Cystoderma
@@ -215,7 +221,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en double couche; Suprapellis en conioderme formé de chaînes de sphérocytes sphériques, elliptiques à subcylindriques, se brisant facilement en éléments celluleux, lisses à très légèrement ruguleuses, à paroi brune, issus du voile général, (12) 15,7 - 34,9 (40) × (9,1) 10,8 - 17,8 (25) µm; et un subpellis formé d'hyphes filamenteuses, hyalines à légèrement pigmentées

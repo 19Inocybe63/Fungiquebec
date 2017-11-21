@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Coprin chevelu
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Agaricaceae
   genre: Coprinus
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 70-300 x 10-25 mm Ø, élargi vers la base jusqu'à 30 mm, subbulbeux, parfois radicant, fragile, creux, glabre à soyeux-fibrilleux, blanc opaque, muni d'un petit anneau mobile blanc souvent sur la partie inférieure
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,7 +239,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    <b>Noordeloos, Machiel E.; Kuyper, Th. W.; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -251,6 +256,7 @@ description:
   sporee: noire
   spherocytes: 
   sporocystes: 
+  stipe: 70-300 x 10-25 mm Ø, élargi vers la base jusqu'à 30 mm, subbulbeux, parfois radicant, fragile, creux, glabre à soyeux-fibrilleux, blanc opaque, muni d'un petit anneau mobile blanc souvent sur la partie inférieure
   stipitipellis: 
   stipititrame: 
   stroma: 

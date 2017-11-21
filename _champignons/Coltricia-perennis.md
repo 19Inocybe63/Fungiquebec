@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore vivace
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Coltricia
@@ -216,7 +222,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 20-50 x 2-10 mm Ø, centré, parfois excentré, cylindrique, égal à ± aplati, souvent élargi vers la base, feutré vers la base, brun foncé à brun rouille
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,7 +241,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: subdécurrents, brun rouille à cannelle, jusqu'à 3 mm de longueur ; ronds-anguleux, devenant inégaux, 2-4 par mm, à dissépiments minces, parfois légèrement incisés ou dentés avec l'âge
+  pores: subdécurrents, brun rouille à cannelle, jusqu'à 3 mm de longueur; ronds-anguleux, devenant inégaux, 2-4 par mm, à dissépiments minces, parfois légèrement incisés ou dentés avec l'âge
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -260,6 +265,7 @@ description:
   sporee: brun jaunâtre pâle
   spherocytes: 
   sporocystes: 
+  stipe: 20-50 x 2-10 mm Ø, centré, parfois excentré, cylindrique, égal à ± aplati, souvent élargi vers la base, feutré vers la base, brun foncé à brun rouille
   stipitipellis: 
   stipititrame: 
   stroma: 

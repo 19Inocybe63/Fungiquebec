@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Coprin écailleux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinopsis
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 40-120 x 5-12 mm Ø, cylindrique, subégal, subbulbeux, creux, feutré, écailleux à laineux, strié blanchâtre, parfois avec restes de voile partiel ou d'aspect engainé, plus rarement avec anneau, avec rhizomorphes brunâtres à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,8 +241,6 @@ description:
   publications: |
     <b>Noordeloos, Machiel E.  Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
-  publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -258,6 +261,7 @@ description:
   sporee: brun noirâtre à noire
   spherocytes: 
   sporocystes: 
+  stipe: 40-120 x 5-12 mm Ø, cylindrique, subégal, subbulbeux, creux, feutré, écailleux à laineux, strié blanchâtre, parfois avec restes de voile partiel ou d'aspect engainé, plus rarement avec anneau, avec rhizomorphes brunâtres à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

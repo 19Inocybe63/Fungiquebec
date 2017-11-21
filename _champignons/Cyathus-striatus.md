@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cyathe strié ; Nid d'oiseau
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Agaricaceae
   genre: Cyathus
@@ -226,7 +232,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

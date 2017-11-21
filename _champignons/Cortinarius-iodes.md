@@ -173,7 +173,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées à subserrées, violet pâle devenant cannelle à brun rouille ; couvertes par la cortine lorsque jeune
+  lames: adnées, serrées à subserrées, violet pâle devenant cannelle à brun rouille; couvertes par la cortine lorsque jeune
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -207,7 +207,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent élargi à la base, devenant plus égal à maturité, visqueux, blanchâtre à lilas violacé ou argenté, souvent avec une zone annuliforme rouille, mycélium basal blanc et abondant
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -235,12 +234,12 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration, ou rosâtre sur la surface du chapeau ; brunâtre sur la chair
+    Potasse (KOH 10%) = pas de coloration, ou rosâtre sur la surface du chapeau; brunâtre sur la chair
   receptacle: 
   remarques: 
   repartition: 
@@ -254,6 +253,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent élargi à la base, devenant plus égal à maturité, visqueux, blanchâtre à lilas violacé ou argenté, souvent avec une zone annuliforme rouille, mycélium basal blanc et abondant
   stipitipellis: 
   stipititrame: 
   stroma: 

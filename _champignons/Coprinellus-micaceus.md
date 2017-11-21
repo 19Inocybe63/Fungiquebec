@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Coprin micacé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinellus
@@ -80,7 +86,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Dans la littérature, il est indique, Basidia 4-spored ; surrounded by 3-6 brachybasidia (Phylogeny and character evolution of the coprinoid mushroom genus Parasola as infered from LSU and ITS nrDNA Sequence data, by Nagy, Kocsubé, Papp, and Vágvölgyi ; Persoonia Jun 2009; 22:28-37) ; mais il s'agit plutôt de brachycystidia. Voir l'article suivant, The mushroom family Psathyrellaceae, Evidence for large-scale polyphyly of the genus Psathyrella, by Padamsee, Matheny, Dentinger, and McLaughlin. Science Direct, Molecular Phylogenetics and Evolution, 46 (2008) 415-429. Remerciements à Pierre-Arthur Moreau. »
+  commentaires: De Claude Kaufholtz-Couture. « Dans la littérature, il est indique, Basidia 4-spored; surrounded by 3-6 brachybasidia (Phylogeny and character evolution of the coprinoid mushroom genus Parasola as infered from LSU and ITS nrDNA Sequence data, by Nagy, Kocsubé, Papp, and Vágvölgyi; Persoonia Jun 2009; 22:28-37); mais il s'agit plutôt de brachycystidia. Voir l'article suivant, The mushroom family Psathyrellaceae, Evidence for large-scale polyphyly of the genus Psathyrella, by Padamsee, Matheny, Dentinger, and McLaughlin. Science Direct, Molecular Phylogenetics and Evolution, 46 (2008) 415-429. Remerciements à Pierre-Arthur Moreau. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 25-100 x 2-6 mm Ø, égal, élargi vers la base ou bulbeux, fragile, lisse à entièrement pubescent, blanc, souvent avec col en forme de volve
   pieds-steriles: 
   pigments: 
   pileipellis: en épithélium
@@ -232,7 +237,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    <b>Noordeloos, Machiel E.; Kuyper, Th. W.; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -252,6 +257,7 @@ description:
   sporee: brun foncé à noire
   spherocytes: 
   sporocystes: 
+  stipe: 25-100 x 2-6 mm Ø, égal, élargi vers la base ou bulbeux, fragile, lisse à entièrement pubescent, blanc, souvent avec col en forme de volve
   stipitipellis: 
   stipititrame: 
   stroma: 

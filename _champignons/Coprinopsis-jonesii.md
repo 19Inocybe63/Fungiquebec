@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Coprin laineux des charbonnières ou Coprin sosie du pied de lièvre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinopsis
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-130 x 3-10 mm Ø, blanchâtre, légèrement atténué vers l’apex, légèrement élargi à clavé vers la base ou bulbeux jusqu’à 13 mm Ø, creux, pubescent à entièrement floconneux-poilu, densément surtout sur la partie inférieure, glabrescent, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,7 +239,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    <b>Noordeloos, Machiel E.; Kuyper, Th. W.; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -251,6 +256,7 @@ description:
   sporee: noire
   spherocytes: 
   sporocystes: 
+  stipe: 30-130 x 3-10 mm Ø, blanchâtre, légèrement atténué vers l’apex, légèrement élargi à clavé vers la base ou bulbeux jusqu’à 13 mm Ø, creux, pubescent à entièrement floconneux-poilu, densément surtout sur la partie inférieure, glabrescent, blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

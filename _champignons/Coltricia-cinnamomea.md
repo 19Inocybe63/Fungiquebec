@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore cannelle
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Coltricia
@@ -51,7 +57,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: pousse au sol compact, dans la mousse le long des sentiers forestiers, rarement sur bois mort, forêt de feuillus (Quercus) ; champignon ne causant pas de carie du bois
+  biotopes: pousse au sol compact, dans la mousse le long des sentiers forestiers, rarement sur bois mort, forêt de feuillus <i>Quercus</i>; champignon ne causant pas de carie du bois
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 20-40 x 2-6 mm Ø, presque centré, égal à aplati, souvent élargi à la base, finement velouté, ocre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,7 +231,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: ± concolores à la face poroïde ; jusqu'à 2 mm de longueur ; ronds à anguleux, distinctement plus petits que 2 par mm, à dissépiments minces
+  pores: ± concolores à la face poroïde; jusqu'à 2 mm de longueur; ronds à anguleux, distinctement plus petits que 2 par mm, à dissépiments minces
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -250,6 +255,7 @@ description:
   sporee: brun jaunâtre
   spherocytes: 
   sporocystes: 
+  stipe: 20-40 x 2-6 mm Ø, presque centré, égal à aplati, souvent élargi à la base, finement velouté, ocre
   stipitipellis: 
   stipititrame: 
   stroma: 

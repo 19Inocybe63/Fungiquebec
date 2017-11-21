@@ -251,7 +251,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 

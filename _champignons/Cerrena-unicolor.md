@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Tramète unicolore
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Polyporaceae
   genre: Cerrena
@@ -95,7 +101,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: double ; 1) zone foncée séparant le tomentum piléique, mince, molle et spongieuse ; 2) partie inférieure subéreuse, brunâtre pâle jusqu'à 3 mm d'épaisseur au total
+  contexte: double; 1) zone foncée séparant le tomentum piléique, mince, molle et spongieuse; 2) partie inférieure subéreuse, brunâtre pâle jusqu'à 3 mm d'épaisseur au total
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -235,7 +241,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: continus et concolores au contexte inférieur, jusqu'à 10 mm de longueur ; variables, ronds à la marge ; allongés, sinueux, vite dédaloïdes et irpicoïdes vers la base, 3-4 par mm ; plus grands par endroits, à dissépiments épais et fimbriés au début, minces et lacérés avec l'âge
+  pores: continus et concolores au contexte inférieur, jusqu'à 10 mm de longueur; variables, ronds à la marge; allongés, sinueux, vite dédaloïdes et irpicoïdes vers la base, 3-4 par mm; plus grands par endroits, à dissépiments épais et fimbriés au début, minces et lacérés avec l'âge
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

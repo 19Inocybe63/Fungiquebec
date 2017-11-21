@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Mycène délicate
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Delicatula
@@ -202,7 +208,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 5-15 (25) x 5-7 mm Ø, cylindrique filiforme, égal, bulbilleux, cassant, lisse à finement velouté, transparent, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,6 +248,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 5-15 (25) x 5-7 mm Ø, cylindrique filiforme, égal, bulbilleux, cassant, lisse à finement velouté, transparent, blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

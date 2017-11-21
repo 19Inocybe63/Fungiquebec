@@ -58,7 +58,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur les pelouses, près ou sur bois pourri de feuillus (<i>Ulmus</i>)
+  biotopes: pousse au sol, sur les pelouses, près ou sur bois pourri de feuillus, <i>Ulmus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

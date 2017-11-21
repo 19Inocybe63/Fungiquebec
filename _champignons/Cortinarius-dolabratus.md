@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire en forme de dolabre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -52,7 +58,7 @@ description:
     (6,7) 6,9 - 8,5 (9,4) × (4,1) 4,2 - 4,8 (5,2) µm
     Q = (1,6) 1,64 - 1,8 (1,9) ; N = 30
     Me = 7,6 × 4,5 µm ; Qe = 1,7
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -211,7 +217,6 @@ description:
   peritheces: 
   phenologie: septembre
   phialoconidies: 
-  pied: 40-60 x 7-13 mm Ø, cylindrique, égal à claviforme, blanc avec des restes de cortine brun rougeâtre à l'apex, et des reflets violacés, base claviforme avec du mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (ixocutis), formé d'hyphes cylindriques à fusiformes 3-11 µm de largeur en moyenne
@@ -238,7 +243,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Liimatainen, Kare</b>. <i>Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America</i>, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
     <b>Niskanen, Tuula</b>. <i>Cortinarius subgenus Telamonia p.p. in North Europe</i>, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
     <b>Niskanen, Tuula, et al</b>. <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012), 12 p.
@@ -254,8 +259,8 @@ description:
   receptacle: 
   remarques: |
     Sous-genre Telamonia, section Duracini
-    Une fois déshydratée, la collection sent légèrement le maïs
-    Le nom français de ce champignon est une traduction libre de ma part
+    Une fois déshydratée, la collection sent légèrement le maïs.
+    Le nom français de ce champignon est une traduction libre de ma part.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -267,6 +272,7 @@ description:
   sporee: brune à brun-tabac
   spherocytes: 
   sporocystes: 
+  stipe: 40-60 x 7-13 mm Ø, cylindrique, égal à claviforme, blanc avec des restes de cortine brun rougeâtre à l'apex, et des reflets violacés, base claviforme avec du mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

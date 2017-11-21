@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pézize verdissante
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Leotiomycetes
+  sous-classe: Leotiomycetidae
   ordre: Helotiales
   famille: Chlorociboriaceae
   genre: Chlorociboria
@@ -44,7 +50,7 @@ description:
     (9,5) 10,3 - 13,4 (15) × (2,1) 2,3 - 3,2 (3,3) µm
     Q = (3,5) 3,6 - 4,7 (4,9) ; N = 30
     Me = 11,7 × 2,8 µm ; Qe = 4,2
-    (Piximètre formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre formule classique; mesures issues d'une sporée, dans E.G. 20%)
   asques: cylindriques fusiformes, octosporés et ± bisériés, apex IKI +b, (63,7) 64,5 - 66,4 (84,5) × (5,8) 5,9 - 6,4 (6,5) µm
   asterohyphidies: 
   avertissement: 
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 1 à 2 mm de long, minuscule, central ou excentré, égal, concolore à la face externe
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -256,6 +261,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 1 à 2 mm de long, minuscule, central ou excentré, égal, concolore à la face externe
   stipitipellis: 
   stipititrame: 
   stroma: 

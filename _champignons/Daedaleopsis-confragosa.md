@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Tramète rougissante
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Polyporaceae
   genre: Daedaleopsis

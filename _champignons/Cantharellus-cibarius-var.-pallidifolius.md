@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Chanterelle commune var. à plis pâles
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Cantharellales
   famille: Cantharellaceae
   genre: Cantharellus
@@ -111,7 +117,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -208,7 +214,7 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 35-80 x 10-30 mm Ø, cylindrique, égal à atténué vers la base, plein, blanc, devenant rouille ochracé au froissement
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -252,6 +258,7 @@ description:
   sporee: rosé et rose foncé (saumon)
   spherocytes: 
   sporocystes: 
+  stipe: 35-80 x 10-30 mm Ø, cylindrique, égal à atténué vers la base, plein, blanc, devenant rouille ochracé au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

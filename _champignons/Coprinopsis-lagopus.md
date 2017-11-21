@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Coprin pied-de-lièvre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinopsis
@@ -217,7 +223,6 @@ description:
   peritheces: 
   phenologie: de mai à juillet
   phialoconidies: 
-  pied: 50-100 x 2-5 mm Ø, légèrement atténué vers l'apex, clavé vers la base à bulbeux jusqu'à 8 mm Ø, creux, floconneux, hirsute, plus densément sur la partie inférieure, glabrescent, blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -244,7 +249,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    <b>Noordeloos, Machiel E.; Kuyper, Th. W.; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -261,6 +266,7 @@ description:
   sporee: noire
   spherocytes: 
   sporocystes: 
+  stipe: 50-100 x 2-5 mm Ø, légèrement atténué vers l'apex, clavé vers la base à bulbeux jusqu'à 8 mm Ø, creux, floconneux, hirsute, plus densément sur la partie inférieure, glabrescent, blanchâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

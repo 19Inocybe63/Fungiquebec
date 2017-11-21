@@ -175,7 +175,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: réduites à des veines ou des plis émarginés à subdécurrents ; en partie fourchues, anastomosées, espacées, blanches, à arêtes entières
+  lames: réduites à des veines ou des plis émarginés à subdécurrents; en partie fourchues, anastomosées, espacées, blanches, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

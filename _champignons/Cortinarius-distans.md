@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire à lames espacées
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -38,8 +44,8 @@ description:
   arete-lamellaire: recouverte d'un gélin sur presque toute sa longueur
   arthroconidies: 
   articles: |
-    <b>Cripps, Cathy L. ; Liimatainen, Kare, et al</b>. <i>Intercontinental distributions of species of Cortinarius, subgenus Phlegmacium, associated with Populus in western North America</i>, Botany 93: 711-721 (2015), 11 p.
-    <b>Liimatainen, K. ; Niskanen, T</b>. <i>The largest type study of Agaricales species to date: bringing identification and nomenclature of Phlegmacium (Cortinarius) into the DNA era</i>, Persoonia 33, 2014:98-140, 43 p.
+    <b>Cripps, Cathy L.; Liimatainen, Kare, et al</b>. <i>Intercontinental distributions of species of Cortinarius, subgenus Phlegmacium, associated with Populus in western North America</i>, Botany 93: 711-721 (2015), 11 p.
+    <b>Liimatainen, K.; Niskanen, T</b>. <i>The largest type study of Agaricales species to date: bringing identification and nomenclature of Phlegmacium (Cortinarius) into the DNA era</i>, Persoonia 33, 2014:98-140, 43 p.
     <b>Niskanen, Tuula, et al</b>. <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012), 12 p.
   ascome: 
   ascospores: 
@@ -55,7 +61,7 @@ description:
     (7,4) 7,8 - 8,6 (9) × (5,3) 5,4 - 6 (6,2) µm
     Q = (1,3) 1,4 - 1,5 (1,6) ; N = 30
     Me = 8,3 × 5,8 µm ; Qe = 1,4
-    (Piximètre, formule classique ; mesures issues d’une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d’une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -212,7 +218,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 20-35 x 5-6 mm Ø, cylindrique avec cortine formant une zone annuliforme ; creux, chiné, parfois avec bandes annulaires ; fibrilleux, légèrement concolore à plus foncé
   pieds-steriles: 
   pigments: 
   pileipellis: formé de deux couches, 1) suprapellis en cutis, constitué d'hyphes cylindriques, avec hyphes terminales obtuses, souvent en biseau, 24,1 - 59,7 × 4,7 - 8,4 µm en moyenne, 2) médiopellis formé de cellules plus grandes, ellipsoïdes à largement ellipsoïdes, ovoïdales, 23 - 52,9 × 10,5 - 19,7 µm en moyenne
@@ -239,7 +244,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Liimatainen, Kare</b>. <i>Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America</i>, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
     <b>Niskanen, Tuula</b>. <i>Cortinarius subgenus Telamonia p.p. in North Europe</i>, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
     <b>Niskanen, Tuula, et al</b>. <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012), 12 p.
@@ -264,6 +269,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 20-35 x 5-6 mm Ø, cylindrique avec cortine formant une zone annuliforme; creux, chiné, parfois avec bandes annulaires; fibrilleux, légèrement concolore à plus foncé
   stipitipellis: 
   stipititrame: 
   stroma: 

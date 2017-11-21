@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Trémelle à basidiospores jaunes
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Dacrymycetes
+  sous-classe: Incertae sedis
   ordre: Dacrymycetales
   famille: Dacrymycetaceae
   genre: Dacrymyces

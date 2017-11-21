@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire écailleux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -217,7 +223,6 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 40-100 x 5-15 mm Ø, ± cylindrique, subégal, plein, grisâtre avec des squamules gris-brun, formant des bandelettes en zigzag, dont l’apex est gris pâle avec reflet violet
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -245,7 +250,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
@@ -263,6 +268,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 40-100 x 5-15 mm Ø, ± cylindrique, subégal, plein, grisâtre avec des squamules gris-brun, formant des bandelettes en zigzag, dont l’apex est gris pâle avec reflet violet
   stipitipellis: 
   stipititrame: 
   stroma: 

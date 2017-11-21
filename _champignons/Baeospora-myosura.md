@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Collybie queue de souris
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Marasmiaceae
   genre: Baeospora

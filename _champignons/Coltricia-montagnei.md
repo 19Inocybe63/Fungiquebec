@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore de Montagne
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Coltricia
@@ -83,7 +89,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: indistinctement duplexe, 1) partie inférieure nettement plus dense ; 2) partie supérieure molle à subéreuse, concolore à la face poroïde jusqu'à 20 mm d'épaisseur au centre
+  contexte: indistinctement duplexe, 1) partie inférieure nettement plus dense; 2) partie supérieure molle à subéreuse, concolore à la face poroïde jusqu'à 20 mm d'épaisseur au centre
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -203,7 +209,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 10-40 x 3-20 mm Ø, centré ou à peine excentré, massif, souvent élargi vers la base, homogène, tomenteux à verruqueux, glabre par endroits avec l'âge, cannelle à brun rouille foncé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -223,7 +228,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: décurrents, 4-5 mm de profondeur ; anguleux au début, irréguliers et légèrement étirés près du pied, ensuite ils deviennent dédaléens par endroits, lacérés, 5-1,5 mm Ø
+  pores: décurrents, 4-5 mm de profondeur; anguleux au début, irréguliers et légèrement étirés près du pied, ensuite ils deviennent dédaléens par endroits, lacérés, 5-1,5 mm Ø
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -246,6 +251,7 @@ description:
   sporee: brun pâle
   spherocytes: 
   sporocystes: 
+  stipe: 10-40 x 3-20 mm Ø, centré ou à peine excentré, massif, souvent élargi vers la base, homogène, tomenteux à verruqueux, glabre par endroits avec l'âge, cannelle à brun rouille foncé
   stipitipellis: 
   stipititrame: 
   stroma: 

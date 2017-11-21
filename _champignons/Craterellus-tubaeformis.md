@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Craterelle en tube
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Cantharellales
   famille: Cantharellaceae
   genre: Craterellus
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-100 x 3-10 mm Ø, cylindrique, à ± égal, souvent comprimé, farci puis creux, lisse, parfois cireux, jaune orangé à brun orangé vers l'apex, jaune vers la base, brunissant avec l'âge, parfois blanchâtre à la base, avec ou sans mycélium basal
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -250,6 +255,7 @@ description:
   sporee: crème à jaunâtre
   spherocytes: 
   sporocystes: 
+  stipe: 30-100 x 3-10 mm Ø, cylindrique, à ± égal, souvent comprimé, farci puis creux, lisse, parfois cireux, jaune orangé à brun orangé vers l'apex, jaune vers la base, brunissant avec l'âge, parfois blanchâtre à la base, avec ou sans mycélium basal
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -221,7 +221,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 20-45 x 5-25 mm Ø, souvent excentré à latéral, court, subégal, souvent courbe, plein, jaune vers l'apex, brun vers la base, naissant de nombreux sclérotes
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis avec des hyphes pigmentées, emmêlées et émergentes 3-10 µm de largeur
@@ -271,6 +271,7 @@ description:
   sporee: brun olivacé
   spherocytes: 
   sporocystes: 
+  stipe: 20-45 x 5-25 mm Ø, souvent excentré à latéral, court, subégal, souvent courbe, plein, jaune vers l'apex, brun vers la base, naissant de nombreux sclérotes
   stipitipellis: 
   stipititrame: 
   stroma: 

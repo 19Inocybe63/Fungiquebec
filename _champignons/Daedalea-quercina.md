@@ -7,7 +7,13 @@ album-flickr:
   - 72157673932255201
 
 details:
-  nom-francais: Dédalée du chêne ou Lenzite du chêne
+  nom-francais: Dédalée du chêne ; Lenzite du chêne
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Daedalea

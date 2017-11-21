@@ -65,7 +65,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol sablonneux, dans la mousse, sous feuillus (<i>Quercus</i>)
+  biotopes: pousse sur sol sablonneux, dans la mousse, sous feuillus, <i>Quercus</i>
   boucles: observées dans le pileipellis, dans la trame lamellaire et dans le stipe
   brachybasidioles: 
   calicule: 

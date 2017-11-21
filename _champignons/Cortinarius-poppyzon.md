@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol calcaire, sous conifères et feuillus, <i>Picea</i>, <i>Pinus</i> et <i>Betula</i>
+  biotopes: pousse sur sol calcaire, sous conifères et feuillus, <i>Betula</i>, <i>Picea</i> et <i>Pinus</i>
   boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 

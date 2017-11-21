@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire à pied tortueux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -48,8 +54,8 @@ description:
   arete-lamellaire: fertile
   arthroconidies: 
   articles: |
-    <b>Cripps, Cathy L. ; Liimatainen, Kare, et al</b>. <i>Intercontinental distributions of species of Cortinarius, subgenus Phlegmacium, associated with Populus in western North America</i>, Botany 93: 711-721 (2015), 11 p.
-    <b>Liimatainen, K. ; Niskanen, T</b>. <i>The largest type study of Agaricales species to date: bringing identification and nomenclature of Phlegmacium (Cortinarius) into the DNA era</i>, Persoonia 33, 2014:98-140, 43 p.
+    <b>Cripps, Cathy L.; Liimatainen, Kare, et al</b>. <i>Intercontinental distributions of species of Cortinarius, subgenus Phlegmacium, associated with Populus in western North America</i>, Botany 93: 711-721 (2015), 11 p.
+    <b>Liimatainen, K.; Niskanen, T</b>. <i>The largest type study of Agaricales species to date: bringing identification and nomenclature of Phlegmacium (Cortinarius) into the DNA era</i>, Persoonia 33, 2014:98-140, 43 p.
     <b>Niskanen, Tuula, et al</b>. <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012), 12 p.
   ascome: 
   ascospores: 
@@ -224,10 +230,9 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 29-39 x 2-5 mm Ø, cylindrique, égal, courbe vers la base, creux, couvert de fibrilles pâles sur fond brun, brun foncé teinté d'orangé vers la base, avec mycélium basal cotonneux ; orné d'une zone annuliforme blanchâtre distincte
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches distinctes ; 1) un suprapellis en cutis formé d’hyphes avec pigmentation brun pâle à brune, à paroi mince, avec inclusion brun rouille, 3,2- 9,5 µm de largeur en moyenne ; 2) un subpellis formé d’hyphes en chaînes, à paroi mince, hyalines, 31,7 - 52,4 × (10,7) 15,2 - 21,6 (27,4) µm en moyenne
+  pileipellis: en deux couches distinctes; 1) un suprapellis en cutis formé d’hyphes avec pigmentation brun pâle à brune, à paroi mince, avec inclusion brun rouille, 3,2- 9,5 µm de largeur en moyenne; 2) un subpellis formé d’hyphes en chaînes, à paroi mince, hyalines, 31,7 - 52,4 × (10,7) 15,2 - 21,6 (27,4) µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -252,7 +257,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Liimatainen, Kare</b>. <i>Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America</i>, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
     <b>Niskanen, Tuula</b>. <i>Cortinarius subgenus Telamonia p.p. in North Europe</i>, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
@@ -267,7 +272,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: betteraves ; légèrement raphanoïde
+  saveur: betteraves; légèrement raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 
@@ -275,6 +280,7 @@ description:
   sporee: brun rouille à brun cannelle
   spherocytes: 
   sporocystes: 
+  stipe: 29-39 x 2-5 mm Ø, cylindrique, égal, courbe vers la base, creux, couvert de fibrilles pâles sur fond brun, brun foncé teinté d'orangé vers la base, avec mycélium basal cotonneux; orné d'une zone annuliforme blanchâtre distincte
   stipitipellis: 
   stipititrame: 
   stroma: 

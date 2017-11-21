@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cèpe à pores bleuissants
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
@@ -201,7 +207,7 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: cylindrique, dont l'apex est jaune et mauve du milieu vers la base
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -252,6 +258,7 @@ description:
   sporee: brun olive
   spherocytes: 
   sporocystes: 
+  stipe: cylindrique, dont l'apex est jaune et mauve du milieu vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

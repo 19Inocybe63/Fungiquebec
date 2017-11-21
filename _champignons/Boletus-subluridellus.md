@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet brun rougeâtre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
@@ -216,7 +222,7 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 15-23 x 4-9 mm Ø, long, solide, égal, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, revêtu sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracé globalement, pas du tout réticulé
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droites, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
@@ -267,6 +273,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
+  stipe: 15-23 x 4-9 mm Ø, long, solide, égal, pâle citron jaune, changeant au bleu verdâtre lorsqu'il est coupé, rouge dans la base en particulier dans le cortex, revêtu sur la base d'une mince couche d'hyphes apprimées couleur de soufre, pruineux-furfuracé globalement, pas du tout réticulé
   stipitipellis: 
   stipititrame: 
   stroma: 

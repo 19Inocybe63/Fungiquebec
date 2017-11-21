@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hydne septentrional
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Phanerochaetaceae
   genre: Climacodon
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: absent
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,7 +244,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    L'arbre portait 3 spécimens, tout situés sur de longues fissures ; deux étaient à un mètre et demi du sol, un troisième spécimen à près de trois mètres du sol.
+    L'arbre portait 3 spécimens, tout situés sur de longues fissures; deux étaient à un mètre et demi du sol, un troisième spécimen à près de trois mètres du sol.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -251,6 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: absent
   stipitipellis: 
   stipititrame: 
   stroma: 

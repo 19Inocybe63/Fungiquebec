@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Crépidote mollet
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Inocybaceae
   genre: Crepidotus
@@ -62,7 +68,7 @@ description:
     (5,4) 5,7 - 6,2 (6,5) × (5,4) 5,5 - 6 (6,4) µm
     Q = 1 ; N = 30
     Me = 5,9 × 5,8 µm ; Qe = 1
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -221,7 +227,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: absent ou pseudopied parfois présent
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, avec hyphes émergentes lisses à ± incrustées, dont le subpellis est non différencié, composé d'hyphes cylindriques, entrelacée, parfois ± immergées dans une couche gélifiée
@@ -249,7 +254,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Bresadola, Ab. Dr. J</b>. Iconographia Mycologica, Vol. XVI (tab. 751-800), <i>Crepidotus, Flammula, Inocybe, Naucoria, Phylloporus</i>, Società Botanica Italiana, 1930, 124 p.
-    <b>Hesler, L. R. ; Smith, Alexander H</b>. <i>North American species of Crepidotus</i>, Hafner Publishing Company New York and London, 1965, 126 p. This reprint by Michael Wood & MykoWeb.com, June 2008
+    <b>Hesler, L. R.; Smith, Alexander H</b>. <i>North American species of Crepidotus</i>, Hafner Publishing Company New York and London, 1965, 126 p. This reprint by Michael Wood & MykoWeb.com, June 2008
     <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -271,6 +276,7 @@ description:
   sporee: brun à brun tabac
   spherocytes: 
   sporocystes: 
+  stipe: absent ou pseudopied parfois présent
   stipitipellis: 
   stipititrame: 
   stroma: 

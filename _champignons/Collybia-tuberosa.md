@@ -251,7 +251,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 3-12 x 2-5 mm, lacrymoïde à fusoïde ventru, parfois subellipsoïde à subglobuleux, rouge brunâtre foncé, dur, uni au début, plissé à sillonné avec l'âge, à intérieur plein, blanc
+  stipe: 3-12 x 2-5 mm, lacrymoïde à fusoïde ventru, parfois subellipsoïde à subglobuleux, rouge brunâtre foncé, dur, uni au début, plissé à sillonné avec l'âge, à intérieur plein, blanc, arrivant d'un sclérote
   stipitipellis: 
   stipititrame: 
   stroma: 

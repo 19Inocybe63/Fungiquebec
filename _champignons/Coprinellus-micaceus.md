@@ -86,7 +86,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Dans la littérature, il est indiqué : Basidia 4-spored; surrounded by 3-6 brachybasidia (Phylogeny and character evolution of the coprinoid mushroom genus Parasola as infered from LSU and ITS nrDNA Sequence data, by Nagy, Kocsubé, Papp, and Vágvölgyi; Persoonia Jun 2009; 22:28-37); mais il s'agit plutôt de brachycystidia. Voir l'article suivant, The mushroom family Psathyrellaceae, Evidence for large-scale polyphyly of the genus Psathyrella, by Padamsee, Matheny, Dentinger, and McLaughlin. Science Direct, Molecular Phylogenetics and Evolution, 46 (2008) 415-429. Remerciements à Pierre-Arthur Moreau. »
+  commentaires: De Claude Kaufholtz-Couture. « Dans la littérature, il est indiqué Basidia 4-spored; surrounded by 3-6 brachybasidia (Phylogeny and character evolution of the coprinoid mushroom genus Parasola as infered from LSU and ITS nrDNA Sequence data, by Nagy, Kocsubé, Papp, and Vágvölgyi; Persoonia Jun 2009; 22:28-37); mais il s'agit plutôt de brachycystidia. Voir l'article suivant, The mushroom family Psathyrellaceae, Evidence for large-scale polyphyly of the genus Psathyrella, by Padamsee, Matheny, Dentinger, and McLaughlin. Science Direct, Molecular Phylogenetics and Evolution, 46 (2008) 415-429. Remerciements à Pierre-Arthur Moreau. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire à tête velue
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -78,7 +84,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Les bandelettes orangées sur le pied ne résultent pas du dépôt de basidiospores ; c'est la couleur du voile général de cette espèce. »
+  commentaires: De Yves Lamoureux. « Les bandelettes orangées sur le pied ne résultent pas du dépôt de basidiospores; c'est la couleur du voile général de cette espèce. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 30-100 x 3-8 mm Ø, cylindrique, égal, crème brunâtre, plus foncé à l'humidité, orné de fibrilles ocrées, parfois ± disposées en bandelettes orangées
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -235,7 +240,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
@@ -254,6 +259,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 30-100 x 3-8 mm Ø, cylindrique, égal, crème brunâtre, plus foncé à l'humidité, orné de fibrilles ocrées, parfois ± disposées en bandelettes orangées
   stipitipellis: 
   stipititrame: 
   stroma: 

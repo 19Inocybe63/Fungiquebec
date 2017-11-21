@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pézize citrine
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Leotiomycetes
+  sous-classe: Leotiomycetidae
   ordre: Helotiales
   famille: Helotiaceae
   genre: Bisporella

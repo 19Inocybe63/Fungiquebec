@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Coprin noir d'encre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Coprinopsis
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 70-150 x 8-20 mm Ø, égal ou élargi vers la base, soyeux-fibrilleux, blanchâtre, souvent avec une petite zone annuliforme marginée sur la partie inférieure
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis formé d'hyphes apprimées parallèles 4-20 µm Ø
@@ -235,7 +240,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
+    <b>Noordeloos, Machiel E.; Kuyper, Th. W.; Vellinger, E. C</b>. <i>Flora Agaricina Neerlandica</i>, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands, Taylor & Francis group, 2005, 236 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -255,6 +260,7 @@ description:
   sporee: noire
   spherocytes: 
   sporocystes: 
+  stipe: 70-150 x 8-20 mm Ø, égal ou élargi vers la base, soyeux-fibrilleux, blanchâtre, souvent avec une petite zone annuliforme marginée sur la partie inférieure
   stipitipellis: 
   stipititrame: 
   stroma: 

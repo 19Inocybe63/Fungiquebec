@@ -239,7 +239,7 @@ description:
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Ce polypore fut nommé à la mémoire du mycologue français <b>Pierre François Camille Montagne</b> (1784-1866)
+  remarques: Ce polypore fut nommé à la mémoire du mycologue français Pierre François Camille Montagne (1784-1866)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

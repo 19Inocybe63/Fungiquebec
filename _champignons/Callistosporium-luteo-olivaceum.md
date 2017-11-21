@@ -82,7 +82,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Ce qu'il y a de particulièrement intéressant avec ce « PCJ » est qu'une goutte de KOH 10% le fait virer au rouge vif presque instantannément (sur le chapeau ou sur les lames). Pas besoin de colorant au microscope non plus ; tout est rouge ! Alors si on a de la potasse, c'est une espèce facile à identifier, même si elle est très peu commune ! »
+  commentaires: De Yves Lamoureux. « Ce qu'il y a de particulièrement intéressant avec ce « PCJ » est qu'une goutte de KOH 10% le fait virer au rouge vif presque instantannément (sur le chapeau ou sur les lames). Pas besoin de colorant au microscope non plus; tout est rouge. Alors si on a de la potasse, c'est une espèce facile à identifier, même si elle est très peu commune ! »
   conidies: 
   conidiome: 
   conidiophores: 

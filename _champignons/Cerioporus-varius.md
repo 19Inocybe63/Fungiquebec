@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore vergeté
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Polyporaceae
   genre: Cerioporus
@@ -206,7 +212,7 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 10-20 x 4-7 mm Ø, central ou décentré à latéral, conique légèrement à la base, souvent courbé, sec, glabre et pâle à l'apex, devenant velouté et brun foncé à noir de la base vers le haut, coriace, dur
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,7 +232,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: souvent décurrents jusque sur la portion noire du pied, blanches à crème, 1-5 mm de longueur ; ronds à anguleux, 6-9 par mm, à dissépiments entiers
+  pores: souvent décurrents jusque sur la portion noire du pied, blanches à crème, 1-5 mm de longueur; ronds à anguleux, 6-9 par mm, à dissépiments entiers
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -251,6 +257,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 10-20 x 4-7 mm Ø, central ou décentré à latéral, conique légèrement à la base, souvent courbé, sec, glabre et pâle à l'apex, devenant velouté et brun foncé à noir de la base vers le haut, coriace, dur
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -208,7 +208,7 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: presque absent ou rudimentaire, très court et large, rarement > 1 mm, jaune pâle
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -254,6 +254,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: presque absent ou rudimentaire, très court et large, rarement > 1 mm, jaune pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Conocybe à pied blanc
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Bolbitiaceae
   genre: Conocybe
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 53-85 x 1-2 mm Ø, cylindrique, légèrement élargi du milieu vers la base ; légèrement strié, blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -250,6 +255,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 53-85 x 1-2 mm Ø, cylindrique, légèrement élargi du milieu vers la base; légèrement strié, blanchâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

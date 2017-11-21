@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet veiné
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletinellaceae
   genre: Boletinellus

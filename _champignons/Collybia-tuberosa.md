@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Collybie à sclérote noir
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Collybia
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -240,12 +245,13 @@ description:
   sac-sporifere: 
   saveur: indistincte
   sclerocystides: 
-  sclerote: lacrymoïde à fusoïde ventru, parfois subellipsoïde à subglobuleux, rouge brunâtre foncé, dur, uni au début, plissé à sillonné avec l'âge, à intérieur plein, blanc, 3-12 x 2-5 mm
+  sclerote: 
   soies: 
   soies-hymeniales: 
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 3-12 x 2-5 mm, lacrymoïde à fusoïde ventru, parfois subellipsoïde à subglobuleux, rouge brunâtre foncé, dur, uni au début, plissé à sillonné avec l'âge, à intérieur plein, blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

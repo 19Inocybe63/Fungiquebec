@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Collybie drapée d'or
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Cyptotrama
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 15-50 x 2-5 mm Ø, égal à légèrement atténué ou légèrement élargi vers la base, plein, finement granuleux-floconneux à fibrilleux, écailleux surtout vers la base, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -250,6 +255,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 15-50 x 2-5 mm Ø, égal à légèrement atténué ou légèrement élargi vers la base, plein, finement granuleux-floconneux à fibrilleux, écailleux surtout vers la base, concolore au chapeau
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire violacé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius

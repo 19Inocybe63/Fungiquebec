@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Clavaire violette
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Clavariaceae
   genre: Clavaria
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: jusqu'à 30 mm de longueur, 2-4 mm de largeur, variable, plus pâle, tan violacé terne, brun violacé grisâtre à grisâtre, jaunâtre avec l'âge, avec feutrage subiculaire blanc et parfois mycélien blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -248,6 +253,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: jusqu'à 30 mm de longueur, 2-4 mm de largeur, variable, plus pâle, tan violacé terne, brun violacé grisâtre à grisâtre, jaunâtre avec l'âge, avec feutrage subiculaire blanc et parfois mycélien blanc à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire des sphaignes
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -79,7 +85,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Son pied peut-être nettement plus long quand il vient parmi les sphaignes ; et <i>C. scaurus</i> est son sosie, mais il s’en différencie par des lames vert olive. »
+    De Yves Lamoureux. « Son pied peut-être nettement plus long quand il vient parmi les sphaignes; et <i>C. scaurus</i> est son sosie, mais il s’en différencie par des lames vert olive. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 50-150 x 10-20 mm Ø, cylindrique, égal, bulbeux marginé, strié-fibrilleux, violacé au début, brunissant avec l'âge, avec mycélium basal olive
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,7 +241,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
@@ -254,6 +259,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 50-150 x 10-20 mm Ø, cylindrique, égal, bulbeux marginé, strié-fibrilleux, violacé au début, brunissant avec l'âge, avec mycélium basal olive
   stipitipellis: 
   stipititrame: 
   stroma: 

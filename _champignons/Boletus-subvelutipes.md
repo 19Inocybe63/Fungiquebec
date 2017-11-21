@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet à pied velu
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
@@ -226,7 +232,7 @@ description:
   peritheces: 
   phenologie: de la fin juillet à septembre
   phialoconidies: 
-  pied: 85 x 20 mm Ø, égal à subégal, plein, sec, finement velouté, orange rougeâtre sur fond jaune, devenant plus rouge avec l’âge, bleuissant au froissement
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droites, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
@@ -274,6 +280,7 @@ description:
   sporee: brun olive
   spherocytes: 
   sporocystes: 
+  stipe: 85 x 20 mm Ø, égal à subégal, plein, sec, finement velouté, orange rougeâtre sur fond jaune, devenant plus rouge avec l’âge, bleuissant au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

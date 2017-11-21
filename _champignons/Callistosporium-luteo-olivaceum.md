@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Collybie jaune olivacé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Callistosporium
@@ -202,7 +208,7 @@ description:
   peritheces: 
   phenologie: de août à septembre
   phialoconidies: 
-  pied: 20-50 x 2-6 mm Ø, égal ou élargi vers la base, creux avec l'âge, entièrement finement poudreux au début, puis glabre sur la moitié supérieure, lisse, concolore au chapeau, avec mycélium basal blanc
+  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -244,6 +250,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 20-50 x 2-6 mm Ø, égal ou élargi vers la base, creux avec l'âge, entièrement finement poudreux au début, puis glabre sur la moitié supérieure, lisse, concolore au chapeau, avec mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cudonie jaune
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Leotiomycetes
+  sous-classe: Leotiomycetidae
   ordre: Rhytismatales
   famille: Cudoniaceae
   genre: Cudonia
@@ -209,7 +215,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

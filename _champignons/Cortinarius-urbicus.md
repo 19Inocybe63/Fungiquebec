@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Cortinaire citadin
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -52,7 +58,7 @@ description:
     (6,1) 7,2 - 9,1 (10) × (4,7) 4,8 - 5,4 (5,7) µm
     Q = (1,3) 1,4 - 1,7 (1,9) ; N = 30
     Me = 8,1 × 5,1 µm ; Qe = 1,6
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -211,10 +217,9 @@ description:
   peritheces: 
   phenologie: de mi-septembre à mi-octobre
   phialoconidies: 
-  pied: 40-75 x 20-35 mm Ø, cylindrique à claviforme, plein, ferme, base bulbeuse, blanc violacé jeune, devenant blanc crème à brunâtre dont l'apex est violacé à maturité
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches distinctes ; suprapellis en cutis et médiopellis constitué d'hyphes cylindriques entremêlées
+  pileipellis: en deux couches distinctes; suprapellis en cutis et médiopellis constitué d'hyphes cylindriques entremêlées
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -239,7 +244,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Liimatainen, Kare</b>. <i>Towards a better understanding of the systematics and diversity of Cortinarius, with an emphasis on species growing in boreal and temperate zones of Europe and North America</i>, Faculty of Biological and Environmental Sciences Department of Biosciences, Plant Biology, University of Helsinki, Finland, Academic dissertation, Helsinki 2013, 30 p.
     <b>Niskanen, Tuula</b>. <i>Cortinarius subgenus Telamonia p.p. in North Europe</i>, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
@@ -263,6 +268,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 40-75 x 20-35 mm Ø, cylindrique à claviforme, plein, ferme, base bulbeuse, blanc violacé jeune, devenant blanc crème à brunâtre dont l'apex est violacé à maturité
   stipitipellis: 
   stipititrame: 
   stroma: 

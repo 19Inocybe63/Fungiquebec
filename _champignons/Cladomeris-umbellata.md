@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore en ombelle
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Meripilaceae
   genre: Cladomeris
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre, poussant souvent au même endroit les années subséquentes
   phialoconidies: 
-  pied: centré, blanc à crème ou paille pâle, couvert de pores vers l'apex, plus lisse vers la base, élargi à la base, atténué vers le chapeau, ramifiant d'un tronc commun ± centré, égal, court et noduleux, jusqu'à 30 mm Ø, arrivant d'un sclérote noirâtre, dur, irrégulier, noduleux, avec courtes ramifications difformes, blanc à l'intérieur
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,7 +231,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: subdécurrents, concolores à la face poroïde, 1-2 mm de longueur ; anguleux sur le chapeau, allongés près du pied, 1-3 par mm, plus irréguliers sur le pied ; fendus et en partie sinueux, jusqu'à 2 mm Ø
+  pores: subdécurrents, concolores à la face poroïde, 1-2 mm de longueur; anguleux sur le chapeau, allongés près du pied, 1-3 par mm, plus irréguliers sur le pied; fendus et en partie sinueux, jusqu'à 2 mm Ø
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -251,6 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: centré, blanc à crème ou paille pâle, couvert de pores vers l'apex, plus lisse vers la base, élargi à la base, atténué vers le chapeau, ramifiant d'un tronc commun ± centré, égal, court et noduleux, jusqu'à 30 mm Ø, arrivant d'un sclérote noirâtre, dur, irrégulier, noduleux, avec courtes ramifications difformes, blanc à l'intérieur
   stipitipellis: 
   stipititrame: 
   stroma: 

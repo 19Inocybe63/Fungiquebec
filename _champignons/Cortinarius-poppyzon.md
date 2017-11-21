@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
@@ -52,7 +58,7 @@ description:
     (6,1) 6,4 - 7,5 (8) × (4,6) 4,7 - 5,3 (5,5) µm
     Q = (1,3) 1,32 - 1,5 (1,6) ; N = 30
     Me = 7 × 5 µm ; Qe = 1,4
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -213,7 +219,6 @@ description:
   peritheces: 
   phenologie: septembre
   phialoconidies: 
-  pied: 43-53 x 4-7 mm Ø, cylindrique, courbe, flexueux, soyeux-fibrilleux, guirlandes, ± bulbeux, beige avec reflets violacés, et mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, formé d'hyphes cylindriques avec pigmentation brun pâle, 2,2 - 5,2 µm Ø en moyenne
@@ -241,7 +246,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boyer, Roger</b>. <i>Les champignons de Sept-Îles</i>, http://w2.cegepsi.ca:8080/raymondboyer/Cortinaires_T.html
-    <b>Overholts, Lee Oras. ; Kauffman, Calvin Henry</b>. <i>(Agaricales) ; Hypodendrum ; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
+    <b>Overholts, Lee Oras.; Kauffman, Calvin Henry</b>. <i>(Agaricales); Hypodendrum; Cortinarius</i>, North American Flora, The New York Botanical Garden, vol. 10 part 5, 1932, 76 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -265,6 +270,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
+  stipe: 43-53 x 4-7 mm Ø, cylindrique, courbe, flexueux, soyeux-fibrilleux, guirlandes, ± bulbeux, beige avec reflets violacés, et mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

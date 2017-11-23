@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Ganodermataceae
   genre: Ganoderma
@@ -96,7 +102,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Alan Rockefeller. « <i>G. applanatum</i> est un nom européen, tandis que <i>G. megaloma</i> est un nom de la partie nord-est des États-Unis. »
+  commentaires: |
+    De Alan Rockefeller. « <i>G. applanatum</i> est un nom européen, tandis que <i>G. megaloma</i> est un nom de la partie nord-est des États-Unis. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Entolome bleu pourpre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
@@ -83,7 +89,8 @@ description:
   columelle: 
   commentaires: |
     De Machiel Noordeloos. « This is a nice little Entoloma, which may come near <i>E. incarnatofuscescens</i> from Europe, but is different is several details. As I not a specialist in Canadian name fungi, I cannot name this fungus, unfortunately.</i>
-    De Claude Kaufholtz-Couture. «  Première mention, Collection Yves Lamoureux, 1905, Cercle des mycologues de Montréal (CMM). »
+    De Claude Kaufholtz-Couture. « Première mention, Collection Yves Lamoureux, 1905, Cercle des mycologues de Montréal (CMM). »
+    De Claude Kaufholtz-Couture. « Il s'agit de la collection <i>Entoloma cf. incarnatofuscescens</i>, 2012M_240, <i>Canadian National Mycological Herbarium</i> (DAOM). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -209,7 +216,6 @@ description:
   peritheces: 
   phenologie: août
   phialoconidies: 
-  pied: 20-30 x 1-2 mm Ø, cylindrique, égal, légèrement plus pâle à l'apex, concolore au chapeau, glabre, avec bulbe blanchâtre à la base
   pieds-steriles: 
   pigments: 
   pileipellis: avec hyphes ascendant en trichoderme
@@ -245,7 +251,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 9, <i>les Entoloma</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Il s'agit de la collection <i>Entoloma cf. incarnatofuscescens</i>, 2012M_240, <i>Canadian National Mycological Herbarium</i> (DAOM).
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -257,6 +263,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
+  stipe: 20-30 x 1-2 mm Ø, cylindrique, égal, légèrement plus pâle à l'apex, concolore au chapeau, glabre, avec bulbe blanchâtre à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

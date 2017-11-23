@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Entolome saumon
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 40-130 x 2-6 mm Ø, longuement cylindrique, égal à légèrement élargi vers la base, tordu, creux, lisse, pruineux vers l'apex, strié longitudinalement, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -232,7 +237,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Kuyper, Th. W. ; Noordeloos, M. E. ; Vellinga, E. C. et al</b>. <i>Critical monographs on families of agarics and boleti occurring in the Netherlands</i>, Flora Agaricina Neerlandica, A. A. Balkema, Rotterdam, Brookfield, 1988; Volume 1, A. General part B. Special part, Entolomataceae by M. E. Noordeloos, 182 p.
+    <b>Kuyper, Th. W.; Noordeloos, M. E.; Vellinga, E. C. et al</b>. <i>Critical monographs on families of agarics and boleti occurring in the Netherlands</i>, Flora Agaricina Neerlandica, A. A. Balkema, Rotterdam, Brookfield, 1988; Volume 1, A. General part B. Special part, Entolomataceae by M. E. Noordeloos, 182 p.
     <b>Vesterholt, Jan</b>. <i>Contribution to the knowledge of species of Entoloma subgenus Leptonia</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XXI; Édizioni Candusso, 2002, 64 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -254,6 +259,7 @@ description:
   sporee: rose brunâtre
   spherocytes: 
   sporocystes: 
+  stipe: 40-130 x 2-6 mm Ø, longuement cylindrique, égal à légèrement élargi vers la base, tordu, creux, lisse, pruineux vers l'apex, strié longitudinalement, concolore au chapeau
   stipitipellis: 
   stipititrame: 
   stroma: 

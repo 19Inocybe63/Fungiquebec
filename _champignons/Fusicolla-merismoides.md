@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Sordariomycetes
+  sous-classe: Hypocreomycetidae
   ordre: Hypocreales
   famille: Nectriaceae
   genre: Fusicolla
@@ -76,7 +82,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Le champignon produit une gaine visqueuse blanche puis rose à orangée sur le substrat dans laquelle les périthèces peuvent être entièrement ou partiellement immergés. <i>F. merismoides</i>, de la famille des Nectriaceae, est souvent considéré comme le champignon visqueux orange des arbres. Il fait partie d'un complexe de nombreuses espèces phylogénétiques. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Le champignon produit une gaine visqueuse blanche puis rose à orangée sur le substrat dans laquelle les périthèces peuvent être entièrement ou partiellement immergés. <i>F. merismoides</i>, de la famille des Nectriaceae, est souvent considéré comme le champignon visqueux orange des arbres. Il fait partie d'un complexe de nombreuses espèces phylogénétiques. »
   conidies: de deux types; 1) macroconidies falciformes, de type Fusarium, septées, formées sur les phialides; 2) microconidies ellipsoïdes à allantoïdes, formées directement sur les hyphes
   conidiome: 
   conidiophores: phialides cylindriques à subulées, formant des macroconidies aux extrémités

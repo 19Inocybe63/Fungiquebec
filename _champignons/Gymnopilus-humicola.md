@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Gymnopilus humicole
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Gymnopilus
@@ -61,7 +67,7 @@ description:
     7,1 [8; 8,4] 9,3 x 4,6 [5; 5,1] 5,5 µm
     Q = 1,5 [1,6] 1,7; N = 30; C = 95%
     Me = 8,2 x 5,1 µm; Qe = 1,6
-    (Piximètre, formule statistique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -90,7 +96,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « D’après Maria Teresa Basso (<i>Manuale di Microscopia dei Funghi</i>, vol. 2), les hyménocystides deviennent légèrement verdâtre dans le bleu lactique ; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. »
+  commentaires: De Claude Kaufholtz-Couture. « D’après Maria Teresa Basso (<i>Manuale di Microscopia dei Funghi</i>, vol. 2), les hyménocystides deviennent légèrement verdâtre dans le bleu lactique; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -213,7 +219,6 @@ description:
   peritheces: 
   phenologie: juin
   phialoconidies: 
-  pied: 27-50 × 4-9 mm Ø, cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au chapeau, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis avec pigments pariétal et extrahyphique
@@ -239,7 +244,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bon, Marcel, ; Roux, Pierre</b>. <i>Le Genre Gymnopilus P. Karst., en Europe</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
+    <b>Bon, Marcel,; Roux, Pierre</b>. <i>Le Genre Gymnopilus P. Karst., en Europe</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
     <b>Hesler, L. R</b>. <i>North American Species of Gymnopilus</i>, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir, Hafner Publishing Company New York and London, 1969
     <b>Murrill, William Alphonso</b>. <i>Agaricaceae, Murrill, Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: |
@@ -260,6 +265,7 @@ description:
   soies-hymeniales: 
   sporee: rouille
   sporocystes: 
+  stipe: 27-50 × 4-9 mm Ø, cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au chapeau, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Gyromitre en turban
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Discinaceae
   genre: Gyromitra
@@ -205,7 +211,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 20-80 x 20-30 mm Ø, égal ou élargi vers la base, comprimé ou souvent cannelé vers la base, creux ou farci, lisse ou légèrement irrégulier, pubescent, finement granuleux, blanchâtre, crème rosé à brun rougeâtre terne
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -247,6 +252,7 @@ description:
   sporee: blanche à crème pâle
   spherocytes: 
   sporocystes: 
+  stipe: 20-80 x 20-30 mm Ø, égal ou élargi vers la base, comprimé ou souvent cannelé vers la base, creux ou farci, lisse ou légèrement irrégulier, pubescent, finement granuleux, blanchâtre, crème rosé à brun rougeâtre terne
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -257,8 +263,8 @@ description:
     gyromitrien ou helvellien
     Les toxines dérivés hydraziniques sont responsables.
   symptomes: |
-    Apparition retardée (+ de 6 heures) ; période d'incubation entre 6 et 12 heures.
-    Nausées, vomissement, parfois de la fièvre (rare dans les intoxications par des champignons) ; puis régression ou aggravation, surtout entre 36 et 48 heures après le repas ; atteinte hépatique s'accompagnant éventuellement d'une hémolyse, atteinte rénale, troubles neurologiques. La guérison est possible, mais l'atteinte hépatique peut être mortelle.
+    Apparition retardée (+ de 6 heures); période d'incubation entre 6 et 12 heures.
+    Nausées, vomissement, parfois de la fièvre (rare dans les intoxications par des champignons); puis régression ou aggravation, surtout entre 36 et 48 heures après le repas ; atteinte hépatique s'accompagnant éventuellement d'une hémolyse, atteinte rénale, troubles neurologiques. La guérison est possible, mais l'atteinte hépatique peut être mortelle.
   synonymie: |
     <i>Leptopodia monachella</i> (Scop.) Boud.
     <i>Phallus monachella</i> Scop., Flora carniolica 2:476 (1772)

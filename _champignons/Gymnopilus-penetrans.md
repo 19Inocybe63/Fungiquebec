@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Gymnopile pénétrant
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Gymnopilus
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 30-60 x 2-7 mm Ø, cylindrique, égal à parfois élargi vers la base, farci ou creux, avec fibrilles blanches sur fond jaunâtre puis fauve orangé, avec duvet blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -231,7 +236,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bon, Marcel, ; Roux, Pierre</b>. <i>Le Genre Gymnopilus P. Karst., en Europe</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
+    <b>Bon, Marcel,; Roux, Pierre</b>. <i>Le Genre Gymnopilus P. Karst., en Europe</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars XVII, Édizioni Candusso, 2002, 52 p.
     <b>Hesler, L. R</b>. <i>North American Species of Gymnopilus</i>, The University of Tennessee, Knoxville, Tennessee Mycologia Memoir, Hafner Publishing Company New York and London, 1969
     <b>Murrill, William Alphonso</b>. <i>Agaricaceae, Murrill, Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, 1917, 86 p.
   publications-microscopiques: 
@@ -249,6 +254,7 @@ description:
   sporee: brun orangé à brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 30-60 x 2-7 mm Ø, cylindrique, égal à parfois élargi vers la base, farci ou creux, avec fibrilles blanches sur fond jaunâtre puis fauve orangé, avec duvet blanc à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

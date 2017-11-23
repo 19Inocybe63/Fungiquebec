@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore perroquet
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Gliophorus
@@ -212,7 +218,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 8-38 x 2-3 mm Ø, d'épaisseur, cylindrique, égal, lisse, visqueux, vert pâle au-dessus et jaune orangé au-dessous lorsque jeune, décoloration à jaunâtre pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -253,6 +258,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 8-38 x 2-3 mm Ø, d'épaisseur, cylindrique, égal, lisse, visqueux, vert pâle au-dessus et jaune orangé au-dessous lorsque jeune, décoloration à jaunâtre pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

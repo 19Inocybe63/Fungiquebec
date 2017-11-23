@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Galérine des dicranes
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hymenogastraceae
   genre: Galerina
@@ -52,7 +58,7 @@ description:
     (8,4) 8,9 - 9,8 (11,8) × (5) 5,2 - 6 (6,9) µm
     Q = (1,4) 1,5 - 1,8 (1,9) ; N = 30
     Me = 9,4 × 5,7 µm ; Qe = 1,7
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -209,7 +215,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 40-50 x 15-20 mm Ø, cartilagineux, creux, pruineux à l'apex, finement tomenteux à la base, sans restes vélaires, miel sombre, légèrement plus foncé vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'un suprapellis en cutis dont les hyphes mesures (39,1) 40,1 - 50,5 (64,7) × (14,1) 14,12 - 25,1 (31,3) µm en moyenne, et d'un subpellis indéfférencié
@@ -236,7 +241,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Smith, Alexander H. ; Singer, Rolf</b>. <i>A monograph on the Genus Galerina Earle</i>, Hafner Publishing Company, New York and London, 1964, 385 p.
+    <b>Smith, Alexander H.; Singer, Rolf</b>. <i>A monograph on the Genus Galerina Earle</i>, Hafner Publishing Company, New York and London, 1964, 385 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -256,6 +261,7 @@ description:
   sporee: brun rouille à brun cannelle
   spherocytes: 
   sporocystes: 
+  stipe: 40-50 x 15-20 mm Ø, cartilagineux, creux, pruineux à l'apex, finement tomenteux à la base, sans restes vélaires, miel sombre, légèrement plus foncé vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

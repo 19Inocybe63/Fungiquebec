@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Géoglosse difforme
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Geoglossomycetes
+  sous-classe: Incertae sedis
   ordre: Geoglossales
   famille: Geoglossaceae
   genre: Geoglossum
@@ -39,8 +45,8 @@ description:
   arthroconidies: 
   articles: |
     <b>Hakelier, Nils</b>. <i>Three new swedish species of geoglossum</i>, Svensk Botanisk Tidskrift, Bd. 61, H. 3, 1967, 6 p.
-    <b>Kučera, Viktor, ; Nitare, Johan, et al</b>. <i>Geoglossaceous fungi in Slovakia 5. Geoglossum uliginosum, taxonomy and nomenclature</i>, Mycotaxon, Volume 124, pp. 111-115, April-June 2013, 5 p.
-    <b>Kučera, Viktor, ; Lizoň, Pavel</b>. <i>Geoglossaceous fungi in Slovakia III. The genus Geoglossum</i>, Biologia 67/4:654-658, 2012, Section Botany, 5 p.
+    <b>Kučera, Viktor,; Nitare, Johan, et al</b>. <i>Geoglossaceous fungi in Slovakia 5. Geoglossum uliginosum, taxonomy and nomenclature</i>, Mycotaxon, Volume 124, pp. 111-115, April-June 2013, 5 p.
+    <b>Kučera, Viktor,; Lizoň, Pavel</b>. <i>Geoglossaceous fungi in Slovakia III. The genus Geoglossum</i>, Biologia 67/4:654-658, 2012, Section Botany, 5 p.
     <b>Ohenoja, Esteri</b>. <i>Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland</i>, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
     <b>Priou, Jean-Paul</b>. <i>Contribution aux Geoglossum de France</i>, Association Mycologique et botanique Ploemeur-Morbihan, 5 p.
   ascome: visqueux, 51-68 mm de longueur, noir

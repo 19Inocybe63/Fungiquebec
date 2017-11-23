@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Entolome à pied bleuté
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma

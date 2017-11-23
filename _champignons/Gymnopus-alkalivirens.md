@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Collybie pourprée ou Collybie obscure
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Gymnopus
@@ -214,7 +220,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-80 mm x 4-5 mm Ø, cylindriques, plus ou moins égales, avec parfois une base légèrement gonflée et parfois subradicant, sec, glabre, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -257,6 +262,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 30-80 mm x 4-5 mm Ø, cylindriques, plus ou moins égales, avec parfois une base légèrement gonflée et parfois subradicant, sec, glabre, concolore au chapeau
   stipitipellis: 
   stipititrame: 
   stroma: 

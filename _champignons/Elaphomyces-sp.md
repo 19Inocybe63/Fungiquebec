@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Elaphomyces nouvelle espèce
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Eurotiomycetes
+  sous-classe: Eurotiomycetidae
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces

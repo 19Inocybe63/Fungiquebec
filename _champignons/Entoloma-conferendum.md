@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Entolome à spores étoilées
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Entolomataceae
   genre: Entoloma

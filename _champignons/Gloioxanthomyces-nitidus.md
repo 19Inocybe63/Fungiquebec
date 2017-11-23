@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore luisant
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Incertae sedis
   genre: Gloioxanthomyces
@@ -203,7 +209,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 20-80 x 2-5 mm Ø, cylindrique, égal à légèrement élargi vers l'apex, parfois flexueux, creux, lisse, visqueux, luisant au sec, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -245,6 +250,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 20-80 x 2-5 mm Ø, cylindrique, égal à légèrement élargi vers l'apex, parfois flexueux, creux, lisse, visqueux, luisant au sec, concolore au chapeau
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet châtain
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Gyroporaceae
   genre: Gyroporus
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 48-50 x 14-15 mm Ø, subégal à souvent renflé au milieu ou vers la base ou étranglé à l'apex et à la base, inégal, cassant, farci au début, devenant creux à maturité, finement velouté, concolore au chapeau ou plus pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -231,8 +236,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -248,6 +253,7 @@ description:
   sporee: jaune pâle à chamois
   spherocytes: 
   sporocystes: 
+  stipe: 48-50 x 14-15 mm Ø, subégal à souvent renflé au milieu ou vers la base ou étranglé à l'apex et à la base, inégal, cassant, farci au début, devenant creux à maturité, finement velouté, concolore au chapeau ou plus pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

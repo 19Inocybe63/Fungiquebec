@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Collybie à pied velouté
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Flammulina

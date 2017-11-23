@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Collybie du chêne
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Gymnopus
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: de mai à octobre
   phialoconidies: 
-  pied: 10-100 x 2-7 mm Ø, cylindrique, égale, parfois légèrement évasé à la base, sec, flexibles et fibreux, glabre, blanchâtre au-dessus, grisâtre pâle en dessous, devenant plus foncé, creux à maturité, généralement avec de fins rhizomorphes blanchâtres attachés à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -247,6 +252,7 @@ description:
   sporee: blanc à crème ou blanc jaunâtre pâle
   spherocytes: 
   sporocystes: 
+  stipe: 10-100 x 2-7 mm Ø, cylindrique, égale, parfois légèrement évasé à la base, sec, flexibles et fibreux, glabre, blanchâtre au-dessus, grisâtre pâle en dessous, devenant plus foncé, creux à maturité, généralement avec de fins rhizomorphes blanchâtres attachés à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

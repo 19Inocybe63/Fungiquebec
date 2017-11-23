@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet indogotier
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Gyroporaceae
   genre: Gyroporus
@@ -212,7 +218,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 85 x 32 mm Ø, subégal à renflé au milieu ou vers la base, cassant, sec, farci au début, devenant creux à maturité, subtomenteux-fibrilleux, concolore au chapeau, bleuissant au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -238,8 +243,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -255,6 +260,7 @@ description:
   sporee: jaune pâle
   spherocytes: 
   sporocystes: 
+  stipe: 85 x 32 mm Ø, subégal à renflé au milieu ou vers la base, cassant, sec, farci au début, devenant creux à maturité, subtomenteux-fibrilleux, concolore au chapeau, bleuissant au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

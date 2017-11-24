@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Clitocybe roux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Hygrophoropsidaceae
   genre: Hygrophoropsis
@@ -38,7 +44,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Holec, Jan. ; Kolarik, Miroslav</b>. <i>Notes on the identity of Hygrophoropsis rufa (Basidiomycota, Boletales)</i>, Czech Mycology 65(1):15–24, June 10, 2013
+    <b>Holec, Jan.; Kolarik, Miroslav</b>. <i>Notes on the identity of Hygrophoropsis rufa (Basidiomycota, Boletales)</i>, Czech Mycology 65(1):15–24, June 10, 2013
   ascome: 
   ascospores: 
   asques: 
@@ -202,7 +208,6 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 33-36 x 7-8 mm Ø, cylindrique court, égal, atténué à élargi vers la base, robuste, sec, mat, tomenteux-granuleux sur la moitié supérieure, brun ocre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,6 +248,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 33-36 x 7-8 mm Ø, cylindrique court, égal, atténué à élargi vers la base, robuste, sec, mat, tomenteux-granuleux sur la moitié supérieure, brun ocre
   stipitipellis: 
   stipititrame: 
   stroma: 

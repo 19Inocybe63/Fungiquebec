@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hypholome couleur de briques
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Hypholoma
@@ -252,7 +258,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-100 x 5-15 mm Ø, égal, crème à l'apex, vineux vers la base, parfois teinté de jaune par endroits
   pieds-steriles: 
   pigments: 
   pileipellis: en deux couches distinctes, suprapellis formé d’hyphes en rectocutis et subpellis celluleux
@@ -300,6 +305,7 @@ description:
   sporee: brun violacé foncé
   spherocytes: 
   sporocystes: 
+  stipe: 50-100 x 5-15 mm Ø, égal, crème à l'apex, vineux vers la base, parfois teinté de jaune par endroits
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -40,7 +40,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 10-50 mm de hauteur x 20 x 60 mm Ø, irrégulièrement lobulaire, occasionnellement bilobé, à marge enroulée au début, puis étalée à maturité, entière à légèrement lacérée, hyménium blanc à crème lorsque jeune, souvent brun jaunâtre lorsque sec, rugueux, excipulum crème à beige, légèrement plus foncée que l'hyménium, finement pubescent à pubescent, parfois avec peu de petites nervures s'étendant sur le tiers basal de la surface de l’excipulum à partir du stipe
+  apothecie: 10-50 mm de hauteur x 20-60 mm Ø, irrégulièrement lobulaire, occasionnellement bilobé, à marge enroulée au début, puis étalée à maturité, entière à légèrement lacérée, hyménium blanc à crème lorsque jeune, souvent brun jaunâtre lorsque sec, rugueux, excipulum crème à beige, légèrement plus foncée que l'hyménium, finement pubescent à pubescent, parfois avec peu de petites nervures s'étendant sur le tiers basal de la surface de l’excipulum à partir du stipe
   arete-lamellaire: 
   arthroconidies: 
   articles: 

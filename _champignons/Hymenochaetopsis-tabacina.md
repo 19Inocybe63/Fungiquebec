@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Stérée tabac
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Hymenochaetopsis
@@ -38,7 +44,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Yang, Jiao ; Dai, Li-Dan ; He, Shuang-Hui</b>. <i>Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China</i>, Mycological Progress, February 2016
+    <b>Yang, Jiao,; Dai, Li-Dan,; He, Shuang-Hui</b>. <i>Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China</i>, Mycological Progress, February 2016
   ascome: 
   ascospores: 
   asques: 

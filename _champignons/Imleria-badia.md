@@ -87,7 +87,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Pour cette étude micrographique, l'utilisation du NH<SUB>4</SUB>OH 2% et du KOH 5% doit être limitée, car les éléments observables se dissolvent très facilement. Ici, l'utilisation du NaCl iso 0,9% ou l'eau glycérinée 10% prend son importance dans les incrustations des hyphes du pileipellis, mais surtout dans les hyménocystides vacuolaires. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -247,8 +248,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Pour cette étude micrographique, l'utilisation du NH<SUB>4</SUB>OH 2% et du KOH 5% doit être limitée, car les éléments observables se dissolvent très facilement. Ici, l'utilisation du NaCl iso 0,9% ou l'eau glycérinée 10% prend toute sa pertinence, par exemple, dans les incrustations des hyphes du pileipellis, mais surtout dans les hyménocystides vacuolaires.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

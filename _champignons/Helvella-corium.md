@@ -217,7 +217,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques avec apex claviformes, devient progressivement élargi à l'apex, hyalines dans l'eau glycérinée 10 %, ou brun, à contenu finement granuleux, 3,5-8,5 µm Ø
+  paraphyses: cylindriques avec apex claviformes, devient progressivement élargi à l'apex, hyalines dans l'eau glycérinée 10%, ou brun, à contenu finement granuleux, 3,5-8,5 µm Ø
   parasite: 
   paroi-peritheciale: 
   peridiole: 

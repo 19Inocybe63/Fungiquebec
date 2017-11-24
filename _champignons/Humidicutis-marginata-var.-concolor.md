@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore à lames marginées, variété concolore
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Humidicutis
@@ -195,7 +201,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance:  solitaire, ou grégaire, en petit groupe
+  mode-de-croissance: solitaire, ou grégaire, en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

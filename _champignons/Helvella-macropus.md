@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Helvelle à long pied
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
@@ -34,7 +40,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 5-55 mm Ø, 4-12 mm de haut, profondément cupulée, cupuliforme à discoïde avec l'âge, souvent latéralement comprimé
+  apothecie: 4-12 mm de haut x 5-55 mm Ø, profondément cupulée, cupuliforme à discoïde avec l'âge, souvent latéralement comprimé
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -202,7 +208,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 4-65 x 2-9 mm Ø, cylindrique, égal à élargie à la base, apex typiquement conique, brun gris clair, densément pubescent à villeux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -228,7 +233,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Abbott, Sean P. ; Currah, R. S</b>. <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
+    <b>Abbott, Sean P.; Currah, R. S</b>. <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
     <b>Dissing, Henry</b>. <i>The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden</i>, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -250,6 +255,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
+  stipe: 4-65 x 2-9 mm Ø, cylindrique, égal à élargie à la base, apex typiquement conique, brun gris clair, densément pubescent à villeux
   stipitipellis: 
   stipititrame: 
   stroma: 

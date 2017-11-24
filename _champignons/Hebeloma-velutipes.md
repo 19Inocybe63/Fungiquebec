@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hébélome à pied duveteux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hymenogastraceae
   genre: Hebeloma
@@ -46,12 +52,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques-claviformes, parfois utriformes, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations carminophiles ?) 24,7 [26 ; 28,5] 29,7 × 6,7 [7,4 ; 8,8] 9,5 µm en moyenne
+  basides: cylindriques-claviformes, parfois utriformes, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations carminophiles ?) 24,7 [26; 28,5] 29,7 × 6,7 [7,4; 8,8] 9,5 µm en moyenne
   basidiospores: |
     citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, presque lisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, hyalines dans E.G. 20 %, fortement dextrinoïdes (D4), non cyanophiles
     (8,6) 10 - 11,8 (12) × (5,5) 5,6 - 6,6 (6,7) µm
-    Q = (1,6) 1,7 - 1,9 (2) ; N = 30
-    Me = 10,9 × 6,1 µm ; Qe = 1,8
+    Q = (1,6) 1,7 - 1,9 (2); N = 30
+    Me = 10,9 × 6,1 µm; Qe = 1,8
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -63,7 +69,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: nombreuses, présentent sur toute la longueur, semblables aux cheilocystides, cylindriques-claviformes à longuement cylindriques-claviformes, lagéniformes, 19,5 [62,8 ; 100,1] 143,4 × 3,4 [6,5 ; 9,2] 12,3 µm en moyenne
+  caulocystides: nombreuses, présentent sur toute la longueur, semblables aux cheilocystides, cylindriques-claviformes à longuement cylindriques-claviformes, lagéniformes, 19,5 [62,8; 100,1] 143,4 × 3,4 [6,5; 9,2] 12,3 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -76,7 +82,7 @@ description:
   chancre: 
   chapeau: conique au début, convexe puis étalé à maturité, glabre, crème à brun pâle, brun tan, 22-44 mm Ø
   cheilochrysocystides:
-  cheilocystides: abondantes, polymorphes, cylindriques à claviformes, longuement claviformes, parfois avec apex subcapité, utriformes, parfois flexueuses, parfois tortueuses, à paroi mince, bouclées, 24,5 [48,9 ; 71,5] 95,9 × 6,3 [7,8 ; 9,2] 10,7 µm en moyenne
+  cheilocystides: abondantes, polymorphes, cylindriques à claviformes, longuement claviformes, parfois avec apex subcapité, utriformes, parfois flexueuses, parfois tortueuses, à paroi mince, bouclées, 24,5 [48,9; 71,5] 95,9 × 6,3 [7,8; 9,2] 10,7 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -242,8 +248,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Beker, H. J. ; Eberhardt, U. ; Vesterholt, J</b>. <i>Hebeloma (Fr.) P. Kumm.</i> Fungi Europaei vol. 14, Ed. Candusso Edizioni, 2016.
-    <b>Smith, Alexander H. ; Evenson, Vera Stuck ; Mitchel, Duane H</b>. <i>The Veiled Species of Hebeloma in the Western United States</i>, Ann Arbor the University of Michigan Press, 1983, 228 p.
+    <b>Beker, H. J.; Eberhardt, U.; Vesterholt, J</b>. <i>Hebeloma (Fr.) P. Kumm.</i> Fungi Europaei vol. 14, Ed. Candusso Edizioni, 2016.
+    <b>Smith, Alexander H.; Evenson, Vera Stuck ; Mitchel, Duane H</b>. <i>The Veiled Species of Hebeloma in the Western United States</i>, Ann Arbor the University of Michigan Press, 1983, 228 p.
     <b>Vesterholt, Jan</b>. <i>The genus Hebeloma</i>, Fungi of Northern Europe, vol. 3, Danish Mycological Society, 2005, p. 76 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -253,7 +259,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Collection (cKc0575) étudiée sur matériel déshydraté
+  remarques: Collection cKc0575 étudiée sur matériel déshydraté
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Collybie à grandes spores
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Hymenopellis
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 103 x 13 mm Ø, élargi un peu vers la base, longuement radicant, avec pseudorhize de 31 mm de long, lisse ou finement strié, blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en hyménoderme
@@ -254,6 +259,7 @@ description:
   sporee: blanchâtre, crème
   spherocytes: 
   sporocystes: 
+  stipe: 103 x 13 mm Ø, élargi un peu vers la base, longuement radicant, avec pseudorhize de 31 mm de long, lisse ou finement strié, blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore crête-de-coq
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-50 x 1-4 mm Ø, cylindrique, égal, légèrement radicant, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, occasionnellement formé d'hyphes apprimées ± dressées, sans subpellis différencié
@@ -255,6 +260,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 30-50 x 1-4 mm Ø, cylindrique, égal, légèrement radicant, concolore au chapeau
   stipitipellis: en cutis
   stipititrame: 
   stroma: 

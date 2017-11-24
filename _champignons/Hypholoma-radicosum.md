@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hypholome radicant
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Hypholoma
@@ -52,7 +58,7 @@ description:
     5,8 [6,8; 7,2] 8,1 x 3,8 [4,4; 4,6] 5,1 µm
     Q = 1,5 [1,54; 1,6] 1,7; N = 30; C = 95%
     Me = 7 x 4,5 µm; Qe = 1,6
-    (Piximètre, formule statistique ; mesures issues de spores contenues dans les lames, dans le Rouge Congo ammoniacal)
+    (Piximètre, formule statistique; mesures issues de spores contenues dans les lames, dans le Rouge Congo ammoniacal)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 60-120 x 4-8 mm Ø, cylindrique, égal, renflé et radicant à la base, parfois longuement, chiné ou squamuleux, avec pseudorhize bien développée, blanc vers l'apex, brun rouille vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis constitué d’un suprapellis entre 10-20 µm et un subpellis entre 40-50 µm
@@ -255,6 +260,7 @@ description:
   sporee: brun pourpre
   spherocytes: 
   sporocystes: 
+  stipe: 60-120 x 4-8 mm Ø, cylindrique, égal, renflé et radicant à la base, parfois longuement, chiné ou squamuleux, avec pseudorhize bien développée, blanc vers l'apex, brun rouille vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

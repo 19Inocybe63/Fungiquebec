@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hydne concrescent
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Thelephorales
   famille: Bankeraceae
   genre: Hydnellum

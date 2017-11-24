@@ -80,7 +80,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse au centre et mince à la marge, ferme, blanchâtre à crème
   chancre: 
-  chapeau: conique au début, convexe puis étalé à maturité, glabre, crème à brun pâle, brun tan, 22-44 mm Ø
+  chapeau: 22-44 mm Ø, conique au début, convexe puis étalé à maturité, glabre, crème à brun pâle, brun tan
   cheilochrysocystides:
   cheilocystides: abondantes, polymorphes, cylindriques à claviformes, longuement claviformes, parfois avec apex subcapité, utriformes, parfois flexueuses, parfois tortueuses, à paroi mince, bouclées, 24,5 [48,9; 71,5] 95,9 × 6,3 [7,8; 9,2] 10,7 µm en moyenne
   cheilomacrocystides: 
@@ -271,7 +271,7 @@ description:
   sporee: brun jaune rouille à brun foncé olivâtre
   spherocytes: 
   sporocystes: 
-  stipe: cylindrique, bulbeux, avec de petites fibrilles sur le long, plus pâle à l'apex, brun cerf à la base, plein, 37-43 x 5-6 mm Ø
+  stipe: 37-43 x 5-6 mm Ø, cylindrique, bulbeux, avec de petites fibrilles sur le long, plus pâle à l'apex, brun cerf à la base, plein
   stipitipellis: 
   stipititrame: 
   stroma: 

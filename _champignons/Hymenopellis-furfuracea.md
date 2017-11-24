@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Collybie furfuracée
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Hymenopellis
@@ -217,7 +223,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 80-400 x 3-10 mm Ø, légèrement élargi vers la base, avec pseudorhize enfouie dans le substrat, rigide, subcartilagineux, sec, souvent strié, furfuracé de brun sur fond blanchâtre, avec pseudorhize blanche, devenant teinté de cannelle à rouille au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis, formé d'une couche subhyménodermique de cellules clavées, piriformes à ± pédicellées, gélatinisées, bouclées, à paroi légèrement épaissie, lisses, hyalines, souvent à contenu bistre, 36-55 x 15-22 µm, mélangées à des cellules géantes, profondément radicantes, à paroi légèrement épaissie à la base, 85-35 µm, avec piléocystides dispersées, souvent concentrée au disque et dans les régions marginales, cylindriques à maturité, ventrues à la base, à paroi épaissie jusqu'à 1,5 µm de largeur, hyalines, 120-150 x 10-13 µm, avec subpellis formé d'hyphes emmêlées, subgélatinisées, 3-5 µm Ø
@@ -263,6 +268,7 @@ description:
   sporee: blanchâtre, crème
   spherocytes: 
   sporocystes: 
+  stipe: 80-400 x 3-10 mm Ø, légèrement élargi vers la base, avec pseudorhize enfouie dans le substrat, rigide, subcartilagineux, sec, souvent strié, furfuracé de brun sur fond blanchâtre, avec pseudorhize blanche, devenant teinté de cannelle à rouille au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

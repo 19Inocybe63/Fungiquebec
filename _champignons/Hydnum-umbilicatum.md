@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hydne ombiliqué
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Cantharellales
   famille: Hydnaceae
   genre: Hydnum
@@ -210,7 +216,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 20-100 x 5-10 mm Ø, cylindrique, égal et centré, légèrement élargi vers la base, orangé ou concolore au chapeau, se tachant d'orange puis de brun au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -253,6 +258,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 20-100 x 5-10 mm Ø, cylindrique, égal et centré, légèrement élargi vers la base, orangé ou concolore au chapeau, se tachant d'orange puis de brun au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

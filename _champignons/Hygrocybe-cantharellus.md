@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore chanterelle
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 3-11 x 1-5 mm Ø, longuement élancé, cylindrique à égal ou légèrement atténué vers la base, parfois comprimé, fragile, farci à creux, lisse, sec, concolore au chapeau, jaunâtre pâle à blanchâtre à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -248,6 +253,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 3-11 x 1-5 mm Ø, longuement élancé, cylindrique à égal ou légèrement atténué vers la base, parfois comprimé, fragile, farci à creux, lisse, sec, concolore au chapeau, jaunâtre pâle à blanchâtre à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

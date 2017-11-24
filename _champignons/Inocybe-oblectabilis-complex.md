@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
@@ -48,11 +54,11 @@ description:
   arete-lamellaire: fertile
   arthroconidies: 
   articles: |
-    <b>Kropp, Bradley R. ; Matheny, P. Brandon, et al</b>. <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection</i> «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
-    <b>Kuo, Michael ; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis</i> (<i>Inocybaceae, Agaricales</i>), MycoKeys 11:23-31 (2015), 9 p.
+    <b>Kropp, Bradley R.; Matheny, P. Brandon, et al</b>. <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection</i> «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
+    <b>Kuo, Michael; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis</i> (<i>Inocybaceae, Agaricales</i>), MycoKeys 11:23-31 (2015), 9 p.
     <b>Kuyper, Thomas W.</b>. <i>Begin eens met… Vezelkoppen (Inocybe) - 2. Voorlopige Determinatiesleutel tot de Knobbelsporige Vezelkoppen</i>, Coolia 49(1): 11-17, 2006, 7 p.
     <b>Lecomte, Marcel</b>. <i>Vous avez dit P.D.A.B. ?</i>, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
-    <b>Matheny, P. Brandon ; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
+    <b>Matheny, P. Brandon; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
     <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
     <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i> – v02 (20-Dec-2016), University of Tennessee
   ascome: 
@@ -67,8 +73,8 @@ description:
   basidiospores: |
     goniosporées à 6-10 bosses, ± coniques, à subquadrangulaires, anguleuses à noduleuses, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun à ± brun rougeâtre dans E.G. 20%, ferrugineuses dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     (9,1) 9,5 - 10,8 (11,1) × (5,6) 6 - 7,6 (8) µm
-    Q = (1,2) 1,3 - 1,6 (1,8) ; N = 30
-    Me = 10,1 × 7 µm ; Qe = 1,5
+    Q = (1,2) 1,3 - 1,6 (1,8); N = 30
+    Me = 10,1 × 7 µm; Qe = 1,5
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -232,7 +238,6 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -260,11 +265,11 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Bon, Marcel</b>, <i>Clé monographique du genre Inocybe</i>, Association d'Écologie et de Mycologie, Lille; Documents Mycologiques, tome 27; Fascicule N° 105, avril 1997; Fascicule N° 108, décembre 1997; Fascicule N° 111, juin 1998
-    <b>Bresadola, Ab. Dr. J. ; Alessio, C. L.</b>, Iconographia Mycologica, Vol. XXIX, <i>Inocybe</i>, Società Botanica Italiana, 1980, 367 p. et supplément
+    <b>Bresadola, Ab. Dr. J.; Alessio, C. L.</b>, Iconographia Mycologica, Vol. XXIX, <i>Inocybe</i>, Società Botanica Italiana, 1980, 367 p. et supplément
     <b>Ferrari, Erminio</b>. <i>Inocybe alpine e subalpine Il genere Inocybe (Fr.) Fr. nel Nord Italia e paesi limotrofi</i>, Fungi non Delineati, pars 34-36, Edizioni Candusso, 2006, 464 p.
-    <b>Grund, D. W. ; Stuntz, D. E</b>. <i>Nova Scotian Inocybes</i>, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1 ; vol. 62, 1970, Inocybe 2 ; vol. 67, 1975, Inocybe 3 ; vol. 69, 1977, Inocybe 4 ; vol. 72, 1980, Inocybe 5 ; vol. 73, 1981, Inocybe 6 ; vol. 75, 1983, Inocybe 7 ; vol. 76, 1984, Inocybe 8
-    <b>Murrill, William Alphonso, ; Kauffman, Calvin Henry, ; Overholts, Lee Oras</b>, <i>Agaricaceae (Murrill) ; Inocybe (Kauffman) ; Pholiota (Overholts)</i>, North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
+    <b>Grund, D. W.; Stuntz, D. E</b>. <i>Nova Scotian Inocybes</i>, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1; vol. 62, 1970, Inocybe 2; vol. 67, 1975, Inocybe 3; vol. 69, 1977, Inocybe 4; vol. 72, 1980, Inocybe 5; vol. 73, 1981, Inocybe 6; vol. 75, 1983, Inocybe 7; vol. 76, 1984, Inocybe 8
     <b>Kuyper, Thomas W.</b> <i>A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden 1986, 134 p.
+    <b>Murrill, William Alphonso,; Kauffman, Calvin Henry,; Overholts, Lee Oras</b>, <i>Agaricaceae (Murrill); Inocybe (Kauffman); Pholiota (Overholts)</i>, North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
     <b>Stangl, Johann</b>. <i>Guida alla determinazione dei funghi Vol. 3° Inocybe</i>, Saturnia, 1e Edizione italiana, 1991, 437 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

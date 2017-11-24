@@ -254,7 +254,7 @@ description:
   sporee: crème
   spherocytes: 
   sporocystes: 
-  stipe: 4-130 x 2-35 mm Ø, égale à agrandie, typiquement élargi au milieu, creux, fortement nervuré et profondément alvéolé, finement pubescent, à la base blanche à crème à brun pâle grisâtre
+  stipe: 4-130 x 2-35 mm Ø, égal à agrandi, typiquement élargi au milieu, creux, fortement nervuré et profondément alvéolé, finement pubescent, à la base blanche à crème à brun pâle grisâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

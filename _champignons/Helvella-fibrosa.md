@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Helvelle fibreuse
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
@@ -34,12 +40,12 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 12 mm de hauteur, 15 mm Ø, comprimée latéralement au début, puis légèrement cupuliforme à étalée, à marge ondulée, stipitée
+  apothecie: 12 mm de hauteur x 15 mm Ø, comprimée latéralement au début, puis légèrement cupuliforme à étalée, à marge ondulée, stipitée
   arete-lamellaire: 
   arthroconidies: 
   articles: |
     <b>Korf, R.P</b>. Nomenclatural notes. 12. <i>Untangling Hedwig's Octospora villosa, Helvella fibrosa comb. nov.</i>, Mycotaxon 103; 307-312. BSM ref. 12:7335
-    <b>Anderson, P. J. ; Ickis, Marguerite G.</b>. <i>Massachusetts Species of Helvella</i>, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
+    <b>Anderson, P. J.; Ickis, Marguerite G.</b>. <i>Massachusetts Species of Helvella</i>, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
   ascome: 
   ascospores: 
   asques: 
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 10-40 x 1-5 mm Ø, subégal, arrondi à la coupe, plein, densément pubescent, gris brun
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,7 +238,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Abbott, Sean P. ; Currah, R. S</b>. <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
+    <b>Abbott, Sean P.; Currah, R. S</b>. <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
     <b>Dissing, Henry</b>. <i>The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden</i>, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
@@ -250,6 +255,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
+  stipe: 10-40 x 1-5 mm Ø, subégal, arrondi à la coupe, plein, densément pubescent, gris brun
   stipitipellis: 
   stipititrame: 
   stroma: 

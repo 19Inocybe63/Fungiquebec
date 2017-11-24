@@ -212,7 +212,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 20-40 mm x 5-20 mm Ø à l'apex, souvent gonflé et velouté ou spongieux, surtout vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -262,6 +261,7 @@ description:
   sporee: brune
   spherocytes: 
   sporocystes: 
+  stipe: 20-40 mm x 5-20 mm Ø à l'apex, souvent gonflé et velouté ou spongieux, surtout vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

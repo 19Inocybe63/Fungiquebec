@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Helvelle crépue
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
@@ -205,7 +211,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 4-130 x 2-35 mm Ø, égale à agrandie, typiquement élargi au milieu, creux, fortement nervuré et profondément alvéolé, finement pubescent, à la base blanche à crème à brun pâle grisâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -232,7 +237,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Abbott, Sean P. ; Currah, R. S</b>. <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
+    <b>Abbott, Sean P.; Currah, R. S</b>. <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
     <b>Dissing, Henry</b>. <i>The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden</i>, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
@@ -249,6 +254,7 @@ description:
   sporee: crème
   spherocytes: 
   sporocystes: 
+  stipe: 4-130 x 2-35 mm Ø, égale à agrandie, typiquement élargi au milieu, creux, fortement nervuré et profondément alvéolé, finement pubescent, à la base blanche à crème à brun pâle grisâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

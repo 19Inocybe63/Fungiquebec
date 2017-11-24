@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore jaune soufre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 20-70 x 3-10 nm Ø, égal, parmi comprimé, creux, lisse, viscidule, vite sec, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en trichoderme avec subpellis non différencié
@@ -255,6 +260,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 20-70 x 3-10 nm Ø, égal, parmi comprimé, creux, lisse, viscidule, vite sec, concolore au chapeau
   stipitipellis: constitué de terminaisons hyphales légèrement émergentes, cylindriques
   stipititrame: formé d'hyphes parallèles
   stroma: 

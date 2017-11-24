@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Dermatose des amanites
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Sordariomycetes
+  sous-classe: Hypocreomycetidae
   ordre: Hypocreales
   famille: Hypocreaceae
   genre: Hypomyces

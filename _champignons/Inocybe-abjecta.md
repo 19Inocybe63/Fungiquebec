@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Inocybe négligé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
@@ -76,8 +82,8 @@ description:
   basidiospores: |
     léiosporées, elliptiques citriformes à sommet subtronqué en vue frontale, amygdaliformes à citriformes avec apex coniques à ± ogives, parfois subtronquées vues de profil, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire, parfois avec pore germinatif 0,6-0,8 µm Ø, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (7,5) 8 - 9,3 (10,7) × (4,5) 4,8 - 5,5 (6,7) µm
-    Q = (1,5) 1,6 - 1,8 (2) ; N = 30
-    Me = 8,8 × 5,2 µm ; Qe = 1,7
+    Q = (1,5) 1,6 - 1,8 (2); N = 30
+    Me = 8,8 × 5,2 µm; Qe = 1,7
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -110,7 +116,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « D'après l'article de Grund et Stuntz (<i>Nova Scotian Inocybe</i>, vol. II, pp. 925-927), <i>I. abjecta</i> a de rares caulocystides sommitales non métuloïdes. Elles se présentent comme des hyphes terminales et ne sont présentes qu'à l'apex du stipe. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « D'après l'article de Grund et Stuntz (<i>Nova Scotian Inocybe</i>, vol. II, pp. 925-927), <i>I. abjecta</i> a de rares caulocystides sommitales non métuloïdes. Elles se présentent comme des hyphes terminales et ne sont présentes qu'à l'apex du stipe. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -237,7 +244,6 @@ description:
   peritheces: 
   phenologie: en juillet
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis dont les hyphes terminales sont un peu emmêlées, subtrichodermiques, avec pigments
@@ -280,7 +286,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    D'après la Clé des Inocybes de Ray Fatto: Code = A C E H K L N Q - (<i>I. abjecta</i>)  ;  A C F H K L N Q - (<i>I. fuscidula</i>)
+    D'après la Clé des Inocybes de Ray Fatto: Code = A C E H K L N Q - (<i>I. abjecta</i>);  A C F H K L N Q - (<i>I. fuscidula</i>)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

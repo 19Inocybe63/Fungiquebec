@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Inocybe à pied brunissant
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
@@ -58,10 +64,10 @@ description:
   arete-lamellaire: fertile
   arthroconidies: 
   articles: |
-    <b>Kropp, Bradley R. ; Matheny, P. Brandon, et al</b>. <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection</i> «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
-    <b>Kuo, Michael ; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis</i> (<i>Inocybaceae, Agaricales</i>), MycoKeys 11:23-31 (2015), 9 p.
+    <b>Kropp, Bradley R.; Matheny, P. Brandon, et al</b>. <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection</i> «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
+    <b>Kuo, Michael; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis</i> (<i>Inocybaceae, Agaricales</i>), MycoKeys 11:23-31 (2015), 9 p.
     <b>Lecomte, Marcel</b>. <i>Vous avez dit P.D.A.B. ?</i>, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
-    <b>Matheny, P. Brandon ; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
+    <b>Matheny, P. Brandon; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
     <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
     <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i> – v02 (20-Dec-2016), University of Tennessee
   ascome: 
@@ -76,8 +82,8 @@ description:
   basidiospores: |
     léiosporées, typiquement fusiformes à subcylindracées, à sommet un peu conique, mais obtus ou étiré et base tronquée ou trapézoïdales, parfois à aspect pentagonal allongé, ± étranglé à subgibbeux, à paroi mince 0,1-0,2 µm, avec un petit appendice hilaire, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (12,4) 13,8 - 16,1 (17,4) × (4,4) 4,9 - 5,6 (6,2) µm
-    Q = (2,5) 2,7 - 3,4 (3,6) ; N = 30
-    Me = 15 × 5,2 µm ; Qe = 2,9
+    Q = (2,5) 2,7 - 3,4 (3,6); N = 30
+    Me = 15 × 5,2 µm; Qe = 2,9
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -110,7 +116,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: De Claude Kaufholtz-Couture. « Sous-genre Inocybe = Inocybium (Earle Sing.); Section Inocybe = Lacerae; Sous-section Lacerinae. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Sous-genre Inocybe = Inocybium (Earle Sing.); Section Inocybe = Lacerae; Sous-section Lacerinae. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -239,7 +246,6 @@ description:
   peritheces: 
   phenologie: de mai à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: suprapellis à hyphes articulées 15-30 (50) x (8) 12-15 (20) µm, à pigment mixte ou lisse à ± zébrant; subpellis à hyphes élargies 25-40 µm, mais rarement subisodiamétriques
@@ -247,7 +253,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles, sublagéniformes, fusiformes à fusiformes ventrues dont l'apex est parfois ± obtus, rarement ovoïdales 42 - 44 × 19 - 23 µm en moyenne; longuement pédicellées, émergentes au ⅔, lorsque présentes, les cristaux d'oxalate sont très peu nombreux, ammoniaco -, à paroi fine à moyenne 1,2 - 2,1 µm; (48,9 - 81,2 × 14,1 - 25,6 µm en moyenne
+  pleurocystides: occasionnelles, sublagéniformes, fusiformes à fusiformes ventrues dont l'apex est parfois ± obtus, rarement ovoïdales 42 - 44 × 19 - 23 µm en moyenne; longuement pédicellées, émergentes au ⅔, lorsque présentes, les cristaux d'oxalate sont très peu nombreux, ammoniaco -, à paroi fine à moyenne 1,2 - 2,1 µm; 48,9 - 81,2 × 14,1 - 25,6 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -267,10 +273,10 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Bon, Marcel</b>, <i>Clé monographique du genre Inocybe</i>, Association d'Écologie et de Mycologie, Lille; Documents Mycologiques, tome 27; Fascicule N° 105, avril 1997; Fascicule N° 108, décembre 1997; Fascicule N° 111, juin 1998
-    <b>Bresadola, Ab. Dr. J. ; Alessio, C. L.</b>, Iconographia Mycologica, Vol. XXIX, <i>Inocybe</i>, Società Botanica Italiana, 1980, 367 p. et supplément
+    <b>Bresadola, Ab. Dr. J.; Alessio, C. L.</b>, Iconographia Mycologica, Vol. XXIX, <i>Inocybe</i>, Società Botanica Italiana, 1980, 367 p. et supplément
     <b>Ferrari, Erminio</b>. <i>Inocybe alpine e subalpine Il genere Inocybe (Fr.) Fr. nel Nord Italia e paesi limotrofi</i>, Fungi non Delineati, pars 34-36, Edizioni Candusso, 2006, 464 p.
-    <b>Grund, D. W. ; Stuntz, D. E</b>. <i>Nova Scotian Inocybes</i>, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1 ; vol. 62, 1970, Inocybe 2 ; vol. 67, 1975, Inocybe 3 ; vol. 69, 1977, Inocybe 4 ; vol. 72, 1980, Inocybe 5 ; vol. 73, 1981, Inocybe 6 ; vol. 75, 1983, Inocybe 7 ; vol. 76, 1984, Inocybe 8
-    <b>Murrill, William Alphonso, ; Kauffman, Calvin Henry, ; Overholts, Lee Oras</b>, <i>Agaricaceae (Murrill) ; Inocybe (Kauffman) ; Pholiota (Overholts)</i>, North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
+    <b>Grund, D. W.; Stuntz, D. E</b>. <i>Nova Scotian Inocybes</i>, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1; vol. 62, 1970, Inocybe 2; vol. 67, 1975, Inocybe 3; vol. 69, 1977, Inocybe 4; vol. 72, 1980, Inocybe 5; vol. 73, 1981, Inocybe 6; vol. 75, 1983, Inocybe 7; vol. 76, 1984, Inocybe 8
+    <b>Murrill, William Alphonso,; Kauffman, Calvin Henry,; Overholts, Lee Oras</b>, <i>Agaricaceae (Murrill); Inocybe (Kauffman); Pholiota (Overholts)</i>, North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
     <b>Kuyper, Thomas W.</b> <i>A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden 1986, 134 p.
     <b>Stangl, Johann</b>. <i>Guida alla determinazione dei funghi Vol. 3° Inocybe</i>, Saturnia, 1e Edizione italiana, 1991, 437 p.
   publications-microscopiques: |

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Hygrophore conique
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hygrophoraceae
   genre: Hygrocybe
@@ -218,7 +224,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 3-20 x 3-15 mm Ø, égal, cylindrique droit à souvent légèrement tordu, fragile, se fendant facilement, creux avec l'âge, lisse, strié-fibrilleux, humide à sec, jaune, orangé, jaune olive sordide à orange rougeâtre, blanchâtre à gris à la base, noircissant avec l'âge ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -266,6 +271,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 3-20 x 3-15 mm Ø, égal, cylindrique droit à souvent légèrement tordu, fragile, se fendant facilement, creux avec l'âge, lisse, strié-fibrilleux, humide à sec, jaune, orangé, jaune olive sordide à orange rougeâtre, blanchâtre à gris à la base, noircissant avec l'âge ou au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

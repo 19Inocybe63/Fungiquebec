@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Helvelle coriace
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Helvellaceae
   genre: Helvella
@@ -49,15 +55,15 @@ description:
   arthroconidies: 
   articles: |
     <b>Korf, R.P</b>. <i>Nomenclatural notes. 12. Untangling Hedwig's Octospora villosa, Helvella fibrosa comb. nov.</i> Mycotaxon 103:307-312, 2008. BSM ref. 12: 7335
-    <b>Abbott, Sean P. ; Currah, R. S.</b> <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
-    <b>Anderson, P. J. ; Ickis, Marguerite G.</b> <i>Massachusetts Species of Helvella</i>, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
+    <b>Abbott, Sean P.; Currah, R. S.</b> <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
+    <b>Anderson, P. J.; Ickis, Marguerite G.</b> <i>Massachusetts Species of Helvella</i>, Mycologia, Vol. 13, No. 4/5 (Jul.-Sep., 1921), pp. 201-229, 32 p.
   ascome: 
   ascospores: |
     unisériées, largement ellipsoïdes à ellipsoïdes, lisses (voir remarque), à paroi mince à légèrement épaissie, à contenu uniguttulé, hyalines dans E.G. 20%, iodonégatives dans le melzer, non cyanophiles
     (16,2) 16,6 - 18,1 (19,3) × (11,2) 11,3 - 12 (12,7) µm
-    Q = (1,4) 1,43 - 1,56 (1,6) ; N = 30
-    Me = 17,3 × 11,6 µm ; Qe = 1,5
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    Q = (1,4) 1,43 - 1,56 (1,6); N = 30
+    Me = 17,3 × 11,6 µm; Qe = 1,5
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   asques: cylindriques, operculés, octosporés, iodonégatifs, 225-250 x 12,2-17 µm Ø
   asterohyphidies: 
   avertissement: 
@@ -220,7 +226,6 @@ description:
   peritheces: 
   phenologie: de juin, à août (septembre)
   phialoconidies: 
-  pied: (2) 5-30 (40) x 5-8 mm, court, égal ou élargi vers la base, rond, légèrement comprimé à légèrement côtelé surtout à la base à la coupe, rarement fortement côtelé, plein, brun très foncé à noir vers l'apex, souvent blanc à gris pâle à la base, couvert d'un duvet gris-brun
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -266,6 +271,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: (2) 5-30 (40) x 5-8 mm, court, égal ou élargi vers la base, rond, légèrement comprimé à légèrement côtelé surtout à la base à la coupe, rarement fortement côtelé, plein, brun très foncé à noir vers l'apex, souvent blanc à gris pâle à la base, couvert d'un duvet gris-brun
   stipitipellis: 
   stipititrame: 
   stroma: 

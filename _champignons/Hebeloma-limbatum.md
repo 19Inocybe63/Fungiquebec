@@ -38,7 +38,7 @@ description:
   arete-lamellaire: fertile
   arthroconidies: 
   articles: |
-    <b>Eberhardt, Ursula. ; Beker, Henry J. ; Vesterholt, Jan. ; Schütz, Nicole</b>. <i>The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. And five new species</i>, Fungal Biology 120 (2016) 72-103, 32 p.
+    <b>Eberhardt, Ursula.; Beker, Henry J.; Vesterholt, Jan.; Schütz, Nicole</b>. <i>The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. And five new species</i>, Fungal Biology 120 (2016) 72-103, 32 p.
   ascome: 
   ascospores: 
   asques: 
@@ -47,13 +47,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement claviformes, largement cylindriques, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations),  23 [27,3 ; 32,5] 36,7 × 8,5 [9,5 ; 10,8] 11,8 µm en moyenne
+  basides: piriformes à largement claviformes, largement cylindriques, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations),  23 [27,3; 32,5] 36,7 × 8,5 [9,5; 10,8] 11,8 µm en moyenne
   basidiospores: |
     citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, sublisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, hyalines dans E.G. 20%, moyennement dextrinoïdes (D2), non cyanophiles
     (9,6) 10,2 - 11,9 (13,8) × (5,2) 5,4 - 6,1 (6,7) µm
-    Q = (1,7) 1,8 - 2,1 (2,2) ; N = 30
-    Me = 10,9 × 5,7 µm ; Qe = 1,9
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    Q = (1,7) 1,8 - 2,1 (2,2); N = 30
+    Me = 10,9 × 5,7 µm; Qe = 1,9
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -75,7 +75,7 @@ description:
   chair: épaisse au disque, abruptement amincie vers la marge, ferme, blanchâtre à crème
   chancre: 
   chapeau: 16-37 mm Ø, conique à campanulé puis convexe à étalé, parfois mamelonné-obtus, visqueux à l'humidité, lisse, beige à crème ochracé, à marge longtemps incurvée, puis droite ou relevée, unie
-  cheilocystides: abondantes formant une palissade, longuement claviformes, rarement flexueuses à tortueuses, à paroi mince, hyalines, bouclées, 51,6 [59,1 ; 69,5] 77 × 5,5 [5,9 ; 6,5] 7 µm en moyenne
+  cheilocystides: abondantes formant une palissade, longuement claviformes, rarement flexueuses à tortueuses, à paroi mince, hyalines, bouclées, 51,6 [59,1; 69,5] 77 × 5,5 [5,9; 6,5] 7 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -208,7 +208,6 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 24-30 x 4-13 mm Ø, égal, parfois élargi-clavé vers la base à subbulbeux, cassant, farci puis creux, entièrement furfuracé à finement fibrilleux blanc sur fond blanchâtre ou concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en 2 couches, suprapellis allant de l'ixocutis à l'ixotrichoderme de 180-218 µm d'épaisseur, formé d'hyphes gélatinisées, rarement ruguleuses, bouclées, hyalines, et le subpellis formé d'hyphes
@@ -234,8 +233,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Beker, H. J. ; Eberhardt, U. ; Vesterholt, J</b>. <i>Hebeloma (Fr.) P. Kumm.</i> Fungi Europaei vol. 14, Ed. Candusso Edizioni, 2016.
-    <b>Smith, Alexander H. ; Evenson, Vera Stuck ; Mitchel, Duane H</b>. <i>The Veiled Species of Hebeloma in the Western United States</i>, Ann Arbor the University of Michigan Press, 1983, 228 p.
+    <b>Beker, H. J.; Eberhardt, U.; Vesterholt, J</b>. <i>Hebeloma (Fr.) P. Kumm.</i> Fungi Europaei vol. 14, Ed. Candusso Edizioni, 2016.
+    <b>Smith, Alexander H.; Evenson, Vera Stuck; Mitchel, Duane H</b>. <i>The Veiled Species of Hebeloma in the Western United States</i>, Ann Arbor the University of Michigan Press, 1983, 228 p.
     <b>Vesterholt, Jan</b>. <i>The genus Hebeloma</i>, Fungi of Northern Europe, vol. 3, Danish Mycological Society, 2005, p. 76 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -256,6 +255,7 @@ description:
   sporee: brun cannelle à brun ochracé
   spherocytes: 
   sporocystes: 
+  stipe: 24-30 x 4-13 mm Ø, égal, parfois élargi-clavé vers la base à subbulbeux, cassant, farci puis creux, entièrement furfuracé à finement fibrilleux blanc sur fond blanchâtre ou concolore au chapeau
   stipitipellis: 
   stipititrame: 
   stroma: 

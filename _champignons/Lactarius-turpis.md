@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lactaire plombé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
@@ -38,7 +44,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Kolar, Jan, Ph.D.</b>. Faculté de l'Université UK ; http://www.enviweb.cz/clanek/priroda/106781/jake-latky-zpusobuji-zelene-zbarveni-hub
+    <b>Kolar, Jan, Ph.D.</b>. Faculté de l'Université UK; http://www.enviweb.cz/clanek/priroda/106781/jake-latky-zpusobuji-zelene-zbarveni-hub
   ascome: 
   ascospores: 
   asques: 
@@ -79,7 +85,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Littéralement, son nom signifie le Lactaire laid ! »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Littéralement, son nom signifie le Lactaire laid ! »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -205,7 +212,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 16-65 x 9-30 mm Ø, cylindrique, épais-trapu et court, parfois légèrement comprimé ; surface lisse, légèrement visqueuse, ensuite sèche ; s'affinant vers la base, scrobiculé, gris pâle à olivâtre à gris-olivâtre, plus pâle à l'apex, devenant brun-olivâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -232,9 +238,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
-    <b>Heilmann-Clausen, J. ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J.; Verbeken, A.; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = le chapeau et le stipe se colorent améthyste, violet
@@ -251,6 +257,7 @@ description:
   sporee: crème pâle
   spherocytes: 
   sporocystes: 
+  stipe: 16-65 x 9-30 mm Ø, cylindrique, épais-trapu et court, parfois légèrement comprimé; surface lisse, légèrement visqueuse, ensuite sèche; s'affinant vers la base, scrobiculé, gris pâle à olivâtre à gris-olivâtre, plus pâle à l'apex, devenant brun-olivâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

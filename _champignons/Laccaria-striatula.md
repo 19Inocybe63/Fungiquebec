@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Laccaire strié
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 20-70 x 1-4 mm Ø, égal, farci, glabre, parfois un peu strié, concolore au chapeau, ou plus foncé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -251,6 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 20-70 x 1-4 mm Ø, égal, farci, glabre, parfois un peu strié, concolore au chapeau, ou plus foncé
   stipitipellis: 
   stipititrame: 
   stroma: 

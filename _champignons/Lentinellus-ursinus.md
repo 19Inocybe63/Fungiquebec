@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lentin couleur d'ours
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Auriscalpiaceae
   genre: Lentinellus
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: absent ou rudimentaire, 8-20 mm de largeur, latéral, tomenteux, gris brun
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -256,6 +261,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: absent ou rudimentaire, 8-20 mm de largeur, latéral, tomenteux, gris brun
   stipitipellis: 
   stipititrame: 
   stroma: 

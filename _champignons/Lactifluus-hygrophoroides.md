@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lactaire hygrophore
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Russulaceae
   genre: Lactifluus
@@ -68,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, finement velouté, sec, dont la marge est légèrement incurvée au début ; souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
+  chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, finement velouté, sec, dont la marge est légèrement incurvée au début; souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-50 x 5-15 mm Ø, cylindrique, subégal, plein ou farci, sec, lisse à pruineux, concolore au chapeau ou plus pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -231,9 +236,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
-    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J.,; Verbeken, A.; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = olive pâle sur le chapeau
@@ -250,6 +255,7 @@ description:
   sporee: blanche à crème
   spherocytes: 
   sporocystes: 
+  stipe: 30-50 x 5-15 mm Ø, cylindrique, subégal, plein ou farci, sec, lisse à pruineux, concolore au chapeau ou plus pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

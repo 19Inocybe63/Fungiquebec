@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet blanc des marais ou Bolet blanc de neige
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinum
@@ -92,7 +98,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « <i>Leccinum holopus</i> ne rougirait pas à la coupe en Europe, ou tout au plus il rosit un peu ; au Québec, en coupe transversale, il rougit vivement puis devient noir en quinze minutes ; aucun noircissement n'est mentionné pour l'Europe, à ma connaissance. Par ailleurs, il n'est pas prouvé hors de tout doute qu'un seul bolet d'Europe pousse chez nous. »
+  commentaires: |
+    De Yves Lamoureux. « <i>Leccinum holopus</i> ne rougirait pas à la coupe en Europe, ou tout au plus il rosit un peu; au Québec, en coupe transversale, il rougit vivement puis devient noir en quinze minutes; aucun noircissement n'est mentionné pour l'Europe, à ma connaissance. Par ailleurs, il n'est pas prouvé hors de tout doute qu'un seul bolet d'Europe pousse chez nous. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,7 +224,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 60-140 mm x 10-23 mm Ø, cylindrique, égal à subclaviforme, blanchâtre, scabreux avec de fines rugosités blanchâtres qui deviennent brun grisâtre à noirâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, parfois même en ixocutis, formé d’éléments cylindriques, 14,5 [26; 81,9] 93,4 (100+) x 3 [3,3; 4,6] 4,9 µm, parfois avec des hyphes pigmentées brunâtres, 5-7 µm de largeur en moyenne, de longueur variable 69,1 μm et +
@@ -244,8 +250,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -269,6 +275,7 @@ description:
   sporee: brune
   spherocytes: 
   sporocystes: 
+  stipe: 60-140 mm x 10-23 mm Ø, cylindrique, égal à subclaviforme, blanchâtre, scabreux avec de fines rugosités blanchâtres qui deviennent brun grisâtre à noirâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

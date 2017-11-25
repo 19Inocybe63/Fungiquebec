@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Mitrule élégante
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Leotiomycetes
+  sous-classe: Leotiomycetidae
   ordre: Helotiales
   famille: Helotiaceae
   genre: Mitrula
@@ -205,7 +211,6 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -251,7 +256,7 @@ description:
   spherocytes: 
   sporocystes: 
   stipitipellis: avec terminaisons hyphales, parfois isolées, en faisceaux ou emmêlées
-  stipititrame: constitué de trois grosseurs d’hyphes ; filiformes entre 15 x 6 µm en moyenne, fusiformes entre 35-46 x 18-20 µm en moyenne, et largement fusiformes entre 50-60 x 25-27 µm en moyenne
+  stipititrame: constitué de trois grosseurs d’hyphes; filiformes entre 15 x 6 µm en moyenne, fusiformes entre 35-46 x 18-20 µm en moyenne, et largement fusiformes entre 50-60 x 25-27 µm en moyenne
   stroma: 
   subhymenium: 
   subiculum: 

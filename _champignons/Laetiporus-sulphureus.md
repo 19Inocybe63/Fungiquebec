@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore soufré
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Laetiporus
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: latéral, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -252,6 +257,7 @@ description:
   sporee: blanche à blanchâtre
   spherocytes: 
   sporocystes: 
+  stipe: latéral, concolore au chapeau
   stipitipellis: 
   stipititrame: 
   stroma: 

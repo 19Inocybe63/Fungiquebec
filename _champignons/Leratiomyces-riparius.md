@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Leratiomyces
@@ -142,7 +148,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare, car connu seulement dans une station au Québec ; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
+  distribution: rare, car connu seulement dans une station au Québec; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -236,10 +242,9 @@ description:
   peritheces: 
   phenologie: de mai à août
   phialoconidies: 
-  pied: 41-70 x 3-7,3 mm Ø, cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches ; 1) suprapellis entre ± 50-150 µm d’épaisseur en ixocutis disposé radialement ; 2) subpellis compact, composé de cellules globuleuses à subglobuleuses et d'hyphes allongées 20 [26,6; 32,7] 39,3 x 8,9 [13,5; 17,8] 22,4 µm
+  pileipellis: en deux couches; 1) suprapellis entre ± 50-150 µm d’épaisseur en ixocutis disposé radialement; 2) subpellis compact, composé de cellules globuleuses à subglobuleuses et d'hyphes allongées 20 [26,6; 32,7] 39,3 x 8,9 [13,5; 17,8] 22,4 µm
   pileitrame: 
   pileocystides-dermatocystides: 
   plasmode: 
@@ -286,6 +291,7 @@ description:
   sporee: gris pourpre, brun
   spherocytes: 
   sporocystes: 
+  stipe: 41-70 x 3-7,3 mm Ø, cylindrique à cylindrique tortueux, généralement effilé vers la base, creux, pruineux, avec fibrilles foncées dispersées, crème à l'apex, plus sombre ochracé jaune, dont la base devient progressivement brun ochracé, orange-jaune à rougeâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

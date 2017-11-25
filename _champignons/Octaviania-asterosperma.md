@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Octaviania
@@ -257,10 +263,10 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    <i>Octavianina asterosperma</i> Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893;
-    <i>Arcangeliella asterosperma</i> Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935;
-    <i>Hydnangium asterospora</i> Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873;
-    <i>Octaviania mutabilis</i> Roum., Revue Mycologique Toulouse 7, 24, 1885;
+    <i>Octavianina asterosperma</i> Vittad. Kuntze, Revisio generum plantarum 3, 501, 1893
+    <i>Arcangeliella asterosperma</i> Vittad. Zeller & C.W. Dodge, Annals of the Missouri Botanical Garden 22, 366, 1935
+    <i>Hydnangium asterospora</i> Quél., Mémoires de la Société d'Émulation de Montbéliard 5, 368, 1873
+    <i>Octaviania mutabilis</i> Roum., Revue Mycologique Toulouse 7, 24, 1885
     <i>Octaviania brunnea</i> R. Hesse, Hypogaeen Deutschlands. 1. Die Hymenogastreen 1, 78, 1891
   systeme-hyphal: 
   textura: 

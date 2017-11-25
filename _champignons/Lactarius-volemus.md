@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lactaire à lait abondant
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
@@ -81,7 +87,8 @@ description:
   collection-determinee-par: 
   collection-determination-provisoire-par: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Comme nous ne sommes pas en Europe, notre <i>L. volemus</i> devient donc à ce jour <i>Lactarius volemus ss. Hesler</i> & A. H. Sm., puisque ces auteurs ont réécrit l'espèce uniquement à partir de récoltes américaines dans leur monographie (1979). »
+  commentaires: |
+    De Yves Lamoureux. « Comme nous ne sommes pas en Europe, notre <i>L. volemus</i> devient donc à ce jour <i>Lactarius volemus ss. Hesler</i> & A. H. Sm., puisque ces auteurs ont réécrit l'espèce uniquement à partir de récoltes américaines dans leur monographie (1979). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -210,7 +217,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 50-100 x 8-25 mm Ø, cylindrique, égal, atténué vers la base, plein au début puis creux à maturité, lisse, parfois pruineux à vaguement côtelé longitudinalement, concolore au chapeau ou plus pâle
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -237,13 +243,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
-    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J.,; Verbeken, A.; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = olive sur le chapeau ; orange à orange pâle sur le latex
+    Potasse (KOH 10%) = olive sur le chapeau; orange à orange pâle sur le latex
     Sulfate de fer (FeSO<sub>4</sub>) = instantanément vert à bleu vert foncé sur la chair
   receptacle: 
   remarques: 
@@ -258,6 +264,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 50-100 x 8-25 mm Ø, cylindrique, égal, atténué vers la base, plein au début puis creux à maturité, lisse, parfois pruineux à vaguement côtelé longitudinalement, concolore au chapeau ou plus pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

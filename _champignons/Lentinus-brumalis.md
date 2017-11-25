@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore d'hiver
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Polyporaceae
   genre: Lentinus
@@ -88,7 +94,7 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 7-23 mm Ø, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire, tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts poils raides et foncés au début, puis sublisse ou velouté, non zoné, luisant, bronzé, brun pourpré, brun grisâtre à presque noir ; à marge enroulée au début, réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée à ciliée, concolore
+  chapeau: 7-23 mm Ø, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire, tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts poils raides et foncés au début, puis sublisse ou velouté, non zoné, luisant, bronzé, brun pourpré, brun grisâtre à presque noir; à marge enroulée au début, réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée à ciliée, concolore
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -226,7 +232,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 7-12 x 1-2 mm Ø, centré à excentré, égal, droit à courbe, parfois légèrement élargi vers avec base, solide, finement velouté à lisse, blanc grisâtre à brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -270,6 +275,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 7-12 x 1-2 mm Ø, centré à excentré, égal, droit à courbe, parfois légèrement élargi vers avec base, solide, finement velouté à lisse, blanc grisâtre à brunâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

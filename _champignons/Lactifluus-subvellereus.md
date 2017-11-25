@@ -13,7 +13,7 @@ details:
   phylum: Basidiomycota
   sous-phylum: Agaricomycotina
   classe: Agaricomycetes
-  sous-classe: Agaricomycetidae
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Lactifluus

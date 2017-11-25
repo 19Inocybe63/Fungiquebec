@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
@@ -68,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau ou plus pâle
   chancre: 
-  chapeau: 21 mm Ø, convexe à étalé, puis déprimé, à marge égale ou légèrement enroulée ; non plissé ou légèrement à maturité, finement squameux à presque glabre, pourpre grisâtre, changeant de couleur en séchant.
+  chapeau: 21 mm Ø, convexe à étalé, puis déprimé, à marge égale ou légèrement enroulée; non plissé ou légèrement à maturité, finement squameux à presque glabre, pourpre grisâtre, changeant de couleur en séchant
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -169,7 +175,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, larges, violet foncé.
+  lames: adnées, serrées, larges, violet foncé
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -202,7 +208,6 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 66 x 2 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à grossièrement strié à écailleux, concolore au chapeau, avec mycélium basal lilas à blanchâtre.
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -245,6 +250,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 66 x 2 mm Ø, cylindrique, égal ou légèrement renflé à la base, finement à grossièrement strié à écailleux, concolore au chapeau, avec mycélium basal lilas à blanchâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

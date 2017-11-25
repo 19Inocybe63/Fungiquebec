@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Xylaire du bois
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Sordariomycetes
+  sous-classe: Xylariomycetidae
   ordre: Xylariales
   famille: Xylariaceae
   genre: Xylaria

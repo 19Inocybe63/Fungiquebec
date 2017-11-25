@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet affine var. maculosus
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Xanthoconium
@@ -213,7 +219,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 40-100 x 10-20 mm Ø, subégal, atténué ou élargi à l'un ou l'autre bout, plein, sec, lisse ou strié, rarement légèrement réticulé à l'apex, blanchâtre, jaunâtre ou brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -260,6 +265,7 @@ description:
   sporee: jaune brunâtre à ocre brunâtre
   spherocytes: 
   sporocystes: 
+  stipe: 40-100 x 10-20 mm Ø, subégal, atténué ou élargi à l'un ou l'autre bout, plein, sec, lisse ou strié, rarement légèrement réticulé à l'apex, blanchâtre, jaunâtre ou brunâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

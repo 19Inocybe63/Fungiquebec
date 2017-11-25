@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Laccaire bicolore
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
@@ -227,7 +233,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-90 x 2-10 mm Ø, cylindrique, égal à légèrement élargi vers la base, légèrement flexueux, creux, torsadé à fibrilleux, tenace, concolore au chapeau, avec mycélium basal abondant, lilas au début et au frais
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -271,6 +276,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 30-90 x 2-10 mm Ø, cylindrique, égal à légèrement élargi vers la base, légèrement flexueux, creux, torsadé à fibrilleux, tenace, concolore au chapeau, avec mycélium basal abondant, lilas au début et au frais
   stipitipellis: 
   stipititrame: 
   stroma: 

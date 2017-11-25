@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Mycène de Léa
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
@@ -212,7 +218,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-70 x 2-4 mm Ø, cylindrique, égal, creux, lisse, assez dur et cartilagineux, collant lorsqu'il est imbu, pruineux à la base, orange ou jaune orangé, mais plus pâle près de l'apex, parfois exsudant un liquide orange lorsque pressé
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -255,6 +260,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 30-70 x 2-4 mm Ø, cylindrique, égal, creux, lisse, assez dur et cartilagineux, collant lorsqu'il est imbu, pruineux à la base, orange ou jaune orangé, mais plus pâle près de l'apex, parfois exsudant un liquide orange lorsque pressé
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Laccaire tortueux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Hydnangiaceae
   genre: Laccaria
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 8-12 x 1 mm Ø, cylindrique, égal à subbulbeux, sec, glabre ou finement fibrilleux, non strié, concolore au chapeau, avec mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -251,6 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 8-12 x 1 mm Ø, cylindrique, égal à subbulbeux, sec, glabre ou finement fibrilleux, non strié, concolore au chapeau, avec mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

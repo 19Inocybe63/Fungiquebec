@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Mycène à pied filiforme
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 50-120 x 1-3 mm Ø, cylindrique, égal, cassant, creux-tubuleux, finement pruineux au début, mais devient vite glabre, pâle au-dessus et brunâtre à grisâtre en-dessous, mais parfois avec de légères nuances bleuâtres ou lilas, mycélium basal poilu et blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -252,6 +257,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 50-120 x 1-3 mm Ø, cylindrique, égal, cassant, creux-tubuleux, finement pruineux au début, mais devient vite glabre, pâle au-dessus et brunâtre à grisâtre en-dessous, mais parfois avec de légères nuances bleuâtres ou lilas, mycélium basal poilu et blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

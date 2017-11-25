@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Omphale de Kauffman
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Mycenaceae
   genre: Xeromphalina
@@ -38,7 +44,7 @@ description:
   arete-lamellaire: fertile
   arthroconidies: 
   articles: |
-    <b>Aldrovandi, Matthew S. P. ; Johnson, James E. et al</b>. <i>Xeromphalina campanella-kauffmanii complex</i>, The Mycological Society of America, 2015, 44 p.
+    <b>Aldrovandi, Matthew S. P.; Johnson, James E. et al</b>. <i>Xeromphalina campanella-kauffmanii complex</i>, The Mycological Society of America, 2015, 44 p.
   ascome: 
   ascospores: 
   asques: 
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 7-10 mm Ø, cylindrique, égal, légèrement élargi à la base, finement velouté, jaune à l'apex, brun bourgogne jusqu'à la base, avec mycélium basal cannelle
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -231,7 +236,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>AntonÍn, Vladimir, ; Noordeloos, Machiel E</b>. <i>A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in Europe with 65 figures and 57 colored plates</i>, IHW Verlag, 2004, 279 p.
+    <b>AntonÍn, Vladimir,; Noordeloos, Machiel E</b>. <i>A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in Europe with 65 figures and 57 colored plates</i>, IHW Verlag, 2004, 279 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -251,6 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 7-10 mm Ø, cylindrique, égal, légèrement élargi à la base, finement velouté, jaune à l'apex, brun bourgogne jusqu'à la base, avec mycélium basal cannelle
   stipitipellis: 
   stipititrame: 
   stroma: 

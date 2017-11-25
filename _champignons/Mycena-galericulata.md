@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Mycène en casque
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 45-90 (120) x 1-4 (6) mm Ø, cylindrique, égal, souvent longuement radicant, cartilagineux, creux, glabre, lisse ou strié-tordu, blanc grisâtre vers l'apex, fuligineux pâle vers la base, légèrement brunâtre à la base avec l'âge, ne tachant pas de rougeâtre
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'hyphes ± parallèles, non bouclées, diverticulées entre 1-3 µm de longueur
@@ -253,6 +258,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 45-90 (120) x 1-4 (6) mm Ø, cylindrique, égal, souvent longuement radicant, cartilagineux, creux, glabre, lisse ou strié-tordu, blanc grisâtre vers l'apex, fuligineux pâle vers la base, légèrement brunâtre à la base avec l'âge, ne tachant pas de rougeâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

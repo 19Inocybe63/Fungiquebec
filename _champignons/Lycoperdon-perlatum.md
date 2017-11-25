@@ -251,7 +251,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Pegler, D. N.; Laessøe, T.; Spooner, B. M</b>. <i>British Puffballs Earthstars and Stinkhorns ; An account of the British Gasteroid Fungi</i>, Royal Botanic Gardens, Kew, 1995, 145 p.
+    <b>Pegler, D. N.; Laessøe, T.; Spooner, B. M</b>. <i>British Puffballs Earthstars and Stinkhorns; An account of the British Gasteroid Fungi</i>, Royal Botanic Gardens, Kew, 1995, 145 p.
     <b>Smith, Alexander H</b>. <i>Puffballs and their allies in Michigan</i>, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

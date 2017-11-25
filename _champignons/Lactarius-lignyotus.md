@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lactaire couleur de suie
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
@@ -38,7 +44,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Stubbe, Dirk, ; Verbeken, Annemieke</b>. <i>Lactarius subg. Plinthogalus, the European taxa and American varieties of L. lignyotus re-evaluated</i>, Mycologia, 104(6), 2012, pp. 1490-1501, 12 p.
+    <b>Stubbe, Dirk,; Verbeken, Annemieke</b>. <i>Lactarius subg. Plinthogalus, the European taxa and American varieties of L. lignyotus re-evaluated</i>, Mycologia, 104(6), 2012, pp. 1490-1501, 12 p.
   ascome: 
   ascospores: 
   asques: 
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: fin juillet à septembre
   phialoconidies: 
-  pied: 40-120 x 5-10 mm Ø, subégal à élargi vers la base ou parfois au milieu, légèrement comprimé au centre avec l'âge, plein puis farci, sec, velouté, souvent fortement plissé vers l'apex et avec fins sillons longitudinaux, concolore au chapeau ou plus pâle, blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: de type virescens
@@ -233,9 +238,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
-    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J.,; Verbeken, A.; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -243,7 +248,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Habituellement, la description du pileipellis indique que ce dernier est en épithélium avec hyphes terminales cylindriques ; mais après observation, ce n’est pas vraiment le cas.
+  remarques: Habituellement, la description du pileipellis indique que ce dernier est en épithélium avec hyphes terminales cylindriques; mais après observation, ce n’est pas vraiment le cas.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -255,6 +260,7 @@ description:
   sporee: blanc crème au jaune orangé
   spherocytes: 
   sporocystes: 
+  stipe: 40-120 x 5-10 mm Ø, subégal à élargi vers la base ou parfois au milieu, légèrement comprimé au centre avec l'âge, plein puis farci, sec, velouté, souvent fortement plissé vers l'apex et avec fins sillons longitudinaux, concolore au chapeau ou plus pâle, blanc à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

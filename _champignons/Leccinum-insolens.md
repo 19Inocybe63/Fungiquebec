@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet insolite
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinum
@@ -82,7 +88,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « La marge débordante ainsi que la couleur du chapeau dans les teintes de brun sont deux des caractéristiques fiables. La face poroïde blanchâtre brunissant à maturité et au froissement est un autre caractère important. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « La marge débordante ainsi que la couleur du chapeau dans les teintes de brun sont deux des caractéristiques fiables. La face poroïde blanchâtre brunissant à maturité et au froissement est un autre caractère important. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -207,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 84 x 19 mm Ø, élargi vers la base, plein, sec, orné de rugosités brun noirâtre sur fond blanchâtre. Il brunit lentement à la coupe. La chaire dans l'apex est lilas pâle à gris pâle
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis terminé par des extrémités hyphales
@@ -234,8 +240,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -257,6 +263,7 @@ description:
   sporee: brune
   spherocytes: 
   sporocystes: 
+  stipe: 84 x 19 mm Ø, élargi vers la base, plein, sec, orné de rugosités brun noirâtre sur fond blanchâtre. Il brunit lentement à la coupe. La chaire dans l'apex est lilas pâle à gris pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

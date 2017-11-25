@@ -87,7 +87,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « <i>X. kauffmanii</i> peut facilement se distinguer de <i>X. campanella</i> qui pousse sur du bois mort de conifères. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -244,7 +245,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: <i>X. kauffmanii</i> peut facilement se distinguer de <i>X. campanella</i> qui pousse sur du bois mort de conifères
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

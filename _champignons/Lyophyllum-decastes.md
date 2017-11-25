@@ -7,7 +7,13 @@ album-flickr:
   - 72157684868834706
 
 details:
-  nom-francais: Tricholome en touffes; Lyophylle aggrégé
+  nom-francais: Tricholome en touffes / Lyophylle aggrégé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Lyophyllaceae
   genre: Lyophyllum
@@ -60,8 +66,8 @@ description:
   basidiospores: |
     globuleuses, lisses, à paroi mince, avec petit appendice hilaire parfois difficilement observable, à contenu uniguttulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
     (6) 6,3 - 7,1 (7,6) × (5,9) 6,2 - 6,9 (7,3) µm
-    Q = 1 - 1,05 (1,1) ; N = 30
-    Me = 6,8 × 6,6 µm ; Qe = 1
+    Q = 1 - 1,05 (1,1); N = 30
+    Me = 6,8 × 6,6 µm; Qe = 1
     (Piximètre, formule statistique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -224,7 +230,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-100 x 8-20 (25) mm Ø, ± cylindrique, ± égal, lisse, légèrement torsadé, parfois aplati, sec, blanchâtre, cespiteux-ramifié, devenant parfois brunâtre vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: suprapellis en cutis, formé d'hyphes ± parallèles à emmêlées, bouclées, à pigmentations brunâtres, 3-10 µm Ø
@@ -271,6 +276,7 @@ description:
   sporee: leucosporée Ia-Ib, blanche à blanchâtre, d'après la charte de couleur de Romagnesi; A-B d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
+  stipe: 30-100 x 8-20 (25) mm Ø, ± cylindrique, ± égal, lisse, légèrement torsadé, parfois aplati, sec, blanchâtre, cespiteux-ramifié, devenant parfois brunâtre vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

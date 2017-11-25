@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Mycenaceae
   genre: Mycena
@@ -50,9 +56,9 @@ description:
   basidiospores: |
     elliptiques à étroitement elliptiques en vue frontale, elliptiques-larmiformes vues de profil, lisses, à paroi mince, avec appendice hilaire bien visible, à contenu granulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, fortement cyanophiles
     (7,2) 7,6 - 9 (9,5) × (3,6) 3,7 - 4,1 (4,6) µm
-    Q = (1,9) 2 - 2,2 (2,3) ; N = 30
-    Me = 8,4 × 4 µm ; Qe = 2,1
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    Q = (1,9) 2 - 2,2 (2,3); N = 30
+    Me = 8,4 × 4 µm; Qe = 2,1
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -210,7 +216,6 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 28 x 1 mm Ø, cylindrique, pruineux, dont le pied est radicant, crème avec reflets verdâtres, dont la base est plus foncée, reflets jaunâtres, non bulbeux
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, dont le suprapellis est formé d'hyphes ornées d'excroissances plus ou moins courtes (diverticules), et d'un subpellis formé d'hyphes cylindriques
@@ -247,7 +252,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Consultation du site de <b>Arne Aronsen</b>. <i>The Mycenas of Northern Europe ; A key to the Mycenas of Norway ; Key to the European members of section Fuliginellae</i> ; http://www.mycena.no/
+  remarques: Consultation du site de <b>Arne Aronsen</b>. <i>The Mycenas of Northern Europe; A key to the Mycenas of Norway; Key to the European members of section Fuliginellae</i>; http://www.mycena.no/
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -259,6 +264,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 28 x 1 mm Ø, cylindrique, pruineux, dont le pied est radicant, crème avec reflets verdâtres, dont la base est plus foncée, reflets jaunâtres, non bulbeux
   stipitipellis: 
   stipititrame: 
   stroma: 

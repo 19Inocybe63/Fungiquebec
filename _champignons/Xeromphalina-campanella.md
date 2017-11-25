@@ -83,7 +83,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Miller indique la présence occasionnelle de piléocystides pour <i>X. campanella</i>, (Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188); pour ma part, je n'en ai pas observé dans cette collection. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -208,7 +209,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 10-50 x 1-3 mm Ø, cylindrique, légèrement élargi vers la base, parfois subbulbeux, souvent courbe, cartilagineux, creux, pruineux puis glabre, lisse, souvent luisant, jaunâtre vers l'apex, brun foncé à brun rougeâtre vers la base, tomenteux fauve brillant, orangé à rouille à la base
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -233,7 +233,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>AntonÍn, Vladimir, ; Noordeloos, Machiel E</b>. <i>A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in Europe with 65 figures and 57 colored plates</i>, IHW Verlag, 2004, 279 p.
+    <b>AntonÍn, Vladimir,; Noordeloos, Machiel E</b>. <i>A monograph of the genera Hemimycena, Delicatula, Fayodia, Gamundia, Myxomphalia, Resinomycena, Rickenella, and Xeromphalina, (tribus Mycenae sensu Singer, Mycena excluded) in Europe with 65 figures and 57 colored plates</i>, IHW Verlag, 2004, 279 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -241,7 +241,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Miller indique la présence occasionnelle de piléocystides pour <i>X. campanella</i>, (Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188) ; pour ma part, je n'en ai pas observé dans cette collection.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -253,6 +253,7 @@ description:
   sporee: crème blanchâtre, crème, chamois pâle à jaune
   spherocytes: 
   sporocystes: 
+  stipe: 10-50 x 1-3 mm Ø, cylindrique, légèrement élargi vers la base, parfois subbulbeux, souvent courbe, cartilagineux, creux, pruineux puis glabre, lisse, souvent luisant, jaunâtre vers l'apex, brun foncé à brun rougeâtre vers la base, tomenteux fauve brillant, orangé à rouille à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

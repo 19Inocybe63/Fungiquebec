@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lépiote à squames foncées
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lepiota
@@ -50,8 +56,8 @@ description:
   basidiospores: |
     ovoïdales, elliptiques à ± largement elliptiques en vue frontale, largement elliptiques à elliptiques allongées, parfois subamygdaliformes vues de profil, lisses, à paroi mince de 0,15-0,25 µm d’épaisseur, avec appendice hilaire proéminent, sans pore germinatif, à contenu guttulé à variable, hyalines dans le NaCl isotonique 0,9%, dextrinoïdes dans le melzer, cyanophiles à faiblement cyanophiles, orthochromatique
     (6,4) 6,6 - 7,7 (8,2) × (3,6) 3,9 - 4,2 (4,4) µm
-    Q = (1,5) 1,6 - 2 (2,1) ; N = 30
-    Me = 7,2 × 4,1 µm ; Qe = 1,8
+    Q = (1,5) 1,6 - 2 (2,1); N = 30
+    Me = 7,2 × 4,1 µm; Qe = 1,8
     (Piximètre, formule classique; mesures issues d'une sporée, dans NaCl isotonique 0,9%)
   basidioles: 
   basidiome: 
@@ -215,7 +221,6 @@ description:
   peritheces: 
   phenologie: d’août à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: de type trichoderme, composé d'hyphes allongées avec pigmentations intracellulaires, souvent avec des amoncèlements d'hyphes formant des sommets pointus

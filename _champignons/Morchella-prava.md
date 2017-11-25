@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Morchellaceae
   genre: Morchella
@@ -88,7 +94,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: OUI, mais bien cuite!
+  comestibilite: OUI, mais bien cuite !
   commentaires: |
     De Michael Kuo. « Those look like Morchella prava to me, but only DNA testing would make a certain identification. »
   conidies: 
@@ -218,7 +224,6 @@ description:
   peritheces: 
   phenologie: de mai à juin
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

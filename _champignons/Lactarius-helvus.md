@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lactaire à odeur d’érable
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
@@ -98,7 +104,7 @@ description:
   cellules-stromatiques: 
   chair: ± concolore au chapeau
   chancre: 
-  chapeau: 30-130 mm Ø, convexe, devenant largement convexe, plane à légèrement déprimé, avec une marge enroulée au début, puis égale ; sec, lisse à finement velouté au début, devenant rugueux à subécailleux, brun pâle à ± variable
+  chapeau: 30-130 mm Ø, convexe, devenant largement convexe, plane à légèrement déprimé, avec une marge enroulée au début, puis égale; sec, lisse à finement velouté au début, devenant rugueux à subécailleux, brun pâle à ± variable
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -235,7 +241,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -262,9 +267,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
-    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J.,; Verbeken, A.; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

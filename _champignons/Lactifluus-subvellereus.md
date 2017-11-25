@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lactaire velouteux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Russulales
   famille: Russulaceae
   genre: Lactifluus
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: de juillet à août
   phialoconidies: 
-  pied: 30 x 22 mm Ø, égal, atténué vers la base à courtement cylindrique, trapu, ferme, plein, sec, finement velouté, duveteux, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,9 +238,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
-    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J.,; Verbeken, A.; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
@@ -254,6 +259,7 @@ description:
   sporee: blanchâtre
   spherocytes: 
   sporocystes: 
+  stipe: 30 x 22 mm Ø, égal, atténué vers la base à courtement cylindrique, trapu, ferme, plein, sec, finement velouté, duveteux, concolore au chapeau
   stipitipellis: 
   stipititrame: 
   stroma: 

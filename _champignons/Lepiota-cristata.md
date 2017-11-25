@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lepiote cretée
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lepiota
@@ -92,7 +98,7 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, blanche, immuable, rosâtre dans le pied
   chancre: 
-  chapeau: 15-50 mm Ø, ovoïde, conique-convexe à campanulé puis étalé, légèrement umboné, sec, lisse au début ; à cuticule vite rompue en petites écailles ± concentriques ochracées ; roussâtres, brun foncé, brun rougeâtre ou rouge vin, plus pâles vers la marge et à disque brun orangé à brun, sur fond blanchâtre à crème pâle ; à marge longtemps incurvée, aiguë, parfois frangée de restes vélaires, légèrement ondulée avec l'âge ; souvent sans cuticule
+  chapeau: 15-50 mm Ø, ovoïde, conique-convexe à campanulé puis étalé, légèrement umboné, sec, lisse au début, à cuticule vite rompue en petites écailles ± concentriques ochracées, roussâtres, brun foncé, brun rougeâtre ou rouge vin, plus pâles vers la marge et à disque brun orangé à brun, sur fond blanchâtre à crème pâle, à marge longtemps incurvée, aiguë, parfois frangée de restes vélaires, légèrement ondulée avec l'âge, souvent sans cuticule
   cheilochrysocystides:
   cheilocystides: abondantes, polymorphes, claviformes, piriformes à turbinées, à paroi mince, lisses, hyalines dans le NaCl iso 0,9%, 14,5-37 x 7-13 µm en moyenne
   cheiloleptocystides: 
@@ -228,7 +234,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 20-70 x 2-5 mm Ø, élancé, égal ou élargi vers la base, droit ou légèrement flexueux, fragile, lâchement farci à creux, lisse et brillant ou finement fibrilleux-soyeux, blanchâtre vers l'apex, tan rosâtre pâle, lavande sombre à brun rougeâtre vers la base, avec mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -274,6 +279,7 @@ description:
   sporee: blanche à crème
   spherocytes: 
   sporocystes: 
+  stipe: 20-70 x 2-5 mm Ø, élancé, égal ou élargi vers la base, droit ou légèrement flexueux, fragile, lâchement farci à creux, lisse et brillant ou finement fibrilleux-soyeux, blanchâtre vers l'apex, tan rosâtre pâle, lavande sombre à brun rougeâtre vers la base, avec mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Vesse-de-loup perlée
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Agaricaceae
   genre: Lycoperdon
@@ -60,9 +66,9 @@ description:
   basidiospores: |
     globuleuses, finement verruqueuses, formant parfois des petites plaques verruqueuses allant entre 0,3-0,6 µm Ø, à paroi mince à légèrement épaissie, avec pédicelle, à contenu uniguttulé à variable, hyalines à grisâtre pâle dans E.G. 20%, dextrinoïdes, cyanophiles
     (3,5) 3,6 - 4,1 (4,2) × (3,4) 3,5 - 4 (4,1) µm
-    Q = 1 (1,1) ; N = 30
-    Me = 3,9 × 3,8 µm ; Qe = 1
-    (Piximètre formule classique ; mesures non issues d'une sporée, dans E.G. 20%)
+    Q = 1 (1,1); N = 30
+    Me = 3,9 × 3,8 µm; Qe = 1
+    (Piximètre formule classique; mesures non issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 20-100 mm Ø, 15-90 mm Ø, subglobuleux, piriforme à turbiné, ± mamelonné au sommet, avec base stipitiforme bien développée, abruptement atténuée, occupant la demi ou plus du basidiome, souvent persistant, souvent plissé à sillonné sous la tête, à exopéridium avec épines de deux types, coniques-obtuses, 1-2 mm de hauteur, solitaires, plus grosses et nombreuses vers l'apex, molles, labiles et laissant des cicatrices rondes et pâles à la disparition, espacées de nombreuses épines, verrues ou granules plus petits, peu visibles, persistantes, la base étant ornée de plus petits aiguillons encore, blancs puis crème, jaune-brun ou brun foncé
   bibliographies: 
@@ -219,7 +225,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -246,7 +251,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Pegler, D. N. ; Laessøe, T. ; Spooner, B. M</b>. <i>British Puffballs Earthstars and Stinkhorns ; An account of the British Gasteroid Fungi</i>, Royal Botanic Gardens, Kew, 1995, 145 p.
+    <b>Pegler, D. N.; Laessøe, T.; Spooner, B. M</b>. <i>British Puffballs Earthstars and Stinkhorns ; An account of the British Gasteroid Fungi</i>, Royal Botanic Gardens, Kew, 1995, 145 p.
     <b>Smith, Alexander H</b>. <i>Puffballs and their allies in Michigan</i>, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

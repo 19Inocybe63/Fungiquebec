@@ -13,8 +13,8 @@ details:
   phylum: Basidiomycota
   sous-phylum: Agaricomycotina
   classe: Agaricomycetes
-  sous-classe: Agaricomycetidae
-  ordre: Agaricales
+  sous-classe: Incertae sedis
+  ordre: Russulales
   famille: Russulaceae
   genre: Lactifluus
   espece: <i>Lactifluus hygrophoroides</i> (Berk. & M.A. Curtis) Kuntze

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lacrimaire pleureuse / Psathyrelle veloutée
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Lacrymaria
@@ -50,8 +56,8 @@ description:
   basidiospores: |
     elliptiques citriformes en vue frontale, elliptiques à amygdaliformes vues de profil, avec pore germinatif prédominant à parfois ± tronqué entre 1,3-1,7 µm de Ø, moyennement à grossièrement verruqueuses, à paroi entre 0,1-0,2 µm d'épaisseur, avec appendice hilaire dominant, à contenu uniguttulé, brun rougeâtre dans E.G. 20%, noirâtres dans le KOH 5%, non cyanophiles
     (9,1) 9,4 - 10,7 (12,3) × (5,7) 6 - 6,9 (7,2) µm
-    Q = (1,4) 1,5 - 1,6 (1,8) ; N = 30
-    Me = 10 × 6,4 µm ; Qe = 1,6
+    Q = (1,4) 1,5 - 1,6 (1,8); N = 30
+    Me = 10 × 6,4 µm; Qe = 1,6
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 

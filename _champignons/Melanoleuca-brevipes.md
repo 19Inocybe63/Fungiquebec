@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Mélanoleuque à pied court
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Melanoleuca
@@ -202,7 +208,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 28-8 mm Ø, cylindrique, trapu, concolore au chapeau, plein, légèrement bulbeux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,6 +248,7 @@ description:
   sporee: pallidosporée en tas, crème pâle
   spherocytes: 
   sporocystes: 
+  stipe: 28-8 mm Ø, cylindrique, trapu, concolore au chapeau, plein, légèrement bulbeux
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lactaire à lait verdissant
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Lactifluus
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 36 x 11 mm Ø, cylindrique, subégal, plein, ferme, glabre, atténué à la base, blanc à blanchâtre, se tachant de brun rouille à maturité
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -233,9 +238,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
-    <b>Heilmann-Clausen, J., ; Verbeken, A. ; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
+    <b>Heilmann-Clausen, J.,; Verbeken, A.; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
@@ -253,6 +258,7 @@ description:
   sporee: crème
   spherocytes: 
   sporocystes: 
+  stipe: 36 x 11 mm Ø, cylindrique, subégal, plein, ferme, glabre, atténué à la base, blanc à blanchâtre, se tachant de brun rouille à maturité
   stipitipellis: 
   stipititrame: 
   stroma: 

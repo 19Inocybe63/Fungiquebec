@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Lentin en éventail
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Auriscalpiaceae
   genre: Lentinellus
@@ -205,7 +211,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: < 1 mm de largeur, 11 mm de longueur, absent ou très court, centré, excentré à latéral, à obclavé, lisse à subglabre, côtelé par les lames décurrentes, chamois rosé, brun grisâtre, brun foncé, brun pourpré foncé à brun-noir, parfois avec fin mycélium basal cotonneux à laineux brun grisâtre à vineux et/ou délicats rhizomorphes aplatis, palmés aux ramifications
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -250,6 +255,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: < 1 mm de largeur, 11 mm de longueur, absent ou très court, centré, excentré à latéral, à obclavé, lisse à subglabre, côtelé par les lames décurrentes, chamois rosé, brun grisâtre, brun foncé, brun pourpré foncé à brun-noir, parfois avec fin mycélium basal cotonneux à laineux brun grisâtre à vineux et/ou délicats rhizomorphes aplatis, palmés aux ramifications
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Mutin de Ravenel
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Phallomycetidae
   ordre: Phallales
   famille: Phallaceae
   genre: Mutinus
@@ -50,8 +56,8 @@ description:
   basidiospores: |
     elliptiques à oblongues, courtement bacilliformes, lisses, à paroi mince, à contenu homogène, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles à faiblement cyanophiles
     4,2 - 4,9 (5,3) × 1,5 - 2,1 µm
-    Q = (2,3) 2,4 - 3 (3,3) ; N = 30
-    Me = 4,7 × 1,7 µm ; Qe = 2,7
+    Q = (2,3) 2,4 - 3 (3,3); N = 30
+    Me = 4,7 × 1,7 µm; Qe = 2,7
     (Piximètre, formule classique; mesures issues des spores dans la glèbe, dans E.G. 20%)
   basidioles: 
   basidiome: élargie, formant une tige creuse entre 100-160 mm de haut, légèrement effilé à ± égal, 15-30 mm Ø, à apex atténué obtus et perforé à l'apex; la surface ressemble à des cellules de nid d'abeille, à la base blanchâtre rosâtre pâle, devenant nettement rose vers l’apex, surmonté de la glèbe
@@ -213,7 +219,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

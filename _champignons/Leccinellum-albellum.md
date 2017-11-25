@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet blanchâtre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Leccinellum
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 40-115 x 5-12 mm Ø, claviforme, subégal à légèrement élargi vers la base et conique vers le sommet, plein, sec, blanchâtre, orné de fines rugosités devenant brun-noir avec l'âge, une tache jaune dans la chair est localisée juste à la base, mycélium basal blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'éléments celluleux en chaîne, subglobuleux à clavées ressemblant à un trichoderme, entre 19,5 [29,2; 44,8] 54,4 x 6,4 [11,3; 19,2] 24,2 µm; ressemble parfois à un pileipellis de type virescens
@@ -233,8 +238,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -242,9 +247,9 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient olive ; la chair devient jaune pâle
-    Potasse (KOH 10%) = le chapeau devient olive ; la chair devient jaune pâle
-    Sulfate de fer (FeSO<SUB>4</SUB>) = le chapeau devient gris bleuâtre ; la chair devient grise
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient olive; la chair devient jaune pâle
+    Potasse (KOH 10%) = le chapeau devient olive; la chair devient jaune pâle
+    Sulfate de fer (FeSO<SUB>4</SUB>) = le chapeau devient gris bleuâtre; la chair devient grise
   receptacle: 
   remarques: 
   repartition: 
@@ -258,6 +263,7 @@ description:
   sporee: brune
   spherocytes: 
   sporocystes: 
+  stipe: 40-115 x 5-12 mm Ø, claviforme, subégal à légèrement élargi vers la base et conique vers le sommet, plein, sec, blanchâtre, orné de fines rugosités devenant brun-noir avec l'âge, une tache jaune dans la chair est localisée juste à la base, mycélium basal blanchâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Omphale en clochette
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Mycenaceae
   genre: Xeromphalina

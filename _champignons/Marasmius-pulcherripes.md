@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Marasme à beau pied
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Marasmiaceae
   genre: Marasmius
@@ -87,7 +93,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Le pied pourpré à l'apex est une caratéristique de l'espèce. »
+  commentaires: |
+    De Yves Lamoureux. « Le pied pourpré à l'apex est une caratéristique de l'espèce. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -213,7 +220,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 16-63 x 2-6 mm Ø, cylindrique, centré, égal à légèrement élargi vers l'apex, comprimé, droit ou courbe, souvent flexueux, rigide, creux, sec, glabre, brillant, opaque, entièrement rose modéré ou foncé, rouge grisâtre, rose jaunâtre-grisâtre ou brun jaunâtre pâle au début et plus tard à l'apex seulement, devenant jaune grisâtre, jaune orangé foncé, brun jaunâtre pâle, brun rougeâtre modéré ou foncé ou brun noirâtre vers la base, progressivement puis foncé depuis la base, avec mycélium basal feutré, blanc ou parfois blanc grisâtre, s'étendant rarement autour du substrat, sans rhizomorphes
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,7 +245,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Noordeloos, Machiel E</b>. <i>Marasmius: Key to the sections in Europe</i>.
+    <b>Noordeloos, Machiel E</b>. <i>Marasmius; Key to the sections in Europe</i>.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -255,6 +261,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 16-63 x 2-6 mm Ø, cylindrique, centré, égal à légèrement élargi vers l'apex, comprimé, droit ou courbe, souvent flexueux, rigide, creux, sec, glabre, brillant, opaque, entièrement rose modéré ou foncé, rouge grisâtre, rose jaunâtre-grisâtre ou brun jaunâtre pâle au début et plus tard à l'apex seulement, devenant jaune grisâtre, jaune orangé foncé, brun jaunâtre pâle, brun rougeâtre modéré ou foncé ou brun noirâtre vers la base, progressivement puis foncé depuis la base, avec mycélium basal feutré, blanc ou parfois blanc grisâtre, s'étendant rarement autour du substrat, sans rhizomorphes
   stipitipellis: 
   stipititrame: 
   stroma: 

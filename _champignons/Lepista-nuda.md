@@ -216,7 +216,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre, parfois même novembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

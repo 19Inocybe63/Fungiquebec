@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Clitocybe lumineux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Omphalotus
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 30-70 x 10-20 mm Ø, blanchâtre à grisâtre, orangé à concolore, plus pâle que le chapeau, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement, finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du pied, ou presque, d'où l'on peut observer un léger suintement du pied, cespiteux
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -244,7 +249,7 @@ description:
   receptacle: 
   remarques: |
     Parfois observée de fines gouttelettes orangées, collantes et visqueuses, comme exsudées, et qui se fixent sur le chapeau et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux.
-    Les histoires les plus rocambolesques les unes que les autres nourrissent le fait que ce champignon possède la propriété d'être luminescent où il se trouve. Il aide le voyageur égaré en forêt, il permet de lire un livre avec assez de luminosité, bref, un champignon dont l'exagération et l'imaginaire collectif n'a pas fini de faire sourire ; The <i>jack-o'lantern</i> mushroom !
+    Les histoires les plus rocambolesques les unes que les autres nourrissent le fait que ce champignon possède la propriété d'être luminescent où il se trouve. Il aide le voyageur égaré en forêt, il permet de lire un livre avec assez de luminosité, bref, un champignon dont l'exagération et l'imaginaire collectif n'a pas fini de faire sourire; The <i>jack-o'lantern</i> mushroom !
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -256,6 +261,7 @@ description:
   sporee: crème, jaune pâle à légèrement verdâtre
   spherocytes: 
   sporocystes: 
+  stipe: 30-70 x 10-20 mm Ø, blanchâtre à grisâtre, orangé à concolore, plus pâle que le chapeau, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement, finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du pied, ou presque, d'où l'on peut observer un léger suintement du pied, cespiteux
   stipitipellis: avec extrémités hyphales dans le revêtement caulinaire
   stipititrame: 
   stroma: 

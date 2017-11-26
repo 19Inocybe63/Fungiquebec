@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Psathyrelle à pied rigide
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
@@ -46,12 +52,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: de 2 types, utriformes, tétrasporiques, dont les stérigmates mesurent entre 6-7 µm de longueur, hyalines à légèrement brunâtres à la base avec l'âge dans le KOH 5%, à paroi mince, (24,1) 24,5 - 28,1 (31,4) × (7,4) 7,5 - 7,9 (8,2) µm; de type claviformes à largement claviformes, tétrasporiques, hyalines à légèrement brunâtres à la base avec l'âge dans le KOH 5%, à paroi mince, 23,5 - 26,4 × 7,9 - 10,5 µm en moyenne
+  basides: de 2 types, utriformes, tétrasporiques, dont les stérigmates mesurent entre 6-7 µm de longueur, hyalines à légèrement brunâtres à la base avec l'âge dans le KOH 5%, à paroi mince, (24,1) 24,5-28,1 (31,4) × (7,4) 7,5-7,9 (8,2) µm; de type claviformes à largement claviformes, tétrasporiques, hyalines à légèrement brunâtres à la base avec l'âge dans le KOH 5%, à paroi mince, 23,5-26,4 × 7,9-10,5 µm en moyenne
   basidiospores: |
-    ovoïdes tronquées à elliptiques tronquées en vue frontale, plus pointu à l’extrémité basale, ± allongé, inéquilatérales à amygdaliformes en raison d’une dépression supra-hilaire vues de profil, l'apex tronqué d'un large pore germinatif 1,9 - 2,2 µm Ø, faiblement à distinctement orné de petites verrues, à paroi mince à légèrement épaissie ± 0,2 µm d’épaisseur, avec appendice hilaire très petit, à contenu variable, brun foncé dans E.G. 20%, brun à bistre grisâtre dans le KOH 5%, baie rouge terne dans le melzer, non cyanophiles
-    (9,3) 9,6 - 10,7 (10,9) × (5) 5,4 - 6,3 (6,5) µm
-    Q = (1,6) 1,63 - 1,9 (2,2) ; N = 30
-    Me = 10,2 × 5,7 µm ; Qe = 1,8
+    ovoïdes tronquées à elliptiques tronquées en vue frontale, plus pointu à l’extrémité basale, ± allongé, inéquilatérales à amygdaliformes en raison d’une dépression supra-hilaire vues de profil, l'apex tronqué d'un large pore germinatif 1,9-2,2 µm Ø, faiblement à distinctement orné de petites verrues, à paroi mince à légèrement épaissie ± 0,2 µm d’épaisseur, avec appendice hilaire très petit, à contenu variable, brun foncé dans E.G. 20%, brun à bistre grisâtre dans le KOH 5%, baie rouge terne dans le melzer, non cyanophiles
+    (9,3) 9,6-10,7 (10,9) × (5) 5,4-6,3 (6,5) µm
+    Q = (1,6) 1,6-1,9 (2,2); N = 30
+    Me = 10,2 × 5,7 µm; Qe = 1,8
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -63,7 +69,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: nombreuses, souvent en faisceaux ou dispersées, cylindriques à cylindriques subcapitées, aciculaires, hyalines, à paroi mince, (47,2) 53,4 - 81,5 (81,9) × (4,9) 6,1 - 7,9 (8) µm en moyenne
+  caulocystides: nombreuses, souvent en faisceaux ou dispersées, cylindriques à cylindriques subcapitées, aciculaires, hyalines, à paroi mince, (47,2) 53,4-81,5 (81,9) × (4,9) 6,1-7,9 (8) µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -76,7 +82,7 @@ description:
   chancre: 
   chapeau: 19-50 mm Ø, campanulé conique à hémisphérique lorsque jeune, convexe à largement convexe à maturité, sec, fibrilleux squamuleux, marron foncé, souvent rougeâtre au centre
   cheilochrysocystides:
-  cheilocystides: claviformes filamenteuses à cylindriques, subcapitées, dont parfois l’apex rappelle vaguement la tête d’un serpent, hyalines, à parois minces; (42) 60,8 - 69,1 (6,4) 6,8 - 10 (13,6) µm en moyenne
+  cheilocystides: claviformes filamenteuses à cylindriques, subcapitées, dont parfois l’apex rappelle vaguement la tête d’un serpent, hyalines, à parois minces; (42) 60,8-69,1 (6,4) 6,8-10 (13,6) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -215,7 +221,6 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: formé de plusieurs couches celluleuses à vésiculeuses, à paroi mince, jaunâtre en KOH 5%; les hyphes filamenteuses et émergentes forment des fibrilles bouclées et serrées à la surface du pileipellis, dont les parois sont lisses à finement rugueuses, hyalines à ochracées dans le KOH 5%
@@ -223,7 +228,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: rares à occasionnelles, polymorphes, cylindriques à cylindriques utriformes, subfusiformes, dont l’apex varie entre obtus fusiformes à légèrement mucronées ou en ogives, rarement lagéniformes, hyalines, à paroi mince, 33,1 - 61,3 × 11,1 - 15,7 µm en moyenne
+  pleurocystides: rares à occasionnelles, polymorphes, cylindriques à cylindriques utriformes, subfusiformes, dont l’apex varie entre obtus fusiformes à légèrement mucronées ou en ogives, rarement lagéniformes, hyalines, à paroi mince, 33,1-61,3 × 11,1-15,7 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

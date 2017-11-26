@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Russule du Michigan
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
@@ -72,6 +78,7 @@ description:
     (6,6) 7,4-8,5 (8,7) x (5,6) 5,9-7 (7,1) µm
     Q = (1,1) 1,2 - 1,3 (1,5); N = 30
     Me = 7,9 x 6,4 µm; Qe = 1,2
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 

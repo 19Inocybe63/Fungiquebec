@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pézize olivâtre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
@@ -136,7 +142,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: formée de petites méchules (comme finement granuleuse), beige à reflets jaunâtres ; violacée à la base et près du centre
+  face-externe: formée de petites méchules (comme finement granuleuse), beige à reflets jaunâtres; violacée à la base et près du centre
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -210,7 +216,6 @@ description:
   peritheces: 
   phenologie: de mai à juillet
   phialoconidies: 
-  pied: absent
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -255,6 +260,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: absent
   stipitipellis: 
   stipititrame: 
   stroma: 

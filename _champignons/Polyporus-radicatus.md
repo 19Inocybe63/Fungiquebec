@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore radicant
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Polyporaceae
   genre: Polyporus
@@ -216,7 +222,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 30-100 x 5-10 mm Ø, centré à légèrement excentré, ± égale, ou légèrement élargi vers la base, sec, finement pubescent près de l'apex, orangé à légèrement brunâtre au-dessus du sol, avec une pseudorhize noire de 40 à 100 mm qui se rétrécit et se prolonge sous terre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,7 +241,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: décurrents, cartilagineux et cassants au sec, plus foncés que le contexte, 1-5 mm de longueur ; ronds à anguleux, 1-3 par mm
+  pores: décurrents, cartilagineux et cassants au sec, plus foncés que le contexte, 1-5 mm de longueur; ronds à anguleux, 1-3 par mm
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -260,6 +265,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 30-100 x 5-10 mm Ø, centré à légèrement excentré, ± égale, ou légèrement élargi vers la base, sec, finement pubescent près de l'apex, orangé à légèrement brunâtre au-dessus du sol, avec une pseudorhize noire de 40 à 100 mm qui se rétrécit et se prolonge sous terre
   stipitipellis: 
   stipititrame: 
   stroma: 

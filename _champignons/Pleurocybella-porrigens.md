@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pleurote étalé / Pleurote en oreille
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Marasmiaceae
   genre: Pleurocybella
@@ -209,7 +215,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

@@ -230,7 +230,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: absent
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -275,6 +274,7 @@ description:
   sporee: blanche à blanchâtre
   spherocytes: 
   sporocystes: 
+  stipe: absent
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pleurote en forme de nid
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Phyllotopsis
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: absent ou rudimentaire, parfois fixé latéralement sur le support, tomenteux-strigueux blanc vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -250,6 +255,7 @@ description:
   sporee: rose pâle à brun rosé
   spherocytes: 
   sporocystes: 
+  stipe: absent ou rudimentaire, parfois fixé latéralement sur le support, tomenteux-strigueux blanc vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

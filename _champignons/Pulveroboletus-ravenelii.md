@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet de Ravenel
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Pulveroboletus
@@ -213,7 +219,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 4-15 x 10-50 mm Ø, cylindrique, égale à conique à la base, jaune à blanchâtre, parfois avec un anneau fragile, mycélium basal blanchâtre ou jaunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -240,13 +245,13 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<sub>4</sub>OH 10%) = brunâtre sur le chapeau ; pas de coloration ou de décoloration sur la chair
+    Ammoniaque (NH<sub>4</sub>OH 10%) = brunâtre sur le chapeau; pas de coloration ou de décoloration sur la chair
     Potasse (KOH 10%) = orange sur le chapeau et sur la chair
-    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration sur le chapeau ; orangé sur la chair
+    Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration sur le chapeau; orangé sur la chair
   receptacle: 
   remarques: 
   repartition: 
@@ -260,6 +265,7 @@ description:
   sporee: brun olive à olive
   spherocytes: 
   sporocystes: 
+  stipe: 4-15 x 10-50 mm Ø, cylindrique, égale à conique à la base, jaune à blanchâtre, parfois avec un anneau fragile, mycélium basal blanchâtre ou jaunâtre
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -275,7 +281,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: concolores à la face poroïde, 5-8 mm de longueur ; subcirculaires à anguleux, petits, 1-3 par mm
+  tubes: concolores à la face poroïde, 5-8 mm de longueur; subcirculaires à anguleux, petits, 1-3 par mm
   type: 
   typique: 
   voile: 

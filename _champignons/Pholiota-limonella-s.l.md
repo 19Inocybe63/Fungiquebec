@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pholiote citrine / Pholiote jaune citron
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
@@ -46,12 +52,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à étroitement claviformes, bisporiques et tétrasporiques, bouclées à la base, (22,5) 22,7 - 26,4 (27) × (6,2) 6,5 - 6,9 (7) µm
+  basides: claviformes à étroitement claviformes, bisporiques et tétrasporiques, bouclées à la base, (22,5) 22,7-26,4 (27) × (6,2) 6,5-6,9 (7) µm
   basidiospores: |
-    ovoïdes à elliptiques en vue frontale, elliptiques à phaséoliformes vues de profil, jamais tronquées, pore germinatif discret et pas toujours, visible, lisses, à paroi mince 0,21 x 0,29 µm  d’épaisseur, appendice hilaire discret et pas toujours visible, à contenu rarement uniguttulé, plus souvent variable, brun pâle dans le NaCl isotonique 0,9%,  fauve terne dans le KOH 5%, ocre dans le melzer, non cyanophiles
-    (6,4) 7 - 7,6 (8,1) × (4) 4,4 - 4,9 (5) µm
-    Q = (1,4) 1,5 - 1,7 (1,8) ; N = 30
-    Me = 7,3 × 4,6 µm ; Qe = 1,6
+    ovoïdes à elliptiques en vue frontale, elliptiques à phaséoliformes vues de profil, jamais tronquées, pore germinatif discret et pas toujours, visible, lisses, à paroi mince 0,21 x 0,29 µm  d’épaisseur, appendice hilaire discret et pas toujours visible, à contenu rarement uniguttulé, plus souvent variable, brun pâle dans le NaCl isotonique 0,9%, fauve terne dans le KOH 5%, ocre dans le melzer, non cyanophiles
+    (6,4) 7-7,6 (8,1) × (4) 4,4-4,9 (5) µm
+    Q = (1,4) 1,5-1,7 (1,8); N = 30
+    Me = 7,3 × 4,6 µm; Qe = 1,6
     (Piximètre, formule classique; mesures issues d'une sporée, dans NaCl isotonique 0,9%)
   basidioles: 
   basidiome: 
@@ -63,7 +69,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: occasionnelles, présentes à l'apex, isolées, parfois en faisceaux, claviformes à cylindriques, 14,8 - 39,5 × 4,4 - 6,5 µm en moyenne
+  caulocystides: occasionnelles, présentes à l'apex, isolées, parfois en faisceaux, claviformes à cylindriques, 14,8-39,5 × 4,4-6,5 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -77,7 +83,7 @@ description:
   chapeau: 30-60 (80) mm Ø, large, conique obtus à convexe, à marge incurvée au début; devenant globalement conique à presque étalé, parfois avec un large ombo, ou plus rarement simplement convexe, cuticule viscidulée et parfois collante, orné de squamules (3-4 mm de long) triangulaires recourbées brun à brun rougeâtre surtout sur les jeunes, les écailles disparaissent ou s’agglutine à maturité, de couleurs variables chez de jeune boutons, foncés rouille devenant plus pâle, ± ocre avec une zone marginale jaunes pâle, et devient progressivement jaune orangé à mesure que la couche visciduleuse disparaît
   cheilochrysocystides:
   cheilocystides: 
-  cheiloleptocystides: abondantes, polymorphes, cylindriques à étroitement claviformes, largement fusiformes, lagéniformes, piriformes, dont l'apex est souvent déformé, tortueux; parfois subcapité, vide optique, (10,4) 12 - 20,1 (25,9) × (5) 5,6 - 7 (7,8) µm en moyenne
+  cheiloleptocystides: abondantes, polymorphes, cylindriques à étroitement claviformes, largement fusiformes, lagéniformes, piriformes, dont l'apex est souvent déformé, tortueux; parfois subcapité, vide optique, (10,4) 12-20,1 (25,9) × (5) 5,6-7 (7,8) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -228,14 +234,13 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: suprapellis en ixocutis, avec hyphes cylindriques gélatinisés entre 1,0 à 5,0 μm de largeur avec parois incolores ou jaune pâle; avec des éléments terminaux cylindriques et claviformes dispersés entre 4,0 à 12 μm de largeur; subpellis compact, composé d'hyphes cylindriques entre 8,0-12,0 μm de largeur, aux parois brunes et incrustées de pigments interhyphales
   pileitrame: 
   pileocystides: 
   plasmode: 
-  pleurochrysocystides: rares, largement fusiformes à largement  fusiformes et mucronées, à inclusion réfringente dans le KOH 5%, 23 - 39,6 × 6,8 - 9,4 µm en moyenne
+  pleurochrysocystides: rares, largement fusiformes à largement fusiformes et mucronées, à inclusion réfringente dans le KOH 5%, 23-39,6 × 6,8-9,4 µm en moyenne
   pleurocystides: 
   poils: 
   poils-basaux: 
@@ -257,7 +262,7 @@ description:
   publications: |
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

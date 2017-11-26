@@ -7,7 +7,13 @@ album-flickr:
   - 72157676507343273
 
 details:
-  nom-francais: Flammule glutineuse ou Pholiote gluante
+  nom-francais: Flammule glutineuse / Pholiote gluante
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
@@ -80,9 +86,9 @@ description:
   basidiospores: |
     elliptiques à ovoïdes vue frontale, subelliptiques à elliptiques à subphaséoliformes, parfois en haricots vues de profil, lisses, à paroi mince jusqu’à 0,2 µm d’épaisseur, avec petit appendice hilaire, pore germinatif indistinct à partiellement visible, à contenu uniguttulé à pluriguttulé, hyalines à brun très pâle dans E.G. 20%, ± ochracées à fauve dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     (5,7) 6-7,3 (7,6) × (3,2) 3,4-3,76 (3,8) µm
-    Q = 1,7-2 (2,1) ; N = 30
-    Me = 6,6 × 3,6 µm ; Qe = 1,9
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    Q = 1,7-2 (2,1); N = 30
+    Me = 6,6 × 3,6 µm; Qe = 1,9
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -244,7 +250,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis, dans une épaisse couche de gélin (160-210 µm d'épaisseur en moyenne) d'hyphes étroites hyalines à jaunâtres de 1-3 μm Ø, avec des zones réfringentes, lisses et lâches dans la matrice de gélin
@@ -274,7 +279,7 @@ description:
   publications: |
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
     <b>Persoon, Christiaan Hendrik</b>. <i>Synopsis methodica fungorum</i>, Pars prima cumtabilis Æneig. Gottingæ, 1801, Apud Henricum Dieterich; (p. 287, N° 52)
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

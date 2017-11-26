@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Meruliaceae
   genre: Phlebia
@@ -49,12 +55,12 @@ description:
   basides: en palissade dense, claviformes à étroitement claviformes, tétrasporiques, bouclées à la base 17,9 [24,2 ; 33] 39,3 × 2,6 [3,8 ; 5,5] 6,7 µm
   basidiospores: |
     elliptiques en vue frontale, cylindriques à suballantoïdes vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, fortement cyanophiles
-    (5,6) 6 - 7,7 (9) × (2,7) 2,9 - 3,5 (3,8) µm
-    Q = (1,8) 1,9 - 2,3 (2,7) ; N = 30
-    Me = 6,8 × 3,2 µm ; Qe = 2,1
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (5,6) 6-7,7 (9) × (2,7) 2,9-3,5 (3,8) µm
+    Q = (1,8) 1,9-2,3 (2,7); N = 30
+    Me = 6,8 × 3,2 µm; Qe = 2,1
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
-  basidiome: entièrement résupiné, effusé à légèrement effusé-réfléchi, orbiculaire 10-100 mm ou plus, avec contour irrégulier, allant jusqu'à environ 3 mm d'épaisseur, surface ridée, avec les rides et les plis rayonnants à partir d'un point plus ou moins central, orange au rose (plus rarement tan avec des bords orangé ou violacé), développé occasionnellement, un bord poilu légèrement replié
+  basidiome: entièrement résupiné, effusé à légèrement effusé-réfléchi, orbiculaire 10-100 mm ou plus, au contour irrégulier, allant jusqu'à environ 3 mm d'épaisseur, surface ridée, avec les rides et les plis rayonnants à partir d'un point plus ou moins central, orange au rose (plus rarement tan avec des bords orangé ou violacé), développé occasionnellement, un bord poilu légèrement replié
   bibliographies: 
   biotopes: pousse sur bois mort pourri de feuillus et de conifères; agent de carie blanche
   boucles: de tailles différentes, observées sur les hyphes génératrices
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

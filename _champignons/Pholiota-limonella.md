@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pholiote citrine / Pholiote jaune citron
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
@@ -49,9 +55,9 @@ description:
   basides: cylindriques à l’apex légèrement piriforme, tétrasporiques, bouclées à la base, 23,2 x 7,4 µm en moyenne
   basidiospores: |
     obovoïdes, ellipsoïdes à oblongues, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, très finement apiculé, pore germinatif indistinct, à contenu uniguttulé à variable, jaunâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
-    6,7 [7,4 ; 7,6] 8,3 x 4,3 [4,6 ; 4,7] 5 µm
-    Q = 1,4 [1,6 ; 1,7] 1,8 ; N = 38 ; C = 95%
-    Me = 7,5 x 4,6 µm ; Qe = 1,6
+    6,7 [7,4; 7,6] 8,3 x 4,3 [4,6; 4,7] 5 µm
+    Q = 1,4 [1,6; 1,7] 1,8; N = 38; C = 95%
+    Me = 7,5 x 4,6 µm; Qe = 1,6
   basidioles: 
   basidiome: 
   bibliographies: 

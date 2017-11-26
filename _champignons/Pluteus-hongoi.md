@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Plutée de Hongō
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
@@ -47,13 +53,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire ou bien carminophile, (25,1 - 35,2 × 7,1 - 8,5 µm en moyenne
+  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire ou bien carminophile, (25,1-35,2 × 7,1-8,5 µm en moyenne
   basidiospores: |
     ovoïdes à subtriangulaires en vue frontale, elliptiques à largement elliptiques vues de profil, ou légèrement resserré au milieu, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu uniguttulé à granulations, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (6,4) 6,7 - 7,7 (7,9) × (4,5) 4,7 - 5,4 (5,5) µm
-    Q = (1,3) 1,34 - 1,6 (1,7) ; N = 30
-    Me = 7,2 × 5 µm ; Qe = 1,5
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (6,4) 6,7-7,7 (7,9) × (4,5) 4,7-5,4 (5,5) µm
+    Q = (1,3) 1,3-1,6 (1,7); N = 30
+    Me = 7,2 × 5 µm; Qe = 1,5
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -69,13 +75,13 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, polymorphes, claviformes, piriformes à subpiriformes 37,7 - 59,3 × 15,7 - 18,9 µm en moyenne, subglobuleuses 20,7 - 27 × 20,2 - 20,3 µm en moyenne, sphéropédonculées 39,5 - 56,5 × 15,4 - 20,8 µm en moyenne
+  cellules-marginales-paracystides: nombreuses, polymorphes, claviformes, piriformes à subpiriformes 37,7-59,3 × 15,7-18,9 µm en moyenne, subglobuleuses 20,7-27 × 20,2-20,3 µm en moyenne, sphéropédonculées 39,5-56,5 × 15,4-20,8 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
   chapeau: 84 mm Ø, étalé, umboné, légèrement déprimé, viscidule, brun-gris à olivâtre foncé à noirâtre vers le centre
-  cheilocystides: occasionnelles (plus nombreuses à l'arête lamellaire) plus petites et moins bien développées que les pleurocystides, fusiformes à cylindriques, souvent avec crochets difformes ou avec un seul crochet, 52,7 - 59,6 × 10,7 - 15,9 µm en moyenne
+  cheilocystides: occasionnelles (plus nombreuses à l'arête lamellaire) plus petites et moins bien développées que les pleurocystides, fusiformes à cylindriques, souvent avec crochets difformes ou avec un seul crochet, 52,7-59,6 × 10,7-15,9 µm en moyenne
   cheilocystides-intermediaires: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -209,7 +215,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 58 x 7 mm Ø, cylindrique arqué, fibrilles longitudinales brunes à brun-gris pâle, squamuleux vers la base, bulbeux
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou remplis de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41 - 70,1 (80) × (6) 8,5 - 13,5 (16,7) µm en moyenne
@@ -254,6 +259,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
+  stipe: 58 x 7 mm Ø, cylindrique arqué, fibrilles longitudinales brunes à brun-gris pâle, squamuleux vers la base, bulbeux
   stipitipellis: 
   stipititrame: 
   stroma: 

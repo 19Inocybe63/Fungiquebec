@@ -201,7 +201,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: très serrées, avec lamelles et lamellules abondantes, blanchâtres, se tachent de noir au froissement
+  lames: adnées, très serrées, avec lamelles et lamellules abondantes, blanchâtres, se tachent de noir au froissement
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Paxille enroulé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Paxillaceae
   genre: Paxillus
@@ -82,9 +88,9 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, jaunâtre, chamois pâle à ochracée, se tachant souvent de brun à rougeâtre à la coupe
   chancre: 
-  chapeau: 60-88 mm Ø, convexe à largement convexe, étalé et mamelonné, déprimé, en entonnoir, visqueux, à cuticule collante à l'humidité puis sec ; marge veloutée et enroulée ; brun, brun olive
+  chapeau: 60-88 mm Ø, convexe à largement convexe, étalé et mamelonné, déprimé, en entonnoir, visqueux, à cuticule collante à l'humidité puis sec; marge veloutée et enroulée; brun, brun olive
   cheilochrysocystides:
-  cheilocystides: abondantes, subfusiformes, dont l'apex est souvent acuminé ou ± long ; rarement rostrées, 40-90 µm de long
+  cheilocystides: abondantes, subfusiformes, dont l'apex est souvent acuminé ou ± long; rarement rostrées, 40-90 µm de long
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -217,7 +223,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 30-42 x 9-11 mm Ø, cylindrique, égal, plein, ferme, glabre à légèrement fibrilleux, lisse, sec, crème ou beige, souvent taché de rougeâtre ou de brun foncé, brunissant à maturité ou au froissement
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (ixocutis) avec des éléments en trichoderme (ixotrichoderme) formé d'hyphes au contenu brunâtre
@@ -263,6 +268,7 @@ description:
   sporee: brun rouille à brun jaunâtre
   spherocytes: 
   sporocystes: 
+  stipe: 30-42 x 9-11 mm Ø, cylindrique, égal, plein, ferme, glabre à légèrement fibrilleux, lisse, sec, crème ou beige, souvent taché de rougeâtre ou de brun foncé, brunissant à maturité ou au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

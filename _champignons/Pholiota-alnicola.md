@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pholiote des aulnes
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
@@ -82,7 +88,7 @@ description:
     8,4 [9,3; 9,7] 10,6 x 4,5 [4,9; 5,1] 5,5 µm
     Q = 1,7 [1,9] 2,1; N = 30; C = 95%
     Me = 9,5 x 5 µm; Qe = 1,9
-    (Piximètre, formule statistique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -105,7 +111,7 @@ description:
   chancre: 
   chapeau: 20-70 mm Ø, convexe puis étalé, parfois umboné, subvisqueux, viscidule à légèrement humide, glabre, subhygrophane, jaune au début, puis jaune plus foncé à ferrugineux à maturité ou à l'humidité, parfois lavé de vert olive vers le pourtour et jaune rougeâtre au disque, jaune pâle au sec, à marge incurvée, unie, fibrilleuse-subécailleuse à appendiculée, glabrescente
   cheilochrysocystides:
-  cheilocystides: abondantes, polymorphes, cylindriques, subclavées, sublageniformes, subflexueuses, parfois avec apex déformé ; à paroi mince, vide optique, 32 [34,2; 38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
+  cheilocystides: abondantes, polymorphes, cylindriques, subclavées, sublageniformes, subflexueuses, parfois avec apex déformé; à paroi mince, vide optique, 32 [34,2; 38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: absentes
@@ -246,7 +252,6 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis (avec mince ixocutis)
@@ -276,7 +281,7 @@ description:
     <b>Fries, Elias Magnus</b>. <i>Systema Mycologicum</i>; sistens Fungorum, Ordines, Genera et Species... volumen I, Lundæ, 1821, Ex Officina Berlingiana; (p. 250, N° 1)
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R.</b> <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R.</b> <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

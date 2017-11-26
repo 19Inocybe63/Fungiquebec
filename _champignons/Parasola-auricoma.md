@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Coprin doré ou Coprin à soies brunes
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Parasola
@@ -69,7 +75,7 @@ description:
   cellules-stromatiques: 
   chair: gris brun, mince à membraneuse
   chancre: 
-  chapeau: 10-25 x 15-45 mm Ø, d'abord ovoide, puis campanulé et finalement aplani étalé, dépourvu de voile déliquescent dans la vieillesse ; surface sèche, mate, brillante à l'état humide et striée cannelée, presque jusqu'au centre ; rosé au debut, puis gris brun à brun noir, orné de fins poils dressés, disque brun rouge foncé et lisse, marge crenelée
+  chapeau: 10-25 x 15-45 mm Ø, d'abord ovoide, puis campanulé et finalement aplani étalé, dépourvu de voile déliquescent dans la vieillesse; surface sèche, mate, brillante à l'état humide et striée cannelée, presque jusqu'au centre; rosé au debut, puis gris brun à brun noir, orné de fins poils dressés, disque brun rouge foncé et lisse, marge crenelée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juin à juillet
   phialoconidies: 
-  pied: 50-110 x 2-5 mm Ø, cylindrique, aminci vers le sommet, creux, cassant ; surface lisse, blanche ornée de fines fibrilles longitudinales, base parfois faiblement feutrée blanche
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -252,6 +257,7 @@ description:
   sporee: noire
   spherocytes: 
   sporocystes: 
+  stipe: 50-110 x 2-5 mm Ø, cylindrique, aminci vers le sommet, creux, cassant; surface lisse, blanche ornée de fines fibrilles longitudinales, base parfois faiblement feutrée blanche
   stipitipellis: 
   stipititrame: 
   stroma: 

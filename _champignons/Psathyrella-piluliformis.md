@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Psathyrelle hydrophile
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
@@ -228,7 +234,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 30-130 x 3-10 mm Ø, égal, fragile avec l'âge, creux, lisse, pruineux vers l'apex, lisse ou avec fines fibrilles vélaires vers la base, glabrescent, blanc à grisâtre pâle puis brunâtre sordide, au moins vers la base
   pieds-steriles: 
   pigments: 
   pileipellis: suprapellis en épithélium régulier, dont les sphérocystes mesure jusqu’à 11-19 x 10-17 µm
@@ -277,6 +282,7 @@ description:
   sporee: brun pourpré à brun noir
   spherocytes: 
   sporocystes: 
+  stipe: 30-130 x 3-10 mm Ø, égal, fragile avec l'âge, creux, lisse, pruineux vers l'apex, lisse ou avec fines fibrilles vélaires vers la base, glabrescent, blanc à grisâtre pâle puis brunâtre sordide, au moins vers la base
   stipitipellis: 
   stipititrame: constitué d’hyphes larges parallèles mesurant jusqu’à 5-6 µm de large
   stroma: 

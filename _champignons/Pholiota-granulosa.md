@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pholiote granuleuse
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
@@ -122,7 +128,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De A. H. Smith. « La distribution de cette espèce en Amérique du Nord est demeurée incertaine à cause de sa grande confusion avec <i>Flammulaster erinaceellus</i>, <i>P. limulata</i> et <i>P. muricata</i>. <i>Naucoria muricata</i> a déjà été différenciée seulement par ses cheilocystides, mais se définit mieux actuellement comme une <i>P. erinaceella</i> à lames jaunes. <i>Flammula limulata</i>, très proche de <i>P. granulosa</i>, a un pileipellis trichodermique formé d’hyphes plus lourdement ornementées et une trame lamellaire plus fortement colorée. Les deux poussent sur conifères et ne sont pas considérées comme synonymes. »
+  commentaires: |
+    De A. H. Smith. « La distribution de cette espèce en Amérique du Nord est demeurée incertaine à cause de sa grande confusion avec <i>Flammulaster erinaceellus</i>, <i>P. limulata</i> et <i>P. muricata</i>. <i>Naucoria muricata</i> a déjà été différenciée seulement par ses cheilocystides, mais se définit mieux actuellement comme une <i>P. erinaceella</i> à lames jaunes. <i>Flammula limulata</i>, très proche de <i>P. granulosa</i>, a un pileipellis trichodermique formé d’hyphes plus lourdement ornementées et une trame lamellaire plus fortement colorée. Les deux poussent sur conifères et ne sont pas considérées comme synonymes. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -248,7 +255,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-50 x 2-3 (4) mm Ø, égal, vite tubuleux ou creux, jaune pâle vers l’apex, finement fibrileux-furfuracé jaune ou concolore aux squamules du chapeau sous la zone annuliforme, devenant brun rouille foncé depuis la base, avec feutrage de mycélium pâle à la base
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, formé d’hyphes superficielles agrégées en faisceaux, bouclées, à paroi mince, presque lisses, aspérulées ou finement rugueuses, 8-18 µm de long, à cellule terminale un peu cystidioïde, ou légèrement ellipsoïde, avec subcutis formés d’hyphes apprimées, lisses, parfois incrustées, rouille cannelle, plus étroites que celles des faisceaux
@@ -277,7 +283,7 @@ description:
   publications: |
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -299,6 +305,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 30-50 x 2-3 (4) mm Ø, égal, vite tubuleux ou creux, jaune pâle vers l’apex, finement fibrileux-furfuracé jaune ou concolore aux squamules du chapeau sous la zone annuliforme, devenant brun rouille foncé depuis la base, avec feutrage de mycélium pâle à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

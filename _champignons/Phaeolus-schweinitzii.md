@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore de Schweinitz
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Fomitopsidaceae
   genre: Phaeolus
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: jusqu'à 50 mm Ø, centré à latéral, court et trapu, simple ou ramifié
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -236,7 +241,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = devient noir sur le chapeau et le contexte ; sur jeunes sujets, il passe au rouge vin avant de noircir
+    Potasse (KOH 10%) = devient noir sur le chapeau et le contexte; sur jeunes sujets, il passe au rouge vin avant de noircir
   receptacle: 
   remarques: 
   repartition: 
@@ -250,6 +255,7 @@ description:
   sporee: blanc jaunâtre
   spherocytes: 
   sporocystes: 
+  stipe: jusqu'à 50 mm Ø, centré à latéral, court et trapu, simple ou ramifié
   stipitipellis: 
   stipititrame: 
   stroma: 

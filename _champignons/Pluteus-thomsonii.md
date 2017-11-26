@@ -7,7 +7,13 @@ album-flickr:
   - 72157684742543893
 
 details:
-  nom-francais: Plutée cendrée ; Plutée de Thomson
+  nom-francais: Plutée cendrée / Plutée de Thomson
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
@@ -49,10 +55,10 @@ description:
   basides: claviformes, parfois avec léger pédicelles, tétrasporiques, non bouclées à la base, 24,5 - 37,5 × 8,5 - 10,0 µm en moyenne
   basidiospores: |
     elliptiques à courtement elliptiques en vue frontale, obtusément ellipsoïdes, largement elliptiques à elliptiques vues de profil, lisses, à paroi mince 1,5-2,5 µm, petit appendice hilaire, à contenu uniguttulé à variable, légèrement rosâtres dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-        (6,4) 6,6 - 8 (8,4) × 5,1 - 6,1 (6,3) µm
-        Q = (1,1) 1,2 - 1,3 (1,4) ; N = 30
-        Me = 7,2 × 5,6 µm ; Qe = 1,3
-        (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
+    (6,4) 6,6 - 8 (8,4) × 5,1 - 6,1 (6,3) µm
+    Q = (1,1) 1,2 - 1,3 (1,4); N = 30
+    Me = 7,2 × 5,6 µm; Qe = 1,3
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -63,7 +69,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: nombreuses, en faisceaux, claviformes cylindriques à fusiformes, fusiformes ventrues, parfois avec une projection apicale simple (digitation), certaines avec de ± longue projection apicale, ovoïdes, hyalines dans E.G. 10%, à paroi mince, (21,7) 27,4 - 50,6 (81,1) × (8,5) 9,1 - 19,8 (20,1) µm
+  caulocystides: nombreuses, en faisceaux, claviformes cylindriques à fusiformes, fusiformes ventrues, parfois avec une projection apicale simple (digitation), certaines avec de ± longue projection apicale, ovoïdes, hyalines dans E.G. 10%, à paroi mince, (21,7) 27,4 - 50,6 (81,1) × (8,5) 9,1-19,8 (20,1) µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -215,15 +221,14 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en hyménoderme, formé de cellules polymorphes, courtement claviformes à longuement claviformes, fusiformes à fusiformes ventrues, parfois avec courte papille apicale, non bouclées, hyalines et avec pigment vacuolaire brun pâle à brun ± foncé dans E.G. 10%, à paroi mince, (34,2) 40,4 - 49,9 (70,6) × (8,6) 13,3 - 18,5 (20,9) µm en moyenne
+  pileipellis: en hyménoderme, formé de cellules polymorphes, courtement claviformes à longuement claviformes, fusiformes à fusiformes ventrues, parfois avec courte papille apicale, non bouclées, hyalines et avec pigment vacuolaire brun pâle à brun ± foncé dans E.G. 10%, à paroi mince, (34,2) 40,4-49,9 (70,6) × (8,6) 13,3-18,5 (20,9) µm en moyenne
   pileitrame: 
   pileocystides: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles et dispersées, largement piriformes à fusiformes ventrues, hyalines dans E.G. 10%, à paroi mince, 29,3 - 35,4 × 12,9 - 17,3 µm en moyenne
+  pleurocystides: occasionnelles et dispersées, largement piriformes à fusiformes ventrues, hyalines dans E.G. 10%, à paroi mince, 29,3-35,4 × 12,9-17,3 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

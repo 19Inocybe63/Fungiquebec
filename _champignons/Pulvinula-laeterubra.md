@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Pulvinula
@@ -38,14 +44,14 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Dougoud, René</b>. <i>Contribution à l’étude des discomycètes Version 2013</i>, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
+    <b>Dougoud, René</b>. <i>Contribution à l’étude des discomycètes Version 2013</i>, Ascomycete.org, 5 (2); 63-89, Mars 2013, 29 p.
     <b>Dougoud, René</b>. <i>Clé des Discomycètes carbonicoles</i>, 14 p.
   ascome: 
   ascospores: |
     globuleuses, lisses, à paroi mince à légèrement épaissie, 0,2-0,4 µm d’épaisseur, à contenu guttulé 10-12 µm à pluriguttulé, hyalines dans E.G. 20%, iodonégatifs, non cyanophiles
-    (12,7) 12,9 - 14,4 (14,7) × (12,6) 12,8 - 14,3 (14,7) µm
-    Q = 1 ; N = 30
-    Me = 13,6 × 13,5 µm ; Qe = 1
+    (12,7) 12,9-14,4 (14,7) × (12,6) 12,8-14,3 (14,7) µm
+    Q = 1; N = 30
+    Me = 13,6 × 13,5 µm; Qe = 1
     (Piximètre, formule classique; mesures issues d'une sporée, dans l'Eau glycérinée 20%)
   asques: longuement claviformes, octosporés, unisériés, iodonégatifs, 190-200 x 11-12 µm en moyenne
   asterohyphidies: 
@@ -58,7 +64,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sableux, dans la mousse, sous feuillus (Betula)
+  biotopes: pousse au sol, sableux, dans la mousse, sous feuillus, <i>Betula</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -218,7 +224,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

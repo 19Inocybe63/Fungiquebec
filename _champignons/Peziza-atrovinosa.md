@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
@@ -58,10 +64,10 @@ description:
   ascome: 
   ascospores: |
     ellipsoïdales, sans ornementation, réticulées, à paroi mince ornée d’un réseau cyanophile lâche, marqué de crêtes élevées, jusqu’à 1,7 µm, à contenu uniguttulé à biguttulé, hyalines dans E.G. 20%, cyanophiles
-    (10,9) 11,7 - 12,9 (13,2) × (6,8) 7 - 7,6 (7,9) µm
-    Q = (1,4) 1,6 - 1,79 (1,8) ; N = 30
-    Me = 12,2 × 7,3 µm ; Qe = 1,7
-    (Piximètre, formule classique ; mesures dans le bleu lactique, sans les ornementations)
+    (10,9) 11,7-12,9 (13,2) × (6,8) 7-7,6 (7,9) µm
+    Q = (1,4) 1,6-1,79 (1,8); N = 30
+    Me = 12,2 × 7,3 µm; Qe = 1,7
+    (Piximètre, formule classique; mesures dans le bleu lactique, sans les ornementations)
   asques: octosporé, operculé, IKI +b, 180-250 x 11-14 µm
   asterohyphidies: 
   avertissement: 

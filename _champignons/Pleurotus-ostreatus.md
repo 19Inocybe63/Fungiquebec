@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pleurote en huître
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Pleurotaceae
   genre: Pleurotus
@@ -217,7 +223,6 @@ description:
   peritheces: 
   phenologie: de mai à octobre
   phialoconidies: 
-  pied: absent, rudimentaire ou bien développé, 10-40 x 3-35 mm Ø, excentré à latéral ou même centré, subégal ou élargi aux deux extrémités, trapu, ferme, plein, sec, blanchâtre à jaune sombre, pubescent à strigueux blanc à la base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -260,6 +265,7 @@ description:
   sporee: blanche teintée de lilas à gris lilas
   spherocytes: 
   sporocystes: 
+  stipe: absent, rudimentaire ou bien développé, 10-40 x 3-35 mm Ø, excentré à latéral ou même centré, subégal ou élargi aux deux extrémités, trapu, ferme, plein, sec, blanchâtre à jaune sombre, pubescent à strigueux blanc à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

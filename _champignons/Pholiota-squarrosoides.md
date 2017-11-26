@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pholiote squarreuse
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
@@ -236,7 +242,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-120 x 5-12 mm Ø, cylindrique, parfois claviforme à la base, avec zone annuliforme fibrilleuse ; sec, ocre pâle à brun rougeâtre, densément fibrilleux-squarreux sous la zone annuliforme
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -265,7 +270,7 @@ description:
   publications: |
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -282,6 +287,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 50-120 x 5-12 mm Ø, cylindrique, parfois claviforme à la base, avec zone annuliforme fibrilleuse; sec, ocre pâle à brun rougeâtre, densément fibrilleux-squarreux sous la zone annuliforme
   stipitipellis: 
   stipititrame: 
   stroma: 

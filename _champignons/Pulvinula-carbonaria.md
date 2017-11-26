@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pézize charbonnière
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Pulvinula
@@ -58,7 +64,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Dougoud, René</b>. <i>Contribution à l’étude des discomycètes Version 2013</i>, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
+    <b>Dougoud, René</b>. <i>Contribution à l’étude des discomycètes Version 2013</i>, Ascomycete.org, 5 (2); 63-89, Mars 2013, 29 p.
     <b>Dougoud, René</b>. <i>Clé des Discomycètes carbonicoles</i>, 14 p.
   ascome: 
   ascospores: |
@@ -231,7 +237,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

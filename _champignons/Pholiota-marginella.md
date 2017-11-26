@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pholiote marginée
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
@@ -122,7 +128,7 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau
   chancre: 
-  chapeau: 10-25 mm Ø, convexe puis étalé, visqueux lorsque humide, glabre, hygrophane du centre vers la marge, fauve à brun orangé frais, beige pâle au sec, à marge parfois un peu translucide-striée ; orné de fibrilles blanchâtres au début
+  chapeau: 10-25 mm Ø, convexe puis étalé, visqueux lorsque humide, glabre, hygrophane du centre vers la marge, fauve à brun orangé frais, beige pâle au sec, à marge parfois un peu translucide-striée; orné de fibrilles blanchâtres au début
   cheilochrysocystides:
   cheilocystides: abondantes, subulati avec long col, à base ampullacée, lagéniformes avec apex cylindriques à subcapitées et parfois avec des granulations 32,9 [40; 43,9] 51 x 6,2 [7,7; 8,5] 10 µm
   cheiloleptocystides: 
@@ -261,7 +267,6 @@ description:
   peritheces: 
   phenologie: de mai à juin
   phialoconidies: 
-  pied: 38 x 4 mm Ø, cylindrique, égal, farci puis creux, fibrilleux, crème ou brunâtre, parfois avec un mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -290,7 +295,7 @@ description:
   publications: |
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -313,6 +318,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 38 x 4 mm Ø, cylindrique, égal, farci puis creux, fibrilleux, crème ou brunâtre, parfois avec un mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pezize fausse-succosa
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
@@ -71,11 +77,11 @@ description:
   ascome: 
   ascospores: |
     unisériées, ellipsoïdes, à verrues grossières et irrégulières jusqu'à 1 µm de hauteur, avec réticulum irrégulier de rides trapues, à contenu biguttulé au début, uniguttulé à maturité (coloration en bleu verdâtre foncé des inclusions lipidiques (guttules) au Soudan III ou noir Soudan B)
-    (14,5) 14,7 - 17,3 (17,7) × (7,8) 8,3 - 9 (9,3) µm
-    Q = (1,6) 1,7 - 2 (2,1) ; N = 30
-    Me = 16 × 8,6 µm ; Qe = 1,9
-    (Piximètre, formule classique ; mesures issues d’une sporée dans le bleu lactique, sans les ornements)
-  asques: claviformes dont l'apex est tronqué, octosporés, IKI +b, operculé, avec base de type acrorhynque, ± 250 - 270 × 12 - 13,5 µm en moyenne
+    (14,5) 14,7-17,3 (17,7) × (7,8) 8,3-9 (9,3) µm
+    Q = (1,6) 1,7-2 (2,1); N = 30
+    Me = 16 × 8,6 µm; Qe = 1,9
+    (Piximètre, formule classique; mesures issues d’une sporée dans le bleu lactique, sans les ornements)
+  asques: claviformes dont l'apex est tronqué, octosporés, IKI +b, operculé, avec base de type acrorhynque, ± 250-270 × 12-13,5 µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -229,7 +235,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: simples, cylindriques-filiformes, hyalines dans l'eau, à contenu brun rouille sur toute la longueur dans le Lugol, dont parfois le contenu est discontinu et forme des plaques (gouttelettes) éparses, septées, à apex parfois égal à subégal, arrondis, rarement subcapité, + 180 - 245 × 4,5 - 6,3 (8,2) µm en moyenne
+  paraphyses: simples, cylindriques-filiformes, hyalines dans l'eau, à contenu brun rouille sur toute la longueur dans le Lugol, dont parfois le contenu est discontinu et forme des plaques (gouttelettes) éparses, septées, à apex parfois égal à subégal, arrondis, rarement subcapité, + 180-245 × 4,5-6,3 (8,2) µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -238,7 +244,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: absent
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -277,7 +282,7 @@ description:
   receptacle: 
   remarques: |
     Non épigé, car l’apothécie ne dépasse jamais la surface du sol, vraiment au ras du sol.
-    Le Soudan III ou noir Soudan B permet de colorer les inclusions lipidiques (guttules) trouvées fréquemment dans les ascospores. Le soudan III est soluble dans des solvants de type white spirit, mais n’est pas facilement miscible à l’eau ; son utilisation en mycologie/lichénologie pose donc des problèmes, l’eau étant le principal constituant des êtres vivants. On peut utiliser le soudan III en solution alcoolique saturée mais l’éthanol provoque un rétrécissement important des structures cellulaires. » (Jean-Pierre Gaveriaux) (informations tirées des fiches de Marcel Lecomte).
+    Le Soudan III ou noir Soudan B permet de colorer les inclusions lipidiques (guttules) trouvées fréquemment dans les ascospores. Le soudan III est soluble dans des solvants de type white spirit, mais n’est pas facilement miscible à l’eau; son utilisation en mycologie/lichénologie pose donc des problèmes, l’eau étant le principal constituant des êtres vivants. On peut utiliser le soudan III en solution alcoolique saturée mais l’éthanol provoque un rétrécissement important des structures cellulaires. » (Jean-Pierre Gaveriaux) (informations tirées des fiches de Marcel Lecomte).
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -289,6 +294,7 @@ description:
   sporee: blanchâtre
   spherocytes: 
   sporocystes: 
+  stipe: absent
   stipitipellis: 
   stipititrame: 
   stroma: 

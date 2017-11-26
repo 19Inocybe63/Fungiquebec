@@ -46,12 +46,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: largement cylindriques, tétrasporiques, stérigmates 4,4 - 6,4 µm de longueur en moyenne, non bouclées à la base, (21,7) 23,6 - 27,2 (30) × (11,9) 12,3 - 13,7 (15) µm
+  basides: largement cylindriques, tétrasporiques, stérigmates 4,4-6,4 µm de longueur en moyenne, non bouclées à la base, (21,7) 23,6-27,2 (30) × (11,9) 12,3-13,7 (15) µm
   basidiospores: |
-    citriformes à largement citriformes, hexagonales à subhexagonales en vue frontale, elliptiques à largement elliptiques vues de profil, pore germinatif proéminent 1,4 - 1,9 (2,0) µm Ø, lisses, à paroi légèrement épaissie, avec petit appendice hilaire, à contenu homogène, brun foncé à brun olivâtre dans E.G. 20%, aucune altération dans l’acide sulfurique 80%, non cyanophiles
-    (15,3) 15,6 - 16,9 (17,3) × (8) 8,4 - 9,9 (10,3) µm
-    Q = (1,5) 1,7 - 2 ; N = 25
-    Me = 16,3 × 9 µm ; Qe = 1,8
+    citriformes à largement citriformes, hexagonales à subhexagonales en vue frontale, elliptiques à largement elliptiques vues de profil, pore germinatif proéminent 1,4-1,9 (2,0) µm Ø, lisses, à paroi légèrement épaissie, avec petit appendice hilaire, à contenu homogène, brun foncé à brun olivâtre dans E.G. 20%, aucune altération dans l’acide sulfurique 80%, non cyanophiles
+    (15,3) 15,6-16,9 (17,3) × (8) 8,4-9,9 (10,3) µm
+    Q = (1,5) 1,7-2; N = 25
+    Me = 16,3 × 9 µm; Qe = 1,8
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -63,7 +63,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes seulement à l’apex, formant presque une palissade, cylindriques claviformes à cylindriques-flexueuses, souvent avec apex subcapité à capité, 15,1 - 57,7 × 6,2 - 13,5 µm en moyenne
+  caulocystides: abondantes seulement à l’apex, formant presque une palissade, cylindriques claviformes à cylindriques-flexueuses, souvent avec apex subcapité à capité, 15,1-57,7 × 6,2-13,5 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -76,7 +76,7 @@ description:
   chancre: 
   chapeau: 7-15 mm Ø, ovoïde, conique campanulé au début, lisse ou craquelé, parfois ruguleux, gris pâle à jaune-gris-brun, brun rougeâtre, centre brun rougeâtre plus foncé à tan, restes vélaire à la marge
   cheilochrysocystides:
-  cheilocystides: abondantes, cylindriques claviformes à cylindriques-flexueuses, souvent avec apex subcapité à capité, (18,2) 19,4 - 29,3 (29,8) × (4,7) 5,1 - 6,4 (7,1) µm
+  cheilocystides: abondantes, cylindriques claviformes à cylindriques-flexueuses, souvent avec apex subcapité à capité, (18,2) 19,4-29,3 (29,8) × (4,7) 5,1-6,4 (7,1) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -214,12 +214,11 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: de type épithélium-hyménoforme, composé d’hyphes subglobuleuses, sphéropédonculées à piriformes, à paroi mince, 28-50 (52) x (8) 10-20 (22) µm Ø
   pileitrame: 
-  pileocystides: occasionnelles, cylindriques à lagéniformes, lisses, à paroi mince, 30,6 - 40,5 × 6,2 - 11 µm en moyenne
+  pileocystides: occasionnelles, cylindriques à lagéniformes, lisses, à paroi mince, 30,6-40,5 × 6,2-11 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

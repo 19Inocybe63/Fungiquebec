@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pleurote tardif
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Mycenaceae
   genre: Panellus
@@ -202,7 +208,6 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 5-25 x 5-20 mm Ø, rudimentaire, excentré, courbe, ferme, plein, velouté, ponctué de flocons foncés sur fond jaune safran, ochracé, orange brunâtre à brunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -243,6 +248,7 @@ description:
   sporee: crème jaunâtre
   spherocytes: 
   sporocystes: 
+  stipe: 5-25 x 5-20 mm Ø, rudimentaire, excentré, courbe, ferme, plein, velouté, ponctué de flocons foncés sur fond jaune safran, ochracé, orange brunâtre à brunâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

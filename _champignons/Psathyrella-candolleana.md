@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Psathyrelle de Candolle
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
@@ -218,7 +224,6 @@ description:
   peritheces: 
   phenologie: de mai à septembre
   phialoconidies: 
-  pied: 40-130 x 3-10 mm Ø, subégal à atténué vers la base, très fragile, creux, fibrilleux-soyeux et légèrement furfuracé vers l'apex, parfois strié, ± fibrilleux-écailleux à fibrilleux-apprimé vers la base, avec restes vélaires fibrilleux à submembraneux blancs et mous, souvent vite évanescents, formant parfois un anneau membraneux persistent, blanc à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: celluleux, formé de 1-3 couches de cellules vésiculeuses
@@ -266,6 +271,7 @@ description:
   sporee: brun pourpre foncé
   spherocytes: 
   sporocystes: 
+  stipe: 40-130 x 3-10 mm Ø, subégal à atténué vers la base, très fragile, creux, fibrilleux-soyeux et légèrement furfuracé vers l'apex, parfois strié, ± fibrilleux-écailleux à fibrilleux-apprimé vers la base, avec restes vélaires fibrilleux à submembraneux blancs et mous, souvent vite évanescents, formant parfois un anneau membraneux persistent, blanc à blanchâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

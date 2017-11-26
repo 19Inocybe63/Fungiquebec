@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Panéole papilionacé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Incertae sedis
   genre: Panaeolus

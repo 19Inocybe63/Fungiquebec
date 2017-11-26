@@ -259,7 +259,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    Collection confirmée comme vraisemblable par Alfredo Justo.
+    Collection (cKc0001) confirmée comme vraisemblable par Alfredo Justo.
     Les crochets apicaux sont proéminents et mesures en moyenne entre 4-5 (8) µm de longueur.
   repartition: 
   rhizomorphes: 

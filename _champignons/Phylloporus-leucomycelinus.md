@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Phyllopore à base blanche
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Phylloporus
@@ -38,7 +44,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Neves, Maria Alice. ; Halling, Roy E</b>. <i>Study on species of Phylloporus I: Neotropics and North America</i>, Mycologia, 102(4), 2010, pp. 923–943
+    <b>Neves, Maria Alice.; Halling, Roy E</b>. <i>Study on species of Phylloporus I: Neotropics and North America</i>, Mycologia, 102(4), 2010, pp. 923–943
   ascome: 
   ascospores: 
   asques: 
@@ -50,10 +56,10 @@ description:
   basides: claviformes, tétrasporiques, non bouclées à la base 29,74-30,49 x 6,7 µm en moyenne
   basidiospores: |
     elliptiques à subcylindriques, lisses, à paroi mince, avec petit appendice hilaire et une petite dépression supra hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
-    (9,4) 9,6 - 10,9 (11,6) x (3,3) 3,5 - 3,9 (4,4) µm
-    Q = (2,2) 2,5 - 3 (3,3); N = 30
+    (9,4) 9,6-10,9 (11,6) x (3,3) 3,5-3,9 (4,4) µm
+    Q = (2,2) 2,5-3 (3,3); N = 30
     Me = 10,2 x 3,8 µm; Qe = 2,7
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 20-70 x 3-10 mm Ø, cylindrique, subégal, atténué vers la base, droit à courbe, plein, sec, pruineux sur la partie supérieure du stipe au début, ponctué de brun vineux, brun rouge puis de brun pâle, à pâle à la base, immuable, avec mycélium basal blanc à blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en trichoderme formé d'hyphes cylindriques, en chaîne, lisses, à paroi mince
@@ -233,8 +238,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -256,6 +261,7 @@ description:
   sporee: jaunâtre-ochracé
   spherocytes: 
   sporocystes: 
+  stipe: 20-70 x 3-10 mm Ø, cylindrique, subégal, atténué vers la base, droit à courbe, plein, sec, pruineux sur la partie supérieure du stipe au début, ponctué de brun vineux, brun rouge puis de brun pâle, à pâle à la base, immuable, avec mycélium basal blanc à blanchâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

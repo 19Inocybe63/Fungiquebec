@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Psilocybe fauve sombre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Psilocybe
@@ -238,7 +244,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-98 x 2-3 mm Ø, creux, fibrilleux, radicant, blanchâtre à brun pâle, plus foncé à la base, strié longitudinalement avec de légère fibrille sur l'écorce, flexueux, parfois, central, égal, cylindrique, radicant
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -286,6 +291,7 @@ description:
   sporee: brun violet foncé 
   spherocytes: 
   sporocystes: 
+  stipe: 50-98 x 2-3 mm Ø, creux, fibrilleux, radicant, blanchâtre à brun pâle, plus foncé à la base, strié longitudinalement avec de légère fibrille sur l'écorce, flexueux, parfois, central, égal, cylindrique, radicant
   stipitipellis: 
   stipititrame: 
   stroma: 

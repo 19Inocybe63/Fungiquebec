@@ -243,7 +243,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'un mince ixocutis d'hyphes étroites, cylindriques de 2-5 µm; subpellis compact, composé d'hyphes cylindriques de 3-10 μm Ø, avec des parois incrustées de pigment brun
+  pileipellis: formé d'un mince ixocutis d'hyphes étroites, cylindriques de 2-5 µm; subpellis compact, composé d'hyphes cylindriques de 3-10 µm Ø, avec des parois incrustées de pigment brun
   pileitrame: 
   pileocystides: 
   plasmode: 

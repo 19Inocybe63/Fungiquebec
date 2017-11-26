@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Polypore en entonnoir
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Polyporales
   famille: Polyporaceae
   genre: Picipes
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 10-60 mm de longueur, rarement > 5 mm Ø, souvent ± centré, élancé, finement velouté et brun sépia au début, glabre et noir avec l'âge, avec pores superficiels vers l'apex, finement plissé au sec (loupe), dense, à centre homogène blanc et mince cuticule noire sous le tomentum à la coupe
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -226,7 +231,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: dense et subcartilagineux au sec, concolore à la face poroïde, 1-2 mm de longueur ; ronds à légèrement anguleux, 5-7 par mm, à dissépiments entiers
+  pores: dense et subcartilagineux au sec, concolore à la face poroïde, 1-2 mm de longueur; ronds à légèrement anguleux, 5-7 par mm, à dissépiments entiers
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -250,6 +255,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 10-60 mm de longueur, rarement > 5 mm Ø, souvent ± centré, élancé, finement velouté et brun sépia au début, glabre et noir avec l'âge, avec pores superficiels vers l'apex, finement plissé au sec (loupe), dense, à centre homogène blanc et mince cuticule noire sous le tomentum à la coupe
   stipitipellis: 
   stipititrame: 
   stroma: 

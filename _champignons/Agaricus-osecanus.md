@@ -7,7 +7,7 @@ album-flickr:
   - 72157672684509594
 
 details:
-  nom-francais: Agaric neigeux ; Agaric boule de neige
+  nom-francais: Agaric neigeux / Agaric boule de neige
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

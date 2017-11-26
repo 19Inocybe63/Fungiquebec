@@ -94,7 +94,6 @@ description:
   comestibilite: 
   commentaires: |
     De Nicolas van Vooren. « ... C’est notamment compatible avec la taille des spores. Deux points posent tout de même problème : la taille des apothécies (<i>P. laeterubra</i> est donné habituellement avec des apothécies de 1–6 mm de diamètre et des asques plus petits, inférieurs ou égaux à 200 µm). Donc pas de garantie à 100% pour ce nom. »
-    De Claude Kaufholtz-Couture. « Première mention de cet ascomycète au Québec. »
   conidies: 
   conidiome: 
   conidiophores: 

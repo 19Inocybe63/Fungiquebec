@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pholiote voisine
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Pholiota
@@ -70,9 +76,9 @@ description:
   basidiospores: |
     ovoïdes en vue frontale, elliptiques à oblongues, rarement phaséoliformes, parfois en haricots vues de profil, lisses, à paroi mince jusqu’à 0,2 µm d’épaisseur, avec petit appendice hilaire, pore germinatif indistinct à partiellement visible, à contenu uniguttulé, hyalines à brun très pâle dans E.G. 20%, ± ochracées à fauve dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     (6,4) 6,7-7,8 (8,3) × (3,6) 3,61-4,2 (4,4) µm
-    Q = (1,7) 1,74-2 (2,1) ; N = 30
-    Me = 7,3 × 3,9 µm ; Qe = 1,9
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    Q = (1,7) 1,74-2 (2,1); N = 30
+    Me = 7,3 × 3,9 µm; Qe = 1,9
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -93,7 +99,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre au début, puis jaunâtre pâle ou beige blanchâtre, ocre ou brun rouille pâle à dans la partie inférieure du pied
   chancre: 
-  chapeau: 15-50 (75) mm Ø, hémisphérique à convexe puis convexe, convexe-étalé à étalé, souvent avec ombon peu élevé, large et obtus, avec marge involutée ; non hygrophane, non strié translucide, visqueux lorsque humide, lisse, glabre, écailleux, ocre ou brun ocré au centre, parfois légèrement teinté d'orangé, graduellement plus pâle vers le pourtour, jaune, beige, blanchâtre-jaunâtre à presque blanc
+  chapeau: 15-50 (75) mm Ø, hémisphérique à convexe puis convexe, convexe-étalé à étalé, souvent avec ombon peu élevé, large et obtus, avec marge involutée; non hygrophane, non strié translucide, visqueux lorsque humide, lisse, glabre, écailleux, ocre ou brun ocré au centre, parfois légèrement teinté d'orangé, graduellement plus pâle vers le pourtour, jaune, beige, blanchâtre-jaunâtre à presque blanc
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: abondantes, fusiformes à lagéniformes, parfois avec un long pédicelle, à paroi mince jusqu'à 0,6 µm d'épaisseur, souvent hyalines ou parfois remplies d'un pigment homogène brun-rosâtre contenu souvent à l’apex (45,9) 48,2-61,9 (65,2) × 11,4-13,8 µm en moyenne
@@ -235,10 +241,9 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'un mince ixocutis d'hyphes étroites, cylindriques de 2-5 μm ; subpellis compact, composé d'hyphes cylindriques de 3-10 μm Ø, avec des parois incrustées de pigment brun
+  pileipellis: formé d'un mince ixocutis d'hyphes étroites, cylindriques de 2-5 µm; subpellis compact, composé d'hyphes cylindriques de 3-10 μm Ø, avec des parois incrustées de pigment brun
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -266,7 +271,7 @@ description:
     <b>Fries, Elias Magnus</b>. <i>Epicrisis systematis Mycologici</i>, seu Synopsis Hymenomycetum, Upsaliæ, 1836-1838 (p. 185, N° 746)
     <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV; Mykoflora I, Alassio - (SV), 1998, 48 p.
-    <b>Smith, Alexander H. ; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
+    <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>The North American Species of Pholiota</i>, Hafner Publishing Company, 1968, 349 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

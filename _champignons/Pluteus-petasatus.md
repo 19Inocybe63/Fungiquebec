@@ -218,7 +218,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis formé d’éléments cylindriques, certains fortement atténués vers l’apex, à paroi mince, lisses, hyalines ou remplis de pigment intracellulaire brun, avec éléments terminaux de 80-135 x 6-15 μm, avec matrice gélin présente chez la plupart des collections, au moins sur la partie la plus externe, intégrant des hyphes de 2-5 μm Ø, certaines de contour irrégulier
+  pileipellis: en cutis formé d’éléments cylindriques, certains fortement atténués vers l’apex, à paroi mince, lisses, hyalines ou remplis de pigment intracellulaire brun, avec éléments terminaux de 80-135 x 6-15 µm, avec matrice gélin présente chez la plupart des collections, au moins sur la partie la plus externe, intégrant des hyphes de 2-5 µm Ø, certaines de contour irrégulier
   pileitrame: 
   pileocystides: 
   plasmode: 

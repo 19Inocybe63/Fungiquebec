@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Plutée couleur de cerf
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
@@ -57,13 +63,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: longuement claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire ou bien carminophile, émergentes sur la moitié de leur longueur à maturé (27,7) 32,4 - 38 (38,9) × (7,3) 7,4 - 8,8 (9,1) µm en moyenne
+  basides: longuement claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire ou bien carminophile, émergentes sur la moitié de leur longueur à maturé (27,7) 32,4-38 (38,9) × (7,3) 7,4-8,8 (9,1) µm en moyenne
   basidiospores: |
     ovoïdes à subtriangulaires en vue frontale, elliptiques à largement elliptiques vues de profil, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu parfois uniguttulé à granulations, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (6,1) 6,3 - 7,8 (8) × (4,5) 4,7 - 5,2 (6,1) µm
-    Q = (1,2) 1,3 - 1,5 (1,6) ; N = 30
-    Me = 6,8 × 4,9 µm ; Qe = 1,4
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (6,1) 6,3-7,8 (8) × (4,5) 4,7-5,2 (6,1) µm
+    Q = (1,2) 1,3-1,5 (1,6); N = 30
+    Me = 6,8 × 4,9 µm; Qe = 1,4
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -85,7 +91,7 @@ description:
   chair: 
   chancre: 
   chapeau: 40-80 mm Ø, hémisphérique ou campanulé au début, puis convexe à convexe-étalé, avec ou sans ombon large et bas, légèrement déprimé ou non au centre, sec ou viscidule à l’humidité, lisse, fibrilleux-inné radialement ou avec fibrilles très distinctes, avec ou sans squamules définies au centre, souvent dans les tons de brun, plus rarement teinté principalement de gris-brun ou de brun orange, parfois à variants blanc pur, à marge unie ou légèrement translucide-striée
-  cheilocystides: rares, fusiformes dont l'apex est sans crochets et dont la paroi est sensiblement épaissie 41,8 - 44,3 × 11,2 - 12,2 µm en moyenne, à fusiformes ventrues dont l'apex est rostré 50-55 × 17-20 µm en moyenne
+  cheilocystides: rares, fusiformes dont l'apex est sans crochets et dont la paroi est sensiblement épaissie 41,8-44,3 × 11,2-12,2 µm en moyenne, à fusiformes ventrues dont l'apex est rostré 50-55 × 17-20 µm en moyenne
   cheilocystides-intermediaires: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -93,7 +99,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Alfredo Justo. « L'épaisseur de la paroi des pleurocystides ne revêt pas une si grande importance. »
+  commentaires: |
+    De Alfredo Justo. « L'épaisseur de la paroi des pleurocystides ne revêt pas une si grande importance. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -189,7 +196,7 @@ description:
   lames: libres, ventrues, très serrées, blanches au début, puis rose, à arêtes entières ou floconneuses et blanchâtre rosée
   lamprocystides: 
   lamprocheilocystides: 
-  lampropleurocystides: nombreuses, métuloïdes, fusiformes (76,9) 77,5 - 85,9 (95,7) × (11,4) 13,5 - 17,6 (20,3) µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la plupart sont entiers, quelques bifides, à paroi jusqu'à 2,5 µm d’épaisseur
+  lampropleurocystides: nombreuses, métuloïdes, fusiformes (76,9) 77,5-85,9 (95,7) × (11,4) 13,5-17,6 (20,3) µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la plupart sont entiers, quelques bifides, à paroi jusqu'à 2,5 µm d’épaisseur
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -219,10 +226,9 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 50-80 x 7-11 mm Ø, cylindrique, subégal, élargi à la base, plein, méchuleux, bulbeux
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis (ixocutis) formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou rempli de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41 - 70,1 (80) × (6) 8,5 - 13,5 (16,7) µm en moyenne, avec matrice de gélin présente chez certaines collections
+  pileipellis: en cutis (ixocutis) formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou rempli de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41-70,1 (80) × (6) 8,5-13,5 (16,7) µm en moyenne, avec matrice de gélin présente chez certaines collections
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -266,6 +272,7 @@ description:
   sporee: brun rosâtre
   spherocytes: 
   sporocystes: 
+  stipe: 50-80 x 7-11 mm Ø, cylindrique, subégal, élargi à la base, plein, méchuleux, bulbeux
   stipitipellis: en cutis
   stipititrame: 
   stroma: 

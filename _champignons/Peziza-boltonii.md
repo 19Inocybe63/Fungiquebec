@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pézize de Bolton
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Pezizaceae
   genre: Peziza
@@ -45,11 +51,11 @@ description:
   ascome: 
   ascospores: |
     unisériées, elliptiques, verruqueuses, à contenu biguttulé au début, granulaire par la suite
-    (15,8) 16,3 - 17,9 (18,9) × (7) 7,5 - 8,3 (8,4) µm
-    Q = (2) 2,1 - 2,4 (2,5) ; N = 30
-    Me = 17,2 × 7,8 µm ; Qe = 2,2
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans le bleu coton lactique)
-  asques: claviformes, octosporés, à apex IKI +, operculé, (220,5) 238,1 - 246,8 (256,6) × (10,4) 10,6 - 11,9 (12,4) µm en moyenne
+    (15,8) 16,3-17,9 (18,9) × (7) 7,5-8,3 (8,4) µm
+    Q = (2) 2,1-2,4 (2,5); N = 30
+    Me = 17,2 × 7,8 µm; Qe = 2,2
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le bleu coton lactique)
+  asques: claviformes, octosporés, à apex IKI +, operculé, (220,5) 238,1-246,8 (256,6) × (10,4) 10,6-11,9 (12,4) µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -215,7 +221,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: absent
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -263,6 +268,7 @@ description:
   sporee: blanche à blanchâtre
   spherocytes: 
   sporocystes: 
+  stipe: absent
   stipitipellis: 
   stipititrame: 
   stroma: 

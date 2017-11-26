@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Plutée en Parasol
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
@@ -47,13 +53,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire ou bien carminophile, (26,1) 26,5 - 28,4 (29,1) × (6,8) 7,4 - 8 (9) µm, en moyenne
+  basides: claviformes à subfusiformes ou comme une petite massue dont l'apex est subtronqué, bisporiques à tétrasporiques, non bouclées à la base, à contenu vacuolaire ou bien carminophile, (26,1) 26,5-28,4 (29,1) × (6,8) 7,4-8 (9) µm, en moyenne
   basidiospores: |
     ovoïdes à subtriangulaires en vue frontale, elliptiques à largement elliptiques vues de profil, lisses, à paroi mince à légèrement épaissie, petit appendice hilaire, à contenu parfois uniguttulé à granulations, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (6,2) 6,5 - 7,4 (8) × (4,4) 4,6 - 5,2 (5,4) µm
-    Q = (1,3) 1,31 - 1,5 (1,7) ; N = 30
-    Me = 6,9 × 4,9 µm ; Qe = 1,4
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (6,2) 6,5-7,4 (8) × (4,4) 4,6-5,2 (5,4) µm
+    Q = (1,3) 1,3-1,5 (1,7); N = 30
+    Me = 6,9 × 4,9 µm; Qe = 1,4
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -69,14 +75,14 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: abondantes, polymorphes, courtement claviformes à claviformes, elliptiques à ovoïdes, piriformes, 21,4 - 40,6 × 12 - 18,8 µm en moyenne
+  cellules-marginales-paracystides: abondantes, polymorphes, courtement claviformes à claviformes, elliptiques à ovoïdes, piriformes, 21,4-40,6 × 12-18,8 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: blanche
   chancre: 
-  chapeau: 30-200 mm Ø, hémisphérique à campanulé au début, convexe à étalé à maturité, avec ou sans ombon, surface lisse, squamuleux-fibrilleux seulement autour du centre, ou avec des squamules bruns distincts partout, avec ou sans fibrilles radiales ; blanc pur, gris pâle brun à brun pâle, plus rarement avec des couleurs plus foncées, secs ou nettement visqueux quand humide, marge lisse ou translucide-strié
+  chapeau: 30-200 mm Ø, hémisphérique à campanulé au début, convexe à étalé à maturité, avec ou sans ombon, surface lisse, squamuleux-fibrilleux seulement autour du centre, ou avec des squamules bruns distincts partout, avec ou sans fibrilles radiales; blanc pur, gris pâle brun à brun pâle, plus rarement avec des couleurs plus foncées, secs ou nettement visqueux quand humide, marge lisse ou translucide-strié
   cheilochrysocystides:
-  cheilocystides: nombreuses, polymorphes, obclaviformes, 34,8 - 57,8 × 11,8 - 13,3 µm en moyenne, plusieurs cylindriques dont l’apex est acuminé
+  cheilocystides: nombreuses, polymorphes, obclaviformes, 34,8-57,8 × 11,8-13,3 µm en moyenne, plusieurs cylindriques dont l’apex est acuminé
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -179,8 +185,8 @@ description:
   hysterothece: 
   lames: libres, ventrues, jusqu'à 15 (20) mm de large, blanches au début, roses à maturité, avec arêtes lamellaire blanches, ou floconneuses
   lamprocystides: 
-  lamprocheilocystides: présentes, cylindriques métuloïdes, dont l’apex couronné comporte entre 1 et 3 crochets souvent difformes, parfois avec apex en biseaux, 20,9 - 54,4 × 12,4 - 15,6 µm, en moyenne, dont l’épaisseur de la paroi est fine 0,5-1,5 μm
-  lampropleurocystides: abondantes, métuloïdes, dont l’apex est en couronne, avec (2) 3–4 crochets apicaux majoritairement entiers, parfois peu développés, 58,4 - 81,7 × 17,2 - 23,4 µm en moyenne, dont l’épaisseur de la paroi est fine à moyenne 1,4-2,1 μm
+  lamprocheilocystides: présentes, cylindriques métuloïdes, dont l’apex couronné comporte entre 1 et 3 crochets souvent difformes, parfois avec apex en biseaux, 20,9-54,4 × 12,4-15,6 µm, en moyenne, dont l’épaisseur de la paroi est fine 0,5-1,5 μm
+  lampropleurocystides: abondantes, métuloïdes, dont l’apex est en couronne, avec (2) 3–4 crochets apicaux majoritairement entiers, parfois peu développés, 58,4-81,7 × 17,2-23,4 µm en moyenne, dont l’épaisseur de la paroi est fine à moyenne 1,4-2,1 μm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -210,7 +216,6 @@ description:
   peritheces: 
   phenologie: juillet
   phialoconidies: 
-  pied: 30-200 × 5-20 mm Ø, cylindrique, légèrement élargi à la base, surface blanche, lisse ou avec fibrilles longitudinales, marron à gris brun, en particulier près de la base
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis formé d’éléments cylindriques, certains fortement atténués vers l’apex, à paroi mince, lisses, hyalines ou remplis de pigment intracellulaire brun, avec éléments terminaux de 80-135 x 6-15 μm, avec matrice gélin présente chez la plupart des collections, au moins sur la partie la plus externe, intégrant des hyphes de 2-5 μm Ø, certaines de contour irrégulier
@@ -256,6 +261,7 @@ description:
   sporee: rose à brun rosâtre
   spherocytes: 
   sporocystes: 
+  stipe: 30-200 × 5-20 mm Ø, cylindrique, légèrement élargi à la base, surface blanche, lisse ou avec fibrilles longitudinales, marron à gris brun, en particulier près de la base
   stipitipellis: 
   stipititrame: 
   stroma: 

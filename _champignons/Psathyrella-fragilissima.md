@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Psathyrella
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 10-81 x 1-5 mm Ø, cylindrique et parfois légèrement flexueux vers la base, beige pâle, cotonneux blanchâtre par endroit, semble avoir un petit bulbe à la base, dont le mycélium basale est attaché fermement au substrat
   pieds-steriles: 
   pigments: 
   pileipellis: formé de 2 à 3 couches de cellules vésiculeuses
@@ -256,6 +261,7 @@ description:
   sporee: noir à brun-pourpré foncé
   spherocytes: 
   sporocystes: 
+  stipe: 10-81 x 1-5 mm Ø, cylindrique et parfois légèrement flexueux vers la base, beige pâle, cotonneux blanchâtre par endroit, semble avoir un petit bulbe à la base, dont le mycélium basale est attaché fermement au substrat
   stipitipellis: 
   stipititrame: 
   stroma: 

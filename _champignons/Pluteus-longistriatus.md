@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Plutée à longues stries
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Pluteaceae
   genre: Pluteus
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-50 x 1-2 mm Ø, cylindrique, égal, glabre ou avec quelques fibrilles; blanchâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -251,6 +256,7 @@ description:
   sporee: rose à rose brunâtre
   spherocytes: 
   sporocystes: 
+  stipe: 30-50 x 1-2 mm Ø, cylindrique, égal, glabre ou avec quelques fibrilles; blanchâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

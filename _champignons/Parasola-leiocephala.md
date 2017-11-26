@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Coprin glabre
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Psathyrellaceae
   genre: Parasola
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 40-120 x 1-2 mm Ø, cylindrique, égal, subbulbeux, fragile, glabre, translucide, blanchâtre à brun jaunâtre pâle
   pieds-steriles: 
   pigments: 
   pileipellis: celluleux
@@ -254,6 +259,7 @@ description:
   sporee: noirâtre
   spherocytes: 
   sporocystes: 
+  stipe: 40-120 x 1-2 mm Ø, cylindrique, égal, subbulbeux, fragile, glabre, translucide, blanchâtre à brun jaunâtre pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

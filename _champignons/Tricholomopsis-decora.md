@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Tricholome décoré
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholomopsis
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 20-70 x 3-10 mm Ø, cylindrique, parfois excentré, parfois flexueux, plein puis creux, fibrilleux à squamuleux, jaune pâle, jaune à jaune soufre
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, formé d'hyphes apprimées à légèrement emmêlées
@@ -251,6 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 20-70 x 3-10 mm Ø, cylindrique, parfois excentré, parfois flexueux, plein puis creux, fibrilleux à squamuleux, jaune pâle, jaune à jaune soufre
   stipitipellis: 
   stipititrame: 
   stroma: 

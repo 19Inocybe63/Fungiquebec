@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Tricholome faux-sulphureum
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholomopsis
@@ -46,13 +52,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à longuement claviformes, parfois cylindriques, tétrasporiques, bouclées à la base, à contenu vacuolaire, (29,8) 30,5 - 37,3 (41,3) × 5,5 - 6,6 (6,8) µm en moyenne
+  basides: claviformes à longuement claviformes, parfois cylindriques, tétrasporiques, bouclées à la base, à contenu vacuolaire, (29,8) 30,5-37,3 (41,3) × 5,5-6,6 (6,8) µm en moyenne
   basidiospores: |
     elliptiques à largement elliptiques, subpruniformes en vue frontal, subglobuleuses à largement elliptiques vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, partiellement cyanophiles
-    (5,6) 5,9 - 7,1 (7,4) × (4,4) 4,7 - 5,5 (5,9) µm
-    Q = (1,1) 1,2 - 1,3 (1,4) ; N = 30
-    Me = 6,4 × 5,1 µm ; Qe = 1,3
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (5,6) 5,9-7,1 (7,4) × (4,4) 4,7-5,5 (5,9) µm
+    Q = (1,1) 1,2-1,3 (1,4); N = 30
+    Me = 6,4 × 5,1 µm; Qe = 1,3
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -73,7 +79,7 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune pâle, immuable
   chancre: 
-  chapeau: 11-55 mm Ø, convexe-campanulé, légèrement déprimé, mamelonné-umbonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche ; comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé
+  chapeau: 11-55 mm Ø, convexe-campanulé, légèrement déprimé, mamelonné-umbonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche; comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé
   cheilocystides: occasionnelles, cylindriques à claviformes, parfois flexueuses, avec apex arrondis, lisses ou occasionnellement incrustées, à paroi mince, hyalines, (35) 40-75 x (3,3) 5-7,5 μm,
   cheilomacrocystides: 
   chlamydospores: 
@@ -208,7 +214,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 21-55 x 2-7 mm Ø, cylindrique, plein, courbé, concolore au chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, formé parfois d'hyphes agglomérées et dressées, lisses, brun orangé dans le KOH 5%, à cellules terminales subcylindriques et arrondies à l'apex
@@ -250,6 +255,7 @@ description:
   sporee: pallidosporé, crème pâle, en tas
   spherocytes: 
   sporocystes: 
+  stipe: 21-55 x 2-7 mm Ø, cylindrique, plein, courbé, concolore au chapeau
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Trichoglosse de Walter
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Geoglossomycetes
+  sous-classe: Incertae sedis
   ordre: Geoglossales
   famille: Geoglossaceae
   genre: Trichoglossum
@@ -59,16 +65,16 @@ description:
   arthroconidies: 
   articles: |
     <b>Ohenoja, Esteri</b>. <i>Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland</i>, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
-    <b>Kucera, Viktor, ; Lizon, Pavel et al.</b> <i>Geoglossoid fungi in Slovakia II. Trichoglossum octopartitum, a new species for the country</i>, Czech Mycol. 62 (1), 13-18, 2010, 6 p.
+    <b>Kucera, Viktor,; Lizon, Pavel et al.</b> <i>Geoglossoid fungi in Slovakia II. Trichoglossum octopartitum, a new species for the country</i>, Czech Mycol. 62 (1), 13-18, 2010, 6 p.
     <b>Kaufholtz-Couture, Claude.</b> <i>Clé des espèces du genre Trichoglossum au Québec</i>, Éditions Fungiquebec, avril 2016, 3 p.
   ascome: jusqu'à 90 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts
   ascospores: |
     cylindriques étroites, fusiformes à claviformes, lisses, parfois entre 2 et 3 septa, plus souvent à 7 septa, fuligineuses à brun pâle dans E.G. 20%
-    (84,6) 87,9 - 97,8 (100,3) × (5) 5,3 - 6 (6,1) µm
-    Q = (14,5) 14,8 - 17,9 (18,3) ; N = 30
-    Me = 92,7 × 5,6 µm ; Qe = 16,5
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
-  asques: fusiformes à clavés, atténués vers l'apex, à 8 ascospores parallèles, avec l'anneau apical amyloïde (bleu dans le melzer), jusqu'à (162,4) 162,43 - 195,8 × (17,2) 17,22 - 21 µm
+    (84,6) 87,9-97,8 (100,3) × (5) 5,3-6 (6,1) µm
+    Q = (14,5) 14,8-17,9 (18,3); N = 30
+    Me = 92,7 × 5,6 µm; Qe = 16,5
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
+  asques: fusiformes à clavés, atténués vers l'apex, à 8 ascospores parallèles, avec l'anneau apical amyloïde (bleu dans le melzer), jusqu'à (162,4) 162,43-195,8 × (17,2) 17,22-21 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -231,7 +237,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: jusqu'à 2 mm Ø, cylindrique, aplati à comprimé, densément velouté, concolore au capitule à brunâtre, avec des poils noirs et émergents
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -276,6 +281,7 @@ description:
   sporee: brun foncé avec reflets verdâtres
   spherocytes: 
   sporocystes: 
+  stipe: jusqu'à 2 mm Ø, cylindrique, aplati à comprimé, densément velouté, concolore au capitule à brunâtre, avec des poils noirs et émergents
   stipitipellis: 
   stipititrame: 
   stroma: 

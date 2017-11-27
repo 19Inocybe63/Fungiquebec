@@ -7,7 +7,13 @@ album-flickr:
   - 72157672900331914
 
 details:
-  nom-francais: Tubaire furfuracée ; Tubaire commune
+  nom-francais: Tubaire furfuracée / Tubaire commune
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Tubariaceae
   genre: Tubaria
@@ -69,10 +75,10 @@ description:
   basides: claviformes à cylindriques-claviformes, tétrasporiques, bouclées à la base, 22-27 x 6-8 µm
   basidiospores: |
     elliptiques en vue  frontale, elliptiques à légèrement phaséoliformes vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu guttulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, cyanophiles
-    (7) 7,6 - 9 (9,4) × (4,3) 4,4 - 5 (5,3) µm
-    Q = (1,6) 1,7 - 1,8 (1,9) ; N = 30
-    Me = 8,3 × 4,7 µm ; Qe = 1,8
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (7) 7,6-9 (9,4) × (4,3) 4,4-5 (5,3) µm
+    Q = (1,6) 1,7-1,8 (1,9); N = 30
+    Me = 8,3 × 4,7 µm; Qe = 1,8
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -231,7 +237,6 @@ description:
   peritheces: 
   phenologie: de mai à octobre
   phialoconidies: 
-  pied: 9-18 x 2-4 mm Ø, cylindrique à égal, creux, ± concolore au chapeau, à l'apex fibrilleux et blanchâtre, ne se détache pas du chapeau
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, formé d'hyphes 9-13 µm Ø, avec cellules terminales piriformes à ovoïdes, 3-10 µm Ø, avec pigmentations jaune orangé
@@ -279,6 +284,7 @@ description:
   sporee: brun rouille, ocre
   spherocytes: 
   sporocystes: 
+  stipe: 9-18 x 2-4 mm Ø, cylindrique à égal, creux, ± concolore au chapeau, à l'apex fibrilleux et blanchâtre, ne se détache pas du chapeau
   stipitipellis: 
   stipititrame: 
   stroma: 

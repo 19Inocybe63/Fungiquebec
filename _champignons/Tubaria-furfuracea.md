@@ -263,8 +263,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bresadola, Ab. Dr. J.</b> Iconographia Mycologica, Vol. XVII (tab. 801-850), <i>Naucoria, Pluteolus, Galera, Tubaria, Bolbitius, Psalliota, Clarkeinda, Stropharia, Hypholoma</i> ; Società Botanica Italiana, 1931
-    <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis ; Tapinia ; Paxillus ; Crepidotus ; Tubaria ; Galerula ; Naucoria ; Pluteolus ; Mycena ; Phylloprus ; Gymnopilus ; Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    <b>Bresadola, Ab. Dr. J.</b> Iconographia Mycologica, Vol. XVII (tab. 801-850), <i>Naucoria, Pluteolus, Galera, Tubaria, Bolbitius, Psalliota, Clarkeinda, Stropharia, Hypholoma</i>; Società Botanica Italiana, 1931
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis; Tapinia; Paxillus; Crepidotus; Tubaria; Galerula; Naucoria; Pluteolus; Mycena; Phylloprus; Gymnopilus; Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

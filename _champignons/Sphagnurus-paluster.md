@@ -80,7 +80,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « <i>Sphagnurus paluster</i> peut être tenu facilement pour un Mycène. Cependant, cette espèce pousse habituellement dans la mousse, tourbière. »
+  commentaires: |
+    De Yves Lamoureux. « <i>Sphagnurus paluster</i> peut être tenu facilement pour un Mycène. Cependant, cette espèce pousse habituellement dans la mousse, tourbière. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -206,7 +207,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 30-100 x 2-4 mm Ø, cylindrique, égal, élargissant parfois vers la base, cassant, creux, finement pruineux au début, glabrescent, avec fibrilles gris blanchâtre sur fond brunâtre, brun olivâtre à gris brun
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis
@@ -252,6 +252,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 30-100 x 2-4 mm Ø, cylindrique, égal, élargissant parfois vers la base, cassant, creux, finement pruineux au début, glabrescent, avec fibrilles gris blanchâtre sur fond brunâtre, brun olivâtre à gris brun
   stipitipellis: 
   stipititrame: 
   stroma: 

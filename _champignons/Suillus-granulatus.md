@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet granulé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
@@ -51,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous feuillus et conifères ; <i>Pinus</i>
+  biotopes: pousse au sol, sous feuillus et conifères, <i>Pinus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -206,7 +212,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 35-48 x 7-16 mm Ø, cylindrique, plein, orné de glandules brunâtres et d'une base jaune
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -239,9 +244,9 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<sub>4</sub>OH 10%) = gris bleuâtre sur le chapeau ; rouille orangé sur la face poroïde ; brun pourpré sur le stipe ; orange rosâtre puis bleuâtre à pourprée cerclée d'orangé sur la chair
-    Potasse (KOH 10%) = olive foncé à gris olive sur le chapeau ; instantanément rouille orangé, puis rapidement brun pourpré sur la face poroïde ; brun pourpré sur le stipe ; rose puis brun rosâtre sur la chair
-    Sulfate de fer (FeSO<sub>4</sub>) = gris bleuâtre sur le chapeau ; vert olive sur la face poroïde ; vert foncé sur le stipe ; gris olive sur la chair
+    Ammoniaque (NH<sub>4</sub>OH 10%) = gris bleuâtre sur le chapeau; rouille orangé sur la face poroïde; brun pourpré sur le stipe; orange rosâtre puis bleuâtre à pourprée cerclée d'orangé sur la chair
+    Potasse (KOH 10%) = olive foncé à gris olive sur le chapeau; instantanément rouille orangé, puis rapidement brun pourpré sur la face poroïde; brun pourpré sur le stipe; rose puis brun rosâtre sur la chair
+    Sulfate de fer (FeSO<sub>4</sub>) = gris bleuâtre sur le chapeau; vert olive sur la face poroïde; vert foncé sur le stipe; gris olive sur la chair
   receptacle: 
   remarques: 
   repartition: 
@@ -255,6 +260,7 @@ description:
   sporee: jaune brunâtre
   spherocytes: 
   sporocystes: 
+  stipe: 35-48 x 7-16 mm Ø, cylindrique, plein, orné de glandules brunâtres et d'une base jaune
   stipitipellis: 
   stipititrame: 
   stroma: 

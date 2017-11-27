@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Strophaire de Hornemann
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Stropharia
@@ -237,10 +243,9 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 40-100 x 5-13 mm Ø, cylindrique à progressivement élargi vers la base, blanc à jaune pâle, avec anneau, finement pruineux au-dessus de l'anneau, strié en partie inférieure
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches ; suprapellis en ixocutis étroit avec un subpellis constitué d'hyphes cylindriques incorporées dans une couche épaisse de gélin
+  pileipellis: en deux couches; suprapellis en ixocutis étroit avec un subpellis constitué d'hyphes cylindriques incorporées dans une couche épaisse de gélin
   pileitrame: 
   pileocystides: 
   plasmode: 
@@ -284,6 +289,7 @@ description:
   sporee: noir violacé
   spherocytes: 
   sporocystes: 
+  stipe: 40-100 x 5-13 mm Ø, cylindrique à progressivement élargi vers la base, blanc à jaune pâle, avec anneau, finement pruineux au-dessus de l'anneau, strié en partie inférieure
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -7,7 +7,13 @@ album-flickr:
   - 72157676207264646
 
 details:
-  nom-francais: Tricholome guêtré ou Tricholome chaussé
+  nom-francais: Tricholome guêtré / Tricholome chaussé
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholoma
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-120 x 20-30 mm Ø, subégal ou atténué à la base, plein, sec, lisse et blanchâtre vers l'apex, guêtré plus bas d'une armille se réduisant avec l'âge en écailles brunes sur fond blanc, et s'ouvrant au sommet en un anneau membraneux, blanc sur le dessus, brun en dessous, parfois très petit
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -231,7 +236,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C. ; Trudell, Steven A.</b> <i>Tricholomas of North America</i>, A Mushroom field Guide, University of Texas Press, 2013, 208 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C.; Trudell, Steven A.</b> <i>Tricholomas of North America</i>, A Mushroom field Guide, University of Texas Press, 2013, 208 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -247,6 +252,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 50-120 x 20-30 mm Ø, subégal ou atténué à la base, plein, sec, lisse et blanchâtre vers l'apex, guêtré plus bas d'une armille se réduisant avec l'âge en écailles brunes sur fond blanc, et s'ouvrant au sommet en un anneau membraneux, blanc sur le dessus, brun en dessous, parfois très petit
   stipitipellis: 
   stipititrame: 
   stroma: 

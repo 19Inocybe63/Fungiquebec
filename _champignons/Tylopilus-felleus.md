@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet amer
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Tylopilus
@@ -203,7 +209,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 40-170 mm x 10-35 mm Ø, claviforme, épais, ferme, agrandissant vers le bas, bulbeux, entièrement brun ou blanc vers l'apex et brun vers le bas, développant souvent des taches olive ou brun olive lorsque meurtri, fortement réticulé avec un réticulum brun, à mailles larges, au moins sur le tiers supérieur, mycélium basal blanc
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,11 +235,11 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = ambre orangé à orange rougeâtre sur la chapeau ; jaune pâle cerclé de bleu pâle sur la chair
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = ambre orangé à orange rougeâtre sur la chapeau; jaune pâle cerclé de bleu pâle sur la chair
     Potasse (KOH 10%) = jaune verdâtre sur la chair
     Sulfate de fer (FeSO<SUB>4</SUB>) = olive terne sur le chapeau
   receptacle: 
@@ -250,6 +255,7 @@ description:
   sporee: brun rougeâtre ou brun rosé
   spherocytes: 
   sporocystes: 
+  stipe: 40-170 mm x 10-35 mm Ø, claviforme, épais, ferme, agrandissant vers le bas, bulbeux, entièrement brun ou blanc vers l'apex et brun vers le bas, développant souvent des taches olive ou brun olive lorsque meurtri, fortement réticulé avec un réticulum brun, à mailles larges, au moins sur le tiers supérieur, mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

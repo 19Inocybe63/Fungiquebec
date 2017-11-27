@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet à pied creux variété d'or
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus

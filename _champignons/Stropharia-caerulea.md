@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Strophaire bleutée
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Stropharia
@@ -205,7 +211,6 @@ description:
   peritheces: 
   phenologie: de septembre à octobre
   phialoconidies: 
-  pied: 4-11 x 3-15 mm Ø, égal à légèrement élargi vers la base, ferme, fragile, plein au début puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous, glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc
   pieds-steriles: 
   pigments: 
   pileipellis: en ixocutis
@@ -251,6 +256,7 @@ description:
   sporee: brun ambre à brun-pourpre
   spherocytes: 
   sporocystes: 
+  stipe: 4-11 x 3-15 mm Ø, égal à légèrement élargi vers la base, ferme, fragile, plein au début puis creux à maturité, pruineux à finement fibrilleux-tomenteux longitudinalement et blanchâtre à bleu pâle au-dessus de la zone annuliforme, avec plaques écailleuses cotonneuses dressées blanchâtres sur fond bleu à bleu-vert puis vers-jaune au-dessous, glabrescent, devenant chamois pâle, avec mycélium basal tomenteux blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

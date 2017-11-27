@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Scléroderme commun
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Sclerodermataceae
   genre: Scleroderma

@@ -84,9 +84,10 @@ description:
   basides: courtement ovoïdales à claviformes, parfois légèrement atténuées à la base, tétrasporiques, bouclées à la base, 20 [23,2; 25,4] 28,6 x 9,1 [10,5; 11,5] 13 µm
   basidiospores: |
     ovoïdales à subhexagonales en vue frontale, globalement largement oblongues à oblongues allongées vues de profil, tronquées, lisses, à paroi légèrement épaissie 0,3 µm en moyenne, avec appendice hilaire bien visible et pore germinatif centré à excentré 1,3 [1,5; 1,7] 1,8 µm, à contenu variable, brunes dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
-    (12,2) 12,5 - 13,6 (14,3) × (6,3) 6,6 - 7,5 (8,3) µm
-    Q = (1,5) 1,7 - 2 (2,1); N = 30
+    (12,2) 12,5-13,6 (14,3) × (6,3) 6,6-7,5 (8,3) µm
+    Q = (1,5) 1,7-2 (2,1); N = 30
     Me = 13,1 × 7 µm; Qe = 1,9
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -116,7 +117,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « La collection cKc0305 fut étudiée sur matériel déshydraté. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « La collection cKc0305 fut étudiée sur matériel déshydraté. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -148,7 +150,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare, car connu seulement dans une station au Québec; soyez attentif aux parcs urbains où les copeaux de bois sont en abondance
+  distribution: rare; connu seulement dans une station au Québec
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

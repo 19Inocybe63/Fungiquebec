@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Chanterelle à flocons
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Phallomycetidae
   ordre: Gomphales
   famille: Gomphaceae
   genre: Turbinellus
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 10-50 x 10-30 mm Ø, peu distinct, atténué vers la base, plein puis creux avec l'âge, sublisse, blanchâtre ou crème
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -246,6 +251,7 @@ description:
   sporee: ocre pâle
   spherocytes: 
   sporocystes: 
+  stipe: 10-50 x 10-30 mm Ø, peu distinct, atténué vers la base, plein puis creux avec l'âge, sublisse, blanchâtre ou crème
   stipitipellis: 
   stipititrame: 
   stroma: 

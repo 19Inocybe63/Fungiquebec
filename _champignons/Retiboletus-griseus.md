@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet gris
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Retiboletus
@@ -201,7 +207,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-90 mm x 10-30 mm Ø, cylindrique ± égale, blanchâtre, devenant jaune gris à jaune orangé de la base vers le haut, réticulé en évidence sur toute la longueur, avec un gros réticulum blanc qui devient jaunâtre, puis brunâtre ou noirâtre à maturité ou lorsqu'il est manipulé, ferme, à la base parfois radicante
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -227,9 +232,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C.</b> <i>Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands</i>, Taylor & Francis group, 2005, 236 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Noordeloos, Machiel E.; Kuyper, Th. W.; Vellinger, E. C.</b> <i>Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands</i>, Taylor & Francis group, 2005, 236 p.
+    <b>Smith, Alexander H.; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-chimiques: 
   receptacle: 
@@ -245,6 +250,7 @@ description:
   sporee: brun olive à brun jaune
   spherocytes: 
   sporocystes: 
+  stipe: 30-90 mm x 10-30 mm Ø, cylindrique ± égale, blanchâtre, devenant jaune gris à jaune orangé de la base vers le haut, réticulé en évidence sur toute la longueur, avec un gros réticulum blanc qui devient jaunâtre, puis brunâtre ou noirâtre à maturité ou lorsqu'il est manipulé, ferme, à la base parfois radicante
   stipitipellis: 
   stipititrame: 
   stroma: 

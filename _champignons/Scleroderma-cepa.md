@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Scléroderme oignon
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Sclerodermataceae
   genre: Scleroderma
@@ -202,7 +208,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -228,7 +233,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Pegler, D. N. ; Laessøe, T. ; Spooner, B. M. </b> <i>British Puffballs Earthstars and Stinkhorns, An account of the British Gasteroid Fungi</i>, Royal Botanic Gardens, Kew, 1995, 145 p.
+    <b>Pegler, D. N.; Laessøe, T.; Spooner, B. M. </b> <i>British Puffballs Earthstars and Stinkhorns, An account of the British Gasteroid Fungi</i>, Royal Botanic Gardens, Kew, 1995, 145 p.
     <b>Smith, Alexander H</b>. <i>Puffballs and their allies in Michigan</i>, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: 
   reactions-macrochimiques: 

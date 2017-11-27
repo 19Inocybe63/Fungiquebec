@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet d'Amérique
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
@@ -207,7 +213,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent courbe, creux avec l'âge, concolore au chapeau, à glandules brunes sur toute la longueur
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -234,9 +239,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Noordeloos, Machiel E. ; Kuyper, Th. W. ; Vellinger, E. C.</b> <i>Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands</i>, Taylor & Francis group, 2005, 236 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Noordeloos, Machiel E.; Kuyper, Th. W.; Vellinger, E. C.</b> <i>Flora Agaricina Neerlandica, vol. 6, critical monograph on families of agarics and boleti occuring in the Netherlands</i>, Taylor & Francis group, 2005, 236 p.
+    <b>Smith, Alexander H.; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
@@ -256,6 +261,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
+  stipe: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent courbe, creux avec l'âge, concolore au chapeau, à glandules brunes sur toute la longueur
   stipitipellis: 
   stipititrame: 
   stroma: 

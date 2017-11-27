@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Russule fausse-ochroleuca
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
@@ -47,12 +53,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à largement claviformes, tétrasporiques, avec stérigmates jusqu'à 9 (9,2) µm de longueur, non bouclées à la base, (40,5) 44,5 - 48,5 (49) × (9,9) 10,3 - 13,2 (14,7) µm en moyenne
+  basides: claviformes à largement claviformes, tétrasporiques, avec stérigmates jusqu'à 9 (9,2) µm de longueur, non bouclées à la base, (40,5) 44,5-48,5 (49) × (9,9) 10,3-13,2 (14,7) µm en moyenne
   basidiospores: |
     globuleuses en vue frontale, subglobuleuses vues de profil, finement à moyennement verruqueuses, avec réticulum partiel sur 80% de la surface environ, à paroi mince, à contenu uniguttulé, avec proéminences jusqu’à 1,0 (1,3) µm de hauteur, hyalines dans E.G. 20%, amyloïdes
-    (6,8) 7,2 - 8,3 (9,1) × (5,9) 6,3 - 7,8 (8) µm
-    Q = (1) 1,1 - 1,17 (1,2) ; N = 30
-    Me = 7,7 × 6,9 µm ; Qe = 1,1
+    (6,8) 7,2-8,3 (9,1) × (5,9) 6,3-7,8 (8) µm
+    Q = (1) 1,1-1,2; N = 30
+    Me = 7,7 × 6,9 µm; Qe = 1,1
     (Piximètre, formule classique; mesures issues d’une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -76,7 +82,7 @@ description:
   chancre: 
   chapeau: 102 mm Ø, pruineux, sec, jaune à jaune orangé, cuticule inséparable de la chair
   cheilochrysocystides:
-  cheilocystides: nombreuses, cylindriques à longuement fusiformes, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-), (61,5) 70,7 - 92 (93,2) × (7,4) 7,7 - 10,1 (10,8) µm en moyenne
+  cheilocystides: nombreuses, cylindriques à longuement fusiformes, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-), (61,5) 70,7-92 (93,2) × (7,4) 7,7-10,1 (10,8) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -84,7 +90,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Kibby indique (dans <i>Keys to the species of Russula in Northeastern North America</i>) que les piléocystides sont faiblement sulfovanillines (SV+). Pour ma part, les hyménocystides et les dermatocystides sont sulfovanillines négatives (SV-) et sulfobenzaldéhydes négatifs (SBA-). »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Kibby indique (dans <i>Keys to the species of Russula in Northeastern North America</i>) que les piléocystides sont faiblement sulfovanillines (SV+). Pour ma part, les hyménocystides et les dermatocystides sont sulfovanillines négatives (SV-) et sulfobenzaldéhydes négatifs (SBA-). »
   conidies:  
   conidiome: 
   conidiophores: 
@@ -217,7 +224,7 @@ description:
   pileocystides: peu nombreuses, cylindriques, claviformes à subclaviformes, ochracées, réfringentes dans le KOH 5%, sulfobenzaldéhyde négatif (SBA-), jusqu'à 100-130 x 7-8 µm en moyenne
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, longuement fusiformes, parfois avec apex mucroné à rarement rostrés, lancéolées à sublancéolées, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-) (84,3) 90,7 - 142,2 (154,1) × (9,7) 10,1 - 11,7 (14,1) µm en moyenne
+  pleurocystides: nombreuses, longuement fusiformes, parfois avec apex mucroné à rarement rostrés, lancéolées à sublancéolées, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-) (84,3) 90,7-142,2 (154,1) × (9,7) 10,1-11,7 (14,1) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

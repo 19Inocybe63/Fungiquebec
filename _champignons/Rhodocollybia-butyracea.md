@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Collybie beurrée
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Omphalotaceae
   genre: Rhodocollybia
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 30-100 x 4-10 mm Ø, claviforme, radicant  et parfois comprimé vers la base, fibreux, sec, glabre, farci puis creux et spongieux, distinctement strié à sillonné, blanchâtre à la base, chamois à chamois rosâtre ou pâle vers l'apex et concolore au chapeau vers la base au début, brun cannelle à maturité, blanchâtre à la base sous le niveau de substrat
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -246,6 +251,7 @@ description:
   sporee: crème à rosâtre ± pâle
   spherocytes: 
   sporocystes: 
+  stipe: 30-100 x 4-10 mm Ø, claviforme, radicant  et parfois comprimé vers la base, fibreux, sec, glabre, farci puis creux et spongieux, distinctement strié à sillonné, blanchâtre à la base, chamois à chamois rosâtre ou pâle vers l'apex et concolore au chapeau vers la base au début, brun cannelle à maturité, blanchâtre à la base sous le niveau de substrat
   stipitipellis: 
   stipititrame: 
   stroma: 

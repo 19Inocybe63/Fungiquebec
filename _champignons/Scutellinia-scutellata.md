@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Pézize en bouclier
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Pezizomycetes
+  sous-classe: Pezizomycetidae
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Scutellinia
@@ -58,15 +64,15 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Dougoud, René</b>. <i>Contribution à l’étude des discomycètes Version 2013</i>, Ascomycete.org, 5 (2) ; 63-89, Mars 2013, 29 p.
+    <b>Dougoud, René</b>. <i>Contribution à l’étude des discomycètes Version 2013</i>, Ascomycete.org, 5 (2); 63-89, Mars 2013, 29 p.
     <b>Schumacher, Trond</b>. <i>Le genre Scutellinia (Pyronemataceae)</i>, Publication libre, 1990, 7 p.
   ascome: 
   ascospores: |
     unisériées, ellipsoïdes, formées des verrues interconnectées et de courtes crêtes, à contenu pluriguttulé, non coloration des inclusions lipidiques (guttules) au Soudan III
-    (15,7) 17,7 - 19,3 (21,1) × (10,2) 10,4 - 11,5 (12,1) µm
-    Q = (1,4) 1,6 - 1,8 (1,9) ; N = 30
-    Me = 18,6 × 10,9 µm ; Qe = 1,7
-    (Piximètre, formule classique ; mesures issues d’une sporée, dans le bleu lactique)
+    (15,7) 17,7-19,3 (21,1) × (10,2) 10,4-11,5 (12,1) µm
+    Q = (1,4) 1,6-1,8 (1,9); N = 30
+    Me = 18,6 × 10,9 µm; Qe = 1,7
+    (Piximètre, formule classique; mesures issues d’une sporée, dans le bleu lactique)
   asques: cylindriques octosporées, à apex arrondi, IKI -, non operculé, dont la base est acrorhynque
   asterohyphidies: 
   avertissement: 
@@ -222,7 +228,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: nombreuses, simples, septées, dichotomiquement ramifiées, de deux types; 1) cylindriques, dont l'apex est claviforme jusqu'à 7 µm de largeur, avec contenu pailleté jaune or dans l'eau devenant rosâtre dans le Soudan, 200 - 207 × 6,3 - 7,1) µm en moyenne ; 2) cylindriques, dont l'apex forme une truelle (utriformes) jusqu'à 30-38 × 8-8,8 (9) µm de largeur
+  paraphyses: nombreuses, simples, septées, dichotomiquement ramifiées, de deux types; 1) cylindriques, dont l'apex est claviforme jusqu'à 7 µm de largeur, avec contenu pailleté jaune or dans l'eau devenant rosâtre dans le Soudan, 200-207 × 6,3-7,1) µm en moyenne; 2) cylindriques, dont l'apex forme une truelle (utriformes) jusqu'à 30-38 × 8-8,8 (9) µm de largeur
   parasite: 
   paroi-peritheciale: 
   peridiole: 
@@ -231,7 +237,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

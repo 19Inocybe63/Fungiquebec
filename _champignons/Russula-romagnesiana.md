@@ -7,7 +7,13 @@ album-flickr:
   - 72157676693996480
 
 details:
-  nom-francais: 
+  nom-francais: Russule de Romagnesi
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
@@ -48,12 +54,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: longuement claviformes, tétrasporiques, non bouclées à la base, 47,2 - 61,0(61,2) × 10,6 - 12,6 µm
+  basides: longuement claviformes, tétrasporiques, non bouclées à la base, 47,2-61,0(61,2) × 10,6-12,6 µm
   basidiospores: |
     globuleuses à subglobuleuses, verruqueuses-échinulées moyennes et isolées, ne formant pas de zones proprement réticulées, peu aculéolées avec proéminences jusqu'à 1,5 µm de hauteur, à paroi mince, appendice hilaire petit, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
-    (6,8) 7 - 7,8 (7,9) × (6,2) 6,4 - 7,1 (7,3) µm
-    Q = 1 - 1,1 (1,2) ; N = 30
-    Me = 7,4 × 6,8 µm ; Qe = 1,1
+    (6,8) 7-7,8 (7,9) × (6,2) 6,4-7,1 (7,3) µm
+    Q = 1 - 1,1 (1,2); N = 30
+    Me = 7,4 × 6,8 µm; Qe = 1,1
     (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
@@ -77,7 +83,7 @@ description:
   chancre: 
   chapeau: 90-100 mm Ø, convexe à déprimé, graduellement infundibuliforme, glabre, blanchâtre avec une teinte jaune terne à rouille au centre et légèrement sur le pourtour
   cheilochrysocystides:
-  cheilocystides: abondantes, claviformes, au contenu pailleté hyalin, (36) 47,4 - 61,5 (68,2) × (6,5) 6,9 - 8,6 (8,7) µm
+  cheilocystides: abondantes, claviformes, au contenu pailleté hyalin, (36) 47,4-61,5 (68,2) × (6,5) 6,9-8,6 (8,7) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

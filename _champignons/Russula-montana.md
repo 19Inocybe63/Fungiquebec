@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
@@ -84,7 +90,7 @@ description:
   columelle: 
   commentaires: |
     De Yves Lamoureux. « <i>R. silvicola</i> vient surtout avec le chêne et le hêtre (pruche ?); pour être honnête, je n'ai jamais surveillé <i>montana</i>; elle m'est peut-être passée sous le nez... plus d'une fois! Il est possible que tous ici aient confondu <i>R. montana</i> et <i>R. aquosa</i> ss. Shaffer sans distinction. La difficulté est que ces espèces sont variables, et qu'on se tanne de les récolter encore et encore, et d'arriver toujours au même nom. C'est là que devient l'utilité du spécialiste. Après tout, il n'y a pas de raison que l'on ne trouve pas ici ces deux espèces de Shaffer... Certaines de nos grisescens sont probablement des <i>montana</i>. Cette semaine j'ai vu <i>R. aquosa</i> ss. Shaffer, son aspect graisseux ne trompe pas. »
-    De Claude Kaufholtz-Couture. « Cette espèce est déterminée provisoirement. Il faudra la cueillir davantage pour mieux la connaitre, la décrire et la mesurer. »
+    De Claude Kaufholtz-Couture. « Cette espèce est déterminée provisoirement. Il faudra la cueillir encore pour mieux la connaitre, la décrire et la mesurer. »
   conidies: 
   conidiome: 
   conidiophores: 

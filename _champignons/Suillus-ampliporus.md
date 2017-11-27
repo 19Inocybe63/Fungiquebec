@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet à pied creux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
@@ -221,7 +227,6 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

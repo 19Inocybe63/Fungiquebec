@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Strophaire à anneau rugueux
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Strophariaceae
   genre: Stropharia
@@ -88,7 +94,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse, assez ferme, blanche, teinté de gris brun dans la couche corticale
   chancre: 
-  chapeau: 60-175 mm Ø, conique à convexe, devenant convexe étalé à subétalé, largement umboné, à marge fortement involutée puis étalée ; non hygrophane, non translucide, brun pâle à brun assez foncé, gris brun ou jaune, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
+  chapeau: 60-175 mm Ø, conique à convexe, devenant convexe étalé à subétalé, largement umboné, à marge fortement involutée puis étalée; non hygrophane, non translucide, brun pâle à brun assez foncé, gris brun ou jaune, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -98,7 +104,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « <i>Stropharia rugosoannulata</i> est la plus grande espèce du genre. Il existe une grande variété de couleur de son chapeau. Habituellement, on le retrouve dans les teintes violacées, mais des formes plus pâles existent aussi. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « <i>Stropharia rugosoannulata</i> est la plus grande espèce du genre. Il existe une grande variété de couleur de son chapeau. Habituellement, on le retrouve dans les teintes violacées, mais des formes plus pâles existent aussi. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -223,7 +230,6 @@ description:
   peritheces: 
   phenologie: de juin à septembre
   phialoconidies: 
-  pied: 50-130 x 7-40 (65) mm Ø, généralement progressivement élargi vers la base, parfois avec base subbulbeuse, ferme, avec anneau, jaune ocre dans la partie médiane, blanche et fibrilleuse à l'apex et base
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -266,6 +272,7 @@ description:
   sporee: gris pourpre foncé à violet-noir
   spherocytes: 
   sporocystes: 
+  stipe: 50-130 x 7-40 (65) mm Ø, généralement progressivement élargi vers la base, parfois avec base subbulbeuse, ferme, avec anneau, jaune ocre dans la partie médiane, blanche et fibrilleuse à l'apex et base
   stipitipellis: 
   stipititrame: 
   stroma: 

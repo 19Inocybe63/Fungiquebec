@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Trichoglosse de Farlow
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Ascomycota
+  sous-phylum: Pezizomycotina
+  classe: Geoglossomycetes
+  sous-classe: Incertae sedis
   ordre: Geoglossales
   famille: Geoglossaceae
   genre: Trichoglossum
@@ -49,7 +55,7 @@ description:
   arthroconidies: 
   articles: |
     <b>Ohenoja, Esteri</b>. <i>Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland</i>, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
-    <b>Kucera, Viktor, ; Lizon, Pavel et al.</b> <i>Geoglossoid fungi in Slovakia II. Trichoglossum octopartitum, a new species for the country</i>, Czech Mycol. 62 (1), 13-18, 2010, 6 p.
+    <b>Kucera, Viktor,; Lizon, Pavel et al.</b> <i>Geoglossoid fungi in Slovakia II. Trichoglossum octopartitum, a new species for the country</i>, Czech Mycol. 62 (1), 13-18, 2010, 6 p.
     <b>Kaufholtz-Couture, Claude.</b> <i>Clé des espèces du genre Trichoglossum au Québec</i>, Éditions Fungiquebec, avril 2016, 3 p.
   ascome: 20-70 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, clavé à lancéolé, noir brunâtre à noir
   ascospores: |
@@ -218,7 +224,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 20-60 x 4-6 mm Ø, égal à élargi aux deux bouts, droit ou flexueux, aplati, rarement un peu comprimé, lisse puis sillonné longitudinalement, densément velouté, apparaissant finement épineux (soies à la loupe), noir
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -264,6 +269,7 @@ description:
   sporee: brun foncé avec reflets verdâtres
   spherocytes: 
   sporocystes: 
+  stipe: 20-60 x 4-6 mm Ø, égal à élargi aux deux bouts, droit ou flexueux, aplati, rarement un peu comprimé, lisse puis sillonné longitudinalement, densément velouté, apparaissant finement épineux (soies à la loupe), noir
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Tricholome jaune
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Tricholoma
@@ -204,7 +210,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 50-100 x 10-20 mm Ø, égal à légèrement élargi vers la base, un peu fibrilleux, blanc, jaune par endroits
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -231,7 +236,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C. ; Trudell, Steven A.</b> <i>Tricholomas of North America</i>, A Mushroom field Guide, University of Texas Press, 2013, 208 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C.; Trudell, Steven A.</b> <i>Tricholomas of North America</i>, A Mushroom field Guide, University of Texas Press, 2013, 208 p.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
@@ -247,6 +252,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 50-100 x 10-20 mm Ø, égal à légèrement élargi vers la base, un peu fibrilleux, blanc, jaune par endroits
   stipitipellis: 
   stipititrame: 
   stroma: 

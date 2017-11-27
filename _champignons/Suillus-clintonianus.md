@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet de Clinton
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
@@ -210,7 +216,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

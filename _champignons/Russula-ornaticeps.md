@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Russule à chapeau orné
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
@@ -225,7 +231,7 @@ description:
   pigments: 
   pileipellis: en cutis (à subixocutis)
   pileitrame: 
-  pileocystides: nombreuses, cylindriques à claviformes, plus ou moins renflées, souvent avec apex mucronés, à contenu pailleté réfringent, sulfopipéronal positif (SP+) , 45-70 ± x 8-11 µm
+  pileocystides: nombreuses, cylindriques à claviformes, plus ou moins renflées, souvent avec apex mucronés, à contenu pailleté réfringent, sulfopipéronal positif (SP+), 45-70 ± x 8-11 µm
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, à contenu pailleté réfringent dans le R.C.Sds, sulfovanilline positive (SV+), 65-78 x 10-12,5 µm en moyenne

@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet pomme de pin
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Boletaceae
   genre: Strobilomyces
@@ -68,7 +74,7 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre, rougissante puis noircissant rapidement lorsque coupée ou meurtrie
   chancre: 
-  chapeau: 30-155 mm Ø, large, convexe, devenant largement convexe à subétalé à maturité, marge appendiculée de reste du voile partiel cotonneux et grisâtre ; sec, blanchâtre à grisâtre, recouvert de laine grossière ou cotonneuse, aplati ou dressé, de gris à gris violacé ou noirâtre
+  chapeau: 30-155 mm Ø, large, convexe, devenant largement convexe à subétalé à maturité, marge appendiculée de reste du voile partiel cotonneux et grisâtre; sec, blanchâtre à grisâtre, recouvert de laine grossière ou cotonneuse, aplati ou dressé, de gris à gris violacé ou noirâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -203,7 +209,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pied: 40-120 mm Ø, épais, ferme, presque égal, parfois agrandi à la base, grisâtre, réticulé au sommet au-dessus de l'anneau
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -230,8 +235,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C.</b> <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
     Ammoniaque (NH<SUB>4</SUB>OH 10%) = ochracée sur la chair
@@ -249,6 +254,7 @@ description:
   sporee: brun noirâtre à noir
   spherocytes: 
   sporocystes: 
+  stipe: 40-120 mm Ø, épais, ferme, presque égal, parfois agrandi à la base, grisâtre, réticulé au sommet au-dessus de l'anneau
   stipitipellis: 
   stipititrame: 
   stroma: 

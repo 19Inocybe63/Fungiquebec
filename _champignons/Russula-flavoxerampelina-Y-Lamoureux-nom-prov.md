@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
@@ -59,10 +65,10 @@ description:
   basides: claviformes, tétrasporiques, non bouclées à la base, (39,3) 39,31 - 48,79 (48,8) × (12,4) 12,44 - 13,17 (13,2) µm
   basidiospores: |
     globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verrues médiums et isolées, réunies par de rares connexions, plus souvent avec verrues caténulées, avec des proéminences jusqu'à 1 µm de hauteur, à paroi mince, appendice hilaire proéminent, petite plage hilaire amyloïde, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
-    (7,2) 7,6 - 8,8 (9,2) × (6,3) 6,6 - 7,5 (7,7) µm
-    Q = (1,1) 1,13 - 1,2 (1,3) ; N = 30
-    Me = 8,3 × 7,1 µm ; Qe = 1,2
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
+    (7,2) 7,6-8,8 (9,2) × (6,3) 6,6-7,5 (7,7) µm
+    Q = (1,1) 1,1-1,2 (1,3); N = 30
+    Me = 8,3 × 7,1 µm; Qe = 1,2
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 

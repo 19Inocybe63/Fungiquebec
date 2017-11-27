@@ -8,6 +8,12 @@ album-flickr:
 
 details:
   nom-francais: Bolet peint
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
   ordre: Boletales
   famille: Suillaceae
   genre: Suillus
@@ -205,7 +211,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 40-100 x 8-20 mm Ø, égal à élargi vers la base, plein, chiné-fibrilleux, rouge vineux sur fond jaunâtre
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -254,6 +259,7 @@ description:
   sporee: brune
   spherocytes: 
   sporocystes: 
+  stipe: 40-100 x 8-20 mm Ø, égal à élargi vers la base, plein, chiné-fibrilleux, rouge vineux sur fond jaunâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

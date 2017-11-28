@@ -214,7 +214,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 40-100 x 5-15 mm Ø, clavé, blanchâtre vers l'apex, strié-fibrilleux et brunâtre vers la base, muni d'un anneau délicat, blanchâtre à jaune olivâtre
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis, avec hyphes réunies en faisceaux, plus ou moins émergentes
@@ -260,6 +259,7 @@ description:
   sporee: blanchâtre
   spherocytes: 
   sporocystes: 
+  stipe: 40-100 x 5-15 mm Ø, clavé, blanchâtre vers l'apex, strié-fibrilleux et brunâtre vers la base, muni d'un anneau délicat, blanchâtre à jaune olivâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

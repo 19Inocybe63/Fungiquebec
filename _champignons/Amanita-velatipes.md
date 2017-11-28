@@ -291,8 +291,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: friable, blanchâtre, laissant des flocons sur le chapeau et une ou quelques bandelettes à la base du pied
-  voile-partiel: blanc, laissant sur le pied un anneau denté et ample, en chaînette dont les hyphes terminales sont polymorphes (75% filamenteuses, et 25% elliptiques allongées à ovoïdes) cylindriques, claviformes, utriformes, elliptiques allongées, ovoïdes, 22-54 x 5,5 x 9 µm
+  voile-general: friable, blanchâtre, laissant des flocons sur le chapeau et une ou quelques bandelettes à la base du stipe
+  voile-partiel: blanc, laissant sur le stipe un anneau denté et ample, en chaînette dont les hyphes terminales sont polymorphes (75% filamenteuses, et 25% elliptiques allongées à ovoïdes) cylindriques, claviformes, utriformes, elliptiques allongées, ovoïdes, 22-54 x 5,5 x 9 µm
   volve: 
   zone-perihymeniale: 
 ---

@@ -7,7 +7,7 @@ album-flickr:
   - 72157672380570044
 
 details:
-  nom-francais: Mycene adonis / Mycene jolie
+  nom-francais: Mycène adonis / Mycène jolie
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

@@ -7,7 +7,7 @@ album-flickr:
   - 72157680535230566
 
 details:
-  nom-francais: 
+  nom-francais: Amanite lavande
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

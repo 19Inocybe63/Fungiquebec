@@ -212,7 +212,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 27-28 x 1 mm Ø, cylindrique, égal, fragile, pruineux au début puis glabre et lisse, translucide, rougeâtre orangé
   pieds-steriles: 
   pigments: 
   pileipellis: formé d'hyphes parallèles et superficielles, avec excroissances diverticulées
@@ -257,6 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 27-28 x 1 mm Ø, cylindrique, égal, fragile, pruineux au début puis glabre et lisse, translucide, rougeâtre orangé
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -7,7 +7,7 @@ album-flickr:
   - 72157672806318152
 
 details:
-  nom-francais: Amanite farineuse ou Amanite poudrée de gris
+  nom-francais: Amanite farineuse / Amanite poudrée de gris
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

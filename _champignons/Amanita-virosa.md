@@ -241,7 +241,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 80-280 x 8-24 mm Ø, blanc, terminé par un gros bulbe habituellement plat et marginé, finement fibrilleux à pelucheux, muni d'un anneau parfois fugace, émergeant d'une volve blanche
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -285,6 +284,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 80-280 x 8-24 mm Ø, blanc, terminé par un gros bulbe habituellement plat et marginé, finement fibrilleux à pelucheux, muni d'un anneau parfois fugace, émergeant d'une volve blanche
   stipitipellis: 
   stipititrame: 
   stroma: 

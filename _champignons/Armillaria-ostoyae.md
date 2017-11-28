@@ -7,7 +7,7 @@ album-flickr:
   - 72157672412541764
 
 details:
-  nom-francais: Armillaire obscure ou Armillaire d'Ostoya
+  nom-francais: Armillaire obscure / Armillaire d'Ostoya
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

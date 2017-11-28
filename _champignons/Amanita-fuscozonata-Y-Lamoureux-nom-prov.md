@@ -7,7 +7,7 @@ album-flickr:
   - 72157674099755753
 
 details:
-  nom-francais: Amanite zonée
+  nom-francais: Amanite zonée Y. Lamoureux nom. prov.
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -210,7 +210,6 @@ description:
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 
-  pied: 70-170 x 5-12 mm Ø, cylindrique à claviforme, finement floconneux puis glabre, non bulbeux, blanc à grisâtre pâle, non annelé, émergeant d'une volve bien développée
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -253,6 +252,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 70-170 x 5-12 mm Ø, cylindrique à claviforme, finement floconneux puis glabre, non bulbeux, blanc à grisâtre pâle, non annelé, émergeant d'une volve bien développée
   stipitipellis: 
   stipititrame: 
   stroma: 

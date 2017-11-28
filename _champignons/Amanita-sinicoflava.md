@@ -224,7 +224,6 @@ description:
   peritheces: 
   phenologie: de juin à octobre
   phialoconidies: 
-  pied: 70-150 x 7-13 mm Ø, non bulbeux, lisse ou finement fibrilleux, blanchâtre, grisâtre ou brunâtre, sans anneau, émergeant d'une volve grise par endroits
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -272,6 +271,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 70-150 x 7-13 mm Ø, non bulbeux, lisse ou finement fibrilleux, blanchâtre, grisâtre ou brunâtre, sans anneau, émergeant d'une volve grise par endroits
   stipitipellis: 
   stipititrame: 
   stroma: 

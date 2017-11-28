@@ -212,7 +212,6 @@ description:
   peritheces: 
   phenologie: d'août à octobre
   phialoconidies: 
-  pied: 50-150 mm x 8-30 mm Ø, subégal à atténué vers la base, fibrilleux-strié, blanchâtre vers l'apex, devenant brunâtre à presque noir vers la base, souvent avec mycélium basal jaunâtre à jaune olive et longs rhizomorphes noirs qui parcourent le bois
   pieds-steriles: 
   pigments: 
   pileipellis: en cutis avec faisceaux trichodermiques
@@ -258,6 +257,7 @@ description:
   sporee: blanchâtre
   spherocytes: 
   sporocystes: 
+  stipe: 50-150 mm x 8-30 mm Ø, subégal à atténué vers la base, fibrilleux-strié, blanchâtre vers l'apex, devenant brunâtre à presque noir vers la base, souvent avec mycélium basal jaunâtre à jaune olive et longs rhizomorphes noirs qui parcourent le bois
   stipitipellis: 
   stipititrame: 
   stroma: 

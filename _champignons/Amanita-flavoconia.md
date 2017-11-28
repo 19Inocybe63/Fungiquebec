@@ -220,7 +220,6 @@ description:
   peritheces: 
   phenologie: de juillet à octobre
   phialoconidies: 
-  pied: 50-150 x 5-15 mm Ø, glabre ou finement fibrilleux, blanc, jaune à jaune orange, annelé, terminé par un bulbe arrondi
   pieds-steriles: 
   pigments: 
   pileipellis: 
@@ -264,6 +263,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
+  stipe: 50-150 x 5-15 mm Ø, glabre ou finement fibrilleux, blanc, jaune à jaune orange, annelé, terminé par un bulbe arrondi
   stipitipellis: 
   stipititrame: 
   stroma: 

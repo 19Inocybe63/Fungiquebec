@@ -58,6 +58,7 @@ description:
     8,3 [9; 9,4] 10,2 x 6 [6,8; 7,1] 7,9 µm
     Q = 1,2 [1,3; 1,4] 1,5; N = 28; C = 95%
     Me = 9,2 x 7 µm; Qe = 1,3
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, épaisse, blanche, devenant lentement rouge vineux à la coupe ou au froissement et dans les meurtrissures d'insectes
   chancre: 
-  chapeau: 40-150 mm Ø, globuleux, conique-arrondi, campanulé à convexe puis étalé, parfois mamelonné, orné de flocons vélaires blancs, rosés à gris sur fond beige doré, cuivré à brun rougeâtre, à marge incurvée au début, unie
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -220,6 +220,7 @@ description:
   pileipellis: en ixocutis
   pileitrame: 
   pileocystides: 
+  pileus: 40-150 mm Ø, globuleux, conique-arrondi, campanulé à convexe puis étalé, parfois mamelonné, orné de flocons vélaires blancs, rosés à gris sur fond beige doré, cuivré à brun rougeâtre, à marge incurvée au début, unie
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

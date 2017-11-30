@@ -99,11 +99,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques, tétrasporiques, non bouclées à la base, 31,0 - 35,0 × 9,5 - 11,0 µm en moyenne
+  basides: claviformes à cylindriques, tétrasporiques, non bouclées à la base, 31,0-35,0 × 9,5-11,0 µm en moyenne
   basidiospores: |
     goniosporées, subrectangulaires à rectangulaires, parfois avec apex subconiques en vue frontale, à noduleuses anguleuses vues de profil, majoritairement pentagone rarement hexagone, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (9,5) 10,4 - 13 (15,5) × (5,8) 6 - 6,9 (7,1) µm
-    Q = (1,6) 1,7 - 2 (2,6); N = 30
+    (9,5) 10,4-13 (15,5) × (5,8) 6-6,9 (7,1) µm
+    Q = (1,6) 1,7-2 (2,6); N = 30
     Me = 11,9 × 6,4 µm; Qe = 1,9
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -118,17 +118,16 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes; ce sont davantage des hyphes terminales
-  caulocystides-sommitales: occasionnelles, de deux types; 1° type métuloïdes, fusiformes à fusiformes ventrues, avec peu ou sans cristaux d’oxalate de calcium, 38,5 - 45,6 × 12 - 16,9 µm en moyenne, 2° type cylindriques claviformes, dont l’apex est parfois subcapité, parfois en faisceaux, ressemblent davantage à des hyphes terminales, (32,6) 39,1 - 52 (58,7) × (6,2) 6,4 - 8,4 (9,2) µm en moyenne
+  caulocystides-sommitales: occasionnelles, de deux types; 1° type métuloïdes, fusiformes à fusiformes ventrues, avec peu ou sans cristaux d’oxalate de calcium, 38,5-45,6 × 12-16,9 µm en moyenne, 2° type cylindriques claviformes, dont l’apex est parfois subcapité, parfois en faisceaux, ressemblent davantage à des hyphes terminales, (32,6) 39,1-52 (58,7) × (6,2) 6,4-8,4 (9,2) µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: elliptiques à ovoïdes, courtement piriformes à piriformes, subcylindriques, (14) 15,7 - 20,1 (25) × (6,1) 6,7 - 10,6 (11,4) µm en moyenne
+  cellules-marginales-paracystides: elliptiques à ovoïdes, courtement piriformes à piriformes, subcylindriques, (14) 15,7-20,1 (25) × (6,1) 6,7-10,6 (11,4) µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: brun rougeâtre
   chancre: 
-  chapeau: 8-15 mm Ø, ± conique au début, convexe à étalé, légèrement déprimé, ± mamelonné, fibrilleux et squamuleux, ± méchuleux vers le centre, brun à brun rougeâtre, plus foncé au centre
   cheilochrysocystides:
-  cheilocystides: nombreuses, métuloïdes, largement fusiformes, à paroi fine à épaisse 1,0-4,0 µm, dont les cristaux d’oxalate de calcium sont très peu nombreux à l’apex, parfois absent, (35,6) 37,8 - 46 (53,6) × (15,6) 15,8 - 18,7 (21,3) µm en moyenne
+  cheilocystides: nombreuses, métuloïdes, largement fusiformes, à paroi fine à épaisse 1,0-4,0 µm, dont les cristaux d’oxalate de calcium sont très peu nombreux à l’apex, parfois absent, (35,6) 37,8-46 (53,6) × (15,6) 15,8-18,7 (21,3) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -270,12 +269,13 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'un suprapellis en cutis, avec des éléments trichodermiques, avec hyphes septées et bouclées agglomérées au sommet, hyphes terminales cylindriques formant une chaîne, avec pigmentation brun rouille à brun rougeâtre, 9,8 - 55,1 × 2,0 - 10,3 µm en moyenne
+  pileipellis: formé d'un suprapellis en cutis, avec des éléments trichodermiques, avec hyphes septées et bouclées agglomérées au sommet, hyphes terminales cylindriques formant une chaîne, avec pigmentation brun rouille à brun rougeâtre, 9,8-55,1 × 2,0-10,3 µm en moyenne
   pileitrame: 
   pileocystides: 
+  pileus: 8-15 mm Ø, ± conique au début, convexe à étalé, légèrement déprimé, ± mamelonné, fibrilleux et squamuleux, ± méchuleux vers le centre, brun à brun rougeâtre, plus foncé au centre
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 µm, Ammoniaco -, dont les cristaux d’oxalate de calcium sont plus présent, (55,6) 55,8 - 59,2 (59,6) × (16,1) 16,3 - 19,4 (22) µm en moyenne
+  pleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 µm, Ammoniaco -, dont les cristaux d’oxalate de calcium sont plus présent, (55,6) 55,8-59,2 (59,6) × (16,1) 16,3-19,4 (22) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

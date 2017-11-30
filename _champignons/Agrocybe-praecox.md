@@ -109,7 +109,6 @@ description:
   cellules-stromatiques: 
   chair: moyennement épaisse à épaisse en son centre, blanchâtre à crème
   chancre: 
-  chapeau: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plissé finement dans un petit rayon concentrique à la marge
   cheilocystides: nombreuses, ventrues avec col absent ou avec col allongé 46-54 x 22-26 µm en moyenne, fusiformes-ventrues 55-70 x 23-24 µm en moyenne, claviformes, rares utriformes au sens de Romagnesi, à paroi mince, lisses, hyalines
   cheilomacrocystides: 
   chlamydospores: 
@@ -249,6 +248,7 @@ description:
   pileipellis: en hyménoderme à ixohyménoderme
   pileitrame: 
   pileocystides: 
+  pileus: 7-67 mm Ø, convexe, subétalé à étalé, visqueux lorsque imbu, glabre et lisse au sec, hygrophane, beige à crème avec léger reflets jaunâtre au sec, plissé finement dans un petit rayon concentrique à la marge
   plasmode: 
   pleurocystides: nombreuses, fusiformes-ventrues 55 x 23,7 µm en moyenne, ventrues avec col absent ou avec col allongé 54 x 24 µm en moyenne, rares utriformes au sens de Romagnesi 32,5 x 13 µm, à paroi mince, lisses, hyalines
   poils: 

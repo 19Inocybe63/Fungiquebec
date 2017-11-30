@@ -212,6 +212,8 @@ champs-description:
     label: Pseudocolumelle
   - name: chapeau
     label: Chapeau
+  - name: pileus
+    label: Pileus
   - name: hymenophore
     label: Hyménophore
   - name: aiguillons

@@ -219,6 +219,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

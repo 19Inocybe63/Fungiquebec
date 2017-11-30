@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 40-140 mm Ø, globuleux à convexe puis étalé, blanc, orné de nombreuses petites verrues coniques, à marge incurvée, unie, souvent appendiculée de restes vélaires fibrilleux blancs au début, s'étendant comme une bande étroite au au-delà des lames
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -217,6 +216,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 40-140 mm Ø, globuleux à convexe puis étalé, blanc, orné de nombreuses petites verrues coniques, à marge incurvée, unie, souvent appendiculée de restes vélaires fibrilleux blancs au début, s'étendant comme une bande étroite au au-delà des lames
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

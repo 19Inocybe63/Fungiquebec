@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: ± filamenteuse, pourprée-violacée
   chancre: 
-  chapeau: 15-30 mm Ø, convexe, finement squamuleux-méchuleux, violet brunâtre foncé, brun noirâtre à maturité
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -221,6 +220,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 15-30 mm Ø, convexe, finement squamuleux-méchuleux, violet brunâtre foncé, brun noirâtre à maturité
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

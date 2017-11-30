@@ -99,7 +99,6 @@ description:
   cellules-stromatiques: 
   chair: mince, blanche
   chancre: 
-  chapeau: 30-70 (100) mm Ø, obtus à convexe puis largement convexe à étalé, souvent légèrement umboné, sec à humide, lisse à souvent plissé au centre, hygrophane, brun foncé, jaune ocre, cannelle jaunâtre à jaune-brun foncé au début, puis beige brunâtre, tan jaunâtre à tan avec l'âge, chamois pâle au sec ; à marge unie, opaque, souvent appendiculée de restes vélaires
   cheilocystides: semblables aux pleurocystides, mais plus petites 43,3 [46; 53,4] 56,1 x 17,6 [18,8; 22] 23,2 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -239,6 +238,7 @@ description:
   pileipellis: en hyménoderme
   pileitrame: 
   pileocystides: 
+  pileus: 30-70 (100) mm Ø, obtus à convexe puis largement convexe à étalé, souvent légèrement umboné, sec à humide, lisse à souvent plissé au centre, hygrophane, brun foncé, jaune ocre, cannelle jaunâtre à jaune-brun foncé au début, puis beige brunâtre, tan jaunâtre à tan avec l'âge, chamois pâle au sec ; à marge unie, opaque, souvent appendiculée de restes vélaires
   plasmode: 
   pleurocystides: fusiformes ventrues 39,6 [47,2; 54,8] 62,4 x 16 [19,7; 23,4] 27 µm en moyenne
   poils: 

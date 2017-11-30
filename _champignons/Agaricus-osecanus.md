@@ -79,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, immuable, blanche, jusqu'à 25 mm d'épaisseur
   chancre: 
-  chapeau: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, à marge appendiculée de restes vélaires
   cheilochrysocystides:
   cheilocystides: abondantes, peu émergentes, formées de cellules cylindriques à globuleuses, oblongues à piriformes, caténulées, (8,2) 10,5-15,1 (22,3) × (4,1) 5,5-8,1 (8,6) µm
   cheiloleptocystides: 
@@ -222,6 +221,7 @@ description:
   pileipellis: en cutis, formé d'hyphes apprimées, parallèles, non bouclées, hyalines à légèrement pigmentées, 3,5-5 µm Ø
   pileitrame: 
   pileocystides: 
+  pileus: 44-86 mm Ø, globuleux, largement convexe à convexe-étalé, sec, lisse, crème beige à chamois, brun pâle vers le centre, à marge appendiculée de restes vélaires
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

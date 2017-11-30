@@ -94,7 +94,6 @@ description:
   cellules-stromatiques: 
   chair: blanche
   chancre: 
-  chapeau: 40-90 mm Ø, ovoïde, conique-arrondi puis étalé mamelonné, fauve ou brun orangé, dépourvu de restes vélaires, à marge longuement sillonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -235,6 +234,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 40-90 mm Ø, ovoïde, conique-arrondi puis étalé mamelonné, fauve ou brun orangé, dépourvu de restes vélaires, à marge longuement sillonnée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

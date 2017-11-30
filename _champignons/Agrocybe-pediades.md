@@ -52,12 +52,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à largement claviformes, parfois largement cylindriques, tétrasporiques jusqu'à 2,1-5,4 µm de long, non bouclées à la base, (27,4) 27,9 - 30,9 (33,2) × (8,7) 9 - 9,9 (10,7) µm
+  basides: claviformes à largement claviformes, parfois largement cylindriques, tétrasporiques jusqu'à 2,1-5,4 µm de long, non bouclées à la base, (27,4) 27,9-30,9 (33,2) × (8,7) 9-9,9 (10,7) µm
   basidiospores: |
     elliptiques, subovales à ovales, parfois subhexagonales en vue frontale, largement elliptiques à elliptiques vues de profil, parfois avec rétrécissement à l’apex, tronquées, avec petit pore germinatif centré parfois bien visible, lisses, à paroi mince à légèrement épaissie, avec petit appendice hilaire pas toujours bien visible, à contenu guttulé à variable, brun pâle dans E.G. 20%, brun rougeâtre dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
-    (10,1) 10,4 - 11,7 (13,5) × (6) 6,1 - 6,9 (7,6) µm
-    Q = (1,5) 1,6 - 1,8 (1,9) ; N = 30
-    Me = 11 × 6,5 µm ; Qe = 1,7
+    (10,1) 10,4-11,7 (13,5) × (6) 6,1-6,9 (7,6) µm
+    Q = (1,5) 1,6-1,8 (1,9); N = 30
+    Me = 11 × 6,5 µm; Qe = 1,7
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -69,7 +69,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes à l'apex, polymorphes, claviformes, rarement avec des digitations, capitulées à subcapitulées, parfois avec des cristaux à l'apex, piriformes, (16,7) 25,4 - 40,5 (50,9) × (4,4) 5 - 11,8 (13,6) µm en moyenne
+  caulocystides: abondantes à l'apex, polymorphes, claviformes, rarement avec des digitations, capitulées à subcapitulées, parfois avec des cristaux à l'apex, piriformes, (16,7) 25,4-40,5 (50,9) × (4,4) 5-11,8 (13,6) µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -79,9 +79,8 @@ description:
   cellules-stromatiques: 
   chair: mince, blanchâtre à ivoire puis chamois pâle
   chancre: 
-  chapeau: 18-36 mm Ø, hémisphérique à convexe, avec rayon brun plus foncé à la marge, visqueux, avec le centre orangée ocre
   cheilochrysocystides:
-  cheilocystides: abondantes, polymorphes, claviformes à largement claviformes (26) 30 - 40,4 (47,3) × (13,8) 14,1 - 20,8 (21,4) µm en moyenne, subglobuleuses, lécythiformes 25,9 - 32,9 × 10,4 - 14 µm en moyenne
+  cheilocystides: abondantes, polymorphes, claviformes à largement claviformes (26) 30-40,4 (47,3) × (13,8) 14,1-20,8 (21,4) µm en moyenne, subglobuleuses, lécythiformes 25,9-32,9 × 10,4-14 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -220,12 +219,13 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en hyménoderme, avec mince couche superficielle gélatinisée (ixo), formé de cellules claviformes à piriformes, non bouclées 24 - 35,6 × (8,2) 8,21 - 12,56 (12,6) µm en moyenne
+  pileipellis: en hyménoderme, avec mince couche superficielle gélatinisée (ixo), formé de cellules claviformes à piriformes, non bouclées 24-35,6 × (8,2) 8,2-12,5 (12,6) µm en moyenne
   pileitrame: 
   pileocystides: 
+  pileus: 18-36 mm Ø, hémisphérique à convexe, avec rayon brun plus foncé à la marge, visqueux, avec le centre orangée ocre
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: rares, largement claviformes (36,7) 36,74 - 39,46 (39,5) × (21,9) 21,94 - 22,78 (22,8) µm en moyenne
+  pleurocystides: rares, largement claviformes 36,7-39,5 × (21,9) 21,9-22,8 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

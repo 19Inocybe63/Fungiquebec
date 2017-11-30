@@ -97,7 +97,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 25-65 mm Ø, hémisphérique au début, devenant convexe à presque étalé, sec, gris, couvert à la surface d’une couche poudreuse de restes vélaires brun grisâtre, glabre
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -235,6 +234,7 @@ description:
   pileipellis: en cutis et parfois en ixocutis, formé d’hyphes de 2-8 µm Ø
   pileitrame: 
   pileocystides: 
+  pileus: 25-65 mm Ø, hémisphérique au début, devenant convexe à presque étalé, sec, gris, couvert à la surface d’une couche poudreuse de restes vélaires brun grisâtre, glabre
   plasmode: 
   pleurocystides: absentes
   poils: 

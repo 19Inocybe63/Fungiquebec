@@ -52,13 +52,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à largement claviformes, tétrasporiques, non bouclées à la base, 37,2 - 40,7 × 10,7 - 11,4 µm en moyenne
+  basides: claviformes à largement claviformes, tétrasporiques, non bouclées à la base, 37,2-40,7 × 10,7-11,4 µm en moyenne
   basidiospores: |
     globuleuses à 73,3% à subglobuleuses à 26,7%, très finement sablées à très finement verruqueuses, à paroi mince, avec appendice hilaire moyen, à contenu uniguttulé, hyalines dans E.G. 20%, amyloïdes, cyanophiles
-    (7,5) 8 - 9,2 (9,8) × (7,4) 7,5 - 9 (9,7) µm
-    Q = 1 - 1,07 (1,1) ; N = 30
-    Me = 8,5 × 8,3 µm ; Qe = 1
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (7,5) 8-9,2 (9,8) × (7,4) 7,5-9 (9,7) µm
+    Q = 1 - 1,07 (1,1); N = 30
+    Me = 8,5 × 8,3 µm; Qe = 1
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -79,9 +79,8 @@ description:
   cellules-stromatiques: 
   chair: entièrement blanchâtre, immuable
   chancre: 
-  chapeau: 40-100 mm Ø, globuleux à convexe puis étalé, nu ou orné de quelques flocons vélaires blanchâtres, jaunâtres à gris violacé sur fond jaune pâle à jaune verdâtre, à marge unie
   cheilochrysocystides:
-  cheilocystides: abondantes, subglobuleuses, piriformes, claviformes, sphéropédonculées, rarement fusiformes (21,1) 22,3 - 36,2 (38,6) × (15,2 17,1 - 21,1 (22,1) µm
+  cheilocystides: abondantes, subglobuleuses, piriformes, claviformes, sphéropédonculées, rarement fusiformes (21,1) 22,3-36,2 (38,6) × (15,2 17,1-21,1 (22,1) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -225,6 +224,7 @@ description:
   pileipellis: formé d'un suprapellis en ixocutis, avec des d’hyphes lâches dans le gélin, et d’un subpellis formé d’hyphes avec pigments intracellulaires, septées et non bouclées, 3,3 x 6,8 µm Ø en moyenne
   pileitrame: 
   pileocystides: 
+  pileus: 40-100 mm Ø, globuleux à convexe puis étalé, nu ou orné de quelques flocons vélaires blanchâtres, jaunâtres à gris violacé sur fond jaune pâle à jaune verdâtre, à marge unie
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

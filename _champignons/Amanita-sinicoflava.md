@@ -68,6 +68,7 @@ description:
     9,3 [11; 11,7] 13,4 x 8,7 [10,3; 11] 12,6 µm
     Q =  [1; 1,1] 1,2; N = 30; C = 95%
     Me = 11,3 x 10,7 µm; Qe = 1,1
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 

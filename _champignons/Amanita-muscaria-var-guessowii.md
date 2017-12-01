@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: blanche ou jaunâtre, immuable
   chancre: 
-  chapeau: 70-250 mm Ø, globuleux à convexe puis étalé, orné de flocons vélaires blancs à jaunâtres sur fond jaune vif, jaune orangé à orange rougeâtre, parfois rouge au centre, à marge sillonnée à maturité
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -215,6 +214,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 70-250 mm Ø, globuleux à convexe puis étalé, orné de flocons vélaires blancs à jaunâtres sur fond jaune vif, jaune orangé à orange rougeâtre, parfois rouge au centre, à marge sillonnée à maturité
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -52,15 +52,15 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, en palissade, tétrasporiques aux stérigmates 2,4-3,7 µm de longueur, non bouclées à la base, 14,4 - 20 × 3,7 - 4,3 µm en moyenne
+  basides: claviformes, en palissade, tétrasporiques aux stérigmates 2,4-3,7 µm de longueur, non bouclées à la base, 14,4-20 × 3,7-4,3 µm en moyenne
   basidiospores: |
     courtement elliptiques à ovoïdales en vue frontale, elliptiques-ovoïdales vues de profil, finement verruqueuses (criblées), à paroi mince, appendice hilaire très petit, à contenu variable, hyalines dans E.G. 20%, amyloïdes, partiellement cyanophiles à cyanophiles
-    (3,7) 4 - 4,6 (5) × 2,5 - 2,9 (3) µm
-    Q = (1,4) 1,5 - 1,7 (1,9) ; N = 30
-    Me = 4,3 × 2,7 µm ; Qe = 1,6
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans E.G. 20%)
+    (3,7) 4-4,6 (5) × 2,5-2,9 (3) µm
+    Q = (1,4) 1,5-1,7 (1,9); N = 30
+    Me = 4,3 × 2,7 µm; Qe = 1,6
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
-  basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, ramifié à plusieurs reprises, aux extrémités en forme de petites couronnes ; branches 1-5 mm Ø, lisses, blanchâtres à jaune pâle au début, parfois foncées à pâle aux teintes rosâtres en développement, apex couronné d'une dépression peu profonde et de 3-6 pointes, dont les extrémités sont concolores aux branches ou deviennent brunâtres
+  basidiome: 40-130 mm de hauteur, 20-100 mm Ø, coralloïde, ramifié à plusieurs reprises, aux extrémités en forme de petites couronnes; branches 1-5 mm Ø, lisses, blanchâtres à jaune pâle au début, parfois foncées à pâle aux teintes rosâtres en développement, apex couronné d'une dépression peu profonde et de 3-6 pointes, dont les extrémités sont concolores aux branches ou deviennent brunâtres
   bibliographies: 
   biotopes: pousse sur bois pourri de feuillus
   boucles: facilement observables
@@ -93,6 +93,7 @@ description:
     De Claude Kaufholtz-Couture. « La sporée fut mise en masse pour une meilleure concentration de la couleur. À ma grande surprise, la couleur de cette sporée n'était pas blanche comme indiqué dans les monographies, mais bien ocrosporée, ocre pâle à ocre moyen. »
     De Claude Kaufholtz-Couture. « Puisque les basidiospores de <i>A. pyxidatus</i> sont petites, hyalines et mal définies dans l'eau glycérinée 20% et dans le NaCl iso 0,9%, elles se prêtent parfaitement à une préparation dans le permanganate de potassium (KMnO<sub>4</sub>) qui en détermine mieux les contours. »
     De Claude Kaufholtz-Couture. « La couleur de la sporée de cette collection est atypique. Présentement, la collection cKc0053 est en étude d'ADN par Edgar Lickey; les résultats seront publiés sur Fungiquebec le moment venu. »
+    De Claude Kaufholtz-Couture. « Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -157,7 +158,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: occasionnelles, polymorphes, cylindriques, fusiformes à longuement fusiformes, lagéniformes à rostrées, avec contenu granuleux, souvent peu émergentes ou émergentes de moitié (24,2) 26,7 - 28,2 (32,7) × 3,3 - 4,2 µm en moyenne
+  hymenocystides: occasionnelles, polymorphes, cylindriques, fusiformes à longuement fusiformes, lagéniformes à rostrées, avec contenu granuleux, souvent peu émergentes ou émergentes de moitié (24,2) 26,7-28,2 (32,7) × 3,3-4,2 µm en moyenne
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -253,8 +254,7 @@ description:
     Potasse (KOH 10%) = jaune brunâtre pâle sur chair et rameaux
     Sulfate de fer (FeSO<SUB>4</SUB>) = pas de coloration à légèrement grisâtre ou brunâtre sur les branches et la base
   receptacle: 
-  remarques: |
-    Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -263,7 +263,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: ocrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; D-E d'après la charte de couleur de Kibby
+  sporee: ocrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi; D-E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
   stipe: base de 10-30 mm de long, < 10 mm Ø, blanchâtre, rosâtre ou brunâtre, finement duveteux

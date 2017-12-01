@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 4-6 mm de projection, 1-5 mm d'épaisseur à la base, avec zone résupinée 10 x 20 mm environ, étroit, plus développé sur le bord supérieur du basidiome, en forme d'ongle, largement attaché, incurvé, azoné et velouté-apprimé au début, plus foncé, blanc, dans les tons d'ochracé à paille pâle, légèrement zoné et parfois avec lignes radiales et glabre avec l'âge, à marge aiguë, incurvée et dure chez les basidiomes piléés au sec, blanche à crème et souvent légèrement fimbriée sur les parties résupinées
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -218,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 4-6 mm de projection, 1-5 mm d'épaisseur à la base, avec zone résupinée 10 x 20 mm environ, étroit, plus développé sur le bord supérieur du basidiome, en forme d'ongle, largement attaché, incurvé, azoné et velouté-apprimé au début, plus foncé, blanc, dans les tons d'ochracé à paille pâle, légèrement zoné et parfois avec lignes radiales et glabre avec l'âge, à marge aiguë, incurvée et dure chez les basidiomes piléés au sec, blanche à crème et souvent légèrement fimbriée sur les parties résupinées
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

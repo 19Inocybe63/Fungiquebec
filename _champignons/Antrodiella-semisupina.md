@@ -195,7 +195,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: en amas imbriqués et fusionnés latéralement
+  mode-de-croissance: en amas, imbriqués et fusionnés latéralement
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

@@ -104,7 +104,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 50-157 mm Ø, conique arrondi, convexe ou campanulé, puis étalé, parfois largement mamelonné, blanc, dépourvu de restes vélaires, à marge non sillonnée et parfois appendiculée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -114,7 +113,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: NON ; champignon MORTEL
+  comestibilite: NON; champignon MORTEL
   commentaires: 
   conidies: 
   conidiome: 
@@ -246,6 +245,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 50-157 mm Ø, conique arrondi, convexe ou campanulé, puis étalé, parfois largement mamelonné, blanc, dépourvu de restes vélaires, à marge non sillonnée et parfois appendiculée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: crème jaunâtre, immuable
   chancre: 
-  chapeau: 5-13 mm Ø, convexe, glabre, cuticule collante
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -213,6 +212,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 5-13 mm Ø, convexe, glabre, cuticule collante
   plasmode: 
   pleurocystides: 
   poils: 

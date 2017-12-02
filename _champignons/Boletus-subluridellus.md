@@ -62,12 +62,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subutriformes, tétrasporiques, non bouclées à la base, 33,4 - 36,5 × 9,7 - 11 µm
+  basides: claviformes à subutriformes, tétrasporiques, non bouclées à la base, 33,4-36,5 × 9,7-11 µm
   basidiospores: |
     subfusiformes à fusiformes en vue frontale, cylindriques à légèrement inéquilatérales vues de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
-    (13,4) 13,8 - 15,8 (16,9) × (4,3) 4,4 - 5 (6) µm
-    Q = (2,8) 3 - 3,3 (3,5) ; N = 30
-    Me = 14,6 × 4,6 µm ; Qe = 3,1
+    (13,4) 13,8-15,8 (16,9) × (4,3) 4,4-5 (6) µm
+    Q = (2,8) 3-3,3 (3,5); N = 30
+    Me = 14,6 × 4,6 µm; Qe = 3,1
     (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
@@ -78,7 +78,7 @@ description:
   calicule: 
   capillitium: 
   capitule: 
-  caulobasides: abondantes, claviformes, bisporiques à tétrasporiques, non bouclées à la base, 27,5 - 36,2 × 8,8 - 12,5 µm
+  caulobasides: abondantes, claviformes, bisporiques à tétrasporiques, non bouclées à la base, 27,5-36,2 × 8,8-12,5 µm
   caulocystides: sur toute la longueur du stipe, cylindriques à fusiformes, flexueuses, dont l’apex de plusieurs est biseauté 16,7 [21,9; 32,1] 37,3 x 4,6 [5,4; 6,8] 7,6 µm, piriformes 22,8 x 9,1 µm en moyenne, rarement cylindriques mucronées
   caulocystides-medianes: 
   caulocystides-sommitales: 
@@ -89,7 +89,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 50-100 mm Ø, large, convexe à contour irrégulier, devenant globalement convexe, avec une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuse, également vermillon rouge à baie, ou à des moments orange, violet instantanément sombre au touché, la surface souvent grêlée
   cheilocystides: abondantes, polymorphes, parfois saillantes, cylindriques, fusiformes simples à fusiformes à long col, lagéniformes, flexueuses, dont l’apex de plusieurs est biseauté 21,6 [34; 51] 63,5 x 3,7 [5,8; 8,7] 10,7 µm
   cheilomacrocystides: 
   chlamydospores: 
@@ -97,7 +96,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Le pied jaune vif qui contraste avec le chapeau d'un beau rouge profond ne ment pas. Chez <i>B. subvelutipes</i>, il n'y a pas un tel contraste entre le pied et le chapeau. S'il a plu sur les basidiomes et qu'ils ne sont pas jeunes et frais, ou bien qu'ils ont roulé dans un panier, ont été tripotés, etc., les choses peuvent se compliquer ! Caractère distinctif ici, <i>B. subvelutipes</i> n'a jamais le pied jaune vif. Il sera jaune roussâtre, roux, voire presque entièrement rouge vineux dans la vétusté, mais jamais d'un beau jaune clair. Par ailleurs, les jeunes <i>B. subluridellus</i> ont le chapeau nettement plus velouté. Cela s'évalue bien quand on a les deux espèces en même temps, côte à côte. En général, quand <i>B. subluridellus</i> est sorti dans les chênaies, il y aura des <i>B. subvelutipes</i> dans les prucheraies avoisinantes. »
+  commentaires: |
+    De Yves Lamoureux. « Le pied jaune vif qui contraste avec le chapeau d'un beau rouge profond ne ment pas. Chez <i>B. subvelutipes</i>, il n'y a pas un tel contraste entre le pied et le chapeau. S'il a plu sur les basidiomes et qu'ils ne sont pas jeunes et frais, ou bien qu'ils ont roulé dans un panier, ont été tripotés, etc., les choses peuvent se compliquer ! Caractère distinctif ici, <i>B. subvelutipes</i> n'a jamais le pied jaune vif. Il sera jaune roussâtre, roux, voire presque entièrement rouge vineux dans la vétusté, mais jamais d'un beau jaune clair. Par ailleurs, les jeunes <i>B. subluridellus</i> ont le chapeau nettement plus velouté. Cela s'évalue bien quand on a les deux espèces en même temps, côte à côte. En général, quand <i>B. subluridellus</i> est sorti dans les chênaies, il y aura des <i>B. subvelutipes</i> dans les prucheraies avoisinantes. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -228,6 +228,7 @@ description:
   pileipellis: en trichoderme, constitué d’hyphes filamenteuses cylindriques, 2,6-5,2 µm de largeur, plus ou moins entrelacées à subparallèles et droites, avec des faisceaux en trichoderme, parfois en cutis dans les spécimens plus matures
   pileitrame: 
   pileocystides: 
+  pileus: 50-100 mm Ø, large, convexe à contour irrégulier, devenant globalement convexe, avec une bande stérile très étroite à la marge, surface sèche et résineux au toucher, velouté mat, pas vraiment visqueuse, également vermillon rouge à baie, ou à des moments orange, violet instantanément sombre au touché, la surface souvent grêlée
   plasmode: 
   pleurocystides: non observées
   poils: 
@@ -248,8 +249,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

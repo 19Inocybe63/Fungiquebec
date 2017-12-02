@@ -74,22 +74,22 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    cylindriques à étroitement subfusiformes en vue frontale, cylindriques à inéquilatérales vues de profil, lisses, à paroi légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, très faiblement cyanophiles
-    (11,7) 12,5 - 14,8 (15,1) × (4,3) 4,4 - 4,8 (5,1) µm
-    Q = (2,6) 2,8 - 3,2 (3,4) ; N = 30
-    Me = 13,7 × 4,6 µm ; Qe = 3
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
+    cylindriques à étroitement subfusiformes en vue frontale, cylindriques à inéquilatérales vues de profil, lisses, à paroi légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, faiblement cyanophiles
+    (11,7) 12,5-14,8 (15,1) × (4,3) 4,4-4,8 (5,1) µm
+    Q = (2,6) 2,8-3,2 (3,4); N = 30
+    Me = 13,7 × 4,6 µm; Qe = 3
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol mal drainé, sous Fagus et Quercus
+  biotopes: pousse sur sol mal drainé, sous <i>Fagus</i> et <i>Quercus</i>
   boucles: absentes
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: présentes sur toute la longueur du stipe
-  caulocystides: abondantes sur toute la longueur du stipe, digitées à pluridigitées, rostrées, fusiformes à largement fusiformes, 40 - 90 × (5,2) 5,25 - 24,88 (24,9) µm
+  caulocystides: abondantes sur toute la longueur du stipe, digitées à pluridigitées, rostrées, fusiformes à largement fusiformes, 40-90 × 5,2-24,9 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -99,7 +99,6 @@ description:
   cellules-stromatiques: 
   chair: crème pâle, immuable, rougeâtre près de la cuticule
   chancre: 
-  chapeau: 60-180 mm Ø, convexe, convexe à étalé à maturité, cuticule un peu collante lorsque imbue, glabre avec l'âge rouge foncé mat virant au brun, ou bai-brun, avec une voile ochracé près de la marge
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -235,9 +234,10 @@ description:
   pied: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en épithélium formant une palissade de cellules terminales emmêlées fusiformes à ventrues, (17) 18,7 - 24 (28,8) × (6,7) 7,9 - 12,7 (17,7) µm en moyenne, d'où émerge de longues hyphes 43-47,7 × 4-4,7 µm en moyenne
+  pileipellis: en épithélium formant une palissade de cellules terminales emmêlées fusiformes à ventrues, (17) 18,7-24 (28,8) × (6,7) 7,9-12,7 (17,7) µm en moyenne, d'où émerge de longues hyphes 43-47,7 × 4-4,7 µm en moyenne
   pileitrame: 
   pileocystides: 
+  pileus: 60-180 mm Ø, convexe, convexe à étalé à maturité, cuticule un peu collante lorsque imbue, glabre avec l'âge rouge foncé mat virant au brun, ou bai-brun, avec une voile ochracé près de la marge
   plasmode: 
   pleurocystides: 
   poils: 
@@ -258,8 +258,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

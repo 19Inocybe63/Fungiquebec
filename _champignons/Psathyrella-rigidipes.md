@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre au début
   chancre: 
-  chapeau: 19-50 mm Ø, campanulé conique à hémisphérique lorsque jeune, convexe à largement convexe à maturité, sec, fibrilleux squamuleux, marron foncé, souvent rougeâtre au centre
   cheilochrysocystides:
   cheilocystides: claviformes filamenteuses à cylindriques, subcapitées, dont parfois l’apex rappelle vaguement la tête d’un serpent, hyalines, à parois minces; (42) 60,8-69,1 (6,4) 6,8-10 (13,6) µm en moyenne
   cheilomacrocystides: 
@@ -226,6 +225,7 @@ description:
   pileipellis: formé de plusieurs couches celluleuses à vésiculeuses, à paroi mince, jaunâtre en KOH 5%; les hyphes filamenteuses et émergentes forment des fibrilles bouclées et serrées à la surface du pileipellis, dont les parois sont lisses à finement rugueuses, hyalines à ochracées dans le KOH 5%
   pileitrame: 
   pileocystides: 
+  pileus: 19-50 mm Ø, campanulé conique à hémisphérique lorsque jeune, convexe à largement convexe à maturité, sec, fibrilleux squamuleux, marron foncé, souvent rougeâtre au centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: rares à occasionnelles, polymorphes, cylindriques à cylindriques utriformes, subfusiformes, dont l’apex varie entre obtus fusiformes à légèrement mucronées ou en ogives, rarement lagéniformes, hyalines, à paroi mince, 33,1-61,3 × 11,1-15,7 µm en moyenne

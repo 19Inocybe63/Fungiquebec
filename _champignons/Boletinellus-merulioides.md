@@ -62,13 +62,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes, claviformes à largement claviformes, tétrasporiques, bouclées à la base, hyalines dans le NaCl iso 0,9%, à contenu vacuolaire, (30,6) 30,7 - 36,7 (37,6) × (8,3) 9 - 12,8 (13,5) µm
+  basides: piriformes, claviformes à largement claviformes, tétrasporiques, bouclées à la base, hyalines dans le NaCl iso 0,9%, à contenu vacuolaire, (30,6) 30,7-36,7 (37,6) × (8,3) 9-12,8 (13,5) µm
   basidiospores: |
     elliptiques en vue frontale, largement elliptiques à elliptiques vues de profil, lisses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec petit appendice hilaire, pore germinatif légèrement excentré à excentré et bien visible dans le melzer 1,7-2 µm, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
-    (7,5) 7,9 - 8,6 (9,5) × (5,4) 5,6 - 6,2 (6,9) µm
-    Q = (1,3) 1,32 - 1,4 (1,5) ; N = 30
-    Me = 8,2 × 6 µm ; Qe = 1,4
-    (Piximètre, formule classique ; mesures issues d'une sporée, dans le NaCl iso 0,9%)
+    (7,5) 7,9-8,6 (9,5) × (5,4) 5,6-6,2 (6,9) µm
+    Q = (1,3) 1,3-1,4 (1,5); N = 30
+    Me = 8,2 × 6 µm; Qe = 1,4
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -89,7 +89,6 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à jaunâtre, immuable ou devenant lentement bleu-vert à la coupe, surtout au-dessus de la couche de tubes
   chancre: 
-  chapeau: 50-200 mm Ø, convexe au début, puis étalé à concave à maturité, sec à viscidule, glabre ou presque, brun rougeâtre, brun jaunâtre ou brun olivâtre, à marge incurvée puis souvent ondulée ou gondolée, avec bande étroite de tissu stérile
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -227,6 +226,7 @@ description:
   pileipellis: en cutis avec des hyphes pigmentées, emmêlées et émergentes 3-10 µm de largeur
   pileitrame: 
   pileocystides: 
+  pileus: 50-200 mm Ø, convexe au début, puis étalé à concave à maturité, sec à viscidule, glabre ou presque, brun rougeâtre, brun jaunâtre ou brun olivâtre, à marge incurvée puis souvent ondulée ou gondolée, avec bande étroite de tissu stérile
   plasmode: 
   pleurocystides: rare et non émergentes, cylindriques
   poils: 
@@ -247,8 +247,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; and Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; and Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
@@ -259,7 +259,7 @@ description:
     Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient noirâtre puis rouge terne à orangé
     Potasse (KOH 10%) = le chapeau devient noirâtre puis rouge terne à orangé
   receptacle: 
-  remarques: Cueilli sous les frênes ; probablement en symbiose avec le puceron (ou aphide) <i>Melia Rhizophagus fraxinifolia</i>.
+  remarques: Cueilli sous les frênes; probablement en symbiose avec le puceron (ou aphide) <i>Melia Rhizophagus fraxinifolia</i>.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

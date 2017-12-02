@@ -56,6 +56,7 @@ description:
     3,3 [3,7; 3,8] 4,1 x 2 [2,5; 2,7] 3,1 µm
     Q = 1,2 [1,4; 1,5] 1,7; N = 30; C = 95%
     Me = 3,7 x 2,6 µm; Qe = 1,5
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NH<SUB>4</SUB>OH 2%)
   basidioles: 
   basidiome: 
   biotopes: pousse sur cônes tombés de conifères
@@ -75,7 +76,6 @@ description:
   cellules-stromatiques: 
   chair: très mince, blanchâtre
   chancre: 
-  chapeau: 5-20 (30) mm Ø, convexe puis étalé-mamelonné, sec à légèrement humide, glabre à très légèrement soyeux, lisse, hygrophane, brun ou beige, un peu plus foncé au centre, pâlissant remarquablement à chamois depuis le pourtour, à marge unie à très légèrement sillonnée à maturité
   cheilocystides: polymorphes, abondantes, cylindriques, lagéniformes, fusiformes à largement fusiformes, parfois piriformes, 19-30 x 5-9 µm
   cheilomacrocystides: 
   chlamydospores: 
@@ -212,6 +212,7 @@ description:
   pileipellis: en cutis mince, formé d'éléments cylindriques bouclés, 4-14 µm Ø, et d'un subpellis subcellulaire
   pileitrame: 
   pileocystides: 
+  pileus: 5-20 (30) mm Ø, convexe puis étalé-mamelonné, sec à légèrement humide, glabre à très légèrement soyeux, lisse, hygrophane, brun ou beige, un peu plus foncé au centre, pâlissant remarquablement à chamois depuis le pourtour, à marge unie à très légèrement sillonnée à maturité
   plasmode: 
   pleurocystides: absentes
   poils: 

@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable à la coupe
   chancre: 
-  chapeau: 60-150 (180) mm Ø, convexe à largement convexe, large, devenant subétalé, marge unie; surface lisse, sèche, légèrement visqueuse quand elle est mouillée, jaune citron pâle de façon irrégulière à brique au rouge, rouille clair, enfin rouge brique
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -200,7 +199,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance:  solitaire, dispersé en petit nombre
+  mode-de-croissance: solitaire, dispersé en petit nombre
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -223,6 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 60-150 (180) mm Ø, convexe à largement convexe, large, devenant subétalé, marge unie; surface lisse, sèche, légèrement visqueuse quand elle est mouillée, jaune citron pâle de façon irrégulière à brique au rouge, rouille clair, enfin rouge brique
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -244,8 +244,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E. ; Bessette, Arleen R. ; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H. ; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |

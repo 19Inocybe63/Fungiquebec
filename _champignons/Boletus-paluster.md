@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: mince, molle, immuable à la coupe, blanche jaunâtre à jaune; rougeâtre sous la pileipellis
   chancre: 
-  chapeau: 20 à 70 mm de Ø, convexe à largement convexe à légèrement déprimé, avec ou sans umbo; marge incurvée au début, souvent appendiculée sur des spécimens immatures; sec, finement tomenteux à fibrilleux-écailleux, violet, rosâtre pâle à violet rougeâtre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -86,7 +85,7 @@ description:
   columelle: 
   comestibilite: Oui
   commentaires: |
-    De Claude Kaufholtz-Couture. « Magnifique découverte; carpophore attrayant par sa couleur vive. Nous avons dénombré plus de 300 spécimens à cet endroit. »
+    De Claude Kaufholtz-Couture. « Magnifique découverte; attrayant par sa couleur vive. Nous avons dénombré plus de 300 spécimens à cet endroit. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -223,6 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20 à 70 mm de Ø, convexe à largement convexe à légèrement déprimé, avec ou sans umbo; marge incurvée au début, souvent appendiculée sur des spécimens immatures; sec, finement tomenteux à fibrilleux-écailleux, violet, rosâtre pâle à violet rougeâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

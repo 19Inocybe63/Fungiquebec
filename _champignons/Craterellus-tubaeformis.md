@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: mince, brunâtre à jaunâtre
   chancre: 
-  chapeau: 20-70 mm Ø, ± convexe-ombiliqué puis infundibuliforme, vite perforé au centre, avec une marge ondulée et irrégulière à maturité, glabre, collant ou cireux à l'état frais, à face interne lisse à rugueuse, avec fines squamules fibreuses, brun jaunâtre à brun noirâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -218,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-70 mm Ø, ± convexe-ombiliqué puis infundibuliforme, vite perforé au centre, avec une marge ondulée et irrégulière à maturité, glabre, collant ou cireux à l'état frais, à face interne lisse à rugueuse, avec fines squamules fibreuses, brun jaunâtre à brun noirâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

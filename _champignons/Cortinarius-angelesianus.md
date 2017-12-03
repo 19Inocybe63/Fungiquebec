@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: crème à brun foncé
   chancre: 
-  chapeau: 20-50 mm Ø, conique-campanulé, puis étalé, mamelonné, hygrophane, méchuleux, brun foncé à l'humidité, brun orangé pâle ou jaune brunâtre terne au sec, orné de fines squamules plus pâles
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -84,7 +83,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Les bandelettes orangées sur le pied ne résultent pas du dépôt de basidiospores; c'est la couleur du voile général de cette espèce. »
+  commentaires: |
+    De Yves Lamoureux. « Les bandelettes orangées sur le pied ne résultent pas du dépôt de basidiospores; c'est la couleur du voile général de cette espèce. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -218,6 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-50 mm Ø, conique-campanulé, puis étalé, mamelonné, hygrophane, méchuleux, brun foncé à l'humidité, brun orangé pâle ou jaune brunâtre terne au sec, orné de fines squamules plus pâles
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, épaisse, blanche
   chancre: 
-  chapeau: 40-140 mm Ø, largement convexe devenant largement convexe à légèrement déprimé à maturité, sec, amati par de fines fibrilles, non hygrophane, jaune chamois à jaune d'œuf au frais, se tachant rapidement de brun ochracé au froissement, à marge incurvée à ondulée
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -220,6 +219,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 40-140 mm Ø, largement convexe devenant largement convexe à légèrement déprimé à maturité, sec, amati par de fines fibrilles, non hygrophane, jaune chamois à jaune d'œuf au frais, se tachant rapidement de brun ochracé au froissement, à marge incurvée à ondulée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

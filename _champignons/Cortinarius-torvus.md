@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanchâtre, ou avec des nuances de pourpre à gris dans le stipe
   chancre: 
-  chapeau: 30-90 mm Ø, convexe puis convexe-étalé, parfois bossu, subhygrophane, brun pourpré à brun grisâtre pâle, parfois avec des stries plus foncées, à marge souvent appendiculée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -218,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 30-90 mm Ø, convexe puis convexe-étalé, parfois bossu, subhygrophane, brun pourpré à brun grisâtre pâle, parfois avec des stries plus foncées, à marge souvent appendiculée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

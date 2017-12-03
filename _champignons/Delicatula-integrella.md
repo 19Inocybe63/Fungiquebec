@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: membraneuse, molle, blanche
   chancre: 
-  chapeau: 3-12 mm Ø, campanulé puis convexe-étalé et ombiliqué, lisse, blanc, à marge crénelée à sinueuse et légèrement récurvée avec l’âge, translucide-striée à l'humidité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -213,6 +212,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 3-12 mm Ø, campanulé puis convexe-étalé et ombiliqué, lisse, blanc, à marge crénelée à sinueuse et légèrement récurvée avec l’âge, translucide-striée à l'humidité
   plasmode: 
   pleurocystides: 
   poils: 

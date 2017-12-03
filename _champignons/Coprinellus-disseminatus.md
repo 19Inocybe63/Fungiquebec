@@ -7,7 +7,7 @@ album-flickr:
   - 72157674940658376
 
 details:
-  nom-francais: Coprin disséminé ou Coprin grégaire
+  nom-francais: Coprin disséminé / Coprin grégaire
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -57,6 +57,7 @@ description:
     7 [7,5; 7,7] 8,2 × 4,2 [4,6; 4,7] 5,1 µm
     Q = 1,5 [1,6; 1,7] 1,8; N = 30; C = 95
     Me = 7,6 × 4,6 µm; Qe = 1,6
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -77,7 +78,6 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, immuable, blanche grisâtre
   chancre: 
-  chapeau: jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après expansion, ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge, qui porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement blanc à crème
   cheilocystides: cylindriques à subcapitées 70 × 15 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -85,7 +85,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « L'ADN de cette collection fut étudié par R. A. Powers (<i>MyCoPortal</i>) et les résultats furent déposés sur le site http://mycoportal.org/portal/collections/individual/index.php?occid=2416327 »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « L'ADN de cette collection fut étudié par R. A. Powers (<i>MyCoPortal</i>) et les résultats furent déposés sur le site http://mycoportal.org/portal/collections/individual/index.php?occid=2416327 »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -215,6 +216,7 @@ description:
   pileipellis: en épithélium
   pileitrame: 
   pileocystides: lagéniformes, 180-200 × 10-13 µm
+  pileus: jusqu'à 8 mm de hauteur x 7 mm Ø, lorsque fermé, 5-15 (20) mm Ø, après expansion, ovoïde puis convexe à campanulé, sillonné-plissé, non visqueux, souvent brun pâle, jaune-brun ou ocre au centre, plus pâle à grisâtre vers la marge, qui porte un petit voile floconneux-granuleux blanchâtre à brun, parfois presque entièrement blanc à crème
   plasmode: 
   pleurocystides: absentes
   poils: 

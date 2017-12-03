@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du chapeau, circulaire à convexe, plat ou en entonnoir dont la bordure est mince et aiguë, droite ou légèrement onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou fibreux-écailleux à maturité, surtout vers le centre, généralement non zoné, légèrement zoné dans de rares cas, cannelle à brun rouille foncé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -89,7 +88,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: indistinctement duplexe, 1) partie inférieure nettement plus dense; 2) partie supérieure molle à subéreuse, concolore à la face poroïde jusqu'à 20 mm d'épaisseur au centre
+  contexte: indistinctement duplexe; 1) partie inférieure nettement plus dense; 2) partie supérieure molle à subéreuse, concolore à la face poroïde jusqu'à 20 mm d'épaisseur au centre
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -214,6 +213,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du chapeau, circulaire à convexe, plat ou en entonnoir dont la bordure est mince et aiguë, droite ou légèrement onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou fibreux-écailleux à maturité, surtout vers le centre, généralement non zoné, légèrement zoné dans de rares cas, cannelle à brun rouille foncé
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

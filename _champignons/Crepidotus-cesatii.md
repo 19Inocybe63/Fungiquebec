@@ -56,7 +56,7 @@ description:
   basidiospores: |
     subglobuleuses à largement ellipsoïdes, ponctuées, échinulées, à paroi légèrement épaissie, avec apicule excentré, à contenu uniguttulé, brun jaunâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, partiellement cyanophiles
     7,3 x 5,6 µm en moyenne; Q moyen = 1,3
-    (Piximètre, échantillonnage, 30 basidiospores)
+    (Piximètre, échantillonnage de 30 basidiospores)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -77,7 +77,6 @@ description:
   cellules-stromatiques: 
   chair: plus épaisse au centre, amincie vers la marge, sans couche gélatinisée, blanche
   chancre: 
-  chapeau: 18 mm Ø, campanulé-convexe puis conchoïde, réniforme à étalé, velouté-feutré depuis une zone médiane au point d'attache, blanc, à marge longtemps enroulée, lobée
   cheilocystides: subcylindriques, fourchues, contournées, en bois de cerf
   cheilomacrocystides: 
   chlamydospores: 
@@ -85,7 +84,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Sous-genre Dochmiopus. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -215,6 +215,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 18 mm Ø, campanulé-convexe puis conchoïde, réniforme à étalé, velouté-feutré depuis une zone médiane au point d'attache, blanc, à marge longtemps enroulée, lobée
   plasmode: 
   pleurocystides: absentes
   poils: 
@@ -245,7 +246,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Sous-genre Dochmiopus
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

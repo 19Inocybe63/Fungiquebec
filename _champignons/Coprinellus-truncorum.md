@@ -68,6 +68,7 @@ description:
     7,1 [7,9; 8,3] 9,1 x 4,8 [5,1; 5,3] 5,6 µm
     Q = 1,4 [1,5; 1,6] 1,7; N = 30; C = 95%
     Me = 8,1 x 5,2 µm; Qe = 1,6
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -88,8 +89,6 @@ description:
   cellules-stromatiques: 
   chair: mince
   chancre: 
-  chapeau: jusqu'à 35 mm de hauteur x 3 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique à convexe, ocre au début, vite ocre pâle vers la marge et ocre au centre, couvert de fins flocons granuleux vélaires blanchâtres mais légèrement concolores au fond au centre, vite fugaces, à marge incurvée au début, puis droite, striée
-  cheilocystides: abondantes, cylindriques à largement cylindriques, 77-120 x 43-53 μm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -227,6 +226,8 @@ description:
   pileipellis: en hyménoderme épithéloïde
   pileitrame: 
   pileocystides: 
+  pileus: jusqu'à 35 mm de hauteur x 3 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique à convexe, ocre au début, vite ocre pâle vers la marge et ocre au centre, couvert de fins flocons granuleux vélaires blanchâtres mais légèrement concolores au fond au centre, vite fugaces, à marge incurvée au début, puis droite, striée
+  cheilocystides: abondantes, cylindriques à largement cylindriques, 77-120 x 43-53 μm en moyenne
   plasmode: 
   pleurocystides: occasionnelles, elliptiques larges à elliptiques allongées 74-125 x 45-62 μm en moyenne
   poils: 

@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 200 mm de longueur, 100 mm de largeur, 20-50 mm d'épaisseur, globalement convexe à plus ou moins plat, en forme d'éventail à presque ronde, sec, lisse ou finement hirsute, pâle à brun grisâtre ou brun rougeâtre, généralement avec des zones de couleur
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -214,6 +213,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: jusqu'à 200 mm de longueur, 100 mm de largeur, 20-50 mm d'épaisseur, globalement convexe à plus ou moins plat, en forme d'éventail à presque ronde, sec, lisse ou finement hirsute, pâle à brun grisâtre ou brun rougeâtre, généralement avec des zones de couleur
   plasmode: 
   pleurocystides: 
   poils: 

@@ -7,7 +7,7 @@ album-flickr:
   - 72157682329515582
 
 details:
-  nom-francais: Cyathe strié ; Nid d'oiseau
+  nom-francais: Cyathe strié / Nid d'oiseau
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: mince, fibreuse, fragile, légèrement cassante, blanche au début, puis noire par déliquescence avec l'âge
   chancre: 
-  chapeau: 40-200 x 25-70 mm Ø, lorsque fermé, 50-80 (100) mm Ø, après expansion, ellipsoïde, oblong à subcylindrique au début, puis largement conique à étalé, fragile, avec écailles vélaires apprimées persistantes, se brisant en écailles récurvées ou méchules à bouts brun foncé avec l'âge, sauf au centre qui demeure lisse, blanc au début, brunâtre, gris pâle à modéré ou brun ocre au centre, déliquescent
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -218,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 40-200 x 25-70 mm Ø, lorsque fermé, 50-80 (100) mm Ø, après expansion, ellipsoïde, oblong à subcylindrique au début, puis largement conique à étalé, fragile, avec écailles vélaires apprimées persistantes, se brisant en écailles récurvées ou méchules à bouts brun foncé avec l'âge, sauf au centre qui demeure lisse, blanc au début, brunâtre, gris pâle à modéré ou brun ocre au centre, déliquescent
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

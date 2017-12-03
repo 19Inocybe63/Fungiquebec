@@ -65,9 +65,9 @@ description:
   basides: claviformes à claviformes élancées, bisporiques à tétrasporiques, bouclées à la base, (11,9) 15-27,3 (27,9) × (4,5) 5,1-8 µm en moyenne
   basidiospores: |
     globuleuses, finement verruqueuses, à paroi mince, petit appendice hilaire, petit pore germinatif centré parfois bien visible dans le Bleu crésyl 0,4-0,8 µm Ø, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (5,4) 5,7 - 6,2 (6,5) × (5,4) 5,5 - 6 (6,4) µm
-    Q = 1 ; N = 30
-    Me = 5,9 × 5,8 µm ; Qe = 1
+    (5,4) 5,7-6,2 (6,5) × (5,4) 5,5-6 (6,4) µm
+    Q = 1; N = 30
+    Me = 5,9 × 5,8 µm; Qe = 1
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -89,7 +89,6 @@ description:
   cellules-stromatiques: 
   chair: molle, flexible, blanche
   chancre: 
-  chapeau: 10-65 mm Ø, convexe puis subétalé, plutôt réniforme, semiorbiculaire, flabelliforme, légèrement déprimé à la base, glabre, souvent légèrement villeux ou tomenteux à la base, hygrophane, blanc aqueux, blanc à blanc grisâtre à l'humidité, chamois pâle au sec, à marge striatulée à l'humidité
   cheilochrysocystides:
   cheilocystides: abondantes, polymorphes, peu émergentes, claviformes à cylindriques, piriformes, utriformes, epistylia pedes (19,7) 20,1-30,9 (31,7) × (5,9) 6,5-8,7 (10,3) µm en moyenne
   cheiloleptocystides: 
@@ -99,7 +98,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Maria Teresa Basso. « Les pleurocystides sont absentes, cependant chez certaines espèces, il est possible de trouver des éléments définis comme pleurocistidioïdes, de forme similaire aux basides avec une longue annexe. »
+  commentaires: |
+    De Maria Teresa Basso. « Les pleurocystides sont absentes, cependant chez certaines espèces, il est possible de trouver des éléments définis comme pleurocistidioïdes, de forme similaire aux basides avec une longue annexe. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -232,6 +232,7 @@ description:
   pileipellis: en cutis, avec hyphes émergentes lisses à ± incrustées, dont le subpellis est non différencié, composé d'hyphes cylindriques, entrelacée, parfois ± immergées dans une couche gélifiée
   pileitrame: 
   pileocystides: absentes
+  pileus: 10-65 mm Ø, convexe puis subétalé, plutôt réniforme, semiorbiculaire, flabelliforme, légèrement déprimé à la base, glabre, souvent légèrement villeux ou tomenteux à la base, hygrophane, blanc aqueux, blanc à blanc grisâtre à l'humidité, chamois pâle au sec, à marge striatulée à l'humidité
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes, polymorphes, largement fusiformes, cylindriques-mucronées, subrostrées, piriformes, bidigitées, apex rarement moniliformes (18,7) 20,3-33,5 (49) × (3,2) 7-10,1 µm en moyenne

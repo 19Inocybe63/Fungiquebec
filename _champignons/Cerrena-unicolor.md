@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 100 mm de longueur, 20-50 mm de largeur, 5-10 mm d'épaisseur, dimidié, conchoïde à flabelliforme, hirsute à subglabre, zoné et sillonné concentriquement, blanchâtre, gris à brunâtre pâle, souvent coloré de verdâtre à brun verdâtre par les algues, à marge aiguë à obtuse, parfois ondulée à brisée, souvent pâle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -226,6 +225,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: jusqu'à 100 mm de longueur, 20-50 mm de largeur, 5-10 mm d'épaisseur, dimidié, conchoïde à flabelliforme, hirsute à subglabre, zoné et sillonné concentriquement, blanchâtre, gris à brunâtre pâle, souvent coloré de verdâtre à brun verdâtre par les algues, à marge aiguë à obtuse, parfois ondulée à brisée, souvent pâle
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

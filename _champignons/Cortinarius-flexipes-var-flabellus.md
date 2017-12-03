@@ -68,10 +68,10 @@ description:
   basides: 
   basidiospores: |
     elliptiques à légèrement subovoïdales en vue frontale, elliptiques à largement elliptiques vues de profil, verruqueuses, à paroi mince, avec appendice hilaire visible, pore germinatif non observé, à contenu uniguttulé à variable, brun pâle dans E.G. 20%, dextrinoïdes, non cyanophiles
-    (7,5) 8,3 - 9,3 (9,5) × (4,9) 5,1 - 5,6 (5,8) µm
-    Q = (1,5) 1,6 - 1,7 (1,8) ; N = 30
-    Me = 8,7 × 5,4 µm ; Qe = 1,6
-    (Piximètre, formule classique, mesures issues d'une sporée, dans E.G. 20%)
+    (7,5) 8,3-9,3 (9,5) × (4,9) 5,1-5,6 (5,8) µm
+    Q = (1,5) 1,6-1,7 (1,8); N = 30
+    Me = 8,7 × 5,4 µm; Qe = 1,6
+    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -92,7 +92,6 @@ description:
   cellules-stromatiques: 
   chair: subconcolore aux surfaces
   chancre: 
-  chapeau: 21-34 mm Ø, convexe, étalé, mamelonné, fibrilleux, hygrophane, brun à brun-jaune teinté d'olivâtre, plus foncé et brun-jaune olivacé au sec
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -232,9 +231,10 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en deux couches distinctes; 1) un suprapellis en cutis formé d’hyphes avec pigmentation brun pâle à brune, à paroi mince, avec inclusion brun rouille, 3,2- 9,5 µm de largeur en moyenne; 2) un subpellis formé d’hyphes en chaînes, à paroi mince, hyalines, 31,7 - 52,4 × (10,7) 15,2 - 21,6 (27,4) µm en moyenne
+  pileipellis: en deux couches distinctes; 1) un suprapellis en cutis formé d’hyphes avec pigmentation brun pâle à brune, à paroi mince, avec inclusion brun rouille, 3,2- 9,5 µm de largeur en moyenne; 2) un subpellis formé d’hyphes en chaînes, à paroi mince, hyalines, 31,7-52,4 × (10,7) 15,2-21,6 (27,4) µm en moyenne
   pileitrame: 
   pileocystides: 
+  pileus: 21-34 mm Ø, convexe, étalé, mamelonné, fibrilleux, hygrophane, brun à brun-jaune teinté d'olivâtre, plus foncé et brun-jaune olivacé au sec
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

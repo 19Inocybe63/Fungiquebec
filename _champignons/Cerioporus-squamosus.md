@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, immuable, blanchâtre, douce lorsque jeune, mais coriace lorsque mature
   chancre: 
-  chapeau: 50-300 mm Ø, 10-40 mm d'épaisseur, assez variable dans ses formes, mais généralement semi-circulaire, en forme de rein, ou en éventail, convexe, devenant plat, faiblement ou profondément déprimé, sec, pâle tan à jaunâtre crème, avec écailles noirâtres qui sont vaguement disposées radialement, avec développement d'une zone noire au centre, dont la marge mince initialement incurvée, même lorsque mature
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -223,6 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 50-300 mm Ø, 10-40 mm d'épaisseur, assez variable dans ses formes, mais généralement semi-circulaire, en forme de rein, ou en éventail, convexe, devenant plat, faiblement ou profondément déprimé, sec, pâle tan à jaunâtre crème, avec écailles noirâtres qui sont vaguement disposées radialement, avec développement d'une zone noire au centre, dont la marge mince initialement incurvée, même lorsque mature
   plasmode: 
   pleurocystides: 
   poils: 

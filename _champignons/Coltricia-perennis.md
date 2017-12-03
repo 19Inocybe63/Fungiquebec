@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 15-30 (50) mm Ø, arrondi, plat à infundibuliforme ou ombiliqué, un peu ondulé, tissu épais de 0,5-2 mm, surface piléique étroitement zonée concentriquement, veloutée, jaune-brun, rouille ou gris-brun, à marge ondulée-sinueuse, parfois incisée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -227,6 +226,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 15-30 (50) mm Ø, arrondi, plat à infundibuliforme ou ombiliqué, un peu ondulé, tissu épais de 0,5-2 mm, surface piléique étroitement zonée concentriquement, veloutée, jaune-brun, rouille ou gris-brun, à marge ondulée-sinueuse, parfois incisée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

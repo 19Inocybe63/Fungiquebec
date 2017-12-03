@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, fibreuse, coriace, immuable à la coupe
   chancre: 
-  chapeau: 100-150 (300) mm de largeur, 20-50 mm d'épaisseur à la base, en console, convexe, étalé à légèrement déprimé, atténué vers la marge, à contour semi-circulaire, collant à sec, tomenteux-rugueux, blanchâtre, puis crème jaunâtre, en amas imbriqués jusqu'à 100-400 mm de hauteur au total
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -84,7 +83,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « L'arbre portait trois spécimens situés sur de longues fissures; deux étaient à un mètre et demi du sol, un troisième spécimen à près de trois mètres du sol. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 100-150 (300) mm de largeur, 20-50 mm d'épaisseur à la base, en console, convexe, étalé à légèrement déprimé, atténué vers la marge, à contour semi-circulaire, collant à sec, tomenteux-rugueux, blanchâtre, puis crème jaunâtre, en amas imbriqués jusqu'à 100-400 mm de hauteur au total
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -243,8 +244,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    L'arbre portait trois spécimens situés sur de longues fissures; deux étaient à un mètre et demi du sol, un troisième spécimen à près de trois mètres du sol.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

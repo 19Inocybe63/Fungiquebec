@@ -90,7 +90,6 @@ description:
   cellules-stromatiques: 
   chair: mince, assez fragile
   chancre: 
-  chapeau: 4-12 mm Ø, hémisphérique, convexe à subcampanulé, parfois légèrement umboné, glabre, parfois fibrilleux vers la marge, lisse, hygrophane, luisant, brun rougeâtre à marron à l'humidité et ochracé terne à chamois au sec ou couleur isabelle au centre et couleur isabelle ombré vers le pourtour, à marge enroulée au début, puis droite, striée-sillonnée à l'humidité
   cheilocystides: abondantes, lagéniformes à claviformes
   cheilomacrocystides: 
   chlamydospores: 
@@ -98,7 +97,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Au printemps, il n'est pas rare de voir <i>D. montana</i> pousser au travers les bryophytes et les mousses. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Au printemps, il n'est pas rare de voir <i>D. montana</i> pousser au travers les bryophytes et les mousses. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -229,6 +229,7 @@ description:
   pileipellis: en cutis
   pileitrame: 
   pileocystides: 
+  pileus: 4-12 mm Ø, hémisphérique, convexe à subcampanulé, parfois légèrement umboné, glabre, parfois fibrilleux vers la marge, lisse, hygrophane, luisant, brun rougeâtre à marron à l'humidité et ochracé terne à chamois au sec ou couleur isabelle au centre et couleur isabelle ombré vers le pourtour, à marge enroulée au début, puis droite, striée-sillonnée à l'humidité
   plasmode: 
   pleurocystides: absentes
   poils: 

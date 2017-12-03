@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: Coprin laineux des charbonnières ou Coprin sosie du pied de lièvre
+  nom-francais: Coprin laineux des charbonnières / Coprin sosie du pied de lièvre
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

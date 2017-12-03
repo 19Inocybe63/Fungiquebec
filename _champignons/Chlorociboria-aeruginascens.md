@@ -47,11 +47,11 @@ description:
   ascome: 
   ascospores: |
     cylindriques à irrégulièrement fusiformes, parfois légèrement arquées, lisses, à paroi mince, non septées, à contenu biguttulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, partiellement cyanophiles à cyanophiles
-    (9,5) 10,3 - 13,4 (15) × (2,1) 2,3 - 3,2 (3,3) µm
-    Q = (3,5) 3,6 - 4,7 (4,9) ; N = 30
-    Me = 11,7 × 2,8 µm ; Qe = 4,2
+    (9,5) 10,3-13,4 (15) × (2,1) 2,3-3,2 (3,3) µm
+    Q = (3,5) 3,6-4,7 (4,9); N = 30
+    Me = 11,7 × 2,8 µm; Qe = 4,2
     (Piximètre formule classique; mesures issues d'une sporée, dans E.G. 20%)
-  asques: cylindriques fusiformes, octosporés et ± bisériés, apex IKI +b, (63,7) 64,5 - 66,4 (84,5) × (5,8) 5,9 - 6,4 (6,5) µm
+  asques: cylindriques fusiformes, octosporés et ± bisériés, apex IKI +b, (63,7) 64,5-66,4 (84,5) × (5,8) 5,9-6,4 (6,5) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -205,7 +205,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques à claviformes, à contenu granuleux, hyalines dans E.G. 10%, 55 - 78,6 × 1,4 - 2 µm en moyenne
+  paraphyses: cylindriques à claviformes, à contenu granuleux, hyalines dans E.G. 10%, 55-78,6 × 1,4-2 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 

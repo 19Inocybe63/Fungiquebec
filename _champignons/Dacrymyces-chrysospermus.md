@@ -57,6 +57,7 @@ description:
     18,1 [19,6; 20,2] 21,6 x 6 [7,1; 7,5] 8,5 µm
     Q = 2,3 [2,7; 2,8] 3,2; N = 33; C = 95%
     Me = 19,9 x 7,3 µm; Q moyen = 2,7
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NH<SUB>4</SUB>OH 2%)
   basidioles: 
   basidiome: 10-25 mm de hauteur, 10-60 mm Ø, de forme très variable, pulviné, en masse ± cérébriforme, multilobé, obconique, discoïde à étalé sur le substrat, lisse mais couvert de poils blanchâtres lâchement disposés au-dessus, jaune brillant à orangé au frais, rouge orangé à rougeâtre au sec, avec base réduite ± distincte ou radicante près du point d'attache, blanchâtre, à marge enroulée
   biotopes: pousse sur bois pourri de conifères
@@ -84,7 +85,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Le Rouge Congo SDS a été utilisé dans l'étude des basidiospores afin d’obtenir une meilleure observation des parois et des septa. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Le Rouge Congo SDS a été utilisé dans l'étude des basidiospores uniquement afin d’obtenir une meilleure observation des parois et des septa. »
   conidies: 
   conidiome: 
   conidiophores: 

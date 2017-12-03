@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: mince, immuable, coriace, blanchâtre à jaunâtre
   chancre: 
-  chapeau: 20-80 mm Ø, 3-10 mm d’épaisseur, largement convexe à plat, développant une dépression centrale, généralement rond en contour, mais parfois fendu ou quelque peu en forme de rein, sec, glabre, parfois légèrement rayé, surtout vers la marge, jaunâtre, cannelle, ou plus pâle, parfois avec de vagues zones concentriques de couleur
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -218,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-80 mm Ø, 3-10 mm d’épaisseur, largement convexe à plat, développant une dépression centrale, généralement rond en contour, mais parfois fendu ou quelque peu en forme de rein, sec, glabre, parfois légèrement rayé, surtout vers la marge, jaunâtre, cannelle, ou plus pâle, parfois avec de vagues zones concentriques de couleur
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

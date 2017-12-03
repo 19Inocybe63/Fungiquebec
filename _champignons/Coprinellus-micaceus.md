@@ -58,6 +58,7 @@ description:
     6,4 [7,4; 8] 9 x 4,3 [4,9; 5,2] 5,8 µm
     Q = 1,3 [1,5; 1,6] 1,8; N = 17; C = 95%
     Me = 7,7 x 5,1 µm; Qe = 1,5
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: très mince, molle, blanchâtre
   chancre: 
-  chapeau: jusqu'à 40 mm de hauteur x 30 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique, campanulé à convexe, beige à brun miel ou ocre foncé à rouille au centre et plus pâle vers la marge, couvert de fins flocons vélaires granuleux blanchâtres, vite fugaces, lisse avec l'âge, à marge longuement sillonnée
   cheilocystides: elliptiques à ovoïdes
   cheilomacrocystides: 
   chlamydospores: 
@@ -86,7 +86,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Dans la littérature, il est indiqué Basidia 4-spored; surrounded by 3-6 brachybasidia (Phylogeny and character evolution of the coprinoid mushroom genus Parasola as infered from LSU and ITS nrDNA Sequence data, by Nagy, Kocsubé, Papp, and Vágvölgyi; Persoonia Jun 2009; 22:28-37); mais il s'agit plutôt de brachycystidia. Voir l'article suivant, The mushroom family Psathyrellaceae, Evidence for large-scale polyphyly of the genus Psathyrella, by Padamsee, Matheny, Dentinger, and McLaughlin. Science Direct, Molecular Phylogenetics and Evolution, 46 (2008) 415-429. Remerciements à Pierre-Arthur Moreau. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Dans la littérature, il est indiqué Basidia 4-spored; surrounded by 3-6 brachybasidia (Phylogeny and character evolution of the coprinoid mushroom genus Parasola as infered from LSU and ITS nrDNA Sequence data, by Nagy, Kocsubé, Papp, and Vágvölgyi; Persoonia Jun 2009; 22:28-37); mais il s'agit plutôt de brachycystidia. Voir l'article suivant, The mushroom family Psathyrellaceae, Evidence for large-scale polyphyly of the genus Psathyrella, by Padamsee, Matheny, Dentinger, and McLaughlin. Science Direct, Molecular Phylogenetics and Evolution, 46 (2008) 415-429. Remerciements à Pierre-Arthur Moreau. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,6 +218,7 @@ description:
   pileipellis: en épithélium
   pileitrame: 
   pileocystides: 
+  pileus: jusqu'à 40 mm de hauteur x 30 mm Ø lorsque fermé, 50 mm Ø après expansion, subglobuleux, ovoïde à ellipsoïde puis conique, campanulé à convexe, beige à brun miel ou ocre foncé à rouille au centre et plus pâle vers la marge, couvert de fins flocons vélaires granuleux blanchâtres, vite fugaces, lisse avec l'âge, à marge longuement sillonnée
   plasmode: 
   pleurocystides: 
   poils: 

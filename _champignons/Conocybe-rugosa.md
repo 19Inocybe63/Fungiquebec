@@ -95,7 +95,6 @@ description:
   cellules-stromatiques: 
   chair: chamois à brunâtre, plus foncée vers la base du pied
   chancre: 
-  chapeau: 9-16 mm Ø, hémisphérique au début, puis conique, ombonné obtus à conique-campanulé puis convexe, légèrement à fortement ridé-veiné, hygrophane, brun-jaune à fauve rouille avec ou sans teinte de marron, beige, fauve à sienne au sec, à marge translucide-striée au frais
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -238,6 +237,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 9-16 mm Ø, hémisphérique au début, puis conique, ombonné obtus à conique-campanulé puis convexe, légèrement à fortement ridé-veiné, hygrophane, brun-jaune à fauve rouille avec ou sans teinte de marron, beige, fauve à sienne au sec, à marge translucide-striée au frais
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

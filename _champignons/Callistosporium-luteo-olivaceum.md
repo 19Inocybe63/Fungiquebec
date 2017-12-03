@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau ou plus pâle
   chancre: 
-  chapeau: 10-40 mm Ø, parfois plus grand, convexe puis étalé, parfois déprimé, légèrement humide au frais, finement poudreux au début, vite glabre, lisse ou presque, hygrophane, jaune olive à olive foncé, plus jaune avec l'âge, remarquablement jaunâtre, cannelle à brun rougeâtre au sec
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -82,7 +81,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Ce qu'il y a de particulièrement intéressant avec ce « PCJ » est qu'une goutte de KOH 10% le fait virer au rouge vif presque instantannément (sur le chapeau ou sur les lames). Pas besoin de colorant au microscope non plus; tout est rouge. Alors si on a de la potasse, c'est une espèce facile à identifier, même si elle est très peu commune ! »
+  commentaires: |
+    De Yves Lamoureux. « Ce qu'il y a de particulièrement intéressant avec ce « PCJ » est qu'une goutte de KOH 10% le fait virer au rouge vif presque instantannément (sur le chapeau ou sur les lames). Pas besoin de colorant au microscope non plus; tout est rouge. Alors si on a de la potasse, c'est une espèce facile à identifier, même si elle est très peu commune ! »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -214,6 +214,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 10-40 mm Ø, parfois plus grand, convexe puis étalé, parfois déprimé, légèrement humide au frais, finement poudreux au début, vite glabre, lisse ou presque, hygrophane, jaune olive à olive foncé, plus jaune avec l'âge, remarquablement jaunâtre, cannelle à brun rougeâtre au sec
   plasmode: 
   pleurocystides: 
   poils: 

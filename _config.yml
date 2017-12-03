@@ -108,11 +108,9 @@ members:
 champs-details:
   - name: domaine
     label: Domaine
-    search: facet
     format: italique
   - name: regne
     label: Règne
-    search: facet
     format: italique
   - name: phylum
     label: Phylum

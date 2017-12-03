@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à brunâtre dans le chapeau, violacée à l'apex du pied, brun-jaune à sa base
   chancre: 
-  chapeau: 20-80 mm Ø, convexe à campanulé, puis étalé, souvent avec petit mamelon conique à pointu, parfois entouré de dépressions circulaires concentriques, mat, non hygrophane, entièrement recouvert de squamules gris-brun foncé sur fond jaune-brun
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -94,7 +93,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Lui avait des lames violettes dans le jeune âge. »
+  commentaires: |
+    De Yves Lamoureux. « Ce champignon avait des lames violettes dans le jeune âge. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -228,6 +228,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-80 mm Ø, convexe à campanulé, puis étalé, souvent avec petit mamelon conique à pointu, parfois entouré de dépressions circulaires concentriques, mat, non hygrophane, entièrement recouvert de squamules gris-brun foncé sur fond jaune-brun
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

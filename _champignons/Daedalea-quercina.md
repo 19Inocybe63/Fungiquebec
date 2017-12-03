@@ -7,7 +7,7 @@ album-flickr:
   - 72157673932255201
 
 details:
-  nom-francais: Dédalée du chêne ; Lenzite du chêne
+  nom-francais: Dédalée du chêne / Lenzite du chêne
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -68,6 +68,7 @@ description:
     4,4 [5,2; 5,5] 6,4 x 2,4 [2,9; 3,2] 3,7 µm
     Q = 1,5 [1,7; 1,8] 2; N = 30; C = 95%
     Me = 5,4 x 3 µm; Qe = 1,8
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: pérenne, sessile, tenace, subéreux à ligneux-dur, fortement adné
   bibliographies: 
@@ -88,7 +89,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 200 mm de longueur, 150 mm de largeur, 80 mm d'épaisseur à la base, largement attaché à dimidié, semi-circulaire à ongulé, aplani à triquètre, légèrement convexe, souvent légèrement bombée vers la base, amincie vers la marge, finement velouté à glabre, parfois avec touffes d'hyphes dressées, nodules, verrues dispersées et excroissances aiguës nouvellement formées, zoné et sillonné concentriquement, chamois à brun pâle, brunâtre plus foncé à grisâtre vers la base avec l'âge, verdâtre chez les vieux spécimens, ochracé pâle, depuis la base, à marge épaisse, obtuse, souvent lisse, ochracée
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -229,6 +229,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: jusqu'à 200 mm de longueur, 150 mm de largeur, 80 mm d'épaisseur à la base, largement attaché à dimidié, semi-circulaire à ongulé, aplani à triquètre, légèrement convexe, souvent légèrement bombée vers la base, amincie vers la marge, finement velouté à glabre, parfois avec touffes d'hyphes dressées, nodules, verrues dispersées et excroissances aiguës nouvellement formées, zoné et sillonné concentriquement, chamois à brun pâle, brunâtre plus foncé à grisâtre vers la base avec l'âge, verdâtre chez les vieux spécimens, ochracé pâle, depuis la base, à marge épaisse, obtuse, souvent lisse, ochracée
   plasmode: 
   pleurocystides: 
   poils: 

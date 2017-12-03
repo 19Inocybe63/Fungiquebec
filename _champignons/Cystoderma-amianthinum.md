@@ -52,12 +52,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, bouclées à la base, (16,9) 19,6 - 21,1 (22,3) × (4,3) 4,9 - 5,8 µm en moyenne
+  basides: claviformes, tétrasporiques, bouclées à la base, (16,9) 19,6-21,1 (22,3) × (4,3) 4,9-5,8 µm en moyenne
   basidiospores: |
     elliptiques en vue frontale, ovoïdes à elliptiques vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans E.G. 20%, faiblement amyloïdes, cyanophiles
-    (4,4) 4,6 - 5,5 (5,7) × (2,6) 3 - 3,6 (3,8) µm
-    Q = 1,4 - 1,8 (1,9) ; N = 30
-    Me = 5 × 3,3 µm ; Qe = 1,5
+    (4,4) 4,6-5,5 (5,7) × (2,6) 3-3,6 (3,8) µm
+    Q = 1,4-1,8 (1,9); N = 30
+    Me = 5 × 3,3 µm; Qe = 1,5
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: mince, blanche
   chancre: 
-  chapeau: 7-19 mm Ø, conique à convexe campanulé, étalé-mamelonné, sec, couvert de granules farineux à poudreux issus du voile général, jaunâtre, beige, chamois ochracé, à marge souvent appendiculée de restes vélaires ± triangulaires
   cheilochrysocystides:
   cheilocystides: absentes
   cheilomacrocystides: 
@@ -223,9 +222,10 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en double couche; Suprapellis en conioderme formé de chaînes de sphérocytes sphériques, elliptiques à subcylindriques, se brisant facilement en éléments celluleux, lisses à très légèrement ruguleuses, à paroi brune, issus du voile général, (12) 15,7 - 34,9 (40) × (9,1) 10,8 - 17,8 (25) µm; et un subpellis formé d'hyphes filamenteuses, hyalines à légèrement pigmentées
+  pileipellis: en double couche; Suprapellis en conioderme formé de chaînes de sphérocytes sphériques, elliptiques à subcylindriques, se brisant facilement en éléments celluleux, lisses à très légèrement ruguleuses, à paroi brune, issus du voile général, (12) 15,7-34,9 (40) × (9,1) 10,8-17,8 (25) µm; et un subpellis formé d'hyphes filamenteuses, hyalines à légèrement pigmentées
   pileitrame: formée d'hyphes hyalines, lâchement emmêlées
   pileocystides: 
+  pileus: 7-19 mm Ø, conique à convexe campanulé, étalé-mamelonné, sec, couvert de granules farineux à poudreux issus du voile général, jaunâtre, beige, chamois ochracé, à marge souvent appendiculée de restes vélaires ± triangulaires
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

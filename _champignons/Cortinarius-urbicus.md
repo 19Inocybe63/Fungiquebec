@@ -55,9 +55,9 @@ description:
   basides: claviformes, tétrasporiques, bouclées à la base, 24,5-26,9 × 7,7-8,7 µm
   basidiospores: |
     largement elliptiques à elliptiques allongées en vue frontale, elliptiques à amygdaliformes vues de profil, parfois légèrement subtronquées, faiblement verruqueuses, à paroi mince à légèrement épaissie 0,2-0,3 µm, avec appendice hilaire bien développé, pore germinatif non visible, à contenu uniguttulé, hyalines dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
-    (6,1) 7,2 - 9,1 (10) × (4,7) 4,8 - 5,4 (5,7) µm
-    Q = (1,3) 1,4 - 1,7 (1,9) ; N = 30
-    Me = 8,1 × 5,1 µm ; Qe = 1,6
+    (6,1) 7,2-9,1 (10) × (4,7) 4,8-5,4 (5,7) µm
+    Q = (1,3) 1,4-1,7 (1,9); N = 30
+    Me = 8,1 × 5,1 µm; Qe = 1,6
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -74,12 +74,11 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, septées, piriformes à largement claviformes, hyalines, à paroi mince, (13,1) 13,7 - 17,1 (20,6) × (5,9) 7,1 - 8 (10,2) µm
+  cellules-marginales-paracystides: nombreuses, septées, piriformes à largement claviformes, hyalines, à paroi mince, (13,1) 13,7-17,1 (20,6) × (5,9) 7,1-8 (10,2) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: blanc crème à violet par endroits
   chancre: 
-  chapeau: 30-45 mm Ø, subcampanulé à campanulé, dont le centre une légèrement déprimé, glabre à ± méchuleux, marge blanchâtre et fibrilleuse (à cause des restes vélaires ?), brun à brun rougeâtre, beige grisâtre au sec
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -222,6 +221,7 @@ description:
   pileipellis: en deux couches distinctes; suprapellis en cutis et médiopellis constitué d'hyphes cylindriques entremêlées
   pileitrame: 
   pileocystides: 
+  pileus: 30-45 mm Ø, subcampanulé à campanulé, dont le centre une légèrement déprimé, glabre à ± méchuleux, marge blanchâtre et fibrilleuse (à cause des restes vélaires ?), brun à brun rougeâtre, beige grisâtre au sec
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, blanche
   chancre: 
-  chapeau: 35-185 mm Ø, convexe à convexe étalé, faiblement déprimé, sec, satiné, à marge ondulée à lobée, glabre, blanc, avec un centre ± brun orangé
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -180,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes,  très serrées, minces, blanches à chamois
+  lames: adnées à subdécurrentes, très serrées, minces, blanches à chamois
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -222,6 +221,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 35-185 mm Ø, convexe à convexe étalé, faiblement déprimé, sec, satiné, à marge ondulée à lobée, glabre, blanc, avec un centre ± brun orangé
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -52,12 +52,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à utriformes, tétrasporiques jusqu'à 4,5 µm de longueur, bouclées à la base, à contenu granuleux, (22,9) 25,8 - 30,7 (31,9) × (6,7) 7,2 - 8,4 (9,1) µm
+  basides: claviformes à utriformes, tétrasporiques jusqu'à 4,5 µm de longueur, bouclées à la base, à contenu granuleux, (22,9) 25,8-30,7 (31,9) × (6,7) 7,2-8,4 (9,1) µm
   basidiospores: |
     ovoïdes vue frontale, elliptiques à largement elliptiques vues de profil, finement à modérément verruqueuses avec proéminences jusqu’à 5 µm de hauteur, à paroi mince à légèrement épaissie 0,2-0,3 µm d’épaisseur, avec appendice hilaire, à contenu uniguttulé, brun rougeâtre pâle dans E.G. 20%, fortement dextrinoïdes, non cyanophiles
-    (6,1) 6,4 - 7,5 (8) × (4,6) 4,7 - 5,3 (5,5) µm
-    Q = (1,3) 1,32 - 1,5 (1,6) ; N = 30
-    Me = 7 × 5 µm ; Qe = 1,4
+    (6,1) 6,4-7,5 (8) × (4,6) 4,7-5,3 (5,5) µm
+    Q = (1,3) 1,3-1,5 (1,6); N = 30
+    Me = 7 × 5 µm; Qe = 1,4
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -79,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: grise à gris pâle, marbré de violet
   chancre: 
-  chapeau: 21-36 mm Ø, campanulé à campanulé-étalé, fibrilleux, ± hygrophane, beige à ocre pâle, brun terre de sienne avec centre brun foncé rougeâtre
   cheilochrysocystides:
   cheilocystides: non observées
   cheiloleptocystides: 
@@ -221,9 +220,10 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, formé d'hyphes cylindriques avec pigmentation brun pâle, 2,2 - 5,2 µm Ø en moyenne
+  pileipellis: en cutis, formé d'hyphes cylindriques avec pigmentation brun pâle, 2,2-5,2 µm Ø en moyenne
   pileitrame: 
   pileocystides: 
+  pileus: 21-36 mm Ø, campanulé à campanulé-étalé, fibrilleux, ± hygrophane, beige à ocre pâle, brun terre de sienne avec centre brun foncé rougeâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

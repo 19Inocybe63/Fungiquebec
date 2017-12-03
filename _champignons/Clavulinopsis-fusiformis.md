@@ -72,12 +72,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à claviformes élancées, rarement utriformes, sinueuses, dont le sommet est tronqué, longuement et étroitement pédicellées, tétrasporiques avec stérigmates jusqu'à 8 µm de longueur, bouclées à la base, avec contenu vacuolaire, (40,9) 48 - 60,6 (63,1) × (6,7) 7 - 8,9 (9,3) µm en moyenne
+  basides: cylindriques à claviformes élancées, rarement utriformes, sinueuses, dont le sommet est tronqué, longuement et étroitement pédicellées, tétrasporiques avec stérigmates jusqu'à 8 µm de longueur, bouclées à la base, avec contenu vacuolaire, (40,9) 48-60,6 (63,1) × (6,7) 7-8,9 (9,3) µm en moyenne
   basidiospores: |
     globuleuses à subglobuleuses en vue frontale à subglobuleuses à largement ovoïdes vues de profil, lisses, à paroi légèrement épaissie, avec appendice hilaire proéminent jusqu'à 1,0-1,5 µm de longueur, à contenu uniguttulé, hyalines dans E.G. 20%, pas de réaction dans le melzer, cyanophiles
-    (5,3) 5,34 - 6,6 (6,9) × (4,2) 5,1 - 6,1 (6,2) µm
-    Q = 1 - 1,2 (1,3) ; N = 25
-    Me = 6,1 × 5,6 µm ; Qe = 1,1
+    (5,3) 5,34-6,6 (6,9) × (4,2) 5,1-6,1 (6,2) µm
+    Q = 1-1,2 (1,3); N = 25
+    Me = 6,1 × 5,6 µm; Qe = 1,1
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 60-120 (150) mm de hauteur, 2-10 mm de largeur, clavulé, cylindrique, rarement ramifié une ou deux fois vers l'apex, souvent ± aplati, avec axe luné ou en croissant, plein puis creux, aigu à étroitement arrondi à l'apex, rarement trapu à tronqué, jaune brillant, jaune citron à orangé vif, souvent plus foncé vers l'apex, brunâtre à rougeâtre, surtout avec l'âge
@@ -107,7 +107,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Belle planche ! Mais les basidiomes sont trop jeunes pour une planche parfaite; cela prendrait une autre grappe à côté illustrant des basidiomes une fois rendus fusiformes, donc à maturité. À la limite, tu aurais pu cueillir juste une langue et laisser les autres pousser une semaine (ou rarement deux ?) de plus et revenir les photographier et les cueillir pour les joindre à ton premier champignon étudié (le seul que tu aurais cueilli. Et ne pas oublier que lorsque les pointes sont brunes, c'est parce qu'elles sont collapsées, généralement par le soleil et le vent. Cela donne parfois même une touche de beauté à l'espèce, mais il ne faut jamais étudier les cellules brunies pour quoi que ce soit. »
+  commentaires: |
+    De Yves Lamoureux. « Belle planche ! Mais les basidiomes sont trop jeunes pour une planche parfaite; cela prendrait une autre grappe à côté illustrant des basidiomes une fois rendus fusiformes, donc à maturité. À la limite, tu aurais pu cueillir juste une langue et laisser les autres pousser une semaine (ou rarement deux ?) de plus et revenir les photographier et les cueillir pour les joindre à ton premier champignon étudié (le seul que tu aurais cueilli. Et ne pas oublier que lorsque les pointes sont brunes, c'est parce qu'elles sont collapsées, généralement par le soleil et le vent. Cela donne parfois même une touche de beauté à l'espèce, mais il ne faut jamais étudier les cellules brunies pour quoi que ce soit. »
   conidies: 
   conidiome: 
   conidiophores: 

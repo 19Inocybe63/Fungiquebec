@@ -61,6 +61,7 @@ description:
     7,4 [8,3; 8,7] 9,5 x 5 [5,4; 5,6] 6,1 µm
     Q = 1,4 [1,5; 1,6] 1,7; N = 30; C = 95%
     Me = 8,5 x 5,5 µm; Qe = 1,5
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -81,7 +82,6 @@ description:
   cellules-stromatiques: 
   chair: brun violet foncé à jaune-brun, violet très foncé à l'apex du pied, même au sec
   chancre: 
-  chapeau: 10-40 mm Ø, conique, puis largement campanulé, à mamelon plus ou moins marqué, parfois pointu, entièrement couvert de squamules, mat, hygrophane, violet puis brun foncé à brun-violet (brun gris au sec)
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -222,6 +222,7 @@ description:
   pileipellis: en cutis
   pileitrame: 
   pileocystides: 
+  pileus: 10-40 mm Ø, conique, puis largement campanulé, à mamelon plus ou moins marqué, parfois pointu, entièrement couvert de squamules, mat, hygrophane, violet puis brun foncé à brun-violet; brun gris au sec
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

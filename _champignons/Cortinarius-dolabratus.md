@@ -52,12 +52,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: utriformes à claviformes, tétrasporiques, bouclées à la base, 3,0-4,8 µm de longueur en moyenne, à contenu granuleux, 26,1- 30,2 × 6,4-7 µm en moyenne
+  basides: utriformes à claviformes, tétrasporiques, bouclées à la base, 3,0-4,8 µm de longueur en moyenne, à contenu granuleux, 26,1-30,2 × 6,4-7 µm en moyenne
   basidiospores: |
     elliptiques en vue frontale, largement elliptiques, elliptiques à amygdaliformes vues de profil, faiblement à moyennement verruqueuses, à paroi mince entre 0,2-0,3 μm, appendice hilaire bien formé, à contenu uniguttulé, brun pâle dans E.G. 20%, faiblement dextrinoïdes, non cyanophiles
-    (6,7) 6,9 - 8,5 (9,4) × (4,1) 4,2 - 4,8 (5,2) µm
-    Q = (1,6) 1,64 - 1,8 (1,9) ; N = 30
-    Me = 7,6 × 4,5 µm ; Qe = 1,7
+    (6,7) 6,9-8,5 (9,4) × (4,1) 4,2-4,8 (5,2) µm
+    Q = (1,6) 1,6-1,8 (1,9); N = 30
+    Me = 7,6 × 4,5 µm; Qe = 1,7
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -79,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 30-60 mm Ø, convexe, à étalé, campanulé à étalé, hygrophane, glabre à finement fibrilleux, cortine blanche à la marge, brun rougeâtre à brun chocolat
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -89,7 +88,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Une fois déshydratée, cette collection sent légèrement le maïs. »
+    De Claude Kaufholtz-Couture. « Le nom français de ce champignon est une traduction libre de ma part. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -222,6 +223,7 @@ description:
   pileipellis: en cutis (ixocutis), formé d'hyphes cylindriques à fusiformes 3-11 µm de largeur en moyenne
   pileitrame: 
   pileocystides: 
+  pileus: 30-60 mm Ø, convexe, à étalé, campanulé à étalé, hygrophane, glabre à finement fibrilleux, cortine blanche à la marge, brun rougeâtre à brun chocolat
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes
@@ -258,9 +260,7 @@ description:
     Potasse (KOH 10%) = devient noir sur le chapeau
   receptacle: 
   remarques: |
-    Sous-genre Telamonia, section Duracini
-    Une fois déshydratée, la collection sent légèrement le maïs.
-    Le nom français de ce champignon est une traduction libre de ma part.
+    Sous-genre Telamonia, section Duracini.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

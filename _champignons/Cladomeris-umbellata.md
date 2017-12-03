@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 10-30 (40) mm Ø, jusqu'à 30 mm d'épaisseur au centre, aplani, concave au centre, suborbiculaire, ombiliqué à légèrement infundibuliforme, charnu au frais, dur et cassant au sec, sec, glabre ou avec très minuscules écailles apprimées donnant un aspect finement tacheté (loupe), lisse à fibreux au frais, plissé au sec, blanc, ocré, grisâtre pâle à brun pâle, à marge mince, ondulée, entière à légèrement lobée ou crénelée, incurvée au sec
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -217,6 +216,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 10-30 (40) mm Ø, jusqu'à 30 mm d'épaisseur au centre, aplani, concave au centre, suborbiculaire, ombiliqué à légèrement infundibuliforme, charnu au frais, dur et cassant au sec, sec, glabre ou avec très minuscules écailles apprimées donnant un aspect finement tacheté (loupe), lisse à fibreux au frais, plissé au sec, blanc, ocré, grisâtre pâle à brun pâle, à marge mince, ondulée, entière à légèrement lobée ou crénelée, incurvée au sec
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

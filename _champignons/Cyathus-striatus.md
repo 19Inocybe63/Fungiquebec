@@ -65,10 +65,10 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    oblongues à ellipsoïdes, rarement réniformes ou en haricot, lisses, à paroi épaissie entre 1,6 - 2,3 µm, sans appendice hilaire apparant, mais laissant une légère démarcation à sa base, à contenu granulaire à homogène, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (14,4) 14,6 - 17,5 (18) × (6,3) 6,8 - 8,3 (8,5) µm
-    Q = (1,7) 1,9 - 2,4 (2,6) ; N = 30
-    Me = 16,1 × 7,5 µm ; Qe = 2,2
+    oblongues à ellipsoïdes, rarement réniformes ou en haricot, lisses, à paroi épaissie entre 1,6-2,3 µm, sans appendice hilaire apparant, mais laissant une légère démarcation à sa base, à contenu granulaire à homogène, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    (14,4) 14,6-17,5 (18) × (6,3) 6,8-8,3 (8,5) µm
+    Q = (1,7) 1,9-2,4 (2,6); N = 30
+    Me = 16,1 × 7,5 µm; Qe = 2,2
     (Piximètre, formule classique; mesures issues d'une péridiole, dans E.G. 20%)
   basidioles: 
   basidiome: 7-15 mm de haut x 6-9 (10) mm de large, ± cylindrique-tubiforme, en cône ou en vase; surface extérieure strigueuse, laineux, grisâtre à brun foncé; surface intérieure nettement rainurée et brillante

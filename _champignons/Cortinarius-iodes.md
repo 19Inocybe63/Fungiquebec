@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: douce, molle, immuable, blanchâtre à lilas pâle
   chancre: 
-  chapeau: 20-70 mm Ø, convexe, devenant largement convexe à campanulé, visqueux à gluant lorsque frais, glabre, violet à lavande lorsque jeune, développant des taches jaunâtres à brunâtres, particulièrement près du centre et finalement devenant jaunâtre à grisâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -218,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-70 mm Ø, convexe, devenant largement convexe à campanulé, visqueux à gluant lorsque frais, glabre, violet à lavande lorsque jeune, développant des taches jaunâtres à brunâtres, particulièrement près du centre et finalement devenant jaunâtre à grisâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: violacée
   chancre: 
-  chapeau: 30-80 mm Ø, convexe puis étalé, viscidule, glabre, brun foncé à brun-jaune pâle, parfois olivâtre à la marge, orné de taches plus foncées vers la marge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -219,6 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 30-80 mm Ø, convexe puis étalé, viscidule, glabre, brun foncé à brun-jaune pâle, parfois olivâtre à la marge, orné de taches plus foncées vers la marge
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

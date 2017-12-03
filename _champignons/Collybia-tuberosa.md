@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: mince, blanchâtre
   chancre: 
-  chapeau: 2-10 mm, convexe avec une marge quelque peu enroulée lorsque jeune, devenant largement convexe à étalé, déprimé, sec ou humide, plus ou moins glabre, blanchâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -215,6 +214,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 2-10 mm, convexe avec une marge quelque peu enroulée lorsque jeune, devenant largement convexe à étalé, déprimé, sec ou humide, plus ou moins glabre, blanchâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

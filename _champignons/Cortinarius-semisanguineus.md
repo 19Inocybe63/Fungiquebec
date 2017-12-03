@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: ocre
   chancre: 
-  chapeau: 20-80 mm Ø, conique-campanulé puis étalé, parfois mamelonné, soyeux, à fibrilles innées, parfois subluisant, uniformément brun-jaune à ocré olivâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -229,6 +228,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-80 mm Ø, conique-campanulé puis étalé, parfois mamelonné, soyeux, à fibrilles innées, parfois subluisant, uniformément brun-jaune à ocré olivâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

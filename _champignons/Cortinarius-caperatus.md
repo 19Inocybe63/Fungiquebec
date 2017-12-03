@@ -54,10 +54,11 @@ description:
   base-stipitiforme: 
   basides: claviformes à clavées, tétrasporiques, bouclées à la base, 36-45 x 11-12 µm
   basidiospores: |
-    citriformes en vue frontale, amygdaliformes vues de profil, modérément verruqueuses, à paroi légèrement épaissie 05-06 µm, avec appendice hilaire, plus rarement avec un pore germinatif tronqué, à contenu uniguttulé, brunâtres à rougeâtres dans le NH<SUB>4</SUB>OH 10% = 2%, dextrinoïdes, non cyanophiles
+    citriformes en vue frontale, amygdaliformes vues de profil, modérément verruqueuses, à paroi légèrement épaissie 05-06 µm, avec appendice hilaire, plus rarement avec un pore germinatif tronqué, à contenu uniguttulé, brunâtres à rougeâtres dans le NH<SUB>4</SUB>OH 2%, dextrinoïdes, non cyanophiles
     9,9 [11,1; 11,6] 12,7 x 6,7 [7,4; 7,8] 8,5 µm
     Q = 1,3 [1,5] 1,7; N = 31; C = 95%
     Me = 11,3 x 7,6 µm; Qe = 1,5
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NH<SUB>4</SUB>OH 2%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, blanchâtre à jaunâtre-brunâtre pâle
   chancre: 
-  chapeau: 50-140 mm Ø, convexe ovoïdale puis étalé, largement mamelonné, sec, glabre, plissé-ridé, beige fauve à jaune ocré, souvent pruineux et blanchâtre au centre
   cheilochrysocystides:
   cheilocystides: absentes, avec des hyphes claviformes émergentes, rarement subfusiformes, jusqu’à 64-68 µm de long
   cheiloleptocystides: 
@@ -219,6 +219,7 @@ description:
   pileipellis: en cutis, avec un subpellis celluleux
   pileitrame: 
   pileocystides: 
+  pileus: 50-140 mm Ø, convexe ovoïdale puis étalé, largement mamelonné, sec, glabre, plissé-ridé, beige fauve à jaune ocré, souvent pruineux et blanchâtre au centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

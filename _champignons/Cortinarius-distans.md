@@ -55,12 +55,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, rarement ventrues, tétrasporiques, bouclées à la base, hyalines, avec contenu vacuolaire, 32,5 - 40,8 × 9 - 10,2 µm en moyenne
+  basides: claviformes, rarement ventrues, tétrasporiques, bouclées à la base, hyalines, avec contenu vacuolaire, 32,5-40,8 × 9-10,2 µm en moyenne
   basidiospores: |
     ellipsoïdes à courtement ellipsoïdes, parfois subcitriformes en vue frontale, ellipsoïdes à largement ellipsoïdes, avec parfois un angle adaxial supra-hilaire « ou avec une extrémité subfusoïdes » (M. Kuo) vues de profil, finement à moyennement verruqueuses, à paroi mince, appendice hilaire visible, à contenu uniguttulé, brun cannelle à brun foncé dans E.G. 20%, dextrinoïdes, non cyanophiles
-    (7,4) 7,8 - 8,6 (9) × (5,3) 5,4 - 6 (6,2) µm
-    Q = (1,3) 1,4 - 1,5 (1,6) ; N = 30
-    Me = 8,3 × 5,8 µm ; Qe = 1,4
+    (7,4) 7,8-8,6 (9) × (5,3) 5,4-6 (6,2) µm
+    Q = (1,3) 1,4-1,5 (1,6); N = 30
+    Me = 8,3 × 5,8 µm; Qe = 1,4
     (Piximètre, formule classique; mesures issues d’une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -77,12 +77,11 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, polymorphes, bouclées, piriformes, claviformes, cylindriques, étroitement utriformes, ± 16,5 - 34,5 × ± 4,3 - 9,8 µm en moyenne
+  cellules-marginales-paracystides: nombreuses, polymorphes, bouclées, piriformes, claviformes, cylindriques, étroitement utriformes, ± 16,5-34,5 × ± 4,3-9,8 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 8-22 mm Ø, convexe, conique-campanulé, umboné, hygrophane, fibrilleux-squamuleux, brun cannelle imbu, brun beige à orangé sec
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -92,7 +91,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Le gélin présent sur l'arête lamellaire en couvrait une bonne partie, englobant ainsi les cellules marginales. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -220,9 +220,10 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: formé de deux couches, 1) suprapellis en cutis, constitué d'hyphes cylindriques, avec hyphes terminales obtuses, souvent en biseau, 24,1 - 59,7 × 4,7 - 8,4 µm en moyenne, 2) médiopellis formé de cellules plus grandes, ellipsoïdes à largement ellipsoïdes, ovoïdales, 23 - 52,9 × 10,5 - 19,7 µm en moyenne
+  pileipellis: formé de deux couches; 1) suprapellis en cutis, constitué d'hyphes cylindriques, avec hyphes terminales obtuses, souvent en biseau, 24,1-59,7 × 4,7-8,4 µm en moyenne; 2) médiopellis formé de cellules plus grandes, ellipsoïdes à largement ellipsoïdes, ovoïdales, 23-52,9 × 10,5-19,7 µm en moyenne
   pileitrame: 
   pileocystides: 
+  pileus: 8-22 mm Ø, convexe, conique-campanulé, umboné, hygrophane, fibrilleux-squamuleux, brun cannelle imbu, brun beige à orangé sec
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes
@@ -257,7 +258,7 @@ description:
   reactions-macrochimiques: |
     Tl4 = -
   receptacle: 
-  remarques: Le gélin présent sur l'arête lamellaire en couvrait une bonne partie, englobant ainsi les cellules marginales
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -91,7 +91,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Collection cueillie par Ève Couture et Jean-François L'Heureux. »
   conidies: 
   conidiome: 
   conidiophores: 

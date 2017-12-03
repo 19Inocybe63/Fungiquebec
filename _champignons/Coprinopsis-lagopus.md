@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: mince, gris pâle
   chancre: 
-  chapeau: jusqu'à 40 mm de hauteur x 20 mm Ø lorsque fermé, 50 mm Ø après expansion, elliptique, ovale et minuscule lorsqu'il est jeune, devenant large convexe ou en forme de cloche et finalement plus ou moins étalé, gris à noir, d'abord couvert d'un voile universel dense de poils argentés qui se décomposent en plaques au fur et à mesure que le spécimen grandit et peut finir par disparaître, dont la marge finement bordée se divise alors que les lames se dissolvent par déliquescence
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -228,6 +227,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: jusqu'à 40 mm de hauteur x 20 mm Ø lorsque fermé, 50 mm Ø après expansion, elliptique, ovale et minuscule lorsqu'il est jeune, devenant large convexe ou en forme de cloche et finalement plus ou moins étalé, gris à noir, d'abord couvert d'un voile universel dense de poils argentés qui se décomposent en plaques au fur et à mesure que le spécimen grandit et peut finir par disparaître, dont la marge finement bordée se divise alors que les lames se dissolvent par déliquescence
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -85,6 +85,7 @@ description:
   columelle: 
   commentaires: |
     De Yves Lamoureux. « Son pied peut-être nettement plus long quand il vient parmi les sphaignes; et <i>C. scaurus</i> est son sosie, mais il s’en différencie par des lames vert olive. »
+    De Claude Kaufholtz-Couture. « De la section Scauri. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -247,7 +248,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: de la section Scauri
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

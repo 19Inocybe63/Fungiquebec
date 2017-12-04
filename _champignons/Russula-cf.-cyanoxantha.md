@@ -78,7 +78,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche, immuable
   chancre: 
-  chapeau: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon, avec couche supérieure de la cuticule finement rompue à la marge; mauve violacé avec de petites plaques rosâtres vers le centre
   cheilochrysocystides:
   cheilocystides: peu abondantes, cylindriques, parfois submucronées, avec nécropigments, 38-65 x 7-9 µm, réaction sulfovanilline négative (SV-)
   cheiloleptocystides: 
@@ -219,6 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 98 mm Ø, convexe à étalé puis déprimé, cuticule se pèle jusqu'au ⅓ du rayon, avec couche supérieure de la cuticule finement rompue à la marge; mauve violacé avec de petites plaques rosâtres vers le centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes, cylindriques mucronées à largement mucronées, parfois avec apex moniliformes, avec nécropigments, 58-70 x 8-11 µm, sulfovanilline négative (SV-), très faiblement sulfobenzaldéhyde ± positif (SBA±)

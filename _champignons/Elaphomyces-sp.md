@@ -70,6 +70,7 @@ description:
     18,1 [21,6; 24,9] 28,4 x 17,7 [21,3; 24,7] 28,3 µm
     Q = 1 [1,0] 1; N = 10; C = 95%
     Me = 23,2 x 23 µm; Qe = 1
+    (Piximètre, formule statistique; mesures non issues d'une sporée, dans le NaCl iso 0,9%)
   asques: globuleuses, contenant en moyenne (5) 6 à 7 ascospores globuleuses, 51,6 [61,6; 71] 81,1 x 40,5 [46,7; 52,5] 58,8 µm
   asterohyphidies: 
   avertissement: 
@@ -109,8 +110,8 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « J'ai trouvé plus de vingt spécimens en une cueillette. Le spécialiste Michael Castellano m'indique qu'il n'a jamais vu cette espèce, c'est une première pour lui. Il possède un échantillon de la collection pour étude d'ADN. Voir aussi la collection cKc0463 »
-    De Michael Castellano.  « Courriel du 13.VII.2016 ; Pour les collections: cKc0396, cKc0428 (pas de photo), cKc0463 = Elaphomyces sp. nov. not seen before. »
+    De Claude Kaufholtz-Couture. « J'ai trouvé plus de vingt spécimens en une cueillette. Le spécialiste Michael Castellano m'indique qu'il n'a jamais vu cette espèce, c'est une première pour lui. Il possède un échantillon de la collection pour étude d'ADN. Voir aussi la collection cKc0463. »
+    De Michael Castellano. « Courriel du 13.VII.2016; Pour les collections : cKc0396, cKc0428 (pas de photo), cKc0463 = Elaphomyces sp. nov. not seen before. »
   conidies: 
   conidiome: 
   conidiophores: 

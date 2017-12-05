@@ -58,7 +58,7 @@ description:
     7,7 [8,3; 8,7] 9,4 x 6,2 [6,8; 7,2] 7,9 µm
     Q = 1,1 [1,2; 1,3] 1,4; N = 21; C = 95%
     Me = 8,5 x 7 µm; Qe = 1,2
-    (Il faut tenir compte que j'ai mesuré des basidiospores issues des lames)
+    (Piximètre, formule statistique; mesures non issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -79,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 7 mm Ø, omphalinoïd, strié, ombiliqué, sec, fibrilleux, violet
   cheilocystides: cylindriques, en éperons à mucronées
   cheilomacrocystides: 
   chlamydospores: 
@@ -221,6 +220,7 @@ description:
   pileipellis: avec hyphes ascendant en trichoderme
   pileitrame: 
   pileocystides: 
+  pileus: 7 mm Ø, omphalinoïd, strié, ombiliqué, sec, fibrilleux, violet
   plasmode: 
   pleurocystides: non observées
   poils: 

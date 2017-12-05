@@ -58,6 +58,7 @@ description:
     7,7 [8,7; 9,1] 10,1 x 5,6 [6,5; 6,9] 7,7 µm
     Q = 1,1 [1,3; 1,4] 1,5; N = 30; C = 95%
     Me = 8,9 x 6,7 µm; Qe = 1,3
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: mince, brunâtre
   chancre: 
-  chapeau: 19 mm Ø, conique-campanulé puis étalé, papillé, subhygrophane, fibrilleux argenté, puis glabre, zoné et canescent, gris-brun foncé à brun, crème grisâtre pâle et luisant au sec, à cuticule dépassant les lames au pourtour
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -86,7 +86,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Il est le seul petit entolome à avoir cet aspect étrange, subhygrophane, fribrilleux-argenté sous la loupe, allure typique ici, mais difficile parfois sous la pluie. Dans ma galerie, <i>E. speciosissimum</i> (de mémoire, pas sûr du nom) et <i>E. pseudocelatum</i> sont parfois nommés <i>E. conicum</i>, par des lumpers (lumpers = ceux qui regroupent les espèces semblables sous un même taxon ; il y a aussi les splitters = ceux qui séparent les espèces d'après des caractères variables, selon le climat, p. ex.). <i>E. conicum</i> en est un facile dans le dédale des petits entolomes. Il a de belles petites basidiospores à 5 côtés, fascinant ! »
+  commentaires: |
+    De Yves Lamoureux. « Il est le seul petit entolome à avoir cet aspect étrange, subhygrophane, fribrilleux-argenté sous la loupe, allure typique ici, mais difficile parfois sous la pluie. Dans ma galerie, <i>E. speciosissimum</i> (de mémoire, pas sûr du nom) et <i>E. pseudocelatum</i> sont parfois nommés <i>E. conicum</i>, par des lumpers (lumpers = ceux qui regroupent les espèces semblables sous un même taxon ; il y a aussi les splitters = ceux qui séparent les espèces d'après des caractères variables, selon le climat, p. ex.). <i>E. conicum</i> en est un facile dans le dédale des petits entolomes. Il a de belles petites basidiospores à 5 côtés, fascinant ! »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,6 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: rares
+  pileus: 19 mm Ø, conique-campanulé puis étalé, papillé, subhygrophane, fibrilleux argenté, puis glabre, zoné et canescent, gris-brun foncé à brun, crème grisâtre pâle et luisant au sec, à cuticule dépassant les lames au pourtour
   plasmode: 
   pleurocystides: absentes
   poils: 

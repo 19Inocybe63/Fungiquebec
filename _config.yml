@@ -230,8 +230,6 @@ champs-description:
     label: Lames
   - name: rameaux
     label: Rameaux
-  - name: pied
-    label: Pied
   - name: stroma
     label: Stroma
   - name: partie-apicale

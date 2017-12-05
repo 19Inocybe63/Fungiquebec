@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 150 x 250 x 60 mm, simple, souvent pendant, dimidié à réniforme ou suborbiculaire, aplani, convexe à la base, anormalement pulviné, blanchâtre, murin ou brunâtre, souvent à cuticule qui se brise pour donner un aspect troué ou écailleux, azoné, glabre, à marge souvent recourbée sur la face poroïde, concolore
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -214,6 +213,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: jusqu'à 150 x 250 x 60 mm, simple, souvent pendant, dimidié à réniforme ou suborbiculaire, aplani, convexe à la base, anormalement pulviné, blanchâtre, murin ou brunâtre, souvent à cuticule qui se brise pour donner un aspect troué ou écailleux, azoné, glabre, à marge souvent recourbée sur la face poroïde, concolore
   plasmode: 
   pleurocystides: 
   poils: 

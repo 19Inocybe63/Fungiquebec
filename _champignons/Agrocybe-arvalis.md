@@ -90,7 +90,7 @@ description:
   chair: mince, immuable, hyaline à blanchâtre
   chancre: 
   cheilocystides: 
-  cheiloleptocystides: abondantes, polymorphes ; parfois en petites touffes, lagéniformes 41,3 [46,5; 60,9] 66,1 x 10,5 [13 ; 20] 22,6 µm en moyenne, parfois avec inclusions apicales ; suboblongues 45,6 [47,9; 58,9] 61,2 x 17,2 [18; 22,1] 22,9 µm en moyenne, utriformes 40,1 [42,4; 53,5] 55,8 x 19,3 [19,6; 21,4] 21,8 µm en moyenne
+  cheiloleptocystides: abondantes, polymorphes ; parfois en petites touffes, lagéniformes 41,3 [46,5; 60,9] 66,1 x 10,5 [13  20] 22,6 µm en moyenne, parfois avec inclusions apicales; suboblongues 45,6 [47,9; 58,9] 61,2 x 17,2 [18; 22,1] 22,9 µm en moyenne, utriformes 40,1 [42,4; 53,5] 55,8 x 19,3 [19,6; 21,4] 21,8 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

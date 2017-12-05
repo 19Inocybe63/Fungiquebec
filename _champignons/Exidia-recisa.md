@@ -95,7 +95,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: De Claude Kaufholtz-Couture. « Description prise sur http://www.mycodb.fr/quicksearch.php. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Description prise sur http://www.mycodb.fr/quicksearch.php. »
   conidies: 
   conidiome: 
   conidiophores: 

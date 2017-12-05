@@ -213,7 +213,6 @@ description:
   peritheces: 
   phenologie: 
   phialoconidies: 
-  pied: 
   pieds-steriles: 
   pigments: 
   pileipellis: 

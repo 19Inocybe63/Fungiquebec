@@ -83,7 +83,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Michael Castellano. « <i>E. verruculosus</i> Castellano wide spread across the east coast. »
+  commentaires: |
+    De Michael Castellano. « <i>E. verruculosus</i> Castellano wide spread across the east coast. »
   conidies: 
   conidiome: 
   conidiophores: 

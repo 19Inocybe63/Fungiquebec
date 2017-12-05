@@ -54,12 +54,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à largement claviformes, parfois pédicellées, bisporiques et tétrasporiques, non bouclées à la base, (30) 32,5 - 36,5 × (11,3) 11,7 - 14,5 (15,1) µm en moyenne
+  basides: claviformes à largement claviformes, parfois pédicellées, bisporiques et tétrasporiques, non bouclées à la base, (30) 32,5-36,5 × (11,3) 11,7-14,5 (15,1) µm en moyenne
   basidiospores: |
     hétérodiamétriques, cruciformes en vue frontale, très souvent cubiques vues de profil, polygonales noduleuses, entre ± 4-6 ± 7 angles, à paroi mince, avec appendice hilaire dominant, à contenu uniguttulé à biguttulé, hyalines dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, non cyanophiles
-    (7,9) 8,2 - 9,8 (10) × (6) 6,5 - 8,2 (9,5) µm
-    Q = (1) 1,1 - 1,4 (1,5) ; N = 30
-    Me = 9 × 7,4 µm ; Qe = 1,2
+    (7,9) 8,2-9,8 (10) × (6) 6,5-8,2 (9,5) µm
+    Q = (1) 1,1-1,4 (1,5); N = 30
+    Me = 9 × 7,4 µm; Qe = 1,2
     (Piximètre, formule classique; mesures issues d'une sporée, dans NaCl isotonique 0,9%)
   basidioles: 
   basidiome: 
@@ -82,7 +82,6 @@ description:
   cellules-stromatiques: 
   chair: mince à ± transparente de la marge à mi-rayon, un peu plus épaisse au disque
   chancre: 
-  chapeau: 13-26 mm Ø, port mycenoïde, conique, glabre, brun beige à brun légèrement rougeâtre, noirâtre en son centre
   cheilochrysocystides:
   cheilocystides: absentes
   cheilomacrocystides: 
@@ -230,6 +229,7 @@ description:
   pileipellis: en cutis (ixocutis), formé d'hyphes à pigments vacuolaires dilués avec contenu, uniformes; trame piléique régulière avec éléments amples à largement fusiformes
   pileitrame: 
   pileocystides: absentes
+  pileus: 13-26 mm Ø, port mycenoïde, conique, glabre, brun beige à brun légèrement rougeâtre, noirâtre en son centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

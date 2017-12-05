@@ -94,7 +94,6 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile
   chancre: 
-  chapeau: 8-30 mm Ø, conique à convexe puis étalé à maturité, et faiblement ombiliqué au centre, finement squamuleux, subhygrophane, brun foncé à brun-rouge, gris-noir au centre, pâlissant avec l'âge et au sec
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -233,6 +232,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 8-30 mm Ø, conique à convexe puis étalé à maturité, et faiblement ombiliqué au centre, finement squamuleux, subhygrophane, brun foncé à brun-rouge, gris-noir au centre, pâlissant avec l'âge et au sec
   plasmode: 
   pleurocystides: 
   poils: 

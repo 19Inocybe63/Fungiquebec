@@ -58,6 +58,7 @@ description:
     10 [11; 11,4] 12,3 x 7,1 [7,8; 8,1] 8,7 µm
     Q = 1,2 [1,4; 1,5] 1,6; N = 30; C = 95%
     Me = 11,2 x 7,9 µm; Qe = 1,4
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: mince, jusqu'à 3 mm au disque, jaunâtre, jaune chamois à concolore à la surface
   chancre: 
-  chapeau: 10-40 mm Ø, conique-convexe à largement convexe, tronqué puis convexe à étalé, légèrement déprimé au centre, ombiliqué à rarement papillé, sec, subhygrophane, entièrement tomenteux au début, puis avec squamules brunes dressées au centre et fibrilleux-subsquamuleux radialement vers la marge, sur fond jaune, orangé, fauve à jaune rougeâtre, souvent plus foncé au centre, plus pâle vers le pourtour, pâlissant à orangé pâle, orange grisâtre à orange brunâtre au sec
   cheilocystides: absentes
   cheilomacrocystides: 
   chlamydospores: 
@@ -217,6 +217,7 @@ description:
   pileipellis: en cutis avec éléments trichodermiques
   pileitrame: 
   pileocystides: absentes
+  pileus: 10-40 mm Ø, conique-convexe à largement convexe, tronqué puis convexe à étalé, légèrement déprimé au centre, ombiliqué à rarement papillé, sec, subhygrophane, entièrement tomenteux au début, puis avec squamules brunes dressées au centre et fibrilleux-subsquamuleux radialement vers la marge, sur fond jaune, orangé, fauve à jaune rougeâtre, souvent plus foncé au centre, plus pâle vers le pourtour, pâlissant à orangé pâle, orange grisâtre à orange brunâtre au sec
   plasmode: 
   pleurocystides: absentes
   poils: 

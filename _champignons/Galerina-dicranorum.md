@@ -52,12 +52,12 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à largement cylindriques à subclaviformes, parfois avec un rétrécissement à la base, tétrasporiques, non bouclées à la base, (22,7) 23 - 25,7 (26,6) × (7) 8,6 - 9,1 µm en moyenne
+  basides: cylindriques à largement cylindriques à subclaviformes, parfois avec un rétrécissement à la base, tétrasporiques, non bouclées à la base, (22,7) 23-25,7 (26,6) × (7) 8,6-9,1 µm en moyenne
   basidiospores: |
     ovoïdes à subovoïdes en vue frontale à elliptiques à largement elliptiques à amygdaloïdes vues de profil, sablées à finement verruqueuses, à paroi mince à légèrement épaissie 0,2-0,3 µm, non calyptrées, pore germinatif non observé, appendice hilaire bien visible, avec parfois une dépression supra hilaire, à contenu uniguttulé à pluriguttulé, brun pâle dans E.G. 20%, fortement dextrinoïdes, non cyalophiles
-    (8,4) 8,9 - 9,8 (11,8) × (5) 5,2 - 6 (6,9) µm
-    Q = (1,4) 1,5 - 1,8 (1,9) ; N = 30
-    Me = 9,4 × 5,7 µm ; Qe = 1,7
+    (8,4) 8,9-9,8 (11,8) × (5) 5,2-6 (6,9) µm
+    Q = (1,4) 1,5-1,8 (1,9); N = 30
+    Me = 9,4 × 5,7 µm; Qe = 1,7
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
   basidiome: 
@@ -79,9 +79,8 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, ± concolore au chapeau
   chancre: 
-  chapeau: 7-15 mm Ø, conique à convexe, humide, glabre, strié, hygrophane, presque fauve ochracé à l'humidité, devenant jaune brun brillant depuis le disque, à marge droite au début
-  cheilochrysocystides:
-  cheilocystides: abondantes, formant une palissade, polymorphes, ± émergentes, capitulées, cylindriques claviformes à cylindriques flexueuses, parfois ovoïdes, parfois subtibiformes, rarement rostrées, rarement utriformes, dont l’apex est parfois moniliforme, à paroi mince, hyalines dans E.G. 10%, (26,8) 27,2 - 46,4 (49,7) × (3,6) 5,5 - 8,2 (9,5) µm en moyenne
+  cheilochrysocystides: 
+  cheilocystides: abondantes, formant une palissade, polymorphes, ± émergentes, capitulées, cylindriques claviformes à cylindriques flexueuses, parfois ovoïdes, parfois subtibiformes, rarement rostrées, rarement utriformes, dont l’apex est parfois moniliforme, à paroi mince, hyalines dans E.G. 10%, (26,8) 27,2-46,4 (49,7) × (3,6) 5,5-8,2 (9,5) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -217,9 +216,10 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'un suprapellis en cutis dont les hyphes mesures (39,1) 40,1 - 50,5 (64,7) × (14,1) 14,12 - 25,1 (31,3) µm en moyenne, et d'un subpellis indéfférencié
+  pileipellis: formé d'un suprapellis en cutis dont les hyphes mesures (39,1) 40,1-50,5 (64,7) × (14,1) 14,12-25,1 (31,3) µm en moyenne, et d'un subpellis indéfférencié
   pileitrame: 
   pileocystides: 
+  pileus: 7-15 mm Ø, conique à convexe, humide, glabre, strié, hygrophane, presque fauve ochracé à l'humidité, devenant jaune brun brillant depuis le disque, à marge droite au début
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

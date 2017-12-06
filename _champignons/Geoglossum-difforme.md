@@ -55,6 +55,7 @@ description:
     103,5 [111,7; 115,3] 123,5 x 5,9 [6,5; 6,8] 7,3 µm
     Q = 15,3 [16,8; 17,4] 19; N = 30; C = 95%
     Me = 113,5 x 6,6 µm
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   asques: longuement claviformes, octosporées, 178-200 x 19-24 µm
   asterohyphidies: 
   avertissement: 

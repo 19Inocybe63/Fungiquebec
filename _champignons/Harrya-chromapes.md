@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à légèrement rosé, souvent rosâtre sous la cuticule, immuable, envahi rapidement par les larves, souvent brun et caverneuse dans la partie inférieure à maturité
   chancre: 
-  chapeau: 30-110 mm Ø, convexe à presque plane, sec ou un peu collante, finement veloutée à presque glabre, rose à rose brunâtre, rouge pâle lorsque jeune, se décolorant à rosâtre tan, à jaunâtre terne
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -212,6 +211,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 30-110 mm Ø, convexe à presque plane, sec ou un peu collante, finement veloutée à presque glabre, rose à rose brunâtre, rouge pâle lorsque jeune, se décolorant à rosâtre tan, à jaunâtre terne
   plasmode: 
   pleurocystides: 
   poils: 

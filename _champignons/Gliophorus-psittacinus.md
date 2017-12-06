@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, cireuse, blanchâtre
   chancre: 
-  chapeau: 7-28 mm Ø, hémisphérique à campanulé, conique à largement convexe puis subétalé lorsque mature, mamelonné, visqueux à subglutineux, lisse, souvent luisant au sec, hygrophane, à marge mince, de couleurs variables, vert foncé au début, devenant rapidement jaune orangé du centre vers l'extérieur, parfois orange avec une marge verdâtre, devenant orange, et finalement, jaune orangé terne
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -223,6 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 7-28 mm Ø, hémisphérique à campanulé, conique à largement convexe puis subétalé lorsque mature, mamelonné, visqueux à subglutineux, lisse, souvent luisant au sec, hygrophane, à marge mince, de couleurs variables, vert foncé au début, devenant rapidement jaune orangé du centre vers l'extérieur, parfois orange avec une marge verdâtre, devenant orange, et finalement, jaune orangé terne
   plasmode: 
   pleurocystides: 
   poils: 

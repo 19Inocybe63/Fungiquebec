@@ -78,7 +78,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides:  isolées, émergentes et parfois en faisceaux, ou en touffe, subcapitées à capitées 40 x 6 µm en moyenne, cylindriques 28-30 x 3-3,4 µm en moyenne
+  caulocystides: isolées, émergentes et parfois en faisceaux, ou en touffe, subcapitées à capitées 40 x 6 µm en moyenne, cylindriques 28-30 x 3-3,4 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -88,7 +88,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, immuable, 
   chancre: 
-  chapeau: 14-49 mm Ø, hémisphérique, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
   cheilocystides: nombreuses en palissade, capitées à subcapitées (en forme de tibia) 23,7 [29,4; 32,6] 38,3 x 4,2 [5; 5,4] 6,2 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -96,7 +95,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « D’après Maria Teresa Basso (<i>Manuale di Microscopia dei Funghi</i>, vol. 2), les hyménocystides deviennent légèrement verdâtre dans le bleu lactique; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « D’après Maria Teresa Basso (<i>Manuale di Microscopia dei Funghi</i>, vol. 2), les hyménocystides deviennent légèrement verdâtre dans le bleu lactique; ce que je n’ai pas été en mesure de bien démontrer, même si mon observation démontre qu’une légère coloration verdâtre. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -224,6 +224,7 @@ description:
   pileipellis: en cutis avec pigments pariétal et extrahyphique
   pileitrame: 
   pileocystides: 
+  pileus: 14-49 mm Ø, hémisphérique, non visqueux,  écailleux à squamuleux, il semble se tacher de rouille lorsqu’on lui touche, brun rouille sur le fond avec des fibrilles blanchâtres sur le dessus, marge unie
   plasmode: 
   pleurocystides: rares, de même forme que les cheilocystides, elles sont davantage situées près de l'arête lamellaire
   poils: 

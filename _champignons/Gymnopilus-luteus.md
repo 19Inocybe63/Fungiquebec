@@ -68,6 +68,7 @@ description:
     7,6 [8,1; 8,3] 8,8 x 4,9 [5,3; 5,4] 5,8 µm
     Q = 1,4 [1,5] 1,6; N = 60; C = 95%
     Me = 8,2 x 5,4 µm; Qe = 1,5
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NH<SUB>4</SUB>OH 2%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -88,7 +89,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, jaunâtre, se tachant de brunâtre orangé ou parfois de vert bleuâtre avec l'âge ou aux meurtrissures
   chancre: 
-  chapeau: 45-140 mm Ø, convexe à presque plan avec marge incurvée, apprimée sur les lames, sec, lisse, soyeux ou finement fibrilleux-méchuleux, parfois floconneux-squamuleux vers le centre, jaune chamois à jaune vif, puis brunâtre orangé à rouille, souvent légèrement plus foncé vers le centre
   cheilocystides: polymorphes, légèrement émergentes, tibiformes, légèrement capitées à largement capitées, parfois cylindrique à fusiformes, rarement lécythiformes
   cheilomacrocystides: 
   chlamydospores: 
@@ -206,7 +206,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: grégaire ou cespiteux
+  mode-de-croissance: grégaire, parfois cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -227,6 +227,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 45-140 mm Ø, convexe à presque plan avec marge incurvée, apprimée sur les lames, sec, lisse, soyeux ou finement fibrilleux-méchuleux, parfois floconneux-squamuleux vers le centre, jaune chamois à jaune vif, puis brunâtre orangé à rouille, souvent légèrement plus foncé vers le centre
   plasmode: 
   pleurocystides: absentes
   poils: 

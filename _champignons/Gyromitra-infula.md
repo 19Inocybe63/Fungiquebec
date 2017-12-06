@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: mince, cassante, blanchâtre
   chancre: 
-  chapeau: 
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

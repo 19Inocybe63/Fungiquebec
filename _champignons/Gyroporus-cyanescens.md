@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: cassante, blanchâtre à jaune pâle, devenant rapidement bleu foncé à la coupe
   chancre: 
-  chapeau: 125 mm Ø, convexe à largement convexe, subétalé, sec, fibrilleux-méchuleux, grossièrement rugueux, crème, jaune paille à jaune brunâtre pâle, bleuissant fortement au froissement, à marge incurvée au début, unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -223,6 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 125 mm Ø, convexe à largement convexe, subétalé, sec, fibrilleux-méchuleux, grossièrement rugueux, crème, jaune paille à jaune brunâtre pâle, bleuissant fortement au froissement, à marge incurvée au début, unie
   plasmode: 
   pleurocystides: 
   poils: 

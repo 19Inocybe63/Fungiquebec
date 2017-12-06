@@ -94,7 +94,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 30-300 mm en surplomb x 60-500 mm de largeur, plat et semi-circulaire, convexe à unguiforme, à la bordure droite à légèrement arrondie et lisse au-dessous
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -235,6 +234,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 30-300 mm en surplomb x 60-500 mm de largeur, plat et semi-circulaire, convexe à unguiforme, à la bordure droite à légèrement arrondie et lisse au-dessous
   plasmode: 
   pleurocystides: 
   poils: 

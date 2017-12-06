@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: mince, très mince à la marge piléique, blanchâtre lavé de roux
   chancre: 
-  chapeau: 10-45 mm, convexe, devenant largement convexe à presque plat, avec une bosse centrale, parfois légèrement largement umboné, hygrophane, graisseux, glabre, parfois quelque peu ridée, brun foncé à brun foncé violacé, développant une marge pâle et finissant par se faner
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -225,6 +224,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 10-45 mm, convexe, devenant largement convexe à presque plat, avec une bosse centrale, parfois légèrement largement umboné, hygrophane, graisseux, glabre, parfois quelque peu ridée, brun foncé à brun foncé violacé, développant une marge pâle et finissant par se faner
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

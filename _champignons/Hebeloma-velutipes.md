@@ -55,8 +55,8 @@ description:
   basides: cylindriques-claviformes, parfois utriformes, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations carminophiles ?) 24,7 [26; 28,5] 29,7 × 6,7 [7,4; 8,8] 9,5 µm en moyenne
   basidiospores: |
     citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, presque lisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, hyalines dans E.G. 20 %, fortement dextrinoïdes (D4), non cyanophiles
-    (8,6) 10 - 11,8 (12) × (5,5) 5,6 - 6,6 (6,7) µm
-    Q = (1,6) 1,7 - 1,9 (2); N = 30
+    (8,6) 10-11,8 (12) × (5,5) 5,6-6,6 (6,7) µm
+    Q = (1,6) 1,7-1,9 (2); N = 30
     Me = 10,9 × 6,1 µm; Qe = 1,8
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse au centre et mince à la marge, ferme, blanchâtre à crème
   chancre: 
-  chapeau: 22-44 mm Ø, conique au début, convexe puis étalé à maturité, glabre, crème à brun pâle, brun tan
   cheilochrysocystides:
   cheilocystides: abondantes, polymorphes, cylindriques à claviformes, longuement claviformes, parfois avec apex subcapité, utriformes, parfois flexueuses, parfois tortueuses, à paroi mince, bouclées, 24,5 [48,9; 71,5] 95,9 × 6,3 [7,8; 9,2] 10,7 µm en moyenne
   cheilomacrocystides: 
@@ -227,6 +226,7 @@ description:
   pileipellis: en ixocutis de 100-160 µm en moyenne d'épaisseur en moyenne
   pileitrame: 
   pileocystides: 
+  pileus: 22-44 mm Ø, conique au début, convexe puis étalé à maturité, glabre, crème à brun pâle, brun tan
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

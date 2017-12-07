@@ -88,7 +88,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Des études d'ADN seront réalisées par Henry J. Beker sur trois collections d'Hebelomes. »
+    De Claude Kaufholtz-Couture. « Des études d'ADN seront réalisées par Henry J. Beker sur trois collections d'Hébélomes. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -7,7 +7,7 @@ album-flickr:
   - 72157674148893871
 
 details:
-  nom-francais: 
+  nom-francais: Hébélome bordé
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

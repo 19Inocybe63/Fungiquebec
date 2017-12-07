@@ -60,8 +60,8 @@ description:
   ascome: 
   ascospores: |
     unisériées, largement ellipsoïdes à ellipsoïdes, lisses (voir remarque), à paroi mince à légèrement épaissie, à contenu uniguttulé, hyalines dans E.G. 20%, iodonégatives dans le melzer, non cyanophiles
-    (16,2) 16,6 - 18,1 (19,3) × (11,2) 11,3 - 12 (12,7) µm
-    Q = (1,4) 1,43 - 1,56 (1,6); N = 30
+    (16,2) 16,6-18,1 (19,3) × (11,2) 11,3-12 (12,7) µm
+    Q = (1,4) 1,43-1,56 (1,6); N = 30
     Me = 17,3 × 11,6 µm; Qe = 1,5
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   asques: cylindriques, operculés, octosporés, iodonégatifs, 225-250 x 12,2-17 µm Ø
@@ -75,7 +75,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous pins, dans la mousse
+  biotopes: pousse au sol, dans la mousse, sous <i>Pinus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

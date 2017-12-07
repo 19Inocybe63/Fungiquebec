@@ -56,8 +56,8 @@ description:
   basides: piriformes à largement claviformes, largement cylindriques, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations),  23 [27,3; 32,5] 36,7 × 8,5 [9,5; 10,8] 11,8 µm en moyenne
   basidiospores: |
     citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, sublisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, hyalines dans E.G. 20%, moyennement dextrinoïdes (D2), non cyanophiles
-    (9,6) 10,2 - 11,9 (13,8) × (5,2) 5,4 - 6,1 (6,7) µm
-    Q = (1,7) 1,8 - 2,1 (2,2); N = 30
+    (9,6) 10,2-11,9 (13,8) × (5,2) 5,4-6,1 (6,7) µm
+    Q = (1,7) 1,8-2,1 (2,2); N = 30
     Me = 10,9 × 5,7 µm; Qe = 1,9
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, abruptement amincie vers la marge, ferme, blanchâtre à crème
   chancre: 
-  chapeau: 16-37 mm Ø, conique à campanulé puis convexe à étalé, parfois mamelonné-obtus, visqueux à l'humidité, lisse, beige à crème ochracé, à marge longtemps incurvée, puis droite ou relevée, unie
   cheilocystides: abondantes formant une palissade, longuement claviformes, rarement flexueuses à tortueuses, à paroi mince, hyalines, bouclées, 51,6 [59,1; 69,5] 77 × 5,5 [5,9; 6,5] 7 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -88,7 +87,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Des études d'ADN seront réalisées par Henry J. Beker sur trois collections d'Hebelomes. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -219,6 +219,7 @@ description:
   pileipellis: en 2 couches, suprapellis allant de l'ixocutis à l'ixotrichoderme de 180-218 µm d'épaisseur, formé d'hyphes gélatinisées, rarement ruguleuses, bouclées, hyalines, et le subpellis formé d'hyphes
   pileitrame: 
   pileocystides: 
+  pileus: 16-37 mm Ø, conique à campanulé puis convexe à étalé, parfois mamelonné-obtus, visqueux à l'humidité, lisse, beige à crème ochracé, à marge longtemps incurvée, puis droite ou relevée, unie
   plasmode: 
   pleurocystides: absentes
   poils: 
@@ -249,7 +250,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Des études d'ADN seront réalisées prochainement par Henry J. Beker sur trois collections.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

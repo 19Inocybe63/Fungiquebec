@@ -224,7 +224,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: de juin, à août (septembre)
+  phenologie: d'août à septembre
   phialoconidies: 
   pieds-steriles: 
   pigments: 

@@ -68,6 +68,7 @@ description:
     9,2 [10,5; 11,7] 13 x 6,7 [7,3; 7,9] 8,5 µm
     Q = 1,2 [1,4; 1,5] 1,7; N = 9; C = 95%
     Me = 11,1 x 7,6 µm; Qe = 1,5
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -88,7 +89,6 @@ description:
   cellules-stromatiques: 
   chair: mince, très fragile, cireuse, jaunâtre ou concolore au chapeau, noircissant avec l'âge
   chancre: 
-  chapeau: 2-10 mm Ø, conique-aigu à obtus puis parfois convexe et umboné-conique, non étalé, viscidule à sec, lisse, légèrement vergeté, fibrilleux-subécailleux à squamuleux-inné, souvent rougeâtre à orange écarlate au disque et orangé vers la marge, parfois entièrement teinté d'olive, de jaune citron, d'orange ochracé, de roux orange ou de rouge, noircissant avec l'âge et au froissement, à marge irrégulière, parfois relevée avec l'âge, plus longue d'un côté, festonnée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -98,7 +98,9 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De David Boertmann. « ... Here in Europe collections which previously was identified as <i>H. nigrescens</i>, will be named <i>H. pseudoconica</i>. However, your photos shows a fruitbody markedly deviating from European <i>H. pseudoconica</i> (<i>nigrescens</i>). And it resembles much more some tropical forms, such <i>H. atrosquamosa</i> or <i>H. astatogala</i>... » Ce commentaire est relié à la collection cKc0356.
+  commentaires: |
+    De David Boertmann. « ... Here in Europe collections which previously was identified as <i>H. nigrescens</i>, will be named <i>H. pseudoconica</i>. However, your photos shows a fruitbody markedly deviating from European <i>H. pseudoconica</i> (<i>nigrescens</i>). And it resembles much more some tropical forms, such <i>H. atrosquamosa</i> or <i>H. astatogala</i>... » Ce commentaire est relié à la collection cKc0356.
+    De Claude Kaufholtz-Couture. « Dès qu'on le touche, il devient verdâtre-noirâtre. Les basides apparaissent parfois ocre ferreux dans une solution de glycérine 8%. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -229,6 +231,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 2-10 mm Ø, conique-aigu à obtus puis parfois convexe et umboné-conique, non étalé, viscidule à sec, lisse, légèrement vergeté, fibrilleux-subécailleux à squamuleux-inné, souvent rougeâtre à orange écarlate au disque et orangé vers la marge, parfois entièrement teinté d'olive, de jaune citron, d'orange ochracé, de roux orange ou de rouge, noircissant avec l'âge et au froissement, à marge irrégulière, parfois relevée avec l'âge, plus longue d'un côté, festonnée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -258,8 +261,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Dès qu'on le touche, il devient verdâtre-noirâtre. Les basides apparaissent parfois ocre ferreux dans une solution de glycérine 8%.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

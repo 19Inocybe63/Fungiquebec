@@ -115,7 +115,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, immuable, blanche
   chancre: 
-  chapeau: 14-51 mm Ø, subcylindrique-campanulé jeune à convexe puis étalé à maturité, mamelonné, fibrilleux, avec marge unie puis fendillée avec l’âge, brun cannelle avec un centre plus foncé, avec présence de fibrilles blanches sur le disque lorsque jeune
   cheilocystides: abondantes, parfois en faisceaux, subutriformes au sens de Romagnesi, piriformes à clavées et largement clavées, cylindriques, rarement avec cristaux d'oxalate de calcium, 43-59 x 11-18 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
@@ -255,6 +254,7 @@ description:
   pileipellis: en cutis; suprapellis 60-70 µm d'épaisseur, formé d'hyphes cylindriques, bouclées, avec pigmentations brun rougeâtre, 5-20 µm Ø
   pileitrame: formé de sphérocystes
   pileocystides: 
+  pileus: 14-51 mm Ø, subcylindrique-campanulé jeune à convexe puis étalé à maturité, mamelonné, fibrilleux, avec marge unie puis fendillée avec l’âge, brun cannelle avec un centre plus foncé, avec présence de fibrilles blanches sur le disque lorsque jeune
   plasmode: 
   pleurocystides: absentes
   poils: 

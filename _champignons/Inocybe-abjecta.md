@@ -81,8 +81,8 @@ description:
   basides: claviformes à étroitement claviformes, tétrasporiques, bouclées à la base, 25,0-38,0 × 6,5-10,0 µm
   basidiospores: |
     léiosporées, elliptiques citriformes à sommet subtronqué en vue frontale, amygdaliformes à citriformes avec apex coniques à ± ogives, parfois subtronquées vues de profil, lisses, à paroi mince à légèrement épaissie, avec appendice hilaire, parfois avec pore germinatif 0,6-0,8 µm Ø, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (7,5) 8 - 9,3 (10,7) × (4,5) 4,8 - 5,5 (6,7) µm
-    Q = (1,5) 1,6 - 1,8 (2); N = 30
+    (7,5) 8-9,3 (10,7) × (4,5) 4,8-5,5 (6,7) µm
+    Q = (1,5) 1,6-1,8 (2); N = 30
     Me = 8,8 × 5,2 µm; Qe = 1,7
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -100,14 +100,13 @@ description:
   caulocystides-sommitales: rares à occasionnelles, surtout cylindriques, éparses, ou en faisceaux, ressemblent à des hyphes terminales, cylindriques et bouclées, 40-70 x 6-8 µm
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: abondantes, piriformes à clavées (18,3) 18,33 - 23,3 × 7,1 - 9,47 (9,5) µm
+  cellules-marginales-paracystides: abondantes, piriformes à clavées (18,3) 18,33-23,3 × 7,1-9,5 µm
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 13-21 mm Ø, convexe à étalé, campanulé, mamelonné, fibrilleux, brun avec centre brun foncé, à la marge blanchâtre
   cheilochrysocystides:
-  cheilocystides: nombreuses, polymorphes, métuloïdes, fusiformes à subfusiformes, lagéniformes, cylindriques, (50,0) 59,6 - 72 × (10) 11,8 - 15,5 (18,2) µm, à paroi fine à moyenne 1,0-2,4 µm
+  cheilocystides: nombreuses, polymorphes, métuloïdes, fusiformes à subfusiformes, lagéniformes, cylindriques, (50,0) 59,6-72 × (10) 11,8-15,5 (18,2) µm, à paroi fine à moyenne 1,0-2,4 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -118,6 +117,7 @@ description:
   comestibilite: NON
   commentaires: |
     De Claude Kaufholtz-Couture. « D'après l'article de Grund et Stuntz (<i>Nova Scotian Inocybe</i>, vol. II, pp. 925-927), <i>I. abjecta</i> a de rares caulocystides sommitales non métuloïdes. Elles se présentent comme des hyphes terminales et ne sont présentes qu'à l'apex du stipe. »
+    De Claude Kaufholtz-Couture. « D'après la Clé des Inocybes de Ray Fatto; Code = A C E H K L N Q - (<i>I. abjecta</i>);  A C F H K L N Q - (<i>I. fuscidula</i>). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -249,9 +249,10 @@ description:
   pileipellis: en cutis dont les hyphes terminales sont un peu emmêlées, subtrichodermiques, avec pigments
   pileitrame: 
   pileocystides: 
+  pileus: 13-21 mm Ø, convexe à étalé, campanulé, mamelonné, fibrilleux, brun avec centre brun foncé, à la marge blanchâtre
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, atténué au sommet-obclavée, lagéniformes à cylindriques à paroi fine à moyenne 1,0-2,4 µm, (50,1) 60,3 - 64,7 (70,0) × (11) 16 - 17,5 (18,5) µm, parfois avec col tortueux, largement ovoïdes à piriformes, (20,5) 42,8 - 50,8 (51,4) × (17,5) 18,4 - 20,3 (24) µm, à paroi fine à moyenne (1,0) 1,4-2,5 (2,7) µm
+  pleurocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, atténué au sommet-obclavée, lagéniformes à cylindriques à paroi fine à moyenne 1,0-2,4 µm, (50,1) 60,3-64,7 (70,0) × (11) 16-17,5 (18,5) µm, parfois avec col tortueux, largement ovoïdes à piriformes, (20,5) 42,8-50,8 (51,4) × (17,5) 18,4-20,3 (24) µm, à paroi fine à moyenne (1,0) 1,4-2,5 (2,7) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -285,8 +286,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 12, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    D'après la Clé des Inocybes de Ray Fatto: Code = A C E H K L N Q - (<i>I. abjecta</i>);  A C F H K L N Q - (<i>I. fuscidula</i>)
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

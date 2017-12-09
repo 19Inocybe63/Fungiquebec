@@ -100,7 +100,7 @@ description:
   caulocystides-sommitales: rares à occasionnelles, surtout cylindriques, éparses, ou en faisceaux, ressemblent à des hyphes terminales, cylindriques et bouclées, 40-70 x 6-8 µm
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: abondantes, piriformes à clavées (18,3) 18,33-23,3 × 7,1-9,5 µm
+  cellules-marginales-paracystides: abondantes, piriformes à clavées 18,3-23,3 × 7,1-9,5 µm
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 

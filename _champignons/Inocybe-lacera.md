@@ -78,11 +78,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à piriformes, bisporiques, généralement tétrasporiques, non bouclées à la base, (22,2) 28 - 35,6 (36,1) × (9,6) 10,5 - 12,9 (13,2) µm
+  basides: claviformes à piriformes, bisporiques, généralement tétrasporiques, non bouclées à la base, (22,2) 28-35,6 (36,1) × (9,6) 10,5-12,9 (13,2) µm
   basidiospores: |
     léiosporées, typiquement fusiformes à subcylindracées, à sommet un peu conique, mais obtus ou étiré et base tronquée ou trapézoïdales, parfois à aspect pentagonal allongé, ± étranglé à subgibbeux, à paroi mince 0,1-0,2 µm, avec un petit appendice hilaire, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (12,4) 13,8 - 16,1 (17,4) × (4,4) 4,9 - 5,6 (6,2) µm
-    Q = (2,5) 2,7 - 3,4 (3,6); N = 30
+    (12,4) 13,8-16,1 (17,4) × (4,4) 4,9-5,6 (6,2) µm
+    Q = (2,5) 2,7-3,4 (3,6); N = 30
     Me = 15 × 5,2 µm; Qe = 2,9
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -101,14 +101,13 @@ description:
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, cylindriques-claviformes à piriformes, à paroi mince, hyalines, (15,8) 20,3 - 24,8 × 8,3 - 11,7 µm en moyenne
+  cellules-marginales-paracystides: nombreuses, cylindriques-claviformes à piriformes, à paroi mince, hyalines, (15,8) 20,3-24,8 × 8,3-11,7 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: pâle, subconcolore surtout en surface ou vers le bas, parfois à reflets rosés à vineux
   chancre: 
-  chapeau: 12-33 mm Ø, convexe, étalé, fibrilleux, à crevasses pâles, mamelonné, brun jaunâtre à brun beige, brun foncé en son centre, à marge blanche à crème pâle
   cheilochrysocystides:
-  cheilocystides: nombreuses, sublagéniformes, fusiformes à fusiformes ventrues, dont l'apex est parfois ± obtus, rarement ovoïdales, longuement pédicellées, émergentes au ⅔, lorsque présent, les cristaux d'oxalate sont très peu nombreux, ammoniaco -, à paroi fine 1-1,5 µm; (31,5) 40,3 - 56,1 (76,7) × (15,5) 17,7 - 21,3 (21,4) µm
+  cheilocystides: nombreuses, sublagéniformes, fusiformes à fusiformes ventrues, dont l'apex est parfois ± obtus, rarement ovoïdales, longuement pédicellées, émergentes au ⅔, lorsque présent, les cristaux d'oxalate sont très peu nombreux, ammoniaco -, à paroi fine 1-1,5 µm; (31,5) 40,3-56,1 (76,7) × (15,5) 17,7-21,3 (21,4) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -251,9 +250,10 @@ description:
   pileipellis: suprapellis à hyphes articulées 15-30 (50) x (8) 12-15 (20) µm, à pigment mixte ou lisse à ± zébrant; subpellis à hyphes élargies 25-40 µm, mais rarement subisodiamétriques
   pileitrame: 
   pileocystides: 
+  pileus: 12-33 mm Ø, convexe, étalé, fibrilleux, à crevasses pâles, mamelonné, brun jaunâtre à brun beige, brun foncé en son centre, à marge blanche à crème pâle
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles, sublagéniformes, fusiformes à fusiformes ventrues dont l'apex est parfois ± obtus, rarement ovoïdales 42 - 44 × 19 - 23 µm en moyenne; longuement pédicellées, émergentes au ⅔, lorsque présentes, les cristaux d'oxalate sont très peu nombreux, ammoniaco -, à paroi fine à moyenne 1,2 - 2,1 µm; 48,9 - 81,2 × 14,1 - 25,6 µm en moyenne
+  pleurocystides: occasionnelles, sublagéniformes, fusiformes à fusiformes ventrues dont l'apex est parfois ± obtus, rarement ovoïdales 42-44 × 19-23 µm en moyenne; longuement pédicellées, émergentes au ⅔, lorsque présentes, les cristaux d'oxalate sont très peu nombreux, ammoniaco -, à paroi fine à moyenne 1,2-2,1 µm; 48,9-81,2 × 14,1-25,6 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

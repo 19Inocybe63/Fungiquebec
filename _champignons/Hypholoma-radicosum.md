@@ -79,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre
   chancre: 
-  chapeau: 20-50 mm Ø, convexe puis étalé, lisse, crème à jaunâtre, fauve au disque, orné de fibrilles blanches vers la marge
   cheilochrysocystides: absentes
   cheilocystides: 
   cheiloleptocystides: abondantes, cylindriques à étroitement clavées, avec parfois un apex subcapité 29 x 6 µm en moyenne
@@ -219,6 +218,7 @@ description:
   pileipellis: en ixocutis constitué d’un suprapellis entre 10-20 µm et un subpellis entre 40-50 µm
   pileitrame: 
   pileocystides: 
+  pileus: 20-50 mm Ø, convexe puis étalé, lisse, crème à jaunâtre, fauve au disque, orné de fibrilles blanches vers la marge
   plasmode: 
   pleurochrysocystides: rares, semblables aux cheilocystides 44 x 11 µm en moyenne
   pleurocystides: 

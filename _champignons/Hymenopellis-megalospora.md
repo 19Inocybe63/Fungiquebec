@@ -52,12 +52,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à légèrement piriformes, tétrasporiques, bouclées à la base, 55-60(61,5) x 13-14(15,2) µm en moyenne
+  basides: cylindriques à légèrement piriformes, tétrasporiques, bouclées à la base, 55-60 (61,5) x 13-14 (15,2) µm en moyenne
   basidiospores: |
     ellipsoïdes à amygdaliformes, ridulées, à paroi légèrement épaissie, avec appendice hilaire proéminent, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     16,6 [18,5; 19,2] 21 x 10,7 [11,6; 12] 12,9 µm
     Q = 1,5 [1,6] 1,7; N = 39; C = 95%
     Me = 18,8 x 11,8 µm en moyenne; Q moyen = 1,6
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 83 mm Ø, conique, convexe, visqueux, ridé plissé, brunâtre
   cheilochrysocystides:
   cheilocystides: polymorphes et abondantes, lécythiformes à largement clavées et 93,1 x 30,1 µm en moyenne, fusiformes et 52,3 x 8,1 µm en moyenne, à largement fusiformes, parfois cylindriques et parfois cylindriques et élargies vers l'apex, rarement rostrées
   cheiloleptocystides: 
@@ -88,7 +88,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « L'espèce <i>H. megalospora</i> diffère de <i>H. limonispora</i> par la présence de piléocystides. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « L'espèce <i>H. megalospora</i> diffère de <i>H. limonispora</i> par la présence de piléocystides. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -219,6 +220,7 @@ description:
   pileipellis: en hyménoderme
   pileitrame: 
   pileocystides: longuement fusiformes et courbées, 73,7 x 8,8 µm en moyenne
+  pileus: 83 mm Ø, conique, convexe, visqueux, ridé plissé, brunâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: claviformes à largement claviformes 91,8 x 26,5 µm, à fusiformes-ventrues

@@ -62,8 +62,8 @@ description:
   basides: 
   basidiospores: |
     gibbosporées (noduleuses)-anguleuses (goniospores) avec 8-10 bosses moyennement haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (6,7) 7,3 - 8,8 (9,4) × (5,3) 5,5 - 7,1 (7,5) µm
-    Q = (1) 1,1 - 1,5 (1,7); N = 30
+    (6,7) 7,3-8,8 (9,4) × (5,3) 5,5-7,1 (7,5) µm
+    Q = (1) 1,1-1,5 (1,7); N = 30
     Me = 8 × 6,3 µm; Qe = 1,3
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -78,17 +78,16 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: de type métuloïdes, sensiblement comme les caulocystides sommitales
-  caulocystides-sommitales: de type métuloïdes, fusiformes à largement fusiformes (41,8) 46,6 - 56,3 (59,7) × (13,3) 16,4 - 22,6 (23,8) µm, à piriformes, (13,4) 13,45 - 23,2 × (5,1) 5,15 - 11,8 µm en moyenne
+  caulocystides-sommitales: de type métuloïdes, fusiformes à largement fusiformes (41,8) 46,6-56,3 (59,7) × (13,3) 16,4-22,6 (23,8) µm, à piriformes, (13,4) 13,45-23,2 × (5,1) 5,15-11,8 µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, piriformes, (16,9) 16,91 - 22,3 × (8,9) 8,94 - 9,6 µm en moyenne
+  cellules-marginales-paracystides: nombreuses, piriformes, 16,9-22,3 × 8,9-9,6 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 23-25 mm Ø, conique-convexe, conique, campanulé, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
   cheilochrysocystides:
-  cheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, parfois ovoïdes, (39,8) 46,3 - 56,2 (56,8) × (16,6) 19,5 - 21,3 (26,4) µm
+  cheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, parfois ovoïdes, (39,8) 46,3-56,2 (56,8) × (16,6) 19,5-21,3 (26,4) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -232,9 +231,10 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 23-25 mm Ø, conique-convexe, conique, campanulé, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, polymorphes, largement fusiformes, ellipsoïdes à ovoïdes à largement ovoïdes, (44) 50,8 - 53,6 (55,9) × (24,2) 25,5 - 29,6 (33,2) µm
+  pleurocystides: nombreuses, polymorphes, largement fusiformes, ellipsoïdes à ovoïdes à largement ovoïdes, (44) 50,8-53,6 (55,9) × (24,2) 25,5-29,6 (33,2) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

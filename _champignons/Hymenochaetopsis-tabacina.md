@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: consistance coriace, mais le sporocarpe se dechire assez facilement
   chancre: 
-  chapeau: jusqu'à 10 mm de projection de quelques mm de largeur, parfois fusionnés latéralement, étalé, arrondi, puis confluent et ordinairement réflechi, coriace, mince, flasque, satiné, tomenteux, rouille clair à marron, zoné de fauve et bordé de jaune doré, surface pileique feutrée, orange-brun, puis gris-brun
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -217,6 +216,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: jusqu'à 10 mm de projection de quelques mm de largeur, parfois fusionnés latéralement, étalé, arrondi, puis confluent et ordinairement réflechi, coriace, mince, flasque, satiné, tomenteux, rouille clair à marron, zoné de fauve et bordé de jaune doré, surface pileique feutrée, orange-brun, puis gris-brun
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

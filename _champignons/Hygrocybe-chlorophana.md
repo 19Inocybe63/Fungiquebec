@@ -58,6 +58,7 @@ description:
     7,6 [8,1; 8,3] 8,8 x 4,5 [5; 5,3] 5,8 µm
     Q = 1,4 [1,6] 1,8; N = 30; C = 95%
     Me = 8,2 x 5,2 µm; Qe = 1,6
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, jaunâtre
   chancre: 
-  chapeau: 20-60 mm Ø, convexe puis étalé, viscidule, lisse, jaune citron foncé à orange vif, parfois plus jaune orangé au centre, demeurant jaune foncé avec l'âge et au sec, à marge parfois translucide-striée
   cheilochrysocystides:
   cheilocystides: absentes
   cheiloleptocystides: 
@@ -219,6 +219,7 @@ description:
   pileipellis: en trichoderme avec subpellis non différencié
   pileitrame: 
   pileocystides: 
+  pileus: 20-60 mm Ø, convexe puis étalé, viscidule, lisse, jaune citron foncé à orange vif, parfois plus jaune orangé au centre, demeurant jaune foncé avec l'âge et au sec, à marge parfois translucide-striée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

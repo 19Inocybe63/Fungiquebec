@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, ± épaisse, ± blanchâtre, rosâtre à saumon
   chancre: 
-  chapeau: 32-62 mm Ø, campanulé, convexe devenant largement convexe à étalé, glabre, collant au frais, mamelonné, développant de fines écailles et des fissures, à marge enroulée et finement duveteuse au début, crème rosâtre à saumon, avec parfois des reflets verdâtres au centre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -220,6 +219,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 32-62 mm Ø, campanulé, convexe devenant largement convexe à étalé, glabre, collant au frais, mamelonné, développant de fines écailles et des fissures, à marge enroulée et finement duveteuse au début, crème rosâtre à saumon, avec parfois des reflets verdâtres au centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: de 20 à 100 mm et +, d'abord résupiné et bosselé irrégulierement par des boursouflures en forme de coussinets, de couleur grise à marge blanche à blanchâtre, devenant noirâtre puis noir à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -224,6 +223,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: de 20 à 100 mm et +, d'abord résupiné et bosselé irrégulierement par des boursouflures en forme de coussinets, de couleur grise à marge blanche à blanchâtre, devenant noirâtre puis noir à maturité
   plasmode: 
   pleurocystides: 
   poils: 

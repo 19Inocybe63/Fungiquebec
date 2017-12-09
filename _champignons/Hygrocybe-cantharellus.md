@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune, blanchâtre, orangée à orange rougeâtre
   chancre: 
-  chapeau: 6-30 mm Ø, largement convexe, avec une marge incrustée et finement festonnée, sec ou légèrement collant, mais non gluant, glabre ou très finement fibrillose au début, écarlate à orange rougeâtre lorsque jeune, avec une marge jaunâtre, décoloration à orange ou orange pâle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -215,6 +214,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 6-30 mm Ø, largement convexe, avec une marge incrustée et finement festonnée, sec ou légèrement collant, mais non gluant, glabre ou très finement fibrillose au début, écarlate à orange rougeâtre lorsque jeune, avec une marge jaunâtre, décoloration à orange ou orange pâle
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

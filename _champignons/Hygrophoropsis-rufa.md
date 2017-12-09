@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: soyeuse, légèrement élastique, orangée, immuable
   chancre: 
-  chapeau: 42-56 mm Ø, convexe, déprimé, orange, avec centre brun rougeâtre foncé, avec zones annulaires, feutré
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -213,6 +212,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 42-56 mm Ø, convexe, déprimé, orange, avec centre brun rougeâtre foncé, avec zones annulaires, feutré
   plasmode: 
   pleurocystides: 
   poils: 

@@ -69,11 +69,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement claviformes-piriformes, à très légèrement déformées-flexueuses, bisporiques à tétrasporiques jusqu'à 4 µm de longueur, bouclées à la base, avec contenu granuleux, 21,7 - 34 × (9,4) 9,45 - 12,9 µm en moyenne
+  basides: courtement claviformes-piriformes, à très légèrement déformées-flexueuses, bisporiques à tétrasporiques jusqu'à 4 µm de longueur, bouclées à la base, avec contenu granuleux, 21,7-34 × 9,4-12,9 µm en moyenne
   basidiospores: |
     gibbosporées noduleuses-anguleuses (goniospores) avec 8-10 bosses assez haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (6,3) 6,7 - 8,7 (9,1) × (4,4) 5,6 - 7 (7,4) µm
-    Q = 1 - 1,4 (1,7); N = 30
+    (6,3) 6,7-8,7 (9,1) × (4,4) 5,6-7 (7,4) µm
+    Q = 1-1,4 (1,7); N = 30
     Me = 7,6 × 6,2 µm; Qe = 1,2
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -87,18 +87,17 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: polymorphes, de type métuloïdes fusiformes à lagéniformes, à paroi fine à épaissie 1-3 µm, (44,7) 59,9 - 77 (82,7) × (16,1) 18,5 - 23,2 (23,5) µm, ellipsoïdes ovoïdes 27,1 - 31,76 (31,8) × 8,4 - 11,4 µm en moyenne, en faisceaux
-  caulocystides-sommitales: polymorphes, de type métuloïdes fusiformes à lagéniformes, à paroi moyenne à épaissie 2-3 µm, (53,5) 56,7 - 88,3 (89,4) × (18,9) 19,9 - 27,4 (35,2) µm en moyenne, clavées 29,8 - 30,8 × 8,9 - 9,9 µm en moyenne, et ovoïdes 30,9 - 34,7 × 15,6 - 16,5 µm en moyenne, en faisceaux, rarement solitaire
+  caulocystides-medianes: polymorphes, de type métuloïdes fusiformes à lagéniformes, à paroi fine à épaissie 1-3 µm, (44,7) 59,9-77 (82,7) × (16,1) 18,5-23,2 (23,5) µm, ellipsoïdes ovoïdes 27,1-31,76 (31,8) × 8,4-11,4 µm en moyenne, en faisceaux
+  caulocystides-sommitales: polymorphes, de type métuloïdes fusiformes à lagéniformes, à paroi moyenne à épaissie 2-3 µm, (53,5) 56,7-88,3 (89,4) × (18,9) 19,9-27,4 (35,2) µm en moyenne, clavées 29,8-30,8 × 8,9-9,9 µm en moyenne, et ovoïdes 30,9-34,7 × 15,6-16,5 µm en moyenne, en faisceaux, rarement solitaire
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: abondantes, piriformes, clavées, sphéropédonculées, à paroi fine, situées sur l'arête lamellaire, 17,6 - 28,4 × 8,2 - 10,25 (10,3) µm en moyenne
+  cellules-marginales-paracystides: abondantes, piriformes, clavées, sphéropédonculées, à paroi fine, situées sur l'arête lamellaire, 17,6-28,4 × 8,2-10,25 (10,3) µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: mince, blanche, immuable
   chancre: 
-  chapeau: 10-40 mm Ø, conique-convexe, conique, campanulé à subétalé, avec papille arrondie ou ombon indistinct, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
   cheilochrysocystides:
-  cheilocystides: de type métuloïdes, nombreuses, fusiformes à largement fusiformes (± ventrues), lagéniformes, à paroi fine à moyenne 1,5-2,4 µm, (52,2) 64,2 - 74,5 (74,6) × (13,4) 19,4 - 21,2 (24,0) µm 
+  cheilocystides: de type métuloïdes, nombreuses, fusiformes à largement fusiformes (± ventrues), lagéniformes, à paroi fine à moyenne 1,5-2,4 µm, (52,2) 64,2-74,5 (74,6) × (13,4) 19,4-21,2 (24,0) µm 
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -111,6 +110,8 @@ description:
     De Claude Kaufholtz-Couture. « Les cristaux apicaux de la collection cKc0341 et cKc0391. Dans l'observation des cristaux apicaux, j'ai relevé, avec une observation au 40x, que le sommet des cystides (cheilocystides et pleurocystides) possède entre 5 et 10 crochets. Chaque sommet se compose de 5 à 10 (11) crochets, dont 2 (3) sont bifides et les autres entiers. C'est avec le temps que l'on pourra tirer une conclusion de cette observation. »
     « La Nigrosine donne de beaux contrastes aux cystides et colore leur contenu. »
     « Collection étudiée sur matériel déshydraté. »
+    « Sous-genre Inocybe, Section Marginatae, Sous-section Praetervisae
+    Clé d'après la clé de Fatto: B C E H K M N Q + mix; ressemble aussi à <i>Inocybe earleana</i> = B C E H K M N Q + mix »
     De Yves Lamoureux. « Il s'agit d'un bulbe marginé typique des Inocybes dits bulbeux. Ici le bulbe est bien visible, même s'il est petit, d'où l'importance de cette photo. La marge du bulbe est bien visible. Dans de tels cas, il faut parfois vérifier la base du pied par une coupe longitudinale du basidiome, c'est préférable. La base est souvent si enrobée dans de la terre dense qu'on la voit mieux en coupe. De plus, cette terre très adhérente est difficile à décoller complètement du pied sans le briser; des petits morceaux du bulbe se brisent inévitablement. »
   conidies: 
   conidiome: 
@@ -241,12 +242,13 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis (ixocutis) avec suprapellis d'environ 50-55 µm de profondeur, parallèle à hyaline entrelacées, avec hyphes agglutinées 2-3,5 µm de Ø, avec granulations hyalines, le subpellis est composé d’une couche d’environ 65 µm de profondeur, compacts, avec des hyphes entrelacées entre 5.5-13 µm de Ø, avec des hyphes à pigmentations incrustées brun foncé à brun pâles
+  pileipellis: en cutis (ixocutis) avec suprapellis d'environ 50-55 µm de profondeur, parallèle à hyaline entrelacées, avec hyphes agglutinées 2-3,5 µm de Ø, avec granulations hyalines, le subpellis est composé d’une couche d’environ 65 µm de profondeur, compacts, avec des hyphes entrelacées entre 5,5-13 µm de Ø, avec des hyphes à pigmentations incrustées brun foncé à brun pâles
   pileitrame: 
   pileocystides: 
+  pileus: 10-40 mm Ø, conique-convexe, conique, campanulé à subétalé, avec papille arrondie ou ombon indistinct, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: de type métuloïdes, abondantes, fusiformes à largement fusiformes (± ventrues), lagéniformes, à paroi épaisse 3-4 µm, (53,2) 67,1 - 74,5 (90,8) × (15,5) 19,7 - 22,3 (29,2) µm
+  pleurocystides: de type métuloïdes, abondantes, fusiformes à largement fusiformes (± ventrues), lagéniformes, à paroi épaisse 3-4 µm, (53,2) 67,1-74,5 (90,8) × (15,5) 19,7-22,3 (29,2) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -282,9 +284,7 @@ description:
   reactions-macrochimiques: |
     Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 
-  remarques: |
-    Sous-genre Inocybe, Section Marginatae, Sous-section Praetervisae
-    Clé d'après la clé de Fatto : B C E H K M N Q + mix; ressemble aussi à <i>Inocybe earleana</i> = B C E H K M N Q + mix
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

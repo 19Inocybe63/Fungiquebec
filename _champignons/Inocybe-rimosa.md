@@ -85,7 +85,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 33 mm Ø, subconique à campanulé, rimeux, jaune paille, à jaune brun-rougeâtre, blanchâtre au centre (velipellis)
   cheilochrysocystides:
   cheilocystides: abondantes, piriformes à largement clavées 25,6 [30,6; 34,5] 39,6 x 7,6 [9,6; 11,2] 13,2 µm
   cheiloleptocystides: 
@@ -98,6 +97,7 @@ description:
   comestibilite: NON
   commentaires: |
     De Claude Kaufholtz-Couture. « Une fois déshydraté, cette collection sent un mélange de sueur et d'urine. »
+    « Sous genre Rimosae; Clé de Fatto, A D F I K L N Q »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -228,6 +228,7 @@ description:
   pileipellis: en cutis
   pileitrame: 
   pileocystides: 
+  pileus: 33 mm Ø, subconique à campanulé, rimeux, jaune paille, à jaune brun-rougeâtre, blanchâtre au centre (velipellis)
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes
@@ -265,7 +266,7 @@ description:
   reactions-macrochimiques: |
     Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 
-  remarques: Sous genre Rimosae; Clé de Fatto, A D F I K L N Q
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -68,6 +68,7 @@ description:
     13,7 [15,3; 16] 17,6 x 10,5 [11,7; 12,1] 13,3 µm
     Q = 1,2 [1,3] 1,4; N = 34; C = 95%
     Me = 15,7 x 11,9 µm en moyenne; Q moyen = 1,3
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -88,9 +89,8 @@ description:
   cellules-stromatiques: 
   chair: mince, blanche, immuable
   chancre: 
-  chapeau: 20-100 mm Ø, campanulé à convexe puis étalé-mamelonné, sec et très finement velouté au début, puis lubrique et glabre avec l'âge, ridé-plissé, brun foncé puis brun pâle à brun jaunâtre
   cheilochrysocystides:
-  cheilocystides: abondantes et formant une arête lamellaire stérile, subgélatinisée et renflée, étroitement fusoïdes à ventrues, ± pédicellées, à paroi mince, hyalines ou à contenu bistré, collapsant facilement au sec, reposant sur une matrice gélatinisée formée d'hyphes de 2-4(5) µm Ø
+  cheilocystides: abondantes et formant une arête lamellaire stérile, subgélatinisée et renflée, étroitement fusoïdes à ventrues, ± pédicellées, à paroi mince, hyalines ou à contenu bistré, collapsant facilement au sec, reposant sur une matrice gélatinisée formée d'hyphes de 2-4 (5) µm Ø
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -228,6 +228,7 @@ description:
   pileipellis: en ixocutis, formé d'une couche subhyménodermique de cellules clavées, piriformes à ± pédicellées, gélatinisées, bouclées, à paroi légèrement épaissie, lisses, hyalines, souvent à contenu bistre, 36-55 x 15-22 µm, mélangées à des cellules géantes, profondément radicantes, à paroi légèrement épaissie à la base, 85-35 µm, avec piléocystides dispersées, souvent concentrée au disque et dans les régions marginales, cylindriques à maturité, ventrues à la base, à paroi épaissie jusqu'à 1,5 µm de largeur, hyalines, 120-150 x 10-13 µm, avec subpellis formé d'hyphes emmêlées, subgélatinisées, 3-5 µm Ø
   pileitrame: 
   pileocystides: subsétiformes, longuement fusiformes et parfois courbées, à paroi épaissie, concentrées au disque, 98,7 x 11,4 µm en moyenne
+  pileus: 20-100 mm Ø, campanulé à convexe puis étalé-mamelonné, sec et très finement velouté au début, puis lubrique et glabre avec l'âge, ridé-plissé, brun foncé puis brun pâle à brun jaunâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes, dispersées, largement cylindriques, atténuées vers la base et tronquées-arrondies vers l'apex, à paroi légèrement et uniformément épaissie, hyalines, exsudant une substance huileuse qui peut devenir jaunâtre à brun jaunâtre chez les vieux spécimens, mais non orangée, 110-132 x 24-34 µm

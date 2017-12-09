@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, ferme, cassante, blanche à orangé pâle, se tachant d'orange puis de brun à la coupe
   chancre: 
-  chapeau: 20-60 mm Ø, convexe à étalé, ombiliqué au centre et perforé jusque dans le pied, finement tomenteux, orange rouille à orange brunâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -221,6 +220,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-60 mm Ø, convexe à étalé, ombiliqué au centre et perforé jusque dans le pied, finement tomenteux, orange rouille à orange brunâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

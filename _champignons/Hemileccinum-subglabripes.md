@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: jaune pâle, immuable à la coupe ou au grattage
   chancre: 
-  chapeau: 33-97 mm Ø, convexe à largement convexe, étalé, parfois avec ombon, glabre, brun à brun légèrement jaunâtre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -220,6 +219,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 33-97 mm Ø, convexe à largement convexe, étalé, parfois avec ombon, glabre, brun à brun légèrement jaunâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

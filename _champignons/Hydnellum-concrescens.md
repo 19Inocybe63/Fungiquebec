@@ -56,6 +56,7 @@ description:
   basidiospores: |
     globuleuses à irrégulièrement subglobuleuses, gibbeuses en étoiles (noduleuses), à paroi mince, avec appendice hilaire proéminent, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%
     4-7 x 4-4,5 µm
+    (Piximètre; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -76,7 +77,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 20-100 mm Ø, souvent fusionné avec d'autres chapeaux, plano-convex, devenant plat, souvent déprimé ou infundibuliforme, finement velouté à presque glabre, parsemé d'alvéoles et de squamules dressées, brun brunâtre à brun rosâtre, parfois pâle à presque blanchâtre, avec des zones concentriques de texture et/ou de couleur, la marge brun foncé à noir, se tachant de brun-pourpre, brun-noir à noir au froissement
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -86,7 +86,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Auparavant, quand cette espèce venait sous conifères, on la nommait <i>zonatum</i> et sous feuillius, <i>scrobiculatum</i>. Là, j'ai vu que IF les mettent synonymes, mais jusqu'à quand ? Les <i>Hydnaceae</i> semblent stricts quant à leurs partenaires symbiotiques. »
+  commentaires: |
+    De Yves Lamoureux. « Auparavant, quand cette espèce venait sous conifères, on la nommait <i>zonatum</i> et sous feuillius, <i>scrobiculatum</i>. Là, j'ai vu que Index Fungorum les mettent synonymes, mais jusqu'à quand ? Les <i>Hydnaceae</i> semblent stricts quant à leurs partenaires symbiotiques. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,6 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-100 mm Ø, souvent fusionné avec d'autres chapeaux, plano-convex, devenant plat, souvent déprimé ou infundibuliforme, finement velouté à presque glabre, parsemé d'alvéoles et de squamules dressées, brun brunâtre à brun rosâtre, parfois pâle à presque blanchâtre, avec des zones concentriques de texture et/ou de couleur, la marge brun foncé à noir, se tachant de brun-pourpre, brun-noir à noir au froissement
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

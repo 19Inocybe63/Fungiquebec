@@ -96,7 +96,6 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre dans le chapeau, carnée dans le pied, blanche dans le bulbe
   chancre: 
-  chapeau: 10-40 (45) mm Ø, conique-convexe à campanulé, d'abord lisse puis fibrilleux-rimeux, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre
   cheilochrysocystides:
   cheilocystides: métuloïdes, 60,3 [61,6; 67,7] 68,9 x 17,2 [17,8; 20,2] 20,8 µm en moyenne
   cheiloleptocystides: 
@@ -107,7 +106,9 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Sous-genre Clypeus Britz., (Espèces gibbosporées); Section Marginatae Kühner (Espèces gibbosporées à stipe entièrement poudré et bulbeux-marginé); Sous-section Oblectabiles M. Bon (Marginatae à stipe ± rosé ou subconcolore)
+    Code d'après la clé de Fatto: B C F H K M N Q + mix »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -238,6 +239,7 @@ description:
   pileipellis: en cutis
   pileitrame: 
   pileocystides: 
+  pileus: 10-40 (45) mm Ø, conique-convexe à campanulé, d'abord lisse puis fibrilleux-rimeux, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, 52,2 [59,1; 68,5] 75,4 x 15 [17,4; 20,7] 23,1 µm en moyenne
@@ -275,9 +277,7 @@ description:
   reactions-macrochimiques: |
     Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0; (présence d’indole)
   receptacle: 
-  remarques: |
-    Sous-genre Clypeus Britz., (Espèces gibbosporées); Section Marginatae Kühner (Espèces gibbosporées à stipe entièrement poudré et bulbeux-marginé); Sous-section Oblectabiles M. Bon (Marginatae à stipe ± rosé ou subconcolore)
-    Code d'après la clé de Fatto: B C F H K M N Q + mix
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

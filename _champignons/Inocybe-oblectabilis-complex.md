@@ -69,11 +69,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques à claviformes, piriformes, bisporiques mais généralement tétrasporiques, bouclées à la base, 28,9 - 32,9 × 10 - 11,5 µm
+  basides: cylindriques à claviformes, piriformes, bisporiques mais généralement tétrasporiques, bouclées à la base, 28,9-32,9 × 10-11,5 µm
   basidiospores: |
     goniosporées à 6-10 bosses, ± coniques, à subquadrangulaires, anguleuses à noduleuses, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun à ± brun rougeâtre dans E.G. 20%, ferrugineuses dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
-    (9,1) 9,5 - 10,8 (11,1) × (5,6) 6 - 7,6 (8) µm
-    Q = (1,2) 1,3 - 1,6 (1,8); N = 30
+    (9,1) 9,5-10,8 (11,1) × (5,6) 6-7,6 (8) µm
+    Q = (1,2) 1,3-1,6 (1,8); N = 30
     Me = 10,1 × 7 µm; Qe = 1,5
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -87,19 +87,18 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: de deux types; cauloparacystides, abondantes, en faisceaux ou isolées, cylindriques à piriformes, napiformes, parfois avec légère striction (14,2) 14,6 - 20,9 (31,3) × (5,9) 8,2 - 10,3 (11,9) µm; caulocystides métuloïdes, occasionnelles, isolées parmi les cauloparacystides, lagéniformes à largement lagéniformes, fusiformes à largement fusiformes, (39,7) 40,4 - 56,9 (65,9) × (16,5) 17,2 - 21,2 (24,3) µm, à paroi moyenne à épaisse 1,7 - 4,3 µm
-  caulocystides-sommitales: de deux types; cauloparacystides, abondantes, en faisceaux ou isolées, cylindriques à piriformes, napiformes, parfois avec légère striction 14,2 - 31,3 × 5,9 - 11,9 µm; caulocystides métuloïdes, nombreuses, isolées ou en petit groupe parmi les cauloparacystides, lagéniformes à fusiformes, (41,1) 47,1 - 57,8 (61,7) × (16,7) 18,9 - 21,6 (25,7) µm, à paroi fine à épaisses 1,3 - 4, µm
+  caulocystides-medianes: de deux types; cauloparacystides, abondantes, en faisceaux ou isolées, cylindriques à piriformes, napiformes, parfois avec légère striction (14,2) 14,6-20,9 (31,3) × (5,9) 8,2-10,3 (11,9) µm; caulocystides métuloïdes, occasionnelles, isolées parmi les cauloparacystides, lagéniformes à largement lagéniformes, fusiformes à largement fusiformes, (39,7) 40,4-56,9 (65,9) × (16,5) 17,2-21,2 (24,3) µm, à paroi moyenne à épaisse 1,7-4,3 µm
+  caulocystides-sommitales: de deux types; cauloparacystides, abondantes, en faisceaux ou isolées, cylindriques à piriformes, napiformes, parfois avec légère striction 14,2-31,3 × 5,9-11,9 µm; caulocystides métuloïdes, nombreuses, isolées ou en petit groupe parmi les cauloparacystides, lagéniformes à fusiformes, (41,1) 47,1-57,8 (61,7) × (16,7) 18,9-21,6 (25,7) µm, à paroi fine à épaisses 1,3-4, µm
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: abondantes formant parfois une palissade, piriformes, cylindriques, napiformes, 14,2 - 31,3 × 5,9 - 11,9 µm en moyenne
+  cellules-marginales-paracystides: abondantes formant parfois une palissade, piriformes, cylindriques, napiformes, 14,2-31,3 × 5,9-11,9 µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: blanchâtre, ferme, devient rougeâtre à la coupe
   chancre: 
-  chapeau: 38-56 mm Ø, convexe à campanulé, fibrilleux-rimeux, brun tan dont la marge est plus pâle
   cheilochrysocystides:
-  cheilocystides: métuloïdes, ± nombreuses, lagéniformes, fusiformes à largement fusiformes, Ammoniaco -, (40,2) 45,1 - 57,8 (66,5) × (16,5) 17 - 28,5 (35,8) µm, à paroi 1,5 - 4,2 µm
+  cheilocystides: métuloïdes, ± nombreuses, lagéniformes, fusiformes à largement fusiformes, Ammoniaco -, (40,2) 45,1-57,8 (66,5) × (16,5) 17-28,5 (35,8) µm, à paroi 1,5-4,2 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -243,9 +242,10 @@ description:
   pileipellis: en cutis
   pileitrame: 
   pileocystides: 
+  pileus: 38-56 mm Ø, convexe à campanulé, fibrilleux-rimeux, brun tan dont la marge est plus pâle
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: ± nombreuses, fusiformes à largement fusiformes, lagéniformes,  Ammoniaco -, 47,3 - 60,7 × 16,6 - 24,5 µm, à paroi 2,13 - 3,6 µm
+  pleurocystides: ± nombreuses, fusiformes à largement fusiformes, lagéniformes,  Ammoniaco -, 47,3-60,7 × 16,6-24,5 µm, à paroi 2,1-3,6 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

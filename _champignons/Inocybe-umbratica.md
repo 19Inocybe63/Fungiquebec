@@ -79,11 +79,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à cylindriques-claviformes, tétrasporiques, boucles non observées à la base, 24-33 x 8-10 µm ;
+  basides: claviformes à cylindriques-claviformes, tétrasporiques, boucles non observées à la base, 24-33 x 8-10 µm
   basidiospores: |
     goniosporées, noduleuses anguleuses, parfois subrectangulaires, 8-10 bosses relativement bien dénombrables, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (6,3) 6,6 - 8 (9,3) × (4,9) 5 - 6,3 (6,9) µm
-    Q = (1) 1,2 - 1,5 (1,6); N = 30
+    (6,3) 6,6-8 (9,3) × (4,9) 5-6,3 (6,9) µm
+    Q = (1) 1,2-1,5 (1,6); N = 30
     Me = 7,5 × 5,6 µm; Qe = 1,3
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -107,7 +107,6 @@ description:
   cellules-stromatiques: 
   chair: mince, 1-2 mm d'épaisseur au disque, blanchâtre dans le chapeau, pâle dans le pied, immuable
   chancre: 
-  chapeau: 15-40 (50) mm Ø, campanulé-conique puis largement mamelonné, au revêtement fibrilleux, couvert de fibrilles blanches par endroits (restes du velipellis), blanc puis un peu crème terne ou ± grisâtre à maturité
   cheilochrysocystides:
   cheilocystides: abondantes, courtes, fusiformes, lagéniformes à claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans cristaux d'oxalate de calcium, ou clairsemé
   cheiloleptocystides: 
@@ -249,9 +248,10 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: formé de 2 couches. 1) suprapellis en cutis formé d'une couche compacte d'hyphes apprimées ± 80-120 µm d'épaisseur, bouclées, hyalines, légèrement incrustées, 4-15 µm Ø ; 2) subpellis ± 120-200 µm d'épaisseur, formé d'hyphes similaires, légèrement pigmentées et moins compacte
+  pileipellis: formé de 2 couches; 1) suprapellis en cutis formé d'une couche compacte d'hyphes apprimées ± 80-120 µm d'épaisseur, bouclées, hyalines, légèrement incrustées, 4-15 µm Ø; 2) subpellis ± 120-200 µm d'épaisseur, formé d'hyphes similaires, légèrement pigmentées et moins compacte
   pileitrame: 
   pileocystides: 
+  pileus: 15-40 (50) mm Ø, campanulé-conique puis largement mamelonné, au revêtement fibrilleux, couvert de fibrilles blanches par endroits (restes du velipellis), blanc puis un peu crème terne ou ± grisâtre à maturité
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, courtes, fusiformes, lagéniformes à claviformes, 35-60 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune

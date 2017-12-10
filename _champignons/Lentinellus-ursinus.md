@@ -58,6 +58,7 @@ description:
     3,6 [4,1; 4,2] 4,7 x 3,1 [3,5; 3,6] 4 µm
     Q = 1,1 [1,15; 1,2] 1,3; N = 34; C = 95%
     Me = 4,2 x 3,6 µm; Qe = 1,2
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NH<sub>4</sub>OH 2%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: mince, sauf au point d'attache, ferme, 1-3 mm, blanchâtre, chamois rosâtre à brunâtre, souvent à effet duplexe, avec ligne noire délimitant le pileipellis densément laineux
   chancre: 
-  chapeau: 30-120 mm Ø, 20-60 mm de projection, irrégulièrement conchoïde, flabelliforme à réniforme, convexe à subétalé, souvent déprimé au centre ou vers le point d'attache, sec, souvent hygrophane, sublisse, laineux à suède et devenant ridé ou finement ruguleux radialement vers la marge, couvert d'un tomentum velouté ou densément hispide souvent plus pâle puis ± concolore et brun noirâtre au point d'attache avec l'âge, lisse sur les chapeaux du dessous des amas imbriqués, sur fond beige, brun olive, brun roux à ambre, plus pâle vers la marge, finement taché ou plaqué de brun foncé à cannelle, entièrement chamois fauve au sec, à marge enroulée à incurvée et souvent appendiculée au début, puis subétalée, entière à lobée
   cheilochrysocystides:
   cheilocystides: nombreuses cylindriques à fusiformes, parfois flexueuses, dépassant les 30 µm de longueur
   cheiloleptocystides: 
@@ -219,6 +219,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 30-120 mm Ø, 20-60 mm de projection, irrégulièrement conchoïde, flabelliforme à réniforme, convexe à subétalé, souvent déprimé au centre ou vers le point d'attache, sec, souvent hygrophane, sublisse, laineux à suède et devenant ridé ou finement ruguleux radialement vers la marge, couvert d'un tomentum velouté ou densément hispide souvent plus pâle puis ± concolore et brun noirâtre au point d'attache avec l'âge, lisse sur les chapeaux du dessous des amas imbriqués, sur fond beige, brun olive, brun roux à ambre, plus pâle vers la marge, finement taché ou plaqué de brun foncé à cannelle, entièrement chamois fauve au sec, à marge enroulée à incurvée et souvent appendiculée au début, puis subétalée, entière à lobée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: peu abondantes et peu émergentes, lécythiformes, parfois fusiformes

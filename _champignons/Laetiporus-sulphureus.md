@@ -56,6 +56,7 @@ description:
   basidiospores: |
     elliptiques, ovoïdes à largement ovoïdes, lisses, à paroi mince, à contenu variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer
     5,5-7 x 3,5-5 μm
+    (Piximètre, formule statistique; mesures non issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: annuel, sessile, stipité, charnu-mou au début, fibreux-tenace à maturité, imbue au frais, friable et cassant au sec
   bibliographies: 
@@ -76,7 +77,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, aqueuse au début, devenant dure à maturité et finit par s'effriter, blanche à jaune pâle
   chancre: 
-  chapeau: 50-300 mm de largeur et jusqu'à 200 mm de profondeur, jusqu'à 30 mm d'épaisseur, en forme d'éventail à semi-circulaire ou irrégulière, ± plano à convexe, lisse à finement ridé, feutré, jaune vif à orange au début, suivant une décoloration à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -215,6 +215,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 50-300 mm de largeur et jusqu'à 200 mm de profondeur, jusqu'à 30 mm d'épaisseur, en forme d'éventail à semi-circulaire ou irrégulière, ± plano à convexe, lisse à finement ridé, feutré, jaune vif à orange au début, suivant une décoloration à maturité
   plasmode: 
   pleurocystides: 
   poils: 

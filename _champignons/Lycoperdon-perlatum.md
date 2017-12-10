@@ -65,7 +65,7 @@ description:
   basides: claviformes, bisporiques à tétrasporiques, non bouclées, vide optique, 7-10 x 4-5 µm
   basidiospores: |
     globuleuses, finement verruqueuses, formant parfois des petites plaques verruqueuses allant entre 0,3-0,6 µm Ø, à paroi mince à légèrement épaissie, avec pédicelle, à contenu uniguttulé à variable, hyalines à grisâtre pâle dans E.G. 20%, dextrinoïdes, cyanophiles
-    (3,5) 3,6 - 4,1 (4,2) × (3,4) 3,5 - 4 (4,1) µm
+    (3,5) 3,6-4,1 (4,2) × (3,4) 3,5-4 (4,1) µm
     Q = 1 (1,1); N = 30
     Me = 3,9 × 3,8 µm; Qe = 1
     (Piximètre formule classique; mesures non issues d'une sporée, dans E.G. 20%)
@@ -99,7 +99,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « Le carmin acétique de Sémichon fait ressortir davantage les petites plaques verruqueuses des basidiospores. »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Le carmin acétique de Sémichon fait ressortir davantage les petites plaques verruqueuses des basidiospores. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -151,7 +152,7 @@ description:
   exhalaison: 
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
-  exoperidium: formé de sphérocytes irrégulièrement arrondies à anguleuses, (9,3) 12,2 - 18,6 (21,9) × (9,3) 11,7 - 15,9 (16,4) µm en moyenne
+  exoperidium: formé de sphérocytes irrégulièrement arrondies à anguleuses, (9,3) 12,2-18,6 (21,9) × (9,3) 11,7-15,9 (16,4) µm en moyenne
   extremites-hyphales: 
   face-externe: 
   face-poroïde: 

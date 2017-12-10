@@ -55,7 +55,7 @@ description:
   basides: non observées
   basidiospores: |
     globuleuses, lisses à sublisses, à paroi mince à légèrement épaissie, sans pédicelle, à contenu uniguttulé à variable, hyalines à grisâtre pâle dans E.G. 20%, dextrinoïdes, cyanophiles
-    (3,4) 3,5 - 4 (4,1) × (3,3) 3,5 - 3,9 (4) µm
+    (3,4) 3,5-4 (4,1) × (3,3) 3,5-3,9 (4) µm
     Q = 1 (1,1); N = 30
     Me = 3,8 × 3,7 µm; Qe = 1
     (Piximètre formule classique; mesures issues d'une sporée, dans E.G. 20%)

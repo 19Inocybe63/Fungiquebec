@@ -78,6 +78,7 @@ description:
     (5,3) 5,9-7,3 (8,2) x (2,8) 2,8-3,3 (3,8) µm
     Q = (1,7) 1,9 - 2,3 (2,6); N = 30
     Me = 6,6 x 3,1 µm; Qe = 2,1
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -98,7 +99,6 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, blanche, immuable, rosâtre dans le pied
   chancre: 
-  chapeau: 15-50 mm Ø, ovoïde, conique-convexe à campanulé puis étalé, légèrement umboné, sec, lisse au début, à cuticule vite rompue en petites écailles ± concentriques ochracées, roussâtres, brun foncé, brun rougeâtre ou rouge vin, plus pâles vers la marge et à disque brun orangé à brun, sur fond blanchâtre à crème pâle, à marge longtemps incurvée, aiguë, parfois frangée de restes vélaires, légèrement ondulée avec l'âge, souvent sans cuticule
   cheilochrysocystides:
   cheilocystides: abondantes, polymorphes, claviformes, piriformes à turbinées, à paroi mince, lisses, hyalines dans le NaCl iso 0,9%, 14,5-37 x 7-13 µm en moyenne
   cheiloleptocystides: 
@@ -239,6 +239,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 15-50 mm Ø, ovoïde, conique-convexe à campanulé puis étalé, légèrement umboné, sec, lisse au début, à cuticule vite rompue en petites écailles ± concentriques ochracées, roussâtres, brun foncé, brun rougeâtre ou rouge vin, plus pâles vers la marge et à disque brun orangé à brun, sur fond blanchâtre à crème pâle, à marge longtemps incurvée, aiguë, parfois frangée de restes vélaires, légèrement ondulée avec l'âge, souvent sans cuticule
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

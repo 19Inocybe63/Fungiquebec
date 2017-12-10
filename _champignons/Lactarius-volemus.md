@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, cassante, crème
   chancre: 
-  chapeau: 30-103 mm Ø, convexe au début devenant étalé, à marge enroulée, avec dépression centrale ; avec ombon au disque, lisses ou légèrement craquelé, mais généralement finement veloutés, du moins lorsqu'ils sont jeunes, orange brunâtre, brun orangé, ou parfois plus léger, ou parfois plus foncé s'approchant ± du rouge brun foncé ; sans zones concentriques de couleur, mais souvent plus foncée vers le centre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -222,6 +221,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 30-103 mm Ø, convexe au début devenant étalé, à marge enroulée, avec dépression centrale ; avec ombon au disque, lisses ou légèrement craquelé, mais généralement finement veloutés, du moins lorsqu'ils sont jeunes, orange brunâtre, brun orangé, ou parfois plus léger, ou parfois plus foncé s'approchant ± du rouge brun foncé ; sans zones concentriques de couleur, mais souvent plus foncée vers le centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

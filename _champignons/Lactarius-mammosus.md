@@ -76,7 +76,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanchâtre
   chancre: 
-  chapeau: 28-46 mm Ø, convexe à étalé, déprimé, zoné, papillé, finement fibrilleux, gris mauve à gris brunâtre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -222,6 +221,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 28-46 mm Ø, convexe à étalé, déprimé, zoné, papillé, finement fibrilleux, gris mauve à gris brunâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -52,11 +52,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à subutriformes, bisporiques à tétrasporiques, bouclées à la base, à paroi mince, avec petites granulations, 23,1 - 27,2 (27,5) × (9,1) 9,3 - 10,4 (11,2) µm en moyenne
+  basides: claviformes à subutriformes, bisporiques à tétrasporiques, bouclées à la base, à paroi mince, avec petites granulations, 23,1-27,2 (27,5) × (9,1) 9,3-10,4 (11,2) µm en moyenne
   basidiospores: |
     elliptiques citriformes en vue frontale, elliptiques à amygdaliformes vues de profil, avec pore germinatif prédominant à parfois ± tronqué entre 1,3-1,7 µm de Ø, moyennement à grossièrement verruqueuses, à paroi entre 0,1-0,2 µm d'épaisseur, avec appendice hilaire dominant, à contenu uniguttulé, brun rougeâtre dans E.G. 20%, noirâtres dans le KOH 5%, non cyanophiles
-    (9,1) 9,4 - 10,7 (12,3) × (5,7) 6 - 6,9 (7,2) µm
-    Q = (1,4) 1,5 - 1,6 (1,8); N = 30
+    (9,1) 9,4-10,7 (12,3) × (5,7) 6-6,9 (7,2) µm
+    Q = (1,4) 1,5-1,6 (1,8); N = 30
     Me = 10 × 6,4 µm; Qe = 1,6
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -69,7 +69,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes, en faisceaux à parfois isolées, longuement subcapitulées à capitulées, à l’apex capitée à subcapitée, rarement à apex fourchu, piriformes à subvésiculeuses, à paroi mince, lisses, (73,7) 74,5 – 101 (+) × (7,4) 9 - 12,2 µm en moyenne
+  caulocystides: abondantes, en faisceaux à parfois isolées, longuement subcapitulées à capitulées, à l’apex capitée à subcapitée, rarement à apex fourchu, piriformes à subvésiculeuses, à paroi mince, lisses, (73,7) 74,5–101 (+) × (7,4) 9-12,2 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -79,9 +79,8 @@ description:
   cellules-stromatiques: 
   chair: épaisse, blanchâtre à brunâtre
   chancre: 
-  chapeau: 14-87 mm Ø, hémisphérique à convexe puis campanulé, étalé à subétalé à la fin, tomenteux, non hygrophane, brun tan au début, avec fibrilles laineuses innées radiales ou groupées pour former des écailles imbriquées brun grisâtre à brun-jaune, plus nombreuses vers la marge, reflet olivâtre du milieu jusqu'à la marge
   cheilochrysocystides:
-  cheilocystides: utriformes à largement utriformes, subutriformes, longuement utriformes, parfois avec pédicelle, parfois largement claviformes, à l'apex subcapité, à paroi mince, (38,1) 43,6 - 52,9 (59,4) × (8,9) 9,7 - 11,5 (12,4) µm en moyenne
+  cheilocystides: utriformes à largement utriformes, subutriformes, longuement utriformes, parfois avec pédicelle, parfois largement claviformes, à l'apex subcapité, à paroi mince, (38,1) 43,6-52,9 (59,4) × (8,9) 9,7-11,5 (12,4) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -224,6 +223,7 @@ description:
   pileipellis: duplexe; un suprapellis formé d'hyphes apprimées, ± parallèles, bouclées, 2-6 (7) µm Ø; et d’un hyménoderme de 2-4 couches de cellules vésiculeuses, bouclées, à paroi mince, lisses, hyalines dans E.G. 10%, à pigmentation brune, 13-30 (32) x 3-9 µm;
   pileitrame: formée d'hyphes lisses, étroites, hyalines, à contenu indistinct
   pileocystides: 
+  pileus: 14-87 mm Ø, hémisphérique à convexe puis campanulé, étalé à subétalé à la fin, tomenteux, non hygrophane, brun tan au début, avec fibrilles laineuses innées radiales ou groupées pour former des écailles imbriquées brun grisâtre à brun-jaune, plus nombreuses vers la marge, reflet olivâtre du milieu jusqu'à la marge
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: occasionnelles, similaires aux cheilocystides, plus souvent en faisceaux, parfois isolées

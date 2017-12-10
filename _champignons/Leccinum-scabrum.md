@@ -94,7 +94,6 @@ description:
   cellules-stromatiques: 
   chair: chamois, très pâle lorsque exposé, immuable
   chancre: 
-  chapeau: 40-100 mm Ø, obtus à largement convexe, sec à humide, subfibrilleux vers la marge, parfois entièrement craquelé à l'humidité, dans divers tons de brun, brun foncé à brun jaunâtre, jamais gris-brun, parfois teinté d'olivâtre à maturité, à marge unie
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -235,6 +234,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 40-100 mm Ø, obtus à largement convexe, sec à humide, subfibrilleux vers la marge, parfois entièrement craquelé à l'humidité, dans divers tons de brun, brun foncé à brun jaunâtre, jamais gris-brun, parfois teinté d'olivâtre à maturité, à marge unie
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -268,9 +268,9 @@ description:
     Froissement = pas vraiment de coloration
     À la coupe = la chair devient rougeâtre après plusieurs minutes, et la base du stipe a des reflets verts, parfois jusqu'au milieu
   reactions-macrochimiques: |
-    Ammoniaque (NH<sub>4</sub>OH 10%) = pas de coloration ni de décoloration sur le chapeau et sur la chair
-    Potasse (KOH 10%) = brun rougeâtre sur le chapeau et sur la chair; rouge grenat, puis rouge noir sur la face poroïde
-    Sulfate de fer (FeSO<sub>4</sub>) = ardoise bleuâtre sur le chapeau et sur la chair; légèrement bleutée à verdâtre sur la face poroïde
+    Ammoniaque (NH<sub>4</sub>OH 10%) = pas de coloration ni de décoloration sur le pileus et sur la chair
+    Potasse (KOH 10%) = brun rougeâtre sur le pileus et sur la chair; rouge grenat, puis rouge noir sur la face poroïde
+    Sulfate de fer (FeSO<sub>4</sub>) = ardoise bleuâtre sur le pileus et sur la chair; légèrement bleutée à verdâtre sur la face poroïde
   receptacle: 
   remarques: 
   repartition: 

@@ -62,11 +62,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, bouclées à la base, à granulations sidérophiles, 31,4 - 39,8 × 8,1 - 9,3 µm
+  basides: claviformes, tétrasporiques, bouclées à la base, à granulations sidérophiles, 31,4-39,8 × 8,1-9,3 µm
   basidiospores: |
     globuleuses, lisses, à paroi mince, avec petit appendice hilaire parfois difficilement observable, à contenu uniguttulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    (6) 6,3 - 7,1 (7,6) × (5,9) 6,2 - 6,9 (7,3) µm
-    Q = 1 - 1,05 (1,1); N = 30
+    (6) 6,3-7,1 (7,6) × (5,9) 6,2-6,9 (7,3) µm
+    Q = 1-1,05 (1,1); N = 30
     Me = 6,8 × 6,6 µm; Qe = 1
     (Piximètre, formule statistique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -90,7 +90,6 @@ description:
   cellules-stromatiques: 
   chair: mince à la marge et plus épaisse au centre, ferme, immuable, blanche
   chancre: 
-  chapeau: 27-120 mm Ø, hémisphérique à convexe, devenant globalement convexe à étalé, non visqueux, ± graisseux lorsqu'humide, glabre, brun grisâtre à brun jaunâtre ou brun, généralement plus sombre lorsque jeune, souvent un peu rayé en apparence, à marge lobée et unie à maturité
   cheilochrysocystides:
   cheilocystides: absentes
   cheilomacrocystides: 
@@ -235,6 +234,7 @@ description:
   pileipellis: suprapellis en cutis, formé d'hyphes ± parallèles à emmêlées, bouclées, à pigmentations brunâtres, 3-10 µm Ø
   pileitrame: 
   pileocystides: 
+  pileus: 27-120 mm Ø, hémisphérique à convexe, devenant globalement convexe à étalé, non visqueux, ± graisseux lorsqu'humide, glabre, brun grisâtre à brun jaunâtre ou brun, généralement plus sombre lorsque jeune, souvent un peu rayé en apparence, à marge lobée et unie à maturité
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

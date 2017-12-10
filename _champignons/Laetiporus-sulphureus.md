@@ -84,7 +84,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Bien que la collection n'a pas sporulé, il est arrivé une étrangeté. Sur une protège-feuille, j'ai disposé deux pièces de 70 mm Ø environ, et le lendemain, les deux pièces s'étaient rejointes pour ne former qu'une seule pièce. Est-ce un processus de cicatrisation ? »
   conidies: 
   conidiome: 
   conidiophores: 

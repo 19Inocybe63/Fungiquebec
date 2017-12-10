@@ -52,11 +52,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes à claviformes ventrues, parfois en petite massue, tétrasporiques, non bouclées à la base, à paroi mince, avec granulations, 30 - 40 × 8 - 9 µm en moyenne
+  basides: claviformes à claviformes ventrues, parfois en petite massue, tétrasporiques, non bouclées à la base, à paroi mince, avec granulations, 30-40 × 8-9 µm en moyenne
   basidiospores: |
     rarement subglobuleuses, largement elliptiques à elliptiques, finement à moyennement verruqueuses-épineuses, isolées, dont certaines sont reliées pour former des crêtes noduleuses, formant de rares réticulations, avec proéminences jusqu’à 1 (1,1) µm, à paroi mince, avec appendice hilaire prédominant, plage hilaire non distincte et non amyloïde ou irrégulièrement amyloïde dans la partie distale, à contenu uniguttulé, hyalines dans E.G. 20%, amyloïdes, non cyanophiles
-    (7,1) 7,3 - 8,2 (8,6) × (5,5) 5,6 - 6,4 (6,6) µm
-    Q = (1,1) 1,2 - 1,3 (1,4); N = 30
+    (7,1) 7,3-8,2 (8,6) × (5,5) 5,6-6,4 (6,6) µm
+    Q = (1,1) 1,2-1,3 (1,4); N = 30
     Me = 7,7 × 6 µm; Qe = 1,3
     (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
   basidioles: 
@@ -79,9 +79,8 @@ description:
   cellules-stromatiques: 
   chair: mince, ferme, cassante, immuable à la coupe, brunâtre à concolore à la surface du chapeau, cannelle pâle à blanchâtre
   chancre: 
-  chapeau: 24-35 mm Ø, convexe, puis étalé, déprimé, mamelonné, papillé, glabre, brun cannelle à brun pâle
   cheilochrysocystides:
-  cheilocystides: occasionnelles, peu projetées, subfusiformes à ± lancéolées dont l’apex est subaigu, mucroné à submoniliforme 38,7 - 57,4 × 5,3 - 7,1 µm en moyenne
+  cheilocystides: occasionnelles, peu projetées, subfusiformes à ± lancéolées dont l’apex est subaigu, mucroné à submoniliforme 38,7-57,4 × 5,3-7,1 µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -89,7 +88,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « Ton <i>L. camphoratus</i> n'a pas les lames assez foncées, à maturité, elles sont rouge vin très foncé et la couleur du chapeau me semble bien trop pâle également. Dès le jeune âge, <i>L. camphoratus</i> est nettement plus foncé. Dans ta photo, je vois <i>L. theiogalus</i> ss. Hesler & A. H. Sm. (1979), nommé maintenant <i>L. tabidus</i>, mais chez nous, le lait ne jaunit qu'à la base du pied, si l'on est un bon observateur. Le nôtre est peut-être différent. Il est possible que le bon nom de <i>L. tabidus</i> ici soit <i>L. oculatus</i> Peck, mais cela reste à démontrer. »
+  commentaires: |
+    De Yves Lamoureux. « Ton <i>L. camphoratus</i> n'a pas les lames assez foncées, à maturité, elles sont rouge vin très foncé et la couleur du chapeau me semble bien trop pâle également. Dès le jeune âge, <i>L. camphoratus</i> est nettement plus foncé. Dans ta photo, je vois <i>L. theiogalus</i> ss. Hesler & A. H. Sm. (1979), nommé maintenant <i>L. tabidus</i>, mais chez nous, le lait ne jaunit qu'à la base du pied, si l'on est un bon observateur. Le nôtre est peut-être différent. Il est possible que le bon nom de <i>L. tabidus</i> ici soit <i>L. oculatus</i> Peck, mais cela reste à démontrer. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -220,12 +220,13 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en hyphoépithelium, 60 - 90 µm d'épaisseur; éléments dans le subpellis 15 - 40 x 12 - 25 µm, ± isodiamétrique et arrondi; éléments terminaux 12 - 35 x 4,5 - 7,5 µm, cylindriques, pas très visibles et souvent collapsés
+  pileipellis: en hyphoépithelium, 60-90 µm d'épaisseur; éléments dans le subpellis 15-40 x 12-25 µm, ± isodiamétrique et arrondi; éléments terminaux 12-35 x 4,5-7,5 µm, cylindriques, pas très visibles et souvent collapsés
   pileitrame: 
   pileocystides: 
+  pileus: 24-35 mm Ø, convexe, puis étalé, déprimé, mamelonné, papillé, glabre, brun cannelle à brun pâle
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles à nombreuses, peu projetées ou de la moitié, subfusiformes à ± lancéolées avec apex subaigu, mucroné à submoniliforme, 49,6 - 82,1 × 7,6 - 9,5 µm en moyenne
+  pleurocystides: occasionnelles à nombreuses, peu projetées ou de la moitié, subfusiformes à ± lancéolées avec apex subaigu, mucroné à submoniliforme, 49,6-82,1 × 7,6-9,5 µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

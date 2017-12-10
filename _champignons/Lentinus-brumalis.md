@@ -77,7 +77,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité
   bibliographies: 
-  biotopes: pousse sur une souche pourrie et mousse de <i>Fagus</i>
+  biotopes: pousse sur une souche pourrie et mousse, <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -94,7 +94,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 7-23 mm Ø, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire, tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts poils raides et foncés au début, puis sublisse ou velouté, non zoné, luisant, bronzé, brun pourpré, brun grisâtre à presque noir; à marge enroulée au début, réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée à ciliée, concolore
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -237,6 +236,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 7-23 mm Ø, convexe, étalé, légèrement ombiliqué à déprimé, dimidié à suborbiculaire, tenace-charnu à subcoriace au frais, rigide au sec, sec, avec amas denses de courts poils raides et foncés au début, puis sublisse ou velouté, non zoné, luisant, bronzé, brun pourpré, brun grisâtre à presque noir; à marge enroulée au début, réfléchie avec l'âge, mince, aiguë, sinueuse et incisée, souvent finement frangée à ciliée, concolore
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

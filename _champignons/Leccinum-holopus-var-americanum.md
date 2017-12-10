@@ -7,7 +7,7 @@ album-flickr:
   - 72157675717994590
 
 details:
-  nom-francais: Bolet blanc des marais ou Bolet blanc de neige
+  nom-francais: Bolet blanc des marais / Bolet blanc de neige
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

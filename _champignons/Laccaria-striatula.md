@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: très mince, concolore au chapeau
   chancre: 
-  chapeau: 28 mm Ø, convexe puis étalé-déprimé, conique tronqué, ombiliqué, lisse, hygrophane, brun rougeâtre à orange brun, à marge longuement translucide-striée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -218,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 28 mm Ø, convexe puis étalé-déprimé, conique tronqué, ombiliqué, lisse, hygrophane, brun rougeâtre à orange brun, à marge longuement translucide-striée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

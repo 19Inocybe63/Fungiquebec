@@ -56,7 +56,7 @@ description:
   basidiospores: |
     subglobuleuses à largement ellipsoïdes, finement échinulées, à paroi mince, avec fin apicule, sans pore germinatif, à contenu uniguttulé à pluriguttulé, hyalines, fortement amyloïdes, cyanophiles
     5,6 x 4,5 µm en moyenne; Q moyen = 1,2
-    (échantillonnage de 35 basidiospores)
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%) / (Échantillonnage de 35 basidiospores)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -77,7 +77,6 @@ description:
   cellules-stromatiques: 
   chair: mince, ± tenace, flexible, blanchâtre, concolore à la surface du chapeau ou parfois brun foncé
   chancre: 
-  chapeau: 27 mm Ø, polymorphe, pétaloïde-arrondi, flabelliforme, à infundibuliforme, convexe puis convexe-étalé, ± circulaire, mince, lisse, subglabre, finement strié radialement vers l'intérieur et parfois fendu, hygrophane, rosâtre-vineux à cannelle brunâtre au frais, parfois avec plaques peu définies et stries radiales brun foncé à cannelle orangé, puis blanchâtre et gris jaunâtre à brun vers le pourtour, tan à brun foncé au sec, à marge enroulée à incurvée au début, puis droite, légèrement striée, souvent légèrement crénelée
   cheilocystides: dispersées à nombreuses, fusiformes, souvent atténuées vers l'apex, à paroi mince, hyalines, (25) 30-42 (55) x (4) 5-7 µm, émergentes sur 1/3-1/2 de leur longueur totale
   cheilomacrocystides: 
   chlamydospores: 
@@ -216,6 +215,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 27 mm Ø, polymorphe, pétaloïde-arrondi, flabelliforme, à infundibuliforme, convexe puis convexe-étalé, ± circulaire, mince, lisse, subglabre, finement strié radialement vers l'intérieur et parfois fendu, hygrophane, rosâtre-vineux à cannelle brunâtre au frais, parfois avec plaques peu définies et stries radiales brun foncé à cannelle orangé, puis blanchâtre et gris jaunâtre à brun vers le pourtour, tan à brun foncé au sec, à marge enroulée à incurvée au début, puis droite, légèrement striée, souvent légèrement crénelée
   plasmode: 
   pleurocystides: 
   poils: 

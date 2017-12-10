@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanchâtre-crème à jaunâtre
   chancre: 
-  chapeau: 83 mm Ø, convexe puis déprimé à subinfundibuliforme, ferme, sec, finement tomenteux, velouté, blanchâtre, jaunâtre brunâtre par endroits, à marge fortement enroulée au début
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -217,6 +216,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 83 mm Ø, convexe puis déprimé à subinfundibuliforme, ferme, sec, finement tomenteux, velouté, blanchâtre, jaunâtre brunâtre par endroits, à marge fortement enroulée au début
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -244,7 +244,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = la chair du chapeau devient orangé
+    Potasse (KOH 10%) = la chair du pileus devient orangé
   receptacle: 
   remarques: |
     Latex très âcre (une gouttelette suffit pour brûler)

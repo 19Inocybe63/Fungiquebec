@@ -94,7 +94,6 @@ description:
   cellules-stromatiques: 
   chair: matière gélifiée dans le capitule et au moins dans le noyau central, souvent translucide
   chancre: 
-  chapeau: 
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

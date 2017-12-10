@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, finement velouté, sec, dont la marge est légèrement incurvée au début; souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -215,6 +214,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 30-100 mm Ø, convexe puis plat, légèrement déprimé au centre, parfois en forme de vase, finement velouté, sec, dont la marge est légèrement incurvée au début; souvent légèrement rugueux, uniformément coloré orange opaque à cannelle orangé
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

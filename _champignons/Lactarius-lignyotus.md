@@ -59,6 +59,7 @@ description:
     8,4 [9; 9,3] 9,8 x 8 [8,7; 9] 9,7 µm
     Q = 1 [1,0] 1,1; N = 30; C = 95%
     Me = 9,1 x 8,8 µm; Qe = 1
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -79,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: assez élastique, cassante, blanche
   chancre: 
-  chapeau: 20-80 mm Ø, convexe, souvent papillé, puis étalé-déprimé, sec, velouté, brun noirâtre à brun jaunâtre
   cheilocystides: abondantes, cylindriques à flexueuses
   cheilomacrocystides: 
   chlamydospores: 
@@ -87,7 +87,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Habituellement, la description du pileipellis indique que ce dernier est en épithélium avec hyphes terminales cylindriques; mais après observation, ce n’est pas vraiment le cas. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -218,6 +219,7 @@ description:
   pileipellis: de type virescens
   pileitrame: 
   pileocystides: 
+  pileus: 20-80 mm Ø, convexe, souvent papillé, puis étalé-déprimé, sec, velouté, brun noirâtre à brun jaunâtre
   plasmode: 
   pleurocystides: moins abondantes, semblables aux cheilocystides
   poils: 
@@ -248,7 +250,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Habituellement, la description du pileipellis indique que ce dernier est en épithélium avec hyphes terminales cylindriques; mais après observation, ce n’est pas vraiment le cas.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

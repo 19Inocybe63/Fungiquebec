@@ -58,6 +58,7 @@ description:
     14,1 [15,6; 16,2] 17,6 x 4,7 [5; 5,1] 5,4 µm
     Q = 2,8 [3,1; 3,2] 3,5; N = 30; C = 95%
     Me = 15,9 x 5,1 µm; Qe = 3,1
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 20-75 mm Ø, convexe à largement convexe, subétalé, sec, finement tomenteux à glabre, finement craquelé-aréolé à maturité, blanchâtre à gris pâle, rosâtre, jaunâtre, bronzé ou olive, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -218,6 +218,7 @@ description:
   pileipellis: formé d'éléments celluleux en chaîne, subglobuleux à clavées ressemblant à un trichoderme, entre 19,5 [29,2; 44,8] 54,4 x 6,4 [11,3; 19,2] 24,2 µm; ressemble parfois à un pileipellis de type virescens
   pileitrame: 
   pileocystides: 
+  pileus: 20-75 mm Ø, convexe à largement convexe, subétalé, sec, finement tomenteux à glabre, finement craquelé-aréolé à maturité, blanchâtre à gris pâle, rosâtre, jaunâtre, bronzé ou olive, à marge unie
   plasmode: 
   pleurocystides: 
   poils: 

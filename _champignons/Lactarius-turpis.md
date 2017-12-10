@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: plutôt ferme
   chancre: 
-  chapeau: 40-130 mm Ø, d'abord convexe devenant légèrement à nettement déprimé, avec marge enroulée se déroulant à maturité, parfois crènelée au début ; surface finement veloutée à veinée ; légèrement visqueux autour du centre, sec et plus nettement velouté, squamuleux près de la marge chez les jeunes spécimens, à surface devenant ± brillante lorsque mature, avec centre brun olivâtre à noirâtre, gris-olivâtre vers la marge et olivâtre à gris olivâtre pâle, chrome pâle ou jaune paille chez les jeunes spécimens
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -217,6 +216,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 40-130 mm Ø, d'abord convexe devenant légèrement à nettement déprimé, avec marge enroulée se déroulant à maturité, parfois crènelée au début; surface finement veloutée à veinée; légèrement visqueux autour du centre, sec et plus nettement velouté, squamuleux près de la marge chez les jeunes spécimens, à surface devenant ± brillante lorsque mature, avec centre brun olivâtre à noirâtre, gris-olivâtre vers la marge et olivâtre à gris olivâtre pâle, chrome pâle ou jaune paille chez les jeunes spécimens
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

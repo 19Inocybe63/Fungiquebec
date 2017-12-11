@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 47 mm Ø, convexe à étalé, brun gris, avec reflets olivâtres
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -213,6 +212,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 47 mm Ø, convexe à étalé, brun gris, avec reflets olivâtres
   plasmode: 
   pleurocystides: 
   poils: 

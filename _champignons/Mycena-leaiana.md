@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: assez épaisse, molle, flexible, blanchâtre à orangée
   chancre: 
-  chapeau: 10-40 mm Ø, campanulé au début, devenant campanulé-convexe, cuticule collante, visqueux lorsqu'imbu, glabre, orange vif, à orange plus foncé, pâlissant parfois avec l'âge, développant occasionnellement des taches vert olive à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -223,6 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 10-40 mm Ø, campanulé au début, devenant campanulé-convexe, cuticule collante, visqueux lorsqu'imbu, glabre, orange vif, à orange plus foncé, pâlissant parfois avec l'âge, développant occasionnellement des taches vert olive à maturité
   plasmode: 
   pleurocystides: 
   poils: 

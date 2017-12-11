@@ -58,10 +58,11 @@ description:
     7,5 [9,3; 10,1] 11,9 x 5,6 [6,9; 7,5] 8,8 µm
     Q = 1,2 [1,3; 1,4] 1,5; N = 30; C = 95%
     Me = 9,7 x 7,2 µm; Qe = 1,3
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur bois mort de hêtre (<i>Fagus Grandifolia</i>)
+  biotopes: pousse sur bois mort de hêtre (<i>Fagus grandifolia</i>)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, uniformément atténuée jusqu'à la marge, très cartilagineuse, gris aqueux puis pâle
   chancre: 
-  chapeau: 20-45 mm Ø, conique-obtus puis largement campanulé-conique, viscidule, ± ruguleux radialement, d'apparence cartilagineuse, non hygrophane, gris foncé à brun grisâtre, légèrement brun chamois vers la marge, graduellement tan pâle à brun cannelle, à marge ± incurvée au début, légèrement translucide-striée, se fendant souvent radialement jusqu'au disque
   cheilocystides: abondantes, courtement piriformes à longuement piriformes, claviformes, subutriformes, parfois avec des ramifications du milieu à la base de la cheilocystide, 28,8 [36,4; 40,3] 47,8 x 3,6 [11,3; 15,3] 23 µm, avec de nombreuses diverticules du centre vers l’apex entre 1,0-5,0 µm de longueur
   cheilomacrocystides: 
   chlamydospores: 
@@ -217,6 +217,7 @@ description:
   pileipellis: formé d'hyphes ± parallèles, non bouclées, diverticulées entre 1-3 µm de longueur
   pileitrame: 
   pileocystides: 
+  pileus: 20-45 mm Ø, conique-obtus puis largement campanulé-conique, viscidule, ± ruguleux radialement, d'apparence cartilagineuse, non hygrophane, gris foncé à brun grisâtre, légèrement brun chamois vers la marge, graduellement tan pâle à brun cannelle, à marge ± incurvée au début, légèrement translucide-striée, se fendant souvent radialement jusqu'au disque
   plasmode: 
   pleurocystides: absentes
   poils: 

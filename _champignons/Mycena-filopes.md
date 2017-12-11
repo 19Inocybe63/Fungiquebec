@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: mince, assez fragile, immuable
   chancre: 
-  chapeau: 5-25 mm Ø, conique à largement conique, campanulé ou avec long ombon obtus, légèrement pruineux-velouté au début, vite glabre et humide, translucide-strié à l'humidité, parfois sillonné avec l'âge, brun gris pâle, grisâtre avec un centre légèrement plus foncé, la marge bordée près du centre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -218,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 5-25 mm Ø, conique à largement conique, campanulé ou avec long ombon obtus, légèrement pruineux-velouté au début, vite glabre et humide, translucide-strié à l'humidité, parfois sillonné avec l'âge, brun gris pâle, grisâtre avec un centre légèrement plus foncé, la marge bordée près du centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

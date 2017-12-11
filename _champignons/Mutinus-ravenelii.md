@@ -55,8 +55,8 @@ description:
   basides: 
   basidiospores: |
     elliptiques à oblongues, courtement bacilliformes, lisses, à paroi mince, à contenu homogène, hyalines dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles à faiblement cyanophiles
-    4,2 - 4,9 (5,3) × 1,5 - 2,1 µm
-    Q = (2,3) 2,4 - 3 (3,3); N = 30
+    4,2-4,9 (5,3) × 1,5-2,1 µm
+    Q = (2,3) 2,4-3 (3,3); N = 30
     Me = 4,7 × 1,7 µm; Qe = 2,7
     (Piximètre, formule classique; mesures issues des spores dans la glèbe, dans E.G. 20%)
   basidioles: 
@@ -78,7 +78,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: du réceptacle formée de cellules globuleuses à ovoïdes, anguleuses et parfois déformées (27,7) 36,8 - 58,3 (58,9) × (21,5) 27,2 - 55,6 (58) µm, avec de rares cellules cylindriques 41,9 - 47,1 × 4,4 - 5,8 µm, hyalines à rosâtres; entremêlé de longues hyphes en filament difficile à déterminer dans sa forme et son contenu
+  chair: du réceptacle formée de cellules globuleuses à ovoïdes, anguleuses et parfois déformées (27,7) 36,8-58,3 (58,9) × (21,5) 27,2-55,6 (58) µm, avec de rares cellules cylindriques 41,9-47,1 × 4,4-5,8 µm, hyalines à rosâtres; entremêlé de longues hyphes en filament difficile à déterminer dans sa forme et son contenu
   chancre: 
   chapeau: 
   cheilochrysocystides:

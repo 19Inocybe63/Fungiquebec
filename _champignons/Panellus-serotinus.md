@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse près du pied, amincie vers la marge, ferme, spongieuse, blanchâtre, légèrement verdâtre sous la cuticule
   chancre: 
-  chapeau: 25-100 (135) mm Ø, semi-circulaire, flabelliforme, conchoïde à réniforme, pulviné au début, puis arrondi, convexe à étalé ou ondulé, viscidule à visqueux au début et à l'humidité, puis sec, lisse, glabre puis typiquement velouté ou duveteux avec l'âge ou au sec, fibrilleux-écailleux-apprimé, plus squamuleux vers la marge, brun ou jaune olive, brun olive, vert olive, jaune orangé, ochracé, olive rougeâtre, brun terne, gris bleuâtre, parfois orangé ou teinté de violacé, à marge enroulée à incurvée au début, puis aiguë, lobée à crénelée, striatulée
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -213,6 +212,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 25-100 (135) mm Ø, semi-circulaire, flabelliforme, conchoïde à réniforme, pulviné au début, puis arrondi, convexe à étalé ou ondulé, viscidule à visqueux au début et à l'humidité, puis sec, lisse, glabre puis typiquement velouté ou duveteux avec l'âge ou au sec, fibrilleux-écailleux-apprimé, plus squamuleux vers la marge, brun ou jaune olive, brun olive, vert olive, jaune orangé, ochracé, olive rougeâtre, brun terne, gris bleuâtre, parfois orangé ou teinté de violacé, à marge enroulée à incurvée au début, puis aiguë, lobée à crénelée, striatulée
   plasmode: 
   pleurocystides: 
   poils: 

@@ -109,7 +109,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche
   chancre: 
-  chapeau: 30-70 (100) mm Ø, convexe-hémisphérique à campanulé, convexe-étalé, lagre, blanchâtre à beige, parfois rosâtre-chamois ou gris fumé, le disque devient légèrement plus foncé, jaunâtre, visqueux à glutineux, parfois avec méchules blanches dispersés de restes vélaires, à marge souvent appendiculée de restes vélaires, glabrescente
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: abondantes, formant presque une pallissade, fusiformes avec parfois un long pédicelle, sublagéniformes, rarement bidigitées, parfois avec apex subcapité (40,3) 58,9-70,2 (70,7) × (8,7) 10,9-11,7 (13,4) µm
@@ -255,6 +254,7 @@ description:
   pileipellis: en ixocutis, dans une épaisse couche de gélin (160-210 µm d'épaisseur en moyenne) d'hyphes étroites hyalines à jaunâtres de 1-3 μm Ø, avec des zones réfringentes, lisses et lâches dans la matrice de gélin
   pileitrame: 
   pileocystides: 
+  pileus: 30-70 (100) mm Ø, convexe-hémisphérique à campanulé, convexe-étalé, lagre, blanchâtre à beige, parfois rosâtre-chamois ou gris fumé, le disque devient légèrement plus foncé, jaunâtre, visqueux à glutineux, parfois avec méchules blanches dispersés de restes vélaires, à marge souvent appendiculée de restes vélaires, glabrescente
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

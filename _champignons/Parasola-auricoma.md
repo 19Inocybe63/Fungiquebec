@@ -54,7 +54,9 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    10-16 x 6-9 μm, ellipsoïdes, lisses, avec un pore germinatif centré proéminent, brunes dans le NaCl iso 0,9%, brun foncé dans le KOH 5%
+    ellipsoïdes, lisses, avec un pore germinatif centré proéminent, brunes dans le NaCl iso 0,9%, brun foncé dans le KOH 5%
+    10-16 x 6-9 μm
+    (Piximètre; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -75,7 +77,6 @@ description:
   cellules-stromatiques: 
   chair: gris brun, mince à membraneuse
   chancre: 
-  chapeau: 10-25 x 15-45 mm Ø, d'abord ovoide, puis campanulé et finalement aplani étalé, dépourvu de voile déliquescent dans la vieillesse; surface sèche, mate, brillante à l'état humide et striée cannelée, presque jusqu'au centre; rosé au debut, puis gris brun à brun noir, orné de fins poils dressés, disque brun rouge foncé et lisse, marge crenelée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -85,7 +86,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Claude Kaufholtz-Couture. « La description de ce champignon fut prise sur le site MycoDB = http://www.mycodb.fr/quicksearch.php »
+  commentaires: |
+    De Claude Kaufholtz-Couture. « La description de ce champignon fut prise sur le site MycoDB; http://www.mycodb.fr/quicksearch.php »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -219,6 +221,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 10-25 x 15-45 mm Ø, d'abord ovoide, puis campanulé et finalement aplani étalé, dépourvu de voile déliquescent dans la vieillesse; surface sèche, mate, brillante à l'état humide et striée cannelée, presque jusqu'au centre; rosé au debut, puis gris brun à brun noir, orné de fins poils dressés, disque brun rouge foncé et lisse, marge crenelée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

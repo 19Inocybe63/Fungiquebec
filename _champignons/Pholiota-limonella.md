@@ -58,6 +58,7 @@ description:
     6,7 [7,4; 7,6] 8,3 x 4,3 [4,6; 4,7] 5 µm
     Q = 1,4 [1,6; 1,7] 1,8; N = 38; C = 95%
     Me = 7,5 x 4,6 µm; Qe = 1,6
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune
   chancre: 
-  chapeau: 10-85 mm Ø, campanulé convexe à subétalé, parfois légèrement umboné, avec marge incurvée; visqueux lorsque humide et à peine visqueux lorsque sec, lisse ou avec de fines méchules dispersées à subdressées; jaunâtre-gris au centre, vert jaunâtre vers la marge, avec des flocons orange-brun concentriquement alignés, squamules plus ou moins triangulaires, qui contrastent avec le fond jaunâtre, avec la marge appendiculée de fines taches du voile, blanchâtre à jaune brun
   cheilochrysocystides:
   cheilocystides: polymorphes, piriformes à largement clavées, lagéniformes, parfois cylindriques dont l’apex est courbé et légèrement diverticulé à déformé, rarement cylindriques à l’apex capité
   cheiloleptocystides: 
@@ -220,6 +220,7 @@ description:
   pileipellis: en ixocutis
   pileitrame: 
   pileocystides: absentes
+  pileus: 10-85 mm Ø, campanulé convexe à subétalé, parfois légèrement umboné, avec marge incurvée; visqueux lorsque humide et à peine visqueux lorsque sec, lisse ou avec de fines méchules dispersées à subdressées; jaunâtre-gris au centre, vert jaunâtre vers la marge, avec des flocons orange-brun concentriquement alignés, squamules plus ou moins triangulaires, qui contrastent avec le fond jaunâtre, avec la marge appendiculée de fines taches du voile, blanchâtre à jaune brun
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: polymorphes, largement fusoïdes, mucronées, souvent comme chrysocystides ou partiellement à entièrement remplies de pigments et déformées, piriformes à clavées, 31,6 x 8,9 µm en moyenne, souvent légèrement émergentes
@@ -250,7 +251,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = rouge orangé sur la surface du chapeau
+    Potasse (KOH 10%) = rouge orangé sur la surface du pileus
   receptacle: 
   remarques: 
   repartition: 

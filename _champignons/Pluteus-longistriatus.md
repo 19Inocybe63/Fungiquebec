@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: pâle
   chancre: 
-  chapeau: 10-20 mm Ø, convexe à légèrement campanulé, devenant globalement convexe à presque plat, fragile, sec, radialement finement granuleux ou squamuleux, développant des fissures qui s'étendent de la marge presque jusqu’au centre, gris-brun au gris brunâtre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -219,6 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 10-20 mm Ø, convexe à légèrement campanulé, devenant globalement convexe à presque plat, fragile, sec, radialement finement granuleux ou squamuleux, développant des fissures qui s'étendent de la marge presque jusqu’au centre, gris-brun au gris brunâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

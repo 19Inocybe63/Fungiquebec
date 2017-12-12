@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, puis amincie vers la marge, cassante, crème à subconcolore à la surface piléique
   chancre: 
-  chapeau: 7-15 mm Ø, ovoïde, conique campanulé au début, lisse ou craquelé, parfois ruguleux, gris pâle à jaune-gris-brun, brun rougeâtre, centre brun rougeâtre plus foncé à tan, restes vélaire à la marge
   cheilochrysocystides:
   cheilocystides: abondantes, cylindriques claviformes à cylindriques-flexueuses, souvent avec apex subcapité à capité, (18,2) 19,4-29,3 (29,8) × (4,7) 5,1-6,4 (7,1) µm
   cheilomacrocystides: 
@@ -225,6 +224,7 @@ description:
   pileipellis: de type épithélium-hyménoforme, composé d’hyphes subglobuleuses, sphéropédonculées à piriformes, à paroi mince, 28-50 (52) x (8) 10-20 (22) µm Ø
   pileitrame: 
   pileocystides: occasionnelles, cylindriques à lagéniformes, lisses, à paroi mince, 30,6-40,5 × 6,2-11 µm en moyenne
+  pileus: 7-15 mm Ø, ovoïde, conique campanulé au début, lisse ou craquelé, parfois ruguleux, gris pâle à jaune-gris-brun, brun rougeâtre, centre brun rougeâtre plus foncé à tan, restes vélaire à la marge
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

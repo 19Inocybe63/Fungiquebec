@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 84 mm Ø, étalé, umboné, légèrement déprimé, viscidule, brun-gris à olivâtre foncé à noirâtre vers le centre
   cheilocystides: occasionnelles (plus nombreuses à l'arête lamellaire) plus petites et moins bien développées que les pleurocystides, fusiformes à cylindriques, souvent avec crochets difformes ou avec un seul crochet, 52,7-59,6 × 10,7-15,9 µm en moyenne
   cheilocystides-intermediaires: 
   cheilomacrocystides: 
@@ -89,7 +88,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Sur 60 sommets apicaux de pleurocystides, nous obtenons exactement 30 sommets avec crochets entiers, et 30 sommets avec crochets bifides. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,11 +217,12 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou remplis de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41 - 70,1 (80) × (6) 8,5 - 13,5 (16,7) µm en moyenne
+  pileipellis: en cutis formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou remplis de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41-70,1 (80) × (6) 8,5-13,5 (16,7) µm en moyenne
   pileitrame: 
   pileocystides: 
+  pileus: 84 mm Ø, étalé, umboné, légèrement déprimé, viscidule, brun-gris à olivâtre foncé à noirâtre vers le centre
   plasmode: 
-  pleurocystides: abondantes, métuloïdes, fusiformes (70,4) 72,3 - 84,1 (89,6) × 16,5 - 23,7 µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la moitié sont entiers, et l'autre moitié sont bifides, à paroi jusqu'à 2,5 (2,7 µm) µm d’épaisseur
+  pleurocystides: abondantes, métuloïdes, fusiformes (70,4) 72,3-84,1 (89,6) × 16,5-23,7 µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la moitié sont entiers, et l'autre moitié sont bifides, à paroi jusqu'à 2,5 (2,7 µm) µm d’épaisseur
   poils: 
   poils-basaux: 
   poils-caulinaires: 
@@ -247,7 +248,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Sur 60 sommets apicaux de pleurocystides, nous obtenons exactement 30 sommets avec crochets entiers, et 30 sommets avec crochets bifides
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

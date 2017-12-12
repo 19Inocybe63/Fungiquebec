@@ -64,7 +64,9 @@ description:
   base-stipitiforme: 
   basides: formant une palissade dense, cylindriques à subcylindriques, claviformes à subclaviformes, tétrasporiques, bouclées à la base, 19,5-28 x 4-5 µm en moyenne
   basidiospores: |
-    cylindriques, allantoïdes, lisses, à paroi mince, à contenu biguttulé, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes, 3-5 x 1-1,5 µm
+    cylindriques, allantoïdes, lisses, à paroi mince, à contenu biguttulé, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes
+    3-5 x 1-1,5 µm
+    (Piximètre; mesures non issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: flabelliforme, de structure anatomique en forme de coupe, grégaire, douce quand elle est fraîche, fragile lorsqu'il est sec, non stipité ou avec une zone plus ou moins rétréci à la base élaborant ainsi un semblant de stipe, surface au abord blanchâtre brun, puis ochracé, finement veloutée, hyménophore plié de façon irrégulière, anastomosé, blanc au premier abord, avec assombrissement des spécimens plus âgés ou sec, à marge lobée
   bibliographies: 
@@ -85,7 +87,6 @@ description:
   cellules-stromatiques: 
   chair: mince, membranaire, molle, élastique et flexible au frais et au début, dure et cassante au sec
   chancre: 
-  chapeau: 
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 

@@ -78,6 +78,7 @@ description:
     5,5 [5,8; 6] 6,3 x 3,2 [3,4] 3,6 µm
     Q = 1,6 [1,7; 1,8] 1,9; N = 30; C = 95%
     Me = 5,9 x 3,4 µm; Qe = 1,7
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -98,7 +99,6 @@ description:
   cellules-stromatiques: 
   chair: mince, assez ferme et rigide puis fragile, blanchâtre à brun aqueux puis brunâtre à tan pâle
   chancre: 
-  chapeau: 15-70 mm Ø, conique-obtus à convexe puis largement convexe à subétalé, parfois obscurément umboné, glabre ou avec fibrilles blanchâtres vers la marge, humide, hygrophane, brun rougeâtre foncé, brun rouille à brun orangé ou parfois presque brun noirâtre avec l'âge à l'humidité, tan pâle, cannelle pâle, beige brunâtre ou parfois grisâtre au sec, souvent brun foncé vers le pourtour, à marge parfois translucide-striée à l'humidité et finement plissée, souvent frangée de restes vélaires au début
   cheilochrysocystides:
   cheilocystides: abondantes lagéniformes 30-31 x 11-13 µm, largement claviformes 33 x 16 µm en moyenne, subfusiformes 34 x 11 µm en moyenne
   cheiloleptocystides: 
@@ -239,6 +239,7 @@ description:
   pileipellis: suprapellis en épithélium régulier, dont les sphérocystes mesure jusqu’à 11-19 x 10-17 µm
   pileitrame: 
   pileocystides: 
+  pileus: 15-70 mm Ø, conique-obtus à convexe puis largement convexe à subétalé, parfois obscurément umboné, glabre ou avec fibrilles blanchâtres vers la marge, humide, hygrophane, brun rougeâtre foncé, brun rouille à brun orangé ou parfois presque brun noirâtre avec l'âge à l'humidité, tan pâle, cannelle pâle, beige brunâtre ou parfois grisâtre au sec, souvent brun foncé vers le pourtour, à marge parfois translucide-striée à l'humidité et finement plissée, souvent frangée de restes vélaires au début
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: occasionnelles à abondantes, lagéniformes 22-24 x 5-9 µm, claviformes à fusiformes

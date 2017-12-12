@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: mince, blanche
   chancre: 
-  chapeau: 14-90 mm Ø, cyathiforme à pétaloïde, régulièrement atténué vers la base, finement velouté, surtout vers la base, puis glabre, blanc à crème, à marge incurvée
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -220,6 +219,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 14-90 mm Ø, cyathiforme à pétaloïde, régulièrement atténué vers la base, finement velouté, surtout vers la base, puis glabre, blanc à crème, à marge incurvée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

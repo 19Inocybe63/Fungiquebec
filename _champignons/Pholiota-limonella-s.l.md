@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse et souple, jaunâtre
   chancre: 
-  chapeau: 30-60 (80) mm Ø, large, conique obtus à convexe, à marge incurvée au début; devenant globalement conique à presque étalé, parfois avec un large ombo, ou plus rarement simplement convexe, cuticule viscidulée et parfois collante, orné de squamules (3-4 mm de long) triangulaires recourbées brun à brun rougeâtre surtout sur les jeunes, les écailles disparaissent ou s’agglutine à maturité, de couleurs variables chez de jeune boutons, foncés rouille devenant plus pâle, ± ocre avec une zone marginale jaunes pâle, et devient progressivement jaune orangé à mesure que la couche visciduleuse disparaît
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: abondantes, polymorphes, cylindriques à étroitement claviformes, largement fusiformes, lagéniformes, piriformes, dont l'apex est souvent déformé, tortueux; parfois subcapité, vide optique, (10,4) 12-20,1 (25,9) × (5) 5,6-7 (7,8) µm en moyenne
@@ -239,6 +238,7 @@ description:
   pileipellis: suprapellis en ixocutis, avec hyphes cylindriques gélatinisés entre 1,0 à 5,0 μm de largeur avec parois incolores ou jaune pâle; avec des éléments terminaux cylindriques et claviformes dispersés entre 4,0 à 12 μm de largeur; subpellis compact, composé d'hyphes cylindriques entre 8,0-12,0 μm de largeur, aux parois brunes et incrustées de pigments interhyphales
   pileitrame: 
   pileocystides: 
+  pileus: 30-60 (80) mm Ø, large, conique obtus à convexe, à marge incurvée au début; devenant globalement conique à presque étalé, parfois avec un large ombo, ou plus rarement simplement convexe, cuticule viscidulée et parfois collante, orné de squamules (3-4 mm de long) triangulaires recourbées brun à brun rougeâtre surtout sur les jeunes, les écailles disparaissent ou s’agglutine à maturité, de couleurs variables chez de jeune boutons, foncés rouille devenant plus pâle, ± ocre avec une zone marginale jaunes pâle, et devient progressivement jaune orangé à mesure que la couche visciduleuse disparaît
   plasmode: 
   pleurochrysocystides: rares, largement fusiformes à largement fusiformes et mucronées, à inclusion réfringente dans le KOH 5%, 23-39,6 × 6,8-9,4 µm en moyenne
   pleurocystides: 

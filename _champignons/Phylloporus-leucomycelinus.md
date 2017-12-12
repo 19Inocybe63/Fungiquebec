@@ -80,8 +80,6 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre à jaune pâle, se tache de bleue
   chancre: 
-  chapeau: 20-65 mm Ø, pulviné puis convexe à étalé, sec, subvelouté, devenant rivuleux-craquelé, rouge vin, brun rouge à brun olivâtre
-  cheilocystides: assez nombreuses, cylindriques à cylindriques-fusiformes, subclaviformes à subfusiformes, hyalines, à paroi mince, vide optique, 45-80 x 7-13 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -218,6 +216,8 @@ description:
   pileipellis: en trichoderme formé d'hyphes cylindriques, en chaîne, lisses, à paroi mince
   pileitrame: 
   pileocystides: 
+  pileus: 20-65 mm Ø, pulviné puis convexe à étalé, sec, subvelouté, devenant rivuleux-craquelé, rouge vin, brun rouge à brun olivâtre
+  cheilocystides: assez nombreuses, cylindriques à cylindriques-fusiformes, subclaviformes à subfusiformes, hyalines, à paroi mince, vide optique, 45-80 x 7-13 µm
   plasmode: 
   pleurocystides: occasionnelles, similaires aux cheilocystides 50-80 x 9-13 µm
   poils: 
@@ -247,7 +247,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient bleu vert
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le pileus devient bleu vert
   receptacle: 
   remarques: 
   repartition: 

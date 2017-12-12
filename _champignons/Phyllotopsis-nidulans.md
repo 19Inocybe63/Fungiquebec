@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: mince, coriace, juteuse, élastique, jaunâtre à orange pâle
   chancre: 
-  chapeau: 20-80 mm Ø, pleurotoïde, ± flabelliforme, conchoïde, circulaire à réniforme, souvent attaché latéralement, largement convexe à étalé, hygrophane, recouvert d'un tomentum feutré blanchâtre à chamois au début, sec, jaune orangé à chamois orangé à l'humidité, orangé brunâtre à jaune ocre au sec, feutré, tomenteux, hirsute vers la marge qui et nettement enroulée
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -217,6 +216,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-80 mm Ø, pleurotoïde, ± flabelliforme, conchoïde, circulaire à réniforme, souvent attaché latéralement, largement convexe à étalé, hygrophane, recouvert d'un tomentum feutré blanchâtre à chamois au début, sec, jaune orangé à chamois orangé à l'humidité, orangé brunâtre à jaune ocre au sec, feutré, tomenteux, hirsute vers la marge qui et nettement enroulée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -241,7 +241,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le pileus
   receptacle: 
   remarques: 
   repartition: 

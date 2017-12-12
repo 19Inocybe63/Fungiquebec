@@ -52,12 +52,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: bimorphiques, longuement clavées, bisporiques à tétrasporiques, non bouclées à la base 28,7 [30,6; 39,6] 41,4 x 8,8 [9,1; 10,7] 11,1 µm en moyenne; courtement clavées, bisporiques à tétrasporiques, non bouclées à la base 21,6 [24,2; 31,1] 33,6 x 11 [11,3; 12] 12,3 µm en moyenne
+  basides: bimorphiques; 1) longuement clavées, bisporiques à tétrasporiques, non bouclées à la base 28,7 [30,6; 39,6] 41,4 x 8,8 [9,1; 10,7] 11,1 µm en moyenne; 2) courtement clavées, bisporiques à tétrasporiques, non bouclées à la base 21,6 [24,2; 31,1] 33,6 x 11 [11,3; 12] 12,3 µm en moyenne
   basidiospores: |
-    cordiformes à ± à 5 angles en vue frontale, ellipsoïdes vues de profil, lisses, à paroi mince, avec pore germinatif excentré, à contenu uniguttulé
+    cordiformes à ± à 5 angles en vue frontale, ellipsoïdes vues de profil, lisses, à paroi mince, avec pore germinatif excentré, à contenu uniguttulé, noirâtre dans le NaCl iso 0,9%
     8,9 [9,8; 10,3] 11,2 x 5,3 [6,3; 6,9] 7,8 µm
     Q = 1,3 [1,5; 1,6] 1,8; N = 17; C = 95%
     Me = 10,1 x 6,6 µm; Qe = 1,5
+    (Piximètre, formule statistique; mesures non issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: membraneuse, fragile
   chancre: 
-  chapeau: 10-35 mm Ø, étroitement ovoïde à ellipsoïde puis convexe à subétalé, parfois légèrement déprimé au disque, chamois jaunâtre, brun fauve à brun rougeâtre au centre, plus pâle et plus gris à chamois grisâtre pâle vers le pourtour, à marge incurvée au début, puis droite et relevée, striée-sillonnée presque jusqu'au centre avec l'âge
   cheilochrysocystides:
   cheilocystides: elliptiques à largement elliptiques, ovoïdes à largement ovoïdes, subutriformes,  29,1 [35,2; 43,6] 49,7 x 9,9 [12,4; 15,9] 18,4 µm
   cheiloleptocystides: 
@@ -219,6 +219,7 @@ description:
   pileipellis: celluleux
   pileitrame: 
   pileocystides: 
+  pileus: 10-35 mm Ø, étroitement ovoïde à ellipsoïde puis convexe à subétalé, parfois légèrement déprimé au disque, chamois jaunâtre, brun fauve à brun rougeâtre au centre, plus pâle et plus gris à chamois grisâtre pâle vers le pourtour, à marge incurvée au début, puis droite et relevée, striée-sillonnée presque jusqu'au centre avec l'âge
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: largement elliptiques à largement ovoïdes, subutriformes, 46,6 [57,1; 74,2] 84,8 x 18,8 [22,7; 29] 32,9 µm

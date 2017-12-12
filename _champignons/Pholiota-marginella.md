@@ -108,6 +108,7 @@ description:
     6,4 [7,1; 7,5] 8,2 x 3,8 [4,2; 4,4] 4,7 µm
     Q = 1,5 [1,7] 1,9; N = 30; C = 95%
     Me = 7,3 x 4,3 µm; Qe = 1,7
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -128,7 +129,6 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau
   chancre: 
-  chapeau: 10-25 mm Ø, convexe puis étalé, visqueux lorsque humide, glabre, hygrophane du centre vers la marge, fauve à brun orangé frais, beige pâle au sec, à marge parfois un peu translucide-striée; orné de fibrilles blanchâtres au début
   cheilochrysocystides:
   cheilocystides: abondantes, subulati avec long col, à base ampullacée, lagéniformes avec apex cylindriques à subcapitées et parfois avec des granulations 32,9 [40; 43,9] 51 x 6,2 [7,7; 8,5] 10 µm
   cheiloleptocystides: 
@@ -272,6 +272,7 @@ description:
   pileipellis: en ixocutis
   pileitrame: 
   pileocystides: 
+  pileus: 10-25 mm Ø, convexe puis étalé, visqueux lorsque humide, glabre, hygrophane du centre vers la marge, fauve à brun orangé frais, beige pâle au sec, à marge parfois un peu translucide-striée; orné de fibrilles blanchâtres au début
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

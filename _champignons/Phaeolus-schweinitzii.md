@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 250 mm Ø, circulaire, irrégulièrement lobé, dimidié, tomenteux à hirsute, noduleux-bosselé, légèrement zoné, orangé au début, brun jaunâtre à maturité, brun rougeâtre foncé au sec, à marge jaune soufre à vert-jaune au frais, brun-rouge à noire avec l'âge
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -217,6 +216,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: jusqu'à 250 mm Ø, circulaire, irrégulièrement lobé, dimidié, tomenteux à hirsute, noduleux-bosselé, légèrement zoné, orangé au début, brun jaunâtre à maturité, brun rougeâtre foncé au sec, à marge jaune soufre à vert-jaune au frais, brun-rouge à noire avec l'âge
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

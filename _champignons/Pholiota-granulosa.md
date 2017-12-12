@@ -98,6 +98,7 @@ description:
     7,8 [8,4; 8,7] 11,3 x 4 [4,4; 4,5] 6,7 µm
     Q = 1,7 [1,9; 2] 2,2; N = 30; C = 95%
     Me = 8,6 x 4,5 µm; Qe = 1,9
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -118,7 +119,6 @@ description:
   cellules-stromatiques: 
   chair: mince, ochracé-aqueux, immuable à la coupe
   chancre: 
-  chapeau: 10-35 mm Ø, convexe puis largement convexe, sec, densément couvert de fines squamules fibrilleuses dressées au disque, ± granuleuses et plus apprimées vers la marge ; jaune-brun riche brillant, brun ambre ou brun soudan sur fond jaunâtre entre les squamules, à marge longtemps incurvée, appendiculée de délicats restes véliques jaunes au début
   cheilochrysocystides:
   cheilocystides: abondantes en touffes, piriformes à largement clavées, subcylindriques, rarement subbecquées
   cheiloleptocystides: 
@@ -260,6 +260,7 @@ description:
   pileipellis: en cutis, formé d’hyphes superficielles agrégées en faisceaux, bouclées, à paroi mince, presque lisses, aspérulées ou finement rugueuses, 8-18 µm de long, à cellule terminale un peu cystidioïde, ou légèrement ellipsoïde, avec subcutis formés d’hyphes apprimées, lisses, parfois incrustées, rouille cannelle, plus étroites que celles des faisceaux
   pileitrame: 
   pileocystides: 
+  pileus: 10-35 mm Ø, convexe puis largement convexe, sec, densément couvert de fines squamules fibrilleuses dressées au disque, ± granuleuses et plus apprimées vers la marge; jaune-brun riche brillant, brun ambre ou brun soudan sur fond jaunâtre entre les squamules, à marge longtemps incurvée, appendiculée de délicats restes véliques jaunes au début
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absente

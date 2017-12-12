@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: jusqu'à 60 mm Ø, souvent profondément infundibuliforme au début, étalé-déprimé avec l'âge, finement velouté et blanc grisâtre au début, puis gris et vite brun rougeâtre à brun orangé surtout vers le centre, avec fines lignes radiales et restes dispersés de tomentum, devenant rouge baie foncé et glabre avec l'âge, lisse au frais, finement plissé radialement avec l'âge, dense et dur au sec et alors avec une très mince mais distincte cuticule (loupe), à marge incurvée et mince au sec
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -217,6 +216,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: jusqu'à 60 mm Ø, souvent profondément infundibuliforme au début, étalé-déprimé avec l'âge, finement velouté et blanc grisâtre au début, puis gris et vite brun rougeâtre à brun orangé surtout vers le centre, avec fines lignes radiales et restes dispersés de tomentum, devenant rouge baie foncé et glabre avec l'âge, lisse au frais, finement plissé radialement avec l'âge, dense et dur au sec et alors avec une très mince mais distincte cuticule (loupe), à marge incurvée et mince au sec
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

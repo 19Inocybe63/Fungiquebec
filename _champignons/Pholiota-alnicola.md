@@ -109,7 +109,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, ferme, jaunâtre
   chancre: 
-  chapeau: 20-70 mm Ø, convexe puis étalé, parfois umboné, subvisqueux, viscidule à légèrement humide, glabre, subhygrophane, jaune au début, puis jaune plus foncé à ferrugineux à maturité ou à l'humidité, parfois lavé de vert olive vers le pourtour et jaune rougeâtre au disque, jaune pâle au sec, à marge incurvée, unie, fibrilleuse-subécailleuse à appendiculée, glabrescente
   cheilochrysocystides:
   cheilocystides: abondantes, polymorphes, cylindriques, subclavées, sublageniformes, subflexueuses, parfois avec apex déformé; à paroi mince, vide optique, 32 [34,2; 38,4] 40,5 x 4,5 [4,9; 5,7] 6 µm en moyenne
   cheilomacrocystides: 
@@ -257,6 +256,7 @@ description:
   pileipellis: en cutis (avec mince ixocutis)
   pileitrame: 
   pileocystides: 
+  pileus: 20-70 mm Ø, convexe puis étalé, parfois umboné, subvisqueux, viscidule à légèrement humide, glabre, subhygrophane, jaune au début, puis jaune plus foncé à ferrugineux à maturité ou à l'humidité, parfois lavé de vert olive vers le pourtour et jaune rougeâtre au disque, jaune pâle au sec, à marge incurvée, unie, fibrilleuse-subécailleuse à appendiculée, glabrescente
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes
@@ -289,8 +289,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<sub>4</sub>OH 10%) = rouge vin sur le stipe et orangé sur le chapeau
-    Potasse (KOH 10%) = brun rougeâtre à orangé sur le chapeau
+    Ammoniaque (NH<sub>4</sub>OH 10%) = rouge vin sur le stipe et orangé sur le pileus
+    Potasse (KOH 10%) = brun rougeâtre à orangé sur le pileus
   receptacle: 
   remarques: 
   repartition: 

@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: très dure, blanche
   chancre: 
-  chapeau: 30-100 mm Ø, largement convexe à étalé à maturité, ± profondément enfoncé, généralement arrondis mais parfois lobés, sec, veloutés ou avec fibrilles à finement écailleux, brun jaunâtre foncé à brun rougeâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -227,6 +226,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 30-100 mm Ø, largement convexe à étalé à maturité, ± profondément enfoncé, généralement arrondis mais parfois lobés, sec, veloutés ou avec fibrilles à finement écailleux, brun jaunâtre foncé à brun rougeâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

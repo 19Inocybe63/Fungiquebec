@@ -64,10 +64,11 @@ description:
   base-stipitiforme: 
   basides: piriformes à subclavées, tétrasporiques, non bouclées à la base, 20-24 x 8-10 µm
   basidiospores: |
-    ellipsoïdes à ovoïdes, lisses, avec petit pore germinatif et tronquées à l'apex, à paroi mince, avec petit appendice hilaire, à contenu homogènes, pas de réaction dans le melzer, non cyanophiles
+    ellipsoïdes à ovoïdes, lisses, avec petit pore germinatif et tronquées à l'apex, à paroi mince, avec petit appendice hilaire, à contenu homogènes, brun foncé dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     6,4 [7,4; 7,8] 8,8 x 3,8 [4,3; 4,5] 5 µm
     Q = 1,6 [1,7; 1,8] 1,9; N = 40; C = 95%
     Me = 7,6 x 4,4 µm; Qe = 1,7
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -88,7 +89,6 @@ description:
   cellules-stromatiques: 
   chair: mince, fragile, humide, blanchâtre à jaune pâle, pâle au sec
   chancre: 
-  chapeau: 20-110 mm Ø, conique-obtus, ovoïde à convexe puis largement convexe, étalé à umboné-obtus, demeurant parfois largement conique, humide, lisse à rugueux, souvent avec plaques de fibrilles ou de squamules vers la marge au début, hygrophane, beige, chamois à miel foncé au début, graduellement brun date à brun pourpré sombre, au moins vers le pourtour, blanchâtre ou demeurant chamois fauve au disque au sec, à marge blanche, droite avec l'âge, translucide-striée, frangée de restes vélaires au début
   cheilochrysocystides:
   cheilocystides: en faisceaux, abondantes, utriformes, cylindriques à subcylindriques, largement lagéniformes, parfois cylindriques à l’apex capités
   cheiloleptocystides: 
@@ -229,6 +229,7 @@ description:
   pileipellis: celluleux, formé de 1-3 couches de cellules vésiculeuses
   pileitrame: 
   pileocystides: 
+  pileus: 20-110 mm Ø, conique-obtus, ovoïde à convexe puis largement convexe, étalé à umboné-obtus, demeurant parfois largement conique, humide, lisse à rugueux, souvent avec plaques de fibrilles ou de squamules vers la marge au début, hygrophane, beige, chamois à miel foncé au début, graduellement brun date à brun pourpré sombre, au moins vers le pourtour, blanchâtre ou demeurant chamois fauve au disque au sec, à marge blanche, droite avec l'âge, translucide-striée, frangée de restes vélaires au début
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

@@ -85,12 +85,11 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: abondantes, polymorphes, formant une bande bien développée, piriformes à largement piriformes (22,6) 26,5 - 47,8 (56,6) × (11,9) 12,4 - 18,5 (20,3) µm en moyenne, ellipsoïdes-ovoïdes à largement ellipsoïdes-ovoïdes, sphéropédonculées, 43,6 - 61,8 × 19,6 - 28,2 µm en moyenne, hyalines à paroi mince
+  cellules-marginales-paracystides: abondantes, polymorphes, formant une bande bien développée, piriformes à largement piriformes (22,6) 26,5-47,8 (56,6) × (11,9) 12,4-18,5 (20,3) µm en moyenne, ellipsoïdes-ovoïdes à largement ellipsoïdes-ovoïdes, sphéropédonculées, 43,6-61,8 × 19,6-28,2 µm en moyenne, hyalines à paroi mince
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 40-80 mm Ø, hémisphérique ou campanulé au début, puis convexe à convexe-étalé, avec ou sans ombon large et bas, légèrement déprimé ou non au centre, sec ou viscidule à l’humidité, lisse, fibrilleux-inné radialement ou avec fibrilles très distinctes, avec ou sans squamules définies au centre, souvent dans les tons de brun, plus rarement teinté principalement de gris-brun ou de brun orange, parfois à variants blanc pur, à marge unie ou légèrement translucide-striée
   cheilocystides: rares, fusiformes dont l'apex est sans crochets et dont la paroi est sensiblement épaissie 41,8-44,3 × 11,2-12,2 µm en moyenne, à fusiformes ventrues dont l'apex est rostré 50-55 × 17-20 µm en moyenne
   cheilocystides-intermediaires: 
   cheilomacrocystides: 
@@ -231,6 +230,7 @@ description:
   pileipellis: en cutis (ixocutis) formé d’éléments cylindriques emmêlées, lisses, à paroi mince, hyalines ou rempli de pigment intracellulaire brun, avec extrémités subfusiformes à claviformes (38,3) 41-70,1 (80) × (6) 8,5-13,5 (16,7) µm en moyenne, avec matrice de gélin présente chez certaines collections
   pileitrame: 
   pileocystides: 
+  pileus: 40-80 mm Ø, hémisphérique ou campanulé au début, puis convexe à convexe-étalé, avec ou sans ombon large et bas, légèrement déprimé ou non au centre, sec ou viscidule à l’humidité, lisse, fibrilleux-inné radialement ou avec fibrilles très distinctes, avec ou sans squamules définies au centre, souvent dans les tons de brun, plus rarement teinté principalement de gris-brun ou de brun orange, parfois à variants blanc pur, à marge unie ou légèrement translucide-striée
   plasmode: 
   pleurocystides: 
   poils: 

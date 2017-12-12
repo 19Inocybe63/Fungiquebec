@@ -99,7 +99,6 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre au début, puis jaunâtre pâle ou beige blanchâtre, ocre ou brun rouille pâle à dans la partie inférieure du pied
   chancre: 
-  chapeau: 15-50 (75) mm Ø, hémisphérique à convexe puis convexe, convexe-étalé à étalé, souvent avec ombon peu élevé, large et obtus, avec marge involutée; non hygrophane, non strié translucide, visqueux lorsque humide, lisse, glabre, écailleux, ocre ou brun ocré au centre, parfois légèrement teinté d'orangé, graduellement plus pâle vers le pourtour, jaune, beige, blanchâtre-jaunâtre à presque blanc
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: abondantes, fusiformes à lagéniformes, parfois avec un long pédicelle, à paroi mince jusqu'à 0,6 µm d'épaisseur, souvent hyalines ou parfois remplies d'un pigment homogène brun-rosâtre contenu souvent à l’apex (45,9) 48,2-61,9 (65,2) × 11,4-13,8 µm en moyenne
@@ -246,6 +245,7 @@ description:
   pileipellis: formé d'un mince ixocutis d'hyphes étroites, cylindriques de 2-5 µm; subpellis compact, composé d'hyphes cylindriques de 3-10 µm Ø, avec des parois incrustées de pigment brun
   pileitrame: 
   pileocystides: 
+  pileus: 15-50 (75) mm Ø, hémisphérique à convexe puis convexe, convexe-étalé à étalé, souvent avec ombon peu élevé, large et obtus, avec marge involutée; non hygrophane, non strié translucide, visqueux lorsque humide, lisse, glabre, écailleux, ocre ou brun ocré au centre, parfois légèrement teinté d'orangé, graduellement plus pâle vers le pourtour, jaune, beige, blanchâtre-jaunâtre à presque blanc
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

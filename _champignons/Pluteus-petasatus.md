@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: blanche
   chancre: 
-  chapeau: 30-200 mm Ø, hémisphérique à campanulé au début, convexe à étalé à maturité, avec ou sans ombon, surface lisse, squamuleux-fibrilleux seulement autour du centre, ou avec des squamules bruns distincts partout, avec ou sans fibrilles radiales; blanc pur, gris pâle brun à brun pâle, plus rarement avec des couleurs plus foncées, secs ou nettement visqueux quand humide, marge lisse ou translucide-strié
   cheilochrysocystides:
   cheilocystides: nombreuses, polymorphes, obclaviformes, 34,8-57,8 × 11,8-13,3 µm en moyenne, plusieurs cylindriques dont l’apex est acuminé
   cheiloleptocystides: 
@@ -140,7 +139,7 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: indistincte à très douce, désagréable, sucrée, raphanoïde
+  exhalaison-de-la-chair: indistincte à très douce, parfois désagréable, raphanoïde
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
@@ -221,6 +220,7 @@ description:
   pileipellis: en cutis formé d’éléments cylindriques, certains fortement atténués vers l’apex, à paroi mince, lisses, hyalines ou remplis de pigment intracellulaire brun, avec éléments terminaux de 80-135 x 6-15 µm, avec matrice gélin présente chez la plupart des collections, au moins sur la partie la plus externe, intégrant des hyphes de 2-5 µm Ø, certaines de contour irrégulier
   pileitrame: 
   pileocystides: 
+  pileus: 30-200 mm Ø, hémisphérique à campanulé au début, convexe à étalé à maturité, avec ou sans ombon, surface lisse, squamuleux-fibrilleux seulement autour du centre, ou avec des squamules bruns distincts partout, avec ou sans fibrilles radiales; blanc pur, gris pâle brun à brun pâle, plus rarement avec des couleurs plus foncées, secs ou nettement visqueux quand humide, marge lisse ou translucide-strié
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

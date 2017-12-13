@@ -78,6 +78,7 @@ description:
     7 [7,9; 8,3] 9,2 x 6,1 [6,8; 7,1] 7,7 µm
     Q = 1 [1,1; 1,2] 1,3; N = 30; C = 95%
     Me = 8,1 x 6,9 µm; Qe = 1,2
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -98,7 +99,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 22-107 mm Ø, convexe à étalé, cuticule se pèle au 2/3 du rayon ½-¾
   cheilochrysocystides:
   cheilocystides: peu abondantes et peu émergentes, semblables aux pleurocystides
   cheiloleptocystides: 
@@ -108,7 +108,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « L'espèce est très variable en couleurs. »
+  commentaires: |
+    De Yves Lamoureux. « L'espèce est très variable en couleurs. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -239,6 +240,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: remplies de pigments
+  pileus: 22-107 mm Ø, convexe à étalé, cuticule se pèle au 2/3 du rayon ½-¾
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes, polymorphes, cylindriques mucronées 52,9 [59,7; 78,2] 84,9 x 6,1 [7; 9,5] 10,3 µm en moyenne, lagéniformes à sublagéniformes 50,2 [51,8; 54,8] 56,3 x 6,1 [6,9; 8,3] 9 µm en moyenne, claviformes dont l’apex est acéré, rostré à submoniliforme 52,3 [53,3; 57,9] 58,8 x 12,1 [12,2; 12,5] 12,6 µm en moyenne

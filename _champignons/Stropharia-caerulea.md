@@ -54,10 +54,11 @@ description:
   base-stipitiforme: 
   basides: capitées à largement capitées tétrasporiques
   basidiospores: |
-    ellipsoïdes, lisses, à paroi légèrement épaissie, apiculés excentré, petit pore germinatif, à contenu uniguttulé à granuleux, brun à brun pâle, pas de réaction dans le melzer, non cyanophiles
+    ellipsoïdes, lisses, à paroi légèrement épaissie, apiculés excentré, petit pore germinatif, à contenu uniguttulé à granuleux, brun à brun pâle dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     7,4 [8; 8,3] 8,8 x 4,6 [5; 5,1] 5,5 µm
     Q = 1,5 [1,6] 1,7; N = 30; C = 95%
     Me = 8,1 x 5 µm; Qe = 1,6
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,11 +79,10 @@ description:
   cellules-stromatiques: 
   chair: mince, bleuâtre au début, puis paille, bleu-vert vers la base du pied
   chancre: 
-  chapeau: 20-70 mm Ø, hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtres décolorées par endroits, muni de petites méchules blanches au pourtour
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
-  chrysocystides: abondantes, clavées à largement fusiformes, mucronées, de 40 µm x 14 µm en moyenne
+  chrysocystides: abondantes, clavées à largement fusiformes, mucronées, de 40 x 14 µm en moyenne
   circumcystides: 
   clavules: 
   columelle: 
@@ -216,6 +216,7 @@ description:
   pileipellis: en ixocutis
   pileitrame: 
   pileocystides: 
+  pileus: 20-70 mm Ø, hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtres décolorées par endroits, muni de petites méchules blanches au pourtour
   plasmode: 
   pleurocystides: 
   pleurochrysocystides: assez abondantes, clavées à largement fusiformes, mucronées, de 39,8 x 12,8 µm en moyenne

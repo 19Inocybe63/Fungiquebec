@@ -54,10 +54,11 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    globuleuses (4,8 %) à subglobuleuses (76,1 %), à largement elliptiques (19,1 %), proéminences jusqu'à 0,5 µm de hauteur, avec verrues, rides et connexifs formant un réticulum
+    globuleuses (4,8 %) à subglobuleuses (76,1 %), à largement elliptiques (19,1 %), proéminences jusqu'à 0,5 µm de hauteur, avec verrues, rides et connexifs formant un réticulum, hyalines dans le NaCl iso 0,9%, amyloïdes
     7,7 [8,3; 8,6] 9,1 x 6,8 [7,3; 7,6] 8,1 µm
     Q = 1 [1,1] 1,2; N = 21; C = 95%
     Me = 8,4 x 7,5 µm; Qe = 1,1
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: fragile, blanche
   chancre: 
-  chapeau: 35-70 mm Ø, convexe-étalé, rouge foncé à rouge grisâtre ou brun rougeâtre, parfois avec des zones décolorées; lisse, cuticule se pelant jusqu'au ⅔ du rayon, marge rarement striée
   cheilochrysocystides:
   cheilocystides: mucronées, sulfobenzaldéhyde positif (SBA+)
   cheiloleptocystides: 
@@ -221,6 +221,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 35-70 mm Ø, convexe-étalé, rouge foncé à rouge grisâtre ou brun rougeâtre, parfois avec des zones décolorées; lisse, cuticule se pelant jusqu'au ⅔ du rayon, marge rarement striée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: mucronées, sulfovanilline positive (SV+), 55 x 11 μm en moyenne

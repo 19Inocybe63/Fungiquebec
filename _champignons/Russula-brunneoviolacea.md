@@ -68,6 +68,7 @@ description:
     8,2 [8,8; 9,2] 9,8 x 6,9 [7,4; 7,7] 8,2 µm
     Q = 1,1 [1,2] 1,3; N = 20; C = 95%
     Me = 9 x 7,6 µm; Qe = 1,2
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -88,7 +89,6 @@ description:
   cellules-stromatiques: 
   chair: cassante, blanche
   chancre: 
-  chapeau: 46-80 mm Ø, convexe à étalé déprimé, charnu, cuticule se pèle jusqu'au ½ du rayon, cuticule collante, violet, gris pourpre, brun violet à brun rougeâtre, à pigment toujours granuleux
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -229,6 +229,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 46-80 mm Ø, convexe à étalé déprimé, charnu, cuticule se pèle jusqu'au ½ du rayon, cuticule collante, violet, gris pourpre, brun violet à brun rougeâtre, à pigment toujours granuleux
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

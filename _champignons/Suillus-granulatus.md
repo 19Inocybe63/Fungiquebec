@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre, jaunissant avec l'âge, immuable à la coupe
   chancre: 
-  chapeau: 20-90 (100) mm Ø, convexe à largement convexe, visqueux à glutineux, glabre, brun-jaune ou brun rougeâtre, parfois taché de brun foncé par le gluten séché, à marge unie
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -84,7 +83,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: De Yves Lamoureux. « En Europe, <i>S. granulatus</i> ne pousse qu'avec les pins à deux aiguilles. Ici, il ne pousse pas avec les pins à deux aiguilles, mais avec le pin blanc ou la pruche. D'où le <i>Suillus aff. granulatus</i> que j'ai instauré en attendant qu'il soit renommé. J'avais signalé cela à Both dans les années 90, et il était d'accord que le <i>granulatus</i> européen ressemble plus à notre <i>brevipes</i>. C'est toujours la même chanson, euro et ameri en même temps, ça fausse souvent. »
+  commentaires: |
+    De Yves Lamoureux. « En Europe, <i>S. granulatus</i> ne pousse qu'avec les pins à deux aiguilles. Ici, il ne pousse pas avec les pins à deux aiguilles, mais avec le pin blanc ou la pruche. D'où le <i>Suillus aff. granulatus</i> que j'ai instauré en attendant qu'il soit renommé. J'avais signalé cela à Both dans les années 90, et il était d'accord que le <i>granulatus</i> européen ressemble plus à notre <i>brevipes</i>. C'est toujours la même chanson, euro et ameri en même temps, ça fausse souvent. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-90 (100) mm Ø, convexe à largement convexe, visqueux à glutineux, glabre, brun-jaune ou brun rougeâtre, parfois taché de brun foncé par le gluten séché, à marge unie
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -244,9 +245,9 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<sub>4</sub>OH 10%) = gris bleuâtre sur le chapeau; rouille orangé sur la face poroïde; brun pourpré sur le stipe; orange rosâtre puis bleuâtre à pourprée cerclée d'orangé sur la chair
-    Potasse (KOH 10%) = olive foncé à gris olive sur le chapeau; instantanément rouille orangé, puis rapidement brun pourpré sur la face poroïde; brun pourpré sur le stipe; rose puis brun rosâtre sur la chair
-    Sulfate de fer (FeSO<sub>4</sub>) = gris bleuâtre sur le chapeau; vert olive sur la face poroïde; vert foncé sur le stipe; gris olive sur la chair
+    Ammoniaque (NH<sub>4</sub>OH 10%) = gris bleuâtre sur le pileus; rouille orangé sur la face poroïde; brun pourpré sur le stipe; orange rosâtre puis bleuâtre à pourprée cerclée d'orangé sur la chair
+    Potasse (KOH 10%) = olive foncé à gris olive sur le pileus; instantanément rouille orangé, puis rapidement brun pourpré sur la face poroïde; brun pourpré sur le stipe; rose puis brun rosâtre sur la chair
+    Sulfate de fer (FeSO<sub>4</sub>) = gris bleuâtre sur le pileus; vert olive sur la face poroïde; vert foncé sur le stipe; gris olive sur la chair
   receptacle: 
   remarques: 
   repartition: 

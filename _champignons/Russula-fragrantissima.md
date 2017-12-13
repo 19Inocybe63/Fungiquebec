@@ -58,6 +58,7 @@ description:
     8 [8,5; 8,9] 9,5 x 7,5 [7,9; 8,2] 8,7 µm
     Q = 1 [1,1] 1,2; N = 12; C = 95%
     Me = 8,7 x 8,1 µm; Qe = 1,1
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 40-100 mm Ø, globuleux, convexe puis étalé, visqueux au début, lisse, jaune ocré pâle, jaune-brun, jaune grisâtre à brun soutenu, à marge striée-tuberculée et cuticule pelant jusqu'aux 3/4 du rayon
   cheilochrysocystides:
   cheilocystides: comme les pleurocystides, moins émergentes et plus souvent tordues, ou couchées, sulfovanilline positive (SV+)
   cheiloleptocystides: 
@@ -219,6 +219,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: cylindriques, capitées, diverticulées rares, 87 x 5 µm, d'aspect mucronées rare, sulfovanilline positive (SV+)
+  pileus: 40-100 mm Ø, globuleux, convexe puis étalé, visqueux au début, lisse, jaune ocré pâle, jaune-brun, jaune grisâtre à brun soutenu, à marge striée-tuberculée et cuticule pelant jusqu'aux 3/4 du rayon
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes en ogives à apex moniliformes, avec à l’intérieur des guttules jaunâtres, ou des masses huileuse éparses de la même couleur, 63-63,5 (80) x 7-10 µm, sulfovanilline positive (SV+)
@@ -253,7 +254,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ni de décoloration à légèrement rosâtre sur le chapeau
+    Potasse (KOH 10%) = pas de coloration ni de décoloration à légèrement rosâtre sur le pileus
     Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration à rosâtre sur le stipe
   receptacle: 
   remarques: 

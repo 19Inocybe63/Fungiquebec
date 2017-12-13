@@ -81,7 +81,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, cassante, blanche, immuable
   chancre: 
-  chapeau: 90-100 mm Ø, convexe à déprimé, graduellement infundibuliforme, glabre, blanchâtre avec une teinte jaune terne à rouille au centre et légèrement sur le pourtour
   cheilochrysocystides:
   cheilocystides: abondantes, claviformes, au contenu pailleté hyalin, (36) 47,4-61,5 (68,2) × (6,5) 6,9-8,6 (8,7) µm
   cheiloleptocystides: 
@@ -224,6 +223,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: atypiques, cylindriques à clavées, septées, réaction sulfoaldéhyde négatif (SA-)
+  pileus: 90-100 mm Ø, convexe à déprimé, graduellement infundibuliforme, glabre, blanchâtre avec une teinte jaune terne à rouille au centre et légèrement sur le pourtour
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: semblables aux cheilocystides

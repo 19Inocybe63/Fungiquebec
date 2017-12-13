@@ -62,7 +62,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base, (39,3) 39,31 - 48,79 (48,8) × (12,4) 12,44 - 13,17 (13,2) µm
+  basides: claviformes, tétrasporiques, non bouclées à la base, (39,3) 39,31-48,79 (48,8) × (12,4) 12,44-13,17 (13,2) µm
   basidiospores: |
     globuleuses à subglobuleuses en vue frontale, subglobuleuses à largement elliptiques vues de profil, verrues médiums et isolées, réunies par de rares connexions, plus souvent avec verrues caténulées, avec des proéminences jusqu'à 1 µm de hauteur, à paroi mince, appendice hilaire proéminent, petite plage hilaire amyloïde, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (7,2) 7,6-8,8 (9,2) × (6,3) 6,6-7,5 (7,7) µm
@@ -89,7 +89,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 63-94 mm Ø, convexe, étalé déprimé, glabre à légèrement pruineux, dont la cuticule se pèle sur ¼-¾ du rayon, crème jaunâtre à parfois avec des taches de vin (schrimps bigarrées)
   cheilochrysocystides:
   cheilocystides: sensiblement de la même forme que les pleurocystides
   cheiloleptocystides: 
@@ -229,10 +228,11 @@ description:
   pigments: 
   pileipellis: 
   pileitrame: 
-  pileocystides: épicuticulaires, claviformes, fusiformes à largement fusiformes, cystidioïdes, septées, faiblement sulfoaldéhyde, 50 -85 (90) × (5) 7-15 (16) µm; piléocystides atypiques, cylindriques et septées, 10-30 x 2-4 µm en moyenne, 15-17 x 4-6 µm en moyenne
+  pileocystides: épicuticulaires, claviformes, fusiformes à largement fusiformes, cystidioïdes, septées, faiblement sulfoaldéhyde, 50-85 (90) × (5) 7-15 (16) µm; piléocystides atypiques, cylindriques et septées, 10-30 x 2-4 µm en moyenne, 15-17 x 4-6 µm en moyenne
+  pileus: 63-94 mm Ø, convexe, étalé déprimé, glabre à légèrement pruineux, dont la cuticule se pèle sur ¼-¾ du rayon, crème jaunâtre à parfois avec des taches de vin (schrimps bigarrées)
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, au contenu pailleté hyalin et réfringent dans le R.C.Sds  
+  pleurocystides: nombreuses, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, au contenu pailleté hyalin et réfringent dans le R.C.Sds
   poils: septés, 10-30 x 2-4 µm en moyenne, avec cellule finale qui se termine atténuée ou obtuse 15-17 x 4-6 µm en moyenne
   poils-basaux: 
   poils-caulinaires: 

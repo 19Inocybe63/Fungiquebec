@@ -91,6 +91,7 @@ description:
   columelle: 
   commentaires: |
     De Claude Kaufholtz-Couture. « Kibby indique (dans <i>Keys to the species of Russula in Northeastern North America</i>) que les piléocystides sont faiblement sulfovanillines (SV+). Pour ma part, les hyménocystides et les dermatocystides sont sulfovanillines négatives (SV-) et sulfobenzaldéhydes négatifs (SBA-). »
+    De Claude Kaufholtz-Couture. « Veines ou bourrelets formés au niveau des sinus, au fond des vallécules interlamellaires et reliant les lames au niveau de leur base. »
   conidies:  
   conidiome: 
   conidiophores: 
@@ -256,12 +257,11 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le pileus
     Soluté de gaïac = &gt; 5" stipe + b (1, faible); &gt; 5" lames + b (1, faible)
     Sulfate de fer (FeSO<SUB>4</SUB>) = chair rosé très pâle
   receptacle: 
-  remarques: |
-    Veines ou bourrelets formés au niveau des sinus, au fond des vallécules interlamellaires et reliant les lames au niveau de leur base.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

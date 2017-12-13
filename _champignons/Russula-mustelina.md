@@ -76,7 +76,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, ferme, ± immuable, les meurtrissures d'insectes laissent sur le stipe de petits points brun jaunâtre
   chancre: 
-  chapeau: 60 mm Ø, convexe, déprimé, glabre, dont la cuticule est collante élastique-gélatineuse et se pèle jusqu'à moitié du rayon, brun, brun jaunâtre à ocre
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -223,6 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 60 mm Ø, convexe, déprimé, glabre, dont la cuticule est collante élastique-gélatineuse et se pèle jusqu'à moitié du rayon, brun, brun jaunâtre à ocre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

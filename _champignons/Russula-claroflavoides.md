@@ -58,6 +58,7 @@ description:
     7,8 [8,7; 9] 9,9 x 6,7 [7,3; 7,6] 8,2 µm
     Q = 1 [1,2] 1,3; N = 30; C = 95%
     Me = 8,9 x 7,5 µm; Qe = 1,2
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: friable, blanche, rougissant puis grisonnant au grattage
   chancre: 
-  chapeau: 54 mm Ø, convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon, non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge
   cheilocystides: peu abondantes et non proéminentes, cylindriques, sulfobenzaldéhyde négatif (SBA-)
   cheilomacrocystides: 
   chlamydospores: 
@@ -217,6 +217,7 @@ description:
   pileipellis: en ixocutis
   pileitrame: 
   pileocystides: rares, petits, sulfobenzaldéhyde négatif (SBA-)
+  pileus: 54 mm Ø, convexe à étalé, dont la cuticule se pèlent jusqu’au ¾ du rayon, non visqueux, jaune pâle à jaune citrin pâle dans le jeune âge
   plasmode: 
   pleurocystides: abondantes, cylindriques avec apex rostrées, mucronées, fusiformes et plus rarement moniliformes, sulfobenzaldéhyde négatif (SBA-), 42,9 [54,9; 78,8] 90,8 x 7,1 [9,3; 13,6] 15,7 µm en moyenne
   poils: cylindriques, septées

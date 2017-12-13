@@ -58,6 +58,7 @@ description:
     7,6 [8,7; 9,2] 10,4 x 6,5 [7,2; 7,5] 8,3 µm
     Q = 1,1 [1,2] 1,3; N = 30; C = 95%
     Me = 9 x 7,4 µm; Qe = 1,2
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, rougit puis grisonne à la coupe, ou au grattage
   chancre: 
-  chapeau: 47 mm Ø, convexe puis étalé, pruineux, cuticule se pèle du ¼-¾ du rayon, rouge à rouge vin
   cheilochrysocystides:
   cheilocystides: peu nombreuses et non projetées, semblables aux pleurocystides
   cheiloleptocystides: 
@@ -219,6 +219,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: abondantes, remplies de pigments, 45-100 x 5-6 µm, sulfobenzaldéhyde positif (SBA+)
+  pileus: 47 mm Ø, convexe puis étalé, pruineux, cuticule se pèle du ¼-¾ du rayon, rouge à rouge vin
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes, polymorphes, claviformes, cylindriques, à apex pointu, cylindriques-claviformes, cylindriques mucronées, cylindriques avec apex subrostrés, lagéniformes à lagéniformes dont l’apex est souvent moniliformes, réaction pourpre dans le sulfobenzaldéhyde positif (SBA+) 43,5 [55,8; 67,2] 79,5 x 6,6 [9,7; 12,6] 15,7 µm en moyenne

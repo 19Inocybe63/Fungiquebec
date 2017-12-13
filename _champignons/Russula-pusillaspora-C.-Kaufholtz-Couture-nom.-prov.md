@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 31-56 mm Ø, convexe à étalé, déprimé, cuticule collante lorsqu'imbue, se pèle au 3/4 ou complètement, à marge unie à ondulée, blanchâtre, pourtour rouge pâle à rosâtre, centre rouge à rouge noirâtre + foncé
   cheilochrysocystides:
   cheilocystides: nombreuses, cylindriques à fusiformes, dont l'apex est obtus ou moniliforme, faiblement sulfovanilline (SV +), 29,8-55,2 × 5,9-8,9 µm en moyenne
   cheilomacrocystides: 
@@ -228,6 +227,7 @@ description:
   pileipellis: en ± trois couches; 1) suprapellis en ixocutis, ± entre 50-100 µm d'épaisseur, avec de nombreuses piléocystides septées et des poils septés nombreux et diffus dans le gélin; 2) médiopellis de ± 10-15 µm d'épaisseur, formé d'hyphes cylindriques serrées et entrecroisées, entre 1-1,5 µm Ø; 3) subpellis formé d'hyphes cylindriques plus amples et cellules ± globuleuses, lâches
   pileitrame: 
   pileocystides: unicellulaires, abondantes, cylindriques à claviformes, septées, à contenu pailleté, fortement sulfobenzaldéhyde (SB +), 57,1-91,1 (91,4) × (6,2) 6,8-9 (9,2) µm
+  pileus: 31-56 mm Ø, convexe à étalé, déprimé, cuticule collante lorsqu'imbue, se pèle au 3/4 ou complètement, à marge unie à ondulée, blanchâtre, pourtour rouge pâle à rosâtre, centre rouge à rouge noirâtre + foncé
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes, cylindriques à fusiformes, fortement sulfobenzaldéhyde (SB +), (43,2) 47,2-67,3 (75) × (4,5) 4,7-8,3 (9,8) µm en moyenne

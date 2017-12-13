@@ -88,6 +88,7 @@ description:
     12,2 [13; 13,3] 14,1 x 6 [6,5; 6,7] 7,2 µm
     Q = 1,9 [2] 2,1; N = 30; C = 95%
     Me = 13,2 x 6,6 µm; Qe = 2
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -108,7 +109,6 @@ description:
   cellules-stromatiques: 
   chair: blanc à blanc crème à jaune pâle
   chancre: 
-  chapeau: 30-70 mm Ø, convexe à convexe étalé, parfois umboné, à marge droite, non distinctement hygrophane, blanc humide à brun gris pâle, souvent avec légère teinte jaune au centre, blanc quand sec, lisse, glabre, voile pratiquement absent
   cheilochrysocystides: absentes
   cheilocystides: 
   cheiloleptocystides: polymorphes, utriformes à subutriformes 39,2 [45,4; 57,9] 64,1 x 14,8 [16,4; 19,7] 21,4 µm en moyenne, lagéniformes 53,2 x 17,8 µm en moyenne, fusiformes à fusiformes ventrues 35,8 [39,3; 55,7] 59,1 x 15,9 [16,5; 19,7] 20,4 µm
@@ -248,6 +248,7 @@ description:
   pileipellis: en deux couches; suprapellis en ixocutis étroit avec un subpellis constitué d'hyphes cylindriques incorporées dans une couche épaisse de gélin
   pileitrame: 
   pileocystides: 
+  pileus: 30-70 mm Ø, convexe à convexe étalé, parfois umboné, à marge droite, non distinctement hygrophane, blanc humide à brun gris pâle, souvent avec légère teinte jaune au centre, blanc quand sec, lisse, glabre, voile pratiquement absent
   plasmode: 
   pleurochrysocystides: clavées à l'apex mucronées 38 [42,4; 46] 50,4 x 10,8 [12,4; 13,8] 15,4 µm
   pleurocystides: polymorphes, lagéniformes, utriformes à utriformes allongées 44,6 [53,8; 72,1] 81,3 x 15,8 [16,3; 17,5] 18,1 µm en moyenne, fusiformes à largement fusiformes 52 [55,3; 71,4] 74,8 x 17,6 [18,8; 24,7] 25,9 µm en moyenne, plus rarement ovoïdales 33,9 x 18,4 µm en moyenne

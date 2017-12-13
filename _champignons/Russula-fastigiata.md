@@ -110,7 +110,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, rose à rouge sous la cuticule
   chancre: 
-  chapeau: 31-100 mm Ø, convexe puis étalé déprimé, viscidule à l’humidité, rouge, sec et pruineux, cuticule se pèle du ⅓ jusqu'au ½ du rayon
   cheilochrysocystides:
   cheilocystides: nombreuses, semblables aux pleurocystides
   cheiloleptocystides: 
@@ -251,6 +250,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: nombreuses à occasionnelles, cylindriques-clavées, à 1-2 septa, sulfovanilline positive (SV+), (46) 50-92 (95) x (6) 6,5-10,5 (11) µm en moyenne
+  pileus: 31-100 mm Ø, convexe puis étalé déprimé, viscidule à l’humidité, rouge, sec et pruineux, cuticule se pèle du ⅓ jusqu'au ½ du rayon
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: abondantes, longuement cylindriques à claviformes, avec apex obtus, mucronés, moniliformes, avec contenu pailleté hyalin et réfringent dans le R.C.Sds, sulfovanilline positive (SV+) 70-80 x 8,5-11 µm en moyenne

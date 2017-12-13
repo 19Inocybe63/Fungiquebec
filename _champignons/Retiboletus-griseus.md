@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable, parfois avec de légères colorations rosâtres lorsque coupée, devenant jaune dans le pied à maturité, jaune gris dans la base, très souvent parsemée de tunnels de larves
   chancre: 
-  chapeau: 20-90 mm Ø, convexe, à largement convexe, à presque étalé, sec, finement velouté au début, devenant glabre à maturité, brun grisâtre foncé au début, devient terne brun grisâtre à gris à maturité, striées de fibrilles apprimées plus foncées, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -212,6 +211,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-90 mm Ø, convexe, à largement convexe, à presque étalé, sec, finement velouté au début, devenant glabre à maturité, brun grisâtre foncé au début, devient terne brun grisâtre à gris à maturité, striées de fibrilles apprimées plus foncées, à marge unie
   plasmode: 
   pleurocystides: 
   poils: 
@@ -269,7 +269,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 0,8-2 cm de longueur
+  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 8-20 mm de longueur
   type: 
   typique: 
   voile: 

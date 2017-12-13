@@ -99,8 +99,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, même très dure, épaisse, cassante, blanche, rougeâtre-grisâtre et noircissant à la coupe
   chancre: 
-  chapeau: 60-100 mm Ø, convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement
-  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, sulfoaldéhyde positif (SA+); 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -239,6 +237,8 @@ description:
   pileipellis: en cutis avec de nombreuses hyphes vacuolaires
   pileitrame: 
   pileocystides: absentes
+  pileus: 60-100 mm Ø, convexe à déprimé, blanc à brun beige, cuticule ne se pèle pas, ou bien très difficilement
+  cheilocystides: abondantes de deux types, 1er type, cylindriques à claviformes dont les apex diffèrent de capités, mucronés à moniliformes, sulfoaldéhyde positif (SA+); 2e type, cellules marginales piriformes à largement clavées, utriformes, vide optique à paroi mince
   plasmode: 
   pleurocystides: nombreuses, semblable au 1er types des cheilocystides, sulfoaldéhyde positif (SA+)
   poils: 

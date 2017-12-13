@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable
   chancre: 
-  chapeau: 65-70 mm Ø, convexe puis largement convexe à subétalé, sec, finement velouté, parfois craquelé-aréolé, brun foncé, brun-jaune ou brun orangé pâle, souvent avec de petites taches jaunes à blanchâtres, à marge unie
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -224,6 +223,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 65-70 mm Ø, convexe puis largement convexe à subétalé, sec, finement velouté, parfois craquelé-aréolé, brun foncé, brun-jaune ou brun orangé pâle, souvent avec de petites taches jaunes à blanchâtres, à marge unie
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -249,9 +249,9 @@ description:
     <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient orangé
-    Potasse (KOH 10%) = le chapeau devient orangé à rougeâtre
-    Tl4 = +, le chapeau devient rose foncé puis brun
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le pileus devient orangé
+    Potasse (KOH 10%) = le pileus devient orangé à rougeâtre
+    Tl4 = +, le pileus devient rose foncé puis brun
   receptacle: 
   remarques: 
   repartition: 

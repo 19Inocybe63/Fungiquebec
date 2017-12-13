@@ -44,7 +44,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Aldrovandi, Matthew S. P. ; Johnson, James E. et al</b>. <i>Xeromphalina campanella-kauffmanii complex</i>, The Mycological Society of America, 2015, 44 p.
+    <b>Aldrovandi, Matthew S. P.; Johnson, James E. et al</b>. <i>Xeromphalina campanella-kauffmanii complex</i>, The Mycological Society of America, 2015, 44 p.
     <b>Miller, Orson K. Jr</b>. <i>A Revision of the Genus Xeromphalina</i>, Mycological Society of America, Mycologia, Vol. 60, No. 1 (Jan.-Feb., 1968), pp. 156-188, 34 p.
     <b>Voitk, Andrus</b>. <i>Xeromphalina enigmatica</i>, Omphalina Vol. VII, No 2, Feb 24, 2016, pp. 15-19.
   ascome: 
@@ -55,12 +55,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, à paroi mince, 17-28 X 3.5-5.5 µm
+  basides: claviformes, tétrasporiques, à paroi mince, 17-28 X 3,5-5,5 µm
   basidiospores: |
     elliptiques en vue frontale, elliptiques à oblongues vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu homogène, hyalines dans le NaCl iso 0,9%, faiblement amyloïdes dans le melzer, fortement cyanophiles
     (5,6) 5,8-7 (7,2) x (3,3) 3,4-3,9 (4,1) µm
     Q = (1,6) 1,65-1,9 (2); N = 30
     Me = 6,5 x 3,7 µm; Qe = 1,8
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -71,7 +72,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: clavées, fusiformes rarement difformes, à paroi mince, 25-40 (75) x (8.5) 11-15 µm
+  caulocystides: clavées, fusiformes rarement difformes, à paroi mince, 25-40 (75) x (8,5) 11-15 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -81,8 +82,7 @@ description:
   cellules-stromatiques: 
   chair: mince, flexible, jaunâtre orangée à brunâtre
   chancre: 
-  chapeau: 3-25 mm Ø, convexe à largement convexe, déprimé au centre, ombiliqué, graisseux, lisse, subhygrophane, jaune-brun, brun orangé à rouille orangé vers le centre au début, puis brun orangé à brun cannelle, jaunâtre à jaune ocre vers le bord, à marge enroulée au début, translucide-striée jusqu'aux ¾ du rayon à l'humidité
-  cheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, cylindriques à largement cylindriques, lagéniformes, à paroi mince, 2 9-55 X 6.0-13,5 µm
+  cheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, cylindriques à largement cylindriques, lagéniformes, à paroi mince, 29-55 X 6,0-13,5 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -220,6 +220,7 @@ description:
   pileipellis: en cutis
   pileitrame: 
   pileocystides: 
+  pileus: 3-25 mm Ø, convexe à largement convexe, déprimé au centre, ombiliqué, graisseux, lisse, subhygrophane, jaune-brun, brun orangé à rouille orangé vers le centre au début, puis brun orangé à brun cannelle, jaunâtre à jaune ocre vers le bord, à marge enroulée au début, translucide-striée jusqu'aux ¾ du rayon à l'humidité
   plasmode: 
   pleurocystides: occasionnelles à rares, présentes surtout près de l'arête lamellaire, semblable aux cheilocystides
   poils: 

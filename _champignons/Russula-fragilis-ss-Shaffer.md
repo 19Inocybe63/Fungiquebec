@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, fragile, immuable, blanche
   chancre: 
-  chapeau: 27-67 mm Ø, convexe puis étalé, parfois déprimé au centre, fragile, de couleur très variable, rouge pourpré, vineux, violacé, rouge à rouge rosâtre, souvent plus foncé au centre, presque noir, brun à olive, plus pâle vers le pourtour, parfois très pâle et délavé, avec taches pâles ou entièrement blanc, à marge mince, unie à striatulée, et cuticule pelant jusqu'aux 3/4 du rayon ou plus
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -219,6 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 27-67 mm Ø, convexe puis étalé, parfois déprimé au centre, fragile, de couleur très variable, rouge pourpré, vineux, violacé, rouge à rouge rosâtre, souvent plus foncé au centre, presque noir, brun à olive, plus pâle vers le pourtour, parfois très pâle et délavé, avec taches pâles ou entièrement blanc, à marge mince, unie à striatulée, et cuticule pelant jusqu'aux 3/4 du rayon ou plus
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

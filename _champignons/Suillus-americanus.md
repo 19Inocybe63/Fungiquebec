@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: jaune moutarde, devenant brun rougeâtre à la coupe
   chancre: 
-  chapeau: 30-100 mm, convexe à largement convexe, à marge enroulée au début, avec restes vélaires suspendus à la marge, blanc à jaune brunâtre, visqueux à glutineux à l’humidité, jaune vif, parfois jaune plus foncé, souvent avec des taches brun marron à rougeâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -218,6 +217,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 30-100 mm, convexe à largement convexe, à marge enroulée au début, avec restes vélaires suspendus à la marge, blanc à jaune brunâtre, visqueux à glutineux à l’humidité, jaune vif, parfois jaune plus foncé, souvent avec des taches brun marron à rougeâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -245,8 +245,8 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<sub>4</sub>OH 10%) = flash rose devenant rouge et finalement noir sur le chapeau
-    Potasse (KOH 10%) = le chapeau devient noir
+    Ammoniaque (NH<sub>4</sub>OH 10%) = flash rose devenant rouge et finalement noir sur le pileus
+    Potasse (KOH 10%) = le pileus devient noir
     Sulfate de fer (FeSO<sub>4</sub>) = la chair devient olive à olivâtre
   receptacle: 
   remarques: 

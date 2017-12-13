@@ -76,7 +76,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, cassante, blanche, grisonnant puis noircissant à la coupe ou au grattage
   chancre: 
-  chapeau: 22 x 42 mm Ø, convexe puis étalé-déprimé, infundibuliforme à maturité, ferme, glabre, mat, blanchâtre au début, puis brun grisâtre ou noirâtre, finalement entièrement noir, à marge unie
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -216,6 +215,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 22 x 42 mm Ø, convexe puis étalé-déprimé, infundibuliforme à maturité, ferme, glabre, mat, blanchâtre au début, puis brun grisâtre ou noirâtre, finalement entièrement noir, à marge unie
   plasmode: 
   pleurocystides: 
   poils: 

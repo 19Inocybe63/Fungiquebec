@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: 5-14 mm d'épaisseur, blanche à gris aqueux pâle, blanche dans le pied
   chancre: 
-  chapeau: 20-100 mm Ø, convexe, devenant largement convexe à subétalé, humide et graisseux au toucher lorsque frais, glabre, brun rougeâtre, à cannelle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -215,6 +214,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20-100 mm Ø, convexe, devenant largement convexe à subétalé, humide et graisseux au toucher lorsque frais, glabre, brun rougeâtre, à cannelle
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: blanchâtre, rougissante puis noircissant rapidement lorsque coupée ou meurtrie
   chancre: 
-  chapeau: 30-155 mm Ø, large, convexe, devenant largement convexe à subétalé à maturité, marge appendiculée de reste du voile partiel cotonneux et grisâtre; sec, blanchâtre à grisâtre, recouvert de laine grossière ou cotonneuse, aplati ou dressé, de gris à gris violacé ou noirâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -214,6 +213,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 30-155 mm Ø, large, convexe, devenant largement convexe à subétalé à maturité, marge appendiculée de reste du voile partiel cotonneux et grisâtre; sec, blanchâtre à grisâtre, recouvert de laine grossière ou cotonneuse, aplati ou dressé, de gris à gris violacé ou noirâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: ferme et immuable au grattage ou à la coupe
   chancre: 
-  chapeau: 102 mm Ø, pruineux, sec, jaune à jaune orangé, cuticule inséparable de la chair
   cheilochrysocystides:
   cheilocystides: nombreuses, cylindriques à longuement fusiformes, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-), (61,5) 70,7-92 (93,2) × (7,4) 7,7-10,1 (10,8) µm en moyenne
   cheiloleptocystides: 
@@ -222,6 +221,7 @@ description:
   pileipellis: en deux couches; 1e) couche supérieure en tomentum formé d'éléments dressés, arrondis à subaigus à l'apex, certains flexueux, hyalins, et de piléocystides; 2e) couche formé d’hyphes en cutis
   pileitrame: 
   pileocystides: peu nombreuses, cylindriques, claviformes à subclaviformes, ochracées, réfringentes dans le KOH 5%, sulfobenzaldéhyde négatif (SBA-), jusqu'à 100-130 x 7-8 µm en moyenne
+  pileus: 102 mm Ø, pruineux, sec, jaune à jaune orangé, cuticule inséparable de la chair
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, longuement fusiformes, parfois avec apex mucroné à rarement rostrés, lancéolées à sublancéolées, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-) (84,3) 90,7-142,2 (154,1) × (9,7) 10,1-11,7 (14,1) µm en moyenne

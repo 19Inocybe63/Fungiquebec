@@ -54,10 +54,11 @@ description:
   base-stipitiforme: 
   basides: piriformes à largement claviformes, tétrasporiques, boucles non observées à la base, 36,2 x 11,2 µm en moyenne
   basidiospores: |
-    globuleuses à subglobuleuses, verruqueuses, avec verrues isolées, quelques crêtes et connexifs, avec proéminences jusqu’à 1,1 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, amyloïdes en périphérie, hyalines, amyloïdes
+    globuleuses à subglobuleuses, verruqueuses, avec verrues isolées, quelques crêtes et connexifs, avec proéminences jusqu’à 1,1 µm de hauteur, à paroi mince, appendice hilaire, avec plage suprahilaire, amyloïdes en périphérie, hyalines dans le NaCl iso 0,9%, amyloïdes
     6,5 [7,3; 7,6] 8,4 x 5,8 [6,2; 6,3] 6,7 µm
     Q = 1 [1,2] 1,3; N = 35; C = 95%
     Me = 7,4 x 6,3 µm; Qe = 1,2
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -78,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanche et qui ne brunit pas
   chancre: 
-  chapeau: 67 mm Ø, hémisphérique, convexe à étalé, finement velouté, pruineux à la marge, unie à légèrement sillonnée
   cheilochrysocystides:
   cheilocystides: cylindriques, mucronées, 51,6 x 9,9 µm en moyenne
   cheiloleptocystides: 
@@ -219,6 +219,7 @@ description:
   pileipellis: en trichoderme, formé d'hyphes dressées, avec terminaisons hyphales en forme de poils, sans hyphes incrustées
   pileitrame: 
   pileocystides: cylindriques-clavées à fusiformes, parfois ± capitées, réaction sulfovanilline positive (SV+), 65 x 7,2 µm en moyenne
+  pileus: 67 mm Ø, hémisphérique, convexe à étalé, finement velouté, pruineux à la marge, unie à légèrement sillonnée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: semblables aux macropleurocystides

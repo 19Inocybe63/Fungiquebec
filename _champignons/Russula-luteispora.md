@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: mince, immuable, blanche
   chancre: 
-  chapeau: 20 mm Ø, convexe, rougeâtre à plus pâle vers la marge, plus foncé au centre, cuticule collante se pèle facilement jusqu'au ¾ du rayon, rouge, avec centre rouge noirâtre
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -217,6 +216,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 20 mm Ø, convexe, rougeâtre à plus pâle vers la marge, plus foncé au centre, cuticule collante se pèle facilement jusqu'au ¾ du rayon, rouge, avec centre rouge noirâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

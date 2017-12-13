@@ -75,7 +75,6 @@ description:
   cellules-stromatiques: 
   chair: jaune, épaisse, ferme, immuable à la coupe ou au froissement
   chancre: 
-  chapeau: 28-155 mm Ø, arrondi à convexe à étalé, à marge appendiculée de restes vélaires, ondulée; parfois avec un umbo, sec, fibrilleux, orné de petites méchules, jaune clair au début devenant jaune orangé à maturité
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 
@@ -223,6 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 28-155 mm Ø, arrondi à convexe à étalé, à marge appendiculée de restes vélaires, ondulée; parfois avec un umbo, sec, fibrilleux, orné de petites méchules, jaune clair au début devenant jaune orangé à maturité
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -250,8 +250,8 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<sub>4</sub>OH 10%) = orange sur le chapeau et le stipe; verdâtre sur la chair; orange sur les tubes
-    Potasse (KOH 10%) = rouge à rouge vin puis noirâtre sur le chapeau, les tubes et le stipe
+    Ammoniaque (NH<sub>4</sub>OH 10%) = orange sur le pileus et le stipe; verdâtre sur la chair; orange sur les tubes
+    Potasse (KOH 10%) = rouge à rouge vin puis noirâtre sur le pileus, les tubes et le stipe
     Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration ou de décoloration
   receptacle: 
   remarques: 

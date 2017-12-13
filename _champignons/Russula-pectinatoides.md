@@ -78,6 +78,7 @@ description:
     7,4 [8,1; 8,3] 9 x 6 [6,4; 6,6] 6,9 µm
     Q = 1,2 [1,25; 1,3] 1,4; N = 31; C = 95%
     Me = 8,2 x 6,5 µm; Qe = 1,3
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -98,7 +99,6 @@ description:
   cellules-stromatiques: 
   chair: épaisse, immuable, blanche
   chancre: 
-  chapeau: 35-67 (75) mm Ø, convexe, étalé à déprimé, non visqueux, légèrement feutré, crème avec parfois un centre brun pourpre foncé, à marge cannelées, dont la cuticule se pèle au ¼ à ½ du rayon
   cheilochrysocystides:
   cheilocystides: nombreuses, cylindriques mucronées, fusiformes-ventrues, parfois lagéniformes, plus rarement moniliformes, réaction sulfovanilline positive (SV+), 53-69 x 8,5-11 µm
   cheiloleptocystides: 
@@ -239,6 +239,7 @@ description:
   pileipellis: en cutis (ixocutis)
   pileitrame: 
   pileocystides: absentes
+  pileus: 35-67 (75) mm Ø, convexe, étalé à déprimé, non visqueux, légèrement feutré, crème avec parfois un centre brun pourpre foncé, à marge cannelées, dont la cuticule se pèle au ¼ à ½ du rayon
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, semblables aux cheilocystides, réaction sulfovanilline positive (SV+), 45-56 x 6-10,5 µm

@@ -80,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: blanche immuable au grattage, mis à part à la coupe du pied, et sous la cuticule, la chair est orangée
   chancre: 
-  chapeau: 83 mm Ø, convexe à étalé, puis déprimé, jaune orangé, la cuticule collante, pèle presque entièrement
   cheilochrysocystides:
   cheilocystides: occasionnelles, peu émergentes, cylindriques à fusiformes, parfois avec apex mucroné, à contenu pailleté, sulfovanilline négative (SV-), 60-65 × 8 - 10 µm en moyenne
   cheiloleptocystides: 
@@ -222,6 +221,7 @@ description:
   pileipellis: en ixocutis, formé d'hyphes non incrustées et de pileocystides occasionnelles
   pileitrame: 
   pileocystides: occasionnelles, cylindriques, dont l’apex se termine souvent spatulé à subspatulé, à rarement bidigitée, septées, sulfovanilline négative (SV-), 37-87,5 × 4,5-6 µm en moyenne
+  pileus: 83 mm Ø, convexe à étalé, puis déprimé, jaune orangé, la cuticule collante, pèle presque entièrement
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, cylindriques à fusiformes, souvent avec apex mucroné, à contenu pailleté, sulfovanilline négative (SV-), 68,3-78,5 × 11-13,7 µm en moyenne

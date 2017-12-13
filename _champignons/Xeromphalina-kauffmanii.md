@@ -78,7 +78,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, ferme, crème à concolore à la surface du chapeau
+  chair: mince, ferme, crème à concolore à la surface du pileus
   chancre: 
   cheilocystides: abondantes, polymorphes, lagéniformes, cylindriques à largement cylindriques, fusiformes à largement fusiformes, 22-50 x 9-10 µm
   cheilomacrocystides: 

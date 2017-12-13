@@ -59,6 +59,7 @@ description:
     (4,5) 4,9-6 (7) x (2,7) 2,9-3,4 (3,9) µm
     Q = (1,5) 1,6-1,9 (2,1); N = 30
     Me = 5,5 x 3,1 µm; Qe = 1,8
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -79,7 +80,6 @@ description:
   cellules-stromatiques: 
   chair: mince, ferme, crème à concolore à la surface du chapeau
   chancre: 
-  chapeau: 8-17 mm Ø, convexe déprimé, étalé et ombiliqué, glabre, lisse, jaunâtre à orangé, orangé plus foncé au centre, marge parfois ondulée et blanchâtre
   cheilocystides: abondantes, polymorphes, lagéniformes, cylindriques à largement cylindriques, fusiformes à largement fusiformes, 22-50 x 9-10 µm
   cheilomacrocystides: 
   chlamydospores: 
@@ -198,7 +198,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: densément grégaire, parfois densément cespiteux, in n'est pas rare de voir des centaines d'individus sur un même billot
+  mode-de-croissance: densément grégaire, parfois densément cespiteux, il n'est pas rare de voir des centaines d'individus sur un même billot
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 
@@ -218,6 +218,7 @@ description:
   pileipellis: en cutis
   pileitrame: 
   pileocystides: 
+  pileus: 8-17 mm Ø, convexe déprimé, étalé et ombiliqué, glabre, lisse, jaunâtre à orangé, orangé plus foncé au centre, marge parfois ondulée et blanchâtre
   plasmode: 
   pleurocystides: occasionnelles, similaires aux cheilocystides
   poils: 

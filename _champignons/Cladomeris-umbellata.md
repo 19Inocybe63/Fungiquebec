@@ -242,7 +242,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur la chair du chapeau
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur la chair du pileus
   receptacle: 
   remarques: 
   repartition: 

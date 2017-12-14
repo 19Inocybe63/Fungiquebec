@@ -239,7 +239,7 @@ description:
     <b>Boertmann, David</b>. <i>The genus Hygrocybe</i>, Fungi of Northern Europe vol. 1, 2nd revised edition, 2010, 103 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le chapeau
+    Potasse (KOH 10%) = pas de coloration ou de décoloration sur le pileus
   receptacle: 
   remarques: 
   repartition: 

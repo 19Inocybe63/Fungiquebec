@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, serrées, concolores au chapeau, dont l'arêtes lamellaires semblent givrées, fimbriées, présence de lamelles et de lamellules
+  lames: adnexées, serrées, concolores au pileus, dont l'arêtes lamellaires semblent givrées, fimbriées, présence de lamelles et de lamellules
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -255,7 +255,7 @@ description:
   sporee: pallidosporé, crème pâle, en tas
   spherocytes: 
   sporocystes: 
-  stipe: 21-55 x 2-7 mm Ø, cylindrique, plein, courbé, concolore au chapeau
+  stipe: 21-55 x 2-7 mm Ø, cylindrique, plein, courbé, concolore au pileus
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -281,7 +281,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fugace, blanc, présent à la marge du chapeau, où il forme de petites pointes
+  voile-partiel: fugace, blanc, présent à la marge du pileus, où il forme de petites pointes
   volve: 
   zone-perihymeniale: 
 ---

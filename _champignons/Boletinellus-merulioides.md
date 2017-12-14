@@ -256,8 +256,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le chapeau devient noirâtre puis rouge terne à orangé
-    Potasse (KOH 10%) = le chapeau devient noirâtre puis rouge terne à orangé
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le pileus devient noirâtre puis rouge terne à orangé
+    Potasse (KOH 10%) = le pileus devient noirâtre puis rouge terne à orangé
   receptacle: 
   remarques: Cueilli sous les frênes; probablement en symbiose avec le puceron (ou aphide) <i>Melia Rhizophagus fraxinifolia</i>.
   repartition: 

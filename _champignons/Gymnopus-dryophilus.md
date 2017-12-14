@@ -238,7 +238,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = absence à faiblement jaunâtre-olive sur la surface du chapeau
+    Potasse (KOH 10%) = absence à faiblement jaunâtre-olive sur la surface du pileus
   receptacle: 
   remarques: 
   repartition: 

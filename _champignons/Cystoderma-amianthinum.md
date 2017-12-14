@@ -254,7 +254,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
-    Potasse (KOH 10%) = brun rouille sur le chapeau
+    Potasse (KOH 10%) = brun rouille sur le pileus
   receptacle: 
   remarques: 
   repartition: 

@@ -241,7 +241,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = devient noir sur le chapeau et le contexte; sur jeunes sujets, il passe au rouge vin avant de noircir
+    Potasse (KOH 10%) = devient noir sur le pileus et le contexte; sur jeunes sujets, il passe au rouge vin avant de noircir
   receptacle: 
   remarques: 
   repartition: 

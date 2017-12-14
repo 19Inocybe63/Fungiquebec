@@ -103,7 +103,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: blanche à la marge du chapeau
+  cortine: blanche à la marge du pileus
   couches-de-tubes: 
   coupe-sterile: 
   cristaux: 
@@ -185,7 +185,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, larges, subserrées, concolores au chapeau
+  lames: adnées à adnexées, larges, subserrées, concolores au pileus
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

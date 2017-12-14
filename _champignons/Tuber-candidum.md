@@ -80,6 +80,7 @@ description:
     19,8 [25,2; 27,5] 32,8 x 15,2 [18,3; 19,6] 22,7 µm
     Q = 1,2 [1,3; 1,4] 1,6; N = 33; C = 95%
     Me = 26,3 x 19 µm; Qe = 1,4
+    (Piximètre, formule statistique; mesures non issues d'une sporée, dans le NaCl iso 0,9%)
   asques: globuleux, largement piriformes à largement fusiformes, à paroi épaisse, contenant 2 à 5 ascospores (3 ascospores par asques, fréquent, 4 ascospores par asque, la norme, 5 ascospores par asque, plus rare) 66,5 [80,8; 98,2] 112,5 x 46,8 [51,4; 57] 61,7 µm
   asterohyphidies: 
   avertissement: 

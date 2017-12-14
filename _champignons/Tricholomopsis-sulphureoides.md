@@ -79,7 +79,6 @@ description:
   cellules-stromatiques: 
   chair: mince, jaune pâle, immuable
   chancre: 
-  chapeau: 11-55 mm Ø, convexe-campanulé, légèrement déprimé, mamelonné-umbonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche; comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé
   cheilocystides: occasionnelles, cylindriques à claviformes, parfois flexueuses, avec apex arrondis, lisses ou occasionnellement incrustées, à paroi mince, hyalines, (35) 40-75 x (3,3) 5-7,5 μm,
   cheilomacrocystides: 
   chlamydospores: 
@@ -219,6 +218,7 @@ description:
   pileipellis: en cutis, formé parfois d'hyphes agglomérées et dressées, lisses, brun orangé dans le KOH 5%, à cellules terminales subcylindriques et arrondies à l'apex
   pileitrame: 
   pileocystides: 
+  pileus: 11-55 mm Ø, convexe-campanulé, légèrement déprimé, mamelonné-umbonné, vergeté ?, dont la marge est légèrement fibrilleuse blanche; comme légèrement appendiculé, jaunâtre avec reflet beige-brunâtre, centre plus foncé
   plasmode: 
   pleurocystides: absentes
   poils: 
@@ -241,7 +241,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = instantanément rouge brun foncé sur la surface du chapeau
+    Potasse (KOH 10%) = instantanément rouge brun foncé sur la surface du pileus
   receptacle: 
   remarques: 
   repartition: 

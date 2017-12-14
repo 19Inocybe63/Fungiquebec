@@ -74,7 +74,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à cylindriques-claviformes, tétrasporiques, bouclées à la base, 22-27 x 6-8 µm
   basidiospores: |
-    elliptiques en vue  frontale, elliptiques à légèrement phaséoliformes vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu guttulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, cyanophiles
+    elliptiques en vue frontale, elliptiques à légèrement phaséoliformes vues de profil, lisses, à paroi mince, avec petit appendice hilaire, à contenu guttulé à variable, hyalines dans E.G. 20%, pas de réaction dans le melzer, cyanophiles
     (7) 7,6-9 (9,4) × (4,3) 4,4-5 (5,3) µm
     Q = (1,6) 1,7-1,8 (1,9); N = 30
     Me = 8,3 × 4,7 µm; Qe = 1,8
@@ -99,7 +99,6 @@ description:
   cellules-stromatiques: 
   chair: mince, concolore au chapeau
   chancre: 
-  chapeau: 4-24 mm Ø, convexe à étalé, ombiliqué, avec légères fibrilles, hygrophane, brun orangé à brun rouge à fauve au frais, à marge (reste du voile partiel) blanchâtre
   cheilochrysocystides:
   cheilocystides: abondantes, formant une palissade, polymorphes, cylindriques à claviformes, flexueuses, à apex subcapité, obtus, difforme, 20-55 x 4-10 µm
   cheiloleptocystides: 
@@ -110,7 +109,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Le genre <i>Tubaria</i> vient du latin « tuba » et signifie « trompette ». En général, le chapeau est plat, hygrophane, et les lames sont un peu décurrentes. »
+    De Claude Kaufholtz-Couture. « Le genre <i>Tubaria</i> vient du latin « tuba » et signifie « trompette ». En général, le pileus est plat, hygrophane, et les lames sont un peu décurrentes. »
     De Claude Kaufholtz-Couture. « Ce sporocarpe aime particulièrement les températures froides. »
   conidies: 
   conidiome: 
@@ -242,6 +241,7 @@ description:
   pileipellis: en cutis, formé d'hyphes 9-13 µm Ø, avec cellules terminales piriformes à ovoïdes, 3-10 µm Ø, avec pigmentations jaune orangé
   pileitrame: 
   pileocystides: 
+  pileus: 4-24 mm Ø, convexe à étalé, ombiliqué, avec légères fibrilles, hygrophane, brun orangé à brun rouge à fauve au frais, à marge (reste du voile partiel) blanchâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: absentes

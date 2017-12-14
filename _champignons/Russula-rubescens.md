@@ -176,7 +176,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: laticifères dans la chair du chapeau
+  hyphes: laticifères dans la chair du pileus
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 

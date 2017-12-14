@@ -245,7 +245,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration à gris sur le chapeau; grisâtre à gris sur la chair
+    Potasse (KOH 10%) = pas de coloration à gris sur le pileus; grisâtre à gris sur la chair
   receptacle: 
   remarques: 
   repartition: 

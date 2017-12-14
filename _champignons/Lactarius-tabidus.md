@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, ferme, cassante, immuable à la coupe, brunâtre à concolore à la surface du chapeau, cannelle pâle à blanchâtre
+  chair: mince, ferme, cassante, immuable à la coupe, brunâtre à concolore à la surface du pileus, cannelle pâle à blanchâtre
   chancre: 
   cheilochrysocystides:
   cheilocystides: occasionnelles, peu projetées, subfusiformes à ± lancéolées dont l’apex est subaigu, mucroné à submoniliforme 38,7-57,4 × 5,3-7,1 µm en moyenne
@@ -264,7 +264,7 @@ description:
   sporee: pallidosporée, IIa-IIb, crème pâle, taché parfois de jaunâtre d'après la charte de couleur de Romagnesi; C d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
-  stipe: 39-49 x 4-7 mm Ø, cylindrique, creux, concolore au chapeau
+  stipe: 39-49 x 4-7 mm Ø, cylindrique, creux, concolore au pileus
   stipitipellis: 
   stipititrame: 
   stroma: 

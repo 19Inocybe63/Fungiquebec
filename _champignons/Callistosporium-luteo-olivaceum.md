@@ -72,7 +72,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, concolore au chapeau ou plus pâle
+  chair: mince, concolore au pileus ou plus pâle
   chancre: 
   cheilocystides: 
   cheilomacrocystides: 
@@ -82,7 +82,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Ce qu'il y a de particulièrement intéressant avec ce « PCJ » est qu'une goutte de KOH 10% le fait virer au rouge vif presque instantannément (sur le chapeau ou sur les lames). Pas besoin de colorant au microscope non plus; tout est rouge. Alors si on a de la potasse, c'est une espèce facile à identifier, même si elle est très peu commune ! »
+    De Yves Lamoureux. « Ce qu'il y a de particulièrement intéressant avec ce « PCJ » est qu'une goutte de KOH 10% le fait virer au rouge vif presque instantannément (sur le pileus ou sur les lames). Pas besoin de colorant au microscope non plus; tout est rouge. Alors si on a de la potasse, c'est une espèce facile à identifier, même si elle est très peu commune ! »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -251,7 +251,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 20-50 x 2-6 mm Ø, égal ou élargi vers la base, creux avec l'âge, entièrement finement poudreux au début, puis glabre sur la moitié supérieure, lisse, concolore au chapeau, avec mycélium basal blanc
+  stipe: 20-50 x 2-6 mm Ø, égal ou élargi vers la base, creux avec l'âge, entièrement finement poudreux au début, puis glabre sur la moitié supérieure, lisse, concolore au pileus, avec mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -208,8 +208,6 @@ champs-description:
     label: Glèbe
   - name: pseudocolumelle
     label: Pseudocolumelle
-  - name: chapeau
-    label: Chapeau
   - name: pileus
     label: Pileus
   - name: hymenophore

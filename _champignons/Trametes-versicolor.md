@@ -84,7 +84,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 10-50 mm en surplomb, dont la largeur varie de 10-60 mm, l'épaisseur varie généralement de 2-5 mm à la base du chapeau, convexe, ou plat, généralement dimidié, semi-circulaire, réniforme ou parfois presque orbiculaire, à marge poreuse, mince, légèrement onduleuse, lobée et partiellement effritée à maturité
   cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -223,6 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 10-50 mm en surplomb, dont la largeur varie de 10-60 mm, l'épaisseur varie généralement de 2-5 mm à la base du chapeau, convexe, ou plat, généralement dimidié, semi-circulaire, réniforme ou parfois presque orbiculaire, à marge poreuse, mince, légèrement onduleuse, lobée et partiellement effritée à maturité
   plasmode: 
   pleurocystides: 
   poils: 

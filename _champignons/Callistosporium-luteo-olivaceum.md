@@ -237,7 +237,7 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = chapeau et lames deviennent rouge vif presque instantanément
+    Potasse (KOH 10%) = pileus et lames deviennent rouge vif presque instantanément
   receptacle: 
   remarques: 
   repartition: 

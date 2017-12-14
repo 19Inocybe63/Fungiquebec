@@ -97,7 +97,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, concolore au chapeau
+  chair: mince, concolore au pileus
   chancre: 
   cheilochrysocystides:
   cheilocystides: abondantes, formant une palissade, polymorphes, cylindriques à claviformes, flexueuses, à apex subcapité, obtus, difforme, 20-55 x 4-10 µm
@@ -284,7 +284,7 @@ description:
   sporee: brun rouille, ocre
   spherocytes: 
   sporocystes: 
-  stipe: 9-18 x 2-4 mm Ø, cylindrique à égal, creux, ± concolore au chapeau, à l'apex fibrilleux et blanchâtre, ne se détache pas du chapeau
+  stipe: 9-18 x 2-4 mm Ø, cylindrique à égal, creux, ± concolore au pileus, à l'apex fibrilleux et blanchâtre, ne se détache pas du pileus
   stipitipellis: 
   stipititrame: 
   stroma: 

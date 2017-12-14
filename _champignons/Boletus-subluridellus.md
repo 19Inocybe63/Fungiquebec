@@ -258,8 +258,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 8, <i>les boletales</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = devient jaune crème sur la chair du chapeau et brun sur la face poroïde
-    Potasse (KOH 10%) = saumon sur la chair du chapeau devient et brun rouille sur la face poroïde
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = devient jaune crème sur la chair du pileus et brun sur la face poroïde
+    Potasse (KOH 10%) = saumon sur la chair du pileus devient et brun rouille sur la face poroïde
     Sulfate de fer (FeSO<SUB>4</SUB>) = sur la chair bleue, jaune à jaune or à légèrement orangé
   receptacle: 
   remarques: 

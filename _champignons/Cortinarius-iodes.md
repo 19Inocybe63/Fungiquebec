@@ -245,7 +245,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = pas de coloration, ou rosâtre sur la surface du chapeau; brunâtre sur la chair
+    Potasse (KOH 10%) = pas de coloration, ou rosâtre sur la surface du pileus; brunâtre sur la chair
   receptacle: 
   remarques: 
   repartition: 

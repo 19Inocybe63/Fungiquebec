@@ -262,7 +262,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = le chapeau devient orangée
+    Potasse (KOH 10%) = le pileus devient orangée
     Sulfate de fer (FeSO<SUB>4</SUB>) = la chair du stipe devient lentement et faiblement saumonée
   receptacle: 
   remarques: Code de Kibby = B I K N / Q T _ W

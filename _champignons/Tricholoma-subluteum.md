@@ -84,7 +84,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Regarde le chapeau, s'il avait été sec, tu aurais pu supprimer facilement tout grain de terre. Mais là, ils sont incrustées car <i>T. subluteum</i> est viscidule... mais vite sec. »
+    De Yves Lamoureux. « Regarde le pileus, s'il avait été sec, tu aurais pu supprimer facilement tout grain de terre. Mais là, ils sont incrustées car <i>T. subluteum</i> est viscidule... mais vite sec. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -177,7 +177,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées, serrées, blanches, teintées de jaune vers le pourtour du chapeau
+  lames: sinuées, serrées, blanches, teintées de jaune vers le pourtour du pileus
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

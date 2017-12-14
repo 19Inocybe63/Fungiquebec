@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: ferme, blanchâtre
   chancre: 
-  chapeau: 50-150 mm de hauteur, 30-120 mm Ø, en entonnoir, à face interne ornée de grosses mèches ou d'écailles orange à orange rougeâtre sur fond pâle
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -215,6 +214,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 50-150 mm de hauteur, 30-120 mm Ø, en entonnoir, à face interne ornée de grosses mèches ou d'écailles orange à orange rougeâtre sur fond pâle
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

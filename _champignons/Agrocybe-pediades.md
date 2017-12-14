@@ -255,7 +255,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = coloration rose à rougeâtre sur le chapeau
-    Sulfate de fer (FeSO<sub>4</sub>) = légèrement verdâtre sur le chapeau et les lames après plusieurs minutes
+    Sulfate de fer (FeSO<sub>4</sub>) = légèrement verdâtre sur le pileus et les lames après plusieurs minutes
     Tl4 = -
   receptacle: 
   remarques: 

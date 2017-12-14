@@ -241,7 +241,7 @@ description:
     <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = olive pâle sur le chapeau
+    Potasse (KOH 10%) = olive pâle sur le pileus
   receptacle: 
   remarques: 
   repartition: 

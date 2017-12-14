@@ -55,7 +55,7 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: annuel, piléé, stipité, hémisphérique, en forme de chou-fleur, formé de nombreux petits chapeaux stipités, en partie imbriqués et arrivant d'une base commune ± centrée et très ramifiée, d'un diamètre maximal de 70-200 (500) mm Ø
+  basidiome: annuel, piléé, stipité, hémisphérique, en forme de chou-fleur, formé de nombreux petits pileus stipités, en partie imbriqués et arrivant d'une base commune ± centrée et très ramifiée, d'un diamètre maximal de 70-200 (500) mm Ø
   bibliographies: 
   biotopes: pousse au sol, sur bois mort, ou près des souches à partir d'un sclérote, agent de carie blanche, sous <i>Fagus</i>, <i>Quercus</i>, parfois rapporté sur <i>Picea</i> et <i>Pinus</i>
   boucles: 
@@ -231,7 +231,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: subdécurrents, concolores à la face poroïde, 1-2 mm de longueur; anguleux sur le chapeau, allongés près du pied, 1-3 par mm, plus irréguliers sur le pied; fendus et en partie sinueux, jusqu'à 2 mm Ø
+  pores: subdécurrents, concolores à la face poroïde, 1-2 mm de longueur; anguleux sur le pileus, allongés près du pied, 1-3 par mm, plus irréguliers sur le pied; fendus et en partie sinueux, jusqu'à 2 mm Ø
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -256,7 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: centré, blanc à crème ou paille pâle, couvert de pores vers l'apex, plus lisse vers la base, élargi à la base, atténué vers le chapeau, ramifiant d'un tronc commun ± centré, égal, court et noduleux, jusqu'à 30 mm Ø, arrivant d'un sclérote noirâtre, dur, irrégulier, noduleux, avec courtes ramifications difformes, blanc à l'intérieur
+  stipe: centré, blanc à crème ou paille pâle, couvert de pores vers l'apex, plus lisse vers la base, élargi à la base, atténué vers le pileus, ramifiant d'un tronc commun ± centré, égal, court et noduleux, jusqu'à 30 mm Ø, arrivant d'un sclérote noirâtre, dur, irrégulier, noduleux, avec courtes ramifications difformes, blanc à l'intérieur
   stipitipellis: 
   stipititrame: 
   stroma: 

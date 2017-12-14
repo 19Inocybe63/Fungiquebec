@@ -72,7 +72,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
   cheilochrysocystides:
   cheilocystides: 
   cheilomacrocystides: 

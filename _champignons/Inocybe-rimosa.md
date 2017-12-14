@@ -321,7 +321,7 @@ description:
   trame-tubulaire: 
   type: 
   typique: 
-  velipellis: blanchâtre au centre du chapeau
+  velipellis: blanchâtre au centre du pileus
   voile: 
   voile-general: 
   voile-partiel: 

@@ -249,7 +249,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<sub>4</sub>OH 10%) = violet foncé, puis se décolore jaune sur le chapeau
+    Ammoniaque (NH<sub>4</sub>OH 10%) = violet foncé, puis se décolore jaune sur le pileus
   receptacle:
   remarques: 
   repartition: 

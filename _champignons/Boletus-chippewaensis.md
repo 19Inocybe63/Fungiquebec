@@ -249,8 +249,8 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<sub>4</sub>OH 10%) = ne bleuissant pas sur le chapeau et le pied; rosâtre pâle sur la chair
-    Potassium (KOH 10%) = orange brunâtre sur le chapeau; rosâtre pâle sur la chair
+    Ammoniaque (NH<sub>4</sub>OH 10%) = ne bleuissant pas sur le pileus et le pied; rosâtre pâle sur la chair
+    Potassium (KOH 10%) = orange brunâtre sur le pileus; rosâtre pâle sur la chair
     Sulfate de fer (FeSO<sub>4</sub>) = olivacée sur le pileus; gris olive à bleu grisâtre sur la chair
   receptacle: 
   remarques: 

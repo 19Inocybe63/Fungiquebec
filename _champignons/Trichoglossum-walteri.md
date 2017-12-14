@@ -111,7 +111,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « L'utilisation d'un microscope est essentielle pour détecter la présence de poils; une loupe 10x est insuffisante. »
+    De Claude Kaufholtz-Couture. « L'utilisation d'un microscope ou d'une loupe trinoculaire est essentielle pour détecter la présence de poils; une loupe 10x est insuffisante. »
     De Claude Kaufholtz-Couture. « Dans les mots composés, tricho- signifie velu. »
   conidies: 
   conidiome: 
@@ -244,7 +244,7 @@ description:
   pileocystides: 
   plasmode: 
   pleurocystides: 
-  poils: nombreux, droits, distinctifs, acuminés, non fourchus à la base, brun foncé, noirs, (214,8) 217 - 248,4 (254) × (5,8) 6 - 8,5 (9,4) µm
+  poils: nombreux, droits, distinctifs, acuminés, non fourchus à la base, brun foncé, noirs, (214,8) 217-248,4 (254) × (5,8) 6-8,5 (9,4) µm
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

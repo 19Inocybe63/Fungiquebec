@@ -243,7 +243,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = orange brunâtre sur la surface de la chair et du chapeau
+    Potasse (KOH 10%) = orange brunâtre sur la surface de la chair et du pileus
   receptacle: 
   remarques: 
   repartition: 

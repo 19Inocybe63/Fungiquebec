@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, immuable ou brunissant un peu à la coupe
   chancre: 
-  chapeau: 40-250 mm, convexe devenant largement convexe à presque étalé à maturité, sec, glabre, parfois visqueux lorsqu'humide, rosâtre à pourpre rougeâtre au début, développant une certaine nuance de brun avec ou sans teintes violacées et finalement brun foncé à maturité  
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -214,6 +213,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 40-250 mm, convexe devenant largement convexe à presque étalé à maturité, sec, glabre, parfois visqueux lorsqu'humide, rosâtre à pourpre rougeâtre au début, développant une certaine nuance de brun avec ou sans teintes violacées et finalement brun foncé à maturité
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -271,7 +271,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 1-2 cm de longueur
+  tubes: circulaires et petits, 1-2 par mm, concolores à la face poroïde, 10-20 mm de longueur
   type: 
   typique: 
   voile: 

@@ -59,7 +59,9 @@ description:
     <b>Kaufholtz-Couture, Claude.</b> <i>Clé des espèces du genre Trichoglossum au Québec</i>, Éditions Fungiquebec, avril 2016, 3 p.
   ascome: 20-70 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, clavé à lancéolé, noir brunâtre à noir
   ascospores: |
-    bacilliformes, légèrement atténuées aux bouts, entre 3 et 6 septa, mais souvent à 3 septa, grisâtres à brunâtres dans le NaCl iso 0,9%, 45-85 x 6-7 µm
+    bacilliformes, légèrement atténuées aux bouts, entre 3 et 6 septa, mais souvent à 3 septa, grisâtres à brunâtres dans le NaCl iso 0,9%
+    45-85 x 6-7 µm
+    (Piximètre, mesures issues d'une sporée, dans le NaCl iso 0,9%)
   asques: claviformes, et légèrement atténués vers l'apex, à 8 ascospores parallèles, 160-200 x 14-19 µm
   asterohyphidies: 
   avertissement: 
@@ -97,7 +99,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « L'utilisation d'un microscope est essentielle pour détecter la présence de poils; une loupe 10x est insuffisante. »
+    De Claude Kaufholtz-Couture. « L'utilisation d'un microscope ou d'une loupe trinoculaire est essentielle pour détecter la présence de poils; une loupe 10x est insuffisante. »
     De Claude Kaufholtz-Couture. « Dans les mots composés, tricho- signifie velu. »
   conidies: 
   conidiome: 

@@ -166,10 +166,10 @@ description:
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
   hyphes-glebales: 
-  hyphes-gleopleres: observées dans la chair du chapeau
+  hyphes-gleopleres: observées dans la chair du pileus
   hyphes-hymeniales: 
   hyphes-ligatives: 
-  hyphes-oleiferes: observées dans la chair du chapeau
+  hyphes-oleiferes: observées dans la chair du pileus
   hyphes-pectinees: 
   hyphes-primordiales: 
   hyphes-setales: 

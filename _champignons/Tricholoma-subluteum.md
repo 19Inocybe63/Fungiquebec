@@ -74,7 +74,6 @@ description:
   cellules-stromatiques: 
   chair: blanche, jaunâtre sous la cuticule
   chancre: 
-  chapeau: 40-100 mm Ø, conique-arrondi puis convexe-étalé, parfois avec mamelon proéminent, viscidule, vite sec, orné de fibrilles innées, jaune verdâtre à jaune doré, se tachant lentement d'orange roux au froissement
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -216,6 +215,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
+  pileus: 40-100 mm Ø, conique-arrondi puis convexe-étalé, parfois avec mamelon proéminent, viscidule, vite sec, orné de fibrilles innées, jaune verdâtre à jaune doré, se tachant lentement d'orange roux au froissement
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

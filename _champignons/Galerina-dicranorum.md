@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, fragile, ± concolore au chapeau
+  chair: mince, fragile, ± concolore au pileus
   chancre: 
   cheilochrysocystides: 
   cheilocystides: abondantes, formant une palissade, polymorphes, ± émergentes, capitulées, cylindriques claviformes à cylindriques flexueuses, parfois ovoïdes, parfois subtibiformes, rarement rostrées, rarement utriformes, dont l’apex est parfois moniliforme, à paroi mince, hyalines dans E.G. 10%, (26,8) 27,2-46,4 (49,7) × (3,6) 5,5-8,2 (9,5) µm en moyenne
@@ -181,7 +181,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées, 2-3 mm de largeur, espacées à maturité, subconcolores au chapeau, ± arêtes entières
+  lames: sinuées, 2-3 mm de largeur, espacées à maturité, subconcolores au pileus, ± arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

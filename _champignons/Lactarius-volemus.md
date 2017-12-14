@@ -249,7 +249,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = olive sur le chapeau; orange à orange pâle sur le latex
+    Potasse (KOH 10%) = olive sur le pileus; orange à orange pâle sur le latex
     Sulfate de fer (FeSO<sub>4</sub>) = instantanément vert à bleu vert foncé sur la chair
   receptacle: 
   remarques: 

@@ -239,9 +239,9 @@ description:
     <b>Smith, Alexander H.; Thiers, Harry D.</b> <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = ambre orangé à orange rougeâtre sur la chapeau; jaune pâle cerclé de bleu pâle sur la chair
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = ambre orangé à orange rougeâtre sur la pileus; jaune pâle cerclé de bleu pâle sur la chair
     Potasse (KOH 10%) = jaune verdâtre sur la chair
-    Sulfate de fer (FeSO<SUB>4</SUB>) = olive terne sur le chapeau
+    Sulfate de fer (FeSO<SUB>4</SUB>) = olive terne sur le pileus
   receptacle: 
   remarques: 
   repartition: 

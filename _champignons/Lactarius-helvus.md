@@ -102,7 +102,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ± concolore au chapeau
+  chair: ± concolore au pileus
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -285,7 +285,7 @@ description:
   sporee: crème pâle
   spherocytes: 
   sporocystes: 
-  stipe: 30-120 x 10-20 mm Ø, cylindrique plus ou moins égal, farci puis creux, sec, lisse ou très finement veloutée au début, concolore au chapeau à orangée pâle, rosâtre à brun orangé
+  stipe: 30-120 x 10-20 mm Ø, cylindrique plus ou moins égal, farci puis creux, sec, lisse ou très finement veloutée au début, concolore au pileus à orangée pâle, rosâtre à brun orangé
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -244,7 +244,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
-    Sulfate de fer (FeSO<sub>4</sub>) = brun rougeâtre sur le chapeau
+    Sulfate de fer (FeSO<sub>4</sub>) = brun rougeâtre sur le pileus
   receptacle: 
   remarques: 
   repartition: 

@@ -42,7 +42,7 @@ description:
   anneau: 
   apothecie: 
   arete-lamellaire: 
-  arthroconidies: occasionnelles, dans la chair du chapeau, sous le suprapellis
+  arthroconidies: occasionnelles, dans la chair du pileus, sous le suprapellis
   articles: 
   ascome: 
   ascospores: 
@@ -268,7 +268,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 25-44 x 2-3 mm Ø, cylindrique, égal, guêtré, plein plein, farci puis creux, parsemé de granules à ± d'écailles granuleuses, blanchâtre à crème à l'apex, chamois ochracé plus foncé que le chapeau, avec mycélium basal blanc
+  stipe: 25-44 x 2-3 mm Ø, cylindrique, égal, guêtré, plein plein, farci puis creux, parsemé de granules à ± d'écailles granuleuses, blanchâtre à crème à l'apex, chamois ochracé plus foncé que le pileus, avec mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

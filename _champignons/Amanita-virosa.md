@@ -270,7 +270,7 @@ description:
     <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: 
   reactions-macrochimiques: |
-    Potasse (KOH 10%) = le chapeau devient rapidement jaune
+    Potasse (KOH 10%) = le pileus devient rapidement jaune
   receptacle: 
   remarques: 
   repartition: 

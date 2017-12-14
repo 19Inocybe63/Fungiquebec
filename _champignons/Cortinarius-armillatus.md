@@ -254,7 +254,7 @@ description:
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
-    Potasse (KOH 10%) = devient noir sur la surface du chapeau et violet sur les zones orange du stipe
+    Potasse (KOH 10%) = devient noir sur la surface du pileus et violet sur les zones orange du stipe
   receptacle: 
   remarques: 
   repartition: 

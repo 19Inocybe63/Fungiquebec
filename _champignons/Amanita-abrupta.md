@@ -275,8 +275,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: friable, blanc, laissant des verrues coniques sur le chapeau et parfois des squamules à la base du pied, facilement laissées dans le substrat lors de la récolte, et/ou de minces crêtes et cercles sur le bord supérieur du bulbe
-  voile-partiel: membraneux, blanc, laissant un anneau subapical à supère sur le pied, ample, pendant, assez épais, à marge épaissie, striée au-dessus, feutré et souvent relié à la surface inférieure du pied par de nombreuses fibrilles blanches au-dessous, et parfois des lambeaux à la marge du chapeau
+  voile-general: friable, blanc, laissant des verrues coniques sur le pileus et parfois des squamules à la base du pied, facilement laissées dans le substrat lors de la récolte, et/ou de minces crêtes et cercles sur le bord supérieur du bulbe
+  voile-partiel: membraneux, blanc, laissant un anneau subapical à supère sur le pied, ample, pendant, assez épais, à marge épaissie, striée au-dessus, feutré et souvent relié à la surface inférieure du pied par de nombreuses fibrilles blanches au-dessous, et parfois des lambeaux à la marge du pileus
   volve: 
   zone-perihymeniale: 
 ---

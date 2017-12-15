@@ -312,7 +312,7 @@ description:
   typique: 
   voile: 
   voile-general: membraneux, blanc, laissant une volve à la base du stipe
-  voile-partiel: jusqu'à 44 mm de hauteur, membraneux, blanc, laissant un anneau parfois fugace dans le haut du stipe et parfois des lambeaux au pourtour du chapeau
+  voile-partiel: jusqu'à 44 mm de hauteur, membraneux, blanc, laissant un anneau parfois fugace dans le haut du stipe et parfois des lambeaux au pourtour du pileus
   volve: blanche
   zone-perihymeniale: 
 ---

@@ -259,7 +259,7 @@ description:
   sporee: blanche à blanchâtre
   spherocytes: 
   sporocystes: 
-  stipe: latéral, concolore au chapeau
+  stipe: latéral, concolore au pileus
   stipitipellis: 
   stipititrame: 
   stroma: 

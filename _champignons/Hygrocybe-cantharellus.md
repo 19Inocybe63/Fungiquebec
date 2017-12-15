@@ -176,7 +176,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: longuement arquées-décurrentes, larges, souvent triangulaires, subespacées à très espacées, jaune orangé à jaune pâle, souvent plus pâles que la surface du chapeau, à arêtes entières
+  lames: longuement arquées-décurrentes, larges, souvent triangulaires, subespacées à très espacées, jaune orangé à jaune pâle, souvent plus pâles que la surface du pileus, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -253,7 +253,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 3-11 x 1-5 mm Ø, longuement élancé, cylindrique à égal ou légèrement atténué vers la base, parfois comprimé, fragile, farci à creux, lisse, sec, concolore au chapeau, jaunâtre pâle à blanchâtre à la base
+  stipe: 3-11 x 1-5 mm Ø, longuement élancé, cylindrique à égal ou légèrement atténué vers la base, parfois comprimé, fragile, farci à creux, lisse, sec, concolore au pileus, jaunâtre pâle à blanchâtre à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -89,7 +89,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « La marge débordante ainsi que la couleur du chapeau dans les teintes de brun sont deux des caractéristiques fiables. La face poroïde blanchâtre brunissant à maturité et au froissement est un autre caractère important. »
+    De Claude Kaufholtz-Couture. « La marge débordante ainsi que la couleur du pileus dans les teintes de brun sont deux des caractéristiques fiables. La face poroïde blanchâtre brunissant à maturité et au froissement est un autre caractère important. »
   conidies: 
   conidiome: 
   conidiophores: 

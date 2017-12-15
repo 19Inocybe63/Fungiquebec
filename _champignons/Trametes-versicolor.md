@@ -200,7 +200,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: se développe rarement seul, sauf sur conifères, sur les feuillus, il forme d'innombrables chapeaux imbriqués latéralement soudés, ou disposés en rosette
+  mode-de-croissance: se développe rarement seul, sauf sur conifères, sur les feuillus, il forme d'innombrables pileus imbriqués latéralement soudés, ou disposés en rosette
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -222,7 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 10-50 mm en surplomb, dont la largeur varie de 10-60 mm, l'épaisseur varie généralement de 2-5 mm à la base du chapeau, convexe, ou plat, généralement dimidié, semi-circulaire, réniforme ou parfois presque orbiculaire, à marge poreuse, mince, légèrement onduleuse, lobée et partiellement effritée à maturité
+  pileus: 10-50 mm en surplomb, dont la largeur varie de 10-60 mm, l'épaisseur varie généralement de 2-5 mm à la base du pileus, convexe, ou plat, généralement dimidié, semi-circulaire, réniforme ou parfois presque orbiculaire, à marge poreuse, mince, légèrement onduleuse, lobée et partiellement effritée à maturité
   plasmode: 
   pleurocystides: 
   poils: 

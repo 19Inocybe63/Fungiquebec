@@ -190,7 +190,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: largement adnées à uncinées, vite sécédentes, largement ventrues à maturité, subespacées, avec lamellules irrégulières à distribution symétrique, blanches, à arêtes parfois brunes vers le pourtour du chapeau
+  lames: largement adnées à uncinées, vite sécédentes, largement ventrues à maturité, subespacées, avec lamellules irrégulières à distribution symétrique, blanches, à arêtes parfois brunes vers le pourtour du pileus
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

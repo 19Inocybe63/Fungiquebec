@@ -279,7 +279,7 @@ description:
   sporee: pallidosporée IIa-IIb, crème pâle à crème moyen, d'après la charte de couleur Romagnesi; C-D d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
-  stipe: 20-100 x 12-30 mm Ø, égal, ferme, concolore au chapeau, brun rougeâtre au froissement
+  stipe: 20-100 x 12-30 mm Ø, égal, ferme, concolore au pileus, brun rougeâtre au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

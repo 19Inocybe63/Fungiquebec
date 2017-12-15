@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, brun, concolore au chapeau
+  chair: mince, brun, concolore au pileus
   chancre: 
   cheilocystides: absentes
   cheilomacrocystides: 

@@ -86,7 +86,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Parfois observée de fines gouttelettes orangées, collantes et visqueuses, comme exsudées, et qui se fixent sur le chapeau et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,7 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 40-150 mm Ø, non détachable du pied, glabre au début, puis très finement fibrilleux, convexe, étalé-déprimé, légèrement en entonnoir, parfois à la marge enroulée, orange à roux, plus foncé au centre, se craquelant en vieillissant, et se pelant comme une écorce, laissant entrevoir les lames, cuticule séparable jusqu'à la moitié du chapeau lorsque jeune, et séparable jusqu'au ¼ lorsqu'il est à maturité, laissant voir une chair ferme, orangé pâle
+  pileus: 40-150 mm Ø, non détachable du pied, glabre au début, puis très finement fibrilleux, convexe, étalé-déprimé, légèrement en entonnoir, parfois à la marge enroulée, orange à roux, plus foncé au centre, se craquelant en vieillissant, et se pelant comme une écorce, laissant entrevoir les lames, cuticule séparable jusqu'à la moitié du pileus lorsque jeune, et séparable jusqu'au ¼ lorsqu'il est à maturité, laissant voir une chair ferme, orangé pâle
   plasmode: 
   pleurocystides: 
   poils: 
@@ -249,7 +250,6 @@ description:
     Sulfate de fer (FeSO<SUB>4</SUB>) = brunes à brunâtres sur les lames après ± 5 minutes
   receptacle: 
   remarques: |
-    Parfois observée de fines gouttelettes orangées, collantes et visqueuses, comme exsudées, et qui se fixent sur le chapeau et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux.
     Les histoires les plus rocambolesques les unes que les autres nourrissent le fait que ce champignon possède la propriété d'être luminescent où il se trouve. Il aide le voyageur égaré en forêt, il permet de lire un livre avec assez de luminosité, bref, un champignon dont l'exagération et l'imaginaire collectif n'a pas fini de faire sourire; The <i>jack-o'lantern</i> mushroom !
   repartition: 
   rhizomorphes: 
@@ -262,7 +262,7 @@ description:
   sporee: crème, jaune pâle à légèrement verdâtre
   spherocytes: 
   sporocystes: 
-  stipe: 30-70 x 10-20 mm Ø, blanchâtre à grisâtre, orangé à concolore, plus pâle que le chapeau, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement, finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du pied, ou presque, d'où l'on peut observer un léger suintement du pied, cespiteux
+  stipe: 30-70 x 10-20 mm Ø, blanchâtre à grisâtre, orangé à concolore, plus pâle que le pileus, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement, finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du pied, ou presque, d'où l'on peut observer un léger suintement du pied, cespiteux
   stipitipellis: avec extrémités hyphales dans le revêtement caulinaire
   stipititrame: 
   stroma: 

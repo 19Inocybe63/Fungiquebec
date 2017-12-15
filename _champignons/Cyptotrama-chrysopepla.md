@@ -84,7 +84,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Mycodb. « Les squames épineuses sont caractéristiques sur les spécimens jeunes. Remarquable couleur jaune plus ou moins orange, mêlé de vermillon au disque, hérisse de squamules dressées, allure de <i>Pholiota squarrosa</i>, mais chapeau vite plan. »
+    De Mycodb. « Les squames épineuses sont caractéristiques sur les spécimens jeunes. Remarquable couleur jaune plus ou moins orange, mêlé de vermillon au disque, hérisse de squamules dressées, allure de <i>Pholiota squarrosa</i>, mais pileus vite plan. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -256,7 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 15-50 x 2-5 mm Ø, égal à légèrement atténué ou légèrement élargi vers la base, plein, finement granuleux-floconneux à fibrilleux, écailleux surtout vers la base, concolore au chapeau
+  stipe: 15-50 x 2-5 mm Ø, égal à légèrement atténué ou légèrement élargi vers la base, plein, finement granuleux-floconneux à fibrilleux, écailleux surtout vers la base, concolore au pileus
   stipitipellis: 
   stipititrame: 
   stroma: 

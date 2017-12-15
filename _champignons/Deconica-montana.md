@@ -192,7 +192,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées décurrentes et légèrement arquées, larges, horizontales, espacées à subespacées, subconcolores au chapeau, brunes à brun pourpre
+  lames: adnées décurrentes et légèrement arquées, larges, horizontales, espacées à subespacées, subconcolores au pileus, brunes à brun pourpre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -271,7 +271,7 @@ description:
   sporee: brun violacé foncé
   spherocytes: 
   sporocystes: 
-  stipe: 20-50 x 1-2 mm, élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au chapeau, brun marron à ochracé
+  stipe: 20-50 x 1-2 mm, élancé, filiforme, égal, subflexueux, creux, pruineux vers l'apex, légèrement fibrilleux blanchâtre, surtout vers la base, concolore au pileus, brun marron à ochracé
   stipitipellis: 
   stipititrame: 
   stroma: 

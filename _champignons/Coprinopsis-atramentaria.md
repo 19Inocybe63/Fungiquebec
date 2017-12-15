@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince et membraneuse dans le chapeau, blanc grisâtre
+  chair: mince et membraneuse dans le pileus, blanc grisâtre
   chancre: 
   cheilochrysocystides:
   cheilocystides: fusiformes à subcylindriques, 57-200 x 35-50 µm

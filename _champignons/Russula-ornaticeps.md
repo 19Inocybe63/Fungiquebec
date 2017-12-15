@@ -7,7 +7,7 @@ album-flickr:
   - 72157677124822605
 
 details:
-  nom-francais: Russule à chapeau orné
+  nom-francais: Russule à pileus orné
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

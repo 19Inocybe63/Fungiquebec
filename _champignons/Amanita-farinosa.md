@@ -298,7 +298,7 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: friable, gris-brun, laissant une couche poudreuse sur le chapeau
+  voile-general: friable, gris-brun, laissant une couche poudreuse sur le pileus
   voile-partiel: constitué d’hyphes filamenteuses et de sphérocytes (cellules arrondies)
   volve: 
   zone-perihymeniale: 

@@ -72,7 +72,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: très mince, fragile, molle, blanchâtre ou concolore à la surface du chapeau
+  chair: très mince, fragile, molle, blanchâtre ou concolore à la surface du pileus
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

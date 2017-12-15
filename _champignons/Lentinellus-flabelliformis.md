@@ -55,8 +55,8 @@ description:
   basides: 
   basidiospores: |
     subglobuleuses à largement ellipsoïdes, finement échinulées, à paroi mince, avec fin apicule, sans pore germinatif, à contenu uniguttulé à pluriguttulé, hyalines, fortement amyloïdes, cyanophiles
-    5,6 x 4,5 µm en moyenne; Q moyen = 1,2
-    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%) / (Échantillonnage de 35 basidiospores)
+    5,6 x 4,5 µm en moyenne; Q moyen = 1,2; N = 35
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -75,9 +75,9 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, ± tenace, flexible, blanchâtre, concolore à la surface du chapeau ou parfois brun foncé
+  chair: mince, ± tenace, flexible, blanchâtre, concolore à la surface du pileus ou parfois brun foncé
   chancre: 
-  cheilocystides: dispersées à nombreuses, fusiformes, souvent atténuées vers l'apex, à paroi mince, hyalines, (25) 30-42 (55) x (4) 5-7 µm, émergentes sur 1/3-1/2 de leur longueur totale
+  cheilocystides: dispersées à nombreuses, fusiformes, souvent atténuées vers l'apex, à paroi mince, hyalines, (25) 30-42 (55) x (4) 5-7 µm, émergentes sur ⅓-½ de leur longueur totale
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

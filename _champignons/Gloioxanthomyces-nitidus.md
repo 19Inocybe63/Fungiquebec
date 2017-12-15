@@ -175,7 +175,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: arquées, puis longuement décurrentes, assez larges, interveinées, ± espacées, concolores au chapeau, à arêtes entières, visqueuses
+  lames: arquées, puis longuement décurrentes, assez larges, interveinées, ± espacées, concolores au pileus, à arêtes entières, visqueuses
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -250,7 +250,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 20-80 x 2-5 mm Ø, cylindrique, égal à légèrement élargi vers l'apex, parfois flexueux, creux, lisse, visqueux, luisant au sec, concolore au chapeau
+  stipe: 20-80 x 2-5 mm Ø, cylindrique, égal à légèrement élargi vers l'apex, parfois flexueux, creux, lisse, visqueux, luisant au sec, concolore au pileus
   stipitipellis: 
   stipititrame: 
   stroma: 

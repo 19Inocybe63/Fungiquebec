@@ -87,7 +87,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Parfois observée de fines gouttelettes orangées, collantes et visqueuses, comme exsudées, et qui se fixent sur le chapeau et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux. »
+    De Claude Kaufholtz-Couture. « Parfois observée de fines gouttelettes orangées, collantes et visqueuses, comme exsudées, et qui se fixent sur le pileus et sur les lames, et tache les doigts. Ces gouttelettes sont observables surtout par temps frais, le matin ou bien après du temps pluvieux. »
   conidies: 
   conidiome: 
   conidiophores: 

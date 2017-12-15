@@ -281,7 +281,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: anguleux et un peu disposés radialement, larges, 3-5 mm de largeur, souvent subdécurrents, non facilement détachable de la chair du chapeau, jaune ocré pâle, brunissant avec l'âge, 4-8 mm de longueur
+  tubes: anguleux et un peu disposés radialement, larges, 3-5 mm de largeur, souvent subdécurrents, non facilement détachable de la chair du pileus, jaune ocré pâle, brunissant avec l'âge, 4-8 mm de longueur
   type: 
   typique: 
   voile: 

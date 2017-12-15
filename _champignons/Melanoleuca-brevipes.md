@@ -248,7 +248,7 @@ description:
   sporee: pallidosporée en tas, crème pâle
   spherocytes: 
   sporocystes: 
-  stipe: 28-8 mm Ø, cylindrique, trapu, concolore au chapeau, plein, légèrement bulbeux
+  stipe: 28-8 mm Ø, cylindrique, trapu, concolore au pileus, plein, légèrement bulbeux
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -87,7 +87,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, très fragile, cireuse, jaunâtre ou concolore au chapeau, noircissant avec l'âge
+  chair: mince, très fragile, cireuse, jaunâtre ou concolore au pileus, noircissant avec l'âge
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

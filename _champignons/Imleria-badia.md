@@ -261,7 +261,7 @@ description:
   sporee: brun olive
   spherocytes: 
   sporocystes: 
-  stipe: 50-100 x 10-20 mm Ø, égal, plein, sec, glabre, concolore au chapeau
+  stipe: 50-100 x 10-20 mm Ø, égal, plein, sec, glabre, concolore au pileus
   stipitipellis: 
   stipititrame: 
   stroma: 

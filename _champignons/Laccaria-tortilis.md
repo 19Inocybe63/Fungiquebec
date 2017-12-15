@@ -72,7 +72,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, presque absente, concolore au chapeau
+  chair: mince, presque absente, concolore au pileus
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -256,7 +256,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 8-12 x 1 mm Ø, cylindrique, égal à subbulbeux, sec, glabre ou finement fibrilleux, non strié, concolore au chapeau, avec mycélium basal blanc
+  stipe: 8-12 x 1 mm Ø, cylindrique, égal à subbulbeux, sec, glabre ou finement fibrilleux, non strié, concolore au pileus, avec mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

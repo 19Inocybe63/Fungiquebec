@@ -261,7 +261,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 30-50 x 1-4 mm Ø, cylindrique, égal, légèrement radicant, concolore au chapeau
+  stipe: 30-50 x 1-4 mm Ø, cylindrique, égal, légèrement radicant, concolore au pileus
   stipitipellis: en cutis
   stipititrame: 
   stroma: 

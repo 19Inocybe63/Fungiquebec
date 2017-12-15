@@ -84,7 +84,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « On reconnaît facilement cette amanite aux traits suivants; chapeau foncé, anneau gris et pied très bulbeux. <i>A. lignophila</i> en diffère par sa petite taille, son pied blanc et son anneau blanc ou jaune. L’épithète « porphyria » désigne une couleur teintée de pourpre. Toutefois, cette coloration est rarement présente chez l’espèce, du moins au Québec. Il ne faut donc pas accorder d’importance à la signification de ce nom. »
+    De Yves Lamoureux. « On reconnaît facilement cette amanite aux traits suivants; pileus foncé, anneau gris et pied très bulbeux. <i>A. lignophila</i> en diffère par sa petite taille, son pied blanc et son anneau blanc ou jaune. L’épithète « porphyria » désigne une couleur teintée de pourpre. Toutefois, cette coloration est rarement présente chez l’espèce, du moins au Québec. Il ne faut donc pas accorder d’importance à la signification de ce nom. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -277,7 +277,7 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: membraneux ou friable, gris, laissant quelques flocons sur le chapeau et une volve (en grande partie soudée) à la base du pied
+  voile-general: membraneux ou friable, gris, laissant quelques flocons sur le pileus et une volve (en grande partie soudée) à la base du pied
   voile-partiel: membraneux, gris, laissant un anneau dans le haut du pied
   volve: 
   zone-perihymeniale: 

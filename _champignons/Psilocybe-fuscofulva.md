@@ -107,7 +107,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, concolore au chapeau
+  chair: mince, concolore au pileus
   chancre: 
   cheilochrysocystides:
   cheilocystides: abondantes, lagéniformes à tibiformes, plus rarement ellipsoïdes à oblongues, plus rarement bidigitées 41,2 [47,7; 65,2] 71,6 x 4,7 [5,5; 6,9] 7,7 µm

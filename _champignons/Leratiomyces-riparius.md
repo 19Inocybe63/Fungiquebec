@@ -248,7 +248,7 @@ description:
   pileipellis: en deux couches; 1) suprapellis entre ± 50-150 µm d’épaisseur en ixocutis disposé radialement; 2) subpellis compact, composé de cellules globuleuses à subglobuleuses et d'hyphes allongées 20 [26,6; 32,7] 39,3 x 8,9 [13,5; 17,8] 22,4 µm
   pileitrame: 
   pileocystides-dermatocystides: 
-  pileus: 17,5-49,3 mm Ø, hémisphérique au début à conique-campanulé, puis campanulé convexe à étalé à maturité, collant, terne et fibrilleux au sec, non distinctement hygrophane, appendiculé de restes vélaires, plus pâle que le reste du chapeau, crème jaunâtre à brun pâle à ochracé, jaune à orange ochracé
+  pileus: 17,5-49,3 mm Ø, hémisphérique au début à conique-campanulé, puis campanulé convexe à étalé à maturité, collant, terne et fibrilleux au sec, non distinctement hygrophane, appendiculé de restes vélaires, plus pâle que le reste du pileus, crème jaunâtre à brun pâle à ochracé, jaune à orange ochracé
   plasmode: 
   pleurocystides: 
   poils: 
@@ -313,7 +313,7 @@ description:
   typique: 
   voile: 
   voile-general: absent
-  voile-partiel: blanc au début devenant pourpre foncé, habituellement situé à la marge du chapeau, se retrouve rarement sur le pied ou laissant une petite zone annuliforme
+  voile-partiel: blanc au début devenant pourpre foncé, habituellement situé à la marge du pileus, se retrouve rarement sur le pied ou laissant une petite zone annuliforme
   volve: 
   zone-perihymeniale: 
 ---

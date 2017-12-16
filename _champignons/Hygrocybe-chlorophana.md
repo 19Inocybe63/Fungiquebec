@@ -261,7 +261,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 20-70 x 3-10 nm Ø, égal, parmi comprimé, creux, lisse, viscidule, vite sec, concolore au chapeau
+  stipe: 20-70 x 3-10 nm Ø, égal, parmi comprimé, creux, lisse, viscidule, vite sec, concolore au pileus
   stipitipellis: constitué de terminaisons hyphales légèrement émergentes, cylindriques
   stipititrame: formé d'hyphes parallèles
   stroma: 

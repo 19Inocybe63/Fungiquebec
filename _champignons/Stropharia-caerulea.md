@@ -33,7 +33,7 @@ collections:
     confirmee: Claude Kaufholtz-Couture
 
 description:
-  acanthocytes: présents dans le mycélium à la base du pied
+  acanthocytes: présents dans le mycélium à la base du stipe
   acanthophyses: 
   aiguillons: 
   aleurioconidies: 
@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, bleuâtre au début, puis paille, bleu-vert vers la base du pied
+  chair: mince, bleuâtre au début, puis paille, bleu-vert vers la base du stipe
   chancre: 
   cheilocystides: 
   cheilomacrocystides: 

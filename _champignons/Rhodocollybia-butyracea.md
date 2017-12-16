@@ -251,7 +251,7 @@ description:
   sporee: crème à rosâtre ± pâle
   spherocytes: 
   sporocystes: 
-  stipe: 30-100 x 4-10 mm Ø, claviforme, radicant  et parfois comprimé vers la base, fibreux, sec, glabre, farci puis creux et spongieux, distinctement strié à sillonné, blanchâtre à la base, chamois à chamois rosâtre ou pâle vers l'apex et concolore au chapeau vers la base au début, brun cannelle à maturité, blanchâtre à la base sous le niveau de substrat
+  stipe: 30-100 x 4-10 mm Ø, claviforme, radicant  et parfois comprimé vers la base, fibreux, sec, glabre, farci puis creux et spongieux, distinctement strié à sillonné, blanchâtre à la base, chamois à chamois rosâtre ou pâle vers l'apex et concolore au pileus vers la base au début, brun cannelle à maturité, blanchâtre à la base sous le niveau de substrat
   stipitipellis: 
   stipititrame: 
   stroma: 

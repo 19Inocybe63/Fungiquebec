@@ -276,7 +276,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 30-90 x 2-10 mm Ø, cylindrique, égal à légèrement élargi vers la base, légèrement flexueux, creux, torsadé à fibrilleux, tenace, concolore au chapeau, avec mycélium basal abondant, lilas au début et au frais
+  stipe: 30-90 x 2-10 mm Ø, cylindrique, égal à légèrement élargi vers la base, légèrement flexueux, creux, torsadé à fibrilleux, tenace, concolore au pileus, avec mycélium basal abondant, lilas au début et au frais
   stipitipellis: 
   stipititrame: 
   stroma: 

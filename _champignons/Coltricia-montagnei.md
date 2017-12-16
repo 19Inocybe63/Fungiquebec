@@ -213,7 +213,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du chapeau, circulaire à convexe, plat ou en entonnoir dont la bordure est mince et aiguë, droite ou légèrement onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou fibreux-écailleux à maturité, surtout vers le centre, généralement non zoné, légèrement zoné dans de rares cas, cannelle à brun rouille foncé
+  pileus: 20-100 mm Ø, 5-20 mm d’épaisseur à la base du pileus, circulaire à convexe, plat ou en entonnoir dont la bordure est mince et aiguë, droite ou légèrement onduleuse, lisse ou poreuse au-dessous, irrégulièrement hispide à verruqueux ou fibreux-écailleux à maturité, surtout vers le centre, généralement non zoné, légèrement zoné dans de rares cas, cannelle à brun rouille foncé
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

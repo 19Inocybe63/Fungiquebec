@@ -262,7 +262,7 @@ description:
   sporee: brun cannelle à brun ochracé
   spherocytes: 
   sporocystes: 
-  stipe: 24-30 x 4-13 mm Ø, égal, parfois élargi-clavé vers la base à subbulbeux, cassant, farci puis creux, entièrement furfuracé à finement fibrilleux blanc sur fond blanchâtre ou concolore au chapeau
+  stipe: 24-30 x 4-13 mm Ø, égal, parfois élargi-clavé vers la base à subbulbeux, cassant, farci puis creux, entièrement furfuracé à finement fibrilleux blanc sur fond blanchâtre ou concolore au pileus
   stipitipellis: 
   stipititrame: 
   stroma: 

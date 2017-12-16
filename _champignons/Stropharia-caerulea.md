@@ -216,7 +216,7 @@ description:
   pileipellis: en ixocutis
   pileitrame: 
   pileocystides: 
-  pileus: 20-70 mm Ø, hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du chapeau, bleu-vert lorsque jeune, avec des taches jaunâtres décolorées par endroits, muni de petites méchules blanches au pourtour
+  pileus: 20-70 mm Ø, hémsphérique à convexe au début à légèrement étalé à maturité, avec ombon, marge débordante, cuticule gélatinisée séparable à l’humidité jusqu’à la moitié du pileus, bleu-vert lorsque jeune, avec des taches jaunâtres décolorées par endroits, muni de petites méchules blanches au pourtour
   plasmode: 
   pleurocystides: 
   pleurochrysocystides: assez abondantes, clavées à largement fusiformes, mucronées, de 39,8 x 12,8 µm en moyenne

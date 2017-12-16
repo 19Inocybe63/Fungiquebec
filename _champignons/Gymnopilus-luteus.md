@@ -271,7 +271,7 @@ description:
   sporee: brun orangé à brun rouille
   spherocytes: 
   sporocystes: 
-  stipe: 35-120 x 5-20 mm Ø, ± égal, légèrement élargi à clavé vers la base ou fusiforme, élancé, ferme, plein, finement fibrilleux-strié, concolore au chapeau, se tachant de brunâtre orangé à rouille jaunâtre ou parfois de vert bleuâtre avec l'âge ou aux meurtrissures à la base
+  stipe: 35-120 x 5-20 mm Ø, ± égal, légèrement élargi à clavé vers la base ou fusiforme, élancé, ferme, plein, finement fibrilleux-strié, concolore au pileus, se tachant de brunâtre orangé à rouille jaunâtre ou parfois de vert bleuâtre avec l'âge ou aux meurtrissures à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -253,7 +253,7 @@ description:
   sporee: jaune pâle à chamois
   spherocytes: 
   sporocystes: 
-  stipe: 48-50 x 14-15 mm Ø, subégal à souvent renflé au milieu ou vers la base ou étranglé à l'apex et à la base, inégal, cassant, farci au début, devenant creux à maturité, finement velouté, concolore au chapeau ou plus pâle
+  stipe: 48-50 x 14-15 mm Ø, subégal à souvent renflé au milieu ou vers la base ou étranglé à l'apex et à la base, inégal, cassant, farci au début, devenant creux à maturité, finement velouté, concolore au pileus ou plus pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

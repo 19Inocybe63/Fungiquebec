@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: 
+  nom-francais: Pézize d'Agassiz
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

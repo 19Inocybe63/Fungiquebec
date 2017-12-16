@@ -255,7 +255,7 @@ description:
   sporee: blanche à crème
   spherocytes: 
   sporocystes: 
-  stipe: 30-50 x 5-15 mm Ø, cylindrique, subégal, plein ou farci, sec, lisse à pruineux, concolore au chapeau ou plus pâle
+  stipe: 30-50 x 5-15 mm Ø, cylindrique, subégal, plein ou farci, sec, lisse à pruineux, concolore au pileus, ou plus pâle
   stipitipellis: 
   stipititrame: 
   stroma: 

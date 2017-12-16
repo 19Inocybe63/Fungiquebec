@@ -262,7 +262,7 @@ description:
   sporee: blanc crème au jaune orangé
   spherocytes: 
   sporocystes: 
-  stipe: 40-120 x 5-10 mm Ø, subégal à élargi vers la base ou parfois au milieu, légèrement comprimé au centre avec l'âge, plein puis farci, sec, velouté, souvent fortement plissé vers l'apex et avec fins sillons longitudinaux, concolore au chapeau ou plus pâle, blanc à la base
+  stipe: 40-120 x 5-10 mm Ø, subégal à élargi vers la base ou parfois au milieu, légèrement comprimé au centre avec l'âge, plein puis farci, sec, velouté, souvent fortement plissé vers l'apex et avec fins sillons longitudinaux, concolore au pileus, ou plus pâle, blanc à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

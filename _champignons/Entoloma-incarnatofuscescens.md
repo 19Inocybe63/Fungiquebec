@@ -263,7 +263,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 20-30 x 1-2 mm Ø, cylindrique, égal, légèrement plus pâle à l'apex, concolore au chapeau, glabre, avec bulbe blanchâtre à la base
+  stipe: 20-30 x 1-2 mm Ø, cylindrique, égal, légèrement plus pâle à l'apex, concolore au pileus, glabre, avec bulbe blanchâtre à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

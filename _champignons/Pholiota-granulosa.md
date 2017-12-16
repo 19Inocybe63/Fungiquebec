@@ -306,7 +306,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
-  stipe: 30-50 x 2-3 (4) mm Ø, égal, vite tubuleux ou creux, jaune pâle vers l’apex, finement fibrileux-furfuracé jaune ou concolore aux squamules du chapeau sous la zone annuliforme, devenant brun rouille foncé depuis la base, avec feutrage de mycélium pâle à la base
+  stipe: 30-50 x 2-3 (4) mm Ø, égal, vite tubuleux ou creux, jaune pâle vers l’apex, finement fibrileux-furfuracé jaune ou concolore aux squamules du pileus sous la zone annuliforme, devenant brun rouille foncé depuis la base, avec feutrage de mycélium pâle à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -21,16 +21,16 @@ details:
   litterature: Dennis, R.W.G. 1962. A reassessment of Belonidium Mont. & Dur.. Persoonia. 2(2):171-191
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: sans numéro
+    date: 26 juin 2013
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -40,7 +40,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: 2-10 (11) mm Ø, cupuliforme, stipitée
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois de conifères morts
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -73,7 +73,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: très mince
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -116,7 +116,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -138,7 +138,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: blanchâtre, couverte de fins poils blancs au début, progressivement fugaces, formant une frange à la marge
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -151,7 +151,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: lisse, jaune vif à jaune orangé
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -198,7 +198,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: souvent plusieurs et regroupés
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -213,7 +213,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
   pieds-steriles: 
   pigments: 
@@ -255,10 +255,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanchâtre
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 2-5 x 1-2 mm Ø, court, blanchâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

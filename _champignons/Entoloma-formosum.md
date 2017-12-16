@@ -260,7 +260,7 @@ description:
   sporee: rose brunâtre
   spherocytes: 
   sporocystes: 
-  stipe: 40-70 x 2-4 mm Ø, cylindrique, égal, souvent légèrement élargi vers la base, souvent arrondi à la coupe, sillonné longitudinalement, creux, lisse à substrié par des fibrilles argentées dispersées, concolore au chapeau ou plus jaune à plus pâle au début, orange rougeâtre à orange brunâtre avec l'âge et au sec
+  stipe: 40-70 x 2-4 mm Ø, cylindrique, égal, souvent légèrement élargi vers la base, souvent arrondi à la coupe, sillonné longitudinalement, creux, lisse à substrié par des fibrilles argentées dispersées, concolore au pileus, ou plus jaune à plus pâle au début, orange rougeâtre à orange brunâtre avec l'âge et au sec
   stipitipellis: 
   stipititrame: 
   stroma: 

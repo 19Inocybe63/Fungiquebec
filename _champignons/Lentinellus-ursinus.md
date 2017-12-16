@@ -219,7 +219,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 30-120 mm Ø, 20-60 mm de projection, irrégulièrement conchoïde, flabelliforme à réniforme, convexe à subétalé, souvent déprimé au centre ou vers le point d'attache, sec, souvent hygrophane, sublisse, laineux à suède et devenant ridé ou finement ruguleux radialement vers la marge, couvert d'un tomentum velouté ou densément hispide souvent plus pâle puis ± concolore et brun noirâtre au point d'attache avec l'âge, lisse sur les chapeaux du dessous des amas imbriqués, sur fond beige, brun olive, brun roux à ambre, plus pâle vers la marge, finement taché ou plaqué de brun foncé à cannelle, entièrement chamois fauve au sec, à marge enroulée à incurvée et souvent appendiculée au début, puis subétalée, entière à lobée
+  pileus: 30-120 mm Ø, 20-60 mm de projection, irrégulièrement conchoïde, flabelliforme à réniforme, convexe à subétalé, souvent déprimé au centre ou vers le point d'attache, sec, souvent hygrophane, sublisse, laineux à suède et devenant ridé ou finement ruguleux radialement vers la marge, couvert d'un tomentum velouté ou densément hispide souvent plus pâle puis ± concolore et brun noirâtre au point d'attache avec l'âge, lisse sur les pileus du dessous des amas imbriqués, sur fond beige, brun olive, brun roux à ambre, plus pâle vers la marge, finement taché ou plaqué de brun foncé à cannelle, entièrement chamois fauve au sec, à marge enroulée à incurvée et souvent appendiculée au début, puis subétalée, entière à lobée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: peu abondantes et peu émergentes, lécythiformes, parfois fusiformes

@@ -261,7 +261,7 @@ description:
   sporee: brun rouille
   spherocytes: 
   sporocystes: 
-  stipe: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent courbe, creux avec l'âge, concolore au chapeau, à glandules brunes sur toute la longueur
+  stipe: 30-80 x 5-10 mm Ø, cylindrique, subégal, souvent courbe, creux avec l'âge, concolore au pileus, à glandules brunes sur toute la longueur
   stipitipellis: 
   stipititrame: 
   stroma: 

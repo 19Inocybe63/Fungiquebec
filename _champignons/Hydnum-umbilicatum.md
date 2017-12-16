@@ -258,7 +258,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 20-100 x 5-10 mm Ø, cylindrique, égal et centré, légèrement élargi vers la base, orangé ou concolore au chapeau, se tachant d'orange puis de brun au froissement
+  stipe: 20-100 x 5-10 mm Ø, cylindrique, égal et centré, légèrement élargi vers la base, orangé ou concolore au pileus, se tachant d'orange puis de brun au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

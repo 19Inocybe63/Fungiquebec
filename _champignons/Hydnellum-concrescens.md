@@ -218,7 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 20-100 mm Ø, souvent fusionné avec d'autres chapeaux, plano-convex, devenant plat, souvent déprimé ou infundibuliforme, finement velouté à presque glabre, parsemé d'alvéoles et de squamules dressées, brun brunâtre à brun rosâtre, parfois pâle à presque blanchâtre, avec des zones concentriques de texture et/ou de couleur, la marge brun foncé à noir, se tachant de brun-pourpre, brun-noir à noir au froissement
+  pileus: 20-100 mm Ø, souvent fusionné avec d'autres pileus, plano-convex, devenant plat, souvent déprimé ou infundibuliforme, finement velouté à presque glabre, parsemé d'alvéoles et de squamules dressées, brun brunâtre à brun rosâtre, parfois pâle à presque blanchâtre, avec des zones concentriques de texture et/ou de couleur, la marge brun foncé à noir, se tachant de brun-pourpre, brun-noir à noir au froissement
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

@@ -260,7 +260,7 @@ description:
   sporee: jaune pâle
   spherocytes: 
   sporocystes: 
-  stipe: 85 x 32 mm Ø, subégal à renflé au milieu ou vers la base, cassant, sec, farci au début, devenant creux à maturité, subtomenteux-fibrilleux, concolore au chapeau, bleuissant au froissement
+  stipe: 85 x 32 mm Ø, subégal à renflé au milieu ou vers la base, cassant, sec, farci au début, devenant creux à maturité, subtomenteux-fibrilleux, concolore au pileus, bleuissant au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

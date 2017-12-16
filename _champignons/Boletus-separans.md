@@ -280,7 +280,7 @@ description:
   sporee: jaune brunâtre à ocre brunâtre
   spherocytes: 
   sporocystes: 
-  stipe: 100-240 x 6-20 mm Ø, cylindrique, élargi vers le bas, finement réticulé, ± concolore avec ou plus pâle que le chapeau, glabre, blanchâtre, chair blanche
+  stipe: 100-240 x 6-20 mm Ø, cylindrique, élargi vers le bas, finement réticulé, ± concolore avec ou plus pâle que le pileus, glabre, blanchâtre, chair blanche
   stipitipellis: 
   stipititrame: 
   stroma: 

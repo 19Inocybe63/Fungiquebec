@@ -269,7 +269,7 @@ description:
   sporee: brun foncé, pourpre à noirâtre
   spherocytes: 
   sporocystes: 
-  stipe: 38-67 x 2-5 mm Ø, mince, cylindrique, égal, rigide, creux, fibrilleux et squamuleux, ± concolore au chapeau ou un peu plus pâle que ce dernier, avec bulbille
+  stipe: 38-67 x 2-5 mm Ø, mince, cylindrique, égal, rigide, creux, fibrilleux et squamuleux, ± concolore au pileus, ou un peu plus pâle que ce dernier, avec bulbille
   stipitipellis: 
   stipititrame: 
   stroma: 

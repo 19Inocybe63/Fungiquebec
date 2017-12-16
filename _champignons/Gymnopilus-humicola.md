@@ -266,7 +266,7 @@ description:
   soies-hymeniales: 
   sporee: rouille
   sporocystes: 
-  stipe: 27-50 × 4-9 mm Ø, cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au chapeau, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc
+  stipe: 27-50 × 4-9 mm Ø, cylindrique, droit, égal et quelque peu arqué, creux, strié longitudinalement, le fond est subconcolore au pileus, avec des fibrilles blanchâtre qui le couvre, fulvescent, se tache de rouille au toucher, base avec avec mycélium blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

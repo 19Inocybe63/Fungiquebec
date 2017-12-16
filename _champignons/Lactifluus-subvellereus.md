@@ -259,7 +259,7 @@ description:
   sporee: blanchâtre
   spherocytes: 
   sporocystes: 
-  stipe: 30 x 22 mm Ø, égal, atténué vers la base à courtement cylindrique, trapu, ferme, plein, sec, finement velouté, duveteux, concolore au chapeau
+  stipe: 30 x 22 mm Ø, égal, atténué vers la base à courtement cylindrique, trapu, ferme, plein, sec, finement velouté, duveteux, concolore au pileus
   stipitipellis: 
   stipititrame: 
   stroma: 

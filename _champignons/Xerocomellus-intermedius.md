@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous Betula, parc des milieux urbains
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -117,7 +117,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: rare
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -199,7 +199,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -214,7 +214,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juillet à octobre
   phialoconidies: 
   pieds-steriles: 
   pigments: 
@@ -280,8 +280,8 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: 
-  type: 7-12 mm de profondeur
+  tubes: 7-12 mm de profondeur
+  type: 
   typique: 
   velipellis: 
   voile: 

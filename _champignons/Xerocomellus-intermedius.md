@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sous Betula, parc des milieux urbains
+  biotopes: pousse au sol, sous <i>Betula</i>, parc en milieu urbain
   boucles: 
   brachybasidioles: 
   calicule: 

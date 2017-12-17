@@ -30,7 +30,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 
-    confirmee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 
@@ -39,7 +39,7 @@ description:
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 
-  anneau: 
+  anneau: absent
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
@@ -258,7 +258,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 50-120 x 7-16 mm Ø, cylindrique épais, ± égale ou légèrement élargie dans les deux sens, ferme, sec, jaune à l'apex, ponctué de points rouges, généralement avec des nervures longitudinales pâles, avec mycélium basal blanc à jaune pâle
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -283,7 +283,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: 
+  voile-partiel: absent
   volve: 
   zone-perihymeniale: 
 ---

@@ -84,7 +84,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Alan E. Bessette. « This species is likely to be confused with <i>Boletus chrysenteron</i> (Builiard) Fries, but has much stronger reddish tones in the pileus when young. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -241,7 +242,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
+    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
@@ -255,7 +258,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: olive à brun olive
   spherocytes: 
   sporocystes: 
   stipe: 50-120 x 7-16 mm Ø, cylindrique épais, ± égale ou légèrement élargie dans les deux sens, ferme, sec, jaune à l'apex, ponctué de points rouges, généralement avec des nervures longitudinales pâles, avec mycélium basal blanc à jaune pâle

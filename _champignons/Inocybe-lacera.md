@@ -7,7 +7,7 @@ album-flickr:
   - 72157686051952105
 
 details:
-  nom-francais: Inocybe à pied brunissant
+  nom-francais: Inocybe à stipe brunissant
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -97,7 +97,7 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes
-  caulocystides-sommitales: absentes, ± présentes; plutôt des poils caulocystidioïdes présent à l'extrême apex du pied
+  caulocystides-sommitales: absentes, ± présentes; plutôt des poils caulocystidioïdes présent à l'extrême apex du stipe
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 

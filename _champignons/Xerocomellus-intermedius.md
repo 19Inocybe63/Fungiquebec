@@ -73,7 +73,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: jaune, bleuissant à la coupe
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -133,13 +133,13 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: jaune vif à jaune au début, devenant jaune brunâtre terne à maturité, devenant bleues lorsque meurtris
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 
@@ -220,7 +220,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 40-100 mm Ø, large, convexe, devenant largement convexe à presque plan, à marge incurvée chez les jeunes; sec, subtomenteux, devenant aréolé, rouge à rouge rosé puis grisâtre à brun olive à l'état jeune, olive, brun olive à gris olive à maturité, présentant généralement des teintes rosées dans les fissures
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -235,7 +235,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: irréguliers, jusqu'à 1 mm de large
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -250,7 +250,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   soies: 
@@ -278,7 +278,7 @@ description:
   trame-lamellaire: 
   trame-tubulaire: 
   tubes: 
-  type: 
+  type: 7-12 mm de profondeur
   typique: 
   velipellis: 
   voile: 

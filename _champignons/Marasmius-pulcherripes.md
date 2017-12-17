@@ -7,7 +7,7 @@ album-flickr:
   - 72157675493594446
 
 details:
-  nom-francais: Marasme à beau pied
+  nom-francais: Marasme à beau stipe
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -93,7 +93,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Le pied pourpré à l'apex est une caratéristique de l'espèce. »
+    De Yves Lamoureux. « Le stipe pourpré à l'apex est une caratéristique de l'espèce. »
   conidies: 
   conidiome: 
   conidiophores: 

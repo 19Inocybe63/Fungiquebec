@@ -10,7 +10,12 @@ album-flickr:
 
 details:
   nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: 
+  sous-phylum: 
   classe: 
+  sous-classe: 
   ordre: 
   famille: 
   genre: 

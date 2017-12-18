@@ -7,7 +7,7 @@ album-flickr:
   - 72157661943592668
 
 details:
-  nom-francais: Bolet à pied creux
+  nom-francais: Bolet à stipe creux
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

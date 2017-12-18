@@ -7,7 +7,7 @@ album-flickr:
   - 72157676881590234
 
 details:
-  nom-francais: Conocybe à pied blanc
+  nom-francais: Conocybe à stipe blanc
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

@@ -200,7 +200,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées et uncinées ou distantes du pied, serrées à très serrées, blanchâtres à chamois au début, puis brunes à brun-gris pâle
+  lames: adnées et uncinées ou distantes du stipe, serrées à très serrées, blanchâtres à chamois au début, puis brunes à brun-gris pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -301,7 +301,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: membraneux, laissant un anneau supère sur le pied ; large, pendant, typiquement persistant, strié au-dessus, blanchâtre à crème avant sporulation, puis coloré de brun par les basidiospores
+  voile-partiel: membraneux, laissant un anneau supère sur le stipe; large, pendant, typiquement persistant, strié au-dessus, blanchâtre à crème avant sporulation, puis coloré de brun par les basidiospores
   volve: 
   zone-perihymeniale: 
 ---

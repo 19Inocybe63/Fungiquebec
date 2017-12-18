@@ -7,7 +7,7 @@ album-flickr:
   - 72157672484253594
 
 details:
-  nom-francais: Entolome à pied bleuté
+  nom-francais: Entolome à stipe bleuté
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

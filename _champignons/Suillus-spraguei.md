@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: jaunâtre, brunâtre dans le pied, rougissant puis brunissant légèrement à la coupe
+  chair: jaunâtre, brunâtre dans le stipe, rougissant puis brunissant légèrement à la coupe
   chancre: 
   cheilocystides: 
   cheilomacrocystides: 
@@ -286,7 +286,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: blanchâtre ou rosé, fibrilleux-membraneux, laissant un petit anneau fibrilleux ou une zone annuliforme sur le pied
+  voile-partiel: blanchâtre ou rosé, fibrilleux-membraneux, laissant un petit anneau fibrilleux ou une zone annuliforme sur le stipe
   volve: 
   zone-perihymeniale: 
 ---

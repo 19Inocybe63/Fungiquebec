@@ -7,7 +7,7 @@ album-flickr:
   - 72157679422242935
 
 details:
-  nom-francais: Coprin pied-de-lièvre
+  nom-francais: Coprin stipe-de-lièvre
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

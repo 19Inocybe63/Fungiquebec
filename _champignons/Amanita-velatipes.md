@@ -7,7 +7,7 @@ album-flickr:
   - 72157673203579943
 
 details:
-  nom-francais: Amanite à pied voilé
+  nom-francais: Amanite à stipe voilé
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

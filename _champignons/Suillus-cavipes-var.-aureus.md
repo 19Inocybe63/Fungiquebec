@@ -7,7 +7,7 @@ album-flickr:
   - 72157686637066772
 
 details:
-  nom-francais: Bolet à pied creux variété d'or
+  nom-francais: Bolet à stipe creux variété d'or
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

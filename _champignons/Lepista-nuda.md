@@ -7,7 +7,7 @@ album-flickr:
   - 72157662288669118
 
 details:
-  nom-francais: Lépiste pied-bleu / Lépiste nue
+  nom-francais: Lépiste stipe-bleu / Lépiste nue
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

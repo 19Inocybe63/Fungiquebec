@@ -7,7 +7,7 @@ album-flickr:
   - 72157675684849236
 
 details:
-  nom-francais: Mélanoleuque à pied court
+  nom-francais: Mélanoleuque au stipe court
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

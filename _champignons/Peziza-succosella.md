@@ -119,6 +119,8 @@ description:
   columelle: 
   commentaires: |
     De René Dougoud. « La taille des ascospores et le type de guttules (généralement une grande guttule) suggèrent <i>P. succosella</i>. »
+    De Jean-Pierre Gaveriaux. « Le Soudan III ou noir Soudan B permet de colorer les inclusions lipidiques (guttules) trouvées fréquemment dans les ascospores. Le soudan III est soluble dans des solvants de type white spirit, mais n’est pas facilement miscible à l’eau; son utilisation en mycologie/lichénologie pose donc des problèmes, l’eau étant le principal constituant des êtres vivants. On peut utiliser le soudan III en solution alcoolique saturée mais l’éthanol provoque un rétrécissement important des structures cellulaires. » (informations tirées des fiches de Marcel Lecomte).
+    De Claude Kaufholtz-Couture. « Non épigé, car l’apothécie ne dépasse jamais la surface du sol; vraiment au ras du sol. »
     De Claude Kaufholtz-Couture. « Remerciements à Andreas Gminder et à René Dougoud de Ascofrance.fr »
   conidies: 
   conidiome: 
@@ -280,9 +282,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    Non épigé, car l’apothécie ne dépasse jamais la surface du sol, vraiment au ras du sol.
-    Le Soudan III ou noir Soudan B permet de colorer les inclusions lipidiques (guttules) trouvées fréquemment dans les ascospores. Le soudan III est soluble dans des solvants de type white spirit, mais n’est pas facilement miscible à l’eau; son utilisation en mycologie/lichénologie pose donc des problèmes, l’eau étant le principal constituant des êtres vivants. On peut utiliser le soudan III en solution alcoolique saturée mais l’éthanol provoque un rétrécissement important des structures cellulaires. » (Jean-Pierre Gaveriaux) (informations tirées des fiches de Marcel Lecomte).
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

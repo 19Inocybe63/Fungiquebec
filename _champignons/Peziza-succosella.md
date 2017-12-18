@@ -28,7 +28,7 @@ collections:
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 90 m
+    elevation: 90 m
     determinee: 
     confirmee: René Dougoud
   - fongarium: cKc0512
@@ -38,7 +38,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7539/28130157805_8bbab0ab88_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/28130157805/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 90 m
+    elevation: 90 m
     determinee: Claude Kaufholtz-Couture
     confirmee: René Dougoud
   - fongarium: cKc0516
@@ -48,7 +48,7 @@ collections:
       miniature: https://c1.staticflickr.com/9/8820/28186682002_2974394338_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/28186682002/in/photolist-JWL7xU-JRLpSM-K4jvMx-JU9Cw5-HREyyc-HPxvdF-JD1tMX
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 90 m
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0631
@@ -58,7 +58,7 @@ collections:
       miniature: 
       originale: 
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
-    altitude: 90 m
+    elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

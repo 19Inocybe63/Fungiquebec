@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Psathyrelle à pied rigide
+  nom-francais: Psathyrelle à stipe rigide
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

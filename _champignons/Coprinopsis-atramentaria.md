@@ -128,7 +128,7 @@ description:
   elements-setoides: 
   elements-steriles: 
   elements-sur-les-cotes: 
-  elements-velaires: formés de cellules hyphoïdes, ramifiées et légèrement partiellement diverticulées, 50-100 x 2-10 µm, ceux de la base du pied avec hyphes à septa isolément bouclées, incrustées de brunâtre, 3-8 µm Ø
+  elements-velaires: formés de cellules hyphoïdes, ramifiées et légèrement partiellement diverticulées, 50-100 x 2-10 µm, ceux de la base du stipe avec hyphes à septa isolément bouclées, incrustées de brunâtre, 3-8 µm Ø
   endoperidium: 
   especes-identification: 
   especes-semblables: 
@@ -283,7 +283,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, évanescent ou laissant un anneau (ou zone annuliforme déchirée) médian ou basal sur le pied, formé d'éléments tubulaires plus larges de 10 µm
+  voile-partiel: fibrilleux, évanescent ou laissant un anneau (ou zone annuliforme déchirée) médian ou basal sur le stipe, formé d'éléments tubulaires plus larges de 10 µm
   volve: 
   zone-perihymeniale: 
 ---

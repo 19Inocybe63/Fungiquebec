@@ -72,7 +72,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, blanchâtre à grise puis gris-brun à noir violacé, blanche dans le pied
+  chair: mince, blanchâtre à grise puis gris-brun à noir violacé, blanche dans le stipe
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

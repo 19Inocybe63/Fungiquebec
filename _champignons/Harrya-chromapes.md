@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: Bolet à pied jaune vif
+  nom-francais: Bolet à stipe jaune vif
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

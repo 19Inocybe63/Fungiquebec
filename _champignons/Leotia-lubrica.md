@@ -64,7 +64,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: 
-  ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un pied distincts, ± visqueux-gélifié, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
+  ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un stipe distincts, ± visqueux-gélifié, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
   ascospores: 
   asques: 
   asterohyphidies: 
@@ -274,7 +274,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 20-80 x 3-10 mm Ø, cylindrique, égal à ± légèrement élargi vers la base, glabre, souvent coalescent à d'autres pieds sur la partie inférieure, souvent ornée de petits flocons pâles, collant ou gluant lorsque frais, concolore au pileus, ou plus pâle, creux ou rempli de matière gélifiée
+  stipe: 20-80 x 3-10 mm Ø, cylindrique, égal à ± légèrement élargi vers la base, glabre, souvent coalescent à d'autres stipe sur la partie inférieure, souvent ornée de petits flocons pâles, collant ou gluant lorsque frais, concolore au pileus, ou plus pâle, creux ou rempli de matière gélifiée
   stipitipellis: 
   stipititrame: 
   stroma: 

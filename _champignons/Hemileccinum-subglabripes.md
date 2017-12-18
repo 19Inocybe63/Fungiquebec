@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Bolet à pied glabrescent
+  nom-francais: Bolet à stipe glabrescent
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

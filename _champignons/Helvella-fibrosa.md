@@ -59,7 +59,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, dans la mousse, au pied de feuillus, <i>Quercus</i>
+  biotopes: pousse au sol, dans la mousse, à la base des feuillus, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

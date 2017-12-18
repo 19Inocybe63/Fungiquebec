@@ -7,7 +7,7 @@ album-flickr:
   - 72157674658595462
 
 details:
-  nom-francais: Helvelle à long pied
+  nom-francais: Helvelle à long stipe
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

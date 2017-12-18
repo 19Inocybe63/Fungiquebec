@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: Cortinaire à pied tortueux
+  nom-francais: Cortinaire à stipe tortueux
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -80,7 +80,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: brun violet foncé à jaune-brun, violet très foncé à l'apex du pied, même au sec
+  chair: brun violet foncé à jaune-brun, violet très foncé à l'apex du stipe, même au sec
   chancre: 
   cheilochrysocystides:
   cheilocystides: absentes

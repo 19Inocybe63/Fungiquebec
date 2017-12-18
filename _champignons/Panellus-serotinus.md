@@ -72,7 +72,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: épaisse près du pied, amincie vers la marge, ferme, spongieuse, blanchâtre, légèrement verdâtre sous la cuticule
+  chair: épaisse près du stipe, amincie vers la marge, ferme, spongieuse, blanchâtre, légèrement verdâtre sous la cuticule
   chancre: 
   cheilocystides: 
   cheilomacrocystides: 
@@ -174,7 +174,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, larges vers la marge piléique, étroites vers le pied, fourchues, avec lamelles et lamellules, serrées à très serrées, crème, ochracées, orangées à fauvâtres, à arêtes entières, légèrement floconneuses, jaune ocre ou parfois légèrement violacées
+  lames: adnées à subdécurrentes, larges vers la marge piléique, étroites vers le stipe, fourchues, avec lamelles et lamellules, serrées à très serrées, crème, ochracées, orangées à fauvâtres, à arêtes entières, légèrement floconneuses, jaune ocre ou parfois légèrement violacées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

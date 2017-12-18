@@ -96,7 +96,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes sur toute la longueur du pied, en amas, de formes similaires aux cheilocystides, à paroi épaisse, avec cauloparacystides plus petites, clavées, à paroi mince, celles médianes similaires, mais avec moins de cauloparacystides 35-60 (70) x 13-16 µm
+  caulocystides: abondantes sur toute la longueur du stipe, en amas, de formes similaires aux cheilocystides, à paroi épaisse, avec cauloparacystides plus petites, clavées, à paroi mince, celles médianes similaires, mais avec moins de cauloparacystides 35-60 (70) x 13-16 µm
   caulocystides-medianes: abondantes, métuloïdes, fusiformes à lagéniformes, 44,3-57,1 × 13,7-17,1 µm
   caulocystides-sommitales: abondantes, métuloïdes, lagéniformes, ovoïdes à subovoïdes, 27,7-57 × 14,5-19,4 µm
   cauloparacystides: présentes
@@ -105,7 +105,7 @@ description:
   cellules-marginales-paracystides: nombreuses, claviformes à piriformes, à paroi mince, (10,4) 12,8-15,4 (16,1) × (5,5) 6,7-8,4 (9,2) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, 1-2 mm d'épaisseur au disque, blanchâtre dans le pileus, pâle dans le pied, immuable
+  chair: mince, 1-2 mm d'épaisseur au disque, blanchâtre dans le pileus, pâle dans le stipe, immuable
   chancre: 
   cheilochrysocystides:
   cheilocystides: abondantes, courtes, fusiformes, lagéniformes à claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans cristaux d'oxalate de calcium, ou clairsemé
@@ -118,7 +118,7 @@ description:
   columelle: 
   comestibilite: NON
   commentaires: |
-    De Claude Kaufholtz-Couture. « Le pileus de <i>I. umbratica</i> est de dimension plus importante que <i>I. geophylla</i>. De plus, ce dernier a des basidiospores lisses et un pied non bulbeux. »
+    De Claude Kaufholtz-Couture. « Le pileus de <i>I. umbratica</i> est de dimension plus importante que <i>I. geophylla</i>. De plus, ce dernier a des basidiospores lisses et un stipe non bulbeux. »
   conidies: 
   conidiome: 
   conidiophores: 

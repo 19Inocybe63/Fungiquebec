@@ -7,7 +7,7 @@ album-flickr:
   - 72157677623325925
 
 details:
-  nom-francais: Cortinaire à pied tortueux
+  nom-francais: Cortinaire au stipe tortueux
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

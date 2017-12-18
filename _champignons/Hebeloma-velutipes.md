@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Hébélome à pied duveteux
+  nom-francais: Hébélome au stipe duveteux
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

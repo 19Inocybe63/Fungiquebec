@@ -266,7 +266,7 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: membraneux, blanc, taché de brun rouille par endroits, laissant une volve à la base du pied
+  voile-general: membraneux, blanc, taché de brun rouille par endroits, laissant une volve à la base du stipe
   voile-partiel: absent
   volve: 
   zone-perihymeniale: 

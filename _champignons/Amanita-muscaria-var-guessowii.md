@@ -274,8 +274,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: friable, blanc ou jaune pâle, laissant des flocons sur le pileus et des bourrelets écailleux concentriques au-dessus du bulbe du pied
-  voile-partiel: membraneux, blanc à jaune pâle, laissant un anneau dans le haut du pied, ample, pendant, flasque
+  voile-general: friable, blanc ou jaune pâle, laissant des flocons sur le pileus et des bourrelets écailleux concentriques au-dessus du bulbe du stipe
+  voile-partiel: membraneux, blanc à jaune pâle, laissant un anneau dans le haut du stipe, ample, pendant, flasque
   volve: 
   zone-perihymeniale: 
 ---

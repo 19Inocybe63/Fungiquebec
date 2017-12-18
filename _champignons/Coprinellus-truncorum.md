@@ -7,7 +7,7 @@ album-flickr:
   - 72157672468519353
 
 details:
-  nom-francais: Coprin micacé à pied lisse
+  nom-francais: Coprin micacé à stipe lisse
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

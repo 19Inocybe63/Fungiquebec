@@ -7,7 +7,7 @@ album-flickr:
   - 72157675843042745
 
 details:
-  nom-francais: Bolet à pied velu
+  nom-francais: Bolet au stipe velu
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

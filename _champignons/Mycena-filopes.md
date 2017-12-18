@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Mycène à pied filiforme
+  nom-francais: Mycène au stipe filiforme
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

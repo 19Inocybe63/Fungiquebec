@@ -284,8 +284,8 @@ description:
   type: 
   typique: 
   voile: 
-  voile-general: membraneux à friable, blanc, jaunâtre à gris violacé, laissant souvent quelques flocons sur le pileus et une volve (en grande partie soudée) à la base du pied
-  voile-partiel: membraneux, blanc à jaunâtre, parfois gris violacé par endroits, laissant un anneau sur le pied ; formé d'hyphes cylindriques 2-5 µm Ø en moyenne, à terminaisons largement cylindriques, sinueuses, en serpes ou comme un bâton pastoral (crosse) à l'extrémité recourbée, (22) 26,2-54,8 (62,5) × (6,5) 6,52-12,3 (13) µm en moyenne
+  voile-general: membraneux à friable, blanc, jaunâtre à gris violacé, laissant souvent quelques flocons sur le pileus et une volve (en grande partie soudée) à la base du stipe
+  voile-partiel: membraneux, blanc à jaunâtre, parfois gris violacé par endroits, laissant un anneau sur le stipe; formé d'hyphes cylindriques 2-5 µm Ø en moyenne, à terminaisons largement cylindriques, sinueuses, en serpes ou comme un bâton pastoral (crosse) à l'extrémité recourbée, (22) 26,2-54,8 (62,5) × (6,5) 6,52-12,3 (13) µm en moyenne
   volve: 
   zone-perihymeniale: 
 ---

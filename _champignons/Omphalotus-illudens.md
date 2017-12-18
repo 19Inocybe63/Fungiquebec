@@ -180,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: étroites, orangées, serrées, décurrentes, fourchues près du pied, lamellules, arêtes légèrement plus foncées
+  lames: étroites, orangées, serrées, décurrentes, fourchues près du stipe, lamellules, arêtes légèrement plus foncées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -218,7 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 40-150 mm Ø, non détachable du pied, glabre au début, puis très finement fibrilleux, convexe, étalé-déprimé, légèrement en entonnoir, parfois à la marge enroulée, orange à roux, plus foncé au centre, se craquelant en vieillissant, et se pelant comme une écorce, laissant entrevoir les lames, cuticule séparable jusqu'à la moitié du pileus lorsque jeune, et séparable jusqu'au ¼ lorsqu'il est à maturité, laissant voir une chair ferme, orangé pâle
+  pileus: 40-150 mm Ø, non détachable du stipe, glabre au début, puis très finement fibrilleux, convexe, étalé-déprimé, légèrement en entonnoir, parfois à la marge enroulée, orange à roux, plus foncé au centre, se craquelant en vieillissant, et se pelant comme une écorce, laissant entrevoir les lames, cuticule séparable jusqu'à la moitié du pileus lorsque jeune, et séparable jusqu'au ¼ lorsqu'il est à maturité, laissant voir une chair ferme, orangé pâle
   plasmode: 
   pleurocystides: 
   poils: 
@@ -262,7 +262,7 @@ description:
   sporee: crème, jaune pâle à légèrement verdâtre
   spherocytes: 
   sporocystes: 
-  stipe: 30-70 x 10-20 mm Ø, blanchâtre à grisâtre, orangé à concolore, plus pâle que le pileus, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement, finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du pied, ou presque, d'où l'on peut observer un léger suintement du pied, cespiteux
+  stipe: 30-70 x 10-20 mm Ø, blanchâtre à grisâtre, orangé à concolore, plus pâle que le pileus, plein, ferme, parfois légèrement excentré, fibreux, puis strié longitudinalement, finement radicant, qui à maturité, se fend horizontalement comme de petits anneaux [bracelets], laissant ainsi la possibilité de les détacher jusqu'à la base du stipe, ou presque, d'où l'on peut observer un léger suintement du stipe, cespiteux
   stipitipellis: avec extrémités hyphales dans le revêtement caulinaire
   stipititrame: 
   stroma: 

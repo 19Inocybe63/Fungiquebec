@@ -7,7 +7,7 @@ album-flickr:
   - 72157673778467321
 
 details:
-  nom-francais: Collybie à pied velouté
+  nom-francais: Collybie au stipe velouté
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

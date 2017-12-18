@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: annuel, piléé, stipité sur le sol de racines ou parfois effusé-réfléchi à sessile sur la base d'arbres vivants, les billes ou souches
   bibliographies: 
-  biotopes: pousse au pied de souche de conifère
+  biotopes: pousse à la base de souche de conifère
   boucles: 
   brachybasidioles: 
   calicule: 

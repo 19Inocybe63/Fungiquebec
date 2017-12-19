@@ -211,7 +211,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à adnexées, larges, à arête érodées, blanchâtres, serrées, parfois sinuées à décurrentes en filet, cunéiforme, lamellules arrondies sur le bord proximal et aussi atténuées sur le rebord proximal
+  lames: échancrées à adnexées, larges; à arête blanchâtre et érodée; serrées, parfois sinuées à décurrentes en filet, cunéiformes, lamellules arrondies sur le bord proximal et aussi atténuées sur le rebord proximal
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

@@ -76,7 +76,7 @@ description:
   basidiospores: |
     elliptiques en vue frontale, subtriangulaires à en éperons ou en forme d’obus vues de profil, tronquées, lisses, à paroi mince, avec appendice hilaire latéral proéminent, sans pore germinatif distinct, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, partiellement cyanophiles à cyanophiles
     (5,3) 5,9-7,3 (8,2) x (2,8) 2,8-3,3 (3,8) µm
-    Q = (1,7) 1,9 - 2,3 (2,6); N = 30
+    Q = (1,7) 1,9-2,3 (2,6); N = 30
     Me = 6,6 x 3,1 µm; Qe = 2,1
     (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
@@ -97,7 +97,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, fragile, blanche, immuable, rosâtre dans le pied
+  chair: mince, fragile, blanche, immuable, rosâtre dans le stipe
   chancre: 
   cheilochrysocystides:
   cheilocystides: abondantes, polymorphes, claviformes, piriformes à turbinées, à paroi mince, lisses, hyalines dans le NaCl iso 0,9%, 14,5-37 x 7-13 µm en moyenne

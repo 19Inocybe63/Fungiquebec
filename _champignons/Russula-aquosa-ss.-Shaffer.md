@@ -202,7 +202,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, subserrées, avec furcations près du pied, sans lamelles ni lamellules, blanches
+  lames: adnées, subserrées, avec furcations près du stipe, sans lamelles ni lamellules, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

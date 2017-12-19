@@ -284,7 +284,7 @@ description:
   typique: 
   voile: 
   voile-general: friable, jaune, laissant des flocons sur le pileus
-  voile-partiel: membraneux, jaune, laissant un anneau dans le haut du pied
+  voile-partiel: membraneux, jaune, laissant un anneau dans le haut du stipe
   volve: 
   zone-perihymeniale: 
 ---

@@ -35,7 +35,7 @@ collections:
 description:
   acanthocytes: 
   acanthophyses: 
-  aiguillons: descendant sur le pied, recouvert d'aiguillons de 1-3 mm de long, d'abord blanchâtre, devenant brunâtres à brun à maturité
+  aiguillons: descendant sur le stipe, recouvert d'aiguillons de 1-3 mm de long, d'abord blanchâtre, devenant brunâtres à brun à maturité
   aleurioconidies: 
   anamorphe: 
   anamorphe-conidien: 

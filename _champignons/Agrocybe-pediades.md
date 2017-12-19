@@ -302,7 +302,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, fin, fugace, ne laissant pas d'anneau ni de zone annuliforme sur le pied
+  voile-partiel: fibrilleux, fin, fugace, ne laissant pas d'anneau ni de zone annuliforme sur le stipe
   volve: 
   zone-perihymeniale: 
 ---

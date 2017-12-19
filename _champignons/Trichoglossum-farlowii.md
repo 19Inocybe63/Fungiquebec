@@ -57,7 +57,7 @@ description:
     <b>Ohenoja, Esteri</b>. <i>Occurrence of Geoglossum, Trichoglossum and Microglossum (Ascomycota, Leotiales) in Finland</i>, Documents Mycologiques, Tome XXV, Décembre 1995, Fascicule triple 98-100, pp. 285-294, 10 p.
     <b>Kucera, Viktor,; Lizon, Pavel et al.</b> <i>Geoglossoid fungi in Slovakia II. Trichoglossum octopartitum, a new species for the country</i>, Czech Mycol. 62 (1), 13-18, 2010, 6 p.
     <b>Kaufholtz-Couture, Claude.</b> <i>Clé des espèces du genre Trichoglossum au Québec</i>, Éditions Fungiquebec, avril 2016, 3 p.
-  ascome: 20-70 mm de hauteur, formé d'un capitule fertile et d'un pied indistincts, clavé à lancéolé, noir brunâtre à noir
+  ascome: 20-70 mm de hauteur, formé d'un capitule fertile et d'un stipe indistincts, clavé à lancéolé, noir brunâtre à noir
   ascospores: |
     bacilliformes, légèrement atténuées aux bouts, entre 3 et 6 septa, mais souvent à 3 septa, grisâtres à brunâtres dans le NaCl iso 0,9%
     45-85 x 6-7 µm

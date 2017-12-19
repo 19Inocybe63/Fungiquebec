@@ -78,7 +78,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanche immuable au grattage, mis à part à la coupe du pied, et sous la cuticule, la chair est orangée
+  chair: blanche immuable au grattage, mis à part à la coupe du stipe, et sous la cuticule, la chair est orangée
   chancre: 
   cheilochrysocystides:
   cheilocystides: occasionnelles, peu émergentes, cylindriques à fusiformes, parfois avec apex mucroné, à contenu pailleté, sulfovanilline négative (SV-), 60-65 × 8-10 µm en moyenne

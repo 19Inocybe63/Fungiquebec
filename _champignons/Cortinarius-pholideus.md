@@ -82,7 +82,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanchâtre à brunâtre dans le pileus, violacée à l'apex du pied, brun-jaune à sa base
+  chair: blanchâtre à brunâtre dans le pileus, violacée à l'apex du stipe, brun-jaune à sa base
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

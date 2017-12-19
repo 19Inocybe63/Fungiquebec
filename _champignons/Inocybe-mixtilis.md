@@ -112,7 +112,7 @@ description:
     « Collection étudiée sur matériel déshydraté. »
     « Sous-genre Inocybe, Section Marginatae, Sous-section Praetervisae
     Clé d'après la clé de Fatto: B C E H K M N Q + mix; ressemble aussi à <i>Inocybe earleana</i> = B C E H K M N Q + mix »
-    De Yves Lamoureux. « Il s'agit d'un bulbe marginé typique des Inocybes dits bulbeux. Ici le bulbe est bien visible, même s'il est petit, d'où l'importance de cette photo. La marge du bulbe est bien visible. Dans de tels cas, il faut parfois vérifier la base du pied par une coupe longitudinale du basidiome, c'est préférable. La base est souvent si enrobée dans de la terre dense qu'on la voit mieux en coupe. De plus, cette terre très adhérente est difficile à décoller complètement du pied sans le briser; des petits morceaux du bulbe se brisent inévitablement. »
+    De Yves Lamoureux. « Il s'agit d'un bulbe marginé typique des Inocybes dits bulbeux. Ici le bulbe est bien visible, même s'il est petit, d'où l'importance de cette photo. La marge du bulbe est bien visible. Dans de tels cas, il faut parfois vérifier la base du stipe par une coupe longitudinale du basidiome, c'est préférable. La base est souvent si enrobée dans de la terre dense qu'on la voit mieux en coupe. De plus, cette terre très adhérente est difficile à décoller complètement du stipe sans le briser; des petits morceaux du bulbe se brisent inévitablement. »
   conidies: 
   conidiome: 
   conidiophores: 

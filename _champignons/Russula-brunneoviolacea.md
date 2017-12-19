@@ -191,7 +191,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, parfois fourchues près du pied, subespacées, crème à jaune crème
+  lames: adnexées, parfois fourchues près du stipe, subespacées, crème à jaune crème
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

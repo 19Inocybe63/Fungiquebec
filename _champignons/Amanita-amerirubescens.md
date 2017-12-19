@@ -282,7 +282,7 @@ description:
   typique: 
   voile: 
   voile-general: friable, blanc ou gris, rougissant avec l'âge, laissant des flocons sur le pileus
-  voile-partiel: membraneux, blanchâtre, se tachant de rouge vin avec l'âge, laissant un anneau dans le haut du pied, ample, pendant, persistant, fragile, strié au-dessus ; formé d'hyhes et de sphérocystes
+  voile-partiel: membraneux, blanchâtre, se tachant de rouge vin avec l'âge, laissant un anneau dans le haut du stipe, ample, pendant, persistant, fragile, strié au-dessus ; formé d'hyhes et de sphérocystes
   volve: 
   zone-perihymeniale: 
 ---

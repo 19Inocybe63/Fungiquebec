@@ -94,7 +94,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanchâtre dans le pileus, carnée dans le pied, blanche dans le bulbe
+  chair: blanchâtre dans le pileus, carnée dans le stipe, blanche dans le bulbe
   chancre: 
   cheilochrysocystides:
   cheilocystides: métuloïdes, 60,3 [61,6; 67,7] 68,9 x 17,2 [17,8; 20,2] 20,8 µm en moyenne

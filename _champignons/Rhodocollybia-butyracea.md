@@ -72,7 +72,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 5-14 mm d'épaisseur, blanche à gris aqueux pâle, blanche dans le pied
+  chair: 5-14 mm d'épaisseur, blanche à gris aqueux pâle, blanche dans le stipe
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

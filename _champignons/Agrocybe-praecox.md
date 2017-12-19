@@ -330,7 +330,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: présent, laissant un anneau membraneux longtemps persistant sur le pied, fragile, se déchirant, laissant parfois des restes appendiculés à la marge piléique
+  voile-partiel: présent, laissant un anneau membraneux longtemps persistant sur le stipe, fragile, se déchirant, laissant parfois des restes appendiculés à la marge piléique
   volve: 
   zone-perihymeniale: 
 ---

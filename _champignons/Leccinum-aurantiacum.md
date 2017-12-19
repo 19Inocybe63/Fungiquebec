@@ -283,7 +283,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: adnés puis déprimés autour du pied, blanchâtre, brunissant à maturité, assez long
+  tubes: adnés puis déprimés autour du stipe, blanchâtre, brunissant à maturité, assez long
   type: 
   typique: 
   voile: 

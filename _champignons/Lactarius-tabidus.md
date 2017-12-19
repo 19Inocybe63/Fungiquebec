@@ -89,7 +89,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Ton <i>L. camphoratus</i> n'a pas les lames assez foncées, à maturité, elles sont rouge vin très foncé et la couleur du pileus me semble bien trop pâle également. Dès le jeune âge, <i>L. camphoratus</i> est nettement plus foncé. Dans ta photo, je vois <i>L. theiogalus</i> ss. Hesler & A. H. Sm. (1979), nommé maintenant <i>L. tabidus</i>, mais chez nous, le lait ne jaunit qu'à la base du pied, si l'on est un bon observateur. Le nôtre est peut-être différent. Il est possible que le bon nom de <i>L. tabidus</i> ici soit <i>L. oculatus</i> Peck, mais cela reste à démontrer. »
+    De Yves Lamoureux. « Ton <i>L. camphoratus</i> n'a pas les lames assez foncées, à maturité, elles sont rouge vin très foncé et la couleur du pileus me semble bien trop pâle également. Dès le jeune âge, <i>L. camphoratus</i> est nettement plus foncé. Dans ta photo, je vois <i>L. theiogalus</i> ss. Hesler & A. H. Sm. (1979), nommé maintenant <i>L. tabidus</i>, mais chez nous, le lait ne jaunit qu'à la base du stipe, si l'on est un bon observateur. Le nôtre est peut-être différent. Il est possible que le bon nom de <i>L. tabidus</i> ici soit <i>L. oculatus</i> Peck, mais cela reste à démontrer. »
   conidies: 
   conidiome: 
   conidiophores: 

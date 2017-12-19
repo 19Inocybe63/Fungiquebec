@@ -288,7 +288,7 @@ description:
   velipellis: 
   voile: 
   voile-general: 
-  voile-partiel: cortiniforme et fugace, laissant un petit anneau infère sur le pied
+  voile-partiel: cortiniforme et fugace, laissant un petit anneau infère sur le stipe
   volve: 
   zone-perihymeniale: 
 ---

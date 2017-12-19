@@ -231,7 +231,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: subdécurrents, concolores à la face poroïde, 1-2 mm de longueur; anguleux sur le pileus, allongés près du pied, 1-3 par mm, plus irréguliers sur le pied; fendus et en partie sinueux, jusqu'à 2 mm Ø
+  pores: subdécurrents, concolores à la face poroïde, 1-2 mm de longueur; anguleux sur le pileus, allongés près du stipe, 1-3 par mm, plus irréguliers sur le stipe; fendus et en partie sinueux, jusqu'à 2 mm Ø
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

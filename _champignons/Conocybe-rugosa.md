@@ -93,7 +93,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: chamois à brunâtre, plus foncée vers la base du pied
+  chair: chamois à brunâtre, plus foncée vers la base du stipe
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

@@ -194,7 +194,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées-échancrées à subéchancrées à sinuées, serrées, molles, graisseuses, avec lamelles, mais pas de lamellules, blanchâtres à crème avec arêtes violettes sur une bonne partie de sa longueur, nombreuses furcations à la base du pied 
+  lames: adnées-échancrées à subéchancrées à sinuées, serrées, molles, graisseuses, avec lamelles, mais pas de lamellules, blanchâtres à crème avec arêtes violettes sur une bonne partie de sa longueur, nombreuses furcations à la base du stipe 
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

@@ -285,7 +285,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux, blanc à blanchâtre, évanescent, ne laissant pas d'anneau sur le pied
+  voile-partiel: fibrilleux, blanc à blanchâtre, évanescent, ne laissant pas d'anneau sur le stipe
   volve: 
   zone-perihymeniale: 
 ---

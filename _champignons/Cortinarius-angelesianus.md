@@ -84,7 +84,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Les bandelettes orangées sur le pied ne résultent pas du dépôt de basidiospores; c'est la couleur du voile général de cette espèce. »
+    De Yves Lamoureux. « Les bandelettes orangées sur le stipe ne résultent pas du dépôt de basidiospores; c'est la couleur du voile général de cette espèce. »
   conidies: 
   conidiome: 
   conidiophores: 

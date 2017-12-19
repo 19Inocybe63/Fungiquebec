@@ -97,7 +97,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanchâtre au début, puis jaunâtre pâle ou beige blanchâtre, ocre ou brun rouille pâle à dans la partie inférieure du pied
+  chair: blanchâtre au début, puis jaunâtre pâle ou beige blanchâtre, ocre ou brun rouille pâle à dans la partie inférieure du stipe
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

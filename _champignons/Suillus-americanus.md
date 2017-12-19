@@ -283,7 +283,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: jaunâtre, ne laissant pas d'anneau sur le pied, demeurant typiquement attaché à la marge piléique
+  voile-partiel: jaunâtre, ne laissant pas d'anneau sur le stipe, demeurant typiquement attaché à la marge piléique
   volve: 
   zone-perihymeniale: 
 ---

@@ -279,7 +279,7 @@ description:
   typique: 
   voile: 
   voile-general: jaune doré à jaune moutarde, laissant de petites touffes de fibrilles sur le pileus, parfois verruciformes, moins souvent au centre du pileus
-  voile-partiel: laissant un anneau cortinoïde, parfois membraneux, très mince et délicat, collapsant souvent contre le pied, blanc à crème sur la partie supérieure, jaune doré à jaune moutarde sur la partie inférieure, parfois entièrement de ces couleurs
+  voile-partiel: laissant un anneau cortinoïde, parfois membraneux, très mince et délicat, collapsant souvent contre le stipe, blanc à crème sur la partie supérieure, jaune doré à jaune moutarde sur la partie inférieure, parfois entièrement de ces couleurs
   volve: 
   zone-perihymeniale: 
 ---

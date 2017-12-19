@@ -7,7 +7,7 @@ album-flickr:
   - 72157675737892515
 
 details:
-  nom-francais: Bolet indigotier
+  nom-francais: Bolet indigotier / Bolet bleuissant
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

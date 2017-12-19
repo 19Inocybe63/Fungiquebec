@@ -280,7 +280,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: laissant une fine zone fibrilleuse sur le pied
+  voile-partiel: laissant une fine zone fibrilleuse sur le stipe
   volve: 
   zone-perihymeniale: 
 ---

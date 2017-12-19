@@ -87,7 +87,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanche, rougissant lentement à la coupe, surtout à l'apex du pied, parfois aussi grisonnante
+  chair: blanche, rougissant lentement à la coupe, surtout à l'apex du stipe, parfois aussi grisonnante
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

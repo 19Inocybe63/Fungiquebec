@@ -281,7 +281,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: circulaires, 1-2 par mm, déprimés ou non près du pied, concolore à la face poroïde, 8-20 mm de longueur
+  tubes: circulaires, 1-2 par mm, déprimés ou non près du stipe, concolore à la face poroïde, 8-20 mm de longueur
   type: 
   typique: 
   voile: 

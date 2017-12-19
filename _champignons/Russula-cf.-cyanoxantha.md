@@ -181,7 +181,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: légèrement élastiques, mais pas aussi lardacées que <i>R. cyanoxantha</i> et <i>R. variata</i>, lamellules nombreuses 14+, bifurcations concentrées près du pied, blanches
+  lames: légèrement élastiques, mais pas aussi lardacées que <i>R. cyanoxantha</i> et <i>R. variata</i>, lamellules nombreuses 14+, bifurcations concentrées près du stipe, blanches
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

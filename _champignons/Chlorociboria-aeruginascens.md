@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: très mince, concolore à la face extérieure, vert-de-gris bleuâtre dans le pied
+  chair: très mince, concolore à la face extérieure, vert-de-gris bleuâtre dans le stipe
   chancre: 
   chapeau: 
   cheilochrysocystides:

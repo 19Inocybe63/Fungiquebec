@@ -220,7 +220,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 20-60 mm Ø, convexe à étalé, ombiliqué au centre et perforé jusque dans le pied, finement tomenteux, orange rouille à orange brunâtre
+  pileus: 20-60 mm Ø, convexe à étalé, ombiliqué au centre et perforé jusque dans le stipe, finement tomenteux, orange rouille à orange brunâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

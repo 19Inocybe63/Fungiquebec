@@ -84,7 +84,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Son pied peut-être nettement plus long quand il vient parmi les sphaignes; et <i>C. scaurus</i> est son sosie, mais il s’en différencie par des lames vert olive. »
+    De Yves Lamoureux. « Son stipe peut-être nettement plus long quand il vient parmi les sphaignes, et <i>C. scaurus</i> est son sosie, mais il s’en différencie par des lames vert olive. »
     De Claude Kaufholtz-Couture. « De la section Scauri. »
   conidies: 
   conidiome: 

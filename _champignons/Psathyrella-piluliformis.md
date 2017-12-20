@@ -313,7 +313,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: fibrilleux à submembraneux, blanc, fugace, laissant parfois une zone fibrilleuse obscure sur le pied
+  voile-partiel: fibrilleux à submembraneux, blanc, fugace, laissant parfois une zone fibrilleuse obscure sur le stipe
   volve: 
   zone-perihymeniale: 
 ---

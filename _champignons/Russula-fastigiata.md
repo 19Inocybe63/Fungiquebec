@@ -212,7 +212,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, blanche crème puis jaunâtres, avec lamelles et lamellules, rares (1-3), furcations près du pied
+  lames: adnées, serrées, blanche crème puis jaunâtres, avec lamelles et lamellules, rares (1-3), furcations près du stipe
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

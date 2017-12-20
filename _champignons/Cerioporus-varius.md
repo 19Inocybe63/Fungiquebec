@@ -232,7 +232,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: souvent décurrents jusque sur la portion noire du pied, blanches à crème, 1-5 mm de longueur; ronds à anguleux, 6-9 par mm, à dissépiments entiers
+  pores: souvent décurrents jusque sur la portion noire du stipe, blanches à crème, 1-5 mm de longueur; ronds à anguleux, 6-9 par mm, à dissépiments entiers
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

@@ -40,7 +40,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 20-100 x 25-100 mm Ø, souvent en forme de selle ou de mitre, parfois à 2-4 lobes pointus irréguliers ou en forme de corne, creuse ou chambrée, stipitée, à marge incurvée, ± soudée au pied
+  apothecie: 20-100 x 25-100 mm Ø, souvent en forme de selle ou de mitre, parfois à 2-4 lobes pointus irréguliers ou en forme de corne, creuse ou chambrée, stipitée, à marge incurvée, ± soudée au stipe
   arete-lamellaire: 
   arthroconidies: 
   articles: 

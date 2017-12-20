@@ -193,7 +193,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: radiantes d'un point basal latéral, arrondies près du pied, larges, avec lamelles et lamellules, serrées à subserrées, blanches au début, puis brun rouille à maturité
+  lames: radiantes d'un point basal latéral, arrondies près du stipe, larges, avec lamelles et lamellules, serrées à subserrées, blanches au début, puis brun rouille à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -277,7 +277,7 @@ description:
   sporee: brun à brun tabac
   spherocytes: 
   sporocystes: 
-  stipe: absent ou pseudopied parfois présent
+  stipe: absent ou pseudostipe parfois présent
   stipitipellis: 
   stipititrame: 
   stroma: 

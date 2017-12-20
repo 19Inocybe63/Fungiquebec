@@ -190,7 +190,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à subdécurrentes, souvent fourchues près du pied, cassantes, serrées, crème à chamois pâle, pas de lamellules, tachées de brunâtre par endroits à maturité
+  lames: adnées à subdécurrentes, souvent fourchues près du stipe, cassantes, serrées, crème à chamois pâle, pas de lamellules, tachées de brunâtre par endroits à maturité
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

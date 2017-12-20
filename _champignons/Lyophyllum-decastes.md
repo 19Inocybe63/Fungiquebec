@@ -194,7 +194,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: variables, mais le plus souvent adnées modérément larges, parfois fourchues près du pied, avec lamellules, serrées à très serrées, blanchâtre à crème pâle, parfois jaunissantes à maturités, à arêtes entières
+  lames: variables, mais le plus souvent adnées modérément larges, parfois fourchues près du stipe, avec lamellules, serrées à très serrées, blanchâtre à crème pâle, parfois jaunissantes à maturités, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

@@ -79,7 +79,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: abondantes sur toute la surface du pied, fasciculées, cylindriques, étroitement fusoïdes à ventrues, à paroi mince, lisses, hyalines ou à contenu bistre, 50-155 x 13-19 µm
+  caulocystides: abondantes sur toute la surface du stipe, fasciculées, cylindriques, étroitement fusoïdes à ventrues, à paroi mince, lisses, hyalines ou à contenu bistre, 50-155 x 13-19 µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 

@@ -313,7 +313,7 @@ description:
   typique: 
   voile: 
   voile-general: absent
-  voile-partiel: blanc au début devenant pourpre foncé, habituellement situé à la marge du pileus, se retrouve rarement sur le pied ou laissant une petite zone annuliforme
+  voile-partiel: blanc au début devenant pourpre foncé, habituellement situé à la marge du pileus, se retrouve rarement sur le stipe ou laissant une petite zone annuliforme
   volve: 
   zone-perihymeniale: 
 ---

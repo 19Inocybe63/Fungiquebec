@@ -264,7 +264,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 28 x 1 mm Ø, cylindrique, pruineux, dont le pied est radicant, crème avec reflets verdâtres, dont la base est plus foncée, reflets jaunâtres, non bulbeux
+  stipe: 28 x 1 mm Ø, cylindrique, pruineux, dont le stipe est radicant, crème avec reflets verdâtres, dont la base est plus foncée, reflets jaunâtres, non bulbeux
   stipitipellis: 
   stipititrame: 
   stroma: 

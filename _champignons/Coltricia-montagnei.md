@@ -228,7 +228,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: décurrents, 4-5 mm de profondeur; anguleux au début, irréguliers et légèrement étirés près du pied, ensuite ils deviennent dédaléens par endroits, lacérés, 5-1,5 mm Ø
+  pores: décurrents, 4-5 mm de profondeur; anguleux au début, irréguliers et légèrement étirés près du stipe, ensuite ils deviennent dédaléens par endroits, lacérés, 5-1,5 mm Ø
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 

@@ -288,7 +288,7 @@ description:
   sporee: pallidosporée à ochrosporée IId-IIIa, crème foncé à ocre pâle, d’après la charte de couleur de Romagnesi; D-E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
-  stipe: 60-70 mm x 16-17 mm Ø, claviforme, légèrement radicant, farci, mais un peu moins vers la base, une bande mince de couleur rouille surplombe l’apex du pied, strié longitudinalement, blanc, sauf vers la base, dont la base est clavée, présentant des veinures rouges
+  stipe: 60-70 mm x 16-17 mm Ø, claviforme, légèrement radicant, farci, mais un peu moins vers la base, une bande mince de couleur rouille surplombe l’apex du stipe, strié longitudinalement, blanc, sauf vers la base, dont la base est clavée, présentant des veinures rouges
   stipitipellis: 
   stipititrame: 
   stroma: 

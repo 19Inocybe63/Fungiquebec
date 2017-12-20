@@ -278,7 +278,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: présent, laissant un épais anneau cotonneux évanescent ou tombant le plus souvent sur la base du pied comme une pseudo volve
+  voile-partiel: présent, laissant un épais anneau cotonneux évanescent ou tombant le plus souvent sur la base du stipe comme une pseudo volve
   volve: 
   zone-perihymeniale: 
 ---

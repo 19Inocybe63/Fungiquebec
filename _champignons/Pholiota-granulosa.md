@@ -222,7 +222,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées trapues, plutôt étroites (3-4 mm chez les grands basidiomes), plus larges près du pied, atténuées vers la marge, serrées à très serrées, demeurant jaune pâle, chamois ou jaune antimoine, ne devenant pas tachées, à arêtes entières
+  lames: adnées trapues, plutôt étroites (3-4 mm chez les grands basidiomes), plus larges près du stipe, atténuées vers la marge, serrées à très serrées, demeurant jaune pâle, chamois ou jaune antimoine, ne devenant pas tachées, à arêtes entières
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

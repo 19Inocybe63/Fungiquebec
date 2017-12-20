@@ -72,7 +72,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: blanche, immuable, parfois avec de légères colorations rosâtres lorsque coupée, devenant jaune dans le pied à maturité, jaune gris dans la base, très souvent parsemée de tunnels de larves
+  chair: blanche, immuable, parfois avec de légères colorations rosâtres lorsque coupée, devenant jaune dans le stipe à maturité, jaune gris dans la base, très souvent parsemée de tunnels de larves
   chancre: 
   cheilocystides: 
   cheilomacrocystides: 

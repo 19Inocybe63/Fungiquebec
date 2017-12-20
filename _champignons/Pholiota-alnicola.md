@@ -334,7 +334,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: presque membraneux, blanchâtre à jaune pâle, laissant souvent une zone annuliforme sur le pied
+  voile-partiel: presque membraneux, blanchâtre à jaune pâle, laissant souvent une zone annuliforme sur le stipe
   volve: 
   zone-perihymeniale: 
 ---

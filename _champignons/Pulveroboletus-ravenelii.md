@@ -286,7 +286,7 @@ description:
   typique: 
   voile: 
   voile-general: 
-  voile-partiel: finement fibrilleux, poudreux, jaune soufre brillant, laissant une zone annuliforme sur le pied
+  voile-partiel: finement fibrilleux, poudreux, jaune soufre brillant, laissant une zone annuliforme sur le stipe
   volve: 
   zone-perihymeniale: 
 ---

@@ -1,6 +1,6 @@
 ---
 nom: Russula pusillaspora C. Kaufholtz-Couture nom. prov.
-date: 2017-10-28 00:00:00
+date: 2018-01-01 00:00:00
 image: https://c1.staticflickr.com/5/4481/36570667564_84970b689a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36570667564/in/photolist-XHCen7
 album-flickr:

@@ -1,5 +1,5 @@
 ---
-title: Séminaire de microscopie des champignons Massembre Belgique 2017 
+title: Séminaire de microscopie des champignons, domaine de Massembre Belgique 2017 
 date: 2018-01-01 00:00:00
 categories: 
 - Séminaire
@@ -13,7 +13,7 @@ Du 12 au 17 novembre 2017, l'Association des mycologues français de Belgique (l
 
 Un petit mot de remerciement avant de revenir dans le quotidien empressé. Je tenais à remercier toute l'équipe de l’A.M.F.B., pour cette semaine de Séminaire consacré à la microscopie des champignons. Comme anticipé et supposé de ma part, cela s’est avéré très instructif ; il s'agit à coup sûr d'un élément positif majeur dans ma formation de microscopiste des champignons. Tout y était : de bons thèmes, des sujets intéressants, un intervenant pédagogue d'exception, de nouvelles techniques surprenantes et de la convivialité, ce qui fait que nous avons passé une semaine bénéfique, agréable, que je peux qualifier sans hésitation d’exceptionnelle. Bravo au comité organisateur de l’A.M.F.B., constitué de Françoise Draye, Claude Quintin, Norbert Bastien et Serge Defays, et au formateur, Marcel Lecomte, pour cette réussite et ce partage. Je suis très fier d’avoir participé à cet évènement.
 
-https://www.flickr.com/photos/kaufholtz/38722438734/sizes/z/
+![Groupe au Séminaire de microscopie des champignons, Massembre, Belgique, 2017]https://www.flickr.com/photos/kaufholtz/38722438734/sizes/z/
 <p>&nbsp; </p>
 #### Nature du réactif et gradation
 

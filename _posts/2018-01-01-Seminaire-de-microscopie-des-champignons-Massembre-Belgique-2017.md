@@ -15,7 +15,7 @@ Un petit mot de remerciement avant de revenir dans le quotidien empressé. Je te
 
 <p>&nbsp; </p>
 #### Groupe du Séminaire de microscopie des champignons, Massembre, 2017
-![Séminaire de microscopie des champignons, 2017]https://www.flickr.com/photos/kaufholtz/38722438734/sizes/n.jpg "Figure 1. Groupe du Séminaire de microscopie des champignons)
+![Séminaire de microscopie des champignons, 2017]https://www.flickr.com/photos/kaufholtz/38722438734/sizes_n.jpg "Figure 1. Groupe du Séminaire de microscopie des champignons)
 <p>&nbsp; </p>
 
 Je vous envoie mes meilleures salutations de Québec !

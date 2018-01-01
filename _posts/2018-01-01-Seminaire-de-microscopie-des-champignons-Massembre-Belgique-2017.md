@@ -16,12 +16,12 @@ Du 12 au 17 novembre 2017, l'Association des mycologues français de Belgique (l
 Un petit mot de remerciement avant de revenir dans le quotidien empressé. Je tenais à remercier toute l'équipe de l’A.M.F.B., pour cette semaine de Séminaire consacré à la microscopie des champignons. Comme anticipé et supposé de ma part, cela s’est avéré très instructif ; il s'agit à coup sûr d'un élément positif majeur dans ma formation de microscopiste des champignons. Tout y était : de bons thèmes, des sujets intéressants, un intervenant pédagogue d'exception, de nouvelles techniques surprenantes et de la convivialité, ce qui fait que nous avons passé une semaine bénéfique, agréable, que je peux qualifier sans hésitation d’exceptionnelle. Bravo au comité organisateur de l’A.M.F.B., constitué de Françoise Draye, Claude Quintin, Norbert Bastien, Serge Defays, et au formateur, Marcel Lecomte, pour cette réussite et ce partage. Je suis très fier d’avoir participé à cet évènement.
 
 <p>&nbsp; </p>
-#### Nature du réactif et gradation
-![Reaction bleue de gaïac](https://c1.staticflickr.com/9/8773/28260892405_b447d257b8_n.jpg "Figure 1. Réaction bleue de Gaïac sur une Russula sp.")
-
-<p>&nbsp; </p>
 #### Groupe du Séminaire de microscopie des champignons, Massembre, 2017
-![Séminaire de microscopie des champignons, 2017](https://www.flickr.com/photos/kaufholtz/38722438734_n.jpg "Figure 1. Groupe du Séminaire de microscopie des champignons)
+![Séminaire de microscopie des champignons, 2017](https://c1.staticflickr.com/9/8773/28260892405_b447d257b8_n.jpg "Figure 1. Réaction bleue de Gaïac sur une Russula sp.")
+
+![Séminaire de microscopie des champignons, 2017]
+(https://www.flickr.com/photos/kaufholtz/38722438734_n.jpg "Figure 1. Groupe du Séminaire de microscopie des champignons)
+https://www.flickr.com/photos/kaufholtz/38722438734/sizes/m.jpg
 
 Je vous envoie mes meilleures salutations de Québec !
 

@@ -19,9 +19,7 @@ Un petit mot de remerciement avant de revenir dans le quotidien empressé. Je te
 #### Groupe du Séminaire de microscopie des champignons, Massembre, 2017
 ![Séminaire de microscopie des champignons, 2017](https://c1.staticflickr.com/9/8773/28260892405_b447d257b8_n.jpg "Figure 1. Réaction bleue de Gaïac sur une Russula sp.")
 
-![Séminaire de microscopie des champignons, 2017]
-(https://www.flickr.com/photos/kaufholtz/38722438734_n.jpg "Figure 1. Groupe du Séminaire de microscopie des champignons)
-https://www.flickr.com/photos/kaufholtz/38722438734/sizes/m.jpg
+![Séminaire de microscopie des champignons, 2017](https://www.flickr.com/photos/kaufholtz/38722438734_n.jpg "Figure 1. Groupe du Séminaire de microscopie des champignons")
 
 Je vous envoie mes meilleures salutations de Québec !
 

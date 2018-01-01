@@ -3,9 +3,10 @@ title: Séminaire de microscopie des champignons, domaine de Massembre Belgique 
 date: 2018-01-01 00:00:00
 categories: 
 - Séminaire
-- microscopie des champignons
-- technique de microscopie des champignons
+- Microscopie des champignons
+- Technique de microscopie des champignons
 - Association des mycologues français de Belgique (l'A.M.F.B.)
+- Formation
 ---
 
 #### Résumé

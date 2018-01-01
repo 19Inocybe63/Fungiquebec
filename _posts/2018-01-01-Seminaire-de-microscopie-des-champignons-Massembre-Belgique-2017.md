@@ -15,7 +15,6 @@ Un petit mot de remerciement avant de revenir dans le quotidien empressé. Je te
 
 ![Groupe au Séminaire de microscopie des champignons, Massembre, Belgique, 2017]https://www.flickr.com/photos/kaufholtz/38722438734/sizes/z/
 <p>&nbsp; </p>
-#### Nature du réactif et gradation
 
 
 En terminant, j’espère vous revoir en Belgique… ou peut-être au Québec ? 

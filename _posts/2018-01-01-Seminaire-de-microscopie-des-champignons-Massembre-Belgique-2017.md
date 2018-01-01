@@ -4,10 +4,12 @@ date: 2018-01-01 00:00:00
 categories: 
 - Séminaire
 - microscopie des champignons
+- technique de microscopie des champignons
+- Association des mycologues français de Belgique (l'A.M.F.B.)
 ---
 
 #### Résumé
-Du 12 au 17 novembre 2017, l'Association des mycologues français de Belgique (l'A.M.F.B; http://www.amfb.eu/index.html) a organisé un séminaire de microscopie consacré aux champignons ; et c'est dans un paysage magnifique, au Domaine de Massembre à Heer-Agimont, dans la province de Namur, région wallonne en Belgique, que s'est déroulé l'évènement (http://hastiere-tourisme.be/decouvrir/nos-villages-et-hameaux/heer-sur-meuse/).
+Du 12 au 17 novembre 2017, l'Association des mycologues français de Belgique (l'A.M.F.B. ; http://www.amfb.eu/index.html) a organisé un séminaire de microscopie consacré aux champignons ; et c'est dans un paysage magnifique, au Domaine de Massembre à Heer-Agimont, dans la province de Namur, région wallonne en Belgique, que s'est déroulé l'évènement (http://hastiere-tourisme.be/decouvrir/nos-villages-et-hameaux/heer-sur-meuse/).
 <!--more-->
 <p>&nbsp; </p>
 

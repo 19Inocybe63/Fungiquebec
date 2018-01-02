@@ -2,7 +2,7 @@
 nom: Scutellinia torrentis
 date: 2018-01-02 00:00:00
 image: https://www.flickr.com/photos/kaufholtz/36432563541/sizes/n/
-image-originale: https://www.flickr.com/photos/kaufholtz/36432563541/in/photolist-Dt6aWc-XvqpRg
+image-originale: https://www.flickr.com/photos/kaufholtz/36432563541/in/photolist-Dt6aWc-XvqpRg/
 album-flickr:
   - 
 

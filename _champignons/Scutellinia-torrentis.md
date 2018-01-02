@@ -230,13 +230,13 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  poils: 
+  poils: superficiels (?) cylindriques à cylindriques flexueuses, septées, dont la cellule terminale, polymorphes de cylindrique flexueuse à cylindrique fusiforme, varie entre 37->160 x 4-15 µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
   poils-externes: 
   poils-lateraux-et-caulinaires: 
-  poils-marginaux: 
+  poils-marginaux: bruns, aigus, entre 5 et 12 septa, flexueux, s'atténuant légèrement vers la base, majoritairement bifourchue, parfois trifourchue 200-±>700 x 17-20 µm
   poils-mycelien-basaux: 
   poils-peridiaux: 
   poils-peritheciaux: 
@@ -247,8 +247,14 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
-  publications-microscopiques: 
+  publications: |
+    <b>Schumacher, Trond</b>. <i>The genus Scutellinia</i> (Pyronemataceae), Opera Botanica 101, Copenhagen, 1990, Printed in Denmark by AiO print Ltd., Odense; 108 pp.
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

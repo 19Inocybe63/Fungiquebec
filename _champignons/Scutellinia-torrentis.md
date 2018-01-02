@@ -1,7 +1,7 @@
 ---
 nom: Scutellinia torrentis
 date: 2018-01-02 00:00:00
-image: https://www.flickr.com/photos/kaufholtz/36432563541/sizes/n/
+image: https://c1.staticflickr.com/5/4365/36432563541_5569130b03_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36432563541/in/photolist-Dt6aWc-XvqpRg
 album-flickr:
   - 
@@ -25,8 +25,8 @@ collections:
     date: 14 août 2017
     planche:
       numero: cKc0647-0188
-      miniature: https://www.flickr.com/photos/kaufholtz/24591754787/sizes/n/
-      originale: https://www.flickr.com/photos/kaufholtz/24591754787/in/dateposted/
+      miniature: 
+      originale: 
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)

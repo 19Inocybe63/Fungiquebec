@@ -20,7 +20,7 @@ Un petit mot de remerciement avant de revenir dans le quotidien empressé. Je te
 #### Groupe du Séminaire de microscopie des champignons, Massembre, 2017
 ![Séminaire de microscopie des champignons, 2017](https://c1.staticflickr.com/5/4726/38722438734_8caee53be5_c.jpg "Figure 1. Groupe du Séminaire de microscopie des champignons")
 Première rangée, agenouillés (de gauche à droite)
-Claude Quintin ; Françoise Draye ; Serge Defays ; Marcel Lecomte ; Claude Kaufholtz-Couture ;... au bout... Marie-Paule Vigneron ; à suivre...
+Claude Quintin ; Françoise Draye ; Serge Defays ; Marcel Lecomte ; Claude Kaufholtz-Couture ;... à suivre...
 
 
 Je vous envoie mes meilleures salutations de Québec !

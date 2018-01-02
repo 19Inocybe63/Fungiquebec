@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur écorce de feuillus en décomposition (Fagus)
   boucles: 
   brachybasidioles: 
   calicule: 

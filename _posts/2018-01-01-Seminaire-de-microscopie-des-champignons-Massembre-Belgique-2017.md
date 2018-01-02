@@ -24,7 +24,7 @@ Première rangée, agenouillés (de gauche à droite)
 Claude Quintin ; Françoise Draye ; Serge Defays ; Marcel Lecomte ; Claude Kaufholtz-Couture ;... à suivre...
 <p>&nbsp; </p>
 
-#### Programme des activités et exposés pratiques vu lord du Séminaire organisé par l’A.M.F.B., à Massembre, du 12 au 18 novembre 2017
+#### Programme des activités et exposés pratiques vu lors du Séminaire organisé par l’A.M.F.B., à Massembre, du 12 au 18 novembre 2017
 
 par Marcel Lecomte
 

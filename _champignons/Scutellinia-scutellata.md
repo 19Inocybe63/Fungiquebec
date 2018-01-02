@@ -1,6 +1,6 @@
 ---
 nom: Scutellinia scutellata
-date: 2017-03-13 00:00:00
+date: 2018-01-02 00:00:00
 image: https://c1.staticflickr.com/1/558/18379166100_42fb1239d5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18379166100/in/photolist-tt4ZcL-tkzuXN-u172L9
 album-flickr:
@@ -262,7 +262,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Hohmeyer, H</b>. <i>Une clé pour les espèces d'Europe du genre Peziza L.</i>, extraite de Zeitschrift für Mykologie, Band. 52 (1), 1-248, April 1986, traduction par P. A. Renaud en collaboration avec R. Dougoud, Fribourg, 1988.
+    <b>Schumacher, Trond</b>. <i>The genus Scutellinia</i> (Pyronemataceae), Opera Botanica 101, Copenhagen, 1990, Printed in Denmark by AiO print Ltd., Odense; 108 pp.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

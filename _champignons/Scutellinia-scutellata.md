@@ -65,7 +65,7 @@ description:
   arthroconidies: 
   articles: |
     <b>Dougoud, René</b>. <i>Contribution à l’étude des discomycètes Version 2013</i>, Ascomycete.org, 5 (2); 63-89, Mars 2013, 29 p.
-    <b>Schumacher, Trond</b>. <i>Le genre Scutellinia (Pyronemataceae)</i>, Publication libre, 1990, 7 p.
+    <b>Schumacher, Trond</b>. <i>The genus Scutellinia</i> (Pyronemataceae), Opera Botanica 101, Copenhagen, 1990, Printed in Denmark by AiO print Ltd., Odense; 108 pp.
   ascome: 
   ascospores: |
     unisériées, ellipsoïdes, formées des verrues interconnectées et de courtes crêtes, à contenu pluriguttulé, non coloration des inclusions lipidiques (guttules) au Soudan III
@@ -261,8 +261,7 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: |
-    <b>Schumacher, Trond</b>. <i>The genus Scutellinia</i> (Pyronemataceae), Opera Botanica 101, Copenhagen, 1990, Printed in Denmark by AiO print Ltd., Odense; 108 pp.
+  publications: 
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

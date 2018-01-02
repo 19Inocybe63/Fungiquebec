@@ -24,7 +24,7 @@ collections:
   - fongarium: cKc0647
     date: 14 août 2017
     planche:
-      numero: 
+      numero: cKc0647-0188
       miniature: https://www.flickr.com/photos/kaufholtz/24591754787/sizes/n/
       originale: https://www.flickr.com/photos/kaufholtz/24591754787/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O

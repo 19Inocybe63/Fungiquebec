@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Pézize des ruisseaux
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota
@@ -93,6 +93,7 @@ description:
   comestibilite: 
   commentaires: |
     De MycoDB. « Pousse en groupes importants. » (http://www.mycodb.fr/quicksearch.php)
+    De Claude Kaufholtz-Couture. « Le nom français mentionné ici est une libre traduction. »
   conidies: 
   conidiome: 
   conidiophores: 

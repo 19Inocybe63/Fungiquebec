@@ -124,7 +124,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: inconnu
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -146,7 +146,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: couverte modérément à généreusement de poils bruns noirs, bordant la marge comme des cils
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -159,7 +159,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: lisse, rouge à rouge vif, orangé
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -221,7 +221,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: en août
   phialoconidies: 
   pieds-steriles: 
   pigments: 

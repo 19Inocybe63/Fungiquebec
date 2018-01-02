@@ -40,13 +40,18 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: 2-8 (9) mm Ø, orange à orange-rougeâtre, sessiles, distinctement disciforme, extérieur revêtu de poils raides, brunâtres à noirs
   arete-lamellaire: 
   arthroconidies: 
   articles: 
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    ellipsoïdes à étroitement ellipsoïdes, de verruqueuse à pustulo-crêtées, à tuberculeuse, ornées de petits verrues (tubercules) arrondies 0,5-1,0 μm de haut, à contenu pluriguttulé, sans paroi externe détendue lorsque chauffée dans le bleu Coton lactique
+    (15,1) 15,2-16,7 (16,8) × (8,5) 9,2-10,4 (11,4) µm
+    Q = (1,4) 1,5-1,76 (1,8); N = 25
+    Me = 16 × 9,7 µm; Qe = 1,6
+    (Piximètre, formule classique; mesures issues d'une sporée, dans Bleu Coton lactique + méthode à chaud
+  asques: longuement cylindriques, octosporés, unisériés, iodonégatifs, 190-275 × 12-15 µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -206,7 +211,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: surpassant de 12,5-30 µm les asques en moyenne, spatulées à longuement claviformes, septées, avec contenu granulaire hyalin dans E.G. 15%, 210-230 x 5-8 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   partie-apicale: 

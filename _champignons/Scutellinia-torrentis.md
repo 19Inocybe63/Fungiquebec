@@ -274,7 +274,7 @@ description:
   symptomes: 
   syndrome: 
   synonymie: |
-    Lachnea torrentis Rehm, Annales Mycologici 5 (3):212 (1907)
+    <i>Lachnea torrentis</i> Rehm, Annales Mycologici 5 (3):212 (1907)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

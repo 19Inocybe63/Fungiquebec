@@ -230,7 +230,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  poils: superficiels (?) cylindriques à cylindriques flexueuses, septées, dont la cellule terminale, polymorphes de cylindrique flexueuse à cylindrique fusiforme, varie entre 37->160 x 4-15 µm en moyenne
+  poils: superficiels (?) cylindriques à cylindriques flexueuses, septées, dont la cellule terminale est polymorphes de cylindrique flexueuse à cylindrique fusiforme, varie entre 37->160 x 4-15 µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

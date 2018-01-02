@@ -84,7 +84,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De MycoDB. « Pousse en groupes importants. » (http://www.mycodb.fr/quicksearch.php)
   conidies: 
   conidiome: 
   conidiophores: 

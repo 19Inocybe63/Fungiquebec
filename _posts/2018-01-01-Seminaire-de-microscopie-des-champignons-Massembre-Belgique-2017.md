@@ -57,7 +57,7 @@ Voici une liste informative des diverses techniques qui ont été abordées dura
 * Comment visualiser la forme des spores des inocybes et des entolomes ?
 * Les rouilles - les oïdiums – les Charbons
 * Ascomycètes et Fungi Imperfecti : ascospores et conidies
-* Moisissures et cultures en milieu artificiel (boîtes de Pétri)
+* Moisissures et cultures en milieu artificiel (boîtes de pétri)
 * Les granulations sidérophiles (utilisation du carmin acétique)
 * La microscopie des Aphyllophorales (I) : coupes et coloration
 * La microscopie des Aphyllophorales (II) : les types d’hyphes

@@ -94,6 +94,7 @@ description:
   commentaires: |
     De MycoDB. « Pousse en groupes importants. » (http://www.mycodb.fr/quicksearch.php)
     De Claude Kaufholtz-Couture. « Le nom français mentionné ici est une libre traduction. »
+    De Trod Schumacher. « The gregarious growth, the convex red hymenium, the short flexuous hairs, and the ascospores with amoeboid warts and crests on an outermost wall layer loosening in lactic acid, characterize this species. »
   conidies: 
   conidiome: 
   conidiophores: 

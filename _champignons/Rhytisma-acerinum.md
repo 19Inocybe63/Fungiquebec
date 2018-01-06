@@ -24,9 +24,9 @@ collections:
   - fongarium: cKc0705
     date: 29 octobre 2017
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0705-0189
+      miniature: https://c1.staticflickr.com/5/4735/38835927074_88b0ecc907_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/38835927074/in/photostream/
     geolocalisation: 46°47'53.72"N 71°14'30.65"O
     elevation: 75 m
     determinee: 

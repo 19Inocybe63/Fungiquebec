@@ -272,7 +272,7 @@ description:
   stipe: 
   stipitipellis: 
   stipititrame: 
-  stroma: net, noir brillant, en plaque peu saillante à la surface des feuilles, de forme plus ou moins ronde, de 10 à 20 mm Ø, contenant les apothécies (ou corps fructifères) s'ouvrant vers l'extérieur par fissuration en longueur de la croûte du stroma
+  stroma: net, noir brillant, en plaque peu saillante à la surface des feuilles, de forme ± ronde, de 10 à 20 mm Ø, contenant les apothécies (ou corps fructifères), surface est noire, ridé-cérébriforme, s'ouvrant vers l'extérieur par fissuration en longueur de la croûte du stroma
   subhymenium: 
   subiculum: 
   substrat: 

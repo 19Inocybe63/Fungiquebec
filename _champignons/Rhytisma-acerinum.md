@@ -136,7 +136,7 @@ description:
   elements-sur-les-cotes: 
   elements-velaires: 
   endoperidium: 
-  epiderme: 
+  epiderme: formé de cellules cylindriques à ± rondes, (14,5) 14,52-26 × (8,2) 8,4-16,4 (16,5) µm en moyenne
   especes-identification: 
   especes-semblables: 
   excipulum: 

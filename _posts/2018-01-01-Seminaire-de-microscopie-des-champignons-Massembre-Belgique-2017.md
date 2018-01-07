@@ -9,22 +9,23 @@ categories:
 - Formation
 ---
 
-#### Présentation
+## Présentation
+
 Du 12 au 18 novembre 2017, [l'Association des mycologues français de Belgique (l'A.M.F.B.)](http://www.amfb.eu/index.html) a organisé un [séminaire de microscopie consacré aux champignons](http://hastiere-tourisme.be/decouvrir/nos-villages-et-hameaux/heer-sur-meuse/) ; et c'est dans un paysage magnifique, au Domaine de Massembre à Heer-Agimont, dans la province de Namur, région wallonne en Belgique, que s'est déroulé l'évènement.
 <!--more-->
-<p>&nbsp; </p>
 
-#### Résumé et remerciements
+
+## Résumé et remerciements
 
 Un petit mot de remerciement avant de revenir dans le quotidien empressé. Je tenais à remercier toute l'équipe de l’A.M.F.B., pour cette semaine de Séminaire consacré à la microscopie des champignons. Comme anticipé et supposé de ma part, cela s’est avéré très instructif ; il s'agit à coup sûr d'un élément positif majeur dans ma formation de microscopiste des champignons. Tout y était : de bons thèmes, des sujets intéressants, un intervenant pédagogue d'exception, de nouvelles techniques surprenantes et de la convivialité, ce qui fait que nous avons passé une semaine bénéfique, agréable, que je peux qualifier sans hésitation d’exceptionnelle. Bravo au comité organisateur de l’A.M.F.B., constitué de Françoise Draye, Claude Quintin, Norbert Bastien, Serge Defays, et au formateur, Marcel Lecomte, pour cette réussite et ce partage. Ce fut un réel plaisir que de participer à ce séminaire.
-<p>&nbsp; </p>
 
-#### Paticipants à ce séminaire de microscopie des champignons, Belgique, 2017
+
+## Paticipants à ce séminaire de microscopie des champignons, Belgique, 2017
 
 ![Séminaire de microscopie des champignons, 2017](https://c1.staticflickr.com/5/4726/38722438734_8caee53be5_c.jpg "Figure 1. Groupe du Séminaire de microscopie des champignons")
 Première rangée, agenouillés (de gauche à droite)
 Claude Quintin ; Françoise Draye ; Serge Defays ; Marcel Lecomte ; Claude Kaufholtz-Couture ;... à suivre...
-<p>&nbsp; </p>
+
 
 #### Programme des activités et exposés pratiques vus lors du Séminaire organisé par l’A.M.F.B., à Massembre, du 12 au 18 novembre 2017
 
@@ -70,7 +71,7 @@ Voici une liste informative des diverses techniques qui ont été abordées dura
 * Les pigments cuticulaires : mise en évidence
 * Gliosphex (*Hohenbuehelia*), chlamydospores (*Lentinellus*) et toxocystes (*Pleurotus*)
 * La trame d’un ascomycète (coupe transversale)
-<p>&nbsp; </p>
+
 
 
 Meilleures salutations de Québec !

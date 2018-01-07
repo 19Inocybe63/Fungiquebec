@@ -92,7 +92,7 @@ description:
   comestibilite: 
   commentaires: |
     De R. J. Bevan & G. N. Greenhalgh. « The distribution of <i>Rhytisma acerinum</i>, the cause of tar spot disease of sycamore, is shown to be associated with the annual average concentration of atmospheric sulphur dioxide which can be estimated by calculating the number of tar spots per unit area of leaf surface. »
-    De Claude Kaufholtz-Couture. « Remerciements à Marcel Lecomte pour la terminologie. »
+    De Claude Kaufholtz-Couture. « Sincères remerciements à Marcel Lecomte pour son aide dans cette étude. »
     De Claude Kaufholtz-Couture. « Les descriptions pour les ascospores, les asques et les paraphyses ont été tirées du livre de Breitenbach et Kränzlin. »
   conidies: 
   conidiome: 

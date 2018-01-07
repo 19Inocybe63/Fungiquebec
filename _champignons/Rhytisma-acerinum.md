@@ -71,6 +71,7 @@ description:
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
+  cellules-foliaires: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 
@@ -86,6 +87,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
+  clypeus: 
   columelle: 
   comestibilite: 
   commentaires: |
@@ -134,6 +136,7 @@ description:
   elements-sur-les-cotes: 
   elements-velaires: 
   endoperidium: 
+  epiderme: 
   especes-identification: 
   especes-semblables: 
   excipulum: 
@@ -215,6 +218,7 @@ description:
   paracapillitium: 
   paraphyses: filiformes, septées, tordues au sommet et parfois fourchues.
   parasite: 
+  parenchymes: chlorophylliens, palissadiques, cylindriques à largement claviformes, à contenu guttulé, (32,4) 36-45,5 (45,8) × (6,9) 7-9,7 (10,1) µm en moyenne
   paroi-peritheciale: 
   partie-apicale: 
   peridiole: 
@@ -294,6 +298,7 @@ description:
   tubes: 
   type: 
   typique: 
+  vaisseaux: 
   velipellis: 
   voile: 
   voile-general: 

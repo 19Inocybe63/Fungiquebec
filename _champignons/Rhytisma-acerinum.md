@@ -47,8 +47,9 @@ description:
     <b>Bevan, R.J.; Greenhalgh, G.N.</b> <i>Rhytisma acerinum as a biological indicator of pollution</i>, Elsevier, Volume 10, Issue 4, June 1976, Pages 271-285
     <b>Hsiang, Tom; Hsiang, Lynn Tom; Tian, Lynn</b>. <i>Tar spot of maple in Canada</i> Dept. Environmental Biology University of Guelph Guelph, Ontario, Canada.
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    filiformes, à contenu guttulé ou granuleux, lisses, hyalines dans E.G. 15%, 55-70 (80) x 1,5-2,5 μm
+  asques: octosporés, ascospores disposées parallèlement, 130 x 10 μm, J-
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -211,7 +212,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: filiformes, septées, tordues au sommet et parfois fourchues.
   parasite: 
   paroi-peritheciale: 
   partie-apicale: 

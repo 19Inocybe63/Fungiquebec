@@ -126,7 +126,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -209,7 +209,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: d'un à plusieurs spécimens sur une feuille, s'imbriquant parfois
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -225,7 +225,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à novembre
   phialoconidies: 
   pied: 
   pieds-steriles: 

@@ -87,7 +87,7 @@ description:
   chrysocystides: 
   circumcystides: 
   clavules: 
-  clypeus: 
+  clypeus: noir avec au sommet de petits triangles acérés, (9,8) 9,9-10,4 (11,9) × 7,5-9,3 µm d’épaisseur en moyenne
   columelle: 
   comestibilite: 
   commentaires: |
@@ -298,7 +298,7 @@ description:
   tubes: 
   type: 
   typique: 
-  vaisseaux: 
+  vaisseaux: spiralé, hyalins dans E.G. 15%
   velipellis: 
   voile: 
   voile-general: 

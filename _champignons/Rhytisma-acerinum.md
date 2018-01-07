@@ -91,6 +91,7 @@ description:
   commentaires: |
     De R. J. Bevan & G. N. Greenhalgh. « The distribution of <i>Rhytisma acerinum</i>, the cause of tar spot disease of sycamore, is shown to be associated with the annual average concentration of atmospheric sulphur dioxide which can be estimated by calculating the number of tar spots per unit area of leaf surface. »
     De Claude Kaufholtz-Couture. « Remerciements à Marcel Lecomte pour la terminologie. »
+    De Claude Kaufholtz-Couture. « Les descriptions pour les ascospores, les asques et les paraphyses ont été tirées du livre de Breitenbach et Kränzlin. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -249,6 +250,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
+    <b>Breitenbach, J.; Kränzlin, Fred</b>. <i>Champignons de Suisse</i>, tome 1, <i>Les Ascomycètes</i>, Edition Mykologia, Lucerne
+1981.
     <b>Cannon, P.F., Minter, D.W</b>. <i>Rhytisma acerinum; Descriptions of Pathogenic Fungi and Bacteria</i>, Commonwealth Mycological Institute, No. Set 80 pp. Nos. 791-800, 1984.
     <b>Persoon, Christiaan Hendrik</b>. <i>Synopsis methodica fungorum</i>, Pars prima cumtabilis Æneig. Gottingæ, 1801, Apud Henricum Dieterich; (p. 104, N° 3)
   publications-microscopiques: 

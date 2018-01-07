@@ -2,10 +2,7 @@
 title: Séminaire de microscopie des champignons, Belgique 2017
 date: 2018-01-01 00:00:00
 categories: 
-- Séminaire
-- Microscopie des champignons
-- Techniques de microscopie des champignons
-- Association des mycologues français de Belgique (l'A.M.F.B.)
+- Microscopie
 - Formation
 ---
 

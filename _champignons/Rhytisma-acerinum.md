@@ -71,7 +71,7 @@ description:
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
-  cellules-foliaires: 
+  cellules-foliaires: situé tout près de l’épiderme et formant une masse ± ronde, 39,3 - 62,69 (62,7) × (31,8) 31,84 - 43,2 µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 

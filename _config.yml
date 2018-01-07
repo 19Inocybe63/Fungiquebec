@@ -336,6 +336,8 @@ champs-description:
     label: Arête lamellaire
   - name: cellules-marginales-paracystides
     label: Cellules marginales (Paracystides)
+  - name: cellules-foliaires
+    label: Cellules foliaires
   - name: cheilochrysocystides
     label: Cheilochrysocystides
   - name: cheilocystides
@@ -410,6 +412,14 @@ champs-description:
     label: Cystides
   - name: boucles
     label: Boucles
+  - name: clypeus
+    label: Clypeus
+  - name: parenchymes
+    label: Parenchymes
+  - name: vaisseaux
+    label: Vaisseaux
+  - name: epiderme
+    label: Épiderme
   - name: hyphes
     label: Hyphes
   - name: hyphes-de-la-chair

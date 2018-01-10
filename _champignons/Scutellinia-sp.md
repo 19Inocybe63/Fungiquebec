@@ -92,7 +92,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Scutellinia sect. Minutae Svr., série Minutae. »
+    De Claude Kaufholtz-Couture. « Scutellinia sect. Scutellinia. »
   conidies: 
   conidiome: 
   conidiophores: 

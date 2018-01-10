@@ -1,6 +1,6 @@
 ---
-nom: Scutellinia torrentis
-date: 2018-01-02 00:00:00
+nom: Scutellinia sp.
+date: 2018-01-10 00:00:00
 image: https://c1.staticflickr.com/5/4365/36432563541_5569130b03_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36432563541/in/photolist-Dt6aWc-XvqpRg
 album-flickr:
@@ -17,8 +17,8 @@ details:
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Scutellinia
-  espece: <i>Scutellinia torrentis</i> (Rehm) T. Schumach.
-  litterature: Schumacher, T. 1990. The genus Scutellinia (Pyronemataceae). Opera Botanica. 101:1-107
+  espece: <i>Scutellinia sp.</i>
+  litterature: 
 
 collections:
   - fongarium: cKc0647
@@ -29,7 +29,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/24591754787/in/photolist-Dt6aWc-XvqpRg/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
+    determinee: Claude Kaufholtz-Couture
     confirmee: 
 
 description:
@@ -92,9 +92,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De MycoDB. « Pousse en groupes importants. » (http://www.mycodb.fr/quicksearch.php)
     De Claude Kaufholtz-Couture. « Scutellinia sect. Minutae Svr., série Minutae. »
-    De Trod Schumacher. « The gregarious growth, the convex red hymenium, the short flexuous hairs, and the ascospores with amoeboid warts and crests on an outermost wall layer loosening in lactic acid, characterize this species. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -282,8 +280,7 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: |
-    <i>Lachnea torrentis</i> Rehm, Annales Mycologici 5 (3):212 (1907)
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

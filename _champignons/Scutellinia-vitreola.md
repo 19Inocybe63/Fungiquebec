@@ -1,5 +1,5 @@
 ---
-nom: Scutellinia sp.
+nom: Scutellinia vitreola
 date: 2018-01-10 00:00:00
 image: https://c1.staticflickr.com/5/4365/36432563541_5569130b03_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36432563541/in/photolist-Dt6aWc-XvqpRg
@@ -17,8 +17,8 @@ details:
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Scutellinia
-  espece: <i>Scutellinia sp.</i>
-  litterature: 
+  espece: <i>Scutellinia vitreola</i> Kullman
+  litterature: Kullman, B. 1982. A revision of the genus Scutellinia (Pezizales) in Soviet Union. Scripta Mycologica Tartu. 10:1-158
 
 collections:
   - fongarium: cKc0647
@@ -29,7 +29,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/24591754787/in/photostream/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: Claude Kaufholtz-Couture
+    determinee: Malcolm Greaves (provisoire)
     confirmee: 
 
 description:

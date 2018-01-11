@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Pézize de verre
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

@@ -239,7 +239,7 @@ description:
   poils-du-cortex: 
   poils-externes: 
   poils-lateraux-et-caulinaires: 
-  poils-marginaux: bruns, aigus, entre 5 et 12 septa, flexueux, s'atténuant légèrement vers la base, majoritairement bifourchue, parfois trifourchue 200-±>700 x 17-20 µm
+  poils-marginaux: jaunâtres à bruns, aigus, entre 5 et 12 septa, flexueux, s'atténuant légèrement vers la base, majoritairement bifourchue, parfois trifourchue 200-±>700 x 17-20 µm
   poils-mycelien-basaux: 
   poils-peridiaux: 
   poils-peritheciaux: 

@@ -25,8 +25,8 @@ collections:
     date: 14 août 2017
     planche:
       numero: cKc0647-0188
-      miniature: https://c1.staticflickr.com/5/4737/24591754787_98af175d33_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/24591754787/in/photostream/
+      miniature: https://c1.staticflickr.com/5/4737/24591754787_5cbbc8a400_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/24591754787/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Malcolm Greaves (provisoire)

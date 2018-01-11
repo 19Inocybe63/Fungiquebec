@@ -93,6 +93,7 @@ description:
   comestibilite: 
   commentaires: |
     De Claude Kaufholtz-Couture. « Scutellinia sect. Scutellinia. »
+    De Malcolm Greaves. « ... I find with this wonderful group that specimens often have features which are not quite the perfect match we would like so without resorting to DNA it is often necessary to choose the best fit. » (AscoFrance)
   conidies: 
   conidiome: 
   conidiophores: 

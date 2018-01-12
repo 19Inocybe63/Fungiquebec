@@ -72,7 +72,7 @@ description:
     (15,7) 17,7-19,3 (21,1) × (10,2) 10,4-11,5 (12,1) µm
     Q = (1,4) 1,6-1,8 (1,9); N = 30
     Me = 18,6 × 10,9 µm; Qe = 1,7
-    (Piximètre, formule classique; mesures issues d’une sporée, dans le bleu lactique)
+    (Piximètre, formule classique; mesures issues d’une sporée, dans le bleu Coton lactique)
   asques: cylindriques octosporées, à apex arrondi, IKI -, non operculé, dont la base est acrorhynque
   asterohyphidies: 
   avertissement: 

@@ -214,7 +214,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: surpassant de 12,5-30 µm les asques en moyenne, spatulées à longuement claviformes, septées, avec contenu granulaire hyalin dans E.G. 15%, 210-230 x 5-8 µm en moyenne
+  paraphyses: surpassant de 12,5-30 µm les asques en moyenne, spatulées à longuement claviformes, septées, avec contenu granulaire, hyalines dans l'eau glycérinée 15%, 210-230 x 5-8 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   partie-apicale: 

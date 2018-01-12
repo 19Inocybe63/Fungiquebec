@@ -40,7 +40,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 2-8 (9) mm Ø, orange à orange-rougeâtre, sessiles, distinctement disciforme, extérieur revêtu de poils raides, brunâtres à noirs
+  apothecie: 2-8 (9) mm Ø, orange à orange-rougeâtre, sessiles, distinctement disciforme, extérieur revêtu de poils raides, jaunâtres à bruns
   arete-lamellaire: 
   arthroconidies: 
   articles: |

@@ -27,8 +27,8 @@ collections:
       numero: cKc0634-0190
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°46'21.6"N 71°10'29.3"O
+    elevation: 90 m
     determinee: Viktorie Halasu (provisoire)
     confirmee: 
 

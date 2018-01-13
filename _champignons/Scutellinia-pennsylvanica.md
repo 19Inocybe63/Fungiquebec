@@ -80,7 +80,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: fragile
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

@@ -80,7 +80,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: fragile
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -207,7 +207,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: parfois isolé, mais plus souvent regroupé en groupe, et parfois imbriqué
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

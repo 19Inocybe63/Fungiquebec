@@ -53,7 +53,7 @@ description:
     Q = (1,4) 1,44-1,6 (1,7); N = 30
     Me = 16,4 × 10,7 µm; Qe = 1,5
     (Piximètre, formule classique; mesures issues d'une sporée, dans bleu Coton lactique)
-  asques: cylindriques, octosporées, unisériés, iodonégatifs, 203-221,4 × 10,3-11,6 µm en moyenne
+  asques: cylindriques, octosporées, unisériés, iodonégatifs (IKI -), 203-221,4 × 10,3-11,6 µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

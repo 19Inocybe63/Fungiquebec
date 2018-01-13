@@ -45,8 +45,13 @@ description:
   arthroconidies: 
   articles: 
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    ellipsoïdes, à contenu pluriguttulé, ornements consistant en de grosses verrues tronquées irrégulières et une crête courte, entre 0,8-2,8 μm de hauteur et 0,5-3,2 μm de large, s'interconnectant partiellement pour former un réticulum massif et irrégulier, souvent avec des verrues et des crêtes avec de minuscules extensions de couleur bleu Coton à la base
+    (15,2) 16,1-16,9 (17,1) × (9,7) 10,1-11,1 (12,2) µm
+    Q = (1,4) 1,44-1,6 (1,7); N = 30
+    Me = 16,4 × 10,7 µm; Qe = 1,5
+    (Piximètre, formule classique; mesures issues d'une sporée, dans bleu Coton lactique)
+  asques: cylindriques, octosporées, unisériés, iodonégatifs, 203-221,4 × 10,3-11,6 µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -206,7 +211,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: avec cellules finales polymorphes; spatulées à longuement claviformes, en tête de serpent à utriformes, parfois fusiformes, 9,8-10,6 × 6-7,7 µm, septées, avec contenu granulaire, hyalines dans l’eau glycérinée 15%, ± 210-230 x 6-7,7 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   partie-apicale: 
@@ -225,13 +230,13 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  poils: 
+  poils: superficiels, polymorphes, claviformes, cylindriques à largement cylindriques, piriformes, capitulés à largement capitulés, hyalins dans l'eau glycérinée 15%, (37,4) 44,3-63,2 (73,4) × (11,8) 14,4-17,7 (20,2) µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
   poils-externes: 
   poils-lateraux-et-caulinaires: 
-  poils-marginaux: 
+  poils-marginaux: bruns à noirâtres, acuminés, à apex aigus, 7 à 14 septa, généralement droits, parfois légèrement flexueux, gonflé au milieu, puis s’atténuant, base trifourchue à multifourchue, (632,8) 642,5-919,6 (1052,1) × (31,1) 32,3-45,8 (51) µm en moyenne
   poils-mycelien-basaux: 
   poils-peridiaux: 
   poils-peritheciaux: 

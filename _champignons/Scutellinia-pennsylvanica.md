@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 
 
 details:
-  nom-francais: 
+  nom-francais: Pézize de Pennsylvanie
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

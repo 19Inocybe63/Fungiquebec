@@ -40,7 +40,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: 
+  apothecie: 7-14 mm Ø, orange à orange-rougeâtre, sessile, distinctement disciforme, extérieur revêtu de poils raides, brunâtres à noirâtres
   arete-lamellaire: 
   arthroconidies: 
   articles: 
@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur bois pourri, débris ligneux, <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -84,7 +84,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Scutellinia sect. Reticulatae »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -138,7 +139,7 @@ description:
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
-  face-externe: 
+  face-externe: couverte modérément à généreusement de poils bruns, bordant la marge comme des cils
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -151,7 +152,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: 
+  hymenophore: lisse, orange à orangé terne
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 

@@ -27,8 +27,8 @@ collections:
       numero: cKc0647-0188
       miniature: https://c1.staticflickr.com/5/4737/24591754787_5cbbc8a400_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/24591754787/in/dateposted/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    elevation: 225 m
     determinee: Malcolm Greaves (provisoire)
     confirmee: 
 

@@ -25,8 +25,8 @@ collections:
     date: 28 juillet 2017
     planche:
       numero: cKc0634-0190
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c1.staticflickr.com/5/4709/39687211041_afaefa918b_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/39687211041/in/photostream/
     geolocalisation: 46°46'21.6"N 71°10'29.3"O
     elevation: 90 m
     determinee: Viktorie Halasu (provisoire)

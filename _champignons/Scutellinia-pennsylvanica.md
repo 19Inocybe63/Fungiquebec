@@ -48,7 +48,7 @@ description:
     <b>Schumacher, Trond</b>. <i>The genus Scutellinia</i> (Pyronemataceae), Opera Botanica 101, Copenhagen, 1990, Printed in Denmark by AiO print Ltd., Odense; 108 pp.
   ascome: 
   ascospores: |
-    ellipsoïdes, à contenu pluriguttulé, ornements consistant en de grosses verrues tronquées irrégulières et une crête courte, entre 0,8-2,8 μm de hauteur et 0,5-3,2 μm de large, s'interconnectant partiellement pour former un réticulum massif et irrégulier, souvent avec des verrues et des crêtes avec de minuscules extensions de couleur bleu Coton à la base
+    ellipsoïdes, à contenu pluriguttulé, ornements consistant en de grosses verrues tronquées irrégulières et une crête courte, entre 0,8-2,8 μm de hauteur et 0,5-3,2 μm de large, s'interconnectant partiellement pour former un réticulum massif et irrégulier, souvent avec des verrues et des crêtes avec de minuscules extensions de couleur bleu Coton à la base, sans paroi externe détendue lorsque chauffée dans le bleu Coton lactique, hyalines dans l'eau glycérinée 15%
     (15,2) 16,1-16,9 (17,1) × (9,7) 10,1-11,1 (12,2) µm
     Q = (1,4) 1,44-1,6 (1,7); N = 30
     Me = 16,4 × 10,7 µm; Qe = 1,5

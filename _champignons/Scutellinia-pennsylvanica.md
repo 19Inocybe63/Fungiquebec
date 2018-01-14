@@ -238,7 +238,7 @@ description:
   poils-du-cortex: 
   poils-externes: 
   poils-lateraux-et-caulinaires: 
-  poils-marginaux: bruns à noirâtres, acuminés, à apex aigus, 7 à 14 septa, généralement droits, parfois légèrement flexueux, parfois gonflé au milieu, puis s’atténuant, base trifourchue à multifourchue, (632,8) 642,5-919,6 (1052,1) × (31,1) 32,3-45,8 (51) µm en moyenne
+  poils-marginaux: bruns à noirâtres, acuminés, à apex aigus, 7 à 14 septa, généralement droits, parfois légèrement flexueux, s’atténuant vers une base trifourchue à multifourchue, (632,8) 642,5-919,6 (1052,1) × (31,1) 32,3-45,8 (51) µm en moyenne
   poils-mycelien-basaux: 
   poils-peridiaux: 
   poils-peritheciaux: 

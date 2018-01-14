@@ -68,7 +68,7 @@ description:
     <b>Schumacher, Trond</b>. <i>The genus Scutellinia</i> (Pyronemataceae), Opera Botanica 101, Copenhagen, 1990, Printed in Denmark by AiO print Ltd., Odense; 108 pp.
   ascome: 
   ascospores: |
-    unisériées, ellipsoïdes, formées des verrues interconnectées et de courtes crêtes, à contenu pluriguttulé, non coloration des inclusions lipidiques (guttules) au Soudan III
+    unisériées, ellipsoïdes, formées des verrues interconnectées et de courtes crêtes, à contenu pluriguttulé, non coloration des inclusions lipidiques (guttules) au Soudan III, sans paroi externe détendue lorsque chauffée dans le bleu Coton lactique, hyalines dans l'eau glycérinée 10%
     (15,7) 17,7-19,3 (21,1) × (10,2) 10,4-11,5 (12,1) µm
     Q = (1,4) 1,6-1,8 (1,9); N = 30
     Me = 18,6 × 10,9 µm; Qe = 1,7

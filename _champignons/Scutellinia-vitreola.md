@@ -48,7 +48,7 @@ description:
     <b>Schumacher, Trond</b>. <i>The genus Scutellinia</i> (Pyronemataceae), Opera Botanica 101, Copenhagen, 1990, Printed in Denmark by AiO print Ltd., Odense; 108 pp.
   ascome: 
   ascospores: |
-    ellipsoïdes à étroitement ellipsoïdes, de verruqueuse à pustulo-crêtées, à tuberculeuse, ornées de petits verrues (tubercules) arrondies 0,5-1,0 µm de haut, à contenu pluriguttulé, sans paroi externe détendue, ou que très étroitement, lorsque chauffée dans le bleu Coton lactique
+    ellipsoïdes à étroitement ellipsoïdes, de verruqueuse à pustulo-crêtées, à tuberculeuse, ornées de petits verrues (tubercules) arrondies 0,5-1,0 µm de haut, à contenu pluriguttulé, sans paroi externe détendue lorsque chauffée dans le bleu Coton lactique, hyalines dans l'eau glycérinée 15%
     (15,1) 15,2-16,7 (16,8) × (8,5) 9,2-10,4 (11,4) µm
     Q = (1,4) 1,5-1,76 (1,8); N = 25
     Me = 16 × 9,7 µm; Qe = 1,6

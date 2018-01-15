@@ -47,7 +47,7 @@ description:
     <b>I. Olariaga; N. Van Vooren; M. Carbone; K. Hansen</b>. <i>A monograph of Otidea (Pyronemataceae, Pezizomycetes)</i>, Persoonia 35, 2015, 166-229
   ascome: 
   ascospores: |
-    ellipsoïdes, suboblongues à oblongues, lisses, à paroi mince, à contenu biguttulé, hyalines dans l’eau glycérinée 15%, non amyloïdes, non cyanophiles
+    plus rarement ellipsoïdes, oblongues à subnaviculaires, lisses, à paroi mince, à contenu biguttulé, hyalines dans l’eau glycérinée 15%, non amyloïdes, non cyanophiles
     (8,7) 9-10,3 (10,7) × (5,2) 5,4-5,8 (6,1) µm
     Q = (1,6) 1,65-1,8 (1,9); N = 30
     Me = 9,7 × 5,6 µm; Qe = 1,7

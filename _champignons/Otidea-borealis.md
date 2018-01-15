@@ -230,7 +230,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  poils: 
+  poils: formés de cellules ± arrondies, formant une chaîne, jaunissant légèrement dans le KOH 10%, (11,6) 13,2-21,18 (21,2) × (7) 7,5-13,7 (14,3) µm en moyenne
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

@@ -212,7 +212,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: cylindriques, ressemblent à un bâton de marche; à l’apex souvent capité; parfois septées, recourbé et parfois épaissi
   parasite: 
   paroi-peritheciale: 
   partie-apicale: 

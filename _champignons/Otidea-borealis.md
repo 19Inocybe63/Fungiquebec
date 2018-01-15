@@ -27,8 +27,8 @@ collections:
       numero: cKc0697-0191
       miniature: 
       originale: 
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 45°58’40.33"N 70°57’40.76"O
+    elevation: 334 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 

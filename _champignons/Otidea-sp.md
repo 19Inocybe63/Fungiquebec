@@ -51,7 +51,7 @@ description:
     (8,7) 9-10,3 (10,7) × (5,2) 5,4-5,8 (6,1) µm
     Q = (1,6) 1,65-1,8 (1,9); N = 30
     Me = 9,7 × 5,6 µm; Qe = 1,7
-    (Piximètre, formule classique; mesures issues d'une sporée, dans l'eai glycérinée 15%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
   asques: 
   asterohyphidies: 
   avertissement: 

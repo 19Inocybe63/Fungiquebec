@@ -1,13 +1,13 @@
 ---
-nom: Otidea alutacea
-date: 2018-01-07 00:00:00
+nom: Otidea sp.
+date: 2018-01-15 00:00:00
 image: https://c1.staticflickr.com/5/4367/37194102596_08ff021d60_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37194102596/in/photolist-YEHuSY
 album-flickr:
   - 
 
 details:
-  nom-francais: Otidée couleur de cuir / Oreille alutacée
+  nom-francais: Otidée
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota
@@ -17,19 +17,19 @@ details:
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Otidea
-  espece: <i>Otidea alutacea</i> (Pers.) Massee
-  litterature: Massee, G.E. 1895. British Fungus-Flora. 4:1-522
+  espece: <i>Otidea sp.</i>
+  litterature: 
 
 collections:
   - fongarium: cKc0697
     date: 20 septembre 2017
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0697-0191
+      miniature: 
+      originale: 
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
+    determinee: Claude Kaufholtz-Couture
     confirmee: 
 
 description:
@@ -273,12 +273,7 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: |
-    <i>Peziza alutacea</i> Pers., Observationes mycologicae 2 :78 (1799)
-    <i>Scodellina alutacea</i> (Pers.) Gray, A natural arrangement of British plants 1 :668 (1821)
-    <i>Peziza cochleata β alutacea</i> (Pers.) Fr., Systema Mycologicum 2 :50 (1822)
-    <i>Plicaria alutacea</i> (Pers.) Fuckel, Jahrbücher des Nassauischen Vereins für Naturkunde 23-24 :327 (1870)
-    <i>Aleuria alutacea</i> (Pers.) Gillet, Champignons de France. Les Discomycètes 2 :42 (1879)
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

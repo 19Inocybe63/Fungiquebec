@@ -43,7 +43,8 @@ description:
   apothecie: subsessile ou brièvement stipité, fendu d'un côté et dilaté en oreille arrondie avec la marge unie, 30 à 50 (60) x 20-40 mm Ø
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    <b>I. Olariaga; N. Van Vooren; M. Carbone; K. Hansen</b>. <i>A monograph of Otidea (Pyronemataceae, Pezizomycetes)</i>, Persoonia 35, 2015, 166-229
   ascome: 
   ascospores: 
   asques: 

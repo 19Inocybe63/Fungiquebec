@@ -52,7 +52,7 @@ description:
     Q = (1,6) 1,65-1,8 (1,9); N = 30
     Me = 9,7 × 5,6 µm; Qe = 1,7
     (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
-  asques: 
+  asques: cylindriques, octosporées, unisériés, iodonégatifs (IKI -), (135) 150-154,2 (159,8) × 7,1-9,1 (9,2) µm en moyenne
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

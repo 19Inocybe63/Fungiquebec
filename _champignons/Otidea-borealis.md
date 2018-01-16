@@ -139,7 +139,7 @@ description:
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
-  excipulum-ectal: formés de cellules ± arrondies, formant une chaîne, jaunissant légèrement dans le KOH 10%, (11,6) 13,2-21,18 (21,2) × (7) 7,5-13,7 (14,3) µm en moyenne
+  excipulum-ectal: formés de cellules ± arrondies, formant une chaîne, avec réactions d'exsudats résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10%, (11,6) 13,2-21,18 (21,2) × (7) 7,5-13,7 (14,3) µm en moyenne
   exhalaison: 
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 

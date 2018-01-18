@@ -1,5 +1,5 @@
 ---
-nom: Otidea borealis
+nom: Otidea sp.
 date: 2018-01-15 00:00:00
 image: https://c1.staticflickr.com/5/4367/37194102596_08ff021d60_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37194102596/in/photolist-YEHuSY
@@ -17,8 +17,8 @@ details:
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Otidea
-  espece: <i>Otidea borealis</i> M. Carbone, Olariaga, K. Hansen & Van Vooren
-  litterature: Olariaga, I; Vooren, N. Van; Carbone, M; Hansen, K. 2015. A monograph of Otidea (Pyronemataceae, Pezizomycetes). Persoonia. 35:166-229
+  espece: <i>Otidea sp.</i>
+  litterature: 
 
 collections:
   - fongarium: cKc0697
@@ -29,7 +29,7 @@ collections:
       originale: 
     geolocalisation: 45°58’40.33"N 70°57’40.76"O
     elevation: 334 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
+    determinee: Claude Kaufholtz-Couture
     confirmee: 
 
 description:

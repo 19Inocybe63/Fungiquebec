@@ -458,6 +458,8 @@ champs-description:
     label: Hyphes tramales
   - name: hyphes-vesiculaires
     label: Hyphes vésiculaires
+  - name: textura
+    label: Textura
   - name: mode-de-croissance
     label: Mode de croissance
   - name: biotopes
@@ -685,8 +687,6 @@ champs-description:
     label: Subhyménium
   - name: substrat
     label: Substrat
-  - name: textura
-    label: Textura
   - name: tomentum-caulinaire
     label: Tomentum caulinaire
   - name: tomentum-pileique

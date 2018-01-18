@@ -282,6 +282,8 @@ champs-description:
     label: Ascospores
   - name: excipulum
     label: Excipulum
+  - name: excipulum-medullaire
+    label: Excipulum médullaire
   - name: excipulum-medullaire-superieur
     label: Excipulum médullaire supérieur
   - name: excipulum-medullaire-moyen

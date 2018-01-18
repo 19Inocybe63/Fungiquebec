@@ -136,6 +136,7 @@ description:
   especes-identification: 
   especes-semblables: 
   excipulum: 
+  excipulum-medullaire: de textura intricata, 367-400 μm d’épaisseur en moyenne, hyphes (32,4) 32,8-38,1 (72,9) × 3,9-10,75 (12,8) μm, large, à parois épaisses, hyalines
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
@@ -270,6 +271,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
+  sous-hymenium: 67-94 µm d’épaisseur en moyenne, de textura intricata dense, visible comme une zone plus sombre, cellules cylindriques à enflées, densément disposées
   stipe: absent ou très court et étroit, blanchâtre, duveteux vers la base
   stipitipellis: 
   stipititrame: 

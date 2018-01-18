@@ -281,7 +281,7 @@ description:
   syndrome: 
   synonymie: 
   systeme-hyphal: 
-  textura: 
+  textura: intricata
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 

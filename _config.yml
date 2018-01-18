@@ -460,6 +460,8 @@ champs-description:
     label: Hyphes vésiculaires
   - name: textura
     label: Textura
+  - name: sous-hymenium
+    label: Sous-hyménium
   - name: mode-de-croissance
     label: Mode de croissance
   - name: biotopes

@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: Otidée boréale
+  nom-francais: Otidée 
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

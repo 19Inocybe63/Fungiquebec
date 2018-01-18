@@ -336,6 +336,8 @@ champs-description:
     label: Hyménocystides
   - name: arete-lamellaire
     label: Arête lamellaire
+  - name: cellules
+    label: Cellules
   - name: cellules-marginales-paracystides
     label: Cellules marginales (Paracystides)
   - name: cellules-foliaires

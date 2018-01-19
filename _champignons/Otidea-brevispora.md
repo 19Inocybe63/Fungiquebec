@@ -74,7 +74,7 @@ description:
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
-  cellules: externes formées de verrues coniques, 53,5-103,4 µm de haut, formées par des poils hyphoïdes courts, fasciculés, de 2-3 cellules obtusément elliptiques à allongées, rétrécies, avec réactions d'exsudats résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10%, (11,5) 13,2-21,1 × (7) 7,5-13,7 (14,3)
+  cellules: externes formées de verrues coniques, 53,5-103,4 µm de haut, constituées par des poils hyphoïdes courts, fasciculés, de 2-3 cellules obtusément elliptiques à allongées, rétrécies, avec réactions d'exsudats résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10% (11,5) 13,2-21,1 × (7) 7,5-13,7 (14,3)
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 

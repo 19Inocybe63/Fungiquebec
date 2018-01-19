@@ -17,7 +17,7 @@ details:
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Otidea
-  espece: <i>Otidea sp.</i>
+  espece: <i>Otidea brevispora (W.Y. Zhuang) Olariaga & K. Hansen</i>
   litterature: Olariaga, I; Vooren, N. Van; Carbone, M; Hansen, K. 2015. A monograph of Otidea (Pyronemataceae, Pezizomycetes). Persoonia. 35:166-229
 
 collections:

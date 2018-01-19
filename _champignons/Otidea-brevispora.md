@@ -162,7 +162,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: lisse, crème jaunâtre à l'intérieur à grisâtre assez pâle, ou argile foncé à gris brun sale
+  hymenophore: lisse, crème jaunâtre à l'intérieur à grisâtre assez pâle, ou argile foncée à gris brun sale
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 

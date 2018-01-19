@@ -74,7 +74,7 @@ description:
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
-  cellules: à la surface externe formés de verrues coniques, 85-105 µm de haut, formé par des poils hyphoïdes courts, fasciculés, de 2-3 cellules subglobuleuses à allongés, rétrécies, avec réactions d'exsudats résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10%, (11,5) 13,2-21,1 × (7) 7,5-13,7 (14,3)
+  cellules: à la surface externe formés de verrues coniques, 53,5-103,4 µm de haut, formé par des poils hyphoïdes courts, fasciculés, de 2-3 cellules subglobuleuses à allongés, rétrécies, avec réactions d'exsudats résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10%, (11,5) 13,2-21,1 × (7) 7,5-13,7 (14,3)
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 
@@ -142,11 +142,12 @@ description:
   excipulum-medullaire-superieur: 
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
-  excipulum-ectal: formés de cellules ± arrondies, formant une chaîne, avec réactions d'exsudats résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10%, (11,6) 13,2-21,18 (21,2) × (7) 7,5-13,7 (14,3) µm en moyenne
+  excipulum-ectal: de textura angularis, 50-70 μm d'épaisseur, cellules 13-55 × 11-28 μm, à paroi mince, jaune clair
   exhalaison: 
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
+  exsudats: résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10%
   extremites-hyphales: 
   face-externe: un peu furfuracé à l'extérieur, villeux et blanc à la base
   face-poroïde: 

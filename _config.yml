@@ -182,6 +182,8 @@ champs-description:
     label: Apothécie
   - name: hymenium
     label: Hyménium
+  - name: sous-hymenium
+    label: Sous-hyménium
   - name: basidiome
     label: Basidiome
   - name: peridiole
@@ -464,8 +466,8 @@ champs-description:
     label: Hyphes vésiculaires
   - name: textura
     label: Textura
-  - name: sous-hymenium
-    label: Sous hyménium
+  - name: exsudats
+    label: Exsudats
   - name: mode-de-croissance
     label: Mode de croissance
   - name: biotopes

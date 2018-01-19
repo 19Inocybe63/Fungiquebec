@@ -74,7 +74,7 @@ description:
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
-  cellules: de l’excipulum-ectal; formés de cellules ± arrondies, formant une chaîne, avec réactions d'exsudats résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10%, (11,6) 13,2-21,18 (21,2) × (7) 7,5-13,7 (14,3) µm en moyenne
+  cellules: à la surface externe formés de verrues coniques, 85-105 µm de haut, formé par des poils hyphoïdes courts, fasciculés, de 2-3 cellules subglobuleuses à allongés, rétrécies, avec réactions d'exsudats résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10%, (11,5) 13,2-21,1 × (7) 7,5-13,7 (14,3)
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 

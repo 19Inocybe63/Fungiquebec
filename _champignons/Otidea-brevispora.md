@@ -149,7 +149,7 @@ description:
   exoperidium: 
   exsudats: résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10%
   extremites-hyphales: 
-  face-externe: furfuracé à l'extérieur, villeux et blanc à la base
+  face-externe: furfuracée à l'extérieur, villeuse et blanche à la base
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 

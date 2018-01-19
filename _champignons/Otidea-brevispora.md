@@ -216,7 +216,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques, en forme de crosse, à l’apex souvent capité; parfois septées, recourbé et parfois épaissi
+  paraphyses: cylindriques, en forme de crosse, septées, recourbé et parfois épaissi à l'apex
   parasite: 
   paroi-peritheciale: 
   partie-apicale: 

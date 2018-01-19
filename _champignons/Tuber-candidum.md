@@ -7,7 +7,7 @@ album-flickr:
   - 72157665093317659
 
 details:
-  nom-francais: 
+  nom-francais: Truffe
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

@@ -29,7 +29,7 @@ collections:
       originale: 
     geolocalisation: 45°58’40.33"N 70°57’40.76"O
     elevation: 334 m
-    determinee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
 description:

@@ -90,7 +90,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « La sporée fut mise en masse pour une meilleure concentration de la couleur. À ma grande surprise, la couleur de cette sporée n'était pas blanche comme indiqué dans les monographies, mais bien ochrosporée, ocre pâle à ocre moyen. »
+    De Claude Kaufholtz-Couture. « La sporée fut mise en amoncellement pour une meilleure concentration de la couleur. À ma grande surprise, la couleur de cette sporée n'était pas blanche comme indiqué dans les monographies, mais bien ochrosporée, ocre pâle à ocre moyen. »
     De Claude Kaufholtz-Couture. « Puisque les basidiospores de <i>A. pyxidatus</i> sont petites, hyalines et mal définies dans l'eau glycérinée 20% et dans le NaCl iso 0,9%, elles se prêtent parfaitement à une préparation dans le permanganate de potassium (KMnO<sub>4</sub>) qui en détermine mieux les contours. »
     De Claude Kaufholtz-Couture. « La couleur de la sporée de cette collection est atypique. Présentement, la collection cKc0053 est en étude d'ADN par Edgar Lickey; les résultats seront publiés sur Fungiquebec le moment venu. »
     De Claude Kaufholtz-Couture. « Cette clavaire se reconnaît à ses rameaux dont les extrémités ont l'aspect de petites couronnes. »

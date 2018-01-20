@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: Otidée
+  nom-francais: Otidée de Tuomikoski 
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

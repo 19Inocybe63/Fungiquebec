@@ -17,7 +17,7 @@ details:
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Otidea
-  espece: <i>Otidea tuomikoskii</i>
+  espece: <i>Otidea tuomikoskii</i>Harmaja
   litterature: Harmaja, H. 1976. New species and combinations in the genera Gyromitra, Helvella and Otidea. Karstenia. 15:29-32
 
 collections:
@@ -25,8 +25,8 @@ collections:
     date: 20 septembre 2017
     planche:
       numero: cKc0697-0191
-      miniature: https://c1.staticflickr.com/5/4621/38879236705_7f1989d6d6_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/38879236705/in/photostream/
+      miniature: 
+      originale: 
     geolocalisation: 45°58’40.33"N 70°57’40.76"O
     elevation: 334 m
     determinee: Claude Kaufholtz-Couture (provisoire)

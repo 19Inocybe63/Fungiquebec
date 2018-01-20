@@ -1,13 +1,13 @@
 ---
-nom: Otidea brevispora
-date: 2018-01-19 00:00:00
+nom: Otidea tuomikoskii
+date: 2018-01-20 00:00:00
 image: https://c1.staticflickr.com/5/4367/37194102596_08ff021d60_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37194102596/in/photolist-YEHuSY
 album-flickr:
   - 
 
 details:
-  nom-francais: Otidée à spores courtes
+  nom-francais: Otidée
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota
@@ -17,8 +17,8 @@ details:
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Otidea
-  espece: <i>Otidea brevispora (W.Y. Zhuang) Olariaga & K. Hansen</i>
-  litterature: Olariaga, I; Vooren, N. Van; Carbone, M; Hansen, K. 2015. A monograph of Otidea (Pyronemataceae, Pezizomycetes). Persoonia. 35:166-229
+  espece: <i>Otidea tuomikoskii</i>
+  litterature: Harmaja, H. 1976. New species and combinations in the genera Gyromitra, Helvella and Otidea. Karstenia. 15:29-32
 
 collections:
   - fongarium: cKc0697
@@ -285,7 +285,7 @@ description:
   symptomes: 
   syndrome: 
   synonymie: |
-    <i>Otidea onotica var. brevispora</i> W.Y. Zhuang, Mycotaxon 94:368 (2006)
+    <i>Otidea papillata f. pallidefurfuracea</i> Van Vooren & Hairaud, Bulletin Mycologique et Botanique Dauphiné-Savoie 188:57 (2008)
   systeme-hyphal: 
   textura: intricata
   tomentum-caulinaire: 

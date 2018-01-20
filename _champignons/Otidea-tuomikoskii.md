@@ -25,8 +25,8 @@ collections:
     date: 20 septembre 2017
     planche:
       numero: cKc0697-0191
-      miniature: 
-      originale: 
+      miniature: https://c1.staticflickr.com/5/4621/38879236705_df8bca944e_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/38879236705/in/photolist-22eCfxk-YEHuSY/
     geolocalisation: 45°58’40.33"N 70°57’40.76"O
     elevation: 334 m
     determinee: 
@@ -216,7 +216,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques, en forme de crosse, septées, recourbé et parfois épaissi à l'apex
+  paraphyses: cylindriques, en forme de crosse, septées, recourbées et parfois épaissies à l'apex
   parasite: 
   paroi-peritheciale: 
   partie-apicale: 

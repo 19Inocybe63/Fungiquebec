@@ -93,7 +93,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Cette collection (cKc0697) possède certains éléments microscopiques semblables à <i>O. onotica</i>, omis les ascospores; la détermination est donc vraisemblable. »
+    De Claude Kaufholtz-Couture. « Remerciements à Nicolas Van Vooren (AscoFrance) pour son aide dans la confirmation de cette espèce. »
   conidies: 
   conidiome: 
   conidiophores: 

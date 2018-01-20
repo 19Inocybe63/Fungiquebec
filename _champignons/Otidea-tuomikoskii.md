@@ -17,7 +17,7 @@ details:
   ordre: Pezizales
   famille: Pyronemataceae
   genre: Otidea
-  espece: <i>Otidea tuomikoskii</i>Harmaja
+  espece: <i>Otidea tuomikoskii</i> Harmaja
   litterature: Harmaja, H. 1976. New species and combinations in the genera Gyromitra, Helvella and Otidea. Karstenia. 15:29-32
 
 collections:

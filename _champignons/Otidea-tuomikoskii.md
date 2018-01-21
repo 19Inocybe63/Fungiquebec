@@ -125,7 +125,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: occasionnel
+  distribution: inconnu
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -209,7 +209,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolé, grégaire à cespiteux
+  mode-de-croissance: isolé à grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

@@ -45,6 +45,7 @@ description:
   arthroconidies: 
   articles: |
     <b>Carbone, Matteo; Campo, Emanuelle; Vauras, Jukka</b>. <i>Records on Otidea mirabilis and O. tuomikoskii from Finland</i>, Karstenia 50:25–34, 2010
+    <b>Hansen, K.; Olariaga, I.</b>. <i>Species limits and relationships within Otidea inferred from multiple gene phylogenies</i>, Persoonia 35:148-165, 2015
     <b>Larsen, Harold; Gibson, Ian</b>. <i>Key to the genera of the operculate cup-fungi (Pezizales) of the Pacific Northwest and Rocky Mountain Region, Nov. 7, 1980, 46 p.; Reformatted with footnotes and index by Ian Gibson 2003; Otidea update by Ian Gibson 2017</i> H.J. Larsen, Pacific Northwest Key Council
     <b>I. Olariaga; N. Van Vooren; M. Carbone; K. Hansen</b>. <i>A monograph of Otidea (Pyronemataceae, Pezizomycetes)</i>, Persoonia 35:166-229, 2015
   ascome: 

@@ -44,6 +44,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
+    <b>Carbone, Matteo; Campo, Emanuelle; Vauras, Jukka</b>. <i>Records on Otidea mirabilis and O. tuomikoskii from Finland</i>, Karstenia 50:25–34, 2010
     <b>I. Olariaga; N. Van Vooren; M. Carbone; K. Hansen</b>. <i>A monograph of Otidea (Pyronemataceae, Pezizomycetes)</i>, Persoonia 35, 2015, 166-229
   ascome: 
   ascospores: |

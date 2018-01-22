@@ -106,6 +106,7 @@ description:
   columelle: 
   commentaires: |
     De Claude Kaufholtz-Couture. « Exhalaison spermatique et légèrement de chlore une fois réhydraté. Remerciements à René Dougoud pour son aide dans l'étude microscopique. »
+    De Claude Kaufholtz-Couture. « Remerciements à René Dougoud pour les articles et pour son aide dans cette étude. »
   conidies: 
   conidiome: 
   conidiophores: 

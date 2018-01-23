@@ -21,15 +21,15 @@ details:
   litterature: 
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0477
+    date: 24 septembre 2015
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0477-0192
+      miniature: https://c1.staticflickr.com/5/4603/25987101088_dd690bde6e_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/25987101088/in/photostream/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
 description:
@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans le sol, sous Pinus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -134,7 +134,7 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
+  exhalaison-de-la-chair: franche d’huîtres fumées
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
@@ -143,7 +143,7 @@ description:
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 
-  glebe: 
+  glebe: brun rougeâtre, marbrée de veines blanches
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -211,7 +211,7 @@ description:
   partie-apicale: 
   peridiole: 
   peridiopellis: 
-  peridium: 
+  peridium: globuleux à subglobuleux, tubercule, sublisse, crevassé, hypogé, sessile, crème blanchâtre à jaunâtre, à brun rougeâtre pâle 10 x 25 mm Ø
   peritheces: 
   phenologie: 
   phialoconidies: 
@@ -250,7 +250,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: légèrement d’huîtres fumées à fongique
   sclerocystides: 
   sclerote: 
   soies: 

@@ -21,8 +21,8 @@ Un petit mot de remerciement avant de revenir dans le quotidien empressé. Je te
 
 ![Séminaire de microscopie des champignons, 2017](https://c1.staticflickr.com/5/4726/38722438734_8caee53be5_c.jpg "Figure 1. Groupe du Séminaire de microscopie des champignons")
 De gauche à droite :
-Debouts rang arrière : J. C. Bocquenet, Jean Leclercq, Gérard Sick, Norbert Valmorbida, Jean-Jacques Lefrançois, André Burnotte, Dominique Bangels, Julien Thurion, ?, Françoise Grasperger, Christelle Gérard, Patrice Messin et Gérard Rivet (casquette rouge)
-Debouts rang médian : Patrick Degroote, Michael Vincent, Michèle Cholet, Christine Lempereur, ?, Norbert Bastien, Bertrand Lartigues, Christian Verpoorte, Christine Hoper, Christiane Roy
+Debouts rang arrière : J. C. Bocquenet, Jean Leclercq, Gérard Sick, Norbert Valmorbida, Jean-Jacques Lefrançois, André Burnotte, Dominique Bangels, Julien Thurion, ?, Françoise Grasperger, Christelle Gérard, Patrice Messin et Gérard Rivet (casquette rouge);
+Debouts rang médian : Patrick Degroote, Michael Vincent, Michèle Cholet, Christine Lempereur, ?, Norbert Bastien, Bertrand Lartigues, Christian Verpoorte, Christine Hoper, Christiane Roy;
 Accroupis : Claude Quintin, Françoise Draye, Serge Defays, Marcel Lecomte, Claude Kaufholtz-Couture, Jean-Luc Dassy, Patrice Baumgart, Marie-Paule Vigneron
 
 #### Programme des activités et exposés pratiques vus lors du Séminaire organisé par l’A.M.F.B., à Massembre, du 12 au 18 novembre 2017

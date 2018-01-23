@@ -45,8 +45,13 @@ description:
   arthroconidies: 
   articles: 
   ascome: 
-  ascospores: 
-  asques: 
+  ascospores: |
+    ellipsoïdes, ± effilées aux extrémités, avec une ornementation en nid-d'abeilles, avec des proéminences entre (3) 4-5,7 µm de longueur, brun à brun pâle dans l’eau glycérinée 15%
+    (19,6) 29,8-48,7 (50,5) × (18) 21,8-34,5 (37,9) µm
+    Q = (1) 1,2-1,5 (1,7); N = 30
+    Me = 39,6 × 28,7 µm; Qe = 1,4
+    (Piximètre, formule classique; mesures non issues d'une sporée, dans l'eau glycérinée 15%)
+  asques: polymorphes, piriformes, cylindriques à subtriangulaire, 1 à 4 ascospores par asques, Me = 82,2 x 57,4 µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -143,7 +148,7 @@ description:
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 
-  glebe: brun rougeâtre, marbrée de veines blanches
+  glebe: brun rougeâtre, marbrée de veines blanches, formée d’hyphes laissant entrevoir des parties différentes; hyphes parallèles ainsi que des hyphes entremêlés, parfois en chaîne, ou en saucisse, souvent en cellules allongées, claviformes à cylindriques
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 

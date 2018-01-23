@@ -121,7 +121,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: inconnu
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -203,7 +203,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: inconnu
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -218,7 +218,7 @@ description:
   peridiopellis: 
   peridium: globuleux à subglobuleux, tubercule, sublisse, crevassé, hypogé, sessile, crème blanchâtre à jaunâtre, à brun rougeâtre pâle 10 x 25 mm Ø
   peritheces: 
-  phenologie: 
+  phenologie: septembre
   phialoconidies: 
   pieds-steriles: 
   pigments: 

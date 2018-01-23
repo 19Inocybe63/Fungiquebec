@@ -54,11 +54,11 @@ description:
   base-stipitiforme: 
   basides: claviformes à claviformes ventrues, parfois en petite massue, tétrasporiques, non bouclées à la base, à paroi mince, avec granulations, 30-40 × 8-9 µm en moyenne
   basidiospores: |
-    rarement subglobuleuses, largement elliptiques à elliptiques, finement à moyennement verruqueuses-épineuses, isolées, dont certaines sont reliées pour former des crêtes noduleuses, formant de rares réticulations, avec proéminences jusqu’à 1 (1,1) µm, à paroi mince, avec appendice hilaire prédominant, plage hilaire non distincte et non amyloïde ou irrégulièrement amyloïde dans la partie distale, à contenu uniguttulé, hyalines dans E.G. 20%, amyloïdes, non cyanophiles
+    rarement subglobuleuses, largement elliptiques à elliptiques, finement à moyennement verruqueuses-épineuses, isolées, dont certaines sont reliées pour former des crêtes noduleuses, formant de rares réticulations, avec proéminences jusqu’à 1 (1,1) µm, à paroi mince, avec appendice hilaire prédominant, plage hilaire non distincte et non amyloïde ou irrégulièrement amyloïde dans la partie distale, à contenu uniguttulé, hyalines dans l'eau glycérinée 20%, amyloïdes, non cyanophiles
     (7,1) 7,3-8,2 (8,6) × (5,5) 5,6-6,4 (6,6) µm
     Q = (1,1) 1,2-1,3 (1,4); N = 30
     Me = 7,7 × 6 µm; Qe = 1,3
-    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

@@ -18,7 +18,7 @@ details:
   famille: Tuberaceae
   genre: Tuber
   espece: <i>Tuber oregonense</i> Trappe, Bonito & P. Rawl.
-  litterature: 
+  litterature: Bonito, G.; Trappe, J.M.; Rawlinson, P.; Vilgalys, R. 2010. Improved resolution of major clades within Tuber and taxonomy of species within the Tuber gibbosum complex. Mycologia. 102(5):1042-1057
 
 collections:
   - fongarium: cKc0477
@@ -89,7 +89,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Matt Trappe et al. « This popular fall Oregon White Truffle, <i>T. oregonense</i>, is closely related to <i>T. gibbosum</i>. It differs in the anatomy of the peridium and spore size and shape. The two species share the same distribution, but their seasons barely overlap. Of the two, <i>T. oregonense</i> seems to have a more intense fragrance and is particularly sought by commercial harvesters. Unfortunately, the raking method of harvest unearths many immature fruit-bodies that have not yet developed the special fragrance. For further comparison, see <i>T. gibbosum</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

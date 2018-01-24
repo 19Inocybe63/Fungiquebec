@@ -149,7 +149,7 @@ description:
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 
-  glebe: brun rougeâtre, marbrée de veines blanches, formée d’hyphes laissant entrevoir des parties différentes; hyphes parallèles ainsi que des hyphes entremêlés, parfois en chaîne, ou en saucisse, souvent en cellules allongées, claviformes à cylindriques
+  glebe: brun rougeâtre à rouge foncé, opaque, marbrée de veines blanches, formée d’hyphes laissant entrevoir des parties différentes; hyphes parallèles ainsi que des hyphes entremêlés, parfois en chaîne, ou en saucisse, souvent en cellules allongées, claviformes à cylindriques
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 

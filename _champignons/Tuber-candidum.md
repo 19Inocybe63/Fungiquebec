@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/19748913163/in/photolist-xgxGf7-xgEb2i-wKN4JH-w69kQP-wSTPci-wSaqJo
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
   - fongarium: cKc0398
     date: 7 août 2015
     planche:
@@ -39,8 +39,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
   - fongarium: cKc0403
     date: 14 août 2015
     planche:
@@ -49,8 +49,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
   - fongarium: cKc0422
     date: 19 août 2015
     planche:
@@ -59,8 +59,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
   - fongarium: cKc0452
     date: 6 septembre 2015
     planche:

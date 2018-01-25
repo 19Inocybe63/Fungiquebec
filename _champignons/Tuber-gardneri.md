@@ -147,7 +147,7 @@ description:
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
-  glebe: brun foncé à rouge foncé, reflets brun rougeâtre à maturité, marbrée de veines blanches
+  glebe: marron à maturité à marron violacé marbré, avec des veines très étroites et blanches 
   gleocystides: 
   gleocystides-hymeniales: 
   gleocystides-subhymeniales: 
@@ -211,7 +211,7 @@ description:
   paroi-peritheciale: 
   peridiole: 
   peridiopellis: 
-  peridium: 12-13 mm Ø en moyenne, obtusément ellipsoïdes, hypogé, sessile, irrégulièrement sillonné
+  peridium: 12-15 (17) mm Ø, petit, obtusément ellipsoïdes à légèrement irréguliers, brun foncé à brun rougâtre foncé
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 

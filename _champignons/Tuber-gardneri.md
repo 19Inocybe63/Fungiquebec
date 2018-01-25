@@ -213,7 +213,7 @@ description:
   peridiopellis: 
   peridium: 12-15 (17) mm Ø, petit, obtusément ellipsoïdes à légèrement irréguliers, brun foncé à brun rougâtre foncé
   peritheces: 
-  phenologie: de juillet à septembre
+  phenologie: juillet
   phialoconidies: 
   pieds-steriles: 
   pigments: 

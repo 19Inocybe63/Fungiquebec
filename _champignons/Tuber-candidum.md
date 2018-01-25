@@ -61,6 +61,16 @@ collections:
     elevation: 
     determinee: 
     confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0452
+    date: 6 septembre 2015
+    planche:
+      numero: cKc0452-0193
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 
@@ -76,12 +86,12 @@ description:
   articles: 
   ascome: 
   ascospores: |
-    elliptiques, appendices épineux (spinules-échinulées) assez longs et serrés entre 3,8-5,4 µm de longueur, à paroi mince, à contenu variable, brunâtre clair dans le NaCl iso 0,9%
-    19,8 [25,2; 27,5] 32,8 x 15,2 [18,3; 19,6] 22,7 µm
-    Q = 1,2 [1,3; 1,4] 1,6; N = 33; C = 95%
-    Me = 26,3 x 19 µm; Qe = 1,4
-    (Piximètre, formule statistique; mesures non issues d'une sporée, dans le NaCl iso 0,9%)
-  asques: globuleux, largement piriformes à largement fusiformes, à paroi épaisse, contenant 2 à 5 ascospores (3 ascospores par asques, fréquent, 4 ascospores par asque, la norme, 5 ascospores par asque, plus rare) 66,5 [80,8; 98,2] 112,5 x 46,8 [51,4; 57] 61,7 µm
+    obtusément ellipsoïdes à ellipsoïdes, avec ornementation épineuse légèrement recourbée, avec proéminences entre (2) 3,6-4,2 µm de longueur, brun à brun pâle dans l’eau glycérinée 15%
+    (18,1) 22,6-32,9 (36,8) × (13,9) 15,2-21,3 (22) µm
+    Q = (1) 1,2-1,7 (2); N = 30
+    Me = 28 × 18,6 µm; Qe = 1,5
+    (Piximètre, formule classique; mesures excluant les proéminences, non issues d'une sporée, dans l'eau glycérinée 15%)
+  asques: en forme de sac ± triangulaire, contenant entre 1 à 4 ascospores par asques, en général 3 ascospores par asques, Me = 56 x 41,2 µm;
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

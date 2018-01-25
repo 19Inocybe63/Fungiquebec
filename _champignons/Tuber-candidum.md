@@ -1,6 +1,6 @@
 ---
 nom: Tuber candidum
-date: 2017-03-25 00:00:00
+date: 2018-01-25 00:00:00
 image: https://c2.staticflickr.com/6/5811/20524255219_fb577b31a2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20524255219/in/photolist-xgxGf7-xgEb2i-wKN4JH-w69kQP-wSTPci-wSaqJo
 album-flickr:
@@ -92,7 +92,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous <i>Quercus rubra</i>, <i>Betula papyrifera</i>, <i>Pinus resinosa</i>, <i>Pinus strobus</i>, <i>Acer saccharum</i>
+  biotopes: pousse dans le sol, sous <i>Pinus strobus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

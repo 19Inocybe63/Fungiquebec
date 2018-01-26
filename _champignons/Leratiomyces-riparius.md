@@ -275,7 +275,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-  reactions-chimiques: |
+  reactions-macrochimiques: |
     Ammoniaque (NH<SUB>4</SUB>OH 10%) = le pied devient légèrement jaunâtre, pileus aucune coloration
     Gaïacol = aucune coloration sur les lames et le pied, rose lilacée sur le pileus après > 5’
     Potasse (KOH 10%) = le pied devient légèrement jaunâtre rouille, pileus auncune coloration

@@ -281,7 +281,7 @@ description:
     Potasse (KOH 10%) = le pied devient légèrement jaunâtre rouille, pileus auncune coloration
     Sulfate de fer (FeSO<SUB>4</SUB>) = aucune coloration
   receptacle: 
-  remarques: L'épithète <i>riparius</i> signifie qui se tient sur les rives (en parlant d'oiseaux); il y a aussi <i>ripariolus</i> qui signifie qui se trouve sur la rive. Difficile ici de donner un nom français. (Dictionnaire Gaffiot latin-français, 1934.
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

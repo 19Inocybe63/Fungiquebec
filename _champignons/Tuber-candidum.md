@@ -86,7 +86,7 @@ description:
   articles: 
   ascome: 
   ascospores: |
-    obtusément ellipsoïdes à ellipsoïdes, avec ornementation épineuse légèrement recourbée, avec proéminences entre (2) 3,6-4,2 µm de longueur, brun à brun pâle dans l’eau glycérinée 15%
+    obtusément ellipsoïdes à ellipsoïdes, avec ornementation épineuse légèrement recourbée, avec épines entre (2) 3,6-4,2 µm de longueur, brun à brun pâle dans l’eau glycérinée 15%
     (18,1) 22,6-32,9 (36,8) × (13,9) 15,2-21,3 (22) µm
     Q = (1) 1,2-1,7 (2); N = 30
     Me = 28 × 18,6 µm; Qe = 1,5

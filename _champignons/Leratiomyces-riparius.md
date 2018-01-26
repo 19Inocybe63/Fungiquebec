@@ -276,9 +276,9 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le pied devient légèrement jaunâtre, pileus aucune coloration
-    Gaïacol = aucune coloration sur les lames et le pied, rose lilacée sur le pileus après > 5’
-    Potasse (KOH 10%) = le pied devient légèrement jaunâtre rouille, pileus auncune coloration
+    Ammoniaque (NH<SUB>4</SUB>OH 10%) = le stipe devient légèrement jaunâtre; pileus aucune coloration
+    Gaïacol = aucune coloration sur les lames et le stipe; rose lilacée sur le pileus après > 5’
+    Potasse (KOH 10%) = le stipe devient légèrement jaunâtre rouille; pileus auncune coloration
     Sulfate de fer (FeSO<SUB>4</SUB>) = aucune coloration
   receptacle: 
   remarques: 

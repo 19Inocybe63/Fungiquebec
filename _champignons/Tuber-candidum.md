@@ -1,6 +1,6 @@
 ---
 nom: Tuber candidum
-date: 2018-01-25 00:00:00
+date: 2018-01-26 00:00:00
 image: https://c2.staticflickr.com/6/5762/21004930990_7abd9b0844_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21004930990/in/photolist-y18LbA
 album-flickr:
@@ -65,8 +65,8 @@ collections:
     date: 6 septembre 2015
     planche:
       numero: cKc0452-0193
-      miniature: 
-      originale: 
+      miniature: https://c1.staticflickr.com/5/4671/39879102462_627ffa616d_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/39879102462/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)

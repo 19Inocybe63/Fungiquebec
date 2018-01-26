@@ -46,7 +46,7 @@ description:
   articles: 
   ascome: 
   ascospores: |
-    elliptiques, appendices épineux (spinules-échinulées) assez longs et serrés entre 4-6 µm de longueur, à paroi mince, à contenu variable, brunâtre clair dans le NaCl iso 0,9%,
+    elliptiques, appendices épineux (échinulées) assez longs et serrés entre 4-6 µm de longueur, à paroi mince, à contenu variable, brunâtre clair dans le NaCl iso 0,9%,
     (20,5) 28,7; 35 (43,1) × (15,7) 20,5; 24,2 (29) µm
     Q = 1,1, 1,3; 1,5, 1,7; N = 13; C = 95%
     Me = 31,8 × 22,4 µm; Qe = 1,4

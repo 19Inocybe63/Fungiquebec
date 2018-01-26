@@ -221,7 +221,6 @@ description:
   peritheces: 
   phenologie: septembre
   phialoconidies: 
-  pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 

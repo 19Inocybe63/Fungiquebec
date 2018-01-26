@@ -103,7 +103,7 @@ L’utilisateur du soluté de gaïac doit être en garde, car la fraicheur du ch
 
 * il faut tenir compte s’il a plu avant votre récolte, ou non, et depuis combien de jours. L’utilisateur devra donc reconnaître et juger si le champignon est imbu ou sec, car là aussi il y aura une insidence sur le résultat du teste ;
 * le toucher qui est un sens très sensible sera un bon indicateur sur la fraîcheur ;
-* si la marge du chapeau est plissée, même très faiblement, le spécimen est déjà trop mature. Il faussera les résultats.
+* si la marge du pileus est plissée, même très faiblement, le spécimen est déjà trop mature. Il faussera les résultats.
 <p>&nbsp; </p>
 
 #### Conclusion

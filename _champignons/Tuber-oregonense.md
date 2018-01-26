@@ -46,7 +46,7 @@ description:
   articles: 
   ascome: 
   ascospores: |
-    ellipsoïdes, ± effilées aux extrémités, avec une ornementation en nid-d'abeilles, avec proéminences entre (2) 4-5,7 µm de longueur, brun à brun pâle dans l’eau glycérinée 15%
+    ellipsoïdes, ± effilées aux extrémités, avec une ornementation en nid-d'abeilles, avec épines entre (2) 4-5,7 µm de longueur, brun à brun pâle dans l’eau glycérinée 15%
     (19,6) 29,8-48,7 (50,5) × (18) 21,8-34,5 (37,9) µm
     Q = (1) 1,2-1,5 (1,7); N = 30
     Me = 39,6 × 28,7 µm; Qe = 1,4

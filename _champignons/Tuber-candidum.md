@@ -119,7 +119,6 @@ description:
   cellules-stromatiques: 
   chair: 
   chancre: 
-  chapeau: 
   cheilochrysocystides:
   cheilocystides: 
   cheiloleptocystides: 
@@ -256,7 +255,6 @@ description:
   peritheces: 
   phenologie: de juillet à septembre
   phialoconidies: 
-  pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 

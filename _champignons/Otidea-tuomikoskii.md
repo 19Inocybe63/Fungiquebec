@@ -152,7 +152,7 @@ description:
   exoperidium: 
   exsudats: résineux sur les cellules les plus externes, jaunissant légèrement dans le KOH 10%
   extremites-hyphales: 
-  face-externe: furfuracée à l'extérieur, villeuse et blanche à la base
+  face-externe: ocre brunâtre à brun jaune, hygrophane, jaune ocre en séchant, brun jaunâtre une fois sec, verruqueux, rarement plissé à la base; verrues coniques, grégaires, brunes, nettement plus foncées que le fond ou rarement plus claires
   face-poroïde: 
   feutrage-basal: 
   fragments-sporaux: 
@@ -286,7 +286,6 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  surface-du-réceptacle: ocre brunâtre à brun jaune, hygrophane, jaune ocre en séchant, brun jaunâtre une fois sec, verruqueux, rarement plissé à la base; verrues coniques, grégaires, brunes, nettement plus foncées que le fond ou rarement plus claires
   symptomes: 
   syndrome: 
   synonymie: |

@@ -280,6 +280,8 @@ champs-description:
     label: Paraphyses
   - name: ascospores
     label: Ascospores
+  - name: sous-hymenium
+    label: Sous-hyménium
   - name: excipulum
     label: Excipulum
   - name: excipulum-medullaire

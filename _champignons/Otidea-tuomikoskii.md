@@ -55,7 +55,7 @@ description:
     Q = (1,6) 1,65-1,8 (1,9); N = 30
     Me = 9,7 × 5,6 µm; Qe = 1,7
     (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
-  asques: cylindriques, octosporées, unisériés, iodonégatifs (IKI -), (135) 150-154,2 (159,8) × 7,1-9,1 (9,2) µm en moyenne
+  asques: cylindriques, octosporées, unisériés, iodonégatifs (IKI -), (135) 150-154,2 (159,8) × 7,1-9,1 (9,2) µm en moyenne; section apothéciale 600-700 (-1200) μm d'épaisseur, jaune pâle à jaune vif dans le KOH 5%
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -219,7 +219,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: cylindriques, en forme de crosse, septées, recourbées et parfois épaissies à l'apex
+  paraphyses: courbées à crochues, souvent plus larges aux apex, de 2,5-5 (-6) μm de largeur, parfois avec jusqu'à deux encoches peu profondes ou fourchues aux apex, lorsqu'elles sont fraîches, contenant des guttules réfringents, hyalignaux à jaune pâle, petits à grands; lorsqu'il est séché jaune pâle
   parasite: 
   paroi-peritheciale: 
   partie-apicale: 

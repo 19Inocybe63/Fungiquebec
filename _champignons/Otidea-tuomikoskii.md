@@ -265,7 +265,8 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Key to species of Otidea. « At least some warts higher than 85 μm; basal tomentum orange-ochre when dried; apothecial sections often yellow in KOH; without resinous exudates at septa in the medullary excipulum. » (Karstenia 50:25–34)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -182,8 +182,6 @@ champs-description:
     label: Apothécie
   - name: hymenium
     label: Hyménium
-  - name: sous-hymenium
-    label: Sous-hyménium
   - name: basidiome
     label: Basidiome
   - name: peridiole

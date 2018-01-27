@@ -40,7 +40,7 @@ description:
   anamorphe: 
   anamorphe-conidien: 
   anneau: 
-  apothecie: subsessile ou brièvement stipité, fendu d'un côté et dilaté en oreille arrondie avec la marge unie, 30 à 50 (60) x 20-40 mm Ø
+  apothecie: sessile ou brièvement stipité, fendu d'un côté et dilaté en forme d'oreille arrondie avec la marge unie, 20 à 50 (60) x 10-30 mm Ø
   arete-lamellaire: 
   arthroconidies: 
   articles: |
@@ -165,7 +165,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: lisse, crème jaunâtre à l'intérieur à grisâtre assez pâle, ou argile foncée à gris brun sale
+  hymenophore: ocre blanchâtre pâle à jaune ocre, rarement avec des taches roses, jaune ocre clair à ocre lorsque séché
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -212,7 +212,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolé à grégaire
+  mode-de-croissance: isolé, grégaire à cespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -286,6 +286,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
+  surface-du-réceptacle: ocre brunâtre à brun jaune, hygrophane, jaune ocre en séchant, brun jaunâtre une fois sec, verruqueux, rarement plissé à la base; verrues coniques, grégaires, brunes, nettement plus foncées que le fond ou rarement plus claires
   symptomes: 
   syndrome: 
   synonymie: |

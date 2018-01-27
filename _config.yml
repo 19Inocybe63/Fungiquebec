@@ -695,6 +695,8 @@ champs-description:
     label: Subhyménium
   - name: substrat
     label: Substrat
+  - name: surface-du-receptacle
+    label: Surface du réceptacle
   - name: tomentum-caulinaire
     label: Tomentum caulinaire
   - name: tomentum-pileique

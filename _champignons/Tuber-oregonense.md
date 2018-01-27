@@ -50,7 +50,7 @@ description:
     (19,6) 29,8-48,7 (50,5) × (18) 21,8-34,5 (37,9) µm
     Q = (1) 1,2-1,5 (1,7); N = 30
     Me = 39,6 × 28,7 µm; Qe = 1,4
-    (Piximètre, formule classique; mesures excluant les proéminences, non issues d'une sporée, dans l'eau glycérinée 15%)
+    (Piximètre, formule classique; mesures excluant les épines, non issues d'une sporée, dans l'eau glycérinée 15%)
   asques: polymorphes, piriformes, cylindriques à subtriangulaire, 1 à 4 ascospores par asques, Me = 82,2 x 57,4 µm
   asterohyphidies: 
   avertissement: 

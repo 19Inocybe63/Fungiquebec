@@ -192,7 +192,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: rare à ± occasionnel
+  distribution: occasionel à ± commun
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

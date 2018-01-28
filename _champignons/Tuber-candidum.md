@@ -130,6 +130,7 @@ description:
   columelle: 
   commentaires: |
     De Matt Trappe et al. « This true truffle of only modest culinary value should be eaten with caution: a closely related European species <i>T. nitidum</i> gives some people severe indigestion. No such reaction has been recorded in America, but few people have eaten it so far. »
+    De Claude Kaufholtz-Couture. « Une fois déshydraté, il sent les produits issus du sucre d'érable; cassonade. »
   conidies: 
   conidiome: 
   conidiophores: 

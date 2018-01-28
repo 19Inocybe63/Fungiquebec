@@ -90,7 +90,7 @@ description:
   columelle: 
   commentaires: |
     Matt Trappe et al. « Another small species, <i>T. gardneri</i> is unusual in its fruiting season being confined to spring and summer. The combination of the minutely warty peridium and thick-walled asci is unique for North America, although a similar species, <i>T. murinum</i>, occurs in Europe. It is too small and infrequently found to have value for table use. »
-    De Claude Kaufholtz-Couture. « Une fois déshydratée, la collection sent faiblement l'urine; avariée. »
+    De Claude Kaufholtz-Couture. « Une fois déshydratée, la collection sent faiblement l'urine; viande avariée. »
   conidies: 
   conidiome: 
   conidiophores: 

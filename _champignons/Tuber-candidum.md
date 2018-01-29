@@ -5,6 +5,7 @@ image: https://c2.staticflickr.com/6/5762/21004930990_7abd9b0844_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21004930990/in/photolist-y18LbA
 album-flickr:
   - 72157665093317659
+  - 72157665179072888
 
 details:
   nom-francais: 

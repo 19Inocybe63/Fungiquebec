@@ -21,6 +21,16 @@ details:
   litterature: Bonito, G.; Trappe, J.M.; Rawlinson, P.; Vilgalys, R. 2010. Improved resolution of major clades within Tuber and taxonomy of species within the Tuber gibbosum complex. Mycologia. 102(5):1042-1057
 
 collections:
+  - fongarium: cKc0432
+    date: 23 août 2015
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 
+    elevation: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
   - fongarium: cKc0445
     date: 30 août 2015
     planche:

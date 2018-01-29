@@ -173,7 +173,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans le sol, sous <i>Pinus strobus</i>
+  biotopes: pousse dans le sol, sous <i>Picea</i>, <i>Pinus</i> et <i>Tsuga</i>
   boucles: 
   brachybasidioles: 
   calicule: 

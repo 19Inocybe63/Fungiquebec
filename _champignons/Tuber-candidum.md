@@ -188,7 +188,8 @@ description:
   dendrohyphydies: 
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
-  derniere-correction: 
+  derniere-correction:
+  diagnose-originale: Tuber (Sphærogaster) candidum. Subrotund, 2 cm. in diam., smooth, color whity brown; gleba light brown; veins attenuate, white; asci subglobose; 3-4-spored; spores globose or ovoid, echinate, brown when mature, 24 μ in diam.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

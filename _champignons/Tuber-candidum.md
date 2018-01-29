@@ -82,6 +82,16 @@ collections:
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
+  - fongarium: cKc0435
+    date: 23 août 2015
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 
+    elevation: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
   - fongarium: cKc0446
     date: 30 août 2015
     planche:
@@ -242,7 +252,7 @@ description:
   commentaires: |
     De Matt Trappe et al. « This true truffle of only modest culinary value should be eaten with caution: a closely related European species <i>T. nitidum</i> gives some people severe indigestion. No such reaction has been recorded in America, but few people have eaten it so far. »
     De Claude Kaufholtz-Couture. « Une fois déshydratée, la collection sent les produits issus du sucre d'érable; cassonade. »
-    De Claude Kaufholtz-Couture. « Il n'y a pas de photos pour les collections cKc0433, cKc0434, cKc0446 et cKc0447. »
+    De Claude Kaufholtz-Couture. « Il n'y a pas de photos pour les collections cKc0433, cKc0434, cKc0435, cKc0446 et cKc0447. »
   conidies: 
   conidiome: 
   conidiophores: 

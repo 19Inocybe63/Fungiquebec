@@ -27,7 +27,7 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    geolocalisation: # Exemple: 
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
@@ -37,7 +37,7 @@ collections:
       numero: cKc0477-0192
       miniature: https://c1.staticflickr.com/5/4603/25987101088_dd690bde6e_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/25987101088/in/photostream/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    geolocalisation: # Exemple: 
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 

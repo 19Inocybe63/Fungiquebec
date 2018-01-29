@@ -189,7 +189,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction:
-  diagnose-originale: Tuber (Sphærogaster) candidum. Subrotund, 2 cm. in diam., smooth, color whity brown; gleba light brown; veins attenuate, white; asci subglobose; 3-4-spored; spores globose or ovoid, echinate, brown when mature, 24 μ in diam.
+  diagnose-originale: <i>Tuber (Sphærogaster) candidum. Subrotund, 2 cm. in diam., smooth, color whity brown; gleba light brown; veins attenuate, white; asci subglobose; 3-4-spored; spores globose or ovoid, echinate, brown when mature, 24 μ in diam.</i>
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

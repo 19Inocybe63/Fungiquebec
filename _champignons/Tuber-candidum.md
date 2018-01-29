@@ -1,6 +1,6 @@
 ---
 nom: Tuber candidum
-date: 2018-01-26 00:00:00
+date: 2018-01-27 00:00:00
 image: https://c2.staticflickr.com/6/5762/21004930990_7abd9b0844_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21004930990/in/photolist-y18LbA
 album-flickr:

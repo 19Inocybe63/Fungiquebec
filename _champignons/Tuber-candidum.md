@@ -425,8 +425,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: |
-    De Claude Kaufholtz-Couture. « Il est presque certain que parmi les dix-huit collections déterminées provisoirement <i>T. candidum</i> se cache l’espèce <i>T. gibbosum</i>; ce que nous verrons dans un autre temps. »
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

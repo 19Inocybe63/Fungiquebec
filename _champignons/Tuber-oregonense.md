@@ -241,7 +241,7 @@ description:
   peridiopellis: 
   peridium: globuleux à subglobuleux, tubercule, sublisse, crevassé, hypogé, sessile, crème blanchâtre à jaunâtre, à brun rougeâtre pâle 10 x 25 mm Ø
   peritheces: 
-  phenologie: septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pigments: 
   pileipellis: 

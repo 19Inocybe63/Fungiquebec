@@ -312,6 +312,7 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
+    <i>Proceeding of the California Academy of Sciences</i>, Third Series, Botany, vol. 1 1897-1900, San Francisco, Published by the Academy; N° 92, p. 274
     <b>Trappe, Matt; Evans, Frank; Trappe, James</b>. <i>Field Guide to North American Truffles</i>; Hunting, Identifying, and Enjoying the World’s most Prized Fungi, 2007
     <b>Trappe, James M.; et al.</b> <i>Diversity, Ecology, and Conservation of Truffle Fungi in Forests of the Pacific Northwest,</i> United States Department of Agriculture, Forest Service, Pacific Northwest, Research Station, 2009
   publications-microscopiques: |

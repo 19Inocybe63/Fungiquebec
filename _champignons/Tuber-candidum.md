@@ -387,7 +387,7 @@ description:
   peridiopellis: 
   peridium: 8-28 mm Ø, obtusément ellipsoïdes à réniformes, parfois faguement en forme de pain ± rond et légèrement aplati, hypogé, sessile, brun à brun rougeâtre
   peritheces: 
-  phenologie: de juillet à septembre
+  phenologie: d'août à septembre
   phialoconidies: 
   pigments: 
   pileipellis: 

@@ -112,7 +112,7 @@ description:
   commentaires: |
     De Matt Trappe et al. « This popular fall Oregon White Truffle, <i>T. oregonense</i>, is closely related to <i>T. gibbosum</i>. It differs in the anatomy of the peridium and spore size and shape. The two species share the same distribution, but their seasons barely overlap. Of the two, <i>T. oregonense</i> seems to have a more intense fragrance and is particularly sought by commercial harvesters. Unfortunately, the raking method of harvest unearths many immature fruit-bodies that have not yet developed the special fragrance. For further comparison, see <i>T. gibbosum</i>. »
     De Claude Kaufholtz-Couture. « Une fois déshydratée, la collection sent faiblement les produits laitiers; petit lait de fromage. »
-    De Claude Kaufholtz-Couture. « Il n'y a pas de photo pour la collection cKc0445. »
+    De Claude Kaufholtz-Couture. « Il n'y a pas de photos pour les collections cKc0432 et cKc0445. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -1,6 +1,6 @@
 ---
 nom: Tuber gardneri
-date: 2018-01-27 00:00:00
+date: 2018-01-29 00:00:00
 image: https://c1.staticflickr.com/1/360/19748538615_4f93219236_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19748538615/in/photostream/
 album-flickr:
@@ -235,7 +235,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: 
+  premiere-mention: Espèce vue et étudiée pour la première fois au Québec
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

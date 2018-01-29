@@ -220,7 +220,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: agréable
+  exhalaison: agréable, parfois d'huître fumée, parfois ± sucré
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

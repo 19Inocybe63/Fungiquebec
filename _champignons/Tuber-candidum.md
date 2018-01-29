@@ -72,6 +72,16 @@ collections:
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee:
+  - fongarium: cKc0447
+    date: 30 août 2015
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 
+    elevation: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee:
   - fongarium: cKc0451
     date: 6 septembre 2015
     planche:

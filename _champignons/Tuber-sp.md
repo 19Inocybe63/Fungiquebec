@@ -35,8 +35,8 @@ collections:
     date: 14 juillet 2015
     planche:
       numero: cKc0348-0194
-      miniature: 
-      originale: 
+      miniature: https://c1.staticflickr.com/5/4625/39990607081_641ea6e676_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/39990607081/in/photostream/
     geolocalisation: # Exemple: 
     elevation: 
     determinee: Claude Kaufholtz-Couture

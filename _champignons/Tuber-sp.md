@@ -1,6 +1,6 @@
 ---
-nom: Tuber gardneri
-date: 2018-01-29 00:00:00
+nom: Tuber sp.
+date: 2018-01-30 00:00:00
 image: https://c1.staticflickr.com/1/360/19748538615_4f93219236_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19748538615/in/photostream/
 album-flickr:
@@ -17,8 +17,8 @@ details:
   ordre: Pezizales
   famille: Tuberaceae
   genre: Tuber
-  espece: <i>Tuber gardneri</i> Gilkey
-  litterature: Gilkey, H.M. 1916. A revision of the Tuberales of California. University of California Publications in Botany. 6:275-356
+  espece: <i>Tuber sp.</i>
+  litterature: 
 
 collections:
   - fongarium: cKc0348
@@ -27,9 +27,19 @@ collections:
       numero: cKc0348-0092
       miniature: https://c1.staticflickr.com/1/366/19797225815_91ec6199aa_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/19797225815/in/photostream/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    geolocalisation: # Exemple: 
     elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
+    determinee: Claude Kaufholtz-Couture
+    confirmee: 
+  - fongarium: cKc0348
+    date: 14 juillet 2015
+    planche:
+      numero: cKc0348-0092
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 
+    elevation: 
+    determinee: Claude Kaufholtz-Couture
     confirmee: 
 
 description:
@@ -269,8 +279,7 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  synonymie: |
-    <i>Tuber gardnerii</i> Gilkey (1916)
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

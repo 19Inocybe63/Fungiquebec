@@ -56,11 +56,11 @@ description:
   articles: 
   ascome: 
   ascospores: |
-    elliptiques, appendices épineux (échinulées) assez longs et serrés entre 4-6 µm de longueur, à paroi mince, à contenu variable, brunâtre clair dans le NaCl iso 0,9%,
-    (20,5) 28,7; 35 (43,1) × (15,7) 20,5; 24,2 (29) µm
-    Q = 1,1, 1,3; 1,5, 1,7; N = 13; C = 95%
-    Me = 31,8 × 22,4 µm; Qe = 1,4
-    (Piximètre, formule statistique; mesures excluant les épines, non issues d'une sporée, dans le NaCl iso 0,9%)
+    globuleuses à obtusément ellipsoïdes, elliptiques, échinulées, avec des épines entre 1-7 µm de longueur, brun à brun pâle dans l’eau glycérinée 15%
+    (19,5) 23,5-32,4 (43,3) × (16,5) 17,2-22,8 (24,9) µm
+    Q = (1,1) 1,2-1,6 (1,7); N = 30
+    Me = 27,3 × 19,5 µm; Qe = 1,4
+    (Piximètre, formule classique; mesures excluant les épines, non issues d'une sporée, dans l'eau glycérinée 15%)
   asques: globuleux, piriformes, à paroi épaisse, contenant 1 à 3 ascospores (2 ascospores par asque, la norme; une ascospore par asque, plus rare) (50,8) 71,5; 104,9 (125,5) × (28,7) 38,5; 54,3 (64,1) µm
   asterohyphidies: 
   avertissement: 

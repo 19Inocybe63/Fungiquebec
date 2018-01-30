@@ -34,7 +34,7 @@ collections:
   - fongarium: cKc0348
     date: 14 juillet 2015
     planche:
-      numero: cKc0348-0092
+      numero: cKc0348-0194
       miniature: 
       originale: 
     geolocalisation: # Exemple: 

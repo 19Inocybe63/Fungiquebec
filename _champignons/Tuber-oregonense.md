@@ -239,7 +239,7 @@ description:
   partie-apicale: 
   peridiole: 
   peridiopellis: 
-  peridium: globuleux à subglobuleux, tubercule, sublisse, crevassé, hypogé, sessile, crème blanchâtre à jaunâtre, à brun rougeâtre pâle 10 x 25 mm Ø
+  peridium: 10 x 25 mm Ø, globuleux à subglobuleux, tubercule, sublisse, crevassé, hypogé, sessile, crème blanchâtre à jaunâtre, à brun rougeâtre pâle
   peritheces: 
   phenologie: d'août à septembre
   phialoconidies: 

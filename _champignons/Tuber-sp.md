@@ -100,6 +100,7 @@ description:
   columelle: 
   commentaires: 
     De Claude Kaufholtz-Couture. « Une fois déshydratée, la collection sent faiblement l'urine; viande avariée. »
+    De Claude Kaufholtz-Couture. « Cette collection fut confirmée <i>Tuber gardneri</i> sur Mushrooms Observer; mais je conteste cette confirmation. <i>Tuber gardneri</i> a des ascospores en nid-d’abeilles, alvéolées, et la collection cKc0348 possède des ascospores échinulées. »
   conidies: 
   conidiome: 
   conidiophores: 

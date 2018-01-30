@@ -25,8 +25,8 @@ collections:
     date: 14 juillet 2015
     planche:
       numero: cKc0348-0092
-      miniature: https://c1.staticflickr.com/1/366/19797225815_91ec6199aa_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/19797225815/in/photostream/
+      miniature: https://c1.staticflickr.com/1/366/19797225815_bcf46374df_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/19797225815/in/photolist-wapXvz-w67qv6/
     geolocalisation: # Exemple: 
     elevation: 
     determinee: Claude Kaufholtz-Couture

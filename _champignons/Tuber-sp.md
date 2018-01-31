@@ -61,7 +61,7 @@ description:
     Q = (1,1) 1,2-1,6 (1,7); N = 30
     Me = 27,3 × 19,5 µm; Qe = 1,4
     (Piximètre, formule classique; mesures excluant les épines, non issues d'une sporée, dans l'eau glycérinée 15%)
-  asques: globuleux, piriformes, à paroi épaisse, devenant verdâtre dans le KOH 5%, contenant 1 à 4 ascospores (2 ascospores par asque, la norme; 1 ascospore par asque, occasionnel; 4 ascospores par asque, rare) (38) 38,2 - ±70 × (28,7) 38,5 - 54,3 (64,1) µm
+  asques: globuleux, piriformes, à paroi épaisse, devenant verdâtre dans le KOH 5%, contenant 1 à 4 ascospores (2-3 ascospores par asque, la norme; 1 ascospore par asque, occasionnel; 4 ascospores par asque, rare) (38) 38,2 - ±70 × (28,7) 38,5 - 54,3 (64,1) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

@@ -1,6 +1,6 @@
 ---
 nom: Tuber sp.
-date: 2018-01-30 00:00:00
+date: 2018-01-31 00:00:00
 image: https://c1.staticflickr.com/1/360/19748538615_4f93219236_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19748538615/in/photostream/
 album-flickr:
@@ -56,7 +56,7 @@ description:
   articles: 
   ascome: 
   ascospores: |
-    globuleuses à obtusément ellipsoïdes, elliptiques, échinulées, avec des épines entre 1-7 µm de longueur, brun à brun pâle dans l’eau glycérinée 15%
+    globuleuses à obtusément ellipsoïdes, elliptiques, ± effilées aux extrémités, avec ornementation épineuse légèrement recourbée, avec des épines entre 1-7 µm de longueur, brun à brun pâle dans l’eau glycérinée 15%
     (19,5) 23,5-32,4 (43,3) × (16,5) 17,2-22,8 (24,9) µm
     Q = (1,1) 1,2-1,6 (1,7); N = 30
     Me = 27,3 × 19,5 µm; Qe = 1,4

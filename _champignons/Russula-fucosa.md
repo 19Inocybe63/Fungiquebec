@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/15991135571/in/photolist-qn5KtZ-oSwUbo-oUyEuZ-oUyGrz
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
   - fongarium: cKc0236
     date: 4 septembre 2014
     planche:

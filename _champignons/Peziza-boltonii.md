@@ -1,6 +1,6 @@
 ---
 nom: Peziza boltonii
-date: 2017-05-27 00:00:00
+date: 2018-02-06 00:00:00
 image: https://c1.staticflickr.com/5/4239/35098909546_72980321ab_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35098909546/in/photolist-Vx6yKK-Vx6JFB-Vtz5YS
 album-flickr:
@@ -27,6 +27,16 @@ collections:
       numero: cKc0497-0130
       miniature: https://c2.staticflickr.com/8/7336/27714366152_99f809b25e_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/27714366152/in/photolist-Je2nvb-HfVs48-J2YFCL
+    geolocalisation: 
+    altitude: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0603
+    date: 6 juin 2017
+    planche:
+      numero: 
+      miniature: 
+      originale: 
     geolocalisation: 
     altitude: 
     determinee: Claude Kaufholtz-Couture (provisoire)

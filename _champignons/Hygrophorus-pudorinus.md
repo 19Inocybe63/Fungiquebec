@@ -219,7 +219,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 32-62 mm Ø, campanulé, convexe devenant largement convexe à étalé, glabre, collant au frais, mamelonné, développant de fines écailles et des fissures, à marge enroulée et finement duveteuse au début, crème rosâtre à saumon, avec parfois des reflets verdâtres au centre
+  pileus: 32-62 mm Ø, campanulé, convexe devenant largement convexe à étalé, glabre, collant au frais, viscidulé à visqueux, mamelonné, développant de fines écailles et des fissures, à marge enroulée et finement duveteuse au début, crème rosâtre à saumon, avec parfois des reflets verdâtres au centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -258,7 +258,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 57-85 x 7-12 mm Ø, cylindrique, ± égal, épais, farci, sec, finement parsemé de minuscules flocons vers l'apex qui deviennent brun rougeâtre à ocre surtout lorsque les spécimens sont séchés; blanchâtre, crème jaunâtre souvent au froissement ou près de la base, crème à saumon, parfois avec des taches jaunes à la base
+  stipe: 57-85 x 7-12 mm Ø, cylindrique, ± égal, épais, farci, viscidulé à visqueux, finement parsemé de minuscules flocons vers l'apex qui deviennent brun rougeâtre à ocre surtout lorsque les spécimens sont séchés; blanchâtre, crème jaunâtre souvent au froissement ou près de la base, crème à saumon, parfois avec des taches jaunes à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

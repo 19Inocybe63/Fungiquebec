@@ -52,7 +52,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: cylindriques-claviformes, parfois utriformes, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations carminophiles ?) 24,7 [26; 28,5] 29,7 × 6,7 [7,4; 8,8] 9,5 µm en moyenne
+  basides: cylindriques-claviformes, parfois utriformes, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations carminophiles ?) (24,7) 26-28,5 (29,7) × (6,7) 7,4-8,8 (9,5) µm en moyenne
   basidiospores: |
     citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, presque lisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, hyalines dans E.G. 20 %, fortement dextrinoïdes (D4), non cyanophiles
     (8,6) 10-11,8 (12) × (5,5) 5,6-6,6 (6,7) µm

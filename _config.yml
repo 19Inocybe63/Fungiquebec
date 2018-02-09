@@ -549,8 +549,8 @@ champs-description:
     label: Cordons rhizomorphiques
   - name: cortex-caulinaire
     label: Cortex caulinaire
-  - name: cortex-du-pied-et-du-bulbe
-    label: Cortex du pied et du bulbe
+  - name: cortex-du-stipe-et-du-bulbe
+    label: Cortex du stipe et du bulbe
   - name: cortex-peridial
     label: Cortex péridial
   - name: cortex-sclerotial

@@ -69,7 +69,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: nombreuses, présentent sur toute la longueur, semblables aux cheilocystides, cylindriques-claviformes à longuement cylindriques-claviformes, lagéniformes, 19,5 [62,8; 100,1] 143,4 × 3,4 [6,5; 9,2] 12,3 µm en moyenne
+  caulocystides: nombreuses, présentent sur toute la longueur, semblables aux cheilocystides, cylindriques-claviformes à longuement cylindriques-claviformes, lagéniformes, (19,5) 62,8-100,1 (143,4) × (3,4) 6,5-9,2 (12,3) µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
@@ -81,7 +81,7 @@ description:
   chair: épaisse au centre et mince à la marge, ferme, blanchâtre à crème
   chancre: 
   cheilochrysocystides:
-  cheilocystides: abondantes, polymorphes, cylindriques à claviformes, longuement claviformes, parfois avec apex subcapité, utriformes, parfois flexueuses, parfois tortueuses, à paroi mince, bouclées, 24,5 [48,9; 71,5] 95,9 × 6,3 [7,8; 9,2] 10,7 µm en moyenne
+  cheilocystides: abondantes, polymorphes, cylindriques à claviformes, longuement claviformes, parfois avec apex subcapité, utriformes, parfois flexueuses, parfois tortueuses, à paroi mince, bouclées, (24,5) 48,9-71,5 (95,9) × (6,3) 7,8-9,2 (10,7) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

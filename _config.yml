@@ -432,8 +432,8 @@ champs-description:
     label: Hyphes de la chair
   - name: hyphes-de-l-anneau
     label: Hyphes de l’anneau
-  - name: hyphes-du-pied
-    label: Hyphes du pied
+  - name: hyphes-du-stipe
+    label: Hyphes du stipe
   - name: hyphes-glebales
     label: Hyphes glébales
   - name: hyphes-gleopleres

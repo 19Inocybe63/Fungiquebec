@@ -89,7 +89,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « La collection cKc0575 a été étudiée sur du matériel déshydraté. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -259,7 +260,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Collection cKc0575 étudiée sur matériel déshydraté
+  remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

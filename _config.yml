@@ -511,8 +511,8 @@ champs-description:
     label: Anamorphe conidien
   - name: asterohyphidies
     label: Astérohyphidies
-  - name: base-du-pied
-    label: Base du pied
+  - name: base-du-stipe
+    label: Base du stipe
   - name: base-sterile
     label: Base stérile
   - name: base-stipitiforme

@@ -671,8 +671,8 @@ champs-description:
     label: Périthèces
   - name: phialoconidies
     label: Phialoconidies
-  - name: pieds-steriles
-    label: Pieds stériles
+  - name: stipes-steriles
+    label: Stipes stériles
   - name: plasmode
     label: Plasmode
   - name: pseudocapillitium

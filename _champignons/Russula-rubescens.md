@@ -74,7 +74,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, non bouclées à la base, (34,5) 37-42,1 (44,6) x (9,3) 10,2-12,2 (13,2) µm en moyenne
   basidiospores: |
-    subglobuleuses à largement elliptiques, verruqueuses-échinulées, avec quelques rares connexifs, avec proéminence jusqu'à 1 µm (1,3) de hauteur, à paroi mince, appendice hilaire pas toujours bien visible, ainsi que la plage hilaire 2,4-3,1 en moyenne, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
+    obtusément elliptiques à largement elliptiques, verruqueuses-échinulées, avec quelques rares connexifs, avec proéminence jusqu'à 1 µm (1,3) de hauteur, à paroi mince, appendice hilaire pas toujours bien visible, ainsi que la plage hilaire 2,4-3,1 en moyenne, à contenu uniguttulé, hyalines dans le NaCl iso 0,9%, amyloïdes
     (7) 7,9-8,3 (9,2) x (6,1) 6,8-7,1 (7,7) µm
     Q = 1, 1,1-1,2 1,3; N = 30; C = 95%
     Me = 8,1 x 6,9 µm; Qe = 1,2

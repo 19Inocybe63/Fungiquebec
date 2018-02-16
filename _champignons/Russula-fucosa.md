@@ -1,6 +1,6 @@
 ---
 nom: Russula fucosa
-date: 2017-04-07 00:00:00
+date: 2018-02-16 00:00:00
 image: https://c1.staticflickr.com/1/718/20475447168_2094b83b00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20475447168/in/photolist-xcm26b
 album-flickr:
@@ -86,8 +86,8 @@ description:
   basides: claviformes, tétrasporiques, non bouclées à la base, 40-45 x 11,5-13 μm en moyenne
   basidiospores: |
     largement elliptiques en vue frontale, subglobuleuses vues de profil, largement échinulées avec de rares réticulations, avec proéminences jusqu’à 1,7 µm de hauteur, à paroi mince, l’appendice hilaire pas toujours bien visible, hyalines dans le NaCl iso 0,9%, amyloïdes
-    8,4 [9,2; 9,6] 10,3 x 7,4 [7,9; 8,2] 8,7 µm
-    Q = 1,1 [1,2; 1,18] 1,2; N = 30; C = 95%
+    (8,4) 9,2-9,6 (10,3) x (7,4) 7,9-8,2 (8,7) µm
+    Q = 1,1, 1,2-1,18, 1,2; N = 30; C = 95%
     Me = 9,4 x 8 µm; Qe = 1,2
     (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
@@ -111,7 +111,7 @@ description:
   chair: blanche et rougeâtre sous la cuticule
   chancre: 
   cheilochrysocystides:
-  cheilocystides: nombreuses non proéminentes, cylindriques flexueuses, rostrées, parfois cylindriques avec apex moniliformes, sulfobenzaldéhyde négatif (SBA-), 31,5 [34,8; 38,3] 41,5 x 5,8 [7,9; 10,3] 12,4 µm en moyenne
+  cheilocystides: nombreuses non proéminentes, cylindriques flexueuses, rostrées, parfois cylindriques avec apex moniliformes, sulfobenzaldéhyde négatif (SBA-), (31,5) 34,8-38,3 (41,5) x (5,8) 7,9-10,3 (12,4) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -120,7 +120,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Cette xérampéline varie peu en couleurs. As-tu remarqué que son odeur est faible pour une xérampéline, sauf dans la vétusté? Concernant l’odeur, il y a des règles générales. L'odeur est plus forte dans les lames, et toujours avec l'âge, mais celle de la chair est parfois différente, surtout chez les <i>Cortinarius</i>, la pluie ou le froid (frigo, mois d'octobre) peuvent masquer une odeur; l'odeur des xérampélines et des bolets s'accentuent au séchage. »
+    De Yves Lamoureux. « Cette xérampéline varie peu en couleurs. As-tu remarqué que son odeur est faible pour une xérampéline, sauf dans la vétusté ? Concernant l’odeur, il y a des règles générales. L'odeur est plus forte dans les lames, et toujours avec l'âge, mais celle de la chair est parfois différente, surtout chez les <i>Cortinarius</i>, la pluie ou le froid (frigo, mois d'octobre) peuvent masquer une odeur; l'odeur des xérampélines et des bolets s'accentuent au séchage. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -256,7 +256,7 @@ description:
   pileus: 40-65 mm Ø, convexe à étalé, déprimé, pruineux, rosâtre à rouge plus foncé en son centre, légèrement feutré en son centre, cuticule pelant au ¼-¾ du rayon
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, proéminentes, cylindriques avec apex mucroné, parfois avec apex largement mucroné, à baguette de tambour, 48,7 [58,6; 70,7] 80,7 x 10,5 [11,3; 12,3] 13,1 µm en moyenne
+  pleurocystides: nombreuses, proéminentes, cylindriques avec apex mucroné, parfois avec apex largement mucroné, à baguette de tambour, (48,7) 58,6-70,7 (80,7) x (10,5) 11,3-12,3 (13,1) µm en moyenne
   poils: nombreux, cylindriques, septées
   poils-basaux: 
   poils-caulinaires: 

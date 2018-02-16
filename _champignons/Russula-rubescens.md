@@ -97,7 +97,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche, rougit puis grisonne au grattage
   chancre: 
   cheilochrysocystides:
   cheilocystides: peu abondantes et peu émergentes, semblables aux pleurocystides

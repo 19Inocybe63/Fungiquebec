@@ -226,7 +226,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 23-99 mm Ø, convexe à étalé puis légèrement déprimé, à cuticule collante qui se pèle jusqu'au ¾ du rayon; rouge à rouge pâle avec centre parfois jaunâtre, ou ± plus foncé, s'atténuant vers la marge
+  pileus: 23-99 mm Ø, convexe à étalé puis légèrement déprimé, tuberculé à ruguleux, cuticule collante qui se pèle jusqu'au ¾ du rayon; rouge à rouge pâle avec centre parfois jaunâtre, ou ± plus foncé, s'atténuant vers la marge
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

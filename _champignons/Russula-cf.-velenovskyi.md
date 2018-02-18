@@ -82,7 +82,7 @@ description:
   chair: blanche, immuable
   chancre: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: peu émergentes, et collapsées entre elles
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -159,7 +159,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: 
+  hyphes: non incrustées
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -224,14 +224,14 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en ixo trichoderme, gélin entre 13-18 µm d'épaisseur en moyenne, formé d'occasionnelles piléocystides septées et des poils septés nombreux et diffus dans le gélin
   pileitrame: 
-  pileocystides: 
+  pileocystides: occasionnelles, cylindriques à fusiformes, sulfovanilline positive (SV+), 120-145 (150) x 4-5 µm en moyenne
   pileus: 48 mm Ø, convexe, légèrement déprimé, avec petit ombon, rouge à rosâtre, avec centre pourpre foncé, cuticule légèrement collante et se pèle jusqu'au ½ du rayon
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
-  poils: 
+  pleurocystides: occasionnelles, cylindriques à fusiformes, apex parfois longuement mucronées à rarement rostrées, à contenu pailleté, sulfovanilline négative (SV-); deviennent rose foncé dans la sulfovanilline, et sulfobenzaldéhyde positif (SBA+), 68,9-82,7 × 9,6-10,7 (10,8) µm en moyenne
+  poils: nombreux, septées avec terminaison cylindriques à fusiformes
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 
@@ -293,7 +293,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée majoritairement de sphérocystes
   trame-tubulaire: 
   tubes: 
   type: 

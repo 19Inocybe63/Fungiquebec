@@ -53,8 +53,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, stérigmates entre 5,8-7,9 µm de longueur, non bouclées à la base, à contenu guttulées,
-(40) 41,2-43,6 (45) × (10) 10,9-12,5 (13) µm
+  basides: claviformes, tétrasporiques, stérigmates entre 5,8-7,9 µm de longueur, non bouclées à la base, à contenu guttulées, (40) 41,2-43,6 (45) × (10) 10,9-12,5 (13) µm
   basidiospores: |
     globuleuses, obtusément elliptiques à largement elliptiques vue frontale, obtusément elliptiques à largement elliptiques vues de profil, verruqueuses, avec de rares connexifs, avec proéminences entre 0,3-1,0 (1,3) µm de hauteur, à paroi mince, plage hilaire faiblement amyloïde 2,4-3 × 2,4 µm Ø, à contenu uniguttulé, hyalines dans le NaCl isotonique 0,9%, amyloïdes
     (7,2) 7,5-8,3 (8,5) × (6,3) 6,4-7 (7,3) µm

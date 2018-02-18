@@ -226,7 +226,7 @@ description:
   pigments: 
   pileipellis: en ixo trichoderme, gélin entre 13-18 µm d'épaisseur en moyenne, formé d'occasionnelles piléocystides septées et des poils septés nombreux et diffus dans le gélin
   pileitrame: 
-  pileocystides: occasionnelles, cylindriques à fusiformes, sulfovanilline positive (SV+), 120-145 (150) x 4-5 µm en moyenne
+  pileocystides: occasionnelles, cylindriques à fusiformes, sulfovanilline faiblement positive (SV+), 120-145 (150) x 4-5 µm en moyenne
   pileus: 48 mm Ø, convexe, légèrement déprimé, avec petit ombon, rouge à rosâtre, avec centre pourpre foncé, cuticule légèrement collante et se pèle jusqu'au ½ du rayon
   plasmode: 
   pleurochrysocystides: 

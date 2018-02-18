@@ -205,7 +205,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolé
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -220,7 +220,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: août
   phialoconidies: 
   pieds-steriles: 
   pigments: 

@@ -230,7 +230,7 @@ description:
   pileus: 48 mm Ø, convexe, légèrement déprimé, avec petit ombon, rouge à rosâtre, avec centre pourpre foncé, cuticule légèrement collante et se pèle jusqu'au ½ du rayon
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles, cylindriques à fusiformes, à l'apex parfois longuement mucronées à rarement rostrées, à contenu pailleté, réfringent dasn le KOH 2%, sulfovanilline négative (SV-); deviennent rose foncé dans la sulfovanilline, 68,9-82,7 × 9,6-10,7 (10,8) µm en moyenne
+  pleurocystides: occasionnelles, cylindriques à fusiformes, à l'apex parfois longuement mucronées à rarement rostrées, à contenu pailleté, contenu réfringent dans le KOH 2%, sulfovanilline négative (SV-); deviennent rose foncé dans la sulfovanilline, 68,9-82,7 × 9,6-10,7 (10,8) µm en moyenne
   poils: nombreux, septés avec terminaison cylindriques à fusiformes
   poils-basaux: 
   poils-caulinaires: 

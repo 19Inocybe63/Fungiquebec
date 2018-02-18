@@ -224,7 +224,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en ixotrichoderme, gélin entre 13-18 µm d'épaisseur en moyenne, formé d'occasionnelles piléocystides septées et des poils septés nombreux et diffus dans le gélin
+  pileipellis: en ixotrichoderme, gélin entre 13-18 µm d'épaisseur en moyenne, formé de nombreux poils septés, et occasionnellement de piléocystides septées; le tout diffus dans le gélin 
   pileitrame: 
   pileocystides: occasionnelles, courtes ou longuement cylindriques à fusiformes, faiblement sulfovanilline positive (SV+), 110-145 (150) x 4-5 µm en moyenne
   pileus: 48 mm Ø, convexe, légèrement déprimé, avec petit ombon, rouge à rosâtre, avec centre pourpre foncé, cuticule légèrement collante et se pèle jusqu'au ½ du rayon

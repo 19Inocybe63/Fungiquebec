@@ -231,7 +231,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: occasionnelles, cylindriques à fusiformes, apex parfois longuement mucronées à rarement rostrées, à contenu pailleté, sulfovanilline négative (SV-); deviennent rose foncé dans la sulfovanilline, et sulfobenzaldéhyde positif (SBA+), 68,9-82,7 × 9,6-10,7 (10,8) µm en moyenne
-  poils: nombreux, septées avec terminaison cylindriques à fusiformes
+  poils: nombreux, septés avec terminaison cylindriques à fusiformes
   poils-basaux: 
   poils-caulinaires: 
   poils-du-cortex: 

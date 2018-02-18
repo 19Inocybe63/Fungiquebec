@@ -74,7 +74,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanche, immuable
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -135,7 +135,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -181,7 +181,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à sinuées, serrées, larges, blanchâtre à légèrement ochracées, avec quelques furcations près du pied et au milieu, lamelles et lamellules rares à absentes
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -222,7 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 48 mm Ø, convexe, légèrement déprimé, avec petit ombon, rouge à rosâtre, avec centre pourpre foncé, cuticule légèrement collante et se pèle jusqu'au ½ du rayon
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -257,21 +257,23 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Soluté de gaïac = avant 5” stipe ++ b, réaction moyenne avant 5 secondes, (3, moyenne); après 5” lames ++ b, réaction moyenne après 5 secondes, (3, moyenne)
+    Sulfate de fer (FeSO<sub>4</sub>) = légèrement rosâtre sur la chair du stipe
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: douce
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: ochrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur Romagnesi; E d'après la charte de couleur de Kibby
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 60 x 9 mm Ø, claviforme, farci, blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

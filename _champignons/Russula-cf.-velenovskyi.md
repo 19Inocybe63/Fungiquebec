@@ -25,8 +25,8 @@ collections:
     date: 25 août 2017
     planche:
       numero: cKc0666-0195
-      miniature: 
-      originale: 
+      miniature: https://c1.staticflickr.com/5/4654/25496709347_e0a2c57b40_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/25496709347/in/dateposted/
     geolocalisation: 45°58’40.33"N 70°57’40.76"O
     elevation: 334 m
     determinee: Claude Kaufholtz-Couture (provisoire)

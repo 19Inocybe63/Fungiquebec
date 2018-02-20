@@ -31,6 +31,16 @@ collections:
     altitude: 
     determinee: Claude Kaufholtz-Couture
     confirmee: Paco Sáinz et Pedro M. Pasaban
+  - fongarium: cKc0430
+    date: 23 août 2015
+    planche:
+      numero: cKc0430-0196
+      miniature: 
+      originale: 
+    geolocalisation: 
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Paco Sáinz et Pedro M. Pasaban
 
 description:
   acanthocytes: 

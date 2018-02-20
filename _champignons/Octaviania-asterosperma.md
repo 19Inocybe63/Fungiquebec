@@ -55,13 +55,13 @@ description:
   base-stipitiforme: 
   basides: piriformes à largement clavées, tétrasporiques avec pédicelles 4-9 µm de long, avec granulations, mais aussi vide optique, (22,6) 27,1-33,3 (37,8) x (11,9) 13,3-15,2 (16,6) µm
   basidiospores: |
-    globuleuses à subglobuleuses, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl iso 0,9%, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
+    globuleuses à obtusément elliptiques, hautement et largement échinulées, serrées, 2,4-5,0 µm de long x 1,3-3,3 µm de large, long appendice hilaire, brun jaunâtre à olivâtre dans le NaCl iso 0,9%, dextrinoïdes surtout les échinulations, mais pas tous, cyanophiles mais pas tous
     (11) 12,3-12,8 (14,1) x (10,6) 11,7-12,2 (13,3) µm
     Q = 1; 1,1; 1,2; N = 30; C = 95%
     Me = 12,5 x 11,9 µm; Qe = 1,1
     (Piximètre, formule statistique; mesures dans le NaCl iso 0,9%, sans les ornements)
   basidioles: 
-  basidiome: gastéroïdes, hypogés à subhypogés, réniformes, subglobuleux à allongés, glabre, blanc gris, 10-30 (50) mm Ø
+  basidiome: gastéroïdes, hypogés à subhypogés, réniformes, obtusément elliptiques à allongés, glabre, blanc gris, 10-30 (50) mm Ø
   bibliographies: 
   biotopes: pousse dans le sol, sous conifères
   boucles: 
@@ -196,7 +196,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: un à deux spécimens
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 

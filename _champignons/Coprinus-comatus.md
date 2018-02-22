@@ -27,7 +27,7 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: 46.789556, -71.237444
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture

@@ -27,8 +27,8 @@ collections:
       numero: cKc0666-0195
       miniature: https://c1.staticflickr.com/5/4654/25496709347_e0a2c57b40_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/25496709347/in/dateposted/
-    geolocalisation: 45°59’09.04"N70°57’10.99"O
-    elevation: 352 m
+    geolocalisation: 45°59’09.04"N   70°57’10.99"O
+    elevation: 353m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 

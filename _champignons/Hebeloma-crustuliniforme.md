@@ -1,0 +1,287 @@
+---
+nom: Hebeloma crustuliniforme
+date: 2018-02-23 00:00:00
+image: https://c2.staticflickr.com/8/7510/30176151245_b24ee2a1f3_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/30176151245/in/photolist-M1Yi6z-MYyErK
+album-flickr:
+  - 72157690760722182
+
+details:
+  nom-francais: 
+  domaine: Eucaryote
+  regne: Fungi
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
+  ordre: Agaricales
+  famille: Hymenogastraceae
+  genre: Hebeloma
+  espece: <i>Hebeloma crustuliniforme</i> (Bull.) Quél.
+  litterature: 
+
+collections:
+  - fongarium: cKc0587
+    date: 7 octobre 2016
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+
+description:
+  acanthocytes: 
+  acanthophyses: 
+  aiguillons: 
+  aleurioconidies: 
+  anamorphe: 
+  anamorphe-conidien: 
+  anneau: 
+  apothecie: 
+  arete-lamellaire: 
+  arthroconidies: 
+  articles: 
+  ascome: 
+  ascospores: 
+  asques: 
+  asterohyphidies: 
+  avertissement: 
+  base-du-pied: 
+  base-sterile: 
+  base-stipitiforme: 
+  basides: 
+  basidiospores: 
+  basidioles: 
+  basidiome: 
+  bibliographies: 
+  biotopes: 
+  boucles: 
+  brachybasidioles: 
+  calicule: 
+  capillitium: 
+  capitule: 
+  caulobasides: 
+  caulocystides: 
+  caulocystides-medianes: 
+  caulocystides-sommitales: 
+  cauloparacystides: 
+  cellules-hymeniales-diverticulees: 
+  cellules-hymeniales-en-brosses: 
+  cellules-marginales-paracystides: 
+  cellules-peritheciales: 
+  cellules-stromatiques: 
+  chair: 
+  chancre: 
+  cheilochrysocystides:
+  cheilocystides: 
+  cheilomacrocystides: 
+  chlamydospores: 
+  chrysocystides: 
+  circumcystides: 
+  clavules: 
+  columelle: 
+  comestibilite: 
+  commentaires: 
+  conidies: 
+  conidiome: 
+  conidiophores: 
+  consistance: 
+  contexte: 
+  cordons-myceliens: 
+  cordons-rhizomorphiques: 
+  cortex: 
+  cortex-caulinaire: 
+  cortex-du-pied-et-du-bulbe: 
+  cortex-peridial: 
+  cortex-sclerotial: 
+  cortine: 
+  coupe-sterile: 
+  cristaux: 
+  cristaux-d-oxalate: 
+  cristaux-apicaux: 
+  cuticule: 
+  cutis: 
+  cycle: 
+  cystides: 
+  cystides-hymeniales: 
+  cystides-intermediaires: 
+  cystidioles: 
+  dendrohyphydies: 
+  depots-de-pigment-interhyphal: 
+  dermatocystides-caulocystides-et-pileipellis: 
+  derniere-correction: 
+  dicaryophyses: 
+  dichophyses: 
+  disque-basal: 
+  distribution: 
+  elateres: 
+  elements-acanthophyses: 
+  elements-cystidioides: 
+  elements-hyphoides: 
+  elements-setoides: 
+  elements-steriles: 
+  elements-sur-les-cotes: 
+  elements-velaires: 
+  endoperidium: 
+  especes-identification: 
+  especes-semblables: 
+  excipulum: 
+  excipulum-medullaire-superieur: 
+  excipulum-medullaire-moyen: 
+  excipulum-medullaire-inferieur: 
+  excipulum-ectal: 
+  exhalaison: 
+  exhalaison-de-la-chair: 
+  exhalaison-des-lames: 
+  exoperidium: 
+  extremites-hyphales: 
+  face-externe: 
+  face-poroïde: 
+  feutrage-basal: 
+  fragments-sporaux: 
+  funicule: 
+  glebe: 
+  gleocystides: 
+  gleocystides-hymeniales: 
+  gleocystides-subhymeniales: 
+  granules-calcaires: 
+  groupe: 
+  hymenium: 
+  hymenocystides: 
+  hymenophore: 
+  hyphes: 
+  hyphes-de-la-chair: 
+  hyphes-de-l-anneau: 
+  hyphes-du-pied: 
+  hyphes-glebales: 
+  hyphes-gleopleres: 
+  hyphes-hymeniales: 
+  hyphes-ligatives: 
+  hyphes-oleiferes: 
+  hyphes-pectinees: 
+  hyphes-primordiales: 
+  hyphes-setales: 
+  hyphes-squelettiques: 
+  hyphes-skeletoligative: 
+  hyphes-subiculaires: 
+  hyphes-thrombopleres: 
+  hyphes-tramales: 
+  hyphes-vesiculaires: 
+  hyphidies: 
+  hyphique: 
+  hypobasides: 
+  hypoderme: 
+  hypoge: 
+  hypophylle: 
+  hypothalle: 
+  hypothece: 
+  hysterothece: 
+  lames: 
+  lamprocystides: 
+  lamprocheilocystides: 
+  lampropleurocystides: 
+  lamprocaulocystides: 
+  latex: 
+  leptocystides: 
+  leptocheilocystides: 
+  leptopleurocystides: 
+  macrocystides: 
+  macropleurocystides: 
+  marge: 
+  marge-et-face-externe: 
+  mediostrate: 
+  medulla: 
+  medulla-caulinaire: 
+  medulla-clavariale: 
+  medulla-clavulaire: 
+  microconidies: 
+  mode-de-croissance: 
+  mycelium-basal: 
+  myxocarpe: 
+  nouvelle-espece: 
+  note-taxonomique: 
+  oeuf: 
+  paracapillitium: 
+  paraphyses: 
+  parasite: 
+  paroi-peritheciale: 
+  partie-apicale: 
+  peridiole: 
+  peridiopellis: 
+  peridium: 
+  peritheces: 
+  phenologie: 
+  phialoconidies: 
+  pieds-steriles: 
+  pigments: 
+  pileipellis: 
+  pileitrame: 
+  pileocystides: 
+  pileus: 27-50 mm Ø, convexe, glabre, beige au centre, plus pâle vers la marge
+  plasmode: 
+  pleurochrysocystides: 
+  pleurocystides: 
+  poils: 
+  poils-basaux: 
+  poils-caulinaires: 
+  poils-du-cortex: 
+  poils-externes: 
+  poils-lateraux-et-caulinaires: 
+  poils-marginaux: 
+  poils-mycelien-basaux: 
+  poils-peridiaux: 
+  poils-peritheciaux: 
+  poils-pileiques: 
+  pores: 
+  premiere-mention: 
+  pseudocapillitium: 
+  pseudocolumelle: 
+  pseudocystides: 
+  pseudo-peridioles: 
+  publications: 
+  publications-microscopiques: 
+  reactions-chimiques-naturelles: 
+  reactions-macrochimiques: 
+  receptacle: 
+  remarques: 
+  repartition: 
+  rhizomorphes: 
+  sac-sporifere: 
+  saveur: 
+  sclerocystides: 
+  sclerote: 
+  soies: 
+  soies-hymeniales: 
+  sporee: 
+  spherocytes: 
+  sporocystes: 
+  stipe: 
+  stipitipellis: 
+  stipititrame: 
+  stroma: 
+  subhymenium: 
+  subiculum: 
+  substrat: 
+  symptomes: 
+  syndrome: 
+  synonymie: 
+  systeme-hyphal: 
+  textura: 
+  tomentum-caulinaire: 
+  tomentum-pileique: 
+  trame-hymenophorale: 
+  trame-lamellaire: 
+  trame-tubulaire: 
+  tubes: 
+  type: 
+  typique: 
+  velipellis: 
+  voile: 
+  voile-general: 
+  voile-partiel: 
+  volve: 
+  zone-perihymeniale: 
+---

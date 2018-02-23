@@ -49,7 +49,7 @@ description:
     cylindriques à  ± courbées, avec une extrémité aciculaire et une extrémité arrondie, lisses, multiseptées, hyalines dans l’eau glycérinée 15%
     40-75 x 1,7-2,5 µm
     (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
-  asques: claviformes à apex ± fusiformes, à huit ascospores fasciculées, hyalines dans l’eau glycérinée 15%, pas de réactions dans le melzer, (86,1) 87,1 - 99,2 (105) × (10,6) 11,2 - 12,1 (12,2) µm
+  asques: claviformes à apex ± fusiformes, à huit ascospores fasciculées, hyalines dans l’eau glycérinée 15%, pas de réactions dans le melzer, (86,1) 87,1-99,2 (105) × (10,6) 11,2-12,1 (12,2) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -209,7 +209,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: filiformes, ramifiées, non clavées et fortement circinées à l'apex, hyslines dans l'eau glycérinée 15%
   parasite: 
   paroi-peritheciale: 
   peridiole: 

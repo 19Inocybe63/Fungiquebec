@@ -7,7 +7,7 @@ album-flickr:
   - 72157690760722182
 
 details:
-  nom-francais: 
+  nom-francais: Hébélome croûte-de-pain
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -98,7 +98,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: absente
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -117,7 +117,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: occasionnel
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -199,7 +199,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: dispersé, souvent caespiteux
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -214,7 +214,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: d'août à octobre
   phialoconidies: 
   pieds-steriles: 
   pigments: 

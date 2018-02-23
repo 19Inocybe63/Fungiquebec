@@ -43,7 +43,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    <b>Eberhardt, Ursula.; Beker, Henry J.; Vesterholt, Jan.; Schütz, Nicole</b>. <i>The taxonomy of the European species of Hebeloma section Denudata subsections Hiemalia, Echinospora subsect. nov. and Clepsydroida subsect. nov. And five new species</i>, Fungal Biology 120 (2016) 72-103, 32 p.
   ascome: 
   ascospores: 
   asques: 
@@ -241,7 +242,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Beker, H. J.; Eberhardt, U.; Vesterholt, J</b>. <i>Hebeloma (Fr.) P. Kumm.</i> Fungi Europaei vol. 14, Ed. Candusso Edizioni, 2016.
+    <b>Smith, Alexander H.; Evenson, Vera Stuck; Mitchel, Duane H</b>. <i>The Veiled Species of Hebeloma in the Western United States</i>, Ann Arbor the University of Michigan Press, 1983, 228 p.
+    <b>Vesterholt, Jan</b>. <i>The genus Hebeloma</i>, Fungi of Northern Europe, vol. 3, Danish Mycological Society, 2005, p. 76 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

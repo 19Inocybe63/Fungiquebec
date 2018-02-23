@@ -209,7 +209,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: filiformes, ramifiées, non clavées et fortement circinées à l'apex, hyslines dans l'eau glycérinée 15%
+  paraphyses: filiformes, ramifiées, septées et fortement circinées, hyalines dans l'eau glycérinée 15%
   parasite: 
   paroi-peritheciale: 
   peridiole: 

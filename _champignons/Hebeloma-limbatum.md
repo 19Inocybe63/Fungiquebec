@@ -53,7 +53,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes à largement claviformes, largement cylindriques, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations),  23 [27,3; 32,5] 36,7 × 8,5 [9,5; 10,8] 11,8 µm en moyenne
+  basides: piriformes à largement claviformes, largement cylindriques, tétrasporiques, bouclées à la base, à contenu vacuolaire (et granulations),  (23) 27,3-32,5 (36,7) × (8,5) 9,5-10,8 (11,8) µm en moyenne
   basidiospores: |
     citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, sublisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, hyalines dans E.G. 20%, moyennement dextrinoïdes (D2), non cyanophiles
     (9,6) 10,2-11,9 (13,8) × (5,2) 5,4-6,1 (6,7) µm
@@ -80,7 +80,7 @@ description:
   cellules-stromatiques: 
   chair: épaisse au disque, abruptement amincie vers la marge, ferme, blanchâtre à crème
   chancre: 
-  cheilocystides: abondantes formant une palissade, longuement claviformes, rarement flexueuses à tortueuses, à paroi mince, hyalines, bouclées, 51,6 [59,1; 69,5] 77 × 5,5 [5,9; 6,5] 7 µm en moyenne
+  cheilocystides: abondantes formant une palissade, longuement claviformes, rarement flexueuses à tortueuses, à paroi mince, hyalines, bouclées, (51,6) 59,1-69,5 (77) × (5,5) 5,9-6,5 (7) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

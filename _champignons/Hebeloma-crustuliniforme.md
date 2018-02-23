@@ -7,7 +7,7 @@ album-flickr:
   - 72157690760722182
 
 details:
-  nom-francais: Hébélome croûte-de-pain
+  nom-francais: Hébélome échaudé / Hébélome croûte-de-pain
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

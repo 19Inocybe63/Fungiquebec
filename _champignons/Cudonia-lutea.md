@@ -71,7 +71,7 @@ description:
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 
-  cellules: externes formées de verrues coniques, (11,5) 12,8-19,7 (33,3) × (5,4) 5,5-9,7 (10,8) µm en moyenne, constituées par des poils hyphoïdes courts, fasciculés, de 2-4 cellules obtusément elliptiques à allongées
+  cellules: externes formées de verrues coniques, (11,5) 12,8-19,7 (33,3) × (5,4) 5,5-9,7 (10,8) µm en moyenne, constituées par des poils hyphoïdes courts, fasciculés, de 2-4 cellules obtusément elliptiques à cylindriques ± allongées
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 

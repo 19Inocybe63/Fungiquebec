@@ -85,7 +85,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Des études d'ADN seront réalisées par Henry J. Beker sur trois collections d'Hébélomes. »
   conidies: 
   conidiome: 
   conidiophores: 

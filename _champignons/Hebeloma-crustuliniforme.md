@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sous <i>Tilia americana</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -73,7 +73,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: ferme, blanche se tachant de rouille à maturité
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -135,7 +135,7 @@ description:
   excipulum-ectal: 
   exhalaison: 
   exhalaison-de-la-chair: 
-  exhalaison-des-lames: 
+  exhalaison-des-lames: caoutchouteuse à raphanoïde
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, cunéiformes, rectilignes à arrondies, concolore au chapeau, serrées à très serrées, dont l'arête lamellaire est fimbriée, comme légèrement givré et exsude des gouttelettes hyalines à blanchâtre tachant les lames de brun ochracé
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -250,15 +250,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: raphanoïde avec finale amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun cannelle à brun ochracé
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 30-48 x 8-12 mm Ø, claviforme, furfuracé avec des rugosités blanchâtres à légèrement rouille, ferme, bulbeux, parfois trapu à ventru, plein et vide fibrilleux à maturité
   stipitipellis: 
   stipititrame: 
   stroma: 

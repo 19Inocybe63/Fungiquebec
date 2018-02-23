@@ -47,7 +47,7 @@ description:
   ascome: formé d'un capitule et d'un stipe
   ascospores: |
     cylindriques à  ± courbées, avec une extrémité aciculaire et une extrémité arrondie, lisses, multiseptées, hyalines dans l’eau glycérinée 15%
-    40-75 x 1,8-2,5 µm
+    40-75 x 1,7-2,5 µm
     (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
   asques: 
   asterohyphidies: 

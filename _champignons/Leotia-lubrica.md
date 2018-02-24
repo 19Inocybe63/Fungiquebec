@@ -44,9 +44,9 @@ collections:
   - fongarium: cKc0671
     date: 11 septembre 2017
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0671-0197
+      miniature: 
+      originale: 
     geolocalisation: 46°54'28.8"N 71°16'39.7"O
     elevation: 230 m
     determinee: 

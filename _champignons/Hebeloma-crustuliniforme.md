@@ -18,7 +18,7 @@ details:
   famille: Hymenogastraceae
   genre: Hebeloma
   espece: <i>Hebeloma crustuliniforme</i> (Bull.) Quél.
-  litterature: 
+  litterature: Quélet, L. 1872. Les Champignons du Jura et des Vosges. Mémoires de la Société d'Émulation de Montbéliard. 5:43-332
 
 collections:
   - fongarium: cKc0587
@@ -272,7 +272,12 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: 
+  synonymie: |
+   	<i>Agaricus crustuliniformis</i> Bull., Herbier de la France 7:t. 308 (1787)
+    <i>Agaricus ossa</i> J.F. Gmel., Systema Naturae 2 (2):1404 (1792)
+    <i>Hylophila crustuliniformis</i> (Bulliard) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:99 (1886)
+    <i>Hylophila crustuliniformis var. crustuliniformis</i> (Bull.) Quél. (1886)
+    <i>Hebelomatis crustuliniformis</i> (Bull.) Locq.:146 (1979)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -7,7 +7,7 @@ album-flickr:
   - 72157678365821741
 
 details:
-  nom-francais: Léotie lubrique
+  nom-francais: Léotie visqueuse
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

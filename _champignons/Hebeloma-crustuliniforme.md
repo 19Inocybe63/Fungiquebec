@@ -273,7 +273,7 @@ description:
   symptomes: 
   syndrome: 
   synonymie: |
-   	<i>Agaricus crustuliniformis</i> Bull., Herbier de la France 7:t. 308 (1787)
+    <i>Agaricus crustuliniformis</i> Bull., Herbier de la France 7:t. 308 (1787)
     <i>Agaricus ossa</i> J.F. Gmel., Systema Naturae 2 (2):1404 (1792)
     <i>Hylophila crustuliniformis</i> (Bulliard) Quélet, Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium:99 (1886)
     <i>Hylophila crustuliniformis var. crustuliniformis</i> (Bull.) Quél. (1886)

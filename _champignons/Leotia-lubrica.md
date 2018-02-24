@@ -7,7 +7,7 @@ album-flickr:
   - 72157678365821741
 
 details:
-  nom-francais: Léotie lubrifiée
+  nom-francais: Léotie lubrique
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

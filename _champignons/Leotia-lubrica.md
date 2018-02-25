@@ -1,6 +1,6 @@
 ---
 nom: Leotia lubrica
-date: 2017-09-11 00:00:00
+date: 2018-02-25 00:00:00
 image: https://c1.staticflickr.com/5/4396/37024715491_a1fb7e6a40_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37024715491/in/dateposted/
 album-flickr:
@@ -66,7 +66,7 @@ description:
   articles: 
   ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un stipe distincts, ± visqueux-gélifié, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
   ascospores: 
-  asques: 
+  asques: cylindriques à claviformes, octosporées ± bisériées au-dessus, unisériées au-dessous, légèrement atténués et arrondis vers l'apex, pas de réaction dans le melzer, (119,3) 119,5-126,8 (130,1) × (7,8) 8-9,4 (9,9) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 
@@ -216,7 +216,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: souvent densément cespiteux, grégaire ou parfois solitaire
+  mode-de-croissance: densément cespiteux à grégaire, rarement solitaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

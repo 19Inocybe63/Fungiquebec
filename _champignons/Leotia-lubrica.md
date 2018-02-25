@@ -65,7 +65,12 @@ description:
   arthroconidies: 
   articles: 
   ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un stipe distincts, ± visqueux-gélifié, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
-  ascospores: 
+  ascospores: |
+    étroitement ellipsoïdes à subfusiformes, lisse, droite, mais souvent légèrement incurvées, devenant cloisonné, avec 3-7 septa à maturité, hyalines dans l’eau glycérinée 15%, pas de réaction dans le melzer, partiellement cyanophiles
+    (14,1) 15,5-19 (20,5) × (4) 4,4-5,1 (5,9) µm
+    Q = (2,9) 3,4-4,2 (4,6); N = 30
+    Me = 17,5 × 4,7 µm; Qe = 3,7
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
   asques: cylindriques à claviformes, octosporés ± bisériés au-dessus, unisériés au-dessous, légèrement atténués et arrondis vers l'apex, pas de réaction dans le melzer, (119,3) 119,5-126,8 (130,1) × (7,8) 8-9,4 (9,9) µm
   asterohyphidies: 
   avertissement: 

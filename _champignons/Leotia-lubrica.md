@@ -223,7 +223,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: longuement claviformes à filiformes, souvent fourchues vers la base, hyalines dans l’eau glycérinée 15%, (89,4) 89,44-118,3 × 2-2,2 µm en moyenne
   parasite: 
   paroi-peritheciale: 
   peridiole: 

@@ -66,7 +66,7 @@ description:
   articles: 
   ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un stipe distincts, ± visqueux-gélifié, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
   ascospores: 
-  asques: cylindriques à claviformes, octosporées ± bisériées au-dessus, unisériées au-dessous, légèrement atténués et arrondis vers l'apex, pas de réaction dans le melzer, (119,3) 119,5-126,8 (130,1) × (7,8) 8-9,4 (9,9) µm
+  asques: cylindriques à claviformes, octosporés ± bisériés au-dessus, unisériés au-dessous, légèrement atténués et arrondis vers l'apex, pas de réaction dans le melzer, (119,3) 119,5-126,8 (130,1) × (7,8) 8-9,4 (9,9) µm
   asterohyphidies: 
   avertissement: 
   base-du-pied: 

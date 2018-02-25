@@ -66,7 +66,7 @@ description:
   articles: 
   ascome: 20-70 mm ou plus de hauteur, formé d'un capitule fertile et d'un stipe distincts, ± visqueux-gélifié, jaune ochracé, souvent teinté de verdâtre ou d'olivâtre
   ascospores: |
-    étroitement ellipsoïdes à subfusiformes, lisse, droite, mais souvent légèrement incurvées, devenant cloisonné, avec 3-7 septa à maturité, hyalines dans l’eau glycérinée 15%, pas de réaction dans le melzer, partiellement cyanophiles
+    étroitement ellipsoïdes à subfusiformes, lisse, droites, mais souvent légèrement incurvées, devenant cloisonnées, avec 3-7 septa à maturité, hyalines dans l’eau glycérinée 15%, pas de réaction dans le melzer, partiellement cyanophiles
     (14,1) 15,5-19 (20,5) × (4) 4,4-5,1 (5,9) µm
     Q = (2,9) 3,4-4,2 (4,6); N = 30
     Me = 17,5 × 4,7 µm; Qe = 3,7

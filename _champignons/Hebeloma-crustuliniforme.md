@@ -82,7 +82,7 @@ description:
   chair: ferme, blanche se tachant de rouille à maturité
   chancre: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, polymorphes, cylindriques à claviformes, longuement claviformes, parfois avec apex subcapité, rarement difformes, parfois flexueuses, parfois tortueuses, à paroi mince, bouclées, (46,1) 57,4-82,5 (107,7) × (8,1) 8,4-10,7 (11,2) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

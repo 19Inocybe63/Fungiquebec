@@ -70,7 +70,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: 
+  caulocystides: nombreuses, en faisceaux, semblables aux cheilocystides, cylindriques-claviformes à longuement cylindriques-claviformes, (57,9) 58-78 × 5,6-8,1 (8,2) µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cauloparacystides: 

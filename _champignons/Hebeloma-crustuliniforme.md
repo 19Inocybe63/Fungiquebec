@@ -230,7 +230,7 @@ description:
   pileus: 27-50 mm Ø, convexe, glabre, beige au centre, plus pâle vers la marge
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

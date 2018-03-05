@@ -224,7 +224,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en 2 couches; suprapellis en ixocutis de 118-145 µm d'épaisseur, formé d'hyphes gélatinisées, rarement ruguleuses, bouclées, hyalines, et d’un subpellis formé d'hyphes ± obtusément ellipsoïdes
+  pileipellis: en 2 couches; suprapellis en ixocutis de 118-145 µm d'épaisseur, formé d'hyphes gélatinisées, rarement ruguleuses, bouclées, hyalines, et d’un subpellis formé de cellules enflées
   pileitrame: 
   pileocystides: 
   pileus: 27-50 mm Ø, convexe, glabre, beige au centre, plus pâle vers la marge

@@ -54,7 +54,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, sublisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, hyalines dans l’eau glycérinée 15%, moyennement dextrinoïdes (D2), non cyanophiles
+    (9,5) 10,1-11 (11,2) × (5,6) 5,7-6,2 (6,4) µm
+    Q = (1,6) 1,7-1,8 (1,9); N = 30
+    Me = 10,5 × 6 µm; Qe = 1,8
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l’eau glycérinée 15%)
   basidioles: 
   basidiome: 
   bibliographies: 

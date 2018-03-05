@@ -288,7 +288,7 @@ description:
   tomentum-caulinaire: 
   tomentum-pileique: 
   trame-hymenophorale: 
-  trame-lamellaire: 
+  trame-lamellaire: formée d'hyphes parallèles
   trame-tubulaire: 
   tubes: 
   type: 

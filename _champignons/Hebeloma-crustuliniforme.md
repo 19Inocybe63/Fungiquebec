@@ -25,8 +25,8 @@ collections:
     date: 7 octobre 2016
     planche:
       numero: cKc0587-0198
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c1.staticflickr.com/5/4662/26785403398_40d4a62bf7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/26785403398/in/photolist-GNWceY-M1Yi6z-MYyErK/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)

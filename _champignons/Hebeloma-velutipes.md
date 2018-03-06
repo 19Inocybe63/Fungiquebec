@@ -101,7 +101,7 @@ description:
   comestibilite: 
   commentaires: |
     De Claude Kaufholtz-Couture. « La collection cKc0575 a été étudiée sur du matériel déshydraté. »
-    De Claude Kaufholtz-Couture. « Je suis persuadé qu’il ne s’agit pas ici de la même espèce, puisque la collection cKc0575 à des basidiospores dextrinoïdes et l’autre (cKc0596) pas. Nous attendons les résultats de l’ADN. »
+    De Claude Kaufholtz-Couture. « Je suis persuadé qu’il ne s’agit pas ici de la même espèce, puisque la collection cKc0575 a des basidiospores dextrinoïdes et l’autre (cKc0596) pas. Nous attendons les résultats de l’ADN. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -39,7 +39,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/30351318762/in/photolist-Nf3rDm-MU8ic1-N2czGE/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
+    determinee: Henry Beker (provisoire)
     confirmee: 
 
 description:

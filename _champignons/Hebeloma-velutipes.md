@@ -31,6 +31,16 @@ collections:
     elevation: 
     determinee: Henry Beker (provisoire)
     confirmee: 
+  - fongarium: cKc0596
+    date: 10 octobre 2016
+    planche:
+      numero: cKc0596-0140
+      miniature: https://c1.staticflickr.com/9/8630/30351318762_7b28c01650_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/30351318762/in/photolist-Nf3rDm-MU8ic1-N2czGE/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
 
 description:
   acanthocytes: 

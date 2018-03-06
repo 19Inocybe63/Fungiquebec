@@ -55,7 +55,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, sublisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, brun pâle à brun rougeâtre très pâle dans l’eau glycérinée 15%, très faiblement dextrinoïdes (D1), non cyanophiles
+    citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, sublisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, brun pâle à brun rougeâtre très pâle dans l’eau glycérinée 15%, non dextrinoïdes, non cyanophiles
     (9,5) 10,1-11 (11,2) × (5,6) 5,7-6,2 (6,4) µm
     Q = (1,6) 1,7-1,8 (1,9); N = 30
     Me = 10,5 × 6 µm; Qe = 1,8

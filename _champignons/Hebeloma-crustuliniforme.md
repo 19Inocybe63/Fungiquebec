@@ -1,6 +1,6 @@
 ---
 nom: Hebeloma crustuliniforme
-date: 2018-03-05 00:00:00
+date: 2018-03-06 00:00:00
 image: https://c2.staticflickr.com/8/7510/30176151245_b24ee2a1f3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30176151245/in/photolist-M1Yi6z-MYyErK
 album-flickr:
@@ -55,7 +55,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, sublisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, hyalines dans l’eau glycérinée 15%, moyennement dextrinoïdes (D2), non cyanophiles
+    citriformes, fusiformes en vue frontale à ellipsoïdes, amigdaliformes vues de profil, parfois à sommet papillé, sublisses, finement sablées à verruqueuses, à paroi mince, parfois calyptrées, pore germinatif non visible, appendice hilaire bien développé, à contenu guttulé à variable, brun pâle à brun rougeâtre très pâle dans l’eau glycérinée 15%, moyennement dextrinoïdes (D2), non cyanophiles
     (9,5) 10,1-11 (11,2) × (5,6) 5,7-6,2 (6,4) µm
     Q = (1,6) 1,7-1,8 (1,9); N = 30
     Me = 10,5 × 6 µm; Qe = 1,8

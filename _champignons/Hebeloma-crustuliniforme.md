@@ -1,6 +1,6 @@
 ---
 nom: Hebeloma crustuliniforme
-date: 2018-03-06 00:00:00
+date: 2018-03-07 00:00:00
 image: https://c2.staticflickr.com/8/7510/30176151245_b24ee2a1f3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30176151245/in/photolist-M1Yi6z-MYyErK
 album-flickr:
@@ -27,6 +27,16 @@ collections:
       numero: cKc0587-0198
       miniature: https://c1.staticflickr.com/5/4662/26785403398_40d4a62bf7_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/26785403398/in/photolist-GNWceY-M1Yi6z-MYyErK/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0596
+    date: 10 octobre 2016
+    planche:
+      numero: cKc0596-0140
+      miniature: https://c1.staticflickr.com/9/8630/30351318762_7b28c01650_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/30351318762/in/photolist-Nf3rDm-MU8ic1-N2czGE/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)

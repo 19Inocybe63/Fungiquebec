@@ -1,10 +1,10 @@
 ---
 nom: Hebeloma velutipes
-date: 2018-03-06 00:00:00
+date: 2018-03-07 00:00:00
 image: https://c2.staticflickr.com/6/5687/29909344612_2edcbdb7cd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29909344612/in/photolist-NkV4y1-MBDQJa-MyZd8o/
 album-flickr:
-  - 72157688524035360
+  - 
 
 details:
   nom-francais: Hébélome au stipe duveteux
@@ -27,16 +27,6 @@ collections:
       numero: cKc0575-0139
       miniature: https://c2.staticflickr.com/6/5467/30417777636_c18d72b6b7_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/30417777636/in/photolist-NkV4y1-MBDQJa-MyZd8o/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: Henry Beker (provisoire)
-    confirmee: 
-  - fongarium: cKc0596
-    date: 10 octobre 2016
-    planche:
-      numero: cKc0596-0140
-      miniature: https://c1.staticflickr.com/9/8630/30351318762_7b28c01650_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/30351318762/in/photolist-Nf3rDm-MU8ic1-N2czGE/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Henry Beker (provisoire)
@@ -101,7 +91,6 @@ description:
   comestibilite: 
   commentaires: |
     De Claude Kaufholtz-Couture. « La collection cKc0575 a été étudiée sur du matériel déshydraté. »
-    De Claude Kaufholtz-Couture. « Je suis persuadé qu’il ne s’agit pas ici de la même espèce, puisque la collection cKc0575 a des basidiospores dextrinoïdes et l’autre (cKc0596) pas. Nous attendons les résultats de l’ADN. »
   conidies: 
   conidiome: 
   conidiophores: 

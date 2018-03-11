@@ -18,6 +18,9 @@ layout: default
             <p><b>Auteur :</b> {{ page.author }}</p>
             <p><b>Source :</b> {{ page.source }}</p>
             <p><b>Derniere mise à jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            {% if page.commentaire %}
+            <p><b>Commentaire :</b> {{ page.commentaire | newline_to_br }}</p>
+            {% endif %}
             <div class="spacing"></div>
         </div>
 
@@ -59,6 +62,10 @@ layout: default
                 {% endfor %}
                 </p>
             {% endfor %}
+
+            <div class="spacing"></div>
+
+            {{ content }}
 
             <div class="spacing"></div>
         </div>

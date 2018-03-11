@@ -1,0 +1,19 @@
+Key,Type,Mandatory,Value,Date,Notes
+#Tools - those default tools to exclude and non-default tools to include,,,,,
+excludedDefaultTools,config,no,,,"e.g. 'vis1, vis3' to remove the 'Two-column key' and 'Side-by-side comparison' visualisations"
+otherIncludedTools,config,no,,,e.g. 'visEarthworm' to add a custom visualisation (must be installed to work)
+selectedTool,config,no,vis2,,e.g. 'vis2' to start the framework with the 'Single-column key' visualisation selected
+checkValidity,config,no,yes,,If value set to 'yes' (lower case) validity checks and reporting will be carried out by the visualisation software.
+#Main metadata about the key (e.g. for citing the key),,,,,
+title,metadata,yes,Scutellinia,,
+year,metadata,yes,2017,,
+authors,metadata,yes,Greaves M,,
+publisher,metadata,no,,,
+location,metadata,no,Flaxton,,
+contact,metadata,no,,,
+version,metadata,yes,1.3,,
+#Releases - keep track of the release history below this line. Most recent releases at the top. The version code in the 'value' column below this line should match that of the current release above it.,,,,,
+Olivascens altered,history,no,1.3,6/26/2017,Olivascens multifurcate added
+Photos added,history,no,1.2,6/16/2017,Species fotos added and slight change to Hair Colour
+Descriptions from Schumacher added,history,no,1.1,5/29/2017,More detailed information added
+release,history,yes,0.1,3/23/2017,MG published an initial test version

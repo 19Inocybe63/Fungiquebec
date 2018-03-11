@@ -1,0 +1,35 @@
+Taxon,Sporeshape,Sporelength,Sporewidth,Qvalue,Sporeornamentation,Sporewall,Hairlength,Hairwidth,Hairwall,Hairsepta,Hairroot,Habitat,Ascuslength,Hairshape,Haircolour
+ahmadii,Broadlyellipsoid,[17-22],[12.2-15.4],[1.25-1.45],tuberculate,no,under 450,[10-15],[1-4],[0-2],simple ,humus,[200-255],acuminate,yellowbrown
+barlae,Globose,[16-24.5],[16-24.5],[1-1],aculeolate | tuberculate,no,under 450,[15-25],[3-5],[1-4],simple | bifurcate,humus,[250-340],flexuous | crowded | attenuate,black | blackbrown
+cejpii,Narrowlyellipsoid,[22-25.5],[10-13.5],[1.75-2.2],pustulocristate | verrucose | tuberculate,no,Between 450 & 800,[20-50],[4-9],[1-3],multifurcate,forest,[200-280],straight | ventricose | acuminate,yellowbrown
+citrina,Globose | Subglobose,[25-28],[25-28],[1.0-1.25],verrucose | tuberculate,no,Between 450 & 800,[10-20],[3-5],[1-3],simple ,humus,[260-340],flexuous ,brown
+colensoi,Ellipsoid,[17-20.3],[9.5-11.6],[1.45-1.75],pustulocristate | tuberculatereticulate,no,Between 1200 & 2300,[25-50],[5-7],[5-15],multifurcate,forest,[210-280],straight | uneven,brown
+crinita,Ellipsoid,[16.5-21.2],[11-13.8],[1.52-1.64],microverrucose,no,Between 1200 & 2300,[24-47],[5-7.5],[5-15],trifurcate | multifurcate,forest | dung,[180-240],acuminate | uneven,brown
+crucipila,Ellipsoid,[17-19],[9-10],[1.45-1.75],microverrucose,yes,under 450,[8-13],[1-5],[1-4],simple | bifurcate,humus,[180-240],stellate,
+decipiens,Subglobose | Broadlyellipsoid,[19-22.3],[13.5-17],[1.2-1.4],tuberculatereticulate,no,Between 1200 & 2300,[16-43],[3-7],[6-15],trifurcate,forest,[250-350],acuminate,blackbrown
+heterosculpturata,Ellipsoid,[18.8-21.7],[11-13.5],[1.65-1.80],tuberculate,no,Between 450 & 800,[20-30],[1-4.7],[3-7],simple | bifurcate,humus,[200-260],ventricose | acuminate,
+heterosphaera,Globose,[18.5-19.4],[18.5-19.4],[1-1],tuberculate | spinulose,no,Between 800 & 1200,[15-27],[3-5],[1-9],bifurcate | trifurcate,forest,[230-250],flexuous ,yellowbrown
+hyperborea,Globose | Subglobose,[19-23.5],[19-23.5],[1.1-1.25],tuberculate,no,Between 450 & 800,[15-30],[3-5],[1-9],simple | bifurcate,humus,[250-290],attenuate | crowded | acuminate,
+kerguelensis,Broadlyellipsoid,[21.2-28],[14.4-20.8],[1.25-1.45],microverrucose,no,Between 450 & 800,[18-38],[4.5-6.5],[6-15],simple | bifurcate,forest | dung,[260-330],flexuous,blackbrown
+legaliae,Globose,[15.6-18.4],[15.6-18.4],[1-1],spinulose,no,Between 450 & 800,[16-35],[4-7],[3-7],simple | bifurcate | trifurcate,humus,[245-290],acuminate | ventricose,blackbrown
+macrospora,Narrowlyellipsoid,[25-31.5],[12-14],[1.75-2.2],microverrucose,no,under 450,[14-26],[2-3.6],[2-4],simple | bifurcate | trifurcate,humus,[250-300],acuminate | obtuse | crowded,yellowbrown
+minor,Globose | Subglobose,[16-19.5],[16-19.5],[1.0-1.25],aculeolate,no,under 450,[15-40],[3-5],[6-15],simple | bifurcate | trifurcate,humus,[230-310],flexuous | ventricose | uneven,yellowbrown
+minutella,Ellipsoid,[12.8-16.2],[6.8-9.2],[1.45-1.75],microverrucose,yes,under 450,[8-20],[1.8-3.8],[1-3],simple | bifurcate,humus,[170-220],attenuate | crowded |ventricose | curved | constricted,brown
+mirabilis,Narrowlyellipsoid,[23.5-28],[11.5-15],[1.75-2.2],microverrucose | verrucose,yes,Between 800 & 1200,[14-30],[3-5],[1-7],simple | bifurcate,humus,[220-270],ventricose | acuminate,brown
+nigrohirtula,Ellipsoid | Broadlyellipsoid,[19.4-26.5],[13.8-16.6],[1.45-1.75],verrucose | pustulocristate,no,under 450,[12-28],[3.4-6.2],[3-5],simple | bifurcate | trifurcate,forest,[260-300],crowded | flexuous,blackbrown
+olivascens,Ellipsoid | Broadlyellipsoid,[20-27],[12-18],[1.35-1.75],microverrucose | verrucose,no,Between 800 & 1200,[18-48],[5-7.8],[6-15],bifurcate | trifurcate | multifurcate,forest,[220-320],flexuous | uneven | acuminate | obtuse | ventricose,brown | yellowbrown
+patagonica,Broadlyellipsoid,[18-23],[13.2-18],[1.1-1.45],tuberculate,no,Between 800 & 1200,[15-48],[3-7],[6-15],bifurcate | trifurcate,forest | dung,[200-320],acuminate,brown
+pennsylvanica,Ellipsoid,[16.5-23],[11-13.5],[1.45-1.75],tuberculatereticulate,no,Between 1200 & 2300,[15-45],[3-7],[6-15],trifurcate |multifurcate,forest,[220-260],acuminate,blackbrown
+pilati,Ellipsoid,[21-27.4],[13.6-16.4],[1.45-1.75],microverrucose,no,Between 1200 & 2300,[25-43],[6-9],[6-15],trifurcate |multifurcate,xylo,[270-330],acuminate,brown
+pseudotrechispora,Ellipsoid,[18.8-24.2],[10.2-13.4],[1.45-1.75],reticulated,yes,under 450,[13-30],[4-6],[1-3],simple | bifurcate,humus,[180-250],flexuous | ventricose,yellowbrown
+rotundisperma,Globose,[16.2-18.2],[16.2-18.2],[1-1],reticulated,no,Between 800 & 1200,[20-36],[3.4-5.4],[6-15],bifurcate | trifurcate,humus,[330-380],ventricose | acuminate,brown
+scutellata,Ellipsoid,[17.4-22.8],[10.6-13.1],[1.63-1.75],verrucose,no,Between 1200 & 2300,[22-47],[4.5-8],[6-15],multifurcate,forest | dung,[160-320],acuminate,brown
+setosa,Ellipsoid,[17.8-20.6],[10.2-12.4],[1.45-1.75],smooth,no,Between 800 & 1200,[15-30],[5-8],[6-15],multifurcate,forest,[190-230],flexuous | acuminate,blackbrown
+sinensis,Globose,[15-19],[15-19],[1-1],tuberculate,no,Between 450 & 800,[15-27],[2.5-5.6],[2-11],multifurcate,forest,[130-200],flexuous | ventricose,
+subhirtella,Ellipsoid,[17-24],[12-15],[1.45-1.75],tuberculate,no,Between 450 & 800,[15-34],[4-8],[6-15],simple | bifurcate | trifurcate,forest,[220-290],ventricose | attenuate,brown | blackbrown
+superba,Broadlyellipsoid | Ellipsoid,[19-24],[11-15],[1.25-1.75],verrucose,yes,under 450,[15-35],,[2-7],simple | bifurcate | trifurcate,humus,[220-300],ventricose | flexuous | acuminate | obtuse | constricted,yellowbrown
+torrentis,Ellipsoid,[15.6-19.2],[7.8-11.5],[1.45-1.75],microverrucose | verrucose,yes,under 450,[15-35],[3-6],[1-4],simple | bifurcate | trifurcate,humus,[190-250],flexuous | curved | ventricose,yellowbrown
+trechispora,Globose,[14.7-17.3],[14.7-17.3],[1-1],aculeolate,no,Between 1200 & 2300,[26-48],[4-8],[6-15],multifurcate,humus,[260-310],acuminate,brown
+umbrorum,Broadlyellipsoid,[17-25],[12-17],[1.25-1.45],tuberculate,no,Between 450 & 800,[24-48],[3.8-6.2],[6-15],bifurcate | trifurcate,humus,[210-310],flexuous,yellowbrown
+variornata,Broadlyellipsoid,[18.8-21.7],[11-13.5],[1.25-1.4],tuberculate | verrucose,no,under 450,,,,,,,,
+vitreola,Ellipsoid,[15-20],[9-12],[1.45-1.75],tuberculate | verrucose,no,Between 800 & 1200,[25-45],[3.5-5],[6-15],bifurcate | trifurcate,forest,[180-250],acuminate,

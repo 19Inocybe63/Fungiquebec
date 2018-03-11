@@ -1,0 +1,18 @@
+Key,Type,Mandatory,Value,Date,Notes
+#Tools - those default tools to exclude and non-default tools to include,,,,,
+excludedDefaultTools,config,no,,,"e.g. 'vis1, vis3' to remove the 'Two-column key' and 'Side-by-side comparison' visualisations"
+otherIncludedTools,config,no,,,e.g. 'visEarthworm' to add a custom visualisation (must be installed to work)
+selectedTool,config,no,vis2,,e.g. 'vis2' to start the framework with the 'Single-column key' visualisation selected
+checkValidity,config,no,yes,,If value set to 'yes' (lower case) validity checks and reporting will be carried out by the visualisation software.
+#Main metadata about the key (e.g. for citing the key),,,,,
+title,metadata,yes,Geoglossum,,
+year,metadata,yes,2017,,
+authors,metadata,yes,Greaves M,,
+publisher,metadata,no,,,
+location,metadata,no,Flaxton,,
+contact,metadata,no,,,
+version,metadata,yes,1,,
+#Releases - keep track of the release history below this line. Most recent releases at the top. The version code in the 'value' column below this line should match that of the current release above it.,,,,,
+update,history,yes,1.2,21/02/2018,Details and photos added for most species and the location of finds not known in the UK yet
+update,history,no,1.1,02/08/2018,"Measurment units added, FRDBI numbers added, Current FRDBI status added"
+release,history,yes,1,1/20/2018,MG published an initial test version

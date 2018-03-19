@@ -21,7 +21,7 @@ details:
   litterature: 
 
 collections:
-  - fongarium: 
+  - fongarium: cKc0654
     date: 
     planche:
       numero: 
@@ -29,7 +29,7 @@ collections:
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: 
+    determinee: Claude Kaufholtz-Couture
     confirmee: 
 
 description:
@@ -58,15 +58,15 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: fermées, observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: absentes
+  caulocystides-sommitales: absentes
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
@@ -76,7 +76,7 @@ description:
   chair: 
   chancre: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: polymorphes, abondantes, formant une palissade, fusiformes à largement fusiformes, parfois lagéniformes, rarement obtusément elliptiques, dont l’apex est obtus, en ogive ou capitée, rarement ± rostrées, à paroi fine à épaisse 1,2-2,7 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium, à clairsemé, (28,2) 32,4-50,1 (50,7) × (14) 16-21,4 (33,4) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -84,7 +84,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+  De Claude Kaufholtz-Couture. « Sous genre Clypeus Britz., Section Cortinatae Kühn. & Bours., Sous section Brevisporinae M. Bon »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -217,13 +218,13 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: suprapellis de type banal, en cutis, formé d’hyphes apprimées, cylindriques à subcylindriques, parallèles et même un peu entrelacées, bouclées, avec cellules terminales subcylindriques, claviformes à fusiformes, paroi cellulaire mince avec granulation de type épipariétal, (15,9) 20-49,4 (59,5) × (7,2) 7,7-13,4 (20,5) µm en moyenne
   pileitrame: 
   pileocystides: 
   pileus: 
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: ± nombreuses, fusiformes à largement fusiformes, dont l’apex est parfois obtus et parfois fusiforme, à paroi mince à épaisse 1,1 × 2,9 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium à clairsemé, (49,6) 50,2-57,5 (58,9) × (14,5) 14,8-19,8 (22,6) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

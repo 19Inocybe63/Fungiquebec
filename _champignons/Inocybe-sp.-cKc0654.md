@@ -52,7 +52,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: cylindriques à claviformes, parfois ± largement claviformes, parfois sinueuses à flexueuses (en forme de bas), tétrasporiques, aux stérigmates (2,4) 3,8-4,1 (4,3) de longueur, boucles non observées à la base, à paroi mince,  (20,1) 21,2-27,4 (29,2) × (6,1) 6,5-8,6 (9) µm
   basidiospores: |
     goniosporées, nodulo-anguleuses, généralement subrectangulaires, plus rarement triangulaires, parfois à contour subrhomboïdal ou à 5-8 nodositées bases, obtuses, ± proéminentes, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé,  brun pâle à ± brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
     (7,5) 7,9-8,9 (9) × (4,2) 4,7-5,9 (6,2) µm
@@ -103,7 +103,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: présente, fugace
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -139,7 +139,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique à ± persillé
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -185,7 +185,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: sinuées à adnexées, larges, serrées, à ± espacées
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -226,7 +226,7 @@ description:
   pileipellis: suprapellis de type banal, en cutis, formé d’hyphes apprimées, cylindriques à subcylindriques, parallèles et même un peu entrelacées, bouclées, avec cellules terminales subcylindriques, claviformes à fusiformes, paroi cellulaire mince avec granulation de type épipariétal, (15,9) 20-49,4 (59,5) × (7,2) 7,7-13,4 (20,5) µm en moyenne
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 18-41 mm Ø, convexe, mamelonné, fibrilleux à squamuleux en son centre, brun, brun crème à brun rougeâtre, centre plus foncé, ± rimeux, se fend à la marge
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: ± nombreuses, fusiformes à largement fusiformes, dont l’apex est parfois obtus et parfois fusiforme, à paroi mince à épaisse 1,1 × 2,9 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium à clairsemé, (49,6) 50,2-57,5 (58,9) × (14,5) 14,8-19,8 (22,6) µm en moyenne
@@ -256,7 +256,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: ± spermatique à subfongique
   sclerocystides: 
   sclerote: 
   soies: 
@@ -264,7 +264,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 30-44 x 3-5 mm Ø, cylindrique, ± égal, strié longitudinalement, brun rougeâtre du milieu à la base, + pâle vers l'apex, tortueux vers la base, ± bulbilleux
   stipitipellis: 
   stipititrame: 
   stroma: 

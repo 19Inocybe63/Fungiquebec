@@ -1,5 +1,5 @@
 ---
-nom: Inocybe sp._cKc0654
+nom: Inocybe sp.-cKc0654
 date: 2018-03-19 00:00:00
 image: https://c1.staticflickr.com/5/4365/36695260702_1fb2638fc6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36695260702/in/photolist-Hc9K4d-XUCNyE-WWfXba
@@ -53,7 +53,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    goniosporées, nodulo-anguleuses, généralement subrectangulaires, plus rarement triangulaires, parfois à contour subrhomboïdal ou à 5-8 nodositées bases, obtuses, ± proéminentes, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé,  brun pâle à ± brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
+    (7,5) 7,9-8,9 (9) × (4,2) 4,7-5,9 (6,2) µm
+    Q = (1,4) 1,5-1,7 (1,9); N = 30
+    Me = 8,4 × 5,4 µm; Qe = 1,6
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l’eau glycérinée 15%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -70,7 +75,7 @@ description:
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: ± nombreuses, piriformes à sphéropédonculées, à paroi mince, (12,8) 13,4-18,9 (21,3) × (6,5) 6,6-11,1 (12,6) µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 

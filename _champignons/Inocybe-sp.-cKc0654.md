@@ -25,9 +25,9 @@ collections:
     date: 23 août 2017
     planche:
       numero: cKc0654-0199
-      miniature: # Largeur 320px. ici
-      originale: https://c1.staticflickr.com/1/784/27036814678_7c5834475b_n.jpg
-    geolocalisation: https://www.flickr.com/photos/kaufholtz/27036814678/in/photolist-Hc9K4d-XUCNyE-WWfXba/
+      miniature: https://c1.staticflickr.com/1/784/27036814678_7c5834475b_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/27036814678/in/photolist-Hc9K4d-XUCNyE-WWfXba/
+    geolocalisation: 
     elevation: 
     determinee: Claude Kaufholtz-Couture
     confirmee: 

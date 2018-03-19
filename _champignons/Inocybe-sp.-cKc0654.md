@@ -22,12 +22,12 @@ details:
 
 collections:
   - fongarium: cKc0654
-    date: 
+    date: 23 août 2017
     planche:
-      numero: 
+      numero: cKc0654-0199
       miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+      originale: https://c1.staticflickr.com/1/784/27036814678_7c5834475b_n.jpg
+    geolocalisation: https://www.flickr.com/photos/kaufholtz/27036814678/in/photolist-Hc9K4d-XUCNyE-WWfXba/
     elevation: 
     determinee: Claude Kaufholtz-Couture
     confirmee: 
@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, terre brune, milieu herbeux, au potentiel hydrogène (pH) 7-8
   boucles: fermées, observées dans le stipitipellis
   brachybasidioles: 
   calicule: 

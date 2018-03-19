@@ -85,7 +85,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-  De Claude Kaufholtz-Couture. « Sous genre Clypeus Britz., Section Cortinatae Kühn. & Bours., Sous section Brevisporinae M. Bon »
+    De Claude Kaufholtz-Couture. « Sous genre Clypeus Britz., Section Cortinatae Kühn. & Bours., Sous section Brevisporinae M. Bon »
   conidies: 
   conidiome: 
   conidiophores: 

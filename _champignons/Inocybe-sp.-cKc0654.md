@@ -91,7 +91,7 @@ description:
   comestibilite: 
   commentaires: |
     De Claude Kaufholtz-Couture. « Sous genre Clypeus Britz., Section Cortinatae Kühn. & Bours., Sous section Brevisporinae M. Bon »
-    De Claude Kaufholtz-Couture. « Collection qui vient de chez Daan. »
+    De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »
   conidies: 
   conidiome: 
   conidiophores: 

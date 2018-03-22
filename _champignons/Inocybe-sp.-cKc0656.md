@@ -90,6 +90,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
+    De Claude Kaufholtz-Couture. « Sous genre Inocybe;  »
     De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »
   conidies: 
   conidiome: 

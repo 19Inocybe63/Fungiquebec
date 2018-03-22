@@ -90,7 +90,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Sous genre <i>Inocybe</i>; section <i>Lacerae</i> Fr.; »
+    De Claude Kaufholtz-Couture. « Sous genre <i>Inocybe</i>; section <i>Inocybe</i>; »
     De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »
   conidies: 
   conidiome: 

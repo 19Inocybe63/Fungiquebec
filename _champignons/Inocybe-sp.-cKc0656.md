@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur sol calcaire, terre brune, milieu herbeux, ouvert, sur pelouse, sous feuillus (Quercus) et conifères et arbuste (Hydrangea), au potentiel hydrogène (pH) 7-8
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -73,7 +73,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: rougeâtre
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -84,7 +84,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -97,7 +98,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: blanchâtre à brun rougeâtre après sporulation
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -133,7 +134,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -179,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, larges, avec lamelles et lamellules, brun beige dont l'arête est blanchâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -220,7 +221,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 11-33 mm Ø, ± hémisphérique au début, convexe, mamelonné (ombo), fibrilleux à squamuleux, rimeux, avec brun rougeâtre, + foncé au centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -250,15 +251,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique avec une finale légèrement amère
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun à brun cannelle pâle
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 26-64 x 2-3 mm Ø, cylindrique, égal, plein, blanchâtre vers l'apex, brun beige au milieu, et rougeâtre vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

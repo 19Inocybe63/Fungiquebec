@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol calcaire, terre brune, milieu herbeux, ouvert, sur pelouse, sous feuillus (Quercus) et conifères et arbuste (Hydrangea), au potentiel hydrogène (pH) 7-8
+  biotopes: pousse sur sol calcaire, terre brune, milieu herbeux, ouvert, sur pelouse, sous feuillus <i>Quercus</i> et conifères et arbuste <i>Hydrangea</i>, au potentiel hydrogène (pH) 7-8
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -70,18 +70,18 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: absentes, il s'agit de terminaisons hyphales
+  caulocystides-sommitales: absentes, il s'agit de terminaisons hyphales
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
+  cellules-marginales-paracystides: nombreuses, se confondent avec les cheilocystides elliptiques à ovoïdales, à paroi mince (9,6) 13,6-15,9 (17,1) × (5,5) 7,2-9,6 (10,6) µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: rougeâtre
   chancre: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, formant une palissade, polymorphes, elliptiques à ovoïdes, à paroi fine 0,5-0.9 µm (12,3) 15,5-23,9 (27,9) × (8,2) 10-14,5 (15,4) µm, fusiformes à paroi moyenne à épaisse 1,5- 2,7 × 1,9-2,2 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium à clairsemé (40) 44,2-62,3 × (15) 18,2-23,5 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -229,7 +229,7 @@ description:
   pileus: 11-33 mm Ø, ± hémisphérique au début, convexe, mamelonné (ombo), fibrilleux à squamuleux, rimeux, avec brun rougeâtre, + foncé au centre
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: nombreuses, fusiformes à largement fusiformes, pédicellées, rarement avec apex mucroné, à paroi moyenne à épaisse 1,5-2,7 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, généralement avec cristaux d'oxalate, parfois clairsemé et sans cristaux (57,3) 60,7-73,1 (73,2) × (17) 17,7-25 (27,9) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

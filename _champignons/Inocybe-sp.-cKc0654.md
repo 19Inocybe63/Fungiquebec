@@ -90,7 +90,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Sous genre <i>Clypeus</i> Britz., Section <i>Cortinatae</i> Kühn. & Bours., Sous section <i>Brevisporinae</i> M. Bon »
+    De Claude Kaufholtz-Couture. « Sous genre <i>Clypeus</i> Britz.; Section <i>Cortinatae</i> Kühn. & Bours.; Sous section <i>Brevisporinae</i> M. Bon »
     De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »
   conidies: 
   conidiome: 

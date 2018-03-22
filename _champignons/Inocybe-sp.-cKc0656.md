@@ -70,8 +70,8 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: absentes, il s'agit plutôt de terminaisons hyphales
-  caulocystides-sommitales: absentes, il s'agit plutôt de terminaisons hyphales
+  caulocystides-medianes: absentes, il s'agit de terminaisons hyphales
+  caulocystides-sommitales: absentes, il s'agit de terminaisons hyphales
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 

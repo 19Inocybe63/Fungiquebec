@@ -227,7 +227,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 11-33 mm Ø, ± hémisphérique au début, convexe, mamelonné (ombo), fibrilleux à squamuleux, rimeux, brun rougeâtre + foncé au centre
+  pileus: 11-33 mm Ø, ± hémisphérique au début, convexe, mamelonné (ombo), fibrilleux à squamuleux, rimeux, brun rougeâtre + foncé au centre, dont la marge se fendille par endroits
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, fusiformes à largement fusiformes, pédicellées, rarement avec apex mucroné, à paroi moyenne à épaisse 1,5-2,7 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, généralement avec cristaux d'oxalate, parfois clairsemé et sans cristaux (57,3) 60,7-73,1 (73,2) × (17) 17,7-25 (27,9) µm en moyenne

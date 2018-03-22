@@ -186,7 +186,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, larges, avec lamelles et lamellules, brun beige dont l'arête est blanchâtre
+  lames: adnées, serrées, larges, avec lamelles et lamellules, brun à brun beige pâle, arête blanchâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

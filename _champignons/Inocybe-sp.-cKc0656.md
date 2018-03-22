@@ -265,7 +265,7 @@ description:
   sporee: brun à brun cannelle pâle
   spherocytes: 
   sporocystes: 
-  stipe: 26-64 x 2-3 mm Ø, cylindrique, égal, plein, blanchâtre vers l'apex, brun beige au milieu, et rougeâtre vers la base
+  stipe: 26-64 x 2-3 mm Ø, cylindrique, égal, plein, non poudré, blanchâtre vers l'apex, brun beige au milieu, et rougeâtre vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

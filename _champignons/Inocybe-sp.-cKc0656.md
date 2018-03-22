@@ -81,7 +81,7 @@ description:
   chair: rougeâtre
   chancre: 
   cheilochrysocystides:
-  cheilocystides: abondantes, formant une palissade, polymorphes, elliptiques à ovoïdes, à paroi fine 0,5-0.9 µm (12,3) 15,5-23,9 (27,9) × (8,2) 10-14,5 (15,4) µm, fusiformes à paroi moyenne à épaisse 1,5- 2,7 × 1,9-2,2 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium à clairsemé (40) 44,2-62,3 × (15) 18,2-23,5 µm en moyenne
+  cheilocystides: abondantes, formant une palissade, polymorphes, elliptiques à ovoïdes, sans cristaux d'oxalate, à paroi fine 0,5-0.9 µm (12,3) 15,5-23,9 (27,9) × (8,2) 10-14,5 (15,4) µm, fusiformes à paroi moyenne à épaisse 1,5- 2,7 × 1,9-2,2 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, avec cristaux d'oxalate, parfois clairsemé (40) 44,2-62,3 × (15) 18,2-23,5 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

@@ -54,11 +54,11 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, stérigmates 3,1-3,6 µm de longueur en moyenne, bouclées à la base, à paroi mince, (21,1) 21,4-25,1 (26,3) × (6,7) 6,9-7,8 (8,2) µm en moyenne
   basidiospores: |
-    léiosporées, subcylindracées, subamydaliformes à lacéroïdes, à sommet obtus, parfois ogival, ± étranglées anguleuses, à paroi mince 0,1-0,2 µm, avec un petit appendice hilaire, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 15%, pas de réaction dans le melzer, non cyanophiles
+    léiosporées, subcylindracées, subamydaliformes à lacéroïdes, à sommet obtus, parfois ogival, ± étranglées anguleuses, à paroi mince 0,1-0,2 µm, avec un petit appendice hilaire, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans l'eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
     (9,2) 9,4-10,7 (11,1) × (3,7) 3,8-4,5 (4,7) µm
     Q = (2,1) 2,2-2,6 (2,7); N = 30
     Me = 10 × 4,2 µm; Qe = 2,4
-    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 15%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
   basidioles: 
   basidiome: 
   bibliographies: 

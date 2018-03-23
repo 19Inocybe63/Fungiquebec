@@ -88,7 +88,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: NON
   commentaires: |
     De Claude Kaufholtz-Couture. « Sous genre <i>Inocybe</i>; section <i>Inocybe</i>; »
     De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »

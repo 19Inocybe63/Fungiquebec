@@ -25,8 +25,8 @@ collections:
     date: 23 août 2017
     planche:
       numero: cKc0656-0200
-      miniature: https://c1.staticflickr.com/1/798/40972722781_c621d268b8_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/40972722781/in/photostream/
+      miniature: https://c1.staticflickr.com/1/798/40972722781_de733f9ae6_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/40972722781/in/dateposted/
     geolocalisation: 46°00’06.05"N 70°56’10.08"O
     elevation: 315 m
     determinee: Claude Kaufholtz-Couture

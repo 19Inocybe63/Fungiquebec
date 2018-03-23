@@ -97,9 +97,8 @@ description:
   columelle: 
   comestibilite: NON
   commentaires: |
-    De Claude Kaufholtz-Couture. « Sous genre <i>Inocybe</i>; section <i>Inocybe</i>; »
-    De Claude Kaufholtz-Couture. « En consultant la clé de M. Bon, je ne peux faire autrement que de classer cet Inocybe dans la sous-section Mesosporinae. La sous-section Lacerinae contient des Inocybe aux basidiospores beaucoup plus longues que la collection cKc0656.
-Je sais bien qu’il ne peut s’agir d’Inocybe sambucina, car cette dernière est entièrement blanc soyeux, puis crème à la fin. Mais les basidiospores sont assez semblables. Ce qui me préoccupe dans la collection cKc0656, c’est la largeur des basidiospores, (3,7) 3,8-4,5 (4,7) µm. »
+    De Claude Kaufholtz-Couture. « Sous genre <i>Inocybe</i>; section <i>Inocybe</i>. »
+    De Claude Kaufholtz-Couture. « En consultant la clé de M. Bon, je ne peux faire autrement que de classer cet <i>Inocybe</i> dans la sous section <i>Mesosporinae</i>. La sous-section <i>Lacerinae</i> contient des <i>Inocybe</i> aux basidiospores beaucoup plus longues que la collection cKc0656. Je sais bien qu’il ne peut s’agir d’<i>Inocybe sambucina</i>, car ce dernier est entièrement blanc soyeux, puis crème à la fin, mais les basidiospores sont assez semblables. Ce qui me préoccupe dans la collection cKc0656, c’est la largeur des basidiospores (3,7) 3,8-4,5 (4,7) µm. »
     De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »
   conidies: 
   conidiome: 

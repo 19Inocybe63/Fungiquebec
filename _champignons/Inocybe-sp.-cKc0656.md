@@ -232,7 +232,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: de type cutis, avec hyphes subcylindriques parfois un peu enflées, parallèles, un peu entrelacées, plus rarement en trichoderme avec hyphes réunies en touffes, également formé par des segments comme une chaîne; hyphes terminales claviformes à fusiformes (13,6) 17,7-47,9 (49) × (5,9) 6,2-11,7 (15,1) µm
   pileitrame: 
   pileocystides: 
   pileus: 11-33 mm Ø, ± hémisphérique au début, convexe, mamelonné (ombo), fibrilleux à squamuleux, rimeux, brun rougeâtre + foncé au centre, dont la marge se fendille par endroits

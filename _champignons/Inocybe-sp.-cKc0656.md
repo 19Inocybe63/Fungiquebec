@@ -82,7 +82,7 @@ description:
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, se confondent avec les cheilocystides elliptiques à ovoïdales, à paroi mince (9,6) 13,6-15,9 (17,1) × (5,5) 7,2-9,6 (10,6) µm en moyenne
+  cellules-marginales-paracystides: piriformes à claviformes, à paroi mince (9,6) 13,6-15,9 (17,1) × (5,5) 7,2-9,6 (10,6) µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: rougeâtre

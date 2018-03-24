@@ -61,7 +61,7 @@ description:
   base-stipitiforme: 
   basides: cylindriques à claviformes, parfois ± largement claviformes, parfois sinueuses à flexueuses (en forme de bas), tétrasporiques, aux stérigmates (2,4) 3,8-4,1 (4,3) de longueur, boucles non observées à la base, à paroi mince,  (20,1) 21,2-27,4 (29,2) × (6,1) 6,5-8,6 (9) µm
   basidiospores: |
-    goniosporées, nodulo-anguleuses, généralement subrectangulaires à polygonales, plus rarement triangulaires, parfois à contour subrhomboïdal ou à 5-8 nodositées bases, obtuses, ± proéminentes, avec apex conique à subconique, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé,  brun pâle à ± brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
+    goniosporées, nodulo-anguleuses, généralement subrectangulaires à polygonales, plus rarement triangulaires, parfois à contour subrhomboïdal ou à 5-8 nodositées bases, obtuses, ± proéminentes, avec apex subconique à conique, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé,  brun pâle à ± brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
     (7,5) 7,9-8,9 (9) × (4,2) 4,7-5,9 (6,2) µm
     Q = (1,4) 1,5-1,7 (1,9); N = 30
     Me = 8,4 × 5,4 µm; Qe = 1,6

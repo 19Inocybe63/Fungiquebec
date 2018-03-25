@@ -34,9 +34,9 @@ collections:
   - fongarium: cKc0204
     date: 18 août 2014
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0204-0201
+      miniature: 
+      originale: 
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
     determinee: 

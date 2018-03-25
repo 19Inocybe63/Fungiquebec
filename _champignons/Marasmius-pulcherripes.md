@@ -261,7 +261,7 @@ description:
   sporee: pallidosporée
   spherocytes: 
   sporocystes: 
-  stipe: 16-63 x 2-6 mm Ø, cylindrique, centré, égal à légèrement élargi vers l'apex, comprimé, droit ou courbe, souvent flexueux, rigide, creux, sec, glabre, brillant, opaque, entièrement rose modéré ou foncé, rouge grisâtre, rose jaunâtre-grisâtre ou brun jaunâtre pâle au début et plus tard à l'apex seulement, devenant jaune grisâtre, jaune orangé foncé, brun jaunâtre pâle, brun rougeâtre modéré ou foncé ou brun noirâtre vers la base, progressivement puis foncé depuis la base, avec mycélium basal feutré, blanc ou parfois blanc grisâtre, s'étendant rarement autour du substrat, sans rhizomorphes
+  stipe: 16-63 x 2-6 mm Ø, cylindrique, égal, sec, lisse, souvent courbé, pourpre à l'apex, s'obscurcissant par degrés vers une base brun rougeâtre ou noire, mycélium basal blanc, avec mycélium basal feutré, blanc ou parfois blanc grisâtre, s'étendant rarement autour du substrat, sans rhizomorphes
   stipitipellis: 
   stipititrame: 
   stroma: 

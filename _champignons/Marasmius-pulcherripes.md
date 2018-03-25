@@ -258,7 +258,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: blanche
+  sporee: pallidosporée
   spherocytes: 
   sporocystes: 
   stipe: 16-63 x 2-6 mm Ø, cylindrique, centré, égal à légèrement élargi vers l'apex, comprimé, droit ou courbe, souvent flexueux, rigide, creux, sec, glabre, brillant, opaque, entièrement rose modéré ou foncé, rouge grisâtre, rose jaunâtre-grisâtre ou brun jaunâtre pâle au début et plus tard à l'apex seulement, devenant jaune grisâtre, jaune orangé foncé, brun jaunâtre pâle, brun rougeâtre modéré ou foncé ou brun noirâtre vers la base, progressivement puis foncé depuis la base, avec mycélium basal feutré, blanc ou parfois blanc grisâtre, s'étendant rarement autour du substrat, sans rhizomorphes

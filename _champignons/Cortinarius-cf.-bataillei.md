@@ -245,7 +245,9 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Potasse (KOH 10%) = rougeâtre sur le pileus, les lame et le stipe
+    Ammoniaque (NH<sub>4</sub>OH 10%) = rougeâtre sur le pileus, les lames et le stipe
   receptacle: 
   remarques: 
   repartition: 

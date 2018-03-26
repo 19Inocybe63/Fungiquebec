@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur sol calcaire, chemin forestier, sous conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -84,7 +84,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Dermocybe du groupe Crocei. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -97,7 +98,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: brun rougeâtre
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -133,7 +134,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -179,7 +180,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: émarginées, serrées, larges, brun jaunâtre à brun olivâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -220,7 +221,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 8-32 mm Ø, hémisphérique à subcampanulé, étalé, mamelonné, hygrophane, fibrilleux, brun olivâtre à brun rougeâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -250,15 +251,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique, raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun rougeâtre
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 19-38 x 2-4 mm Ø, cylindrique, égal, creux
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -69,11 +69,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: piriformes, claviformes à largement claviformes, bisporiques à tétrasporiques, bouclées à la base, 25,5 [29,6; 33,4] 37,5 x 11,3 [12,5; 13,6] 14,7 µm
+  basides: piriformes, claviformes à largement claviformes, bisporiques à tétrasporiques, bouclées à la base (25,5) 29,6-33,4 (37,5) x (11,3) 12,5-13,6 (14,7) µm
   basidiospores: |
     goniosporées, noduleuses anguleuses, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun à ± brun rougeâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
-    7,8 [8,8; 9,3] 10,3 x 6,1 [7,1; 7,5] 8,4 µm
-    Q = 1,1 [1,2; 1,3] 1,4; N = 30; C = 95%
+    (7,8) 8,8-9,3 (10,3) x (6,1) 7,1-7,5 (8,4) µm
+    Q = (1,1) 1,2-1,3 (1,4); N = 30; C = 95%
     Me = 9,1 x 7,3 µm; Qe = 1,3
     (Piximètre, formule statistique; mesures issues d'une sporée, dans NaCl iso 0,9%)
   basidioles: 
@@ -97,7 +97,7 @@ description:
   chair: blanchâtre dans le pileus, carnée dans le stipe, blanche dans le bulbe
   chancre: 
   cheilochrysocystides:
-  cheilocystides: métuloïdes, 60,3 [61,6; 67,7] 68,9 x 17,2 [17,8; 20,2] 20,8 µm en moyenne
+  cheilocystides: polymorphes, fusiformes à largement fusiformes, lagéniformes, métuloïdes (60,3) 61,6-67,7 (68,9) x (17,2) 17,8-20,2 (20,8) µm en moyenne
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -242,7 +242,7 @@ description:
   pileus: 10-40 (45) mm Ø, conique-convexe à campanulé, d'abord lisse puis fibrilleux-rimeux, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, 52,2 [59,1; 68,5] 75,4 x 15 [17,4; 20,7] 23,1 µm en moyenne
+  pleurocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, (52,2) 59,1-68,5] (75,4) x (15) 17,4-20,7 (23,1) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

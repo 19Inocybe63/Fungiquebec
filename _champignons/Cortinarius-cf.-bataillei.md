@@ -86,6 +86,7 @@ description:
   comestibilite: 
   commentaires: |
     De Claude Kaufholtz-Couture. « Dermocybe du groupe Crocei. »
+    De Claude Kaufholtz-Couture. « Cette collection vient de chez Cajo. »
   conidies: 
   conidiome: 
   conidiophores: 

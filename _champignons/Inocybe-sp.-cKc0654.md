@@ -50,7 +50,8 @@ description:
     <b>Lecomte, Marcel</b>. <i>Vous avez dit P.D.A.B. ?</i>, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
     <b>Matheny, P. Brandon; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
     <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
-    <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i> – v02 (20-Dec-2016), University of Tennessee
+    <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i> – v04 (23-Dec-2017), University of Tennessee
+    <b>Kaufholtz-Couture, Claude</b>. <i>Interactive key of Inocybe of Quebec</i> - v01 (Mar 2018), Fungiquebec
   ascome: 
   ascospores: 
   asques: 

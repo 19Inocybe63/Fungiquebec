@@ -1,6 +1,6 @@
 ---
 nom: Inocybe sp.-cKc0656
-date: 2018-03-22 00:00:00
+date: 2018-03-28 00:00:00
 image: https://c1.staticflickr.com/5/4368/36693037012_ca5da2e328_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36693037012/in/photolist-XUrpxb
 album-flickr:
@@ -51,6 +51,7 @@ description:
     <b>Matheny, P. Brandon; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
     <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
     <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i> – v02 (20-Dec-2016), University of Tennessee
+    <b>Kaufholtz-Couture, Claude</b>. <i>Interactive key of Inocybe of Quebec</i> - v01 (Mar 2018), Fungiquebec
   ascome: 
   ascospores: 
   asques: 

@@ -71,11 +71,11 @@ description:
   base-stipitiforme: 
   basides: cylindriques à claviformes, piriformes, bisporiques mais généralement tétrasporiques, bouclées à la base, 28,9-32,9 × 10-11,5 µm
   basidiospores: |
-    goniosporées à 6-10 bosses, ± coniques, à subquadrangulaires, anguleuses à noduleuses, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun à ± brun rougeâtre dans E.G. 20%, ferrugineuses dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
+    goniosporées, de 6-10 bosses ± coniques, noduleuses à anguleuses, subquadrangulaires, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun à ± brun rougeâtre dans l'eau glycérinée 20%, ferrugineuses dans le KOH 5%, pas de réaction dans le melzer, non cyanophiles
     (9,1) 9,5-10,8 (11,1) × (5,6) 6-7,6 (8) µm
     Q = (1,2) 1,3-1,6 (1,8); N = 30
     Me = 10,1 × 7 µm; Qe = 1,5
-    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

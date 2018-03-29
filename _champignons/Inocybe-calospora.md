@@ -109,11 +109,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, rarement utriformes, tétrasporiques, 24,9 [30,6; 39,7] 45,4 x 9,9 [10,4; 11,3] 11,9 µm
+  basides: claviformes, rarement utriformes, tétrasporiques, (24,9) 30,6-39,7 (45,4) x (9,9) 10,4-11,3 (11,9) µm
   basidiospores: |
-    goniosprées, globuleuses à subglobuleuses, aculéolées (digitéolées) dont l’apex est obtus mesurant entre 1,3 [1,9; 2,5] 3,3 x 0,8 [1,3; 1,8] 2,3 µm, à paroi mince à légèrement épaissie, à contenu uniguttulé, brun ± brun rougeâtre dans le NaCl iso 0,9%, légèrement rougeâtre dans le melzer, non cyanophiles
-    (7,7) 8,2 [9,4; 9,9] 11,2 x (7) 7,6 [8,8; 9,4] 10,6 µm
-    Q = 1,0 [1,1-1,2] 1,3; N = 30; C = 95%
+    goniosprées, globuleuses à subglobuleuses, aculéolées (digitéolées) dont l’apex est obtus mesurant entre (1,3) 1,9-2,5 (3,3) x (0,8) 1,3-1,8 (2,3) µm, à paroi mince à légèrement épaissie, à contenu uniguttulé, brun ± brun rougeâtre dans le NaCl iso 0,9%, légèrement rougeâtre dans le melzer, non cyanophiles
+    (7,7) 9,4-9,9 11,2 x (7) 8,8-9,4 (10,6) µm
+    Q = (1,0) 1,1-1,2 (1,3); N = 30; C = 95%
     Me = 9,7 x 9,1 µm; Qe = 1,1
     (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%, excluant les digitations)
   basidioles: 
@@ -126,7 +126,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: présentes du centre vers l’apex, nombreuses, diversiformes, claviformes cylindriques à subcylindriques 10,6 [26; 56,8] 72,2 x 7,3 [9,4; 13,6] 15,7 µm, subglobuleux 14,6 [15; 16,9] 17,3 x 12,8 [12,9; 13,4] 13,5 µm, lagéniformes 57,3 x 11,6 µm en moyenne
+  caulocystides: présentes du centre vers l’apex, nombreuses, diversiformes, claviformes cylindriques à subcylindriques (10,6) 26-56,8 (72,2) x (7,3) 9,4-13,6 (15,7) µm, subglobuleux (14,6) 15-16,9 (17,3) x (12,8) 12,9-13,4 (13,5) µm, lagéniformes 57,3 x 11,6 µm en moyenne
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -137,7 +137,7 @@ description:
   chair: légèrement jaunâtre à brunâtre, mais plus blanche dans le stipe
   chancre: 
   cheilochrysocystides:
-  cheilocystides: abondantes, diversiformes, métuloïdes, rarement avec un long col, lagéniformes, fusiformes légèrement ventrues à subcylindriques, avec paroi jusqu'à 3-4 µm, hyalines, 27 [32,8; 38,3] 42,1 x 9,5 [14,1; 16,6] 17,9 µm
+  cheilocystides: abondantes, diversiformes, métuloïdes, rarement avec un long col, lagéniformes, fusiformes légèrement ventrues à subcylindriques, avec paroi jusqu'à 3-4 µm, hyalines, (27) 32,8-38,3 (42,1) x (9,5) 14,1-16,6 (17,9) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 

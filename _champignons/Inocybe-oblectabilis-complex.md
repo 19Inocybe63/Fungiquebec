@@ -245,7 +245,7 @@ description:
   pileus: 38-56 mm Ø, convexe à campanulé, fibrilleux-rimeux, brun tan dont la marge est plus pâle
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: ± nombreuses, fusiformes à largement fusiformes, lagéniformes,  Ammoniaco -, 47,3-60,7 × 16,6-24,5 µm, à paroi 2,1-3,6 µm
+  pleurocystides: ± nombreuses, métuloïdes, fusiformes à largement fusiformes, lagéniformes, Ammoniaco -, 47,3-60,7 × 16,6-24,5 µm, à paroi 2,1-3,6 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

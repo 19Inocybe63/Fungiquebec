@@ -83,7 +83,6 @@ description:
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: ± nombreuses, piriformes à sphéropédonculées, à paroi mince, (12,8) 13,4-18,9 (21,3) × (6,5) 6,6-11,1 (12,6) µm en moyenne
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
@@ -220,6 +219,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
+  paracystides: ± nombreuses, piriformes à sphéropédonculées, à paroi mince, (12,8) 13,4-18,9 (21,3) × (6,5) 6,6-11,1 (12,6) µm en moyenne
   paraphyses: 
   parasite: 
   paroi-peritheciale: 

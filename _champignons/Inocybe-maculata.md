@@ -74,12 +74,13 @@ description:
   arete-lamellaire: stérile, distinctement plus pâles
   arthroconidies: 
   articles: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Interactive key of Inocybe</i> - v01 (Mar 2018), Fungiquebec
     <b>Kropp, Bradley R.; Matheny, P. Brandon, et al</b>. <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection «Marginatae»</i>, Mycologia, 102(3), 2010, pp. 560-573, 14 p.
     <b>Kuo, Michael,; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis (Inocybaceae, Agaricales)</i>, MycoKeys 11:23-31 (2015), 9 p.
     <b>Lecomte, Marcel</b>. <i>Vous avez dit P.D.A.B. ?</i>, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
     <b>Matheny, P. Brandon,; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
     <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
-    <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i>, v02 (20-Dec-2016), University of Tennessee
+    <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i>, v04 (23-Dec-2017), University of Tennessee
   ascome: 
   ascospores: 
   asques: 
@@ -90,11 +91,11 @@ description:
   base-stipitiforme: 
   basides: claviformes, bisporiques, mais généralement tétrasporiques, bouclées à la base, 32-40 x 9-11 µm
   basidiospores: |
-    leiospore ovoïdales à elliptiques en vue frontale, elliptiques à ovo-ellipsoïdes à phaséoliformes dont le sommet est légèrement atténué vues de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec petit appendice hilaire, à contenu granulaire et parfois uniguttulé (surtout dans le Bleu crésyl), brun à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
-    8,4 [9,4; 9,8] 10,8 x 5,1 [5,8; 6,2] 6,9 µm
-    Q = 1,5 [1,6] 1,8; N = 30; C = 95%
+    leiospore ovoïdales à elliptiques en vue frontale, elliptiques à ovo-ellipsoïdes à phaséoliformes dont le sommet est légèrement atténué vues de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec petit appendice hilaire, à contenu granulaire et parfois uniguttulé (surtout dans le Bleu crésyl), brun à ± brun rougeâtre dans l'eau glycérinée 20%, pas de réaction dans le melzer, non cyanophiles
+    (8,4) 9,4-9,8 (10,8) x (5,1) 5,8-6,2 (6,9) µm
+    Q = (1,5) 1,6 (1,8); N = 30; C = 95%
     Me = 9,6 x 6 µm; Qe = 1,6
-    (Piximètre, formule statistique; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans l'eau glycérinée 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -110,7 +111,6 @@ description:
   caulocystides-sommitales: ce sont davantage des terminaisons hyphales; peu nombreuses et présentes seulement à l'apex, ± similaires aux cheilocystides, ou plus cylindriques et plus petites
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: épaisse, ferme, immuable, blanche
@@ -240,6 +240,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
+  paracystides: 
   paraphyses: 
   parasite: 
   paroi-peritheciale: 

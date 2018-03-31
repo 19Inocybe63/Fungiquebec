@@ -44,12 +44,13 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Interactive key of Inocybe</i> - v01 (Mar 2018), Fungiquebec
     <b>Kropp, Bradley R.; Matheny, P. Brandon, et al</b>. <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection «Marginatae»</i>, Mycologia, 102(3), 2010, pp. 560-573, 14 p.
     <b>Kuo, Michael,; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis (Inocybaceae, Agaricales)</i>, MycoKeys 11:23-31 (2015), 9 p.
     <b>Lecomte, Marcel</b>. <i>Vous avez dit P.D.A.B. ?</i>, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
     <b>Matheny, P. Brandon,; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
     <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
-    <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i>, v02 (20-Dec-2016), University of Tennessee
+    <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i>, v04 (23-Dec-2017), University of Tennessee
   ascome: 
   ascospores: 
   asques: 
@@ -58,11 +59,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: de deux types, claviformes à largement claviformes et capitées, tétrasporiques, bouclées à la base, 25,6 [30,6; 34,5] 39,6 x 7,6 [9,6; 11,2] 13,2 µm
+  basides: de deux types, claviformes à largement claviformes et capitées, tétrasporiques, bouclées à la base, (25,6) 30,6-34,5 (39,6) x (7,6) 9,6-11,2 (13,2) µm
   basidiospores: |
     ovoïdes en vue frontale, ovoïdes à phaséolées ou réniformes vues de profil, lisse, à paroi mince, avec un petit appendice hilaire, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
-    8,9 [9,8; 10,2] 11 x 4,8 [5,3; 5,5] 6 µm
-    Q = 1,7 [1,8; 1,9] 2,1; N = 30; C = 95%
+    (8,9) 9,8-10,2 (11) x (4,8) 5,3-5,5 (6) µm
+    Q = (1,7) 1,8-1,9 (2,1); N = 30; C = 95%
     Me = 10 x 5,4 µm; Qe = 1,9
     (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
@@ -80,13 +81,12 @@ description:
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: 
   chancre: 
   cheilochrysocystides:
-  cheilocystides: abondantes, piriformes à largement clavées 25,6 [30,6; 34,5] 39,6 x 7,6 [9,6; 11,2] 13,2 µm
+  cheilocystides: abondantes, piriformes à largement clavées (25,6) 30,6-34,5 (39,6) x (7,6) 9,6-11,2 (13,2) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -214,6 +214,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
+  paracystides: 
   paraphyses: 
   parasite: 
   paroi-peritheciale: 

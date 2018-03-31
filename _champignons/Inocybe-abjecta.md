@@ -235,7 +235,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  Paracystides: abondantes, piriformes à clavées 18,3-23,3 × 7,1-9,5 µm
+  paracystides: abondantes, piriformes à clavées 18,3-23,3 × 7,1-9,5 µm
   paraphyses: 
   parasite: 
   paroi-peritheciale: 

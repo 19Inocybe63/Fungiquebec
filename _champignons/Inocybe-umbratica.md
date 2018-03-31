@@ -64,13 +64,14 @@ description:
   arete-lamellaire: fertile
   arthroconidies: 
   articles: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Interactive key of Inocybe</i> - v01 (Mar 2018), Fungiquebec
     <b>Kropp, Bradley R.; Matheny, P. Brandon, et al</b>. <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection</i> «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
     <b>Kuo, Michael; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis</i> (<i>Inocybaceae, Agaricales</i>), MycoKeys 11:23-31 (2015), 9 p.
     <b>Kuyper, Thomas W.</b>. <i>Begin eens met… Vezelkoppen (Inocybe) - 2. Voorlopige Determinatiesleutel tot de Knobbelsporige Vezelkoppen</i>, Coolia 49(1): 11-17, 2006, 7 p.
     <b>Lecomte, Marcel</b>. <i>Vous avez dit P.D.A.B. ?</i>, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
     <b>Matheny, P. Brandon; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
     <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
-    <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i> – v02 (20-Dec-2016), University of Tennessee
+    <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i> – v04 (23-Dec-2017), University of Tennessee
   ascome: 
   ascospores: 
   asques: 
@@ -81,11 +82,11 @@ description:
   base-stipitiforme: 
   basides: claviformes à cylindriques-claviformes, tétrasporiques, boucles non observées à la base, 24-33 x 8-10 µm
   basidiospores: |
-    goniosporées, noduleuses anguleuses, trapézoïdales, parfois subrectangulaires, 8-10 bosses relativement bien dénombrables, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    goniosporées, noduleuses anguleuses, trapézoïdales, parfois subrectangulaires, 8-10 bosses relativement bien dénombrables, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans l'eau glycérinée 20%, pas de réaction dans le melzer, non cyanophiles
     (6,3) 6,6-8 (9,3) × (4,9) 5-6,3 (6,9) µm
     Q = (1) 1,2-1,5 (1,6); N = 30
     Me = 7,5 × 5,6 µm; Qe = 1,3
-    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 20%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -102,7 +103,6 @@ description:
   cauloparacystides: présentes
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
-  cellules-marginales-paracystides: nombreuses, claviformes à piriformes, à paroi mince, (10,4) 12,8-15,4 (16,1) × (5,5) 6,7-8,4 (9,2) µm
   cellules-peritheciales: 
   cellules-stromatiques: 
   chair: mince, 1-2 mm d'épaisseur au disque, blanchâtre dans le pileus, pâle dans le stipe, immuable
@@ -237,6 +237,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
+  paracystides: nombreuses, claviformes à piriformes, à paroi mince, (10,4) 12,8-15,4 (16,1) × (5,5) 6,7-8,4 (9,2) µm
   paraphyses: 
   parasite: 
   paroi-peritheciale: 

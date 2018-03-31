@@ -323,7 +323,7 @@ description:
   sporee: brune
   spherocytes: 
   sporocystes: 
-  stipe: 13-19 x 1-2 mm Ø, cylindrique, plein, avec petites fibrilles blanchâtres à l'apex, brun rougeâtre, courbant légèrement à la base, subbulbeuse
+  stipe: 13-19 x 1-2 mm Ø, cylindrique, plein, avec petites fibrilles blanchâtres à l'apex, subbulbeux, brun rougeâtre, courbant légèrement à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

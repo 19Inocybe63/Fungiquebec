@@ -44,8 +44,7 @@ description:
   arete-lamellaire: fertile
   arthroconidies: 
   articles: |
-    <b>Niskanen, Tuula; Liimatainen, Kare; Kytövuori, Ilkka; Ammirati, Joseph F</b>., <i>New Cortinarius species from conifer-dominated
-forests of North America and Europe</i>, Botany 90:743-754 (2012).
+    <b>Niskanen, Tuula; Liimatainen, Kare; Kytövuori, Ilkka; Ammirati, Joseph F</b>., <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012).
   ascome: 
   ascospores: 
   asques: 

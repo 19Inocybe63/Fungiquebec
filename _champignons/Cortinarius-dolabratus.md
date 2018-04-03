@@ -45,7 +45,7 @@ description:
   arthroconidies: 
   articles: |
     <b>Niskanen, Tuula; Liimatainen, Kare; Kytövuori, Ilkka; Ammirati, Joseph F.</b>, <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012).
-    <b>Ammirati, Joseph F.; Niskanen, Tuula; et al.</b>, <i>Spring and early summer species of Cortinarius, subgenus Telamonia, section Colymbadini and Flavobasilis, in the mountains of western North America</i>, Mycologia, 2017.
+    <b>Ammirati, Joseph F.; Niskanen, Tuula; et al.</b>, <i>Spring and early summer species of Cortinarius, subgenus Telamonia, section Colymbadini and Flavobasilis, in the mountains of western North America</i>, Mycologia 2017, vol. 109, No. 3, 443-458.
   ascome: 
   ascospores: 
   asques: 

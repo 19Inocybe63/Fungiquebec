@@ -46,6 +46,7 @@ description:
   articles: |
     <b>Niskanen, Tuula; Liimatainen, Kare; Kytövuori, Ilkka; Ammirati, Joseph F.</b>, <i>New Cortinarius species from conifer-dominated forests of North America and Europe</i>, Botany 90:743-754 (2012).
     <b>Ammirati, Joseph F.; Niskanen, Tuula; et al.</b>, <i>Spring and early summer species of Cortinarius, subgenus Telamonia, section Colymbadini and Flavobasilis, in the mountains of western North America</i>, Mycologia 2017, vol. 109, No. 3, 443-458.
+    <b>Niskanen, Tuula</b>, <i>Cortinarius subgenus Telamonia p.p. in North Europe</i>, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, 2008.
   ascome: 
   ascospores: 
   asques: 

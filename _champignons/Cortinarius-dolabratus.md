@@ -44,7 +44,6 @@ description:
   arete-lamellaire: fertile
   arthroconidies: 
   articles: 
-America
   ascome: 
   ascospores: 
   asques: 

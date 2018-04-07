@@ -55,7 +55,7 @@ defaults:
     scope:
       path: "_cles"
     values:
-      layout: "cle"
+      layout: "cle-etapes"
       author: Claude Kaufholtz-Couture
       comments: true
 

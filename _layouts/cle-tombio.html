@@ -1,17 +1,32 @@
 ---
 layout: cle
 ---
-<script>
-    var tombiovis = {
-        opts: {
-            hideVisDropdown: false,
-            selectedGroup: "All",
-            checkKB: true,
-            devel: false,
-            tombiopath: "/assets/tombio/",
-            tombiokbpath: "/tombio/{{ page.dossierTombio }}/"
+
+<div class="col-lg-12">
+    {% include cle_details.html %}
+</div>
+
+<div class="col-lg-12">
+    <h4>Clé</h4>
+    <div class="hline"></div>
+
+    <div class="spacing"></div>
+
+    <script>
+        var tombiovis = {
+            opts: {
+                hideVisDropdown: false,
+                selectedGroup: "All",
+                checkKB: true,
+                devel: false,
+                tombiopath: "/assets/tombio/",
+                tombiokbpath: "/tombio/{{ page.dossierTombio }}/"
+            }
         }
-    }
-</script>
-<script type="text/javascript" src="/assets/tombio/load.js"></script>
-<div id="tombiod3"></div>
+    </script>
+    <script type="text/javascript" src="/assets/tombio/load.js"></script>
+    {{ content }}
+    <div id="tombiod3"></div>
+
+    <div class="spacing"></div>
+</div>

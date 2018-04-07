@@ -8,3 +8,13 @@ source: http://sciweb.nybg.org/science2/hcol/rmfatto/Fatto_Inocybes.pdf
 famille: Inocybaceae
 genre: Inocybe
 ---
+
+<style>
+  #tombioControlTabs .ui-tabs-nav {
+    width: 10em;
+  }
+
+  #tombioControlTabs {
+    padding-left: 10.5em;
+  }
+<style>

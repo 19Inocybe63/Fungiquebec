@@ -7,68 +7,7 @@ layout: default
 
 <div class="container mt">
     <div class="row">
-        <div class="col-lg-3 col-md-4 col-sm-5">
-            <h4>Détails</h4>
-            <div class="hline"></div>
-
-            <p><b>Famille :</b> {{ page.famille }}</p>
-            {% if page.genre %}
-            <p><b>Genre :</b> {{ page.genre }}</p>
-            {% endif %}
-            <p><b>Auteur :</b> {{ page.author }}</p>
-            <p><b>Source :</b> {{ page.source }}</p>
-            <p><b>Derniere mise à jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            {% if page.commentaire %}
-            <p><b>Commentaire :</b> {{ page.commentaire | newline_to_br }}</p>
-            {% endif %}
-            <div class="spacing"></div>
-        </div>
-
-        <div class="col-lg-9 col-md-8 col-sm-7">
-            <h4>Clé</h4>
-            <div class="hline"></div>
-
-            {% for etape in page.etapes %}
-                <a name="{{ etape.numero }}"></a>
-                <p>
-                {% for question in etape.questions %}
-                    <div class="etape">
-                        <div class="numero">{{ etape.numero }}.&nbsp;</div>
-                        <span class="question">{{ question.question | newline_to_br }}</span>
-                        <div class="reference">
-                            {% assign referenceArray = question.reference | split: " " %}
-                            {% if referenceArray.size == 1 %}
-                                <a href="#{{ question.reference }}">
-                            {% else %}
-                                {% assign champignonTrouve = site.champignons | where: 'nom', question.reference %}
-                                {% assign champignonTrouve = champignonTrouve[0] %}
-                                {% if champignonTrouve %}
-                                    <a href="{{ champignonTrouve.url }}">
-                                {% endif %}
-                                <i>
-                            {% endif %}
-                                {{ question.reference }}
-                            {% if referenceArray.size == 1 %}
-                                </a>
-                            {% else %}
-                                </i>
-                                {% if champignonTrouve %}
-                                    </a>
-                                {% endif %}
-                            {% endif %}
-                        </div>
-                        <div style="clear:both"></div>
-                    </div>
-                {% endfor %}
-                </p>
-            {% endfor %}
-
-            <div class="spacing"></div>
-
-            {{ content }}
-
-            <div class="spacing"></div>
-        </div>
+        {{ content }}
     </div><!--/row -->
 
     {% include disqus.md %}

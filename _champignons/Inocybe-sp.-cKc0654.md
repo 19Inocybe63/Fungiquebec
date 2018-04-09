@@ -85,7 +85,7 @@ description:
   cellules-hymeniales-en-brosses: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: blanchâtre, immuable
   chancre: 
   cheilochrysocystides:
   cheilocystides: polymorphes, abondantes, formant une palissade, fusiformes à largement fusiformes, parfois lagéniformes, rarement obtusément elliptiques, dont l’apex est obtus, en ogive ou capitée, rarement ± rostrées, à paroi fine à épaisse 1,2-2,7 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium, à clairsemé, (28,2) 32,4-50,1 (50,7) × (14) 16-21,4 (33,4) µm en moyenne

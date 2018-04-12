@@ -79,7 +79,7 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes
-  caulocystides-sommitales: extrême apex, rares, cylindriques, métuloïdes, avec ou sans cristaux d'oxalate ± 30-55 x 6-7,5 µm en moyenne
+  caulocystides-sommitales: extrême apex, rares, cylindriques, métuloïdes, avec ou sans cristaux d'oxalate ± 30-100 x 5-7,5 µm en moyenne
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 

@@ -79,7 +79,7 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes, il s'agit de terminaisons hyphales
-  caulocystides-sommitales: absentes, il s'agit de terminaisons hyphales
+  caulocystides-sommitales: extrême apex, nombreuses, formé de cellules terminales polymorphes, caténulées, subglobuleuses, clavées, cylindriques, lancéolées, élargies ou déformées, généralement cylindriques à fusiformes, à paroi mince, parfois métuloïdes
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 

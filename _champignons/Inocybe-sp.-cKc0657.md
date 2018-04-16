@@ -89,7 +89,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « D'après la clé des Inocybe de Fatto : Inocybe ventricosa; mais j'en doute. »
   conidies: 
   conidiome: 
   conidiophores: 

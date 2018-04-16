@@ -70,8 +70,8 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: absentes
+  caulocystides-sommitales: occasionnelles, ressemblant à des hyphes apprimées, cylindriques avec apex fusiformes, rarement avec apex moniliforme, largement cylindriques à apex difforme (49,2) 50,4-76,6 (85,3) × (5) 5,6-9,3 (10,7) µm, rarement métuloïdes à paroi fine 0,9-1,1 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50% 27,2-33 × 6,8-10,1 µm en moyenne
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
@@ -81,7 +81,7 @@ description:
   chair: 
   chancre: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: abondantes, polymorphes, formant une palissade, métuloïdes, fusiformes à fusiformes-ventrues, dont l’apex est parfois étranglé, largement ellipsoïdes à largement ovoïdes, dont l'apex est parfois mucronées, lagéniformes, à paroi moyenne à épaisse 1,5-2,8 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50% (25,9) 34-55,7 (75,7) × (12,4) 12,8-18,7 (22,3) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -210,7 +210,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paraphyses: 
+  paraphyses: nombreuses, piriformes à sphéropédonculées, à paroi mince (10,8) 12,7-16,8 (19,7) × (7,2) 7,7-8,6 (10,1) µm en moyenne
   parasite: 
   paroi-peritheciale: 
   partie-apicale: 
@@ -228,7 +228,7 @@ description:
   pileus: 15-30 mm Ø, convexe, fibrilleux, tomenteux, à marge vendue par endroits, brun foncé à brun rougeâtre, mamelonné, centre brun beige à brun rougeâtre
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: ± nombreuses, polymorphes, métuloïdes, fusiformes à fusiformes-ventrues, largement ellipsoïdes à largement ovoïdes, parfois mucronées, lagéniformes, parfois avec pédicelle, à paroi moyenne à épaisse 1,5-3,9 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50% (34,8) 35,9-52 (52,8) × (13,4) 14,9-21,1 (24,6) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

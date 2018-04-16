@@ -91,6 +91,7 @@ description:
   comestibilite: 
   commentaires: |
     De Claude Kaufholtz-Couture. « D'après la clé des Inocybe de Fatto : Inocybe ventricosa; mais j'en doute. »
+    De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »
   conidies: 
   conidiome: 
   conidiophores: 

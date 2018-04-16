@@ -4,32 +4,32 @@ date: 2018-04-16 00:00:00
 image: https://c1.staticflickr.com/5/4337/36029374424_6d4c15a0b4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36029374424/in/photolist-WTMXLL-Yawpcz-WTMWp7
 album-flickr:
-  - 
+  - 72157692588264312
 
 details:
   nom-francais: 
   domaine: Eucaryote
   regne: Fungi
-  phylum: 
-  sous-phylum: 
-  classe: 
-  sous-classe: 
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
+  ordre: Agaricales
+  famille: Inocybaceae
+  genre: Inocybe
+  espece: <i>Inocybe sp.</i>
   litterature: 
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0657
+    date: 23 août 2017
     planche:
-      numero: 
+      numero: cKc0657-0201
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
+    geolocalisation: 46°00’06.05"N 70°56’10.08"O
+    elevation: 315 m
+    determinee: Claude Kaufholtz-Couture
     confirmee: 
 
 description:
@@ -57,7 +57,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse sur sol calcaire, terre brune, milieu herbeux, feuillus, conifères, au potentiel hydrogène (pH) 7-8
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -133,7 +133,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: ± fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, larges, avec lamelles et lamellules, beige avec reflets verdâtres
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -220,7 +220,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 15-30 mm Ø, convexe, fibrilleux, tomenteux, à marge vendue par endroits, brun foncé à brun rougeâtre, mamelonné, centre brun beige à brun rougeâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -250,15 +250,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: persillée, fongique, ± spermatique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun verdâtre foncé
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 33-50 x 2-3 mm Ø, cylindrique, égal, beige pâle, strié longitudinalement
   stipitipellis: 
   stipititrame: 
   stroma: 

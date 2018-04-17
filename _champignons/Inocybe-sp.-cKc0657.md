@@ -63,7 +63,7 @@ description:
   base-stipitiforme: 
   basides: claviformes, tétrasporiques, aux stérigmates 2,8-4,1 µm de longueur, boucles non observées à la base, à paroi mince (21,6) 23,4-27,6 (29,1) × (7,3) 7,5-9 (9,2) µm
   basidiospores: |
-    goniosporées, angulaires-noduleuses, entre 5-8 nodosités bases, courtement triangulaires, phaseoliformes à subphaseoliformes, à apex conique à subconique, en vue frontale, avec 5 nodosités-obtuses proéminentes vues de profil, donnant l’illusion d’un petit bonhomme en pain d'épice (Gingerbread Man), à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé à biguttulé, brun pâle à ± brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
+    goniosporées, angulaires-noduleuses, entre 5-8 nodosités bases, donnant l’illusion d’un petit bonhomme en pain d'épice (Gingerbread Man) en vue frontale, subrectangulaires à courtement triangulaires, phaseoliformes à subphaseoliformes en vues de profil, à apex conique à subconique, à paroi mince, avec appendice hilaire parfois difficilement observable, à contenu uniguttulé à biguttulé, brun pâle à ± brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
     (8,1) 8,2-9,8 (10,4) × (4,4) 4,8-5,5 (5,6) µm
     Q = (1,5) 1,7-1,9 (2,2); N = 30
     Me = 8,9 × 5,1 µm; Qe = 1,8

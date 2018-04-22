@@ -1,6 +1,6 @@
 ---
-nom: Inocybe flocculosa complex
-date: 2017-08-17 00:00:00
+nom: Inocybe flocculosa var. flocculosa
+date: 2018-04-22 00:00:00
 image: https://c1.staticflickr.com/9/8228/29251989106_086d8ea6e5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29251989106/in/photolist-VzJan5-LyU6eL-LuW68i/
 album-flickr:

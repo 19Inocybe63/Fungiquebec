@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe flocculosa</i> complex
+  espece: <i>Inocybe flocculosa var. flocculosa</i> Sacc.
   litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
 
 collections:

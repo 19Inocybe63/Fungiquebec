@@ -7,7 +7,7 @@ album-flickr:
   - 72157674804662134
 
 details:
-  nom-francais: Inocybe négligé
+  nom-francais: Inocybe brunâtre
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

@@ -18,7 +18,7 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe fuscidula var. fuscidula</i> Velen.
-  litterature: 
+  litterature: Velenovský, J. 1920. Ceske Houby. 2:201-424
 
 collections:
   - fongarium: cKc0367

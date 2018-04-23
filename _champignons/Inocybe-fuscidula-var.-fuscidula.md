@@ -1,5 +1,5 @@
 ---
-nom: Inocybe abjecta
+nom: Inocybe fuscidula var. fuscidula
 date: 2017-07-22 00:00:00
 image: https://c1.staticflickr.com/1/517/19736553568_86546edb7c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19736553568/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe abjecta</i> P. Karst.
+  espece: <i>Inocybe fuscidula var. fuscidula</i> Velen.
   litterature: Karsten, P.A. 1879. Rysslands, Finlands och den Skandinaviska halföns Hattsvampar. Förra Delen, Skifsvampar. Bidrag till Kännedom av Finlands Natur och Folk. 32:1-571
 
 collections:
@@ -299,7 +299,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 20-32 x 2-3 mm Ø, cylindrique, égal, avec teinte brun rougeâtre, légèrement bulbeux
+  stipe: 20-32 x 2-3 mm Ø, cylindrique, égal, avec teinte brun rougeâtre, subbulbeux
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -313,11 +313,7 @@ description:
     muscarinien ou sudorien
     La toxine responsable est la muscarine
   synonymie: |
-    <i>Agaricus abjectus</i> P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 2:172 (1878)
-    <i>Inocybe flocculosa var. abjecta</i> (P. Karst) R. Heim, Encyclopédie Mycologique 1:387 (1931)
-    <i>Inocybe caucasica</i> Singer, Revue de Mycologie 2 (6):236 (1937)
-    <i>Inocybe cavipes</i> J. Favre, Ergebnisse der Wissenschaftlichen Untersuchungen des Schweizerischen Nationalparks 5:200 (1955)
-    <i>Inocybe peronatella</i> J. Favre, Ergebnisse der Wissenschaftlichen Untersuchungen des Schweizerischen Nationalparks 6:472, 587 (1960)
+    <i>Inocybe pallidipes f. flagellata</i> Reumaux, Documents Mycologiques 12 (48):9 (1983) 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

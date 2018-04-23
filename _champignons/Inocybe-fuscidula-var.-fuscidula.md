@@ -18,7 +18,7 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe fuscidula var. fuscidula</i> Velen.
-  litterature: Karsten, P.A. 1879. Rysslands, Finlands och den Skandinaviska halföns Hattsvampar. Förra Delen, Skifsvampar. Bidrag till Kännedom av Finlands Natur och Folk. 32:1-571
+  litterature: 
 
 collections:
   - fongarium: cKc0367
@@ -116,8 +116,8 @@ description:
   columelle: 
   comestibilite: NON
   commentaires: |
-    De Claude Kaufholtz-Couture. « D'après l'article de Grund et Stuntz (<i>Nova Scotian Inocybe</i>, vol. II, pp. 925-927), <i>I. abjecta</i> a de rares caulocystides sommitales non métuloïdes. Elles se présentent comme des hyphes terminales et ne sont présentes qu'à l'apex du stipe. »
-    De Claude Kaufholtz-Couture. « D'après la Clé des Inocybes de Ray Fatto; Code = A C E H K L N Q - (<i>I. abjecta</i>);  A C F H K L N Q - (<i>I. fuscidula</i>). »
+    De Claude Kaufholtz-Couture. « Facultative or heterotypic synonyms, Inocybe pallidipes f. flagellata Reumaux, Documents Mycologiques 12 (48):9 (1983). »
+    De Claude Kaufholtz-Couture. « D'après la Clé des Inocybes de Ray Fatto; Code = A C E H K L N Q-(<i>I. abjecta</i>) ; A C F H K L N Q-(<i>I. fuscidula</i>). »
   conidies: 
   conidiome: 
   conidiophores: 

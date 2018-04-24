@@ -117,7 +117,6 @@ description:
   comestibilite: NON
   commentaires: |
     De MycoBank Database. « Facultative or heterotypic synonyms, Inocybe pallidipes f. flagellata Reumaux, Documents Mycologiques 12 (48):9 (1983). »
-    De Claude Kaufholtz-Couture. « D'après la Clé des Inocybes de Ray Fatto; Code = A C E H K L N Q-(<i>I. abjecta</i>) ; A C F H K L N Q-(<i>I. fuscidula</i>). »
   conidies: 
   conidiome: 
   conidiophores: 

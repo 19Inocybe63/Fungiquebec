@@ -91,18 +91,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Cette collection est à la fois proche et éloignée de <i>P. limonella</i>, en voici les raisons (toujours en comparaison avec <i>P. limonella</i> versus la collection cKc0701). »
-    Proche par
-    grandeur des basidiospores
-    grandeur des basides
-    réactions (couleurs) du melzer et du KOH sur les basidiospores
-    aspect macromorphologique général
-    Éloignée par
-    basidiospores tronquées à subtronquées
-    basides pédicellées
-    pleurocystides abondantes
-    cheiloleptocystides beaucoup trop grandes (25-55 x 7-12 µm)
-    caulocystides abondantes 20-50 x 3-6,5 µm
+    De Claude Kaufholtz-Couture. « Cette collection est à la fois proche et éloignée de <i>P. limonella</i>, en voici les raisons (toujours en comparaison avec <i>P. limonella</i> versus la collection cKc0701). Proche par la grandeur des basidiospores, par la grandeur des basides, par la réactions (couleurs) du melzer et du KOH sur les basidiospores, par l'aspect macromorphologique général ; Éloignée par les basidiospores tronquées à subtronquées, par les basides pédicellées, par les pleurocystides abondantes, par les cheiloleptocystides beaucoup trop grandes (25-55 x 7-12 µm), par les caulocystides abondantes 20-50 x 3-6,5 µm. »
     De Machiel E. Noordeloos. « According to Jacobsson (1987), <i>Pholiota limonella</i> has a wide distribution in the southern parts of eastern Fennoscandia, where it occurs mainly on <i>Alnus</i> and <i>Betula</i>, but occasionally also on coniferous wood. Farr et al. (1977) argued that the morphological variation in <i>Pholiota limonella</i> is so wide, that <i>Pholiota abietis</i> A.H. Smith & Hesler, <i>Pholiota connata</i> A.H. Smith & Hesler, and <i>Pholiota squarrosoadiposa</i> J. Lange must be considered synonymous. However, Holec (2001) suggest that more work has to be done to clarify the status of <i>Pholiota squarrosoadiposa</i>. Further studies, including molecular work, is also needed to clarify this complex of species. Therefore the suggested synonymy is not adopted here. » (Strophariaceae s.l.; Fungi Europaei, N° 13, Edizioni Candusso, 2011).
   conidies: 
   conidiome: 

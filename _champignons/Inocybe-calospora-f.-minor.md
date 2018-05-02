@@ -21,15 +21,25 @@ details:
   litterature: Kobayasi, Y. 1952. On the genus Inocybe from Japan. Nagaoa. 2:76-115
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0659
+    date: 23 août 2017
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
-    determinee: 
+    geolocalisation: 46°00’06.05"N 70°56’10.08"O
+    elevation: 315 m
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0663
+    date: 24 août 2017
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°00’06.05"N 70°56’10.08"O
+    elevation: 315 m
+    determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
 description:

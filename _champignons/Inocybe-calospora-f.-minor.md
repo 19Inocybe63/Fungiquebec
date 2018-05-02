@@ -94,7 +94,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »
   conidies: 
   conidiome: 
   conidiophores: 

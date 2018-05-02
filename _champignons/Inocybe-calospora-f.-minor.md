@@ -83,7 +83,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: brun rougeâtre
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -143,7 +143,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -189,7 +189,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, larges, avec lamelles et lamellules, dont l'arête est blanchâtre, brun beige
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -230,7 +230,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 6-21 mm Ø, conique campanulé au début, convexe à ± conique, étalé, fibrilleux, squamuleux, mamelonné, brun à brun rougeâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -260,15 +260,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brune
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 33-43 x 1-3 mm Ø, cylindrique à ± égal, fibrilleux, strié longitudinalement, entièrement pruineux, mais surtout vers l'apex, brun à brun rougeâtre sur toute la longueur, ± tortueux, avec base subbulbilleuse, blanche
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -72,7 +72,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    obtusément ellipsoïdes, avec digitations ± 1,2-2,2 µm de longueur (digitéolées), à paroi mince, à contenu uniguttulé, brunâtre rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
+    (6,2) 6,8-8,5 (9,3) × (6) 6,3-7,4 (7,9) µm
+    Q = 1-1,2 (1,3); N = 30
+    Me = 7,5 × 6,8 µm; Qe = 1,1
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l’eau glycérinée 15%, excluant les digitations)
   basidioles: 
   basidiome: 
   bibliographies: 

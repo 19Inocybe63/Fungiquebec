@@ -109,7 +109,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Ces collections (cKc0659 & cKc0663) viennent de chez Daan; et possèdent des basidiospores, ainsi que des digitations, beaucoup plus petites que l’holotype. »
+    De Claude Kaufholtz-Couture. « Ces collections (cKc0659 & cKc0663) viennent de chez Daan ; et elles possèdent des basidiospores, ainsi que des digitations, beaucoup plus petites que l’holotype. »
   conidies: 
   conidiome: 
   conidiophores: 

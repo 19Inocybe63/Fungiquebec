@@ -97,7 +97,7 @@ description:
   chair: blanchâtre dans le pileus, carnée dans le stipe, blanche dans le bulbe
   chancre: 
   cheilochrysocystides:
-  cheilocystides: polymorphes, fusiformes à largement fusiformes, lagéniformes, métuloïdes (60,3) 61,6-67,7 (68,9) x (17,2) 17,8-20,2 (20,8) µm en moyenne
+  cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -203,8 +203,8 @@ description:
   hysterothece: 
   lames: adnées à adnexées, arquées lorsque jeune, ventrues, serrées, gris-beige clair, puis brun ocracé à brun olivâtre
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: 
+  lamprocheilocystides: polymorphes, fusiformes à largement fusiformes, lagéniformes, métuloïdes (60,3) 61,6-67,7 (68,9) x (17,2) 17,8-20,2 (20,8) µm en moyenne
+  lampropleurocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, (52,2) 59,1-68,5] (75,4) x (15) 17,4-20,7 (23,1) µm en moyenne
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -243,7 +243,7 @@ description:
   pileus: 10-40 (45) mm Ø, conique-convexe à campanulé, d'abord lisse puis fibrilleux-rimeux, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, (52,2) 59,1-68,5] (75,4) x (15) 17,4-20,7 (23,1) µm en moyenne
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 

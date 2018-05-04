@@ -98,7 +98,7 @@ description:
   chair: blanchâtre, ferme, devient rougeâtre à la coupe
   chancre: 
   cheilochrysocystides:
-  cheilocystides: métuloïdes, ± nombreuses, lagéniformes, fusiformes à largement fusiformes, Ammoniaco -, (40,2) 45,1-57,8 (66,5) × (16,5) 17-28,5 (35,8) µm, à paroi 1,5-4,2 µm
+  cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -204,8 +204,8 @@ description:
   hysterothece: 
   lames: adnées, larges, serrées, avec lamelles et lamellules, crème grisâtre
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: 
+  lamprocheilocystides: métuloïdes, ± nombreuses, lagéniformes, fusiformes à largement fusiformes, réaction ammoniaco-négative (AN) dans l'ammoniaque 50% (40,2) 45,1-57,8 (66,5) × (16,5) 17-28,5 (35,8) µm, à paroi 1,5-4,2 µm
+  lampropleurocystides: ± nombreuses, métuloïdes, fusiformes à largement fusiformes, lagéniformes, réaction ammoniaco-négative (AN-) dans l'ammoniaque 50%, 47,3-60,7 × 16,6-24,5 µm, à paroi 2,1-3,6 µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -246,7 +246,7 @@ description:
   pileus: 38-56 mm Ø, convexe à campanulé, fibrilleux-rimeux, brun tan dont la marge est plus pâle
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: ± nombreuses, métuloïdes, fusiformes à largement fusiformes, lagéniformes, Ammoniaco -, 47,3-60,7 × 16,6-24,5 µm, à paroi 2,1-3,6 µm
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 

@@ -82,7 +82,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, terre brune, milieu herbeux ; au potentiel hydrogène (pH) 7-8
-  boucles: 
+  boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 
   capillitium: 

@@ -87,7 +87,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: 
-  caulocystides: semblables au hyménocystides, métuloïdes, dans l'apex, et plus souvent comme des hyphes terminales de terminaison piriforme ± sinueuses
+  caulocystides: semblables au hyménocystides, métuloïdes, dans l'apex est plus souvent comme des hyphes aux terminaisons piriformes ± sinueuses
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 

@@ -237,8 +237,8 @@ description:
   hysterothece: 
   lames: échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, larges à subventrues, crème jaunâtre, au liseré blanchâtre
   lamprocystides: 
-  lamprocheilocystides: nombreuses, métuloïdes, largement fusiformes, à paroi fine à épaisse 1,0-4,0 µm, dont les cristaux d’oxalate de calcium sont très peu nombreux à l’apex, parfois absent, ammoniaco négative (AN-) dans l'ammoniaque 10%, (35,6) 37,8-46 (53,6) × (15,6) 15,8-18,7 (21,3) µm en moyenne
-  lampropleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 µm, ammoniaco négative (AN-) dans l'ammoniaque 10%, dont les cristaux d’oxalate de calcium sont plus présent, (55,6) 55,8-59,2 (59,6) × (16,1) 16,3-19,4 (22) µm en moyenne
+  lamprocheilocystides: nombreuses, métuloïdes, largement fusiformes, à paroi fine à épaisse 1,0-4,0 µm, dont les cristaux d’oxalate de calcium sont très peu nombreux à l’apex, parfois absent, réaction ammoniaco-négative (AN-) dans l'ammoniaque 50%, (35,6) 37,8-46 (53,6) × (15,6) 15,8-18,7 (21,3) µm en moyenne
+  lampropleurocystides: occasionnelles, métuloïdes, largement fusiformes, à paroi moyenne à épaisse 2,0-3,7 µm, réaction ammoniaco-négative (AN-) dans l'ammoniaque 50%, dont les cristaux d’oxalate de calcium sont plus présent, (55,6) 55,8-59,2 (59,6) × (16,1) 16,3-19,4 (22) µm en moyenne
   lamprocaulocystides: 
   latex: 
   leptocystides: 

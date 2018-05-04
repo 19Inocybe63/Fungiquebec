@@ -196,13 +196,13 @@ description:
   hysterothece: 
   lames: sinuées à adnexées, larges, serrées, à ± espacées
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: 
+  lamprocheilocystides: polymorphes, métuloïdes abondantes, formant une palissade, fusiformes à largement fusiformes, parfois lagéniformes, rarement obtusément elliptiques, dont l’apex est obtus, en ogive ou capitée, rarement ± rostrées, à paroi fine à épaisse 1,2-2,7 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium, à clairsemé, (28,2) 32,4-50,1 (50,7) × (14) 16-21,4 (33,4) µm en moyenne
+  lampropleurocystides: ± nombreuses, métuloïdes, fusiformes à largement fusiformes, dont l’apex est parfois obtus et parfois fusiforme, à paroi mince à épaisse 1,1 × 2,9 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium à clairsemé, (49,6) 50,2-57,5 (58,9) × (14,5) 14,8-19,8 (22,6) µm en moyenne
   lamprocaulocystides: 
   latex: 
   leptocystides: 
-  leptocheilocystides: polymorphes, métuloïdes abondantes, formant une palissade, fusiformes à largement fusiformes, parfois lagéniformes, rarement obtusément elliptiques, dont l’apex est obtus, en ogive ou capitée, rarement ± rostrées, à paroi fine à épaisse 1,2-2,7 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium, à clairsemé, (28,2) 32,4-50,1 (50,7) × (14) 16-21,4 (33,4) µm en moyenne
-  leptopleurocystides: ± nombreuses, métuloïdes, fusiformes à largement fusiformes, dont l’apex est parfois obtus et parfois fusiforme, à paroi mince à épaisse 1,1 × 2,9 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium à clairsemé, (49,6) 50,2-57,5 (58,9) × (14,5) 14,8-19,8 (22,6) µm en moyenne
+  leptocheilocystides: 
+  leptopleurocystides: 
   macrocystides: 
   macropleurocystides: 
   marge: 

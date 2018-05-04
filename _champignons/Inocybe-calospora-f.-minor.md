@@ -141,7 +141,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: inconnu
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -223,7 +223,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: grégaire, en groupe de 10-24 spécimens
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -242,7 +242,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis formé d'hyphes articulées parfois en faisceaux, avec pigment incrustant
   pileitrame: 
   pileocystides: 
   pileus: 6-21 mm Ø, conique campanulé au début, convexe à ± conique, étalé, fibrilleux, squamuleux, mamelonné, brun à brun rougeâtre

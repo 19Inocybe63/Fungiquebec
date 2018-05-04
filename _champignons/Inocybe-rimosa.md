@@ -86,7 +86,7 @@ description:
   chair: 
   chancre: 
   cheilochrysocystides:
-  cheilocystides: abondantes, piriformes à largement clavées (25,6) 30,6-34,5 (39,6) x (7,6) 9,6-11,2 (13,2) µm
+  cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -196,7 +196,9 @@ description:
   lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
+  leptocheilocystides: abondantes, piriformes à largement clavées (25,6) 30,6-34,5 (39,6) x (7,6) 9,6-11,2 (13,2) µm
   leptocystides: 
+  leptopleurocystides: absentes
   macrocystides: 
   macropleurocystides: 
   marge: 
@@ -232,7 +234,7 @@ description:
   pileus: 33 mm Ø, subconique à campanulé, rimeux, jaune paille, à jaune brun-rougeâtre, blanchâtre au centre (velipellis)
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: absentes
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 

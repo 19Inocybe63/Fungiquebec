@@ -89,7 +89,7 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: occasionnelles à nombreuses, polymorphes, parfois en faisceaux, piriformes à claviformes, cylindriques, ellipsoïdes à ovoïdes, à paroi mince, ammoniaco-négative (AN-) dans l’ammoniaque 50%, parfois à paroi épaissie 18,9-38,5 × 5,5-10,9 µm en moyenne
+  caulocystides-medianes: occasionnelles, polymorphes, parfois en faisceaux, piriformes à claviformes, cylindriques, ellipsoïdes à ovoïdes, à paroi mince, ammoniaco-négative (AN-) dans l’ammoniaque 50%, parfois à paroi épaissie 18,9-38,5 × 5,5-10,9 µm en moyenne
   caulocystides-sommitales: nombreuses, polymorphes, piriformes, obtusément ellipsoïdes, ovoïdes à paroi mince, ammoniaco-négative (AN-) dans l’ammoniaque 50% (10,5) 16-24,2 (28,1) × (7,1) 8,4-11,3 (11,5) µm en moyenne, parfois métuloïdes, lagéniformes, à paroi fine entre 0,5-1,5 µm d’épaisseur, 24,8-38,3 × 5,9-6,4 (6,5) µm en moyenne
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 

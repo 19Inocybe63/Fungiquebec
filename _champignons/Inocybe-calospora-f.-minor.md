@@ -71,7 +71,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes à longuement claviformes, tétrasporiques, aux stérigmates 5,2-6,6 µm de longueur, boucles non observées à la base, à paroi mince, à contenu vacuolaires (30,4) 30,7-34,1 (41,5) × (7,9) 9-10,7 (10,8) µm en moyenne
   basidiospores: |
     goniosprées, obtusément ellipsoïdes, avec digitations 1-2,2 µm de longueur (digitéolées), à paroi mince à légèrement épaissie, à contenu uniguttulé, brunâtre à brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
     (6,2) 6,8-8,5 (9,3) × (6) 6,3-7,4 (7,9) µm

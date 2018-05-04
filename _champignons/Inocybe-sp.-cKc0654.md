@@ -89,7 +89,7 @@ description:
   chair: blanchâtre, immuable
   chancre: 
   cheilochrysocystides:
-  cheilocystides: polymorphes, abondantes, formant une palissade, fusiformes à largement fusiformes, parfois lagéniformes, rarement obtusément elliptiques, dont l’apex est obtus, en ogive ou capitée, rarement ± rostrées, à paroi fine à épaisse 1,2-2,7 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium, à clairsemé, (28,2) 32,4-50,1 (50,7) × (14) 16-21,4 (33,4) µm en moyenne
+  cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -201,8 +201,8 @@ description:
   lamprocaulocystides: 
   latex: 
   leptocystides: 
-  leptocheilocystides: 
-  leptopleurocystides: 
+  leptocheilocystides: polymorphes, métuloïdes abondantes, formant une palissade, fusiformes à largement fusiformes, parfois lagéniformes, rarement obtusément elliptiques, dont l’apex est obtus, en ogive ou capitée, rarement ± rostrées, à paroi fine à épaisse 1,2-2,7 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium, à clairsemé, (28,2) 32,4-50,1 (50,7) × (14) 16-21,4 (33,4) µm en moyenne
+  leptopleurocystides: ± nombreuses, métuloïdes, fusiformes à largement fusiformes, dont l’apex est parfois obtus et parfois fusiforme, à paroi mince à épaisse 1,1 × 2,9 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium à clairsemé, (49,6) 50,2-57,5 (58,9) × (14,5) 14,8-19,8 (22,6) µm en moyenne
   macrocystides: 
   macropleurocystides: 
   marge: 
@@ -239,7 +239,7 @@ description:
   pileus: 18-41 mm Ø, convexe, mamelonné, fibrilleux à squamuleux en son centre, brun, brun crème à brun rougeâtre, centre plus foncé, ± rimeux, se fend à la marge
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: ± nombreuses, fusiformes à largement fusiformes, dont l’apex est parfois obtus et parfois fusiforme, à paroi mince à épaisse 1,1 × 2,9 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium à clairsemé, (49,6) 50,2-57,5 (58,9) × (14,5) 14,8-19,8 (22,6) µm en moyenne
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 

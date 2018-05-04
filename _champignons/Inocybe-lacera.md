@@ -107,7 +107,7 @@ description:
   chair: pâle, subconcolore surtout en surface ou vers le bas, parfois à reflets rosés à vineux
   chancre: 
   cheilochrysocystides:
-  cheilocystides: nombreuses, sublagéniformes, fusiformes à fusiformes ventrues, dont l'apex est parfois ± obtus, rarement ovoïdales, longuement pédicellées, émergentes au ⅔, lorsque présent, les cristaux d'oxalate sont très peu nombreux, ammoniaco -, à paroi fine 1-1,5 µm; (31,5) 40,3-56,1 (76,7) × (15,5) 17,7-21,3 (21,4) µm
+  cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -212,8 +212,8 @@ description:
   hysterothece: 
   lames: adnées, espacées à serrées, à reflets sales ou sombres
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: 
+  lamprocheilocystides: nombreuses, métuloïdes, sublagéniformes, fusiformes à fusiformes ventrues, dont l'apex est parfois ± obtus, rarement ovoïdales, longuement pédicellées, émergentes au ⅔, lorsque présent, les cristaux d'oxalate sont très peu nombreux, ammoniaco négative (AN-) dans l'ammoniaque 10%, à paroi fine 1-1,5 µm (31,5) 40,3-56,1 (76,7) × (15,5) 17,7-21,3 (21,4) µm
+  lampropleurocystides: occasionnelles, métuloïdes, sublagéniformes, fusiformes à fusiformes ventrues dont l'apex est parfois ± obtus, rarement ovoïdales 42-44 × 19-23 µm en moyenne; longuement pédicellées, émergentes au ⅔, lorsque présentes, les cristaux d'oxalate sont très peu nombreux, ammoniaco négative (AN-) dans l'ammoniaque 10%, à paroi fine à moyenne 1,2-2,1 µm 48,9-81,2 × 14,1-25,6 µm en moyenne
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -254,7 +254,7 @@ description:
   pileus: 12-33 mm Ø, convexe, étalé, fibrilleux, à crevasses pâles, mamelonné, brun jaunâtre à brun beige, brun foncé en son centre, à marge blanche à crème pâle
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: occasionnelles, sublagéniformes, fusiformes à fusiformes ventrues dont l'apex est parfois ± obtus, rarement ovoïdales 42-44 × 19-23 µm en moyenne; longuement pédicellées, émergentes au ⅔, lorsque présentes, les cristaux d'oxalate sont très peu nombreux, ammoniaco -, à paroi fine à moyenne 1,2-2,1 µm; 48,9-81,2 × 14,1-25,6 µm en moyenne
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 

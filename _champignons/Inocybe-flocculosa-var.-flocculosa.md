@@ -87,7 +87,7 @@ description:
   chair: 
   chancre: 
   cheilochrysocystides:
-  cheilocystides: abondantes, métuloïdes, formant une palissade, majoritairement fusiformes à largement fusiformes, rarement sphéropédonculées, dont l’apex est obtus, lagéniformes à largement lagéniformes, dont la paroi est fine à épaisse 1,5-2,7 (3), Ammoniaco -, (44,6) 47,3-63 (77,1) × (15,7) 15,9-19,8 (20,7) µm, majoritairement avec très peu de cristaux d'oxalate
+  cheilocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -194,8 +194,8 @@ description:
   hysterothece: 
   lames: adnées à ± sinuées, serrées, crème pâle, se tachant de rougeâtre, arête lamellaire blanchâtre
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: 
+  lamprocheilocystides: abondantes, métuloïdes, formant une palissade, majoritairement fusiformes à largement fusiformes, rarement sphéropédonculées, dont l’apex est obtus, lagéniformes à largement lagéniformes, dont la paroi est fine à épaisse 1,5-2,7 (3), Ammoniaco -, (44,6) 47,3-63 (77,1) × (15,7) 15,9-19,8 (20,7) µm, majoritairement avec très peu de cristaux d'oxalate
+  lampropleurocystides: nombreuses, métuloïdes, majoritairement fusiformes à largement fusiformes dont l’apex est obtus, lagéniformes à largement lagéniformes, rarement ovoïdes, dont la paroi est fine à épaisse 2,4-3,9 (4) µm, Ammoniaco -, (43,5) 47,7-67 (74) × (14,7) 15,3-19,6 (20,9) µm, majoritairement avec très peu de cristaux d'oxalate
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -236,7 +236,7 @@ description:
   pileus: 12-33 mm Ø, campanulé au début, puis convexe à étalé, fibrilleux, avec squamules apprimées, déprimé et mamelonné, brun pâle à brun rougeâtre, au centre, à la marge blanchâtre
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, métuloïdes, majoritairement fusiformes à largement fusiformes dont l’apex est obtus, lagéniformes à largement lagéniformes, rarement ovoïdes, dont la paroi est fine à épaisse 2,4-3,9 (4) µm, Ammoniaco -, (43,5) 47,7-67 (74) × (14,7) 15,3-19,6 (20,9) µm, majoritairement avec très peu de cristaux d'oxalate
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 

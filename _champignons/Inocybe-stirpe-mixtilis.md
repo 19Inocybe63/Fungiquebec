@@ -78,8 +78,8 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: de type métuloïdes, sensiblement comme les caulocystides sommitales
-  caulocystides-sommitales: de type métuloïdes, fusiformes à largement fusiformes (41,8) 46,6-56,3 (59,7) × (13,3) 16,4-22,6 (23,8) µm, à piriformes, (13,4) 13,45-23,2 × (5,1) 5,15-11,8 µm en moyenne
+  caulocystides-medianes: métuloïdes, sensiblement comme les caulocystides sommitales
+  caulocystides-sommitales: métuloïdes, fusiformes à largement fusiformes (41,8) 46,6-56,3 (59,7) × (13,3) 16,4-22,6 (23,8) µm, à piriformes, (13,4) 13,45-23,2 × (5,1) 5,15-11,8 µm en moyenne
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-peritheciales: 
@@ -87,7 +87,7 @@ description:
   chair: 
   chancre: 
   cheilochrysocystides:
-  cheilocystides: nombreuses, polymorphes, fusiformes à largement fusiformes, parfois ovoïdes, (39,8) 46,3-56,2 (56,8) × (16,6) 19,5-21,3 (26,4) µm
+  cheilocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -194,8 +194,8 @@ description:
   hysterothece: 
   lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crèmes à gris pâle puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: 
+  lamprocheilocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, parfois ovoïdes, (39,8) 46,3-56,2 (56,8) × (16,6) 19,5-21,3 (26,4) µm
+  lampropleurocystides: nombreuses, polymorphes, métuloïdes, largement fusiformes, ellipsoïdes à ovoïdes à largement ovoïdes, (44) 50,8-53,6 (55,9) × (24,2) 25,5-29,6 (33,2) µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -235,7 +235,7 @@ description:
   pileus: 23-25 mm Ø, conique-convexe, conique, campanulé, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: nombreuses, polymorphes, largement fusiformes, ellipsoïdes à ovoïdes à largement ovoïdes, (44) 50,8-53,6 (55,9) × (24,2) 25,5-29,6 (33,2) µm
+  pleurocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 

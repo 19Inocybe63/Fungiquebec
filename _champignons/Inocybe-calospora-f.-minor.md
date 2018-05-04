@@ -248,7 +248,7 @@ description:
   pileus: 6-21 mm Ø, conique campanulé au début, convexe à ± conique, étalé, fibrilleux, squamuleux, mamelonné, brun à brun rougeâtre
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: rares à occasionnelles, isolées, polymorphes, cylindriques à claviformes, ellipsoïdes à longuement ellipsoïdes, utriformes à subutriformes, fusiformes à subfusiformes, parfois avec un long pédicelle, à paroi fine à épaisse entre 0,9-3 µm d’épaisseur, (24,8) 30,6-43,4 (43,6) × (8,3) 9,4-11,7 (13,9) µm en moyenne
+  pleurocystides: rares à occasionnelles, isolées, polymorphes, cylindriques à claviformes, ellipsoïdes à longuement ellipsoïdes, utriformes à subutriformes, fusiformes à subfusiformes, parfois avec un long pédicelle, à paroi fine à épaisse 0,9-3 µm, ammoniaco-négative (AN-) dans l’ammoniaque 50% (24,8) 30,6-43,4 (43,6) × (8,3) 9,4-11,7 (13,9) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

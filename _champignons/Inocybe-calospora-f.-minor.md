@@ -110,7 +110,7 @@ description:
   comestibilite: 
   commentaires: |
     De Claude Kaufholtz-Couture. « Ces collections (cKc0659 & cKc0663) viennent de chez Daan ; et elles possèdent des basidiospores, ainsi que des digitations, beaucoup plus petites que l’holotype. »
-    De Claude Kaufholtz-Couture. « L’habitat d’où proviennent les deux collections (cKc0659 & cKc0663) n’est pas habituel. En effet, <i>I. calospora</i> pousse surtout sous les arbres à feuilles caduques <i>Quercus</i> et même dans les bois riverains sous l'aulne, et les sols sableux, mais plus rarement dans la mousse. Nous avons déjà trouvé <i>I. calospora</i> dans un parc avec un sol sableux au pH 4-6. Pour notre étude (cKc0659 & cKc0663), les deux collections poussent sous feuillus, dans une terre arable grasse et bien humide, au pH 7-8. »
+    De Claude Kaufholtz-Couture. « L’habitat d’où proviennent les deux collections (cKc0659 & cKc0663) n’est pas habituel. En effet, <i>I. calospora</i> pousse surtout sous feuillus, <i>Quercus</i>, et même dans les bois riverains sous <i>Alnus</i>, et les sols sableux, et plus rarement dans la mousse. Nous avons déjà trouvé <i>I. calospora</i> dans un parc dans un sol sableux au pH 4-6. Pour notre étude (cKc0659 & cKc0663), les deux collections poussent sous feuillus, dans une terre arable grasse et bien humide, au pH 7-8. »
   conidies: 
   conidiome: 
   conidiophores: 

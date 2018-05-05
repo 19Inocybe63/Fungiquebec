@@ -1,6 +1,6 @@
 ---
 nom: Inocybe calospora f. minor
-date: 2018-05-04 00:00:00
+date: 2018-05-05 00:00:00
 image: https://c1.staticflickr.com/5/4360/36003198074_b53d29c8b5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36003198074/in/photolist-XS6WT9-WRtPjd-XS719Y-WRtNso
 album-flickr:

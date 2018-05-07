@@ -116,6 +116,7 @@ description:
   chair: épaisse, ferme, immuable, blanche
   chancre: 
   cheilocystides: 
+  cheiloleptocystides: abondantes, parfois en faisceaux, subutriformes au sens de Romagnesi, piriformes à clavées et largement clavées, cylindriques, rarement avec cristaux d'oxalate de calcium, 43-59 x 11-18 µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -223,9 +224,7 @@ description:
   lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
-  leptocheilocystides: abondantes, parfois en faisceaux, subutriformes au sens de Romagnesi, piriformes à clavées et largement clavées, cylindriques, rarement avec cristaux d'oxalate de calcium, 43-59 x 11-18 µm en moyenne
   leptocystides: 
-  leptopleurocystides: absentes
   macrocystides: 
   macropleurocystides: 
   marge: 
@@ -260,6 +259,7 @@ description:
   pileus: 14-51 mm Ø, subcylindrique-campanulé jeune à convexe puis étalé à maturité, mamelonné, fibrilleux, avec marge unie puis fendillée avec l’âge, brun cannelle avec un centre plus foncé, avec présence de fibrilles blanches sur le disque lorsque jeune
   plasmode: 
   pleurocystides: 
+  pleuroleptocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

@@ -87,7 +87,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
-  cheiloleptocystides: 
+  cheiloleptocystides: abondantes, piriformes à largement clavées (25,6) 30,6-34,5 (39,6) x (7,6) 9,6-11,2 (13,2) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -196,9 +196,7 @@ description:
   lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
-  leptocheilocystides: abondantes, piriformes à largement clavées (25,6) 30,6-34,5 (39,6) x (7,6) 9,6-11,2 (13,2) µm
   leptocystides: 
-  leptopleurocystides: absentes
   macrocystides: 
   macropleurocystides: 
   marge: 
@@ -235,6 +233,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
+  pleuroleptocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

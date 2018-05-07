@@ -88,6 +88,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
+  cheilolamprocystides: abondantes, métuloïdes, formant une palissade, majoritairement fusiformes à largement fusiformes, rarement sphéropédonculées, dont l’apex est obtus, lagéniformes à largement lagéniformes, dont la paroi est fine à épaisse 1,5-2,7 (3), réaction ammoniaco-négative (AN-) dans l'ammoniaque 50%, (44,6) 47,3-63 (77,1) × (15,7) 15,9-19,8 (20,7) µm, majoritairement avec très peu de cristaux d'oxalate
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -194,8 +195,6 @@ description:
   hysterothece: 
   lames: adnées à ± sinuées, serrées, crème pâle, se tachant de rougeâtre, arête lamellaire blanchâtre
   lamprocystides: 
-  lamprocheilocystides: abondantes, métuloïdes, formant une palissade, majoritairement fusiformes à largement fusiformes, rarement sphéropédonculées, dont l’apex est obtus, lagéniformes à largement lagéniformes, dont la paroi est fine à épaisse 1,5-2,7 (3), réaction ammoniaco-négative (AN-) dans l'ammoniaque 50%, (44,6) 47,3-63 (77,1) × (15,7) 15,9-19,8 (20,7) µm, majoritairement avec très peu de cristaux d'oxalate
-  lampropleurocystides: nombreuses, métuloïdes, majoritairement fusiformes à largement fusiformes dont l’apex est obtus, lagéniformes à largement lagéniformes, rarement ovoïdes, dont la paroi est fine à épaisse 2,4-3,9 (4) µm, réaction ammoniaco-négative (AN-) dans l'ammoniaque 50%, (43,5) 47,7-67 (74) × (14,7) 15,3-19,6 (20,9) µm, majoritairement avec très peu de cristaux d'oxalate
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -237,6 +236,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
+  pleurolamprocystides: nombreuses, métuloïdes, majoritairement fusiformes à largement fusiformes dont l’apex est obtus, lagéniformes à largement lagéniformes, rarement ovoïdes, dont la paroi est fine à épaisse 2,4-3,9 (4) µm, réaction ammoniaco-négative (AN-) dans l'ammoniaque 50%, (43,5) 47,7-67 (74) × (14,7) 15,3-19,6 (20,9) µm, majoritairement avec très peu de cristaux d'oxalate
   poils: 
   poils-basaux: 
   poils-caulinaires: 

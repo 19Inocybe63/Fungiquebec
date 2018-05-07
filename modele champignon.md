@@ -183,7 +183,6 @@ description:
   hysterothece: 
   lames: 
   lamprocystides: 
-  lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
   latex: 

@@ -194,8 +194,6 @@ description:
   hysterothece: 
   lames: libres, ventrues, très serrées, blanches au début, puis rose, à arêtes entières ou floconneuses et blanchâtre rosée
   lamprocystides: 
-  lamprocheilocystides: 
-  lampropleurocystides: nombreuses, métuloïdes, fusiformes (76,9) 77,5-85,9 (95,7) × (11,4) 13,5-17,6 (20,3) µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la plupart sont entiers, quelques bifides, à paroi jusqu'à 2,5 µm d’épaisseur
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -233,6 +231,7 @@ description:
   pileus: 40-80 mm Ø, hémisphérique ou campanulé au début, puis convexe à convexe-étalé, avec ou sans ombon large et bas, légèrement déprimé ou non au centre, sec ou viscidule à l’humidité, lisse, fibrilleux-inné radialement ou avec fibrilles très distinctes, avec ou sans squamules définies au centre, souvent dans les tons de brun, plus rarement teinté principalement de gris-brun ou de brun orange, parfois à variants blanc pur, à marge unie ou légèrement translucide-striée
   plasmode: 
   pleurocystides: 
+  pleurolamprocystides: nombreuses, métuloïdes, fusiformes (76,9) 77,5-85,9 (95,7) × (11,4) 13,5-17,6 (20,3) µm en moyenne, souvent avec 3-4 (5) crochets apicaux bien développés dont la plupart sont entiers, quelques bifides, à paroi jusqu'à 2,5 µm d’épaisseur
   poils: 
   poils-basaux: 
   poils-caulinaires: 

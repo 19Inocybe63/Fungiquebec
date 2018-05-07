@@ -101,6 +101,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
+  cheilolamprocystides: nombreuses, polymorphes, formant une palissade, métuloïdes, ellipsoïdes à ovoïdes, claviformes à claviformes-ventrues, fusiformes, dont l’apex est souvent obtus, à paroi fine à moyenne 1,3-1,9 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, parfois sans cristaux ou faiblement (18,8) 23,5-32,2 (33,5) × (8,5) 9,5-12,3 (13,5) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -207,8 +208,6 @@ description:
   hysterothece: 
   lames: adnées, serrées, larges, avec lamelles et lamellules, dont l'arête est blanchâtre, brun beige
   lamprocystides: 
-  lamprocheilocystides: nombreuses, polymorphes, formant une palissade, métuloïdes, ellipsoïdes à ovoïdes, claviformes à claviformes-ventrues, fusiformes, dont l’apex est souvent obtus, à paroi fine à moyenne 1,3-1,9 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, parfois sans cristaux ou faiblement (18,8) 23,5-32,2 (33,5) × (8,5) 9,5-12,3 (13,5) µm en moyenne
-  lampropleurocystides: rares à occasionnelles, isolées, polymorphes, métuloïdes, cylindriques à claviformes, ellipsoïdes à longuement ellipsoïdes, utriformes à subutriformes, fusiformes à subfusiformes, parfois avec un long pédicelle, à paroi fine à épaisse 0,9-3 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50% (24,8) 30,6-43,4 (43,6) × (8,3) 9,4-11,7 (13,9) µm en moyenne
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -250,6 +249,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
+  pleurolamprocystides: rares à occasionnelles, isolées, polymorphes, métuloïdes, cylindriques à claviformes, ellipsoïdes à longuement ellipsoïdes, utriformes à subutriformes, fusiformes à subfusiformes, parfois avec un long pédicelle, à paroi fine à épaisse 0,9-3 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50% (24,8) 30,6-43,4 (43,6) × (8,3) 9,4-11,7 (13,9) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

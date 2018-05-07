@@ -99,6 +99,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
+  cheilolamprocystides: métuloïdes, ± nombreuses, lagéniformes, fusiformes à largement fusiformes, réaction ammoniaco-négative (AN) dans l'ammoniaque 50% (40,2) 45,1-57,8 (66,5) × (16,5) 17-28,5 (35,8) µm, à paroi 1,5-4,2 µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -204,8 +205,6 @@ description:
   hysterothece: 
   lames: adnées, larges, serrées, avec lamelles et lamellules, crème grisâtre
   lamprocystides: 
-  lamprocheilocystides: métuloïdes, ± nombreuses, lagéniformes, fusiformes à largement fusiformes, réaction ammoniaco-négative (AN) dans l'ammoniaque 50% (40,2) 45,1-57,8 (66,5) × (16,5) 17-28,5 (35,8) µm, à paroi 1,5-4,2 µm
-  lampropleurocystides: ± nombreuses, métuloïdes, fusiformes à largement fusiformes, lagéniformes, réaction ammoniaco-négative (AN-) dans l'ammoniaque 50%, 47,3-60,7 × 16,6-24,5 µm, à paroi 2,1-3,6 µm
   lamprocaulocystides: 
   latex: 
   leptocystides: 
@@ -247,6 +246,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
+  pleurolamprocystides: ± nombreuses, métuloïdes, fusiformes à largement fusiformes, lagéniformes, réaction ammoniaco-négative (AN-) dans l'ammoniaque 50%, 47,3-60,7 × 16,6-24,5 µm, à paroi 2,1-3,6 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

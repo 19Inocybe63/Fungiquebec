@@ -109,6 +109,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
+  cheilolamprocystides: abondantes, métuloïdes, courtes, fusiformes, lagéniformes à claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans cristaux d'oxalate de calcium, ou clairsemé
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -214,9 +215,6 @@ description:
   hysterothece: 
   lames: libres, adnexées à étroitement adnées, ± larges, serrées à très serrées, blanches puis beiges pâle à brun sombre à la fin, à arêtes finement fimbriées, plus pâles
   lamprocystides: 
-  lamprocheilocystides: abondantes, métuloïdes, courtes, fusiformes, lagéniformes à claviformes, 30-58 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune, parfois sans cristaux d'oxalate de calcium, ou clairsemé
-  lampropleurocystides: nombreuses, métuloïdes, courtes, fusiformes, lagéniformes à claviformes, 35-60 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune
-  lamprocaulocystides: 
   latex: 
   leptocystides: 
   leptopleurocystides: 
@@ -256,6 +254,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
+  pleurolamprocystides: nombreuses, métuloïdes, courtes, fusiformes, lagéniformes à claviformes, 35-60 x 14-16 µm, à paroi épaisse 3-5 (6) µm ± jaune
   poils: 
   poils-basaux: 
   poils-caulinaires: 

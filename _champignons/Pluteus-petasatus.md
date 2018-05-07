@@ -82,6 +82,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: nombreuses, polymorphes, obclaviformes, 34,8-57,8 × 11,8-13,3 µm en moyenne, plusieurs cylindriques dont l’apex est acuminé
+  cheilolamprocystides: présentes, cylindriques métuloïdes, dont l’apex couronné comporte entre 1 et 3 crochets souvent difformes, parfois avec apex en biseaux, 20,9-54,4 × 12,4-15,6 µm, en moyenne, dont l’épaisseur de la paroi est fine 0,5-1,5 µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -184,9 +185,6 @@ description:
   hysterothece: 
   lames: libres, ventrues, jusqu'à 15 (20) mm de large, blanches au début, roses à maturité, avec arêtes lamellaire blanches, ou floconneuses
   lamprocystides: 
-  lamprocheilocystides: présentes, cylindriques métuloïdes, dont l’apex couronné comporte entre 1 et 3 crochets souvent difformes, parfois avec apex en biseaux, 20,9-54,4 × 12,4-15,6 µm, en moyenne, dont l’épaisseur de la paroi est fine 0,5-1,5 µm
-  lampropleurocystides: abondantes, métuloïdes, dont l’apex est en couronne, avec (2) 3–4 crochets apicaux majoritairement entiers, parfois peu développés, 58,4-81,7 × 17,2-23,4 µm en moyenne, dont l’épaisseur de la paroi est fine à moyenne 1,4-2,1 µm
-  lamprocaulocystides: 
   latex: 
   leptocystides: 
   macrocystides: 
@@ -224,6 +222,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
+  pleurolamprocystides: abondantes, métuloïdes, dont l’apex est en couronne, avec (2) 3–4 crochets apicaux majoritairement entiers, parfois peu développés, 58,4-81,7 × 17,2-23,4 µm en moyenne, dont l’épaisseur de la paroi est fine à moyenne 1,4-2,1 µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

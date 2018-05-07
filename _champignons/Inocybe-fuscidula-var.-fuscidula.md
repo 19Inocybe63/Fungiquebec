@@ -252,7 +252,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  pleulamprocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, atténué au sommet-obclavée, lagéniformes à cylindriques à paroi fine à moyenne 1,0-2,4 µm, (50,1) 60,3-64,7 (70,0) × (11) 16-17,5 (18,5) µm, parfois avec col tortueux, largement ovoïdes à piriformes, (20,5) 42,8-50,8 (51,4) × (17,5) 18,4-20,3 (24) µm, à paroi fine à moyenne (1,0) 1,4-2,5 (2,7) µm
+  pleurolamprocystides: nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, atténué au sommet-obclavée, lagéniformes à cylindriques à paroi fine à moyenne 1,0-2,4 µm, (50,1) 60,3-64,7 (70,0) × (11) 16-17,5 (18,5) µm, parfois avec col tortueux, largement ovoïdes à piriformes, (20,5) 42,8-50,8 (51,4) × (17,5) 18,4-20,3 (24) µm, à paroi fine à moyenne (1,0) 1,4-2,5 (2,7) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

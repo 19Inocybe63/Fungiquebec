@@ -79,6 +79,8 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
+  cheilolamprocystides: 
+  cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -183,12 +185,8 @@ description:
   hysterothece: 
   lames: 
   lamprocystides: 
-  lampropleurocystides: 
-  lamprocaulocystides: 
   latex: 
   leptocystides: 
-  leptocheilocystides: 
-  leptopleurocystides: 
   macrocystides: 
   macropleurocystides: 
   marge: 
@@ -225,6 +223,8 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
+  pleurolamprocystides: 
+  pleuroleptocystides: 
   poils: 
   poils-basaux: 
   poils-caulinaires: 

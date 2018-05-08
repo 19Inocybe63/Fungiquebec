@@ -370,8 +370,6 @@ champs-description:
     label: Pleurocystides
   - name: pleuromacrocystides
     label: Pleuromacrocystides
-  - name: lampropleurocystides
-    label: Lampropleurocystides
   - name: cristaux-apicaux
     label: Cristaux apicaux
   - name: macropleurocystides
@@ -637,8 +635,6 @@ champs-description:
     label: Hystérothèce
   - name: lamprocystides
     label: Lamprocystides
-  - name: lamprocaulocystides
-    label: Lamprocaulocystides
   - name: leptocystides
     label: Leptocystides
   - name: macrocystides

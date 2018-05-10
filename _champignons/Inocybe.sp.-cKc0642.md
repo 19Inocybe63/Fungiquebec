@@ -81,7 +81,7 @@ description:
   caulocystides: 
   caulocystides-medianes: nombreuses à abondantes, polymorphes, métuloïdes, fusiformes à largement fusiformes, ovoïdes, lagéniformes à sublagéniformes, à paroi fine à épaisse 0,8-4,5 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50% (23,7) 27,3-40,1 (41,8) × (14,1) 15,1-17 (17,3) µm
   caulocystides-sommitales: abondantes, polymorphes, métuloïdes, fusiformes à largement fusiformes, lagéniformes à sublagéniformes, rarement ovoïdes, à paroi moyenne à épaisse 2,3-3,5 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50% (25,9) 34-44,5 (47,9) × (10,6) 11,2-16,1 (19,6) µm
-  cauloparacystides: nombreuses, piriformes à sphéropédonculées, à paroi mince, 13-18,7 × 4,2-9,7 µm
+  cauloparacystides: médianes et sommitales, nombreuses, piriformes à sphéropédonculées, à paroi mince, 13-18,7 × 4,2-9,7 µm
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 

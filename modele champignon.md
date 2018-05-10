@@ -204,6 +204,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
+  paracystides: 
   paraphyses: 
   parasite: 
   paroi-peritheciale: 

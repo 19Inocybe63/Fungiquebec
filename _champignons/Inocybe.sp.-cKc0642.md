@@ -100,7 +100,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Stipe entièrement pruineux et bulbeux de la section Marginatae. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -232,7 +233,7 @@ description:
   pileipellis: en cutis formé d'hyphes articulées rarement en faisceaux, avec pigment incrustant
   pileitrame: 
   pileocystides: 
-  pileus: 17-20 mm Ø, convexe à marge retroussée, brun pâle jaunâtre à jaune verdâtre, fibrilleux, avec mamelon ocre orangé
+  pileus: 17-20 mm Ø, convexe à marge retroussée, brun pâle jaunâtre à jaune verdâtre, fibrilleux, rimeux, avec mamelon ocre orangé, à marge récurvée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

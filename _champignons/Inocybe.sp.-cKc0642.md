@@ -87,7 +87,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: crème jaunâtre à verdâtre
+  chair: crème jaunâtre à verdâtre; immuable
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

@@ -37,8 +37,8 @@ collections:
       numero: cKc-étude-0176
       miniature: https://c1.staticflickr.com/5/4294/35677076050_6fdd0cf3b0_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/photolist-WmEkJS-F8KAeq-GXXhwU-VzJan5-GBxinF-25qBV1R-Hc9K4d-YJhFyJ-XMgDF4-YNqYuT-XHHdCw-YpNy4G-Z1Y9s8-Z1Yavv-Z1Yb4z-XMdWQk-XMdXUV-XMdVPc-Ympg1N-TbZeqh
-    geolocalisation: 46°54'28.8"N 71°16'39.7"O
-    elevation: 230 m
+    geolocalisation: 
+    elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
   - fongarium: cKc0624

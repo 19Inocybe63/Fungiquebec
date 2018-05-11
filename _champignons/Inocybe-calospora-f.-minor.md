@@ -81,7 +81,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, terre brune, milieu herbeux ; au potentiel hydrogène (pH) 7-8
+  biotopes: pousse au sol, terre arable, milieu herbeux; sous <i>Betula</i>, <i>Crataegus</i>, <i>Quercus macrocarpa</i>, <i>Abies</i>,<i>Pinus</i>, <i>Populus</i>, <i>Rhus typhina</i>; au potentiel hydrogène (pH) 7-8
   boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 

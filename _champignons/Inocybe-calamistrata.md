@@ -73,7 +73,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: subconcolore
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -86,7 +86,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Inocybe à la base vert sombre. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -99,7 +100,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: brun ocre pâle, fugace
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -135,7 +136,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: agréable, géranium (Pelargonium)
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -250,12 +251,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: astringente, acidulée
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brune
   spherocytes: 
   sporocystes: 
   stipe: 48-90 x 3-4 mm Ø, cylindrique-claviforme, subégal, plein, fortement hérissé, brun à ± brun rougeâtre, sauf le dernier tiers ± brun rougeâtre à verdâtre, dont la base est radicante

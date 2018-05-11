@@ -27,8 +27,8 @@ collections:
       numero: cKc0556-0151
       miniature: https://c1.staticflickr.com/1/752/31075700664_ec9eda465f_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    altitude: 230 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
   - fongarium: cKc0556
@@ -37,8 +37,8 @@ collections:
       numero: cKc-étude-0176
       miniature: https://c1.staticflickr.com/5/4294/35677076050_6fdd0cf3b0_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/photolist-WmEkJS-F8KAeq-GXXhwU-VzJan5-GBxinF-25qBV1R-Hc9K4d-YJhFyJ-XMgDF4-YNqYuT-XHHdCw-YpNy4G-Z1Y9s8-Z1Yavv-Z1Yb4z-XMdWQk-XMdXUV-XMdVPc-Ympg1N-TbZeqh
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    altitude: 230 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
   - fongarium: cKc0624
@@ -47,8 +47,8 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    altitude: 230 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
   - fongarium: cKc0638
@@ -57,8 +57,8 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    altitude: 230 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
   - fongarium: cKc0641
@@ -67,8 +67,8 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    altitude: 230 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
@@ -111,7 +111,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, pauvre, sablonneux, perturbé, sentier forestier, sous feuillus <i>Betula</i>, <i>Fagus</i>
+  biotopes: pousse au sol, sablonneux, perturbé, sentier forestier; sous feuillus <i>Betula</i>, <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

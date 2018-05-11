@@ -223,7 +223,7 @@ description:
   pleurochrysocystides: 
   pleurocystides: 
   pleurolamprocystides: 
-  pleuroleptocystides: 
+  pleuroleptocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

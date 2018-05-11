@@ -7,7 +7,7 @@ album-flickr:
   - 72157696049784654
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe à base vert sombre
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -86,8 +86,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: |
-    De Claude Kaufholtz-Couture. « Inocybe à la base vert sombre. »
+  commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 

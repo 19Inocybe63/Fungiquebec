@@ -18,6 +18,7 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe sp.</i>
+  sous-genre: Clypeus
   section: Marginatae
   sous-section: Praetervisae
   litterature: 

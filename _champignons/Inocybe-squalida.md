@@ -18,6 +18,9 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe squalida</i> C. Kaufholtz-Couture nom. prov.
+  sous-genre: Clypeus
+  section: 
+  sous-section: 
   litterature: <i>Inocybe squalida</i> C. Kaufholtz-Couture nom. prov. (article en préparation)
 
 collections:

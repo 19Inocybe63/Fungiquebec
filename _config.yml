@@ -144,7 +144,7 @@ champs-details:
     format: italique
   - name: espece
     label: Espèce
-  - name: Sous-genre
+  - name: sous-genre
     label: Sous-genre
   - name: section
     label: Section

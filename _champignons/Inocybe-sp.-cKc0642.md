@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/42022480361/in/dateposted/
     geolocalisation: 46°54'28.8"N 71°16'39.7"O
     elevation: 230 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: 
+    determinee: 
+    confirmee: Alain Ferville / Yves Lamoureux
 
 description:
   acanthocytes: 

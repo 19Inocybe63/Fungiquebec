@@ -20,6 +20,7 @@ details:
   famille: 
   genre: 
   espece: 
+  sous-genre: 
   section: 
   sous-section: 
   litterature: 

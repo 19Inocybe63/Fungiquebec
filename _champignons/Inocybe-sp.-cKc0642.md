@@ -99,7 +99,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: NON
   commentaires: |
     De Claude Kaufholtz-Couture. « Stipe entièrement pruineux et la base du stipe bulbeuse-marginée de la section Marginatae. »
   conidies: 
@@ -293,8 +293,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  symptomes: 
-  syndrome: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: |
+    muscarinien ou sudorien
+    La toxine responsable est la muscarine
   synonymie: 
   systeme-hyphal: 
   textura: 

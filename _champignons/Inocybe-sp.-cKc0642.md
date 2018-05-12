@@ -18,6 +18,8 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe sp.</i>
+  section: Marginatae
+  sous-section: Praetervisae
   litterature: 
 
 collections:

@@ -493,6 +493,10 @@ champs-description:
     label: Première mention
   - name: nouvelle-espece
     label: Nouvelle espèce
+  - name: section
+    lable: Section
+  - name: sous-section
+    label: Sous-section
   - name: commentaires
     label: Commentaires
   - name: remarques

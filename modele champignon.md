@@ -255,8 +255,10 @@ description:
   saveur: 
   sclerocystides: 
   sclerote: 
+  section: 
   soies: 
   soies-hymeniales: 
+  sous-section: 
   sporee: 
   spherocytes: 
   sporocystes: 

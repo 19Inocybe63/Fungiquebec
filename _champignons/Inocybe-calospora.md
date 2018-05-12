@@ -18,6 +18,9 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe calospora</i> Quél.
+  sous-genre: Clypeus
+  section: Petiginosae
+  sous-section: Calosporae
   litterature: Bresadola, G. 1882. Fungi tridentini. Fungi Tridentini. 1(2):15-26
 
 collections:

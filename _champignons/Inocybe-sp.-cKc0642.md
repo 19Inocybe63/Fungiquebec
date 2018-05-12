@@ -279,10 +279,12 @@ description:
   rhizomorphes: 
   sac-sporifere: 
   saveur: spermatique
+  section: Marginatae
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
+  sous-section: Praetervisae
   sporee: brun rouille à brun cannelle; en amoncellement
   spherocytes: 
   sporocystes: 

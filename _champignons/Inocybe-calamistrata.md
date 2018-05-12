@@ -18,6 +18,9 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe calamistrata</i> (Fr.) Gillet
+  sous-genre: Inosperma
+  section: Cervicolores
+  sous-section: 
   litterature: Gillet, C.C. 1878. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. 1:1-176
 
 collections:

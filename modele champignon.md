@@ -20,6 +20,8 @@ details:
   famille: 
   genre: 
   espece: 
+  section: 
+  sous-section: 
   litterature: 
 
 collections:
@@ -255,10 +257,8 @@ description:
   saveur: 
   sclerocystides: 
   sclerote: 
-  section: 
   soies: 
   soies-hymeniales: 
-  sous-section: 
   sporee: 
   spherocytes: 
   sporocystes: 

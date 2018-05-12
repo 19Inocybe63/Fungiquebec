@@ -146,10 +146,16 @@ champs-details:
     label: Espèce
   - name: sous-genre
     label: Sous-genre
+    search: facet
+    format: italique
   - name: section
     label: Section
+    search: facet
+    format: italique
   - name: sous-section
     label: Sous-section
+    search: facet
+    format: italique
   - name: litterature
     label: Littérature
 

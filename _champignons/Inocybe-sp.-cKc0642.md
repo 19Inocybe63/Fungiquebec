@@ -101,7 +101,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Stipe entièrement pruineux et bulbeux et base du stipe clavée de la section Petiginosae. »
+    De Claude Kaufholtz-Couture. « Stipe entièrement pruineux et base du stipe clavée de la section Petiginosae. »
   conidies: 
   conidiome: 
   conidiophores: 

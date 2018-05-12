@@ -494,7 +494,7 @@ champs-description:
   - name: nouvelle-espece
     label: Nouvelle espèce
   - name: section
-    lable: Section
+    label: Section
   - name: sous-section
     label: Sous-section
   - name: commentaires

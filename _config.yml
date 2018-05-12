@@ -144,6 +144,10 @@ champs-details:
     format: italique
   - name: espece
     label: Espèce
+  - name: section
+    label: Section
+  - name: sous-section
+    label: Sous-section
   - name: litterature
     label: Littérature
 
@@ -493,10 +497,6 @@ champs-description:
     label: Première mention
   - name: nouvelle-espece
     label: Nouvelle espèce
-  - name: section
-    label: Section
-  - name: sous-section
-    label: Sous-section
   - name: commentaires
     label: Commentaires
   - name: remarques

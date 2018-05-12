@@ -18,6 +18,9 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe calospora f. minor</i>
+  sous-genre: Clypeux
+  section: Petiginosae
+  sous-section: Calosporae
   litterature: Kobayasi, Y. 1952. On the genus Inocybe from Japan. Nagaoa. 2:76-115
 
 collections:

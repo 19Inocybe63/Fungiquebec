@@ -147,15 +147,15 @@ champs-details:
   - name: sous-genre
     label: Sous-genre
     search: facet
-    format: bold
+    format: italique
   - name: section
     label: Section
     search: facet
-    format: bold
+    format: italique
   - name: sous-section
     label: Sous-section
     search: facet
-    format: bold
+    format: italique
   - name: litterature
     label: Littérature
 

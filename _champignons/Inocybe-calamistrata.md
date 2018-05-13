@@ -57,7 +57,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-    leiosporées, ovoïdales à largement elliptiques en vue frontale, réniformes vues de profil, lisse, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
+    leiosporées, ovoïdales à largement elliptiques en vue frontale, réniformes vues de profil, à apex obtuse, lisse, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
     (8,3) 8,4-9,6 (9,7) × (4,7) 4,9-5,3 (5,4) µm
     Q = (1,6) 1,7-1,8 (1,9); N = 30
     Me = 9 × 5,1 µm; Qe = 1,8

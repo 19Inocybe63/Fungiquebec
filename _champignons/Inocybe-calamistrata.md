@@ -1,6 +1,6 @@
 ---
 nom: Inocybe calamistrata
-date: 2018-05-11 00:00:00
+date: 2018-05-13 00:00:00
 image: https://c1.staticflickr.com/5/4307/36005907766_c044ef1db6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36005907766/in/photolist-WHyGV6-WRHFXd
 album-flickr:
@@ -56,7 +56,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+    leiosporées, ovoïdales à largement elliptiques en vue frontale, réniformes vues de profil, lisse, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
+    (8,3) 8,4-9,6 (9,7) × (4,7) 4,9-5,3 (5,4) µm
+    Q = (1,6) 1,7-1,8 (1,9); N = 30
+    Me = 9 × 5,1 µm; Qe = 1,8
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l’eau glycérinée 15%)
   basidioles: 
   basidiome: 
   bibliographies: 

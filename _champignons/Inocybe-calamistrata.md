@@ -94,7 +94,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Les basidiospores de la collection (cKc0623) sont trop petites pour I. calamistrata, et pour I. mucidiolens. »
   conidies: 
   conidiome: 
   conidiophores: 

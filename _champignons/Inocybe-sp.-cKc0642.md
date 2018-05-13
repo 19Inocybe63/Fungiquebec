@@ -236,7 +236,7 @@ description:
   pileipellis: en cutis formé d'hyphes articulées rarement en faisceaux, avec pigment incrustant
   pileitrame: 
   pileocystides: 
-  pileus: 17-20 mm Ø, convexe à marge retroussée, brun pâle jaunâtre à jaune verdâtre, fibrilleux, rimeux, avec mamelon ocre orangé, à marge récurvée
+  pileus: 17-20 mm Ø, convexe, brun pâle jaunâtre à jaune verdâtre, fibrilleux, légèrement rimeux, avec mamelon brun à ocre foncé, à marge récurvée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

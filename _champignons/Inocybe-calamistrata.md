@@ -65,7 +65,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol graveleux, sablonneux, sous feuillus (<i>Betula</i>) et conifères
+  biotopes: pousse sur sol graveleux, sablonneux, sous feuillus et conifères
   boucles: 
   brachybasidioles: 
   calicule: 

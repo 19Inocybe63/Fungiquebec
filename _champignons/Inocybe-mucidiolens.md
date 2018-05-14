@@ -1,6 +1,6 @@
 ---
-nom: Inocybe calamistrata
-date: 2018-05-13 00:00:00
+nom: Inocybe mucidiolens
+date: 2018-05-14 00:00:00
 image: https://c1.staticflickr.com/5/4307/36005907766_c044ef1db6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36005907766/in/photolist-WHyGV6-WRHFXd
 album-flickr:
@@ -21,7 +21,7 @@ details:
   sous-genre: Inosperma
   section: Cervicolores
   sous-section: 
-  litterature: Gillet, C.C. 1878. Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France. 1:1-176
+  litterature: Pradeep, C.K; Vrinda, K.B; Varghese, S.P; Korotkin, H.B; Matheny, P.B. 2016. New and noteworthy species of Inocybe (Agaricales) from tropical India. Mycological Progress. 15(3/24):1-25
 
 collections:
   - fongarium: cKc0623
@@ -95,7 +95,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Les basidiospores de la collection (cKc0623) sont trop petites pour <i>I. calamistrata</i>, et pour <i>I. mucidiolens</i>. »
+    De Claude Kaufholtz-Couture. « Les basidiospores de l'espèce <i>I. calamistrata</i> sont phaseoliformes, tandis que celles de <i>Inocybe mucidiolens</i> sont réniformes. »
   conidies: 
   conidiome: 
   conidiophores: 

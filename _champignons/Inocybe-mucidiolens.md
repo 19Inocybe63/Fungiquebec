@@ -83,8 +83,8 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: absentes
+  caulocystides-sommitales: à l’extrême apex, polymorphes, nombreuses, souvent en faisceaux, claviformes à largement claviformes, cylindriques, subfusiformes à subfusiformes ventrues, utriformes allongées, parfois catenulées (27,8) 28,3-46,8 (50,4) × (6,2) 7,5-11,6 (17,2) µm
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 

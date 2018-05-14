@@ -105,7 +105,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Les basidiospores de <i>Inocybe calamistrata</i> sont phaseoliformes, tandis que celles de <i>Inocybe mucidiolens</i> sont réniformes. De plus, l’odeur de <i>Inocybe calamistrata</i> se rapproche davantage du poisson cru, ou de la résine de pin, tandis que <i>Inocybe mucidiolens</i> a une exhalaison plus compliquée, d’agréable à désagréable, d’acidulée, de moisie et même de Pelargonium. »
+    De Claude Kaufholtz-Couture. « Les basidiospores de <i>Inocybe calamistrata</i> sont phaséoliformes à subphaséoliformes, tandis que celles de <i>Inocybe mucidiolens</i> sont réniformes à subphaséoliformes. De plus, l’odeur de <i>Inocybe calamistrata</i> se rapproche davantage du poisson cru, ou de la résine de pin, tandis que <i>Inocybe mucidiolens</i> a une exhalaison plus compliquée, d’agréable à désagréable, d’acidulée, de moisie et même de Pelargonium. »
   conidies: 
   conidiome: 
   conidiophores: 

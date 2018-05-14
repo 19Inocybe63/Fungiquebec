@@ -7,7 +7,7 @@ album-flickr:
   - 72157696049784654
 
 details:
-  nom-francais: Inocybe à base vert sombre
+  nom-francais: Inocybe à odeur de moisi
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -144,7 +144,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: agréable, géranium (Pelargonium)
+  exhalaison: agréable, acidulée, subtilement de moisie, géranium (Pelargonium)
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 

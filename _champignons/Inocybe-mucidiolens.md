@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe calamistrata</i> (Fr.) Gillet
+  espece: <i>Inocybe mucidiolens</i> (Grund & D.E. Stuntz) Matheny
   sous-genre: Inosperma
   section: Cervicolores
   sous-section: 

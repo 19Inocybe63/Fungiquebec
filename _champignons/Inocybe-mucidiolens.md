@@ -277,9 +277,7 @@ description:
   symptomes: 
   syndrome: 
   synonymie: |
-    <i>Agaricus calamistratus</i> Fr., Systema Mycologicum 1:256 (1821)
-    <i>Agaricus hirsutus</i> Lasch, Linnaea 4:546 (1829)
-    <i>Inocybe praetermissa</i> P. Karst., Meddelanden af Societas pro Fauna et Flora Fennica 11:3 (1885)
+    <i>Inocybe calamistrata var. mucidiolens</i> Grund & Stuntz, Mycologia, Nova Scotian Inocybes. II. vol. 62 (1970), p. 929
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

@@ -96,7 +96,7 @@ description:
   cheilochrysocystides:
   cheilocystides: 
   cheilolamprocystides: 
-  cheiloleptocystides: formant presque une palissade, polymorphes, abondantes, utriformes avec un long pédicelle, claviformes à largement claviformes, cylindriques, lagéniformes à sublageniformes, longuement ellipsoïdes, dont l’apex est souvent coiffé d’une calotte gélifiée et d’une paroi allant jusqu’à 0,5 µm d’épaisseur, parfois avec apex subcapité (28,8) 32,6-40,9 (46,8) × (7,8) 8,2-10,9 (13) µm
+  cheiloleptocystides: abondantes, formant presque une palissade, polymorphes, utriformes avec un long pédicelle, claviformes à largement claviformes, cylindriques, lagéniformes à sublageniformes, longuement ellipsoïdes, dont l’apex est souvent coiffé d’une calotte gélifiée et d’une paroi allant jusqu’à 0,5 µm d’épaisseur, parfois avec apex subcapité (28,8) 32,6-40,9 (46,8) × (7,8) 8,2-10,9 (13) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

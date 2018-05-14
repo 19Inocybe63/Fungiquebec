@@ -67,7 +67,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à subutriformes, tétrasporiques, aux stérigmates de 3,3-6 µm de longueur, bouclées à la base, à paroi mince, avec présence de cristaux réfringents dans le NH<sub>4</sub>OH 50% (32,1) 32,9-38,9 (39,1) × (6,7) 7,1-8,4 (8,6) µm
   basidiospores: |
-    leiosporées, ovoïdales à largement elliptiques en vue frontale, réniformes vues de profil, à apex obtus, lisse, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
+    leiosporées, ovoïdales à largement elliptiques en vue frontale, réniformes à subphaséoliformes vues de profil, à apex obtus, lisse, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
     (8,3) 8,4-9,6 (9,7) × (4,7) 4,9-5,3 (5,4) µm
     Q = (1,6) 1,7-1,8 (1,9); N = 30
     Me = 9 × 5,1 µm; Qe = 1,8

@@ -24,11 +24,11 @@ collections:
   - fongarium: cKc0639
     date: 14 août 2017
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+      numero: cKc0639-0205
+      miniature: 
+      originale: 
+    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    elevation: 230 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

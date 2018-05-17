@@ -91,7 +91,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Collection cueillie par Martine DesRosiers. »
   conidies: 
   conidiome: 
   conidiophores: 

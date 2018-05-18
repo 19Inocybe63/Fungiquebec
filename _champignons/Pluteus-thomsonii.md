@@ -54,11 +54,11 @@ description:
   base-stipitiforme: 
   basides: claviformes, parfois avec léger pédicelles, tétrasporiques, non bouclées à la base, 24,5-37,5 × 8,5-10,0 µm en moyenne
   basidiospores: |
-    elliptiques à courtement elliptiques en vue frontale, obtusément ellipsoïdes, largement elliptiques à elliptiques vues de profil, lisses, à paroi mince 1,5-2,5 µm, petit appendice hilaire, à contenu uniguttulé à variable, légèrement rosâtres dans E.G. 20%, pas de réaction dans le melzer, non cyanophiles
+    elliptiques à courtement elliptiques en vue frontale, obtusément ellipsoïdes, largement elliptiques à elliptiques vues de profil, lisses, à paroi mince 1,5-2,5 µm, petit appendice hilaire, à contenu uniguttulé à variable, légèrement rosâtres dans l'eau glycérinée 20%, pas de réaction dans le melzer, non cyanophiles
     (6,4) 6,6-8 (8,4) × 5,1-6,1 (6,3) µm
     Q = (1,1) 1,2-1,3 (1,4); N = 30
     Me = 7,2 × 5,6 µm; Qe = 1,3
-    (Piximètre, formule classique; mesures issues d'une sporée, dans E.G. 20%)
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 20%)
   basidioles: 
   basidiome: 
   bibliographies: 

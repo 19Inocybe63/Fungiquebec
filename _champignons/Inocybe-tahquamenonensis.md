@@ -93,6 +93,7 @@ description:
   comestibilite: NON
   commentaires: |
     De Claude Kaufholtz-Couture. « Collection cueillie par Martine DesRosiers. »
+    De Timothy J. Baroni. <i>Mushrooms of the Northeastern United States and Eastern Canada.</i> « <i>Pouzarella nodospora</i> is somewhat similar to this species of <i>Inocybe</i>, but <i>P. nodospora</i> is separated by the pink or fleshy-brown spore print and the cap ans stem flesh that is not wine-red, turning brown when exposed. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -66,7 +66,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sableux, sous feuillus <i>Fagus</i> et <i>Quercus</i>
-  boucles: 
+  boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 
   capillitium: 

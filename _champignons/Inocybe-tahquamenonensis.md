@@ -141,7 +141,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte
+  exhalaison: indistincte à légèrement raphanoïde
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -279,7 +279,7 @@ description:
   sporee: brune
   spherocytes: 
   sporocystes: 
-  stipe: 30-70 x 3-7 mm Ø, cylindrique, égal, plein, méchuleux-squamuleux, violet brunâtre foncé, brun noirâtre à maturité, bulbeux à la base
+  stipe: 30-70 x 3-7 mm Ø, cylindrique, égal, plein, méchuleux-squamuleux, violet brunâtre foncé, brun noirâtre à maturité, avec base égale, agrandie vers le bas (subbulbeuse)
   stipitipellis: 
   stipititrame: 
   stroma: 

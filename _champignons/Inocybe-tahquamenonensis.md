@@ -84,6 +84,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
+  cheiloleptocystides: abondantes, en faisceaux
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -188,15 +189,13 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, subespacées, pourprées, brunâtres à la fin, à arêtes violet-noir
+  lames: adnées, subespacées, pourprées, brunâtres à la fin, à arêtes violet-noir, dont l'arête est floconneuse
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
   lamprocaulocystides: 
   latex: 
   leptocystides: 
-  leptocheilocystides: 
-  leptopleurocystides: 
   macrocystides: 
   macropleurocystides: 
   marge: 

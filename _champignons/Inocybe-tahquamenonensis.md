@@ -279,7 +279,7 @@ description:
   sporee: brune
   spherocytes: 
   sporocystes: 
-  stipe: 30-70 x 3-7 mm Ø, cylindrique, égal, plein, méchuleux-squamuleux, violet brunâtre foncé, brun noirâtre à maturité
+  stipe: 30-70 x 3-7 mm Ø, cylindrique, égal, plein, méchuleux-squamuleux, violet brunâtre foncé, brun noirâtre à maturité, bulbeux
   stipitipellis: 
   stipititrame: 
   stroma: 

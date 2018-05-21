@@ -79,7 +79,7 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
+  caulocystides-medianes: non observées
   caulocystides-sommitales: 
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 

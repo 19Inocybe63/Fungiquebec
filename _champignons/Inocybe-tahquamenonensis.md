@@ -1,6 +1,6 @@
 ---
 nom: Inocybe tahquamenonensis
-date: 2018-05-17 00:00:00
+date: 2018-05-21 00:00:00
 image: https://c1.staticflickr.com/5/4332/36172753160_a7a2a660cb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36172753160/in/photolist-X7sPgW
 album-flickr:
@@ -240,6 +240,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
+  pleuroleptocystides: nombreuses, parfois avec contenu et vide optique, utriformes à utriformes étranglées, lagéniformes, cylindriques à largement cylindriques avec un faible élargissement vers l’apex, parfois avec apex élargi ou subcapité, rarement mucroné, à paroi mince, parfois moyenne vers le centre (2,1-2,3 µm d’épaisseur) (41,1) 44,5-68 (73,1) × (10,3) 11-17,8 (20,5) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

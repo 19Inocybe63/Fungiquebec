@@ -60,7 +60,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
+  basides: claviformes à subutriformes, bisporiques à tétrasporiques, aux stérigmates de 1,3-2,8 µm de longueur, bouclées à la base, à paroi mince (23,6) 25,5-33,6 (33,8) × (6,3) 6,4-7,2 (9,3) µm
   basidiospores: 
   basidioles: 
   basidiome: 

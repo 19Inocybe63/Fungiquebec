@@ -61,7 +61,12 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: claviformes à subutriformes, bisporiques à tétrasporiques, aux stérigmates de 1,3-2,8 µm de longueur, bouclées à la base, à paroi mince (23,6) 25,5-33,6 (33,8) × (6,3) 6,4-7,2 (9,3) µm
-  basidiospores: 
+  basidiospores: |
+    goniosporées, 7 à 9 nodules dont quelque une sont bien démontrables, formées par des formes géométriques superposées (triangles, carrées, polygones), à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, hyalines dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
+    (5,8) 5,9-6,5 (6,8) × (4) 4,2-5,2 (5,6) µm
+    Q = (1,1) 1,2-1,5 (1,6); N = 30
+    Me = 6,2 × 4,6 µm; Qe = 1,3
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l’eau glycérinée 15%)
   basidioles: 
   basidiome: 
   bibliographies: 

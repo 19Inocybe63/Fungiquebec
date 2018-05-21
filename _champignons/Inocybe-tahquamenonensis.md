@@ -101,7 +101,7 @@ description:
   commentaires: |
     De Claude Kaufholtz-Couture. « Collection cueillie par Martine DesRosiers. »
     De Timothy J. Baroni. <i>Mushrooms of the Northeastern United States and Eastern Canada.</i> « <i>Pouzarella nodospora</i> is somewhat similar to this species of <i>Inocybe</i>, but <i>P. nodospora</i> is separated by the pink or fleshy-brown spore print and the cap ans stem flesh that is not wine-red, turning brown when exposed. »
-    De Claude Kaufholtz-Couture. « La description d’<i>Inocybe tahquamenonensis</i> d’après Kobayashi n’a absolument rien à voir avec la collection ici étudié (cKc0639). Les basidiospores chez Kobayashi sont beaucoup trop grandes, et ce dernier indique aussi que les cheilocystides sont similaires aux pleurocystides; ce qui n’est vraiment pas le cas dans cette étude. De plus, je ne serais pas surpris que cette espèce quitte le genre <i>Inocybe</i>; surtout après l’étude de son ADN. »
+    De Claude Kaufholtz-Couture. « La description d’<i>Inocybe tahquamenonensis</i> d’après Kobayashi n’a absolument rien à voir avec la collection ici étudié (cKc0639). Les basidiospores chez Kobayashi sont beaucoup trop grandes, et ce dernier indique aussi que les cheilocystides sont similaires aux pleurocystides; ce qui n’est vraiment pas le cas dans cette étude. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -240,7 +240,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  pleuroleptocystides: nombreuses, parfois avec contenu et vide optique, utriformes à utriformes étranglées, lagéniformes, cylindriques à largement cylindriques avec un faible élargissement vers l’apex, parfois avec apex élargi ou subcapité, rarement mucroné, à paroi mince, parfois moyenne vers le centre (2,1-2,3 µm d’épaisseur) (41,1) 44,5-68 (73,1) × (10,3) 11-17,8 (20,5) µm
+  pleuroleptocystides: nombreuses, parfois avec contenu, ou vide optique, utriformes à utriformes étranglées, lagéniformes, cylindriques à largement cylindriques avec un faible élargissement vers l’apex, parfois avec apex élargi ou subcapité, rarement mucroné, à paroi mince, parfois moyenne vers le centre (2,1-2,3 µm d’épaisseur) (41,1) 44,5-68 (73,1) × (10,3) 11-17,8 (20,5) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

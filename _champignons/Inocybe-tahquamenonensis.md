@@ -233,7 +233,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis, formé d'hyphes septées et parfois bouclées (11,8) 27,3-55 (80) × (7,3) 9,4-19,5 (25,6) µm, articulées, avec fascicules d'hyphes formant une houpette sur le pileus, avec pigment incrustant, parfois avec texture marbrée, brun rougeâtre à brun pâle
+  pileipellis: en cutis, formé d'hyphes septées et parfois bouclées (11,8) 27,3-55 (80) × (7,3) 9,4-19,5 (25,6) µm, articulées, avec fascicules d'hyphes formant une houppette sur le pileus, avec pigment incrustant, parfois avec texture marbrée, brun rougeâtre à brun pâle
   pileitrame: 
   pileocystides: 
   pileus: 15-30 mm Ø, convexe, finement squamuleux-méchuleux, violet brunâtre foncé, brun noirâtre à maturité

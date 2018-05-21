@@ -89,7 +89,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
-  cheiloleptocystides: abondantes, en faisceaux
+  cheiloleptocystides: abondantes, se présentent en touffe de poils microscopiques; laissant paraître sur l’arête lamellaire comme une légère feutrine déchirée; souvent multiramifiées, septées, à cloison transversales, cylindriques, claviformes à largement claviformes, obtusément elliptiques, en saucisse, ± en chaînes, parfois avec articles étranglés en son centre, formées généralement d’articles dont les cellules terminales sont cylindriques à largement cylindriques, fusiformes, lagéniformes, avec contenu pailleté hyalin et réfringent dans le NH4OH 10%, avec parfois de petites incrustations à l’apex, marbré; brun rougeâtre, grisâtre (15,9) 31,1-64,9 (79,8) × (7) 9,5-20,6 (23,2) µm
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

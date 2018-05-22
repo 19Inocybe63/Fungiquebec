@@ -196,7 +196,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, subespacées, pourprées, brunâtres à la fin, à arêtes violet-noir, dont l'arête lisérée est feutrée
+  lames: adnées, subespacées, pourprées, brunâtres à la fin, à arêtes lamellaires violet-noir plus foncée, dont le liséré a l’apparence d’une feutrine
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

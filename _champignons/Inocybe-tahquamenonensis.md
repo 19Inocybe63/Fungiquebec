@@ -1,6 +1,6 @@
 ---
 nom: Inocybe tahquamenonensis
-date: 2018-05-21 00:00:00
+date: 2018-05-22 00:00:00
 image: https://c1.staticflickr.com/5/4332/36172753160_a7a2a660cb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36172753160/in/photolist-X7sPgW
 album-flickr:
@@ -253,7 +253,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: 
+  premiere-mention: Espèce étudiée pour la première fois au Québec
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

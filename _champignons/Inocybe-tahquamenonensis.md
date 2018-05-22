@@ -276,7 +276,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Remerciements à Yves Lamoureux pour les précisions.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

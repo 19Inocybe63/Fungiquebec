@@ -79,8 +79,8 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: non observées
-  caulocystides-sommitales: similiares aux cheiloleptocystides, éparses, entremêlées, cylindriques à claviformes, avec hyphes terminaux fusiformes à cylindriques, en saucisses, avec contenu pailleté hyalin et réfringent dans le NH<sub>4</sub>OH 10% ou dans le KOH 2%, à paroi mince 10,2-75,4 × 4,5-14,4 µm
+  caulocystides-medianes: semblables aux caulocystides sommitales, formées d’hyphes articulées, avec fascicules d'hyphes formant une houppette, identique au pileipellis. Autrement, je dirais qu’il n’y a pas de réelles caulocystides.
+  caulocystides-sommitales: similiares aux cheiloleptocystides, éparses, entremêlées, cylindriques à claviformes, avec hyphes terminaux fusiformes à cylindriques, en saucisses, entremêlées d’hyphes articulées, avec fascicules d'hyphes formant une houppette, avec contenu pailleté hyalin et réfringent dans le NH<sub>4</sub>OH 10% ou dans le KOH 2%, à paroi mince, grande similitude avec le revêtement du pileipellis 10,2-75,4 × 4,5-14,4 µm
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 

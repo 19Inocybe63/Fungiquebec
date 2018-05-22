@@ -312,7 +312,7 @@ description:
   tubes: 
   type: 
   typique: 
-  velipellis: 
+  velipellis: présence sur le pileus et sur le stipe, comme une gaine; formée d'hyphes articulées, avec fascicules d'hyphes formant une houppette
   voile: 
   voile-general: 
   voile-partiel: 

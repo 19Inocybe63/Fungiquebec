@@ -18,8 +18,8 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe tahquamenonensis</i> D. E. Stuntz
-  sous-genre: Clypeus Britz.
-  section: Pertenius
+  sous-genre: Pertenuis
+  section: Pertenuis
   sous-section: 
   litterature: Stuntz, D.E. 1954. Studies on the genus Inocybe. II. New and note worthy species from Michigan. Papers of the Michigan Academy of Sciences. 39:53-84
 

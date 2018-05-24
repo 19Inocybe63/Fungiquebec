@@ -86,7 +86,7 @@ description:
   cellules-hymeniales-en-brosses: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: ± filamenteuse, pourprée-violacée
+  chair: ferme, solide, ± filamenteuse, pourprée-violacée
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

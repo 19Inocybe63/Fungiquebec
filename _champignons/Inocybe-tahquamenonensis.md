@@ -18,6 +18,9 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: <i>Inocybe tahquamenonensis</i> D. E. Stuntz
+  sous-genre: Clypeus Britz.
+  section: Pertenius
+  sous-section: 
   litterature: Stuntz, D.E. 1954. Studies on the genus Inocybe. II. New and note worthy species from Michigan. Papers of the Michigan Academy of Sciences. 39:53-84
 
 collections:
@@ -102,6 +105,7 @@ description:
     De Claude Kaufholtz-Couture. « Collection cueillie par Martine DesRosiers. »
     De Timothy J. Baroni. <i>Mushrooms of the Northeastern United States and Eastern Canada.</i> « <i>Pouzarella nodospora</i> is somewhat similar to this species of <i>Inocybe</i>, but <i>P. nodospora</i> is separated by the pink or fleshy-brown spore print and the cap ans stem flesh that is not wine-red, turning brown when exposed. »
     De Claude Kaufholtz-Couture. « La description d’<i>Inocybe tahquamenonensis</i> d’après Kobayashi n’a absolument rien à voir avec la collection ici étudié (cKc0639). Les basidiospores chez Kobayashi sont beaucoup trop grandes, et ce dernier indique aussi que les cheilocystides sont similaires aux pleurocystides; ce qui n’est vraiment pas le cas dans cette étude. Suivant une étude d’ADN, je ne serais pas surpris de voir <i>I. tahquamenonensis</i> être placé dans un sous-genre distinct. »
+    De Latha, K. P. Deepna and Manimohan, Patinjareveettil. « <i>Inocybe tahquamenonensis</i> and <i>I. tubarioides</i> are endemic to eastern North America (Matheny & Moreau 2009). <i>Inocybe aeruginascens</i>, <i>I. coelestium</i>, <i>I. corydalina</i>, <i>I. haemacta</i> and <i>I. tricolor</i> appear to be endemic to Europe (Kosentka et al. 2013). »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -265,6 +269,7 @@ description:
     <b>Grund, D. W.; Stuntz, D. E</b>. <i>Nova Scotian Inocybes</i>, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1; vol. 62, 1970, Inocybe 2; vol. 67, 1975, Inocybe 3; vol. 69, 1977, Inocybe 4; vol. 72, 1980, Inocybe 5; vol. 73, 1981, Inocybe 6; vol. 75, 1983, Inocybe 7; vol. 76, 1984, Inocybe 8
     <b>Kobayashi, Takahito</b>. <i>The taxonomic studies of the genus Inocybe</i>, Beiheft 124, Nova Hedwigia, J. Cramer, Berlin-Stuttgart, 2002
     <b>Kuyper, Thomas W.</b> <i>A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden 1986, 134 p.
+    <b>Latha, K. P. Deepna and Manimohan, Patinjareveettil</b>. <i>Inocybes of Kerala</i>, Department of Botany, University of Calicut, Kerala, India, SporePrint Books Calicut, Kerala, India; Copyright © 2017 by K. P. Deepna Latha.
     <b>Murrill, William Alphonso,; Kauffman, Calvin Henry,; Overholts, Lee Oras</b>, <i>Agaricaceae (Murrill); Inocybe (Kauffman); Pholiota (Overholts)</i>, North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
     <b>Stangl, Johann</b>. <i>Guida alla determinazione dei funghi Vol. 3° Inocybe</i>, Saturnia, 1e Edizione italiana, 1991, 437 p.
   publications-microscopiques: |

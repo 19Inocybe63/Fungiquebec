@@ -293,7 +293,7 @@ description:
   substrat: 
   symptomes: |
     Apparition retardée (+ de 6 heures), voir même d'une période d'incubation silencieuse importante entre 10 à 12 h en moyenne, qui peut entrainer la mort.
-    gastroentérite brutale, souvent avec vomissements, diarrhée, déshydratation et insuffisance rénale, atteinte de la cellule hépatique
+    Gastroentérite brutale, souvent avec vomissements, diarrhée, déshydratation et insuffisance rénale, atteinte de la cellule hépatique
   syndrome: |
     phalloïdien
     Diverses toxines (cyclopeptides) sont responsables.

@@ -1,1 +1,17 @@
-
+Key,Type,Mandatory,Value,Date,Notes
+#Tools - those default tools to exclude and non-default tools to include,,,,,
+excludedDefaultTools,config,no,,,"e.g. 'vis1, vis3' to remove the 'Two-column key' and 'Side-by-side comparison' visualisations"
+otherIncludedTools,config,no,,,e.g. 'visEarthworm' to add a custom visualisation (must be installed to work)
+selectedTool,config,no,vis2,,e.g. 'vis2' to start the framework with the 'Single-column key' visualisation selected
+checkValidity,config,no,yes,,If value set to 'yes' (lower case) validity checks and reporting will be carried out by the visualisation software.
+#Main metadata about the key (e.g. for citing the key),,,,,
+title,metadata,yes,Interactive key of Inocybe v01 (27 May 2018),,
+year,metadata,yes,2018,,
+authors,metadata,yes,Claude Kaufholtz-Couture,,
+publisher,metadata,yes,Fungiquebec.ca : https://www.fungiquebec.ca/,,
+location,metadata,yes,"Quebec, Canada",,
+contact,metadata,yes,kaufholtzcoutureclaude@gmail.com,,
+version,metadata,yes,1.0,,
+#Releases - keep track of the release history below this line. Most recent releases at the top. The version code in the 'value' column below this line should match that of the current release above it.,,,,,
+"Descriptions from Bresadola, Ferrari, Grund, Kaufholtz-Couture, Kuyper, Stangl, Stuntz added",history,no,"1,0",4/8/2018,More detailed information added
+release,history,yes,0.1,3/25/2018,Claude Kaufholtz-Couture published an initial test version

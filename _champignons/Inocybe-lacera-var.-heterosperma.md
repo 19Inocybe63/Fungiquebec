@@ -55,8 +55,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à rarement subutriformes, bisporiques-tétrasporiques, bouclées à la base, à paroi mince 22,2-26,2 (27) × (6,6) 7,3-8,6 (8,8) µm
+  basidiospores: |
+    léiosporées, particulièrement variable en forme, cylindriques avec apex subconique à conique en vue frontale, fusiformes à subcylindriques, amygdaliformes à ovoïdes vue de profil, lisse, à paroi mince 0,1-0,2 µm, parfois faiblement tronquées, parfois avec ou sans légère dépression supra-hilaire, avec petit appendice hilaire, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans l'eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
+    (9,2) 10,8-13,2 (13,7) × (4,7) 4,8-5,4 (6,3) µm
+    Q = (1,8) 2,1-2,5 (2,9); N = 32
+    Me = 11,8 × 5,2 µm; Qe = 2,3
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l’eau glycérinée 15%)
   basidioles: 
   basidiome: 
   bibliographies: 

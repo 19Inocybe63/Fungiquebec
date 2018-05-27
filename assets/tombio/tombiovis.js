@@ -1422,7 +1422,7 @@
         }
         //Are there any help images on media tab?
         var charImages = core.media.filter(function (m) {
-            if (m.Type == "image-local" && m.Character == character) {
+            if ((m.Type == "image-local" || m.Type == "image-web") && m.Character == character) {
                 return true;
             }
         });
@@ -1449,7 +1449,7 @@
         
         //Retrieve collection of media image rows for this character and sort by priority.
         var charImagesFull = core.media.filter(function (m) {
-            if (m.Type == "image-local" && m.Character == character) {
+            if ((m.Type == "image-local" || m.Type == "image-web") && m.Character == character) {
                 return true;
             }
         }).sort(function (a, b) {
@@ -1570,7 +1570,7 @@
         //Help images for character (not necessarily illustrating particular states)
         var charImages = core.media.filter(function (m) {
             //Only return images for matching character if no state value is set
-            if (m.Type == "image-local" && m.Character == character && !m.State) {
+            if ((m.Type == "image-local" || m.Type == "image-web") && m.Character == character && !m.State) {
                 //Check UseFor field - it id doesn't exist (backward compatibility for older KBs) 
                 //or exists and empty then allow image.
                 //Otherwise ensure that "full" is amongst comma separated list.
@@ -1627,7 +1627,7 @@
             //Help images for character states
             var charImages = core.media.filter(function (m) {
                 //Only return images for matching character if no state value is set
-                if (m.Type == "image-local" && m.Character == character && m.State == charState.CharacterState) return true;
+                if ((m.Type == "image-local" || m.Type == "image-web") && m.Character == character && m.State == charState.CharacterState) return true;
             }).sort(function (a, b) {
                 return Number(a.Priority) - Number(b.Priority)
             });

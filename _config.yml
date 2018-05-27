@@ -19,7 +19,7 @@ description: |
 
   « La science, qui n’est qu’une suite d’erreurs rectifiées, se résume à savoir ce qu’on sait même si demain il faudra le savoir autrement. » (Georges Becker, mycologue français, 1905-1994).
 analytics: UA-86495088-1 #Google analytics code in the format XX-nnnnnnnn-n
-disqus: fungiquebec # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+# disqus: fungiquebec # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 baseurl: "" #important: start with /
 url: "https://www.fungiquebec.ca"
 

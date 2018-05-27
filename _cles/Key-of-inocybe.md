@@ -6,6 +6,7 @@ date: 2018-05-27 11:00:00
 famille: Inocybaceae
 genre: Inocybe
 commentaire: |
+  
   Fungiquebec presents an interactive key dedicated to the microscopy of Inocybes. The latter has been developped according to the following two sources:
   • Grund, D.W. & Stuntz, D.E. Nova Scotian Inocybes vol. 1-8, Mycologia, 1968-1984.
   • Kuyper, Thomas W. A review of the genus Inocybe in Europe: I. subgenus Inosperma and the smooth-spored species of subgenus Inocybe, Rijksherbarium, Leiden, 1986.

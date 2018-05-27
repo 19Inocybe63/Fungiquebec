@@ -6,7 +6,9 @@
 <p><b>Genre :</b> {{ page.genre }}</p>
 {% endif %}
 <p><b>Auteur :</b> {{ page.author }}</p>
+{% if page.source %}
 <p><b>Source :</b> {{ page.source }}</p>
+{% endif %}
 <p><b>Derniere mise à jour :</b> {{ page.date | date: "%b %-d, %Y" }}</p>
 {% if page.commentaire %}
 <p><b>Commentaire :</b> {{ page.commentaire | newline_to_br }}</p>

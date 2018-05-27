@@ -267,7 +267,6 @@ description:
     <b>Grund, D. W.; Stuntz, D. E</b>. <i>Nova Scotian Inocybes</i>, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1; vol. 62, 1970, Inocybe 2; vol. 67, 1975, Inocybe 3; vol. 69, 1977, Inocybe 4; vol. 72, 1980, Inocybe 5; vol. 73, 1981, Inocybe 6; vol. 75, 1983, Inocybe 7; vol. 76, 1984, Inocybe 8
     <b>Kobayashi, Takahito</b>. <i>The taxonomic studies of the genus Inocybe</i>, Beiheft 124, Nova Hedwigia, J. Cramer, Berlin-Stuttgart, 2002
     <b>Kuyper, Thomas W.</b> <i>A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden 1986, 134 p.
-    <b>Latha, K. P. Deepna and Manimohan, Patinjareveettil</b>. <i>Inocybes of Kerala</i>, Department of Botany, University of Calicut, Kerala, India, SporePrint Books Calicut, Kerala, India; Copyright © 2017 by K. P. Deepna Latha.
     <b>Murrill, William Alphonso,; Kauffman, Calvin Henry,; Overholts, Lee Oras</b>, <i>Agaricaceae (Murrill); Inocybe (Kauffman); Pholiota (Overholts)</i>, North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
     <b>Stangl, Johann</b>. <i>Guida alla determinazione dei funghi Vol. 3° Inocybe</i>, Saturnia, 1e Edizione italiana, 1991, 437 p.
   publications-microscopiques: |

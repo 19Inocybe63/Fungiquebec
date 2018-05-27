@@ -61,15 +61,15 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: 
-  boucles: 
+  boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 
   capillitium: 
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: absentes, terminaisons hyphales septées et souvent ramifiées, ± en faisceaux
+  caulocystides-sommitales: nombreuses, polymorphes, cylindriques à largement cylindriques, à cylindriques étranglées, dont l’apex est parfois difforme, atténuée au sommet, parfois métuloïdes, fusiformes à largement fusiformes, à apex parfois légèrement mucroné, à paroi fine à moyenne de 1-2 µm d’épaisseur, parmi des terminaisons hyphales cylindriques septées et bouclées (19,1) 28,4-48,5 (57,6) × (2,7) 5,1-13,3 (18,8) µm
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
@@ -80,7 +80,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
-  cheilolamprocystides: 
+  cheilolamprocystides: abondantes, métuloïdes, fusiformes à largement fusiformes, rarement fusiformes-ventrues, parfois pédicellée, à paroi fine à épaisse 1-3,5 µm d’épaisseur, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50% (29,7) 30,4-52,2 (59,1) × (9,7) 10,8-16,7 (21,1) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -218,14 +218,14 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: de type cutis, avec hyphes subcylindriques parfois un peu enflées, parallèles, un peu entrelacées, plus rarement en trichoderme avec hyphes formant une houppette, également formé par des segments comme une chaîne; hyphes terminales claviformes à fusiformes (13,4) 15,9-39,6 (42,1) × (6,2) 6,6-17 (18,9) µm en moyenne
   pileitrame: 
   pileocystides: 
   pileus: 
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  pleurolamprocystides: 
+  pleurolamprocystides: nombreuses, métuloïdes, fusiformes à largement fusiformes, rarement fusiformes-ventrues, parfois pédicellé, à paroi moyenne 2-2,5 µm d’épaisseur, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50% (44,9) 46,3-60,8 (61,9) × (12,9) 17,2-22,2 (27,2) µm
   pleuroleptocystides: 
   poils: 
   poils-basaux: 

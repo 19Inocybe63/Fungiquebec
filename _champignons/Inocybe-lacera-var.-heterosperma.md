@@ -7,7 +7,7 @@ album-flickr:
   - 72157691525765070
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe à basidiospores variées
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

@@ -65,7 +65,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, terre brune, milieu herbeux, sous Betula; au potentiel hydrogène (pH) 7-8
   boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 
@@ -107,7 +107,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: blanchâtre
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -143,7 +143,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -189,7 +189,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, larges, avec lamelles et lamellules, dont l'arête lamellaire est blanchâtre, beige pâle à brun rougeâtre pâle
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -226,7 +226,7 @@ description:
   pileipellis: de type cutis, avec hyphes subcylindriques parfois un peu enflées, parallèles, un peu entrelacées, plus rarement en trichoderme avec hyphes formant une houppette, également formé par des segments comme une chaîne; hyphes terminales claviformes à fusiformes (13,4) 15,9-39,6 (42,1) × (6,2) 6,6-17 (18,9) µm en moyenne
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 12-18 mm Ø, hémisphérique au début, convexe à étalé, fibrilleux avec de très petites méchules, brun beige à brun foncé au centre, à la marge blanchâtre surtout au début
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -258,15 +258,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun à brun cannelle pâle
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 40-60 x 2-3 mm Ø, cylindrique, égal, strié longitudinalement, ± pruineux vers l'apex, brun beige du milieu vers la base, plutôt blanchâtre vers l'apex, dont la base est claviforme à bulbilleux
   stipitipellis: 
   stipititrame: 
   stroma: 

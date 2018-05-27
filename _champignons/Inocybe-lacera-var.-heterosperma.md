@@ -105,6 +105,7 @@ description:
   comestibilite: NON
   commentaires: |
     De Claude Kaufholtz-Couture. « Cette collection (cKc0662) vient de chez Daan. »
+    De Grund et Stuntz. « In 1955 J. Favre describeb and illustrated (Favre, J. 1955. Les champignons supérieures de la zone alpine du Parc National suisse. Ergebn Wiss. Untersuch. Schweiz. National parkes 5(33) : 1-212; p. 92) as <i>Inocybe lacera</i> (Fr.) Kummer, 'forme foncée hétérosporique' an Inocybe that apparently is the same our Nova Scotia collection. That he did not intend it to have formal taxonomic status is shown by the fact that he gave it neither a proper subspecific epithet nor a Latin description, contrary to his invariable custom with new taxa. We believe, however, that it deserves varietal status, since in all other forms of <i>I. lacera</i> known to us the spores may vary somewhat in length, but are constant in shape. It is regrettable that Favre did not also think so, as he was the first to characterize the fungus, and really should have had the credit for it. Our variety differs from Favre's "forme" in not being conspicuously umbonate, and in having differently shapped pleurocystidia. These differences seem to us outweighed by the extraordinary polymorphism of the spores. »
   conidies: 
   conidiome: 
   conidiophores: 

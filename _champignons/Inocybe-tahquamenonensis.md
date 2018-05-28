@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe tahquamenonensis</i> D. E. Stuntz
+  espece: <i>Inocybe tahquamenonensis</i> D.E. Stuntz
   sous-genre: Pertenuis
   section: Pertenuis
   sous-section: 

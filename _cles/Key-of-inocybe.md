@@ -2,7 +2,7 @@
 layout: cle-tombio
 dossierTombio: inocybe
 nom: Key of Inocybe
-date: 2018-05-27 11:00:00
+date: 2018-05-31 11:00:00
 famille: Inocybaceae
 genre: Inocybe
 commentaire: |

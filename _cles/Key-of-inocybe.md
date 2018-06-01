@@ -9,7 +9,7 @@ commentaire: |
   
   Fungiquebec presents an interactive key dedicated to the microscopy of Inocybes. The latter has been developped according to the following sources:
   <b>Books</b>
-  • <b>Grund, D.W. & Stuntz, D.E</b>. <i>Nova Scotian Inocybes</i> vol. 1-8, Mycologia, 1968-1984.
+  • <b>Grund, D.W. & Stuntz, D.E</b>. <i>Nova Scotian Inocybes</i>, Mycologia, Vol. 60, 1968, Inocybe 1; Vol. 62, 1970, Inocybe 2; Vol. 67, 1975, Inocybe 3; Vol. 69, 1977, Inocybe 4; Vol. 72, 1980, Inocybe 5; Vol. 73, 1981, Inocybe 6; Vol. 75, 1983, Inocybe 7; Vol. 76, 1984, Inocybe 8
   • <b>Kuyper, Thomas W.</b> <i>A review of the genus Inocybe in Europe: I. subgenus Inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden, 1986.
   
   <b>Articles</b>

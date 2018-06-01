@@ -41,6 +41,16 @@ collections:
     altitude: 
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
+  - fongarium: cKc0642
+    date: 14 août 2017
+    planche:
+      numero: cKc0642-0203
+      miniature: https://c1.staticflickr.com/1/906/42022480361_df81c75c78_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/42022480361/in/photolist-272ocnt-Wu2YFg-Wu2XNV/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux / Alain Ferville
 
 description:
   acanthocytes: 

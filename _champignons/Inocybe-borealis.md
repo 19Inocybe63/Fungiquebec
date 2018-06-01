@@ -206,7 +206,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: sinuées à adnexées, larges, serrées, à ± espacées
+  lames: sinuées, adnées à adnexées, larges, serrées, à ± espacées, avec lamelles et lamellules, beige avec reflets verdâtres
   lamprocystides: 
   lamprocaulocystides: 
   latex: 
@@ -230,7 +230,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paracystides: ± nombreuses, piriformes à sphéropédonculées, à paroi mince, (12,8) 13,4-18,9 (21,3) × (6,5) 6,6-11,1 (12,6) µm en moyenne
+  paracystides: ± nombreuses, piriformes à sphéropédonculées, à paroi mince, (10,8) 13,4-18,9 (21,3) × (6,5) 6,6-11,1 (12,6) µm en moyenne
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
@@ -246,7 +246,7 @@ description:
   pileipellis: suprapellis de type banal, en cutis, formé d’hyphes apprimées, cylindriques à subcylindriques, parallèles et même un peu entrelacées, bouclées, avec cellules terminales subcylindriques, claviformes à fusiformes, paroi cellulaire mince avec granulation de type épipariétal, (15,9) 20-49,4 (59,5) × (7,2) 7,7-13,4 (20,5) µm en moyenne
   pileitrame: 
   pileocystides: 
-  pileus: 18-41 mm Ø, convexe, mamelonné, fibrilleux à squamuleux en son centre, brun, brun crème à brun rougeâtre, centre plus foncé, ± rimeux, se fend à la marge
+  pileus: 15-41 mm Ø, convexe, mamelonné, fibrilleux à squamuleux en son centre, brun, brun foncé à brun crème, brun rougeâtre, centre plus foncé, ± rimeux, à marge vendue par endroits
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -289,7 +289,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: ± spermatique à subfongique
+  saveur: persillée, ± spermatique à subfongique
   sclerocystides: 
   sclerote: 
   soies: 
@@ -297,7 +297,7 @@ description:
   sporee: brun verdâtre foncé
   spherocytes: 
   sporocystes: 
-  stipe: 30-44 x 3-5 mm Ø, cylindrique, ± égal, strié longitudinalement, brun rougeâtre du milieu à la base, + pâle vers l'apex, tortueux vers la base, ± bulbilleux
+  stipe: 30-50 x 3-5 mm Ø, cylindrique, ± égal, strié longitudinalement, brun pâle à brun rougeâtre du milieu à la base, + pâle vers l'apex, strié longitudinalement, tortueux vers la base, ± bulbilleux
   stipitipellis: 
   stipititrame: 
   stroma: 

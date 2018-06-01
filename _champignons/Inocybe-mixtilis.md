@@ -1,8 +1,8 @@
 ---
 nom: Inocybe mixtilis
-date: 2017-07-22 00:00:00
-image: https://c1.staticflickr.com/1/320/19646769673_3aa100cc36_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/19646769673/in/photolist-FW6AsL-vW7Q9a-w4hTQt-w3DWcd/
+date: 2018-06-01 00:00:00
+image: https://c1.staticflickr.com/5/4409/35760513133_d1e22eba87_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/35760513133/in/photolist-272ocnt-Wu2YFg-Wu2XNV
 album-flickr:
   - 72157676370496063
 

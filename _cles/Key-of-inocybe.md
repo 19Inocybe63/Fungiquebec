@@ -16,6 +16,7 @@ commentaire: |
   • <b>Kokkonen, Katri ; Vauras, Jukka</b>. <i>Eleven new boreal species of Inocybe with nodulose spores</i>. Mycol Progress (2012) 11:299-341
   • <b>Larsson, E., et al.,</b> <i>Inocybe praetervisa group e A clade of four closely related species with partly different geographical distribution ranges in Europe</i>, Mycoscience (2017)
   • <b>Larsson, Ellen ; Vauras, Jukka ; Cripps, Cathy L.</b> <i>Inocybe lemmi, a new species of section Marginatae from the alpine region of Sweden</i>, Karstenia 57: 1-9, 2017 (2018)
+  • <b>Matheny, Brandon P. ; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171
   • <b>Vauras, Jukka ; Larsson, Ellen</b>. <i>Inocybe myriadophylla, a new species from Finland and Sweden</i>. Karstenia 51:31-36. 2011
   • <b>Vauras, Jukka ; Kokkonen, Katri</b>. <i>Finnish records on the genus Inocybe. The new species Inocybe saliceticola</i>. Karstenia 48: 57-67, 2009
   • <b>Vauras, Jukka ; Larsson, Ellen</b>. <i>Inocybe baltica and I. suecica, two new smoothspored species from the Baltic Sea region</i>. Karstenia 56:13-26

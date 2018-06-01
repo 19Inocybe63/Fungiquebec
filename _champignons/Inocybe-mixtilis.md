@@ -80,9 +80,9 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement claviformes-piriformes, à très légèrement déformées-flexueuses, bisporiques à tétrasporiques jusqu'à 4 µm de longueur, bouclées à la base, avec contenu granuleux, 21,7-34 × 9,4-12,9 µm en moyenne
+  basides: courtement claviformes-piriformes, parfois utriformnes, à très légèrement déformées-flexueuses, bisporiques à tétrasporiques jusqu'à 4 µm de longueur, bouclées à la base, avec contenu granuleux, à paroi mince, 19,2-34 × 5,9-12,9 µm en moyenne
   basidiospores: |
-    gibbosporées noduleuses-anguleuses (goniospores) avec 8-10 bosses assez haute et obtuses, à silhouette subpolygonales, à paroi mince, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans l'eau glycérinée 20%, pas de réaction dans le melzer, non cyanophiles
+    goniosporées, noduleuses-anguleuses (goniospores) avec 8-10 bosses assez haute et obtuses, à silhouette subpolygonales, à paroi mince à légèrement épaissie, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans l'eau glycérinée 20%, pas de réaction dans le melzer, non cyanophiles
     (6,3) 6,7-8,7 (9,1) × (4,4) 5,6-7 (7,4) µm
     Q = 1-1,4 (1,7); N = 30
     Me = 7,6 × 6,2 µm; Qe = 1,2
@@ -104,7 +104,7 @@ description:
   cellules-hymeniales-en-brosses: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, blanche, immuable
+  chair: mince, blanche à crème jaunâtre, à ± verdâtre, immuable
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -172,7 +172,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: fongique à spermatique (pipéridine)
+  exhalaison: indistincte, fongique à spermatique (pipéridine)
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -217,7 +217,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnexées, sinuées, larges, avec lamelles et lamellules, subserrées, crème à gris pâle, puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
+  lames: adnées à adnexées, sinuées, larges, avec lamelles et lamellules, serrées à subserrées, crème à gris pâle, puis jaune olive, brun olive à brun grisâtre, brun à ambre, à arêtes ciliées, concolores aux faces
   lamprocystides: 
   lamprocaulocystides: 
   latex: 
@@ -255,7 +255,7 @@ description:
   pileipellis: en cutis (ixocutis) avec suprapellis d'environ 50-55 µm de profondeur, parallèle à hyaline entrelacées, avec hyphes agglutinées 2-3,5 µm de Ø, avec granulations hyalines, le subpellis est composé d’une couche d’environ 65 µm de profondeur, compacts, avec des hyphes entrelacées entre 5,5-13 µm de Ø, avec des hyphes à pigmentations incrustées brun foncé à brun pâles
   pileitrame: 
   pileocystides: 
-  pileus: 10-40 mm Ø, conique-convexe, conique, campanulé à subétalé, avec papille arrondie ou ombon indistinct, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, jaune ocré au début, puis jaune fauve à cuivré, parfois couvert de restes blancs du velipellis
+  pileus: 10-40 mm Ø, conique-convexe, conique, campanulé à subétalé, avec papille arrondie ou ombon indistinct brun foncé, soyeux-viscidule, vite sec, fibrilleux puis fibrilleux-rimeux avec l'âge, de couleur peu variable, brun pâle, jaune ocré au début, puis jaune fauve à cuivré, à marge récurvée, parfois couvert de restes blancs du velipellis
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -304,10 +304,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brune à brun-rouge foncé
+  sporee: brun rouille à brun cannelle; en amoncellement
   spherocytes: 
   sporocystes: 
-  stipe: 20-70 x 3-5 mm Ø, cylindrique, ± égal à flexueux, avec bulbe marginé, pruineux sur toute sa longueur, blanchâtre au début, puis crème, jaune pâle à teinté de jaune ocre
+  stipe: 20-70 x 2-5 mm Ø, cylindrique, ± égal à flexueux, avec bulbe marginé, pruineux sur toute sa longueur, blanchâtre au début, puis crème à crème jaunâtre avec teinte de jaune ocre, avec base bulbeuse marginée
   stipitipellis: 
   stipititrame: 
   stroma: 

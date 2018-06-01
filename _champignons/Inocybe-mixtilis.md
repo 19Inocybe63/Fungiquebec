@@ -90,8 +90,8 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans un sol sablonneux, sous chêne, pin, en milieu ouvert, au potentiel hydrogène (pH) 4-6
-  boucles: 
+  biotopes: pousse dans un sol sableux, sous feuillus, <i>Quercus</i>, <i>Pinus</i>, en milieu ouvert, au potentiel hydrogène (pH) 4-6
+  boucles: observées dans la trame lamellaire
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -234,7 +234,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolé, dispersé, grégaire
+  mode-de-croissance: isolé, dispersé, grégaire ou en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

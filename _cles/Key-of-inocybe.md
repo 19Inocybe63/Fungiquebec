@@ -2,7 +2,7 @@
 layout: cle-tombio
 dossierTombio: inocybe
 nom: Key of Inocybe
-date: 2018-05-31 11:00:00
+date: 2018-06-01 07:00:00
 famille: Inocybaceae
 genre: Inocybe
 commentaire: |
@@ -10,6 +10,7 @@ commentaire: |
   Fungiquebec presents an interactive key dedicated to the microscopy of Inocybes. The latter has been developped according to the following two sources:
   • Grund, D.W. & Stuntz, D.E. Nova Scotian Inocybes vol. 1-8, Mycologia, 1968-1984.
   • Kuyper, Thomas W. A review of the genus Inocybe in Europe: I. subgenus Inosperma and the smooth-spored species of subgenus Inocybe, Rijksherbarium, Leiden, 1986.
+  • Kokkonen, Katri ; Vauras, Jukka. Eleven new boreal species of Inocybe with nodulose spores. Mycol Progress (2012) 11:299-341
   This key, of 214 species, is not a goal, but a means of support for everyone with their mycological and microscopic research; to help the amateurs to quickly circumscribe the subgenus, the sections and the sub-sections.
   There will be updates following corrections or additions. If you see any typos, or potential additions, please email me at the following address : kaufholtzcoutureclaude@gmail.com.
   Good research.

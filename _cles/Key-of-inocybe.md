@@ -13,6 +13,7 @@ commentaire: |
   • <b>Kuyper, Thomas W.</b> <i>A review of the genus Inocybe in Europe: I. subgenus Inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden, 1986.
   
   <b>Articles</b>
+  • <b>Kropp, Bradley R. ; Matheny, Brandon P. ; Nanagyulyan, Siranush G.</b> <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection 'Marginatae'</i>, Mycologia, 102(3), 2010, pp. 560-573
   • <b>Kokkonen, Katri ; Vauras, Jukka</b>. <i>Eleven new boreal species of Inocybe with nodulose spores</i>. Mycol Progress (2012) 11:299-341
   • <b>Larsson, E., et al.,</b> <i>Inocybe praetervisa group e A clade of four closely related species with partly different geographical distribution ranges in Europe</i>, Mycoscience (2017)
   • <b>Larsson, Ellen ; Vauras, Jukka ; Cripps, Cathy L.</b> <i>Inocybe lemmi, a new species of section Marginatae from the alpine region of Sweden</i>, Karstenia 57: 1-9, 2017 (2018)

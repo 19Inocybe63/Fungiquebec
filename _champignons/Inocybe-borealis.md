@@ -29,7 +29,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/27036814678/in/photolist-Hc9K4d-XUCNyE-WWfXba/
     geolocalisation: 46°00’06.05"N 70°56’10.08"O
     elevation: 315 m
-    determinee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
 description:

@@ -101,7 +101,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
-  cheilolamprocystides: abondantes, polymorphes, métuloïdes, formant une palissade, fusiformes à largement fusiformes dont l’apex est parfois étranglé, parfois lagéniformes, largement ovoïdes dont l'apex est parfois mucroné, rarement obtusément elliptiques, dont l’apex est obtus, en ogive ou capitée, rarement ± rostrées, à paroi fine à épaisse 1,2-2,8 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium, à clairsemé, (25,9) 32,4-50,1 (75,7) × (12,4) 16-21,4 (33,4) µm en moyenne
+  cheilolamprocystides: abondantes, polymorphes, métuloïdes, formant une palissade, fusiformes à largement fusiformes dont l’apex est parfois étranglé, parfois lagéniformes, largement ovoïdes dont l'apex est parfois mucroné, rarement obtusément elliptiques, dont l’apex est obtus, en ogive ou capité, rarement ± rostré, à paroi fine à épaisse 1,2-2,8 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium, à clairsemé, (25,9) 32,4-50,1 (75,7) × (12,4) 16-21,4 (33,4) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

@@ -1,6 +1,6 @@
 ---
-nom: Inocybe sp.-cKc0654
-date: 2018-04-13 00:00:00
+nom: Inocybe borealis
+date: 2018-06-01 00:00:00
 image: https://c1.staticflickr.com/5/4365/36695260702_1fb2638fc6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36695260702/in/photolist-Hc9K4d-XUCNyE-WWfXba
 album-flickr:
@@ -17,8 +17,8 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe sp.</i>
-  litterature: 
+  espece: <i>Inocybe borealis</i> M. Lange
+  litterature: Lange, M. 1957. Macromycetes. Part 3. 1. Greenland Agaricales (pars). Macromycetes Caeteri.- 2. Ecological and plant geographical studies. Meddelelser om Grønland. 148(2):1-125
 
 collections:
   - fongarium: cKc0654

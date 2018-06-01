@@ -7,7 +7,7 @@ album-flickr:
   - 72157694674946255
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe du Nord
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

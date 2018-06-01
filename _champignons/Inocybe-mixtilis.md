@@ -98,8 +98,9 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: polymorphes, de type métuloïdes fusiformes à lagéniformes, à paroi fine à épaissie 1-3 µm, (44,7) 59,9-77 (82,7) × (16,1) 18,5-23,2 (23,5) µm, ellipsoïdes ovoïdes 27,1-31,76 (31,8) × 8,4-11,4 µm en moyenne, en faisceaux
-  caulocystides-sommitales: polymorphes, de type métuloïdes fusiformes à lagéniformes, à paroi moyenne à épaissie 2-3 µm, (53,5) 56,7-88,3 (89,4) × (18,9) 19,9-27,4 (35,2) µm en moyenne, clavées 29,8-30,8 × 8,9-9,9 µm en moyenne, et ovoïdes 30,9-34,7 × 15,6-16,5 µm en moyenne, en faisceaux, rarement solitaire
+  caulocystides-medianes: nombreuses à abondantes, polymorphes, de type métuloïdes fusiformes à largemet fusiformes, lagéniformes à sublagéniformes, à paroi fine à épaisse 0,8-4,5 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, (23,7) 59,9-77 (82,7) × (14,1) 18,5-23,2 (23,5) µm, ellipsoïdes ovoïdes 27,1-31,76 (31,8) × 8,4-11,4 µm en moyenne, en faisceaux
+  caulocystides-sommitales: abondantes, polymorphes, de type métuloïdes fusiformes à largement fusiformes, lagéniformes à sublagéniformes, rarement ovoïdes, à paroi moyenne à épaisse 2-3,5 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, (25,9) 56,7-88,3 (89,4) × (10,6) 19,9-27,4 (35,2) µm en moyenne, clavées 29,8-30,8 × 8,9-9,9 µm en moyenne, et ovoïdes 30,9-34,7 × 15,6-16,5 µm en moyenne, en faisceaux, rarement solitaire
+  cauloparacystides: médianes et sommitales, nombreuses, piriformes à sphéropédonculées, à paroi mince, 13-18,7 × 4,2-9,7 µm
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-peritheciales: 
@@ -108,7 +109,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
-  cheilolamprocystides: nombreuses, métuloïdes fusiformes à largement fusiformes, ± ventrues, lagéniformes, à paroi fine à moyenne 1,5-2,4 µm, (52,2) 64,2-74,5 (74,6) × (13,4) 19,4-21,2 (24,0) µm
+  cheilolamprocystides: nombreuses, métuloïdes fusiformes à largement fusiformes, ± ventrues, lagéniformes, rarement ovoïdes, à paroi fine à épaisse 1,5-3 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, (27,4) 64,2-74,5 (74,6) × (11,1) 19,4-21,2 (24,0) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -240,7 +241,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paracystides: abondantes, piriformes, clavées, sphéropédonculées, à paroi fine, situées sur l'arête lamellaire, 17,6-28,4 × 8,2-10,25 (10,3) µm en moyenne
+  paracystides: abondantes, piriformes, clavées, sphéropédonculées, à paroi mince, situées sur l'arête lamellaire, 8,2-28,4 × 5,8-10,25 (10,3) µm en moyenne
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
@@ -259,7 +260,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  pleurolamprocystides: abondantes, métuloïdes, fusiformes à largement fusiformes, ± ventrues, lagéniformes, à paroi épaisse 3-4 µm, (53,2) 67,1-74,5 (90,8) × (15,5) 19,7-22,3 (29,2) µm
+  pleurolamprocystides: abondantes, polymorphes, métuloïdes, fusiformes à largement fusiformes, ± ventrues, lagéniformes, à paroi moyenne à épaisse 2-4 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, (29,4) 67,1-74,5 (90,8) × (10,2) 19,7-22,3 (29,2) µm
   poils: 
   poils-basaux: 
   poils-caulinaires: 

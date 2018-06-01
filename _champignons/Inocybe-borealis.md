@@ -91,7 +91,7 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes
-  caulocystides-sommitales: extrême apex, rares, cylindriques, métuloïdes, avec ou sans cristaux d'oxalate ± 30-100 x 5-7,5 µm en moyenne
+  caulocystides-sommitales: extrême apex, rares à occasionnelles, cylindriques avec apex fusiforme rarement moniliforme, métuloïdes, ou sans cristaux d'oxalate, à paroi fine 0,9-1,1 µm, ± 27,2-100 x 5-10,7 µm en moyenne
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
@@ -101,7 +101,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
-  cheilolamprocystides: polymorphes, métuloïdes abondantes, formant une palissade, fusiformes à largement fusiformes, parfois lagéniformes, rarement obtusément elliptiques, dont l’apex est obtus, en ogive ou capitée, rarement ± rostrées, à paroi fine à épaisse 1,2-2,7 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium, à clairsemé, (28,2) 32,4-50,1 (50,7) × (14) 16-21,4 (33,4) µm en moyenne
+  cheilolamprocystides: abondantes, polymorphes, métuloïdes, formant une palissade, fusiformes à largement fusiformes dont l’apex est parfois étranglé, parfois lagéniformes, largement ovoïdes dont l'apex est parfois mucroné, rarement obtusément elliptiques, dont l’apex est obtus, en ogive ou capitée, rarement ± rostrées, à paroi fine à épaisse 1,2-2,8 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium, à clairsemé, (25,9) 32,4-50,1 (75,7) × (12,4) 16-21,4 (33,4) µm en moyenne
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -250,7 +250,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  pleurolamprocystides: ± nombreuses, métuloïdes, fusiformes à largement fusiformes, dont l’apex est parfois obtus et parfois fusiforme, à paroi mince à épaisse 1,1 × 2,9 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium à clairsemé, (49,6) 50,2-57,5 (58,9) × (14,5) 14,8-19,8 (22,6) µm en moyenne
+  pleurolamprocystides: ± nombreuses, polymorphes, métuloïdes, fusiformes à largement fusiformes, dont l’apex est parfois obtus et parfois fusiforme, largement ellipsoïdes à largement ovoïdes, parfois à apex mucroné, lagéniformes, parfois avec pédicelle, à paroi mince à épaisse 1,1 × 3,9 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 50%, sans cristaux d'oxalate de calcium à clairsemé, (34,8) 50,2-57,5 (58,9) × (13,4) 14,8-19,8 (24,6) µm en moyenne
   poils: 
   poils-basaux: 
   poils-caulinaires: 

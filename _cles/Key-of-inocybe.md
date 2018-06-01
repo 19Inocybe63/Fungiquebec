@@ -16,6 +16,7 @@ commentaire: |
   • <b>Kokkonen, Katri ; Vauras, Jukka</b>. <i>Eleven new boreal species of Inocybe with nodulose spores</i>. Mycol Progress (2012) 11:299-341
   • <b>Vauras, Jukka ; Larsson, Ellen</b>. <i>Inocybe myriadophylla, a new species from Finland and Sweden</i>. Karstenia 51:31-36. 2011
   • <b>Vauras, Jukka ; Kokkonen, Katri</b>. <i>Finnish records on the genus Inocybe. The new species Inocybe saliceticola</i>. Karstenia 48: 57-67, 2009
+  • <b>Vauras, Jukka ; Larsson, Ellen</b>. <i>Inocybe baltica and I. suecica, two new smoothspored species from the Baltic Sea region</i>. Karstenia 56:13-26
 
   This key, of 214 species, is not a goal, but a means of support for everyone with their mycological and microscopic research; to help the amateurs to quickly circumscribe the subgenus, the sections and the sub-sections.
   There will be updates following corrections or additions. If you see any typos, or potential additions, please email me at the following address : kaufholtzcoutureclaude@gmail.com.

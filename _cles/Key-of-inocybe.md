@@ -9,11 +9,11 @@ commentaire: |
   
   Fungiquebec presents an interactive key dedicated to the microscopy of Inocybes. The latter has been developped according to the following sources:
   <b>Books</b>
-  • <b>Bon, Marcel.</b> <i>Clé monographique du genre Inocybe</i>, Association d'Écologie et de Mycologie, Lille; Documents Mycologiques, tome 27; Fascicule N° 105, avril 1997; Fascicule N° 108, décembre 1997; Fascicule N° 111, juin 1998
   • <b>Grund, D.W. & Stuntz, D.E</b>. <i>Nova Scotian Inocybes</i> vol. 1-8, Mycologia, 1968-1984.
   • <b>Kuyper, Thomas W.</b> <i>A review of the genus Inocybe in Europe: I. subgenus Inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden, 1986.
   
   <b>Articles</b>
+  • <b>Bon, Marcel.</b> <i>Clé monographique du genre Inocybe</i>, Association d'Écologie et de Mycologie, Lille; Documents Mycologiques, tome 27; Fascicule N° 105, avril 1997; Fascicule N° 108, décembre 1997; Fascicule N° 111, juin 1998
   • <b>Kropp, Bradley R. ; Matheny, Brandon P. ; Nanagyulyan, Siranush G.</b> <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection 'Marginatae'</i>, Mycologia, 102(3), 2010, pp. 560-573
   • <b>Kokkonen, Katri ; Vauras, Jukka</b>. <i>Eleven new boreal species of Inocybe with nodulose spores</i>. Mycol Progress (2012) 11:299-341
   • <b>Larsson, E., et al.,</b> <i>Inocybe praetervisa group e A clade of four closely related species with partly different geographical distribution ranges in Europe</i>, Mycoscience (2017)

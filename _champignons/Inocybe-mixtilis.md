@@ -30,7 +30,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: Claude Kaufholtz-Couture
-    confirmee: Y. Lamoureux et E. Ferrari
+    confirmee: Y. Lamoureux / E. Ferrari
   - fongarium: cKc0391
     date: 3 août 2015
     planche:
@@ -40,7 +40,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux
+    confirmee: Y. Lamoureux
   - fongarium: cKc0642
     date: 14 août 2017
     planche:
@@ -50,7 +50,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: Claude Kaufholtz-Couture
-    confirmee: Yves Lamoureux / Alain Ferville
+    confirmee: Y. Lamoureux / A. Ferville
 
 description:
   acanthocytes: 

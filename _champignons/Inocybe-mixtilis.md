@@ -80,7 +80,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: courtement claviformes-piriformes, parfois utriformnes, à très légèrement déformées-flexueuses, bisporiques à tétrasporiques jusqu'à 4 µm de longueur, bouclées à la base, avec contenu granuleux, à paroi mince, 19,2-34 × 5,9-12,9 µm en moyenne
+  basides: courtement claviformes-piriformes, parfois utriformes, à très légèrement déformées-flexueuses, bisporiques à tétrasporiques, stérigmates jusqu'à 4 µm de longueur, bouclées à la base, avec contenu granuleux, à paroi mince, 19,2-34 × 5,9-12,9 µm en moyenne
   basidiospores: |
     goniosporées, noduleuses-anguleuses (goniospores) avec 8-10 bosses assez haute et obtuses, à silhouette subpolygonales, à paroi mince à légèrement épaissie, avec appendice hilaire pas toujours bien distinguable, pore germinatif non visible, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans l'eau glycérinée 20%, pas de réaction dans le melzer, non cyanophiles
     (6,3) 6,7-8,7 (9,1) × (4,4) 5,6-7 (7,4) µm

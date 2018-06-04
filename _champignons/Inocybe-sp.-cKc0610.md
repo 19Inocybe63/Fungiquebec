@@ -65,8 +65,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à subutriformes, bisporiques à tétrasporiques, boucles non observées à la base, avec contenu vacuolaire, à paroi mince (21,7) 24,5-26,5 (28,3) × 6,6-8 (10,1) µm en moyenne
+  basidiospores: |
+    léiosporées, largement elliptiques à subovoïdales en vue frontale, amygdaliformes à subamygdaliformes vue de profil, à sommet coniques à papillés, lisses, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun rougeâtre dans l’eau glycérinée 15%, pas de réaction dans le melzer, non cyanophiles
+(7,9) 8,1-9,4 (10,8) × (4,4) 4,7-5,4 (5,8) µm
+Q = (1,5) 1,6-1,9 (2); N = 30
+Me = 8,8 × 5,1 µm; Qe = 1,7
+(Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -90,7 +95,7 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
-  cheilolamprocystides: 
+  cheilolamprocystides: nombreuses, cylindriques à subcylindriques, ± capitulées, ± lagéniformes, fusiformes, parfois avec pédicelles, à paroi fine à moyenne 1,1-2,4 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 10%, (45,7) 46,2-59,2 (72,4) × (8,3) 8,4-10,9 (11,1) µm
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -235,7 +240,7 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  pleurolamprocystides: 
+  pleurolamprocystides: nombreuses, fusiformes, cylindriques à subcylindriques, ± lagéniformes, rarement tortueuses avec apex sur le côté, parfois avec pédicelles, à paroi moyenne à épaisse 1,8-3,1 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 10%, (46,5) 52,3-61,6 (72,3) × (9,9) 11,3-15,1 (17,1) µm
   pleuroleptocystides: 
   poils: 
   poils-basaux: 

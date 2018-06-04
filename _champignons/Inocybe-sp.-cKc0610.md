@@ -104,7 +104,9 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+  
+    De Claude Kaufholtz-Couture. « Il me semble voir la couleur liliacée pâle sur le stipe. »
   conidies: 
   conidiome: 
   conidiophores: 

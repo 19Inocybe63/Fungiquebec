@@ -75,7 +75,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, au travers de la mousse, sous feuillus
   boucles: observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
@@ -153,7 +153,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique, spermatique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -199,7 +199,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, serrées, larges, avec lamelles et lamellules, beige pâle à grisâtre
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -236,7 +236,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 13-22 mm Ø, conique à campanulé, étalé, mamelonné, brun, à marge blanchâtre au début
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -280,7 +280,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: spermatique
   sclerocystides: 
   sclerote: 
   soies: 
@@ -288,7 +288,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 17-39 x 2-3 mm Ø, cylindrique, égal, plein, recourbé à la base, bulbilleux, lilacé à blanchâtre lilacé vers l'apex, brun rouille vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

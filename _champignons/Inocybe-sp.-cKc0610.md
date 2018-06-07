@@ -238,7 +238,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 13-22 mm Ø, conique à campanulé, étalé, mamelonné, brun, à marge blanchâtre au début
+  pileus: 13-22 mm Ø, conique à campanulé, étalé, fibrilleux, mamelonné, brun, à marge blanchâtre au début
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

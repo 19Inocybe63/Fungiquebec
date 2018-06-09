@@ -31,7 +31,7 @@ commentaire: |
   This key, of 214 species, is not a goal, but a means of support for everyone with their mycological and microscopic research; to help the amateurs to quickly circumscribe the subgenus, the sections and the sub-sections.
   There will be updates following corrections or additions. If you see any typos, or potential additions, please email me at the following address : kaufholtzcoutureclaude@gmail.com.
   Good research.
-  Claude
+  Claude Kaufholtz-Couture
 
 ---
 

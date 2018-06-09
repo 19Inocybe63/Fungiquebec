@@ -1,6 +1,6 @@
 ---
 nom: Inocybe sp.-cKc0610
-date: 2018-06-04 00:00:00
+date: 2018-06-09 00:00:00
 image: https://c1.staticflickr.com/5/4256/35013819924_bb5814f494_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35013819924/in/photolist-Vm3XqL-Vm3YNq
 album-flickr:
@@ -28,8 +28,8 @@ collections:
     date: 30 juin 2017
     planche:
       numero: cKc0610-0207
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      miniature: https://c2.staticflickr.com/2/1725/42648804572_bc19246d8c_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/42648804572/in/photostream/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)

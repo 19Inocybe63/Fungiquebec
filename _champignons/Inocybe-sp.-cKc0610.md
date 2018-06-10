@@ -290,7 +290,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 17-39 x 2-3 mm Ø, cylindrique, égal, plein, recourbé, avec base non bulbeuse plutôt claviforme, lilacé à blanchâtre lilacé vers l'apex, brun rouille vers la base
+  stipe: 17-39 x 2-3 mm Ø, cylindrique, égal, plein, recourbé, avec base non bulbeuse plutôt légèrement claviforme, lilacé à blanchâtre lilacé vers l'apex, brun rouille vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

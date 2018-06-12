@@ -28,7 +28,7 @@ commentaire: |
   • <b>Vauras, Jukka ; Larsson, Ellen</b>. <i>Inocybe caprimulgi and I. lacunarum, two new nodulose-spored species from Fennoscandia</i>. Karstenia 55: 1-18, 2015 (2016)
   • <b>Vauras, Jukka</b>. <i>Inocybe sectio Calosporae in NW Europe</i>. Karstenia 28:79-86. 1988 (1989)
 
-  This key, of 214 species, is not a goal, but a means of support for everyone with their mycological and microscopic research; to help the amateurs to quickly circumscribe the subgenus, the sections and the sub-sections.
+  This key, of 215 species, is not a goal, but a means of support for everyone with their mycological and microscopic research; to help the amateurs to quickly circumscribe the subgenus, the sections and the sub-sections.
   There will be updates following corrections or additions. If you see any typos, or potential additions, please email me at the following address : kaufholtzcoutureclaude@gmail.com.
   Good research.
   Claude Kaufholtz-Couture

@@ -24,5 +24,7 @@ Ils sont très faciles à trouver, voire communs, car ils arborent leur chapeau 
 
 #### But et objectif du programme de recherche
 Durant l’été 2018, l’objectif sera d’amasser trente (30) collections d’Inocybes venant de la région de Québec, des alentours, ainsi que de la grande région de la Beauce, dans le but de les envoyer dans un laboratoire aux fins de séquençage. Tous les résultats macromorphologiques et microscopiques seront déposés sur le site de <i>Fungiquebec</i> (https://www.fungiquebec.ca), ainsi que sur <i>Mushrooms Observer</i> (http://mushroomobserver.org/). Pour ce qui est des résultats de l’ADN, ils seront déposés sur le site de <i>GenBank</i> (https://www.ncbi.nlm.nih.gov/genbank/). Nous espérons que ce projet saura susciter l’intérêt des chercheurs pour l’étude des <i>Inocybes</i>.
+
+![Éprouvettes d'ADN](https://c1.staticflickr.com/1/899/28919944878_f3cb4833cf_n.jpg "Figure 1. Boîte d'éprouvette pour l'ADN")
 <p>&nbsp; </p>
 

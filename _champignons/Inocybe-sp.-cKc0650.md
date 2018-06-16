@@ -139,7 +139,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à légèrement fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -185,7 +185,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, larges, à arête plus pâle, avec lamelles et lamellules, blanchâtre au début, brun beige légèrement grisâtre
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -222,7 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 12-33 mm Ø, convexe, mamelonné, fibrilleux, légèrement rimeux, brun beige à légèrement brun rougeâtre, brun rougeâtre plus foncé au centre, marge plus pâle
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -254,7 +254,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à légèrement fongique
   sclerocystides: 
   sclerote: 
   soies: 
@@ -262,7 +262,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 17-39 x 2-4 mm Ø, cylindrique, égal, subbulbeux, strié longitudinalement, brun beige à légèrement brun rougeâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

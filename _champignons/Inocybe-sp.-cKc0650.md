@@ -66,7 +66,7 @@ description:
   basidiome: 
   bibliographies: 
   biotopes: pousse au sol, sableux, sur le bord d'un chemin forestier
-  boucles: 
+  boucles: observées dans le pileipellis
   brachybasidioles: 
   calicule: 
   capillitium: 
@@ -228,7 +228,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: suprapellis de type banal, en cutis, formé d’hyphes apprimées, cylindriques à subcylindriques, parallèles et entrelacées, bouclées, avec cellules terminales subcylindriques, claviformes à fusiformes, paroi cellulaire mince avec granulation de type épipariétal (29,3) 36,1-68 (78,4) × (3,6) 3,7-11,8 (13,5) µm en moyenne
   pileitrame: 
   pileocystides: 
   pileus: 12-33 mm Ø, convexe, mamelonné, fibrilleux, légèrement rimeux, brun beige à légèrement brun rougeâtre, brun rougeâtre plus foncé au centre, marge plus pâle

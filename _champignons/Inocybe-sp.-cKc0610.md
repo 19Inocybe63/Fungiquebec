@@ -83,7 +83,7 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: absentes, plutôt des hyphes caulocystidioïdes, septées et bouclées
+  caulocystides-medianes: absentes; il s'agit plutôt d'hyphes terminales (caulocystidioïdes) septées et bouclées
   caulocystides-sommitales: occasionnelles à nombreuses, métuloïdes et à paroi mince, parfois en petits faisceaux, cylindriques, rarement fusiformes, rarement ± lagéniformes, légèrement flexueuses, sans ou avec peu de cristaux d'oxalate, à paroi fine à moyenne 0,9-1,9 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 10% (27,4) 32,3-62,7 (64,7) × 6-9,2 (9,9) µm
   cauloparacystides: présentes
   cellules-hymeniales-diverticulees: 

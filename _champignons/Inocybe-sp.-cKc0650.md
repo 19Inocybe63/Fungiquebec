@@ -81,7 +81,7 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: absentes, plus des hyphes terminales (caulocystidioïdes)
+  caulocystides-medianes: absentes, il s'agit plutôt des hyphes terminales (caulocystidioïdes)
   caulocystides-sommitales: nombreuses à l’extrême apex, polymorphes, cylindriques, lagéniformes à ± lagéniformes, fusiformes à fusiformes ventrues, dont l’apex est parfois subcapité, capitulées, rarement métuloïdes, rarement avec apex mucroné, généralement à paroi mince, (12,2) 13,5-20,9 (27,9) × (3,8) 4,4-5,3 (5,8) µm
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 

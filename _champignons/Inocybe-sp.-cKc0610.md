@@ -103,7 +103,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: NON
   commentaires: |
   
     De Claude Kaufholtz-Couture. « Il me semble voir la couleur liliacée pâle sur le stipe. »

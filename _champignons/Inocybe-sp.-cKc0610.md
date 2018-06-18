@@ -67,7 +67,7 @@ description:
   base-stipitiforme: 
   basides: claviformes à subutriformes, bisporiques à tétrasporiques, boucles non observées à la base, avec contenu vacuolaire, à paroi mince (21,7) 24,5-26,5 (28,3) × 6,6-8 (10,1) µm en moyenne
   basidiospores: |
-    léiosporées, largement elliptiques à subovoïdales en vue frontale, amygdaliformes à subamygdaliformes vue de profil, à sommet coniques à papillés, lisses, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun rougeâtre dans l’eau glycérinée 15%, brun rougeâtre plus foncé dans le KOH 2%, pas de réaction dans le melzer, non cyanophiles
+    léiosporées, largement elliptiques à subovoïdales en vue frontale, amygdaliformes à subamygdaliformes vues de profil, à sommet coniques à papillés, lisses, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun rougeâtre dans l’eau glycérinée 15%, brun rougeâtre plus foncé dans le KOH 2%, pas de réaction dans le melzer, non cyanophiles
     (7,9) 8,1-9,4 (10,8) × (4,4) 4,7-5,4 (5,8) µm
     Q = (1,5) 1,6-1,9 (2); N = 30
     Me = 8,8 × 5,1 µm; Qe = 1,7

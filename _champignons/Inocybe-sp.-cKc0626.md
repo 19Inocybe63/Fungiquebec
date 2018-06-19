@@ -109,7 +109,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: NON
   commentaires: |
     De Claude Kaufholtz-Couture. « J’éprouve de la difficulté à juger s’il s’agit de caulocystides sommitales ou non. D'après mon observation, il est fort possible que ce soit des hyphes caulocystidioïdes ; tenant compte de leur origine dans le stipitipellis. »
   conidies: 

@@ -143,7 +143,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: inconnu
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 
@@ -220,7 +220,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: isolés, en petit groupe
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -236,7 +236,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: en juillet
   phialoconidies: 
   pieds-steriles: 
   pigments: 
@@ -302,8 +302,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  symptomes: 
-  syndrome: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: |
+    muscarinien ou sudorien
+    La toxine responsable est la muscarine.
   synonymie: 
   systeme-hyphal: 
   textura: 

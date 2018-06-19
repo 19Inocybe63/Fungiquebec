@@ -18,8 +18,8 @@ details:
   famille: Inocybaceae
   genre: Inocybe
   espece: Inocybe sp.-cKc0626
-  sous-genre: Inosperma
-  section: Rimosae
+  sous-genre: Inosperma Kühner
+  section: Rimosae (Fr.) Quél.
   sous-section: 
   litterature: 
 

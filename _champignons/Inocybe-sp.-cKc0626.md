@@ -86,7 +86,7 @@ description:
   caulobasides: 
   caulocystides: 
   caulocystides-medianes: absentes
-  caulocystides-sommitales: dans les deux cas, elles peuvent être des hyphes de type caulocystidioïdes (donc pas de véritables caulocystides sommitales), ou des hyphes émergentes avec des cellules terminales piriformes à cylindriques, avec l'apex en forme de massue parfois globuleuse, ou de canne, constituant vraisemblablement de véritables caulocystides sommitales (21,7) 36,9-83,2 (84,9) × (9,1) 9,2-15,2 (15,6) µm;
+  caulocystides-sommitales: dans les deux cas, elles peuvent être des hyphes de type caulocystidioïdes (donc pas de véritables caulocystides sommitales) ; ou des hyphes émergentes avec des cellules terminales piriformes à cylindriques, en forme de cannes ; avec l'apex en forme de massue ou parfois globuleux ; constituant vraisemblablement de véritables caulocystides sommitales (21,7) 36,9-83,2 (84,9) × (9,1) 9,2-15,2 (15,6) µm
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 

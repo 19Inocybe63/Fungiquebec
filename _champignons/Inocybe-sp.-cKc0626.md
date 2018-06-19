@@ -179,7 +179,7 @@ description:
   hymenium: 
   hymenocystides: 
   hymenophore: 
-  hyphes: du sous-hyménium, certaines hyphes ont un contenu granulaire et prennent une couleur jaune verdâtre dans le NH4OH 10% et dans le KOH 2%
+  hyphes: du sous-hyménium, certaines hyphes ont un contenu granulaire et prennent une couleur jaune verdâtre dans le NH<sub>4</sub>OH 10% et dans le KOH 2%
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 

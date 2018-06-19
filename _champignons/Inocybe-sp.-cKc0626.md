@@ -138,7 +138,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: spermatique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -184,7 +184,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: dnées, serrées, avec lamelles et lamellules, beige, banal, à l'arête lamellaire blanchâtre
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -253,15 +253,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: spermatique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun légèrement foncé; en amoncellement
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 30-41 x 6-7 mm Ø, cylindrique, égal, fibrilleux, blanchâtre, subbulbeux à claviforme à la base
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -55,8 +55,17 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: |
+    claviformes, bisporiques à tétrasporiques, bouclées à la base, à paroi mince
+    (25,1) 26,9-32,7 (33,6) × (7,5) 8-8,9 (9) µm
+    Q = (2,9) 3-4,1 (4,2); N = 10
+    Me = 29,5 × 8,3 µm; Qe = 3,6
+  basidiospores: |
+    léiosporées, elliptiques en vue frontale, elliptiques à largement elliptiques, phaséoliformes à réniformes, avec apex obtus vues de profil, lisses, à paroi mince à épaissie, avec petit appendice hilaire, à contenu uniguttulé à granulé, brun rougeâtre pâle dans l’eau glycérinée 15%, brun rougeâtre ± foncé dans le KOH 2%, pas de réaction dans le melzer, non cyanophiles
+    (7,4) 7,5-8,6 (9,1) × (4,2) 4,3-4,8 (5,1) µm
+    Q = (1,6) 1,7-1,8 (2); N = 30
+    Me = 8,1 × 4,6 µm; Qe = 1,8
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -68,8 +77,8 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: absentes
+  caulocystides-sommitales: dans les deux cas, elles peuvent être des hyphes de type caulocystidioïdes (donc pas de véritables caulocystides sommitales), ou des hyphes émergentes avec des cellules terminales piriformes à cylindriques, avec l'apex en forme de massue parfois globuleuse, ou de canne, constituant vraisemblablement de véritables caulocystides sommitales (21,7) 36,9-83,2 (84,9) × (9,1) 9,2-15,2 (15,6) µm;
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
@@ -81,7 +90,11 @@ description:
   cheilochrysocystides:
   cheilocystides: 
   cheilolamprocystides: 
-  cheiloleptocystides: 
+  cheiloleptocystides: |
+    nombreuses, polymorphes, cylindriques à claviformes, piriformes, à paroi mince, bouclées, sans cristaux
+    (25,5) 31,2-44,6 (48,7) × (10,5) 11,1-14,1 (15,4) µm
+    Q = (2,2) 2,4-3,4 (4,2); N = 16
+    Me = 37,5 × 12,8 µm; Qe = 2,9
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 
@@ -89,7 +102,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « J’éprouve de la difficulté à juger s’il s’agit de caulocystides sommitales ou non. D'après mon observation, il est fort possible que ce soit des hyphes caulocystidioïdes ; tenant compte de leur origine dans le stipitipellis. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -226,7 +240,7 @@ description:
   pleurochrysocystides: 
   pleurocystides: 
   pleurolamprocystides: 
-  pleuroleptocystides: 
+  pleuroleptocystides: absentes
   poils: 
   poils-basaux: 
   poils-caulinaires: 

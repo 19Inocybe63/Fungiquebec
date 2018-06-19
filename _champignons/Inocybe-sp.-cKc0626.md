@@ -221,7 +221,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 19-42 mm Ø, campanulé, rimeux, mamelonné, avec velipellis bien visible en son centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -281,7 +281,7 @@ description:
   tubes: 
   type: 
   typique: 
-  velipellis: 
+  velipellis: présent, blanc
   voile: 
   voile-general: 
   voile-partiel: 

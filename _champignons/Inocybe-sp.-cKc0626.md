@@ -69,7 +69,7 @@ description:
     Q = (2,9) 3-4,1 (4,2); N = 10
     Me = 29,5 × 8,3 µm; Qe = 3,6
   basidiospores: |
-    léiosporées, elliptiques en vue frontale, elliptiques à largement elliptiques, phaséoliformes à réniformes, avec apex obtus vues de profil, lisses, à paroi mince à épaissie, avec petit appendice hilaire, à contenu uniguttulé à granulé, brun rougeâtre pâle dans l’eau glycérinée 15%, brun rougeâtre ± foncé dans le KOH 2%, pas de réaction dans le melzer, non cyanophiles
+    léiosporées, elliptiques en vue frontale, elliptiques à largement elliptiques, phaséoliformes à réniformes vues de profil, avec apex obtus, lisses, à paroi mince à épaissie, avec petit appendice hilaire, à contenu uniguttulé à granulé, brun rougeâtre pâle dans l’eau glycérinée 15%, brun rougeâtre ± foncé dans le KOH 2%, pas de réaction dans le melzer, non cyanophiles
     (7,4) 7,5-8,6 (9,1) × (4,2) 4,3-4,8 (5,1) µm
     Q = (1,6) 1,7-1,8 (2); N = 30
     Me = 8,1 × 4,6 µm; Qe = 1,8

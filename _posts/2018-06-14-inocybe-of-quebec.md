@@ -35,7 +35,7 @@ Durant l’été 2018, l’objectif sera d’amasser trente (30) collections d�
 
 <a name="english"></a>
 #### Sequencing Study
-As part of its activities and its research on Québec’s mycology, *Fungiquebec* applied to take part, on a voluntary basis, to a sequencing study about sporophores. I am glad to announce that our candidature has been accepted by the *North American Mycoflora Project* which leads this study. You will find *Fungiquebec’s* project under the title: *Inocybe of Quebec*.
+As part of its activities and its research on Quebec’s mycology, *Fungiquebec* applied to take part, on a voluntary basis, to a sequencing study about sporophores. I am glad to announce that our candidature has been accepted by the *North American Mycoflora Project* which leads this study. You will find *Fungiquebec’s* project under the title: *Inocybe of Quebec*.
 <p>&nbsp; </p>
 
 #### General Information
@@ -45,5 +45,5 @@ Very often, *Inocybes* are underestimated, called little brown mushrooms and are
 <p>&nbsp; </p>
 
 #### Goals and objectives of this study
-During Summer 2018, the objective will be to collect thirty (30) collections of *Inocybes* from Québec, its surrounding, and from the Beauce area. These collections will be send in laboratory for sequencing. The macromorphological and microscopical results will be available on [Fungiquebec](https://www.fungiquebec.ca) and [Mushrooms Observer](http://mushroomobserver.org/). As for the DNA results, they will be available on [GenBank](https://www.ncbi.nlm.nih.gov/genbank/). This kind of study will highlight the genetic link between species and thus will help the searchers to identify them by the biotope the macromorphology and the microscopy. We hope this partnership will allow to consolidate and develop constructively the mutual aid amongst mycological searchers and fans.
+During Summer 2018, the objective will be to collect thirty (30) collections of *Inocybes* from Quebec, its surrounding, and from the Beauce area. These collections will be send in laboratory for sequencing. The macromorphological and microscopical results will be available on [Fungiquebec](https://www.fungiquebec.ca) and [Mushrooms Observer](http://mushroomobserver.org/). As for the DNA results, they will be available on [GenBank](https://www.ncbi.nlm.nih.gov/genbank/). This kind of study will highlight the genetic link between species and thus will help the searchers to identify them by the biotope the macromorphology and the microscopy. We hope this partnership will allow to consolidate and develop constructively the mutual aid amongst mycological searchers and fans.
 <p>&nbsp; </p>

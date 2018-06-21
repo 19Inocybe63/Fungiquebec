@@ -5,9 +5,9 @@ categories:
 - Projets et Inocybes
 - Acide désoxyribonucléique (ADN)
 ---
-<b>North American Mycology Association</b>
+**North American Mycology Association**
 
-<i>North American Mycoflora Project</i>
+*North American Mycoflora Project*
 <p>&nbsp; </p>
 
 [English version below](#english)

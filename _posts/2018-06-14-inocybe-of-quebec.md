@@ -12,6 +12,7 @@ categories:
 
 An English version will follow
 
+
 #### Programme de séquençage
 Dans le cadre de ses activités et de ses recherches sur la mycologie québécoise, <i>Fungiquebec</i> a posé sa candidature afin de participer à un programme de séquençage de sporophores. C’est avec joie que nous annonçons que notre candidature fut retenue par la <i>North American Mycoflora Project</i> qui chapeaute l’étude. Nous sommes donc inscrits au programme sous le titre Inocybe of Quebec.
 <!--more-->

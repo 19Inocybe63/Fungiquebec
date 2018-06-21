@@ -28,3 +28,20 @@ Durant l’été 2018, l’objectif sera d’amasser trente (30) collections d�
 ![Éprouvettes d'ADN](https://c1.staticflickr.com/1/899/28919944878_f3cb4833cf.jpg "Figure 1. Boîte d'éprouvettes pour l'ADN")
 <p>&nbsp; </p>
 
+An English version will follow
+
+Sequencing Study
+
+As part of its activities and its research on Québec’s mycology, Fungiquebec applied to take part, on a voluntary basis, to a sequencing study about sporophores. I am glad to announce that our candidature has been accepted by the North American Mycoflora Project which leads this study. You will find Fungiquebec’s project under the title: Inocybe of Quebec.
+
+General Information
+
+The sporophores from the genus Inocybe belongs to the Inocybaceae family in the order of Agaricales. This genus contains many hundreds of species. The spore print color varies from light brown, to reddish brown, or to dark brown (ochrospores). Likewise, it can present, sometimes, greenish shades. Inocybes are ectomycorrhizal sporophores living together with trees and other plants, and their habits are similar to tricholomatoid, collybioid and exceptionally to mycenoid.
+
+Very often, Inocybes are underestimated, called little brown mushrooms and are seen as irrelevant. Beyond its somewhat bristly and repulsive nature, one will find an extraordinary wealth of microscopic elements that we analyse and describe. Also, many Inocybes contains muscarine at varying concentrations; therefore they are  toxic.
+
+They are really easy to find, even common, for we can see their fibrillose or sometimes squamous caps along the roads; especially forest roads. Fundamentally, they like limestone soil rather than acid soil. However, some species grow on bog.
+
+Goals and objectives of this study
+
+During Summer 2018, the objective will be to collect thirty (30) collections of Inocybes from Québec, its surrounding, and from the Beauce area. These collections will be send in laboratory for sequencing. The macromorphological and microscopical results will be available on Fungiquebec (https://www.fungiquebec.ca) and Mushrooms Observer (http://mushroomobserver.org/). As for the DNA results, they will be available on GenBank (https://www.ncbi.nlm.nih.gov/genbank/). This kind of study will highlight the genetic link between species and thus will help the searchers to identify them by the biotope the macromorphology and the microscopy. We hope this partnership will allow to consolidate and develop constructively the mutual aid amongst mycological searchers and fans.

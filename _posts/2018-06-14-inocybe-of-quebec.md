@@ -34,7 +34,7 @@ Durant l’été 2018, l’objectif sera d’amasser trente (30) collections d�
 
 
 #### Sequencing Study
-As part of its activities and its research on Québec’s mycology, Fungiquebec applied to take part, on a voluntary basis, to a sequencing study about sporophores. I am glad to announce that our candidature has been accepted by the North American Mycoflora Project which leads this study. You will find Fungiquebec’s project under the title: Inocybe of Quebec.
+As part of its activities and its research on Québec’s mycology, <i>Fungiquebec</i> applied to take part, on a voluntary basis, to a sequencing study about sporophores. I am glad to announce that our candidature has been accepted by the North American Mycoflora Project which leads this study. You will find Fungiquebec’s project under the title: Inocybe of Quebec.
 
 #### General Information
 The sporophores from the genus Inocybe belongs to the Inocybaceae family in the order of Agaricales. This genus contains many hundreds of species. The spore print color varies from light brown, to reddish brown, or to dark brown (ochrospores). Likewise, it can present, sometimes, greenish shades. Inocybes are ectomycorrhizal sporophores living together with trees and other plants, and their habits are similar to tricholomatoid, collybioid and exceptionally to mycenoid.

@@ -1,6 +1,6 @@
 ---
 title: Inocybe of Quebec
-date: 2018-06-14 00:00:00
+date: 2018-06-21 00:00:00
 categories: 
 - Projets et Inocybes
 - Acide désoxyribonucléique (ADN)

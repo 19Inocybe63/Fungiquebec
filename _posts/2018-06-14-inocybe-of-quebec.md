@@ -10,7 +10,7 @@ categories:
 <i>North American Mycoflora Project</i>
 <p>&nbsp; </p>
 
-An English version will follow
+[English version below](#english)
 <p>&nbsp; </p>
 
 
@@ -33,7 +33,7 @@ Durant l’été 2018, l’objectif sera d’amasser trente (30) collections d�
 <p>&nbsp; </p>
 
 
-
+<a name="english"></a>
 #### Sequencing Study
 As part of its activities and its research on Québec’s mycology, <i>Fungiquebec</i> applied to take part, on a voluntary basis, to a sequencing study about sporophores. I am glad to announce that our candidature has been accepted by the North American Mycoflora Project which leads this study. You will find Fungiquebec’s project under the title: Inocybe of Quebec.
 <p>&nbsp; </p>

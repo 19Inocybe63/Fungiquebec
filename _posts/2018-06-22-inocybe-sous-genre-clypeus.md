@@ -18,21 +18,21 @@ Définition : Espèces à spores gibbeuses ou ± ornées, épineuses ou étoilé
 
 #### Clé des sections
 A)	Stipe non pruineux ou seulement vers le sommet et généralement cortiné au moins dans le jeune âge. Espèces généralement colorées, ternes ou ± sombres
-Section **Cortinatae_** Kühn. & Bours., p. 2
+Section **_Cortinatae_** Kühn. & Bours., p. 2
 
 (Quelques espèces blanches ou à stipe bulbeux, traitées dans les sections suivantes, peuvent avoir une pruine relativement sommitales, avec raréfaction des caulocystides vers le milieu du stipe).
 
 B)	Stipe entièrement pruineux ou au moins jusqu’au quart inférieur, cortine nulle ou douteuse mais la marge peut parfois être appendiculée par un léger voile :
 
 a.	Stipe non bulbeux-marginé, tout au plus un peu clavé à subbulbilleux. Revêtement ± tomenteux à pelucheux ou subécailleux
-Section Petiginosae Heim
+Section **_Petiginosae_** Heim
 b.	Stipe bulbeux-marginé, parfois seulement en oignon mais à base brusquement épaissie avec la partie supérieure restant cylindracée-égale. Revêtement glabre à ± vergeté ou fibrilleux, souvent éraillé ou rimeux à la fin avec la marge souvent fissile. Quelques espèces ont une chair rougissante
-Section Marginatae Kühm.
+Section **_Marginatae_** Kühm.
 
 (Les sections Calosporae et Rubellae, mono- ou paucispécifiques en Europe, sont incluses respectivement dans les sections Petiginosae et Marginatae, au niveau de sous-section).
 <p>&nbsp; </p>
 
-#### Section Cortinatae Kühm., & Bours.
+#### Section *Cortinatae* Kühm., & Bours.
 Clé des sous-sections :
 1.	
 a.	Espèces à stipe ± violacé à purpurin ; généralement terricoles, sous feuillus.

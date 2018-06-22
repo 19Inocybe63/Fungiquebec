@@ -6,7 +6,7 @@ categories:
 - Inocybes
 ---
 
-## Inocybe, sous-genre **_Clypeus_**
+## Inocybe (Fr.) Fr.
 <p>&nbsp; </p>
 
 ### Sous-genre _Clypeus_ Britz.

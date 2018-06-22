@@ -57,9 +57,11 @@ Sous-section **_Cortinatae_** (K. & B.) M. Bon ……………………………
 
 4.	
 a.	Chapeau glabre à ± tomenteux ou fibrillo-squameux mais non hérissé
+
 Stirpe *Boltonii*
 
 b.	Chapeau, parfois aussi stipe, ± hérissés ou squarreux, fortement pelucheux ou laineux et rappelant assez bien les espèces leiosporées des groupes hystrix ou hirsuta mais à base ± brunissante.
+
 Stirpe *Lanuginosa*
 <p>&nbsp; </p>
 

@@ -26,10 +26,10 @@ Section **_Cortinatae_** Kühn. & Bours.
 
 B)	Stipe entièrement pruineux ou au moins jusqu’au quart inférieur, cortine nulle ou douteuse mais la marge peut parfois être appendiculée par un léger voile :
 
-a.	Stipe non bulbeux-marginé, tout au plus un peu clavé à subbulbilleux. Revêtement ± tomenteux à pelucheux ou subécailleux <br/>
+  a.	Stipe non bulbeux-marginé, tout au plus un peu clavé à subbulbilleux. Revêtement ± tomenteux à pelucheux ou subécailleux <br/>
 Section **_Petiginosae_** Heim
 
-b.	Stipe bulbeux-marginé, parfois seulement en oignon mais à base brusquement épaissie avec la partie supérieure restant cylindracée-égale. Revêtement glabre à ± vergeté ou fibrilleux, souvent éraillé ou rimeux à la fin avec la marge souvent fissile. Quelques espèces ont une chair rougissante <br/>
+  b.	Stipe bulbeux-marginé, parfois seulement en oignon mais à base brusquement épaissie avec la partie supérieure restant cylindracée-égale. Revêtement glabre à ± vergeté ou fibrilleux, souvent éraillé ou rimeux à la fin avec la marge souvent fissile. Quelques espèces ont une chair rougissante <br/>
 Section **_Marginatae_** Kühm.
 
 (Les sections *Calosporae* et *Rubellae*, mono- ou paucispécifiques en Europe, sont incluses respectivement dans les sections Petiginosae et Marginatae, au niveau de sous-section).
@@ -88,8 +88,7 @@ Sous-section **_Rubellae_** (Kühn. & Bour.) M. Bon
 
 B)	Chair immuable (mais elle peut être ± rosée d’emblée), gaïac nul ou brunâtre
 
-a.	Stipe blanc ou ochracé à jaunâtre pâle, ni rosé ni subconcolore mais poivant parfois brunir un peu avec l’âge ou par détersion <br/> Sous-section **_Praetervisae_** M. Bon
+  a.	Stipe blanc ou ochracé à jaunâtre pâle, ni rosé ni subconcolore mais poivant parfois brunir un peu avec l’âge ou par détersion <br/> Sous-section **_Praetervisae_** M. Bon
 
-b.	Stipe rosé d’emblée ou ± concolore au chapeau <br/>
+  b.	Stipe rosé d’emblée ou ± concolore au chapeau <br/>
 Sous-section **_Oblectabiles_** M. Bon
-

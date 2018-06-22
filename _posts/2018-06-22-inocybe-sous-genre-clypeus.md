@@ -26,6 +26,7 @@ B)	Stipe entièrement pruineux ou au moins jusqu’au quart inférieur, cortine 
 
 a.	Stipe non bulbeux-marginé, tout au plus un peu clavé à subbulbilleux. Revêtement ± tomenteux à pelucheux ou subécailleux
 Section **_Petiginosae_** Heim
+
 b.	Stipe bulbeux-marginé, parfois seulement en oignon mais à base brusquement épaissie avec la partie supérieure restant cylindracée-égale. Revêtement glabre à ± vergeté ou fibrilleux, souvent éraillé ou rimeux à la fin avec la marge souvent fissile. Quelques espèces ont une chair rougissante
 Section **_Marginatae_** Kühm.
 

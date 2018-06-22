@@ -9,7 +9,7 @@ categories:
 ## Inocybe, sous-genre **_Clypeus_**
 <p>&nbsp; </p>
 
-### Sous-genre Clypeus
+### Sous-genre _Clypeus_
 D’après la Clé monographie du genre Inocybe (Fr.) Fr., de Marcel Bon
 (Documents Mycologiques, Tome XXVIII, Fascicule N° 111, juin 1998).
 <p>&nbsp; </p>

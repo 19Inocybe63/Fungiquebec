@@ -87,7 +87,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Il pourrait aussi s’agir d’*Armillaria solidipes*. »
+    De Claude Kaufholtz-Couture. « Il pourrait aussi s’agir d’<i>Armillaria solidipes</i>. »
   conidies: 
   conidiome: 
   conidiophores: 

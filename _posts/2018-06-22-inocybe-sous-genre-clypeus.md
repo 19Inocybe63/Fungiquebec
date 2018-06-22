@@ -52,7 +52,7 @@ b.	Stipe égal ou légèrement clavé, sans épaississement basal abrupt, parfoi
 a.	Spores petites < 8 (10) μm <br/>
 Sous-section **_Brevisporinae_**, M. Bon
 
-b.	Spores dépassant généralement (9) 10 μm, sauf parfois dans le cas de quelques espèces à revêtement hérissé. <br/>;
+b.	Spores dépassant généralement (9) 10 μm, sauf parfois dans le cas de quelques espèces à revêtement hérissé. <br/>
 Sous-section **_Cortinatae_** (K. & B.) M. Bon .... 4
 
 **4**

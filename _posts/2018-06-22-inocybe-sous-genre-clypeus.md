@@ -17,8 +17,7 @@ Définition : Espèces à spores gibbeuses ou ± ornées, épineuses ou étoilé
 <p>&nbsp; </p>
 
 #### Clé des sections
-A)	Stipe non pruineux ou seulement vers le sommet et généralement cortiné au moins dans le jeune âge. Espèces généralement colorées, ternes ou ± sombres
-
+A)	Stipe non pruineux ou seulement vers le sommet et généralement cortiné au moins dans le jeune âge. Espèces généralement colorées, ternes ou ± sombres <br/>
 Section **_Cortinatae_** Kühn. & Bours., p. 2
 
 (Quelques espèces blanches ou à stipe bulbeux, traitées dans les sections suivantes, peuvent avoir une pruine relativement sommitales, avec raréfaction des caulocystides vers le milieu du stipe).
@@ -66,6 +65,7 @@ Stirpe *Lanuginosa*
 
 #### Section Petiginosae Heim
 (espèce gibbosporées à stipe entièrement poudré mais non bulbeux)
+
 Clé des sous-sections :
 
 A)	Spores ovoïdes à ± sphériques, à longs aiguillons ± cylindracés ou aigus. <br/>

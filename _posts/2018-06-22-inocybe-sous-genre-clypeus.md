@@ -30,7 +30,7 @@ B)	Stipe entièrement pruineux ou au moins jusqu’au quart inférieur, cortine 
 Section **_Petiginosae_** Heim
 
   b.	Stipe bulbeux-marginé, parfois seulement en oignon mais à base brusquement épaissie avec la partie supérieure restant cylindracée-égale. Revêtement glabre à ± vergeté ou fibrilleux, souvent éraillé ou rimeux à la fin avec la marge souvent fissile. Quelques espèces ont une chair rougissante <br/>
-Section **_Marginatae_** Kühm.
+Section **_Marginatae_** Kühn.
 
 (Les sections *Calosporae* et *Rubellae*, mono- ou paucispécifiques en Europe, sont incluses respectivement dans les sections Petiginosae et Marginatae, au niveau de sous-section).
 <p>&nbsp; </p>

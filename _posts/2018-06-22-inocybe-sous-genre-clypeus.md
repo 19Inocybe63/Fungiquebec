@@ -35,54 +35,57 @@ Section **_Marginatae_** Kühm.
 
 #### Section *Cortinatae* Kühm., & Bours.
 Clé des sous-sections :
+
 1.	
 a.	Espèces à stipe ± violacé à purpurin ; généralement terricoles, sous feuillus.
-Sous-section Ionipedinae M. Bon
+Sous-section **_Ionipedinae_** M. Bon
 
 b.	Espèce à stipe blanc, concolore ou rosâtre, mais sans traces de violocé (parfois quelques vagues nuances de purpurin sombre peuvent se trouver dans le chapeau ou les lames) ……………………………………………………. 2
 
 2.	
 a.	Stipe à bulbe net, en oignon ou ± marginé (ne pas confondre avec certains amas mycéliens subglobuleux, visibles en coupe). Le stipe peut parfois être seulement poudré vers le haut chez quelques formes paucicystidiées d’I. decipiens ou I. dunensis, à spores particulières, rhomboïdales.
-Sous-section Napipedinae (Lge) M. Bon
+Sous-section **_Napipedinae_** (Lge) M. Bon
 
-b.	Stipe égal ou légèrement clavé, sans épaississement basal abrupt, parfois à bulbille peu apparente en coupe (Attention aux amas mycéliens trompeurs)
-………………………………………………………………………………… 3
+b.	Stipe égal ou légèrement clavé, sans épaississement basal abrupt, parfois à bulbille peu apparente en coupe (Attention aux amas mycéliens trompeurs) ………………………………………………………………………………… 3
 
 3.	
 a.	Spores petites < 8 (10) μm
-Sous-section Brevisporinae, M. Bon
+Sous-section **_Brevisporinae_**, M. Bon
 
 b.	Spores dépassant généralement (9) 10 μm, sauf parfois dans le cas de quelques espèces à revêtement hérissé.
-Sous-section Cortinatae (K. & B.) M. Bon ………………………………. 4
+Sous-section **_Cortinatae_** (K. & B.) M. Bon ………………………………. 4
 
 4.	
 a.	Chapeau glabre à ± tomenteux ou fibrillo-squameux mais non hérissé
-Stirpe Boltonii
+Stirpe *Boltonii*
 
 b.	Chapeau, parfois aussi stipe, ± hérissés ou squarreux, fortement pelucheux ou laineux et rappelant assez bien les espèces leiosporées des groupes hystrix ou hirsuta mais à base ± brunissante.
-Stirpe Lanuginosa
+Stirpe *Lanuginosa*
 <p>&nbsp; </p>
 
 #### Section Petiginosae Heim
 (espèce gibbosporées à stipe entièrement poudré mais non bulbeux)
 Clé des sous-sections :
+
 A)	Spores ovoïdes à ± sphériques, à longs aiguillons ± cylindracés ou aigus.
-Sous-section Calosporae (Lge) M. Bon
+Sous-section **_Calosporae_** (Lge) M. Bon
 
 B)	Spores à profil ± allongé, ± gibbeuses ou polygonales
-Sous-section Petiginosinae (Heim) M. Bon
+Sous-section **_Petiginosinae_** (Heim) M. Bon
 <p>&nbsp; </p>
 
 #### Section Marginatae Kühner
 (Espèces gibbosporées à stipe entièrement poudré et bulbeux-marginé)
 Clé des sous-sections :
+
 A)	Chair rosissante, gaïac bleu ou violacé, parfois inconstant
-Sous-section Rubellae (Kühn. & Bour.) M. Bon
+Sous-section **_Rubellae_** (Kühn. & Bour.) M. Bon
 
 B)	Chair immuable (mais elle peut être ± rosée d’emblée), gaïac nul ou brunâtre
+
 a.	Stipe blanc ou ochracé à jaunâtre pâle, ni rosé ni subconcolore mais poivant parfois brunir un peu avec l’âge ou par détersion
-Sous-section Praetervisae M. Bon
+Sous-section **_Praetervisae_** M. Bon
 
 b.	Stipe rosé d’emblée ou ± concolore au chapeau
-Sous-section Oblectabiles M. Bon
+Sous-section **_Oblectabiles_** M. Bon
 

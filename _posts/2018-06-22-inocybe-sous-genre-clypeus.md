@@ -20,7 +20,7 @@ D’après la Clé monographie du genre *Inocybe* (Fr.) Fr., de Marcel Bon
 #### Clé des sections
 
 A)	Stipe non pruineux ou seulement vers le sommet et généralement cortiné au moins dans le jeune âge. Espèces généralement colorées, ternes ou ± sombres <br/>
-Section ##### Cortinatae Kühn. & Bours.
+Section **_Cortinatae_** Kühn. & Bours.
 
 (Quelques espèces blanches ou à stipe bulbeux, traitées dans les sections suivantes, peuvent avoir une pruine relativement sommitales, avec raréfaction des caulocystides vers le milieu du stipe).
 

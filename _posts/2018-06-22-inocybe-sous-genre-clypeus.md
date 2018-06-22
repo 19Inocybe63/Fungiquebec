@@ -11,8 +11,8 @@ categories:
 
 ### Sous-genre _Clypeus_ Britz.
 D’après la Clé monographie du genre Inocybe (Fr.) Fr., de Marcel Bon
-(Documents Mycologiques, Tome XXVIII, Fascicule N° 111, juin 1998).
-<p>&nbsp; </p>
+(Documents Mycologiques, Tome XXVIII, Fascicule N° 111, juin 1998). <br/>
+
 **Définition** : Espèces à spores gibbeuses ou ± ornées, épineuses ou étoilées. Nous incluons momentanément le sous-genre *Leptocybe*, créé par Kobayashi pour les espèces typiquement apleurocystidiées. En effet, en Europe, seul *I. casimiri* (au sens de l’auteur japonais) pouvait y être incorporé mais nous avons trouvé dans les récoltes européennes des formes intermédiaires, ± paucicystidiées vers *I. lanuginosa* ou *I. ovatocystis*, empêchant de séparer subgénériquement l’espèce théoriquement acystidiée ; et il faut ajouter que les cheilocystides sont généralement suffisamment métuloïdes pour ne pas être comparables à celles du sous-genre *Inosperma*, l’homologue « théorique » de *Leptocybe* chez les leiosporés. Néanmoins, d’autres espèces apleurocystidiées sont indiquées par les anciens auteurs et leur recherche, pour une réhabilitation, pourrait permettre d’introduire ce sous-genre dans la flore européenne.
 <p>&nbsp; </p>
 

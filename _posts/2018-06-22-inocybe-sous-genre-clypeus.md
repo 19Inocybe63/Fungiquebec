@@ -6,19 +6,21 @@ categories:
 - Inocybes
 ---
 
-**Inocybe, sous-genre Clypeus**
+**Inocybe, sous-genre _Clypeus_**
 <p>&nbsp; </p>
 
 #### Sous-genre Clypeus
 D’après la Clé monographie du genre Inocybe (Fr.) Fr., de Marcel Bon
 (Documents Mycologiques, Tome XXVIII, Fascicule N° 111, juin 1998).
+<p>&nbsp; </p>
 
-Définition : Espèces à spores gibbeuses ou ± ornées, épineuses ou étoilées. Nous incluons momentanément le sous-genre *Leptocybe*, créé par Kobayashi pour les espèces typiquement apleurocystidiées. En effet, en Europe, seul *I. casimiri* (au sens de l’auteur japonais) pouvait y être incorporé mais nous avons trouvé dans les récoltes européennes des formes intermédiaires, ± paucicystidiées vers *I. lanuginosa* ou *I. ovatocystis*, empêchant de séparer subgénériquement l’espèce théoriquement acystidiée ; et il faut ajouter que les cheilocystides sont généralement suffisamment métuloïdes pour ne pas être comparables à celles du sous-genre *Inosperma*, l’homologue « théorique » de *Leptocybe* chez les leiosporés. Néanmoins, d’autres espèces apleurocystidiées sont indiquées par les anciens auteurs et leur recherche, pour une réhabilitation, pourrait permettre d’introduire ce sous-genre dans la flore européenne.
+**Définition** : Espèces à spores gibbeuses ou ± ornées, épineuses ou étoilées. Nous incluons momentanément le sous-genre *Leptocybe*, créé par Kobayashi pour les espèces typiquement apleurocystidiées. En effet, en Europe, seul *I. casimiri* (au sens de l’auteur japonais) pouvait y être incorporé mais nous avons trouvé dans les récoltes européennes des formes intermédiaires, ± paucicystidiées vers *I. lanuginosa* ou *I. ovatocystis*, empêchant de séparer subgénériquement l’espèce théoriquement acystidiée ; et il faut ajouter que les cheilocystides sont généralement suffisamment métuloïdes pour ne pas être comparables à celles du sous-genre *Inosperma*, l’homologue « théorique » de *Leptocybe* chez les leiosporés. Néanmoins, d’autres espèces apleurocystidiées sont indiquées par les anciens auteurs et leur recherche, pour une réhabilitation, pourrait permettre d’introduire ce sous-genre dans la flore européenne.
 <p>&nbsp; </p>
 
 #### Clé des sections
+
 A)	Stipe non pruineux ou seulement vers le sommet et généralement cortiné au moins dans le jeune âge. Espèces généralement colorées, ternes ou ± sombres <br/>
-Section **_Cortinatae_** Kühn. & Bours., p. 2
+Section **_Cortinatae_** Kühn. & Bours.
 
 (Quelques espèces blanches ou à stipe bulbeux, traitées dans les sections suivantes, peuvent avoir une pruine relativement sommitales, avec raréfaction des caulocystides vers le milieu du stipe).
 
@@ -30,10 +32,11 @@ Section **_Petiginosae_** Heim
 b.	Stipe bulbeux-marginé, parfois seulement en oignon mais à base brusquement épaissie avec la partie supérieure restant cylindracée-égale. Revêtement glabre à ± vergeté ou fibrilleux, souvent éraillé ou rimeux à la fin avec la marge souvent fissile. Quelques espèces ont une chair rougissante <br/>
 Section **_Marginatae_** Kühm.
 
-(Les sections Calosporae et Rubellae, mono- ou paucispécifiques en Europe, sont incluses respectivement dans les sections Petiginosae et Marginatae, au niveau de sous-section).
+(Les sections *Calosporae* et *Rubellae*, mono- ou paucispécifiques en Europe, sont incluses respectivement dans les sections Petiginosae et Marginatae, au niveau de sous-section).
 <p>&nbsp; </p>
 
 #### Section *Cortinatae* Kühm., & Bours.
+
 Clé des sous-sections :
 
 **1** <br/>

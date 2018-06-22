@@ -36,26 +36,26 @@ Section **_Marginatae_** Kühm.
 #### Section *Cortinatae* Kühm., & Bours.
 Clé des sous-sections :
 
-**1**
+**1** <br/>
 a.	Espèces à stipe ± violacé à purpurin ; généralement terricoles, sous feuillus. <br/>
 Sous-section **_Ionipedinae_** M. Bon
 
 b.	Espèce à stipe blanc, concolore ou rosâtre, mais sans traces de violocé (parfois quelques vagues nuances de purpurin sombre peuvent se trouver dans le chapeau ou les lames) .... 2
 
-**2**
+**2** <br/>
 a.	Stipe à bulbe net, en oignon ou ± marginé (ne pas confondre avec certains amas mycéliens subglobuleux, visibles en coupe). Le stipe peut parfois être seulement poudré vers le haut chez quelques formes paucicystidiées d’I. decipiens ou I. dunensis, à spores particulières, rhomboïdales. <br/>
 Sous-section **_Napipedinae_** (Lge) M. Bon
 
 b.	Stipe égal ou légèrement clavé, sans épaississement basal abrupt, parfois à bulbille peu apparente en coupe (Attention aux amas mycéliens trompeurs) .... 3
 
-**3**
+**3** <br/>
 a.	Spores petites < 8 (10) μm <br/>
 Sous-section **_Brevisporinae_**, M. Bon
 
 b.	Spores dépassant généralement (9) 10 μm, sauf parfois dans le cas de quelques espèces à revêtement hérissé. <br/>
 Sous-section **_Cortinatae_** (K. & B.) M. Bon .... 4
 
-**4**
+**4** <br/>
 a.	Chapeau glabre à ± tomenteux ou fibrillo-squameux mais non hérissé <br/>
 Stirpe *Boltonii*
 

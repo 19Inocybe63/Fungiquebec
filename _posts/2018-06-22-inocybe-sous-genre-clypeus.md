@@ -77,6 +77,7 @@ Sous-section **_Petiginosinae_** (Heim) M. Bon
 
 #### Section Marginatae Kühner
 (Espèces gibbosporées à stipe entièrement poudré et bulbeux-marginé)
+
 Clé des sous-sections :
 
 A)	Chair rosissante, gaïac bleu ou violacé, parfois inconstant <br/>

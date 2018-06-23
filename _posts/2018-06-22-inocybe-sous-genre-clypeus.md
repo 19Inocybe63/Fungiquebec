@@ -35,7 +35,7 @@ Section **_Marginatae_** Kühn.
 (Les sections *Calosporae* et *Rubellae*, mono- ou paucispécifiques en Europe, sont incluses respectivement dans les sections Petiginosae et Marginatae, au niveau de sous-section).
 <p>&nbsp; </p>
 
-#### Section *Cortinatae* Kühm., & Bours.
+#### Section *Cortinatae* Kühn., & Bours.
 
 Clé des sous-sections :
 

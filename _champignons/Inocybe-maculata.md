@@ -127,9 +127,9 @@ description:
   chancre: 
   cheilocystides: 
   cheiloleptocystides: nombreuses, polymorphes, parfois en faisceaux, subutriformes, piriformes, claviformes à largement claviformes, cylindriques, sans cristaux, à paroi mince
-    (25,5) 31,2-44,6 (48,7) × (10,5) 11,1-14,1 (15,4) µm
-    Q = (2,2) 2,4-3,4 (4,2); N = 16
-    Me = 37,5 × 12,8 µm; Qe = 2,9
+(25,5) 31,2-44,6 (48,7) × (10,5) 11,1-14,1 (15,4) µm
+Q = (2,2) 2,4-3,4 (4,2); N = 16
+Me = 37,5 × 12,8 µm; Qe = 2,9
   cheilomacrocystides: 
   chlamydospores: 
   chrysocystides: 

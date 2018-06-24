@@ -109,7 +109,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse sur sol sablonneux, en milieux ouverts, sous divers conifères <i>Picea abies</i>
+  biotopes: pousse sur sol sableux, en milieux ouverts, sous divers conifères et feuillus <i>Picea abies</i>
   boucles: observées dans le stipitipellis
   brachybasidioles: 
   calicule: 
@@ -136,6 +136,7 @@ description:
   comestibilite: NON
   commentaires: |
     De Yves Lamoureux. « Les fibrilles blanches sur le disque sont des restes du velipellis, voile général des inocybes. Il est très peu développé chez certaines espèces, donc apparemment absent. »
+    De Claude Kaufholtz-Couture. « Il est difficile de juger s’il s’agit de caulocystides sommitales ou non. D'après mon observation, il est fort possible que ce soit des hyphes caulocystidioïdes ; tenant compte de leur origine dans le stipitipellis. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -202,7 +203,7 @@ description:
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
   hymenophore: 
-  hyphes: gloéoplères observées dans le stipe
+  hyphes: gloéoplères observées dans le stipe ; du sous-hyménium, certaines hyphes ont un contenu granulaire et prennent une couleur jaune verdâtre dans le NH<sub>4</sub>OH 10% et dans le KOH 2%
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
   hyphes-du-pied: 
@@ -245,7 +246,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: solitaire ou grégaire
+  mode-de-croissance: isolé, solitaire ou grégaire en petit groupe
   mycelium-basal: 
   myxocarpe: 
   note-taxonomique: 

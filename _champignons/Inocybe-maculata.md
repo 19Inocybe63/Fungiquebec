@@ -101,11 +101,11 @@ description:
   base-stipitiforme: 
   basides: claviformes, bisporiques, mais généralement tétrasporiques, bouclées à la base, à paroi mince 25-40 x 7,5-11 µm
   basidiospores: |
-    leiospore ovoïdales à elliptiques en vue frontale, elliptiques à ovo-ellipsoïdes à phaséoliformes dont le sommet est légèrement atténué vues de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec petit appendice hilaire, à contenu granulaire et parfois uniguttulé (surtout dans le Bleu crésyl), brun à ± brun rougeâtre dans l'eau glycérinée 20%, pas de réaction dans le melzer, non cyanophiles
-    (8,4) 9,4-9,8 (10,8) x (5,1) 5,8-6,2 (6,9) µm
-    Q = (1,5) 1,6 (1,8); N = 30; C = 95%
-    Me = 9,6 x 6 µm; Qe = 1,6
-    (Piximètre, formule statistique; mesures issues d'une sporée, dans l'eau glycérinée 20%)
+    leiosporées ovoïdales à elliptiques en vue frontale, elliptiques à ovo-ellipsoïdes à phaséoliformes avec apex obtus, vues de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec petit appendice hilaire, à contenu granulaire et parfois uniguttulé (surtout dans le Bleu crésyl), brun rougeâtre pâle dans l’eau glycérinée 15%, brun rougeâtre ± foncé dans le KOH 2%, pas de réaction dans le melzer, non cyanophiles
+    (7,4) 9,4-9,8 (10,8) x (4,2) 5,8-6,2 (6,9) µm
+    Q = (1,5) 1,6-1,8 (2); N = 30
+    Me = 9,6 x 6 µm; Qe = 1,7
+    (Piximètre, formule statistique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
   basidioles: 
   basidiome: 
   bibliographies: 

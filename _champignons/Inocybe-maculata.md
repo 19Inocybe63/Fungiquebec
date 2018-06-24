@@ -64,11 +64,11 @@ collections:
   - fongarium: cKc0626
     date: 20 juillet 2017
     planche:
-      numero: 
+      numero: cKc0626-0209
       miniature: 
       originale: 
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    altitude: 230 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

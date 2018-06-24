@@ -186,7 +186,7 @@ description:
   especes-identification: 
   especes-semblables: 
   exhalaison: 
-  exhalaison-de-la-chair: chloré à vieille patate, spermatique (pipéridine)
+  exhalaison-de-la-chair: chloré à vieille patate
   exhalaison-des-lames: de vieille patate
   excipulum: 
   excipulum-medullaire-superieur: 
@@ -313,7 +313,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: légèrement raphanoïde, spermatique (pipéridine)
+  saveur: légèrement raphanoïde
   sclerocystides: 
   sclerote: 
   soies: 

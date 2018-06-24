@@ -99,7 +99,7 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, bisporiques, mais généralement tétrasporiques, bouclées à la base, 32-40 x 9-11 µm
+  basides: claviformes, bisporiques, mais généralement tétrasporiques, bouclées à la base, à paroi mince 25-40 x 7,5-11 µm
   basidiospores: |
     leiospore ovoïdales à elliptiques en vue frontale, elliptiques à ovo-ellipsoïdes à phaséoliformes dont le sommet est légèrement atténué vues de profil, lisses, à paroi mince à légèrement épaissie entre 0,2-0,3 µm, avec petit appendice hilaire, à contenu granulaire et parfois uniguttulé (surtout dans le Bleu crésyl), brun à ± brun rougeâtre dans l'eau glycérinée 20%, pas de réaction dans le melzer, non cyanophiles
     (8,4) 9,4-9,8 (10,8) x (5,1) 5,8-6,2 (6,9) µm
@@ -228,7 +228,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées à adnexées, serrées, avec lamelles et lamellules, crème pâle dont l’arêtes est légèrement ± crème foncé
+  lames: adnées à adnexées, serrées, avec lamelles et lamellules, beige banal, à l'arête lamellaire blanchâtre
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -266,7 +266,7 @@ description:
   pileipellis: en cutis; suprapellis 60-70 µm d'épaisseur, formé d'hyphes cylindriques, bouclées, avec pigmentations brun rougeâtre, 5-20 µm Ø
   pileitrame: formé de sphérocystes
   pileocystides: 
-  pileus: 14-51 mm Ø, subcylindrique-campanulé jeune à convexe puis étalé à maturité, mamelonné, fibrilleux, avec marge unie puis fendillée avec l’âge, brun cannelle avec un centre plus foncé, avec présence de fibrilles blanches sur le disque lorsque jeune
+  pileus: 14-51 mm Ø, subcylindrique-campanulé jeune, convexe puis étalé à maturité, mamelonné, fibrilleux, avec marge unie puis fendillée avec l’âge, brun cannelle avec un centre plus foncé, avec présence de fibrilles blanches sur le disque lorsque jeune
   plasmode: 
   pleurocystides: 
   pleuroleptocystides: absentes
@@ -312,10 +312,10 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun à brun cannelle
+  sporee: brun légèrement foncé ; en amoncellement
   spherocytes: 
   sporocystes: 
-  stipe: 30-66 x 5-10 mm Ø, cylindrique, plein, s'élargissant à la base, fibrilleux longitudinalement, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement bulbeuse et blanche, avec de petits rhizomorphe
+  stipe: 30-66 x 5-10 mm Ø, cylindrique, plein, s'élargissant à la base, fibrilleux longitudinalement, blanchâtre au début, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement subbulbeuse à claviforme et blanche, avec de petits rhizomorphe
   stipitipellis: 
   stipititrame: 
   stroma: 
@@ -343,7 +343,7 @@ description:
   trame-tubulaire: 
   type: 
   typique: 
-  velipellis: bien évident, laissant des fibrilles blanchâtres sur le disque piléique
+  velipellis: présent, blanc ; bien évident, laissant des fibrilles blanchâtres sur le disque piléique
   voile: 
   voile-general: 
   voile-partiel: 

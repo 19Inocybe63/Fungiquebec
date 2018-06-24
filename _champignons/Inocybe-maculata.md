@@ -267,7 +267,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: en cutis; suprapellis 60-70 µm d'épaisseur, formé d'hyphes cylindriques, bouclées, avec pigmentations brun rougeâtre, 5-20 µm Ø
+  pileipellis: suprapellis de type banal, en cutis, formé d’hyphes apprimées, cylindriques à subcylindriques, parallèles et entrelacées, bouclées, avec cellules terminales subcylindriques, claviformes à fusiformes, paroi cellulaire mince avec granulation de type épipariétal (24,8) 36,6-88,8 (91,3) × 4,5-9 (9,2) µm en moyenne
   pileitrame: formé de sphérocystes
   pileocystides: 
   pileus: 14-51 mm Ø, subcylindrique-campanulé jeune, convexe puis étalé à maturité, mamelonné, fibrilleux, avec marge unie puis fendillée avec l’âge, brun cannelle avec un centre plus foncé, avec présence de fibrilles blanches sur le disque lorsque jeune

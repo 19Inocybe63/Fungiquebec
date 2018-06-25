@@ -38,7 +38,7 @@ Section **_Marginatae_** Kühn.
 (Stipe non pruineux ou seulement au sommet, sous les lames ; cortine souvent présente au début) <br/>
 Esp. type ; I. lanuginosa (Bull.:Fr.) Kumm.
 
-Clé des sous-sections :
+#### Clé des sous-sections
 
 **1** <br/>
 a. Espèces à stipe ± violacé à purpurin ; généralement terricoles, sous feuillus. <br/>

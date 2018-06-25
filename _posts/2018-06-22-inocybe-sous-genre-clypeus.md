@@ -17,7 +17,7 @@ D’après la Clé monographie du genre *Inocybe* (Fr.) Fr., de Marcel Bon
 **Définition** : Espèces à spores gibbeuses ou ± ornées, épineuses ou étoilées. Nous incluons momentanément le sous-genre *Leptocybe*, créé par Kobayashi pour les espèces typiquement apleurocystidiées. En effet, en Europe, seul *I. casimiri* (au sens de l’auteur japonais) pouvait y être incorporé mais nous avons trouvé dans les récoltes européennes des formes intermédiaires, ± paucicystidiées vers *I. lanuginosa* ou *I. ovatocystis*, empêchant de séparer subgénériquement l’espèce théoriquement acystidiée ; et il faut ajouter que les cheilocystides sont généralement suffisamment métuloïdes pour ne pas être comparables à celles du sous-genre *Inosperma*, l’homologue « théorique » de *Leptocybe* chez les leiosporés. Néanmoins, d’autres espèces apleurocystidiées sont indiquées par les anciens auteurs et leur recherche, pour une réhabilitation, pourrait permettre d’introduire ce sous-genre dans la flore européenne.
 <p>&nbsp; </p>
 
-##### Clé des sections
+**Clé des sections**
 
 A) Stipe non pruineux ou seulement vers le sommet et généralement cortiné au moins dans le jeune âge. Espèces généralement colorées, ternes ou ± sombres <br/>
 Section **_Cortinatae_** Kühn. & Bours.
@@ -40,7 +40,7 @@ Section **_Marginatae_** Kühn.
 Esp. type ; I. lanuginosa (Bull.:Fr.) Kumm.
 <p>&nbsp; </p>
 
-##### Clé des sous-sections
+**Clé des sous-sections**
 
 **1** <br/>
 a. Espèces à stipe ± violacé à purpurin ; généralement terricoles, sous feuillus. <br/>
@@ -72,7 +72,7 @@ Stirpe *Lanuginosa*
 #### Section Petiginosae Heim
 (Espèce gibbosporées à stipe entièrement poudré mais non bulbeux)
 
-##### Clé des sous-sections
+**Clé des sous-sections**
 
 A) Spores ovoïdes à ± sphériques, à longs aiguillons ± cylindracés ou aigus. <br/>
 Sous-section **_Calosporae_** (Lge) M. Bon
@@ -84,7 +84,7 @@ Sous-section **_Petiginosinae_** (Heim) M. Bon
 #### Section Marginatae Kühner
 (Espèces gibbosporées à stipe entièrement poudré et bulbeux-marginé)
 
-##### Clé des sous-sections
+**Clé des sous-sections**
 
 A) Chair rosissante, gaïac bleu ou violacé, parfois inconstant <br/>
 Sous-section **_Rubellae_** (Kühn. & Bours.) M. Bon

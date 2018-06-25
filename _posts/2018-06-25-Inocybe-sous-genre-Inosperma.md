@@ -23,7 +23,7 @@ Pas de cystides faciales métuloïdes : uniquement marginales ± clavées ou var
 #### Clé des sections
 (Espèces acystidiées, à poils marginaux souvent évidents mais non métuloïdes)
 
-1. Chapeau obtus ou bassement mamelonné (non conique), à revêtement feutré, glabre ou laineux à ± ébouriffé ou squamuleux mais non fibrillo-rimeux.
+I. Chapeau obtus ou bassement mamelonné (non conique), à revêtement feutré, glabre ou laineux à ± ébouriffé ou squamuleux mais non fibrillo-rimeux.
 
 A) Stipe souvent trapu ou généralement égal ou plus court que le diamètre du chapeau ; revêtement piléique sublisse à feutré ou laineux, parfois un peu squamuleux (silhouette et aspect de _Dermocybe_, _Leprocybe_ ou _Gymnopilus_), couleurs généralement ochracées à ± fauvâtres ou roussâtres, non spécialement obscures et généralement immuables ou peu changeantes à la coupe. Odeurs faibles ou variables : herbacée ou miellée, non spermatique, rarement terreuse, saveur ± amarescente. Cheilos à origine profonde, hyménopodiale (= ss.-g *Mallocybe* Kuyper inéd.). Suprapellis souvent articulé, ± ébouriffé. <br/>
 Section **_Depauperatae_** Lge (Dulcamarae ss. Heim)
@@ -37,7 +37,7 @@ Sous-section **_Dulcamarae_** (Heim) M. Bon
 B) Revêtement laineux à subécailleux ou hérissé, couleurs souvent obscures, au moins vers la base du stipe, parfois avec du verdâtre. Stipe ± élancé, généralement plus grand que le diamètre du chapeau. Rougissement fréquent de la chair et odeurs souvent fortes, aromatiques ou désagréables ; cheilos banales, allongées, d’origine subhyméniale. <br/>
 Section **_Cervicolores_** K.R. ex Sing.
 
-2. Chapeau souvent conique, de hauteur souvent égale au diamètre ; à marge fissile ou striée et revêtement fibrillo-vergeté à ± rimeux ou crevassé radialement, rarement squamuleux vers le disque, parfois un peu visqueux. Stipe élancé, souvent plus long que le diamètre du chapeau (parfois x 2). Odeur spermatique ou variable. <br/>
+II. Chapeau souvent conique, de hauteur souvent égale au diamètre ; à marge fissile ou striée et revêtement fibrillo-vergeté à ± rimeux ou crevassé radialement, rarement squamuleux vers le disque, parfois un peu visqueux. Stipe élancé, souvent plus long que le diamètre du chapeau (parfois x 2). Odeur spermatique ou variable. <br/>
 Section **_Rimosae_** (Fr.) Quél.
 
 a. Stipe à bulbe ± marginé ; odeur variable (miel, lessive, terre, farine) <br/>

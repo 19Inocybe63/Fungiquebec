@@ -156,6 +156,10 @@ champs-details:
     label: Sous-section
     search: facet
     format: italique
+  - name: stirpe
+    label: Stirpe
+    search: facet
+    format: italique
   - name: litterature
     label: Littérature
 

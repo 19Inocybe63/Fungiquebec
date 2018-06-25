@@ -37,7 +37,7 @@ Section **_Marginatae_** Kühn.
 
 #### Section *Cortinatae* Kühn., & Bours.
 (Stipe non pruineux ou seulement au sommet, sous les lames ; cortine souvent présente au début) <br/>
-Esp. type ; I. lanuginosa (Bull.:Fr.) Kumm.
+Esp. type ; _I. lanuginosa_ (Bull.:Fr.) Kumm.
 <p>&nbsp; </p>
 
 **Clé des sous-sections**

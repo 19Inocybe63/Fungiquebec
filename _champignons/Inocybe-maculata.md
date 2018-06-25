@@ -19,6 +19,7 @@ details:
   genre: Inocybe
   sous-genre: Inosperma
   section: Rimosae
+  sous-section: Rimosinae
   espece: <i>Inocybe maculata</i> Boud.
   litterature: Boudier, J.L.É. 1885. Description de quelques espèces nouvelles de champignons basidiosporés. Bulletin de la Société Botanique de France. 32:282-283
 
@@ -321,7 +322,7 @@ description:
   sporee: brun légèrement foncé ; en amoncellement
   spherocytes: 
   sporocystes: 
-  stipe: 30-66 x 5-10 mm Ø, cylindrique, plein, s'élargissant à la base, fibrilleux longitudinalement, blanchâtre au début, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement subbulbeuse à claviforme et blanche, avec de petits rhizomorphe
+  stipe: 30-66 x 5-10 mm Ø, cylindrique, plein, s'élargissant à la base, fibrilleux longitudinalement, blanchâtre au début, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement claviforme et blanche, avec de petits rhizomorphe
   stipitipellis: 
   stipititrame: 
   stroma: 

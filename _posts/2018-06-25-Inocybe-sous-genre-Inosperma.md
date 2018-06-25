@@ -10,7 +10,7 @@ categories:
 <p>&nbsp; </p>
 
 ### Sous-genre _Inosperma_ Kühner
-(= Section Dulcamara Stuntz, ss. lato, incl. ss.-genre Mallocybe Kuyp. ined.)
+(= Section _Dulcamara_ Stuntz, ss. lato, incl. ss.-genre _Mallocybe_ Kuyp. ined.)
 
 D’après la Clé monographie du genre Inocybe (Fr.) Fr., de Marcel Bon
 (Documents Mycologiques, Tome XXVII, Fascicule N° 105, Avril 1997).

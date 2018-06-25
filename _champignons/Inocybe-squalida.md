@@ -1,6 +1,6 @@
 ---
 nom: Inocybe squalida C. Kaufholtz-Couture nom. prov.
-date: 2018-01-01 00:00:00
+date: 2018-06-25 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -147,6 +147,7 @@ description:
     De Claude Kaufholtz-Couture. « Je suis dans l'attente de l'étude d'ADN de la collection cKc0556 par le http://mathenylab.utk.edu/Site/Home.html »
     De Claude Kaufholtz-Couture. « Cette collection fut comparée à <i>Inocybe curvipes</i>. Bien que la microscopie soit ressemblante, la macromorphologie ne correspond pas. »
     De P. Brandon Matheny. « I agree with Kuyper on this, but not sure about the autonomy of your collection until sequenced. Bear in mind that <i>I. curvipes</i> has been described independently by numerous authors under 10 or so names.  »
+    De Claude Kaufholtz-Couture. « D’autres récoltes nous permettront assurément de fixer plus exactement sa position taxonomique. »
   conidies: 
   conidiome: 
   conidiophores: 

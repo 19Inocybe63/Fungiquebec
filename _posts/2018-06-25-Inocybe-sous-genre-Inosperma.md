@@ -21,7 +21,7 @@ Pas de cysytides faciales métuloïdes : uniquement marginales ± clavées ou va
 <p>&nbsp; </p>
 
 #### Clé des sections
-(Espèces acystidiées, à poils marginaux souvent évidents mais non métuloïdes) <br/>
+(Espèces acystidiées, à poils marginaux souvent évidents mais non métuloïdes)
 
 1. Chapeau obtus ou bassement mamelonné (non conique), à revêtement feutré, glabre ou laineux à ± ébouriffé ou squamuleux mais non fibrillo-rimeux.
 

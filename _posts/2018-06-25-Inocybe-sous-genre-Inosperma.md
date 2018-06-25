@@ -17,18 +17,20 @@ D’après la Clé monographie du genre Inocybe (Fr.) Fr., de Marcel Bon
 <p>&nbsp; </p>
 
 **Définition** : Espèces à spores lisses, tout au plus parfois étranglées ou subanguleuses mais non gibbeuses ni épineuses :
-• Pas de cysytides faciales métuloïdes : uniquement marginales ± clavées ou variables, à paroi mince et (ou) sommet non cristallifères ; spores ovo-elliptiques à cylindrophaséolées, rarement à sommet subogival.
+Pas de cysytides faciales métuloïdes : uniquement marginales ± clavées ou variables, à paroi mince et (ou) sommet non cristallifères ; spores ovo-elliptiques à cylindrophaséolées, rarement à sommet subogival.
 <p>&nbsp; </p>
 
 #### Clé des sections
-(Espèces acystidiées, à poils marginaux souvent évidents mais non métuloïdes)
+(Espèces acystidiées, à poils marginaux souvent évidents mais non métuloïdes) <br/>
+
 1. Chapeau obtus ou bassement mamelonné (non conique), à revêtement feutré, glabre ou laineux à ± ébouriffé ou squamuleux mais non fibrillo-rimeux.
 
-A. Stipe souvent trapu ou généralement égal ou plus court que le diamètre du chapeau ; revêtement piléique sublisse à feutré ou laineux, parfois un peu squamuleux (silhouette et aspect de Dermocybe, Leprocybe ou Gymnopilus), couleurs généralement ochracées à ± fauvâtres ou roussâtres, non spécialement obscures et généralement immuables ou peu changeantes à la coupe. Odeurs faibles ou variables : herbacée ou miellée, non spermatique, rarement terreuse, saveur ± amarescente. Cheilos à origine profonde, hyménopodiale (= ss.-g Mallocybe Kuyper inéd.). Suprapellis souvent articulé, ± ébouriffé. <br/>
+A. Stipe souvent trapu ou généralement égal ou plus court que le diamètre du chapeau ; revêtement piléique sublisse à feutré ou laineux, parfois un peu squamuleux (silhouette et aspect de _Dermocybe_, _Leprocybe_ ou _Gymnopilus_), couleurs généralement ochracées à ± fauvâtres ou roussâtres, non spécialement obscures et généralement immuables ou peu changeantes à la coupe. Odeurs faibles ou variables : herbacée ou miellée, non spermatique, rarement terreuse, saveur ± amarescente. Cheilos à origine profonde, hyménopodiale (= ss.-g *Mallocybe* Kuyper inéd.). Suprapellis souvent articulé, ± ébouriffé. <br/>
 Section **_Depauperatae_** Lge (Dulcamarae ss. Heim)
 
-a) Présence d’un anneau ou d’une armille manifeste ou d’un bourrelet cortiniforme épais, revêtement piléique laineux ou squamuleux. Odeur faible à herbacées, parfois terreuse, non miellé au froissement. Spores variables, souvent allongées (Q 1,5-2,5)
-Sous-section Terrigenae M. Bon
+a) Présence d’un anneau ou d’une armille manifeste ou d’un bourrelet cortiniforme épais, revêtement piléique laineux ou squamuleux. Odeur faible à herbacées, parfois terreuse, non miellé au froissement. Spores variables, souvent allongées (Q 1,5-2,5) <br/>
+Sous-section **_Terrigenae_** M. Bon
+
 b) Cortine banale ou peu fournie, parfois fugace ou subnulle. Revêtement subglabre ou peu ébouriffé <br/>
 Sous-section **_Dulcamarae_** (Heim) M. Bon
 

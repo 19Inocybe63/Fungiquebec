@@ -322,7 +322,7 @@ description:
   sporee: brun légèrement foncé ; en amoncellement
   spherocytes: 
   sporocystes: 
-  stipe: 30-66 x 5-10 mm Ø, cylindrique, plein, s'élargissant à la base, fibrilleux longitudinalement, blanchâtre au début, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est légèrement claviforme et blanche, avec de petits rhizomorphe
+  stipe: 30-66 x 5-10 mm Ø, cylindrique, plein, s'élargissant à la base, fibrilleux longitudinalement, blanchâtre au début, jaunâtre crème à l’apex et brun rouille vers le milieu, dont la base est claviforme et blanche, avec de petits rhizomorphe
   stipitipellis: 
   stipititrame: 
   stroma: 

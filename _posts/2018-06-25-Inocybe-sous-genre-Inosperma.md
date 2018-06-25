@@ -17,7 +17,7 @@ D’après la Clé monographie du genre Inocybe (Fr.) Fr., de Marcel Bon
 <p>&nbsp; </p>
 
 **Définition** : Espèces à spores lisses, tout au plus parfois étranglées ou subanguleuses mais non gibbeuses ni épineuses :
-Pas de cysytides faciales métuloïdes : uniquement marginales ± clavées ou variables, à paroi mince et (ou) sommet non cristallifères ; spores ovo-elliptiques à cylindrophaséolées, rarement à sommet subogival.
+Pas de cystides faciales métuloïdes : uniquement marginales ± clavées ou variables, à paroi mince et (ou) sommet non cristallifères ; spores ovo-elliptiques à cylindrophaséolées, rarement à sommet subogival.
 <p>&nbsp; </p>
 
 #### Clé des sections

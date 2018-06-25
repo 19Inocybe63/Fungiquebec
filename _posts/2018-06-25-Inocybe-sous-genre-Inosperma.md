@@ -36,6 +36,7 @@ Sous-section **_Dulcamarae_** (Heim) M. Bon
 
 B) Revêtement laineux à subécailleux ou hérissé, couleurs souvent obscures, au moins vers la base du stipe, parfois avec du verdâtre. Stipe ± élancé, généralement plus grand que le diamètre du chapeau. Rougissement fréquent de la chair et odeurs souvent fortes, aromatiques ou désagréables ; cheilos banales, allongées, d’origine subhyméniale. <br/>
 Section **_Cervicolores_** K.R. ex Sing.
+<p>&nbsp; </p>
 
 **II.** Chapeau souvent conique, de hauteur souvent égale au diamètre ; à marge fissile ou striée et revêtement fibrillo-vergeté à ± rimeux ou crevassé radialement, rarement squamuleux vers le disque, parfois un peu visqueux. Stipe élancé, souvent plus long que le diamètre du chapeau (parfois x 2). Odeur spermatique ou variable. <br/>
 Section **_Rimosae_** (Fr.) Quél.

@@ -33,10 +33,9 @@ b. Stipe bulbeux-marginé, parfois seulement en oignon mais à base brusquement 
 Section **_Marginatae_** Kühn.
 
 (Les sections *Calosporae* et *Rubellae*, mono- ou paucispécifiques en Europe, sont incluses respectivement dans les sections Petiginosae et Marginatae, au niveau de sous-section).
-<p>&nbsp; </p>
 
 #### Section *Cortinatae* Kühn., & Bours.
-(Stipe non pruineux ou seulement au sommet, sous les lames ; cortine souvent présente au début)
+(Stipe non pruineux ou seulement au sommet, sous les lames ; cortine souvent présente au début) <br/>
 Esp. type ; I. lanuginosa (Bull.:Fr.) Kumm.
 
 Clé des sous-sections :

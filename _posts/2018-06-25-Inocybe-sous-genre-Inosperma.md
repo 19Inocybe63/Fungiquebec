@@ -26,7 +26,7 @@ Pas de cystides faciales métuloïdes : uniquement marginales ± clavées ou var
 **I.** Chapeau obtus ou bassement mamelonné (non conique), à revêtement feutré, glabre ou laineux à ± ébouriffé ou squamuleux mais non fibrillo-rimeux.
 
 A) Stipe souvent trapu ou généralement égal ou plus court que le diamètre du chapeau ; revêtement piléique sublisse à feutré ou laineux, parfois un peu squamuleux (silhouette et aspect de _Dermocybe_, _Leprocybe_ ou _Gymnopilus_), couleurs généralement ochracées à ± fauvâtres ou roussâtres, non spécialement obscures et généralement immuables ou peu changeantes à la coupe. Odeurs faibles ou variables : herbacée ou miellée, non spermatique, rarement terreuse, saveur ± amarescente. Cheilos à origine profonde, hyménopodiale (= ss.-g *Mallocybe* Kuyper inéd.). Suprapellis souvent articulé, ± ébouriffé. <br/>
-Section **_Depauperatae_** Lge (Dulcamarae ss. Heim)
+Section **_Depauperatae_** Lge (_Dulcamarae_ ss. Heim)
 
 a. Présence d’un anneau ou d’une armille manifeste ou d’un bourrelet cortiniforme épais, revêtement piléique laineux ou squamuleux. Odeur faible à herbacées, parfois terreuse, non miellé au froissement. Spores variables, souvent allongées (Q 1,5-2,5) <br/>
 Sous-section **_Terrigenae_** M. Bon

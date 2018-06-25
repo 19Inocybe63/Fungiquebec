@@ -23,6 +23,7 @@ details:
   sous-genre: 
   section: 
   sous-section: 
+  stirpe: 
   litterature: 
 
 collections:

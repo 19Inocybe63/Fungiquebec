@@ -277,7 +277,7 @@ description:
   pileipellis: formé d'un suprapellis en cutis, avec des éléments trichodermiques, avec hyphes septées et bouclées agglomérées au sommet, hyphes terminales cylindriques formant une chaîne, avec pigmentation brun rouille à brun rougeâtre, 9,8-55,1 × 2,0-10,3 µm en moyenne
   pileitrame: 
   pileocystides: 
-  pileus: 8-15 mm Ø, ± conique au début, convexe à étalé, légèrement déprimé, ± mamelonné, fibrilleux et squamuleux, ± méchuleux vers le centre, brun à brun rougeâtre, plus foncé au centre
+  pileus: 8-15 mm Ø, ± conique au début, convexe à étalé, légèrement déprimé, ± mamelonné, fibrilleux et squamuleux, ± méchuleux vers le centre, ± hérissé, brun à brun rougeâtre, plus foncé au centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

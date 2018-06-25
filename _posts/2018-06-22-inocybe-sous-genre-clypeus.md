@@ -65,7 +65,6 @@ Stirpe *Boltonii*
 
 b. Chapeau, parfois aussi stipe, ± hérissés ou squarreux, fortement pelucheux ou laineux et rappelant assez bien les espèces leiosporées des groupes hystrix ou hirsuta mais à base ± brunissante. <br/>
 Stirpe *Lanuginosa*
-<p>&nbsp; </p>
 
 #### Section Petiginosae Heim
 (Espèce gibbosporées à stipe entièrement poudré mais non bulbeux)
@@ -77,7 +76,6 @@ Sous-section **_Calosporae_** (Lge) M. Bon
 
 B) Spores à profil ± allongé, ± gibbeuses ou polygonales <br/>
 Sous-section **_Petiginosinae_** (Heim) M. Bon
-<p>&nbsp; </p>
 
 #### Section Marginatae Kühner
 (Espèces gibbosporées à stipe entièrement poudré et bulbeux-marginé)

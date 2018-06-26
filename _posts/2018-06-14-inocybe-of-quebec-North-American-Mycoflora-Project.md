@@ -1,5 +1,5 @@
 ---
-title: Inocybe of Quebec : North America Mycoflora Project
+title: Inocybe of Quebec, North America Mycoflora Project
 date: 2018-06-21 00:00:00
 categories: 
 - Projets et Inocybes

@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: Inocybe sp.-cKc0610
+  espece: <i>Inocybe cincinnata var. major</i>
   sous-genre: Inocybe auton. = Inocybium (Earle) Sing.
   section: 
   sous-section: 

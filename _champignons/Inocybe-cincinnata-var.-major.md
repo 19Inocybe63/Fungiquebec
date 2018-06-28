@@ -1,6 +1,6 @@
 ---
-nom: Inocybe phaeocomis var. major
-date: 2018-06-28 07:00:00
+nom: Inocybe cincinnata var. major
+date: 2018-06-28 08:00:00
 image: https://c1.staticflickr.com/5/4256/35013819924_bb5814f494_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35013819924/in/photolist-Vm3XqL-Vm3YNq
 album-flickr:
@@ -21,7 +21,7 @@ details:
   sous-genre: Inocybe auton. = Inocybium (Earle) Sing.
   section: 
   sous-section: 
-  litterature: Kuyper, T.W. 1986. A revision of the genus Inocybe in Europe. I. Subgenus Inosperma and the smooth-spored species of subgenus Inocybe. Persoonia Supplement. 3:1-247
+  litterature: Kuyper, T.W. 1989. Studien in Inocybe - IV. Zeitschrift für Mykologie. 55:111-114
 
 collections:
   - fongarium: cKc0610
@@ -305,7 +305,7 @@ description:
     La toxine responsable est la muscarine.
   synonymie: |
     <i>Inocybe obscura var. major</i> S.W. Peterson, Danske Storsvampe (Basidiesvampe):329 (1911)
-    <i>Inocybe cincinnata var. major</i> (S. Petersen) Kuyper, Zeitschrift für Mykologie 55:114 (1989)
+    <i>Inocybe phaeocomis var. major</i> (S.W. Peterson) Kuyper, Persoonia Supplement 3: 140 (1986)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

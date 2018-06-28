@@ -1,6 +1,6 @@
 ---
 nom: Inocybe phaeocomis var. major
-date: 2018-06-17 07:45:00
+date: 2018-06-28 07:00:00
 image: https://c1.staticflickr.com/5/4256/35013819924_bb5814f494_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35013819924/in/photolist-Vm3XqL-Vm3YNq
 album-flickr:
@@ -21,7 +21,7 @@ details:
   sous-genre: Inocybe auton. = Inocybium (Earle) Sing.
   section: 
   sous-section: 
-  litterature: 
+  litterature: Kuyper, T.W. 1986. A revision of the genus Inocybe in Europe. I. Subgenus Inosperma and the smooth-spored species of subgenus Inocybe. Persoonia Supplement. 3:1-247
 
 collections:
   - fongarium: cKc0610
@@ -29,7 +29,7 @@ collections:
     planche:
       numero: cKc0610-0207
       miniature: https://c2.staticflickr.com/2/1725/42648804572_bc19246d8c_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/42648804572/in/photostream/
+      originale: https://www.flickr.com/photos/kaufholtz/42648804572/in/photolist-27YJgJL-Vm3XqL-Vm3YNq/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture (provisoire)
@@ -303,7 +303,9 @@ description:
   syndrome: |
     muscarinien ou sudorien
     La toxine responsable est la muscarine.
-  synonymie: 
+  synonymie: |
+    <i>Inocybe obscura var. major</i> S.W. Peterson, Danske Storsvampe (Basidiesvampe):329 (1911)
+    <i>Inocybe cincinnata var. major</i> (S. Petersen) Kuyper, Zeitschrift für Mykologie 55:114 (1989)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

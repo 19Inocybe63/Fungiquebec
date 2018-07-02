@@ -7,7 +7,7 @@ album-flickr:
   - 72157697507235544
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe variable
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

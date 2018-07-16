@@ -9,10 +9,10 @@ commentaire: |
   
   Fungiquebec presents an interactive key dedicated to the microscopy of Inocybes. The latter has been developped according to the following sources:
   <b>Books</b>
-  • <b>Deepna, Latha K. P.</b>. <i>Systematic studies on the genus inocybe (agaricales, basidiomycota, fungi) of Kerala state</i>, Thesis. Department of Botany, University of Calicut, 2016.
   • <b>Ferrari, Erminio</b>. <i>Inocybe alpine e subalpine Il genere Inocybe (Fr.) Fr. nel Nord Italia e paesi limotrofi</i>, Fungi non Delineati, pars 34-36, Edizioni Candusso, 2006
   • <b>Kobayashi, Takahito</b>. <i>The taxonomic studies of the genus Inocybe</i>, Beiheft 124, Nova Hedwigia, J. Cramer, Berlin-Stuttgart, 2002
   • <b>Kuyper, Thomas W.</b> <i>A review of the genus Inocybe in Europe: I. subgenus Inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden, 1986.
+  • <b>Latha Deepna K. P.</b>. <i>Systematic studies on the genus inocybe (agaricales, basidiomycota, fungi) of Kerala state</i>, Thesis. Department of Botany, University of Calicut, 2016.
   • <b>Stangl, Johann</b> <i>Guida alla determinazione dei funghi Vol. 3, Inocybe</i>, Édition Saturnia, Italy, 1991
   
   <b>Articles</b>

@@ -1,6 +1,6 @@
 ---
 nom: Inocybe borealis
-date: 2018-07-03 00:00:00
+date: 2018-08-02 00:00:00
 image: https://c1.staticflickr.com/5/4365/36695260702_1fb2638fc6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36695260702/in/photolist-Hc9K4d-XUCNyE-WWfXba
 album-flickr:
@@ -113,6 +113,7 @@ description:
     De Claude Kaufholtz-Couture. « Sous genre <i>Clypeus</i> Britz.; Section <i>Cortinatae</i> Kühn. & Bours.; Sous section <i>Brevisporinae</i> M. Bon »
     De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »
     De Katri Kokkonen. « Your <i>I. borealis</i> collections may be <i>borealis</i>, but it is a quite difficult species, with much morphological variation. In some photos, the caps look more strongly scaly what I have seen here. »
+    De Claude Kaufholtz-Couture. « La microscopie ressemble beaucoup à l’espèce <i>I. borealis</i>, mais ici s’arrête les comparaisons. »
   conidies: 
   conidiome: 
   conidiophores: 

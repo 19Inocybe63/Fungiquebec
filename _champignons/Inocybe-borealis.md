@@ -113,7 +113,7 @@ description:
     De Claude Kaufholtz-Couture. « Sous genre <i>Clypeus</i> Britz.; Section <i>Cortinatae</i> Kühn. & Bours.; Sous section <i>Brevisporinae</i> M. Bon »
     De Claude Kaufholtz-Couture. « Cette collection vient de chez Daan. »
     De Katri Kokkonen. « Your <i>I. borealis</i> collections may be <i>borealis</i>, but it is a quite difficult species, with much morphological variation. In some photos, the caps look more strongly scaly what I have seen here. »
-    De Claude Kaufholtz-Couture. « L’étude microscopique des collections cKc0654 et cKc0657 ont des similitudes avec l’espèce, <i>I.  borealis</i> (lire l’article de Jukka Vauras), c’est concernant la macromorphologie que tout s’éloigne. »
+    De Claude Kaufholtz-Couture. « L’étude microscopique des collections cKc0654 et cKc0657 ont des similitudes avec l’espèce, <i>I.  borealis</i> (lire l’article de Jukka Vauras). C’est concernant la macromorphologie que tout s’éloigne. »
   conidies: 
   conidiome: 
   conidiophores: 

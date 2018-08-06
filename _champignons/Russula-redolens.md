@@ -273,7 +273,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 30-48 x 9-14 mm Ø, légèrement claviforme à égal, parfois atténué vers la base, sec, lisse, blanc, parfois très légèrement teinté de verdâtre à maturité, grisonnant au froissement
+  stipe: 30-48 x 9-14 mm Ø, légèrement claviforme à égal, parfois atténué vers la base, farci au début et devenant vide à maturité, sec, lisse, blanc, parfois très légèrement teinté de verdâtre à maturité, grisonnant au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

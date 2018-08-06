@@ -17,7 +17,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula redolens/i<> Burlingham
+  espece: <i>Russula redolens</i> Burlingham
   sous-genre: 
   section: 
   sous-section: 

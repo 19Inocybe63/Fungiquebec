@@ -194,7 +194,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, larges, cunéiformes, dont les sinus sont interveinés (voir remarque), blanches à crème, rares lamelles, sans lamellules, avec quelques furcations à la base du stipe
+  lames: adnées, serrées, larges, cunéiformes, dont les sinus sont interveinés, blanches à crème, rares lamelles, sans lamellules, avec quelques furcations à la base du stipe
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

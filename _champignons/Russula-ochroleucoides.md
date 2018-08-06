@@ -194,7 +194,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, serrées, cunéiformes, dont les sinus sont interveinés (voir remarque), blanches à crème, sans lamelles ni lamellules, avec quelques furcations à la base du stipe
+  lames: adnées, serrées, larges, cunéiformes, dont les sinus sont interveinés (voir remarque), blanches à crème, rares lamelles, sans lamellules, avec quelques furcations à la base du stipe
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -232,7 +232,7 @@ description:
   pileipellis: en deux couches; 1e) couche supérieure en tomentum formé d'éléments dressés, arrondis à subaigus à l'apex, certains flexueux, hyalins, et de piléocystides; 2e) couche formé d’hyphes en cutis
   pileitrame: 
   pileocystides: peu nombreuses, cylindriques, claviformes à subclaviformes, ochracées, réfringentes dans le KOH 5%, sulfobenzaldéhyde négatif (SBA-), jusqu'à 100-130 x 7-8 µm en moyenne
-  pileus: 102 mm Ø, pruineux, sec, jaune à jaune orangé, cuticule inséparable de la chair
+  pileus: 64-102 mm Ø, convexe, pruineux, sec, jaune à jaune orangé, cuticule inséparable de la chair
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: nombreuses, longuement fusiformes, parfois avec apex mucroné à rarement rostrés, lancéolées à sublancéolées, à contenu pailleté, sulfobenzaldéhyde négatif (SBA-) (84,3) 90,7-142,2 (154,1) × (9,7) 10,1-11,7 (14,1) µm en moyenne
@@ -284,7 +284,7 @@ description:
   sporee: leucosporée Ib à pallidosporée IIa, (en amoncellement), blanchâtre à crème pâle, d'après la charte de couleurs de Romagnesi; A-B (C) d'après la charte de couleurs de Kibby
   spherocytes: 
   sporocystes: 
-  stipe: 60 x 21 mm Ø, égal, très ferme, plein, blanc avec des teintes jaunes
+  stipe: 41-60 x 14-21 mm Ø, claviforme à égal, très ferme, plein, blanc avec des teintes jaunes vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 

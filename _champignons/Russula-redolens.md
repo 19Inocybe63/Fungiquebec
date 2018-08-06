@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: fragile, blanchâtre
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -262,7 +262,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: légèrement claviforme à égal, parfois atténué vers la base, sec, lisse, blanc, parfois très légèrement teinté de verdâtre à maturité, grisonnant au froissement
   stipitipellis: 
   stipititrame: 
   stroma: 

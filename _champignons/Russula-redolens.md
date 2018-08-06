@@ -258,7 +258,7 @@ description:
   reactions-macrochimiques: |
     Ammoniaque (NH<sub>4</sub>OH 10%) = pas de réaction
     Phénol 3% = brun lilacin sur le stipe
-    Soluté de gaïac = endéans 5" stipe + b (1, faible); endéans 5" lames 0 (0, nulle)
+    Soluté de gaïac = après 5" stipe + b (1, faible); après 5" lames 0 (0, nulle)
     Sulfate de fer (FeSO<sub>4</sub>) = orangé pâle sur le stipe
   receptacle: 
   remarques: 

@@ -1,6 +1,6 @@
 ---
 nom: Russula ochroleucoides
-date: 2017-03-27 00:00:00
+date: 2018-08-05 00:00:00
 image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
@@ -31,6 +31,16 @@ collections:
     elevation: 
     determinee: Claude Kaufholtz-Couture
     confirmee: Yves Lamoureux
+  - fongarium: cKc0712
+    date: 5 août 2018
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

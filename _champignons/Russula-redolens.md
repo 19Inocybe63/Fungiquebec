@@ -91,7 +91,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « La seule russule à avoir cette exhalaison de persil. »
   conidies: 
   conidiome: 
   conidiophores: 

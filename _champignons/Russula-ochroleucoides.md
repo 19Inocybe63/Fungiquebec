@@ -269,7 +269,7 @@ description:
   reactions-macrochimiques: |
     Phénol 3% = brun chocolat à brun vineux
     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le pileus
-    Soluté de gaïac = &gt; 5" stipe ++ b (2, moyenne); &gt; 5" lames + b (1, faible)
+    Soluté de gaïac = &gt; 5" stipe ++ b (3, moyenne); &gt; 5" lames + b (1, faible)
     Sulfate de fer (FeSO<SUB>4</SUB>) = chair rosé très pâle
   receptacle: 
   remarques: 

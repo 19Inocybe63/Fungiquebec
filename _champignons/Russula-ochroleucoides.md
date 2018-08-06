@@ -1,6 +1,6 @@
 ---
 nom: Russula ochroleucoides
-date: 2018-08-05 00:00:00
+date: 2018-08-06 00:00:00
 image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
@@ -267,10 +267,10 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
   reactions-macrochimiques: |
-    Phénol 3% = brun chocolat à brun vineux
+    Phénol 3% = brun chocolat à brun vineux sur le stipe
     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le pileus
     Soluté de gaïac = &gt; 5" stipe ++ b (3, moyenne); &gt; 5" lames + b (1, faible)
-    Sulfate de fer (FeSO<SUB>4</SUB>) = chair rosé très pâle
+    Sulfate de fer (FeSO<SUB>4</SUB>) = rose orangé très pâle sur la chair
   receptacle: 
   remarques: 
   repartition: 

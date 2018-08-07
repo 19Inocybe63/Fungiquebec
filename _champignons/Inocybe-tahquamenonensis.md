@@ -4,7 +4,7 @@ date: 2018-08-07 00:00:00
 image: https://c1.staticflickr.com/5/4332/36172753160_a7a2a660cb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36172753160/in/photolist-X7sPgW
 album-flickr:
-  - # Exemple: 72157672806318152
+  - 72157698303539141
 
 details:
   nom-francais: Inocybe de Tahquamenon

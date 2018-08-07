@@ -30,8 +30,8 @@ collections:
       numero: cKc0556-0151
       miniature: https://c1.staticflickr.com/1/752/31075700664_ec9eda465f_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
-    geolocalisation: 46.900833, - 71.290556
-    elevation: 230 m
+    geolocalisation: 46°54'15.62" N 71°17'04.38" O
+    elevation: 245 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
   - fongarium: cKc0556
@@ -50,8 +50,8 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: 46°54'3" N 71°17'26" O
-    elevation: 230 m
+    geolocalisation: 46°54'15.62" N 71°17'04.38" O
+    elevation: 245 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
   - fongarium: cKc0638
@@ -60,8 +60,8 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: 46°54'3" N 71°17'26" O
-    elevation: 230 m
+    geolocalisation: 46°54'15.62" N 71°17'04.38" O
+    elevation: 245 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
   - fongarium: cKc0641
@@ -70,8 +70,8 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: 46°54'3" N 71°17'26" O
-    elevation: 230 m
+    geolocalisation: 46°54'15.62" N 71°17'04.38" O
+    elevation: 245 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 

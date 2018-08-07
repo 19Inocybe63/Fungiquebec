@@ -30,7 +30,7 @@ collections:
       numero: cKc0556-0151
       miniature: https://c1.staticflickr.com/1/752/31075700664_ec9eda465f_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
-    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    geolocalisation: 46°54'3" N / 71°17'26" O
     elevation: 230 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 

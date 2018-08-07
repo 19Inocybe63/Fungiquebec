@@ -50,7 +50,7 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    geolocalisation: 46°54'3" N / 71°17'26" O
     elevation: 230 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
@@ -60,7 +60,7 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    geolocalisation: 46°54'3" N / 71°17'26" O
     elevation: 230 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
@@ -70,7 +70,7 @@ collections:
       numero: 
       miniature: 
       originale: 
-    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    geolocalisation: 46°54'3" N / 71°17'26" O
     elevation: 230 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 

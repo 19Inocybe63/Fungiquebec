@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/39687211041/in/photostream/
     geolocalisation: 46°46'21.6"N 71°10'29.3"O
     elevation: 90 m
-    determinee: Viktorie Halasu (provisoire)
-    confirmee: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Viktorie Halasu
 
 description:
   acanthocytes: 

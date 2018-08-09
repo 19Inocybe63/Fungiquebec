@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/24591754787/in/dateposted/
     geolocalisation: 46°54'28.8"N 71°16'39.7"O
     elevation: 225 m
-    determinee: Malcolm Greaves (provisoire)
-    confirmee: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Malcolm Greaves
 
 description:
   acanthocytes: 

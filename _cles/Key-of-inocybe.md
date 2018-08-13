@@ -30,7 +30,7 @@ commentaire: |
   • <b>Vauras, Jukka</b>. <i>Inocybe sectio Calosporae in NW Europe</i>. Karstenia 28:79-86. 1988 (1989)
   • <b>Ohenoja, Esteri ; Ruotsalainen, Anna Liisa ; Vauras, Jukka</b>. <i>Mycological records from ISAM 9, Kevo, Finland</i>, Mycoscience 59 (2018) 263 267, 5 p.
 
-  This key, of 225 species, is not a goal, but a means of support for everyone with their mycological and microscopic research; to help the amateurs to quickly circumscribe the subgenus, the sections and the sub-sections. I also want to thank Yves Lamoureux who allowed us to use his photos with the use of this key.
+  This key, of 226 species, is not a goal, but a means of support for everyone with their mycological and microscopic research; to help the amateurs to quickly circumscribe the subgenus, the sections and the sub-sections. I also want to thank Yves Lamoureux who allowed us to use his photos with the use of this key.
   There will be updates following corrections or additions. If you see any typos, or potential additions, please email me at the following address : kaufholtzcoutureclaude@gmail.com.
   Good research.
   Claude Kaufholtz-Couture

@@ -1,5 +1,5 @@
 ---
-nom: Lactifluus hygrophoroides
+nom: Lactarius hygrophoroides
 date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/4/3707/9368669824_b30939639b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9368669824/in/photolist-fgST95-fgSS7N
@@ -16,9 +16,9 @@ details:
   sous-classe: Incertae sedis
   ordre: Russulales
   famille: Russulaceae
-  genre: Lactifluus
-  espece: <i>Lactifluus hygrophoroides</i> (Berk. & M.A. Curtis) Kuntze
-  litterature: Kuntze, O. 1898. Revisio generum plantarum. 3:1-576
+  genre: Lactarius
+  espece: <i>Lactarius hygrophoroides</i> Berk. & M.A. Curtis
+  litterature: Berkeley, MJ; Curtis, MA. 1859. Centuries of North American fungi. Annals and Magazine of Natural History. 4:284-296
 
 collections:
   - fongarium: cKc0091
@@ -263,7 +263,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    <i>Lactarius hygrophoroides</i> Berk. & M.A. Curtis, Annals and Magazine of Natural History 4:293 (1859)
+    <i>Lactifluus hygrophoroides</i> (Berk. & M.A. Curtis) Kuntze, Revisio generum plantarum 3 (2):857 (1891)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

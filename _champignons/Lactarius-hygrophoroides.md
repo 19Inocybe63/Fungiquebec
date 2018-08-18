@@ -1,6 +1,6 @@
 ---
 nom: Lactarius hygrophoroides
-date: 2017-03-25 00:00:00
+date: 2018-08-18 00:00:00
 image: https://c2.staticflickr.com/4/3707/9368669824_b30939639b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9368669824/in/photolist-fgST95-fgSS7N
 album-flickr:
@@ -83,7 +83,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « <i>Lactarius hygrophoroides</i> est le Current name. »
   conidies: 
   conidiome: 
   conidiophores: 

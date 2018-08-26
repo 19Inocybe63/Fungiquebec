@@ -25,7 +25,7 @@ details:
 
 collections:
   - fongarium: cKc0556
-    date: 9 septembre 2016
+    date: 3 septembre 2016
     planche:
       numero: cKc0556-0151
       miniature: https://c1.staticflickr.com/1/752/31075700664_ec9eda465f_n.jpg
@@ -35,7 +35,7 @@ collections:
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
   - fongarium: cKc0556
-    date: 9 septembre 2016
+    date: 3 septembre 2016
     planche:
       numero: cKc-étude-0176
       miniature: https://c1.staticflickr.com/5/4294/35677076050_6fdd0cf3b0_n.jpg

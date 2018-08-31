@@ -1,6 +1,6 @@
 ---
 nom: Inocybe fuscidula var. fuscidula
-date: 2018-04-23 00:00:00
+date: 2018-08-31 00:00:00
 image: https://c1.staticflickr.com/1/517/19736553568_86546edb7c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19736553568/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm
 album-flickr:
@@ -21,6 +21,16 @@ details:
   litterature: Velenovský, J. 1920. Ceske Houby. 2:201-424
 
 collections:
+  - fongarium: cKc0351
+    date: 19 juillet 2015
+    planche:
+      numero: cKc0351-0104
+      miniature: https://c1.staticflickr.com/1/704/23162736084_aec55de26e_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/23162736084/in/photolist-BhP5sG-wdu5P6-vgBNy2/
+    geolocalisation: 
+    altitude: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Erminio Ferrari
   - fongarium: cKc0367
     date: 22 juillet 2015
     planche:

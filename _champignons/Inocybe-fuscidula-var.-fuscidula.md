@@ -127,7 +127,7 @@ description:
   columelle: 
   comestibilite: NON
   commentaires: |
-    De MycoBank Database. « Facultative or heterotypic synonyms, Inocybe pallidipes f. flagellata Reumaux, Documents Mycologiques 12 (48):9 (1983). »
+    De MycoBank Database. « Facultative or heterotypic synonyms, <i>Inocybe pallidipes f. flagellata</i> Reumaux, Documents Mycologiques 12 (48):9 (1983). »
   conidies: 
   conidiome: 
   conidiophores: 

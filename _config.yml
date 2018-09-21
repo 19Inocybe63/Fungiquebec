@@ -25,7 +25,7 @@ url: "https://www.fungiquebec.ca"
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Ce site liste l'étude morphologique et micrographique des champignons du Québec par Claude Kaufholtz-Couture."
-email: kaufholtzcoutureclaude@gmail.com
+email: fungiquebec@gmail.com
 
 # Build settings
 markdown: kramdown
@@ -120,7 +120,7 @@ members:
     img: https://c3.staticflickr.com/3/2936/buddyicons/123795580@N04_r.jpg%3F1398249315%23123795580@N04
     social:
       - title: envelope #use for email address
-        url: mailto:kaufholtzcoutureclaude@gmail.com
+        url: mailto:fungiquebec@gmail.com
       - title: flickr
         url: https://www.flickr.com/photos/kaufholtz/
 

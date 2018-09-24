@@ -52,11 +52,11 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: claviformes, tétrasporiques, non bouclées à la base, 20,8 [28,6; 35,7] 43,5 x 9 [11,1; 13] 15,1 µm en moyenne
+  basides: claviformes, tétrasporiques, non bouclées à la base, (20,8) 28,6-35,7 (43,5) x (9) 11,1-13 (15,1) µm en moyenne
   basidiospores: |
-    fusiformes en vue frontale, cylindriques à bacilliformes vues de profil, lisses, à paroi mince entre 0,1-0,2 µm, avec appendice hilaire et une dépression supra apiculaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
-    14,1 [15,6; 16,2] 17,6 x 4,7 [5; 5,1] 5,4 µm
-    Q = 2,8 [3,1; 3,2] 3,5; N = 30; C = 95%
+    fusiformes en vue frontale, cylindriques à bacilliformes vues de profil, lisses, à paroi mince entre 0,1-0,2 µm, avec appendice hilaire et dépression supra-hilaire, à contenu variable, hyalines dans le NaCl iso 0,9%, dextrinoïdes, non cyanophiles
+    (14,1) 15,6-16,2 (17,6) x (4,7) 5-5,1 (5,4) µm
+    Q = (2,8) 3,1-3,2 (3,5); N = 30; C = 95%
     Me = 15,9 x 5,1 µm; Qe = 3,1
     (Piximètre, formule statistique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
@@ -69,7 +69,7 @@ description:
   capillitium: 
   capitule: 
   caulobasides: présentes
-  caulocystides: semblables aux hyménocystides, parfois longuement mucronées, 30 [33,3; 39,8] 43,1 x 5,9 [8,7; 14,4] 17,3 µm
+  caulocystides: semblables aux hyménocystides, parfois longuement mucronées, (30) 33,3-39,8 (43,1) x (5,9) 8,7-14,4 (17,3) µm
   caulocystides-medianes: 
   caulocystides-sommitales: 
   cellules-hymeniales-diverticulees: 
@@ -152,7 +152,7 @@ description:
   granules-calcaires: 
   groupe: 
   hymenium: 
-  hymenocystides: nombreuses, fusiformes à fusiformes digitées ou fusiformes avec long col, parfois avec apex moniliforme, 37,8 [45,7; 61,4] 69,2 x 6,3 [7,5; 10,1] 11,3 µm
+  hymenocystides: nombreuses, fusiformes à fusiformes digitées ou fusiformes avec long col, parfois avec apex moniliforme, (37,8) 45,7-61,4 (69,2) x (6,3) 7,5-10,1 (11,3) µm
   hymenophore: 
   hyphes: 
   hyphes-de-la-chair: 
@@ -215,7 +215,7 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: formé d'éléments celluleux en chaîne, subglobuleux à clavées ressemblant à un trichoderme, entre 19,5 [29,2; 44,8] 54,4 x 6,4 [11,3; 19,2] 24,2 µm; ressemble parfois à un pileipellis de type virescens
+  pileipellis: formé d'éléments celluleux en chaîne, subglobuleux à clavées ressemblant à un trichoderme, entre (19,5) 29,2-44,8 (54,4) x (6,4) 11,3-19,2 (24,2) µm; ressemble parfois à un pileipellis de type virescens
   pileitrame: 
   pileocystides: 
   pileus: 20-75 mm Ø, convexe à largement convexe, subétalé, sec, finement tomenteux à glabre, finement craquelé-aréolé à maturité, blanchâtre à gris pâle, rosâtre, jaunâtre, bronzé ou olive, à marge unie

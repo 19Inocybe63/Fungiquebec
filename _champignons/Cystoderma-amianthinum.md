@@ -268,7 +268,7 @@ description:
   sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 25-44 x 2-3 mm Ø, cylindrique, égal, guêtré, plein plein, farci puis creux, parsemé de granules à ± d'écailles granuleuses, blanchâtre à crème à l'apex, chamois ochracé plus foncé que le pileus, avec mycélium basal blanc
+  stipe: 25-44 x 2-3 mm Ø, cylindrique, égal, guêtré, plein, farci puis creux, parsemé de granules à ± d'écailles granuleuses, blanchâtre à crème à l'apex, chamois ochracé plus foncé que le pileus, avec mycélium basal blanc
   stipitipellis: 
   stipititrame: 
   stroma: 

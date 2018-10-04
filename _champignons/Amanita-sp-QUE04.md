@@ -82,7 +82,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture : Voir aussi GenBank https://www.ncbi.nlm.nih.gov/nuccore/KX261518.1 voucher RET 664-5 28S ribosomal RNA gene, partial sequence.
   conidies: 
   conidiome: 
   conidiophores: 

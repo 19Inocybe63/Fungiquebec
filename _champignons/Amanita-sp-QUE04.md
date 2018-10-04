@@ -83,7 +83,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture : Voir [GenBank](https://www.ncbi.nlm.nih.gov/nuccore/KX261518.1) voucher RET 664-5 28S ribosomal RNA gene, partial sequence (KX261518.1) ; et voucher RET 664-5 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence (KX261517.1).
+    De Claude Kaufholtz-Couture : Voir [GenBank](https://www.ncbi.nlm.nih.gov/nuccore/KX261518.1) voucher RET 664-5 28S ribosomal RNA gene, partial sequence ; et voucher RET 664-5 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence.
   conidies: 
   conidiome: 
   conidiophores: 

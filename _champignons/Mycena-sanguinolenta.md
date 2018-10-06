@@ -187,7 +187,7 @@ description:
   hysterothece: 
   lames: adnées, espacées, rosâtre à arêtes soulignées de brun rose
   lamprocystides: 
-  latex: 
+  latex: rougeâtre
   leptocystides: 
   macrocystides: 
   macropleurocystides: 

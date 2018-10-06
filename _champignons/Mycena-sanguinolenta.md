@@ -245,7 +245,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>Maas Geesteranus, Rudolph Arnold</b>. <i>Mycenas of the Northern Hemisphere. II. Conspectus of the Mycenas of the Northern Hemisphere</i>. Amsterdam (1992).
+    <b>Murrill, William Alphonso</b>. <i>Agaricaceae (Murrill), Volvariopsis, Tapinia, Paxillus, Crepidotus, Tubaria, Galerula, Naucoria, Pluteolus, Mycena, Phylloprus, Gymnopilus, Hebeloma</i>, North American Flora, The New York Botanical Garden, vol. 10, part 3, (1917), 86 p.
+    <b>Smith, Alexander H</b>. <i>North American Species of Mycena</i>, Ann Arbor, University of Michigan Press London, Geoffrey Cumberlege, Oxford University Press, 1947, 738 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

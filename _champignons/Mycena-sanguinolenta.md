@@ -185,7 +185,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, espacées, rosâtre à arêtes soulignées de brun rose
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -222,7 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 3-20 mm Ø, convexe à conique au début, largement convexe à campanulé à la fin, pruineux au début puis glabre, brun rougeâtre, à terne au centre et ± noisette au pourtour, à marge apprimée contre le pied au début, opaque ou légèrement striatulée, vite sillonnée
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

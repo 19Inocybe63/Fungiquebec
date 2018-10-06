@@ -61,7 +61,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur débris ligneux
+  biotopes: pousse au sol, sur débris ligneux, sur tapis de mousses et d'aiguilles, 
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: mince, ± fragile, rougeâtre, exsudant un latex rougeâtre à la coupe
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -139,7 +139,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistinctes
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -199,7 +199,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire ou subgrégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -215,7 +215,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
   pieds-steriles: 
   pigments: 
@@ -254,15 +254,15 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistinctes
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 20-70 x 5-15 mm Ø, cylindrique, égal, fragile, couvert d'une pruine, vite glabre, blanc à la base, exsudant un latex rougeâtre à la coupe
   stipitipellis: 
   stipititrame: 
   stroma: 

@@ -247,6 +247,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Boulet, Bruno</b>. <i>Les champignons des arbres de l'est de l'Amérique du Nord</i>, Les Publications du Québec, 2003, 727 p.
+    <b>Gilbertson, Robert L.; Ryvarden, L. </b>North American Polypores, Volume 2; Megasporoporia-Wrightoporia, Publisher Fungiflora A/S, 1987
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |

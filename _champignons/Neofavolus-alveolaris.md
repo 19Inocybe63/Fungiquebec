@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Polypore du mûrier ; Polypore alvéolé
+  nom-francais: Polypore du mûrier / Polypore alvéolé
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

@@ -31,8 +31,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 
@@ -61,7 +61,7 @@ description:
   basidioles: 
   basidiome: annuel, sessile à stipité
   bibliographies: 
-  biotopes: forêt mixte, pousse sur bois mort de feuillus ; sur des branches récemment mortes et de petites billes (parfois sur des branches vivantes) de feuillus, lorsque l'écorce est encore attachée
+  biotopes: forêt mixte, pousse sur bois mort de feuillus ; sur des branches récemment mortes et de petites billes (parfois sur des branches vivantes) de feuillus, lorsque l'écorce est encore attachée; <i>Acer</i>, <i>Asimina</i>, <i>Betula</i>, <i>Carpinus</i>, <i>Carya</i>, <i>Castanea</i>, <i>Cornus</i>, <i>Corylus</i>, <i>Crategeus</i>, <i>Erica</i>, <i>Fagus</i>, <i>Fraxinus</i>, <i>Juglans</i>, <i>Magnolia</i>, <i>Morus</i>, <i>Populus</i>, <i>Prunus</i>, <i>Pyrus</i>, <i>Quercus</i>, <i>Robinia</i>, <i>Rosa</i>, <i>Sorbus</i>, <i>Syringa</i>, <i>Tilia</i>, <i>Ulmus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -239,7 +239,7 @@ description:
   poils-peridiaux: 
   poils-peritheciaux: 
   poils-pileiques: 
-  pores: 
+  pores: surface des pores descendant de la tige, blanchâtre à orangée pâle; pores jusqu'à 1 mm de large et 2 mm de long, en forme de losange ou en nid d'abeille, généralement disposés radialement
   premiere-mention: 
   pseudocapillitium: 
   pseudocolumelle: 
@@ -252,7 +252,8 @@ description:
     Potasse (KOH 10%) = olive terne sur le pileus 
     Potasse (KOH 10%) = négatif sur le contexte
   receptacle: 
-  remarques: 
+  remarques: |
+    Agent de carie blanche
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
@@ -287,7 +288,7 @@ description:
   trame-hymenophorale: 
   trame-lamellaire: 
   trame-tubulaire: 
-  tubes: 
+  tubes: adnée à subdécurrente, blanchâtre, jaunâtre à tan blanchâtre, continue au contexte, 1-6 mm de longueur
   type: 
   typique: 
   velipellis: 

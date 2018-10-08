@@ -59,9 +59,9 @@ description:
   basides: 
   basidiospores: 
   basidioles: 
-  basidiome: 
+  basidiome: annuel, sessile à stipité
   bibliographies: 
-  biotopes: forêt mixte, pousse sur bois mort de feuillus
+  biotopes: forêt mixte, pousse sur bois mort de feuillus ; sur des branches récemment mortes et de petites billes (parfois sur des branches vivantes) de feuillus, lorsque l'écorce est encore attachée
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -95,7 +95,7 @@ description:
   conidiome: 
   conidiophores: 
   consistance: 
-  contexte: 
+  contexte: tenace au frais, subéreux, subéreux ou cassant au sec, azoné, blanc, immuable, 0,5-2 (6) mm d'épaisseur
   cordons-myceliens: 
   cordons-rhizomorphiques: 
   cortex: 
@@ -139,13 +139,13 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
-  face-poroïde: 
+  face-poroïde: blanchâtre, crème à orange grisâtre au frais, jaunâtre à tan au sec
   feutrage-basal: 
   fragments-sporaux: 
   funicule: 
@@ -199,7 +199,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: 
+  mode-de-croissance: solitaire, dispersé ou grégaire
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 
@@ -215,14 +215,14 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: de juin à octobre
   phialoconidies: 
   pieds-steriles: 
   pigments: 
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 20-70 (90) mm Ø, en forme d'éventail, semi-circulaire ou en forme de rein, déprimé à infundibuliforme dans l'âge; surface supérieure orange à orangée lorsqu'elle est fraîche et jeune, se fanant avec l'âge pour devenir jaunâtre ou presque blanche, fibreuse radialement à squameuse (au moins au début), sèche, marge concolore, enroulée quand jeune, puis s'étalant, ondulée, légèrement et finement frangée, surtout dans la jeunesse
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -248,21 +248,23 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Potasse (KOH 10%) = olive terne sur le pileus 
+    Potasse (KOH 10%) = négatif sur le contexte
   receptacle: 
   remarques: 
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte à amarescente
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: blanche
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 1,5-5 x 5-10 mm Ø, absent ou rudimentaire, court, excentré à latéral, parfois centré, égal, légèrement renflé à la base, plein, glabre, lisse, blanc, crème, chamois à brunâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

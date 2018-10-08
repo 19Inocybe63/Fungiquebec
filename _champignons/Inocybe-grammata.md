@@ -7,7 +7,7 @@ album-flickr:
   - 72157678574737955
 
 details:
-  nom-francais: Inocybe rayé ; Inocybe sillonné
+  nom-francais: Inocybe rayé / Inocybe sillonné
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

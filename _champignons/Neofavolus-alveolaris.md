@@ -89,7 +89,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: trop coriace, sans intérêt
   commentaires: 
   conidies: 
   conidiome: 
@@ -122,7 +122,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: 
+  distribution: abondant
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

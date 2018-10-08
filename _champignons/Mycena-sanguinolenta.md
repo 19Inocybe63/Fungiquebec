@@ -1,6 +1,6 @@
 ---
 nom: Mycena sanguinolenta
-date: 2018-10-06 00:00:00
+date: 2017-10-06 00:00:00
 image: https://c2.staticflickr.com/4/3914/14937730406_fc7e46f3ba_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14937730406/in/photostream/
 album-flickr:

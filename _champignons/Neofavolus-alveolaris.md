@@ -273,7 +273,7 @@ description:
   syndrome: 
   synonymie: |
     <i>Merulius alveolaris</i> DC., Flore française 6:43 (1815)
-    <i>Cantharellus alveolaris<i> (DC.) Fr., Systema Mycologicum 1:322 (1821)
+    <i>Cantharellus alveolaris</i> (DC.) Fr., Systema Mycologicum 1:322 (1821)
     <i>Hexagonia alveolaris</i> (DC.) Murrill, Bulletin of the Torrey Botanical Club 31 (6):327 (1904)
     <i>Polyporellus alveolaris</i> (DC.) Pilát, Beihefte zum Botanischen Centralblatt 56:36 (1936)
     <i>Polyporus alveolaris</i> (DC.) Bondartsev & Singer, Annales Mycologici 39 (1):58 (1941)

@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe lacéré var. lacéré
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

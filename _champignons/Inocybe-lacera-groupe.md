@@ -56,8 +56,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à subpiriformes, parfois subutriformes, bisporiques à tétrasporiques, boucles non observées, avec contenu granuleux, à paroi mince, (20,3) 21,6-24,6 (25,4) × (7,1) 7,2-8,9 (9) µm
+  basidiospores: |
+    leiosporées, courtement cylindriques à cylindriques, à sommet conique, parfois avec dépression supra-hilaire, lisses, à paroi mince, petit appendice hilaire, à contenu uniguttulé, brun pâle dans le NaCl isotonique 0,9%, pas de réaction dans le melzer, non cyanophiles
+    (10) 10,2-12,1 (13,8) × (4,2) 4,6-5,4 (6,2) µm
+    Q = (2) 2,1-2,5 (2,6); N = 30
+    Me = 11,3 × 5 µm; Qe = 2,3
+    (Piximètre, formule classique; mesures issues d'une sporée, dans le NaCl iso 0,9%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -69,9 +74,9 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
-  cauloparacystides: 
+  caulocystides-medianes: absentes; hyphes cylindriques, apprimées, septées, de type caulocystidioïdes 25-+27 x 4,7-5,8 µm en moyenne
+  caulocystides-sommitales: ± nombreuses à l'extrême apex, elliptiques à ovoïdes, parfois mucronées, rarement cylindriques, parfois caténulées, à paroi fine à moyenne 0,5-1,8 µm, sans cristaux d'oxalates, réaction ammoniaco-négative (AN-) dans l’ammoniaque 10%, (20,8) 21,7-48,7 (93,2) × (8,7) 10,6-15,8 (17,2) µm en moyenne
+  cauloparacystides: nombreuses à l'extrême apex, piriformes
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
   cellules-marginales-paracystides: 
@@ -81,7 +86,10 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
-  cheilolamprocystides: 
+  cheilolamprocystides: nombreuses, polymorphes, formant une palissade, métuloïdes, fusiformes à fusiformes ventrues, parfois cylindriques, rarement utriformes, à paroi fine à épaisse 1,4-3,7 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 10%
+    (40,2) 43,9-56,4 (62,6) × (13,4) 14,2-20,4 (28,5) µm
+    Q = (1,7) 2,2-3,5 (3,9); N = 21
+    Me = 50 × 17,8 µm; Qe = 2,9
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -206,7 +214,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paracystides: 
+  paracystides: peu nombreuses, se distingues mal des basidioles, piriformes
   paraphyses: 
   parasite: 
   paroi-peritheciale: 
@@ -219,14 +227,17 @@ description:
   phialoconidies: 
   pieds-steriles: 
   pigments: 
-  pileipellis: 
+  pileipellis: en cutis, avec hyphes subcylindriques parfois un peu enflées, parallèles, un peu entrelacées, plus rarement en trichoderme avec hyphes réunies en touffes, également formé par des segments comme une chaîne; hyphes terminales claviformes à fusiformes (9,7) 13,2-15 (16,7) × (1,8) 3,3-4,4 (4,7) µm en moyenne
   pileitrame: 
   pileocystides: 
   pileus: 10-28 mm Ø, campanulé à convexe, mamelonné, fibrilleux, brun à brun foncé
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  pleurolamprocystides: 
+  pleurolamprocystides: occasionnelles, polymorphes, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, rarement avec double apex, à paroi fine à épaisse 1,4-4,4 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 10%
+    (40,1) 46,4-60,9 (63,1) × (10,9) 12,8-18,6 (26,8) µm
+    Q = (1,7) 3,1-3,8 (4,3) ; N = 15
+    Me = 54,3 × 16,3 µm ; Qe = 3,5
   pleuroleptocystides: 
   poils: 
   poils-basaux: 

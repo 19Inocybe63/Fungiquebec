@@ -108,7 +108,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Cette collection (cKc0685) vient de chez Cajo. Elle fait aussi partie du projet <i>Inocybe of Quebec</i> avec la <b>North American Mycoflora Project</b>; sous le numéro <b>MF59630</b>. »
+    De Claude Kaufholtz-Couture. « Cette collection (cKc0685) vient de chez Cajo; et fait aussi partie du projet <i>Inocybe of Quebec</i> avec la <b>North American Mycoflora Project</b>; sous le numéro <b>MF59630</b>. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -214,7 +214,7 @@ description:
   note-taxonomique: 
   oeuf: 
   paracapillitium: 
-  paracystides: peu nombreuses, se distingues mal des basidioles, piriformes
+  paracystides: peu nombreuses, piriformes, se distingues mal des basidioles
   paraphyses: 
   parasite: 
   paroi-peritheciale: 

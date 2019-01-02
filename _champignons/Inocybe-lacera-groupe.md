@@ -33,7 +33,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/32603038578/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: 
+    determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 
 description:
@@ -139,7 +139,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -185,7 +185,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, larges, avec lamelles et lamellules, beige crème
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -222,7 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 10-28 mm Ø, campanulé à convexe, mamelonné, fibrilleux, brun à brun foncé
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -254,7 +254,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique
   sclerocystides: 
   sclerote: 
   soies: 
@@ -262,7 +262,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 23-48 x 2-4 mm Ø, cylindrique, égal, parfois tortueux, plein, base subbulbeuse à non bulbeuse, parfois radicant, crème au début, brun à brun ± rougeâtre maturité
   stipitipellis: 
   stipititrame: 
   stroma: 

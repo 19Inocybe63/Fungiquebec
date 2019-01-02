@@ -2,9 +2,9 @@
 nom: Inocybe lacera groupe
 date: 2019-01-02 00:00:00
 image: https://c1.staticflickr.com/5/4464/36611917973_67579930de_n.jpg
-image-originale: 
+image-originale: https://www.flickr.com/photos/kaufholtz/36611917973/in/photolist-RF26uN-27FedQ7-YJhFyJ-XMgDF4
 album-flickr:
-  - # Exemple: 72157672806318152
+  - 72157705301316674
 
 details:
   nom-francais: 
@@ -28,9 +28,9 @@ collections:
   - fongarium: cKc0685
     date: 18 septembre 2017
     planche:
-      numero: 
-      miniature: # Largeur 320px. ici
-      originale: # Exemple: ici
+      numero: cKc0685-0211
+      miniature: https://c1.staticflickr.com/5/4850/32603038578_782b58dc52_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/32603038578/in/dateposted/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 

@@ -25,7 +25,7 @@ permalink: /
             <div class="hline"></div>
             <div class="spacing"></div>
 
-            {% assign champignonsTries = (site.champignons | sort: 'date') | reverse %}
+            {% assign champignonsTries = site.champignons | sort: 'date' | reverse %}
             {% for champignon in champignonsTries limit:5 %}
             <div>
                 <a href="{{ champignon.url | prepend: site.baseurl }}">
@@ -46,7 +46,7 @@ permalink: /
             <div class="hline"></div>
             <div class="spacing"></div>
 
-            {% assign clesTries = (site.cles | sort: 'date') | reverse %}
+            {% assign clesTries = site.cles | sort: 'date' | reverse %}
             {% for cle in clesTries limit:5 %}
             <h4>
                 <a href="{{ cle.url | prepend: site.baseurl }}">{{ cle.nom }}</a>

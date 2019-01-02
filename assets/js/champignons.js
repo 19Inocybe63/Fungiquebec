@@ -78,7 +78,7 @@ var champsChampignons = [
     return a.label.localeCompare(b.label);
 });
 
-{% assign champignonsTries = (site.champignons | sort: 'nom') %}
+{% assign champignonsTries = site.champignons | sort: 'nom' %}
 
 var champignons = [
     {% for champignon in champignonsTries %}  {

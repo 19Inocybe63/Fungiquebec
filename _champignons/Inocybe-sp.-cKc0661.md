@@ -147,7 +147,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -193,7 +193,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, serrées, larges, avec lamelles et lamellules, beige crème
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -230,7 +230,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 18-30 mm Ø, campanulé, fibrilleux à ± squamuleux, avec petit ombon, à la marge blanchâtre à beige crème au début, brun cannelle, tan, à brun ± rougeâtre à plus foncé au centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -275,23 +275,27 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brune
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 29-43 x 3-5 mm Ø, cylindrique, égal, plein, strié longitudinalement, à la base bulbeuse à ± bulbilleuse, beige avec des zones teintés de brun rougeâtre du milieu vers la base
   stipitipellis: 
   stipititrame: 
   stroma: 
   subhymenium: 
   subiculum: 
   substrat: 
-  symptomes: 
-  syndrome: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: |
+    muscarinien ou sudorien
+    La toxine responsable est la muscarine.
   synonymie: 
   systeme-hyphal: 
   textura: 

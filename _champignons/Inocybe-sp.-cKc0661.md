@@ -82,8 +82,8 @@ description:
   capitule: 
   caulobasides: 
   caulocystides: 
-  caulocystides-medianes: 
-  caulocystides-sommitales: 
+  caulocystides-medianes: absentes
+  caulocystides-sommitales: abondantes, polymorphes, métuloïdes, et à paroi mince, fusiformes, utriformes, lagéniformes, claviformes, cylindriques, subelliptiques à subovoïdes (19,5) 22,7-39,3 (56,9) × (7,7) 8,6-13,4 (13,7) µm;
   cauloparacystides: 
   cellules-hymeniales-diverticulees: 
   cellules-hymeniales-en-brosses: 
@@ -121,7 +121,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: fugace
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -285,7 +285,8 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Cette collection (cKc0661) ressemble en tout point aux collections cKc0654 et cKc0657
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

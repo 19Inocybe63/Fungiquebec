@@ -64,8 +64,13 @@ description:
   base-du-pied: 
   base-sterile: 
   base-stipitiforme: 
-  basides: 
-  basidiospores: 
+  basides: claviformes à subcapitulées, tétrasporiques, boucles non observées à la base, à paroi mince, 26-29,38 (29,4) × (9,7) 9,71-10,09 (10,1) µm en moyenne
+  basidiospores: |
+    goniosporées, anguleuses, 5 à 8 nodules basses, subrectangulaires vue de front, étroitement rectangulaires vue de profil, avec apex conique, à paroi mince, à contenu uniguttulé, brun pâle dans l’eau glycérinée 15%, brun rougeâtre dans le KOH 2%, pas de réaction dans le melzer, non cyanophiles
+    (7,9) 8,5-9,6 (9,9) × (4,3) 4,5-5,2 (5,7) µm
+    Q = (1,6) 1,7-2,1 (2,2); N = 30
+    Me = 9,1 × 4,8 µm; Qe = 1,9
+    (Piximètre, formule classique; mesures issues d'une sporée, dans l'eau glycérinée 15%)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -89,7 +94,11 @@ description:
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
-  cheilolamprocystides: 
+  cheilolamprocystides: |
+    abondantes, polymorphes, formant une palissade, métuloïdes, fusiformes à largement fusiformes dont l’apex est parfois étranglé, parfois avec pédicelle, subpiriformes, à paroi fine à épaisse 1,3-3,4 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 10%
+    (34,7) 37,8-54,8 (55,2) × (12,5) 13,8-17,7 (18,8) µm
+    Q = (2,1) 2,4-3,3 (3,5); N = 17
+    Me = 44,4 × 15,7 µm; Qe = 2,8
   cheiloleptocystides: 
   cheilomacrocystides: 
   chlamydospores: 
@@ -98,7 +107,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Collection (cKc0650) cueillie chez Daan. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -234,7 +244,11 @@ description:
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
-  pleurolamprocystides: 
+  pleurolamprocystides: |
+    occasionnelles, polymorphes, métuloïdes, fusiformes à largement fusiformes, parfois ventrues, dont l’apex est parfois obtus et parfois fusiforme, sublagéniformes, parfois avec pédicelle, piriformes à largement piriformes, à paroi mince à moyenne 1 × 2 µm, réaction ammoniaco-négative (AN-) dans l’ammoniaque 10%, avec cristaux d'oxalate de calcium à clairsemé
+    (32,6) 36,6-61,1 (62,9) × (13,9) 14,7-20,9 (24,7) µm
+    Q = (1,8) 1,9-3,7 (4,4); N = 24
+    Me = 48,6 × 17,4 µm; Qe = 2,9
   pleuroleptocystides: 
   poils: 
   poils-basaux: 

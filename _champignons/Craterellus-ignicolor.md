@@ -151,7 +151,7 @@ description:
   groupe: 
   hymenium: 
   hymenocystides: 
-  hymenophore: formé de plis lamelliformes, fourchus, interveinés, espacés, décurrents, jaunâtres puis grisâtres, gris violacé à violacés
+  hymenophore: formé de plis lamelliformes, épaisses et contondantes, bien développées, qui descendent sur le stipe; jaune pâle à grisâtre au début, développant des teintes rosâtres à légèrement violacées à la maturité, et devenant plus pâle
   hyphes: 
   hyphes-de-la-chair: 
   hyphes-de-l-anneau: 
@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: avec de fausses lames épaisses et contondantes, bien développées, qui descendent sur le stipe; jaune pâle à grisâtre au début, développant des teintes rosâtres à légèrement violacées à la maturité, et devenant plus pâle
+  lames: 
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 

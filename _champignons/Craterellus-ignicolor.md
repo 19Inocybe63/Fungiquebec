@@ -83,7 +83,8 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  commentaires: 
+  commentaires: |
+    De Yves Lamoureux. Tu as une photo nommée <i>Craterellus tubaeformis</i> sur ta galerie, je jurerais sans aucune réserve qu'il s'agit de <i>ignicolor</i>. Toutes les parties des basidiomes ont les couleurs d'ignicolor, du jaune au orange; ça ne ressemble absolument en rien à <i>Craterellus tubaeformis</i>.
   conidies: 
   conidiome: 
   conidiophores: 

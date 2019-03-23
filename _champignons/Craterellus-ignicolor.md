@@ -218,7 +218,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 20-70 mm Ø, ± convexe-ombiliqué puis infundibuliforme, vite perforé au centre, avec une marge ondulée et irrégulière à maturité, glabre, collant ou cireux à l'état frais, à face interne lisse à rugueuse, avec fines squamules fibreuses, brun jaunâtre à brun noirâtre
+  pileus: 15-50 mm Ø; plan à convexe lorsque jeune, mais se développe rapidement une dépression centrale et finit infundibuliforme, avec un centre perforé; avec une marge ondulée et souvent irrégulière ou festonnée à maturité; légèrement humide quand il est frais, mais bientôt sec; chauve, ou quand il est jeune, avec un lustre gris; orange vif à jaune orangé ou jaune brunâtre, s'atténuant avec l'âge pour devenir jaunâtre terne
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

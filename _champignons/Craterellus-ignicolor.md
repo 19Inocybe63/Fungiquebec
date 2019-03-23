@@ -179,7 +179,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: avec de fausses lames épaisses et contondantes, bien développées, qui descendent sur le stipe; jaune pâle à grisâtre au début, développant des teintes rosâtres à légèrement violacées à la maturité, et devenant plus pâle
   lamprocystides: 
   lamprocheilocystides: 
   lampropleurocystides: 
@@ -256,7 +256,7 @@ description:
   sporee: crème à jaunâtre
   spherocytes: 
   sporocystes: 
-  stipe: 30-100 x 3-10 mm Ø, cylindrique, à ± égal, souvent comprimé, farci puis creux, lisse, parfois cireux, jaune orangé à brun orangé vers l'apex, jaune vers la base, brunissant avec l'âge, parfois blanchâtre à la base, avec ou sans mycélium basal
+  stipe: 20-60 x 3-10 mm d'épaisseur; égales ou effilées à la base; devient creux; chauve, avec une texture un peu cireuse; jaune orangé vif à orange; mycélium basal jaune vif
   stipitipellis: 
   stipititrame: 
   stroma: 

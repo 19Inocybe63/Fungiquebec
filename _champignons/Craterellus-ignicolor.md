@@ -72,7 +72,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: mince, brunâtre à jaunâtre
+  chair: mince, blanchâtre
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -248,12 +248,12 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: indistincte
+  saveur: indistincte à légèrement fruitée
   sclerocystides: 
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: crème à jaunâtre
+  sporee: jaune rosé à jaune
   spherocytes: 
   sporocystes: 
   stipe: 20-60 x 3-10 mm d'épaisseur; égales ou effilées à la base; devient creux; chauve, avec une texture un peu cireuse; jaune orangé vif à orange; mycélium basal jaune vif

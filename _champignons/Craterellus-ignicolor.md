@@ -242,7 +242,9 @@ description:
   publications: 
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
-  reactions-macrochimiques: 
+  reactions-macrochimiques: |
+    Sulfate de fer (FeSO<sub>4</sub>) = grisâtres à négatifs sur la surface inférieure; négatif sur la chair
+    Potasse (KOH 10%) = pas de réaction sur le pileus
   receptacle: 
   remarques: 
   repartition: 

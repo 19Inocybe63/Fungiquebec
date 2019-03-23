@@ -18,7 +18,7 @@ details:
   famille: Cantharellaceae
   genre: Craterellus
   espece: <i>Craterellus ignicolor</i> (Fr.) (R.H. Petersen) Dahlman, Danell & Spatafora
-  litterature: Dahlman, M.; Danell, E.; Spatafora, J.W. 2000. Molecular systematics of Craterellus: cladistic analysis of nuclear LSU rDNA sequence data. Mycological Research. 104(4):388-394
+  litterature: Dahlman, M.; Danell, E.; Spatafora, J.W. 2000. Molecular systematics of Craterellus, cladistic analysis of nuclear LSU rDNA sequence data. Mycological Research. 104(4):388-394
 
 collections:
   - fongarium: cKc0411

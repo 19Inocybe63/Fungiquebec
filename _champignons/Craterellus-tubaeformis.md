@@ -1,13 +1,13 @@
 ---
-nom: Craterellus tubaeformis
-date: 2017-03-20 00:00:00
+nom: Craterellus ignicolor
+date: 2019-03-23 00:00:00
 image: https://c2.staticflickr.com/6/5787/20473498400_6ca4264095_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20473498400/in/photolist-xcb2MJ
 album-flickr:
   - 
 
 details:
-  nom-francais: Craterelle en tube
+  nom-francais: Craterelle couleur de flamme
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -17,8 +17,8 @@ details:
   ordre: Cantharellales
   famille: Cantharellaceae
   genre: Craterellus
-  espece: <i>Craterellus tubaeformis</i> (Fr.) Quél.
-  litterature: Quélet, L. 1888. Flore mycologique de la France et des pays limitrophes. :1-492
+  espece: <i>Craterellus ignicolor</i> (Fr.) (R.H. Petersen) Dahlman, Danell & Spatafora
+  litterature: Dahlman, M.; Danell, E.; Spatafora, J.W. 2000. Molecular systematics of Craterellus: cladistic analysis of nuclear LSU rDNA sequence data. Mycological Research. 104(4):388-394
 
 collections:
   - fongarium: cKc0411
@@ -263,16 +263,7 @@ description:
   subiculum: 
   substrat: 
   synonymie: |
-    <i>Cantharellus tubaeformis var. tubaeformis</i>
-    <i>Helvella tubaeformis</i> Bull., Herbier de la France 10:t. 461 (1790)
-    <i>Merulius tubiformis</i> Bull., Synopsis methodica fungorum:489 (1801)
-    <i>Cantharellus tubaeformis</i> Fr., Systema Mycologicum 1:319 (1821)
-    <i>Cantharellus tubaeformis</i> (Bull.) Gray, A natural arrangement of British plants 1:636 (1821)
-    <i>Merulius tubaeformis</i> Pers. (1825)
-    <i>Cantharellus infundibuliformis var. tubiformis</i> (Schaeff.) Maire, Fungi Catalaunici; Contributions à l'étude de la Flore Mycologique de la Catalogne:44 (1933)
-    <i>Helvella tubaeformis</i> Bull., Histoire des champignons de la France. I:294, pl. 208 (1791)
-    <i>Merulius villosus</i> Pers., Icones et Descriptiones Fungorum Minus Cognitorum 1:17, t. 6:1 (1798)
-    <i>Merulius fuligineus</i> Pers., Synopsis methodica fungorum:490 (1801)
+    <i>Cantharellus ignicolor</i> R.H. Petersen, Beihefte zur Nova Hedwigia 51: 183 (1975)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

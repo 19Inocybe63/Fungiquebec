@@ -717,6 +717,8 @@ champs-description:
     label: Rhizomorphes
   - name: sclerocystides
     label: Sclérocystides
+  - name: sequences
+    label: Séquences
   - name: soies-hymeniales
     label: Soies hyméniales
   - name: spherocytes

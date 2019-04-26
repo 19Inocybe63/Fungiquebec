@@ -322,6 +322,7 @@ description:
   saveur: spermatique (pipéridine)
   sclerocystides: 
   sclerote: 
+  sequences: 
   soies: 
   soies-hymeniales: 
   sporee: brune

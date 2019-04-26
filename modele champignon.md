@@ -259,6 +259,7 @@ description:
   saveur: 
   sclerocystides: 
   sclerote: 
+  sequences: 
   soies: 
   soies-hymeniales: 
   sporee: 

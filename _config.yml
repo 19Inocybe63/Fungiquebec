@@ -533,6 +533,8 @@ champs-description:
     label: Nouvelle espèce
   - name: commentaires
     label: Commentaires
+  - name: sequences
+    label: Séquences
   - name: remarques
     label: Remarques
   - name: acanthophyses
@@ -717,8 +719,6 @@ champs-description:
     label: Rhizomorphes
   - name: sclerocystides
     label: Sclérocystides
-  - name: sequences
-    label: Séquences
   - name: soies-hymeniales
     label: Soies hyméniales
   - name: spherocytes

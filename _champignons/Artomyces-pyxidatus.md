@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2017-06-24 00:00:00
+date: 2019-05-11 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:

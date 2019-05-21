@@ -61,7 +61,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sol calcaire, chemin forestier, sous conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: immuable
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -139,7 +139,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte à subfongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -185,7 +185,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, étroites, serrées, avec lamelles et lamellules, arête fimbriée blanche, blanchâtres à grisâtres
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -222,7 +222,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 35 mm Ø, conique, ombo, fibrilleux apprimé, brun grisâtre, marge concolore et parfois, centre concolore
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -254,16 +254,16 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: indistincte
   sclerocystides: 
   sclerote: 
   sequences: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun à brun légèrement rouille
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 79 x 6 mm Ø, cylindriques, égal, brun à brun grisâtre de l’apex vers la base, plein, à la base claviforme plus blanchâtre
   stipitipellis: 
   stipititrame: 
   stroma: 

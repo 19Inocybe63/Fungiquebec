@@ -31,8 +31,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°00’06.05"N 70°56’10.08"O
+    elevation: 315 m
     determinee: 
     confirmee: 
 
@@ -98,7 +98,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Collection (cKc0737) cueillie chez Daan. »
   conidies: 
   conidiome: 
   conidiophores: 

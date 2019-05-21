@@ -25,8 +25,8 @@ details:
   litterature: Grund, D.W.; Stuntz, D.E. 1977. Nova Scotian Inocybes. IV. Mycologia. 69:392-408
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0737
+    date: 21 août 2018
     planche:
       numero: 
       miniature: # Largeur 320px. ici

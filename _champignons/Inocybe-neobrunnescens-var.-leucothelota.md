@@ -34,7 +34,7 @@ collections:
     geolocalisation: 46°00’06.05"N 70°56’10.08"O
     elevation: 315 m
     determinee: 
-    confirmee: 
+    confirmee: ADN
 
 description:
   acanthocytes: 

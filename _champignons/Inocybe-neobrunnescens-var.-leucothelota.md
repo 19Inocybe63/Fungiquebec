@@ -1,6 +1,6 @@
 ---
 nom: Inocybe neobrunnescens var. leucotheolota
-date: # Format: AAAA-MM-JJ 00:00:00
+date: 2019-05-21 00:00:00
 image: # Largeur 320px. Exemple: https:
 image-originale: # Exemple: https:
 album-flickr:

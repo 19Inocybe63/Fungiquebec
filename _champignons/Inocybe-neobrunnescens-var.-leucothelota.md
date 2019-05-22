@@ -99,7 +99,7 @@ description:
   columelle: 
   comestibilite: NON
   commentaires: |
-    De Claude Kaufholtz-Couture. « Collection (cKc0737) cueillie chez Daan. »
+    De Claude Kaufholtz-Couture. « Collections (cKc0736 et cKc0737) cueillies chez Daan. »
   conidies: 
   conidiome: 
   conidiophores: 

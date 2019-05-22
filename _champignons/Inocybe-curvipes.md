@@ -118,7 +118,7 @@ description:
   columelle: 
   comestibilite: NON
   commentaires: |
-    De Claude Kaufholtz-Couture. « Collection (cKc0650) cueillie chez Cajo. »
+    De Claude Kaufholtz-Couture. « Collection (cKc0650) cueillie chez Cajo & collection cKc0735 cueillie chez Daan. »
     De Katri Kokkonen. « Your undetermined species (cKc0650) resembles much <i>Inocybe curvipes</i>, a common species here. However, the spores are smaller and cystidia walls thicker than usually here. »
   conidies: 
   conidiome: 

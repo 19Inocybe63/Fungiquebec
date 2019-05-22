@@ -34,7 +34,7 @@ collections:
     elevation: 352 m
     determinee: Claude Kaufholtz-Couture
     confirmee: 
- - fongarium: cKc0735
+  - fongarium: cKc0735
     date: 21 août 2018
     planche:
       numero: 

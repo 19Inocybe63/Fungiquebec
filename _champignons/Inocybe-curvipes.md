@@ -1,6 +1,6 @@
 ---
 nom: Inocybe curvipes
-date: 2018-07-02 00:00:00
+date: 2019-05-22 00:00:00
 image: https://c1.staticflickr.com/5/4369/36429212670_07c26394f5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36429212670/in/photolist-Xv8eKC-Xv8azo
 album-flickr:
@@ -34,6 +34,16 @@ collections:
     elevation: 352 m
     determinee: Claude Kaufholtz-Couture
     confirmee: 
+ - fongarium: cKc0735
+    date: 21 août 2018
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 46°00’06.05"N 70°56’10.08"O
+    elevation: 315 m
+    determinee: 
+    confirmee: ADN
 
 description:
   acanthocytes: 

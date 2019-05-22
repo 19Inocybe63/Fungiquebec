@@ -158,7 +158,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: indistincte à subfongique
+  exhalaison: indistincte à faiblement fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -204,7 +204,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: adnées, étroites, serrées, avec lamelles et lamellules, arête fimbriée blanche, blanchâtres à grisâtres
+  lames: adnées à adnexées, minces, serrées, avec lamelles et lamellules, parfois furcations, blanche à crème grisâtre, à arête fimbriée blanche
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -241,7 +241,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 35 mm Ø, conique, ombo, fibrilleux apprimé, brun grisâtre, marge concolore et parfois, centre concolore
+  pileus: 15-35 mm Ø, conique hémisphérique à conique, ombo, fibrilleux apprimé, brun, marge blanchâtre, centre + foncé, brun recouvert de velipellis;
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -285,17 +285,17 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: indistincte
+  saveur: indistincte à faiblement fongique;
   sclerocystides: 
   sclerote: 
   sequences: |
     GAAGTAAAAG TCGTAACAAG GTTTCCGTAG GTGAACCTGC GGAAGGATCA TTATCGAAAT ATAGCATGAC GCGAGTTGTC GCTGGCCTTT TCGACCGTGC ACGCTCCGTC CTTCTTCATT     TCTCCATCTA TTTGTGCACC ATTTGCGTGG ATCTCGAGAG TTCCTCGGAT TATTAGGACT GCTTTGCAAA ACCTTTGTGG GCTTTCCTTG TCATTCCACG TCTTACCTTC ACATACACCA     GTGTAAATAT TCAGAAGGAC ATGAAATAGT AAATACAACT TTCAGCAACG GATCTCTTGG CTCTCGCATC GATGAAGAAC GCAGCGAAAT GCGATAAGTA ATGTGAATTG CAGAATTCAG     TGAATCATCG AATCTTTGAA CGCATCTTGC GCTCCTTGGT ATTCCGAGGA GCATGCCTGT TTGAGTGTCA TTAATATCTC AACCACACCC ACTGGCATTG GGGGGTGTGG CTTGGATTTG     GGGGTTACAG GCTCTGAATT GTAGTCTGCT CCCCTGAAAT GCATGAGCGG CAACGACCTC TCCGTTAGAT GTGATAACAT ATCTGCATCC GATCGAGGGT TTTGCCGCCA TAAGAGTTGG     ATTGATAAAC TTGACCTCAA ATCAGGTAGG ACCACCCGCT GAACTTAAGC AT
   soies: 
   soies-hymeniales: 
-  sporee: brun à brun légèrement rouille
+  sporee: brun à brun foncé à faiblement rouille
   spherocytes: 
   sporocystes: 
-  stipe: 79 x 6 mm Ø, cylindriques, égal, brun à brun grisâtre de l’apex vers la base, plein, à la base claviforme plus blanchâtre
+  stipe: 35-79 x 4-6 mm Ø, cylindriques, égal, blanchâtre à brun à brun grisâtre de l’apex vers la base, plein, à la base blanchâtre claviforme à bulbeuse et marginée
   stipitipellis: 
   stipititrame: 
   stroma: 

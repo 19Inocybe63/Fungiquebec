@@ -25,6 +25,16 @@ details:
   litterature: Grund, D.W.; Stuntz, D.E. 1977. Nova Scotian Inocybes. IV. Mycologia. 69:392-408
 
 collections:
+  - fongarium: cKc0736
+    date: 21 août 2018
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°00’06.05"N 70°56’10.08"O
+    elevation: 315 m
+    determinee: 
+    confirmee: ADN
   - fongarium: cKc0737
     date: 21 août 2018
     planche:

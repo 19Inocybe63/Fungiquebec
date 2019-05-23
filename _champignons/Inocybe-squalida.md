@@ -147,7 +147,7 @@ description:
     De Claude Kaufholtz-Couture. « Cette collection fut comparée à <i>Inocybe curvipes</i>. Bien que la microscopie soit ressemblante, la macromorphologie ne correspond pas. »
     De P. Brandon Matheny. « I agree with Kuyper on this, but not sure about the autonomy of your collection until sequenced. Bear in mind that <i>I. curvipes</i> has been described independently by numerous authors under 10 or so names. »
     De Claude Kaufholtz-Couture. « D’autres récoltes nous permettront assurément de fixer plus exactement sa position taxonomique. »
-    De Claude Kaufholtz-Couture. « L’ADN démontre qu’il s’agit d’un cousin de I. curvipes, mais cette collection demeure unique. Du reste, une belle trouvaille ! »
+    De Claude Kaufholtz-Couture. « L’ADN démontre qu’il s’agit d’un cousin de <i>Inocybe curvipes</i>, mais cette collection demeure unique. Du reste, une belle trouvaille ! »
   conidies: 
   conidiome: 
   conidiophores: 

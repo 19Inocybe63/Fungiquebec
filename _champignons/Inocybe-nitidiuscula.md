@@ -69,7 +69,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sol sableux, calcaire, en bordure d'un sentier, sous feuillus et conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -85,7 +85,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: immuable
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -98,7 +98,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Collection (cKc0725) cueillie chez Cajo. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -147,7 +148,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -193,7 +194,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, larges, serrées, avec lamelles et lamellules, brun pâle à grisâtres
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -230,7 +231,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 14 x 20 mm Ø, convexe, mamelonné, fibrilleux, finement méchuleux, brun, marge brun pâle et parfois fendillée, centre + foncé
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -274,16 +275,16 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: légèrement fongique
   sclerocystides: 
   sclerote: 
   sequences: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brune
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 22-35 x 2-3 mm Ø, cylindriques, égal, blanchâtre à gris, plein, à la base claviforme
   stipitipellis: 
   stipititrame: 
   stroma: 

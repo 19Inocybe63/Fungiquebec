@@ -7,7 +7,7 @@ album-flickr:
   - 72157708751972343
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe luisant
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -25,16 +25,16 @@ details:
   litterature: Laplanche M.C. de. 1894. Dictionnaire iconographique des Champignons superieurs. :1-541
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0725
+    date: 20 août 2018
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 45°59’09.04"N 70°57’10.99"O
+    elevation: 352 m
     determinee: 
-    confirmee: 
+    confirmee: ADN
 
 description:
   acanthocytes: 

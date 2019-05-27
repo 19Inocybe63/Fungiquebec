@@ -98,7 +98,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Collection (cKc0727) cueillie chez Cajo. »
   conidies: 
   conidiome: 
   conidiophores: 

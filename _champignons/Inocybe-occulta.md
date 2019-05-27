@@ -48,6 +48,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
+    <b>Esteve-Raventós, F.; Bandini, D.; Oertel, B.; González, V.; Moreno, G</b>. <i>Advances in the knowledge of the Inocybe mixtilis group, (Inocybaceae, Agaricomycetes), through molecular and morphological studies</i>, Persoonia 41, 2018, 213–236
     <b>Kaufholtz-Couture, Claude</b>. <i>Interactive key of Inocybe</i> - v01 (Mar 2018), Fungiquebec
     <b>Kropp, Bradley R.; Matheny, P. Brandon, et al</b>. <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection «Marginatae»</i>, Mycologia, 102(3), 2010, pp. 560-573, 14 p.
     <b>Kuo, Michael,; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis (Inocybaceae, Agaricales)</i>, MycoKeys 11:23-31 (2015), 9 p.
@@ -56,7 +57,6 @@ description:
     <b>Matheny, P. Brandon,; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
     <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
     <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i>, v04 (23-Dec-2017), University of Tennessee
-    <b>Esteve-Raventós, F.; Bandini, D.; Oertel, B.; González, V.; Moreno, G</b>. <i>Advances in the knowledge of the Inocybe mixtilis group, (Inocybaceae, Agaricomycetes), through molecular and morphological studies</i>, Persoonia 41, 2018, 213–236
   ascome: 
   ascospores: 
   asques: 

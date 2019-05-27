@@ -7,7 +7,7 @@ album-flickr:
   - 72157708780304136
 
 details:
-  nom-francais: Inocybe secret
+  nom-francais: Inocybe secret / Inocybe caché
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

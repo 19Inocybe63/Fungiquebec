@@ -26,15 +26,15 @@ details:
 
 collections:
   - fongarium: cKc0727
-    date: 
+    date: 20 août 2018
     planche:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 45°59’09.04"N 70°57’10.99"O
+    elevation: 352 m
     determinee: 
-    confirmee: 
+    confirmee: ADN
 
 description:
   acanthocytes: 
@@ -69,7 +69,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sol sableux, calcaire, en bordure d'un sentier, sous feuillus et conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -85,7 +85,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: immuable
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -147,7 +147,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: fongique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -193,7 +193,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, larges, serrées, avec lamelles et lamellules, brun pâle à grisâtres
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -230,7 +230,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 15 x 28 mm Ø, convexe, ombo à faiblement mamelonné, fibrilleux, jaune à jaune pâle, ± orangé au centre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -270,28 +270,33 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: The query coverage of some of your top results is under 50%
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique
   sclerocystides: 
   sclerote: 
-  sequences: 
+  sequences: |
+    GTGACCTGCG GAGGATCATT ATAGAATAAA ATTGAACGGG CTGTTGCTCT CCTTGTGGTG GTGCACGCCT GTCATATTTA TCTCTCCCAC TGTGCACATT TTGTAGACCT GGTGTTTGGG     AATTGCTGTA GTCAGCTTTG CCCTTTGCCC TTGCCAGTCT ATGTTATTTT ATCACAACCT CTGAATGTTT TGAACTTTTT ATGATGGAAA TTATATACAA CTTTCAGCAA CGGATCTCTT     GGCTCTCGCA TCGATGAAGA ACGCAGCGAA ATGCGATAAG TAATGTGAAT TGCAGAATTC AGTGAATCAT CGAATCTTTG AACGCATCTT GCGCTTCTTG GTATTCCAAG GAGCATGCCT     GTTTGAGTGT CATTAAAGTT CTCAAAACCC ACATGCTTGT CATGTGGAAT TTTGGATATG GAGGTTTGCA GGCTTTTTAA AGTCGGCTCC TCTGAAATGT ATC
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun à brun foncé
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 26-43 x 2-3 mm Ø, cylindriques, égal, parfois ± tortueux, blanchâtre, plein, à la base bulbeuse et marginée
   stipitipellis: 
   stipititrame: 
   stroma: 
   subhymenium: 
   subiculum: 
   substrat: 
-  symptomes: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
   syndrome: 
+    muscarinien ou sudorien
+    La toxine responsable est la muscarine.
   synonymie: 
   systeme-hyphal: 
   textura: 

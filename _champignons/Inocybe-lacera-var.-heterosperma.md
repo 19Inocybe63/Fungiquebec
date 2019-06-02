@@ -278,7 +278,8 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Unpublished Sequences in the local database.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -70,7 +70,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sol sableux, en bordure d'un sentier, sous feuillus
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -86,7 +86,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: immuable
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -148,7 +148,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -194,7 +194,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, larges, serrées, avec lamelles et lamellules, crèmes
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -231,7 +231,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 22-29 mm Ø, campanulé, fibrilleux, brun pâle avec présence du velipellis qui lui donne son aspect blanchâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -277,7 +277,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique à légèrement spermatique
   sclerocystides: 
   sclerote: 
   sequences: |
@@ -289,10 +289,10 @@ description:
     GACTACCCGC TGAACTTAAG CATATCAATA A
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun à brun verdâtre
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 33-44 x 2-3 mm Ø, cylindriques, égal, blanchâtre, avec de léger reflet jaune rougeâtre vers l’apex, creux, avec base bulbeuse
   stipitipellis: 
   stipititrame: 
   stroma: 

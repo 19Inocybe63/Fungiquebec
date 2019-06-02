@@ -1,5 +1,5 @@
 ---
-nom: Inocybe flocculosa
+nom: Inocybe flocculosa var. flocculosa
 date: 2019-06-02 00:00:00
 image: https://c1.staticflickr.com/9/8228/29251989106_086d8ea6e5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29251989106/in/photolist-VzJan5-LyU6eL-LuW68i/
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe flocculosa</i> Sacc.
+  espece: <i>Inocybe flocculosa var. flocculosa</i> Sacc.
   litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
 
 collections:
@@ -30,7 +30,7 @@ collections:
     geolocalisation: 46°54'28.8"N 71°16'39.7"O
     elevation: 230 m
     determinee: Claude Kaufholtz-Couture
-    confirmee: ADN
+    confirmee: 
 
 description:
   acanthocytes: 

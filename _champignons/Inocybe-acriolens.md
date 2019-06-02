@@ -277,7 +277,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: fongique à légèrement spermatique
+  saveur: fongique à spermatique
   sclerocystides: 
   sclerote: 
   sequences: |

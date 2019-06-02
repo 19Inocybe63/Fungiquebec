@@ -22,7 +22,7 @@ details:
   section: 
   sous-section: 
   stirpe: 
-  litterature: 
+  litterature: Saccardo, P.A. 1887. Sylloge Hymenomycetum, Vol. I. Agaricineae. Sylloge Fungorum. 5:1-1146
 
 collections:
   - fongarium: cKc0721
@@ -295,7 +295,18 @@ description:
   syndrome: |
     muscarinien ou sudorien
     La toxine responsable est la muscarine
-  synonymie: 
+  synonymie: |
+    <i>Agaricus flocculosus</i> Berk., The English Flora, Fungi 5-2 (2):97 (1836)
+    <i>Inocybe pluteoides</i> Höhn., Sitzungsber. Akad. Wiss. Wien, Math.-Naturwiss. Kl.:14 (1907)
+    <i>Inocybe cordae</i> Velen., Ceske Houby 2:375 (1920)
+    <i>Inocybe rohlenae</i> Velen., Ceske Houby 2:379 (1920)
+    <i>Inocybe fulvidula</i> Velen., Novitates mycologicae:120 (1939)
+    <i>Inocybe dentifera</i> Velen., Novitates mycologicae novissimae:60 (1947)
+    <i>Inocybe gausapata</i> Kühner, Bulletin de la Société des Naturalistes d'Oyonnax 9 (suppl.):4 (1955)
+    <i>Inocybe subtigrina</i> Kühner, Bulletin de la Société des Naturalistes d'Oyonnax 9 (suppl.):6 (1955)
+    <i>Inocybe geraniolens</i> Bon & Beller, Documents Mycologiques 6 (24):45 (1976)
+    <i>Inocybe croceifolia</i> Beller, Doc. Mycol.:57 (1976)
+    <i>Inocybe ferruginea</i> Bon, Documents Mycologiques 8 (30):69 (1978)
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

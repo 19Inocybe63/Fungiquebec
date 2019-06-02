@@ -260,8 +260,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    Be cautious of trusting the Identity of your results. There are 3 ambiguous nucelotides in the sequence. The identity value in parenthesis updates the value assuming all of the ambiguous nucleotides are correct.
-The query coverage of some of your top results is under 50%.
+    Be cautious of trusting the Identity of your results. There are 3 ambiguous nucelotides in the sequence. The identity value in parenthesis updates the value assuming all of the ambiguous nucleotides are correct. The query coverage of some of your top results is under 50%.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -269,7 +269,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Collection n'a pas sporulée
+  remarques: Collection n'a pas sporulé
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

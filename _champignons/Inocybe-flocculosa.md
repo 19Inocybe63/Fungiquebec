@@ -68,7 +68,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse au sol, sol sableux, en bordure d'un sentier, sous feuillus et conifères
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -84,7 +84,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: immuable
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -110,7 +110,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: blanchâtre
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -146,7 +146,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: indistincte
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -192,7 +192,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, larges, serrées, avec lamelles et lamellules, blanchâtre
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -229,7 +229,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 12 x 24 mm Ø, conique au début, fibrilleux, légèrement méchuleux, brun, marge blanchâtre, centre + brun foncé
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -269,11 +269,11 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Collection n'a pas sporulée
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: fongique
   sclerocystides: 
   sclerote: 
   sequences: 
@@ -282,7 +282,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 19-34 x 3-4 mm Ø, cylindriques, égal, blanchâtre, plus large au début devenant plus élancé à maturité, plein, à la base claviforme
   stipitipellis: 
   stipititrame: 
   stroma: 

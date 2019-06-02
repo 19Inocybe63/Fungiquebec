@@ -7,7 +7,7 @@ album-flickr:
   - 72157708887249496
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe odoriférant / Inocybe nettement odoriférant
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

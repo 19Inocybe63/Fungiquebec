@@ -25,6 +25,16 @@ details:
   litterature: Velenovský, J. 1920. Ceske Houby. 2:201-424
 
 collections:
+  - fongarium: cKc0707
+    date: 26 juin 2018
+    planche:
+      numero: 
+      miniature: # Largeur 320px. ici
+      originale: # Exemple: ici
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    elevation: 90 m
+    determinee: 
+    confirmee: ADN
   - fongarium: cKc0708
     date: 26 juin 2018
     planche:

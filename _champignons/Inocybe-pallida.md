@@ -98,7 +98,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: NON
-  commentaires: 
+  commentaires: |
+    De Claude Kaufholtz-Couture. « Il est possible que la collection MF59601 et MF59602 soit identique. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -271,14 +272,15 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    Il est possible que la collection MF59601 et MF59602 soit identique.
+    The query coverage of some of your top results is under 50%.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
   saveur: spermatique à légèrement raphanoïde
   sclerocystides: 
   sclerote: 
-  sequences: 
+  sequences: |
+    TAGGTGAACC TGCGGAAGGA TCATTATTGA ATAAATTTGA ACGGGCTGTT GCTGGCTCTG TTGAGCGATG TGCACGCYTG TCATGTTTAT GTTTCCAACT GTGCACACAT TGTAGATCTG     GTGGAATTTT ATGTTGCTTG CAATAATAGA GTGAGGACTT TGCTGTATGG CACTCCTTGT CTGCTAGGTC TATGTTCACG AACTCTGAAA TGGTTATAGA ATGTTGGGGA AAAAAAATTT     TTACAACTTT CAGCAACGGA TCTCTTGGTT CTCGCATCGA TGAAGAACGC AGCGAAATGC GATAAGTAAT GTGAATTGCA GAATTCAGTG AATCATCGAA TCTTTGAACG CATCTTGCGC     TCCTTGGTAT TCTGAGGAGC ATGCCTGTTT GAGTGTCATC AAGTTCTCAA CCCGCATCCT TTTTGAAGGG ATGTGGATTT GGATTATGGA GTTTGCAGGC ATGATTGAAA GGTCTGCTCC     TCTGAAATGT ATTAGTGGCA ATGTGGAAAA GCTACTGTGG GTGTGATAAC TATCTATGCC TATGCAGTGC TCTGCTGTGT GCCGCTTTGG AGGGAGAAAT TTATTCTGAC AAACTTGACC     TCAAATCA
   soies: 
   soies-hymeniales: 
   sporee: brun à brun légèrement verdâtre

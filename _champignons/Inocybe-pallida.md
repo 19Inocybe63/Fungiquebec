@@ -99,7 +99,7 @@ description:
   columelle: 
   comestibilite: NON
   commentaires: |
-    De Claude Kaufholtz-Couture. « Il est possible que la collection MF59601 et MF59602 soit identique. »
+    De Claude Kaufholtz-Couture. « Les collections cKc0707 et cKc0708 ont beaucoup de similitudes. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -69,7 +69,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: pousse dans sol sableux, milieu herbeux, au pied de chêne (Quercus)
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -111,7 +111,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: blanchâtre et fugace
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -147,7 +147,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: spermatique
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -193,7 +193,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, serrées, larges, avec lamelles et lamellules, obtuses en avant, épaisseur cunéiformes, arête lisse et concolore à la lame, beige au début, devenant gris banales, brunissant avec l’âge
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -230,7 +230,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 16-25 mm Ø, hémisphérique jeune, devenant conique-campanulé à campanulé; fibrilleux, apprimées, à marge parfois révolutée, beige brunâtre, avec centre ± blanchâtre
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -270,20 +270,21 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Il est possible que la collection MF59601 et MF59602 soit identique.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: 
+  saveur: spermatique à légèrement raphanoïde
   sclerocystides: 
   sclerote: 
   sequences: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun à brun légèrement verdâtre
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 30-40 x 3-4 mm Ø, cylindrique, égal à ± radicant à la base, plein, avec de légers reflets rougeâtre de l’apex jusqu’à la base, bulbeux à ± marginé
   stipitipellis: 
   stipititrame: 
   stroma: 

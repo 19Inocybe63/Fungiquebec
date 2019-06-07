@@ -31,10 +31,10 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    elevation: 90 m
     determinee: 
-    confirmee: 
+    confirmee: ADN
 
 description:
   acanthocytes: 
@@ -97,7 +97,7 @@ description:
   circumcystides: 
   clavules: 
   columelle: 
-  comestibilite: 
+  comestibilite: NON
   commentaires: 
   conidies: 
   conidiome: 
@@ -291,8 +291,12 @@ description:
   subhymenium: 
   subiculum: 
   substrat: 
-  symptomes: 
-  syndrome: 
+  symptomes: |
+    Apparition rapide entre 30 minutes et 6 heures après l'ingestion, mais qui n'entrainent pas la mort.
+    Sudation très importante, hypersécrétion salivaire, nausées, vomissements, diarrhées
+  syndrome: |
+    muscarinien ou sudorien
+    La toxine responsable est la muscarine.
   synonymie: 
   systeme-hyphal: 
   textura: 

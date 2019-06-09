@@ -43,7 +43,8 @@ Dans le cadre de ses activités, Fungiquebec propose des cours d’initiation à
 #### Matériels
 Il y aura quatre modules d’études (en PDF) ainsi que des PowerPoint pour illustrer certains propos.
 
-*	Matériel que vous devez fournir : microscope et binoculaire (optionnel)
+*	Matériel que vous devez fournir : microscope
+* Binoculaire optionnel
 *	Produits chimiques dont la liste sera donnée à l’inscription
 
 * Durée du cours : de novembre 2019 à avril 2020

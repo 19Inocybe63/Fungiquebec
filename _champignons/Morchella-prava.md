@@ -1,8 +1,8 @@
 ---
 nom: Morchella prava
 date: 2017-06-01 00:00:00
-image: https://c1.staticflickr.com/5/4224/34761396682_117098b465_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/34761396682/in/dateposted/
+image: https://live.staticflickr.com/7239/7234066596_1238f17e4c_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/7234066596/in/photolist-UXKfay-TVFyXJ-c2i38s-c2ftY9
 album-flickr:
   - 72157675331655494
 

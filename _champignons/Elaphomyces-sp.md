@@ -27,8 +27,8 @@ collections:
       numero: cKc0396-0094
       miniature: https://c1.staticflickr.com/1/340/20440587051_defdc4b556_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/20440587051/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: Michael Castellano (provisoire)
     confirmee: 
   - fongarium: cKc0428
@@ -37,8 +37,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: Michael Castellano (provisoire)
     confirmee: 
   - fongarium: cKc0463
@@ -47,8 +47,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°45’23.55"N 71°19’19.47"O
+    elevation: 95 m
     determinee: Michael Castellano (provisoire)
     confirmee: 
 

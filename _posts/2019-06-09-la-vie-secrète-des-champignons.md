@@ -12,7 +12,7 @@ Les champignons constituent l'une des trois formes de vie supérieure sur la pla
 
 <p>&nbsp; </p>
 #### Livre
-![Page couverture](https://https://live.staticflickr.com/65535/48030434243_5d9bb5e26f.jpg "Figure 1. Couverture du livre")
+![Page couverture](https://live.staticflickr.com/65535/48030434243_5d9bb5e26f.jpg "Figure 1. Couverture du livre")
 
 
 #### Auteur

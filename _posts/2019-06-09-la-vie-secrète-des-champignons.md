@@ -10,7 +10,7 @@ Les champignons constituent l'une des trois formes de vie supérieure sur la pla
 <p>&nbsp; </p>
 
 
-###### « Un champignon comestible est un champignon moins toxique que les autres »
+## « Un champignon comestible est un champignon moins toxique que les autres »
 
 
 <p>&nbsp; </p>

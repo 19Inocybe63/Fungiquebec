@@ -22,5 +22,6 @@ Les champignons constituent l'une des trois formes de vie supérieure sur la pla
 #### Auteur
 Robert HOFRICHTER, est biologiste marin et journaliste. Il a fondé l’organisme Meremundi, basé en Autriche et voué à la protection des océans. Vulgarisateur de renom en Europe, il est l’auteur d’une vingtaine d’ouvrages en environnement.
 
+
 #### NDLR
 Enfin, un livre qui aborde l’importance du monde des champignons dans notre vie et pour notre survie. Véritable quête d’informations sur le règne des fungi.

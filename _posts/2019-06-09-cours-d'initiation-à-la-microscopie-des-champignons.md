@@ -13,7 +13,6 @@ Dans le cadre de ses activités, Fungiquebec propose des cours d’initiation à
 <p>&nbsp; </p>
 
 
-<p>&nbsp; </p>
 #### Microscopie
 ![Planche micrographique](https://live.staticflickr.com/4709/39687211041_afaefa918b.jpg "Figure 1. Planche micrographique de Scutellinia pennsylvanica (Seaver) Denison")
 <p>&nbsp; </p>

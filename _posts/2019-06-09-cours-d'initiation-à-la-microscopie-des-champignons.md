@@ -47,7 +47,7 @@ Le cours d'initiation a quatre modules d’études (en PDF) ainsi que des PowerP
 * Binoculaire (optionnel)
 *	Produits chimiques dont la liste sera donnée à l’inscription
 
-####Dates et heures
+#### Dates et heures
 * Durée du cours : du 9 novembre 2019 au 4 avril 2020
 * Les cours auront lieu tous les samedis à partir du 9 novembre au 14 décembre 2019; suivi de la période des fêtes, et reprise des cours le samedi 11 janvier 2020.
 * Heure : de 9:00 à 12:00

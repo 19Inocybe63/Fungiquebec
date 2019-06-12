@@ -1,6 +1,6 @@
 ---
 title: Cours d’initiation à la microscopie des champignons; Automne 2019
-date: 2019-06-09 00:00:00
+date: 2019-06-12 00:00:00
 categories: 
 - Cours
 - Microscopie
@@ -9,7 +9,7 @@ categories:
 ---
 
 #### Introduction
-Dans le cadre de ses activités, Fungiquebec propose des cours d’initiation à la microscopie des champignons. Pour le moment, nous sommes en pourparlers pour un local. Ce dernier sera inscrit prochainement.
+Dans le cadre de ses activités, Fungiquebec propose des cours d’initiation à la microscopie des champignons. Il est fort possible que le Parc du Bois-de-Coulonges soit notre lieu de rencontre; d’autres informations viendront très bientôt.
 <p>&nbsp; </p>
 
 
@@ -41,13 +41,14 @@ Dans le cadre de ses activités, Fungiquebec propose des cours d’initiation à
 
 
 #### Matériels
-Il y aura quatre modules d’études (en PDF) ainsi que des PowerPoint pour illustrer certains propos.
+Le cours d'initiation a quatre modules d’études (en PDF) ainsi que des PowerPoint pour illustrer certains propos.
 
 *	Matériel que vous devez fournir : microscope
 * Binoculaire (optionnel)
 *	Produits chimiques dont la liste sera donnée à l’inscription
-* Durée du cours : de novembre 2019 à avril 2020
+* Durée du cours : du 9 novembre 2019 au 4 avril 2020
 * Important : Initialement, le cours est prévu pour quatre personnes, mais il est possible que ce nombre soit augmenté
 * Date limite d’inscription au cours : 12 octobre 2019
 * Professeur : Claude Kaufholtz-Couture
+* Coût : Les coûts sont uniquement pour la location de la salle (à venir); le cours est gratuit
 * Adresse de courriel électronique : fungiquebec@gmail.com

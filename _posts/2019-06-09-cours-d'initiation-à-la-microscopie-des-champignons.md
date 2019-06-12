@@ -49,11 +49,11 @@ Le cours d'initiation a quatre modules d’études (en PDF) ainsi que des PowerP
 <p>&nbsp; </p>
 
 #### Dates et heures
-* Durée du cours : du 9 novembre 2019 au 4 avril 2020
-* Les cours auront lieu tous les samedis à partir du 9 novembre au 14 décembre 2019; suivi de la période des fêtes, et reprise des cours le samedi 11 janvier 2020.
+* Durée du cours : du 2 novembre 2019 au 14 décembre 2019 (7 samedis)
+* Les cours auront lieu tous les samedis à partir du 2 novembre jusqu'au 14 décembre 2019
 * Heure : de 9:00 à 12:00
 * Important : Initialement, le cours est prévu pour quatre personnes, mais il est possible que ce nombre soit augmenté
-* Date limite d’inscription au cours : 12 octobre 2019
+* Date limite d’inscription au cours : 5 octobre 2019
 * Coût : Les coûts sont uniquement pour la location de la salle (à venir); le cours est gratuit
 * Adresse de courriel électronique : fungiquebec@gmail.com
 * Professeur : Claude Kaufholtz-Couture

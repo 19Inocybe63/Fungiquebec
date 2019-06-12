@@ -47,6 +47,7 @@ Le cours d'initiation a quatre modules d’études (en PDF) ainsi que des PowerP
 * Binoculaire (optionnel)
 *	Produits chimiques dont la liste sera donnée à l’inscription
 * Durée du cours : du 9 novembre 2019 au 4 avril 2020
+* Heure : de 9:00 à 12:00
 * Important : Initialement, le cours est prévu pour quatre personnes, mais il est possible que ce nombre soit augmenté
 * Date limite d’inscription au cours : 12 octobre 2019
 * Professeur : Claude Kaufholtz-Couture

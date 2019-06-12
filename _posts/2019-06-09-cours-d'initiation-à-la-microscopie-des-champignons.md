@@ -46,6 +46,7 @@ Le cours d'initiation a quatre modules d’études (en PDF) ainsi que des PowerP
 *	Matériel que vous devez fournir : microscope
 * Binoculaire (optionnel)
 *	Produits chimiques dont la liste sera donnée à l’inscription
+<p>&nbsp; </p>
 
 #### Dates et heures
 * Durée du cours : du 9 novembre 2019 au 4 avril 2020

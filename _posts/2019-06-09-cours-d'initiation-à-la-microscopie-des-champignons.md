@@ -9,7 +9,7 @@ categories:
 ---
 
 #### Introduction
-Dans le cadre de ses activités, Fungiquebec propose des cours d’initiation à la microscopie des champignons. Il est fort possible que le Parc du Bois-de-Coulonges soit notre lieu de rencontre; d’autres informations viendront très bientôt.
+Dans le cadre de ses activités, Fungiquebec propose des cours d’initiation à la microscopie des champignons. Il est fort possible que le domaine Cataraqui soit notre lieu de rencontre; d’autres informations viendront très bientôt.
 <p>&nbsp; </p>
 
 

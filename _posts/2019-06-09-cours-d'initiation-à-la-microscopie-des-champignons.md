@@ -9,7 +9,7 @@ categories:
 ---
 
 #### Introduction
-Dans le cadre de ses activités, Fungiquebec propose des cours d’initiation à la microscopie des champignons. Il est fort possible que le domaine Cataraqui soit notre lieu de rencontre; d’autres informations viendront très bientôt.
+Dans le cadre de ses activités, Fungiquebec propose des cours d’initiation à la microscopie des champignons. Il est fort possible que le domaine Cataraqui (salle Thibodeau) soit notre lieu de rencontre; d’autres informations viendront très bientôt.
 <p>&nbsp; </p>
 
 
@@ -28,13 +28,8 @@ Dans le cadre de ses activités, Fungiquebec propose des cours d’initiation à
 *	Asques et ascospores
 *	Dissociation, observation, coloration (avec lavage) d’un ascomycète
 *	Le réactif de Melzer : réaction amyloïde ou dextrinoïde chez les Basidiomycètes
-*	Lugol ou IKI : réaction amyloïde ou dextrinoïde chez les asco. – coloration de la nasse apicale
-*	Une coloration métachromatique : les spores de Macropeliota
 *	Les réactions sulfoaldéhiques (Russules et lactaires) : la sulfovanilline
 *	Préparation et examen d’une cuticule : les piléocystides
-*	Le sulfobenzaldéhyde et la cuticule des russules
-*	Les incrustations acido-résistantes et la fuchsine de Ziehl
-*	Les incrustations acido-résistantes selon Clémençon
 *	Manipulation et coupes avec le microtome de Ranvier
 *	ETC
 <p>&nbsp; </p>
@@ -45,15 +40,14 @@ Le cours d'initiation a quatre modules d’études (en PDF) ainsi que des PowerP
 
 *	Matériel que vous devez fournir : microscope
 * Binoculaire (optionnel)
-*	Produits chimiques dont la liste sera donnée à l’inscription
 <p>&nbsp; </p>
 
 #### Dates et heures
-* Durée du cours : du 2 novembre 2019 au 14 décembre 2019 (7 samedis)
-* Les cours auront lieu tous les samedis à partir du 2 novembre jusqu'au 14 décembre 2019
+* Durée du cours : du 2 novembre 2019 au 23 novembre 2019 (4 samedis = 12 heures)
+* Les cours auront lieu les samedis à partir du 2 novembre jusqu'au 23 novembre 2019
 * Heure : de 9:00 à 12:00
-* Important : Initialement, le cours est prévu pour quatre personnes, mais il est possible que ce nombre soit augmenté
-* Date limite d’inscription au cours : 5 octobre 2019
-* Coût : Les coûts sont uniquement pour la location de la salle (à venir); le cours est gratuit
+* Important : Initialement, le cours est prévu pour quatre personnes, mais il est possible que ce nombre soit augmenté à 6 participants
+* Date limite d’inscription au cours : 15 septembre 2019
+* Coût : Les coûts sont uniquement pour la location de la salle (pour 4 participants : environ 100,00 $ par participants); le cours est gratuit
 * Adresse de courriel électronique : fungiquebec@gmail.com
 * Professeur : Claude Kaufholtz-Couture

@@ -1,6 +1,6 @@
 ---
 nom: Scutellinia scutellata
-date: 2018-01-11 00:00:00
+date: 2019-06-19 00:00:00
 image: https://c1.staticflickr.com/1/558/18379166100_42fb1239d5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18379166100/in/photolist-tt4ZcL-tkzuXN-u172L9
 album-flickr:
@@ -270,7 +270,8 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    De Claude Kaufholtz-Couture. Malheureusement, beaucoup de gens font encore l’erreur de nommer cette espèce <i>Scutellinia scutellata</i> s. l., ce qui est une erreur. L’étude du genre <i>Scutellinia</i> passe obligatoirement par la microscopie, soutenue par une bonne clé d’identification.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

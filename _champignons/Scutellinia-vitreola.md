@@ -1,6 +1,6 @@
 ---
 nom: Scutellinia vitreola
-date: 2018-01-12 00:00:00
+date: 2019-06-19 00:00:00
 image: https://c1.staticflickr.com/5/4365/36432563541_5569130b03_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36432563541/in/photolist-Dt6aWc-XvqpRg
 album-flickr:
@@ -260,7 +260,8 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    De Claude Kaufholtz-Couture. Malheureusement, beaucoup de gens font encore l’erreur de nommer cette espèce <i>Scutellinia scutellata</i> s. l., ce qui est une erreur. L’étude du genre <i>Scutellinia</i> passe obligatoirement par la microscopie, soutenue par une bonne clé d’identification.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

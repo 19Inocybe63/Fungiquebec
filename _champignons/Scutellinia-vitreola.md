@@ -261,7 +261,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    De Claude Kaufholtz-Couture. Malheureusement, beaucoup de gens font encore l’erreur de nommer cette espèce <i>Scutellinia scutellata</i> s. l., ce qui est une inexactitude. L’étude du genre <i>Scutellinia</i> passe obligatoirement par la microscopie, soutenue par une bonne clé d’identification. Si vous n’avez pas de microscope pour en faire l’étude, inscrivez seulement <i>Scutellinia</i> sp., et non <i>Scutellinia scutellata</i> s. l.
+    De Claude Kaufholtz-Couture. Malheureusement, beaucoup de gens font encore l’erreur de nommer cette espèce <i>Scutellinia scutellata</i> s.l., ce qui est une inexactitude. L’étude du genre <i>Scutellinia</i> passe obligatoirement par la microscopie, soutenue par une clé d’identification renommée. Pour ceux qui ne possède pas de microscope pour en faire l’étude, inscrivez seulement <i>Scutellinia</i> sp.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

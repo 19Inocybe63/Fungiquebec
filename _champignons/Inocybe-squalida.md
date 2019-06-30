@@ -1,6 +1,6 @@
 ---
 nom: Inocybe squalida C. Kaufholtz-Couture nom. prov.
-date: 2019-05-27 05:00:00
+date: 2019-06-30 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -148,6 +148,7 @@ description:
     De P. Brandon Matheny. « I agree with Kuyper on this, but not sure about the autonomy of your collection until sequenced. Bear in mind that <i>I. curvipes</i> has been described independently by numerous authors under 10 or so names. »
     De Claude Kaufholtz-Couture. « D’autres récoltes nous permettront assurément de fixer plus exactement sa position taxonomique. »
     De Claude Kaufholtz-Couture. « L’ADN démontre qu’il s’agit d’un cousin de <i>Inocybe curvipes</i>, mais cette collection demeure unique. Du reste, une belle trouvaille ! »
+    De P. Brandon Matheny. « One could argue that yes the ITS differentiation would support recognition of your single sample. Do you have other collections from different gatherings that you can sequence to reinforce the one sample of squalida? Morphologically, the fruit bodies look a little different than typical curvipes, and they don't resemble lacera. »
   conidies: 
   conidiome: 
   conidiophores: 

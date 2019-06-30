@@ -27,7 +27,7 @@ Robert HOFRICHTER, est biologiste marin et journaliste. Il a fondé l’organism
 <p>&nbsp; </p>
 
 
-## « La nature nous livre une vision du monde aimable et objectivement défendable, dénuée de toute connotation idéologique nocive, où des champignons à la fois source et siège d'interconnexions jouent un rôle-clé. »
+### « La nature nous livre une vision du monde aimable et objectivement défendable, dénuée de toute connotation idéologique nocive, où des champignons à la fois source et siège d'interconnexions jouent un rôle-clé. »
 <p>&nbsp; </p>
 
 

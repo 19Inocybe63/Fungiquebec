@@ -1,8 +1,11 @@
 ---
 title: La vie secrète des champignons
-date: 2019-06-09 00:00:00
+date: 2019-06-30 00:00:00
 categories: 
-- Livres
+- Livre
+- Champignon
+- Mycorhize
+- Sporophore
 ---
 
 #### Résumé
@@ -10,7 +13,7 @@ Les champignons constituent l'une des trois formes de vie supérieure sur la pla
 <p>&nbsp; </p>
 
 
-## « Un champignon comestible est un champignon moins toxique que les autres »
+## « Un champignon comestible est un champignon moins toxique que les autres. »
 
 
 <p>&nbsp; </p>
@@ -24,5 +27,9 @@ Robert HOFRICHTER, est biologiste marin et journaliste. Il a fondé l’organism
 <p>&nbsp; </p>
 
 
+## « La nature nous livre une vision du monde aimable et objectivement défendable, dénuée de toute connotation idéologique nocive, où des champignons à la fois source et siège d'interconnexions jouent un rôle-clé. »
+<p>&nbsp; </p>
+
+
 #### NDLR
-Enfin, un livre qui aborde l’importance du monde des champignons dans notre vie et pour notre survie. Véritable quête d’informations sur le règne des fungi.
+Un livre qui aborde l’importance du monde des champignons dans notre vie et pour notre survie. Véritable quête d’informations sur le règne des fungi.

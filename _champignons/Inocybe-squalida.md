@@ -21,7 +21,7 @@ details:
   sous-genre: Clypeus
   section: 
   sous-section: 
-  litterature: <i>Inocybe squalida</i> C. Kaufholtz-Couture nom. prov. (article en préparation)
+  litterature: <i>Inocybe squalida</i> C. Kaufholtz-Couture nom. prov. (article en révision)
 
 collections:
   - fongarium: cKc0556

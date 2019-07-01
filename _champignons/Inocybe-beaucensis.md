@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe lacera var. heterosperma</i> Grund & D.E. Stuntz
+  espece: <i>Inocybe beaucensis C. Kaufholtz-Couture nom. prov.</i> Grund & D.E. Stuntz
   sous-genre: Inocybe (Fr.) Fr.
   section: Inocybe (= Lacerae Fries)
   sous-section: Lacerinae (Fr.) M Bon

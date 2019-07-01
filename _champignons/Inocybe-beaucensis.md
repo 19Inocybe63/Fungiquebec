@@ -1,13 +1,13 @@
 ---
-nom: Inocybe lacera var. heterosperma
-date: 2019-06-02 00:00:00
+nom: Inocybe beaucensis C. Kaufholtz-Couture nom. prov.
+date: 2019-07-01 00:00:00
 image: https://c1.staticflickr.com/5/4348/36837420235_880dea8a1c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36837420235/in/photolist-Y8cpD6-Y8cnsT
 album-flickr:
   - 72157691525765070
 
 details:
-  nom-francais: Inocybe lacéré à basidiospores variées
+  nom-francais: Inocybe beauceron
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -21,7 +21,7 @@ details:
   sous-genre: Inocybe (Fr.) Fr.
   section: Inocybe (= Lacerae Fries)
   sous-section: Lacerinae (Fr.) M Bon
-  litterature: Grund, D.W.; Stuntz, D.E. 1977. Nova Scotian Inocybes. IV. Mycologia. 69:392-408
+  litterature: 
 
 collections:
   - fongarium: cKc0662

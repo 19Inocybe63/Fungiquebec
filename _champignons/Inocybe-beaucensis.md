@@ -21,7 +21,7 @@ details:
   sous-genre: Inocybe (Fr.) Fr.
   section: Inocybe (= Lacerae Fries)
   sous-section: Lacerinae (Fr.) M Bon
-  litterature: 
+  litterature: Inocybe beaucensis C. Kaufholtz-Couture nom. prov. (article en préparation)
 
 collections:
   - fongarium: cKc0662

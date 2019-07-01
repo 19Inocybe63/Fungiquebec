@@ -32,8 +32,18 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/41661960584/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
     geolocalisation: 46°00’06.05"N 70°56’10.08"O
     elevation: 315 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    determinee: Claude Kaufholtz-Couture nom. prov.
+    confirmee: ADN
+  - fongarium: cKc0733
+    date: 21 août 2018
+    planche:
+      numero: cKc0662-0206
+      miniature: 
+      originale: 
+    geolocalisation: 46°00’06.05"N 70°56’10.08"O
+    elevation: 315 m
+    determinee: Claude Kaufholtz-Couture nom. prov.
+    confirmee: ADN
 
 description:
   acanthocytes: 

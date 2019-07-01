@@ -1,8 +1,8 @@
 ---
 nom: Inocybe beaucensis C. Kaufholtz-Couture nom. prov.
 date: 2019-07-01 00:00:00
-image: https://live.staticflickr.com/65535/41661960584_5b278918a8_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/41661960584/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
+image: https://live.staticflickr.com/4348/36837420235_880dea8a1c_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/36837420235/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
 album-flickr:
   - 72157691525765070
 
@@ -28,8 +28,8 @@ collections:
     date: 24 août 2017
     planche:
       numero: cKc0662-0206
-      miniature: https://c2.staticflickr.com/2/1726/41661960584_a7ff6d8a02_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/41661960584/in/photostream/
+      miniature: https://live.staticflickr.com/65535/41661960584_5b278918a8_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/41661960584/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
     geolocalisation: 46°00’06.05"N 70°56’10.08"O
     elevation: 315 m
     determinee: Claude Kaufholtz-Couture (provisoire)

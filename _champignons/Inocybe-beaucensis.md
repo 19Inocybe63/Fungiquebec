@@ -19,8 +19,8 @@ details:
   genre: Inocybe
   espece: <i>Inocybe beaucensis C. Kaufholtz-Couture nom. prov.</i> Grund & D.E. Stuntz
   sous-genre: Inocybe (Fr.) Fr.
-  section: Inocybe (= Lacerae Fries)
-  sous-section: Lacerinae (Fr.) M Bon
+  section: 
+  sous-section: 
   litterature: <i>Inocybe beaucensis</i> C. Kaufholtz-Couture nom. prov. (article en préparation)
 
 collections:

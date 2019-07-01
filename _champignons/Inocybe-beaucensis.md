@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe beaucensis C. Kaufholtz-Couture nom. prov.</i> Grund & D.E. Stuntz
+  espece: <i>Inocybe beaucensis C. Kaufholtz-Couture nom. prov.</i>
   sous-genre: Inocybe (Fr.) Fr.
   section: 
   sous-section: 

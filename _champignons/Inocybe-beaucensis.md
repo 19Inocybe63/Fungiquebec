@@ -114,7 +114,7 @@ description:
   columelle: 
   comestibilite: NON
   commentaires: |
-    De Claude Kaufholtz-Couture. « Cette collection (cKc0662) vient de chez Daan. »
+    De Claude Kaufholtz-Couture. « Cette collection (cKc0662 & cKc0733) vient de chez Daan. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -48,6 +48,6 @@ Le cours d'initiation a quatre modules d’études (en PDF) ainsi que des PowerP
 * Heure : de 9:00 à 12:00
 * Important : Initialement, le cours est prévu pour quatre personnes, mais il est possible que ce nombre soit augmenté à 6 participants
 * Date limite d’inscription au cours : 1 août 2019
-* Coût : Les coûts sont uniquement pour la location de la salle (pour 4 participants : environ 100,00 $ par participants); le cours est gratuit
+* Coût : Les coûts sont uniquement pour la location de la salle (pour 4 participants : environ 50,00 $ par participants); le cours est gratuit
 * Adresse de courriel électronique : fungiquebec@gmail.com
 * Professeur : Claude Kaufholtz-Couture

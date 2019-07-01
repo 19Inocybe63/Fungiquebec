@@ -37,7 +37,7 @@ collections:
   - fongarium: cKc0733
     date: 21 août 2018
     planche:
-      numero: cKc0662-0206
+      numero: 
       miniature: 
       originale: 
     geolocalisation: 46°00’06.05"N 70°56’10.08"O

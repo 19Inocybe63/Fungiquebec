@@ -1,8 +1,8 @@
 ---
 nom: Inocybe beaucensis C. Kaufholtz-Couture nom. prov.
 date: 2019-07-01 00:00:00
-image: https://c1.staticflickr.com/5/4348/36837420235_880dea8a1c_n.jpg
-image-originale: https://www.flickr.com/photos/kaufholtz/36837420235/in/photolist-Y8cpD6-Y8cnsT
+image: https://live.staticflickr.com/65535/41661960584_5b278918a8_n.jpg
+image-originale: https://www.flickr.com/photos/kaufholtz/41661960584/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
 album-flickr:
   - 72157691525765070
 

@@ -32,4 +32,4 @@ Robert HOFRICHTER, est biologiste marin et journaliste. Il a fondé l’organism
 
 
 #### NDLR
-Un livre qui aborde l’importance du monde des champignons dans notre vie et pour notre survie. Véritable quête d’informations sur le règne des fungi.
+J’ai littéralement dévoré ce livre; bravo à l’auteur, et merci de nous partager sa passion. Un livre qui aborde l’importance du monde des champignons dans notre vie et pour notre survie. Véritable quête d’informations sur le règne des fungi.

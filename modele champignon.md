@@ -157,6 +157,7 @@ description:
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
+  herbier-qfb: 
   hymenium: 
   hymenocystides: 
   hymenophore: 

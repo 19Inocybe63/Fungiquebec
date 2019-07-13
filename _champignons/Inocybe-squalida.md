@@ -212,8 +212,9 @@ description:
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
-  herbier-qfb: 000-0000
-    Ressources naturelles Canada, Centre de foresterie des Laurentides; curateur Philippe (philippe.tanguay@canada.ca)
+  herbier-qfb: |
+    000-0000
+    Ressources naturelles Canada, Centre de foresterie des Laurentides; curateur Philippe Tanguay (philippe.tanguay@canada.ca)
     Natural Resources Canada, Laurentian Forestry Centre
     1055 rue du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
   hymenium: 

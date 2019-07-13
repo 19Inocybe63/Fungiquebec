@@ -204,6 +204,7 @@ description:
   microconidies: 
   mode-de-croissance: 
   mycelium-basal: 
+  mycoflora-project: 
   myxocarpe: 
   nouvelle-espece: 
   note-taxonomique: 

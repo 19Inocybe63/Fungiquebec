@@ -203,6 +203,7 @@ description:
   medulla-clavulaire: 
   microconidies: 
   mode-de-croissance: 
+  mushroom-observer: 
   mycelium-basal: 
   mycoflora-project: 
   myxocarpe: 

@@ -174,6 +174,10 @@ description:
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
+    herbier-qfb: |
+    000-0000
+    Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
+    Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 
   hymenocystides: 
   hymenophore: 
@@ -219,7 +223,9 @@ description:
   medulla-clavulaire: 
   microconidies: 
   mode-de-croissance: 
+  mushroom-observer: MO330299; MO330300
   mycelium-basal: 
+  mycoflora-project: MF59624 (cKc0736); MF59625 (cKc0737)
   myxocarpe: 
   nouvelle-espece: 
   note-taxonomique: 

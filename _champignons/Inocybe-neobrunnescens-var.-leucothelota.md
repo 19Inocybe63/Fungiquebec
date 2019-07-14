@@ -1,6 +1,6 @@
 ---
 nom: Inocybe neobrunnescens var. leucothelota
-date: 2019-05-22 00:00:00
+date: 2019-07-14 00:00:00
 image: https://live.staticflickr.com/1897/43350774615_c9888fc7b1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/43350774615/in/photolist-293L5cp-293L3Yx-2amuTmC/
 album-flickr:
@@ -174,7 +174,7 @@ description:
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
-    herbier-qfb: |
+  herbier-qfb: |
     000-0000
     Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
     Curateur Philippe Tanguay (philippe.tanguay@canada.ca)

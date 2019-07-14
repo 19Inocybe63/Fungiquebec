@@ -214,7 +214,7 @@ description:
   medulla-clavulaire: 
   microconidies: 
   mode-de-croissance: 
-  Mushroom Observer: MO330285
+  mushroom-observer: MO330285
   mycelium-basal: 
   mycoflora-project: MF59616 (cKc0727)
   myxocarpe: 

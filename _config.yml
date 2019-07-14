@@ -535,8 +535,8 @@ champs-description:
     label: Commentaires
   - name: sequences
     label: Séquences
-  - name: mushroom-observer: 
-    label: Mushroom Observer: 
+  - name: mushroom-observer
+    label: Mushroom Observer
   - name: mycoflora-project
     label: Mycoflora Project
   - name: herbier-qfb

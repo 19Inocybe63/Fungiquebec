@@ -1,6 +1,6 @@
 ---
 nom: Inocybe occulta
-date: 2019-05-27 07:00:00
+date: 2019-07-14 07:00:00
 image: https://live.staticflickr.com/1894/30378068308_4c2ffafe8a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30378068308/in/photolist-2apLXMv-Nhpxmq/
 album-flickr:
@@ -165,6 +165,10 @@ description:
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
+  herbier-qfb: |
+    000-0000
+    Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
+    Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 
   hymenocystides: 
   hymenophore: 
@@ -210,7 +214,9 @@ description:
   medulla-clavulaire: 
   microconidies: 
   mode-de-croissance: 
+  Mushroom Observer: MO330285
   mycelium-basal: 
+  mycoflora-project: MF59616 (cKc0727)
   myxocarpe: 
   nouvelle-espece: 
   note-taxonomique: 

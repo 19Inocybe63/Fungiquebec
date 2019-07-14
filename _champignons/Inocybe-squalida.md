@@ -262,6 +262,7 @@ description:
   microconidies: 
   mode-de-croissance: isolé, dispersé à grégaire
   mycelium-basal: 
+  mycoflora proect: MF59627 (cKc0641)
   myxocarpe: 
   nouvelle-espece: 
   note-taxonomique: 

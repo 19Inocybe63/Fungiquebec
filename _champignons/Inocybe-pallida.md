@@ -225,7 +225,7 @@ description:
   mode-de-croissance: 
   mushroom-observer: MO329954; MO329955
   mycelium-basal: 
-  mycoflora-project: MF59601 (cKc0607); MF59602 (cKc0708)
+  mycoflora-project: MF59601 (cKc0707); MF59602 (cKc0708)
   myxocarpe: 
   nouvelle-espece: 
   note-taxonomique: 

@@ -7,7 +7,7 @@ album-flickr:
   - 72157708970981597
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe pâle
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

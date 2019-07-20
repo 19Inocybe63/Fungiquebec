@@ -35,6 +35,76 @@ collections:
     elevation: 352 m
     determinee: Claude Kaufholtz-Couture
     confirmee: 
+  - fongarium: cKc0657
+    date: 23 août 2017
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 46°00’06.05"N 70°56’10.08"O
+    elevation: 315 m
+    determinee: 
+    confirmee: ADN
+  - fongarium: cKc0723
+    date: 20 août 2018
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 45°59’09.04"N 70°57’10.99"O
+    elevation: 352 m
+    determinee: 
+    confirmee: ADN
+  - fongarium: cKc0724
+    date: 20 août 2018
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 45°59’09.04"N 70°57’10.99"O
+    elevation: 352 m
+    determinee: 
+    confirmee: ADN
+  - fongarium: cKc0726
+    date: 20 août 2018
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 45°59’09.04"N 70°57’10.99"O
+    elevation: 352 m
+    determinee: 
+    confirmee: ADN
+  - fongarium: cKc0729
+    date: 20 août 2018
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 45°59’09.04"N 70°57’10.99"O
+    elevation: 352 m
+    determinee: 
+    confirmee: ADN
+  - fongarium: cKc0730
+    date: 20 août 2018
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 45°59’09.04"N 70°57’10.99"O
+    elevation: 352 m
+    determinee: 
+    confirmee: ADN
+  - fongarium: cKc0734
+    date: 21 août 2018
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 46°00’06.05"N 70°56’10.08"O
+    elevation: 315 m
+    determinee: 
+    confirmee: ADN
   - fongarium: cKc0735
     date: 21 août 2018
     planche:

@@ -34,9 +34,9 @@ collections:
   - fongarium: cKc0685
     date: 18 septembre 2017
     planche:
-      numero: 
-      miniature: 
-      originale: 
+      numero: cKc0685-0211
+      miniature: https://live.staticflickr.com/4850/32603038578_782b58dc52_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/32603038578/in/photolist-RF26uN-27FedQ7-YJhFyJ-XMgDF4
     geolocalisation: 45°59’09.04"N 70°57’10.99"O
     elevation: 352 m
     determinee: Claude Kaufholtz-Couture

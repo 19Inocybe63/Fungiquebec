@@ -4,7 +4,7 @@ date: 2019-07-20 00:00:00
 image: https://c1.staticflickr.com/5/4368/36693037012_ca5da2e328_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36693037012/in/photolist-XUrpxb
 album-flickr:
-  - 
+  - 72157709765164346
 
 details:
   nom-francais: Inocybe lacéré var. lacéré

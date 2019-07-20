@@ -38,7 +38,7 @@ collections:
   - fongarium: cKc0657
     date: 23 août 2017
     planche:
-      numero: 
+      numero: cKc0657-0201
       miniature: https://live.staticflickr.com/938/26656454997_db0b0e324a_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/26656454997/in/photolist-2aqWemc-GBxinF-WTMXLL-Yawpcz-WTMWp7
     geolocalisation: 46°00’06.05"N 70°56’10.08"O

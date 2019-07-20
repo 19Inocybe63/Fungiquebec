@@ -1,6 +1,6 @@
 ---
 nom: Inocybe cincinnata var. major
-date: 2018-06-28 08:00:00
+date: 2018-07-20 00:00:00
 image: https://c1.staticflickr.com/5/4256/35013819924_bb5814f494_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35013819924/in/photolist-Vm3XqL-Vm3YNq
 album-flickr:
@@ -30,8 +30,18 @@ collections:
       numero: cKc0610-0207
       miniature: https://c2.staticflickr.com/2/1725/42648804572_37a544b58d_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/42648804572/in/photolist-27YJgJL-Vm3XqL-Vm3YNq
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    elevation: 90 m
+    determinee: Claude Kaufholtz-Couture (provisoire)
+    confirmee: 
+  - fongarium: cKc0612
+    date: 30 juin 2017
+    planche:
+      numero: 
+      miniature: 
+      originale: 
+    geolocalisation: 46°47'22.4"N 71°14'14.8"O
+    elevation: 90 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
 

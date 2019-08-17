@@ -120,7 +120,8 @@ description:
   dendrohyphydies: 
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
-  derniere-correction: 
+  derniere-correction:
+  diagnose-originale:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

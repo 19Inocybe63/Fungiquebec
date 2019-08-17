@@ -177,6 +177,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: Demnächst
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

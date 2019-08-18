@@ -1,6 +1,6 @@
 ---
 nom: Inocybe curvipes
-date: 2019-07-20 00:00:00
+date: 2019-08-18 00:00:00
 image: https://c1.staticflickr.com/5/4369/36429212670_07c26394f5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36429212670/in/photolist-Xv8eKC-Xv8azo
 album-flickr:
@@ -218,6 +218,8 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: |
+    <b>Inocybe curvipes</b> n. sp. Pileus carnosus, tenuis, e convexo explanatus, inæqualis, obtusus, adpresse fibrillosus vel fibrilloso-squamulosus, glabrecens, brunneo-vel fuscopallescens, 2-2,5 cm latus. Stipes solidus, curvatus, flexuosus vel tortus, deorsum attenuatus, fibrillosus, pallidus, circiter 3 cm altus et 5 mm crassus. Lamellæ adnexæ, secedente, confertæ, ex albido-pallente fuscescentes, 3 mm latæ. Sporæ angulato-ellipsoidæ, 9-15 x 5-7 mmm. Cystidia fusoideo-ventricosa, apice muriculata, 60-70 x 19-22 mmm. In terra humosa nuda prope Mustiala.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

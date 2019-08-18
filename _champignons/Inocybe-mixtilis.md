@@ -155,12 +155,12 @@ description:
   derniere-correction: 
   diagnose-originale: |
     Inocybe mixtilis Britz. Hym. Südb. IV, p. 152, f. 21, In rimo-
-  sa Britz. Derm. et Mel. p. 150, fig. 21. nec alior. – Pileo subvi-
-  scoso, fibrilloso, rimuloso, pallide flavo-aureo, obcampanulato, dein
-  expanso, medio flavo-rufo umbonatoque ; stipite ex albido flavo ;
-  lamellis confertis, pallide griseo-violaceis ; spooris oblogis, breviter
-  obtuseque angulosis. 10 x 6.
-	  Hab. in silvis Bavariæ australis.
+    sa Britz. Derm. et Mel. p. 150, fig. 21. nec alior. – Pileo subvi-
+    scoso, fibrilloso, rimuloso, pallide flavo-aureo, obcampanulato, dein
+    expanso, medio flavo-rufo umbonatoque ; stipite ex albido flavo ;
+    lamellis confertis, pallide griseo-violaceis ; spooris oblogis, breviter
+    obtuseque angulosis. 10 x 6.
+	Hab. in silvis Bavariæ australis.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

@@ -139,7 +139,7 @@ description:
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
   diagnose-originale: |
-    <b>Inocybe neobrunnescens var. leucothelota</b>.
+    <b>Inocybe neobrunnescens var. leucothelota</b>. Pileus 1.5-5 cm latus, e campanulato expansus, umbonatus, umbone fibrillis albis obtecto, margine glaber, rimosus; umbrinus, umbone, autem albido; caro alba, immutabilis, odore spermatico. Lamellæ adnatæ, griseo-olivaceæ, aciebus albidis. Stipes 3.5-5 cm longus, 5-7 mm crassus, teres, æquicrassus, basi haud bulbosus, glaber, e pallido umbrinus, ætate atrobrunneus. Sporæ 8-10 x 4.5-5.5 µm subreniformes, pleurocystidia nulla, cheilocystidia 33-66 x 11-24 µm, clavate, tenuitunicata. Typus ACAD 11597 in convalle prope Kentvilla, comitato Kings, N.S. lectus; holotypus in herbario Universitatis Acadia (ACAD), isotypus in herbario Universitatis Washingtonii (WTU) conservatus. A typo differt præcipue fibrillis albidis ad umbonem peristentibus.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

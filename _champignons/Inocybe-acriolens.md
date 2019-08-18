@@ -128,6 +128,9 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: |
+    Inocybe acriolens. Inocybe acriolens. Pileus 2-2.5 cm latus, e convexo explanatus, umbonatus, margine obtuso, adpresse fibrillosus,   strato superficiali hypharum pallidarum obtectus, umbone pallido, alibi brunneus; caro pallida, immutabilis, odore forti, pungenti,     ingrato. Lamellæ adnatæ, stipitem versus late rotundatæ, latæ, brunneæ, marginibus concoloribus. Stipes 4-4.5 cm longus, 4-5 mm         crassus, æqualis, basi haud bulbosa, sericeo-nitens, omino albo-pruinosus, apicem versus subincarnatus, alibi brunneus. Sporæ 6.5-10 x   5-6.5 µm, polyedricæ necnon verruculosæ, verruculis 5-8, obtusis, plerumque indistinctis; pleurocystidia 45-60 x 11-21 µm, fusiformia,   crassitunicata; caulocystidia ad basem stipitis pleurocystidiis similia.
+  Typus AU 10493, Sini Scotts comitato Kings, Acadiæ, in sylva arborum coniferarum lectus, pars in herbario Universitatis Acadiæ, pars     in herbario Universitatis Washingtonii conservatus.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

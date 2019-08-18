@@ -178,7 +178,7 @@ description:
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
   diagnose-originale: |
-    <b>Inocybe squalida</b> nom. prov. C. Kaufholtz-Couture. 
+    <b>Inocybe squalida</b> nom. prov. C. Kaufholtz-Couture. Pileus 8-15 mm Ø, ± conique au début, convexe à étalé, légèrement déprimé, ± mamelonné, fibrilleux et squamuleux, ± méchuleux vers le centre, ± hérissé, brun à brun rougeâtre, plus foncé au centre. Lames échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, larges à subventrues, crème jaunâtre, au liseré blanchâtre. Stipe 13-19 x 1-2 mm Ø, cylindrique, plein, avec petites fibrilles blanchâtres à l'apex, subbulbeux, brun rougeâtre, courbant légèrement à la base. Basidiospores goniosporées, subcylindracées, subamygdaliformes à lacéroïdes, parfois subrectangulaires à rectangulaires, avec apex subconiques en vue frontale, à noduleuses anguleuses vues de profil, majoritairement pentagone rarement hexagone, à paroi mince, avec petit appendice hilaire, à contenu uniguttulé, brun pâle à ± brun rougeâtre dans l'eau glycérinée 20%, pas de réaction dans le melzer, non cyanophiles (9,5) 10,4-13 (15,5) × (5,8) 6-6,9 (7,1) µm, Q = (1,6) 1,7-2 (2,6); N = 30, Me = 11,9 × 6,4 µm; Qe = 1,9. 
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

@@ -1,6 +1,6 @@
 ---
 nom: Inocybe squalida C. Kaufholtz-Couture nom. prov.
-date: 2019-07-24 00:00:00
+date: 2019-08-18 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -177,7 +177,8 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
-  diagnose-originale: Demnächst
+  diagnose-originale: |
+    <b>Inocybe squalida</b> nom. prov. C. Kaufholtz-Couture. 
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

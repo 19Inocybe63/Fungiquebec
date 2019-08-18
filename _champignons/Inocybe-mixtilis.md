@@ -154,7 +154,7 @@ description:
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
   diagnose-originale: |
-    Inocybe mixtilis Britz. Hym. Südb. IV, p. 152, f. 21, In rimosa Britz. Derm. et Mel. p. 150, fig. 21. nec alior.
+    <b>Inocybe mixtilis</b> Britz. Hym. Südb. IV, p. 152, f. 21, <i>In rimosa</i> Britz. Derm. et Mel. p. 150, fig. 21. nec alior.
     Pileo subviscoso, fibrilloso, rimuloso, pallide flavo-aureo, obcampanulato, dein expanso, medio flavo-rufo umbonatoque;
     stipite ex albido flavo; lamellis confertis, pallide griseo-violaceis; spooris oblogis, breviter obtuseque angulosis. 10 x 6.
     Hab. in silvis Bavariæ australis.

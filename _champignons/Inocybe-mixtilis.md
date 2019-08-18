@@ -1,6 +1,6 @@
 ---
 nom: Inocybe mixtilis
-date: 2018-09-20 00:00:00
+date: 2019-08-18 00:00:00
 image: https://c1.staticflickr.com/5/4409/35760513133_d1e22eba87_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35760513133/in/photolist-272ocnt-Wu2YFg-Wu2XNV
 album-flickr:
@@ -153,6 +153,14 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: |
+    Inocybe mixtilis Britz. Hym. Südb. IV, p. 152, f. 21, In rimo-
+  sa Britz. Derm. et Mel. p. 150, fig. 21. nec alior. – Pileo subvi-
+  scoso, fibrilloso, rimuloso, pallide flavo-aureo, obcampanulato, dein
+  expanso, medio flavo-rufo umbonatoque ; stipite ex albido flavo ;
+  lamellis confertis, pallide griseo-violaceis ; spooris oblogis, breviter
+  obtuseque angulosis. 10 x 6.
+	  Hab. in silvis Bavariæ australis.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

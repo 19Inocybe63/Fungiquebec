@@ -128,7 +128,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
-  diagnosse-originale: |
+  diagnose-originale: |
     <b>Inocybe nitidiuscula</b> Britz. Hym. Südbayer VIII. P. 7, f. 316. Hab. in silvaticis Bavariæ australis. – Atre-rufa ; sporæ 8-10 x 5-6. <i>I. delectæ</i> et <i>I. lucifugæ</i> affinis.
   dicaryophyses: 
   dichophyses: 

@@ -1,6 +1,6 @@
 ---
 nom: Inocybe calospora
-date: 2017-07-22 00:00:00
+date: 2019-08-31 00:00:00
 image: https://c1.staticflickr.com/1/527/20002235135_b8e49c6294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20002235135/in/photolist-Ajog3r-wtwKDr-wtwFD2
 album-flickr:

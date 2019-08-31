@@ -97,7 +97,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Bresadolo, Giacomo</b>. <i>Fungi Tridentini, novi vel nondum delineati, descripti et iconibus illstrati</i>, vol. 1, Tridenti, 1881.
+    <b>Bresadola, Giacomo</b>. <i>Fungi Tridentini, novi vel nondum delineati, descripti et iconibus illstrati</i>, vol. 1, Tridenti, 1881.
     <b>Kaufholtz-Couture, Claude</b>. <i>Interactive key of Inocybe</i> - v01 (Mar 2018), Fungiquebec
     <b>Kropp, Bradley R.; Matheny, P. Brandon, et al</b>. <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection</i> «Marginatae», Mycologia, 102(3), 2010, pp. 560-573, 14 p.
     <b>Kuo, Michael; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis</i> (<i>Inocybaceae, Agaricales</i>), MycoKeys 11:23-31 (2015), 9 p.

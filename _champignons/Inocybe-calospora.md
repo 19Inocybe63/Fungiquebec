@@ -180,6 +180,8 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: |
+    <b>Inocybe calospora</b>. Pileus carnosulus, conico-campanulatus, dein expanso-umbonatus, rufescenti-fuscus, sublutescens, primo villoso-fibrillosus, postea squamis concoloribus adpresis vestitus, margine fibrilloso albidoque, siccus, 2-3 cm latus ; lamellæ confertæ, e palido cinnamomeo-fulventes, acie albido-pruinata, ventricosæ, liberæ ; stipes farctus, rufescenti-lividus, glaber, apice albo-pruinatus, bulbillosus, 3-5 cm. longus, 2-4 mm. crassus. Caro subconcolor, inodora, saporeque acidulo. Sporæ globosæ, eximie aculeatæ, 10 mmm. diam. in cumulo fulvo-ferrugineæ, sub micr. vivide ochraceæ ; basidia clavata, 30 x 8 mmm., cystidia fusoidea, apice fuscidulo-muriculata 45-55 x 8-10 mmm. Aestate. Locis udis ad margines rivulorum in nemore frondoso prope Magras quotannis parcissime obvia. Ab Inoc. scabella, cui probabiliter a Fries subjuncta, ob sporas præsertim sejungenda.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

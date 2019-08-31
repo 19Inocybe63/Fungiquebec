@@ -1,6 +1,6 @@
 ---
 nom: Inocybe squalida C. Kaufholtz-Couture nom. prov.
-date: 2019-08-24 10:00:00
+date: 2019-08-31 10:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -114,7 +114,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sablonneux, perturbé, sentier forestier; sous feuillus <i>Betula</i>, <i>Fagus</i>
+  biotopes: pousse au sol, perturbé, sentier forestier, dans des ornières; sous feuillus <i>Betula</i>, <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 
@@ -262,7 +262,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolé, dispersé à grégaire
+  mode-de-croissance: grégaire en petit groupe
   mushroom-observer: MO273632 (cKc0641)
   mycelium-basal: 
   mycoflora-project: MF59627 (cKc0641)

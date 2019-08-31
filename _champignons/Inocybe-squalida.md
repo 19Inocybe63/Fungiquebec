@@ -114,7 +114,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, perturbé, sentier forestier, dans des ornières; sous feuillus <i>Betula</i>, <i>Fagus</i>
+  biotopes: pousse au sol, perturbé, sentier forestier, dans les ornières; sous feuillus <i>Betula</i>, <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

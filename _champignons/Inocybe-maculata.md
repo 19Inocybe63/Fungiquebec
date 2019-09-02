@@ -172,7 +172,7 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
-  Diagnose-originale: |
+  diagnose-originale: |
     <b>Inocybe maculata</b> B. (pl. IX, fig. 2). — Moyen, de 3 à 8 centimètres de hauteur. Chapeau charnu au centre, beaucoup moins vers les bords, campanulé, puis étalé, umboné, crevassé, couvert de fibrilles brunes apprimées, qui le font paraître d'un fauve fuligineux ; revêtu en outre, principalement vers le sommet, de squames pileuses appliquées et blanchâtres. Ces squames sont généralement distribuées en zones concentriques qui descendent plus ou moins vers la marge. Les lames sont presque libres, de couleur fauve un peu olivâtre, et ont environ 5 millimètres de large. Le pédicule est plein, cylindrique, à peine épaissi à la base, légèrement fibrilleux et de la couleur du chapeau, quoique plus pâle, surtout au sommet, qui est furfuracé. Les spores sont brunes, lisses, oblongues et souvent un peu cymbiformes, avec des gouttelettes effacées ou nébuleuses intérieurement : leur longueur est de 0mm,010 à 0mm,013 sur 0mm,005 à 0mm,006 de large. La chair est blanche ou peu colorée et l'odeur peu notable. Cette espèce est bien voisine de l’<i>In. rimosa</i>, mais elle s'en distingue par les spores un peu grandes et surtout par les squames blanches qui recouvrent le chapeau. Je l'ai trouvée en août 1881 dans la forêt de Montmorency. Je l'ai reçue la même année, en septembre, de M. Briard qui l'avait récoltée aux environs de Troyes. Depuis je l'ai récoltée en nombre dans les bois d'Ecouen. Elle se plaît dans les sols argileux, le long des routes et des ornières.
   dicaryophyses: 
   dichophyses: 

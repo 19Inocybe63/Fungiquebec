@@ -1,6 +1,6 @@
 ---
 nom: Inocybe rimosa
-date: 2017-07-22 00:00:00
+date: 2019-09-02 00:00:00
 image: https://c2.staticflickr.com/6/5831/19949912134_a097b3d209_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19949912134/in/photolist-AYH9DB-woUvQj-x4iWC5/
 album-flickr:
@@ -51,6 +51,7 @@ description:
     <b>Matheny, P. Brandon,; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
     <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
     <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i>, v04 (23-Dec-2017), University of Tennessee
+    <i>Der Führer in die Pilzkunde</i> : Anleitung zum methodischen, leichten und sichern Bestimmen der in Deutschland vorkommenden Pilze : von Paul Kummer, Verlag von Luppe’s Buchhandung, 1871.
   ascome: 
   ascospores: 
   asques: 
@@ -126,6 +127,8 @@ description:
   depots-de-pigment-interhyphal: 
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
+  diagnose-originale: |
+    Hut 0,03-0,1 m. breit, gelblich, röthlich, braun oder düsterbrann, dünn, innen weißlich. St. am Strunde meist etwas verdikt, an der Spitze bereist. L. blaß, dann grau oder schmutziggelb, endlich braun. An schattigen Orten in Wäldern, an Wegen, aus Strasplätzen u.s.w., im S. und H., sehr häusig. Mehr oder minder mit eigenthümlichem widerlichem Steruch, nicht eßbar, sogar verdächtig. Ein in Größe und Färbung sehr verschiedener Pilz. Rißpilz <b>I. rimosa</b>.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

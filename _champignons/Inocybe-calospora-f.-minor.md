@@ -287,7 +287,8 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: |
+    Current name = <i>Inocybe calospora</i> Quél., in Bresadola
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

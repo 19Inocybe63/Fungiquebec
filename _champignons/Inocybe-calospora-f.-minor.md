@@ -1,6 +1,6 @@
 ---
 nom: Inocybe calospora f. minor
-date: 2018-05-05 00:00:00
+date: 2019-09-07 00:00:00
 image: https://live.staticflickr.com/4398/36693547322_d22cf51e49_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36003198074/in/photolist-XS6WT9-WRtPjd-XS719Y-WRtNso
 album-flickr:
@@ -113,7 +113,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Ces collections (cKc0659 & cKc0663) viennent de chez Daan; et elles possèdent des basidiospores, ainsi que des digitations, beaucoup plus petites que l’holotype. De plus, l’habitat d’où proviennent les deux collections (cKc0659 & cKc0663) n’est pas habituel. En effet, <i>I. calospora</i> pousse surtout sous feuillus, <i>Quercus</i>, et même dans les bois riverains sous <i>Alnus</i>, et les sols sableux, et plus rarement dans la mousse. Nous avons déjà trouvé <i>I. calospora</i> dans un parc dans un sol sableux au pH 4-6. Pour notre étude (cKc0659 & cKc0663), les deux collections poussent sous feuillus, dans une terre arable grasse et bien humide, au pH 7-8. »
+    De Claude Kaufholtz-Couture. « Ces collections (cKc0659 & cKc0663) viennent de chez Daan, et elles possèdent des basidiospores, ainsi que des digitations, beaucoup plus petites que <i>I. calospora</i>. De plus, l’habitat d’où proviennent les deux collections (cKc0659 & cKc0663) n’est pas habituel. En effet, <i>I. calospora</i> pousse surtout sous feuillus, <i>Quercus</i>, et même dans les bois riverains sous <i>Alnus</i>, et les sols sableux, et plus rarement dans la mousse. Nous avons déjà trouvé <i>I. calospora</i> dans un parc dans un sol sableux au pH 4-6. Pour notre étude (cKc0659 & cKc0663), les deux collections poussent sous feuillus, dans une terre arable grasse et bien humide, au pH 7-8. »
   conidies: 
   conidiome: 
   conidiophores: 

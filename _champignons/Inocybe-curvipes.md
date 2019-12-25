@@ -203,7 +203,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: présente, fugace
+  cortine: blanchâtre, fugace
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 

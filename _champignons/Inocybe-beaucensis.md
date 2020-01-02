@@ -1,13 +1,13 @@
 ---
 nom: Inocybe beaucensis C. Kaufholtz-Couture nom. prov.
-date: 2019-07-14 00:00:00
+date: 2020-01-02 00:00:00
 image: https://live.staticflickr.com/4348/36837420235_880dea8a1c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36837420235/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
 album-flickr:
   - 72157691525765070
 
 details:
-  nom-francais: Inocybe beauceron
+  nom-francais: Inocybe beauceron / Inocybe de la Beauce
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

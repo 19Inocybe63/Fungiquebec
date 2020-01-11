@@ -44,7 +44,7 @@ collections:
   - fongarium: cKc0574-SM0003
     date: 29 septembre 2016
     planche:
-      numero: cKc0574-0165
+      numero: cKc0574-SM0004
       miniature: https://live.staticflickr.com/4202/34835843751_e654bfd36b_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/34835843751/in/photolist-VDfnzd-WEkUdS-V5jNFH-JMVHLs-WmEkJS-TFhKRU-LLDiY9-MAKDsr-JN5vLr
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O

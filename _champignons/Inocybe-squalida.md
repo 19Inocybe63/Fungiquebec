@@ -1,6 +1,6 @@
 ---
 nom: Inocybe squalida C. Kaufholtz-Couture nom. prov.
-date: 2020-01-02 00:00:00
+date: 2020-01-11 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -30,6 +30,16 @@ collections:
       numero: cKc0556-0151
       miniature: https://c1.staticflickr.com/1/752/31075700664_ec9eda465f_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
+    geolocalisation: 46°54'15.62" N 71°17'04.38" O
+    elevation: 245 m
+    determinee: Claude Kaufholtz-Couture nom. prov.
+    confirmee: ADN
+  - fongarium: cKc0556
+    date: 3 septembre 2016
+    planche:
+      numero: cKc0556-SM0001
+      miniature: https://live.staticflickr.com/3674/33598526652_2206f74f4e_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/33598526652/in/photolist-Pm469u-LFczk1-QqHkoW-TbZeqh-Qu2rcp
     geolocalisation: 46°54'15.62" N 71°17'04.38" O
     elevation: 245 m
     determinee: Claude Kaufholtz-Couture nom. prov.

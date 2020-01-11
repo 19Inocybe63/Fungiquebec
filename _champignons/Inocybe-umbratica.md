@@ -1,6 +1,6 @@
 ---
 nom: Inocybe umbratica
-date: 2017-07-22 00:00:00
+date: 2020-01-11 00:00:00
 image: https://c1.staticflickr.com/9/8538/29384903204_af06e7da2d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29384903204/in/photolist-LLDiY9-MAKDsr
 album-flickr:
@@ -37,6 +37,16 @@ collections:
       numero: cKc0574-0165
       miniature: https://c1.staticflickr.com/3/2812/33918807850_c2e79a0c4c_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/33918807850/in/dateposted/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0574
+    date: 29 septembre 2016
+    planche:
+      numero: cKc0574-0165
+      miniature: https://live.staticflickr.com/4202/34835843751_e654bfd36b_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/34835843751/in/photolist-VDfnzd-WEkUdS-V5jNFH-JMVHLs-WmEkJS-TFhKRU-LLDiY9-MAKDsr-JN5vLr
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 

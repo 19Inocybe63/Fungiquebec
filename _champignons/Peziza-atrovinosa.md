@@ -34,7 +34,7 @@ collections:
   - fongarium: cKc0331
     date: 7 juillet 2015
     planche:
-      numero: cKc0331-0123
+      numero: cKc0331-SM0003
       miniature: https://live.staticflickr.com/2938/33571444000_b7d727deb3_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/33571444000/in/photolist-TbZeqh-V5jNFH-T9AqG1-SnGfJ6
     geolocalisation: 

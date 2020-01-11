@@ -1,6 +1,6 @@
 ---
 nom: Peziza atrovinosa
-date: 2017-04-10 00:00:00
+date: 2020-01-11 00:00:00
 image: https://c2.staticflickr.com/2/1606/24672563904_69f71fc804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/24672563904/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
 album-flickr:
@@ -27,6 +27,16 @@ collections:
       numero: cKc0331-0123
       miniature: https://c2.staticflickr.com/2/1617/26612029266_5e2bebfa84_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/26612029266/in/photolist-Kkxbne-JvVEKJ-Kspeu4-KsoCoT-JvYXiB-GxBB9N-DAekEQ
+    geolocalisation: 
+    altitude: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0331
+    date: 7 juillet 2015
+    planche:
+      numero: cKc0331-0123
+      miniature: https://live.staticflickr.com/2938/33571444000_b7d727deb3_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/33571444000/in/photolist-TbZeqh-V5jNFH-T9AqG1-SnGfJ6
     geolocalisation: 
     altitude: 
     determinee: 

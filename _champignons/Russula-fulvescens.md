@@ -1,6 +1,6 @@
 ---
 nom: Russula fulvescens
-date: 2017-04-07 00:00:00
+date: 2020-01-11 00:00:00
 image: https://c1.staticflickr.com/9/8214/29040518066_72b46c7929_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29040518066/in/photolist-Lfdfgm
 album-flickr:
@@ -27,6 +27,16 @@ collections:
       numero: cKc0539-0160
       miniature: https://c2.staticflickr.com/4/3860/33188329162_2d1f12d79a_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/33188329162/in/photostream/
+    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    elevation: 
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0539
+    date: 18 août 2016
+    planche:
+      numero: cKc0539-SM0002
+      miniature: https://live.staticflickr.com/2821/33063338833_c9023e1547_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/33063338833/in/photolist-SnGfJ6-SyJRZL-Lfdfgm
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 

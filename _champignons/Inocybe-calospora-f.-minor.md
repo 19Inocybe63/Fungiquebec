@@ -1,6 +1,6 @@
 ---
 nom: Inocybe calospora f. minor
-date: 2019-09-08 00:00:00
+date: 2020-01-20 00:00:00
 image: https://live.staticflickr.com/4398/36693547322_d22cf51e49_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36003198074/in/photolist-XS6WT9-WRtPjd-XS719Y-WRtNso
 album-flickr:
@@ -178,6 +178,10 @@ description:
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
+  herbier-qfb: |
+    32753 (cKc0663)
+    Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue       du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
+    Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 
   hymenocystides: 
   hymenophore: 

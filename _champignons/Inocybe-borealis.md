@@ -31,16 +31,6 @@ collections:
     elevation: 315 m
     determinee: Claude Kaufholtz-Couture (provisoire)
     confirmee: 
-  - fongarium: cKc0657
-    date: 23 août 2017
-    planche:
-      numero: cKc0657-0201
-      miniature: https://live.staticflickr.com/65535/26656454997_cbbbb74ab7_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/26656454997/in/photolist-GBxinF-2aqWemc-WTMXLL-Yawpcz-WTMWp7
-    geolocalisation: 46°00’06.05"N 70°56’10.08"O
-    elevation: 315 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
   - fongarium: cKc0661
     date: 24 août 2017
     planche:

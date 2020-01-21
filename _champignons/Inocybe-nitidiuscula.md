@@ -1,6 +1,6 @@
 ---
 nom: Inocybe nitidiuscula
-date: 2019-08-24 00:00:00
+date: 2020-01-21 00:00:00
 image: https://live.staticflickr.com/1860/42433175590_a528a19d35_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/42433175590/in/photolist-2ak7qqy-2ak7oqw-27DF7KG/
 album-flickr:
@@ -167,7 +167,7 @@ description:
   granules-calcaires: 
   groupe: 
   herbier-qfb: |
-    000-0000
+    32769 (cKc0725)
     Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
     Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 

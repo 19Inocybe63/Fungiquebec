@@ -1,6 +1,6 @@
 ---
 nom: Inocybe acriolens
-date: 2019-08-18 00:00:00
+date: 2020-01-21 00:00:00
 image: https://live.staticflickr.com/1851/29172055407_55f1e9d0f9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29172055407/in/photolist-2a8wou3-2a8wpX3-2a8wqvN-LrQpJx
 album-flickr:
@@ -167,7 +167,7 @@ description:
   granules-calcaires: 
   groupe: 
   herbier-qfb: |
-    000-0000
+    32762
     Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
     Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 

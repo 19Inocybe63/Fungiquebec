@@ -1,13 +1,13 @@
 ---
 nom: Inocybe borealis
-date: 2018-08-14 00:00:00
+date: 2020-01-20 00:00:00
 image: https://c1.staticflickr.com/5/4365/36695260702_1fb2638fc6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36695260702/in/photolist-Hc9K4d-XUCNyE-WWfXba
 album-flickr:
   - 72157694674946255
 
 details:
-  nom-francais: Inocybe du Nord
+  nom-francais: Inocybe du nord
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -35,8 +35,8 @@ collections:
     date: 23 août 2017
     planche:
       numero: cKc0657-0201
-      miniature: https://c1.staticflickr.com/1/938/26656454997_db0b0e324a_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/26656454997/in/photolist-GBxinF-WTMXLL-Yawpcz-WTMWp7
+      miniature: https://live.staticflickr.com/65535/26656454997_cbbbb74ab7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/26656454997/in/photolist-GBxinF-2aqWemc-WTMXLL-Yawpcz-WTMWp7
     geolocalisation: 46°00’06.05"N 70°56’10.08"O
     elevation: 315 m
     determinee: Claude Kaufholtz-Couture (provisoire)

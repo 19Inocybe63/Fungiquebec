@@ -1,6 +1,6 @@
 ---
 nom: Inocybe pallida
-date: 2019-07-18 00:00:00
+date: 2020-01-20 00:00:00
 image: https://live.staticflickr.com/916/29530714958_7b5757e989_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29530714958/in/photolist-LZwCHU-LZwGiu-282SVuy-LZwJP1/
 album-flickr:
@@ -175,7 +175,7 @@ description:
   granules-calcaires: 
   groupe: 
   herbier-qfb: |
-    000-0000
+    32756 (cKc0707)
     Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
     Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 

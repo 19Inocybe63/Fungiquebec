@@ -167,7 +167,7 @@ description:
   granules-calcaires: 
   groupe: 
   herbier-qfb: |
-    32762
+    32762 (cKc0718)
     Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
     Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 

@@ -1,6 +1,6 @@
 ---
 nom: Inocybe curvipes
-date: 2020-01-18 00:09:00
+date: 2020-01-21 00:09:00
 image: https://c1.staticflickr.com/5/4369/36429212670_07c26394f5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36429212670/in/photolist-Xv8eKC-Xv8azo
 album-flickr:
@@ -269,6 +269,7 @@ description:
   groupe: 
   herbier-qfb: |
     32752 (cKc0657)
+    32767 (cKc0723)
     Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
     Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 

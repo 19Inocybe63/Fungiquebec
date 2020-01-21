@@ -1,6 +1,6 @@
 ---
 nom: Inocybe flocculosa
-date: 2019-07-19 00:00:00
+date: 2020-01-21 00:00:00
 image: https://live.staticflickr.com/1814/29172554087_523ccc7129_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29172554087/in/photolist-27rZxAQ-27rZynj-LrSXYt
 album-flickr:
@@ -163,7 +163,7 @@ description:
   granules-calcaires: 
   groupe: 
   herbier-qfb: |
-    000-0000
+    32765 (cKc0721)
     Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
     Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 

@@ -1,6 +1,6 @@
 ---
 nom: Inocybe beaucensis C. Kaufholtz-Couture nom. prov.
-date: 2020-01-20 00:00:00
+date: 2020-01-23 00:00:00
 image: https://live.staticflickr.com/4348/36837420235_880dea8a1c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36837420235/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
 album-flickr:
@@ -180,7 +180,7 @@ description:
   granules-calcaires: 
   groupe: 
   herbier-qfb: |
-    32754 (cKc0662)
+    32754 (cKc0662); 32776 (cKc0733)
     Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue       du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
     Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 

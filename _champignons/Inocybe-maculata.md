@@ -1,6 +1,6 @@
 ---
 nom: Inocybe maculata
-date: 2019-09-02 00:00:00
+date: 2020-01-26 00:00:00
 image: https://c2.staticflickr.com/4/3736/9537628135_495f242585_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9537628135/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
 album-flickr:
@@ -70,6 +70,16 @@ collections:
       numero: cKc0626-0209
       miniature: https://c1.staticflickr.com/1/884/41177625380_7a9f494da6_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/41177625380/in/dateposted/
+    geolocalisation: 46°54'28.8"N 71°16'39.7"O
+    elevation: 230 m
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
+  - fongarium: cKc0626
+    date: 20 juillet 2017
+    planche:
+      numero: cKc0626-SM0006
+      miniature: https://live.staticflickr.com/65535/49445384228_4ac012f1b9_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/49445384228/in/photostream/
     geolocalisation: 46°54'28.8"N 71°16'39.7"O
     elevation: 230 m
     determinee: 

@@ -1,8 +1,8 @@
 ---
 layout: cle-tombio
 dossierTombio: inocybe
-nom: Key of Inocybe
-date: 2020-01-07 00:00:00
+nom: Key of Inocybe (Kaufholtz)
+date: 2020-03-22 00:00:00
 famille: Inocybaceae
 genre: Inocybe
 commentaire: |

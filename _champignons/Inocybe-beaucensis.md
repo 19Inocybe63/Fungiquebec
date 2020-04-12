@@ -39,7 +39,7 @@ collections:
     planche:
       numero: cKc0662-SM0007
       miniature: https://live.staticflickr.com/65535/49764858843_8d6545aef2_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/49764858843/in/photostream/
+      originale: https://www.flickr.com/photos/kaufholtz/49764858843/in/dateposted/
     geolocalisation: 46°00’06.05"N 70°56’10.08"O
     elevation: 315 m
     determinee: Claude Kaufholtz-Couture nom. prov.

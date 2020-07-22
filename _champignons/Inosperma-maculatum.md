@@ -16,11 +16,11 @@ details:
   sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Inocybaceae
-  genre: Inocybe
+  genre: Inosperma
   sous-genre: Inosperma
   section: Rimosae
   sous-section: Rimosinae
-  espece: <i>Inocybe maculata</i> Boud.
+  espece: <i>Inosperma maculatum</i> Boud.
   litterature: Boudier, J.L.É. 1885. Description de quelques espèces nouvelles de champignons basidiosporés. Bulletin de la Société Botanique de France. 32:282-283
 
 collections:

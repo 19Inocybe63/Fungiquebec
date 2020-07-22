@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inosperma
-  sous-genre: Inosperma
+  sous-genre: 
   section: Rimosae
   sous-section: Rimosinae
   espece: <i>Inosperma maculatum</i> Boud.

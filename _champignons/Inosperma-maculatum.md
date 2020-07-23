@@ -28,8 +28,8 @@ collections:
     date: 18 août 2013
     planche:
       numero: cKc0115-0101
-      miniature: https://c1.staticflickr.com/1/592/22914526952_12722fa6c6_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/22914526952/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
+      miniature: https://live.staticflickr.com/65535/22914526952_3266da75ce_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/22914526952/in/photolist-WmEkJS-AUSWwU-2ikjw5C-25JJ6qh-WRHvih-VFP6tr-V6CKo7-Jk5xYw-JD4tKX-JGRPXL-fzKDey-fwNQyp
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m
     determinee: Claude Kaufholtz-Couture

@@ -38,8 +38,8 @@ collections:
     date: 18 août 2013
     planche:
       numero: cKc-étude-0176
-      miniature: https://c1.staticflickr.com/5/4294/35677076050_6fdd0cf3b0_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/photolist-WmEkJS-F8KAeq-GXXhwU-VzJan5-GBxinF-25qBV1R-Hc9K4d-YJhFyJ-XMgDF4-YNqYuT-XHHdCw-YpNy4G-Z1Y9s8-Z1Yavv-Z1Yb4z-XMdWQk-XMdXUV-XMdVPc-Ympg1N-TbZeqh
+      miniature: https://live.staticflickr.com/65535/35677076050_fab6515bc7_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/photolist-AUSWwU-WmEkJS-2ikjw5C-2heZa2R-25JJ6qh-WRHvih-VFP6tr-V6CKo7-JD4tKX-Jk5xYw-JGRPXL-wr4Jih-fzKDey-fwNQyp
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: 

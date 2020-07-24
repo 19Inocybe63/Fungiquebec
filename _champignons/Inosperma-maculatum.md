@@ -68,8 +68,8 @@ collections:
     date: 20 juillet 2017
     planche:
       numero: cKc0626-0209
-      miniature: https://c1.staticflickr.com/1/884/41177625380_7a9f494da6_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/41177625380/in/dateposted/
+      miniature: https://live.staticflickr.com/65535/41177625380_a8c4227481_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/41177625380/in/photolist-V6CKo7-WmEkJS-AUSWwU-2ikjw5C-25JJ6qh-WRHvih-VFP6tr-Jk5xYw-JD4tKX-JGRPXL-fzKDey-fwNQyp
     geolocalisation: 46°54'28.8"N 71°16'39.7"O
     elevation: 230 m
     determinee: 

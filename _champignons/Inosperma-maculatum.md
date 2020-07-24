@@ -1,6 +1,6 @@
 ---
 nom: Inosperma maculatum
-date: 2020-07-22 00:00:00
+date: 2020-07-24 00:00:00
 image: https://c2.staticflickr.com/4/3736/9537628135_495f242585_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9537628135/in/photolist-AUSWwU-fzKDey-fwNQyp-JD4tKX-Jk5xYw-JGRPXL
 album-flickr:
@@ -48,8 +48,8 @@ collections:
     date: 3 juillet 2016
     planche:
       numero: cKc0510-0170
-      miniature: https://c1.staticflickr.com/5/4241/34850661150_0e853607db_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/34850661150/in/photostream/
+      miniature: https://live.staticflickr.com/65535/34850661150_2346f4841f_n.jpg
+      originale: https://www.flickr.com/photos/kaufholtz/34850661150/in/photolist-WmEkJS-AUSWwU-2ikjw5C-25JJ6qh-WRHvih-VFP6tr-V6CKo7-Jk5xYw-JD4tKX-JGRPXL-fzKDey-fwNQyp
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m
     determinee: 

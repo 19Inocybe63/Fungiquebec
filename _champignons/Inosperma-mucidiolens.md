@@ -18,7 +18,7 @@ details:
   famille: Inocybaceae
   genre: Inosperma
   espece: <i>Inosperma mucidiolens</i> (Grund & D.E. Stuntz) Matheny & Esteve-Rav.
-  sous-genre: Inosperma
+  sous-genre: 
   section: Cervicolores
   sous-section: 
   litterature: Pradeep, C.K; Vrinda, K.B; Varghese, S.P; Korotkin, H.B; Matheny, P.B. 2016. New and noteworthy species of Inocybe (Agaricales) from tropical India. Mycological Progress. 15(3/24):1-25

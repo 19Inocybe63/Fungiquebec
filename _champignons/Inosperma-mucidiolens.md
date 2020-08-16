@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inosperma
-  espece: <i>Inosperma mucidiolens</i> (Grund & D.E. Stuntz) Matheny
+  espece: <i>Inosperma mucidiolens</i> (Grund & D.E. Stuntz) Matheny & Esteve-Rav.
   sous-genre: Inosperma
   section: Cervicolores
   sous-section: 

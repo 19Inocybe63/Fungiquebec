@@ -16,7 +16,7 @@ details:
   sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Inocybaceae
-  genre: Inocybe
+  genre: Inosperma
   espece: <i>Inosperma neobrunnescens var. leucothelotum</i> (Grund & D.E. Stuntz)
   sous-genre: 
   section: 

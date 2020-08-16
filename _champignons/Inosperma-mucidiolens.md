@@ -16,8 +16,8 @@ details:
   sous-classe: Agaricomycetidae
   ordre: Agaricales
   famille: Inocybaceae
-  genre: Inocybe
-  espece: <i>Inocybe mucidiolens</i> (Grund & D.E. Stuntz) Matheny
+  genre: Inosperma
+  espece: <i>Inosperma mucidiolens</i> (Grund & D.E. Stuntz) Matheny
   sous-genre: Inosperma
   section: Cervicolores
   sous-section: 

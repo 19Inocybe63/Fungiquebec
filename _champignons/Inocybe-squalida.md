@@ -1,6 +1,6 @@
 ---
-nom: Inocybe squalida C. Kaufholtz-Couture nom. prov.
-date: 2020-08-16 00:10:00
+nom: Inocybe squalida
+date: 2020-09-06 00:10:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -21,7 +21,7 @@ details:
   sous-genre: Clypeus
   section: 
   sous-section: 
-  litterature: <i>Inocybe squalida</i> C. Kaufholtz-Couture nom. prov. (article en révision)
+  litterature: <i>Inocybe squalida</i> Kaufholtz (article en révision)
 
 collections:
   - fongarium: cKc0556

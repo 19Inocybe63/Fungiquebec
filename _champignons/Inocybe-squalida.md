@@ -32,7 +32,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/31075700664/in/dateposted/
     geolocalisation: 46°54'15.62" N 71°17'04.38" O
     elevation: 245 m
-    determinee: Claude Kaufholtz-Couture nom. prov.
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0556
     date: 3 septembre 2016
@@ -42,7 +42,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/33598526652/in/photolist-Pm469u-LFczk1-QqHkoW-TbZeqh-Qu2rcp
     geolocalisation: 46°54'15.62" N 71°17'04.38" O
     elevation: 245 m
-    determinee: Claude Kaufholtz-Couture nom. prov.
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0556
     date: 3 septembre 2016
@@ -52,7 +52,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/35677076050/in/photolist-WmEkJS-F8KAeq-GXXhwU-VzJan5-GBxinF-25qBV1R-Hc9K4d-YJhFyJ-XMgDF4-YNqYuT-XHHdCw-YpNy4G-Z1Y9s8-Z1Yavv-Z1Yb4z-XMdWQk-XMdXUV-XMdVPc-Ympg1N-TbZeqh
     geolocalisation: 
     elevation: 
-    determinee: Claude Kaufholtz-Couture nom. prov.
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0624
     date: 20 juillet 2017
@@ -62,7 +62,7 @@ collections:
       originale: 
     geolocalisation: 46°54'15.62" N 71°17'04.38" O
     elevation: 245 m
-    determinee: Claude Kaufholtz-Couture nom. prov.
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0638
     date: 4 août 2017
@@ -72,7 +72,7 @@ collections:
       originale: 
     geolocalisation: 46°54'15.62" N 71°17'04.38" O
     elevation: 245 m
-    determinee: Claude Kaufholtz-Couture nom. prov.
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0641
     date: 14 août 2017
@@ -82,7 +82,7 @@ collections:
       originale: 
     geolocalisation: 46°54'15.62" N 71°17'04.38" O
     elevation: 245 m
-    determinee: Claude Kaufholtz-Couture nom. prov.
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
 
 description:

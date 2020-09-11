@@ -7,7 +7,7 @@ album-flickr:
   - 72157691525765070
 
 details:
-  nom-francais: Inocybe beauceron / Inocybe de la Beauce
+  nom-francais: Inocybe beauceron
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe beaucensis (Kaufholtz)</i>
+  espece: <i>Inocybe beaucensis</i> (Kaufholtz)
   sous-genre: Inocybe (Fr.) Fr.
   section: 
   sous-section: 

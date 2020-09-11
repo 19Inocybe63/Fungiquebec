@@ -1,6 +1,6 @@
 ---
-nom: Inocybe beaucensis C. Kaufholtz-Couture nom. prov.
-date: 2020-04-12 00:00:00
+nom: Inocybe beaucensis
+date: 2020-09-11 00:00:00
 image: https://live.staticflickr.com/4348/36837420235_880dea8a1c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36837420235/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
 album-flickr:
@@ -17,11 +17,11 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe beaucensis C. Kaufholtz-Couture nom. prov.</i>
+  espece: <i>Inocybe beaucensis (Kaufholtz)</i>
   sous-genre: Inocybe (Fr.) Fr.
   section: 
   sous-section: 
-  litterature: <i>Inocybe beaucensis</i> C. Kaufholtz-Couture nom. prov. (article en préparation)
+  litterature: <i>Inocybe beaucensis</i> (Kaufholtz) (article en préparation)
 
 collections:
   - fongarium: cKc0662
@@ -32,7 +32,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/41661960584/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
     geolocalisation: 46°00’06.05"N 70°56’10.08"O
     elevation: 315 m
-    determinee: Claude Kaufholtz-Couture nom. prov.
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0662
     date: 24 août 2017
@@ -42,7 +42,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/49764858843/in/dateposted/
     geolocalisation: 46°00’06.05"N 70°56’10.08"O
     elevation: 315 m
-    determinee: Claude Kaufholtz-Couture nom. prov.
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0733
     date: 21 août 2018
@@ -52,7 +52,7 @@ collections:
       originale: 
     geolocalisation: 46°00’06.05"N 70°56’10.08"O
     elevation: 315 m
-    determinee: Claude Kaufholtz-Couture nom. prov.
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
 
 description:

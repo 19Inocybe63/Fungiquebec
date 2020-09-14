@@ -1,6 +1,6 @@
 ---
 nom: Inocybe grammata
-date: 2020-09-13 00:00:00
+date: 2020-09-14 00:00:00
 image: https://c1.staticflickr.com/1/335/18276172193_8a7128149f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18276172193/in/photolist-uKdsm9-uvp2YK-tR1ag8
 album-flickr:
@@ -217,7 +217,7 @@ description:
   medulla-clavariale: 
   medulla-clavulaire: 
   microconidies: 
-  mode-de-croissance: isolé, grégaire en petit groupe
+  mode-de-croissance: isolé, grégaire en petit groupe, plus rarement en groupe de plus de vingt spécimens
   mycelium-basal: 
   myxocarpe: 
   nouvelle-espece: 

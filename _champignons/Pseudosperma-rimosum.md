@@ -25,8 +25,8 @@ collections:
     date: 14 août 2015
     planche:
       numero: cKc0405-0103
-      miniature: https://c2.staticflickr.com/6/5666/22957882573_3ff7c20644_n.jpg
-      originale: https://www.flickr.com/photos/kaufholtz/22957882573/in/photolist-AYH9DB-woUvQj-x4iWC5/
+      miniature: https://www.flickr.com/photos/kaufholtz/22957882573/sizes/n/
+      originale: https://www.flickr.com/photos/kaufholtz/22957882573/in/photolist-AYH9DB-x4iWC5-woUvQj/
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     altitude: 
     determinee: Claude Kaufholtz-Couture

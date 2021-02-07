@@ -128,7 +128,7 @@ description:
   dermatocystides-caulocystides-et-pileipellis: 
   derniere-correction: 
   diagnose-originale: |
-    Hut 0,03-0,1 m. breit, gelblich, röthlich, braun oder düsterbrann, dünn, innen weißlich. St. am Strunde meist etwas verdikt, an der Spitze bereist. L. blaß, dann grau oder schmutziggelb, endlich braun. An schattigen Orten in Wäldern, an Wegen, aus Strasplätzen u.s.w., im S. und H., sehr häusig. Mehr oder minder mit eigenthümlichem widerlichem Steruch, nicht eßbar, sogar verdächtig. Ein in Größe und Färbung sehr verschiedener Pilz. Rißpilz <b>I. rimosa</b>.
+    Hut 0,03-0,1 m. breit, gelblich, röthlich, braun oder düsterbrann, dünn, innen weißlich. St. am Strunde meist etwas verdikt, an der Spitze bereist. L. blaß, dann grau oder schmutziggelb, endlich braun. An schattigen Orten in Wäldern, an Wegen, aus Strasplätzen u.s.w., im S. und H., sehr häusig. Mehr oder minder mit eigenthümlichem widerlichem Steruch, nicht eßbar, sogar verdächtig. Ein in Größe und Färbung sehr verschiedener Pilz. Rißpilz.
   dicaryophyses: 
   dichophyses: 
   disque-basal: 

@@ -17,11 +17,11 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe squalida</i> (Kaufholtz)
+  espece: <i>Inocybe squalida</i> C. Kaufholtz-Couture
   sous-genre: Clypeus
   section: 
   sous-section: 
-  litterature: <i>Inocybe squalida</i> (Kaufholtz)
+  litterature: <i>Inocybe squalida</i> C. Kaufholtz-Couture
 
 collections:
   - fongarium: cKc0556

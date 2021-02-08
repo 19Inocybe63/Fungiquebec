@@ -7,7 +7,7 @@ album-flickr:
   - 72157678323069856
 
 details:
-  nom-francais: Inocybe sale / salie
+  nom-francais: Inocybe sal / sali
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

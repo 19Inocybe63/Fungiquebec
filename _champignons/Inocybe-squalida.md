@@ -257,7 +257,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, larges, ventrues, crème jaunâtre, au liseré blanchâtre
+  lames: L. = 15-25, 1 = 1(-3); échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, larges, ventrues, crème jaunâtre, au liseré blanchâtre
   lamprocystides: 
   lamprocaulocystides: 
   latex: 

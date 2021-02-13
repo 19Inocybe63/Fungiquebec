@@ -1,6 +1,6 @@
 ---
 nom: Inocybe beaucensis
-date: 2020-09-15 00:00:00
+date: 2021-02-12 00:00:00
 image: https://live.staticflickr.com/4348/36837420235_880dea8a1c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36837420235/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
 album-flickr: 
@@ -21,7 +21,7 @@ details:
   sous-genre: Inocybe (Fr.) Fr.
   section: 
   sous-section: 
-  litterature: <i>Inocybe beaucensis</i> (Kaufholtz) (article en préparation)
+  litterature: <i>Inocybe beaucensis</i> (Kaufholtz) (article en cours de préparation)
 
 collections:
   - fongarium: cKc0662

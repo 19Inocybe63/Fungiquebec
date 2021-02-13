@@ -17,11 +17,11 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe beaucensis</i> (Kaufholtz)
+  espece: <i>Inocybe beaucensis</i> Kaufholtz sp. nov.
   sous-genre: Inocybe (Fr.) Fr.
   section: 
   sous-section: 
-  litterature: <i>Inocybe beaucensis</i> (Kaufholtz) (article en cours de préparation)
+  litterature: <i>Inocybe beaucensis</i> Kaufholtz sp. nov. (article en cours de préparation)
 
 collections:
   - fongarium: cKc0662

@@ -21,7 +21,7 @@ details:
   sous-genre: Clypeus
   section: 
   sous-section: 
-  litterature: <i>Inocybe squalida</i> C. Kaufholtz-Couture (Le Naturaliste canadien, 2021)
+  litterature: <i>Inocybe squalida</i> C. Kaufholtz-Couture (<i>Le Naturaliste canadien</i>, 2021)
 
 collections:
   - fongarium: cKc0556

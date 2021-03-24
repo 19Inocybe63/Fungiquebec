@@ -544,6 +544,8 @@ champs-description:
     label: Séquences
   - name: mushroom-observer
     label: Mushroom Observer
+  - name: mycobank
+    label: MycoBank
   - name: mycoflora-project
     label: Mycoflora Project
   - name: herbier-qfb

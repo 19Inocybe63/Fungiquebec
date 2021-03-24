@@ -275,6 +275,7 @@ description:
   mode-de-croissance: isolé, grégaire en petit groupe
   mushroom-observer: MO273632 (cKc0641)
   mycelium-basal: 
+  mycobank: MB 839100
   mycoflora-project: MF59627 (cKc0641)
   myxocarpe: 
   nouvelle-espece: 

@@ -277,7 +277,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Récolté en grand nombre; plus de quarante collections
+  remarques: récolté en grand nombre; plus de quarante collections
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

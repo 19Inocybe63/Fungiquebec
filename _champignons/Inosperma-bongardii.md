@@ -7,17 +7,17 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Inoperme de bongard
+  nom-francais: Inosperme de bongard
   domaine: Eucaryote
   regne: Fungi
-  phylum: 
-  sous-phylum: 
-  classe: 
-  sous-classe: 
-  ordre: 
-  famille: 
-  genre: 
-  espece: 
+  phylum: Basidiomycota
+  sous-phylum: Agaricomycotina
+  classe: Agaricomycetes
+  sous-classe: Agaricomycetidae
+  ordre: Agaricales
+  famille: Inocybaceae
+  genre: Inosperma
+  espece: <i>Inosperma bongardii</i> 
   sous-genre: 
   section: 
   sous-section: 
@@ -61,7 +61,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: 
+  biotopes: lieux boueux, sol perturbé, sous saule et aulne, endroit très sale;
   boucles: 
   brachybasidioles: 
   calicule: 

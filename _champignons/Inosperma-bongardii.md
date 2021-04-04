@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inosperma
-  espece: <i>Inosperma bongardii</i> 
+  espece: <i>Inosperma bongardii</i> (Weinm.) Matheny & Esteve-Rav.
   sous-genre: 
   section: 
   sous-section: 

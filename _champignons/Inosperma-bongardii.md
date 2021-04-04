@@ -1,15 +1,13 @@
 ---
-# Enlever les # et ce qui suit
-
-nom: Inocybe bongardii
+nom: Inosperma bongardii
 date: 2021-04-04 00:00:00
-image: # Largeur 320px. Exemple: https:
-image-originale: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
+image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
+image-originale: 
 album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Inocybe de bongard
+  nom-francais: Inoperme de bongard
   domaine: Eucaryote
   regne: Fungi
   phylum: 

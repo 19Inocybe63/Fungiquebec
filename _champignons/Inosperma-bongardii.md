@@ -25,8 +25,8 @@ details:
   litterature: 
 
 collections:
-  - fongarium: 
-    date: 
+  - fongarium: cKc0752
+    date: 13 septembre 2019
     planche:
       numero: 
       miniature: # Largeur 320px. ici
@@ -77,7 +77,7 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: légèrement rougeâtre
   chancre: 
   cheilochrysocystides:
   cheilocystides: 
@@ -103,7 +103,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: blanchâtre
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -140,7 +140,7 @@ description:
   excipulum-medullaire-moyen: 
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
-  exhalaison: 
+  exhalaison: florale, agréable
   exhalaison-de-la-chair: 
   exhalaison-des-lames: 
   exoperidium: 
@@ -187,7 +187,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées, adnexées, subespacées, larges, avec lamelles et lamellules, arête lisérée blanche, concolore au pileus, mais avec des reflets verdâtres lors de la coupe sur la face de la lame
   lamprocystides: 
   latex: 
   leptocystides: 
@@ -226,7 +226,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: 6-24 mm Ø, campanulé, convexe, méchuleux, squameux, mamelonné à papillé, beige pâle
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -267,7 +267,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: 18-51 x 2-3 mm Ø, cylindrique, plein, petites méchules, concolore au pileus, apex et base plus pâle, milieu légèrement brun rougeâtre très pâle, subbulbeux à non bulbeux
   stipitipellis: 
   stipititrame: 
   stroma: 

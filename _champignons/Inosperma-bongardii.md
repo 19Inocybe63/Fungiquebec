@@ -66,7 +66,7 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: léiosporées 13,7 x 7,6 µm, subphaseoliforme à elliptique
   basidioles: 
   basidiome: 
   bibliographies: 

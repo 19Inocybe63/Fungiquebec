@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Inosperme de bongard / Inocybe à odeur de benjoin
+  nom-francais: Inosperma de bongard / Inocybe à odeur de benjoin
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

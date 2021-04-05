@@ -1,13 +1,13 @@
 ---
 nom: Inosperma bongardii
-date: 2021-04-04 00:00:00
+date: 2021-04-05 00:00:00
 image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
 image-originale: 
 album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Inosperme de bongard
+  nom-francais: Inosperme de bongard / Inocybe à odeur de benjoin
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

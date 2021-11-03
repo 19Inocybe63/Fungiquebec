@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe squalida</i> Kaufholtz
+  espece: <i>Inocybe squalida</i> Kaufholtz-Couture
   sous-genre: Clypeus
   section: 
   sous-section: 

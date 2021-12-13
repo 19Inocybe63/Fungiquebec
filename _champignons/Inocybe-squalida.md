@@ -1,6 +1,6 @@
 ---
 nom: Inocybe squalida
-date: 2021-11-07 00:00:00
+date: 2021-12-13 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -21,7 +21,7 @@ details:
   sous-genre: Clypeus
   section: 
   sous-section: 
-  litterature: <i>Inocybe squalida</i> C. Kaufholtz-Couture (<i>Le Naturaliste canadien</i>, 2021)
+  litterature: <i>Inocybe squalida</i> C. Kaufholtz-Couture (<i>Le Naturaliste canadien</i>, mars 2022)
 
 collections:
   - fongarium: cKc0556

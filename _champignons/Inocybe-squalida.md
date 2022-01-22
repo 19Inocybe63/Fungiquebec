@@ -1,6 +1,6 @@
 ---
 nom: Inocybe squalida
-date: 2022-01-20 00:00:00
+date: 2022-01-22 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -124,7 +124,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, perturbé, sentier forestier, dans les ornières; sous feuillus <i>Betula</i>, <i>Fagus</i>
+  biotopes: pousse sur sol perturbé, sentier forestier, dans les ornières et parfois sous les feuilles mortes; sous feuillus <i>Betula</i>, <i>Fagus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

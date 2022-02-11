@@ -314,7 +314,7 @@ description:
   poils-peritheciaux: 
   poils-pileiques: 
   pores: 
-  premiere-mention: Espèce vue et étudiée pour la première fois au Québec
+  premiere-mention: Espèce vue et étudiée pour la première fois dans le monde
   pseudocapillitium: 
   pseudocolumelle: 
   pseudocystides: 

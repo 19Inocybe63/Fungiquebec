@@ -2,7 +2,7 @@
 layout: cle-tombio
 dossierTombio: inocybe
 nom: Key of Inocybe (Kaufholtz)
-date: 2020-03-22 00:00:00
+date: 2022-02-12 00:00:00
 famille: Inocybaceae
 genre: Inocybe
 commentaire: |
@@ -20,6 +20,7 @@ commentaire: |
   • <b>Grund, D.W. & Stuntz, D.E</b>. <i>Nova Scotian Inocybes</i>, Mycologia, Vol. 60, 1968, Inocybe 1; Vol. 62, 1970, Inocybe 2; Vol. 67, 1975, Inocybe 3; Vol. 69, 1977, Inocybe 4; Vol. 72, 1980, Inocybe 5; Vol. 73, 1981, Inocybe 6; Vol. 75, 1983, Inocybe 7; Vol. 76, 1984, Inocybe 8
   • <b>Kokkonen, Katri ; Vauras, Jukka</b>. <i>Eleven new boreal species of Inocybe with nodulose spores</i>. Mycol Progress (2012) 11:299-341
   • <b>Kropp, Bradley R. ; Matheny, Brandon P. ; Nanagyulyan, Siranush G.</b> <i>Phylogenetic taxonomy of the Inocybe splendens group and evolution of supersection 'Marginatae'</i>, Mycologia, 102(3), 2010, pp. 560-573
+  • <b>Kühner, R</b>. <i>Inocybe leiosporés cystidiés</i> V) Compléments à la flore Analytique; Espèces nouvelles ou critiques. Mémoire hors série Numéro 1; Supplément au Bulletin de la Société des Naturalistes d'Oyonnax, numéro 9, 95 pp., 1955
   • <b>Larsson, E., et al.,</b> <i>Inocybe praetervisa group e A clade of four closely related species with partly different geographical distribution ranges in Europe</i>, Mycoscience (2017)
   • <b>Larsson, Ellen ; Vauras, Jukka ; Cripps, Cathy L.</b> <i>Inocybe lemmi, a new species of section Marginatae from the alpine region of Sweden</i>, Karstenia 57: 1-9, 2017 (2018)
   • <b>Matheny, Brandon P. ; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171

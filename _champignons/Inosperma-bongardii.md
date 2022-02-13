@@ -1,6 +1,6 @@
 ---
 nom: Inosperma bongardii
-date: 2021-04-05 00:00:00
+date: 2022-02-13 00:00:00
 image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
 image-originale: 
 album-flickr:
@@ -70,7 +70,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: lieux boueux, sol perturbé, sous saule et aulne, endroit très sale;
+  biotopes: lieux boueux, sol perturbé, sous saule et aulne, pousse dans des endroits broussailleux;
   boucles: 
   brachybasidioles: 
   calicule: 

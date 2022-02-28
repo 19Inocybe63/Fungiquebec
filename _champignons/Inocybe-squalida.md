@@ -1,6 +1,6 @@
 ---
 nom: Inocybe squalida
-date: 2022-02-17 00:00:00
+date: 2022-02-28 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -21,7 +21,7 @@ details:
   sous-genre: Clypeus
   section: 
   sous-section: 
-  litterature: Kaufholtz-Couture, C. et Moreau, P.A. <i>Une nouvelle espèce de champignon proche d’Inocybe curvipes découverte au Québec:Inocybe squalida sp. nov. (Inocybaceae, Agaricales)</i>, 2022. Le Naturaliste canadien, 146 (1):10-16
+  litterature: Kaufholtz-Couture, C. et Moreau, P.A. <i>Une nouvelle espèce de champignon proche de l’Inocybe curvipes découverte au Québec:Inocybe squalida sp. nov. (Inocybaceae, Agaricales)</i>, 2022. Le Naturaliste canadien, 146 (1):10-16
 
 collections:
   - fongarium: cKc0556

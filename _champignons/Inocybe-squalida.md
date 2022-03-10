@@ -21,7 +21,7 @@ details:
   sous-genre: Clypeus
   section: 
   sous-section: 
-  litterature: Kaufholtz-Couture, C. et P.-A. Moreau, L., 2022. Une nouvelle espèce de champignon proche de l’Inocybe curvipes découverte au Québec: Inocybe squalida sp. nov. (Inocybaceae, Agaricales). Le Naturaliste canadien, 146 (1): 10-16. https://doi.org/10.7202/1086644ar
+  litterature: Kaufholtz-Couture, C. et P.-A. Moreau, L., 2022. Une nouvelle espèce de champignon proche de l’Inocybe curvipes découverte au Québec:Inocybe squalida sp. nov. (Inocybaceae, Agaricales). Le Naturaliste canadien, 146 (1): 10-16. https://doi.org/10.7202/1086644ar
 
 collections:
   - fongarium: cKc0556

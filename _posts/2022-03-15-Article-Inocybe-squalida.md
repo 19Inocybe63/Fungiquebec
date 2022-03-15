@@ -11,6 +11,11 @@ categories:
 #### Auteurs: Claude Kaufholtz-Couture et Pierre-Arthur Moreau.
 <p>&nbsp; </p>
 
+Kaufholtz-Couture, C. et P.-A. Moreau, L., 2022. Une nouvelle espèce de champignon
+proche de l’Inocybe curvipes découverte au Québec : Inocybe squalida sp. nov. (Inocybaceae,
+Agaricales). Le Naturaliste canadien, 146 (1) : 10-16. https://doi.org/10.7202/1086644ar
+<p>&nbsp; </p>
+
 
 #### Résumé
 Le genre Inocybe regroupe plusieurs espèces de champignons réparties sur l’ensemble du globe, en particulier dans les
@@ -28,6 +33,7 @@ d’arbre phylogénétique. Ils discutent ensuite des affinités morphologiques 
 Mots-clés : Agaricales, marqueur ITS, phylogénie, taxonomie
 <p>&nbsp; </p>
 
+
 #### Abstract
 Inocybe is a large genus of fungi occurring across the globe, particularly in temperate and boreal regions. The identification
 of many of the species is notoriously difficult. Inocybe squalida C. Kaufholtz-Couture sp. nov. was discovered during
@@ -44,7 +50,8 @@ Keywords: Agaricales, ITS marker, phylogeny, taxonomy
 <p>&nbsp; </p>
 
 
-
+URl : https://id.erudit.org/iderudit/1086644ar
+<p>&nbsp; </p>
 
 
 

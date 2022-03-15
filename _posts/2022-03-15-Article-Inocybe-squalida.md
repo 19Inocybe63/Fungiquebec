@@ -16,7 +16,7 @@ categories:
 #### Citer cet article
 Kaufholtz-Couture, C. et P.-A. Moreau, L., 2022. Une nouvelle espèce de champignon
 proche de l’Inocybe curvipes découverte au Québec : Inocybe squalida sp. nov. (Inocybaceae,
-Agaricales). Le Naturaliste canadien, 146 (1) : 10-16. <a href="https://doi.org/10.7202/1086644ar"</a> 
+Agaricales). Le Naturaliste canadien, 146 (1) : 10-16. https://doi.org/10.7202/1086644ar
 <p>&nbsp; </p>
 
 

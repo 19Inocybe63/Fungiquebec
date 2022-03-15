@@ -53,7 +53,7 @@ Keywords: Agaricales, ITS marker, phylogeny, taxonomy
 <p>&nbsp; </p>
 
 
-URL: <a href="https://id.erudit.org">/iderudit/1086644ar</a>
+URl : https://id.erudit.org/iderudit/1086644ar
 <p>&nbsp; </p>
 
 

@@ -1,5 +1,5 @@
 ---
-title: Une nouvelle espèce de champignon proche de l'Inocybe curvipes découverte au Québec; Inocybe squalida sp. nov. (Inocybaceae, Agarigales)
+title: Une nouvelle espèce de champignon proche de l'Inocybe curvipes découverte au Québec: Inocybe squalida sp. nov. (Inocybaceae, Agarigales)
 date: 2022-03-15 00:00:00
 categories: 
 - Agaricales
@@ -8,7 +8,7 @@ categories:
 - toxonomie
 ---
 
-## Auteurs: Claude Kaufholtz-Couture et Pierre-Arthur Moreau.
+### Auteurs: Claude Kaufholtz-Couture et Pierre-Arthur Moreau.
 
 
 #### Résumé

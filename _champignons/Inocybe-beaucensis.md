@@ -223,7 +223,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 30-40 avec 1-3 lamellules par lame, adnées, serrées, larges, avec lamelles et lamellules, dont l'arête lamellaire est blanchâtre, beige pâle à brun rougeâtre pâle
+  lames: L. = 30-40 avec 1-3 lamellules par lame, adnées, serrées, larges, avec lamelles et lamellules, dont l'arête lamellaire est blanchâtre, beige pâle à brun rougeâtre pâle
   lamprocystides: 
   latex: 
   leptocystides: 

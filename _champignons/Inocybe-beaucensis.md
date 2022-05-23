@@ -94,7 +94,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, terre brune, milieu herbeux, sous <i>Betula</i>; au potentiel hydrogène (pH) 7-8
+  biotopes: pousse au sol, terre brune, milieu herbeux, sous <i>Betula</i>; au potentiel hydrogène (pH) 7-8. Les collections ont été cueillies dans une ancienne prairie, où poussent naturellement des bouleaux âgés de 25-30 ans; endroit entretenu comme un petit parc.
   boucles: observées dans toutes les parties
   brachybasidioles: 
   calicule: 

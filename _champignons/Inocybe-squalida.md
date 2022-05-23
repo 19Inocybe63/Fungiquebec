@@ -1,6 +1,6 @@
 ---
 nom: Inocybe squalida
-date: 2022-04-23 00:00:00
+date: 2022-05-22 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
 album-flickr:
@@ -257,7 +257,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: L. = 15-25, 1 = 1(-3); échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, larges, ventrues, crème jaunâtre, au liseré blanchâtre
+  lames: L. = 15-25, 1 à 3 lamellules par lame; échancrées à sinuées, espacées à subespacées, avec lamelles et lamellules, larges, ventrues, crème jaunâtre, au liseré blanchâtre
   lamprocystides: 
   lamprocaulocystides: 
   latex: 

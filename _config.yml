@@ -143,6 +143,9 @@ champs-details:
   - name: regne
     label: Règne
     format: italique
+  - name: sous-regne
+    label: Sous règne
+    format: italique
   - name: phylum
     label: Phylum
     search: facet

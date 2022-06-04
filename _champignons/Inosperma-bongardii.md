@@ -10,6 +10,7 @@ details:
   nom-francais: Inosperma de bongard / Inosperma à odeur de benjoin
   domaine: Eucaryote
   regne: Fungi
+  sous-regne: Dikarya
   phylum: Basidiomycota
   sous-phylum: Agaricomycotina
   classe: Agaricomycetes

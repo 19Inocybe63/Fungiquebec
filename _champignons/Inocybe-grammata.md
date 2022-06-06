@@ -1,6 +1,6 @@
 ---
 nom: Inocybe grammata
-date: 2020-09-14 00:00:00
+date: 2022-06-03 00:00:00
 image: https://c1.staticflickr.com/1/335/18276172193_8a7128149f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18276172193/in/photolist-uKdsm9-uvp2YK-tR1ag8
 album-flickr:
@@ -10,6 +10,7 @@ details:
   nom-francais: Inocybe rayé / Inocybe sillonné
   domaine: Eucaryote
   regne: Fungi
+  sous-regne: Dikarya
   phylum: Basidiomycota
   sous-phylum: Agaricomycotina
   classe: Agaricomycetes

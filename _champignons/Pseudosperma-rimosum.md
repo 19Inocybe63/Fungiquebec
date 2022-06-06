@@ -1,6 +1,6 @@
 ---
 nom: Pseudosperma rimosum
-date: 2021-02-07 19:07:00
+date: 2022-06-03 00:00:00
 image: https://c2.staticflickr.com/6/5831/19949912134_a097b3d209_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19949912134/in/photolist-AYH9DB-woUvQj-x4iWC5/
 album-flickr:
@@ -10,6 +10,7 @@ details:
   nom-francais: Pseudosperma rimeux
   domaine: Eucaryote
   regne: Fungi
+  sous-regne: Dikarya
   phylum: Basidiomycota
   sous-phylum: Agaricomycotina
   classe: Agaricomycetes

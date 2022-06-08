@@ -1,6 +1,6 @@
 ---
 nom: Inocybe pallida
-date: 2020-01-20 00:00:00
+date: 2022-06-04 00:00:00
 image: https://live.staticflickr.com/916/29530714958_7b5757e989_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29530714958/in/photolist-LZwCHU-LZwGiu-282SVuy-LZwJP1/
 album-flickr:
@@ -10,6 +10,7 @@ details:
   nom-francais: Inocybe pâle
   domaine: Eucaryote
   regne: Fungi
+  sous-regne: Dikarya
   phylum: Basidiomycota
   sous-phylum: Agaricomycotina
   classe: Agaricomycetes

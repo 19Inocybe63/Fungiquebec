@@ -288,7 +288,7 @@ description:
   sequences: 
   soies: 
   soies-hymeniales: 
-  sporee: brun foncé; 7.5YR 3/4; 
+  sporee: Brun rougeâtre foncé 5YR 3/3, 3/4 à brun foncé 7.5YR 3/4
   spherocytes: 
   sporocystes: 
   stipe: 18-51 x 2-3 mm Ø, cylindrique, plein, petites méchules, concolore au pileus, apex et base plus pâle, milieu légèrement brun rougeâtre très pâle, subbulbeux à non bulbeux

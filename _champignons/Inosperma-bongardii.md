@@ -1,6 +1,6 @@
 ---
 nom: Inosperma bongardii
-date: 2022-06-05 00:00:00
+date: 2022-06-11 00:00:00
 image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
 image-originale: 
 album-flickr:
@@ -288,7 +288,7 @@ description:
   sequences: 
   soies: 
   soies-hymeniales: 
-  sporee: 
+  sporee: brun foncé; 7.5YR 3/4; 
   spherocytes: 
   sporocystes: 
   stipe: 18-51 x 2-3 mm Ø, cylindrique, plein, petites méchules, concolore au pileus, apex et base plus pâle, milieu légèrement brun rougeâtre très pâle, subbulbeux à non bulbeux

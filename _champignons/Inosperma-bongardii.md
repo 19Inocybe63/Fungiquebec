@@ -279,7 +279,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: récolté en grand nombre; plus de quarante collections
+  remarques: récolté en grand nombre, plus de quarante collections; les codes de couleurs 5YR 3/3, 3/4 font référence à la publication Munsell Soil-Color Charts.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

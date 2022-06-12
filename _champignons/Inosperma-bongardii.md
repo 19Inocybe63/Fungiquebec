@@ -1,6 +1,6 @@
 ---
 nom: Inosperma bongardii
-date: 2022-06-11 00:00:00
+date: 2022-06-12 00:00:00
 image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
 image-originale: 
 album-flickr:
@@ -236,7 +236,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 6-24 mm Ø, campanulé, convexe, méchuleux, squameux, mamelonné à papillé, beige pâle
+  pileus: 6-24 mm Ø, campanulé, convexe, méchuleux, squameux, mamelonné à papillé, beige pâle, jaune rougeâtre 7.5 YR 6/6, 6/8
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

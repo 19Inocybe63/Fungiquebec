@@ -236,7 +236,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 6-24 mm Ø, campanulé, convexe, méchuleux, squameux, mamelonné à papillé, beige pâle, jaune rougeâtre 7.5 YR 6/6, 6/8
+  pileus: 6-24 mm Ø, campanulé, convexe, méchuleux, squameux, mamelonné à papillé, beige pâle, jaune rougeâtre 7.5YR 6/6, 6/8
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -292,7 +292,7 @@ description:
   sporee: en amoncellement, brun rougeâtre foncé 5YR 3/3, 3/4 à brun foncé 7.5YR 3/4
   spherocytes: 
   sporocystes: 
-  stipe: 18-51 x 2-3 mm Ø, cylindrique, plein, petites méchules, concolore au pileus, apex et base plus pâle, milieu légèrement brun rougeâtre très pâle, subbulbeux à non bulbeux
+  stipe: 18-51 x 2-3 mm Ø, cylindrique, plein, petites méchules, concolore au pileus, 7.5YR 6/6, 6/8, apex et base plus pâle, milieu légèrement brun rougeâtre très pâle, subbulbeux à non bulbeux
   stipitipellis: 
   stipititrame: 
   stroma: 

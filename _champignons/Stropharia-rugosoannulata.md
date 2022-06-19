@@ -234,7 +234,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 60-175 mm Ø, conique à convexe, devenant convexe étalé à subétalé, largement umboné, à marge fortement involutée puis étalée; non hygrophane, non translucide, brun pâle 2.5Y 8/3, 8/4, 8/6 et 8/8, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
+  pileus: 60-175 mm Ø, conique à convexe, devenant convexe étalé à subétalé, largement umboné, à marge fortement involutée puis étalée; non hygrophane, non translucide, brun pâle à jaune 2.5Y 8/3, 8/4, 8/6 et 8/8, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

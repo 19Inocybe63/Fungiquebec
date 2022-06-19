@@ -1,6 +1,6 @@
 ---
 nom: Stropharia rugosoannulata
-date: 2017-03-13 00:00:00
+date: 2022-06-19 00:00:00
 image: https://c2.staticflickr.com/4/3766/9169017888_13dd353b07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9169017888/in/photolist-eYeErh-eYeBzj
 album-flickr:
@@ -234,7 +234,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 60-175 mm Ø, conique à convexe, devenant convexe étalé à subétalé, largement umboné, à marge fortement involutée puis étalée; non hygrophane, non translucide, brun pâle à brun assez foncé, gris brun ou jaune, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
+  pileus: 60-175 mm Ø, conique à convexe, devenant convexe étalé à subétalé, largement umboné, à marge fortement involutée puis étalée; non hygrophane, non translucide, brun pâle 2.5Y 8/3, 8/4, 8/6 et 8/8, généralement avec une teinte pourpre violet rougeâtre ou violacée, surtout chez les jeunes spécimens frais, subvisqueux lorsqu'ils sont imbus et naturellement fibrillés lorsqu'ils sont secs, avec présence du voile général en particulier dans la zone marginale et adhérant à la marge, glabrescent avec l'âge
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 
@@ -257,6 +257,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Noordeloos, Machiel E.</b> <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <i>Munsell Soil-Color Charts</i>, Produced by Munsell Color, 2009 year revised, 2022 production.
   publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 

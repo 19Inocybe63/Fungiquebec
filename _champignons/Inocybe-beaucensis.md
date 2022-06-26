@@ -327,7 +327,7 @@ description:
     GGACTACCCG	CTGAACTTAA	G
   soies: 
   soies-hymeniales: 
-  sporee: brun à brun cannelle pâle
+  sporee: en amoncellement, brun rougeâtre 5YR, 5/3
   spherocytes: 
   sporocystes: 
   stipe: 40-60 x 2-3 mm Ø, cylindrique, égal, strié longitudinalement, ± pruineux vers l'apex, brun beige du milieu vers la base, plutôt blanchâtre vers l'apex, dont la base est claviforme à bulbilleux

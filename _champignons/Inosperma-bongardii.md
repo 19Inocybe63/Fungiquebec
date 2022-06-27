@@ -1,6 +1,6 @@
 ---
 nom: Inosperma bongardii
-date: 2022-06-20 00:00:00
+date: 2022-06-27 00:00:00
 image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
 image-originale: 
 album-flickr:
@@ -34,7 +34,7 @@ collections:
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: Claude Kaufholtz-Couture
+    determinee: Claude Kaufholtz-Couture & P. Brandon Matheny
     confirmee: 
 
 description:

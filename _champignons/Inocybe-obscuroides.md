@@ -193,7 +193,7 @@ description:
   hypothalle: 
   hypothece: 
   hysterothece: 
-  lames: 
+  lames: adnées à adnexées, ± larges, avec lamelles et lamellules, concolore au pileus
   lamprocystides: 
   lamprocaulocystides: 
   latex: 

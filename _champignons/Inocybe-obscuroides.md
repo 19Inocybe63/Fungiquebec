@@ -85,7 +85,7 @@ description:
   cellules-hymeniales-en-brosses: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: brun rougeâtre
+  chair: 
   chancre: 
   cheilochrysocystides:
   cheilocystides: 

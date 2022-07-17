@@ -71,7 +71,7 @@ description:
   basidiome: |
     léiosporées 9,3 x 4,9 µm elliptiques avec apex en ogive
   bibliographies: 
-  biotopes: lieux boueux, sol perturbé, sous saule et aulne, pousse dans des endroits broussailleux
+  biotopes: lieux boueux, sol perturbé, sous saule et aulne, endroit très sale
   boucles: 
   brachybasidioles: 
   calicule: 

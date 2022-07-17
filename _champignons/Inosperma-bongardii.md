@@ -1,6 +1,6 @@
 ---
 nom: Inosperma bongardii
-date: 2022-06-27 00:00:00
+date: 2022-07-17 00:00:00
 image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
 image-originale: 
 album-flickr:
@@ -67,7 +67,8 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: léiosporées 13,7 x 7,6 µm, subphaseoliforme à elliptique
+  basidiospores: |
+    léiosporées 13,7 x 7,6 µm, subphaseoliforme à elliptique
   basidioles: 
   basidiome: 
   bibliographies: 

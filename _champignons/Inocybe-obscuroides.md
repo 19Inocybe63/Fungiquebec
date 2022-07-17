@@ -283,7 +283,7 @@ description:
   sequences: 
   soies: 
   soies-hymeniales: 
-  sporee: brune
+  sporee: 
   spherocytes: 
   sporocystes: 
   stipe: 16-25 x 1-2 mm Ø, cylindrique, plein, ± chiné, concolore au pileus, non bulbeux, égal ou petit oignon

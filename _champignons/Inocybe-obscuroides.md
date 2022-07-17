@@ -66,10 +66,10 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
-  basidioles: 
-  basidiome: |
+  basidiospores: |
     léiosporées 9,3 x 4,9 µm elliptiques avec apex en ogive
+  basidioles: 
+  basidiome: 
   bibliographies: 
   biotopes: lieux boueux, sol perturbé, sous saule et aulne, endroit très sale
   boucles: 

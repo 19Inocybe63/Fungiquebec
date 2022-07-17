@@ -18,7 +18,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe obscuroides</i>
+  espece: <i>Inocybe obscuroides</i> P.D. Orton
   sous-genre: 
   section: 
   sous-section: 

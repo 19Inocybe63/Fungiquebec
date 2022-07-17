@@ -7,7 +7,7 @@ album-flickr:
   - 
 
 details:
-  nom-francais: 
+  nom-francais: Inocybe dissimulé
   domaine: Eucaryote
   regne: Fungi
   sous-regne: Dikarya

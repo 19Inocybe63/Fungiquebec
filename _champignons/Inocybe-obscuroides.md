@@ -1,7 +1,7 @@
 ---
 nom: Inocybe obscuroides
 date: 2022-07-17 00:00:00
-image: 
+image: https://www.flickr.com/photos/kaufholtz/48728188833/sizes/n/
 image-originale: 
 album-flickr:
   - 

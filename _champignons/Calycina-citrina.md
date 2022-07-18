@@ -1,6 +1,6 @@
 ---
-nom: Bisporella citrina
-date: 2017-03-18 00:00:00
+nom: Calycina citrina
+date: 2022-01-01 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15397943256/in/photolist-oTnnJF-psEu5h
 album-flickr:
@@ -17,8 +17,8 @@ details:
   ordre: Helotiales
   famille: Helotiaceae
   genre: Bisporella
-  espece: <i>Bisporella citrina</i> (Batsch) Korf & S.E. Carp.
-  litterature: Korf, R.P.; Carpenter, S.E. 1974. Bisporella, a generic name for Helotium citrinum and its allies, and the generic names Calycella and Calycina. Mycotaxon. 1(1):51-62
+  espece: <i>Calycina citrina</i> (Hedw.) Gray
+  litterature: Gray, S.F. 1821. A natural arrangement of British plants.1:1-824
 
 collections:
   - fongarium: cKc0279

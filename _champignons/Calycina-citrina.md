@@ -16,7 +16,7 @@ details:
   sous-classe: Leotiomycetidae
   ordre: Helotiales
   famille: Helotiaceae
-  genre: Bisporella
+  genre: Calycina
   espece: <i>Calycina citrina</i> (Hedw.) Gray
   litterature: Gray, S.F. 1821. A natural arrangement of British plants.1:1-824
 

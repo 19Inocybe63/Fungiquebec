@@ -25,7 +25,7 @@ collections:
     date: 2 octobre 2014
     planche:
       numero: cKc0279-0043
-      miniature: https://c2.staticflickr.com/4/3947/15021160663_3d254619a7_n.jpg
+      miniature: https://live.staticflickr.com/65535/15021160663_55cdff329e_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/15021160663/in/photolist-oTnnJF-psEu5h
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m

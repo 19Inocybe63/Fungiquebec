@@ -1,5 +1,5 @@
 ---
-nom: Inosperma bongardii
+nom: Inosperma cervicolor sensu Vauras
 date: 2022-07-17 00:00:00
 image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/48728667047/in/dateposted/
@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Inosperma de bongard / Inosperma à odeur de benjoin
+  nom-francais: 
   domaine: Eucaryote
   regne: Fungi
   sous-regne: Dikarya
@@ -18,7 +18,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inosperma
-  espece: <i>Inosperma bongardii</i> (Weinm.) Matheny & Esteve-Rav.
+  espece: <i>Inosperma cervicolor</i> sensu Vauras
   sous-genre: 
   section: 
   sous-section: 
@@ -35,7 +35,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: Claude Kaufholtz-Couture & P. Brandon Matheny
-    confirmee: 
+    confirmee: ADN
 
 description:
   acanthocytes: 

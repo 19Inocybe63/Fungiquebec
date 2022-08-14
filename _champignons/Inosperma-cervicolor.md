@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: 
+  nom-francais: Inosperma couleur de cerf
   domaine: Eucaryote
   regne: Fungi
   sous-regne: Dikarya

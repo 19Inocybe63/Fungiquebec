@@ -1,6 +1,6 @@
 ---
 nom: Inosperma cervicolor sensu Vauras
-date: 2022-08-14 00:00:00
+date: 2022-08-15 00:00:00
 image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/48728667047/in/dateposted/
 album-flickr:
@@ -101,7 +101,8 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: 
+  commentaires: |
+    De Brandon Matheny. « CKC0752 is a perfect match with Inosperma cervicolor sensu Vauras (TURA4762-see 4761 in tree attached for placement). It is sister to In. subrubescens sense meo. Sorting out subrubescens from cervicolor will still need to be done. »
   conidies: 
   conidiome: 
   conidiophores: 

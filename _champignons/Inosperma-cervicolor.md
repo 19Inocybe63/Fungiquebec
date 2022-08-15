@@ -102,7 +102,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Brandon Matheny. « CKC0752 is a perfect match with Inosperma cervicolor sensu Vauras (TURA4762-see 4761 in tree attached for placement). It is sister to In. subrubescens sense meo. Sorting out subrubescens from cervicolor will still need to be done. »
+    De P. Brandon Matheny. « CKC0752 is a perfect match with <i>Inosperma cervicolor</i> sensu Vauras (TURA4761-see 4761 in tree attached for placement). It is sister to In. subrubescens sense meo. Sorting out subrubescens from cervicolor will still need to be done. »
   conidies: 
   conidiome: 
   conidiophores: 

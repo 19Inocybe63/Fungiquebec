@@ -54,7 +54,7 @@ description:
   base-stipitiforme: 
   basides: cylindriques à légèrement piriformes, tétrasporiques, bouclées à la base, 55-60 (61,5) x 13-14 (15,2) µm en moyenne
   basidiospores: |
-    ellipsoïdes à amygdaliformes, ridulées, à paroi légèrement épaissie, avec appendice hilaire proéminent, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
+    ellipsoïdes à amygdaliformes, finement ridulées, à paroi légèrement épaissie, avec appendice hilaire proéminent, à contenu uniguttulé à variable, hyalines dans le NaCl iso 0,9%, pas de réaction dans le melzer, non cyanophiles
     16,6 [18,5; 19,2] 21 x 10,7 [11,6; 12] 12,9 µm
     Q = 1,5 [1,6] 1,7; N = 39; C = 95%
     Me = 18,8 x 11,8 µm en moyenne; Q moyen = 1,6

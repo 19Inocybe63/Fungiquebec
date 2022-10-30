@@ -256,13 +256,11 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Bon, Marcel</b>. <i>Clé monographique du genre Inocybe</i>, Association d'Écologie et de Mycologie, Lille; Documents Mycologiques, tome 27; Fascicule N° 105, avril 1997; Fascicule N° 108, décembre 1997; Fascicule N° 111, juin 1998.
-    <b>Bresadola, Ab. Dr. J. ; Alessio, C. L.</b>, Iconographia Mycologica, Vol. XXIX, <i>Inocybe</i>, Società Botanica Italiana, 1980, 367 p. et supplément.
     <b>Ferrari, Erminio</b>. <i>Inocybe alpine e subalpine Il genere Inocybe (Fr.) Fr. nel Nord Italia e paesi limotrofi</i>, Fungi non Delineati, pars 34-36, Edizioni Candusso, 2006, 464 p.
     <b>Grund, D. W.; Stuntz, D. E</b>. <i>Nova Scotian Inocybes</i>, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1; vol. 62, 1970, Inocybe 2; vol. 67, 1975, Inocybe 3; vol. 69, 1977, Inocybe 4; vol. 72, 1980, Inocybe 5; vol. 73, 1981, Inocybe 6; vol. 75, 1983, Inocybe 7; vol. 76, 1984, Inocybe 8.
     <b>Heim, Roger</b>. <i>Le genre Inocybe; précédé d'une introduction générale à l'étude des Agarics ochrosporés</i>, Encyclopédie Mycologique 1, Éd. Paul Lechevalier & Fils, avec 35 planches coloriées d'après les aquarelles originales de l'auteur, 220 figures, Paris, 1931.
     <b>Kuyper, Thomas W.</b> <i>A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden 1986, 134 p.
     <i>Munsell Soil-Color Charts</i>, Produced by Munsell Color, 2009 year revised, 2022 production.
-    <b>Murrill, William Alphonso,; Kauffman, Calvin Henry,; Overholts, Lee Oras</b>, <i>Agaricaceae (Murrill); Inocybe (Kauffman); Pholiota (Overholts)</i>, North American Flora, The New York Botanical Garden, vol. 10 part 4, 1924, 54 p.
     <b>Stangl, Johann</b>. <i>Guida alla determinazione dei funghi Vol. 3° Inocybe</i>, Saturnia, 1e Edizione italiana, 1991, 437 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.

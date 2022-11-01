@@ -115,7 +115,7 @@ description:
   commentaires: |
     De Michael Castellano. « All <i>E. vernesii sp. nov.</i> known only from Canada. »
     De Kaufholtz-Couture. « Faire attention, car dans les nombreuses récoltes de <i>E. vernesii</i>, une autre espèce la côtoie et vit à proximité. »
-    De Claude Kaufholtz-Couture. « Ces collections ont été séquencées (ADN) par Michael Castellano; espèce connue qu'au Canada pour le moment. Les hyphes sont parfaitement visibles dans le Bleu crésyl selon Clémençon. »
+    De Claude Kaufholtz-Couture. « Ces collections ont été séquencées (ADN) par Michael Castellano; espèce connue qu'au Canada pour le moment. Les hyphes sont parfaitement visibles dans le Bleu crésyl de Clémençon. »
   conidies: 
   conidiome: 
   conidiophores: 

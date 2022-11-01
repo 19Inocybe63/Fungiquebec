@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces vernesii sp. nov.
-date: 2017-03-22 00:00:00
+date: 2022-05-27 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
 album-flickr:
@@ -115,7 +115,7 @@ description:
   commentaires: |
     De Michael Castellano. « All <i>E. vernesii sp. nov.</i> known only from Canada. »
     De Kaufholtz-Couture. « Faire attention, car dans les nombreuses récoltes de <i>E. vernesii</i>, une autre espèce la côtoie et vit à proximité. »
-    De Claude Kaufholtz-Couture. « Ces collections ont été séquencées (ADN) par Michael Castellano; espèce connue qu'au Canada pour le moment. Les hyphes sont parfaitement visibles dans le Bleu crésyl alcoolique selon Clémençon. »
+    De Claude Kaufholtz-Couture. « Ces collections ont été séquencées (ADN) par Michael Castellano; espèce connue qu'au Canada pour le moment. Les hyphes sont parfaitement visibles dans le Bleu crésyl selon Clémençon. »
   conidies: 
   conidiome: 
   conidiophores: 

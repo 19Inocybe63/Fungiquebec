@@ -1,6 +1,6 @@
 ---
 nom: Inocybe pallida
-date: 2022-06-20 00:00:00
+date: 2022-12-14 00:00:00
 image: https://live.staticflickr.com/916/29530714958_7b5757e989_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29530714958/in/photolist-LZwCHU-LZwGiu-282SVuy-LZwJP1/
 album-flickr:
@@ -291,6 +291,7 @@ description:
   remarques: |
     Be cautious of trusting the Identity of your results. There are 5 ambiguous nucelotides in the sequence. The identity value in parenthesis updates the value assuming all of the ambiguous nucleotides are correct. The query coverage of some of your top results is under 50% (cKc0707).
     The query coverage of some of your top results is under 50% (cKc0708).
+    De Fernando Esteve-Raventós: (...) the microscopical characters (and also macro) fit with my collections from southern Europe. I think that this species is not exclusive to littoral areas, but linked to sandy soils, either in littoral areas as well as inland too, in not very high mountains (mesophilic). I think that it is often bound to Quercus spp., though I have also some collections also under conifers or mixed, but always in sandy soil. (...)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

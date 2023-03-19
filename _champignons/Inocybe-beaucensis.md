@@ -328,7 +328,7 @@ description:
     GGACTACCCG	CTGAACTTAA	G
   soies: 
   soies-hymeniales: 
-  sporee: en amoncellement, brun rougeâtre 5YR, 4/3-4 (Munsell Soil-Color Charts)
+  sporee: en amoncellement, brun rougeâtre 5YR 4/3-4 (Munsell Soil-Color Charts)
   spherocytes: 
   sporocystes: 
   stipe: 40-60 x 2-3 mm Ø, cylindrique, égal, strié longitudinalement, ± pruineux vers l'apex, brun beige du milieu vers la base, plutôt blanchâtre vers l'apex, dont la base est claviforme à bulbilleux

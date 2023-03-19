@@ -1,6 +1,6 @@
 ---
 nom: Inosperma cervicolor sensu Vauras
-date: 2022-11-01 00:00:00
+date: 2023-03-19 00:00:00
 image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/48728667047/in/dateposted/
 album-flickr:
@@ -282,7 +282,7 @@ description:
   sequences: 
   soies: 
   soies-hymeniales: 
-  sporee: en amoncellement, brun rougeâtre foncé 5YR 3/3-4, à brun foncé 7.5YR 3/4
+  sporee: en amoncellement, brun rougeâtre foncé 5YR 3/3-4, à brun foncé 7.5YR 3/4 (Munsell Soil-Color Charts)
   spherocytes: 
   sporocystes: 
   stipe: 18-51 x 2-3 mm Ø, cylindrique, plein, petites méchules, concolore au pileus à maturité 7.5YR 6/6-8, apex et base plus pâle, milieu légèrement brun rougeâtre très pâle, subbulbeux à non bulbeux

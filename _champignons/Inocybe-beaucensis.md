@@ -1,5 +1,5 @@
 ---
-nom: Inocybe beaucensis Inocybe de la beauce
+nom: Inocybe beaucensis
 date: 2023-03-19 00:00:00
 image: https://live.staticflickr.com/4348/36837420235_880dea8a1c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36837420235/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT

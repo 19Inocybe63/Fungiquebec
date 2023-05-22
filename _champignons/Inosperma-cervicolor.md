@@ -1,6 +1,6 @@
 ---
 nom: Inosperma cervicolor sensu Vauras
-date: 2023-03-19 00:00:00
+date: 2023-05-22 00:00:00
 image: https://live.staticflickr.com/65535/48728667047_1039bb89f8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/48728667047/in/dateposted/
 album-flickr:
@@ -231,7 +231,7 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 6-24 mm Ø, campanulé, convexe, méchuleux, squameux, mamelonné à papillé, beige pâle, jaune rougeâtre 7.5YR 6/6-8
+  pileus: 6-24 mm Ø, campanulé, convexe, méchuleux, squameux, mamelonné à papillé, beige pâle à jaune rougeâtre 7.5YR 6/6-8
   plasmode: 
   pleurochrysocystides: 
   pleurocystides: 

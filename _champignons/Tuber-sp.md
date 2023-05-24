@@ -255,7 +255,7 @@ description:
     <b>Trappe, James M.; et al.</b> <i>Diversity, Ecology, and Conservation of Truffle Fungi in Forests of the Pacific Northwest,</i> United States Department of Agriculture, Forest Service, Pacific Northwest, Research Station, 2009
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Annexe 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2023.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Annexe 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 

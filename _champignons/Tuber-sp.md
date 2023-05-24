@@ -254,7 +254,6 @@ description:
     <b>Trappe, Matt; Evans, Frank; Trappe, James</b>. <i>Field Guide to North American Truffles</i>; Hunting, Identifying, and Enjoying the World’s most Prized Fungi, 2007
     <b>Trappe, James M.; et al.</b> <i>Diversity, Ecology, and Conservation of Truffle Fungi in Forests of the Pacific Northwest,</i> United States Department of Agriculture, Forest Service, Pacific Northwest, Research Station, 2009
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
     <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
     <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Annexe 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2023.
   reactions-macrochimiques: 

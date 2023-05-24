@@ -1,6 +1,6 @@
 ---
 nom: Tuber candidum
-date: 2018-01-29 00:00:00
+date: 2023-05-20 00:00:00
 image: https://c2.staticflickr.com/6/5762/21004930990_7abd9b0844_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21004930990/in/photolist-y18LbA
 album-flickr:
@@ -418,11 +418,8 @@ description:
     <b>Trappe, Matt; Evans, Frank; Trappe, James</b>. <i>Field Guide to North American Truffles</i>; Hunting, Identifying, and Enjoying the World’s most Prized Fungi, 2007
     <b>Trappe, James M.; et al.</b> <i>Diversity, Ecology, and Conservation of Truffle Fungi in Forests of the Pacific Northwest,</i> United States Department of Agriculture, Forest Service, Pacific Northwest, Research Station, 2009
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Annexe 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2023.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 

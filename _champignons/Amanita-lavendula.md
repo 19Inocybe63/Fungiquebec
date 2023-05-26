@@ -1,6 +1,6 @@
 ---
 nom: Amanita lavendula
-date: 2017-04-20 00:00:00
+date: 2023-05-19 00:00:00
 image: https://c2.staticflickr.com/6/5651/30199932386_91347b7511_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30199932386/in/photolist-N1EqdS-N1ExKq
 album-flickr:
@@ -245,8 +245,10 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
-  publications-microscopiques: 
+  publications: |
+    <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

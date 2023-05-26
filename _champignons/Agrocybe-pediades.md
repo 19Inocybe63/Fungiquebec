@@ -1,6 +1,6 @@
 ---
 nom: Agrocybe pediades
-date: 2017-03-18 00:00:00
+date: 2023-05-19 00:00:00
 image: https://c2.staticflickr.com/8/7351/27376363195_4f178bde92_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27376363195/in/photolist-HHa1ZZ-HAV7A8-nTpic6-nTLDni/
 album-flickr:
@@ -248,10 +248,7 @@ description:
     <b>Smith, Alexander H., Smith, Helen V., Weber, Nancy S.</b> <i>How to know the gilled mushrooms</i>, Publisher William C. Brown Pub; 2 edition (June 1979).
     <b>Watling, R.</b> <i>Bolbitiaceae, Agrocybe, Bolbitius and Conocybe</i>, British Fungus Flora Agarics and Boleti, vol. 3, Edinburgh, 1982, 71 p.
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
     Potasse (KOH 10%) = coloration rose à rougeâtre sur le pileus

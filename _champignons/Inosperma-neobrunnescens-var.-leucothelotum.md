@@ -7,7 +7,7 @@ album-flickr:
   - 72157705226011822
 
 details:
-  nom-francais: 
+  nom-francais: Inosperma 
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

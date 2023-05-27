@@ -253,7 +253,7 @@ description:
     Sulfate de fer (FeSO<SUB>4</SUB>) = pas de coloration à légèrement grisâtre ou brunâtre sur les branches et la base
   receptacle: 
   remarques: |
-    Je suis persuadé que la couleur de la sporée, en amoncellement, de cette espèce est ochrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi; D-E d'après la charte de couleur de Kibby.
+    Mise en amoncellement, je suis persuadé que la couleur de la sporée pour cette espèce est ochrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi ; D-E d'après la charte de couleur de Kibby. Il faudra donc revoir la monographie initiale ((Pers.) Jülich) qui indique que la sporée est blanche.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

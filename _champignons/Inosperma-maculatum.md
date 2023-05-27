@@ -7,7 +7,7 @@ album-flickr:
   - 72157675124608175
 
 details:
-  nom-francais: Inocybe maculé
+  nom-francais: Inosperma maculé
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

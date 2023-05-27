@@ -1,6 +1,6 @@
 ---
 nom: Inocybe pallida
-date: 2023-05-25 00:00:00
+date: 2023-05-27 00:00:00
 image: https://live.staticflickr.com/916/29530714958_7b5757e989_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29530714958/in/photolist-LZwCHU-LZwGiu-282SVuy-LZwJP1/
 album-flickr:

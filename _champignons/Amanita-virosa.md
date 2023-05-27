@@ -1,6 +1,6 @@
 ---
 nom: Amanita virosa
-date: 2017-03-17 00:00:00
+date: 2023-05-17 00:00:00
 image: https://c1.staticflickr.com/1/678/20665354231_ac839dd947_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665354231/in/photolist-xu8kQT-xtwWYn
 album-flickr:
@@ -268,7 +268,8 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: |
     Potasse (KOH 10%) = le pileus devient rapidement jaune
   receptacle: 

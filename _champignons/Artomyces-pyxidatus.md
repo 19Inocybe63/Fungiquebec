@@ -1,6 +1,6 @@
 ---
 nom: Artomyces pyxidatus
-date: 2019-05-11 00:00:00
+date: 2023-05-17 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv
 album-flickr:
@@ -247,15 +247,13 @@ description:
   pseudo-peridioles: 
   publications: 
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: |
     Potasse (KOH 10%) = jaune brunâtre pâle sur chair et rameaux
     Sulfate de fer (FeSO<SUB>4</SUB>) = pas de coloration à légèrement grisâtre ou brunâtre sur les branches et la base
   receptacle: 
-  remarques: 
+  remarques: |
+    Je suis persuadé que la couleur de la sporée, en amoncellement, de cette espèce est ochrosporée IIIa-IIIb, ocre pâle à ocre moyen, d'après la charte de couleur de Romagnesi; D-E d'après la charte de couleur de Kibby.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

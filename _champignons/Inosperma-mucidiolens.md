@@ -7,7 +7,7 @@ album-flickr:
   - 72157696049784654
 
 details:
-  nom-francais: Inocybe à odeur de moisi
+  nom-francais: Inosperma à odeur de moisi
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

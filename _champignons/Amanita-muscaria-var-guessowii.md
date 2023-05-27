@@ -1,6 +1,6 @@
 ---
 nom: Amanita muscaria var. guessowii
-date: 2017-03-17 00:00:00
+date: 2023-05-19 00:00:00
 image: https://c2.staticflickr.com/4/3804/9383558688_c77720140f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9383558688/in/photolist-ficc5C
 album-flickr:
@@ -237,7 +237,8 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
-  publications-microscopiques: 
+  publications-microscopiques: |
+  <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: |
     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le pileus
   receptacle: 

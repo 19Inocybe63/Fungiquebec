@@ -1,6 +1,6 @@
 ---
 nom: Amanita sp-QUE04
-date: 2017-03-06 00:00:00
+date: 2023-05-17 00:00:00
 image: https://c2.staticflickr.com/6/5582/14981967220_f12992b12a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981967220/in/photolist-p5H4RU-oPUuTE-p5o6dE
 album-flickr:
@@ -235,7 +235,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: 
   receptacle: 
   remarques: Collection dont l'ADN fut étudié par Rod Tulloss.

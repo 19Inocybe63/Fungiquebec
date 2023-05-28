@@ -168,7 +168,7 @@ description:
   groupe: 
   herbier-qfb: |
     32762 (cKc0718)
-    Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
+    Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
     Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
   hymenium: 
   hymenocystides: 
@@ -273,7 +273,7 @@ description:
     <b>Stangl, Johann</b>. <i>Guida alla determinazione dei funghi Vol. 3° Inocybe</i>, Saturnia, 1e Edizione italiana, 1991, 437 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Annexe 4, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Annexe 4, <i>les Inocybaceae</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
@@ -286,7 +286,15 @@ description:
   sclerocystides: 
   sclerote: 
   sequences: |
-    TCCGTAGGTG AACCTGCGGA AGGATCATTA TCGAATAAAC TTGATCAGGT TGTTGCTGGC CTTTTGAAGG CATGTGCACA CTTGTCATCT TTATTTCTCC AACTGTGCAC ATATTGTAGA     CCATGGATGT TGTTGCTAAT AGCAGATTAG AGAAGTGCTC AGCTTTCTCT TATGCAGGTC TATGTTATCC ATCTTTTACA CACTGTTTTR GAATGTTTAT TTTGGGAAAT ACAAATGTAC     AACTTTCAGC AACGGATCTC TTGGTTCTCG CATCGATGAA GAACGCAGCG AAATGCGATA AGTAATGTGA ATTGCAGAAT TCAGTGAATC ATCGAATCTT TGAACGCAAC TTGCGCTCCT     TGGTACTCTG AGGAGCATGC CTGTTTGART GTCATTAAAC TTCTTCTCAA CCCATCCAGT TTCTCTGTGT GTGGGCTTTG GACAATGGGG GCTTGCTGGT TGCTATTTTT CCAGCTCTCC     TGAAAAGCAT TAGCGGCATC TGGGCTGCTT GCAGGTGTGA TAACTCGTCT ACACCTTTGC AGTGGCTGCA TTTGTGCTGC GTTAGAGGGC ATTGATGAAA TTTGACMTCA AATCAGGTAG     GACTACCCGC TGAACTTAAG CATATCAATA A
+    TCCGTAGGTG AACCTGCGGA AGGATCATTA TCGAATAAAC TTGATCAGGT TGTTGCTGGC CTTTTGAAGG
+    CATGTGCACA CTTGTCATCT TTATTTCTCC AACTGTGCAC ATATTGTAGA CCATGGATGT TGTTGCTAAT
+    AGCAGATTAG AGAAGTGCTC AGCTTTCTCT TATGCAGGTC TATGTTATCC ATCTTTTACA CACTGTTTTR
+    GAATGTTTAT TTTGGGAAAT ACAAATGTAC AACTTTCAGC AACGGATCTC TTGGTTCTCG CATCGATGAA
+    GAACGCAGCG AAATGCGATA AGTAATGTGA ATTGCAGAAT TCAGTGAATC ATCGAATCTT TGAACGCAAC
+    TTGCGCTCCT TGGTACTCTG AGGAGCATGC CTGTTTGART GTCATTAAAC TTCTTCTCAA CCCATCCAGT
+    TTCTCTGTGT GTGGGCTTTG GACAATGGGG GCTTGCTGGT TGCTATTTTT CCAGCTCTCC TGAAAAGCAT
+    TAGCGGCATC TGGGCTGCTT GCAGGTGTGA TAACTCGTCT ACACCTTTGC AGTGGCTGCA TTTGTGCTGC
+    GTTAGAGGGC ATTGATGAAA TTTGACMTCA AATCAGGTAG GACTACCCGC TGAACTTAAG CATATCAATA A
   soies: 
   soies-hymeniales: 
   sporee: brun à brun verdâtre

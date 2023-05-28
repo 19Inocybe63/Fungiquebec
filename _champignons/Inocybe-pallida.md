@@ -282,7 +282,7 @@ description:
     <b>Stangl, Johann</b>. <i>Guida alla determinazione dei funghi Vol. 3° Inocybe</i>, Saturnia, 1e Edizione italiana, 1991, 437 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Annexe 8, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Annexe 4, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
@@ -297,7 +297,15 @@ description:
   sclerocystides: 
   sclerote: 
   sequences: |
-    TAGGTGAACC TGCGGAAGGA TCATTATTGA ATAAATTTGA ACGGGCTGTT GCTGGCTCTG TTGAGCGATG TGCACGCYTG TCATGTTTAT GTTTCCAACT GTGCACACAT TGTAGATCTG     GTGGAATTTT ATGTTGCTTG CAATAATAGA GTGAGGACTT TGCTGTATGG CACTCCTTGT CTGCTAGGTC TATGTTCACG AACTCTGAAA TGGTTATAGA ATGTTGGGGA AAAAAAATTT     TTACAACTTT CAGCAACGGA TCTCTTGGTT CTCGCATCGA TGAAGAACGC AGCGAAATGC GATAAGTAAT GTGAATTGCA GAATTCAGTG AATCATCGAA TCTTTGAACG CATCTTGCGC     TCCTTGGTAT TCTGAGGAGC ATGCCTGTTT GAGTGTCATC AAGTTCTCAA CCCGCATCCT TTTTGAAGGG ATGTGGATTT GGATTATGGA GTTTGCAGGC ATGATTGAAA GGTCTGCTCC     TCTGAAATGT ATTAGTGGCA ATGTGGAAAA GCTACTGTGG GTGTGATAAC TATCTATGCC TATGCAGTGC TCTGCTGTGT GCCGCTTTGG AGGGAGAAAT TTATTCTGAC AAACTTGACC     TCAAATCA
+    TAGGTGAACC TGCGGAAGGA TCATTATTGA ATAAATTTGA ACGGGCTGTT GCTGGCTCTG TTGAGCGATG
+    TGCACGCYTG TCATGTTTAT GTTTCCAACT GTGCACACAT TGTAGATCTG GTGGAATTTT ATGTTGCTTG
+    CAATAATAGA GTGAGGACTT TGCTGTATGG CACTCCTTGT CTGCTAGGTC TATGTTCACG AACTCTGAAA
+    TGGTTATAGA ATGTTGGGGA AAAAAAATTT TTACAACTTT CAGCAACGGA TCTCTTGGTT CTCGCATCGA
+    TGAAGAACGC AGCGAAATGC GATAAGTAAT GTGAATTGCA GAATTCAGTG AATCATCGAA TCTTTGAACG
+    CATCTTGCGC TCCTTGGTAT TCTGAGGAGC ATGCCTGTTT GAGTGTCATC AAGTTCTCAA CCCGCATCCT
+    TTTTGAAGGG ATGTGGATTT GGATTATGGA GTTTGCAGGC ATGATTGAAA GGTCTGCTCC TCTGAAATGT
+    ATTAGTGGCA ATGTGGAAAA GCTACTGTGG GTGTGATAAC TATCTATGCC TATGCAGTGC TCTGCTGTGT
+    GCCGCTTTGG AGGGAGAAAT TTATTCTGAC AAACTTGACC TCAAATCA
   soies: 
   soies-hymeniales: 
   sporee: en amoncellement, brun rougeâtre 5YR 4/4 à brun 7.5 YR 4/4 (Munsell Soil-Color Charts)

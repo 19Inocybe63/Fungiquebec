@@ -238,7 +238,7 @@ description:
   publications: |
     <b>Lamoureux, Yves</b>. Champignons du Québec, Tome 2, <i>Les Amanites</i>, Éd. Cercle des Mycologues de Montréal, 2006, 109 p. avec 52 planches photographiques
   publications-microscopiques: |
-  <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
+   <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: |
     Potasse (KOH 10%) = pas de coloration ou de décoloration sur le pileus
   receptacle: 

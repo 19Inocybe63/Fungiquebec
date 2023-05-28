@@ -1,6 +1,6 @@
 ---
 nom: Callistosporium luteo-olivaceum
-date: 2017-03-18 00:00:00
+date: 2023-05-17 00:00:00
 image: https://c2.staticflickr.com/4/3808/9366140251_6a8ff08cf5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9366140251/in/photolist-fgDW6g-fgDVbK
 album-flickr:
@@ -82,7 +82,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Yves Lamoureux. « Ce qu'il y a de particulièrement intéressant avec ce « PCJ » est qu'une goutte de KOH 10% le fait virer au rouge vif presque instantannément (sur le pileus ou sur les lames). Pas besoin de colorant au microscope non plus; tout est rouge. Alors si on a de la potasse, c'est une espèce facile à identifier, même si elle est très peu commune ! »
+    De Yves Lamoureux. « Ce qu'il y a de particulièrement intéressant avec ce « PCJ » est qu'une goutte de KOH 10% le fait virer au rouge vif presque instantannément (sur le pileus ou sur les lames). Pas besoin de colorant au microscope non plus; tout est rouge. Alors si on a de la potasse, c'est une espèce facile à identifier, même si elle est très peu commune. »
   conidies: 
   conidiome: 
   conidiophores: 

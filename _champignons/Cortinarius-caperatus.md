@@ -62,7 +62,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol surtout des sapinières à bouleaux
+  biotopes: pousse au sol surtout dans les sapinières à bouleaux
   boucles: observées dans la trame lamellaire, et dans le stipitipellis
   brachybasidioles: 
   calicule: 

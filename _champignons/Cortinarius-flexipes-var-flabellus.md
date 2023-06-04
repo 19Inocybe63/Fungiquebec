@@ -1,6 +1,6 @@
 ---
 nom: Cortinarius flexipes var. flabellus
-date: 2017-03-20 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8549/30168238602_c1ee598a97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30168238602/in/photolist-MXS7hS-MboHve-MboCkz-LCbgH9-MsfcAn-MwvDPL
 album-flickr:
@@ -262,10 +262,7 @@ description:
     <b>Niskanen, Tuula</b>. <i>Cortinarius subgenus Telamonia p.p. in North Europe</i>, Plant Biology Department of Biological and Environmental Sciences University of Helsinki, Finland, Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Finland, Helsinki 2008, 33 p.
     <b>Soop, Karl</b>. <i>Cortinarius in Sweden</i>, Ninth revised edition, January 2004, Edition Scientrix, 161 p.
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: 
   receptacle: 
   remarques: Sous-genre Telamonia

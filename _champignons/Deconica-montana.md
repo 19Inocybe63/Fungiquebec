@@ -1,6 +1,6 @@
 ---
 nom: Deconica montana
-date: 2017-10-30 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3918/14248225929_dbab7946e2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14248225929/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk
 album-flickr:
@@ -253,10 +253,7 @@ description:
     <b>Noordeloos, Machiel E</b>. <i>Pholiota, Psilocybe and Panaeolus</i>, Fungi non Delineati raro vel haud perspecte et explorate descripti aut definite picti Pars IV, Mykoflora I, Alassio-(SV), 1998, 48 p.
     <b>Persoon, Christiaan Hendrik</b>. <i>Observationes Mycologicæ</i>; seu Descriptiones tam novorum quam notabilium Fungorum Exibitæ, Pars prima cum tabilis VI Æneis Pictis, Lipsiæ, 1796, Apud Petrum Phillippum Wolf.
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: 
   receptacle: 
   remarques: 

@@ -234,8 +234,7 @@ description:
   publications: |
     <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
     <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
-  publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
+  publications-microscopiques: 
   reactions-macrochimiques: |
     Ammoniaque (NH<SUB>4</SUB>OH 10%) = le pileus devient jaune
     Potasse (KOH 10%) = la chair devient brun olivâtre

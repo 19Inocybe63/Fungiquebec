@@ -1,6 +1,6 @@
 ---
 nom: Hebeloma crustuliniforme
-date: 2018-03-07 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7510/30176151245_b24ee2a1f3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30176151245/in/photolist-M1Yi6z-MYyErK
 album-flickr:
@@ -262,7 +262,8 @@ description:
     <b>Beker, H. J.; Eberhardt, U.; Vesterholt, J</b>. <i>Hebeloma (Fr.) P. Kumm.</i> Fungi Europaei vol. 14, Ed. Candusso Edizioni, 2016.
     <b>Smith, Alexander H.; Evenson, Vera Stuck; Mitchel, Duane H</b>. <i>The Veiled Species of Hebeloma in the Western United States</i>, Ann Arbor the University of Michigan Press, 1983, 228 p.
     <b>Vesterholt, Jan</b>. <i>The genus Hebeloma</i>, Fungi of Northern Europe, vol. 3, Danish Mycological Society, 2005, p. 76 p.
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

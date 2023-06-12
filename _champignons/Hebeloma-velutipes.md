@@ -1,6 +1,6 @@
 ---
 nom: Hebeloma velutipes
-date: 2018-03-07 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5687/29909344612_2edcbdb7cd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29909344612/in/photolist-NkV4y1-MBDQJa-MyZd8o/
 album-flickr:
@@ -253,10 +253,7 @@ description:
     <b>Smith, Alexander H.; Evenson, Vera Stuck ; Mitchel, Duane H</b>. <i>The Veiled Species of Hebeloma in the Western United States</i>, Ann Arbor the University of Michigan Press, 1983, 228 p.
     <b>Vesterholt, Jan</b>. <i>The genus Hebeloma</i>, Fungi of Northern Europe, vol. 3, Danish Mycological Society, 2005, p. 76 p.
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

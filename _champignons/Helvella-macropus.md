@@ -235,12 +235,7 @@ description:
   publications: |
     <b>Abbott, Sean P.; Currah, R. S</b>. <i>The Helvellaceae, Systematic Revision and occurrence in Northern and Northwestern North America</i>, Mycotaxon, vol. LXII, pp. 1-125, April-May, 1997, 125 p.
     <b>Dissing, Henry</b>. <i>The Genus Helvella in Europe with Special Emphasis on the Species Found in Norden</i>, Dansk Botanisk Arkiv Udoivbt ap Dansk Botanisk Forening, København, 1966, 171 p.
-  publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Module 7, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1re édition, Québec, 2016.
+  publications-microscopiques: 
   reactions-macrochimiques: 
   receptacle: 
   remarques: 

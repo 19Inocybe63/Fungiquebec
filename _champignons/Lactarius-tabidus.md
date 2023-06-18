@@ -1,6 +1,6 @@
 ---
 nom: Lactarius tabidus
-date: 2017-05-07 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8554/30024166755_571409ee88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024166755/in/photolist-MK8GKv
 album-flickr:
@@ -248,7 +248,8 @@ description:
     <b>Bessette, Alan E.; Bessette, Arleen R.; Harris, David B</b>. <i>Milk Mushrooms of North America (A Field Identification Guide to the Genus Lactarius)</i>, Syracuse University Press, 2009, 307 p.
     <b>Heilmann-Clausen, J.,; Verbeken, A.; Vesterholt, J</b>. <i>The genus Lactarius</i>, Fungi of Northern Europe vol. 2, 1998, 146 p.
     <b>Smith, Alexander H.; Hesler, Lexemuel R</b>. <i>North American Species of Lactarius</i>, Ann Arbor, The University of Michigan Press, 1979, 853 p.
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

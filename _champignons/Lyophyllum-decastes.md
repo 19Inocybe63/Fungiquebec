@@ -1,6 +1,6 @@
 ---
 nom: Lyophyllum decastes
-date: 2017-06-19 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4262/35286859136_8ff15994e2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35286859136/in/photostream/
 album-flickr:
@@ -256,7 +256,8 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
     Ammoniaque (NH<sub>4</sub>OH 10%) = pas de coloration ou de décoloration

@@ -1,6 +1,6 @@
 ---
 nom: Leotia lubrica
-date: 2018-02-25 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4396/37024715491_a1fb7e6a40_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37024715491/in/dateposted/
 album-flickr:
@@ -263,7 +263,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: 
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Annexe 3, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

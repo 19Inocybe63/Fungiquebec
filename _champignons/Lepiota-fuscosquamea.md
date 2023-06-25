@@ -1,6 +1,6 @@
 ---
 nom: Lepiota fuscosquamea
-date: 2017-10-21 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4430/36593444923_92e54b79b2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36593444923/in/dateposted/
 album-flickr:
@@ -248,7 +248,8 @@ description:
   pseudo-peridioles: 
   publications: |
     <B>Richard E. Sieger</b>. <i>Trial Key to Pacific Northwest Lepiota and Allies</i>; Prepared for the Pacific Northwest Key Council, Puget Sound Mycological Society; Copyright © October 25, 2002, 2003; Minor revision Mar 2003.
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

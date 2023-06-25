@@ -1,6 +1,6 @@
 ---
 nom: Mutinus ravenelii
-date: 2017-06-30 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4281/35461590412_df6e3874d4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35461590412/in/photostream/
 album-flickr:
@@ -247,7 +247,7 @@ description:
   publications: |
     <b>Smith, Alexander H</b>. <i>Puffballs and their allies in Michigan</i>, Ann Arbor, The University of Michigan Press, 1951, 187 p.
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

@@ -1,6 +1,6 @@
 ---
-nom: Clitocybe robusta
-date: 2017-11-05 00:00:00
+nom: Clitocybe robusta Peck
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4412/36552298664_d238f7a16f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36552298664/in/photolist-XG15VW-XG14Jh-YLHWHp-YLHSZn
 album-flickr:

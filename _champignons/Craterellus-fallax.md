@@ -1,6 +1,6 @@
 ---
-nom: Craterellus fallax
-date: 2017-03-20 00:00:00
+nom: Craterellus fallax A.H. Sm.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5689/20978286609_8c2f1879e9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20978286609/in/photolist-xXMcJH
 album-flickr:

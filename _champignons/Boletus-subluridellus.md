@@ -17,7 +17,7 @@ details:
   ordre: Boletales
   famille: Boletaceae
   genre: Boletus
-  espece: <i>Boletus subluridellus</i> A. H. Sm. & Thiers
+  espece: <i>Boletus subluridellus</i> A.H. Sm. & Thiers
   litterature: Smith, A.H.; Thiers, H.D. 1971. The Boletes of Michigan. :1-428
 
 collections:

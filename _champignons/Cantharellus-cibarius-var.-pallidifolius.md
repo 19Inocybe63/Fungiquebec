@@ -1,6 +1,6 @@
 ---
-nom: Cantharellus cibarius var. pallidifolius
-date: 2017-05-21 00:00:00
+nom: Cantharellus cibarius var. pallidifolius A.H. Sm
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5486/9411661930_199db756a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9411661930/in/photolist-fkFfmJ-fkFech
 album-flickr:
@@ -17,7 +17,7 @@ details:
   ordre: Cantharellales
   famille: Cantharellaceae
   genre: Cantharellus
-  espece: <i>Cantharellus cibarius var. pallidifolius</i>
+  espece: <i>Cantharellus cibarius var. pallidifolius</i> A.H. Sm
   litterature: Smith, A.H. 1968. The Cantharellaceae of Michigan. The Michigan Botanist. 7:143-183
 
 collections:

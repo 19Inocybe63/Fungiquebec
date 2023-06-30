@@ -60,9 +60,11 @@ description:
     <b>Kuo, Michael,; Matheny, P. Brandon</b>. <i>Contemporary documentation of the rare eastern North American species Inocybe insignis (Inocybaceae, Agaricales)</i>, MycoKeys 11:23-31 (2015), 9 p.
     <b>Kuyper, Thomas W.</b>. <i>Begin eens met… Vezelkoppen (Inocybe) - 2. Voorlopige Determinatiesleutel tot de Knobbelsporige Vezelkoppen</i>, Coolia 49(1): 11-17, 2006, 7 p.
     <b>Lecomte, Marcel</b>. <i>Vous avez dit P.D.A.B. ?</i>, Bulletin de l’Association des Mycologues Francophones de Belgique 2014/07, p. 4, 1 p.
-    <b>Matheny, P. Brandon,; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
-    <b>Matheny, P. Brandon, et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
-    <b>Matheny, P. Brandon</b>. <i>Key to Species of Inocybe from eastern North America</i>, v04 (23-Dec-2017), University of Tennessee
+    <b>Matheny, P.B.; Moreau, Pierre-Arthur</b>. <i>A rare and unusual lignicolous species of Inocybe (Agaricales) from eastern North America</i>, Brittonia, 61(2), 2009, pp. 163-171, 9 p.
+    <b>Matheny, P.B., et al</b>. <i>A common new species of Inocybe in the Pacific Northwest with a diagnostic P.D.A.B. reaction</i>, Mycologia, 105 (2), 2013, pp. 436-446, 11 p.
+    <b>Matheny, P.B.</b>. <i>Key to Species of Inocybe from eastern North America</i>, v04 (23-Dec-2017), University of Tennessee
+    <b>Matheny, P.B.</b>. Matheny, P.B., Corrales, A., Graddy, M.G. et al</b>. <i>A revision of the Inocybe grammata group in North America including four new taxa</i>, Brittonia 74, 436–464 (2022). https://doi.org/10.1007/s12228-022-09720-0
+
   ascome: 
   ascospores: 
   asques: 
@@ -160,8 +162,8 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: spermatique (pipéridine)
-  exhalaison-des-lames: spermatique (pipéridine)
+  exhalaison-de-la-chair: spermatique (pipéridine) à acidulée, aromatique
+  exhalaison-des-lames: spermatique (pipéridine) à acidulée, aromatique
   exoperidium: 
   extremites-hyphales: 
   face-externe: 
@@ -240,7 +242,7 @@ description:
   pileipellis: en cutis
   pileitrame: 
   pileocystides: 
-  pileus: 10-40 (45) mm Ø, conique-convexe à campanulé, d'abord lisse puis fibrilleux-rimeux, souvent sillonné avec l'âge, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre, 10YR 8/3-4
+  pileus: 10-40 (45) mm Ø, conique-convexe à campanulé-mamelonné, d'abord lisse puis fibrilleux-rimeux, souvent sillonné avec l'âge, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre, 10YR 8/3-4
   plasmode: 
   pleurochrysocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, (52,2) 59,1-68,5] (75,4) x (15) 17,4-20,7 (23,1) µm en moyenne
   pleurocystides: 
@@ -281,7 +283,7 @@ description:
   repartition: 
   rhizomorphes: 
   sac-sporifere: 
-  saveur: spermatique (pipéridine)
+  saveur: spermatique (pipéridine) à acidulée, aromatique
   sclerocystides: 
   sclerote: 
   soies: 

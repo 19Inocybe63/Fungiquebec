@@ -1,5 +1,5 @@
 ---
-nom: Cortinarius flexipes var. flabellus
+nom: Cortinarius flexipes var. flabellus (Fr.) H. Lindstr. & Melot
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8549/30168238602_c1ee598a97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30168238602/in/photolist-MXS7hS-MboHve-MboCkz-LCbgH9-MsfcAn-MwvDPL

@@ -1,5 +1,5 @@
 ---
-nom: Callistosporium luteo-olivaceum
+nom: Callistosporium luteo-olivaceum (Berk. & M.A. Curtis) Singer
 date: 2023-05-17 00:00:00
 image: https://c2.staticflickr.com/4/3808/9366140251_6a8ff08cf5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9366140251/in/photolist-fgDW6g-fgDVbK
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Tricholomataceae
   genre: Callistosporium
-  espece: <i>Callistosporium luteo-olivaceum</i> (Berk. & M. A. Curtis) Singer
+  espece: <i>Callistosporium luteo-olivaceum</i> (Berk. & M.A. Curtis) Singer
   litterature: Lloydia, 89, 117, 1946
 
 collections:

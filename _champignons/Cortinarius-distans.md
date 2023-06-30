@@ -1,5 +1,5 @@
 ---
-nom: Cortinarius distans
+nom: Cortinarius distans Peck
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7072/27942307491_0d2d8e1b9c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27942307491/in/photolist-JLhYc9-JzaCwg

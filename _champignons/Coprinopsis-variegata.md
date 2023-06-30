@@ -1,6 +1,6 @@
 ---
-nom: Coprinopsis variegata
-date: 2023-03-30 00:00:00
+nom: Coprinopsis variegata (Peck) Redhead, Vilgalys & Moncalvo
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8008/7426245136_1209367d96_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7426245136/in/photolist-cmbCTq-cjerXf/
 album-flickr:

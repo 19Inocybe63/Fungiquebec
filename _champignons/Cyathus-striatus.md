@@ -1,5 +1,5 @@
 ---
-nom: Cyathus striatus
+nom: Cyathus striatus (Huds.) Willd.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4306/35600619560_8c2d6fcabd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35600619560/in/dateposted/

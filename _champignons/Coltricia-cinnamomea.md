@@ -1,6 +1,6 @@
 ---
-nom: Coltricia cinnamomea
-date: 2017-03-18 00:00:00
+nom: Coltricia cinnamomea (Jacq.) Murrill
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/320/19728812658_fe09f8de71_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19728812658/in/photolist-vp7x2F-vp7BKt-w4nCVS-voYd5E-w4njEo
 album-flickr:

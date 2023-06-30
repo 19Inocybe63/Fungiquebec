@@ -1,6 +1,6 @@
 ---
-nom: Coprinopsis lagopus
-date: 2017-03-18 00:00:00
+nom: Coprinopsis lagopus (Fr.) Redhead, Vilgalys & Moncalvo
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/389/18517728959_f7543e0d50_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18517728959/in/photolist-udm81B-udmcEX
 album-flickr:

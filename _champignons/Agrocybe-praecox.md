@@ -1,5 +1,5 @@
 ---
-nom: Agrocybe praecox
+nom: Agrocybe praecox (Pers.) Fayod
 date: 2023-05-19 00:00:00
 image: https://c2.staticflickr.com/4/3821/8780672969_b12aa3654b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8780672969/in/photolist-HhLcB5-HH9N3r-u5JoVU-tbdxvt-tbdFAr-tQBkjr-tbjvzx-rH3JM4-eDdsCJ-eD7kCa-eD7nkF-eotM2d-eovX3d-enVfag-ekWro7-ekWnEY-ekWnLY

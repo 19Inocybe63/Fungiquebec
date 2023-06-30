@@ -1,5 +1,5 @@
 ---
-nom: Boletus subluridellus
+nom: Boletus subluridellus A.H. Sm. & Thiers
 date: 2023-05-17 00:00:00
 image: https://c1.staticflickr.com/1/500/19726150815_acbe970d48_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19726150815/in/photolist-FChVB4-EQCLPM-v7gsWk-w48Fox-v7hKKi

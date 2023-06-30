@@ -1,5 +1,5 @@
 ---
-nom: Amanita porphyria
+nom: Amanita porphyria Alb. & Schwein.
 date: 2017-03-17 00:00:00
 image: https://c2.staticflickr.com/4/3928/15243769398_3a8366c102_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15243769398/in/photolist-pvuPJA-pe3iyj-pvwDBR-pe3vM6

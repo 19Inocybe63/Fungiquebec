@@ -1,5 +1,5 @@
 ---
-nom: Entoloma quadratum
+nom: Entoloma quadratum (Berk. & M.A. Curtis) E. Horak
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5569/14774140147_24ec6dfe42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14774140147/in/photolist-q1NzQF-oKZuMC-ovxk9g

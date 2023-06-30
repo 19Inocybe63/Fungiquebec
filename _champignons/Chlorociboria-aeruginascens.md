@@ -1,6 +1,6 @@
 ---
-nom: Chlorociboria aeruginascens
-date: 2023-04-30 00:00:00
+nom: Chlorociboria aeruginascens (Nyl.) Kanouse ex C.S. Ramamurthi et al.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8231/29832790142_9e39b52477_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832790142/in/photolist-MsdR9J-MzfAsC
 album-flickr:

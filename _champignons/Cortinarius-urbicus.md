@@ -1,5 +1,5 @@
 ---
-nom: Cortinarius urbicus
+nom: Cortinarius urbicus (Fr.) Fr.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8133/29510867143_38fbd3d847_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29510867143/in/photolist-NDr5yj-MKem2S-LXPeLW-LXLUEc

@@ -1,5 +1,5 @@
 ---
-nom: Entoloma cf. incarnatofuscescens
+nom: Entoloma cf. incarnatofuscescens (Britzelm.) Noordel.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7260/7808924042_8d013e0dc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7808924042/in/photolist-dBdjSZ-ehkjjb-cU3Jaq-cU3M4q

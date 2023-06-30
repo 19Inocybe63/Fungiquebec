@@ -1,6 +1,6 @@
 ---
-nom: Climacodon septentrionalis
-date: 2017-03-18 00:00:00
+nom: Climacodon septentrionalis (Fr.) P. Karst.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5666/20983721528_ec61923f61_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20983721528/in/photolist-yeXCLo-xYg4md-yeXHQS
 album-flickr:

@@ -1,5 +1,5 @@
 ---
-nom: Entoloma formosum
+nom: Entoloma formosum (Fr.) Noordel.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5553/14864698956_e8a7930466_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14864698956/in/photolist-qepDS2-oDxt83-oDxrA5

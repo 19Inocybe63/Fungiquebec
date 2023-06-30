@@ -1,5 +1,5 @@
 ---
-nom: Armillaria ostoyae
+nom: Armillaria ostoyae (Romagn.) Herink
 date: 2023-05-17 00:00:00
 image: https://c2.staticflickr.com/6/5598/15505206645_8151e39b28_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15505206645/in/photolist-pLEhxV-pBRYht-pkCiBH-pC9eK4-pkDsTA

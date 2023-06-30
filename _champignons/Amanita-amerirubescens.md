@@ -1,5 +1,5 @@
 ---
-nom: Amanita amerirubescens
+nom: Amanita amerirubescens Tulloss nom. prov.
 date: 2023-05-19 00:00:00
 image: https://c2.staticflickr.com/8/7340/9529571835_f6574d6e2d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9529571835/in/photolist-naiDb4-fwkQjJ-fw6xGF

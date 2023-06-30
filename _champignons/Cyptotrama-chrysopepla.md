@@ -1,6 +1,6 @@
 ---
-nom: Cyptotrama chrysopepla
-date: 2017-03-20 00:00:00
+nom: Cyptotrama chrysopepla (Berk. & M.A. Curtis) Singer
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8181/8064645462_423d37e499_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8064645462/in/photolist-dhDq8q
 album-flickr:

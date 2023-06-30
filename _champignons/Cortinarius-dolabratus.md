@@ -1,5 +1,5 @@
 ---
-nom: Cortinarius dolabratus
+nom: Cortinarius dolabratus Fr.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5559/15290852396_0d53a784d8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15290852396/in/photolist-QHjS1s-picBG9-p3JGhy

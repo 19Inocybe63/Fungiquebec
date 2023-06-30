@@ -1,6 +1,6 @@
 ---
-nom: Clavaria fragilis
-date: 2017-03-18 00:00:00
+nom: Clavaria fragilis Holmsk.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8843/28240406722_244345c4a1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28240406722/in/photolist-K2vt3b
 album-flickr:

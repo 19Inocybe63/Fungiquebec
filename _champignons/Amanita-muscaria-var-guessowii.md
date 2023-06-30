@@ -1,5 +1,5 @@
 ---
-nom: Amanita muscaria var. guessowii
+nom: Amanita muscaria var. guessowii Veselý
 date: 2023-05-19 00:00:00
 image: https://c2.staticflickr.com/4/3804/9383558688_c77720140f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9383558688/in/photolist-ficc5C

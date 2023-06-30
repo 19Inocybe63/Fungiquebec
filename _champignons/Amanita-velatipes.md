@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Amanitaceae
   genre: Amanita
-  espece: <i>Amanita velatipes</i> G. F. Atk.
+  espece: <i>Amanita velatipes</i> G.F. Atk.
   litterature: Atkinson, G.F. 1900. Studies of American fungi. Mushrooms, edible, poisonous, etc. :1-275
 
 collections:

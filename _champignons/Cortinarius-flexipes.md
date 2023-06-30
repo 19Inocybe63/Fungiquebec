@@ -1,5 +1,5 @@
 ---
-nom: Cortinarius flexipes
+nom: Cortinarius flexipes (Pers.) Fr.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5556/15313456612_cc49d74b37_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15313456612/in/photolist-qxLoFM-pkct91

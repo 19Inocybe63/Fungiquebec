@@ -1,6 +1,6 @@
 ---
-nom: Elaphomyces verruculosus
-date: 2017-03-22 00:00:00
+nom: Elaphomyces verruculosus Castellano
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5659/21247990934_8e04b18b66_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21247990934/in/photolist-ynBvrh-z38wYn
 album-flickr:

@@ -1,6 +1,6 @@
 ---
-nom: Cortinarius torvus
-date: 2017-03-20 00:00:00
+nom: Cortinarius torvus (Fr.) Fr.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7380/9412517132_cc0b5e615b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9412517132/in/photolist-fkKyDo-fkKBq9
 album-flickr:

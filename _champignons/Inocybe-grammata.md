@@ -1,6 +1,6 @@
 ---
-nom: Inocybe grammata
-date: 2023-05-20 00:00:00
+nom: Inocybe grammata Quél.
+date: 2023-05-21 00:00:00
 image: https://c1.staticflickr.com/1/335/18276172193_8a7128149f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18276172193/in/photolist-uKdsm9-uvp2YK-tR1ag8
 album-flickr:
@@ -240,7 +240,7 @@ description:
   pileipellis: en cutis
   pileitrame: 
   pileocystides: 
-  pileus: 10-40 (45) mm Ø, conique-convexe à campanulé, d'abord lisse puis fibrilleux-rimeux, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre
+  pileus: 10-40 (45) mm Ø, conique-convexe à campanulé, d'abord lisse puis fibrilleux-rimeux, sillonné avec l'âge, dont la superficie est recouverte par un voile blanc grisâtre, qui perdure au disque, mais laisse voir des tonalités carnées-lilacines sur les parties dont il s'est détaché, brun pâle avec reflets rougeâtre, 10YR 8/3-4
   plasmode: 
   pleurochrysocystides: nombreuses, métuloïdes, fusiformes à fusiformes ventrues, cylindriques, à paroi légèrement épaissie à épaissie entre 0,8-2,4 µm en moyenne, (52,2) 59,1-68,5] (75,4) x (15) 17,4-20,7 (23,1) µm en moyenne
   pleurocystides: 
@@ -288,7 +288,7 @@ description:
   sporee: brun foncé à brun tabac
   spherocytes: 
   sporocystes: 
-  stipe: 30-60 x 6-9 mm Ø, ± cylindrique, cystidié sur toute sa longueur, bulbeux marginé à submarginé à la base, fibrilleux blanchâtre et rougeâtre à l'apex
+  stipe: 30-60 x 6-9 mm Ø, ± cylindrique, cystidié sur toute sa longueur, bulbeux marginé à submarginé à la base, fibrilleux blanchâtre et rougeâtre à l'apex, White page 7.5YR 3/2 & 4/2
   stipitipellis: 
   stipititrame: 
   stroma: 

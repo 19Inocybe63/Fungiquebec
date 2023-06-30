@@ -1,6 +1,6 @@
 ---
-nom: Boletus chippewaensis
-date: 2017-10-24 00:00:00
+nom: Boletus chippewaensis A.H. Sm. & Thiers
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4339/37197653806_8454559eff_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37197653806/in/photolist-YXLonV-YF2GwJ
 album-flickr:

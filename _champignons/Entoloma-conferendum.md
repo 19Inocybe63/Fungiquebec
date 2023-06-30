@@ -1,5 +1,5 @@
 ---
-nom: Entoloma conferendum
+nom: Entoloma conferendum (Britzelm.) Noordel.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4349/37195664396_a586895bb2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37195664396/in/photolist-YERv9y

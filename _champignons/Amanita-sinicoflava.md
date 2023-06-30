@@ -1,5 +1,5 @@
 ---
-nom: Amanita sinicoflava
+nom: Amanita sinicoflava Tulloss
 date: 2023-05-17 00:00:00
 image: https://c2.staticflickr.com/4/3859/15083082127_e0523fc7f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15083082127/in/photolist-pntRkJ-oYQJQ8-pgjSSr

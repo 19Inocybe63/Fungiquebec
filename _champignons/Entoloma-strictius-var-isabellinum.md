@@ -1,5 +1,5 @@
 ---
-nom: Entoloma strictius var. isabellinum
+nom: Entoloma strictius var. isabellinum Peck
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/3/2938/14027433237_c891b5ecb3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14027433237/in/photolist-nFqWq4-nnygcc

@@ -1,5 +1,5 @@
 ---
-nom: Calycina citrina
+nom: Calycina citrina (Hedw.) Gray
 date: 2023-04-30 00:00:00
 image: https://c2.staticflickr.com/4/3928/15397943256_6e03315401_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15397943256/in/photolist-oTnnJF-psEu5h

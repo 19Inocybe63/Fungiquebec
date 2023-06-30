@@ -1,5 +1,5 @@
 ---
-nom: Amanita farinosa
+nom: Amanita farinosa Schweinitz
 date: 2023-05-19 00:00:00
 image: https://c2.staticflickr.com/8/7457/9648424458_c8cae4c294_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9648424458/in/photolist-xAjZWP-xiHqvj-wDj9j1-p9emRd-nBdJUN-fGAGrQ-fGj9uZ-fezXXq

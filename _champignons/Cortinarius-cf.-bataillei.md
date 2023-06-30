@@ -1,5 +1,5 @@
 ---
-nom: Cortinarius cf. bataillei
+nom: Cortinarius cf. bataillei J. Favre
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4498/36614503393_d79064101b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36614503393/in/photolist-XMuS4p-XMuUeg-XHVM25-YNEU3D/
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Cortinariaceae
   genre: Cortinarius
-  espece: <i>Cortinarius cf. bataillei</i>
+  espece: <i>Cortinarius cf. bataillei</i> J. Favre
   litterature: 
 
 collections:

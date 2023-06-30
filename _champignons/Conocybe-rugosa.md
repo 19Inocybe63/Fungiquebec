@@ -1,6 +1,6 @@
 ---
-nom: Conocybe rugosa
-date: 2017-03-18 00:00:00
+nom: Conocybe rugosa (Peck) Watling
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8662/29878980946_7e40363052_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29878980946
 album-flickr:

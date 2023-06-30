@@ -1,5 +1,5 @@
 ---
-nom: Agrocybe pediades
+nom: Agrocybe pediades (Fr.) Fayod
 date: 2023-05-19 00:00:00
 image: https://c2.staticflickr.com/8/7351/27376363195_4f178bde92_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27376363195/in/photolist-HHa1ZZ-HAV7A8-nTpic6-nTLDni/

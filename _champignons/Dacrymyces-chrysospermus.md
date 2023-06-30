@@ -1,5 +1,5 @@
 ---
-nom: Dacrymyces chrysospermus
+nom: Dacrymyces chrysospermus Berk. & M.A. Curtis
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8493/8330888434_22bb5d7a01_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8330888434/in/photolist-dG9Y65-dGaYTu

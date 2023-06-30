@@ -1,5 +1,5 @@
 ---
-nom: Crepidotus cesatii var. subsphaerosporus
+nom: Crepidotus cesatii var. subsphaerosporus (J.E. Lange) Senn-Irlet
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8467/8084202795_cc78c9e611_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084202795/in/photolist-dxUEnx-djnDQP-dxXe3x

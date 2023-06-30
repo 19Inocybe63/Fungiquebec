@@ -1,5 +1,5 @@
 ---
-nom: Cystoderma amianthinum
+nom: Cystoderma amianthinum (Scop.) Fayod
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4332/36416093770_3ab8176d3c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36416093770/in/photolist-YyBw2Z-XtXZXG-XtXXJ3

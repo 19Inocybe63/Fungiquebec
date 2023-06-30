@@ -1,6 +1,6 @@
 ---
-nom: Daedaleopsis confragosa
-date: 2017-03-20 00:00:00
+nom: Daedaleopsis confragosa (Bolton) J. Schröt.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/729/21681354819_68688b6f57_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21681354819/in/photolist-z2UBqp-zkgMqH-zh7uJN
 album-flickr:

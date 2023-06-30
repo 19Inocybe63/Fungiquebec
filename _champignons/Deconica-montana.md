@@ -1,5 +1,5 @@
 ---
-nom: Deconica montana
+nom: Deconica montana (Pers.) P.D. Orton
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3918/14248225929_dbab7946e2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14248225929/in/photolist-r9P7Uh-nXxi71-nH6azB-nH4RXe-nH4UfF-nH4TaK-nZggkk

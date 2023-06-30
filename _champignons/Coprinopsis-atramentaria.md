@@ -1,6 +1,6 @@
 ---
-nom: Coprinopsis atramentaria
-date: 2023-03-30 00:00:00
+nom: Coprinopsis atramentaria (Bull.) Redhead, Vilgalys & Moncalvo
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7323/10088573684_37c385249e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10088573684/in/photolist-sTRAxX-gnuBKj-gnuztA
 album-flickr:

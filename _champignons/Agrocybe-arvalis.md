@@ -1,5 +1,5 @@
 ---
-nom: Agrocybe arvalis
+nom: Agrocybe arvalis (Fr.) Singer
 date: 2023-05-19 00:00:00
 image: https://c2.staticflickr.com/8/7310/9737943460_d0c3fe0e07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9737943460/in/photolist-dFmvs2-qQXGKF-fQdVxK-fQvvjU-cU2fbQ-cU2fpy

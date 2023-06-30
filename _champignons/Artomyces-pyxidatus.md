@@ -1,5 +1,5 @@
 ---
-nom: Artomyces pyxidatus
+nom: Artomyces pyxidatus (Pers.) Jülich
 date: 2023-05-17 00:00:00
 image: https://c2.staticflickr.com/6/5442/9144454319_a6ff8f7e09_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9144454319/in/photolist-eW4HFv

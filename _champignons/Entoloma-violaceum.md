@@ -1,5 +1,5 @@
 ---
-nom: Entoloma violaceum
+nom: Entoloma violaceum Murrill
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3877/14967804121_d118d38839_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14967804121/in/photolist-qhmCJe-owGghB-oNDUGi

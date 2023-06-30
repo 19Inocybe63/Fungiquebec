@@ -1,5 +1,5 @@
 ---
-nom: Atheniella adonis
+nom: Atheniella adonis (Bull.) Redhead, Moncalvo, Vilgalys, Desjardin & B.A. Perry
 date: 2023-05-17 00:00:00
 image: https://c1.staticflickr.com/3/2950/15438576082_0bcaf7f0bb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15438576082/in/photolist-q6dPYf-peNjeP-pwfJNf

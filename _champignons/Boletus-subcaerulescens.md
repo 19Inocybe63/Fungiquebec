@@ -1,5 +1,5 @@
 ---
-nom: Boletus subcaerulescens (E. A. Dick & Snell) Both, Bessette & A.R. Bessette
+nom: Boletus subcaerulescens (E.A. Dick & Snell) Both, Bessette & A.R. Bessette
 date: 2023-05-17 00:00:00
 image: https://c2.staticflickr.com/6/5657/20677827014_5ccdd426a5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20677827014/in/photolist-yaCLKE-xvegyS

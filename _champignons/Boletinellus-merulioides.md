@@ -1,5 +1,5 @@
 ---
-nom: Boletinellus merulioides
+nom: Boletinellus merulioides (Schwein.) Murrill
 date: 2023-05-17 00:00:00
 image: https://c1.staticflickr.com/1/681/20710760485_9274b8e443_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20710760485/in/photolist-E58B5u-xy94xk-dYYkyB-cuJocQ-cuJo1S

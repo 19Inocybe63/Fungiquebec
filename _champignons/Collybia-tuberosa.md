@@ -1,6 +1,6 @@
 ---
-nom: Collybia tuberosa
-date: 2017-03-18 00:00:00
+nom: Collybia tuberosa (Bull.) P. Kumm.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/639/21886192929_4753e592aa_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21886192929/in/photolist-zm1sDX
 album-flickr:

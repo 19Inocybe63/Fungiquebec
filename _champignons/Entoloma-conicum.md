@@ -1,5 +1,5 @@
 ---
-nom: Entoloma conicum
+nom: Entoloma conicum (Sacc.) Hesler
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5575/14701084889_7123cd3564_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14701084889/in/photolist-op5SWB-op5UmR-qfrG8V

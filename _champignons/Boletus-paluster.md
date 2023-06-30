@@ -1,6 +1,6 @@
 ---
-nom: Boletus paluster
-date: 2017-10-26 00:00:00
+nom: Boletus paluster Peck
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4365/37197157506_15f5af7b4b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37197157506/in/photolist-YEZ9ZQ-YEZ8cb
 album-flickr:

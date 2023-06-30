@@ -1,5 +1,5 @@
 ---
-nom: Cudonia lutea
+nom: Cudonia lutea (Peck) Sacc.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4358/36173851170_32d21fb511_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36173851170/in/dateposted/

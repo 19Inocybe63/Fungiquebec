@@ -1,6 +1,6 @@
 ---
-nom: Entoloma asprellum
-date: 2017-03-21 00:00:00
+nom: Entoloma asprellum (Fr.) Fayod
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/490/20065281211_140025cb40_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20065281211/in/photolist-KnAmT8-LjcCoe-wxW9Bh-wz6P3k
 album-flickr:

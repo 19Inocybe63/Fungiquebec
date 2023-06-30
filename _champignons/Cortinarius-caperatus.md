@@ -1,5 +1,5 @@
 ---
-nom: Cortinarius caperatus
+nom: Cortinarius caperatus (Pers.) Fr.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8461/8038502020_3d777ea34d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8038502020/in/photolist-edZ8GF-dfkqAq

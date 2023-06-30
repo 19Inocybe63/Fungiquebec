@@ -1,5 +1,5 @@
 ---
-nom: Armillaria sinapina Bérubé & Dessur.
+nom: Armillaria sinapina Berube & Dessur.
 date: 2023-05-17 00:00:00
 image: https://c1.staticflickr.com/9/8169/8064698711_27a2a80ff8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8064698711/in/photolist-eceEmc-dhDFXv
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Physalacriaceae
   genre: Armillaria
-  espece: <i>Armillaria sinapina </i> Bérubé & Dessur.
+  espece: <i>Armillaria sinapina </i> Berube & Dessur.
   litterature: Bérubé, J.A.; Dessureault, M. 1988. Morphological characterization of Armillaria ostoyae and Armillaria sinapina sp. nov. Canadian Journal of Botany. 66(10):2027-2034
 
 collections:

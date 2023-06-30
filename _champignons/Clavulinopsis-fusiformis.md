@@ -1,6 +1,6 @@
 ---
-nom: Clavulinopsis fusiformis
-date: 2023-04-30 00:00:00
+nom: Clavulinopsis fusiformis (Sowerby) Corner
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/685/20665078175_836e5968f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20665078175/in/photolist-HfrwKL-yqD9Ut-xu6VMi-wnkfuM
 album-flickr:

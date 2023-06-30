@@ -1,6 +1,6 @@
 ---
-nom: Coprinellus truncorum
-date: 2023-03-30 00:00:00
+nom: Coprinellus truncorum (Scop.) Redhead, Vilgalys & Moncalvo
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/3/2922/14221760856_2a6067ffc5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14221760856/in/photolist-sXpQiS-s1P2ep-nGNyqX-nEJf2o
 album-flickr:

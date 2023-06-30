@@ -1,6 +1,6 @@
 ---
-nom: Coprinellus disseminatus
-date: 2023-03-30 00:00:00
+nom: Coprinellus disseminatus (Pers.) J.E. Lange
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3900/14280968558_e1ee06d97a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14280968558/in/photolist-o3SBW2-o3s2Wk-o5i8DB-o3s44k-nKXMmy-nKXGpQ
 album-flickr:

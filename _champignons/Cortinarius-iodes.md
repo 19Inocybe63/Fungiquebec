@@ -1,6 +1,6 @@
 ---
-nom: Cortinarius iodes
-date: 2017-03-20 00:00:00
+nom: Cortinarius iodes Berk. & M.A. Curtis
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5323/9516208641_61f8abeb80_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9516208641/in/photolist-fuV4hM
 album-flickr:

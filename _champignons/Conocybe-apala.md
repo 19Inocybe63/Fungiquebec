@@ -1,6 +1,6 @@
 ---
-nom: Conocybe apala
-date: 2017-03-18 00:00:00
+nom: Conocybe apala (Fr.) Arnolds
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/556/20294391061_b3d85acf00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20294391061/in/photolist-wVm4qa-wCkeW2
 album-flickr:

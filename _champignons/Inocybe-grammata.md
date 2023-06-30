@@ -110,7 +110,7 @@ description:
   comestibilite: NON
   commentaires: |
     De Claude Kaufholtz-Couture. Sous-genre Clypeus Britz., (Espèces gibbosporées); Section Marginatae Kühner (Espèces gibbosporées à stipe entièrement poudré et bulbeux-marginé); Sous-section Oblectabiles M. Bon (Marginatae à stipe ± rosé ou subconcolore). Code d'après la clé de Fatto: B C F H K M N Q + mix
-    <i>Idem</i>. « Pousse dans deux stations connues de la ville de Québec; le stipe est souvent bien développé dans le sol, laissant paraître un pileus à peine développé soulevant la terre; le milieu dans lequel il a été trouvé est uniquement à proximité des Picea, sur un sol dénudé et travaillé, parfois sablonneux, en milieu urbain.
+    <i>Idem</i>. « Pousse dans deux stations connues de la ville de Québec; le stipe est souvent bien développé dans le sol, laissant paraître un pileus à peine développé soulevant la terre; le milieu dans lequel il a été trouvé est uniquement à proximité des <i>Picea</i>, sur un sol dénudé et travaillé, parfois sablonneux, en milieu urbain.
   conidies: 
   conidiome: 
   conidiophores: 

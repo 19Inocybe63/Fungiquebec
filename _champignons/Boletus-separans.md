@@ -1,5 +1,5 @@
 ---
-nom: Boletus separans
+nom: Boletus separans Peck
 date: 2023-05-17 00:00:00
 image: https://c1.staticflickr.com/1/420/20356478421_2ed6c3bb97_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20356478421/in/photolist-EM7tzM-w4qAc4-x1QgPT-oC8FWV-oC8sFs-oL2Ba3-ovyBZb-oN2CwA

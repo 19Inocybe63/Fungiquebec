@@ -1,6 +1,6 @@
 ---
-nom: Cortinarius armillatus
-date: 2017-03-18 00:00:00
+nom: Cortinarius armillatus (Fr.) Fr.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3927/15372671292_724ac95746_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15372671292/in/photolist-pqqVWd-pqqXAL
 album-flickr:

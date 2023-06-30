@@ -1,5 +1,5 @@
 ---
-nom: Boletus subvelutipes
+nom: Boletus subvelutipes Peck
 date: 2023-05-17 00:00:00
 image: https://c1.staticflickr.com/9/8111/28596715912_ffdf32245e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28596715912/in/photolist-KyZMBo-KyZDm5-KJnmHR-pR6Whc-p3rhud-p5tdyv-oE15Hv-oWt7rt-oUrbk7

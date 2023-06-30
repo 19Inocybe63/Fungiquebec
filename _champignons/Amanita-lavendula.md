@@ -1,5 +1,5 @@
 ---
-nom: Amanita lavendula
+nom: Amanita lavendula (Coker) Tulloss, K.W. Hughes, Rodrig. Cayc. & Kudzma
 date: 2023-05-19 00:00:00
 image: https://c2.staticflickr.com/6/5651/30199932386_91347b7511_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30199932386/in/photolist-N1EqdS-N1ExKq

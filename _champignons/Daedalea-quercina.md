@@ -1,5 +1,5 @@
 ---
-nom: Daedalea quercina
+nom: Daedalea quercina (L.) Pers.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3930/15461315042_c12164c798_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15461315042/in/photolist-pK1eva-pyghih-pwfJKU

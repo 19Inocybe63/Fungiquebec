@@ -1,6 +1,6 @@
 ---
-nom: Craterellus ignicolor
-date: 2019-03-23 00:00:00
+nom: Craterellus ignicolor (Fr.) (R.H. Petersen) Dahlman, Danell & Spatafora
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5787/20473498400_6ca4264095_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20473498400/in/photolist-xcb2MJ
 album-flickr:

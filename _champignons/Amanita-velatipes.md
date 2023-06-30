@@ -1,5 +1,5 @@
 ---
-nom: Amanita velatipes G. F. Atk.
+nom: Amanita velatipes G.F. Atk.
 date: 2023-05-17 00:00:00
 image: https://c1.staticflickr.com/1/374/19870908390_0f8aa788a3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19870908390/in/photolist-vBwq3S-wwdsTb-wgVALN-nensEd-fbph4T-f5orUR-f5oWAF

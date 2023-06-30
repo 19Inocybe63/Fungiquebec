@@ -1,6 +1,6 @@
 ---
-nom: Exidia recisa
-date: 2017-06-20 00:00:00
+nom: Exidia recisa (Ditmar) Fr.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8162/7462790538_c79ac9dfdd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7462790538/in/photolist-eYeTXN-cnsKCo/
 album-flickr:

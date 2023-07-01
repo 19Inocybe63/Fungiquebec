@@ -1,6 +1,6 @@
 ---
-nom: Xeromphalina campanella
-date: 2017-03-23 00:00:00
+nom: Xeromphalina campanella (Batsch) Kühner & Maire
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8379/8613638912_3aa70ccb99_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8613638912/in/photolist-e8a3SJ-CLqR2F-e8a9KJ
 album-flickr:

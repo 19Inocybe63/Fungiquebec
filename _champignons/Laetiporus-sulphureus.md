@@ -1,5 +1,5 @@
 ---
-nom: Laetiporus sulphureus
+nom: Laetiporus sulphureus (Bull.) Murrill
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3887/14711090926_794090957f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14711090926/in/photolist-owP4KZ-os11Bz-orZZwi-opYbNJ

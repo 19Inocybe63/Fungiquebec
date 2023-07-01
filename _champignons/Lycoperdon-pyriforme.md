@@ -1,5 +1,5 @@
 ---
-nom: Lycoperdon pyriforme
+nom: Lycoperdon pyriforme Schaeff.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5081/29319616244_6847877804_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29319616244/in/photolist-LESGqU-Msekd9

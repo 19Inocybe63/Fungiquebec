@@ -1,6 +1,6 @@
 ---
-nom: Tylopilus felleus
-date: 2017-03-25 00:00:00
+nom: Tylopilus felleus (Bull.) P. Karst.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8443/29399041486_35070c7c15_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29399041486/in/photolist-LMTLMC-LHT5Tt
 album-flickr:

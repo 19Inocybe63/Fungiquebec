@@ -1,5 +1,5 @@
 ---
-nom: Inocybe occulta
+nom: Inocybe occulta Esteve-Rav., Bandini, B. Oertel & G. Moreno
 date: 2023-05-20 00:00:00
 image: https://live.staticflickr.com/1894/30378068308_4c2ffafe8a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30378068308/in/photolist-2apLXMv-Nhpxmq/

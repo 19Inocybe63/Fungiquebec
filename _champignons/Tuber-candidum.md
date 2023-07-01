@@ -1,5 +1,5 @@
 ---
-nom: Tuber candidum
+nom: Tuber candidum Harkn
 date: 2023-05-20 00:00:00
 image: https://c2.staticflickr.com/6/5762/21004930990_7abd9b0844_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21004930990/in/photolist-y18LbA

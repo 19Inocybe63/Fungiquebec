@@ -1,5 +1,5 @@
 ---
-nom: Fusicolla merismoides
+nom: Fusicolla merismoides (Corda) Gräfenhan, Seifert & Schroers
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8535/8870357399_d0722d4a0f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8870357399/in/photolist-eQTXzm-evQUdx-evUfJY

@@ -1,6 +1,6 @@
 ---
-nom: Gymnopilus penetrans
-date: 2017-03-24 00:00:00
+nom: Gymnopilus penetrans (Fr.) Murrill
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5535/9240759913_21ee91ef3b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9240759913/in/photolist-f5ziYM-f5zmMt
 album-flickr:

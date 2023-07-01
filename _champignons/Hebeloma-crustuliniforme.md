@@ -1,5 +1,5 @@
 ---
-nom: Hebeloma crustuliniforme
+nom: Hebeloma crustuliniforme (Bull.) Quél.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7510/30176151245_b24ee2a1f3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30176151245/in/photolist-M1Yi6z-MYyErK

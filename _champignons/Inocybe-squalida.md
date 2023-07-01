@@ -1,5 +1,5 @@
 ---
-nom: Inocybe squalida Kaufholtz
+nom: Inocybe squalida Kaufholtz-Couture
 date: 2023-06-29 00:00:00
 image: https://c1.staticflickr.com/9/8136/29323299482_34e3fcbfc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29323299482/in/photolist-Pm469u-Qu2rcp-LFczk1-QqHkoW/
@@ -18,7 +18,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe squalida</i> Kaufholtz
+  espece: <i>Inocybe squalida</i> Kaufholtz-Couture
   sous-genre: Clypeus
   section: 
   sous-section: 

@@ -1,5 +1,5 @@
 ---
-nom: Leccinum holopus var. americanum
+nom: Leccinum holopus var. americanum A.H. Smith & Thiers
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3894/15353097812_268277f7f5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15353097812/in/photolist-pmGdss-poGD5Y

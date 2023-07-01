@@ -1,6 +1,6 @@
 ---
-nom: Fomitopsis betulina
-date: 2017-03-23 00:00:00
+nom: Fomitopsis betulina (Bull.) B.K. Cui, M.L. Han & Y.C. Dai
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3905/15064383809_0d95a73134_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064383809/in/photolist-oXcgnL-oXbUtk
 album-flickr:

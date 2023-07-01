@@ -1,6 +1,6 @@
 ---
-nom: Parasola auricoma
-date: 2017-03-25 00:00:00
+nom: Parasola auricoma (Pat.) Redhead, Vilgalys & Hopple
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3779/9166933169_e1819108df_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9166933169/in/photolist-eY3VRT
 album-flickr:

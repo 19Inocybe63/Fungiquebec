@@ -1,5 +1,5 @@
 ---
-nom: Inocybe lacera groupe
+nom: Inocybe lacera groupe (Fr.) P. Kumm
 date: 2023-05-20 00:00:00
 image: https://c1.staticflickr.com/5/4464/36611917973_67579930de_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36611917973/in/photolist-RF26uN-27FedQ7-YJhFyJ-XMgDF4
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe lacera groupe</i>
+  espece: <i>Inocybe lacera groupe</i> (Fr.) P. Kumm
   sous-genre: Inocybe (Fr.) Fr.
   section: Inocybe (= Lacerae Fries)
   sous-section: Lacerinae (Fr.) M Bon

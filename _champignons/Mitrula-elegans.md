@@ -1,5 +1,5 @@
 ---
-nom: Mitrula elegans
+nom: Mitrula elegans Berkeley
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7309/8937592313_9fb6943bef_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8937592313/in/photolist-nZDQuW-eBMDdZ-sThCx1-eBMuPc

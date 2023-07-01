@@ -1,5 +1,5 @@
 ---
-nom: Inocybe beaucensis sp. nov. Kaufholtz
+nom: Inocybe beaucensis sp. nov. Kaufholtz-Couture
 date: 2023-06-29 00:00:00
 image: https://live.staticflickr.com/4348/36837420235_880dea8a1c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36837420235/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
@@ -18,7 +18,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe beaucensis</i> sp. nov. Kaufholtz
+  espece: <i>Inocybe beaucensis</i> sp. nov. Kaufholtz-Couture
   sous-genre: Inocybe (Fr.) Fr.
   section: 
   sous-section: 

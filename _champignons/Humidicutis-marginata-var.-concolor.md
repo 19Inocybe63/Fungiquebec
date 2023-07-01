@@ -1,6 +1,6 @@
 ---
-nom: Humidicutis marginata var. concolor
-date: 2017-10-16 00:00:00
+nom: Humidicutis marginata var. concolor (A.H. Sm.) Malloch
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/3/2836/10042604026_b7510847fa_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10042604026/in/photolist-giqYih-giqvWN
 album-flickr:

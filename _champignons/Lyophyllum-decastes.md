@@ -1,5 +1,5 @@
 ---
-nom: Lyophyllum decastes
+nom: Lyophyllum decastes (Fr.) Singer
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4262/35286859136_8ff15994e2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35286859136/in/photostream/

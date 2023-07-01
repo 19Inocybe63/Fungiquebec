@@ -1,5 +1,5 @@
 ---
-nom: Lactarius mucidus var. mucidioides
+nom: Lactarius mucidus var. mucidioides Hesler & A.H. Sm.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8178/7996919806_53f97e1310_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996919806/in/photolist-e9JUKB-dbEiDG

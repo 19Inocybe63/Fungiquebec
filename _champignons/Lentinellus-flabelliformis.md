@@ -1,5 +1,5 @@
 ---
-nom: Lentinellus flabelliformis
+nom: Lentinellus flabelliformis (Bolton) S. Ito 
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8192/8084204057_9ff65926da_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8084204057/in/photolist-dwGgDp-djnDe7-djnEdz

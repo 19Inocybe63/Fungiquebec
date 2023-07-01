@@ -1,5 +1,5 @@
 ---
-nom: Inocybe fuscidula var. fuscidula
+nom: Inocybe fuscidula var. fuscidula Velen.
 date: 2023-05-20 00:00:00
 image: https://c1.staticflickr.com/1/517/19736553568_86546edb7c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19736553568/in/photolist-GXXhwU-vpNfFz-vpNdk2-w53ZLm

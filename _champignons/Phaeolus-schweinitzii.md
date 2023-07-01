@@ -1,6 +1,6 @@
 ---
-nom: Phaeolus schweinitzii
-date: 2017-03-25 00:00:00
+nom: Phaeolus schweinitzii (Fr.) Pat.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8572/28194357805_f133399607_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28194357805/in/photolist-JUqUMo-JXrsik
 album-flickr:

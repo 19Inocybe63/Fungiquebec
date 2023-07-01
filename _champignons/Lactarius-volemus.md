@@ -1,6 +1,6 @@
 ---
-nom: Lactarius volemus
-date: 2017-03-25 00:00:00
+nom: Lactarius volemus (Fr.) Fr.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5625/20783082342_8d61a139c2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20783082342/in/photolist-xD3Hn1-xEwJiU/
 album-flickr:
@@ -17,7 +17,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Lactarius
-  espece: <i>Lactarius volemus</i> ss. Hesler & A. H. Sm.
+  espece: <i>Lactarius volemus</i> (Fr.) Fr.
   litterature: Hesler, L.R.; Smith, A.H. 1979. North American species of Lactarius. :1-841
 
 collections:

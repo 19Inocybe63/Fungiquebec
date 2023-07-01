@@ -1,5 +1,5 @@
 ---
-nom: Inocybe calospora f. minor
+nom: Inocybe calospora f. minor Kobayasi
 date: 2023-05-17 00:00:00
 image: https://live.staticflickr.com/4398/36693547322_d22cf51e49_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36003198074/in/photolist-XS6WT9-WRtPjd-XS719Y-WRtNso
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe calospora f. minor</i>
+  espece: <i>Inocybe calospora f. minor</i> Kobayasi
   sous-genre: Clypeus
   section: Petiginosae
   sous-section: Calosporae

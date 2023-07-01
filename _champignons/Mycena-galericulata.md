@@ -1,5 +1,5 @@
 ---
-nom: Mycena galericulata
+nom: Mycena galericulata (Scop.) Gray
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3827/19116582812_309bc0247f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19116582812/in/photolist-v8gu4o-uRbuMb-v7UN4S

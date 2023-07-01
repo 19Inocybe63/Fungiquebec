@@ -1,6 +1,6 @@
 ---
-nom: Xanthoconium affine var. maculosus
-date: 2017-03-23 00:00:00
+nom: Xanthoconium affine var. maculosus (Peck) Singer
+date: 2023-5-07 00:00:00
 image: https://c1.staticflickr.com/9/8769/28037429074_2cd09ed90b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28037429074/in/photolist-JHz9Ry
 album-flickr:

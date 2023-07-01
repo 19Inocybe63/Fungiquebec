@@ -1,5 +1,5 @@
 ---
-nom: Lepiota cristata
+nom: Lepiota cristata (Bolton) P. Kumm.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7403/9126745733_af90e42d4e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9126745733/in/photolist-BJxJfm-wMd74K-eUuXx4-eUGkvN-eUF9pL-eUEToS-dfHuSE

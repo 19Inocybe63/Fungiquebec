@@ -1,5 +1,5 @@
 ---
-nom: Inocybe flocculosa
+nom: Inocybe flocculosa Sacc.
 date: 2023-05-20 00:00:00
 image: https://live.staticflickr.com/1814/29172554087_523ccc7129_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29172554087/in/photolist-27rZxAQ-27rZynj-LrSXYt

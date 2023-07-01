@@ -1,6 +1,6 @@
 ---
-nom: Ganoderma megaloma
-date: 2017-03-24 00:00:00
+nom: Ganoderma megaloma (Lév.) Bres.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8283/29076192640_686dda6d42_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29076192640/in/photolist-Lin65d-LFMgRj
 album-flickr:

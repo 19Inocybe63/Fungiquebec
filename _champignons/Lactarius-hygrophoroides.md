@@ -1,6 +1,6 @@
 ---
-nom: Lactarius hygrophoroides
-date: 2018-08-18 00:00:00
+nom: Lactarius hygrophoroides Berk. & M.A. Curtis
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3707/9368669824_b30939639b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9368669824/in/photolist-fgST95-fgSS7N
 album-flickr:

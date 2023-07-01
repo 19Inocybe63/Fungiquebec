@@ -1,5 +1,5 @@
 ---
-nom: Hymenopellis furfuracea
+nom: Hymenopellis furfuracea (Peck) R.H. Petersen
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8076/8389201215_7ee93b2516_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8389201215/in/photolist-KZZ5kK-L7KXRa-dMqqb1-dKiztv-dJeNnK-dJeUGZ-dMjRfg-dMjRhX-cvkwvb-cvkwk5

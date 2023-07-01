@@ -1,6 +1,6 @@
 ---
-nom: Helvella fibrosa
-date: 2017-03-24 00:00:00
+nom: Helvella fibrosa (Wallr.) Korf
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8825/28444177671_0372fd8c51_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28444177671/in/photolist-KkvR3p
 album-flickr:

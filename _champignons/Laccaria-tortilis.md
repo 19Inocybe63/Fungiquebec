@@ -1,6 +1,6 @@
 ---
-nom: Laccaria tortilis
-date: 2017-03-25 00:00:00
+nom: Laccaria tortilis (Bolton) Cooke
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7242/27918087042_822955bf7f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27918087042/in/photolist-Jx2uCj
 album-flickr:

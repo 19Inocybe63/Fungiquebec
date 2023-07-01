@@ -1,6 +1,6 @@
 ---
-nom: Hygrocybe cantharellus
-date: 2017-03-25 00:00:00
+nom: Hygrocybe cantharellus (Fr.) Murrill
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/3/2817/9438005957_e509607329_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9438005957/in/photolist-fo1fmD-fofxis/
 album-flickr:

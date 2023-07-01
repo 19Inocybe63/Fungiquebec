@@ -1,6 +1,6 @@
 ---
-nom: Melanoleuca brevipes
-date: 2017-03-25 00:00:00
+nom: Melanoleuca brevipes (Bull.) Pat.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7783/29832926531_677fe9d14b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29832926531/in/photolist-MwuSm1-MwuPD7-MsexGg
 album-flickr:

@@ -1,5 +1,5 @@
 ---
-nom: Inocybe oblectabilis complex
+nom: Inocybe oblectabilis complex (Britzelm.) Sacc.
 date: 2023-05-20 00:00:00
 image: https://c1.staticflickr.com/9/8605/29988376396_44041bb0a6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29988376396/in/photolist-Wakmqv-MFYgwm-MJZ2Gr
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe oblectabilis</i> complex
+  espece: <i>Inocybe oblectabilis</i> complex (Britzelm.) Sacc.
   litterature: Saccardo, P.A. 1895. Supplementum Universale, Pars. III. Sylloge Fungorum. 11:1-753
 
 collections:

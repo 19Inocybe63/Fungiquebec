@@ -1,5 +1,5 @@
 ---
-nom: Inocybe curvipes
+nom: Inocybe curvipes P. Karst.
 date: 2023-05-20 00:09:00
 image: https://c1.staticflickr.com/5/4369/36429212670_07c26394f5_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36429212670/in/photolist-Xv8eKC-Xv8azo

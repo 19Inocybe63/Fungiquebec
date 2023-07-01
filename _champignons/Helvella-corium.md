@@ -1,5 +1,5 @@
 ---
-nom: Helvella corium
+nom: Helvella corium (O. Weberb.) Massee
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/723/20522852470_aca2a0fe2c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20522852470/in/album-72157675892972545/

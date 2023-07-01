@@ -1,6 +1,6 @@
 ---
-nom: Lactarius turpis
-date: 2017-03-25 00:00:00
+nom: Lactarius turpis Fr.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8364/28809911693_d4176fcf69_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28809911693/in/photolist-KTQk2p-LphUVN
 album-flickr:

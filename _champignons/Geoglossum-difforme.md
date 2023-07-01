@@ -1,5 +1,5 @@
 ---
-nom: Geoglossum difforme
+nom: Geoglossum difforme Fr.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3697/19666230344_580e9cd6e7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19666230344/in/photostream/

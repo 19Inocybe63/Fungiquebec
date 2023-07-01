@@ -1,6 +1,6 @@
 ---
-nom: Lactifluus subvellereus
-date: 2017-03-25 00:00:00
+nom: Lactifluus subvellereus (Peck) Nuytinck
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8351/28651501954_d36f8d1517_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28651501954/in/photolist-KDQrk1-KDZWbi/
 album-flickr:

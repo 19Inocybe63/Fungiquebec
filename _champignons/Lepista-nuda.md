@@ -1,6 +1,6 @@
 ---
-nom: Lepista nuda
-date: 2017-11-05 00:00:00
+nom: Lepista nuda (Bull.) Cooke
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/3/2947/15370113361_a5828a464b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15370113361/in/photolist-pqcRdv-pqe32c
 album-flickr:

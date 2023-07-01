@@ -1,5 +1,5 @@
 ---
-nom: Geoglossum glabrum
+nom: Geoglossum glabrum Pers.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5643/20515863236_f2374fa141_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20515863236/in/photolist-x767Dr-xfVanW

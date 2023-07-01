@@ -1,6 +1,6 @@
 ---
-nom: Lentinus brumalis
-date: 2017-03-25 00:00:00
+nom: Lentinus brumalis (Pers.) Zmitr.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5577/30024934032_7af1fb303f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30024934032/in/photolist-MKcCQq-MKcJKG
 album-flickr:

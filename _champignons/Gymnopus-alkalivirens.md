@@ -1,6 +1,6 @@
 ---
-nom: Gymnopus alkalivirens
-date: 2017-03-24 00:00:00
+nom: Gymnopus alkalivirens (Singer) Halling
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/483/19122325155_2232868ca2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19122325155/in/photolist-v8LV4i-uRjJmt
 album-flickr:

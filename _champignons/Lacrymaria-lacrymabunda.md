@@ -1,6 +1,6 @@
 ---
-nom: Lacrymaria lacrymabunda
-date: 2023-04-07 00:00:00
+nom: Lacrymaria lacrymabunda (Bull.) Pat.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5511/9147119220_73d737a9c6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9147119220/in/photolist-eWivmy-eWiz5w-eWinS5-eW79M6/
 album-flickr:

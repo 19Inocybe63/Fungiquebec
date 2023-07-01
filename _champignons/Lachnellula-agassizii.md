@@ -1,6 +1,6 @@
 ---
-nom: Lachnellula agassizii
-date: 2017-12-16 00:00:00
+nom: Lachnellula agassizii (Berk. & M.A. Curtis) Dennis
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7411/9153228928_ba8efb0f7c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9153228928
 album-flickr:

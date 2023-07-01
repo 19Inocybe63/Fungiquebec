@@ -1,5 +1,5 @@
 ---
-nom: Inocybe stirpe mixtilis
+nom: Inocybe stirpe mixtilis (Britzelm.) Sacc.
 date: 2023-05-20 00:00:00
 image: https://c2.staticflickr.com/6/5769/20824170299_f2ac300786_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20824170299/in/photolist-HtmErz-xJajjX-x4MHWH
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe stirpe mixtilis</i>
+  espece: <i>Inocybe stirpe mixtilis</i> (Britzelm.) Sacc.
   litterature: 
 
 collections:

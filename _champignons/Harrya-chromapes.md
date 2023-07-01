@@ -1,5 +1,5 @@
 ---
-nom: Harrya chromapes
+nom: Harrya chromapes (Frost) Halling, Nuhn, Osmundson & Manfr. Binder
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5671/20335858794_361bbf8904_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20335858794/in/photolist-wZ1Ak5

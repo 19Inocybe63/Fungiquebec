@@ -1,5 +1,5 @@
 ---
-nom: Hebeloma limbatum
+nom: Hebeloma limbatum Beker, Vesterh. & U. Eberh.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8742/29622268270_22ca218709_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29622268270/in/photolist-NdgqNj-MwxnQN-M8BSkh

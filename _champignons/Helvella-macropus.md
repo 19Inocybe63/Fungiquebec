@@ -1,6 +1,6 @@
 ---
-nom: Helvella macropus
-date: 2017-03-24 00:00:00
+nom: Helvella macropus (Pers.) P. Karst.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3930/15340706368_d0b67296f3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15340706368/in/photolist-pnAFAq-pnB8xo-pnC8tT
 album-flickr:

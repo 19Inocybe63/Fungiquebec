@@ -1,6 +1,6 @@
 ---
-nom: Inosperma mucidiolens
-date: 2022-05-20 00:00:00
+nom: Inosperma mucidiolens (Grund & D.E. Stuntz) Matheny & Esteve-Rav.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4307/36005907766_c044ef1db6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36005907766/in/photolist-WHyGV6-WRHFXd
 album-flickr:

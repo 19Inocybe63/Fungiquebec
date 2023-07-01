@@ -1,5 +1,5 @@
 ---
-nom: Leccinum scabrum
+nom: Leccinum scabrum (Bull.) Gray
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8405/30103944306_f590dd4289_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30103944306/in/photolist-MKa8td-MSbzQw-zh9iiC-zipnKU-ziqiVN-ynrGC5-zjtkWT

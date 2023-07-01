@@ -1,5 +1,5 @@
 ---
-nom: Flammulina velutipes
+nom: Flammulina velutipes (Curtis) Singer
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7303/8787825572_72e4f87309_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8787825572/in/photolist-enYcQc-euNGm8-eoxUo1

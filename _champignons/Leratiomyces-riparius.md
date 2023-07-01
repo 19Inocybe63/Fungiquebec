@@ -1,5 +1,5 @@
 ---
-nom: Leratiomyces riparius
+nom: Leratiomyces riparius (A.H. Sm.) Redhead
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7764/18014840069_bd95d5fafd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18014840069/in/photolist-HDHSvu-HNrU6e-FUfGoV-tG2gVW-trUAiD-trLvyU-trULjR-dB653b-rLyqV3-f4auVu-eUs8vP-eUsn5z-eUDu43-cU6gkJ-cU6fJE-cU6fxJ-cU6fXb

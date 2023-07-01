@@ -1,6 +1,6 @@
 ---
-nom: Gymnopus dryophilus
-date: 2017-03-24 00:00:00
+nom: Gymnopus dryophilus (Bull.) Murrill
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/3/2933/14435276209_1066824e4c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14435276209/in/photolist-nZAyGz-of43KE-nS6rBm-o9hkft/
 album-flickr:

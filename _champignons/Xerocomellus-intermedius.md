@@ -1,6 +1,6 @@
 ---
-nom: Xerocomellus intermedius
-date: 2017-12-17 00:00:00
+nom: Xerocomellus intermedius (A.H. Sm. & Thiers) Svetash., Simonini & Vizzini
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4293/36002298875_7a0a4635c3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36002298875/in/photolist-WRpfzp-Wg3hCU-VzcExb-WRpc9X/
 album-flickr:

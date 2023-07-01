@@ -1,6 +1,6 @@
 ---
-nom: Marasmius pulcherripes
-date: 2017-03-25 00:00:00
+nom: Marasmius pulcherripes Peck
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3898/14937584416_30a6aeecf8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14937584416/in/photolist-ovww45-fdnUT4-fdC9HL-oKZ2qU
 album-flickr:

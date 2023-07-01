@@ -288,7 +288,7 @@ description:
   sclerote: 
   soies: 
   soies-hymeniales: 
-  sporee: brun foncé à brun tabac
+  sporee: en amoncellement, rouge très sombre 5R 3/2 & 7.55R 3/2 à brun rougeâtre foncé 5YR 2.5/2 & 5YR 3/3
   spherocytes: 
   sporocystes: 
   stipe: 30-60 x 6-9 mm Ø, ± cylindrique, cystidié sur toute sa longueur, bulbeux marginé à submarginé à la base, fibrilleux blanchâtre et rougeâtre à l'apex, White page 7.5YR 3/2 & 4/2

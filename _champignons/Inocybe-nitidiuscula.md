@@ -1,5 +1,5 @@
 ---
-nom: Inocybe nitidiuscula
+nom: Inocybe nitidiuscula (Britzelm.) Lapl.
 date: 2023-05-20 00:00:00
 image: https://live.staticflickr.com/1860/42433175590_a528a19d35_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/42433175590/in/photolist-2ak7qqy-2ak7oqw-27DF7KG/

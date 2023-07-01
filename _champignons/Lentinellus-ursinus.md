@@ -1,5 +1,5 @@
 ---
-nom: Lentinellus ursinus
+nom: Lentinellus ursinus (Fr.) Kühner
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8526/8597213435_f7c55bce91_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8597213435/in/photolist-e8Fsch-e6GY2R/

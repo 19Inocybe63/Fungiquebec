@@ -1,5 +1,5 @@
 ---
-nom: Inocybe tahquamenonensis
+nom: Inocybe tahquamenonensis D.E. Stuntz
 date: 2023-05-20 00:00:00
 image: https://c1.staticflickr.com/5/4332/36172753160_a7a2a660cb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36172753160/in/photolist-X7sPgW

@@ -1,5 +1,5 @@
 ---
-nom: Mycena mackinawensis
+nom: Mycena mackinawensis A.H. Sm.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8269/30187682516_dd519e3805_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/30187682516/in/photostream/

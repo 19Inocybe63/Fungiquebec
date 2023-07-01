@@ -1,6 +1,6 @@
 ---
-nom: Neofavolus alveolaris
-date: 2017-10-08 00:00:00
+nom: Neofavolus alveolaris (DC.) Sotome & T. Hatt.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3879/14848557140_ef61b38b38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14848557140/in/photolist-oC7JHS
 album-flickr:

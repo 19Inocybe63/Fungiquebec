@@ -1,6 +1,6 @@
 ---
-nom: Hydnum umbilicatum
-date: 2017-03-24 00:00:00
+nom: Hydnum umbilicatum Peck
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/3/2950/15275249687_1af927425b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15275249687/in/photolist-pgPDxV
 album-flickr:

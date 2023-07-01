@@ -1,5 +1,5 @@
 ---
-nom: Hypholoma radicosum
+nom: Hypholoma radicosum J.E. Lange
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3898/14579980651_218188fc9e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14579980651/in/photolist-rjo8so-nWcQqk-odvX9A-ododhK

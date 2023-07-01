@@ -1,5 +1,5 @@
 ---
-nom: Leotia lubrica
+nom: Leotia lubrica (Scop.) Pers.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4396/37024715491_a1fb7e6a40_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37024715491/in/dateposted/

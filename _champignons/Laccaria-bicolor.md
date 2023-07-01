@@ -1,6 +1,6 @@
 ---
-nom: Laccaria bicolor
-date: 2017-03-25 00:00:00
+nom: Laccaria bicolor (Maire) P.D. Orton
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5557/15198063431_dcaedc9351_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15198063431/in/photolist-pa13Lp-oSMn45
 album-flickr:

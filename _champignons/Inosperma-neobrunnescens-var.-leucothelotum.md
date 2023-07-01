@@ -1,5 +1,5 @@
 ---
-nom: Inosperma neobrunnescens var. leucothelotum
+nom: Inosperma neobrunnescens var. leucothelotum (Grund & D.E. Stuntz)
 date: 2023-05-20 00:00:00
 image: https://live.staticflickr.com/1897/43350774615_c9888fc7b1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/43350774615/in/photolist-293L5cp-293L3Yx-2amuTmC/

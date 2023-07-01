@@ -1,5 +1,5 @@
 ---
-nom: Hebeloma velutipes
+nom: Hebeloma velutipes Bruchet
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5687/29909344612_2edcbdb7cd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29909344612/in/photolist-NkV4y1-MBDQJa-MyZd8o/

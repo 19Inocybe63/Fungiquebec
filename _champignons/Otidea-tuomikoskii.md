@@ -1,6 +1,6 @@
 ---
-nom: Otidea tuomikoskii
-date: 2018-01-20 00:00:00
+nom: Otidea tuomikoskii Harmaja
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4367/37194102596_08ff021d60_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37194102596/in/photolist-YEHuSY
 album-flickr:

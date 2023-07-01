@@ -1,5 +1,5 @@
 ---
-nom: Mycena leaiana
+nom: Mycena leaiana (Berk.) Sacc.
 date: 2017-03-25 00:00:00
 image: https://c2.staticflickr.com/8/7702/27786798991_80faf1d330_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/27786798991/in/photolist-JkqBge-Hw4bwF-eW5sug-eW5pRM/

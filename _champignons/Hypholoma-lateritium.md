@@ -1,5 +1,5 @@
 ---
-nom: Hypholoma lateritium
+nom: Hypholoma lateritium (Schaeff.) P. Kumm.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8523/8486240695_ea46252827_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8486240695/in/photolist-dXpeui-dVZNbq-dVUcTK-dVUcGK/

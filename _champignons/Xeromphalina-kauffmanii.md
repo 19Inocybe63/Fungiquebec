@@ -1,6 +1,6 @@
 ---
-nom: Xeromphalina kauffmanii
-date: 2017-03-23 00:00:00
+nom: Xeromphalina kauffmanii A.H. Sm.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/758/21351416242_15fbc668f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21351416242/in/photolist-DCRs8C-yx1W4S-yvojQh-ywKAbf
 album-flickr:

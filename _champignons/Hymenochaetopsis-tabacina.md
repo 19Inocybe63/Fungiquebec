@@ -1,6 +1,6 @@
 ---
-nom: Hymenochaetopsis tabacina
-date: 2017-03-25 00:00:00
+nom: Hymenochaetopsis tabacina S.H. He & Jiao Yang
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/713/20474978959_f2ee0c486a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20474978959/in/photolist-xciBUB-xsZTzN
 album-flickr:
@@ -17,7 +17,7 @@ details:
   ordre: Hymenochaetales
   famille: Hymenochaetaceae
   genre: Hymenochaetopsis
-  espece: <i>Hymenochaetopsis tabacina</i> S. H. He & Jiao Yang
+  espece: <i>Hymenochaetopsis tabacina</i> S.H. He & Jiao Yang
   litterature: Yang, J; Dai L.D; He, S.H. 2016. Hymenochaetopsis nom. nov. proposed to replace Pseudochaete (Hymenochaetales, Basidiomycota) with descriptions of H. laricicola sp. nov and H. gigasetosa new to China. Mycological Progress. 15(2/13):1-8
 
 collections:

@@ -1,5 +1,5 @@
 ---
-nom: Leccinum insolens
+nom: Leccinum insolens A.H. Sm., Thiers & Watling
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8309/7996768584_cf8f588230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7996768584/in/photolist-dWueXc-dbDwGq-dbDukK

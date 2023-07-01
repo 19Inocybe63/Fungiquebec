@@ -83,7 +83,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol, sur pelouse, sol sablonneux, sous <i>Picea</i>, milieu ouvert
+  biotopes: pousse au sol, sur pelouse, sol sablonneux, sous <i>Picea</i>, milieu ouvert, <i>Picea Pungens</i>
   boucles: 
   brachybasidioles: 
   calicule: 

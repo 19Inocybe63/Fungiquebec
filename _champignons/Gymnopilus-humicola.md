@@ -1,5 +1,5 @@
 ---
-nom: Gymnopilus humicola
+nom: Gymnopilus humicola Harding ex Singer
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7313/9060850940_ce5de9d4f7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9060850940/in/photolist-rGRH9y-uzKfn1-tDagFs-uiAu7Y-tDabDJ-eNFeiW-ePffBE-eNFEJ9

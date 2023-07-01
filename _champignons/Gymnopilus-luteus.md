@@ -1,5 +1,5 @@
 ---
-nom: Gymnopilus luteus
+nom: Gymnopilus luteus (Peck) Hesler
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8501/8373342022_f22fe5dbc4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8373342022/in/photolist-fB12Xs-fAKLcD-dQsHnj-dKQ5MD-dKVyRU

@@ -1,5 +1,5 @@
 ---
-nom: Hygrocybe chlorophana
+nom: Hygrocybe chlorophana (Fr.) Wünsche
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5467/9331277074_be19b687dd_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9331277074/in/photolist-suxWc1-fdzezu-fdzh7E-fdjVZX/

@@ -1,6 +1,6 @@
 ---
-nom: Pseudosperma rimosum
-date: 2023-05-20 00:00:00
+nom: Pseudosperma rimosum (Bull.) Matheny & Esteve-Rav.
+date: 2023-05-21 00:00:00
 image: https://c2.staticflickr.com/6/5831/19949912134_a097b3d209_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19949912134/in/photolist-AYH9DB-woUvQj-x4iWC5/
 album-flickr:
@@ -266,7 +266,7 @@ description:
     <b>Stangl, Johann</b>. <i>Guida alla determinazione dei funghi Vol. 3° Inocybe</i>, Saturnia, 1e Edizione italiana, 1991, 437 p.
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Annexe 8, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Annexe 4, <i>les Inocybes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: |
     Réactif d'Ehrlich (Paradiméthylaminobenzaldéhyde ou P.D.A.B.) = 0; lames deviennent rose pourpre faible (présence d’indole)
   receptacle: 

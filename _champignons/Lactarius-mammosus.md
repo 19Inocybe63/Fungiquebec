@@ -1,6 +1,6 @@
 ---
-nom: Lactarius mammosus
-date: 2017-11-05 00:00:00
+nom: Lactarius mammosus Fr.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4402/36613871753_048dbdf995_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36613871753/in/photolist-YpXD6Y-XMrEsV-YpXBc7/
 album-flickr:

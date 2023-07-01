@@ -1,5 +1,5 @@
 ---
-nom: Lycoperdon perlatum
+nom: Lycoperdon perlatum Pers.
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/3/2946/15165489459_e68be80594_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15165489459/in/photolist-p786Ec-poACwf/

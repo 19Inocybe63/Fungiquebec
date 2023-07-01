@@ -1,5 +1,5 @@
 ---
-nom: Leccinum aurantiacum
+nom: Leccinum aurantiacum (Bull.) Gray
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5714/20740537014_8d15c5fb89_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20740537014/in/photolist-ywQRi9-xALF4L

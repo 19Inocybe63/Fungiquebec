@@ -1,6 +1,6 @@
 ---
-nom: Lactarius salmonicolor
-date: 2017-09-30 00:00:00
+nom: Lactarius salmonicolor R. Heim & Leclair
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4447/36573844134_8722d07ed9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36573844134/in/dateposted/
 album-flickr:

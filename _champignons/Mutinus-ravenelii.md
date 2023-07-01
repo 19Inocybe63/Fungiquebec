@@ -1,5 +1,5 @@
 ---
-nom: Mutinus ravenelii
+nom: Mutinus ravenelii (Berk. & M.A. Curtis) E. Fisch
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4281/35461590412_df6e3874d4_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35461590412/in/photostream/

@@ -1,6 +1,6 @@
 ---
-nom: Helvella crispa
-date: 2017-03-24 00:00:00
+nom: Helvella crispa Bull.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/613/20718058281_8d69dbff88_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20718058281/in/photolist-xgFeBn-xyMsVp
 album-flickr:

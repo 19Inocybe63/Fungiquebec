@@ -1,5 +1,5 @@
 ---
-nom: Leccinellum albellum
+nom: Leccinellum albellum (Peck) Bresinsky & Manfr. Binder
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5567/15033475346_6db9feaa38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15033475346/in/photolist-qzgfEY-oUsusN

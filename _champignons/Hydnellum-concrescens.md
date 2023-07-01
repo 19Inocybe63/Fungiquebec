@@ -1,5 +1,5 @@
 ---
-nom: Hydnellum concrescens
+nom: Hydnellum concrescens (Pers.) Banker
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3869/15064369687_1d8ea59157_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064369687/in/photolist-pUJXXk-oXbQgR-oXbNkB

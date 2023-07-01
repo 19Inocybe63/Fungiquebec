@@ -1,5 +1,5 @@
 ---
-nom: Lactarius lignyotus
+nom: Lactarius lignyotus Fr.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3839/15186557979_f17d2d4e4a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15186557979/in/photolist-pqu9V6-qhJz1h-p8Z5Ax

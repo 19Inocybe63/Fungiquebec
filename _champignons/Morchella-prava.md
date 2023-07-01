@@ -1,6 +1,6 @@
 ---
-nom: Morchella prava
-date: 2017-06-01 00:00:00
+nom: Morchella prava Dewsbury, Moncalvo, J.D. Moore & M. Kuo
+date: 2023-05-07 00:00:00
 image: https://live.staticflickr.com/7239/7234066596_1238f17e4c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7234066596/in/photolist-UXKfay-TVFyXJ-c2i38s-c2ftY9
 album-flickr:

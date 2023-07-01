@@ -1,5 +1,5 @@
 ---
-nom: Imleria badia
+nom: Imleria badia (Fr.) Vizzini
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3920/14887778419_60f361d921_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14887778419/in/photolist-qryYtU-oFAfzb-oFzKQP

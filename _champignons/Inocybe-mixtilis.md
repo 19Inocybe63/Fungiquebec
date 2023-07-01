@@ -1,5 +1,5 @@
 ---
-nom: Inocybe mixtilis
+nom: Inocybe mixtilis (Britzelm.) Sacc.
 date: 2023-05-20 00:00:00
 image: https://c1.staticflickr.com/5/4409/35760513133_d1e22eba87_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35760513133/in/photolist-272ocnt-Wu2YFg-Wu2XNV

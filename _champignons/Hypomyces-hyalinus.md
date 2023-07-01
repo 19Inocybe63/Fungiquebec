@@ -1,6 +1,6 @@
 ---
-nom: Hypomyces hyalinus
-date: 2017-10-24 00:00:00
+nom: Hypomyces hyalinus (Schwein.) Tul. & C. Tul.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3666/9967817175_8d96ff0007_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9967817175/in/photolist-gbPELP
 album-flickr:

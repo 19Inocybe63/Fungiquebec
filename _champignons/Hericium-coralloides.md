@@ -1,6 +1,6 @@
 ---
-nom: Hericium coralloides
-date: 2017-03-24 00:00:00
+nom: Hericium coralloides (Scop.) Pers.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3858/15199843732_698468a2be_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15199843732/in/photolist-paaaZf
 album-flickr:

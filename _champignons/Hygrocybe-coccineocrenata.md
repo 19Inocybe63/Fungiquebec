@@ -1,5 +1,5 @@
 ---
-nom: Hygrocybe coccineocrenata
+nom: Hygrocybe coccineocrenata (P.D. Orton) M.M. Moser
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5487/9532550164_cff4d0ea25_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9532550164/in/photolist-s7WLut-fwmP4b-fw7w6p

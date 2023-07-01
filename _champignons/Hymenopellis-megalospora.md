@@ -1,5 +1,5 @@
 ---
-nom: Hymenopellis megalospora
+nom: Hymenopellis megalospora (Clem.) R.H. Petersen
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8238/8354287809_dd005d69e3_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8354287809/in/photolist-dKiztv-dJeNnK-dJeUGZ

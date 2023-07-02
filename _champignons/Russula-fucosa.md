@@ -1,6 +1,6 @@
 ---
-nom: Russula fucosa
-date: 2018-02-16 00:00:00
+nom: Russula fucosa Burl.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/718/20475447168_2094b83b00_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20475447168/in/photolist-xcm26b
 album-flickr:
@@ -282,11 +282,8 @@ description:
     <b>Sarnari, Mauro</b>. <i>Monografia illustrara del Genere Russula in Europa</i>, Tomo Secondo, Ed. A.M.B. Fondazione Centro Studi Micologici, 2005, 761 pp.
     <b>Singer, Rolf</b>. <i>Note sur l'interprétation des spores de Russula établis en 1932</i>.
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 5, <i>les Russula</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Annexe 1, <i>les Russules</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: |
     Ammoniaque (NH<sub>4</sub>OH 10%) = reflet jaunâtre très léger sur le stipe

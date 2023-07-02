@@ -1,6 +1,6 @@
 ---
-nom: Scleroderma citrinum
-date: 2017-03-13 00:00:00
+nom: Scleroderma citrinum Pers.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3741/20394289172_5bc72dfbf6_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20394289172/in/photolist-xLgTP2-yqyEJN-yqDjTB-x5b4Do-w3ZoVs-wHp8uq-p5raj5-p3rd51-feLjNp
 album-flickr:

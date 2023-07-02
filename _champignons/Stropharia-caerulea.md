@@ -1,5 +1,5 @@
 ---
-nom: Stropharia caerulea
+nom: Stropharia caerulea Kreisel
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8191/8122273690_424d6d5230_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8122273690/in/photolist-dnJMnf-dnJFjn-dDwhHj-dnJLZy

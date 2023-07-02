@@ -1,6 +1,6 @@
 ---
-nom: Rhytisma acerinum
-date: 2018-01-07 00:00:00
+nom: Rhytisma acerinum (Pers.) Fr.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4489/26239934899_a265bd99bf_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/26239934899/in/photostream/
 album-flickr:

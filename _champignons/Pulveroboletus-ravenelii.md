@@ -1,6 +1,6 @@
 ---
-nom: Pulveroboletus ravenelii
-date: 2017-03-25 00:00:00
+nom: Pulveroboletus ravenelii (Berk. & M.A. Curtis) Murrill
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/571/20495491838_2c8f61ca8f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20495491838/in/photolist-xe7KEW-oPXq4J
 album-flickr:

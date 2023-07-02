@@ -1,6 +1,6 @@
 ---
-nom: Suillus clintonianus
-date: 2017-10-27 00:00:00
+nom: Suillus clintonianus (Peck) Kuntze
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4503/37392611065_7a11befe4d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37392611065/in/photolist-YYfUwM-YFuRrd-YFuV2u
 album-flickr:

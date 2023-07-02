@@ -257,7 +257,8 @@ description:
     <b>Breitenbach, J.; Kränzlin, Fred</b>. <i>Champignons de Suisse</i>, tome 1, <i>Les Ascomycètes</i>, Edition Mykologia, Lucerne 1981.
     <b>Cannon, P.F., Minter, D.W</b>. <i>Rhytisma acerinum; Descriptions of Pathogenic Fungi and Bacteria</i>, Commonwealth Mycological Institute, No. Set 80 pp. Nos. 791-800, 1984.
     <b>Persoon, Christiaan Hendrik</b>. <i>Synopsis methodica fungorum</i>, Pars prima cumtabilis Æneig. Gottingæ, 1801, Apud Henricum Dieterich; (p. 104, N° 3)
-  publications-microscopiques: 
+  publications-microscopiques: |
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

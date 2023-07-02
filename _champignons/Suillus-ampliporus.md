@@ -1,6 +1,6 @@
 ---
-nom: Suillus ampliporus
-date: 2017-10-27 00:00:00
+nom: Suillus ampliporus (Peck) Kuntze
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4348/37200814356_937167fa43_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37200814356/in/photolist-YKtan8-XEKCn9-YFiU3Y-XEKFTN
 album-flickr:

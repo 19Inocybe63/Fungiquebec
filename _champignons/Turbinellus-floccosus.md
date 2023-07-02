@@ -1,6 +1,6 @@
 ---
-nom: Turbinellus floccosus
-date: 2017-03-13 00:00:00
+nom: Turbinellus floccosus (Schwein.) Earle ex Giachini & Castellano
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8474/29042223936_e6c819caf1_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29042223936/in/photolist-LfmZmU
 album-flickr:

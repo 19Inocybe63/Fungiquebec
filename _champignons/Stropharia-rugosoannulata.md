@@ -1,6 +1,6 @@
 ---
-nom: Stropharia rugosoannulata
-date: 2022-06-18 00:00:00
+nom: Stropharia rugosoannulata Farl. ex Murrill
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3766/9169017888_13dd353b07_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9169017888/in/photolist-eYeErh-eYeBzj
 album-flickr:

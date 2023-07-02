@@ -1,6 +1,6 @@
 ---
-nom: Scleroderma cepa
-date: 2017-03-26 00:00:00
+nom: Scleroderma cepa Pers.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/394/20272518041_035dfb297c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20272518041/in/photolist-wApzri-wTpXk8
 album-flickr:

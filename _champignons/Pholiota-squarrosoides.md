@@ -1,6 +1,6 @@
 ---
-nom: Pholiota squarrosoides
-date: 2017-09-25 00:00:00
+nom: Pholiota squarrosoides (Peck) Sacc.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7295/9591960483_a32eab764b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9591960483/in/photolist-xt3tBS-wwZ7Ct-fBBuHa-fBBiF2-dKPZEc-dKVtSm/
 album-flickr:

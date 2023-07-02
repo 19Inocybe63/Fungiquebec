@@ -1,6 +1,6 @@
 ---
-nom: Rhodocollybia butyracea
-date: 2017-03-25 00:00:00
+nom: Rhodocollybia butyracea (Bull.) Lennox
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3903/15064668488_052b6a0e2e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15064668488/in/photolist-oXdn6A-oXch8n
 album-flickr:

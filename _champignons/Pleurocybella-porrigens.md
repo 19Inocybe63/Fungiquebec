@@ -1,6 +1,6 @@
 ---
-nom: Pleurocybella porrigens
-date: 2017-10-02 00:00:00
+nom: Pleurocybella porrigens (Pers.) Singer
+date: 2023-05-7 00:00:00
 image: https://c1.staticflickr.com/5/4462/36573145754_37dbed2905_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36573145754/in/photolist-YNyrcg-XHQW3w-Z29nm4
 album-flickr:

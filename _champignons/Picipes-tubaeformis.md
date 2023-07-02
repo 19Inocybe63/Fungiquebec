@@ -1,6 +1,6 @@
 ---
-nom: Picipes tubaeformis
-date: 2017-03-25 00:00:00
+nom: Picipes tubaeformis (P. Karst.) Zmitr. & Kovalenko
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5577/14847991983_e3567bb968_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14847991983/in/photolist-oC4QHM
 album-flickr:

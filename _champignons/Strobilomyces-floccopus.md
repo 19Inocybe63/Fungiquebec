@@ -1,6 +1,6 @@
 ---
-nom: Strobilomyces floccopus
-date: 2017-03-13 00:00:00
+nom: Strobilomyces floccopus (Vahl) P. Karst.
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3780/9411670398_b43ab1cd36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9411670398/in/photolist-fkFz8J-fkFgHh
 album-flickr:

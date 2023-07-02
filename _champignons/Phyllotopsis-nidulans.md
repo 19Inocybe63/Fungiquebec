@@ -1,6 +1,6 @@
 ---
-nom: Phyllotopsis nidulans
-date: 2017-03-25 00:00:00
+nom: Phyllotopsis nidulans (Pers.) Singer
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3891/14674164427_314106bc38_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14674164427/in/photolist-omGujh-omGVQX/
 album-flickr:

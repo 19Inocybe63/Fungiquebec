@@ -1,6 +1,6 @@
 ---
-nom: Tricholoma subluteum
-date: 2017-03-13 00:00:00
+nom: Tricholoma subluteum Peck
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3924/15348923981_4dd795fa5e_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15348923981/in/photolist-pokdzX-pokfmn
 album-flickr:

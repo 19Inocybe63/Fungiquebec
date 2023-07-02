@@ -1,6 +1,6 @@
 ---
-nom: Suillus americanus
-date: 2017-03-13 00:00:00
+nom: Suillus americanus (Peck) Snell
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/281/19260307573_8863d5b233_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19260307573/in/photolist-vkPhpN-vkY7qv
 album-flickr:

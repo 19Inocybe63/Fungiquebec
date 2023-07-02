@@ -1,6 +1,6 @@
 ---
-nom: Pluteus longistriatus
-date: 2017-06-02 00:00:00
+nom: Pluteus longistriatus (Peck) Peck
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/3/2899/14681860624_6ddd54db46_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14681860624/in/photolist-PSJPm6-QpG4gy-MTWX95-N57BJg-MpxvCE-MzBQjx-JRVK99-JtAhvm-J6iLNE-Hw61aV-Hw5pGY-HWMRDP-H8pRei-okyEdL-ononE1-dZJen1-e1s9mU/
 album-flickr:

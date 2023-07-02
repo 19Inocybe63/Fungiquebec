@@ -1,6 +1,6 @@
 ---
-nom: Russula fragilis
-date: 2017-03-27 00:00:00
+nom: Russula fragilis ss Shaffer
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5589/15034624325_0cd9367c27_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15034624325/in/photolist-oUypVP-oUyo1M-oC4HTw
 album-flickr:

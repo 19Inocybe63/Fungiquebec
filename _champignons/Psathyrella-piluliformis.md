@@ -1,6 +1,6 @@
 ---
-nom: Psathyrella piluliformis
-date: 2017-03-25 00:00:00
+nom: Psathyrella piluliformis (Bull.) P.D. Orton
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7320/10004327923_fbf60f569d_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/10004327923/in/photolist-ntoYbe-oUyccn-oUwaBQ-gf3gJT-gf3N9t
 album-flickr:
@@ -264,10 +264,7 @@ description:
     <b>Fouchier, Francis</b>. <i>Le Genre Psathyrella (Fries) Quélet</i>, Fédération des Associations Mycologiques Méditerranéennes, 1995.
     <b>Smith, Alexander H</b>. <i>The North American Species of Psathyrella</i>, Memoirs of The New York Botanical Garden, vol. 24, 1972.
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 1, <i>les basidiospores</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 2, <i>les basides, les hyménocystides et les trames lamellaires</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 3, <i>les pileipellis, les stipitipellis, les dermatocystides, les voiles partiels et les acantocytes</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
-    <b>Kaufholtz-Couture, Claude</b>. <i>Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Module 4, <i>la chair ou le contexte, les hyphes spécialisées, le système hyphal et les pigments</i>, ouvrage collectif sous la direction de, 2e édition, Québec, 2016.
+    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: |
     Melzer = pas de coloration ou de décoloration sur toutes les parties des tissus
   receptacle: 

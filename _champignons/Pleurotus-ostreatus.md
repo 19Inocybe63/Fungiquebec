@@ -1,6 +1,6 @@
 ---
-nom: Pleurotus ostreatus
-date: 2017-03-25 00:00:00
+nom: Pleurotus ostreatus (Jacq.) P. Kumm
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5602/15527961875_63c2792900_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15527961875/in/photolist-pE7NaU-pE9S5B-pE9TUZ
 album-flickr:

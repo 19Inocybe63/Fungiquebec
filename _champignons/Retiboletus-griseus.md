@@ -1,6 +1,6 @@
 ---
-nom: Retiboletus griseus
-date: 2017-03-25 00:00:00
+nom: Retiboletus griseus (Frost) Manfr. Binder & Bresinsky
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5721/20336173364_c4bc44ddd0_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20336173364/in/photolist-xW48aP-wZ3cQG
 album-flickr:

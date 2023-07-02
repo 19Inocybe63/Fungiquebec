@@ -1,6 +1,6 @@
 ---
-nom: Russula rugulosa
-date: 2018-02-16 00:00:00
+nom: Russula rugulosa Peck
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5521/9969248856_bb1a51c6a9_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9969248856/in/photolist-gbX1mY-gbWHfT
 album-flickr:

@@ -1,5 +1,5 @@
 ---
-nom: Phlebia sp.
+nom: Phlebia radiata sl. Fr.
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7528/29925850280_fcac7d9e2f_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/29925850280/in/photolist-MArNFS-MApE2w
@@ -17,7 +17,7 @@ details:
   ordre: Polyporales
   famille: Meruliaceae
   genre: Phlebia
-  espece: <i>Phlebia sp.</i>
+  espece: <i>Phlebia sp.</i> Fr.
   litterature: 
 
 collections:

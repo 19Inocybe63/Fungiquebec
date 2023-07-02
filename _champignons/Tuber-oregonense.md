@@ -1,6 +1,6 @@
 ---
-nom: Tuber oregonense
-date: 2023-05-20 00:00:00
+nom: Tuber oregonense Trappe, Bonito & P. Rawl.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/726/21494073599_111705ea05_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/21494073599/in/photolist-FAoFM3-yKmKeR
 album-flickr:

@@ -1,6 +1,6 @@
 ---
-nom: Russula redolens
-date: 2018-08-06 00:00:00
+nom: Russula redolens Burlingham
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/852/28953948637_f6168562ed_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28953948637/in/dateposted/
 album-flickr:

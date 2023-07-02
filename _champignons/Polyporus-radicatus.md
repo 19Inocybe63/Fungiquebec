@@ -1,6 +1,6 @@
 ---
-nom: Polyporus radicatus
-date: 2017-07-25 00:00:00
+nom: Polyporus radicatus Schwein.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/9/8147/7545022948_2da26f1e36_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/7545022948/in/photolist-cuJdWS-cuJdsy
 album-flickr:

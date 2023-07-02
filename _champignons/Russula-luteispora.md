@@ -1,6 +1,6 @@
 ---
-nom: Russula luteispora
-date: 2017-03-27 00:00:00
+nom: Russula luteispora Murrill
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/300/20000728785_173a5c29df_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20000728785/in/photolist-wtoXRt-wtp2DD
 album-flickr:

@@ -1,6 +1,6 @@
 ---
-nom: Trametes versicolor
-date: 2017-03-13 00:00:00
+nom: Trametes versicolor (L.) Lloyd
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3857/14880591843_754fdb0487_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14880591843/in/photolist-oDagSs-oEWVwk/
 album-flickr:

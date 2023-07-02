@@ -1,6 +1,6 @@
 ---
-nom: Russula mustelina
-date: 2017-08-08 00:00:00
+nom: Russula mustelina Fr.
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4417/36232761421_ee0bd87532_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36232761421/in/dateposted/
 album-flickr:

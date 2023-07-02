@@ -107,8 +107,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: |
-    De Claude Kaufholtz-Couture. « Collection (cKc0650) cueillie chez Daan. »
+  commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 

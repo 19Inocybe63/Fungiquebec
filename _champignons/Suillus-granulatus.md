@@ -1,6 +1,6 @@
 ---
-nom: Suillus aff. granulatus
-date: 2017-03-13 00:00:00
+nom: Suillus aff. granulatus (L.) Roussel
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/1/481/18934767368_1d12186c12_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/18934767368/in/photolist-uRcCEm-uRcy7J
 album-flickr:

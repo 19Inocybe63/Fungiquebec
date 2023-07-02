@@ -1,6 +1,6 @@
 ---
 nom: Psilocybe fuscofulva Peck
-date: 2023-0507 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/3/2943/15155802299_c6032f05d7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15155802299/in/photolist-rwSBW5-pnK3BE-p6hpgb-p6gs1c
 album-flickr:

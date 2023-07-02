@@ -1,6 +1,6 @@
 ---
 nom: Trichoglossum farlowii (Cooke) E.J. Durand
-date: 2023-0507 00:00:00
+date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/8/7383/9968689104_70a0b0ffc2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9968689104/in/photolist-wwWoqh-s5M8R3-gbU2wZ-gbU8Y5
 album-flickr:

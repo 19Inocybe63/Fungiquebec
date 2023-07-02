@@ -1,6 +1,6 @@
 ---
-nom: Suillus cavipes var. aureus
-date: 2017-10-27 00:00:00
+nom: Suillus cavipes var. aureus (Rolland) Bellù
+date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4355/37200046932_180e9c077a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/37200046932/in/photolist-YFeXVw-YkjHcb-YFeZnj
 album-flickr:

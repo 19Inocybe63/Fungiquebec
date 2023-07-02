@@ -277,7 +277,6 @@ description:
   publications-microscopiques: |
     <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
     <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, Annexe 4, <i>les Inocybaceae</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
-  publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

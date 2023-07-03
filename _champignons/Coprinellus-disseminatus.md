@@ -30,7 +30,7 @@ collections:
     geolocalisation: 46°47'01.8"N 71°16'04.1"O
     elevation: 100 m
     determinee: Claude Kaufholtz-Couture
-    confirmee: R. A. Powers
+    confirmee: R. A. Powers (ADN)
 
 description:
   acanthocytes: 

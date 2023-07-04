@@ -80,7 +80,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse dans sol sableux, milieu herbeux, au pied de chêne (Quercus)
+  biotopes: pousse dans sol sableux, milieu herbeux, au pied de chêne, <i>Quercus</i>
   boucles: 
   brachybasidioles: 
   calicule: 

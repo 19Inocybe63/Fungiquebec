@@ -308,7 +308,7 @@ description:
     GCCGCTTTGG AGGGAGAAAT TTATTCTGAC AAACTTGACC TCAAATCA
   soies: 
   soies-hymeniales: 
-  sporee: en amoncellement, brun rougeâtre 5YR 4/4 à brun 7.5 YR 4/4 (Munsell Soil-Color Charts)
+  sporee: en amoncellement, brun rougeâtre 5YR 4/4 à brun 7.5YR 4/4
   spherocytes: 
   sporocystes: 
   stipe: 30-40 x 3-4 mm Ø, cylindrique, égal à ± radicant à la base, plein, avec de légers reflets rougeâtre de l’apex jusqu’à la base, bulbeux à ± marginé

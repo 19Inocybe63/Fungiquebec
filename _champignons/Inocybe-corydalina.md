@@ -57,7 +57,8 @@ description:
   base-sterile: 
   base-stipitiforme: 
   basides: 
-  basidiospores: 
+  basidiospores: |
+  léiosporé, lisses, amygdaloïdes, 8-10,5 x 5-5,5 µm, la majorité 9-9,5 x 5-5,5 µm (dans les lames)
   basidioles: 
   basidiome: 
   bibliographies: 
@@ -77,10 +78,10 @@ description:
   cellules-marginales-paracystides: 
   cellules-peritheciales: 
   cellules-stromatiques: 
-  chair: 
+  chair: rougie puis brunie fortement avec l’âge, ou plutôt lentement et parfois peu fortement au grattage ou à la cassure
   chancre: 
   cheilochrysocystides:
-  cheilocystides: 
+  cheilocystides: variables, atteignant 25 µm de largeur
   cheilolamprocystides: 
   cheiloleptocystides: 
   cheilomacrocystides: 
@@ -103,7 +104,7 @@ description:
   cortex-du-pied-et-du-bulbe: 
   cortex-peridial: 
   cortex-sclerotial: 
-  cortine: 
+  cortine: non
   coupe-sterile: 
   cristaux: 
   cristaux-d-oxalate: 
@@ -141,7 +142,7 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: 
+  exhalaison-de-la-chair: aromatique très distincte, agréable, de baume du Pérou selon Marcel Bon; à la limite, de certaines huiles essentielles décongestionnantes (ex.: eucalyptus), surtout pas fruitée ni sucrée
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 
@@ -226,10 +227,10 @@ description:
   pileipellis: 
   pileitrame: 
   pileocystides: 
-  pileus: 
+  pileus: viscidule chez les jeunes, où se développe lentement les futures écailles; finalement, le centre du chapeau montre une teinte verdâtre au centre, pas toujours évidente
   plasmode: 
   pleurochrysocystides: 
-  pleurocystides: 
+  pleurocystides: 52-62 x17-20 µm, ventrues, muriquées, à paroi peu épaisse environ 1 µm, parfois plus épaisse vers l’apex
   pleurolamprocystides: 
   pleuroleptocystides: 
   poils: 
@@ -267,7 +268,7 @@ description:
   sporee: 
   spherocytes: 
   sporocystes: 
-  stipe: 
+  stipe: rougi puis bruni fortement avec l’âge, ou plutôt lentement et parfois peu fortement au grattage ou à la cassure
   stipitipellis: 
   stipititrame: 
   stroma: 

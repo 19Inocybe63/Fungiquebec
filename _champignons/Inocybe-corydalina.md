@@ -2,7 +2,7 @@
 nom: Inocybe corydalina Quél.
 date: 2023-07-08 00:00:00
 image: # Largeur 320px. Exemple: https:
-image-originale: https://www.flickr.com/photos/27441280@N06/3777671211/in/photolist-MDopuN-6KPy3g-6KTJey-z34H5g-zGbBws-zWuRH9-zZLuKH-zWBcbf
+image-originale: 
 album-flickr:
   - # Exemple: 72157672806318152
 

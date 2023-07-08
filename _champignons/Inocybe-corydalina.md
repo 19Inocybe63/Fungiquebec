@@ -25,7 +25,7 @@ details:
   litterature: Quélet, L. 1875. Les champignons du Jura et des Vosges. IIIe Partie. Mémoires de la Société d'Émulation de Montbéliard. Sér. 2. 5:429-556
 
 collections:
-  - fongarium: YL
+  - fongarium: YL4026 (CMMF)
     date: 4 août 2006
     planche:
       numero: 

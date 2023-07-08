@@ -58,7 +58,7 @@ description:
   base-stipitiforme: 
   basides: 
   basidiospores: |
-  léiosporé, lisses, amygdaloïdes, 8-10,5 x 5-5,5 µm, la majorité 9-9,5 x 5-5,5 µm (dans les lames)
+    léiosporé, lisses, amygdaloïdes, 8-10,5 x 5-5,5 µm, la majorité 9-9,5 x 5-5,5 µm (dans les lames)
   basidioles: 
   basidiome: 
   bibliographies: 

@@ -142,7 +142,7 @@ description:
   excipulum-medullaire-inferieur: 
   excipulum-ectal: 
   exhalaison: 
-  exhalaison-de-la-chair: aromatique très distincte, agréable, de baume du Pérou selon Marcel Bon; à la limite, de certaines huiles essentielles décongestionnantes (ex.: eucalyptus), surtout pas fruitée ni sucrée
+  exhalaison-de-la-chair: aromatique très distincte, agréable, de baume du Pérou selon Marcel Bon, à la limite, de certaines huiles essentielles décongestionnantes, eucalyptus, surtout pas fruitée ni sucrée
   exhalaison-des-lames: 
   exoperidium: 
   extremites-hyphales: 

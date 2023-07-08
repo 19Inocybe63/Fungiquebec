@@ -92,7 +92,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: |
-    De Yves Lamoureux. «Décrite en Europe, cette espèce est mentionnée en Amérique par Smith et al., dans Smith (1979). Elle semble rarement récoltée dans le nord-est de l’Amérique. On n’en parle pas dans les autres monographies américaines. Le dessin de la <i>fo. erinaceomorpha</i> dans Courtecuisse (1994) illustre l’aspect des spécimens matures en voie d’assèchement, comme dans la photo <B>A.</B> Cette forme n’est donc d’aucune utilité. Il vaudrait mieux amender la diagnose princeps de <i>I. corydalina</i> pour couvrir tous les aspects possibles du chapeau. À moins que les autres mycologues européens ne partagent pas le point de vue de Courtecuisse (1994) qui considère <i>I. erinaceomorpha</i> comme une simple forme de <i>I. corydalina</i>. Théoriquement, il n’y a pas de confusion possible; si rares sont les inocybes avec tant de caractères distinctifs. Cette espèce passe probablement inaperçue, car peu de gens s’intéressant aux inocybes. Un nom commun qui se rapporte à son odeur serait plus approprié. »
+    De Yves Lamoureux. « Décrite en Europe, cette espèce est mentionnée en Amérique par Smith et al., dans Smith (1979). Elle semble rarement récoltée dans le nord-est de l’Amérique. On n’en parle pas dans les autres monographies américaines. Le dessin de la <i>fo. erinaceomorpha</i> dans Courtecuisse (1994) illustre l’aspect des spécimens matures en voie d’assèchement, comme dans la photo <B>A.</B> Cette forme n’est donc d’aucune utilité. Il vaudrait mieux amender la diagnose princeps de <i>I. corydalina</i> pour couvrir tous les aspects possibles du chapeau. À moins que les autres mycologues européens ne partagent pas le point de vue de Courtecuisse (1994) qui considère <i>I. erinaceomorpha</i> comme une simple forme de <i>I. corydalina</i>. Théoriquement, il n’y a pas de confusion possible; si rares sont les inocybes avec tant de caractères distinctifs. Cette espèce passe probablement inaperçue, car peu de gens s’intéressant aux inocybes. Un nom commun qui se rapporte à son odeur serait plus approprié. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -259,7 +259,7 @@ description:
   reactions-macrochimiques: 
   receptacle: 
   remarques: |
-    Semble être la première station découverte au Québec.
+    Trouvé par Louise Rocheleau. Semble être la première station découverte au Québec.
     Publié sur le site de <b>Fungiquebec</b> avec l’autorisation de l’auteur, Yves Lamoureux.
   repartition: 
   rhizomorphes: 

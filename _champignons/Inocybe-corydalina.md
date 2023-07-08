@@ -251,7 +251,9 @@ description:
   pseudocolumelle: 
   pseudocystides: 
   pseudo-peridioles: 
-  publications: 
+  publications: |
+    <b>COURTECUISSE, R., Duhem, B.,</b> 1994. Guide des champignons de France et d'Europe. Les Guides du Naturaliste. Delachaux et Niestlé, Paris, 476 p.
+    <b>SMITH, A. H., Smith, H.V., Smith-Weber, N.</b> 1979. How to know the gilled mushrooms. Wm. C. Brown, Dubuque, 334 p.
   publications-microscopiques: 
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 

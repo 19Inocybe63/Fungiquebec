@@ -1,7 +1,7 @@
 ---
 nom: Inocybe corydalina Quél.
 date: 2023-07-08 00:00:00
-image: 
+image: https://www.flickr.com/photos/kaufholtz/53031892999/in/dateposted/
 image-originale: https://www.flickr.com/photos/kaufholtz/53031892999/in/dateposted/
 album-flickr:
   - # Exemple: 72157672806318152

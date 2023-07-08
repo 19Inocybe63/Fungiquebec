@@ -258,7 +258,9 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: semble être la première station découverte au Québec
+  remarques: |
+    Semble être la première station découverte au Québec.
+    Publié sur le site de <b>Fungiquebec</b> avec l’autorisation de l’auteur, Yves Lamoureux.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

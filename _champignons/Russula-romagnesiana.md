@@ -92,7 +92,7 @@ description:
   columelle: 
   commentaires: |
     De Claude Kaufholtz-Couture. « Romagnesi indique que <i>R. chloroïdes</i> forme type chloroïdes possède avec quelquefois dans sa forme typique un beau cerne vert sous l'insertion des lames, qui manque d'ailleurs très souvent, à surface d'abord pruineuse, puis satinée-luisante, finement ruguleuse ».
-    De Claude Kaufholtz-Couture. « Il ne peut s'agir de <i>R. brevipes var acrior</i>, car la basidiospore de la collection cKc0347 est beaucoup trop petite, mais aussi parce que la saveur de la collection cKc0347 n'est pas très âcre, légèrement tout au plus. Toujours d'après Romagnesi, il indique en observation à la page 230, que R.L. Schaffer a trouvé en Amérique une <i>Plorantinae</i> à petites basidiospores <i>R. chloroides var parvispora</i>) qu'il rattache à la variété <i>parvispora</i>, mais préfère l'élever au rang d'espèce sous le nom de <i>R. romagnesiana</i>. (...) »
+    De Claude Kaufholtz-Couture. « Il ne peut s'agir de <i>R. brevipes var acrior</i>, car la basidiospore de la collection cKc0347 est beaucoup trop petite, mais aussi parce que la saveur de la collection cKc0347 n'est pas très âcre, légèrement tout au plus. Toujours d'après Romagnesi, il indique en observation à la page 230, que Schaffer a trouvé en Amérique une <i>Plorantinae</i> à petites basidiospores <i>R. chloroides var parvispora</i>) qu'il rattache à la variété <i>parvispora</i>, mais préfère l'élever au rang d'espèce sous le nom de <i>R. romagnesiana</i>. (...) »
   conidies: 
   conidiome: 
   conidiophores: 

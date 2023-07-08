@@ -256,7 +256,7 @@ description:
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: semble être la première station découverte au Québec
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

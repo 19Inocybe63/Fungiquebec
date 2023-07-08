@@ -221,7 +221,7 @@ description:
   peridiopellis: 
   peridium: 
   peritheces: 
-  phenologie: 
+  phenologie: août
   phialoconidies: 
   pieds-steriles: 
   pigments: 

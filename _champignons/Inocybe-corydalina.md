@@ -31,7 +31,7 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
+    geolocalisation: N 46° 11' 2.1408", W 73° 41' 34.746"
     elevation: 
     determinee: Yves Lamoureux
     confirmee: Yves Lamoureux

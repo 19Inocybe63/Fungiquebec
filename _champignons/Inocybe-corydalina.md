@@ -260,7 +260,7 @@ description:
   receptacle: 
   remarques: |
     Semble être la première station découverte au Québec.
-    Publié sur le site de <b>Fungiquebec</b> avec l’autorisation de l’auteur, Yves Lamoureux (Projet Inocybe du Québec par Kaufholtz-Lamoureux).
+    Publié sur le site de <b>Fungiquebec</b> avec l’autorisation de l’auteur, Yves Lamoureux </i>Projet Inocybe du Québec par Kaufholtz-Lamoureux.</i>
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

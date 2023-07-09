@@ -47,7 +47,8 @@ description:
   apothecie: 
   arete-lamellaire: 
   arthroconidies: 
-  articles: 
+  articles: |
+    MATHENY, P. Brandon, Kudzma, Linas V, 2019. New species of Inocybe (Inocybaceae) from eastern North America, The Journal of the Torrey Botanical Society, 146(3), 213-235
   ascome: 
   ascospores: 
   asques: 

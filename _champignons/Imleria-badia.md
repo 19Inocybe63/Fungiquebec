@@ -240,7 +240,7 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>BESSETTE, Alan E., BESSETTE, Arleen R., ROODY, William, C</b>, 2010. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 400 p.
-    <b>SMITH, Alexander H., THIERS, Harry D.</b>, 1971. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 610 p.
+    <b>SMITH, Alexander H., THIERS, Harry D</b>, 1971. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 610 p.
   publications-microscopiques: |
     <b>KAUFHOLTZ-COUTURE, Claude</b>, 2023. Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, ouvrage collectif sous la direction de, 1e édition, Québec
   reactions-macrochimiques: 

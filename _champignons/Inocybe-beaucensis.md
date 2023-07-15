@@ -282,7 +282,7 @@ description:
   publications: |
     <b>BON, Marcel</b>, 1997. Clé monographique du genre Inocybe. Association d'Écologie et de Mycologie, Lille; Documents Mycologiques, tome 27; Fascicule N° 108
     <b>FERRARI, Erminio</b>, 2010. 1 - Verbania Suna - Inocybe dai litorali alla zona alpina, Fungi non Delineati, pars 54-55, Edizioni Candusso, 216 p.
-    <b>GRUND, D.W., STUNTZ, D.E</b>. Nova Scotian Inocybes, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1; vol. 62, 1970, Inocybe 2; vol. 67, 1975, Inocybe 3; vol. 69, 1977, Inocybe 4; vol. 72, 1980, Inocybe 5; vol. 73, 1981, Inocybe 6; vol. 75, 1983, Inocybe 7; vol. 76, 1984, Inocybe 8
+    <b>GRUND, D.W., STUNTZ, D.E</b>, 1977. Nova Scotian Inocybes, Revue Mycologia, vol. 69, Inocybe 4
     <b>KUYPER, Thomas W.</b>, 1986. A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe, Rijksherbarium, Leiden, 134 p.
     <i>Munsell Soil-Color Charts</i>, Produced by Munsell Color, 2009 year revised, 2022 production.
     <b>KAUFFMAN, Calvin H., 1924. Overholts, Lee Oras</b>. Inocybe, North American Flora, The New York Botanical Garden, vol. 10 part 4, 54 p.

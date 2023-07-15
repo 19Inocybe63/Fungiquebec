@@ -258,7 +258,6 @@ description:
   pseudo-peridioles: 
   publications: |
     <b>GRUND, D.W., STUNTZ, D.E</b>, 1975. Nova Scotian Inocybes, Revue Mycologia, vol. 67, Inocybe 3
-    <i>Munsell Soil-Color Charts</i>, 2022. Produced by Munsell Color, 2009 year revised, 2022 production.
   publications-microscopiques: |
     <b>KAUFHOLTZ-COUTURE, Claude</b>, 2023. Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, ouvrage collectif sous la direction de, 1e édition, Québec
     <b>KAUFHOLTZ-COUTURE, Claude</b>, 2023. Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, Annexe 4, les Inocybaceae, ouvrage collectif sous la direction de, 1e édition, Québec

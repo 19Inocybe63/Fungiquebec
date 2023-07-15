@@ -280,10 +280,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bon, Marcel</b>, <i>Clé monographique du genre Inocybe</i>, Association d'Écologie et de Mycologie, Lille; Documents Mycologiques, tome 27; Fascicule N° 105, avril 1997; Fascicule N° 108, décembre 1997; Fascicule N° 111, juin 1998
-    <b>Bresadola, Ab. Dr. J.; Alessio, C. L.</b>, Iconographia Mycologica, Vol. XXIX, <i>Inocybe</i>, Società Botanica Italiana, 1980, 367 p. et supplément
-    <b>Ferrari, Erminio</b>. <i>Inocybe alpine e subalpine Il genere Inocybe (Fr.) Fr. nel Nord Italia e paesi limotrofi</i>, Fungi non Delineati, pars 34-36, Edizioni Candusso, 2006, 464 p.
-    <b>Grund, D. W.; Stuntz, D. E</b>. <i>Nova Scotian Inocybes</i>, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1; vol. 62, 1970, Inocybe 2; vol. 67, 1975, Inocybe 3; vol. 69, 1977, Inocybe 4; vol. 72, 1980, Inocybe 5; vol. 73, 1981, Inocybe 6; vol. 75, 1983, Inocybe 7; vol. 76, 1984, Inocybe 8
+    <b>BON, Marcel</b>. Clé monographique du genre Inocybe. Association d'Écologie et de Mycologie, Lille; Documents Mycologiques, tome 27; Fascicule N° 105, avril 1997; Fascicule N° 108, décembre 1997; Fascicule N° 111, juin 1998
+    <b>FERRARI, Erminio</b>. 1 - Verbania Suna - Inocybe dai litorali alla zona alpina, Fungi non Delineati, pars 54-55, Edizioni Candusso, 2010, 216 p.
+    <b>GRUND, D. W., STUNTZ, D. E</b>. Nova Scotian Inocybes, Revue Mycologia, 126 p. vol. 60, 1968, Inocybe 1; vol. 62, 1970, Inocybe 2; vol. 67, 1975, Inocybe 3; vol. 69, 1977, Inocybe 4; vol. 72, 1980, Inocybe 5; vol. 73, 1981, Inocybe 6; vol. 75, 1983, Inocybe 7; vol. 76, 1984, Inocybe 8
     <b>Kobayashi, Takahito</b>. <i>The taxonomic studies of the genus Inocybe</i>, Beiheft 124, Nova Hedwigia, J. Cramer, Berlin-Stuttgart, 2002
     <b>Kuyper, Thomas W.</b> <i>A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe</i>, Rijksherbarium, Leiden 1986, 134 p.
     <i>Munsell Soil-Color Charts</i>, Produced by Munsell Color, 2009 year revised, 2022 production.
@@ -316,7 +315,7 @@ description:
     TATTTGACAA	ATTTGACCTC	AAATCAGGTA GGACTACCCG	CTGAACTTAA	G
   soies: 
   soies-hymeniales: 
-  sporee: en amoncellement, brun rougeâtre 5YR 4/3-4 (Munsell Soil-Color Charts)
+  sporee: en amoncellement, brun rougeâtre 5YR 4/3-4
   spherocytes: 
   sporocystes: 
   stipe: 40-60 x 2-3 mm Ø, cylindrique, égal, strié longitudinalement, ± pruineux vers l'apex, brun beige du milieu vers la base, plutôt blanchâtre vers l'apex, dont la base est égal à bulbilleux

@@ -44,7 +44,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>Zhu, Xue-Tai.; Li, Yan-Chun, et al</b>. <i>The genus Imleria (Boletaceae) in East Asia</i>, Phytotaxa 191 (1):081-098; (2014), 18 p.
+    <b>ZHU, Xue-Tai., LI, Yan-Chun, et al</b>, 2014. The genus Imleria (Boletaceae) in East Asia, Phytotaxa 191 (1):081-098, 18 p.
   ascome: 
   ascospores: 
   asques: 
@@ -239,10 +239,10 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Bessette, Alan E.; Bessette, Arleen R.; Roody, William, C</b>. <i>North American Boletes (A Color Guide to the Fleshy Pored Mushrooms)</i>, Syracuse University Press, 2010, 400 p.
-    <b>Smith, Alexander H.; Thiers, Harry D</b>. <i>The Boletes of Michigan</i>, Ann Arbor, The University of Michigan Press, 1971, 610 p.
+    <b>BESSETTE, Alan E., BESSETTE, Arleen R., ROODY, William, C.</b>, 2010. North American Boletes (A Color Guide to the Fleshy Pored Mushrooms), Syracuse University Press, 400 p.
+    <b>SMITH, Alexander H., THIERS, Harry D.</b>, 1971. The Boletes of Michigan, Ann Arbor, The University of Michigan Press, 610 p.
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
+    <b>KAUFHOLTZ-COUTURE, Claude</b>, 2023. Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, ouvrage collectif sous la direction de, 1e édition, Québec
   reactions-macrochimiques: 
   receptacle: 
   remarques: 

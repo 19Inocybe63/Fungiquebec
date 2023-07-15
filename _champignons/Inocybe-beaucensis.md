@@ -284,7 +284,7 @@ description:
     <b>FERRARI, Erminio</b>, 2010. 1 - Verbania Suna - Inocybe dai litorali alla zona alpina, Fungi non Delineati, pars 54-55, Edizioni Candusso, 216 p.
     <b>GRUND, D.W., STUNTZ, D.E</b>, 1977. Nova Scotian Inocybes, Revue Mycologia, vol. 69, Inocybe 4
     <b>KUYPER, Thomas W.</b>, 1986. A revision of the genus Inocybe in Europe I. subgenus inosperma and the smooth-spored species of subgenus Inocybe, Rijksherbarium, Leiden, 134 p.
-    <i>Munsell Soil-Color Charts</i>, Produced by Munsell Color, 2009 year revised, 2022 production.
+    <i>Munsell Soil-Color Charts</i>, 2022. Produced by Munsell Color, 2009 year revised, 2022 production.
     <b>KAUFFMAN, Calvin H., 1924. Overholts, Lee Oras</b>. Inocybe, North American Flora, The New York Botanical Garden, vol. 10 part 4, 54 p.
     <b>STANGL, Johann</b>, 1991. Guida alla determinazione dei funghi Vol. 3° Inocybe, Saturnia, 1e Edizione italiana, 437 p.
   publications-microscopiques: |

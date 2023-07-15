@@ -287,7 +287,7 @@ description:
   sporee: brun à brun verdâtre
   spherocytes: 
   sporocystes: 
-  stipe: 33-44 x 2-3 mm Ø, cylindriques, égal, blanchâtre, avec de léger reflet jaune rougeâtre vers l’apex, creux, avec base bulbeuse
+  stipe: 33-44 x 2-3 mm Ø, cylindriques, égal, blanchâtre, avec de léger reflet jaune rougeâtre vers l’apex, creux, non bulbeux
   stipitipellis: 
   stipititrame: 
   stroma: 

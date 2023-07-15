@@ -317,6 +317,7 @@ description:
   publications: |
     <b>BON, Marcel</b>, 1998. Clé monographique du genre Inocybe, Association d'Écologie et de Mycologie, Lille; Documents Mycologiques, tome 27, Fascicule N° 111, juin
     <b>HEIM, Roger</b>, 1931. Le genre Inocybe, précédé d'une introduction générale à l'étude des Agarics ochrosporés, Encyclopédie Mycologique 1, Éd. Paul Lechevalier & Fils, avec 35 planches coloriées d'après les aquarelles originales de l'auteur, 220 figures, Paris
+    <b>Couture-Kaufholtz, C., Moreau, P.-A</b>, 2022. Une nouvelle espèce de champignon proche de l’Inocybe curvipes découverte au Québec, Inocybe squalida sp. nov. (Inocybaceae, Agaricales). Le Naturaliste canadien, 146 (1):10-16. https://doi.org/10.7202/1086644ar
     <i>Munsell Soil-Color Charts</i>, 2022. Produced by Munsell Color, 2009 year revised, 2022 production.
   publications-microscopiques: |
     <b>KAUFHOLTZ-COUTURE, Claude</b>, 2023. Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, ouvrage collectif sous la direction de, 1e édition, Québec

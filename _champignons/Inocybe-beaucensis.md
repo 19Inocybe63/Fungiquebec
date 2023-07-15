@@ -68,8 +68,8 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>KAUFHOLTZ-COUTURE, Claude</b>. Interactive key of Inocybe - v01 (Mar 2018), Fungiquebec
-    <b>MATHENY, P. Brandon</b>. Key to Species of Inocybe from eastern North America - v04 (23-Dec-2017), University of Tennessee
+    <b>KAUFHOLTZ-COUTURE, Claude</b>, 2018. Interactive key of Inocybe, v01 (Mar 2018), Fungiquebec
+    <b>MATHENY, P. Brandon</b>, 2023. Key to Species of Inocybe from eastern North America, v18 (10 Jul 2023), University of Tennessee
   ascome: 
   ascospores: 
   asques: 

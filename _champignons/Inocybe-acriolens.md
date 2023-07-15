@@ -93,7 +93,7 @@ description:
   columelle: 
   comestibilite: NON
   commentaires: |
-    De P. Brandon Matheny. « <i>Inocybe acriolens</i> is also a member of this group and differs from both <i>I. grammatoides</i> and <i>I. grammata</i> by the non-bulbous even stipe. <i>Inocybe acriolens</i> is a conifer associate with spruce and fir. », The Inocybeceae Post (https://mathenylab.utk.edu/Site/The_Inocybaceae_Post.html)
+    De P. Brandon Matheny. « <i>Inocybe acriolens</i> is also a member of this group and differs from both <i>I. grammatoides</i> and <i>I. grammata</i> by the non-bulbous even stipe. <i>Inocybe acriolens</i> is a conifer associate with spruce and fir. », The Inocybaceae Post (https://mathenylab.utk.edu/Site/The_Inocybaceae_Post.html)
   conidies: 
   conidiome: 
   conidiophores: 

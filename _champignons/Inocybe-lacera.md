@@ -1,6 +1,6 @@
 ---
 nom: Inocybe lacera (Fr.) P. Kumm
-date: 2023-05-20 00:00:00
+date: 2023-07-14 00:00:00
 image: https://c1.staticflickr.com/9/8878/28650735294_a9aa4e1347_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28650735294/in/photolist-VkhsN2-KDLvqJ-Lrf9HJ-LAPonk
 album-flickr:

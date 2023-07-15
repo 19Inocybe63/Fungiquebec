@@ -98,7 +98,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>KAUFHOLTZ-COUTURE, Claude</b>, 2018. Interactive key of Inocybe, v01 (Mar 2018), Fungiquebec
+    <b>KAUFHOLTZ-COUTURE, Claude</b>, 2018. Interactive key of Inocybe, v01 (11 Mar), Fungiquebec
     <b>LECOMTE, Marcel</b> 2014. Vous avez dit P.D.A.B. ?, Bulletin de l’Association des Mycologues Francophones de Belgique, p. 4, 1 p.
     <b>MATHENY, P. Brandon</b>, 2023. Key to Species of Inocybe from eastern North America, v18 (10 Jul), University of Tennessee
   ascome: 

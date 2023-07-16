@@ -49,7 +49,7 @@ description:
   arthroconidies: 
   articles: |
     <b>KAUFHOLTZ-COUTURE, Claude</b>, 2018. Interactive key of Inocybe, v01 (11 Mar), Fungiquebec
-    <b>MATHENY, P. Brandon</b>, 2023. Key to Species of Inocybe from eastern North America, v18 (10 Jul), University of Tennessee
+    <b>MATHENY, P. Brandon</b>, 2023. Key to Species of Inocybe from eastern North America, v18 (10 Jul), University of Tennessee p. 23
   ascome: 
   ascospores: 
   asques: 

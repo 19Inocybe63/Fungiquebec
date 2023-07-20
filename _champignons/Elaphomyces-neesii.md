@@ -1,13 +1,13 @@
 ---
-nom: Elaphomyces sp. nov. not
-date: 2023-05-07 00:00:00
+nom: Elaphomyces neesii
+date: 2023-07-17 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 album-flickr:
   - 72157676875072761
 
 details:
-  nom-francais: Elaphomyces nouvelle espèce
+  nom-francais: Elaphomyces neesii
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota
@@ -18,7 +18,7 @@ details:
   famille: Elaphomycetaceae
   genre: Elaphomyces
   espece: <i>Elaphomyces sp. nov. not</i> Castellano
-  litterature: 
+  litterature: (article en cours de préparation)
 
 collections:
   - fongarium: cKc0396

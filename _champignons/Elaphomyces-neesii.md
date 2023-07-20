@@ -1,5 +1,5 @@
 ---
-nom: Elaphomyces neesii
+nom: Elaphomyces neesii Kaufholtz-Couture
 date: 2023-07-17 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
@@ -17,7 +17,7 @@ details:
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: <i>Elaphomyces sp. nov. not</i> Castellano
+  espece: <i>Elaphomyces neesii</i> Kaufholtz-Couture
   litterature: (article en cours de préparation)
 
 collections:

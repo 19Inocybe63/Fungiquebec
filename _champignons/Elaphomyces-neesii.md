@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/20440587051/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Michael Castellano (provisoire)
-    confirmee: 
+    determinee: Michael Castellano
+    confirmee: ADN
   - fongarium: cKc0428
     date: 22 août 2015
     planche:
@@ -39,8 +39,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Michael Castellano (provisoire)
-    confirmee: 
+    determinee: Michael Castellano
+    confirmee: ADN
   - fongarium: cKc0463
     date: 16 septembre 2015
     planche:
@@ -49,8 +49,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Michael Castellano (provisoire)
-    confirmee: 
+    determinee: Michael Castellano
+    confirmee: ADN
 
 description:
   acanthocytes: 

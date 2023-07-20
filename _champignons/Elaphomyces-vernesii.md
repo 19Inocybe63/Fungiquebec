@@ -17,8 +17,8 @@ details:
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: <i>Elaphomyces vernesii</i> Kaufholtz-Couture (article en cours de préparation)
-  litterature: nouvelle espèce
+  espece: <i>Elaphomyces vernesii</i> Kaufholtz-Couture
+  litterature:  (article en cours de préparation)
 
 collections:
   - fongarium: cKc0429

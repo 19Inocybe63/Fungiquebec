@@ -22,7 +22,7 @@ details:
   sous-genre: Inocybe (Fr.) Fr.
   section: 
   sous-section: 
-  litterature: <i>Inocybe beaucensis</i> C. Kaufholtz-Couture sp. nov. (article en cours de préparation)
+  litterature: <i>Inocybe beaucensis</i> Kaufholtz-Couture sp. nov. (article en cours de préparation)
 
 collections:
   - fongarium: cKc0662

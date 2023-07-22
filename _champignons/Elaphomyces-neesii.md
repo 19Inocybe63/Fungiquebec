@@ -18,7 +18,7 @@ details:
   famille: Elaphomycetaceae
   genre: Elaphomyces
   espece: <i>Elaphomyces neesii</i> Kaufholtz-Couture
-  litterature: (article en cours de préparation)
+  litterature: <i>Elaphomyces neesii</i> Kaufholtz-Couture sp. nov. (article en cours de préparation)
 
 collections:
   - fongarium: cKc0396

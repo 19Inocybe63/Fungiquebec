@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces neesii Kaufholtz-Couture
-date: 2023-07-17 00:00:00
+date: 2023-07-22 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 album-flickr:

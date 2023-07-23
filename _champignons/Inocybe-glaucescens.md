@@ -1,5 +1,5 @@
 ---
-nom: Inocybe corydalina Quél.
+nom: Inocybe glaucescens Matheny & Kudzman
 date: 2023-07-09 00:00:00
 image: https://live.staticflickr.com/65535/53031892999_f9ea1bd545_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/53031892999/in/dateposted/
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe corydalina</i> Quél.
+  espece: <i>Inocybe glaucescens</i> Matheny & Kudzman
   sous-genre: 
   section: 
   sous-section: 
@@ -48,7 +48,7 @@ description:
   arete-lamellaire: 
   arthroconidies: 
   articles: |
-    <b>MATHENY, P. Brandon, Kudzma, Linas V,</b> 2019. New species of Inocybe (Inocybaceae) from eastern North America, The Journal of the Torrey Botanical Society, 146(3), 213-235
+    <b>MATHENY, P. Brandon, Kudzma, Linas V.</b> 2019. New species of Inocybe (Inocybaceae) from eastern North America, The Journal of the Torrey Botanical Society, 146(3), 213-235
   ascome: 
   ascospores: 
   asques: 

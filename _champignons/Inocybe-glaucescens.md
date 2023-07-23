@@ -22,7 +22,7 @@ details:
   section: 
   sous-section: 
   stirpe: 
-  litterature: Quélet, L. 1875. Les champignons du Jura et des Vosges. IIIe Partie. Mémoires de la Société d'Émulation de Montbéliard. Sér. 2. 5:429-556
+  litterature: 
 
 collections:
   - fongarium: YL4026 (CMMF)

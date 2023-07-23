@@ -247,7 +247,7 @@ description:
   publications: |
     <b>SMITH, Alexander H.</b> 1951. Puffballs and their allies in Michigan, Ann Arbor, The University of Michigan Press, 187 p.
   publications-microscopiques: |
-    <b>KAUFHOLTZ-COUTURE, Claude</b>, 2023. Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, ouvrage collectif sous la direction de, 1e édition, Québec
+    <b>KAUFHOLTZ-COUTURE, C.</b> 2023. Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, ouvrage collectif sous la direction de, 1e édition, Québec
   reactions-chimiques-naturelles: 
   reactions-macrochimiques: 
   receptacle: 

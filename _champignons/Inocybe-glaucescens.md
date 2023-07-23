@@ -22,7 +22,7 @@ details:
   section: 
   sous-section: 
   stirpe: 
-  litterature: Inocybe glaucescens Matheny & Kudzma, Journal of the Torrey Botanical Society 146 (3):225 (2019)
+  litterature: Matheny & Kudzma, Journal of the Torrey Botanical Society 146 (3):225 (2019)
 
 collections:
   - fongarium: YL4026 (CMMF)

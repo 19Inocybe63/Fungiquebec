@@ -269,9 +269,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>Noordeloos, Machiel E</b>. <i>Strophariaceae s.l.</i>, Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
+    <b>NOORDELOOS, Machiel E.</b> Strophariaceae s.l., Fungi Europaei Edizioni Candusso, N° 13, 2011, 648 p.
   publications-microscopiques: |
-    <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
+    <b>KAUFHOLTZ-COUTURE, Claude</b>, 2023. Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, ouvrage collectif sous la direction de, 1e édition, Québec
   reactions-macrochimiques: |
     Ammoniaque (NH<SUB>4</SUB>OH 10%) = le stipe devient légèrement jaunâtre; pileus aucune coloration
     Gaïacol = aucune coloration sur les lames et le stipe; rose lilacée sur le pileus après > 5’

@@ -243,9 +243,9 @@ description:
   pseudocystides: 
   pseudo-peridioles: 
   publications: |
-    <b>MØLLER, F. H</b>, 1951. Friesia, Nordisk Mykologisk Tidsskrift, Bing IV, Hefte 3, København, p. 155-156
+    <b>MØLLER, F. H.</b> 1951. Friesia, Nordisk Mykologisk Tidsskrift, Bing IV, Hefte 3, København, p. 155-156
   publications-microscopiques: |
-    <b>KAUFHOLTZ-COUTURE, Claude</b>, 2023. Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, ouvrage collectif sous la direction de, 1e édition, Québec
+    <b>KAUFHOLTZ-COUTURE, C.</b> 2023. Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Basidiomycètes, ouvrage collectif sous la direction de, 1e édition, Québec
   reactions-macrochimiques: |
     Gaïacol = la chair du pileus devient rose-rouge après plusieurs minutes
     Potasse (KOH 10%) = le pileus devient jaune

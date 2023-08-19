@@ -1,5 +1,5 @@
 ---
-nom: Elaphomyces vernesii Kaufholtz-Couture
+nom: Elaphomyces kalmii Kaufholtz-Couture
 date: 2023-07-22 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
@@ -17,8 +17,8 @@ details:
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: <i>Elaphomyces vernesii</i> Kaufholtz-Couture
-  litterature: <i>Elaphomyces vernesii</i> Kaufholtz-Couture sp. nov. (article en cours de préparation)
+  espece: <i>Elaphomyces kalmii</i> Kaufholtz-Couture
+  litterature: <i>Elaphomyces kalmii</i> Kaufholtz-Couture sp. nov. (article en cours de préparation)
 
 collections:
   - fongarium: cKc0429

@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces neesii Kaufholtz-Couture
-date: 2023-07-22 00:00:00
+date: 2023-08-19 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 album-flickr:
@@ -269,7 +269,7 @@ description:
     <b>Kaufholtz-Couture, Claude</b>. <i>Traité de microscopie des sporophores; Étude des caractères microscopiques des champignons de la classe des Ascomycètes</i>, Annexe 3, <i>les Ascomycètes</i>, ouvrage collectif sous la direction de, 1e édition, Québec, 2023.
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Nommé en l'honneur de Christian Gottfried Daniel Nees von Esenbeck, botaniste, mycologue et zoologiste allemand (1776-1858)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

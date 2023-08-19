@@ -116,7 +116,7 @@ description:
     De Michael Castellano. « All <i>E. hartigii sp. nov.</i> known only from Quebec. »
     De Kaufholtz-Couture. « Faire attention, car dans les nombreuses récoltes de <i>E. hartigii</i>, une autre espèce la côtoie et vit à proximité. »
     De Claude Kaufholtz-Couture. « Ces collections ont été séquencées (ADN) par Michael Castellano; espèce connue qu'au Québec pour le moment. Les hyphes sont parfaitement visibles dans le Bleu crésyl de Clémençon. »
-    De Claude Kaufholtz-Couture. « Espèce nommée initialement <i>vernesii</i>, mais renommée <i>hartigii</i> par l’auteur le 19 août 2023 en l’honneur du mycologue allemand Robert Hartig. »
+    De Claude Kaufholtz-Couture. « Espèce nommée <i>hartigii</i> par l’auteur le 19 août 2023 en l’honneur du mycologue allemand Robert Hartig. »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -7,7 +7,7 @@ album-flickr:
   - 72157676875072761
 
 details:
-  nom-francais: Elaphomyces neesii
+  nom-francais: Elaphomyces de nees
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

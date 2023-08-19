@@ -1,5 +1,5 @@
 ---
-nom: Elaphomyces kalmii Kaufholtz-Couture
+nom: Elaphomyces hartigii Kaufholtz-Couture
 date: 2023-08-19 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
@@ -17,8 +17,8 @@ details:
   ordre: Eurotiales
   famille: Elaphomycetaceae
   genre: Elaphomyces
-  espece: <i>Elaphomyces kalmii</i> Kaufholtz-Couture
-  litterature: <i>Elaphomyces kalmii</i> Kaufholtz-Couture sp. nov. (article en cours de préparation)
+  espece: <i>Elaphomyces hartigii</i> Kaufholtz-Couture
+  litterature: <i>Elaphomyces hartigii</i> Kaufholtz-Couture sp. nov. (article en cours de préparation)
 
 collections:
   - fongarium: cKc0429
@@ -269,7 +269,7 @@ description:
   publications: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Nommé en l'honneur de Pehr Kalm, botaniste et naturaliste suédois (1716-1779)
+  remarques: Nommé en l'honneur de Robert Hartig, mycologue et scienifique forestier allemand (1839-1901); fondateur de la pathologie forestière
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

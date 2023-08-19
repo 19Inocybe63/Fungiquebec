@@ -269,7 +269,7 @@ description:
   publications: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: 
+  remarques: Nommé en l'honneur de Pehr Kalm, botaniste et naturaliste suédois (1716-1779)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

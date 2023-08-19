@@ -7,7 +7,7 @@ album-flickr:
   - 72157673772975951
 
 details:
-  nom-francais: 
+  nom-francais: Elaphomyces de hartig
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

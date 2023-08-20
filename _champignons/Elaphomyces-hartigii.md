@@ -145,7 +145,7 @@ description:
   dicaryophyses: 
   dichophyses: 
   disque-basal: 
-  distribution: inconnu
+  distribution: semble commun dans l'Est du Québec
   elateres: 
   elements-acanthophyses: 
   elements-cystidioides: 

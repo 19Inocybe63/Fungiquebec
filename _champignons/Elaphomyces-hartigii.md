@@ -29,7 +29,7 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Michael Castellano
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0442
     date: 22 août 2015
@@ -39,7 +39,7 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Michael Castellano
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0462
     date: 12 septembre 2015
@@ -49,7 +49,7 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Michael Castellano
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0517
     date: 14 juillet 2016
@@ -59,7 +59,7 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Michael Castellano
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
 
 description:

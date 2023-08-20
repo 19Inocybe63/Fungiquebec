@@ -226,7 +226,7 @@ description:
   mode-de-croissance: 
   mycelium-basal: 
   myxocarpe: 
-  nouvelle-espece: <i>Elaphomyces hartigii sp. nov.</i>, d'après Michael Castellano
+  nouvelle-espece: 
   note-taxonomique: 
   oeuf: 
   paracapillitium: 

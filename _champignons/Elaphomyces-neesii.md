@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces neesii Kaufholtz-Couture
-date: 2023-08-19 00:00:00
+date: 2023-08-20 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 album-flickr:
@@ -29,7 +29,7 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/20440587051/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Michael Castellano
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0428
     date: 22 août 2015
@@ -39,7 +39,7 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Michael Castellano
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
   - fongarium: cKc0463
     date: 16 septembre 2015
@@ -49,7 +49,7 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Michael Castellano
+    determinee: Claude Kaufholtz-Couture
     confirmee: ADN
 
 description:

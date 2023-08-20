@@ -267,7 +267,7 @@ description:
   publications: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Nommé en l'honneur de Robert Hartig, mycologue et scientifique forestier allemand (1839-1901); fondateur de la pathologie forestière
+  remarques: Nommé en l'honneur de Robert Hartig, mycologue et scientifique forestier allemand (1839-1901); considéré comme le fondateur de la pathologie forestière
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

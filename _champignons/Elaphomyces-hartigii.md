@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces hartigii Kaufholtz-Couture
-date: 2023-08-19 00:00:00
+date: 2023-08-20 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
 album-flickr:
@@ -113,9 +113,7 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Kaufholtz-Couture. « Faire attention, car dans les nombreuses récoltes de <i>E. hartigii</i>, une autre espèce la côtoie et vit à proximité. »
-    De Claude Kaufholtz-Couture. « Ces collections ont été séquencées (ADN) par Michael Castellano; espèce connue qu'au Québec pour le moment. Les hyphes sont parfaitement visibles dans le Bleu crésyl de Clémençon. »
-    De Claude Kaufholtz-Couture. « Espèce nommée <i>hartigii</i> par l’auteur le 19 août 2023 en l’honneur du mycologue allemand Robert Hartig. »
+    De Claude Kaufholtz-Couture. « Ces collections ont été séquencées (ADN) par Michael Castellano; espèce connue qu'au Québec. Les hyphes sont parfaitement visibles dans le Bleu crésyl de Clémençon. »
   conidies: 
   conidiome: 
   conidiophores: 
@@ -269,7 +267,7 @@ description:
   publications: 
   reactions-macrochimiques: 
   receptacle: 
-  remarques: Nommé en l'honneur de Robert Hartig, mycologue et scienifique forestier allemand (1839-1901); fondateur de la pathologie forestière
+  remarques: Nommé en l'honneur de Robert Hartig, mycologue et scientifique forestier allemand (1839-1901); fondateur de la pathologie forestière
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

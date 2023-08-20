@@ -18,7 +18,7 @@ details:
   famille: Elaphomycetaceae
   genre: Elaphomyces
   espece: <i>Elaphomyces hartigii</i> Kaufholtz-Couture
-  litterature: <i>Elaphomyces hartigii</i> Kaufholtz-Couture sp. nov. (article en cours de préparation)
+  litterature: <i>Elaphomyces hartigii</i> Kaufholtz-Couture (article en cours de préparation)
 
 collections:
   - fongarium: cKc0429

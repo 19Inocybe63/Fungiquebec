@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Inocybe à mamelon vert
+  nom-francais:  Inocybe verdissant
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

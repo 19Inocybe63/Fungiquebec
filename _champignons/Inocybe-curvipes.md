@@ -268,7 +268,7 @@ description:
   granules-calcaires: 
   groupe: 
   herbier-qfb: |
-    32752 (cKc0657); 32767 (cKc0723); 32768 (cKc0724); 32770 (cKc0726); 32773 (cKc0729); 32774 (cKc0730); 32777 (cKc0734); 32778 (cKc0735)
+    <b>32752</b> (cKc0657); <b>32767</b> (cKc0723); <b>32768</b> (cKc0724); <b>32770</b> (cKc0726); <b>32773</b> (cKc0729); <b>32774</b> (cKc0730); <b>32777</b> (cKc0734); <b>32778</b> (cKc0735)
     Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, (Herbier René-Pomerleau) 1055 rue du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
     Curateur Philippe Tanguay (philippe.tanguay@nrcan-rncan.gc.ca)
   hymenium: 

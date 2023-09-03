@@ -176,9 +176,9 @@ description:
   granules-calcaires: 
   groupe: 
   herbier-qfb: |
-    32756 (cKc0707); 32757 (cKc0708)
-    Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, 1055 rue     du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
-    Curateur Philippe Tanguay (philippe.tanguay@canada.ca)
+    <b>32756</b> (cKc0707); <b>32757</b> (cKc0708)
+    Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, (Herbier René-Pomerleau) 1055 rue du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
+    Curateur Philippe Tanguay (philippe.tanguay@nrcan-rncan.gc.ca)
   hymenium: 
   hymenocystides: 
   hymenophore: 

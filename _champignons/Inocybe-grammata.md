@@ -28,8 +28,8 @@ collections:
       numero: cKc0315-0089
       miniature: https://c1.staticflickr.com/1/462/18867028808_2c525f021b_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/18867028808/in/photolist-uKdsm9-uvp2YK-tR1ag8
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°47’54"N 71°14’31"O
+    altitude: 107 m
     determinee: Claude Kaufholtz-Couture
     confirmee: Erminio Ferrari
   - fongarium: cKc0322
@@ -38,8 +38,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    altitude: 
+    geolocalisation: 46°47’54"N 71°14’31"O
+    altitude: 107 m
     determinee: 
     confirmee: Claude Kaufholtz-Couture
 

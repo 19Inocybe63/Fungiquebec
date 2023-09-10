@@ -32,8 +32,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°43'01"N 71°32'29"O
+    elevation: 27 m
     determinee: Claude Kaufholtz-Couture & P. Brandon Matheny
     confirmee: ADN (Matheny)
 

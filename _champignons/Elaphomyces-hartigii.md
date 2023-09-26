@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces hartigii Kaufholtz-Couture
-date: 2023-08-20 00:00:00
+date: 2023-09-26 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
 album-flickr:
@@ -177,6 +177,10 @@ description:
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
+  herbier-qfb: |
+    <b>35393</b> (cKc0429); <b>35394</b> (cKc0442); <b>35395</b> (cKc0462); <b>35397</b> (cKc0517)
+    Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, (Herbier René-Pomerleau) 1055 rue du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
+    Curateur Philippe Tanguay (philippe.tanguay@nrcan-rncan.gc.ca)
   hymenium: 
   hymenocystides-cheilocystides-et-pleurocystides: 
   hymenophore: 

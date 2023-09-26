@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces neesii Kaufholtz-Couture
-date: 2023-08-20 00:00:00
+date: 2023-09-26 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
 album-flickr:
@@ -175,6 +175,10 @@ description:
   gleocystides-subhymeniales: 
   granules-calcaires: 
   groupe: 
+  herbier-qfb: |
+    <b>35391</b> (cKc0396); <b>35392</b> (cKc0428); <b>35396</b> (cKc0463)
+    Ressources naturelles Canada, Centre de foresterie des Laurentides - Natural Resources Canada, Laurentian Forestry Centre, (Herbier René-Pomerleau) 1055 rue du P.E.P.S., C.P. 10380, Québec (QC), Canada G1V 4C7
+    Curateur Philippe Tanguay (philippe.tanguay@nrcan-rncan.gc.ca)
   hymenium: 
   hymenocystides: 
   hymenophore: 

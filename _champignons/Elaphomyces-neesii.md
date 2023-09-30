@@ -280,6 +280,7 @@ description:
   saveur: légèrement aigre, désagréable
   sclerocystides: 
   sclerote: 
+  sequences: |
   soies: 
   soies-hymeniales: 
   sporee: 

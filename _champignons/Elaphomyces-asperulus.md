@@ -18,7 +18,7 @@ details:
   famille: Elaphomycetaceae
   genre: Elaphomyces
   espece: <i>Elaphomyces asperulus</i>
-  litterature: <i>Elaphomyces asperulus</i>
+  litterature: <i>Elaphomyces asperulus</i> Vittadini, C. 1831. Monographia Tuberacearum.:1-88
 
 collections:
   - fongarium: cKc0396

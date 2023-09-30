@@ -1,5 +1,5 @@
 ---
-nom: Elaphomyces asperulus
+nom: Elaphomyces asperulus vittad.
 date: 2023-09-30 00:00:00
 image: https://c1.staticflickr.com/1/327/20159192148_cbeb38c85b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20159192148/in/photolist-x9gmoF-xLgTP2-yqyEJN-yqDjTB-w3ZoVs-wHp8uq
@@ -7,7 +7,7 @@ album-flickr:
   - 72157676875072761
 
 details:
-  nom-francais: 
+  nom-francais: Fausse-truffe aspérulée
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

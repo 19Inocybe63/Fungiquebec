@@ -18,7 +18,7 @@ details:
   famille: Elaphomycetaceae
   genre: Elaphomyces
   espece: <i>Elaphomyces asperulus</i>
-  litterature: <i>Elaphomyces neesii</i> Kaufholtz-Couture sp. nov. (article en cours de préparation)
+  litterature: <i>Elaphomyces asperulus</i>
 
 collections:
   - fongarium: cKc0396

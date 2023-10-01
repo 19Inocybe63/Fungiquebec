@@ -113,7 +113,8 @@ description:
   clavules: 
   columelle: 
   commentaires: |
-    De Claude Kaufholtz-Couture. « Ces collections ont été séquencées (ADN) par Michael Castellano; espèce connue qu'au Québec. Les hyphes sont parfaitement visibles dans le Bleu crésyl de Clémençon. »
+    De Claude Kaufholtz-Couture. « Les hyphes sont parfaitement visibles dans le Bleu crésyl de Clémençon. »
+    De Claude Kaufholtz-Couture. « ADN réalisé au laboratoire de Gregory Bonito. »
   conidies: 
   conidiome: 
   conidiophores: 

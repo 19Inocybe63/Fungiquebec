@@ -115,6 +115,7 @@ description:
   commentaires: |
     De Claude Kaufholtz-Couture. « Les hyphes sont parfaitement visibles dans le Bleu crésyl de Clémençon. »
     De Claude Kaufholtz-Couture. « ADN réalisé au laboratoire de Gregory Bonito. »
+    De Claude Kaufholtz-Couture. « Espèce connue qu'au Québec, Canada »
   conidies: 
   conidiome: 
   conidiophores: 

@@ -29,8 +29,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: ADN
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0380
     date: 27 juillet 2015
     planche:
@@ -39,8 +39,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: 46°47'22.4"N 71°14'14.8"O
     elevation: 90 m
-    determinee: Claude Kaufholtz-Couture
-    confirmee: ADN
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0543
     date: 18 août 2016
     planche:
@@ -49,8 +49,8 @@ collections:
       originale: # Exemple: ici
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: Claude Kaufholtz-Couture
-    confirmee: ADN
+    determinee: 
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

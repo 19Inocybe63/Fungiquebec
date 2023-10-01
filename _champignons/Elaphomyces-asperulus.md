@@ -111,6 +111,7 @@ description:
   columelle: 
   commentaires: |
     De Claude Kaufholtz-Couture. « J'ai trouvé plus de vingt spécimens en une cueillette. »
+    De Claude Kaufholtz-Couture. « ADN réalisé au laboratoire de Gregory Bonito. »
   conidies: 
   conidiome: 
   conidiophores: 

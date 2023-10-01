@@ -7,7 +7,7 @@ album-flickr:
   - 72157676875072761
 
 details:
-  nom-francais: Fausse-truffe aspérulée
+  nom-francais: Elaphomyces aspérulée ou Truffes du cerf aspérulée
   domaine: Eucaryote
   regne: Fungi
   phylum: Ascomycota

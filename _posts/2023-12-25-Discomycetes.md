@@ -26,7 +26,9 @@ categories:
 
 
 
-
+#### Livre
+![Page couverture](https://www.flickr.com/photos/kaufholtz/53419859826/in/dateposted/ "Figure 1. Couverture du livre")
+<p>&nbsp; </p>
 
 
 

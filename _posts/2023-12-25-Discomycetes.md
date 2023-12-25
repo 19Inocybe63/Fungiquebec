@@ -7,8 +7,8 @@ categories:
 - Hélotiales
 - Orbiliales
 - Pézizales
-- Microscopie
 - Étude génétique
+- Microscopie
 ---
 
 
@@ -26,8 +26,9 @@ categories:
 
 
 
+<p>&nbsp; </p>
 #### Livre
-![Page couverture](https://www.flickr.com/photos/kaufholtz/53419859826/sizes/w/.jpg "Figure 1. Couverture du livre")
+![Page couverture](https://live.staticflickr.com/65535/53419859826_310e07777e_n.jpg "Figure 1. Couverture du livre")
 <p>&nbsp; </p>
 
 

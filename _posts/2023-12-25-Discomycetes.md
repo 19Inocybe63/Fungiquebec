@@ -26,8 +26,7 @@ categories:
 
 
 
-URl : https://id.erudit.org/iderudit/1086644ar
-<p>&nbsp; </p>
+
 
 
 

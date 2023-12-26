@@ -16,14 +16,31 @@ categories:
 <p>&nbsp; </p>
 
 
-À venir
-#### Résumé
+####Préface
+Chère amie, cher ami mycologue, vous venez d’acquérir S’initier et se perfectionner
+à l’étude des discomycètes et ce faisant, vous participez d’un petit évènement en matière
+d’édition mycologique. Car cet ouvrage est sans doute le premier entièrement dédié à la
+manière d’aborder l’étude de ces champignons, aux couleurs et formes attrayantes, mais
+souvent délaissés faute de méthode d’observation spécifique, complète, fiable et facilement
+accessible.
 
+Que vous vous considériez comme totalement novice ou déjà initié, voire même
+habitué à l’observation d’ascomycètes, je vous souhaite, en découvrant les pages qui
+suivent, d’en tirer la satisfaction que vous en attendez.
 <p>&nbsp; </p>
 
 
-#### Abstract
+English below
 
+####Preface
+Dear mycologist friend, you now have in hand the book Studying Discomycetes from initiation to
+advanced levels which is most likely the ﬁrst book to take such a comprehensive approach to the
+study of discomycetes.
+
+It is a great pleasure to present it to an increasingly large community of mycologists interested in
+these truly fascinating fungi, with their attractive colours and shapes and the beauty of their
+microscopic characters, but the study of which is often neglected due to a lack of an appropriate,
+reliable and easily accessible observation guide.
 
 
 <p>&nbsp; </p>

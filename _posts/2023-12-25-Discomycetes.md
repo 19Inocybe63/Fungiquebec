@@ -53,12 +53,12 @@ techniques for studying discomycetes.
 <p>&nbsp; </p>
 
 
-#### Livre
+#### Page couverture
 ![Page couverture](https://live.staticflickr.com/65535/53419859826_310e07777e_n.jpg "Figure 1. Couverture du livre")
 <p>&nbsp; </p>
 
 
-#### Livre
+#### Bon de commande
 ![Bon de commande](https://live.staticflickr.com/65535/53422072808_3c472507f8_n.jpg "Figure 2. Bon de commande")
 <p>&nbsp; </p>
 

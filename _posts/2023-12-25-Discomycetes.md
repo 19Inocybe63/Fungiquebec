@@ -64,9 +64,5 @@ techniques for studying discomycetes.
 
 #### Ascomycete.org
 
-![Ascomycete.org](https://ascomycete.org "Figure 3. Ascomycete.org")
-<p>&nbsp; </p>
-
-<a https://ascomycete.org="#ancre">
 
 

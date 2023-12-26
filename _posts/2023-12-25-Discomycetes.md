@@ -58,4 +58,7 @@ techniques for studying discomycetes.
 <p>&nbsp; </p>
 
 
+#### Livre
+![Page couverture](https://www.flickr.com/photos/kaufholtz/53422072808/sizes/w/.jpg "Figure 2. Couverture du livre")
+<p>&nbsp; </p>
 

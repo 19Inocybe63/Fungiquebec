@@ -62,3 +62,7 @@ techniques for studying discomycetes.
 ![Bon de commande](https://live.staticflickr.com/65535/53422072808_3c472507f8_n.jpg "Figure 2. Bon de commande")
 <p>&nbsp; </p>
 
+#### Ascomycete.org
+
+![Ascomycete.org](https://ascomycete.org "Figure 3. Ascomycete.org")
+<p>&nbsp; </p>

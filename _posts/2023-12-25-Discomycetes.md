@@ -16,7 +16,7 @@ categories:
 <p>&nbsp; </p>
 
 
-####Préface
+#### Préface
 Chère amie, cher ami mycologue, vous venez d’acquérir S’initier et se perfectionner
 à l’étude des discomycètes et ce faisant, vous participez d’un petit évènement en matière
 d’édition mycologique. Car cet ouvrage est sans doute le premier entièrement dédié à la
@@ -32,7 +32,7 @@ suivent, d’en tirer la satisfaction que vous en attendez.
 
 English below
 
-####Preface
+#### Preface
 Dear mycologist friend, you now have in hand the book Studying Discomycetes from initiation to
 advanced levels which is most likely the ﬁrst book to take such a comprehensive approach to the
 study of discomycetes.

@@ -27,10 +27,15 @@ accessible.
 Que vous vous considériez comme totalement novice ou déjà initié, voire même
 habitué à l’observation d’ascomycètes, je vous souhaite, en découvrant les pages qui
 suivent, d’en tirer la satisfaction que vous en attendez.
+
+Pour paradoxal que cela puisse paraître, la préparation d’un tel manuel réclame de longues
+années d’expérience pour être en capacité de transmettre aussi simplement que possible les
+caractéristiques de la recherche, de l’observation et des techniques particulières d’étude des
+discomycètes.
 <p>&nbsp; </p>
 
-
 English below
+
 
 #### Preface
 Dear mycologist friend, you now have in hand the book Studying Discomycetes from initiation to
@@ -42,8 +47,12 @@ these truly fascinating fungi, with their attractive colours and shapes and the 
 microscopic characters, but the study of which is often neglected due to a lack of an appropriate,
 reliable and easily accessible observation guide.
 
-
+Paradoxical as it may seem, the preparation of such a guide requires years of experience in order to
+be able to convey as simply as possible the elements of research, observation and the particular
+techniques for studying discomycetes.
 <p>&nbsp; </p>
+
+
 #### Livre
 ![Page couverture](https://live.staticflickr.com/65535/53419859826_310e07777e_n.jpg "Figure 1. Couverture du livre")
 <p>&nbsp; </p>

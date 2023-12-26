@@ -1,6 +1,6 @@
 ---
 title: S'initier et se perfectionner à l'étude des discomycètes
-date: 2023-12-25 00:00:00
+date: 2023-12-26 00:00:00
 categories: 
 - Ascomycètes
 - Discomycètes

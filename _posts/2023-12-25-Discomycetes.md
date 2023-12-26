@@ -54,7 +54,7 @@ techniques for studying discomycetes.
 
 
 #### Page couverture
-![Page couverture](https://live.staticflickr.com/65535/53419859826_310e07777e_n.jpg "Figure 1. Couverture du livre")
+![Page couverture](https://live.staticflickr.com/65535/53419859826_310e07777e_n.jpg "Figure 1. Page couverture")
 <p>&nbsp; </p>
 
 
@@ -66,3 +66,7 @@ techniques for studying discomycetes.
 
 ![Ascomycete.org](https://ascomycete.org "Figure 3. Ascomycete.org")
 <p>&nbsp; </p>
+
+<a https://ascomycete.org="#ancre">
+
+

@@ -1,6 +1,6 @@
 ---
 nom: Russula redolens Burlingham
-date: 2023-05-07 00:00:00
+date: 2024-03-01 00:00:00
 image: https://c1.staticflickr.com/1/852/28953948637_f6168562ed_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28953948637/in/dateposted/
 album-flickr:
@@ -34,7 +34,7 @@ collections:
     geolocalisation: 46°54'28.8"N 71°16'39.7"O
     elevation: 230 m
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 

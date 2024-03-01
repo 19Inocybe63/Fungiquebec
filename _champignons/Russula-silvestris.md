@@ -1,13 +1,13 @@
 ---
-nom: Russula aquosa ss. Shaffer
-date: 2023-05-07 00:00:00
+nom: Russula silvestris (Singer)
+date: 2024-02-20 00:00:00
 image: https://c2.staticflickr.com/4/3840/15156170348_692c211acb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15156170348/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ
 album-flickr:
   - 72157675704726796
 
 details:
-  nom-francais: Russule aqueuse
+  nom-francais: Russule sylvestre
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -17,7 +17,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula aquosa</i> ss. Shaffer
+  espece: <i>Russula silvestris</i>
   litterature: 
 
 collections:
@@ -30,7 +30,7 @@ collections:
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
     determinee: 
-    confirmee: Yves Lamoureux
+    confirmee: Claude Kaufholtz-Couture
   - fongarium: cKc0244
     date: 10 septembre 2014
     planche:
@@ -50,7 +50,7 @@ collections:
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: ADN (Projet Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 

@@ -1,5 +1,5 @@
 ---
-nom: Russula silvestris (Singer)
+nom: Russula silvestris Singer
 date: 2024-03-01 00:00:00
 image: https://c2.staticflickr.com/4/3840/15156170348_692c211acb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15156170348/in/photolist-qKTg1E-p6ikpS-pnMzRn-pa1wFx-pa1B5n-oENSHr-eW7HYZ

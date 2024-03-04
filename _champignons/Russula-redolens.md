@@ -261,7 +261,7 @@ description:
     Soluté de gaïac = après 5" stipe + b (1, faible); après 5" lames 0 (0, nulle)
     Sulfate de fer (FeSO<sub>4</sub>) = orangé pâle sur le stipe
   receptacle: 
-  remarques: 
+  remarques: ITS MQRUS1275-23 (MQ24-cKc0711)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

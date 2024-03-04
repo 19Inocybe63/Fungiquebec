@@ -18,7 +18,7 @@ details:
   famille: Russulaceae
   genre: Russula
   espece: <i>Russula silvestris</i>
-  litterature: Reumaux, P.; Bidaud, A.; Moënne-Loccoz, P. 1996. Russules rares ou méconnues,:1-294
+  litterature: 
 
 collections:
   - fongarium: cKc0224

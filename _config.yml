@@ -70,6 +70,16 @@ colors:  #in hex code if not noted else
   footer_heading: "#ffffff" # blanc
   footer_content: "#ffffff" # blanc
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8LBFE89M43"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8LBFE89M43');
+</script>
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.

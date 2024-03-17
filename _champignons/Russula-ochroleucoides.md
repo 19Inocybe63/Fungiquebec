@@ -1,6 +1,6 @@
 ---
 nom: Russula ochroleucoides Kauffman
-date: 2023-05-07 00:00:00
+date: 2024-03-16 00:00:00
 image: https://c1.staticflickr.com/9/8651/28276840444_dd85c4bef8_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28276840444/in/photolist-L2hbRK-K5Jnyo-K5JcvN
 album-flickr:
@@ -40,7 +40,7 @@ collections:
     geolocalisation: 46°54'28.8"N 71°16'39.7"O
     elevation: 230 m
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 
@@ -269,7 +269,7 @@ description:
     Soluté de gaïac = &gt; 5" stipe ++ b (3, moyenne); &gt; 5" lames + b (1, faible)
     Sulfate de fer (FeSO<SUB>4</SUB>) = rose orangé très pâle sur la chair
   receptacle: 
-  remarques: 
+  remarques: MQRUS1269-23 (MQ24-cKc0535)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

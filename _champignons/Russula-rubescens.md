@@ -1,6 +1,6 @@
 ---
 nom: Russula rubescens Beardslee
-date: 2023-05-07 00:00:00
+date: 2024-03-16 00:00:00
 image: https://c2.staticflickr.com/6/5554/14870132589_cb7cdb3cb0_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14870132589/in/photolist-qXocf1-oE2jmn-oE42XA-oViEmY-oXkBBT-oCV5qB-omGoTC
 album-flickr:
@@ -274,7 +274,7 @@ description:
   reactions-macrochimiques: |
     Sulfate de fer (FeSO<SUB>4</SUB>) = stipe et lames légèrement rosés
   receptacle: 
-  remarques: 
+  remarques: IUMQ2290 - Q24-cKc0218 (MQRUS1256-23)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

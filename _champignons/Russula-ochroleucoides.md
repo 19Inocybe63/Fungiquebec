@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/33380044122/in/photolist-SRFsb7-L2hbRK-K5Jnyo-K5JcvN/
     geolocalisation: 46°54'28.8"N 71°16'39.7"O
     elevation: 230 m
-    determinee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
-    confirmee: Yves Lamoureux
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Yves Lamoureux (+ ADN Projet de Russula Québec avec Jacques Landry)
   - fongarium: cKc0712
     date: 5 août 2018
     planche:

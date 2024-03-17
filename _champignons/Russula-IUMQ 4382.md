@@ -1,5 +1,5 @@
 ---
-nom: Russula cf. velenovskyi Melzer & Zvára
+nom: Russula IUMQ 4382
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4361/35993909363_ddbc9d5245_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/35993909363/in/photolist-Xt5uXE-WQEcfc
@@ -17,7 +17,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula cf. velenovskyi</i> Melzer & Zvára
+  espece: 
   litterature: 
 
 collections:
@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/25496709347/in/dateposted/
     geolocalisation: 45°59’09.04"N 70°57’10.99"O
     elevation: 352 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: ADN
 
 description:
   acanthocytes: 

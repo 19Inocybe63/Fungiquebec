@@ -90,8 +90,7 @@ description:
   clavules: 
   columelle: 
   comestibilite: 
-  commentaires: |
-    De Claude Kaufholtz-Couture. « Mis à part la couleur du pileus, tout concorde pour <i>R. velenovskyi</i>. »
+  commentaires: 
   conidies: 
   conidiome: 
   conidiophores: 

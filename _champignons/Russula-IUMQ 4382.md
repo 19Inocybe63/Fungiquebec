@@ -263,7 +263,7 @@ description:
     Soluté de gaïac = avant 5” stipe ++ b, réaction moyenne avant 5 secondes, (3, moyenne); après 5” lames ++ b, réaction moyenne après 5 secondes, (3, moyenne)
     Sulfate de fer (FeSO<sub>4</sub>) = légèrement rosâtre sur la chair du stipe
   receptacle: 
-  remarques: 
+  remarques: IUMQ4382 Crown-2 (MQRUS1273-23)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

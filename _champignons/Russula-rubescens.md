@@ -1,5 +1,5 @@
 ---
-nom: Russula rubescens ss. Kauffman
+nom: Russula rubescens Beardslee
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5554/14870132589_cb7cdb3cb0_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14870132589/in/photolist-qXocf1-oE2jmn-oE42XA-oViEmY-oXkBBT-oCV5qB-omGoTC
@@ -17,7 +17,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula rubescens</i> ss. Kauffman
+  espece: <i>Russula rubescens</i>
   litterature: Kauffman
 
 collections:
@@ -40,7 +40,7 @@ collections:
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
   - fongarium: cKc0223
     date: 27 août 2014
     planche:

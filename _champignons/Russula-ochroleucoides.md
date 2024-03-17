@@ -269,7 +269,7 @@ description:
     Soluté de gaïac = &gt; 5" stipe ++ b (3, moyenne); &gt; 5" lames + b (1, faible)
     Sulfate de fer (FeSO<SUB>4</SUB>) = rose orangé très pâle sur la chair
   receptacle: 
-  remarques: MQRUS1269-23 (MQ24-cKc0535)
+  remarques: IUMQ2261 - MQRUS1269-23 (MQ24-cKc0535)
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

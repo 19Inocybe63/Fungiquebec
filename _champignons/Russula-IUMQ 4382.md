@@ -30,7 +30,7 @@ collections:
     geolocalisation: 45°59’09.04"N 70°57’10.99"O
     elevation: 352 m
     determinee: Claude Kaufholtz-Couture
-    confirmee: ADN
+    confirmee: (ADN Projet de Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 

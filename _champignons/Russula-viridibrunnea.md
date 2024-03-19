@@ -1,6 +1,6 @@
 ---
-nom: Russula brunneoviolacea Crawshay
-date: 2023-05-07 00:00:00
+nom: Russula viridibrunnea
+date: 2024-03-19 00:00:00
 image: https://c2.staticflickr.com/4/3910/15251215762_2c74fa0dfe_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/15251215762/in/photolist-pMgKKQ-oXf7BF-peGt6U
 album-flickr:
@@ -17,8 +17,8 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula brunneoviolacea</i> Crawshay
-  litterature: Crawshay, S. 1930. The Spore Ornamentation of the Russulas. :1-188
+  espece: <i>Russula viridibrunnea</i>
+  litterature: 
 
 collections:
   - fongarium: cKc0061
@@ -40,7 +40,7 @@ collections:
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 

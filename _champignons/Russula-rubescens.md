@@ -7,7 +7,7 @@ album-flickr:
   - 72157675422287630
 
 details:
-  nom-francais: 
+  nom-francais: Russule rougissante
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

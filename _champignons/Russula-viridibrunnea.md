@@ -7,7 +7,7 @@ album-flickr:
   - 72157673786196243
 
 details:
-  nom-francais: Russule brun violacé
+  nom-francais: Russule à tête olive
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

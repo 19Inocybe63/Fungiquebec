@@ -7,7 +7,7 @@ album-flickr:
   - 72157673735320544
 
 details:
-  nom-francais: 
+  nom-francais: Russule hydrophile
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

@@ -1,6 +1,6 @@
 ---
-nom: Russula montana Shaffer
-date: 2023-05-07 00:00:00
+nom: Russula hydrophila Horniček
+date: 2024-03-20 00:00:00
 image: https://c2.staticflickr.com/4/3892/14520440129_c3a194f4b7_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14520440129/in/photolist-ouvxsk-o8854t-o883Y2-orny4z
 album-flickr:
@@ -18,7 +18,7 @@ details:
   famille: Russulaceae
   genre: Russula
   espece: <i>Russula montana</i> Shaffer
-  litterature: Shaffer, R.L. 1975. Some common North American species of Russula subsect. Emeticinae. Beihefte zur Nova Hedwigia. 51:207-237
+  litterature: 
 
 collections:
   - fongarium: cKc0185
@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/14762474843/in/photolist-ouvxsk-o8854t-o883Y2-orny4z
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    determinee: 
+    confirmee: ADN Projet de Russula Québec avec Jacques Landry
 
 description:
   acanthocytes: 

@@ -1,5 +1,5 @@
 ---
-nom: Russula pusillaspora C. Kaufholtz-Couture nom. prov.
+nom: Russula fragilis
 date: 2023-05-07 00:00:00
 image: https://c1.staticflickr.com/5/4481/36570667564_84970b689a_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36570667564/in/photolist-XHCen7
@@ -7,7 +7,7 @@ album-flickr:
   - # Exemple: 72157672806318152
 
 details:
-  nom-francais: Russule à spores très petites
+  nom-francais: 
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -17,7 +17,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula pusillaspora</i> C. Kaufholtz-Couture nom. prov.
+  espece: <i>Russula fragilis</i> Fr.
   litterature: 
 
 collections:

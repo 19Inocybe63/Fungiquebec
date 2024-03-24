@@ -40,7 +40,7 @@ collections:
     geolocalisation: 
     elevation: 
     determinee: 
-    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
+    confirmee: Claude Kaufholtz-Couture
 
 description:
   acanthocytes: 

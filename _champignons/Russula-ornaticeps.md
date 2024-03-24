@@ -1,6 +1,6 @@
 ---
 nom: Russula ornaticeps Burl.
-date: 2023-05-07 00:00:00
+date: 2024-03-24 00:00:00
 image: https://c1.staticflickr.com/1/317/19538550198_bebce9b492_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19538550198/in/photolist-C6vQDR-vLybg9-w4b2ea
 album-flickr:
@@ -30,7 +30,7 @@ collections:
     geolocalisation: 
     elevation: 
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
   - fongarium: cKc0553
     date: 31 août 2016
     planche:
@@ -40,7 +40,7 @@ collections:
     geolocalisation: 
     elevation: 
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 
@@ -270,6 +270,7 @@ description:
   remarques: |
     Groupe Griseinae
     Code d'après Kibby & Fatto, DIK/LN QT
+    MQ24-cKc0346 / MQRUS1264-23
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -1,6 +1,6 @@
 ---
-nom: Russula pectinatoides Peck
-date: 2023-05-07 00:00:00
+nom: Russula amerorecondita Avis & Barajas
+date: 2024-03-24 00:00:00
 image: https://c2.staticflickr.com/6/5529/9493150357_bd7193a334_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9493150357/in/photolist-qdcpjx-ft8n3h-fsT5c2-ft8pzE-fsSSSa
 album-flickr:
@@ -17,8 +17,8 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula pectinatoides</i> Peck
-  litterature: Peck, C.H. 1907. Report of the State Botanist, 1906. Bulletin of the New York State Museum. 116:1-117
+  espece: <i>Russula amerorecondita Avis & Barajas</i>
+  litterature: 
 
 collections:
   - fongarium: cKc0101
@@ -30,7 +30,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
   - fongarium: cKc0180
     date: 9 juillet 2014
     planche:

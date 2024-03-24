@@ -1,6 +1,6 @@
 ---
 nom: Russula mustelina Fr.
-date: 2023-05-07 00:00:00
+date: 2024-03-24 00:00:00
 image: https://c1.staticflickr.com/5/4417/36232761421_ee0bd87532_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36232761421/in/dateposted/
 album-flickr:
@@ -30,7 +30,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 
@@ -258,7 +258,7 @@ description:
     Soluté de gaïac = < 5" stipe +++ b (5, forte); < 5" lames +++ b (5, forte)
     Sulfate de fer (FeSO<sub>4</sub>) = saumon sur le stipe et les lames
   receptacle: 
-  remarques: 
+  remarques: MQ24-cKc0637 / MQRUS1272-23
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

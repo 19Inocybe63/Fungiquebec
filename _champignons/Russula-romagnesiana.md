@@ -1,6 +1,6 @@
 ---
 nom: Russula romagnesiana Shaffer
-date: 2023-05-07 00:00:00
+date: 2024-03-24 00:00:00
 image: https://c1.staticflickr.com/1/485/19540518869_9cc363d8bc_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/19540518869/in/photolist-FubZvg-vLJgtK-vLJm7x
 album-flickr:
@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/25916920405/in/photolist-FubZvg-vLJgtK-vLJm7x
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
-    determinee: Claude Kaufholtz-Couture (provisoire)
-    confirmee: 
+    determinee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 
@@ -259,6 +259,7 @@ description:
   remarques: |
     Subsection Lactarioïdeae Sarnari / Compactae-Plorantinae chez Romagnesi 1967.
     Avec cette collection, je me dirige vers <i>R. romagnesiana</i>, mais une seule collection ne représente pas une espèce. J'espère donc en retrouver pour parfaire cette étude.
+    MQ24-cKc0347 / MQRUS1265-23 / Russula brevipes_6 / IUMQ4331
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

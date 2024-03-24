@@ -1,6 +1,6 @@
 ---
-nom: Russula fragrantissima Romagn.
-date: 2023-05-07 00:00:00
+nom: Russula aff. fragrantissima-1
+date: 2024-02-24 00:00:00
 image: https://c1.staticflickr.com/9/8514/8593889828_e811faf521_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/8593889828/in/photolist-e6rQx2-e6pW3h-e7hgUS
 album-flickr:
@@ -30,7 +30,7 @@ collections:
     geolocalisation: 46°56'39.7"N 71°18'14.0"O
     elevation: 212 m
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 
@@ -254,7 +254,7 @@ description:
     Potasse (KOH 10%) = pas de coloration ni de décoloration à légèrement rosâtre sur le pileus
     Sulfate de fer (FeSO<sub>4</sub>) = pas de coloration à rosâtre sur le stipe
   receptacle: 
-  remarques: 
+  remarques: MQ24-cKc0012 / MQRUS1248-23
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -1,5 +1,5 @@
 ---
-nom: Russula claroflavoides Y. Lamoureux nom. prov.
+nom: Russula claroflava Grove
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/4/3844/14981506665_cb3fc4848b_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/14981506665/in/photolist-q8FJRj-oPS8Z4-oxn6NB-oPPpW7
@@ -7,7 +7,7 @@ album-flickr:
   - 72157673817941932
 
 details:
-  nom-francais: Russule fausse-claroflava
+  nom-francais:
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -17,7 +17,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula claroflavoides</i> Y. Lamoureux nom. prov.
+  espece: <i>Russula claroflava</i>
   litterature: 
 
 collections:
@@ -30,7 +30,7 @@ collections:
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: Claude Kaufholtz-Couture (+ ADN Projet de Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 

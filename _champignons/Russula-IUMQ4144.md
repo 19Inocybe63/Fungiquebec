@@ -1,5 +1,5 @@
 ---
-nom: Russula grata Britzelm.
+nom: Russula IUMQ4144
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5522/9582361213_0814e6f2a2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9582361213/in/photolist-r4pXqm-fAL79n
@@ -18,7 +18,7 @@ details:
   famille: Russulaceae
   genre: Russula
   espece: <i>Russula grata</i> Britzelm.
-  litterature: Britzelmayr, M. 1893. Materialien zur Beschreibung der Hymenomyceten 3. Botanisches Centralblatt. 54(4):97-105
+  litterature: 
 
 collections:
   - fongarium: cKc0108
@@ -29,8 +29,8 @@ collections:
       originale: https://www.flickr.com/photos/kaufholtz/16447542696/in/photolist-r4pXqm-fAL79n
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
     elevation: 95 m
-    determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    determinee:Claude Kaufholtz-Couture 
+    confirmee: IUMQ4144 (+ ADN Projet de Russula Québec avec Jacques Landry)
 
 description:
   acanthocytes: 

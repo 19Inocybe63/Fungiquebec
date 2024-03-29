@@ -28,7 +28,7 @@ collections:
       miniature: https://c2.staticflickr.com/8/7378/16447542696_5c26dcdb53_n.jpg
       originale: https://www.flickr.com/photos/kaufholtz/16447542696/in/photolist-r4pXqm-fAL79n
     geolocalisation: 46°45’23.55"N 71°19’19.47"O
-    elevation: 95 m
+    elevation: 95m
     determinee:Claude Kaufholtz-Couture 
     confirmee: IUMQ4144 (+ ADN Projet de Russula Québec avec Jacques Landry)
 

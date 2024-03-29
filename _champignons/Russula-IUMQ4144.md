@@ -1,5 +1,5 @@
 ---
-nom: Russula IUMQ4144
+nom: Russula aff. grata-3 / Russula IUMQ414
 date: 2023-05-07 00:00:00
 image: https://c2.staticflickr.com/6/5522/9582361213_0814e6f2a2_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/9582361213/in/photolist-r4pXqm-fAL79n

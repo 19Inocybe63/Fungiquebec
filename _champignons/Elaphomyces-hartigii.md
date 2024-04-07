@@ -1,6 +1,6 @@
 ---
 nom: Elaphomyces hartigii Kaufholtz-Couture
-date: 2023-10-03 00:00:00
+date: 2024-04-07 00:00:00
 image: https://c1.staticflickr.com/1/669/20606027269_14d64780fb_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/20606027269/in/photolist-K5idAA-xoTh1e
 album-flickr:

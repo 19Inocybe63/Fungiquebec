@@ -1,6 +1,6 @@
 ---
 nom: Inocybe beaucensis Kaufholtz-Couture
-date: 2024-03-25 00:00:00
+date: 2024-04-07 00:00:00
 image: https://live.staticflickr.com/4348/36837420235_880dea8a1c_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36837420235/in/photolist-26twrpf-2aqWeTp-Y8cpD6-Y8cnsT
 album-flickr: 

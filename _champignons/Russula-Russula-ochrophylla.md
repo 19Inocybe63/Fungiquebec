@@ -17,7 +17,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: 
+  espece: Russula ochrophylla Peck
   litterature: 
 
 collections:

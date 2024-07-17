@@ -7,7 +7,7 @@ album-flickr:
   - 72157709765164346
 
 details:
-  nom-francais: Inocybe lacéré var. lacéré
+  nom-francais:  Inocybe de la Moravie
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -17,7 +17,7 @@ details:
   ordre: Agaricales
   famille: Inocybaceae
   genre: Inocybe
-  espece: <i>Inocybe lacera var. lacera</i> (Fr.) P. Kumm.
+  espece: <i>Inocybe moravica
   litterature: 
 
 collections:

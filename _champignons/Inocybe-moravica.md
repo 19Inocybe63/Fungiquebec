@@ -1,6 +1,6 @@
 ---
-nom: Inocybe lacera var. lacera (Fr.) P. Kumm
-date: 2023-05-20 00:00:00
+nom: Inocybe moravica Hruby
+date: 2024-07-17 00:00:00
 image: https://c1.staticflickr.com/5/4368/36693037012_ca5da2e328_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/36693037012/in/photolist-XUrpxb
 album-flickr:

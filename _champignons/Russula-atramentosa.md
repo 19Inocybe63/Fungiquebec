@@ -27,8 +27,8 @@ collections:
       numero: 
       miniature: # Largeur 320px. ici
       originale: # Exemple: ici
-    geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
-    elevation: 
+    geolocalisation: 46°54'24"N 71°16'33"W
+    elevation: 277 m
     determinee: 
     confirmee: ADN (J. Landry)
 

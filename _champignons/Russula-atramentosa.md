@@ -247,7 +247,7 @@ description:
   reactions-macrochimiques: |
     Soluté de gaïac = &lt; 5" stipe ++ b (3, moyenne); &gt; 5" lames ++ b (3, moyenne)
   receptacle: 
-  remarques: Cette espèce ne passe pas par le rouge lorsque coupé ou au froissement, elle noircit.
+  remarques: Cette espèce ne passe pas par le rouge lorsque coupé, ou au froissement ; elle noircit.
   repartition: 
   rhizomorphes: 
   sac-sporifere: 

@@ -85,6 +85,7 @@ description:
   columelle: 
   comestibilite: 
   commentaires: 
+  De Jacques Landry. La séquence nous donne une espèce très près (2-3 év) de l'holotype de <i>R. atramentosa</i> Sarnari. Celle-ci a été décrite sous chêne en Italie. L'environnement ne semble pas marché avec ta récolte (riv. de Roche). C'est la seule collection que nous avons de cette espèce. Je vais la nommer <i>Russula aff. atramentosa</i>.
   conidies: 
   conidiome: 
   conidiophores: 

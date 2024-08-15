@@ -59,7 +59,7 @@ description:
   basidioles: 
   basidiome: 
   bibliographies: 
-  biotopes: pousse au sol des forêts de feuillus ou mixtes
+  biotopes: pousse au sol des forêts de mixtes (<i>Pinus</i>)
   boucles: 
   brachybasidioles: 
   calicule: 

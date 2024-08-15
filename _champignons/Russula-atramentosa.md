@@ -7,7 +7,7 @@ album-flickr:
   - 72157671696496014
 
 details:
-  nom-francais: 
+  nom-francais: Russule couverte de suie
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

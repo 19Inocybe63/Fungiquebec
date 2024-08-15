@@ -1,6 +1,6 @@
 ---
-nom: Russula albonigra (Krombh.) Fr.
-date: 2023-05-07 00:00:00
+nom: Russula aff. atramentosa Sarnari
+date: 2024-08-15 00:00:00
 image: https://c1.staticflickr.com/9/8242/28826395870_8327d25997_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28826395870/in/photolist-LcknHf-LeNzMD-KVhPcm
 album-flickr:
@@ -17,8 +17,8 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula albonigra</i> (Krombh.) Fr.
-  litterature: Fries, E.M. 1874. Hymenomycetes europaei., 1-755
+  espece: <i>Russula aff. atramentosa</i> (Krombh.) Fr.
+  litterature: 
 
 collections:
   - fongarium: cKc0546

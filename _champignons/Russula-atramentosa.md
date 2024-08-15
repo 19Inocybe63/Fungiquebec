@@ -30,7 +30,7 @@ collections:
     geolocalisation: # Exemple: 46°45'23.55"N 71°19'19.47"O
     elevation: 
     determinee: 
-    confirmee: Claude Kaufholtz-Couture
+    confirmee: ADN (J. Landry)
 
 description:
   acanthocytes: 

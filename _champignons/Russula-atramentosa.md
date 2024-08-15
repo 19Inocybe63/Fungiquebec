@@ -268,10 +268,7 @@ description:
   substrat: 
   symptomes: 
   syndrome: 
-  synonymie: |
-    <i>Agaricus alboniger</i> Krombh., Naturgetreue Abbildungen und Beschreibungen der Schwämme 9, 27, t. 70:16-17 (1845)
-    <i>Russula nigricans var. albonigra</i> (Krombh.) Cooke & Quél., Clavis synoptica Hymenomycetum Europaeorum, 143 (1878)
-    <i>Russula adusta var. albonigra</i> (Krombh.) Massee, British Fungus-Flora 3:52 (1893)
+  synonymie: 
   systeme-hyphal: 
   textura: 
   tomentum-caulinaire: 

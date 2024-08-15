@@ -7,7 +7,7 @@ album-flickr:
   - 72157671696496014
 
 details:
-  nom-francais: Russule noire et blanche
+  nom-francais: 
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota

@@ -17,7 +17,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula aff. atramentosa</i> (Krombh.) Fr.
+  espece: <i>Russula aff. atramentosa</i> Sarnari
   litterature: 
 
 collections:

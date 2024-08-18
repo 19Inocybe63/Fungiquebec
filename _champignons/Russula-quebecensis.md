@@ -1,13 +1,13 @@
 ---
-nom: Russula aff. atramentosa Sarnari
-date: 2024-08-15 00:00:00
+nom: Russula quebecensis Kaufholtz-Couture
+date: 2024-08-18 00:00:00
 image: https://c1.staticflickr.com/9/8242/28826395870_8327d25997_n.jpg
 image-originale: https://www.flickr.com/photos/kaufholtz/28826395870/in/photolist-LcknHf-LeNzMD-KVhPcm
 album-flickr:
   - 72157671696496014
 
 details:
-  nom-francais: Russule couverte de suie
+  nom-francais: Russule du Québec
   domaine: Eucaryote
   regne: Fungi
   phylum: Basidiomycota
@@ -17,7 +17,7 @@ details:
   ordre: Russulales
   famille: Russulaceae
   genre: Russula
-  espece: <i>Russula aff. atramentosa</i> Sarnari
+  espece: <i>Russula quebecensis</i>
   litterature: 
 
 collections:
